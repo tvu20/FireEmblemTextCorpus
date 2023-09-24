@@ -1,0 +1,92 @@
+@Opening
+After a hard-fought battle, Marth and the Altean forces finally arrive in the Kingdom of Aurelis. Marth hopes to join his forces with Aurelis's army. But first, he will have to rout the foes blocking his path. Far-off, foreboding sounds of warhorses begin to drift towards Marth's army from the direction of the lea...
+
+@Visit
+Old man: A sword known as an armorslayer can make quick work of knights and generals. Ridersbane is effective against cavaliers, but remember that not all units can use lances. Don't forget the rapier. All knightly units fear it. Only the prince can wield one. Keep in mind that weapons wear down with use. In the end, they will break.
+Young man: Weapons can be made of iron, steel, and silver. In that order, they are weak, stronger, and strongest. To use stronger weapons, you need a higher weapon level. Don't forget!
+Young man: General Bentheon, who guards the castle, holds a ridersbane. Cavaliers are in grave danger from that weapon. Do not let them approach the castle!
+Old man: Stand in front of a door or bridge and use a key. You will be able to proceed.
+Old man: Wyvern knights make for fearsome foes. Give them an opening and your life is forfeit.
+
+Villager: Kind Altean, Please... Find some way to save this land. It's not much, but my people have gathered 5000G to fund your war effort. Use it wisely.
+
+@Recruit-Visit
+Merric: Prince Marth! Finally we meet again.
+Marth: Merric? is that you? What a surprise.
+Merric: I was studying magic in Khadein when war came. I left the city then and have been looking for you.
+Marth: I'm glad you sought me out. We could use someone with your talents in our army. Will you join us?
+Merric: Of course I will. I learned a strong spell in Khadein called Excalibur. I will demonstrate it in battle!
+
+@Recruit-Battle
+Matthis: Lena...where have you gone? Even if it could be just once more...I had hoped to see you again.
+
+@Recruit-Talk
+%Lena,Matthis
+Lena: Matthis, is that you? It's me! Your sister, Lena!
+Matthis: Lena...what are you doing here on the field of battle?
+Lena: I was captured by bandits, but the Alteans saved me. What about you? Why are you part of this army?
+Matthis: I know you fled Macedon because you do not love Prince Michalis. But things are even worse there now. He must have it out for me because I was pressed into the army. Now I'm stuck here... I don't want to fight, but the punishment for desertion is even worse.
+Lena: Don't be a coward! You must stand up and choose the path you believe in. Macedon has joined forces with Dolhr, and the people suffer for it. It's mortifying. Brother, it is not too late. Join the Altean army. They will welcome you with open arms. They are truly wonderful people.
+Matthis: ...I understand. If I am to die, I should do it honorably, and with style. I suppose it won't be any less strict here though... After all, I have a sister who can say no to a prince! On that topic...have you found a man that you do like?
+Lena: Er, no... No. There's no one.
+Matthis: Hmm. Well, you're still young. You'll find love. Just avoid thieves and scoundrels!
+
+@Battle-Talk 
+%Julian,Marth
+Julian: Stop! Whoa! I’m...I’m not your enemy!
+Marth: Huh?
+Julian: I’m Julian! One of the bad guys! A Soothsire. Oh! Well, except I’m not anymore. See, now I’m a good guy! Lena gave me a reason to--well, let’s just say I’ve had a change of heart.
+Marth: ...
+Julian: Hm, not explainin’ myself very well, am I? OK OK, what I’m trying to say is--
+Marth: Yes. You can come with us.
+Julian: Oh... Well... well, good.
+Marth: I’m inclined to trust you. If you’ve truly had a change of heart, you deserve the chance to prove it. Show me you’re ready to help people, and then I’ll know I’ve picked a man of character.
+Julian: Wow. That’s.... Thanks! I couldn’t ask for a better deal!
+
+%Marth,Lena
+Marth: Good day, Sister. Are you all right?
+Lena: Yes... Thank you.
+Marth: These mountains are dangerous. My forces will draw the enemy away; use that time to escape.
+Lena: No, I wish to help.
+Marth: But... you... What?
+Lena: Please, sire. I am a cleric. I cannot bear to watch others come to harm when I have the power to help.
+Marth: Well... all right... But I don’t wish to see you come to harm, either.
+Lena: I will be careful. Thank you, sire.
+
+%Marth,Navarre
+Navarre: ......
+Marth: Um, aren’t you--
+Navarre: Navarre.
+Marth: The great swordsman they speak of... Will you fight with us, then?
+Navarre: You need only name your target.
+
+@Boss
+Michalis: Made it this far, have you? Don’t gloat yet. My Dragoons and I still rule these skies!
+
+%Minerva,Michalis
+Michalis: Minerva, I have missed you, Sister. Let us embrace one last time.
+Minerva: Michalis...
+Michalis: Well? Strike! A moment’s hesitation spells death on the battlefield. I know I taught you better.
+Minerva: You will not lay down your lance and walk the right path?
+Michalis: Don’t be a child. There are no right paths; just mine and yours, two that will never cross.
+Minerva: Very well. Then you leave me no choice. Embrace you I shall, Brother!
+
+%Maria,Michalis
+Michalis: M-Maria? What are you doing here?
+
+%Catria,Michalis 
+Michalis: The Whitewings? Ha! Come to try and slay your king?
+
+%Palla,Michalis 
+Michalis: The Whitewings? Ha! Come to try and slay your king?
+
+%Est,Michalis 
+Michalis: The Whitewings? Ha! Come to try and slay your king?
+
+%Marth,Michalis 
+Michalis: I’ve been waiting for you, Altean whelp. I swear on my crown, you will die!
+
+Michalis: Aaagh! I am finished. Forgive me, my people.
+
+@End 
+Villager: Prince Marth, I thank you for recapturing the castle to the south. Captain Hardin is guarding the king and Princess Nyna in a fortress to the north. If you meet up with Hardin, please give him this silver sword.

@@ -14,7 +14,7 @@ Bantu: You there. Have you come across a young girl, one by the name of Tiki? Sh
 @Battle 
 Minerva: Fie, enough! I’ve no stomach for these cat-and-mouse tactics. Come, Whitewings, we fly! Hyah!
 
-@Battle-SpecialDialogue
+@Character-Falls
 Minerva: Rrgh… I can’t keep up the fight with these wounds… I must withdraw.
 
 Palla: I serve Princess Minerva, not Grust. This battle is over.

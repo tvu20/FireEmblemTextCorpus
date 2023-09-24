@@ -1,11 +1,11 @@
 @Opening
-When journeying in from the borderlands, one particular peril would spring to mind: the Samsooth Mountains, whose gashing peaks rose up and divided the peninsula. Since before anyone could remember, the mountains had belonged to bandits, blights on the land whose acts of plunder, kidnapping, and arson knew no bounds. Out of fear, their victims gave these peaks another name: the Ghoul’s Teeth; while the bandits who ruled atop the Teeth’s craggy crowns took a name as well: the Samsooth Sires, or Soothsires…
+When journeying in from the borderlands, one particular peril would spring to mind: the Samsooth Mountains, whose gashing peaks rose up and divided the peninsula. Since before anyone could remember, the mountains had belonged to bandits, blights on the land whose acts of plunder, kidnapping, and arson knew no bounds. Out of fear, their victims gave these peaks another name: the Ghoul’s Teeth; while the bandits who ruled atop the Teeth’s craggy crowns took a name as well: the Samsooth Sires, or Soothsires...
 
 @Intro
 Julian: Hey, c’mon, Lena, shake a leg! We need to get out of the Teeth, and we need to do it yesterday! Rumor has it the knights of Altea are at the foot of the mountain. We won’t get a better chance. It’s just a little bit farther. Stick with me.
-Lena: Julian, I’m sorry…but I left my Mend staff back there. It’s very precious to me…You go on ahead…Save yourself! Here, I could use this Warp staff to send you someplace safe--
+Lena: Julian, I’m sorry...but I left my Mend staff back there. It’s very precious to me...You go on ahead...Save yourself! Here, I could use this Warp staff to send you someplace safe--
 Julian: Uh-uh, honey. No can do. I didn’t betray my boys back there so you could zap me on out of here alone. Forget the staff; I’ll come back later and get it for you myself. All right? Right now though, I need you to RUN. Tick-tack, now move that frock!
-Navarre: …..
+Navarre: .....
 
 @Visit
 Young Man: Take care around mercenaries. They’re quite skillful; if you’re unlucky, they may drop you at stroke.
@@ -24,41 +24,41 @@ Navarre: Fools...
 Caeda: Navarre! Since when does a swordsman of your caliber fall in with thieves and cutthroats?
 Navarre: What? Who are you? Fly away, girl, before someone decides to swat you.
 Caeda: Please, Navarre. Why fight for nothing when you can fight for something? Leave this rabble. Lend your sword to our cause. Or, if you will not, then turn it on me now instead.
-Navarre: …Nay, I’ll turn no blade of mine on a women. If you’re willing to pay for my services with your life, then consider yourself the high bidder. My sword is yours.
+Navarre: ...Nay, I’ll turn no blade of mine on a women. If you’re willing to pay for my services with your life, then consider yourself the high bidder. My sword is yours.
 
 @Battle-Talk 
 %Julian,Marth
-Julian: Stop! Whoa! I’m…I’m not your enemy!
+Julian: Stop! Whoa! I’m...I’m not your enemy!
 Marth: Huh?
 Julian: I’m Julian! One of the bad guys! A Soothsire. Oh! Well, except I’m not anymore. See, now I’m a good guy! Lena gave me a reason to--well, let’s just say I’ve had a change of heart.
-Marth: ……
+Marth: ...
 Julian: Hm, not explainin’ myself very well, am I? OK OK, what I’m trying to say is--
 Marth: Yes. You can come with us.
-Julian: Oh…Well…well, good.
+Julian: Oh... Well... well, good.
 Marth: I’m inclined to trust you. If you’ve truly had a change of heart, you deserve the chance to prove it. Show me you’re ready to help people, and then I’ll know I’ve picked a man of character.
-Julian: Wow. That’s…. Thanks! I couldn’t ask for a better deal!
+Julian: Wow. That’s.... Thanks! I couldn’t ask for a better deal!
 
 %Marth,Lena
 Marth: Good day, Sister. Are you all right?
-Lena: Yes… Thank you.
+Lena: Yes... Thank you.
 Marth: These mountains are dangerous. My forces will draw the enemy away; use that time to escape.
 Lena: No, I wish to help.
-Marth: But…you… What?
+Marth: But... you... What?
 Lena: Please, sire. I am a cleric. I cannot bear to watch others come to harm when I have the power to help.
-Marth: Well…all right… But I don’t wish to see you come to harm, either.
+Marth: Well... all right... But I don’t wish to see you come to harm, either.
 Lena: I will be careful. Thank you, sire.
 
 %Marth,Navarre
-Navarre: ……
+Navarre: ......
 Marth: Um, aren’t you--
 Navarre: Navarre.
-Marth: The great swordsman they speak of… Will you fight with us, then?
+Marth: The great swordsman they speak of... Will you fight with us, then?
 Navarre: You need only name your target.
 
 @Boss
 Reynard: Har. You must really want to die, comin’ into the Soothsires’ palace unbidden!
 
-Reynard: Arrgh…One day it’ll be you!
+Reynard: Arrgh... One day it’ll be you!
 
 @End 
 Malledus: Sire! Would you look at this! Those rogues left 15,000 gold here when they fled! This money will buy plenty of new equipment for your army. Tomorrow is the day, sire, when we finally arrive in Aurelis. Be sure to rest up tonight.
