@@ -1,0 +1,399 @@
+@Cutscene
+Alm: Rudolf! DIEEE!
+Celica: Alm!
+Alm: You took…everything!  Everything that I ever loved! You took Zofia! You took my friends! And now…Celica too!
+Celica: Please, stop! What’s going on? Can’t you see me?! Stop this! I’m begging you, please!
+Celica: NOOOOOOOOO!
+Celica: Alm…
+
+@Dialogue 
+Boey: Hey, why are they clanging that infernal bell?
+Mae: Apparently, the king’s passed away… That’s what Nomah said, at least.
+Boey: The king? But isn't that… He was Celica's…
+Genny: Oh dear. I hope she's dealing with this okay…
+
+Nomah: You're certain I can't dissuade you from going, little one?
+Celica: I must, Nomah. It’s been years since crops last grew on Zofian soil. Our barren fields have fallen victim to Terrors, the Rigelians have invaded… I fear some ill must have befallen the Earth Mother, Mila. I can’t help but feel this is all related. I know it.
+Nomah: Hmm… Perhaps it is, at that. I’ll not deny that the kingdom of Zofia faces her darkest hour in some time. More sick and hungry come to the priory’s door each day seeking aid…
+Celica: The key to everything lies with Mila. I shall travel to her temple and learn what’s become of her.
+Nomah: Yes, but little one… You know well the reason Mycen placed you in my care. With the king's passing, you are the last living member of the Zofian royal line. There are many who would seek to use you. Or even end you. That threat is greater now than ever. Yet you would still leave, knowing that?
+Celica: I must. Even if my decision betrays the care you and Mycen have shown me. You’ve done so much to keep me safe, and it breaks my heart to pain you. But what calls me to do this goes beyond my heart. I can only ask your forgiveness, Nomah.
+Nomah: Keep your cries of forgiveness, little one. I’ll not give what isn’t required. If this is your mind, I won’t object. Follow the path before you. Trust in it as I in you.
+Celica: Thank you, Nomah.
+Nomah: Heh. Of course. But you must take care—the blight in Zofia is worse even than you know. You’ve uncommon talent as a warrior priestess, but carelessness is fatal. Ah, and you mustn’t forget Mila's Turnwheel.
+Celica: I wear it always. You know that.
+Nomah: See that you do. I’m certain it will prove helpful on your journey.
+Celica: Thank you, Nomah. For everything. Well then, I think I’ll be on my way.
+Nomah: Mm? You’re leaving this very instant? Surely you can stay until the bell’s last peal? It rings to mourn your father’s passing, as you know.
+Celica: I’ll never think of that man as my father. Now if you’ll excuse me….
+Nomah: Little one…
+
+@Conversation 
+Cleric: Lately, Novis sees boat after boat filled stern to bow with hungry refugees. But alas for them, this island’s no better off than anywhere else. We’re even poorer than most, what with pirates seizing inbound supply ships… We’ll soon have naught to eat but what fish the waves see fit to provide. These are dark times we face…
+
+Sage: When Rigel broke the Divine Accord, this plague of Terrors fell upon us. But surely their own lands must be suffering the same fate. What could have driven them to invade Zofia at such a price? I would dearly love to know what’s going through Emperor Rudolf’s mind…
+
+Nomah: May you walk always in the light of Mila’s blessing, little one.
+
+@Dialogue 
+Mae: Celica! I heard the news! You’re going to the Temple of Mila, right? If so, then I'm going too. You can't say no!
+Celica: Heh. Thanks, Mae. To be honest, I’d welcome the help.
+Boey: Good, because I’m coming too. I’m not letting the two of you off on your own.
+Mae: "Letting" us? Heh, you say that like you think you can keep us safe.
+Boey: I do! And I can! I’ll be more help than you, at least.
+Mae: Uh, rude? AND wrong! I can conjure lightning, Boey. Big, hurty lightning. What’ve you got, fire? Maybe I’ll call you if I want to roast marshmallows.
+Celica: Let’s just say you’d both be a great help and leave it at that, shall we? I know I’ll be counting on you both. This isn’t going to be an easy journey. Still, I'm glad I'll have such good company.
+
+@Recruit-Conversation 
+Genny: Celica? Can I…go with you?
+
+Genny: What? No? Awww… I was really hoping I could help you out…
+
+Genny: Did you need something? Wait, can I go with you now?!
+
+@Conversation 
+Cleric: Er, pardon me. …Excuse me? Might I trouble you to show me Mila's Turnwheel for a moment?
+
+Cleric: Ah! Of course! It is just as I thought. Ancient as it is, it's little wonder some of the cogs are missing. While it appears to still function, it has lost some of its true capability. I suspect the counterpart to your Turnwheel is in the same condition. I can't imagine its bearer is more gentle with it than you, Celica. If you were able to find the missing cogs, I could attempt a repair. A restored Turnwheel would be able to turn back even more time. You’re curious where the cogs might be, yes? Yes, of course. Sadly, I couldn’t say. That’s the trouble with ancient artifacts! They’re always scattering their bits at various locations around the world.
+
+Cleric: Ah, of course. Forgive me for presuming.
+
+Cleric: Mila's Turnwheel is incomplete in its current state, its power diminished. If you could recover all of the missing cogs, it could be restored. Surely the ability to turn back more time in battle would be most welcome!
+
+Cleric: My word! My stars and garters! It seems all the cogs have been restored to Mila's Turnwheel! You should now be able to use it to its fullest, most potential-y potential. What's more, I can rest easy knowing that the artifact is now whole. Thank you for repairing this treasure. Allow me to give you this in recognition of your fine efforts.
+
+Cleric: Thank you for restoring Mila’s Turnwheel to its former glory.
+Languid Hermit: Such poor, damnable souls… …Me? Why, I speak of the revenants that haunt Novis Cemetery, of course. They were once good people of the island, all buried with love and care. But now the world’s rotting, and they’ve risen as Terrors to prey on the living. If you've a beating heart inside you, give them the rest they deserve. Last I looked, at least twenty of the poor souls stalked the area.
+
+Languid Hermit: Please grant peace to the revenants. They’ve suffered enough. If you could free just twenty from their curse, it would be a mercy.
+
+Languid Hermit: Ah, I can see you’ve laid twenty revenants to rest. It is a kindness. You have my thanks. And you’ve set my own mind to peace as well. I’ve not much, but you deserve a reward for your service.
+
+@Dialogue 
+Celica: Ships leaving the port will get us to the mainland. We should head there now. Though that DOES mean we’ll have to pass through the cemetery on our way. Rumor has it there have been Terrors appearing there as of late. Let’s be ready for anything.
+
+@Intro 
+Boey: Milady, this graveyard we’re passing through… Er, why are we, again?
+Celica: Because it’s the only way to port.
+Boey: Yes, but there’s been talk of Terrors around here as of late…
+Celica: So there has. Best keep our wits about us then, hmm?
+Boey: But milady, I… I’ll face down thieves or rogues any day, but Terrors? Terrors are…different.
+Mae: Oh, Boey. How can you be so scared of spooks and spirits at your age?
+Boey: Shove off, would you? A man can’t help what gives him fright!
+Celica: Ha, ha.
+Boey: Oh, not you too, milady? You wound me…
+Celica: I'm sorry, Boey. I was just remembering my brother.
+Boey: Brother? I didn’t realize you had one.
+Celica: Yes, though by different mothers. He was a sweet thing, but meek. Frightened to death of ghosts. Then he became one, alas. And much too young… Were he alive, you two would have been quite alike, I’m sure.
+Boey: Milady, I…
+Mae: Way to go, Boey. Your whining’s gone and dredged up a bunch of sad memories for Celica.
+Boey: What? Why is this MY fault?!
+Mae: Uhh, because it's ALWAYS your fault! Now suck it up and get ready to fry some foes—Terrors or otherwise!
+
+@Battle 
+Celica: Terrain bears no influence on magic. I remember Sir Mycen saying so. Listen close, friends: do not be shy about when and where you attack! Even if our foes cower in the woods, our spells will find their mark!
+
+@Conversation 
+Celica: Um, excuse me, but—
+Old Timer: Ah, lady priestess! Welcome. Something I can help you with today?
+Celica: I need to book passage to Zofia Harbor.
+Old Timer: Hrm… I’m afraid that’s a difficult wish to grant, even for you, priestess. This patch of sea is teeming with pirates of late. It’s just too dangerous.
+Celica: Oh, that’s no good…
+Old Timer: That being said…if milady were to do something about those pirates… well, that’d be a different matter altogether now, wouldn’t it?
+Celica: You want me to…fight pirates?
+Old Timer: They’ve grown bolder by the day, so they have. And yet, His Highness hasn’t seen fit to send so much as a single man… This sea’s our love and livelihood. We can’t live cut off from her. Ah, what’s happened to Zofia?
+Celica: Hmm…
+Old Timer: Forgive me, milady, but I can’t get you across the sea so long as pirates sail it. I know I ask much of you, priestess, but if you would lend us your strength…
+Boey: Hmm… What are we supposed to do now?
+Mae: I can’t believe that old timer tossed his pirate problem right at our feet! Do we LOOK like the type to fight pirates? We’re delicate little blossoms!
+Boey: Speak for yourself!
+Celica: Regardless, the man is right. We’ll not get anywhere until ships are free to sail again.
+Boey: What do you propose, milady?
+Celica: Let’s gather what help we can find. The sea is only the start. Zofia is at war, and ravaged by Terrors besides. We’ll not make it very far traveling alone. We need allies. Strong ones.
+Boey: Yes, and mad enough to set sail into pirate-infested waters with us… I’m sure they’ll just be lining up to take the job.
+
+Old Timer: No ships can sail so long as pirates stalk these waters. If you feel the danger’s too great alone, perhaps you might court additional aid?
+
+Saber: You lost, little lass? This ain’t a place for children.
+
+@Recruit-Conversation 
+Celica: You’re Saber, yes?
+Saber: Yep. Who’re you, girl?
+Celica: My name is Celica. The people here speak quite highly of your skill with a blade. I’d like to enlist your services as a protector…
+Saber: Guard duty, eh? You headed somewhere, or is this a local deal?
+Celica: We seek the Temple of Mila.
+Saber: That’s awfully far… And I suppose you’ve already heard about our little pirate problem?
+Celica: It’s the reason I seek your aid, in fact. Unless you think a few mere pirates are too much for you to handle?
+Saber: Oh, that’s real cute. Believe me, lass, I ain’t worried about a couple sea rats. All I’m worried about is if you can pay. I don’t work charity cases. Especially when I’m risking my own neck.
+Celica: I’m afraid I haven’t much money, but I do have this.
+Saber: A dagger. *whistle* Well, ain’t you fancy?
+Celica: Will this be sufficient for your services?
+Saber: You mean will I risk life and limb for a single dagger? Ordinarily, no. BUT…since I like your moxie, I’m gonna go ahead and give you a break. You got a deal. I’ll get you to your temple.
+Celica: Wonderful! You have my thanks, Saber. Mae! Boey! Did you hear that? He’s going to come with us!
+Saber: Heh. This job’s got easy money written all over it. What kind of fool hands over treasure like this without batting an eye? She really must be daddy’s spoiled little lass…
+
+@Dialogue 
+Old Timer: Ah, lady priestess. You’ve returned.
+Celica: I have! And this gentleman, Saber, has agreed to aid us. Now may we ask you to set sail?
+Old Timer: Well, then, I’d be honored to do my part, milady. Come aboard. We’ll depart as soon as you’re ready.
+
+@Conversation 
+Man: Good day, milady. Are you thinking of leaving for Zofia, perchance? If so, I fear you may be in for some disappointment. Ships aren’t sailing, or so I’m told. Too many pirates about. Still, probably best you went to the docks and asked the captain yourself.
+
+Woman: He may smell like a tavern floor, but that Saber’s a skilled sellsword. If you ever find yourself in need of steel, you could do far worse than him. Though if that steel needs a history fit for retelling in polite company, well… He’s strong, though, I’ll give him that. And I suppose…passably handsome.
+
+Young Woman: There’s a shrine on a small island up ahead, you know. Its vault holds an otherworldly sword, or so the stories go. Many have died for such stories, though, so consider this fair warning. See, turns out that islet is home to a terrible necrodragon. Eat you in a single bite, it will! What if the fear don’t kill you first. Augh, just the thought of it is enough to turn my hair to white!
+
+Young Man: Heading out to sea, milady? Be careful out there amongst the waves. A vile man named Barth has named himself pirate king of these waters. He sits in his island hold to the east and commits what barbary he pleases. Just the other day, a man who’d had his whole family slain set out for revenge. Like as not, he’ll meet the same fate. At least he’ll be reunited with his kin…
+
+Man: Chancellor Desaix has taken up the throne at Zofia Castle. The villain thinks slaying a king makes you next in line… He’s a right tyrant! Sir Clive of the Order of Zofian Knights has gathered an army to run him off, but from what we hear in these parts, fighting’s been hard and progress slow.
+
+Tavernkeep: For a while there, I was obsessed with making my own tinctures. I’d take any herbs and botanicals I could find and mash ’em up. Of all my creations, the best was something I called “medicinal syrup.” If you had three mana herbs on you, I could whip up a batch right now.
+
+Tavernkeep: Ah, I see you’re well stocked. I’ll have your syrup ready to go in no time flat.
+
+Tavernkeep: Well, I’ll be here if the craving strikes. You just let me know.
+
+Tavernkeep: Hey, c’mon! You don’t even HAVE three mana herbs! Track down three of those bad boys and then come talk to me.
+
+Tavernkeep: If you had three mana herbs, I could whip you up some medicinal syrup.
+
+@Dialogue 
+Celica: ……
+Mae: What’s wrong, Celica? Feelin’ blue?
+Celica: Oh, it’s nothing. It’s just that the last time I was on a ship was when I came to the island.
+Mae: Hey, that’s right! Boey and I used to take little trips every now and again, but never with you. Shame we never got to travel as a group. Woulda been way more fun?
+Boey: Are you completely daft, Mae? Celica came here in hiding, remember? She can’t just announce herself by hopping aboard a pleasure cruise.
+Mae: Uh, I know that much, Boey! Of course I do! I’m just saying I’m happy we’re getting the chance NOW. Isn’t that right, Celica?
+Boey: Please stop talking before you dig a grave so deep we all go tumbling in…
+Celica: Ha ha. It’s fine, Boey. Really. And I’m happy to be travelling with you as well, Mae. Though I’m also anxious… What could have happened to Mila? Will we even make it to the temple to find out? And…
+Mae: Aaaaand?
+Celica: I’m sorry. Best I keep this one to myself.
+Mae: Whaaat?! Oh, that’s just mean!
+Celica: Alm… Where are you right now? And what are you doing? Are you still living in that village with grandpapa? …No. I can tell. You’ve left your home behind, haven’t you? I want to see you so badly. There’s so much I need to ask. Perhaps Mila will cause our paths to cross on this journey…
+
+Jedah: Are you in pain, my lord Duma? The sight tears at my heart… But you needn’t endure it much longer. I’ve had report that the girl has left the island. I will deliver her to you without fail. She of the fated children… Bearer of the Brand…
+
+@Intro 
+Pirate: Yar! Not a step further, ye scurvy dogs!
+Old Timer: Eagh! P-p-pirates!
+Pirate: These waters belong to Barth the Pirate King, as yer surely aware! That means ye needs pay a toll… All yer goods and women’ll do nicely!
+Celica: An interesting offer…but I fear we must nevertheless decline. The sea belongs to no one man—she’s a gift to every citizen of Zofia.
+Pirate: Yar, who be the mouthy wench?!
+Saber: Enough with the chit-chat. Reason and logic are wasted on sea dogs like him. Let’s just get to business already. That’s what you hired me for, ain’t it?
+Celica: Fair enough. Let’s go, everyone!
+
+@End 
+Old Timer: Look there. Do you see that small island to the east? That’s where Barth’s keep stands. He’s the pirate king of these waters. Unfortunately this current means we’ll have to sail right past it. It’ll be trouble if we’re seen, so let’s unfurl the sails and be quick about it.
+Celica: Hold a moment. If we were to deal with this "Barth", would this stretch of ocean be safer?
+Old Timer: Well, yes, undoubtedly—but no sane person picks a fight with a pirate king!
+Saber: Whoa there, lass. I signed up for a nice, easy escort job, not to storm some pirate hold.
+Celica: Mmm… I see. …Very well then. I shall lead the charge myself. You need only worry about keeping me safe.
+Saber: Now just a—
+Celica: The people of that island are suffering under the tyranny of those pirates. I can’t stand by knowing starving innocents are being routinely plundered.
+Saber: Oh, for the love of… Look, I ain’t sure why I have to remind you of this, but you’re on a mission. And you can’t finish it if you keep pokin’ your nose where it don’t belong.
+Celica: I have no intention of wasting time on idle philanthropy, Saber. But there are no guarantees I’ll ever return from this journey. I would at least like to ensure peace to those who have been so kind to me. Is that so unreasonable?
+Saber: Hrm… Fine. It’s your neck—go ahead and risk it on whatever fool thing ya like.
+Celica: Thank you, Saber.
+
+@Intro 
+Barth: By the mighty parrot of Shanty Pete! What be that racket? Yar har ho! Looks like more little mice be squeakin’ into me keep!
+Celica: Are you the one they call Barth? I order you to halt your piracy and leave these waters at once!
+Barth: Gar har har! I’ll do no such thing, ye shrill woman! No one enters the lair of the Pirate King and starts squawkin’ orders but me!
+Saber: You see, lass? What’d I tell you about trying to reason with sea dogs?
+Barth: Yar, bold words from a fool man. Well, I’ll put yer steel to the test! Have at ’em, boys! Take the man’s guts for garters, but leave the wench alive. I’ll not have a single scratch on her… Ruins the sale price, it do! Yar har ho!
+Saber: See what I mean?
+Celica: Redemption is a lost cause for a man like you, Barth. Your reign as pirate king ends here!
+
+Valbar: Hmm…? What’s with the sudden shift in position?
+Leon: Well, I’ll be. Looks like another band has joined the fray.
+Valbar: Heh. Must be our lucky day. Splitting their forces in two should make Barth that much easier to defeat.
+Kamui: You know why I like you, Valbar? Because you’re such an optimist. From where I’m standing, our odds look somewhere between grim and dire.
+Leon: What, you mean because we’re horribly outnumbered?
+Valbar: You two better stop gabbing like hens and start fighting like you want to live. Now, if we can take Barth out of the picture, his goons should scatter... So you know what to do, right, boys? Ignore the runts and take aim for Barth!
+
+Celica: I heard talk in port about a man seeking revenge on Barth for killing his family... Perhaps this is his crew? Let’s advance with caution and try to aid their cause.
+
+@Boss 
+Barth: Yar, I’ve keelhauled bigger mice’n you in me spit!
+
+Barth: Yar? Yaaaaaar… I was supposed to be… the king o’ the seas...
+
+@End 
+Celica: Whew… It looks like those men are all okay.
+
+@Recruit-Conversation 
+Valbar: Oh ho! Look who the cat dragged in! I’m Valbar, by the way. You really saved my bacon back there. And since that dastard Barth is dead, my family can finally rest… *sniffle* …Er, right. Sorry. Got a little emotional there for a second. So hey, is there anything I can do to thank you? I’ll be honest—I’m not good at much besides crackin’ skulls. But if you NEED skulls cracked, I’m your man! What do you say?
+
+Valbar: Well, that’s no fun. But hey, come see me if you change your mind.
+
+Valbar: Hey, you’re back! Decide you have room for me after all? Find a skull or three that needs bustin’?
+
+Leon: I’m sorry, what did you need? …Ah yes. Apologies, but I’m not going anywhere without my dear Valbar. Go talk to him if you’re looking for recruits.
+
+Leon: You’re going off with them, old friend? Well, they’d better make room, because I go where you go! No complaints about that, right? Everybody on the same page? …Great.
+
+Leon: Ugh! Now you’re just being petty. Your beauty is going to make you a tyrant someday if you aren’t careful. Honestly, I don’t even have the words.
+
+Leon: Oh. It’s you again. Decided you need me after all?
+
+Kamui: Sorry, but I’ve got a contract with Valbar. If you want to negotiate with me, you need to go through him first.
+
+Kamui: You joining up with this lot, Valbar? Interesting… Well, it’s your call—I don’t have a preference either way. Oh, but let me ask you one question: Do you have Seraphim magic? If not, then you’d best stay clear of the Seabound Shrine. Necrodragons are the one thing I absolutely refuse to tangle with.
+
+Kamui: Yeah? All right. I guess we part ways here, then. Good luck.
+
+Kamui: Hmm? What is it? Now you want me to come with you?
+
+Leon: *sob* Valbar… How could you go and leave me all alone like this? How do I go on without you? This is on your heads! All of you! And I’m coming with you to make sure he didn’t die in vain.
+
+Leon: Selfish dastards! Try thinking of someone else for once! Enough. Just go. …GO already!
+
+Kamui: I can’t believe that damn fool Valbar is dead. What happens now? Not to be crass, but we had a contract, and now there’s no way to collect.. …Say, any chance you lot want to hire me on?
+
+Kamui: Yeah, I figured it was a stretch. I guess this is goodbye, then. Best of luck.
+
+@Dialogue 
+Valbar: Wait, you two are comin’?
+Leon: Well, obviously. I go where you go—that’s the deal. And I don’t care who doesn’t like it.
+Kamui: And I just go wherever the money flows like wine!
+Valbar: You jokers are a couple of real class acts. You ever stop to think that maybe you’re being rude to the priestess?! She’s on a holy mission to… Er, a mission of… It’s important, okay?!
+Celica: It’s all right, Valbar—they’re welcome to come along if they like. It’s an honor and a pleasure to have such capable company. They’ve both proven their skill, and can be rather amusing to boot. So I thank you one and all for brightening our journey.
+Valbar: Aw shucks, milady… We should be the ones thanking YOU!
+Leon: My my, that was some praise… I thought I’d give at least 50 percent… but now you get all of it!
+Kamui: You know me. I’ll give you as much as you pay me for.
+Valbar: Did you jokers hear ANYTHING I just said?
+Celica: Hee hee!
+
+@Conversation 
+Young Man: We’re sailors from Rigel, we is. We owes you our freedom! Zofian pirate scum ride the sea like they owns it, but what’s our emperor do? Not a damn thing! Guess his precious war’s all he cares about. Just what kinda man’s he become, anyway?
+
+Old Timer: As a boy, Rigel’s Emperor Rudolf was as fine a crown prince as you could desire. But since ascending to the throne… Well, something has certainly changed. Still, I continue to place my faith in him, as must we all.
+
+Man: You’re going to the Seabound Shrine, eh, priestess? Oh, I’ve heard tale of a wondrous treasure that sleeps there… but while I like a bit of coin as much as the next, I’d urge you to reconsider. For a necrodragon filled with deadly purpose is said to haunt that place! Steel won’t even tickle its hide. They say it scoffs at all but Seraphim magic.
+
+@Intro 
+Celica: There’s only…one of them? What’s going on here?
+Cantor: *laugh* So you’re the girl, eh? Serving you up on a platter will earn me a swift promotion within the faith. Now that I’ve washed this place clean of pirate vermin, you will come with me.
+Boey: Are you out of your mind, old man? We’re in a hurry here, and you’re in our way. So would you kindly get out of it?
+Cantor: Impudent child… Such a glib tongue will earn you nothing but pain.
+Boey: Heh. Do you honestly plan to take us on all by yourself?
+Celica: Wait a second—is he? Oh no… Watch out, everyone! He’s a cantor! He means to summon Terrors to fight for him!
+Boey: He means to summon… Wait, WHAT?!
+
+@End 
+Boey: *sigh* It’s over… Thank the Mother. Milady, what was that all about? That creep was talking about…serving you up or some such…?
+Celica: I don’t know, Boey. But he was different from the others who have come after me. And I fear he won’t be the last…so we’d best be extra careful moving forward.
+
+@Intro 
+Boey: Really? Here? We have to come HERE, milady? Have you not heard of the unspeakable beast that haunts this place?
+Celica: We may find something of use here, Boey. Besides, the whole of Novis was terrified. We can’t very well do nothing.
+Saber: Oh, I’m pretty sure we can. I’ve told you before, lass—you need to stop dumping extra work on my— …Hmm?
+Boey: NuuuoooooaaAAAAAAAAAGH! It’s HERE!
+
+Kamui: Whoa, whoa, whoa—hey, Priestess! Did you forget our little chat about staying clear of the Seabound Shrine? Because this is not staying clear! This is the exact OPPOSITE of staying clear!
+Celica: I’m sorry, did we discuss that? I must’ve been preoccupied… What if there’s something of use here? Surely you would want to— Ooooh, I remember now. You’re scared of necrodragons, aren’t you, Kamui? How careless of me. It completely slipped my mind!
+Kamui: Slipped your mind… That’s it. I’m waiting on the boat.
+Celica: Er, actually…
+Kamui: GyaaaeeeeeeeEEEEEEEK! It’s HERE!
+
+@Battle 
+Celica: Goodness. What a horrifying creature. But I have the Seraphim spell in my quiver now. May its light guide your lost soul on to slumber eternal!
+
+@Dialogue 
+Celica: The damp, chilly air of the cave bears the scent of the ocean. There’s no sign of anyone coming through here; scared off by the Necrodragon, I imagine.
+
+@Conversation 
+Feeble Man: I-is that… Yes! You there! Please! F-food… Anything… I beg of ya!
+
+Skilled Angler: …Ahhhh! Many thanks. Now I’m finally startin’ to feel human again. I’m a fisherman. All of Zofia Harbor knows of me, so they do. But ten days ago, I ran into a fearsome storm that washed me ashore here. “Thank Mila, I’m saved!” I thought. …Then the necrodragon showed up. I ran in here and hid, but m’food stores ran out and… Well, you see. …Eh? The necrodragon is dead? And by yer hand?! Well, that’s marvelous news! I can go home now! Here, lemme see if… This is all I have, but please take it.
+
+Feeble Man: …What? Really? I’ve real questions… about yer…moral compass…friend…
+
+Feeble Man: Sorry, but I was thinkin’ something… a bit more… Ya know… Meaty. A bit meatier. More…meat-like. …Look, ya gots any meat?
+
+Skilled Angler: Oh, didja know about this place? They say this shrine’s also the tomb of a priestess what protected this region. Tales say she was given a grand burial along with her trusty blade. Can’t say I saw anything like that here, though, and I walked around a fair bit. Did feel a breeze coming through by the well in the back, though. If you were thinkin’ to explore, I’d tell ya to start there. Well, I’m off to patch m’boat and sail her back to Zofia. Safe travels, one’n all!
+
+Python: Huh? What, you lot selling something? Maybe pottage spoons or holy relics? Well, sorry to say, but we ain’t buying. Nobody’s home, see? Well, nobody ‘cept for one hardworking guard. …Handsome too, might I add.
+
+Python: …What is it? If you’ve no business here, shove off. A fellow can’t nap when he’s crowded.
+
+Forsyth: Greetings, travellers. We don’t tend to get many visitors out this way. Know that you stand in the sacred halls of the Deliverance! Er, however, it seems everyone has taken leave of the sacred halls for the moment. As such, it falls upon I to hold down the fort! …Er, or the halls. As it were.
+
+Forsyth: If it’s our leader you seek, you should make your way to Zofia Castle.
+
+Celica: Wait a second… Silque? Is that you?
+Silque: Ah! Sister Celica! Fate is indeed strange, that it would have us meet in this place.
+Celica: We haven’t heard from you since you left the priory on Novis. We were all worried sick.
+Silque: That was never my intent. Forgive me. But I aim to play my part here, no matter the cost. And I see I’m not the only sister to have flown the nest. Set a course by your own star, Celica, and never stray from it. May you walk always in the light of Mila’s blessing.
+
+Silque: May you walk always in the light of Mila’s blessing.
+
+Celica: Ram Village… How I’ve missed this place. I wonder how everyone’s doing?
+
+Celica: Mycen? Grandpapa, it’s me! …Hmm, not here. I wonder where he’s gone.
+Woman: Celica? Is that you, dear? Well, isn’t this a delight?! What a lovely woman you’ve become. Last I recall, you were just a sprout!
+Old Timer: Ho, Celica! How long has it been? The village may look the same, but it’s a different place these days. The young ones have all up and left, what with the war. I just pray they all return to us…
+
+@Recruit-Conversation 
+Kliff: Celica? Celica, is that you? How long has it been?! I can’t believe you came back to the village! Alm and the others are gone, I’m afraid. It’s…a long story. Oh, and Sir Mycen vanished around the same time. *sigh* Ram Village was never all that exciting, but now it’s unbearably dull. So where are you off to, mmm? Somewhere grand, no doubt. Say, why don’t you let me come along? I bet we could both use the company.
+
+Kliff: Fine, whatever. I wasn’t that interested anyway. I’ll just stay here and…uh…till the land.
+
+Kliff: Huh? Now you want me to come with you after all? Make up your mind!
+
+Faye: …Huh? Oh, Celica! You’re back! Gosh, how long has it been? I’ve missed you so much! Alm left Ram. Did you know that? Just up and LEFT! I’m so desperately lonely… Anyway, I thought about going after him just to teach him a lesson, but I didn’t. I’d probably get killed by some foul beast out there on my own, you know? Hey, wait… Are you on a journey or a quest or whatever? Then maybe I could go with you!
+
+Faye: R- really? Oh. I suppose it was foolish of me to ask something like that. But listen, if you see Alm, tell him… Well, just tell him he has a home here and always will.
+
+Faye: Did you change your mind? Can I come with you?
+
+@Conversation 
+Soldier: Three huzzahs for Zofia’s liberators, and three huzzahs for Alm! Truly, he is the hero Zofia has been waiting for. And he’s every bit the champion General Mycen was! Make no mistake, the Rigelian Empire’s as fearsome a foe as they come, but with Alm leading our forces, we needn’t fear any man!
+
+Mercenary: Everyone’s laughing and cheering, but my gut’s one big knot. Only a fool’d think the Rigelian Empire would back down without a fight. Emperor Rudolf’s order of knights are scary enough… but what about that Duma priest Jedah and his horde of arcanists? How are normal folk s’posed to fight against men who conjure Terrors?
+
+Woman: Are you headed for the Temple of Mila, lady priestess? Oh, I do wish you’d reconsider. That whole area’s crawling with thieves working in the employ of Grieth. The very ground itself is rotten! Hunks of cliffside slough off near every day. You might easily find yourself with no way back…so be careful, okay?
+
+Young Woman: Sure, Desaix and those Rigelian thugs turned tail and ran, but our crops still aren’t growing and we’ve no shortage of Terrors … What do you suppose could’ve happened to Mila? Some men have gone to the temple to investigate, but none have returned. I say we’ve bigger problems than fighting a war, but no one asks me…
+
+@Dialogue 
+Celica: …Grandpapa?! What are you doing here?
+Mycen: It’s been so very long, Celica.
+Celica: Oh, Grandpapa! I’d half resigned myself to never seeing you again.
+Mycen: As had I. And yet here you are, grown into a beautiful young woman. Though I fear we lack the time for a leisurely reunion. Surely you left the island with some purpose in mind, yes?
+Celica: I did. I’m going to the Temple of Mila. All that’s transpiring in Zofia now is tied to the Earth Mother— I can feel it in my very marrow. There’s more to be done than simply fighting the foes laid before us. I must learn Mila’s will in all of this. I also intend to pray that she intercedes on behalf of her people. That she might save us all.
+Mycen: I see. Just as Alm has chosen his path, it would seem you have chosen yours.
+Celica: Alm?! I’d suspected as much, but your being here confirms it… He’s leading the Deliverance, isn’t he?
+Mycen: Why don’t you go upstairs and see for yourself? I expect that’s where you’ll find what you’ve been searching for.
+
+@Cutscene
+Celica: It’s really you!
+Alm: Wha—?!
+Alm: Wait a sec... Celica? Is that really you, Celica?!
+Celica: Alm… I’m so glad to see you... I have dreamt about this day for seven years— At last... I’ve finally found you!
+Alm: You have. I've missed you too... so much.
+
+@Dialogue 
+Alm: …Wow, that’s quite the story. I’m trying to picture you swashbuckling pirates, and... Yeah, just…wow.
+Celica: I didn’t mean to swashbuckle anyone. It just sort of…happened. But forget all that for the moment. Alm, you aren’t REALLY planning to fight the Rigelian Empire, are you?
+Alm: Listen, it’s not... it’s not something I chose. They were the ones who attacked us.
+Celica: But there must be a way to resolve things other than bloodshed, no?
+Alm: That’s a pretty thought, Celica, but... I’m not sure it’s true. If it were, no one would be risking life and limb on the battlefield.
+Celica: Is it really so naive? Zofians and Rigelians are both people of Valentia, are we not? I know we can reach some kind of accord if we just try. Besides that, I... I just can’t imagine Emperor Rudolf is the monster some claim him to be.
+Alm: It doesn’t matter what sort of man he is. The Rigelian Empire chose to cross Zofia’s border—that’s a fact. We aim to drive back the invaders. Nothing more.
+Celica: But why do YOU have to lead this rebellion? Mycen’s grandson or no, you’re neither knight nor noble. So why make yourself a target like this?
+Alm: Nrgh... If I didn’t know any better, I’d swear I was speaking to a blue blood. My station doesn’t matter, Celica. I’m here because I was called. I have a duty to perform, and I’ll perform it. No more, and no less.
+Celica: Oh, Alm…
+Alm: Do you think I WANTED this fight? This all started because Lima IV went and angered the empire. If you wish to point fingers, point them at the ruler who failed his people. It’s his fault we’re in this mess.
+Celica: That’s not... Well, so what if it is? Maybe you should go become king if it’s such a damnably easy job!
+Alm: What? Celica, that’s not—
+Celica: You’re awfully free with accusations for a boy with no idea what royalty entails! And now that you’re a “hero,” I imagine the throne is next on the list, is that it?!
+Alm: No, it’s not like that at all, Celica! I just want to keep Zofia SAFE! Besides, there’s an heir; a princess of the royal family may have survived. If she turned up and fixed all this, I’d happily return to Ram. You could…come with me, you know? It’d be like old times.
+Celica: Come on! There’s no secret princess! The Zofian royal family is dead!
+Alm: But how can you be—
+Celica: Enough! Just…enough. Go fight your war if it makes you happy! I’m going to the Temple of Mila. …Good-bye, Alm. You... you stubborn JERK!
+Alm: Celica… You’re one to talk about stubbornness, geez... Ah, damn it all. I didn’t even get the chance to ask her about the village... About why she had to leave. Oh, Celica... I had so much I wanted to say to you. How did it end up like this?
+
+@Narration 
+Narrator: Alm and Celica’s heartfelt reunion was dashed by heated words, and once again, the two were parted. One chose the battlefield… the other, the Mother’s succor. And while they both sought to attain peace in their own way, their chances of finding it together seemed to grow increasingly slim.

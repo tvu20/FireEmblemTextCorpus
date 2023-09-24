@@ -8,7 +8,7 @@ game_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
 file_content = {}
 
-normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation"]
+normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene"]
 narration_tags = ["opening", "narration"]
 people_tags = ["boss", "recruit-talk", "battle-talk"]
 
