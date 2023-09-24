@@ -4,8 +4,7 @@ import json
 import glob
 import sys
 
-path_from = sys.argv[1]
-path_to = sys.argv[2]
+game_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
 file_content = {}
 
@@ -13,6 +12,20 @@ normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", 
 narration_tags = ["opening", "narration"]
 people_tags = ["boss", "recruit-talk", "battle-talk"]
 
+
+# ----------------------------------
+# GETTING GENDER INFORMATION
+# ----------------------------------
+gender_info = {}
+with open(os.path.join(game_path, "genders.json"), 'r') as f:
+    gender_info = json.load(f)
+
+
+# -----------------------
+# HELPER FUNCTIONS
+# -----------------------
+
+# updates speaker file
 def update_speaker(speaker):
     if speaker not in file_content["speakers"]:
         file_content["speakers"].append(speaker)
@@ -20,6 +33,18 @@ def update_speaker(speaker):
     else:
         file_content["dialogue_counts"][speaker] += 1
 
+    update_gender(speaker)
+
+# update information relating to gender
+def update_gender(speaker):
+    gender = gender_info[speaker]
+    file_content["transitions"] += gender
+    file_content["gender_counts"][gender] += 1
+
+
+# -----------------------
+# HANDLING TAGS
+# -----------------------
 
 # handles narration text - no speaker information
 def narration_tag(text, tag):
@@ -106,14 +131,19 @@ def boss(text, unit, boss):
         })
 
 
+
+# ----------------------------------
+# WRITING TO CHAPTER JSON FILES
+# ----------------------------------
+
 # reading and writing to JSON file
 
-for filename in glob.glob(os.path.join(path_from, "*.txt")):
+for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
     file_without_type = filename.split('/')[-1].split(".")[0]
 
     file_content = {}
 
-    with open(os.path.join(os.getcwd(), filename), 'r') as f, open(os.path.join(os.getcwd(), path_to, file_without_type + ".json"), 'w') as file:
+    with open(filename, 'r') as f, open(os.path.join(game_path, "chapters", file_without_type + ".json"), 'w') as file:
 
         file_info = file_without_type.split("-")
         file_content["chapter"] = file_info[0]
@@ -121,8 +151,13 @@ for filename in glob.glob(os.path.join(path_from, "*.txt")):
 
         file_content["speakers"] = []
         file_content["dialogue_counts"] = {}
+        file_content["gender_counts"] = {
+            "M": 0,
+            "F": 0,
+            "N": 0
+        }
         file_content["lines"] = 0
-        # file_content["transitions"] = ""
+        file_content["transitions"] = ""
 
         tag = ''
         subtag = False
@@ -137,6 +172,8 @@ for filename in glob.glob(os.path.join(path_from, "*.txt")):
                 if tag in people_tags:
                     person_1 = ''
                     person_2 = ''
+
+                file_content["transitions"] += "-"
 
                 # file_content["transitions"] += "-"
                 continue
@@ -171,4 +208,3 @@ for filename in glob.glob(os.path.join(path_from, "*.txt")):
                 continue
 
         json.dump(file_content, file)
-

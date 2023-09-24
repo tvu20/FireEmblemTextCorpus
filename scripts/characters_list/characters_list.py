@@ -4,8 +4,8 @@ import json
 import glob
 import sys
 
-path_from = sys.argv[1]
-path_to = sys.argv[2]
+path_to = os.path.join(os.getcwd(), "data", sys.argv[1])
+path_from = os.path.join(path_to, "chapters")
 
 tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "character-falls", "dialogue", "boss", "recruit-talk", "battle-talk"]
 
