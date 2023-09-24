@@ -1,0 +1,437 @@
+@Conversation 
+Scholarly Man: I am a researcher unearthing shocking new truths from Zofia’s history. …Or I very well might be, if I had any of the resources I needed. Might I ask your help in this matter? You are familiar with the underground cemetery at the Deliverance hideout? Well, at one corner of that site lies the royal grave where Zofia’s kings sleep. At the risk of sounding grave-robby, I desire the Lima Armlet from it. But the place is crawling with Terrors, and I…am not the Terror type. Yet those Terrors are drawn to riches. It’s said they raid the graves for gold. One may drop the armlet I require. Bring it to me and I’ll pay you well!
+
+Scholarly Man: Ah! The Lima Armlet! Precisely as the records describe it… It bears the royal emblem of the late king himself. If I can translate this inscription, it may even offer up new insights. Er, pardon me for getting so excited. I’m only eager to return to work. This isn’t a huge sum, but please, take it. You’ve done me a great service.
+
+Scholarly Man: Wa…What? No, please! What will become of my poor, beleaguered research?!
+
+Scholarly Man: Oh, you don’t have it. And here I got my scholarly hopes up…
+
+Scholarly Man: How goes your investigation of the underground cemetery?
+
+Young Man: There’s a strange old man I’ve not seen before hanging about the throne room. There’s something not right about him. Almost like he’s some manner of ghost.
+
+Eerie Hermit: I have long stood watch over this castle and its masters… But some fool has violated the grave where Zofia’s monarchs lie. They’ve broken the seal, and now a massive fiend has made its home there. It sullies the site with its foul presence, barring the fallen kings from slumber. I ask this of you, warrior—rid their holy tomb of this blight!
+
+Eerie Hermit: Fine work, child of fate. You have proven your strength. My master, too, has acknowledged you as worthy to inherit the kingdom. That royal shield is your proof. Use it well. And know that my master and I will watch over you always.
+
+Eerie Hermit: You must destroy the beast that has made its home in the royal grave.
+
+Young Man: Mmm? Where did the strange old man who was in here go? I wonder who he actually was…?
+
+Lord Rion: It’s over… All over…. There’s nothing to be done!
+
+Lord Rion: I am the eldest son of the Rion family, one of Zofia’s oldest houses. But that dog Desaix demanded we give him our greatest heirloom—a shield. The Rion Shield was a gift from Queen Zofia I, passed down ever since. If I can’t find some way to recover it, my ancestors’ legacy will be lost. The Deliverance is marching on Desaix’s fortress, is it not? If you chance to find the Rion Shield, please see it returned to me. You will be rewarded handsomely, of course. I thank you in advance.
+
+Lord Rion: Yes… Yes! This is our family shield! You have my thanks! And here, a token of that gratitude.
+
+Lord Rion: Now that I’ve recovered the shield, I must be heading home.
+
+Lord Rion: What is your intent in this? Why would you play at such a game?
+
+Lord Rion: Please recover the Rion Shield. I cannot bear to return home without it!
+
+Lord Rion: This shield bears the crest of the Fugue family—our sworn enemies! A pox on those dastards! Even looking upon this sets my blood to boil!
+
+@Intro 
+Ally Soldier: Sir Alm! Our scouts have spied Rigelian forces up ahead!
+Alm: …… …Then the battle begins here.
+Lukas: So it seems. The fights ahead will be nothing like our skirmishes in the south. You’ve wounded Rigel’s pride, and they will strike back without mercy. But the spirit of Zofia demands you prevail. There’s no turning back now.
+Alm: I know.
+Fernand: There you are, whelp. I thought you’d never arrive.
+Alm: Wait a second…
+Clive: Fernand?! You march beneath Rigel’s standard now?
+Fernand: Does that really surprise you, Clive? You and the Deliverance took all I believed in and trod it into the mire. In Rigel, they still have ideals worth upholding.
+Clive: Damn you, Fernand! Listen to yourself!
+Fernand: My king is dead. My country fallen. But I’ll not hand this land over to you. Now, it is the Rigelian Empire’s turn. Lord Berkut shall lead us and unite Valentia under one noble order!
+Clive: Come to your senses, Fernand! You have always fought for your motherland—for Zofia!
+Fernand: Only one of us has lost his senses, Clive.
+Clive: What?
+Fernand: Allow me to enlighten you. That boy you have been parading around as your new hero? He was never Mycen’s grandson.
+Clive:  What is this folly?
+Fernand: …Oh, I can assure you it is no folly. My source has known Sir Mycen for years. The old knight has no family. Heh. Perhaps he made some orphan his ward so he wouldn’t have to die alone.
+Clive: You lie… And yet there is the matter of what the old man at the castle said…
+Fernand: Ha ha ha! Oh, Clive. You’ve become the very picture of absurdity. Once you were a man to whom the lineage of our noble houses meant all. But now you take for your future king a boy you don’t know from a gutter rat!
+Clive: ……
+
+@Boss 
+Fernand: Come at me. Surely you detestable vermin don’t think you can stand against a true nobleman?
+
+Fernand: Nnngh… I have…no choice… I must fall back…and rejoin Lord Berkut in the main force…
+
+Zaxon: You don’t look half as scared as you ought. Don’t you value your lives? It’s time you had the fear of death put back into you!
+
+Zaxon: No… I’ll not surrender… Not like…this…
+
+@End 
+Alm: We’ve emerged victorious, but… the survivors will be making their way back to the main force. We can’t rest on our laurels now. Wouldn’t you agree, Clive?
+Clive: …Hmm? Oh, yes. Quite.
+Alm: What is it? You look shaken. …Oh, right. Forgive me. You and Fernand were good friends.
+Clive: No, it’s not that… Well, it’s not JUST that… In any case, it’s nothing you need trouble yourself with. If you’ll excuse me.
+Alm: What’s with him?
+
+@Intro 
+Lukas: A moment please, Alm. I have a fresh report from our scouts. Apparently, the enemy’s main force has retreated west through the forest. But before we give chase, we should deal with Desaix. It wouldn’t be wise to pass him by while his fortress lies in reach.
+Alm: All right, that makes sense. But listen, Lukas… Do you know anything about the Rigelian general Fernand mentioned? Berkut, I believe it was?
+Lukas: Lord Berkut, yes. I am no stranger to the rumors, at least. They say he is about your age. A talented young general of royal blood… It’s no wonder Fernand is so smitten with him.
+Alm: Yeah… Does it really matter so much where you’re born or who your father was?
+Lukas: I beg your pardon?
+Alm: Oh—sorry, I was just… I don’t meant to speak ill of nobles or anything.
+Lukas: Well, I should hope not. Your own grandfather was a count, after all.
+Alm: Yeah, I know, but…
+Clive: …… Enough of this talk. Alm, beyond this forest lies a great army— you shouldn’t trouble yourself with anything but the battles ahead.
+Alm: You’re right, Clive. I apologize.
+Clive: ……
+
+@Battle 
+Berkut: As I live and breathe… The Deliverance! Well, this is simply delightful.
+Alm: Huh?! Fernand! And who’s this?
+Berkut: My name is Berkut. I am nephew to His Majesty Emperor Rudolf.
+Alm: So here he is…
+Berkut: Alm, was it? I must say, I was most impressed by the battle at Zofia Castle. I nearly mistook that motley band of rustics you were leading for an army.
+Clive: What are you doing here? Your main force has retreated.
+Fernand: Lord Berkut longs for sport and wishes to test your might.
+Berkut: I’ve gone too long without fighting and felt I needed a spot of practice. Now then…do try to make this little exercise worth my time!
+Alm: Gods, he’s charging right at us!
+Berkut: Hah! What’s the matter, farmboy? Afraid you won’t land a single blow?
+Alm: The name is Alm—not “farmboy.”
+Berkut: Oh, my mistake. Wait a second…
+Berkut: That mark on your left hand… Where did that come from?
+Alm: What do you care?! Are you here to fight or not?
+Berkut: No… It cannot be the Brand. Not on one as unremarkable as you. It must be false. Just like its bearer!
+
+@Boss 
+Berkut: Come then! Are you going to entertain me or not?
+
+Berkut: They’re stronger than I thought… But no… I came here to be entertained, not to give up my life.
+
+Fernand: I needn’t test you as Lord Berkut does. I already know how pathetic you are!
+
+Fernand: Careless… But next time will be different.
+
+@End 
+Alm: I’m not quite sure how we just pulled that off… There were only three of them—how did they give us so much trouble?
+Clive: Rigel may be stronger than I first believed… What if this IS a mistake?
+Alm: Did you say something, Clive?
+Clive: …It was nothing. Come, we must plan our siege of Desaix’s fortress. An ally of ours is being held there, and we must rescue her.
+Alm: …You’re talking about Mathilda, right? I heard what happened. She’s…special to you, isn’t she?
+Clive: She is. We promised to share a future together. And because of that promise, she has suffered for far too long. It relieves me to know she will soon be free of this burden.
+Alm: I’m glad to hear it. And you know I’ll do everything I can to help!
+Clive: Thank you, Alm.
+
+@Conversation
+Woman: You’re too late! Ain’t nothin’ left for you in this village. We never made trouble for no one. Honored the old laws, we did. But Desaix and them Rigelian brutes raided and pillaged us all the same! You’re with the Deliverance, ain’t ya? Then think kindly on us when ya give that dastard Desaix what’s comin’!
+
+Young Man: Are you with the Deliverance? I’m afraid I have some ill news. One of the enemy soldiers mentioned a female knight they’re holding captive. Desaix plans to put her to death soon as an example to others…
+Clive: What?! They intend to execute Mathilda?!
+Young Man: I fear so, good sir knight. If she’s dear to you, you’d best march on his fortress before it’s too late.
+
+Young Woman: Desaix’s men come here without pause to raid, pillage, and upend our lives. One of their more wicked knights even made off with some poor lass! And now the empire is trying to start a flood and put half of Zofia to ruin. *sigh* Will we never have peace?
+
+Old Timer: Luthier and Delthea descend from the founder of our village, so they do. She was a mage, one who was said to be the champion Zofia’s finest disciple. For generations, children in their family have been born with a gift for magic, though only those in our village and the late king knew of it. So what fool told those damned Rigelians? *sigh*
+
+@Recruit-Conversation 
+Luthier: *gasp* You there! You’re with the Deliverance, are you not?
+Alm: I am. Who are you?
+Luthier: My name is Luthier. Merely a humble mage from a humble village. On this day, however, I cry your aid, for my younger sister is in trouble!
+Alm: What happened?
+Luthier: First of all, you should know that my sister is named Delthea. She possesses magical potential beyond that of any in our village. One of Rigel’s arcanists, Tatarrah, caught wind of this and kidnapped her. He’s using his powers to control her and make her guard the northern sluice. They plan to block the sluice until it collapses and Zofia is flooded.
+Alm: What?! But that would be catastrophic!
+Luthier: Indeed it would. Surely you’re planning to stop them, correct? If so, I ask that you also rescue my sister. I’ll even go with you if you like. If we defeat Tatarrah, that will release his hold on her.
+
+Luthier: Your decisions are your business. See to your own desires, then. I will be here if you find your mind changed.
+
+Luthier: So… Will you let me accompany you or no?
+
+Man: Soldiers of the Deliverance, I require your assistance! Gargoyles have kidnapped my daughter and taken her to the western shrine. If it is at all in your power, you must not let any harm befall her. I know I ask much, so if you manage to save her, my treasure is yours!
+
+Man: I’ve been waiting for you, Deliverance! I hear you saved my daughter from the shrine to the west. I insist you help yourself to my treasure.
+
+Girl: Tee hee. Thank you for coming to save me, brave sir.
+
+Merchant’s Wife: Please, I need your help! My husband went to Zofia Castle to sell his wares, but hasn’t returned. What am I to do? Our child will be born soon, and I can’t survive without him. And actually, I heard a girl from our village was taken to the Sylvan Shrine… What if my husband was taken there as well? Oh, I can’t bear it! If you’re heading to the Sylvan Shrine, would you please look for him?
+
+Merchant’s Wife: Did you find my husband? I think he’s being held in the Sylvan Shrine.
+
+Merchant’s Wife: Wh-what? Aaaaaah!
+
+@Dialogue 
+Fernand: Mathilda…
+Mathilda: Fernand? What are you doing here? Have you come to rescue me?!
+Fernand: No, milady. I fear I no longer serve the Deliverance.
+Mathilda: What? What do you mean?
+Fernand: Exactly as I said. Sadly, Clive and I no longer share the same ideals. I have sworn my lance instead to Lord Berkut of the Rigelian Empire.
+Mathilda: The general who leads our enemies? Has madness taken you?! A lance sworn to him is a lance through my heart. Don’t you care about Zofia?
+Fernand: Zofia? You mean the proud kingdom whose riches fell to wild and ignorant savages? Zofia is dead to me. I have buried her and will not look back.
+Mathilda: How can you say such a thing, Fernand? You and Clive were like brothers. It’s not too late to fix this. Return to the Deliverance! I know Clive would welcome you back with open arms.
+Fernand: …With you by my side, I might have chosen differently.
+Mathilda: Fernand?
+Fernand: What is done is done. …Desaix intends to put you to death. It won’t be long now.
+Mathilda: *gasp*
+Fernand: On the morrow, I depart for Rigel at Lord Berkut’s side. Farewell, Mathilda.
+Mathilda: Fernand, wait!
+
+@Battle 
+Soldier: Chancellor! The rebels have reached the fortress!
+Desaix: And damn them for it. Why can’t that Clive see reason? He would sooner have me kill his woman than lay down arms? The obstinate fool! Ah, well. It seems she is of no further use to me. …Archers! Kill that wench in the cage, but do it slowly. I want her suffering to last.
+
+@Boss 
+Desaix: It seems I vastly misestimated you. I’ll grant you that. But today you vermin will die at my hands!
+Desaix: Damn you, Mycen… You think to…hand Zofia over to Rudolf’s pup…? T-traitorous dastard…!
+
+@End 
+Tobin: We did it, Alm! Desaix is finished!
+Alm: Yeah…
+Tobin: Huh? What’s wrong? I thought you’d be thrilled.
+Alm: I AM thrilled, but… Desaix’s dying words have been troubling me. Something about my grandfather and Emperor Rudolf.
+Tobin: Huh? You sure you’re not imagining things? What would Sir Mycen and the Rigelian emperor have to do with each other?
+Alm: That’s what concerns me. Something’s been bothering me lately. Something I can’t shake. It feels like every victory I secure takes me one step further from Zofia.
+Tobin: Ha! Am I allowed to point out that that’s literally what’s happening? We’re a long way from Ram Village, kid. Look, I’m worried too. About my family, about everyone else we left behind… I miss them all terribly, so I get that you’re homesick. But that’s okay, Alm.
+Alm: Thanks, but…I’m afraid that’s not what this is, Tobin. This is…different. *sigh*
+
+@Dialogue 
+Tatarrah: Desaix has fallen… It is but a matter of time until the Deliverance reaches the sluice gate. Your moment to shine has come, my dear Delthea.
+Delthea: (possesed moan)
+Tatarrah: That traitor is certainly proving himself useful… Heh heh heh…
+
+@Dialogue 
+Tobin: Whoa, look at this. Hey, Alm
+Alm: You find something, Tobin?
+Tobin: I sure did. Feast your eyes on this baby! You think this is the treasure Desaix stole from Zofia Castle?
+Alm: Well…it certainly looks important. Should we open it?
+Tobin: Whooooooa! Check the sword! That is one impressive piece of hardware! I’m just gonna—
+Tobin: Hng…! Whu… Huh? This thing weighs a ton! It won’t…budge…
+Lukas: This must be the Royal Sword of Zofia.
+Alm: What’s that?
+Lukas: Long ago, Rigel presented this sword to Zofia as a symbol of friendship. It’s a very special treasure—only one of royal blood can lift it.
+Alm: Hmm… Interesting. Here, Tobin—let me have a go at it.
+Tobin: You?! Pfft, please. If I can’t lift it, there’s no way that— Huh?!
+Alm: Sometimes I don’t get you, Tobin. This thing’s light as a feather. Was this all some kind of jape? Who put you up to this?
+Tobin: But…but it wasn’t a jape! Zero japes! I thought my arms would snap just trying to lift it!
+Alm: Hmm. But that means…
+Lukas: By the gods… You can wield the Royal Sword! …Hmm, what DOES that mean? Alm, are you…
+Alm: …… O-oh, come on. It’s just some legend. You don’t actually BELIEVE it, right? I’m sure everyone can use this thing! Well, except Tobin. And…um… Look, I’m sure the Zofian royals made up a story to keep folks from nicking it.
+Lukas: …Well, that didn’t exactly work out now, did it? But perhaps you’re right. Tales do have a habit of getting taller with time. Either way, it seems clear the blade belongs with you.
+Alm: Are you sure? I mean, we could have other people give it a shot.
+Lukas: It wouldn’t work. You alone seem able to tame this legend. And we wouldn’t want to see so fine a treasure wasted, would we? Take it.
+Alm: Well…all right…
+
+Alm: Clive, I’m… I’m so sorry about Mathilda. I couldn’t save her. I didn’t have what it takes.
+Clive: …No. You did not.
+Alm: Huh?
+Clive: You have ruined everything! First you cost me my best friend, and now the woman I love is dead! Is that what you would have me say?! …It will not close these wounds.
+Alm: Look, I’m…
+Clive: …… I wish I could stand by my choices, unwavering. I have always done what I thought to be right, even when my heart disagreed. But now I must face cold reality. I may have made a terrible error.
+Alm: What are you talking about, Clive?
+Gray: Oh no. No, no, no. We’re not going down THAT old road now. Don’t you dare say that making Alm the Deliverance’s leader was a mistake. We’ve been through way too much to start in with second-guessing now!
+Tobin: Yeah! I mean, I know you lost so much, and that you’re hurting. But don’t take it out on Alm. He’s been doing as good a job as anyone!
+Clair: The two boys will hold their tongues! My brother will not be subjected to your abuses!
+Tobin: Ah…
+Clair: You are a loathsome cad, Gray. As are you, Tobin. Clive has just lost someone dear to his heart. If you possessed hearts yourselves, you would leave him in peace to grieve!
+Tobin: B-but…
+Alm: Would you all please calm down?
+Tobin: But Alm—
+Alm: Clive is clearly privy to some information he can’t share with us. Am I right, Clive?
+Clive: Alm, please…
+Alm: You’ve been acting strange for a while now. Whatever secret you’re harboring, I know it weighs heavy on you. I’ve been scared to broach the subject because I could sense it was about me.
+Clive: ……
+Alm: But if nothing else, I want you to know this… I will always be grateful for the trust you have placed in me, and I will be honored for each moment I can fight for the Deliverance. She wanted to know why a nobody like me would risk so much to fight. The answer was, I just wanted to make a difference in people’s lives. I HAD to leave Ram Village. It was just a matter of when. When Lukas came to the village, that was my “when.” I want to repay that kindness. Clive, Lukas—let me help you. Let me help Fernand.
+Clive: Fernand? But he has insulted you at every step.
+Alm: And I can’t claim to understand his motivations for all of that. But he helped you and Mathilda found the Deliverance, didn’t he? He’s part of the reason we’ve come this far. So he deserves my respect, no matter how he’s treated me in the past. If he returns to the Deliverance, I’ll gladly welcome him back.
+Clive: You would do such? …Pray forgive me, Alm. I withdraw my words from before. But there are yet matters I need time to consider.
+Alm: Take all the time you need.
+
+@Recruit-Conversation 
+Clive: Mathilda!
+Mathilda: *gasp* Clive! Oh, how I have missed you, my sweet Clive!
+Clive: Forgive me, Mathilda. I should never have left you to suffer for so long. Speak now your loathing for me, and I will gladly bear it all.
+Mathilda: Oh, stop your nonsense. You did what any commander ought. Your judgment was sound. And I bear the blame for my capture, not you. I was careless. So let us speak no more of blame.
+Clive: As you wish.
+Mathilda: Good. Now, I wonder what comes next…
+Clive: What indeed…
+Alm: ……
+Gray: What a woman! Yowza! …Um, Alm? You’re blushing.
+Alm: Wh-What? No I’m not!
+Mathilda: Ah, you must be Alm.
+Alm: Y-Yes, milady.
+Mathilda: I would not be alive if not for your fine leadership. I thank you from the bottom of my heart, Alm. And with your permission, I wish to take up arms at your side. Will you have me?
+
+Mathilda: Very well. I have confidence in my ability to fight, but will respect your judgment. Please come find me if you change your mind.
+
+Mathilda: Yes? What is it? I stand ready to fight for you. You need only speak the words.
+
+@Dialogue 
+Mathilda: I saw Fernand. He visited me in my cell the other day.
+Clive: I see. Then you know what has transpired.
+Mathilda: Yes. It feels like a different age when the three of us started the Deliverance. Though we were once brethren, we now must come to blows.
+Clive: (sad sigh) I wish I could stand by my choices, unwavering. I have always done what I thought to be right, even when my heart disagreed. But now I must face cold reality.
+Mathilda: What do you mean?
+Clive: I may have made a terrible error.
+Alm: Huh? What are you talking about?
+Clive: (sad sigh)
+Gray: Oh no. No, no, no. We’re not going down THAT old road now. Don’t you dare say that making Alm the Deliverance’s leader was a mistake. We’ve been through way too much to start in with second-guessing now!
+Tobin: Yeah! I mean, I know you lost a dear friend, and that you’re hurting. But don’t take it out on Alm. He’s been doing as good a job as anyone!
+Alm: Would you all please calm down?
+Tobin: But Alm—
+Alm: Clive is clearly privy to some information he can’t share with us. Am I right, Clive?
+Clive: Alm, please…
+Alm: You’ve been acting strange for a while now. Whatever secret you’re harboring, I know it weighs heavy on you. I’ve been scared to broach the subject because I could sense it was about me.
+Clive: ……
+Alm: But if nothing else, I want you to know this… and I will be honored for each moment I can fight for the Deliverance. …You know, a friend once confronted me about this. She wanted to know why a nobody like me would risk so much to fight. The answer was, I just wanted to make a difference in people’s lives. When Lukas came to the village, that was my “when.” Don’t you see? Every one of you has set my life moving in ways I never imagined. I want to repay that kindness. Clive, Lukas, Mathilda—let me help you. Let me help Fernand.
+Clive: But he has insulted you at every step.
+Alm: Oh, I’m well aware. And I can’t claim to understand his motivations for all of that. But he helped you and Mathilda found the Deliverance, didn’t he? So he deserves my respect, no matter how he’s treated me in the past. If he returns to the Deliverance, I’ll gladly welcome him back.
+Clive: You would do such? I cannot speak for Fernand, but… Thank you, Alm.
+
+@Conversation 
+Alessio: What a mess I’ve gotten myself into…
+Alessio: You see, Chancellor Desaix asked me to procure him a coral ring. But what happened when I acquired the coral shards and crafted the ring? The damned Deliverance came along and killed the buyer! I sunk all I had into this coral ring. If I don’t sell it, I’ll be ruined! Er…say. Do YOU want a coral ring? It’s crafted from the finest coral fragments a merchant can scrounge up! Since you seem woefully poor… Hmm… Well, I’ll cut you a deal and part with the ring for a mere 30 silver marks.
+
+Alessio: Then we have a deal! …And thank the Mother we do! Now I can finally go home.
+
+Alessio: Hmph. Fine, skinflint!
+
+Alessio: Ho there, friend! Are you interested in the sale of the century? This is a coral ring made from only the finest coral fragments. And I am willing to part with it for the low, low price of 30 silver marks.
+
+Soldier: The Rion Shield? No, I ain’t seen it. But I hear that Desaix sold off some of his plunder to Grieth.
+
+@Intro 
+Alm: So this is the Zofian Sluice Gate… It’s massive!
+Lukas: Indeed it is. And were it to collapse, the damage would be more massive still.
+Alm: Then we need to get it open before it’s too late.
+
+@Battle 
+Tatarrah: Heh heh… So the Deliverance finally DELIVER themselves to me…
+Alm: Are you Tatarrah?
+Tatarrah: The one and only. ermit me to introduce my new servant, as well…
+Delthea: ……
+Alm: That girl…
+Tatarrah: Go, Delthea! Put the fear of Duma back into these faithless fools. Smite them with your aura!
+
+Alm: Aaah!
+Delthea: ENEMIES OF TATARRAH…MUST…DIE.
+Clive: Alm, what are you doing? Snap out of it! Strike her down before she ends you!
+Alm: No! I promised Luthier I would bring his sister home safe.
+Clive: But Alm, you’re going to—
+Alm: Everyone, stay clear of Delthea’s magic! And whatever you do, do NOT kill her! That’s an order!
+Luthier: Alm! If we eliminate Tatarrah, that should release his hold on my sister. I beg of you—please help her!
+
+@Battle-Recruit 
+Delthea: YOU HAVE DEFIED TATARRAH. I SHALL GIVE YOU DEATH.
+
+Delthea: Ah… What am I…doing here? Luthier, are you there? It…it hurts…
+
+@Boss 
+Tatarrah: Heh heh heh… You imbeciles think yourselves a match for the mighty Tatarrah? Such a dire misjudgment cannot go uncorrected.
+
+Tatarrah: Wh-what…? Impossible… Father Dumaaa… Aaargh…
+
+@Battle 
+Delthea: …Huh? What am I doing here? LUTHIER! Brother, are you there?!
+
+@Boss 
+Lawson: Zofian dullards… I’ll dismantle you limb by limb!
+
+Lawson: So this is the end… Forgive me, sire…
+
+Gazelle: You have taken your last step in this realm. Now prepare to visit the next!
+
+Gazelle: To die at the hands of worthless vermin… How shameful…
+
+@Dialogue 
+Alm: Just imagine how many generations these massive ruins have stood witness to. The dusty air carries more than the scent of broken, rusty iron; it’s like I’m breathing in centuries of history. And yet, I can see the signs of men of ill intent having come and gone with no regard for the place at all.
+
+@Conversation 
+Girl: Aaah! Oh, it was so awful!
+
+@Dialogue 
+Rudolf: Back so soon, Berkut?
+Berkut: Sire, I was merely—
+Rudolf: Are the tales true? You challenged the Deliverance for sport and lost?
+Berkut: …Forgive me, Uncle. They proved to be more skilled than I first imagined.
+Rudolf: Hmm…
+Jedah: What a most distressing turn of events. Our own Lord Berkut, broken by a band of farmers and cowhands. Did you mean to drag your knights’ honor through the dung whilst playing?
+Berkut: Hold your tongue! You are a servant to our house, and you dare insult Rigel’s finest? It’s far more sensible for clods such as you to stay cowering in your robes.
+Jedah: You forget that we answer to none but Duma, father of all Rigel. Though I may be a servant, it is certainly not to you. We shall see who cowers in the end.
+Berkut: What are you implying?
+Jedah: Emperor Rudolf, allow me to put your heart at ease. It is true that the Deliverance is nearing the sluice gate at our border. However, it is guarded by Tatarrah, one of the Duma Faithful’s finest arcanists. And as I understand it, he has come across a most interesting toy. I have the utmost faith he will make short work of those rebels.
+Berkut: …Sire!
+Rudolf: What now, Berkut?
+Berkut: Tatarrah may yet fail. Permit me to take my men to the border. If the Deliverance does break past the sluice, they must reckon with me!
+Rudolf: Mmm…
+Berkut: This time, I will smash their puny rebellion once and for all. I swear it! You must give me one last chance!
+Rudolf: …Very well. If they try to set foot on our land, they are to pay dearly. Am I understood?
+Jedah: What silliness. The rebels will be dead long before they reach the border. Heh heh heh…
+Berkut: *grumble*
+
+Berkut: Urgh…
+Rinea: Berkut, my lord. Have you finished your report to the emperor?
+Berkut: Yes. We march for the border.
+Rinea: Again? But we only just returned home.
+Berkut: It was my choice—I had to beg the emperor for a chance at redemption. All because of that maggot, Alm! Because of him, I had to sit there while that snake Jedah spat venom at me… I will make him pay for this disgrace a hundredfold!
+Nuibaba: Why, Lord Berkut. What grieves you?
+Berkut: Ugh, Nuibaba. Not you…
+Nuibaba: These halls have been dark without your unique fire to light them, my lord. I shall treasure this meeting when I return to my post on Fear Mountain. Master Jedah honors me. …Yet I hear he has not done the same for you. Perhaps because of your…embarrassing loss at the hands of those rebel scum?
+Berkut: You Faithful are in dire need of a lesson on how to speak to nobility.
+Nuibaba: And I am certain you would be a most fearsome teacher. Regardless, you wrong me, Lord Berkut. I merely wish to aid you.
+Berkut: Heh. How could YOU help ME? All of you claw at the heels of your god while ignoring his first teaching. He wished for men to be strong! Not a pack of supplicating fools.
+Nuibaba: So you do not need our power? …I see. Then I pray you fare well in your battle at the border. For should you lose… well, I doubt your uncle would give you a third chance. Or is this the fourth?
+Berkut: ……
+Nuibaba: For all your stubborn words, you have some wisdom. You have seen what the Faithful are capable of in battle. I know it. Father Duma’s power is vast, and not to be looked down upon. Yes, it’s true—Marla and Hestia both. In turn, the Father rewarded Lord Jedah with incredible magic.
+Rinea: His own daughters? How dreadful!
+Nuibaba: Do you see now, Lord Berkut? Come to my abode…
+Berkut: …Never. Victory over Alm would mean nothing if not won by my own hand.
+Nuibaba: So prideful! …Very well. But at least allow me to give you this.
+Berkut: What is this? …A mirror?
+Nuibaba: One filled with my sorcery. Of course, I believe you when you say you have no need for such…tricks. But one day you may find yourself cornered and without recourse. If that day comes, shatter the mirror. I don’t need such baubles…
+Nuibaba: Are you certain?
+Berkut: ……
+Nuibaba: Think of it as a safeguard, if that helps. Something…just in case. Hee hee hee…
+
+@Recruit-Conversation 
+Delthea: *gasp* Luthier! Brother!
+Luthier: Delthea! Thank heavens you’ve returned to your senses.
+Delthea: Hmm? What’s that supposed to mean? Whatever game you’re playing, Lu, I won’t fall for it this time! (pauses) Wait! Tatarrah was CONTROLLING me? Eeeeew! I am SO sorry! I must have been a real handful. But I swear I don’t remember any of it.
+Luthier: It’s all right, Delthea. All that matters is that you’re safe and back with us.
+Delthea: I’m sorry I worried you, Lu. Good thing the Deliverance came along, huh? Yup! Thanks, Deliverance. So if Lu is sticking with you guys, I get to come too, right? I’m pretty darned tough, you know. I’ll give all your enemies what-for!
+
+Delthea: WHAT?! Aw, come on! Why not? Well, don’t come crawling back to me later. …Or, you know, do.
+
+Delthea: Aha! I knew it! You need me. …Say you need me. I wanna hear it!
+
+Delthea: Oh! You’re those folks from before. What’s going on? I can’t remember a thing. …… Wait, Tatarrah was CONTROLLING me? Eeeeew! I am SO sorry! I must have been a real handful. Well, anyway, my name is Delthea. It’s super nice to meet you! Hey, but you look like you could use my help. Want me to tag along?
+
+Delthea: WHAT?! Aw, come on! Why not? Well, don’t come crawling back to me later. …Or, you know, do.
+
+Delthea: Aha! I knew it! You need me. …Say you need me. I wanna hear it!
+
+@Dialogue 
+Alm: Ha ha. Delthea sure isn’t short on energy, is she?
+Luthier: I know. She’s simply incorrigible. She was spoiled growing up, and now look at her. She just runs amok! I feel your pain…
+Alm: Well, I admire how close you are. I never had anything like that. I’m glad you’re a team again.
+Luthier: It’s appreciated, Alm. But there aren’t words enough to thank you proper, so I’ll speak with action. From here on out, sire, I am your most loyal man.
+Alm: Yeah, maybe let’s not have any of the whole “sire” thing.
+Luthier: Ha ha ha! And why not? You’re our king, aren’t you?
+Alm: *sigh* I wish Luthier hadn’t said that…
+Clive: Alm?
+Alm: Hello, Clive.
+Clive: I just wanted to say… Fine work there, rescuing the maiden as you did.
+Alm: What’s this? Are you maybe, possibly admitting that I did the right thing?
+Clive: Heh heh. I am as shocked as you. It appears you are more fit to be king than I will ever be.
+Alm: Oh no. Don’t YOU start!
+Clive: Unlike you, Alm, I have been too willing to put people’s lives on the line. I stand by my belief that a commander must put reason before emotion. But failing to rescue Mathilda or my sister was cowardice, not reason. The truth is, I chose not to act for fear it would undermine my authority.
+Alm: Stop it, Clive. You’re no craven.
+Clive: Aren’t I? Just look at what you did in my stead. I criticized you roundly for diverting our army to save one person. But you did it anyway because you have something I do not—strength of heart. You understand what is precious and fight for it no matter the cost. Clive, I don’t know what to say…
+
+@Conversation 
+Man: Open the sluice gate? Hah! Impossible! We’d flood the bloody continent. Someone has to open the sluice at the Temple of Mila first.
+
+@Dialogue 
+Man: Now that the temple sluice is open, we can open the gate here as well. …Still, I do find it curious. Only members of the Zofian royal family can open the sluice at the temple.
+Alm: Are you serious?
+Man: Makes you wonder if Princess Anthiese is alive after all. Hah! It would make for a fine story, that’s for sure! Oh my, yes. Ha ha ha!
+Alm: Anthiese… Did a member of the royal family really open the gate? Celica, are you…
+
+Jedah: So, they’ve opened the sluice. This is a fortuitous and most welcome turn of events. That feisty girl is certain to come looking for Mila… and when she does, I shall be waiting to scoop her up! Perhaps I might even go greet her myself… Heh heh heh…
+
+@Narration 
+Through the combined efforts of Alm and Celica, the empire’s plans to flood Zofia were thwarted. The arc of her destiny now clear, Celica embraced her identity and set forth. Meanwhile, Alm, having learned his friend was in truth Zofia’s Princess Anthiese, renewed his own oath to defend Zofia from the Rigelian Empire. However, a dark creature had his own plans for these fated children who bore the Brand…
