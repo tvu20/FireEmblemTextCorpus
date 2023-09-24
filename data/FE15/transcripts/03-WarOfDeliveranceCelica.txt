@@ -1,10 +1,10 @@
 @Intro 
-Celica: Ah… Quiet, everyone!
-Garth: Heh heh…
+Celica: Ah... Quiet, everyone!
+Garth: Heh heh...
 Celica: That must be Garth and his men. Probably best to avoid them. Let’s go around that way.
 Mae: But Celica, look!
 Celica: Huh?
-Palla: Rgh… More of Grieth’s thugs, I take it?
+Palla: Rgh... More of Grieth’s thugs, I take it?
 Garth: Well, give the little girl a prize! Yer pretty smart for a foreign lass. In that case, might be ye also know how much coin a pair like you could fetch!
 Palla: Catria! Keep your wits about you and do not leave my side!
 Celica: It’s those sisters!
@@ -14,21 +14,21 @@ Celica: Well, we sure can’t leave them to this rabble. Let’s go, everyone!
 @Boss 
 Garth: Muh? Who’re you? Bah, not like it matters. Yer just more merchandise now!
 
-Garth:  H-how…? I’ve bought’n sold tougher’n this… Uuurrrkk…
+Garth:  H-how...? I’ve bought’n sold tougher’n this... Uuurrrkk...
 
 @End 
-Celica: Thank the Mother we managed to keep those sisters safe… Come now. We’ll gain nothing by lingering.
-Palla: Wait! We didn’t get to properly— *sigh* And they’re gone…
+Celica: Thank the Mother we managed to keep those sisters safe... Come now. We’ll gain nothing by lingering.
+Palla: Wait! We didn’t get to properly— *sigh* And they’re gone...
 
 @Conversation 
-Woman: The path to Zofia Castle was blocked during that big earthquake that hit. Sorry to rain on your thatch, but there’s nothing for it…
+Woman: The path to Zofia Castle was blocked during that big earthquake that hit. Sorry to rain on your thatch, but there’s nothing for it...
 
 @Recruit-Conversation 
-Palla: Oh, good! I was hoping we’d find you. You really saved us back on the coast. We’ve managed to dig up some additional information since then. Turns out our sister Est is being held by a thief named Grieth. Your strength is beyond reproach. That much is certain… If you’re headed to Grieth’s citadel, perhaps you’d let us join you?
+Palla: Oh, good! I was hoping we’d find you. You really saved us back on the coast. We’ve managed to dig up some additional information since then. Turns out our sister Est is being held by a thief named Grieth. Your strength is beyond reproach. That much is certain... If you’re headed to Grieth’s citadel, perhaps you’d let us join you?
 
 Palla: I hear you’re headed to Grieth’s citadel as well. Would you mind if we traveled together?
 
-Palla: I see… A shame. Well, if your mind changes, please do let me know.
+Palla: I see... A shame. Well, if your mind changes, please do let me know.
 
 Palla: Ah, hello. Did you need something? Perhaps you changed your mind about traveling together?
 
@@ -50,7 +50,7 @@ Lord Fugue: Is this just a jape to you? Oh, how you twist the blade!
 
 Lord Fugue: By the gods! This shield bears the mark of our sworn enemies, the Rion clan! Pah! The very sight of it disgusts me! Take it away!
 
-Royal Chef: Pardon me, but I serve as chef to one of the noble houses. Or I did, until a tiny mistake provoked the ire of my employer. Now he says that if I don’t prepare the world’s finest fish, he’ll have me killed! A man mistakes salt for sugar ONCE, and now must pay with his life? Cruel! As you might expect from such a man, my employer’s tastes are quite fine. A run-of-the-mill fish won’t get me off the hook. …Er, pardon the pun. I need to catch a legend. I need…dagon. But that’s not something you find in a fishmonger’s stall down at the market. Please aid me! My life is on the line! …Er, pardon the pun. If there’s any way you can find a dagon fillet, let me know at once!
+Royal Chef: Pardon me, but I serve as chef to one of the noble houses. Or I did, until a tiny mistake provoked the ire of my employer. Now he says that if I don’t prepare the world’s finest fish, he’ll have me killed! A man mistakes salt for sugar ONCE, and now must pay with his life? Cruel! As you might expect from such a man, my employer’s tastes are quite fine. A run-of-the-mill fish won’t get me off the hook. ...Er, pardon the pun. I need to catch a legend. I need...dagon. But that’s not something you find in a fishmonger’s stall down at the market. Please aid me! My life is on the line! ...Er, pardon the pun. If there’s any way you can find a dagon fillet, let me know at once!
 
 Royal Chef: Word is, there’s a master angler here in Zofia Harbor. But he set out to sea a while ago and has yet to return. The timing lines up with a bad storm, so I fear he may have capsized. I’m told he usually fished the waters around the Seabound Shrine.
 
@@ -60,11 +60,11 @@ Royal Chef: Ah. Yes. Well, I suppose you’ve your own business to worry about.
 
 Royal Chef: Any chance you’ve found a dagon fillet?
 
-Royal Chef: The color… The glow… Dagon for true! You’ve actually found it! And such a fine cut! The perfect dappling of fat! Exquisite! Surely this will satisfy even my temperamental employer. Thank you. I’m afraid this is all I have to give you in return, but I insist you take it.
+Royal Chef: The color... The glow... Dagon for true! You’ve actually found it! And such a fine cut! The perfect dappling of fat! Exquisite! Surely this will satisfy even my temperamental employer. Thank you. I’m afraid this is all I have to give you in return, but I insist you take it.
 
-Royal Chef: Please, I’m about to be gutted! …And that is NOT a pun!
+Royal Chef: Please, I’m about to be gutted! ...And that is NOT a pun!
 
-Skilled Angler: Oy, it’s you! From the Seabound Shrine! I owes you a debt, I do! If ya need anything, just go on and ask. …… Eh? A dagon fillet? Mmmm… Dagons are fearsome beasties—closer kin to dragons than fish. Yet for its terrible look, the meat’s said to be sweet as nectar. Trouble is, their vision’s frightful good. They see yer line and steer clear. You need a line that’s strong as steel, but clear as glass. Track me down somethin’ like that, and I’ll happily dip m’pole for ya! Come find me again if ya find a line that’ll snag a dagon.
+Skilled Angler: Oy, it’s you! From the Seabound Shrine! I owes you a debt, I do! If ya need anything, just go on and ask. ...... Eh? A dagon fillet? Mmmm... Dagons are fearsome beasties—closer kin to dragons than fish. Yet for its terrible look, the meat’s said to be sweet as nectar. Trouble is, their vision’s frightful good. They see yer line and steer clear. You need a line that’s strong as steel, but clear as glass. Track me down somethin’ like that, and I’ll happily dip m’pole for ya! Come find me again if ya find a line that’ll snag a dagon.
 
 Skilled Angler: Hoo! Never thought I’d see something’ like this in all m’days! This just might make for a line that even a dagon wouldn’t see coming! I’ll put out to sea straightaway and see if the fishing gods are kind. Come find me in a couple of days. And pray for fair weather! Eh heh heh!
 
@@ -72,41 +72,41 @@ Skilled Angler: Are you waitin’ for me t’beg?
 
 Skilled Angler: I needs strong, clear material for a line. Bring me that, and I just might be able to hook ya a dagon. Eh heh heh!
 
-Skilled Angler: Well, look who it be… Howzabout ya feast yer eyes on THIS?! Landed me a dagon, I did! And all thanks t’yer magic line. As promised, here’s yer cut! Enjoy that, now! Eh heh heh heh!
+Skilled Angler: Well, look who it be... Howzabout ya feast yer eyes on THIS?! Landed me a dagon, I did! And all thanks t’yer magic line. As promised, here’s yer cut! Enjoy that, now! Eh heh heh heh!
 
 Skilled Angler: Guess what? I went and landed me another dagon! Eh heh heh heh! I’m in a sharin’ mood, so why not take a cut for yerself?
 
 @Intro 
-Boey: Oh, great… Another graveyard filled with even MORE Terrors…
+Boey: Oh, great... Another graveyard filled with even MORE Terrors...
 Mae: Oh, grow a spine already! So what if those guys sprout up like weeds? It’s perfect target practice! After this little warm-up, we can storm the Temple of Mila with spells blazin’!
-Boey: Why would we want to storm the temple…?
+Boey: Why would we want to storm the temple...?
 
 @Conversation 
 Man: That Grieth is a real piece of work. He gives the orders to every scoundrel and sneak-thief in Zofia. He’s attacked this village time and again, and taken all the young folk. There’s not a man who would stand up to him, even when the king drew breath.
 
 Young Woman: Have you been to the Dragon Shrine, north of the village? There’s a well there whose waters are rumored to revive the dead. But alas, fearsome necrodragons stand watch there, allowing none to pass.
 
-Old Timer: To reach the Temple of Mila, cross the valley approach and continue north. The temple’s more than just a place of worship for the goddess, you know— it also defends the sluice gate at the kingdom’s border. However, the gate opens only to members of the Zofian royal family. With His Highness Lima IV gone, the sluice may lie closed forever…
+Old Timer: To reach the Temple of Mila, cross the valley approach and continue north. The temple’s more than just a place of worship for the goddess, you know— it also defends the sluice gate at the kingdom’s border. However, the gate opens only to members of the Zofian royal family. With His Highness Lima IV gone, the sluice may lie closed forever...
 
-Young Man: Is it true the Deliverance has retaken Zofia Castle? I worry if so. Oh, everyone talks of chasing out Desaix and the Rigelian Empire… but soon as they have to decide the next king, you know war will come again.
+Young Man: Is it true the Deliverance has retaken Zofia Castle? I worry if so. Oh, everyone talks of chasing out Desaix and the Rigelian Empire... but soon as they have to decide the next king, you know war will come again.
 
 @Recruit-Conversation 
-Atlas: I was off fighting on the frontier until a short while ago. Came home to find my village in ruins and my brothers taken by Grieth. I want to tear that thief’s head clean off his body! …But I can’t do it alone. Are you lot going to Grieth’s stronghold? If so, let me come and have my revenge.
+Atlas: I was off fighting on the frontier until a short while ago. Came home to find my village in ruins and my brothers taken by Grieth. I want to tear that thief’s head clean off his body! ...But I can’t do it alone. Are you lot going to Grieth’s stronghold? If so, let me come and have my revenge.
 
 Atlas: Ah. I see. Well, you have your reasons, I’m sure. Apologies for the sudden request. I’ll try my luck alone, if that’s what it takes.
 
 Atlas: Hm? Changed your mind, did you?
 
 @Conversation 
-Fish-crazy Man: Oy! You! Ever had dried shieldfish? It’s simply GRAND, so it is! Odd-lookin’ thing, shieldfish. Big’n flat, and covered in a hard shell. Looks a bit like a shield—that’s why they named it as they did, I reckon. But if ya dry ’em in the sun, they taste like nothin’ else. I get cravings I do. Terrible cravings… But I can’t find ’em to save m’life! I’d kill for a bite’a shieldfish! …Well, not literally, but you get my meanin’.
+Fish-crazy Man: Oy! You! Ever had dried shieldfish? It’s simply GRAND, so it is! Odd-lookin’ thing, shieldfish. Big’n flat, and covered in a hard shell. Looks a bit like a shield—that’s why they named it as they did, I reckon. But if ya dry ’em in the sun, they taste like nothin’ else. I get cravings I do. Terrible cravings... But I can’t find ’em to save m’life! I’d kill for a bite’a shieldfish! ...Well, not literally, but you get my meanin’.
 
-Fish-crazy Man: SHIELDFISH! DELICIOUS SHIELDFISH! HOW I YEARNED FOR YOUR TOUCH! Er, I mean…uh…here. Take this. You earned it!
+Fish-crazy Man: SHIELDFISH! DELICIOUS SHIELDFISH! HOW I YEARNED FOR YOUR TOUCH! Er, I mean...uh...here. Take this. You earned it!
 
 Fish-crazy Man: Can’t blame you. I wouldn’t share mine, either! Heh heh heh.
 
 Fish-crazy Man: You got no shieldfish! Ain’t very nice getting my hopes up like that.
 
-Fish-crazy Man: Sure could go for some dried shieldfish right about now…
+Fish-crazy Man: Sure could go for some dried shieldfish right about now...
 
 Tired Lady: Please, can you help me find my son?
 
@@ -114,48 +114,48 @@ Tired Lady: After losing my husband to the plague that hit our village, I fell a
 
 Tired Lady: Did you find my son?
 
-Tired Lady: This…this is my son’s journal! …Oh. Oh no. You sweet, stupid boy… How many must you take, Mila? How many more will satisfy you?!
+Tired Lady: This...this is my son’s journal! ...Oh. Oh no. You sweet, stupid boy... How many must you take, Mila? How many more will satisfy you?!
 
-Tired Lady: Pardon me. The other day, you helped me find my…my late son. At the time, I was too overcome to thank you. Please forgive my rudeness. I’m still working through my grief. It will take time, I’m sure. But I wouldn’t even be able to do that if I didn’t know his fate for certain. I know I’m late in this, but please let me thank you for finding my son.
+Tired Lady: Pardon me. The other day, you helped me find my...my late son. At the time, I was too overcome to thank you. Please forgive my rudeness. I’m still working through my grief. It will take time, I’m sure. But I wouldn’t even be able to do that if I didn’t know his fate for certain. I know I’m late in this, but please let me thank you for finding my son.
 
-Tired Lady: …Eh? It’s too much? Oh, hardly! I sold my house and land, you see. This village is full of memories. It…hurts too much to be here. I aim to wander the world and take a long, hard look at my life. Perhaps we’ll meet again somewhere. Until then, stay safe.
+Tired Lady: ...Eh? It’s too much? Oh, hardly! I sold my house and land, you see. This village is full of memories. It...hurts too much to be here. I aim to wander the world and take a long, hard look at my life. Perhaps we’ll meet again somewhere. Until then, stay safe.
 
-Lumberjack: What a mess… I’ve been a woodcutter in this village since I was old enough to hold an axe. But when Grieth’s men swept through, they stole it! …My axe, I mean. I can’t do a lick of work without it, and I’ve got a wife and kids to feed. And don’t tell me to go buy a new axe, because I can’t afford it! No axe, no money. No money, no axe. You get my problem here?
+Lumberjack: What a mess... I’ve been a woodcutter in this village since I was old enough to hold an axe. But when Grieth’s men swept through, they stole it! ...My axe, I mean. I can’t do a lick of work without it, and I’ve got a wife and kids to feed. And don’t tell me to go buy a new axe, because I can’t afford it! No axe, no money. No money, no axe. You get my problem here?
 
 Lumberjack: Wait a sec—you’re just GIVING me this? Sweet Duma! This is gonna turn my whole life around! You’ve got yourself a new friend, pal. Take this with my thanks!
 
 Lumberjack: Yeah, I suppose that’s not the kind of thing you just have lying around.
 
-Lumberjack: I’m not much of a woodcutter without an axe—and I’m broke, to boot! I need to get my hands on a new axe, and soon…
+Lumberjack: I’m not much of a woodcutter without an axe—and I’m broke, to boot! I need to get my hands on a new axe, and soon...
 
 Lumberjack: Oh, hey! It’s my best friend! Here, have a look at this, pal. I tried my hand at carving a likeness of Duma with the axe you brought me. Figured maybe his blessing would help me chop through the forest, yeah? And it WORKED! When I’m holding it, I can feel strength surging through my chopping arm! The forest best watch out now that I’ve got this Duma carving! Gya hah hah!
 
-Lumberjack: Oh hey. Look who it is! Terrors from the cemetery attacked the village a while back. Except they didn’t attack the village so much as come straight to my door. They took the Duma carving I made, turned around, and beat feet. I never should have made it. Duma must be angry I took liberties with his image! I’m terrified his punishment is only just beginning… O Duma! Forgive me!
+Lumberjack: Oh hey. Look who it is! Terrors from the cemetery attacked the village a while back. Except they didn’t attack the village so much as come straight to my door. They took the Duma carving I made, turned around, and beat feet. I never should have made it. Duma must be angry I took liberties with his image! I’m terrified his punishment is only just beginning... O Duma! Forgive me!
 
 Lumberjack: Hey, that’s the Duma carving I made! Get that awful thing away! I never want to see it again in my life!
 
 @Boss 
 Wolff: You don’t look half as scared as you ought. Don’t you value your lives? It’s time you had the fear of death put back into you!
 
-Wolff: No… I’ll not surrender… Not like…this…
+Wolff: No... I’ll not surrender... Not like...this...
 
 @End 
-Pirate: Say, boss? I got some…uh…news. Kinda bad, like.
-Grieth: …WELL?! Don’t just stand there, idiot! Spit it out!
-Pirate: The desert stronghold’s been…taken.
+Pirate: Say, boss? I got some...uh...news. Kinda bad, like.
+Grieth: ...WELL?! Don’t just stand there, idiot! Spit it out!
+Pirate: The desert stronghold’s been...taken.
 Grieth: WHAAAAT?! Was it Deliverance? It was, wasn’t it? Those lousy, no-good, dung-eatin’—
 Pirate: Actually, it was a girl and her friends. Some kinda priestess or somethin’? Kind of an odd mix if ya ask me. A mercenary, couple’a kid mages—
 Grieth: KIDS?! You’re tellin’ me that Wolff lost to a girl and some CHILDREN?! Who is she? I need information. All of it. GIMME THE GOODS!
-Pirate: I got nothin’, boss, I’m sorry. All I know is what I told ya. Kid’s a priestess, yeah? …Oh, and she had a mark on her right hand. Er, so whatta we do now, boss? Our men are sayin’ she’s coming here next! She’s gonna come here and kill—
+Pirate: I got nothin’, boss, I’m sorry. All I know is what I told ya. Kid’s a priestess, yeah? ...Oh, and she had a mark on her right hand. Er, so whatta we do now, boss? Our men are sayin’ she’s coming here next! She’s gonna come here and kill—
 Grieth: Shut up for a second. Did you say she has a mark on her right hand?
 Pirate: Y-yeah, boss. That’s right.
-Grieth: Well, I’ll be dipped in hog fat… That’s the lass Desaix was searchin’ for! That mark is proof a member of the Zofian royal family is still alive! And you say she’s headed here now? …Heh. Haw! BWAAAAA ha ha ha ha! Looks like lady luck finally decided to let me take her to the barn dance! Working with Desaix was good business for a while, but he’s finished now. But if I serve that girl up to Rigel on a silver platter… then even if they take over all of Zofia, we’ll still be sittin’ pretty. Deen! Sonya!
+Grieth: Well, I’ll be dipped in hog fat... That’s the lass Desaix was searchin’ for! That mark is proof a member of the Zofian royal family is still alive! And you say she’s headed here now? ...Heh. Haw! BWAAAAA ha ha ha ha! Looks like lady luck finally decided to let me take her to the barn dance! Working with Desaix was good business for a while, but he’s finished now. But if I serve that girl up to Rigel on a silver platter... then even if they take over all of Zofia, we’ll still be sittin’ pretty. Deen! Sonya!
 Deen: You called?
 Sonya: Did you need something?
-Grieth: We’re expectin’ guests. Some little girl and her merry band of friends. Deen, set up in the northern desert. Sonya, you take the south. I want the girl alive. As for the rest… Well, have some fun. You earned it. …YA GOT IT?!
+Grieth: We’re expectin’ guests. Some little girl and her merry band of friends. Deen, set up in the northern desert. Sonya, you take the south. I want the girl alive. As for the rest... Well, have some fun. You earned it. ...YA GOT IT?!
 Sonya: You don’t need to shout, sir. There’s nothing wrong with my hearing. If there’s nothing else, I’ll be going.
 Deen: Understood. I’m off as well.
-Grieth: Bah! Impudent louts. Still, I s’pose they get the job done. And once they do, I’ll have a Zofian princess in my collection. Heh heh… Ha ha ha! BWAAAA HA HA HA HA HA!
+Grieth: Bah! Impudent louts. Still, I s’pose they get the job done. And once they do, I’ll have a Zofian princess in my collection. Heh heh... Ha ha ha! BWAAAA HA HA HA HA HA!
 
 @Recruit-Conversation 
 Jesse: Whew! You really saved the day. Thanks a million. Name’s Jesse, by the by. I’m just your average garden-variety merc. So I spotted this girl at the port of Zofia. Real cute, ya know? Anyway, then I hear she’s about to get sold off as a slave! You believe that? Well, I don’t let ladies get sold into slavery on my watch! No sir! So I up and chased after her, and wound up getting caught. Turns out trying to take on a group of slavers single-handed is a terrible idea. Anyway, that’s my story—what’s yours? You’re all traveling together, yeah? Looks like a real fun group. Don’t suppose you got room for one more?
@@ -165,98 +165,98 @@ Jesse: Oh yeah? Well, that’s a shame. I won’t take it personal, though. Come
 Jesse: Hm? What’s up? Decide you want to deal me in on the fun after all?
 
 @Conversation 
-Young Traveler: I’m sorry to bother you, but it seems my father has gone missing. He’s a pious man who was going on a pilgrimage to the Temple of Mila. But that was some years ago, and I’ve heard nothing from him since. When last I saw him, he was wearing his lucky red tricorn hat. Sadly, that’s the only clue I have to go on. I managed to follow his trail this far, but I fear it’s grown quite cold. He could’ve been attacked by bandits or done in by Terrors or…worse. But I’d rather know for sure than lie awake at night with such grim thoughts. Well, there’s nothing for it but to return home to my mother. Er, but if you come across a man in a red tricorn hat, tell him to hurry home. Take care.
+Young Traveler: I’m sorry to bother you, but it seems my father has gone missing. He’s a pious man who was going on a pilgrimage to the Temple of Mila. But that was some years ago, and I’ve heard nothing from him since. When last I saw him, he was wearing his lucky red tricorn hat. Sadly, that’s the only clue I have to go on. I managed to follow his trail this far, but I fear it’s grown quite cold. He could’ve been attacked by bandits or done in by Terrors or...worse. But I’d rather know for sure than lie awake at night with such grim thoughts. Well, there’s nothing for it but to return home to my mother. Er, but if you come across a man in a red tricorn hat, tell him to hurry home. Take care.
 
-Young Woman: Grieth didn’t become king of thieves by being a fool. He’s a shrewd one. He’s been sending Desaix bribes a’plenty to escape justice for his deeds. And his men are no better. The pirate Barth was one such, in fact. I hear there are still captives rotting away in his dungeons. Some have been there for years, poor souls… If there’s any way you can help them…
+Young Woman: Grieth didn’t become king of thieves by being a fool. He’s a shrewd one. He’s been sending Desaix bribes a’plenty to escape justice for his deeds. And his men are no better. The pirate Barth was one such, in fact. I hear there are still captives rotting away in his dungeons. Some have been there for years, poor souls... If there’s any way you can help them...
 
-Man: Deen and Sonya are feared for their strength, even among Grieth’s men. Deen, a master of the sword, is a flinty loner of a man. And Sonya is a deadly mage. Beautiful, though, if the rumors are true. They also say she was Rigelian, originally…
+Man: Deen and Sonya are feared for their strength, even among Grieth’s men. Deen, a master of the sword, is a flinty loner of a man. And Sonya is a deadly mage. Beautiful, though, if the rumors are true. They also say she was Rigelian, originally...
 
 @Dialogue
 Celica: Jesse, you’re familiar with this area, are you not? We’re headed to Grieth’s Citadel, and the way seems perilous. Could we ask you to guide us there?
-Jesse: Grieth’s Citadel?! Er, look. You seem smart and capable and all, but…I wouldn’t recommend it. His payroll’s a veritable who’s who of Zofia’s nastiest thugs. And no matter how tough you are, I don’t like those odds.
+Jesse: Grieth’s Citadel?! Er, look. You seem smart and capable and all, but...I wouldn’t recommend it. His payroll’s a veritable who’s who of Zofia’s nastiest thugs. And no matter how tough you are, I don’t like those odds.
 Celica: But there must be some way.
-Jesse: Hrrrrmm… Maybe ask the Deliverance? They’re nuts. They might be up for it. They chased off Desaix, didn’t they? …Which is actually pretty impressive.
+Jesse: Hrrrrmm... Maybe ask the Deliverance? They’re nuts. They might be up for it. They chased off Desaix, didn’t they? ...Which is actually pretty impressive.
 Celica: The Deliverance force marches west to the border to fight the Rigelian army.
 Jesse: Do they now? Well, that’s optimistic. I guess that means you’re out of luck.
 Celica: *sigh*
-Jesse: Aw, c’mon. Don’t give me that look! Damsel-in-distress types slay me. Just break my heart. I mean, not that you’re a damsel or anything, but… Hmm… Well, I suppose there is one thing you might try…
+Jesse: Aw, c’mon. Don’t give me that look! Damsel-in-distress types slay me. Just break my heart. I mean, not that you’re a damsel or anything, but... Hmm... Well, I suppose there is one thing you might try...
 Celica: And what’s that?
-Jesse: Deen and Sonya. Two of Grieth’s best. They’re a tough lot, but it’s not loyalty that keeps them in Grieth’s service. I don’t know the specifics, but it’s clear they’ve their own ambitions. They guard his citadel from the north and south ends of the desert. Break through one, and you’ll have a clear path to move on Grieth. Whichever you fight, the other won’t go out of their way to chase you down. …Er, probably.
-Boey: Hey, hold on…
+Jesse: Deen and Sonya. Two of Grieth’s best. They’re a tough lot, but it’s not loyalty that keeps them in Grieth’s service. I don’t know the specifics, but it’s clear they’ve their own ambitions. They guard his citadel from the north and south ends of the desert. Break through one, and you’ll have a clear path to move on Grieth. Whichever you fight, the other won’t go out of their way to chase you down. ...Er, probably.
+Boey: Hey, hold on...
 Jesse: Like I said, going up against Grieth’s entire force at once is suicide. But knock out Deen or Sonya and focus on Grieth and his men at the citadel? Well then, you might just have yourself a chance.
 Boey: And if you’re wrong and they chase us down while swearing bloody revenge?
 Jesse: Yowza. Yeah, in that case, I’m guessing you’re probably dead.
 Boey: The fact you’ve worked as a mercenary this long staggers the imagination.
-Jesse: Aw shucks, you little flatterer! That’s sweet of you to say. Look, your ultimate goal is getting to the Temple of Mila, right? So this thing with Grieth is just a bit of…what? Community service? That’s admirable, but think long and hard before you make the trip.
-Celica: ……
+Jesse: Aw shucks, you little flatterer! That’s sweet of you to say. Look, your ultimate goal is getting to the Temple of Mila, right? So this thing with Grieth is just a bit of...what? Community service? That’s admirable, but think long and hard before you make the trip.
+Celica: ......
 
 @Boss
 Deen: Nothing personal, but I have to kill you. I promise to make it fast.
 
-Deen: Rgh… I’ve too much left…undone…
+Deen: Rgh... I’ve too much left...undone...
 
 Sonya: Naughty children. You ought never have made an enemy of Grieth. Still, this is mere business for my part. No hard feelings, I pray.
 
-Sonya:  It seems…today is the day… my star…goes out…
+Sonya:  It seems...today is the day... my star...goes out...
 
 @Intro 
 Pirate: Grieth! Boss! That girl and her band of idiots are here!
 Grieth: Grargh! What the hell are the rest of the men DOING?! I need ’em here to FIGHT!
 Pirate: Um, it doesn’t look like they’re moving, boss.
-Grieth: WHAT?! …Dammit! So I’ve been betrayed, have I? Gah! Fine. Just…fine! I’ll just go out there and crush this stupid girl ALL BY MYSELF!
+Grieth: WHAT?! ...Dammit! So I’ve been betrayed, have I? Gah! Fine. Just...fine! I’ll just go out there and crush this stupid girl ALL BY MYSELF!
 
 @Battle 
 Grieth: Well, lookie here—it’s Zofia’s crown princess! Ain’t you just FANCY!
-Celica: How… Who told you that?
-Grieth: Well, lemme think a second… Who could it have been? You know what? It don’t matter. Fact is, I owe you my thanks. While you royals were lounging about ignoring your own kingdom, I was becoming a VERY RICH MAN! You people turned Zofia into a place where only the strong survive. Hell, now it’s the spitting image of Rigel itself, doncha think?
-Celica: You may think yourself something fine… but your days as a predator are done.
+Celica: How... Who told you that?
+Grieth: Well, lemme think a second... Who could it have been? You know what? It don’t matter. Fact is, I owe you my thanks. While you royals were lounging about ignoring your own kingdom, I was becoming a VERY RICH MAN! You people turned Zofia into a place where only the strong survive. Hell, now it’s the spitting image of Rigel itself, doncha think?
+Celica: You may think yourself something fine... but your days as a predator are done.
 
 @Boss 
-Grieth: Oh, Yer Highness… My kingdom may fall today… but I’m gonna DRAG YOU ALL TO HELL WITH ME!
+Grieth: Oh, Yer Highness... My kingdom may fall today... but I’m gonna DRAG YOU ALL TO HELL WITH ME!
 
-Grieth: You didn’t…win nothin’… There’s gonna be…another me… There’s always…another…me…
+Grieth: You didn’t...win nothin’... There’s gonna be...another me... There’s always...another...me...
 
 @Conversation 
 Celica: Atlas! Did you manage to find your brothers?
 Atlas: Yeah, they’re safe. Everyone’s safe. You’re our savior, m’lady! From this point on, I am yours to command. You just say the word. Now, want me to bust the skulls of any of Grieth’s men we might’a missed?
-Celica: N-no, that’s… Thank you, Atlas, but I don’t think that’ll be necessary. Why don’t you go spend some time with your family instead?
-Atlas: You sure? …Well, all right. I’ll do whatever you think’s best.
+Celica: N-no, that’s... Thank you, Atlas, but I don’t think that’ll be necessary. Why don’t you go spend some time with your family instead?
+Atlas: You sure? ...Well, all right. I’ll do whatever you think’s best.
 
-Irma: I owe you thanks beyond measure for saving me. My name is Irma, and I serve at the Temple of Mila. …Or did, I suppose. In truth, this place has been my only home for many a long year. I fear greatly what may have transpired at the temple…
-Celica: So you’re an attendant to Mila? Interesting… We’re actually making our way to the temple right now.
-Irma: Is that so? Then might I ask—  By the Mother! Are you…? No, you couldn’t be…
+Irma: I owe you thanks beyond measure for saving me. My name is Irma, and I serve at the Temple of Mila. ...Or did, I suppose. In truth, this place has been my only home for many a long year. I fear greatly what may have transpired at the temple...
+Celica: So you’re an attendant to Mila? Interesting... We’re actually making our way to the temple right now.
+Irma: Is that so? Then might I ask—  By the Mother! Are you...? No, you couldn’t be...
 Celica: Er, I’m sorry?
-Irma: Ah… F-forgive me. It’s just that you bear a striking resemblance to Lady Liprica.
-Celica: Liprica? That’s…my mother’s name.
+Irma: Ah... F-forgive me. It’s just that you bear a striking resemblance to Lady Liprica.
+Celica: Liprica? That’s...my mother’s name.
 Irma: Then it’s true! You’re her! You’re Princess Anthiese! Mila be praised, you’re alive!
-Celica: Are you saying you know my mother?! Please, you…you must tell me anything you can about her. I never had a chance to know her, you see…
-Irma: It would be an honor, Your Highness. Where shall I begin…?
+Celica: Are you saying you know my mother?! Please, you...you must tell me anything you can about her. I never had a chance to know her, you see...
+Irma: It would be an honor, Your Highness. Where shall I begin...?
 Irma: Like myself, Lady Liprica was a sister in the service of Mother Mila. But all that ended once King Lima’s royal procession arrived at the temple. Lady Liprica’s beauty caught his eye, and she was stolen away in the night. He took her to his castle and forced her to join his seraglio of countless brides. Despite the luxury, I expect life in the castle proved most difficult for her. She soon took ill, and left this world shortly after bearing Your Highness.
-Celica: Mother…
+Celica: Mother...
 Irma:  I am so very sorry, Princess Anthiese. But I would implore you to spare your tears. Lady Liprica thought only of your health and happiness until her final breath.  Lady Liprica also left something for you, Your Highness.
 Celica: For me?
 Irma: Aye, milady. It is a circlet that proves your royal standing. She asked that it be given to you once you were of age.
-Celica: A circlet…? You can’t mean the royal crown?! Surely my mother had cause to hate the monarchy above all else?
-Irma: I fear I know not what her intentions were, milady. Nor have I the means of asking now. But, Your Highness… I know a time will come when your mother’s heart grows clear to you.
-Celica: ……
+Celica: A circlet...? You can’t mean the royal crown?! Surely my mother had cause to hate the monarchy above all else?
+Irma: I fear I know not what her intentions were, milady. Nor have I the means of asking now. But, Your Highness... I know a time will come when your mother’s heart grows clear to you.
+Celica: ......
 Irma: The circlet is stored in the temple vault. I shall make my way there now. I must tell everyone that Her Highness Anthiese has returned to us! I will await your arrival at the temple. May Mila’s blessing be upon you always.
 
 @Recruit-Conversation 
-Est: Thanks so much for saving me! My name’s Est, by the way. I was kidnapped by pirates in Archanea and brought here. I’d really like to hurry home, but… Well, it wouldn’t be right to run off before thanking you for your help. I’d like to fight with you, if you’ll have me. What do you say?
+Est: Thanks so much for saving me! My name’s Est, by the way. I was kidnapped by pirates in Archanea and brought here. I’d really like to hurry home, but... Well, it wouldn’t be right to run off before thanking you for your help. I’d like to fight with you, if you’ll have me. What do you say?
 
-Est: Wait, you’re sure? You don’t want me to help you? I see… Well, I’ll wait around here a while in case you change your mind. Just say the word if you need me.
+Est: Wait, you’re sure? You don’t want me to help you? I see... Well, I’ll wait around here a while in case you change your mind. Just say the word if you need me.
 
 Est: Yes? Did you change your mind about taking me with you?
 
 @Dialogue 
 Est: Palla! Catria!
 Palla: Est! Oh, I’m so glad you’re safe! Do you have any idea how much worry you’ve caused us?
-Est: I’m sorry, Palla, but I… I… I was so scaaared! Catriaaa!
+Est: I’m sorry, Palla, but I... I... I was so scaaared! Catriaaa!
 Catria: Wha—? Hey! Stop this at once, Est! You’re not a child anymore.
-Est: B-but… But I… Can’t I be the kid sister just this once? After everything I went through?
+Est: B-but... But I... Can’t I be the kid sister just this once? After everything I went through?
 Catria: But it’s not just “this once.” That’s the problem. You’re never anything BUT the kid sister.
 Est: That is totally not true!
-Palla: Enough, you two. We’re reunited for five minutes, and already you’re at each others’ throats? Honestly…
+Palla: Enough, you two. We’re reunited for five minutes, and already you’re at each others’ throats? Honestly...
 Celica: Hee hee.
 Palla: Oh, Celica! I apologize for the scene my sisters caused.
 Celica: Don’t be silly—I’m just glad the three of you are all right.
@@ -264,10 +264,10 @@ Palla: We wouldn’t be if you hadn’t helped us. There’s no way Catria and I
 
 @Recruit-Conversation 
 Deen: You Celica?
-Celica: I am. And you are…?
+Celica: I am. And you are...?
 Deen: Deen. I worked under Grieth. The northern desert was my watch.
 Celica: Ah, so you’re Deen. We owe you thanks. Had you pursued us, we couldn’t have defeated Grieth. Your restraint was much appreciated.
-Deen: Heh. Quite the gamble. Fortunately, it paid off. …You’ve got stones, little one. I like leaders with stones. What say I throw in my lot with you?
+Deen: Heh. Quite the gamble. Fortunately, it paid off. ...You’ve got stones, little one. I like leaders with stones. What say I throw in my lot with you?
 
 Deen: Figures. Well, I won’t force you.
 
@@ -277,11 +277,11 @@ Sonya: My goodness. You really are but a child.
 Celica: I’m sorry, who are you?
 Sonya: Sonya. I assume you’ve at least heard the name?
 Celica: Ah, so that’s you. We owe you thanks. Had you pursued us, we couldn’t have defeated Grieth. Your restraint was much appreciated.
-Sonya: I get the feeling you knew all along that’s how I would react. Quite the clever one, aren’t you? …It’s a bit infuriating. Still, I’ll wager your friends are seldom bored. Maybe I’ll just have to join up and see. If there’s room for one more, that is? I’m certain you won’t regret it.
+Sonya: I get the feeling you knew all along that’s how I would react. Quite the clever one, aren’t you? ...It’s a bit infuriating. Still, I’ll wager your friends are seldom bored. Maybe I’ll just have to join up and see. If there’s room for one more, that is? I’m certain you won’t regret it.
 
 Sonya: Right. All full up. Well, don’t come running back to me if you regret it later.
 
-Sonya: You came running back after all. I told you not to do that. Hmm… I wonder if this is really such a great idea.
+Sonya: You came running back after all. I told you not to do that. Hmm... I wonder if this is really such a great idea.
 
 @Conversation 
 Alessio: Ah, it’s you! Thank you again for your help with that coral fragment business. But alas, I fear I’m in deep once more, for another deal has fallen through. A sizeable one this time. Now I need to source a boatload of steel lances with all speed. With Desaix dead, my only connection on the the inside was Grieth. And I don’t have to tell you how THAT one ended. I wonder what sort of monstrous men were finally able to put Greith down? Even the Zofian Knights couldn’t touch that one in his prime! Well, whoever it was, they owe me some steel lances on the double. My client on this one is a nasty type, and my failure will be repaid in blood. I’ve scraped together as many as I can, but I’m still five short of the quota. If you have any spares lying around, I’d be happy to buy them from you. I’d even pay extra, since it’s my skin. How’s 50 silver marks apiece sound?
@@ -301,15 +301,15 @@ Celica: At last, the valley approach. Cross this, and we’ll finally reach the 
 Blake: Aye, but are you?
 Celica: Who— Oh, by the Mother! What are Rigelian forces doing all the way out here?
 Blake: ray think on it for a moment. I’m sure the answer will come to you.
-Celica: No. No, that can’t…
-Blake: You’re a priestess, aye? Other of your kind have tried to cross this valley and seek Mila’s blessing… but nary a one of them have completed the journey in one piece. Ignorance is a pitiable thing, aye, so it is. Doubly so when it’s the very Mother who’s responsible for your suffering…
+Celica: No. No, that can’t...
+Blake: You’re a priestess, aye? Other of your kind have tried to cross this valley and seek Mila’s blessing... but nary a one of them have completed the journey in one piece. Ignorance is a pitiable thing, aye, so it is. Doubly so when it’s the very Mother who’s responsible for your suffering...
 Celica: What is that supposed to mean?
 Blake: Why waste time explaining when you’re about to be dead like all the rest?!
 
 @Boss 
 Blake: What are you waiting for? Soon you’ll all serve as scabbards for my shadow sword!
 
-Blake: Damn… You’re stronger than you look… Shame you’re too late… Mila is…already…
+Blake: Damn... You’re stronger than you look... Shame you’re too late... Mila is...already...
 
 @End 
 Mae: Dangit, I hate it when they die right before they say something important! What do you think, Celica? What beans was he about to spill there?
@@ -323,43 +323,43 @@ Catria: You’re not going to Grieth’s citadel? Then I’m afraid our paths pa
 Atlas: Hey, that isn’t the way to Grieth! I don’t have time for detours. If you’re taking the long way, our deal’s off.
 
 @Dialogue 
-Celica: What a strange place… Clean, but in the sort of way that comes from being devoid of all life. Hostile to it. That sound in the distance… Waves against a shore? I remember as a child hearing it said that somewhere in Zofia a sea spans the gap between the living world and the dead.
+Celica: What a strange place... Clean, but in the sort of way that comes from being devoid of all life. Hostile to it. That sound in the distance... Waves against a shore? I remember as a child hearing it said that somewhere in Zofia a sea spans the gap between the living world and the dead.
 
 @Narration 
 At last, Celica’s band had reached the Temple of Mila. But what they found there was not the grand splendor of yore, but instead a twisted shadow of it.
 
 @Intro 
-Celica: That’s…the Rigelian Army! Has the temple already fallen to the Rigelians?
+Celica: That’s...the Rigelian Army! Has the temple already fallen to the Rigelians?
 
-Boey: What have they done to the Mother? You don’t think…
+Boey: What have they done to the Mother? You don’t think...
 
 Celica: We need to confirm her safety immediately. Everyone, infiltrate the temple as quickly as possible!
 
 @Battle 
-Mikhail: Heh heh heh…
+Mikhail: Heh heh heh...
 Celica: Who are you?
 Mikhail: I am Mikhail, cantor of the Duma Faithful. I have come to teach Duma’s greatness to the fools who cling to Mila’s lies. Now, rue your ignorance from inside the bellies of my gargoyles!
-Celica: …Take care, everyone. He’s a cantor—he’s likely to summon forth some manner of terrible beast. Stick close and watch each other’s backs above all else.
+Celica: ...Take care, everyone. He’s a cantor—he’s likely to summon forth some manner of terrible beast. Stick close and watch each other’s backs above all else.
 
 @Boss 
-Mikhail: Hmph… Ignorant, slothful heathens. Serving as food for my beasts is an honor greater than you deserve!
+Mikhail: Hmph... Ignorant, slothful heathens. Serving as food for my beasts is an honor greater than you deserve!
 
-Mikhail: Heh… Killing me changes not your fate… It changes…nothing… Heh heh heeeeeh…
+Mikhail: Heh... Killing me changes not your fate... It changes...nothing... Heh heh heeeeeh...
 
 @End 
-Celica: We’ve won. …Somehow.
+Celica: We’ve won. ...Somehow.
 Mae: Yeah, but look at the temple. It’s in shambles! I always thought it would be crazy beautiful, you know? I mean, Mila can’t ACTUALLY live in a place like this, right?
 Celica: I don’t know. Let’s go see for ourselves. We must discover exactly what came to pass in this place.
 
 @Dialogue 
-Saber: …There ain't no one here. Where's this Earth Mother of yours hiding, lass?
-Celica: I don't understand… Why isn't she here? She's supposed to be here!
+Saber: ...There ain't no one here. Where's this Earth Mother of yours hiding, lass?
+Celica: I don't understand... Why isn't she here? She's supposed to be here!
 Irma: Princess Anthiese!
 Celica: Irma! Tell me what happened.
-Irma: I beg forgiveness, Your Highness. I had no idea the temple fell to the empire while I was prisoner. They took Mila…and Your Highness's circlet as well. It's unthinkable. They're no knights— only blasphemers and thieves!
+Irma: I beg forgiveness, Your Highness. I had no idea the temple fell to the empire while I was prisoner. They took Mila...and Your Highness's circlet as well. It's unthinkable. They're no knights— only blasphemers and thieves!
 Celica: The Rigelians hold Mila captive?! You're certain of this?
 Irma: I am, Your Highness. Emperor Rudolf led the charge himself. Sealed her powers and took her away. To where, I fear I know not.
-Celica: Rudolf himself…
+Celica: Rudolf himself...
 
 @Cutscene 
 Cleric 1: Quickly!
@@ -376,17 +376,17 @@ Mila: Damn you, DUMA!!!!!!
 Saber: Now, hold on just a tick. We get to the temple and everything's taken care of. That was the deal.
 Boey: Unfortunately, none of us expected the Mother to have stepped out. Nothing like this has ever happened before.
 Mae: Well, I guess now we know why the soil’s gone barren. It’s been cut off from Mila’s bounty.
-Boey: …… What do we do now, milady?
+Boey: ...... What do we do now, milady?
 Celica: The only thing we can. We find the Mother and bring her back.
-Boey: Uh, please take this as kindly as possible, milady, but…are you MAD?! How exactly do we "bring her back"? And from where?!
-Celica: I don"t know. But if the Rigelian Army took her, she’ll be somewhere in the empire. And since we’ve already come to the border… Well, we might as well continue into Rigel.
+Boey: Uh, please take this as kindly as possible, milady, but...are you MAD?! How exactly do we "bring her back"? And from where?!
+Celica: I don"t know. But if the Rigelian Army took her, she’ll be somewhere in the empire. And since we’ve already come to the border... Well, we might as well continue into Rigel.
 Boey: Hold on just a moment. You're saying we INVADE Rigel? This isn't a motley band of pirates or thieves—it's an entire empire of them! We should all take a step back and consider our opti—
-Celica: No amount of thinking will change the situation. Come, Boey. This isn't the first time we've faced hopeless odds. And when people told us to give up, did we run? We need to trust in our abilities. We've come this far for a reason. And that reason is restoring Mila to her rightful place. She's still the only one who can save the world from this…chaos.
+Celica: No amount of thinking will change the situation. Come, Boey. This isn't the first time we've faced hopeless odds. And when people told us to give up, did we run? We need to trust in our abilities. We've come this far for a reason. And that reason is restoring Mila to her rightful place. She's still the only one who can save the world from this...chaos.
 Masked Knight: Nay, she isn't.
 Celica: Hmm?
-Masked Knight: ……
+Masked Knight: ......
 Celica: Well? Go on. Please don't leave us in suspense.
-Masked Knight: Mila cannot save this world. But you can…Princess Anthiese.
+Masked Knight: Mila cannot save this world. But you can...Princess Anthiese.
 Celica: Ah! How did you—
 Masked Knight: I bear you a gift.
 Irma: Lady Liprica's circlet!
@@ -394,13 +394,13 @@ Celica: What? How is it that you possess this?
 Masked Knight: A question for another time. Are you prepared to accept it, Princess?
 Celica: How do you mean?
 Masked Knight: This is no mere memento of your mother. It is a crown—and accepting it is a kind of coronation. As Princess of Zofia, are you prepared to wear this and ascend the throne?
-Celica: I… I'm afraid I know little of kingdoms or the scope of rule. But I have people I wish to protect. Both here and elsewhere. I wish for this by my will alone. For my own happiness. Is that resolve enough?
+Celica: I... I'm afraid I know little of kingdoms or the scope of rule. But I have people I wish to protect. Both here and elsewhere. I wish for this by my will alone. For my own happiness. Is that resolve enough?
 Masked Knight: It is indeed.
 Masked Knight: Princess Anthiese, this crown is now yours to bear.
 Celica: I accept it willingly.
 
 Mae: Wow, Celica... You look so beautiful!
-Boey: It’s not Celica anymore, dummy. [To Celica] Isn’t that right, Princess Anthiese? Er, Your Highness?! …Uh, ma'am?
+Boey: It’s not Celica anymore, dummy. [To Celica] Isn’t that right, Princess Anthiese? Er, Your Highness?! ...Uh, ma'am?
 Celica: Hee hee. Celica is just fine, you two. [To everyone] Though from this day on, I will no longer conceal my identity. I expect that will bring even more hardship than we've faced till now. But I hope I can still count on you all.
 Saber: Yeah, all right. Guess I'll go along and swear fealty. It suits you, lass. Or should I say "Princess Anthiese." Anyway, our loyalty belongs to you, for now and always.
 Celica: Thank you all. Truly.
@@ -408,14 +408,14 @@ Masked Knight: Mila was taken by Jedah, priest of the Duma Faithful. They’re k
 Celica: Then that’s where we must go.
 Masked Knight: If you’re headed into Rigel, seek a man called Halcyon in Sage's Hamlet. He is an able soul, and will mostlike assist you however he can.
 Celica: I will seek him out. Thank you.
-Masked Knight: ……
+Masked Knight: ......
 Boey: Surprisingly enough, I think I'm starting to get used to him.
-Celica: He's not a bad sort—and he clearly cares about my well-being. I can't really ask for more in such times. And yet, he's not without his mystery… I get a strange sense of nostalgia when I'm near him, though I've no clue why.
+Celica: He's not a bad sort—and he clearly cares about my well-being. I can't really ask for more in such times. And yet, he's not without his mystery... I get a strange sense of nostalgia when I'm near him, though I've no clue why.
 
 @Conversation 
-Cleric: Thank you for your kind aid, masters. But I’m afraid there’s nothing left here now…
+Cleric: Thank you for your kind aid, masters. But I’m afraid there’s nothing left here now...
 
-Cleric: The lands north of the temple are ruled by a man called Dolth. As an archcantor of the Duma Faithful, he summons necrodragons to his aid. It’s said all who trespass on his land become fodder for the arisen beasts…
+Cleric: The lands north of the temple are ruled by a man called Dolth. As an archcantor of the Duma Faithful, he summons necrodragons to his aid. It’s said all who trespass on his land become fodder for the arisen beasts...
 
 Woman: Only one of Zofia’s royal bloodline can open the temple’s sluice gate. With His Highness Lima IV deceased, who is left to take his place? What’s more, I hear the western gate has been occupied by Rigelian forces. At this rate, Zofia is at risk of a flood the likes of which we’ve never seen.
 
@@ -425,11 +425,11 @@ Saint: Rudolf used the Divine Falchion to seal Mila’s powers before taking her
 
 Priestess: Someone at the castle said that when Lady Liprica first held you in her arms, she swore she would never let you stand before Mila. What do you suppose she might have meant by that?
 
-Old Timer: Eh? Who are you s’posed to be? …Me? I’m the one what guards this here sluice gate. …How’s that? You want me to open it? Bah! I won’t do nothin’ of the sort! The gate opens for Zofian royal blood, not some random whippersnappers! Go on—shout orders at an old man. Won’t change my mind none!
+Old Timer: Eh? Who are you s’posed to be? ...Me? I’m the one what guards this here sluice gate. ...How’s that? You want me to open it? Bah! I won’t do nothin’ of the sort! The gate opens for Zofian royal blood, not some random whippersnappers! Go on—shout orders at an old man. Won’t change my mind none!
 
-Old Timer: By the Mother! That circlet! Symbol of the Zofian throne, it is! Then you must be the missing Princess Anthiese! I thought I’d never have the pleasure, Your Highness. You must have come to inquire about this here sluice gate, eh? …Well, of COURSE I can open it! All is as Your Highness desires.
+Old Timer: By the Mother! That circlet! Symbol of the Zofian throne, it is! Then you must be the missing Princess Anthiese! I thought I’d never have the pleasure, Your Highness. You must have come to inquire about this here sluice gate, eh? ...Well, of COURSE I can open it! All is as Your Highness desires.
 
 Old Timer: Er, one small issue, Your Highness. Openin’ this here gate isn’t enough what to let water flow freely. You also have to open the western gate.
 Celica: The western sluice gate, you say? That won’t be a problem.
 Old Timer: Oh? Then you’ve news from the west?
-Celica: Not exactly—but I can’t imagine Alm would let this situation continue. He’ll see the gate opened. I’m sure of it. …Won’t you, Alm?
+Celica: Not exactly—but I can’t imagine Alm would let this situation continue. He’ll see the gate opened. I’m sure of it. ...Won’t you, Alm?

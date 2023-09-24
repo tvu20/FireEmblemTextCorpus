@@ -1,0 +1,320 @@
+@Conversation
+Saint: The Sage’s Hamlet? Yes, I’ve heard of it. It’s said to be hidden away at the heart of the Lost Treescape, past the fortress built at the woods’ edge by Jedah of the Duma Faithful. One of his men guards the path there— a loathsome creature called Dolth.
+
+Priestess: The sage Halcyon was once a high priest of Duma himself, but he was driven out by Jedah. Jedah was always jealous of the loyal followers who flocked to Halcyon, so he worked diligently to seal him away from the outside world.
+
+Flustered Cleric: Oh, I’ve really gone and done it now... Here I am, entrusted with the silver platter, and I drop it in the waterway! That platter is one of Mila’s most cherished artifacts. I can’t go back without it—she’ll be furious! She might even...smite me. But how do I begin to...?
+
+Flustered Cleric: Oh, what a relief! I was sure there was some major smiting on the way... Here, this is for your troubles. Please accept it! I insist!
+
+Flustered Cleric: If you do happen to see the silver platter, please let me know.
+
+Flustered Cleric: That’s Mila’s silver platter! The one I dropped in the waterway! Please, that platter is a ritual artifact much beloved by the Earth Mother. May I please have it back? I beg it of you!
+
+Flustered Cleric: No! You must reconsider!
+
+Flustered Cleric: Mila’s silver platter lies at the water’s bottom! Oh, what to do, what to do...
+
+Bewildered Woman: I made the pilgrimage here in search of medicine to treat my ailing daughter. But with the temple in this state, it seems my long trip was in vain. I’ve waited days for an audience with Mila, but still haven’t been granted one. All I need is a medicinal syrup made of mana herbs. If I had that, I could likely cure my daughter the theraputic way. And if Mila won’t intercede, finding that syrup may be my only hope.
+
+Bewildered Woman: When I think of my daughter writhing in pain while I waste time here... I must find some way to get the medicinal syrup. I must!
+
+Bewildered Woman: Is this...a medicinal syrup? And one made from mana herbs?! Oh, thank you! Thank you! My daughter will live! Oh, I can’t begin to express my relief... Please, let me repay you. This is all I have, but you must take it.
+
+Bewildered Woman: No, I understand. It must be more valuable than a mere child’s life...
+
+@Recruit-Conversation
+Nomah: Ah, Celica! I’m glad to see you safe, child.
+Celica: Nomah? What in the world are you doing here?
+Nomah: Not to put too fine a point on it, but I was worried about you. I followed you as far as this temple, but this place is just so LARGE! I’m embarrassed to say I got a bit lost, little one. Heh heh heh!
+Celica: Oh, dear. Well, I’m glad to see you in good spirits nonetheless.
+Nomah: perhaps we’d both enjoy more peace of mind if we stayed together. Might I travel with you from here on?
+
+Nomah: I see. Well, I would hate to be the cause of worry, little one. I thought I had some action left in me still, but you know best.
+
+Nomah: Ah! Hello again. Decided you couldn’t quite rest easy without me at your side, eh?
+
+@Intro 
+Celica: This place gives me chills... Small wonder it’s got a charming name like Dead Man’s Mire.
+Saber: I can handle dead men. It’s this humidity that’s killin’ me! Let’s clear a path and get going already.
+Celica: No arguments here.
+Jedah: Anthiese...
+Celica: Huh?
+Saber: What is it, lass?
+Celica: I thought I heard someone calling my name...
+Saber: You sure? I didn’t hear anything.
+Celica: Perhaps this place is simply preying on my imagination.
+
+@Boss 
+Garcia: Heh heh heh... Yessss, come to me. I’m gonna lay you to sleep at the bottom of this beautiful swamp.
+
+Garcia: No! I was meant for...so much...
+
+@End 
+Saber: Curse these bones... I can’t stand fightin’ with mud squishin’ in my boots! We need to get out of this place yesterday. Whaddya say, lass?
+Celica: Yes, let’s...
+Jedah: Anthiese... This way... Come to me... if you wish to save Mila...and the boy...
+Celica: *gasp* What?! Just who ARE you?
+Saber: Celica? Where the hell are you going?!
+
+Jedah: Keh heh heh... Welcome, Anthiese, crown princess of Zofia. Bearer of the Brand, and one marked by fate.
+Celica: Who are you?
+Jedah: My name is Jedah. First disciple to the great and glorious Duma.
+Celica: You... You’re the one holding Mila!
+Jedah: Oh, indeed I am! However, if you wish for her release, I propose a bargain.
+Celica: What kind of bargain?
+Jedah: Mila is well and good, but what I truly desire...is you. If you will offer up your soul to Lord Duma, I will cede Mila. She will be free to return to Zofia.
+Celica: What kind of a bargain is that?! Why is my soul of any value to you?
+Jedah: Have you never thought it strange, Princess Anthiese? Rigel and Zofia are twin nations founded on the backs of divine dragons. And yet, dire changes currently befall them both. Duma seeks power vast enough to destroy all balance in the world. Meanwhile, Mila’s intemperate bounty drives the Zofians to depravity.
+Celica: Mila provides for her children!
+Jedah: Her soul, as Duma’s, is host to the madness shared by all dragonkind. Duma will grow stronger till that power brings his ruin—and Rigel’s alongside it. It is no different from how Zofia now rots in Mila’s absence.
+Celica: Her absence by your hand! And what is this madness you speak of? Do you truly claim that Mila and Duma are fated to destroy themselves?
+Jedah: I do. Which is exactly why your soul is required. It is rare and precious—born of Zofian royal blood and marked by the Brand. Such a soul could set Duma’s path to rights and ensure his survival. And with Mila restored to her place, both our peoples might be saved. As for the boy, Alm—if you do this, he could lay down his arms.
+Celica: *gasp*
+Jedah: Well? What say you? I think it is a most generous offer, myself...
+Celica: ...Perhaps you’re right. In fact, it may be TOO generous. How can I possibly believe a thing that you’ve told me?
+Jedah: I have spoken only truth, Princess. But you needn’t give your answer now. I will await your reply atop Duma Tower. Keh heh heh...
+Celica: ......
+Saber: There you are!
+Celica: Oh, Saber...
+Saber: The hell happened back there? It ain’t like you to just charge off.
+Celica: I’m sorry. ...I’m so sorry.
+Saber: Hmm? What’s going on, lass? You look pale.
+Celica: ...Nothing. Come. We need to hurry.
+Saber: Celica...
+
+@Intro 
+Boey: What’s this? Another graveyard? ...Of course it is.
+Mae: Ugh, seriously? How are you not used to this by now? If you’ve seen one ghoul-ridden deathscape, you’ve seen ’em all!
+Boey: I suppose you have...something of a point. Fine. Let’s press on.
+Mae: Actually, looks like this place is full of necrodragons. So that’s new!
+Boey: Eeeyaaaaugh!
+
+Dolth: Heh heh heh. Welcome, child of fate. Once your soul is offered up to Lord Duma, our aims will be realized. Surely there is no call for needless struggle. This way, Your Highness...
+Celica: I...
+Mae: Guess what, pal? I don’t care what kind of whacko nonsense you’re spouting— I won’t let you lay a finger on Celica!
+Dolth: Hmph. The buzzing of ignorant flies is so very vexing. Perhaps the jaws of my necrodragons will silence your interruptions!
+
+@Boss 
+Dolth: Such stubborn children... It appears a lesson in pain is in order.
+
+Dolth: Impossible...
+
+@End 
+Dolth: Wait... Anthiese!
+Boey: He’s still alive?!
+Dolth: How long will you place the lives of your friends at risk, Your Highness? You’re more clever than that.
+Celica: That’s not...
+Dolth: Come to Duma’s side!
+Saber: What’s wrong with you, lass? Run!
+Mae: Don’t be a crazy person, Celica! You can’t let him take you!
+Dolth: Silence!
+Mae: Aaah!
+Celica: Stop! Leave them alone! Please! I’ll do whatever you ask!
+Boey: Milady, no!
+Dolth: You’ve made a wise decision, Your Highness. Now come, Anthiese...
+Celica: Don’t go! Celica, you can’t... CELICA!
+Dolth: Gwaaagh!
+Celica: What...?
+Masked Knight: ......
+Celica: You!
+Masked Knight: ......
+Celica: Aaah!
+Boey: Hey! What do you think you’re doing?!
+Masked Knight: Would you so easily cast your life aside?
+Celica: I... That’s not— My choices are not your matter, sir.
+
+Masked Knight: Not my matter?
+Celica: You have aided me more than once, and I am grateful for it. But who are you to presume to know better how I might spend my life?! What could you possibly know about me?!
+Mae: Celica... What’s going on? It’s not like you to act out like this...
+Celica: Nothing is going on, Mae. Please just leave me alone. None of you can possibly know what I’m feeling.
+Mae: Celica, that’s not fair!
+Masked Knight: That’s not true, Celica. I know. ...As only a brother can.
+Celica: ...What?
+Conrad: It’s been a long time, huh, Sis?
+Celica: You... But that’s... Conrad?! I don’t know how, but... Is it really you?! I was certain you were dead!
+Conrad: I managed to escape the night they burned the villa. Some of the attendants led me to safety. From there, I fled straight to Rigel. My mother’s home. Desaix’s reach is long, but even he couldn’t follow me into the empire.
+Celica: I should hate you for letting me mourn all this time, and yet...I’m so happy... But how did you come to possess my circlet?
+Conrad: It was entrusted to me. I had orders to pass it on to you once you grew into your role.
+Celica: Entrusted by who?
+Conrad: Sorry, but I swore an oath never to reveal that information. Once I received it, however, I learned you’d left the island. I was so worried about you, I decided to follow and make sure you were safe. I never wanted to lie to you, but... Well, you weren’t the only one in hiding.
+Celica: Heh. So that’s why you wore the mask?
+Conrad: Well, it IS rather dashing, isn’t it?
+Mae: Hah! You think THAT thing is—
+Boey: Mae! He’s Celica’s older brother. You know, royalty?
+Mae: Oh, right. Sorry. But man, he sure is a lot less moody once that mask comes off, huh? He’s like a completely different guy!
+Boey: Almost as if he pretends to be someone else while in disguise. ...Imagine that.
+Mae: Oh yeah... Hee hee! Yeah, that was dumb.
+Conrad: I actually hadn’t intended to reveal myself at all. Halcyon—who looked after me at the Sage’s Hamlet—made me swear not to. I’ll have to work on my apology before I go back there... He’s right, though. The most dangerous thing I could be is not dead. But after watching you... I couldn’t listen to you speak as if you were all alone in the world. It drove a knife right through my heart.
+Celica: Conrad... I’m so sorry.
+Conrad: Please don’t apologize. I understand. I watched you come this far, after all. I saw you bear the weight of the world by yourself as Zofia’s crown princess. But from this point on, I’d like to share that burden with you. I’ll be at your side and protect you with my life. But you have to promise me something first... Don’t ever try to throw your life away like that again.
+Celica: You’re right. I’m sorry, Conrad...
+
+@Dialogue
+Conrad: This marks the entrance to the Lost Treescape. The Sage’s Hamlet—where Halcyon lives—lies within.
+Celica: I’ve heard it said a curious power is at work in these woods. And that the trees themselves conspire to hide the path to the hamlet. I’m grateful we have you to lead the way. So then, Brother—which way do we head first?
+Conrad: Er, yeah... See, this was actually my first time leaving the woods alone. And I’m not exactly sure how to... you know. Get back? But hey, adventure! We’ll just find the path together!
+Celica: Y-yes, adventure. ...Shall we get started, then?
+
+Celica: This wood is thick and dark, and plays havoc with one’s sense of direction. The tall stone pillars stand as sentinels, keeping watch over our intrusion.
+
+Celica: Er, Sage Halcyon? Sir? I’m—
+Halcyon: Ah! Celica, child of fate. I’m glad you’ve come,
+Celica: Child of fate... You’re not the first to call me that. But I have no idea where my fate lies. Please, Halcyon. Grant me guidance. Tell me what fate holds for me. I’m so lost... I don’t know what to do!
+Halcyon: I know you have suffered much along the path here, Celica. But I fear I ken no more of anyone’s fate than you do. What I do ken, however, is this: Two things exist to guide you. One is the Brand you bear. The other is your soul’s pair with the selfsame mark.
+Celica: The selfsame... Do you mean Alm?
+Halcyon: Indeed. Why were you born with the Brand? And why are there two of you? These are the questions you must consider. And always remember that you are not alone.
+Celica: ...Right. Thank you, Sage Halcyon.
+Halcyon: Of course, child. But while I cannot read the future, my magic may yet assist you. If there is anything you wish for, tell me.
+Celica: I...I wish nothing for myself. But I am worried for Alm. Please, if such a thing is possible, use your powers to help him.
+Halcyon: The other child of fate? Yours is a generous heart. Very well...
+Celica: Ah! What just happened?
+Halcyon: I sent my powers on to Alm. With them, he will be able to draw on new strength beyond himself. He need only will for it.
+Celica: Oh, thank you, Halcyon!
+Halcyon: Tell me, Celica. Do you wish to see Alm?
+Celica: What? Well, of course I do, but... I doubt Alm is eager to see me. I said terrible things to him when we last parted.
+Halcyon: Heh heh. The fire of youth at work. All the more reason to meet and speak again, no? I can send you to him if you desire it. Not your physical form, but a projection of your mind. Enough to speak, at least.
+Celica: Is that really possible?
+Halcyon: It is. Close your eyes, child. ......
+
+Celica: Alm...
+Alm: Hmm? I heard my name...
+Celica: Alm, it’s me. It’s Celica!
+Alm: Celica? How are you here? Actually, where are you? Come out already!
+Celica: Alm! I can’t believe I actually have this chance...
+Alm: Celica! Is this...just an illusion? Is it really you?
+Celica: Yes, it’s me. Sage Halcyon’s magic is allowing me to speak with you. Oh, I’ve missed you so much!
+Alm: I’m happy to see you, too.
+Celica: Alm, listen, I... *sob* I...
+Alm: Whoa, what’s wrong? ...Celica? Did something happen? Are things not going as well as you’d hoped? Augh, I wish you were here in person! I don’t know what to... Please don’t cry.
+Celica: Y-you’re not angry? I said such terrible things to you back at the castle.
+Alm: Huh? Wait, that’s been bothering you? I mean, sure, I was sad you didn’t seem to see my side of things. But I’d never get mad at you.
+Celica: Why not?
+Alm: ...Why not? You sure do like putting me on the spot. Didn’t we have a similar conversation years ago?
+Celica: Ha! *sniff* I suppose we did. You were always so nice to me, while I— While I’m always thinking only of myself. I’m sorry, Alm...
+Alm: Celica? What’s wrong?
+Celica: I’ve finally remembered why I left the island in the first place. I’m going to see Duma.
+Alm: What? No! Celica, the Duma Faithful are— It’s too dangerous! There’s no telling what they’ll do to you!
+Celica: Even so, I have to go. Mila wasn’t in her temple, Alm.
+Alm: Huh? What does that mean?
+Celica: Emperor Rudolf attacked. She’s being held captive in Duma Tower. That must be the reason why Zofia’s land has gone barren.
+Alm: No... The emperor?
+Celica: And that’s why I must go— I have to free Mila. I’m the only one who can.
+Alm: Wait, Celica... I finally figured it out, but... you’re actually... You’re the princess of Zofia, aren’t you? Princess Anthiese.
+Celica: ...I am. Heh. I guess my secret’s out.
+Alm: Ugh, now I’m cringing at what I said to you before. Talk about thoughtless! Forgive me, Celica. But don’t worry—I promise I’ll get your kingdom back. So please promise me in turn that you won’t—
+Celica: It’s kind of you, Alm. But I have to. Just winning this war isn’t enough.
+Alm: What? I don’t understand.
+Celica: It’ll be clear to you soon. I’ll do everything I can here. Please just...be safe.
+Alm: Celica? Wait, Celica! Celica!
+
+@Conversation 
+Halcyon: Duma Tower is just ahead. Be well prepared before you go.
+
+Cleric: This place is called the Sage’s Hamlet. The great sage Halcyon’s magic shields us from evil. If you wish to speak with him, you’ll find him at his home.
+
+Young Woman: Halcyon was once a priest of the Duma Faithful. There he struggled against Jedah, who sought to rule by force and terror. But in the end, he was driven out... This place has been his hermitage ever since.
+
+Young Man: This whole area has been tainted. The legacy of Dolth and Garcia’s wicked experiments. I had always thought Emperor Rudolf a wise man, but only a fool would suffer the abuses of the Duma Faithful to grow so bold. If I’m honest, I’m cheering for Zofia’s Deliverance in all this.
+
+Man: Do you all really mean to fight Jedah? I urge you to reconsider. He’s a terrifying man. If you must fight him, there’s only one way. Four... Eight... Twelve... Nraagh! I-it hurts...! J-Jedah’s...curse...!
+
+Woman: Conrad’s mother was of Rigelian noble birth. She was forced to wed the king of Zofia in order to procure food for Rigel... Can you imagine such a fate? My blood boils to even think of it!
+
+Hermit: I’ve spent my life here brewing nectar, drink of the gods. Duma and Mila both have partaken of my humble creations. Know you how nectar is made? ...No? Then let me enlighten you! Steep one gargoyle ear in medicinal syrup to form the base. Pour in bonewalker oil and mix well, then allow it to ferment while agitating. Season the result with Duma moss, and the work is done. Voila! Nectar! A libation fit to make the grandest gods salivate! You’re drooling over the prospect as well, no doubt. Bring me the ingredients, and I might be convinced to make you a batch. That’s medicinal syrup, Duma moss, a gargoyle ear, and bonewalker oil!
+
+Hermit: Medicinal syrup, Duma moss, a gargoyle ear, and bonewalker oil... Excellent! You’ve all the ingredients required to make nectar! However, the fermentation process takes three days. Return to me then. But do return, for a taste of heaven itself awaits you!
+
+Hermit: You don’t desire a taste of nectar? ...How odd. Are you sure you are well?
+
+Hermit: You haven’t the ingredients. I need medicinal syrup, bonewalker oil, a gargoyle ear, and Duma moss. If you wish to taste nectar, you must procure those items.
+
+Hermit: I need medicinal syrup, bonewalker oil, a gargoyle ear, and Duma moss. If you wish to taste nectar, you must procure those items.
+
+Hermit: Ah, there you are. I’ve been waiting. You’re dying from anticipation, no doubt. But here! Your nectar awaits!
+
+Hermit: If you ever desire another taste, return once more with the ingredients.
+
+Scholarly Man: I’ve been poring over these resources in my studies to create new medicines. One book tells of a foreign land’s theory of food as medicine. It prescribes liver for those with ailing livers, brains for headaches, and so on. I found the idea most fascinating. Consider the gargoyle—it hears the faintest sound of its prey, then strikes! Imagine what a medicine brewed from its ears could do for a person. Which brings me to a request... Could I impose upon you to procure three gargoyle ears? Please! My research needs you!
+
+Scholarly Man: Have you managed to find three gargoyle ears?
+
+Scholarly Man: What splendid specimens! Please, take this for your time.
+
+Scholarly Man: I’ll begin work on formulating that new medicine immediately. Things are about to get busy around here!
+
+Scholarly Man: But what use could you have for... Mmm. Perhaps I don’t want to know.
+
+@Boss 
+Jamil: You persist in your ignorance of Duma’s teachings at your own peril!
+
+Jamil: Duma’s blessings...be upon us...
+
+@Intro 
+Celica: ......
+Conrad: Something wrong? The closer we get to Duma Tower, the quieter you become.
+Celica: What? No I don’t! ...Er, do I? I suppose I’m just getting a bit nervous as we draw near.
+Conrad: And...that’s really it? You’re not hiding anything?
+Celica: Conrad, you’re worrying over nothing.
+Conrad: Well, all right, if you say so.
+Celica: ......
+
+@Battle 
+Jedah: Keh heh heh. I’m so pleased you’ve come, Anthiese.
+Celica: Enough talk, Jedah! I’ve come to judge the truth of your claims. I will meet with Mila first. Any decision I reach will come after.
+Jedah: As you will. But my bargain was with you alone. The rest will die for trespassing upon this holy place.
+Celica: What? But my life is the only one you need!
+Jedah: This is true. But I’ve no fondness for interruptions, and they’ve proven the meddling sort. I trust you will forgive me for being cautious.
+Celica: Gods, he’s completely mad... Everyone, be careful!
+
+@Boss 
+Jedah: I’ve no use for any of you save Anthiese. Now begone!
+
+Jedah: Keh heh heh... Your struggling is most precious. But I’ll not end your meager little lives quite yet. Anthiese! You will ascend Duma Tower and join me at its pinnacle! ...Unless you wish to lose your precious Alm, that is.
+
+%Sonya,Jedah 
+Sonya: Jedah!
+Jedah: Well, if it isn’t Sonya.
+Sonya: You’ve no idea how long I’ve waited for this day. You stole the lives of my sisters and cursed them to become witches! I will avenge them with your blood!
+Sonya: Their souls were offered to Duma freely, and both received endless bliss in turn. Only a fool would refuse to see a truth so plain. You are a burden to your wise sisters, and I shall relieve them of it now!
+
+@End 
+Celica: I’m so sorry. I never thought it would play out that way.
+Saber: You’re SORRY?! What in the name of hell just happened here? You KNOW that dog Jedah? And what’s this “bargain” he was talking about?
+Celica: I... I can’t say. I know that’s not what you want to hear, but—
+Saber: Just...stop. You’ve been full of secrets from the start, and I knew you had your reasons. But I thought you’d at least give me a little bit of trust at this point.
+Celica: I do trust you, Saber! I trust all of you with my very life! But this is something...different.
+Saber: Dammit, lass! That’s—
+Celica: I’m sorry, Saber. But right now, we have to get to Duma Tower. Mila is there, and it’s imperative that I speak with her. Once I do that, I swear I’ll tell you everything. Until then, I have to ask that you place your trust in me one more time.
+Saber: ...Ah, hell. You know I trust you. But you better start talking as soon as you’re done with Mila—got it?
+Celica: I will. I promise.
+
+@Dialogue 
+Celica: The tower is massive... Oppressive. Like Duma's power given form. What lies beyond the quest for ever-greater power? Perhaps that answer lies at the tower's peak.
+
+Jedah: Impressive. I did not expect all of you to make it here.
+Celica: Enough talk. I will see Mila now. Where is she?
+Jedah: Keh heh heh... Such impatience is unseemly, Your Highness. And at any rate, I’m afraid Mila isn’t here. She’s underground—on Lord Duma's altar.
+Celica: I don’t understand.
+Jedah: I can grant you sight, if you so desire. Gaze now upon your precious Earth Mother!
+Celica: Oh no! What have you done?!
+Mae: Sh-she's been turned to stone!
+Conrad: Look there! Piercing her brow! Is that...Falchion?
+Jedah: You have a keen eye, boy. It is indeed the divine blade. You will likely doubt me when I say this, but that was Mila's doing. The moment Emperor Rudolf sealed her power, Mila sealed away Falchion. Do not ask me her motive in this, for I understand it not. But no force in this world now remains which can harm Lord Duma. She's left her children to their fates! Kyaaaaaa ha ha ha ha!
+Celica: No... This isn't possible!
+Celica: Mila, I don’t understand. Why would you do this? Have you truly forsaken us?!
+Jedah: Heh heh heh, Your lamentations are wasted, child. If you truly wish for her release, you know what must be done. You must offer up your soul to Lord Duma.
+Boey: Did he just say what I think he said?
+Mae: Offer her...soul? Oh gods! Celica, no! He wants to turn you into a witch! That is a REALLY bad idea!
+Celica: *sigh* There's no other choice. Without the divine dragons' power, all of Valentia's people are lost, and the only thing that can save the dragons is the soul of a Brand-bearer.
+Saber: So... that's what you couldn't tell us.
+Celica: [sadly] *sigh*
+Conrad: Anthiese, you made me a promise, remember? You promised not to throw your life away again.
+Celica: I'm sorry, Conrad. I'm sorry, everyone. Please forgive me... I can't tell you how much it means to me that we’ve come so far together.
+Conrad: Anthiese!
+Jedah: You lot are no longer necessary. Begone to wherever you will.
+Boey: Huh?!
+Mae: *screams*
+Celica: NO!
+Jedah: Calm yourself, Your Highness. I've merely sent them below. As for your preparations, I fear they will take some time yet. You can while away the hours here watching the boy suffer.
+Celica: Alm? No!

@@ -1,0 +1,473 @@
+@Dialogue 
+Alm: ......
+Clive: A word, Alm?
+Alm: Clive! Did we receive a reply to our petition?
+Clive: Unfortunately, no. The empire’s silence is likely its answer. I believe it wise to resign ourselves. Emperor Rudolf has no intention of treating for peace. He means to continue his march on Zofian soil.
+Alm: Damn...
+Clive: Our men are approaching their limit. And Rigel's climate is far colder than what they knew in Zofia. Further delaying here will only sap their strength and morale.
+Alm: All right, Clive. I trust your judgment. Let’s get ready to march.
+Clive: Understood. I’ll pass word to the others and prepare them to cross into the empire.
+Alm: ...... What’s all of this leading to?
+Gray: Hey, Alm! I heard the news—guess the time’s finally come, eh?
+Alm: Yeah. We’re headed into Rigel. We’ll need to be more careful than ever past this point.
+Gray: Hey, careful is my middle name! ...No, really. I had it legally changed. ...Not even a chuckle? Really? Come on, what’s with the glowering? We’ve got this. Hell, I’VE got this! We’re not the same scraggly runts we were when we left Ram, you know? I’ll forge a new legend in battle! Heh, Clair'll probably throw herself at me. If Tobin comes crying about suddenly wanting to leave, don’t get mad, okay?
+Alm: Heh heh. That...would be a problem. I need Tobin right where he is. Thanks, Gray. For everything. I’m counting on you.
+Gray: 'Course. Still, I don’t see why the wind here’s gotta be so damned cold.
+Alm: Is it really that bad?
+Gray: You’re not freezing your tenders off? I’m impressed.
+Alm: It’s not that it doesn’t feel cold. It's more like...I know this feeling. Like the air here’s familiar.
+Gray: Never mind. Come on, let’s go.
+
+@Conversation 
+Sluice Keeper: This sluice gate was built roughly one hundred years ago. One marvels at our ancestors for crafting something so complex. Sadly, none have operated the sluice in so long that the machinery is rusting. I’d like to do fix the problem before the entire works become unusable. But alas, I’ve run out of the special oil I need to perform the maintenance. Do you think you could help?
+
+Sluice Keeper: Perhaps you’ve seen Terrors called bonewalkers? Those with heads aflame? The reason their heads burn is because of a special oil stored in their skulls. That same oil works wonders on machinery. Takes the rust right out! Once you’ve gone bonewalker oil, there’s no going back. ...Heh. So if it’s not a hassle, could you hunt some bonewalkers and gather their oil?
+
+Sluice Keeper: Have you obtained the bonewalker oil?
+
+Sluice Keeper: Ah! This is bonewalker oil, all right. I can use this to polish the sluice parts until they sparkle! Thanks for going through the trouble. Here’s a little reward.
+
+Sluice Keeper: As you can see, the sluice machinery is massive! You can never have too much bonewalker oil around here. Drop by whenever you acquire some.
+
+Sluice Keeper: Wait, you want the oil for yourself? But it’s useless! Terrible for the skin!
+
+Girl: Hey, do you like cute things? ‘Cause I LOVE cute things!
+
+Girl: Mamma Mila! That’s adorable! Are you sure I can have it? Thanks soooo much! Oh, and you can have this ’cause you’re nice.
+
+Girl: Eeeew, gross! I don’t want THAT!
+
+Girl: That is not even slightly cute. Puh-lease!
+
+Girl: Don’t try to fool me just ’cause I’m an adorable little girl!
+
+Girl: That’s not quite what I had in mind.
+
+Girl: You haven’t shown me even one iota of cute yet. Why did I even ask?! *siiiiiigh*
+
+@Intro 
+Lukas: Alm? We’re ready to march. According to our intelligence, Rigel’s forces await in the forest ahead. General Berkut is commanding them personally.
+Alm: Berkut... I guess they’re serious about holding the border.
+Lukas: Indeed. Yet we’ve no choice but to cross it.
+Alm: ...Right.
+Berkut: You kept me waiting, Alm. I was starting to wonder if you’d actually come.
+Alm: Berkut!
+Berkut: That’s quite the little army you’ve assembled. I’m almost impressed. For a ragtag group of gathered scraps, the Deliverance actually looks the part.
+Alm: ......
+Berkut: Still, it seems you’ve all let a few meager successes go to your heads. Who are you to dare threaten Rigel’s borders? Lowborn fool. Do you truly fancy yourself the next king of Zofia?! You must learn your place!
+Clive: You’ve got it all wrong, Berkut.
+Fernand: Clive?
+Clive: I've been at Alm’s side from the outset, watching all that he has done. He’s a brave warrior, and a good man worthy of the crown. He’s made such clear to me time and again.. The right of kings is not decided by blood or station. It lies in what a man believes. What keeps him up at night. It lies in a man’s actions!
+Fernand: Enough already! You would throw away your pride as a Zofian noble and bow to a commoner?! I see now that the Clive I once knew is well and truly dead. Now it falls on me to bury him!
+
+@Cutscene 
+Soldier: We’re all ready, sir.
+Alm: Understood.
+Soldier: What is it, sir?
+Alm: Sorry. I’m ready.
+Alm: Warriors, it’s time! Time to defeat Emperor Rudolf, and bring this bloody war to an end! Now then—who will defend Zofia?!
+Soldiers: We will defend her!
+Alm: Then charge!
+Fernand: My lord!
+Berkut: Follow me! These worms have no right to crawl onto our soil!
+
+@Battle 
+Berkut: Only death awaits those who would profane Rigel’s soil. Consider it a mercy your bones will rest here, in sight of your homeland!
+
+Berkut: Nrgh... No... Am I to lose again? AGAIN?!
+
+Fernand: Your existence is a black mark on the honor of Zofia. It ends today!
+
+Fernand: Gyaugh! How...how can I lose to such rabble...?
+
+@End 
+Berkut: Nnngh... Damn you.
+Alm: You’re plenty strong, Berkut. No one would deny that. But that’s why I must end this here.
+Berkut: I can’t believe it’s come to this...
+Alm: What’s—
+Tobin: Nnnh... Waaaaaugh! Wh-what’s happening, Alm?!
+Alm: Tobin! Everyone! Are you all right?
+Ally Soldier: [screaming] H-Help me! Please!
+Alm: By the gods... Are those...hands sprouting from the earth? Is this some kind of magic?!
+Lukas: No, at least not as we know it. Our own magic doesn’t seem to have any effect. This is something else entirely... Waugh!
+Alm: Lukas! I’ve got to do something before-- Berkut, what have you done?!
+Berkut: So this is Duma's power? It’s...it’s hideous...
+Alm: You did this?
+Berkut: You’ve no need to know any more. You’ll die here with the rest.
+Alm: Berkut, wait! WAIT! ...Rragh! I won’t let it end here. Not before I see you again, Celica!
+Alm: ...Huh?
+Tobin: Whoa. What was that light?
+Alm: Celica’s charm? Then maybe... Celica, can you hear me? Please, I’m begging you, help me! Help us all!
+Berkut: What? Impossible! Duma’s spell is broken?! How did you do this?!
+Alm: I don’t know. I just said a prayer to someone I love.
+Berkut: Bah! Spare me your treacly platitudes! I was meant for greatness! But you, you’re just a...just a...
+Fernand: Lord Berkut! The spell is broken, but they haven’t the strength to give chase. You must use this time to escape!
+Berkut: You would have me retreat in the face of these dogs?!
+Fernand: I would ask that you live! His Excellency the Emperor will understand. Now go! Quickly!
+Berkut: Rragh!
+Fernand: Did that power truly come from Duma? There is no pride in resorting to such unholy means. What is it the Empire—no, the Duma Faithful—are trying to accomplish?
+Tobin: They’re gone, Alm. Should we go after them?
+Alm: No. Pursuing them in our current condition is only asking for further losses.
+Tobin: Well, what you did just now was pretty incredible. But, uh... What DID you do, exactly?
+Alm: Honestly, Tobin, I panicked. I said a frantic prayer to the charm Celica gave me and then... it must have been her. She saved us.
+Tobin: Huh... Guess I owe somebody a big thank-you next time we bump into her.
+Alm: Yeah, Tobin. I think we all do.
+
+Berkut: DAMN HIM! Why?! Why can’t I beat him?! To be humiliated so by a commoner! And TWICE, no less!
+Rinea: My lord, please! You must try to calm down. You are safe. That’s all I need to be—
+Berkut: SILENCE, woman! What could you possibly know?!
+Rinea: *gasp* Berkut...
+Berkut: From childhood, all that’s ever been asked of me is strength. It is my duty as one born to stand above others! To rule! I’ve been taught that all my life! By my father, my mother! How am I to remain calm in the face of defeat at the hands of peasants?! I even debased myself by making use of that deviant’s powers! And it’s still not enough?
+???: Call to me...
+Berkut: Hngh?!
+???: You who thirst for power... Call to me...
+Berkut: Who is... Identify yourself!
+Rinea: Berkut? What’s the matter? You’re frightening me...
+Berkut: You don’t hear it? What was that voice...?
+
+@Intro 
+Alm: Where do these woods lead, exactly?
+Clive: To Fear Mountain. Home to Nuibaba of the Duma Faithful. Most would cross the Rigel Plains to the west to reach the imperial palace, so there’s no NEED to take this route, should we wish for safer passage...
+Lukas: I propose that we advance regardless.
+Alm: Why is that, Lukas?
+Lukas: I’ve heard grim reports of this arcanist Nuibaba. She’s of a kind with General Jerome, who controls the Rigel Plains. They’re tyrants both, and their subjects suffer terribly under their yoke. But if a pack of good-hearted invaders such as us were to take them out? Well, we might find ourselves with new support among the Rigelian masses...
+Alm: Interesting...
+Lukas: Granted, we run the risk of losing men we can’t afford to be without, so I’m not insisting we do this. I only offer the suggestion.
+Alm: I'll think on it, Lukas. Thank you.
+
+@Boss 
+Xaizor: My name is Xaizor, and I’m afraid your path ends here. While I bear you no grudge, my master’s orders are absolute.
+
+Xaizor: I can serve you...no longer... Forgive me...Emperor...Rudolf...
+
+@End 
+Clive: So, Alm? Have you made up your mind as to where we’re headed?
+Alm: Yes, I think so.
+Celica: Alm...
+Alm: Huh?
+Clive: What is it, Alm?
+Alm: This is going to sound crazy, but I thought I heard...Celica.
+Clive: Celica? The priestess girl from the castle? I’m sorry to say, I heard nothing...
+"Celica": Alm... I need you, Alm...
+Alm: It IS her! Where are you, Celica?!
+Clive: Huh? What’s... Alm, wait!
+Alm: Celica! Where are you, Celica?!
+"Celica": Alm... I’m so glad you’ve come...
+Alm: Celica?! What is this...? An illusion?
+"Celica": Yes... Alm, I’m being held prisoner in Nuibaba’s abode.
+Alm: What? Are you hurt?!
+"Celica": Help me, Alm... I have faith... I know you’ll come... I’m waiting for you... I’ve always been waiting...
+Alm: Wait! Celica, don’t go! Dammit! Was that really her?
+
+Nuibaba: Eee hee hee... What next, child of fate? You slipped my grasp at the border, but now you run straight to my snare. Despite the bungling of that useless Berkut... Tsk, no matter. All will be mine soon enough. I’ll not let the likes of Jedah claim a bearer of the Brand. The power of such a soul could grant me life eternal! Eee hee... Eeeeee hee hee hee!
+
+@Intro 
+Marla: Oh, dear. Such naughty children, lashing out at Lord Duma so! You’ve earned quite the punishment...
+Alm: Another witch? Listen to me—you’re being controlled! You have to fight this!
+Lukas: I'm sorry, Alm. You can’t help her. Only death can break Duma’s hold over those who have offered up their souls.
+Alm: No...
+Marla: Hee hee...
+
+@Boss 
+Marla: Hee... I’ll sing you a lullaby... It’s time for all the good little children to go to sleep.
+
+Marla: Oh dear... Such...stubborn children... You should...listen to...your...
+
+@Dialogue 
+Alm: I can feel an uncomfortably warm breeze pushing back at me, attended by a low rumbling. The voices of the dead, perhaps, calling from the land beyond, hungry again for life. Valentia knows no deeper pit than this, the guts of Fear Mountain.
+
+@Narration 
+An unsettling face peered down at them through the pitch black darkness. It was the legendary arcanist Nuibaba, mistress of Fear Mountain and terror to all. By offering up her soul, she had purchased the very darkest of sortilege: a single word from her lips was enough to snuff out life itself. Why did Alm go to this place, and what exactly did he hope to find upon that terrible peak?
+
+@Intro 
+Nuibaba: Eee hee hee... Welcome, warriors of the Deliverance. My doors stand open to receive you.
+Alm: Are you Nuibaba? Where’s Celica?!
+Nuibaba: You poor fool. There’s no one here by that name. I merely used a vision of whomever you held fast in your heart to draw you in.
+Alm: So it WAS a trap!
+Nuibaba: Eeeee hee hee hee! Oh, and how clumsily you’ve fallen into it! The specter of love ever draws fools such as you like butterflies to nectar. And yet, the real feast is yet to come... when I dine upon your souls!
+Alm: *groans* Get ready, everyone!
+
+@Battle
+Nuibaba: Come forth, Medusa! Honor the pact you’ve sworn to me!
+
+@Boss
+Nuibaba: Come close... Let me share with you death’s embrace!
+
+Nuibaba: Ahhh... It cannot be... I won’t be...
+
+@Conversation 
+Cleric: Nuibaba gathered young and comely girls from all across Rigel. She made sacrifices of them—fed them to monsters to preserve her own youth.
+
+Young Woman: Ooo! You’ve met Lord Berkut? You’re so lucky. He’s amaaaaazing. Every woman in Rigel wishes they could be his. *sigh* Alas, it’s an impossible dream, now that he’s to wed Rinea...
+
+@Recruit-Conversation 
+Alm: Are you all right? Nuibaba has been dealt with, in case you’re wondering.
+Tatiana: She’s gone? You mean it? Oh, thank you! I’ve been searching for my Zeke, but coming here was clearly a mistake. If you don’t mind my asking, who are you, exactly?
+Alm: We’re the Deliverance.
+Tatiana: Then it’s true... Zofia really HAS invaded! S-Stay back! Zeke, HELP!
+Alm: Um, we just got finished saving you. You realize that, right? And we sure didn’t come all this way just to start harming innocent Rigelians. So long as we don’t meet on the field of battle, you’re no enemy of mine.
+Tatiana: I’m...not? Sorry, my heart was racing a little faster than my brain there. But I can see you’re a man of his word. Please forgive me!
+Alm: Er, it’s all right. I know you’ve been through a lot. And technically, we DID invade, so...
+Tatiana: Well, you still seem more honorable than the troops lording over the village. ... *gasp* Oh no!
+Alm: Huh?
+Tatiana: [To Clive] Are you the leader of this "Deliverance"? Of course you are. You must be. Just look at you! In that case, I need your help. My lover, Zeke, is in peril!
+Clive: Forgive me, milady, but I fear you stand corrected. I am not the leader of the Deliverance.
+Tatiana: But you’re so tall and dashing! I thought for sure... Hmm... [To Lukas] It’s YOU, isn’t it? Yes, it must be! Witness the focused air about you!
+Lukas: Heh. Wrong again, I fear. Alm here commands us.
+Tatiana: What?
+Alm: Uh, hey there.
+Tatiana: Ack! F-forgive me! It’s just that you’re so young and... young.
+Alm: Don’t worry about it. Tell us more about this “Zeke” person.
+Tatiana: Ah yes! Zeke! Ezekiel! You’re on your way to Rigel Castle, right? Then you’re certain to meet Zeke on the Rigel Plains along the way. When that happens, don’t kill him! Don’t you DARE! His superior officer, Jerome, is a no-good, rotten lout. He and Nuibaba have brought immense suffering upon the locals. Zeke tried to stand up to Jerome and his wicked ways, but once I was taken captive, my love had no choice but to obey. If you tell Zeke I’m free, however, I know he’ll fight for what’s right.
+Alm: All right, but this Zeke—er, Ezekiel— is a Rigelian solider, isn’t he? If he attacks us, we’ll have no choice but to answer in kind.
+Tatiana: Aw, he won’t attack you. He’s a sweetie pie! Heck, he’s going to be over the moon about how you all saved me! In fact, I’m sure he’ll even come to your aid. He’s just that kind of man. *sigh*
+Alm: You’re oddly...convincing. I actually believe you.
+Tatiana: Of course you do! Just remember, no killing my sweet Zeke. Got it? I know you’ll get him out of his predicament. I just know it. Hey, wait a second... Why don’t I go WITH you? I just miss my love so much!
+Tatiana: All right. Perhaps it’s for the best. I’ll just wait here for my love to return. It wouldn’t do him any good for me to wander off and get captured again.
+Tatiana: Hmm? Yes? So you want my company? Is that it?
+
+@Conversation 
+Merchant: Oh, thank you for saving me! I’m but a humble merchant from a small village in the forest. On the way back from selling my wares, Tatarrah captured me and sent me here. I never thought I’d live to see the outside world again. But because of you, I’ll be able to see my family once more. My wife must be so worried! I had best be off. If you ever make it to our village in the forest, please stop by and say hello!
+
+@Intro 
+Soldier: Jerome, sir? My report. The Deliverance forces will reach these plains momentarily.
+Jerome: Hmph. So the peasants made it here after all. Bring me Ezekiel!
+Zeke: I’m here, sir. You have need of me?
+Jerome: The Zofian rabble will be upon us in due time. Prepare to intercept them. ...And mind your allegiances wisely. If I smell even a whiff of betrayal, you know what will happen.
+Zeke: ......
+
+@Battle 
+Tatiana: Ah, Zeke! It’s you!
+Zeke: Tatiana? But how?!
+Tatiana: It means you don’t have to heed another word Jerome says!
+Zeke: Thank you, Tatiana. Now you have saved me as well. [to his soldiers] Men, set your sights on the target! We march on Jerome’s army! Prepare to attack!
+
+Alm: You must be General Ezekiel.
+Zeke: How do you know my name?
+Alm: Tatiana told me about you.
+Zeke: You know Tatiana as well?
+Alm: We rescued her from Nuibaba. You should have no further cause to follow Jerome’s orders.
+Zeke: I am reluctant to trust in these times. Yet, how else would you know all this? You have my thanks for saving her. Allow me to show my appreciation in deed as well as word. [to his soldiers] Men, set your sights on the target! We march on Jerome’s army! Prepare to attack!
+
+Jerome: You dare?! I didn’t think you fool enough to betray me, Ezekiel. You know what fate awaits the girl now that—
+Zeke: She’s free. And now so am I. You’ve ground the people here under heel and threatened my love. Prepare to answer for your crimes!
+
+@Recruit-Battle 
+Zeke: Forgive me—it is not my wish to fight with you. I pray you’ll bear me no grudge in turn.
+
+Zeke: Forgive me, Tatiana... Ah... Then you’re... Good. That’s...
+
+@Boss 
+Jerome: You upstarts have brought death upon yourselves!
+
+Jerome: H-how is this... I am a blue blood... A general! I’ll not lose to...such—
+
+@End 
+Zeke: You must be Alm. Let me thank you again for helping Tatiana.
+Alm: We’re happy to help, General. I heard you were opposed to this war. Will you lend us your strength? Not a man among us wishes this conflict to last any longer than it must.
+Zeke: ...... I’m afraid I cannot offer you an answer here and now. There’s a village a ways ahead. I’ll await you there. Until then.
+Alm: Ah...
+
+@Conversation
+Man: Oh, look who’s here! Welcome! You don’t have to feel uncomfortable. I don’t care what land you hail from! You got rid of that rotten Jerome, and that makes you a hero around here. He and Nuibaba from up Fear Mountain have caused us nothing but suffering. And who came to our aid? Not the emperor, nor the Duma Faithful! The only one who fought for us was General Ezekiel. Doesn’t matter who he was or where he’s from—he’s a good and noble man.
+
+Man: Keep walking, you dastards! You’ll find no welcome here! You killed General Ezekiel, you...you monsters! He only sided with those scum because they took his woman hostage! In truth, he fought this whole time to shield us from Jerome and his tyranny.
+
+Young Man: I got no love for Zofia, but I s’pose I owe you a word’a thanks anyway. ...Eh? Why do I hate Zofia? ‘Cause I pour m’blood and sweat into workin’ this here barren land, is why! You Zofians have Mila’s blessin’ or bounty or whatever blasted thing it is. You eat yer fill without workin’ a day! Life’s just one big party for you lot... Makes me sick, it does. Pah!
+
+Young Man: ...Hmph. What are you lot doin’ here? Emperor Rudolf’s a good man. A hero. Not that you lazy pigs over in Zofia’d know anything about it.
+
+Old-Timer: Are you all headed to Rigel Castle? I see, I see... Perhaps that’s best for His Excellency as well. But the mountain ahead is cursed with a blight of fell beasts. Necrodragons spawn there without end, or so the travelers say. Even if you’ve the luck to elude them, eruptions often bury the path in stone.
+
+Old-Timer: Hrmph... So you beat Jerome. A petty tyrant. Who cares for such deeds?! You’ll still never cross Mount Dragonsblight! Your proud little band will march right down a necrodragon’s gullet.
+
+Young Woman: Ezekiel says he has no memory of his past. Tatiana found him washed up ashore one day, badly wounded. She was nursing him back to health, when... Well, you’ve seen his face. Wasn’t a fortnight before she was in love. Don’t suppose I can blame her.
+
+Young Woman: I always loved Ezekiel, I did, though I never had the courage to tell him... Fie on you all! I hope you rot in the belly of a necrodragon!
+
+Blacksmith: Have you ever seen a dracoshield before? They soften physical blows, mitigate magic, and can even heal you! It just so happens my family has forged these shields for generations. My grandfather even presented one to the emperor himself. You can’t make them without dragon scales, though. No sir! You need no less than four dragon scales to make a proper dracoshield. If you happen to find four and want to try the shield of shields, come see me. I’ll make you the finest dracoshield you ever did see!
+
+Blacksmith: Great galloping gargoyles! You found enough dragon scales! Sounds like someone wants me to make a dracoshield right here and now. Well, bad news—super ultimate dracoshields don’t just HAPPEN. You can come pick yours up at a later date.
+
+Blacksmith: ...Huh? You don’t want a dracoshield? What’s wrong with you?!
+
+Blacksmith: Sorry, but it looks like you failed to scale. You haven’t got enough. I need four dragon scales. Come back when you’ve got ’em.
+
+Blacksmith: Sorry, but your dracoshield isn’t ready yet. Don’t be pushy, now! Come back another day and we’ll see if I’ve finished it.
+
+Blacksmith: A-HA! There you are! I’ve got your brand new dracoshield right here! Ready? ...Ta-daaah!
+
+Blacksmith: If you manage to scrounge up four dragon scales, bring ’em here. I’ll make you the finest dracoshield you ever did see!
+
+Scholarly Man: Are you familiar with a delicacy called ambrosia? It’s valuable stuff. Some even go so far as to call it the food of the gods. Some say Sage’s Hamlet in Rigel is the only place it’s made. But I’ve studied the subject for years now, and I can say beyond a doubt... that I’ve discovered the secret recipe for ambrosia and can make it right now! ...Mmmm? How about that? Is your stomach growling yet? I’m just missing a few ingredients: yogurt, Duma moss, and an orange. Bring me those three things, and I will whip up some legendary ambrosia.
+
+Scholarly Man: Ah, you’ve brought what I need. Now watch as I cook up some food fit for the gods themselves!
+
+Scholarly Man: Really? Are you sure? This stuff is the food of the gods, I tell you! Well, it’s your choice, I suppose. Don’t come crying to me later.
+
+Scholarly Man: Alas, it seems you don’t have all of the ingredients yet. I need yogurt, Duma moss, and an orange. Got it?
+
+Scholarly Man: I only need three ingredients: yogurt, Duma moss, and an orange. Bring me those three things, and I will whip up some legendary ambrosia.
+
+@Recruit-Conversation
+Zeke: We meet again, Alm.
+Alm: General Ezekiel. Have you given any more consideration to what we spoke of before?
+Zeke: ...... Now that I have turned my lance on Jerome, Rigel will not have me. But neither can I offer that lance to you. I still have no recolection of who I am or from whence I came.
+Alm: You've lost your memory?
+Zeke: I have. All I know is that I washed up on the shores of Rigel grievously wounded. I was thrown in prison and accused of being a spy or worse. But Emperor Rudolf saved me. He gave me a name and took me in. He raised me as a father would his own son. And yes, I may have betrayed him... But never would I help you do him harm.
+Alm: I didn't know. I’m sorry. Forgive me for asking so much of you.
+Zeke: You are not in the wrong. *gasp* Alm! By the gods!
+Alm: Wh-what’s wrong?
+Zeke: Where did you get that mark on your left hand?
+Alm: What, this? I don’t know, actually. I've just always had it.
+Zeke: Is that so? Some time ago, Emperor Rudolf gave me what I thought was odd advice. He said that if I met a man with a mark on his left hand, I was to follow him. "For that man is chosen," he said. "He shall save all of Rigel." "And with it, all of Valentia."
+Alm: That's...very strange.
+Zeke: I agree. But now that I have met you, I must heed my emperor’s words. I am yours to command, my lord.
+
+Zeke: I see. I would do as my emperor commanded, but if you are not of the same mind...
+
+Zeke: Allow me to join my strength with yours. The emperor wished for this.
+
+@Dialogue 
+Alm: ......
+Gray: What's wrong, Alm? You get some bad pottage in the mess tent again?
+Alm: Hmm? Oh... I was just wondering what this mark on my left hand really means.
+Gray: No surprise, what with Zeke's speech about saving Valentia and all. "He shall save all of Rigel. And with it, all of Valentia." Heh. No pressure there!
+Alm: No kidding...
+Gray: Wait, you don’t actually BELIEVE what he said, do you?
+Alm: What? No. No, I don’t harbor any delusions of grandeur. But it's true that we're fighting to save Zofia, at the very least. So I got to wondering if that wasn’t part of helping all Valentia.
+Gray: Huh. Yeah, I guess that makes sense... in a messed-up kind of way. Celica has one of those too, right? That mark?
+Alm: She... Yes. She does.
+Gray: So maybe you guys are destined to save the world together or...whatever. I mean, It has to be fate or something that the you two of you met, right?
+Alm: Fate? I don't know about that, Gray. It's a coincidence for sure, but...
+Gray: Kidding! I was kidding! ...Sheesh, man. You're really starting to worry me here. If you don't laugh it off, it makes me sound like a lunatic for saying it.
+Alm: Heh. Sorry. You’re right. I’m not sure about the rest of it, but me and Celica meeting really could be fate. ...I'd like to believe it is, at any rate.
+
+Clair: Heavens, what is that infernal noise?
+Alm: It sounds like... Earthquake! Everyone, take cover!
+
+Alm: I don't believe it... That last quake cleared out some of the rocks—the road’s passable again.
+Clair: Goodness! What a stroke of serendipity. Come now, Alm. Let’s hurry across before the next tremor hits.
+Alm: Right...
+Clair: Hmm? Is something the matter?
+Alm: It feels strange, is all. A little TOO convenient. It's almost like I can feel someone's intent behind it.
+Clair: An intentional rockslide? Really, Alm, you worry too much. Now chop chop! One mustn't dawdle. I'll await you on the far side.
+Alm: ...... I don't like this at all. I hope you’re all right, Celica...
+
+@Boss 
+Hestia: Why do you refuse Duma’s truth? It is incomprehensible...
+
+Hestia: Why...? I’ve done...nothing wrong...
+
+Magnus: Honor demands I allow you to pass no further!
+
+Magnus: I am bested. You fight...well...
+
+@Dialogue 
+Alm: What a strange place this is: a secret shrine, closed off and hidden away from the eyes of man. What a strange place this is: a secret shrine, closed off and hidden away from the eyes of man. Why was it made? And to what end?
+
+@Intro 
+Clive: This fortress is the last thing standing between us and Rigel Castle. Good news for us, but to them, it’s their last line of defense. And men always fight hardest when their backs are to the wall. Let’s take every precaution we can.
+Alm: Right. We only get one chance. We’ll make it count.
+Slayde: Bwa ha ha ha ha! Marvelous! Welcome, ladies and gentlemen of the Deliverance!
+Alm: Slayde?!
+Slayde: Indeed! And I am dearly glad to see you again, boy. You really are full of surprises. To think a mere farmboy like you would become leader of the Deliverance. Or that you would now stand poised to claim the Rigelian Empire as well! It’s the stuff of legends, this is. Simply astonishing!
+Alm: Why are you here? Last I checked, you served Desaix.
+Slayde: True...but that was in a former life, when I was still a knight of Zofia.
+Alm: What?
+Slayde: You lot ran me out of the castle thanks to that clod Desaix’s incompetence. So...I defected to Rigel! Turncoat or no, they paid good coin for a noble’s intelligence on the enemy. They were SO grateful, in fact, they appointed me to captain this fortress!
+Clive: You lack even a modicum of shame, Slayde! How dare you call yourself a noble after trading away your pride!
+Slayde: Pride? Ha! Pride has never filled a man’s belly or warmed him in the snow. And while we’re speaking, Clive, let me tell you this: I’ve always despised you. You and your pathetic platitudes! Pride this... Honor that... Only a naif believes that righteousness will keep a man drawing breath!
+Clive: Which of us is truly naive, Slayde? You’re focused on naught but survival, yet...survival to what end? With no core belief to steel your spine, you turn tail at every shadow. Men broken by life’s unfairness who cast all principle aside will never triumph. You, Slayde, will never know victory. We will NOT lose to the likes of you.
+Alm: Clive...
+Slayde: Nrgh... Silence... SILENCE! This is merely the desperate barking of a cur faced down by a lion! Well? Don’t stand there! Attack! Paint the halls red with Zofian blood! Silence their lies, even if it means cutting the tongues from their mouths!
+
+@Boss 
+Slayde: Impudent whelps... You’ll regret this!
+
+Slayde: Nrgh! Damn you... DAMN YOUUU!
+
+Mueller: I cannot allow you any closer to His Excellency the emperor. Prepare yourself!
+
+Mueller: Your Excellency... Forgive me...
+
+@Dialogue 
+Rudolf: ...Then the fortress has fallen.
+Massena: It has, Your Excellency. I fear it’s a matter of minutes until the Deliverance reaches the castle doors.
+Rudolf: Very well. We shall greet them with a sea of blades. I leave the rest to you, Massena.
+Massena: As your will commands, Your Excellency.
+Rudolf: Now go.
+Berkut: Your Excellency, wait!
+Rudolf: Berkut.
+Berkut: Sire, why have you not given me leave to join the front lines? I know I failed you at the border, but all the more reason I beg for this chance!
+Rudolf: A merciful leader may grant a second chance. Only a fool allows a third.
+Berkut: Your Excellency!
+Rudolf: My army has no place for the weak. You’ll remain here and watch in quiet.
+Berkut: No... Please, have mercy, sire! YOUR EXCELLENCY! UNCLE!!!
+
+@Intro 
+Rudolf: Brave warriors of Rigel. You have fought with courage and skill at my side these long years. But the hour of reckoning is upon us. Our empire’s light is guttering. Now heed my words well! If I should fall, my final order is that you lay down your arms and surrender. I hear the young Zofian general is a man of mercy. If you have any love and loyalty for me, you’ll not waste your lives this day.
+Rudolf: ......
+Alm: That’s Emperor Rudolf... This is strange... I’m not sure what I’m feeling at the moment. He’s caused so much suffering, and I know I should hate him, but...I can’t. Instead he just feels... I don’t know. Familiar, somehow?
+Gray: Alm! Snap out of it, will ya? This is no time for daydreaming. We’re at Rigel Castle’s doorstep, buddy. We need you focused. Now pull yourself together already! We didn’t ce this far to lose here!
+Alm: A-ah, right. Sorry, Gray. All right, everyone. Let’s do this!
+
+@Boss 
+Rudolf: Come... Strike me!
+
+%Alm,Rudolf
+Alm: What’s going on? Why won’t you attack? What are you planning, Rudolf?!
+Rudolf: ......
+
+@End 
+Rudolf: You’ve...done well... I’m proud of you...my son.
+Alm: ...What?
+Rudolf: I knew I was right to entrust you to my dearest friend.
+Alm: Your friend... You mean...Mycen? What’s going on here? What are you saying?!
+Rudolf: I’d thought you’d have realized by now. Your true name... Your true name is Albein Alm Rudolf. You are...my one and only son.
+Alm: I... What? That can’t be true... You’re lying! Why should I believe a word you say?
+Rudolf: Nnngh... Be still, Alm. I haven’t time left... to explain. But I beg you to grant me one... final favor.
+Alm: You want a favor from ME?
+Rudolf: Take the Divine Falchion that... sealed Mila's strength... Duma has become a thing of mindless evil. Use the blade... Destroy him... Please, my son... You must— 
+Alm: No, wait! Emperor Rudolf! Were you truly my father? Then I’ve just--- Oh, gods! What have I done?! Aah... AAAAAAAUGH!
+
+Celica: Stop! Please, no more! Alm! How has it come to this?!
+Jedah: The boy will come to slay Lord Duma erelong. A fool's erand, I fear, without Falchion.
+Celica: Alm is coming here? Please, you mustn't hurt him! My soul alone is all you need, yes?
+Jedah: Oh? Then you will offer up your soul to Lord Duma willingly?
+Celica: I will. If it saves Alm, I will surrender my soul gladly.
+Jedah: (laughs) As you wish, Your Highness. Now, come with me.
+
+@Conversation 
+Soldier: L-long live His Excellency Rudolf II!
+
+Archer: ...Welcome home, Prince Albein!
+
+Cavalier: I was present when Emperor Rudolf marched on the Temple of Mila. I know the blade he used to seal her power away—the Divine Falchion— had long been housed in the treasure vaults beneath Duma Tower. Though I fear I do not know what became of it after...
+
+Massena: Welcome home, Prince Albein. I am Massena, captain of Emperor Rudolf’s imperial guard. His Excellency told me everything before facing you in battle. Afterward, I gathered the remnants of his forces and awaited your arrival.
+Alm: He told you...everything? Are you telling me he knew he was going to lose? That he expected to die by his own son’s hand?
+Massena: ...I am afraid I cannot speak to His Excellency’s intentions. I humbly ask that you visit the throne and listen to what Sir Mycen has to say.
+Alm: Mycen is here?!
+
+Massena: Please, my prince. Visit the throne and hear what Sir Mycen has to say.
+
+@Dialogue 
+Mycen: So you’ve come, Alm.
+Alm: Grandfather... What the hell is going on?! What are you doing here?! Rudolf said I was his son, and now all these people are calling me a prince!
+Mycen: It’s only natural that you’re feeling confused. But there is no denying fact—you are the only son of Emperor Rudolf. Scion of the Rigelian imperial bloodline, and true heir to Rigel’s throne.
+Alm: ...How could you? You knew all this time, and yet you kept it from me...! You KNEW, and you still sent me off to kill my own FATHER!
+Mycen: Please remain calm, Alm. *sigh* Let me explain. ...Best I start at the very beginning. As you well know, Valentia has always been divided north from south— split between the two gods, Mila and Duma. But their involvement with mankind eventually grew too deep. When madness takes a god, man is lost. And where gods meet ruin, men die too. That is the plight Valentia now faces.
+Alm: You’re saying the gods are...dying?
+Mycen: I fear so. Rudolf was among the first to understand the signs. He saw Duma’s growing madness and knew it for a harbinger of ruin. But then you were born, Alm.
+Alm: What does that have to do with any of this?
+Mycen: You bore the Brand—sign of the hero who would rise to save Valentia. Hearing that prophecy, Rudolf knew you must be kept hidden from the Faithful. He concealed the news of your birth, and entrusted you to me in Zofia. I will never forget the pain on his face when he placed you in my arms...
+Alm: ......
+Mycen: That day marked a change in him. He donned the mantle of one who would destroy the old world order— one who’d free men to live by their own power, even if they hated him for it. He knew such heresy would bring forth those who wished for his death. So for that death to come at the hand of his beloved son was...a mercy. He told me himself that he could imagine no more peaceful end.
+Alm: And what of my peace?
+Mycen: This is not the time for mourning or self-pity, boy. Rudolf’s purpose now falls to you. The true foe you must defeat is Duma. As well as the zealots tainted by his madness who seek control of Valentia: Jedah, and his Duma Faithful. If you do not hurry, Celica’s life will also be in peril.
+Alm: Oh, gods! Celica! She set out in search of Duma in order to save Mila.
+Mycen: A passage beneath this castle leads to the Temple of Duma. Go, Alm. Go and finish this. Return the mad god Duma to the darkness... from whence he came.
+
+@Narration 
+His whole story was a lie. Alm’s youth... His days of training with Mycen... All were but calculations in a far-reaching plot by his lord father, Emperor Rudolf. Alm had taken his father’s life, and that sadness would stay with him always. But destiny would not permit this son of the Brand to simply walk away. Valentia lay yet in the grip of Duma— the wicked god, the War Father—as well as Alm’s dear Celica, who would become Duma’s willing servant...
