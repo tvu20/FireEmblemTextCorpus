@@ -1,0 +1,70 @@
+@Opening 
+The Sable Order fought valiantly to keep Marth’s army from reaching Chiasmir, but in the end Grust’s knights buckled: the world’s mightiest only in song. The League marched on to the Fane of Raman, a holy sanctuary built by the divine dragoons to house their most priceless treasures. Here another story was set to begin...
+
+@Intro 
+Gharnef: Tiki... Tiki... Princess-that-was of the great divine dragons ...Can you hear my voice?
+Tiki: ....Mm-hmm.
+Gharnef: Defilers have set foot inside the fane- despoilers! Punish them. Let your fire consume them!
+Tiki: Defilers... in the fane... Punish them...
+Gharnef: Remember, Tiki. Your divine dragon kin perished long ago, and Bantu has abandoned you... I alone am protecting you from Medeus. Remember...
+Tiki: You alone... are protecting me... Punish... the defilers...
+
+@Recruit-Talk 
+%Bantu,Tiki 
+Bantu: Tiki! Tiki, my child! At last, I have found you!
+Tiki: No... Stop... Come no closer...
+Bantu: Hm? ...Gharnef has put you in some sort of trance, poor thing. Peace, child. Peace. Awaken.
+Tiki: ...Mmm? ....Ban-Ban? Is that you? Where am I? What happened?
+Bantu: Yes, child. ’tis I, ’tis I. How I worried! Are you hurt?
+Tiki: No, Ban-Ban, just...just scared...I feel as though I just woke from an awful nightmare...
+Bantu: I am truly sorry, child. Truly, I am. I will not let us be separated again. From now on, I will be there to protect you.
+Tiki: Promise? You have to promise, Ban-Ban. I hate being alone...
+
+@Recruit-Battle 
+Tiki: N-no! Please! Come no closer!
+
+Tiki: Ban-Ban... Wh-why did you leave me?
+
+@Battle-Talk 
+%Marth,Tiki
+Marth: You must be Tiki. Bantu told me all about you.
+Tiki: Ban-Ban told me all about you, too. Will you take me with you?
+Marth: Of course, Tiki, as long as that’s what you want.
+Tiki: Yes, yes, it is! Oh, thank you, Mar-Mar!
+Marth: Mar-Mar?!
+Tiki: Am I not allowed to call you that?
+Marth: N- That is- Er- Well, if you want.
+Tiki: Thank you, Mar-Mar!
+Marth: You’re welcome?
+
+%Xane,Tiki 
+Tiki: Huh? Xaney, where'd you go?
+Xane: Huh? Xaney, where'd you go?
+Tiki: Xaney?! Why are you imitating me!
+Xane: Xaney?! Why are you imitating me!
+Tiki: Cut that out right now!
+Xane: Cut that out right now!
+Tiki: Ugh, I HATE you, Xaney!
+Xane: Huh? Hey, wait, Tiki! Oh come on. I was just jokin' around! Tryin' to lighten the mood! It's not like I can transform into a dragon like you so just– Oh, would you come back?
+Tiki: Meanie.
+Xane: So how are you holdin' up, kiddo?
+Tiki: Im all right.
+Xane: Still having those bad dreams?
+Tiki: Sometimes. They're really scary...
+Xane: I bet they are. (...Ugh, what does Lord Gotoh expect me to do?)
+Tiki: Did you say something?
+Xane: Oh! No, no, it's nothin'. Hey, you know that Marth's countin' on those powers of yours.
+Tiki: Uh-huh... Why?
+Xane: So, uh... you just take care of yourself, that's all. You're one special kid.
+Tiki: I know.
+
+@End 
+Nyna: Marth! Tell me, was it a success? Did you locate the Lightsphere and Starsphere?
+Marth: Never fear; I have them. We need to take these to Gotoh so he can undo Imhullu’s magic... But first, Nyna, we’ve a more pressing task ahead of us.
+Nyna: Oh? And what is that?
+Marth: We must defeat Grust once and for all. If we march south without finishing them off, we have our rear exposed.
+Nyna: Then you mean to invade.
+Marth: Yes. And this time, General Camus will be there to meet us. I am sure of it. Camus the Sable, they call him. Many extol him as the most able warrior alive. It will be a fierce battle... but one we cannot avoid.
+Nyna: You are certain we must face him?
+Marth: We have crippled Grust, but they will regroup and stand in our way again. No, we need to stamp this fire out before the wind catches it and starts spreading it anew.
+Nyna: Very well. But before you attack, there is something I must tell you. Later, though... Not yet. I must sort my feelings out first...

@@ -1,0 +1,27 @@
+@Opening
+Marth, prince of Altea was lucky. Though Dolhr took from him his kingdom and all but a handful of knights, they could not take his life. Marth lived and made it to the eastern isle of Talys. Talys was a small border kingdom, with no grand order of knights to boast of, but its king selflessly gave Marth use of the isle's eastern fortress. And as he saw the boy shake with anger and grief, he also gave wise counsel: "Prince Marth," he said, "I do not doubt you love your sister something great. But you must be patient... Time is on your side. If you stay here, and grow stronger, a time will come when you can help her." So Marth stayed in Talys, protected by its kind people, and the years went by...
+
+@Intro
+Jagen: Sire! You've a visitor from the castle. It's Princess Caeda!
+Marth: Caeda, what is it? You look white as a sheet!
+Caeda: Marth, come quickly! It’s the castle... Galdr's pirates attacked from out of nowhere... They stormed the gates and cut down everyone in their path! I fear for my father's life...
+Marth: Steady, Caeda. You did well to come find us. Altea's bravest knights aren't about to hand Talys to that flock of seafowl. Come, we'll make for the castle now!
+
+@Visit
+Old man: Villages will keep their gates open for Prince Marth, but he must be quick – if a thief reaches a village before the prince does, there may not be any more village left to visit.
+Young man: I hear you need a high weapon level to wield the strongest weapons. Another thing: Keep your fliers away from those enemy archers!
+Young man: A knight belongs on the front lines, if you ask me. That thick armor can take a lot of abuse, so they should be up front protecting the other units.
+Teenage boy: Galder? That's the harbor town west of Talys out beyond the water. These days, a pirate by the name of Gomer calls the shots there. The whole town's at the mercy of his crew.
+Old woman: A man of the staff by the name of Wrys lives in the village south of the castle. He was hopin' to meet your prince.
+
+@Recruit-Visit
+Old man: Prince Marth! 'Tis good you stopped by. The villagers have collected 10,000 gold pieces. If it please you, use the money to arm your warriors, and rid our land of those pirates.
+Wrys: I am Wrys, a humble curate. I cannot fight, but this staff I carry can heal your wounded. Take me with you, and you'll be very glad you did.
+
+@Boss
+Gazzak: The might of Altea, ye say, now? Har! Ye sprogs look t’be a mite short o’mighty t’me.
+
+Gazzak: Rrgh... Ye'll pay, dog...
+
+@End
+Talys King: Ah, Prince Marth! You have saved us in our hour of need. Please accept my thanks. Lad, I believe you are ready. If you wish to seek out allies in Aurelis, I will give you what soldiers I can to see you arrive there safely. Captain Ogma is a fine swordsman, brave and true. I know he and his fighters will serve you well. Another thing...During your travels, you are certain to meet many who despise Dolhr. Some may be hiding in villages; other may have been captured or forced to fight against their will or better judgment. It falls upon you to find these individuals and win them over your cause. Understood, lad? Then go! The time has come! Be patient, steady, strong: I know you will do great things.

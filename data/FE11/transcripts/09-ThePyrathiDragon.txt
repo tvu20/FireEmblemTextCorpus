@@ -1,0 +1,19 @@
+@Opening 
+Grust had caught the League unawares, forcing them to flee to Pyrathi. But the kingdom of Pyrathi seldom made contact with the outside world, and their king, Mannu, was wroth when he heard of the League's unexpected visit. There were whispers Mannu was a dragonkin- rumors soon to be proved true.
+
+@Intro 
+Mannu: Interlopers! Barbarous filth! They dare dig their heels and hooves into this hallowed ground? I will kill them for this- one by one- then turn the crimson grass beneath them into their pyre!
+
+@Visit 
+Teenage Boy: Your best chance of stopping a Manakete lies in what they call a wyrmslayer. It’s a type of sword, and I hear one is enshrined in the eastern palace.
+
+@Recruit-Visit
+Jeorge: Prince Marth, I am Jeorge, an Archanean sniper. I fought to defend our palace from Dolhr but the enemy’s strength was too great. We lost, and I was captured. Thankfully, they’re not half as bright as they are strong, and I managed to slip away when they were not looking. I heard you were on your way to Pyrathi, and that Princess Nyna was with you, so I came here to offer my help. Let me fight with you to save my land, and I will use this silver bow to show you marksmanship unlike any you’ve ever seen.
+
+@Boss
+Mannu: Foolhardy humans, defying a Manakete king! Tremble now, and feel the last quickening of your heart!
+
+Mannu: What...? Slain, by this fangless coward and his minions?
+
+@End 
+Catria: Prince Marth. I am Catria, of the Whitewinged Order of Macedon. I have come with a request from our mistress, the princess Minerva. She is planning to lead us against Dolhr in rebellion; however, hero hands are tied so long as the enemy holds her younger sister, the princess Maria, captive. Will you rescue Princess Maria from their clutches, that my Whitewing sisters and I might join in your fight?

@@ -1,0 +1,31 @@
+@Intro 
+Caesar: Prince Marth, we are mercenaries hired to protect Port Warren. Grust has gathered its forces in the northern fortresses. They have put the port to siege. It's very dangerous here. But there is a castle to the east that looks a bit safer. We should make it our target. Let's head out there together without delay!
+
+@Visit
+Woman: Many foes wait inside the fortresses, ready to enter the battle. Block them so they can't get out!
+Woman: I've heard tell that a princess of Macedon is being held captive in Castle Deil. Macedon and Dolhr are supposed to be allies! I wonder what happened...
+
+@Recruit-Battle
+Roger: I don't want to fight. But I've got orders to stop you right here! I am sorry.
+
+@Recruit-Talk 
+%Caeda,Roger
+Caeda: Hello there. I am Caeda of Talys, and I come in peace.
+Roger: Ack! You caught me off guard, calling out like that... What do you want?
+Caeda: I have a question for you. Do you believe in love? Is there someone that matters to you?
+Roger: Wh-What? What kind of question is that?
+Caeda: I apologize. You look very kind, and I thought we might have a chat. Would you mind telling me your name?
+Roger: Er, well... The name's Roger. Roger of Grust.
+Caeda: Roger, I want you to thing about something... Those who cry because of war. We in the Archanean League wish to put an end to fighting, to this sadness. Surely you can understand this.
+Roger: Of course I do. I don't fight because I enjoy it... But I can't betray my homeland.
+Caeda: Is there someone precious to you in Grust?
+Roger: My parents have passed on, and I am unmarried... But betraying my homeland is out of the question!
+Caeda: So what I ask is impossible?
+Roger: I am sorry to say so, but yes.
+Caeda: And I am sorry to hear it. I do understand. Still, I was glad to speak. You are the man I expected.
+Roger: Oh, you're leaving, then...
+Caeda: I must. If I stay with you too long, your comrades might think you a turncoat.
+Roger: You are too kind... Why can't I meet someone like you in Grust? Hey... Wait a moment. I... I don't want you to leave. I am on my own, so...I will join you.
+
+@End 
+Malledus: Prince, if we stay here, we'd be putting ourselves in danger. We must head to Pyrathi with haste. There are rumors that the Pyrathi king, Mannu, is a descendant of the dragonkin, however. This is also reason for concern. But we have no choice. Please, be cautious.

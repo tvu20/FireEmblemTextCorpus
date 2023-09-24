@@ -1,0 +1,17 @@
+@Intro 
+Gharnef: Tiki... princess of the long-departed Naga clan... Incinerate all those who would disgrace the Fane of Raman! Don't forget that I saved you from Medeus after Bantu abandoned you!
+
+@Recruit-Battle 
+Tiki: N-no... Don't... Don't come near me!
+
+@Recruit-Talk 
+%Bantu,Tiki 
+Bantu: Tiki! I've been looking everywhere! It seems Gharnef is controlling you... Now...wake up!
+Tiki: I... I... What... What happened? Where am I?
+Bantu: Back to your senses, are you? Good! How do you feel?
+Tiki: It was so scary... A terrible nightmare... that wouldn't end!
+Bantu: Oh, Tiki! I am so sorry. It's all my fault this happened! But you're all right now. I won't leave you again... I promise.
+Tiki: Yes, please promise! Don't leave me alone ever again! Promise me that you won't...
+
+@End 
+Nyna: Prince Marth... Before we head on to Grust, I must tell you something. You know of General Camus, the captain of the famous Sable Order of Knights... I was captured by the Sable Order when they occupied Archanea two years ago. Dolhr intended to utterly destroy the Archanean royal family. But that man, Camus, protected me. He stood up to Medeus when I could not. Knowing Medeus's elite guards would come, Camus helped me find sanctuary in Aurelis. He has won many victories for Dolhr, but that no longer matters to them... because of what he did for me. When I was a prisoner, I hated him... but my feelings have changed considerably... I hope that you will not cross swords with him... I wish to see him again.

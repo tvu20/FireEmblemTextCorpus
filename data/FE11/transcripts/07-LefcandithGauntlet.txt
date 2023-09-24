@@ -1,0 +1,37 @@
+@Opening 
+Aurelis was free, but Marth and his army- now known as the Archanean League still had much work ahead of them. They followed the Middleroad south, bound for Archanea Palace- a perilous route, for it took them right into Lefcandith Valley and the jaws of trouble. The countless fortresses lining the valley made it a veritable gauntlet and compounding the danger was the presence of the Whitewings, a knightly order led by Princess Minerva of Macedon. It would be a fierce battle.
+
+@Intro 
+Minerva: General Harmein, I cannot abide by these tactics of yours. Let me attack the rebels head-on, and keep my pride as a knight of Macedon.
+Harmein: Ah, you mean the same pride that cost us all those soldiers back in Aurelis? I think not, Princess. If we’re to regroup, we need to buy time. My tactics are necessary. The emperor himself has named me commander of this post. Either obey, or accept the consequences. Your little sister Maria is still under our word, is she not? What a shame it would be, if we decided we could no longer care for her…
+Minerva: Enough! …I will obey. But the Altean knights are smarter than you give them credit for. They will prevail here, and you will regret having acting so rashly, General.
+
+@Visit 
+Middle-aged Man: Say, did you happen to get a look at the axe wrapped in Minerva’s princessly fingers? No, I suppose not, otherwise you’d not be standing here. That axe is Hauteclere, the strongest axe of ‘em all. Nobody knows who made it or where, but it’s said to rival even the three regalia, Archanea’s mightiest weapons. Why, if she got her hands on Iote’s Shield (that’un being Macedon’s treasure, see) she’d be nigh unstoppable!
+
+Bantu: You there. Have you come across a young girl, one by the name of Tiki? She must be found, boy! Tiki is the last of the Naga, the divine-dragon clan. Without her powers, we cannot challenge the Manaketes who serve Medeus… Me? I haven’t the power. I am a fire dragon, yes… But in the name alone, in name alone. I lost my firestone in Pyrathi. Without it, I cannot do battle. …You will be traveling much, yes? I wish to go with you. Perhaps together we can find Tiki.
+
+@Battle 
+Minerva: Fie, enough! I’ve no stomach for these cat-and-mouse tactics. Come, Whitewings, we fly! Hyah!
+
+@Battle-SpecialDialogue
+Minerva: Rrgh… I can’t keep up the fight with these wounds… I must withdraw.
+
+Palla: I serve Princess Minerva, not Grust. This battle is over.
+
+Catria: The commander left? Then I’ve no reason to stay.
+
+Est: Sorry, General. My place is with the commander.
+
+@Boss 
+Harmein: Curse Minerva and her pride! Grr, no matter. If I am to die here, then I won't be dying alone!
+
+Harmein: Aaargh...Traitors...every...where...
+
+@End 
+Malledus: Prince Marth, I was wondering if we might talk about the Manaketes.
+Marth: Manaketes? You mean the dragonkin?
+Malledus: Yes, sire. I was not sure how much knowledge you had of the Manaketes. The Manaketes inhabited our continent long before the dawn of humanity. However, ordinarily their draconic disposition stayed suppressed; their power sealed within special stones. Thus rather than terrorizing humankind, they chose to live simple, peaceful lives in the quieter reaches of the world. However, a century ago, something changed. Medeus, the Shadow Dragon, surfaced in the Dolhr region and created what would be a great empire there. His forces invaded the human realm, and in the blink of an eye, he had subjected all of the land. It was then, in that darkest hour, that a young man named Anri appeared, and rose against the Shadow Dragon. In his head was a shining blade of light- Falchion- which he plunged into Medeus- and the tyrant was no more. Anri went on to found Altea- and the rest, I believe, you know.
+Marth: Yes, Malledus… Is that what this was about? I do know my own kingdom’s history. And I know what I must do, now that Medeus has revived and restored Dolhr to its former might.
+Malledus: You are Anri’s last male descendant, the only one who can wield Falchion. You must find the blade that was taken, and put an end to Doluna and its misguided Manakete rulers.
+Marth: I will finish what my father started. I will avenge him, and bring light back into our world.

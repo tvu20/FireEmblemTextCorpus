@@ -1,0 +1,49 @@
+@Opening 
+At long last, Altea was free again. Marth took the League to Helena Castle in the north, an old fortress and key supply point during Dolhr and Grust’s occupation. There he meant to seize the last of the enemy’s gold and provisions but Grust would not give up the castle without a fight...
+
+@Intro 
+Enemy Soldier: Lord Dactyl, I’ve brought the mage.
+Dactyl: Good. Hold him up.
+Etzel: ...Nngh....
+Dactyl: Well, then? Have you been persuaded to fight for us?
+Etzel: ...Never. I’d rather die.
+Dactyl: You’d rather DIE? Ha! As if a spell-slinging vagabond like you has any choice in the matter! Enough. Strip him of all his possessions and lock him up someplace. Perhaps we can use him later.
+Enemy Soldier: There’s not much to strip him of, milord. Just the tome and this ring...
+Dactyl: Ring? Let me have a look at that.
+Etzel: No! Don’t you- Grr, let me go! Don’t you touch Ursula’s ring!
+Dactyl: Wha... what are you- yaagh!
+Enemy Soldier: O-oi! Take your hands off Lord Dactyl!
+Etzel: Rrgh... please, not the ring! ...Give it BACK!
+Dactyl: Unhand me, you filthy maggot!
+Etzel: Nngh! ...Unnh...
+Dactyl: Take this wretch away. Now!
+Enemy Soldier: At once, milord!
+Dactyl: Hmph, all that for some tawdry ring. ...Hmm? That gives me an idea...
+
+@Battle 
+Enemy Soldier: I’ve brought him, milord.
+Dactyl: Good. I’ve had a change of heart. I am considering giving that ring of yours back.
+Etzel: ...!
+Dactyl: BUT...you must face the League for us. How much considering I do hinges on how well you fight.
+Etzel: ...And how am I to fight unarmed, my lord?
+Dactyl: Hmm? ...Ah. yes, well, you can have your little book back. But you know what the consequences will be if you betray us...
+Etzel: For now, I’ll just have to feign obedience...
+
+@Boss 
+Etzel: Sorry. I mean you no harm, but neither have I any wish to die here.
+
+Dactyl: Blast! Where have those indolent guards gone?
+
+Dactyl: Unnh... gwaaah!
+
+@End 
+Malledus: Prince Marth! Grust’s garrison left their war chest when they fled. This much gold should buy plenty of equipment. Might I suggest, sire, you avail yourself of this opportunity to outfit your soldiers? Our next opponent will be Grust’s Sable Order. By our scouts’ reports, they march to meet us as we speak. Many say their knights are the strongest on the continent. We’ll want to be well prepared.
+Etzel: You’re Prince Marth, aren’t you? I wish to thank you.
+Marth: ...Who are you?
+Etzel: My name is Etzel. I am a traveling sorcerer. Those Grustian cowards stole a ring from me, and were it not for you, I might never have seen it again.
+Marth: The ring must have been very dear to you, then.
+Etzel: It’s all I have to remember my wife by. She got caught in the fighting back when Gra betrayed Altea...
+Marth: Those were dark days. You have my deepest sympathies; I lost my father in the same battle.
+Etzel: Will there be no end to this bloodshed?
+Marth: There will, Etzel. I have sworn to end it; that’s the very reason all of us fight.
+Etzel: And you think you can end it, just like that? From anyone else’s lips that would sound absurdly naive. But I can tell you are sincere. Tell me, Prince, have you any need for an extra... spell slinger? I’ve no taste for war, but I do have a fierce hunger for ending it. Let’s usher in a new era, you and I.

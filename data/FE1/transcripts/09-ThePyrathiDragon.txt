@@ -1,0 +1,14 @@
+@Intro 
+Mannu: Interlopers that dare set foot on the sacred land of Pyrathi! I will not permit even one of you to remain alive. Our god, Salamander, will burn you to ash!
+
+@Visit 
+Man: To defeat a Manakete, you'll want a sword called a wyrmslayer. Rumors tell of such a sword hidden in a shrine to the east.
+
+@Recruit-Visit
+Jeorge: Greetings, Prince Marth! I am Jeorge, a sniper of Archanea. I was captured when Archanea was defeated, but, with effort, I escaped. I have been awaiting you. I hear Princess Nyna is under your protection. I wish to join you. With my silver bow in hand, I will expend every effort to set my land free.
+
+@Boss
+Mannu: You fools! You will soon understand the true terror of a manakete's wrath!
+
+@End 
+Catria: Prince Marth, I am Catria of Macedon's Whitewings. I have come to you with a secret request. Princess Minerva's forces are planning to rebel against Dolhr. However, the princess's younger sister, Maria, has been taken hostage by Dolhr so we cannot act. We beg of you, please help us save the young princess!

@@ -1,0 +1,50 @@
+@Opening 
+The League had reached Archanean soil, so Marth gave himself leave to recuperate in Port Warren, a harbor town known for commerce. Coin alone kept the town free and they paid Dolhr dearly in taxes to preserve their autonomy. Naturally, then, theirs was a warm welcome when the Archanean League arrived. Marth's soldiers were glad to rest there, nestled between mountain and sea, but their joy was spoiled by news that the enemy was fast approaching- as harsh an awakening as a rock beneath the pillow.
+
+@Intro 
+Caesar: Prince Marth, I am Caesar, and this is Radd. We are hired swords in the service of Port Warren. Grust has gathered its knights by the fortresses to the north. It's dangerous for you to stay here. Thankfully, the eastern castle has been left almost entirely unguarded; that's the place to strike. Please be careful, sire. We'll be fighting with you all the way.
+
+@Visit
+Old Woman: They say a princess of Macedon is being held captive inside Castle Deil. That's odd, don’t you think? Why would Dolhr imprison their own ally?
+Young Man: I saw loads of enemy soldiers up by the northern fortresses! They’ll be pouring out of the gates any minute now. You’d better send someone to bar the exits before they do!
+
+@Recruit-Battle
+Roger: I bear you no ill will, but what can I say? A war's a war.
+
+@Recruit-Talk 
+%Caeda,Roger
+Caeda: Good day, sir.
+Roger: Ack!
+Caeda: Peace, I’ve no wish to fight you. My name is Caeda. I hail from Talys.
+Roger: Wh-what are you talking to me for?! This is a battlefield!
+Caeda: Might I trouble you by asking your name, good sir?
+Roger: M-my name? That’s- It’s Roger... Why?
+Caeda: Hee hee, forgive me, Roger, it’s just you looked sweet and kind. I just had to stop and talk to you. Tell me: do you believe in love? Oh, listen to me. I’m sure you already have a sweetheart back in Grust.
+Roger: What?! No, no! I... mean, er, I’m quite unattached at the moment.
+Caeda: Roger, think of the children- the poor women and children who shed tears every day this war drags on. I joined the Archanean League to put an end to it, but I just...just...*Sniff* Oh, Roger, doesn't it break your heart?
+Roger: Aye, miss. There, there. I, too, wish nothing more than for this needless war to end.
+Caeda: Then...would you consider fighting with us to end it?
+Roger: What? Oh heavens, no... I’m sorry, but I could never betray my kingdom.
+Caeda: Ah, yes, I see. You must have family back in Grust who are counting on you.
+Roger: No, not especially. My parents are dead, and it’s not as if I’ve a girl to call my own. But Grust is my home- always has been. I won’t betray her.
+Caeda: And I cannot convince you to change your mind?
+Roger: I’m afraid not, miss.
+Caeda: All right, sorry to bother you. But I’m glad we had this chance to talk, Roger. You’re every bit the man I thought you were. Goodbye, then...
+Roger: Wait- you’re leaving?!
+Caeda: Well, yes, Roger, I must! Every moment I stay here, I put you at risk. What if your comrades thought you were conspiring with the enemy? No, I must go...
+Roger: ...You’re very kind, Caeda. Dare I say, we don’t have girls quite like you back in Grust. Um, perhaps...I suppose I could...Aw, heck, I’m going with you!
+
+@Battle-Talk 
+%Marth,Roger
+Roger: Prince Marth? I’m Roger, a Grustian soldier. Well, at least I was. I’m through fighting against you. Let me join your League.
+Marth: Well, certainly. We need all the strong allies we can get. But why the sudden change of heart?
+Roger: Well, er... There’s this fetching girl named Caeda who asked me to, and, uh... What can I say? I think I’m in love. Try saying no to a girl who comes racing up to you in the heat of battle just to ask if you believe in love! Whew! I must’ve turned red as a strawberry! Heh heh...
+Marth: ......
+
+@Boss 
+Kannival: W-what are you doing all the way out here? Blast, I'm finished...!
+
+Kannival: Long...live...Grust! Nngff...
+
+@End 
+Malledus: Sire, it's too dangerous to stay here. We must flee to Pyrathi. There are risks there, too- the Pyrathi king Mannu is said to be a descendant of the dragonkin, a Manakete. Still, we've no other recourse. We'll just have to take our chances... Keep your wits about you, sire.

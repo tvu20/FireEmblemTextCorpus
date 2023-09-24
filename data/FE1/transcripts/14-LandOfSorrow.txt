@@ -1,0 +1,22 @@
+@Opening 
+Gra had always been a staunch ally to Altea. But as Altea fought Grust, Gra backstabbed Altea. Altea's army was taken by surprise. King Cornelius and Falchion disappeared in the ensuing chaos. Two years have elapsed since that tragedy… Marth has finally arrived at Gra Bastion to confront the treacherous King Jiol, who has barricaded himself in.
+
+@Visit 
+Young man: They say that shops will all give you half off if you have a silver card… Sounds too good to be true if you ask me!
+Young man: I heard that once you reach LV.10, you can change jobs! Cavaliers can become paladins, mercenaries can become heroes… There's more but I forgot!
+
+???: Are you Prince Marth of Altea? I have a request of you. This tome belongs to one Bishop Boah of Archanea. Heimler of Grust got hold of it. It has come to be in my possession. Please return it to the bishop for me. One more thing… Watch over Princess Nyna. Your attention to this would put my mind at ease. I shall take my leave of you. We will meet again…
+
+@Recruit-Talk 
+%Marth,Palla 
+Palla: I am pleased to meet you, Prince Marth. I am Palla of the Whitewings. As soon as we heard that Princess Maria was safe, my sister Catria and I left Macedon. Just as she promised you, Catria and I will join your fight alongside Princess Minerva. However, our youngest sister Est still has not returned from Grust. If she makes it back, the three of us will show you how we can light up the battlefield together!
+
+%Marth,Catria 
+Catria: Hello, Prince Marth. It has been a while. Do you remember me? I am Catria. I was waiting for Princess Minerva's order before joining your army. I look forward to fighting together. I will do all that I can.
+
+@Boss 
+Jiol: You Altean rabble! I should have ground you into the dust when I had the chance!
+
+@End 
+Malledus: We searched every inch of the castle but could not find the blade of light… As the rumors suggest, Gharnef must have taken it to Khadein.
+Marth: I see... Without Falchion, we cannot hope to defeat Medeus. Altea is so close…but we must go to Khadein instead. Disappointing, but I have to tell the troops.

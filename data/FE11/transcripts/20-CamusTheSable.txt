@@ -1,0 +1,99 @@
+@Opening 
+It was General Ordwin, one of the Three Heroes of the War of Liberation, who put Grust on the map. His peerless knights tamed their neighbors the barbarians in the kingdom’s infancy, securing its place as one of the greatest of the Seven Kingdoms. However, the current king, Ludwik, was weak-willed and easily cowed: Dolhr had little trouble forcing him into an alliance. Now he had taken ill, even as Grust suffered its string of defeats at the hand of the League. The once mighty kingdom was poised to fall...
+
+@Intro
+Marth: Nyna, we’ll soon be launching the attack. If you have something to tell me... now is the time to do it.
+Nyna: All right, Marth. As you wish. When the Dolhr-Grust allied forces seized control of Archanea, the entire royal family was killed, save me. I was given into Grust’s custody- the custody of the Sable Order, to be more specific. I am told Dolhr wished for my execution- and with it the end of the holy lineage of House Archanea- and Grust was willing to comply.
+Marth: But you are not dead.
+Nyna: That is right. I was not put to the sword. The Sable Order’s captain came to my defense. His name... was Camus.
+Marth: ....!
+Nyna: Camus protected me, knowing he risked incurring the wrath of the Shadow Dragon. He was the one who eventually arranged for my escape to Aurelis.
+Marth: ...I had no idea. That certainly explains Dolhr’s displeasure with him.
+Nyna: I hated him, too, at first. But in the time, I found my hatred tempered by the compassion he showed me, my feelings... changed. And now, all I wish is to see him again... But not if it means you and he must fight.
+Marth: Nyna... Do you... I cannot make any promises. But I will do what I can. I hope you can accept that.
+Nyna: Thank you, Marth. I could not ask for more.
+
+@Visit 
+Old Man: Ah, Prince Marth! Welcome, welcome. Tell me, have you seen my granddaughter Lena? Is she well? If she happens to you, would you see she gets this Hammerne staff? It’s a staff of repairing passed down through our family. I’m certain she’ll make good use of it. Of course, not all items can be repaired; be sure to caution her about that.
+
+@Battle 
+Marth: General Camus! Can you hear me? It is I, Marth of Altea! I must speak with you! Please, show yourself!
+Camus: Prince Marth. I am Camus of Grust.
+Marth: General, I have no wish to fight you. You know this battle is pointless; surely you must!
+Camus: So long as Grust continues to support Dolhr’s ambitions, it does not matter what I know or think. I am a knight; I have a duty to fight for my motherland’s glory till the very end.
+Marth: But surely-
+Camus: Prince Marth, there is nothing you can do or say. I am party to your father’s murder. Are you a man or not? Draw your sword.
+Nyna: Stop! Camus!
+Camus: Princess Nyna...
+Marth: Nyna, what are you doing here?! This is the middle of the battlefield!
+Nyna: I know, I know... But please, Camus, listen to me... Camus, you gave me back my life. And Marth, he gave me back my kingdom. I do not wish to see that the two of you fight. It is... it is unbearable. Please, Camus, fight with us. We need your strength. ...I need it.
+Camus: I am sorry, Princess.
+Nyna: What? But, Camus!
+Camus: Were my heart my master, I would do exactly as you say. But what sort of knight abandons his kingdom- his king!- now, when they need him the most? Would you have me toss away the life I have built as if it meant nothing at all?
+Nyna: No, Camus, I... I don’t know...
+Camus: I have lived as a knight, and I intend to die as one. There are no other roads left for me to walk. Farewell, my princess. I shall never forget our days together at the palace, few though they were. I pray you meet someone who can bring joy back into your life.
+
+@Recruit-Battle 
+Lorenz: No victory here can give Grust back her glory.
+
+Lorenz: This, too, must be fate.
+
+@Recruit-Talk 
+%Caeda,Lorenz
+Caeda: General Lorenz! My name is Caeda. I hail from Talys. My father has told me quite a bit about you.
+Lorenz: Princess Caeda! My, look what a lovely young woman you’ve grown into. Your father was a good friend to me, many years ago.
+Caeda: General, I heard you opposed Grust forming an alliance with Dolhr. Why didn’t you try to stop it?
+Lorenz: You think I did not try, Princess? Our king is meek; in the end, Dolhr proved better at cowing him than I did.
+Caeda: But sir, surely you know that Dolhr intends to use Manaketes to conquer humankind! You must act now- for Grust’s sake, if not the world’s! Join us, General Lorenz. We can put an end to this battle right now.
+Lorenz: Hmm...What you say makes sense enough, but I serve Grust. I cannot simply betray my country.
+Caeda: Ah, but what makes a country?
+Lorenz: Pardon?
+Caeda: Is it one man- your king? Or is it the countless innocent people who make their home here?
+Lorenz: Well, that’s- Hmm...
+Caeda: My father has a saying: “A kingless country is a country still; but a king without subjects rules naught but hills.” If you disobey your king to ensure his subjects’ safety, how is that a betrayal? You are protecting his reign.
+Lorenz: Protecting his reign? ...Aha ha ha, ha ha! Ahh, that mad logic! I feel as though I’ve shed twenty years and I’m talking to your father again. You win, Princess. I yield! I will join you, in the interests of king and country. Har!
+
+%Marth,Lorenz 
+Marth: General Lorenz, hold!
+Lorenz: What? You are Marth, the Altean prince...
+Marth: Yes, sir. The king of Talys told me much about you. He said you opposed Grust forming an alliance with Dolhr, right from the very start.
+Lorenz: That’s right.
+Marth: Then fight with us! With your help, we can defeat Dolhr!
+Lorenz: Forgive me, Prince Marth, but am I to just abandon my country, then?
+Marth: ...
+Lorenz: I know yours is the just cause. Still, I wish to remain a Grustian general, right to the end. I am fighting here because that is the way for me to honor my kingdom.
+Marth: Forgive me, General, but... is it, really?
+Lorenz: Pardon?
+Marth: Since you are a Grustian General, then surely you fight for Grust’s future first and foremost. But tell me…from where you are standing now, do you see any future for your country?
+Lorenz: ...I shall have to learn to mask my misgivings better, if you can pluck them from my heart so easily. You are quite correct. If I care what becomes of Grust, then I cannot continue to stand by Dolhr. So, I will stand by you instead, Prince- and hope the future is a bit easier to spot from there.
+
+@Battle-Talk 
+%Marth,Lorenz 
+Lorenz: Prince Marth? I am General Lorenz of Grust. I have decided to join you, in the interest of my fellow Grustians.
+Marth: I am honored, General. Thank you. Caeda tells me you and her father were close.
+Lorenz: Yes. How the princess has grown, though! Sharp as a tack, that one. Such a change from when she was- Now what am I saying? Caeda has always been clever. Even as a wee girl she knew how to wrap her elders about her little finger.
+Marth: You knew Caeda when she was little?
+Lorenz: Oh, yes. The mischief she got into! Well, those are stories for another day. First, we’ve a battle to finish!
+Marth: So we do, sir!
+
+@Boss 
+Camus: With this lance, Gradivus, I am all but invincible. A pity you had to waste your life.
+
+Camus: Nyna... Fare... Well...
+
+@End 
+Marth: Forgive me, Nyna. I was unable to reunite you with your general.
+Nyna: No, Marth, I... I should not have made such a selfish request. I am sorry, so terribly sorry...
+Marth: ....
+Nyna: The worst part, Marth... the worst part is, I knew it would come to this. Ever since I gave you the emblem, I just knew... Have you heard the story of Artemis’s Curse?
+Marth: No...
+Nyna: The last time the Fire Emblem changed hands to save House Archanea, it was not without cost. There was a princess named Artemis who loved your ancestor, Anri, with all her heart. He loved her as well- but when Medeus appeared, the two were parted forever. She cursed the Fire Emblem- called it the end of war, but also the end of love. Now the emblem has changed hands again, and I am the one who is cursed...
+
+Marth: Nyna...
+Nyna: Look at me, so quick to fall apart... You lost loved ones in Altea and took it so bravely; but I cannot be so brave... Please... leave me for a moment. This is too much to bear. I need to... to confront my feelings...
+Marth: ...Say no more, Nyna... Princess. I will step out. Send for me if you need anything.
+Nyna: Thank you, Marth...
+Nyna: Ahh...! Camus, Camus... Ahh... no... Oh, why...
+
+Marth: Nyna- Princess.
+Nyna: I am told Camus has not been found. Perhaps he still lives. I know how selfish it is to wish it... But if he cannot be with me, then I must cling to the hope his life has not been cut short. It is all I have left.

@@ -1,0 +1,13 @@
+@Opening 
+To obtain the Lightsphere and Starsphere for Gotoh, Marth and his army must enter Raman. But waiting for them at the Chiasmir Bridge is Grust's fearless Sable Order of Knights. These powerful knights block Marth's path forward. The stage is set for battle!
+
+@Visit 
+Old man: There are three orbs of great power secreted with the Fane of Raman. Light, star, and earth… Only the one who comes to hold these orbs can understand their true power!
+
+@Recruit-Talk 
+%Marth,Est
+Est: You must be Prince Marth! I am Est of Macedon. We finally get to meet! I went and retrieved the sword Mercurius that Grust stole from Archanea. It is not for us that I obtained it. It's for you! Please make use of it.
+
+@End 
+Malledus: Somehow we triumphed over Dolhr's defenses, but the Fane of Raman is also dangerous. It is said that a terrifying goddess waits within to incinerate all intruders!
+Marth: I do not wish to provoke her wrath... but we are in need of those orbs! Perhaps we should send a small force. Maybe then the Fane's guardian would not strike.

@@ -1,0 +1,59 @@
+@Opening 
+For Gotoh to create the magic that could defeat Gharnef, he needed two orbs: the Lightsphere and the Starsphere. Marth and company set off to Chiasmir and the Fane of Raman to find them, but in their path stood a cohort of Grustian knights known as the Sable Order. The bridges across the strait would soon be choked with the brave and the dead…
+
+@Intro 
+Malledus: Prince Marth, I see them: a cohort of Grustian knights, out on the far side of the bridge. That must be the Sable Order...
+Nyna: Marth, I heard the enemy forces have been spotted.
+Marth: Yes, that’s right. The Sable Order, it seems
+Nyna: Really? Tell me, who leads them?
+Marth: Why does it matter?
+Nyna: Oh... no, it’s just- they say the Sable Order is led by a brilliant general. I was... wondering if he was riding with them today.
+Marth: You must mean General Camus. I am told Dolhr is not very happy with him at the moment, brilliant or not. Something about acting outside orders... They’ll be keeping him on a short leash; I don’t expect we’ll see him here.
+Nyna: That... that is good news...
+
+@Visit 
+Young Man: You know how the Fane of Raman is supposed to be protected by a fearsome guardian? Well, I heard the “fearsome guardian” is nowt but a wee lass. If that’s true, you have to wonder why she’d stay all by herself in a dreary place like that. Mayhap she broke her ma’s favorite vase and got stuck there as a punishment? Ha ha, right.
+
+@Recruit-Talk 
+%Marth,Est
+Est: Ah, you’re Prince Marth! I am Est, of the Medonian Whitewings- Palla and Catria’s younger sister. I’ve been looking for you. Initially I intended to join up with you along with my sisters, but then I heard Grust had made off with one of Akaneia’s three regalia- the sword Mercurius- so I flew there to get it back. This is Mercurius right here. It’s lovely, isn’t it? And powerful! In the right hands, I think you’ll find it a formidable weapon indeed.
+
+@Battle-Talk
+%Est,Catria 
+Est: Catria!
+Catria: Est! It's about time you made it back. I was so worried...
+Est: Sorry... I won't leave you like that again. We belong together anyway. When the three of us surround an enemy, we're just about unstoppable!
+Catria: True... but even so, I like having you somewhere I can keep an eye on you. Ha ha.
+Est: Hey! What's that supposed to mean?
+
+%Palla,Est 
+Est: Hey, Palla. I'm not slowing you and Catria down, am I?
+Palla: Why would you say that?
+Est: I don't know... You and she have so much more experience. Sometimes I... I just feel like I'm not pulling my load.
+Palla: Ha ha... Est... You're doing just fine. There are no half-Whitewings or almost-Whitewings. You're one of us because you're every bit as good as us. Have a little confidence.
+Est: Right, confidence...
+Palla: ...Feel better?
+Est: Uh-huh. Thanks, Palla. It's funny... Whenever I talk to you, I calm right down. Promise you'll always be there for me, Palla.
+Palla: I will... I promise.
+
+%Minerva,Est 
+Est: Commander, did anybody tell you? I flew all the way to Grust and brought back Mercurius. Pretty spiffy, huh?
+Minerva: Yes, Marth told me all about it. Very brave of you to undertake such a dangerous task alone. Well done, Est.
+Est: Hee hee! You mean it? Thanks, Commander! You should have seen the arrows whooshing past me left and right! But I'm a Whitewing, right? So I swooped down and let 'em have it! Just watch, though. I'll find some way to top it.
+Minerva: I don't doubt it. I expect great things from you, Est.
+Est: Hee hee! You mean it?
+
+@Boss 
+Sternlin: You shall not pass! Not today! Not ever!
+
+Sternlin: You... shall... not... unnh...
+
+@End 
+Nyna: We’ve made it across the strait.
+Marth: Yes. But the real battle may yet be ahead of us.
+Marth: Malledus... Can we be certain the Lightsphere and the Starsphere are in the Fane of Raman?
+Malledus: Yes, sire; but unfortunately, they may not be all we find. The fane is said to be guarded by a goddess, one with fearsome powers. Those who defile her sanctuary are punished by fire; none are spared from the blaze.
+Nyna: Perhaps we should reconsider, Marth...
+Marth: Perhaps... But if none are spared from the blaze, where do the rumors come from? Besides, we need those two orbs.
+Malledus: Well, might I suggest you take in just a few able companions, and let the sleeping dragons lie?
+Marth: Sage advice. I’ve no desire to tear apart a holy place, whether the goddess is home or not... I’ll choose a handful of elite to search for the orbs with me.

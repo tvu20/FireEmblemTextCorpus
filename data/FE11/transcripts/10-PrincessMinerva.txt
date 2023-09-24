@@ -1,0 +1,43 @@
+@Opening 
+Not all of the League's soldiers took Catria of the Whitewings at her word. Some insisted her plea was a ruse, a trap concocted by Princess Minerva herself. Marth doubted that, though; he had seen the woman in Lefcandith Valley, and she did not strike him as a sort of conniving menace his followers feared. As the brunt of Grust's might drew closer, Marth led the League to Castle Deil, determined to attack the citadel and rescue the young Macedonian princess, Maria.
+
+@Intro 
+Zharov: Princess Minerva, what brings you here? You've left your post: not very wise. Might I remind you, poor conduct on your part could have repercussions on how...comfortable...your sister remains.
+Minerva: I am aware of my sister, thank you. ...I did not come to make trouble. Just let me see Maria, for a little while. She's only a child, General. Think of what she must be going through.
+Zharov: Impossible, I'm afraid. She is a hostage. If your sister's well-being concerns you, then start following orders.
+Enemy Soldier: General! Grave news! The rebel army has been sighted east of Castle Deil!
+Zharov: What?! Why in creation would the rebels come here? Blast...Order the Dragoons to sortie! And don't forget to send word to the main army. We need reinforcements!
+Minerva: Rebels...? Then Marth has arrived...
+
+@Visit 
+Middle-aged Man: You know, once, there were three great magi in our world: Miloah, the Master of Aura; Gharnef, the Dark Pontifex; and Gotoh, the White Sage. But now Miloah is gone... If only there were somebody left powerful enough to stop Gharnef...
+Young Man: "That Medonian princess, Minerva... She doesn’t seem like a bad sort. I have a sister, too, and if somebody threatened to hurt her... Well, I’m just sayin' you can’t always judge people based on their actions.
+
+@Recruit-Talk 
+%Marth,Maria
+Maria: Oh! You must be Prince Marth! (My, he's so dashing!) ...Thank you for rescuing me. Please be sure to tell my sister I am free. She'll be grateful for the news. Now then. Shall we be off? I'm coming with you, of course.; ...No protesting! I wish to help!
+
+%Marth,Minerva
+Minerva: Greetings, Prince Marth. I am Minerva of Macedon. Thank you for saving my sister. Maria's plight forced me to treat you as an enemy when I knew you were not; suffice to say, I am deeply sorry for that. ...The whole world has gone mad. Most of Macedon fights for Dolhr now. My own brother Michalis leads them. And on their hands is the blood of their king, my father. They must be stopped; I must stop them. Still, I fear for my soldiers whom I can no longer protect, especially the three Whitewing sisters: Palla, Catria, and Est. Dolhr worried we would rebel, and forced us to separate. If they knew I was safe, they would join your ranks in a heartbeat. We are yours to command, sire. Let us help you defeat Dolhr, and repay them for sullying Macedon's honor.
+
+@Battle-Talk 
+%Maria,Minerva
+Maria: Sister!
+Minerva: Maria... Are you all right?
+Maria: Fine. Have you heard? Marth made me one of his soldiers! Well...I made him make me one.
+Minerva: ...What am I going to do with you? Listen to me, Maria... you cannot stay here. It's too dangerous. Real war is nothing like your stories of princes and damsels.
+Maria: I'm not going anywhere! I want to stay with you!
+Minerva: Maria, you're being selfish–
+Maria: I am not! I'm just...sick of being helpless. I've burdened you long enough. How can I ever help you if you don't give me a chance to be strong? I'm staying here and fighting! No protesting!
+Minerva: ...Ha ha. Somehow I knew you would say that. All right, Maria. If you feel that strongly about it, who am I to stop you? All I ask is that you be careful. If you need help, you come find me. Understood?
+Maria: Of course! Thank you, Sister!
+
+@Boss 
+Zharov: Grrr... Must I do everything myself? Bah! You'll not get past me, rebel!
+
+Zharov: They're a force... to be reckoned... with... Rrgh...
+
+@End 
+Nyna: Marth, have you ever heard of Pontifex Miloah?
+Marth: The one who defended Archanea with the power of Aura? Of course; he and his magic are famous! But...I read Miloah died in a battle with Gharnef, soon after the fiend sold his soul to Dolhr...
+Nyna: Alas, Miloah did die... But his daughter, Linde, yet lives. I am told she inherited her father's skill with Aura magic- but since the battle with Gharnef none have seen her. Wherever she is, it cannot be pleasant. ...Marth, please. Find Linde. With her father gone, we are the only family the girl has left.

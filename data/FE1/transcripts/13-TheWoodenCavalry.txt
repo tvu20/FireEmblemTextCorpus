@@ -1,0 +1,26 @@
+@Opening 
+Marth and his companions hurry to Altea but are met by Grust's mighty regiment of ballisticians. This fearsome mechanical force is known as the Wooden Cavalry. Huge metal-clad boxes stalk the battlefield, clicking and clanking… Can Marth rise to meet this challenge?
+
+@Visit
+Man: We were part of Archanea's fighting forces. We were defeated by General Camus, however… Grust has taken control. I hope we can be free of them now!
+Man: Thunderbolt is the only weapon effective against ballistae. If you want to attack, you will have to draw close.
+
+@Recruit-Visit
+Beck: You must be Prince Marth. I am Beck, a ballistician from Deil. After I was defeated in battle, I hid out in this village. But I'd like to join your army. With my thunderbolt, I can take out a ballista with a single shot.
+
+@Recruit-Talk 
+%Midia,Astram 
+Midia: Astram! So this is what you've been up to...
+Astram: Midia! You're really here! I'm so glad you're safe. I've missed you...
+Midia: It seems you don't know yet... Altea's army has liberated the capital. We were set free and have joined their fight. There is no need to cooperate with the enemy any longer!
+Astram: What wonderful news! I will resume my fight against Dolhr!
+Midia: We can be together again! Promise me that you will never leave my side.
+Astram: Midia... In the time since we last met...
+Midia: Yes, Astram? What is it?
+Astram: I can't help but notice how you've matured while we were apart...
+
+@Boss 
+Grigas: So you dare to show your face! You will soon see the power of my pachyderm!
+
+@End 
+Grigas: To think you could defeat Grust's ballisticians so easily. You fought well, Prince Marth. But beware! You will soon face General Camus and his Sable Knights! They are the strongest warriors in the world… You will be reduced to a whimpering child!

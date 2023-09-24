@@ -1,0 +1,65 @@
+@Opening
+After a hard battle, Marth’s Altean Army- for it had grown to be called such- set foot at last in the kingdom of Aurelis. However, joining his might to that of the Aurelians would have to wait. As Marth descended into the vast green lea separating his troops from theirs, he heard a terrible sound: the galloping of enemy destriers, far away…then closer… Then far too close.
+
+@Intro 
+Malledus: Aurelis, at last…The enemy will have sent their forces to meet us.
+Marth: Grust, Dolhr, Gra..We’re up against their standing armies, and we must brace ourselves for it.
+Malledus: Sire, I believe it prudent that we start taking time to prepare our troops before each battle. We should select the warriors best suited for the situation and outfit them with the right weapons and items accordingly.
+Marth: All right, that’s sound advice- I believe I’ll take it.
+
+Bentheon: An unknown army to the south? That must be the Altean princeling and his band of lickspittles. If they think we’ll sit by and let them join forces with the Aurelians, then they have another think coming. With this ridersbane, I’ll litter the lea with their cavalry!
+
+@Visit
+Young Man: Weapons can be crafted of iron, steel, or silver, each metal more powerful than the last. You’’l need to raise your weapon level accordingly, though, before you can use them.
+Middle-aged Man:“When facing armored knights or generals, you’ll want to arm yourself with a sword they call an armorslayer. Then there’s the ridersbane, which makes short work of cavaliers and paladins- but only knights and cavalry can wield it. The rapier is effective against armored units AND cavalry. But you need to be a prince to wield that one! Also, keep in mind that weapons wear down with use and eventually break.
+Young Man: General Bentheon who guards the castle was carrying a ridersbane last I saw. Keep your cavaliers away, or that weapon could spell the end of ‘em.
+Old Man: Did you know you can use keys to unlock doors and lower bridges? …You did? Ahem! Right, of course you did.
+Middle-aged Man: There’s no terror like the dracoknight. One false move when they’re flyin’ about, and you can kiss your life goodbye.
+
+Old Woman: Kind Altean, this kingdom is in dire need of a savior. We’ve saved up 5,000 gold and poured our prayers into every coin. Please, use this money to answer them.
+
+@Recruit-Visit
+Merric: Aha! Prince Marth. We meet again.
+Marth: …Huh? Merric?! Merric, is that you?
+Merric: Well, yes, sire, last I looked. Whilst studying magic in Khadein, I caught wind of a war brewing and decided to seek you out.
+Marth: I see… Thank you, then. I need friends like you on the battlefield. You will fight with us, of course?
+Merric: Of course! ‘Twould be a passing shame if you didn’t get to see me flex a little magic muscle. Wait till I show you my latest: Excalibur!
+
+@Recruit-Battle
+Matthis: Lena… Where are you? What I would give to hear your voice just once before I die…
+
+Matthis: Lena… Forgive your…fool of a brother…
+
+@Recruit-Talk
+%Lena,Matthis
+Lena: Matthis? Is that you?
+Matthis: Lena?! What are you doing on a battlefield?
+Lena: I was attacked by bandits in the Teeth while tending to the sick there, and these people saved me. The real question is, what are YOU doing on a battlefield- least of all this one!
+Matthis: I’m not here by choice, sister of mine. Since you left, Macedon has only gotten worse and worse. They forced me to enlist- you know I hate warfare, but it was into the army or onto the chopping block.
+Lena: Shame on you, Matthis. If you’re going to fight, then at least fight for something you believe in. Medon has done terrible things: marrying their might to Doluna, helping them torment people…Brother, it’s not too late. You could join Altea’s forces. They’re good people you know. Prince Marth would welcome you. They all would.
+Matthis: …All right, then. If I’m gonna to die, I’d rather die as one of the dashing than one of the dastardly. You know, Lena, you always were the reliable one and now you’re all grown up…I thought for sure you’d have already settled down with your one true love.
+Lena: T-true love? I’ve…I’ve met no such man, Matthis.
+Matthis: Hmm, is that so? I’ll bet you haven’t… Well, you just be careful. There are plenty of thieves out there who would steal a girl’s heart.
+
+@Battle-Talk 
+%Marth,Matthis
+Marth: You must be Matthis, Sister Lena’s-
+Matthis: ACK! Y-you’re Prince Marth! Aieee! S-s-stay your rapier, I beg you!
+Marth: …What has gotten into you?
+Matthis: You mean…you haven’t come to stick me like a pig for fighting under the Macedonian standard?
+Marth: Er, no…
+Matthis:“Really?
+Marth: Really and truly.
+Matthis: Oh! Uh, right then… Sorry about that little display. I guess Lena was right. Just goes to show not all princes are cut from the same cloth!
+Marth:“What do you mean?
+Matthis: Oh, well, our prince- Prince Michalis of Macedon, that is- he’s strong, and proud…and an utter tyrant. They say he put the soldiers who look the most scared in the front lines on purpose.
+Marth: Hmm… Prince Michalis of Medon…
+Matthis: Don’t worry, sire, I won’t mistake you for him again! Altean princes I can trust!
+
+@Boss 
+Bentheon: You can defy us, yes... But you will never defeat us.
+
+Bentheon: W...what...
+
+@End 
+Elder: Prince Marth, you have our thanks for liberating the south castle. You’ll find Captain Hardin protecting the king and the lady Nyna at the Northern Fortress, located in Aurelis. When you find him, please be sure to give him this silver sword.

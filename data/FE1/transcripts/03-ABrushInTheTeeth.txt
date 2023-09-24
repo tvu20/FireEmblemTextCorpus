@@ -1,0 +1,24 @@
+@Intro
+Julian: Hey, Lena! Things are looking bad. We had better beat it! Sounds like the knights of Altea have arrived. This is our cue to get out of here! We're almost there, so come on!
+Lena: I am sorry, but...I have lost my precious Mend staff. Until I find it, I cannot leave. Don't worry about me, Julian! You should flee while you can. I can use my Warp staff to send you somewhere safe.
+Julian: I can't let you do that. If I leave you here, then why did I betray the bandits and rescue you? We can worry about your staff later! I promise I'll come back for it. Let's get while the getting's good. Focus on that!
+
+@Visit
+Young Man: There are mercenaries about. Be careful. They're so skilled that they can fell you in one blow!
+Man: Hunters are stronger attackers than archers, but they're weaker in defense. They should avoid close-range combat at all costs!
+Man: Improve your Skill and you'll have a better chance at landing critical hits. Increase your Spd, meanwhile, and you'll find it easier to dodge enemy attacks.
+
+Old Man: You youngsters sure do have stamina. Since you made it all the way up here, what say I give you this axe? Not bad, eh? Not so fast! This Devil Axe consumes the lives of those who wield it. If I were you, I wouldn't use it in battle! Mark my words!
+
+@Recruit-Battle
+Navarre: I feel bad killing you, but it was your mistake to come here. Now die!
+
+@Recruit-Talk
+%Caeda,Navarre
+Caeda: Navarre! Why has a swordsman on your worth fallen in with thieves?
+Navarre: What was that? ...I have no business with women or children. Leave now!
+Caeda: Please, help us put a stop to this pointless fighting. Lend us your strength! If you will not, then I will tell you... Do your worst. I am ready.
+Navarre: ... I have vowed never to turn a blade on a woman. If you would risk your life to convince me, I suppose I have no choice. I will join you.
+
+@End 
+Malledus: Prince, look! The bandits left 15,000G in the castle's vaults. We can use this money to supply ourselves with equipment. Tomorrow, we will arrive in Aurelis! For tonight, rest well.

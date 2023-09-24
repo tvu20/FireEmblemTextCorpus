@@ -1,0 +1,52 @@
+@Opening
+One thing could always be said about Galder Harbor, the mainland port nearest Talys: it never had much in the way of riches, but neither did it have much trouble. All that changed when a pirate crew fell upon the town and made it their hideout. Here, in Galder, history records Marth’s first steps toward freeing his homeland.
+
+@Intro 
+Ogma: Prince Marth, I am Ogma, a mercenary of Talys. The king has bid me and my three men join your army. Cavalry has arrived from the west, flying Grust’s standard. They mean to take your life, sire. Be careful.
+
+@Visit 
+Young Man: A pirate callin’ himself Darros wants to talk to your prince. Says he’s washed his hands of pillagin’ and plunderin’ and wants to fight for the good of all. Hah! Right… And I’m a farmer who’s been sworn off rain…
+Young Man: Curates gain experience whenever they use their staves.
+Middle-Aged Man: Hammers smash right through heavy armor. You should pick one up, when you get the chance.
+
+Old Man: Oh! Mighty prince of Altea! Please, will you save Sister Lena? She’s gone up into the Ghoul’s Teeth to tend to the sick there. We warned her, I swear we did… Lena is our angel. If something befell her, I- No, I won’t think of it. Take this gold: we’ve 5000 pieces. Just promise you’ll use it to bring her home to us unharmed.
+
+@Recruit-Visit
+Darros: Ahoy, Prince Marth, I be Darros, a simple man o’ the sea. I’ve had me fill o’ the piratin’ life, and now I be lookin’ t’start anew. What say ye? Make me yer matey, and I swear t’pull me load.
+
+@Recruit-Talk
+%Caeda,Castor
+Caeda: Castor?! It is you, isn’t it? Must even good men like you betray Talys now?
+Castor: Princess Caeda? Oh…I’m sorry, but me mother’s sick, and the medicine don’t buy itself, see…
+Caeda: So you agreed to fight for the pirates in exchange for coin…All right then. If it’s gold you need, take mine. Here, this is all I have. Take it, and go to your mother’s side.
+Castor: But Princess…I betrayed you! …Ach, I’ve been a fool! Forgive me, Princess. Let me fight for you now. Me life is yours.
+
+@Battle-Talk
+%Caeda,Ogma
+Caeda: Ogma!
+Ogma: Princess...
+Caeda: I never got to thank you for coming along with us. There's no swordsman I trust more. I've seen your strength.
+Ogma: You don't need to thank me, Princess. I'm just doing my job. Speaking of which, your father would flay me if you came to any harm. Do me a favor, and leave the dangerous fighting to me and my men.
+Caeda: I don't need protecting, Ogma. ...I've got another job for you. Protect Marth for me.
+Ogma: But, Princess...
+Caeda: He's very important to me. And the world... But mostly to me. So do as I ask, Ogma. Keep him safe. That's my first and last request.
+Ogma: Very well. How could I say no to you?
+Caeda: Thank you, Ogma. I knew you'd understand. All right, I have to go. But I hope we get to talk like this more. You're a good listener.
+Ogma: ...Princess
+Caeda: Yes?
+Ogma: You keep yourself safe, too. Marth would grieve if anything befell you.
+Caeda: Fair enough. Thank you, Ogma. You're very kind.
+
+%Castor,Marth
+Castor: Prince Marth, I am Castor of Talys. I wish to add my bow to your strength.
+Marth: Of course. Caeda told me about you.
+Castor: You know, she’s always been very kind to me, sire, even before I left Talys. And look how I’ve repaid her…
+Marth: Castor, you can still show her your heart is true. Let the battles to come be what defines you!
+
+@Boss
+Gomer: The gall of ye, defyin' me crew! I'll put an axe square between yer eyes! Ye ain't leaving here alive. I swear it on the rickety peg leg o'Shanty Pete!
+
+Gomer: Augh... Fiends, ye be...
+
+@End 
+Villager: You have our gratitude, sire, for finally chasin’ those pirates away. Now, as I hear it, you plan to march on to Aurelis…That’ll take you right up through the Ghoul’s Teeth. With all due respect, sire, you’re taking a great risk crossin’ those mountains that’s Soothsire territory. The Soothsires are fearsome bandits, always raidin’ the villages and harryin’ what travelers dare pass by. And the swordsman with ’em- goes by the name o’ Navarre- he’s a terror with a blade, so they say. If you go up there, keep your wits about you- or you won’t come back down.

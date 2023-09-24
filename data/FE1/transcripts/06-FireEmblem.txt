@@ -1,0 +1,19 @@
+@Intro
+Emereus: The rebels have made it into the castle? Impossible! Grr... Well, we will show them! Knights, form up and rush the intruders! Archers, defend the throne! Thieves, loot the castle's treasures and prepare to withdraw! Hear me! Do not let them set one foot into this chamber! Not one!
+
+@Recruit-Talk
+%Marth,Rickard
+Rickard: Thanks for saving me! Hey, wait a second… Aren't you the prince of Altea? My name is Rickard. I am but a humble thief. I came to loot this castle but ended up getting caught. Since you helped me out, I'll return the favor!
+
+%Julian,Rickard
+Julian: Rickard? It can't be! What are you doing here?
+Rickard: Julian! It's been too long since I've seen you, Chief. I came to this castle to steal a few things. And wouldn't you know it...I got a little sloppy. And what brings you here?
+Julian: Me? As of today, I've washed my hands of thievery. I'm on the side of what's good and just.
+Rickard: Ha! I bet I know the truth behind this change of heart. Beauties have always been your weak point.
+Julian: N-not a chance! The spirit of justice awakened within me! Look, don't worry about it. Just join up with us!
+Rickard: There you go again, trying to make up my mind for me. Since you're the one asking... Well, why not? It's settled! I'll lend you a hand. But I'll take a cut of the loot as payment!
+
+@End 
+Nyna: You must be Prince Marth. You have done well to make it here. I am the princess of Archanea, Nyna. Though Archanea has long protected this world, Dolhr overwhelmed us, throwing all into chaos. I cannot fight. Marth, I beg you... Please, lead the forces of good and defeat Dolhr! You must liberate all of the lands Dolhr has occupied!
+Marth: Of course, Princess Nyna. Altea's allegiance to Archanea is steadfast. Moreover, as the prince of Altea, it is my destiny to defeat Medeus.
+Nyna: I thank you, Marth. I will now entrust you with this treasure... The Fire Emblem is given to one with the strength to save the world when my royal family cannot. With this, you will be able to open chests containing invaluable treasures. The battles you face will test your every skill. But fight as hard as you can. Return light to this world!

@@ -1,0 +1,46 @@
+@Opening 
+Having won the day and putting Camus and his Sable Order to rout, Marth and the League moved on to the mountains in eastern Grust, to crush the last of the opposition. The surviving Grustian soldiers, in a mad attempt to hang on to their lives, took all the residents of a nearby village hostage to keep Marth from striking. However, they could not have picked a worse village to harass...
+
+@Intro 
+Larissa: Have the villagers given up struggling yet?
+Enemy Soldier: With that ogre on the loose? Hardly, sir. All of our soldiers together still can’t contain him. The other villagers have fled into the caverns, out of reach.
+Larissa: What? Grr, enough of this! The League will be here soon. Take your positions! We’ll deal with them first and cut that giant down to size later.
+
+Old Woman: Ymir, you’re hurt!
+Ymir: Am I? I hardly feel it.
+Old Man: Why would you try to take on an entire army just for our sake?
+Ymir: Because you treat me like a human being. Do I need another reason?
+Old Woman: Ymir... thank you.
+Ymir: I’ll be standing guard outside the cavern. Nobody will hurt you, I swear it.
+
+@Battle-Talk
+%Marth,Ymir 
+Marth: Who are you? You don’t seem to be one of Grust’s soldiers.
+Ymir: You just keep your distance. I’m not letting anyone near the villagers in here, and that includes you!
+Marth: You wrong me, sir. I’m here to rout the last of Grust’s army. To save you.
+Ymir: Yeah? Well, they said the same thing when they led us down here. And look where that got us. I’m not fallin’ for the same lies twice!
+Marth: I speak the truth. But, if my word is not good enough, so be it. Stand aside and watch us fight. Let the battle prove I mean what I say. Agreed? Either way, you are in danger here. Take the villagers and hide until this is over.
+Ymir: ...So I’m supposed to just sit here, when I could be fightin’?
+Marth: Just give me a chance to prove I’m here to protect you.
+Ymir: ...Fine. I’ll stay out of it. For now. But if I find you’re lyin’ to me, I’ll split you right down the middle!
+
+@Recruit-Battle 
+Ymir: The villagers are countin’ on me. I won’t let you through!
+
+Ymir: Rrgh... I’m sorry... I tried...
+
+@Boss
+Larissa: We’ll never surrender to you Akaneian rabble! Long live Grust!
+
+Larissa: Rebel... scum...
+
+@End 
+Old Man: Prince Marth, thank you. Those soldiers told us they’d protect us when they led us down here... but they were just using us as leverage, hostages to keep you at bay! If you hadn’t shown up, they might have just killed us outright in the end...
+
+Ymir: Prince Marth, sorry I doubted you.
+Marth: Well, at least we’ve cleared up the misunderstanding.
+Ymir: Since you came to the villagers’ rescue, how ’bout I help you out as a way of sayin’ thanks?
+Marth: You mean... join our army?
+Ymir: I’m strongest in the land! Well, second strongest, at least. I can hold my own in battle. But if you don’t want a monster in your ranks, I understand...
+Marth: Monster? You’re a giant among men, to be sure, but a hero as well! Any warrior who can fend of an entire army is welcome among us!
+Ymir: Then count me in! Let’s see how many more armies break themselves against me, eh!

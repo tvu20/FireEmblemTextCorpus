@@ -1,0 +1,59 @@
+@Opening
+The Macedon that Minerva and Maria remembered best was one of peace: a quiet, prosperous kingdom famed for the flying beasts favored by dracoknights. But then their brother, Prince Michalis, succumbed to his lust for power. Despite his sisters’ adamant opposition, he swore allegiance to Dolhr; and when Macedon’s Dragoons took flight, the world suffered. Even now that the tides had turned, Michalis took position for one last stand. Dracoknights filled the sky end to end, eager to pluck Marth from the Earth.
+
+@Intro
+Michalis: Lord Gotoh, the League has begun its attack. I wish for you to move someplace safe until the fighting has ended.
+Gotoh: Why not just end this folly now, Michalis?
+Michalis: Folly? What folly?
+Gotoh: You loved your younger sister so much. It pains me to see you quarrel. If you and Minerva had worked as one, Macedon might have become a great kingdom- greater even than Archanea, perhaps. But instead, you let Gharnef trick you into destroying your family, and your kingdom with it.
+Michalis: ...I cannot undo what is done. My father’s blood will always be on my hands, just as Minerva’s betrayal of her brother and country will be on hers. And Macedon has not been destroyed, not yet. So long as I carry Iote's Shield, the League’s arrows cannot fell me.
+Gotoh: Very well. And if you win? What then?
+Michalis: If I win, I will tell you. Right now, my only goal is to gut that Altean prince who leads the League. My pride as Macedonian king rests upon it.
+Gotoh: I see... Then we’ve nothing more to discuss, have we?
+Gotoh: The weight of his father’s murder threatens to crush him... Poor boy...Poor fool.
+
+@Visit 
+Old Woman: A great sage lives in the village to the north. He’s not very sociable, though. Hardly anyone ever sees him.
+
+Gotoh: Marth, Marth, why did you not heed me? Why did you not bring the two orbs? Without them, I cannot make Starlight for you. You will not be able to break through Gharnef’s Imhullu magic, not take Falchion from his clutches. Without Anri’s sword, your battle with Medeus will be fraught with peril. If you still mean to face him, you will need all the strength you can muster, every advantage you can find. If you have weapons like the sword Mercurius or the lance Gradivus, the fight may not be lost... Hmm... I, too, may be able to help in some other way. Let me think on it. Regardless, your quest has just become more difficult than you realize. I hope you are ready.
+
+Gotoh: You have the Lightsphere and Starsphere with you? Well done! Now I can create Starlight for you.
+Gotoh: ...There. It is finished. Take this with you; it is the only magic capable of breaking through Imhullu. Use it to stop that fiend Gharnef once and for all.
+
+@Boss
+Michalis: Made it this far, have you? Don’t gloat yet. My Dragoons and I still rule these skies!
+
+%Minerva,Michalis
+Michalis: Minerva, I have missed you, Sister. Let us embrace one last time.
+Minerva: Michalis...
+Michalis: Well? Strike! A moment’s hesitation spells death on the battlefield. I know I taught you better.
+Minerva: You will not lay down your lance and walk the right path?
+Michalis: Don’t be a child. There are no right paths; just mine and yours, two that will never cross.
+Minerva: Very well. Then you leave me no choice. Embrace you I shall, Brother!
+
+%Maria,Michalis
+Michalis: M-Maria? What are you doing here?
+
+%Catria,Michalis 
+Michalis: The Whitewings? Ha! Come to try and slay your king?
+
+%Palla,Michalis 
+Michalis: The Whitewings? Ha! Come to try and slay your king?
+
+%Est,Michalis 
+Michalis: The Whitewings? Ha! Come to try and slay your king?
+
+%Marth,Michalis 
+Michalis: I’ve been waiting for you, Altean whelp. I swear on my crown, you will die!
+
+Michalis: Aaagh! I am finished. Forgive me, my people.
+
+@End 
+Marth: First General Camus of Grust... Now Prince Michalis of Macedon. Men of such promise... Had the times been different, the two might have led illustrious lives.
+Malledus: Yes, Prince Michalis was a brilliant man with great things ahead of him. But in the end, the rashness of youth did him in.
+Marth: Only because Gharnef found his weakness and exploited it. Until we stop that fiend, this spiral of misery will never cease.
+Malledus: Then shall we go to Thabes? Lord Gotoh said the city lies someplace far to the north of Khadein.
+Marth: Yes, in the heart of the desert...
+Malledus: Thabes is an old city... None in recent memory have gone there and returned alive. Within its walls remain many powerful apparatus crafted of long-forgotten magic. Lord Gotoh believes Gharnef is harnessing their power, and that is why he wields such influence over the continent.
+Marth: And he has Imhullu as well... This will be a struggle.
+Marth: Still, Gharnef’s reign must end. The world was so much more beautiful before he painted it red...

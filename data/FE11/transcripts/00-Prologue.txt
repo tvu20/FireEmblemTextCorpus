@@ -1,0 +1,41 @@
+@Opening
+Long ago, Medeus, king of the dragonkin, conquered the continent of Archanea, beginning an age of fear and despair for all its people. That tyranny was broken, however, when an unlikely hero intervened. A young man hailing from the Altea region appeared with a divine blade in hand. He stood against the Shadow Dragon, and struck him down. For some time after, the land enjoyed an age of peace. However, after a century's passing, the Shadow Dragon returned. He forged an alliance with a fiendish sorcerer who sought to rule the world, and their combined might toppled kingdom upon unsuspecting kingdom.
+Again, darkness threatened to engulf the continent. It fell upon the king of Altea, sole descendant of the dragon-slayer hero, to 'sally forth with the divine blade and fulfill his blood destiny.
+His son, Prince Marth, remained at home with the boy's mother, his elder sister, and a garrison manned by Altea's neighbor and ally, Gra. Thus the boy applied himself to the ways of both pen and sword, until one day...
+But he was betrayed by his closest ally, Gra- and both king and kingdom fell. Altea's prince, Marth, escaped the castle and found refuge on the isle of Talys, but at a dear cost: his sister stayed behind to buy his freedom."
+
+@Intro
+Soldier: Prince Marth... Are you awake? Beggin' your pardon, sire, but the princess has asked to see you.
+Marth: Elice? Is she all right?"
+Soldier: She seemed to be, sire, but her words implied a certain urgency. She bade you dress quickly and wait by the throne.
+Marth: ...Has something happened?
+Soldier: It's our forces off in Gra, sire. There seems to 'ave been some sort of incident, but... Well, I'm not privy to the specifics.
+Marth: I see... Thank you. I'll be there shortly.
+Marth: My sister said she would meet me by the throne.
+Marth: An incident in Gra... If Elice had news of our father, I pray it's good news...
+
+@Battle
+Enemy Soldier: O'er there, that's him! Prince Marth!
+Marth: Wha- Who are you?!
+Enemy Soldier: We're soldiers of Gra, li'l prince. And if you know what's good for you, you'll surrender to us without makin' any trouble.
+Marth: Surrender? But that's ridiculous... Why would I surrender to the army of an allied kingdom?
+Enemy Soldier: "Meh heh heh... They don't tell you much, do they? No matter." You'll ‘ave the full story soon enough. Now...lay down your sword.
+Marth: I will not. I am the prince of Altea. I will not yield to you or any other nation, here on my own land, under my own castle roof!
+Enemy Soldier: Heh, you talk big, brat. Have it your way. If you won't lay down your sword, then we'll just have to take your life instead!
+Enemy Soldier: What? He is fighting back? I'll show him!
+Marth: No! The throne... I have to get rid of him before my sister arrives!
+
+@End
+Elice: Marth, are you all right?
+Marth: Sister, what is happening?
+Elice: Steady yourself, Marth. I have grave news. Our father was defeated by the Dolhr-Grust allied forces.
+Marth: What? No...
+Elice: It was Gra. Our own ally betrayed us and struck Father's army from the rear. I am... I am not sure if he is safe. The scouts who returned gave conflicting reports...
+Marth: Father...It can't be...
+Elice: As we speak, soldiers sent by Gra are trying to take the castle. Mother and I were separated during the escape. I do not know where she is.
+Marth: .....
+Elice: Marth, I need you to listen to me. You must flee the castle. Go on without me.
+Marth: What?
+Elice: We've not many soldiers left...This is hard to bear, I know, but the castle is lost. We must face that. I will look for Mother and join you as soon as I can. You find Jagen and get away from here- far away. Understand?
+Marth: ...All right. But promise you won't be long.
+Elice: "Goodbye, Marth. May you live long...

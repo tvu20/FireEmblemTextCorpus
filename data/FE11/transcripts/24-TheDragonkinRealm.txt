@@ -1,0 +1,45 @@
+@Opening 
+Dolhr... Land of the Manaketes. Before Medeus, the dragonkin had few dealings with the human realm, but when the Shadow Dragon came, everything changed. He sunk all Archanea into a cycle of war, in which heroes rose and heroes fell- always claiming his cause was just and the humans' deaths deserved. But now Medeus’s empire was crumbling... He was nearing the end of his reign... even as Marth was nearing the end of his long quest.
+
+@Intro 
+Malledus: There, sire. Up on the mountains to the south, you can see Dolhr Keep.
+Marth: And inside is Medeus, king of the earth dragons- the one they call the Shadow Dragon. ...Why doesn’t he leave the keep and face us?
+Malledus: I recall Lord Gotoh saying his return is not yet complete; only within the keep’s walls can he maintain dragon form.
+Marth: Really...? Then we have the advantage...
+Marth: To Dolhr Keep, then! Let us put a stop to this war!
+
+@Visit
+Old man: Nestled in the mountains far to the southeast is a holy temple known as the Resurrectory. Use the staff of Aum there, and they say you can call a departed friend back from beyond the river of death.
+
+@Battle-Talk 
+%Merric,Elise
+Merric: Princess Elice! You're safe!
+Elice: Oh, my! Merric, is that you? I haven't seen you in ages... So you've been fighting with the League? Thank you for keeping Marth safe.
+Merric: Well, I did learn a spell or two in Khadein. Here, Princess. Get behind me. I'll face the enemy for us both.
+Elice: You'll... face the...? Aha ha, oh, Merric!
+Merric: Wh..what's so funny, Princess? I was quite serious, I'll have you know!
+Elice: Ha ha, forgive me, Merric. It's just, I remembered you when you were little... You were always a bit delicate. Oftentimes I had to nurse you back to health. Remember?
+Merric: But that was– I couldn't– Yes.
+Elice: And look at you now. Such a brave, strong man! A far cry from the old Merric. But you don't have to pretend. I know you're far too sweet to mow down hordes of enemies. And... I think I prefer it that way.
+Merric: You... you do?
+
+@Boss 
+Xemcel: This land, all of it- it belonged to us! Then you humans took it...defiled it!
+
+Xemcel: Rrgh... Emperor... Medeus... Forgive your servant's weakness...
+
+@End 
+Enemy Soldier: Emperor! The enemy has broken through the gates!
+Medeus: That impudent boy... Have the guards take their positions. The keep must be defended.
+Enemy Soldier: At once!
+Medeus: Hmph, you’ll find an earth dragon like me harder to tame than Gharnef, brat. Come and face me. I’ll tear the ground asunder and send you straight down to hell!
+
+????: Marth... Can you hear me?
+Marth: Lord Gotoh?
+Gotoh: I know you mean to challenge Medeus. But you and your companions haven’t the power to win.
+Marth: What? Why not? Because I failed to retrieve Falchion?
+Gotoh: You also failed to save the divine-dragon girl.
+Marth: I... did not mean for anything to happen to her-
+Gotoh: You can put your heart at ease. Tiki is not dead. She has merely returned to her slumber. Still, without her powers... We must take other steps. ...Select a handful of your best warriors. I must send you into an unseen dimension.
+Marth: An... unseen dimension, my lord?
+Gotoh: A place outside the confines of our world. There you will find a tower; and once in the tower, you must pass its Keepers’ test. If your strength and your need are great enough, the tower’s master will answer... and then, perhaps, your fortunes will be changed for the better.
