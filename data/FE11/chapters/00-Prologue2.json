@@ -1,0 +1,107 @@
+{
+  "chapter": "00",
+  "title": "Prologue2",
+  "speakers": [
+    "Frey",
+    "Marth",
+    "Abel",
+    "Enemy Soldier",
+    "Jagen",
+    "Cain",
+    "Malledus",
+    "Elice"
+  ],
+  "dialogue_counts": {
+    "Frey": 2,
+    "Marth": 7,
+    "Abel": 2,
+    "Enemy Soldier": 1,
+    "Jagen": 2,
+    "Cain": 3,
+    "Malledus": 4,
+    "Elice": 4
+  },
+  "lines": 25,
+  "intro": [
+    { "speaker": "Frey", "line": "Sire!" },
+    { "speaker": "Marth", "line": "...Frey! Abel! You're alive!" },
+    {
+      "speaker": "Abel",
+      "line": "Yes, sire. Princess Elice bade us protect you. Sir Malledus stayed behind to accompany her."
+    },
+    {
+      "speaker": "Frey",
+      "line": "Sire, we must be quick. Sir Jagen awaits us at the gates."
+    },
+    {
+      "speaker": "Abel",
+      "line": "Blast! This will not do. How did Gra's soldiers ever make it this far?"
+    },
+    {
+      "speaker": "Marth",
+      "line": "Jagen and the others will be caught like mice...We need to seize the gates and secure the area, immediately."
+    }
+  ],
+  "battle": [
+    {
+      "speaker": "Enemy Soldier",
+      "line": "Now who's that who thinks they can sneak up on us? Ho ho... What's this? I spy the Altean prince. Oi, listen up, you lot! Bag the prince! Dead or alive, he'll fetch us as sweet a reward as the mind can conjure."
+    },
+    {
+      "speaker": "Marth",
+      "line": "Hmm, they have archers... We need to take care they don't pick us off from afar."
+    }
+  ],
+  "end": [
+    {
+      "speaker": "Jagen",
+      "line": "Sire, it gladdens me to see you in one piece. It's not safe for you here; we must be away at once!"
+    },
+    {
+      "speaker": "Cain",
+      "line": "Prince Marth! Where are you? Answer me, sire!"
+    },
+    { "speaker": "Marth", "line": "Cain? ...That's Cain!" },
+    {
+      "speaker": "Marth",
+      "line": "Cain, you're supposed to be in Gra! Why have you returned without- Yow! Those wounds...!"
+    },
+    {
+      "speaker": "Cain",
+      "line": "Sire, it's really you...I feared the worst. That his message would go undeliv...Agh..."
+    },
+    {
+      "speaker": "Marth",
+      "line": "In that state, I don't know how you even stayed ahorse. Those gashes must be treated at once-"
+    },
+    { "speaker": "Jagen", "line": "No, sire. Not until we've escaped." },
+    {
+      "speaker": "Marth",
+      "line": "...Cain, I trust you can put off bleeding to death for just a while longer?"
+    },
+    { "speaker": "Cain", "line": "Of course, sir... I aim to please..." },
+    {
+      "speaker": "Malledus",
+      "line": "Princess Elice! The enemy is nearly upon us! Gather your things, quickly!"
+    },
+    { "speaker": "Elice", "line": "No, Malledus. I am staying here." },
+    { "speaker": "Malledus", "line": "S-staying here?! What madness is this?" },
+    {
+      "speaker": "Elice",
+      "line": "Too many people have died to keep Altea and its castle safe. I cannot abandon what so many lives have brought. With Father and Mother unaccounted for, I am the natural choice to remain with Altea's people. And besides, by staying, I can buy time for the rest of you to escape."
+    },
+    {
+      "speaker": "Malledus",
+      "line": "Nonsense. Just gather your things, and-"
+    },
+    {
+      "speaker": "Elice",
+      "line": "Malledus. I am not suggesting. I am commanding. If something befalls Father, Marth will become the last person in the entire world worthy of wielding the Falchion. I want you to guide him, Malledus- even when the rest of us no longer can."
+    },
+    { "speaker": "Malledus", "line": "Princess...I will try my best." },
+    {
+      "speaker": "Elice",
+      "line": "There's not much time. Go, Malledus. ...Go!"
+    }
+  ]
+}

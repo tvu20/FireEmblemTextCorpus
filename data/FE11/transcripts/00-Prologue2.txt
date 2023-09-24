@@ -3,7 +3,7 @@ Frey: Sire!
 Marth: ...Frey! Abel! You're alive!
 Abel: Yes, sire. Princess Elice bade us protect you. Sir Malledus stayed behind to accompany her.
 Frey: Sire, we must be quick. Sir Jagen awaits us at the gates.
-Abel: Blast! This will not do. How did Gra's soldiers ever make it this far?"
+Abel: Blast! This will not do. How did Gra's soldiers ever make it this far?
 Marth: Jagen and the others will be caught like mice...We need to seize the gates and secure the area, immediately.
 
 @Battle
@@ -11,7 +11,7 @@ Enemy Soldier: Now who's that who thinks they can sneak up on us? Ho ho... What'
 Marth: Hmm, they have archers... We need to take care they don't pick us off from afar.
 
 @End 
-Jagen: "Sire, it gladdens me to see you in one piece. It's not safe for you here; we must be away at once!
+Jagen: Sire, it gladdens me to see you in one piece. It's not safe for you here; we must be away at once!
 Cain: Prince Marth! Where are you? Answer me, sire!
 Marth: Cain? ...That's Cain!
 Marth: Cain, you're supposed to be in Gra! Why have you returned without- Yow! Those wounds...!

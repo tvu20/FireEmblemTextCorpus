@@ -1,19 +1,24 @@
 import os
 import re
 import json
+import glob
+import sys
 
-__location__ = os.path.realpath(
-    os.path.join(os.getcwd(), os.path.dirname(__file__)))
-
-old_file_path = os.path.join(__location__, '01-MarthEmbarks.txt')
-
-new_file_path = os.path.join(__location__, 'mynewfile.json')
+path_from = sys.argv[1]
+path_to = sys.argv[2]
 
 file_content = {}
 
 normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "character-falls", "dialogue"]
 narration_tags = ["opening", "narration"]
 people_tags = ["boss", "recruit-talk", "battle-talk"]
+
+def update_speaker(speaker):
+    if speaker not in file_content["speakers"]:
+        file_content["speakers"].append(speaker)
+        file_content["dialogue_counts"][speaker] = 1
+    else:
+        file_content["dialogue_counts"][speaker] += 1
 
 
 # handles narration text - no speaker information
@@ -30,8 +35,7 @@ def normal_tag(text, tag):
         speaker = colon_split.pop(0).title()
         line = ": ".join(colon_split)
 
-    if speaker not in file_content["speakers"]:
-        file_content["speakers"].append(speaker)
+    update_speaker(speaker)
 
     file_content[tag].append({
         "speaker": speaker,
@@ -48,8 +52,7 @@ def recruit_talk(text, recruiter, recruit):
         speaker = colon_split.pop(0).title()
         line = ": ".join(colon_split)
     
-    if speaker not in file_content["speakers"]:
-        file_content["speakers"].append(speaker)
+    update_speaker(speaker)
 
     file_content[tag].append({
         "speaker": speaker,
@@ -68,8 +71,7 @@ def battle_talk(text, person_1, person_2):
         speaker = colon_split.pop(0).title()
         line = ": ".join(colon_split)
 
-    if speaker not in file_content["speakers"]:
-        file_content["speakers"].append(speaker)
+    update_speaker(speaker)
 
     file_content[tag].append({
         "speaker": speaker,
@@ -88,8 +90,7 @@ def boss(text, unit, boss):
         speaker = colon_split.pop(0).title()
         line = ": ".join(colon_split)
     
-    if speaker not in file_content["speakers"]:
-        file_content["speakers"].append(speaker)
+    update_speaker(speaker)
 
     if len(unit) == 0:
         file_content[tag].append({
@@ -106,57 +107,68 @@ def boss(text, unit, boss):
 
 
 # reading and writing to JSON file
-with open(old_file_path, 'r') as f, open(new_file_path, 'w') as file:
-    filename = old_file_path.split('/')[-1].split(".")[0]
-    file_info = filename.split("-")
 
-    file_content["chapter"] = int(file_info[0])
-    file_content["title"] = " ".join(re.split('(?<=.)(?=[A-Z])', file_info[1]))
+for filename in glob.glob(os.path.join(path_from, "*.txt")):
+    file_without_type = filename.split('/')[-1].split(".")[0]
 
-    file_content["speakers"] = []
-    # file_content["transitions"] = ""
+    file_content = {}
 
-    tag = ''
-    subtag = False
-    person_1 = ''
-    person_2 = ''
+    with open(os.path.join(os.getcwd(), filename), 'r') as f, open(os.path.join(os.getcwd(), path_to, file_without_type + ".json"), 'w') as file:
 
-    for line in f:
-        text = line.strip()
-        if len(text) == 0:
-            if tag in people_tags:
-                person_1 = ''
-                person_2 = ''
+        file_info = file_without_type.split("-")
+        file_content["chapter"] = file_info[0]
+        file_content["title"] = " ".join(re.split('(?<=.)(?=[A-Z])', file_info[1]))
 
-            # file_content["transitions"] += "-"
-            continue
+        file_content["speakers"] = []
+        file_content["dialogue_counts"] = {}
+        file_content["lines"] = 0
+        # file_content["transitions"] = ""
 
-        # NEW TAG
-        if line[0] == '@':
-            tag = line.split('@')[1].strip().lower()
-            file_content[tag] = []
-            # print(tag)
-            continue
+        tag = ''
+        subtag = False
+        person_1 = ''
+        person_2 = ''
 
-        # NEW SUBTAB
-        if line[0] == '%':
-            persons = text[1:].split(",")
-            person_1 = persons[0]
-            person_2 = persons[1]
-            continue
+        for line in f:
+            text = line.strip()
 
-        if tag in narration_tags:
-            narration_tag(text, tag)
-        elif tag in normal_tags:
-            normal_tag(text, tag)
-        elif tag == "recruit-talk":
-            recruit_talk(text, person_1, person_2)
-        elif tag == "battle-talk":
-            battle_talk(text, person_1, person_2)
-        elif tag == "boss":
-            boss(text, person_1, person_2)
-        else:
-            continue
+            # blank line
+            if len(text) == 0:
+                if tag in people_tags:
+                    person_1 = ''
+                    person_2 = ''
 
-    json.dump(file_content, file)
+                # file_content["transitions"] += "-"
+                continue
+
+            # NEW TAG
+            if line[0] == '@':
+                tag = line.split('@')[1].strip().lower()
+                file_content[tag] = []
+                continue
+
+            # NEW SUBTAB
+            if line[0] == '%':
+                persons = text[1:].split(",")
+                person_1 = persons[0]
+                person_2 = persons[1]
+                continue
+
+            file_content["lines"] += 1
+
+            # handle dialogue lines
+            if tag in narration_tags:
+                narration_tag(text, tag)
+            elif tag in normal_tags:
+                normal_tag(text, tag)
+            elif tag == "recruit-talk":
+                recruit_talk(text, person_1, person_2)
+            elif tag == "battle-talk":
+                battle_talk(text, person_1, person_2)
+            elif tag == "boss":
+                boss(text, person_1, person_2)
+            else:
+                continue
+
+        json.dump(file_content, file)
 
