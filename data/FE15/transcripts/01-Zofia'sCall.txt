@@ -1,0 +1,24 @@
+@Dialogue 
+Mycen: Well done, Alm. We’ll end today’s training here. Your swordsmanship has come a long way. I’ve always known you had talent.
+Alm: You really think so? You’re not just saying that, are you, Grandfather?
+Mycen: Either I’m getting old or you’re getting better—and we both know I’m not old.
+Alm: Ha! Well, good. Then that means you’re ready to let me travel outside the village.
+Mycen: Hmph. Don’t misconstrue my words, boy. The rule still stands.
+Alm: But why?! I’m not a child anymore. You just said I can fend for myself! If I meet with any dangers, I’ll have my sword and my wits.
+Mycen: Alm, that’s not what this is about.
+Alm: Then what IS it about?
+Mycen: Alm...
+Alm: Look, I’ve heard from the others. I know the drought’s made Zofia a scary place. People are starving, and many have turned to thievery and plunder. Brigands loot villages for a mere sack of grain, and soon they’ll be at OUR door! And don’t think I haven’t heard what the Rigelian army has been up to. They’ve been crossing the border for years in violation of the Divine Accord. And with that sacred bond broken, now the Terrors have resurfaced as well...
+Mycen: ...All true.
+Alm: Zofia is full of innocent people who are looking for help. Please, Grandfather. I want to make a difference in a world bigger than a handful of houses. I want to see all the amazing places you’ve told me about— that Celica told me about!
+Mycen: Suppose you do set forth with your sword and your wits. So what?
+Alm: ......
+Mycen: Will the grand story of your life be how you met the end of a brigand's axe? Before you dream of changing the world, learn your damned place in it, and no more talk of leaving.
+Alm: ...What's his problem?! Why teach me to use a sword if you’re not going to let me fight? Every day in this place is exactly the same as the next. I know I’m meant for more than this! But you have to let me find it!
+
+Alm: Huh? What's all the commotion? It’s coming from the gates. Hmm...
+
+@Conversation
+Woman: Well, if it isn't Alm! You all finished with today's training? I still remember when you were only THIS tall, and now look at you. Sir Mycen has certainly made a strong young man out of you. I say "Sir" Mycen, but the story is your grandfather was once a famous general. General Mycen! Ha! I always wondered why such a fellow would end up here. Then again, the woods around Ram have become dangerous as of late. Perhaps it's for the best that we have him—and YOU—to keep us safe!
+Young Woman: *sigh* What I wouldn't give for some food. It’s been years since we’ve had a proper harvest. Can’t grow much without rain... Why has Mila forsaken us? What’s happened to the Earth Mother? She's killing us by withholding her blessings. The Rigelian Empire will seize our lands and we’ll be too weak to resist... You've heard how well trained their soldiers are, haven’t you? We’ve never toiled or fought for a thing, and we’re about to pay for it...
+Young Man: It's good to know our plight has the nobility so grief-stricken. King Lima dances at the end of Chancellor Desaix's puppet strings. The king would rather eat grapes and frolic in a seraglio than actually rule. It's no wonder the kingdom’s being torn apart by rebellion after rebellion. I wish someone would come along and save us from ourselves already. ...What's that? The Mother Mila? Pah! Like I'd waste my prayers on a goddess as useless as her.

@@ -1,0 +1,66 @@
+@Dialogue 
+Mycen: Alm, rest. Your sword training is over. Go and play, but don't leave the village. Bandits have been about.
+Gray: Yo Alm! Listen to this guy!
+Lukas: The infamous General Desaix has initiated a coup. Zofia's castle was captured and the king has been killed. We formed a liberation force to fight agains Desaix, but it's not good enough. So, I cam to ask General Mycen to help.
+
+Mycen: Alm, you came...
+Alm: Gramps! Why are you at Zofia Castle?
+Mycen: I can't seem to escape destiny. Alm, it's best if you follow your own path. Free this land of Valencia from its cursed fate. You and the red-haired girl who will visit this castle soon... Perhaps that is what fate has in store for you...
+
+@Conversation
+Gray: We'll wait here. Ask your old man!
+
+Tobin: Our country's people need us. Let's help 'em!
+
+Kliff: Your old man was a General?
+
+Mycen: What? Join the liberation forces?! I won't allow it! War brings only sorrow...
+
+Python: Stop right there. Suspicious people may not pass. Eh? You're new recruits? In that case, go on inside, but be careful! Demons may be around.
+
+NPC: Thanks to you all, Desaix's army fled to their own fort in the western forest.
+
+NPC: Desaix escaped with the valuable 'Royal Sword'. It was a gift of friendship from the Kingdom of Rigel long ago. No normal person can use it.
+
+NPC: The entire royal family was murdered by Desaix. Well, except the princess whom Lord Mycen was entrusted with.
+
+NPC: Take this Ridersbane. Those who can use it can easily dispatch enemy knights.
+
+NPC: It seems that Desaix has requested aid from Rigel. If he's not stopped before the Rigelian army comes, there'll be big trouble.
+
+NPC: You're General Mycen's grandson? But he shouldn't have any kin... N-no way, that rumor was true?
+
+NPC: Desaix secretly had every child born to the royal family killed. Sir Mycen tried to stop him but was charged with the crime instead and driven away.
+
+@Recruit-Conversation
+Lukas: No good, huh?... Too bad. Sir Mycen has grown cowardly in his old age. To think he was once called Zofia's hero...
+Alm: Wait-- I'll join in place of Gramps.
+Lukas: Eh? You'll come in his stead? Thank you. My comrades will be pleased. Let's go to the liberation's base.
+
+Gray: Alm, I'm going with ya. This village is bound to get attacked, too, so let's beat up that Desaix guy first.
+
+Tobin: Of course we're all coming, Alm, you're our leader! Let's go take back Zofia's castle!
+
+Kliff: Me!? ... Well... alright, I'll go with ya. But help me if I get in trouble!
+
+Silque: I'm Silque, a priestess in the service of Mila. I was brought here by bandits. Please let me come with you.
+
+Clair: Thanks for saving me. I'm Clair of the Knights of Zofia. My older brother Clive leads the liberation force. Let's go to the base together.
+
+Clive: So, you're Alm? Thank you for saving my sister. Well, I've got a favor to ask of you. Starting today, will you lead our forces? That's why we sought Sir Mycen, Zofia's hero, but for some reason, he's refused us. Therefore, I'd like you to command our units in his place. So, Alm. I'm counting on you to save Zofia.
+
+Forsyth: Desaix requested aid from Rigel, up north. If Rigel complies, we won't stand a chance!
+Alm: But the 'Gods' Pact' upheld by Zofia and Rigel... It means we won't war, right? Our guardian, Lady Mila, would never allow it.
+Forsyth: Yeah, well... There's a rumor that Lady Mila has disappeared. Hey, hey! Don't look so surprised! After all, it's been strange lately, hasn't it? Crops failing, odd demons emerging... Only Mila's Temple knows what's goin on, I guess.
+
+Python: What? We're finally marching on Zofia Castle? I'm coming too! Be wary of Slayde, the guards' captain. He's a pretty strong fighter.
+
+@Battle 
+Desaix: Rebel scum! Think you can defeat me? Slayde, use my army to scatter those swines!
+
+Slayde: Die, rebels!
+
+@Boss 
+Desaix: What?! Slayde's been downed?! Shit! I'll remember this. I'm leaving this to you, men!
+
+Slayde: Heh... Fools! What you just beat was a double. Lord Desaix left for his own lands already. I'll pay you back for this someday.

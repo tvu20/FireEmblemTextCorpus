@@ -1,1 +1,132 @@
-{"chapter": "04", "title": "Battle In The Lea", "speakers": ["Old Man", "Young Man", "Villager", "Merric", "Marth", "Matthis", "Lena"], "dialogue_counts": {"Old Man": 3, "Young Man": 2, "Villager": 2, "Merric": 3, "Marth": 2, "Matthis": 5, "Lena": 4}, "gender_counts": {"M": 15, "F": 4, "N": 2}, "lines": 22, "transitions": "-MMMMM-N-MMMMM-M-FMFMFMFM-N", "opening": ["After a hard-fought battle, Marth and the Altean forces finally arrive in the Kingdom of Aurelis. Marth hopes to join his forces with Aurelis's army. But first, he will have to rout the foes blocking his path. Far-off, foreboding sounds of warhorses begin to drift towards Marth's army from the direction of the lea..."], "visit": [{"speaker": "Old Man", "line": "A sword known as an armorslayer can make quick work of knights and generals. Ridersbane is effective against cavaliers, but remember that not all units can use lances. Don't forget the rapier. All knightly units fear it. Only the prince can wield one. Keep in mind that weapons wear down with use. In the end, they will break."}, {"speaker": "Young Man", "line": "Weapons can be made of iron, steel, and silver. In that order, they are weak, stronger, and strongest. To use stronger weapons, you need a higher weapon level. Don't forget!"}, {"speaker": "Young Man", "line": "General Bentheon, who guards the castle, holds a ridersbane. Cavaliers are in grave danger from that weapon. Do not let them approach the castle!"}, {"speaker": "Old Man", "line": "Stand in front of a door or bridge and use a key. You will be able to proceed."}, {"speaker": "Old Man", "line": "Wyvern knights make for fearsome foes. Give them an opening and your life is forfeit."}, {"speaker": "Villager", "line": "Kind Altean, Please... Find some way to save this land. It's not much, but my people have gathered 5000G to fund your war effort. Use it wisely."}], "recruit-visit": [{"speaker": "Merric", "line": "Prince Marth! Finally we meet again."}, {"speaker": "Marth", "line": "Merric? is that you? What a surprise."}, {"speaker": "Merric", "line": "I was studying magic in Khadein when war came. I left the city then and have been looking for you."}, {"speaker": "Marth", "line": "I'm glad you sought me out. We could use someone with your talents in our army. Will you join us?"}, {"speaker": "Merric", "line": "Of course I will. I learned a strong spell in Khadein called Excalibur. I will demonstrate it in battle!"}], "recruit-battle": [{"speaker": "Matthis", "line": "Lena...where have you gone? Even if it could be just once more...I had hoped to see you again."}], "recruit-talk": [{"speaker": "Lena", "line": "Matthis, is that you? It's me! Your sister, Lena!", "recruiter": "Lena", "recruit": "Matthis"}, {"speaker": "Matthis", "line": "Lena...what are you doing here on the field of battle?", "recruiter": "Lena", "recruit": "Matthis"}, {"speaker": "Lena", "line": "I was captured by bandits, but the Alteans saved me. What about you? Why are you part of this army?", "recruiter": "Lena", "recruit": "Matthis"}, {"speaker": "Matthis", "line": "I know you fled Macedon because you do not love Prince Michalis. But things are even worse there now. He must have it out for me because I was pressed into the army. Now I'm stuck here... I don't want to fight, but the punishment for desertion is even worse.", "recruiter": "Lena", "recruit": "Matthis"}, {"speaker": "Lena", "line": "Don't be a coward! You must stand up and choose the path you believe in. Macedon has joined forces with Dolhr, and the people suffer for it. It's mortifying. Brother, it is not too late. Join the Altean army. They will welcome you with open arms. They are truly wonderful people.", "recruiter": "Lena", "recruit": "Matthis"}, {"speaker": "Matthis", "line": "...I understand. If I am to die, I should do it honorably, and with style. I suppose it won't be any less strict here though... After all, I have a sister who can say no to a prince! On that topic...have you found a man that you do like?", "recruiter": "Lena", "recruit": "Matthis"}, {"speaker": "Lena", "line": "Er, no... No. There's no one.", "recruiter": "Lena", "recruit": "Matthis"}, {"speaker": "Matthis", "line": "Hmm. Well, you're still young. You'll find love. Just avoid thieves and scoundrels!", "recruiter": "Lena", "recruit": "Matthis"}], "end": [{"speaker": "Villager", "line": "Prince Marth, I thank you for recapturing the castle to the south. Captain Hardin is guarding the king and Princess Nyna in a fortress to the north. If you meet up with Hardin, please give him this silver sword."}]}
+{
+  "chapter": "04",
+  "title": "Battle In The Lea",
+  "speakers": [
+    "Old Man",
+    "Young Man",
+    "Villager",
+    "Merric",
+    "Marth",
+    "Matthis",
+    "Lena"
+  ],
+  "dialogue_counts": {
+    "Old Man": 3,
+    "Young Man": 2,
+    "Villager": 2,
+    "Merric": 3,
+    "Marth": 2,
+    "Matthis": 5,
+    "Lena": 4
+  },
+  "gender_counts": { "M": 15, "F": 4, "N": 2 },
+  "lines": 22,
+  "transitions": "-MMMMM-N-MMMMM-M-FMFMFMFM-N",
+  "opening": [
+    "After a hard-fought battle, Marth and the Altean forces finally arrive in the Kingdom of Aurelis. Marth hopes to join his forces with Aurelis's army. But first, he will have to rout the foes blocking his path. Far-off, foreboding sounds of warhorses begin to drift towards Marth's army from the direction of the lea..."
+  ],
+  "visit": [
+    {
+      "speaker": "Old Man",
+      "line": "A sword known as an armorslayer can make quick work of knights and generals. Ridersbane is effective against cavaliers, but remember that not all units can use lances. Don't forget the rapier. All knightly units fear it. Only the prince can wield one. Keep in mind that weapons wear down with use. In the end, they will break."
+    },
+    {
+      "speaker": "Young Man",
+      "line": "Weapons can be made of iron, steel, and silver. In that order, they are weak, stronger, and strongest. To use stronger weapons, you need a higher weapon level. Don't forget!"
+    },
+    {
+      "speaker": "Young Man",
+      "line": "General Bentheon, who guards the castle, holds a ridersbane. Cavaliers are in grave danger from that weapon. Do not let them approach the castle!"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "Stand in front of a door or bridge and use a key. You will be able to proceed."
+    },
+    {
+      "speaker": "Old Man",
+      "line": "Wyvern knights make for fearsome foes. Give them an opening and your life is forfeit."
+    },
+    {
+      "speaker": "Villager",
+      "line": "Kind Altean, Please... Find some way to save this land. It's not much, but my people have gathered 5000G to fund your war effort. Use it wisely."
+    }
+  ],
+  "recruit-visit": [
+    { "speaker": "Merric", "line": "Prince Marth! Finally we meet again." },
+    { "speaker": "Marth", "line": "Merric? is that you? What a surprise." },
+    {
+      "speaker": "Merric",
+      "line": "I was studying magic in Khadein when war came. I left the city then and have been looking for you."
+    },
+    {
+      "speaker": "Marth",
+      "line": "I'm glad you sought me out. We could use someone with your talents in our army. Will you join us?"
+    },
+    {
+      "speaker": "Merric",
+      "line": "Of course I will. I learned a strong spell in Khadein called Excalibur. I will demonstrate it in battle!"
+    }
+  ],
+  "recruit-battle": [
+    {
+      "speaker": "Matthis",
+      "line": "Lena...where have you gone? Even if it could be just once more...I had hoped to see you again."
+    }
+  ],
+  "recruit-talk": [
+    {
+      "speaker": "Lena",
+      "line": "Matthis, is that you? It's me! Your sister, Lena!",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Matthis",
+      "line": "Lena...what are you doing here on the field of battle?",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Lena",
+      "line": "I was captured by bandits, but the Alteans saved me. What about you? Why are you part of this army?",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Matthis",
+      "line": "I know you fled Macedon because you do not love Prince Michalis. But things are even worse there now. He must have it out for me because I was pressed into the army. Now I'm stuck here... I don't want to fight, but the punishment for desertion is even worse.",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Lena",
+      "line": "Don't be a coward! You must stand up and choose the path you believe in. Macedon has joined forces with Dolhr, and the people suffer for it. It's mortifying. Brother, it is not too late. Join the Altean army. They will welcome you with open arms. They are truly wonderful people.",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Matthis",
+      "line": "...I understand. If I am to die, I should do it honorably, and with style. I suppose it won't be any less strict here though... After all, I have a sister who can say no to a prince! On that topic...have you found a man that you do like?",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Lena",
+      "line": "Er, no... No. There's no one.",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Matthis",
+      "line": "Hmm. Well, you're still young. You'll find love. Just avoid thieves and scoundrels!",
+      "recruiter": "Lena",
+      "recruit": "Matthis"
+    }
+  ],
+  "end": [
+    {
+      "speaker": "Villager",
+      "line": "Prince Marth, I thank you for recapturing the castle to the south. Captain Hardin is guarding the king and Princess Nyna in a fortress to the north. If you meet up with Hardin, please give him this silver sword."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+@Narration 
+A ghastly face looms from the shadows. It's the ruler of Fear Mountain, whom all fear: the legendary necromancer Nuibaba... If that dark spell he traded his soul for leaves his lips just once... All living beings will surely have a quick death. Oh, Alm-- why do you go? On this fearful mountain, what in the world could exist?
+
+@Dialogue 
+Halcyon: I am Halcyon. Hmm... You have come here seeking the missing Mila? The sword that sealed Mila lies under the Tower of Duma. However... Jedah will not allow you to draw near. If there is anything I can do, I will lend you my power.
+Celica: I have nothing to ask of you. I'd like to help him...
+Halcyon: I understand. I shall bless him with newly awakened powers.
+
+Jedah: Heheh... Celica. Alm's trapped in the Dragon's Maw. Follow me if you want to save him. If you sacrifice yourselves to lord Duma, Alm's path shall again open up!
+
+Jedah: Heheh, so you're finally here. This is Duma's Altar, our site of human suffering. Thus, I shall kill you slowly and painfully. Your pain will be Lord Duma's magnificent feast...
+
+Alm: Ah, Gramps-- what the hell is going on!? How could such an evil man as King Rudolf be my father?!
+Mycen: Alm. Your shock is understandable... But now you are the only remaining heir of Rigel's royal family.
+Alm: But why... Why couldn't I avoid fighting my own father?
+Mycen: Don't cry, Alm... Let me clarify your father's actions. Valentia became divided because of the gods. They have involved themsleves too deeply with mankind's affairs. As a result, the people have lost balance and head for ruin. After some consideration, Rudolf posed as a destroyer to investigate the advent of true heroes in Valentia. I was told this when he placed his newborn child into my hands: "This child will consign himself to hell's fire!" I couldn't refuse him. And so, I left all to fate. Alm. You mustn't let Rudolf's sacrifice be in vain. Go underground and slay the evil god Duma!
+
+@Conversation 
+Halcyon: The Tower of Duma lies just ahead. Take caution.
+
+NPC: You guys saved General Zeke, eh? Though I hate Zofians, I must thank you guys.
+
+NPC: General Jerome was a cruel man. Even this village was sacked until Lord Zeke came.
+
+NPC: Just ahead is the Dragon's Maw. The necrodragons there'll tear you apart!
+
+NPC: General Zeke has no memories of his past. Lady Tatiana found him washed ashore with an awful wound and nursed him back to health.
+
+NPC: This is the hidden Sage's Hamlet. It is protected by Master Halcyon, the Great Sage.
+
+NPC: Master Halcyon was the High Priest of Lord Duma. However, he lost a dispute with the shaman Jedah and fled here. If you wish to fight him, there is only one way. On turn 4, 8, 12... Ugh... I... Jedah's spell has...
+
+Massena: Prince Albein. I am General Massena, the captain of the king's guards. We have heard our late King's final words and assembled here.
+
+Massena Soldiers: Long live King Rudolf the second!
+
+Unnamed sage: Your Highness, please listen to what Lord Mycen has to say.
+
+@Recruit-Conversation
+Alm: What are you doing imprisoned here?
+Tatiana: My love, Zeke, is a general of Rigelian knights. He opposed the war, however. To ensure he didn't rebel, I was taken hostage. If Zeke sees me rescued, I'm sure he'll gladly help you.
+
+Zeke: You're Alm, the one who saved Tatiana, aren't you? Thank you kindly.
+Alm: General Zeke, you oppose this war, correct? Please, join our cause.
+Zeke: I cannot. I only helped you fight Jerome because he made my people suffer greatly. Besides... I don't know who I am. All I can remember is that I washed up on Rigel's shore. To my pitiful self, His Majesty Rudolf gave me a new life. I will not betray him.
+Alm: I understand... Apologies for my rudeness.
+Zeke: No, not at all... Hm!? Alm, what's that mark on your right arm?
+Alm: Mark?... Ah, I've always had this birthmark. What does it...?
+Zeke: I see... His Majesty Rudolf once told me: "Zeke, if you find the one with a cross-shaped birthmark on his right arm, you must dedicate yourself to that person. He will certainly become the savior of all of Valentia..." If this is His Majesty's will, then so be it! Al, I shall fight with you!
+
+Nomah: Celica! Are you okay?
+Celica: Bishop Nomah! Why in the world are you here?
+Nomah: I got worried and followed you. Then I accidentally fell down here. Haha, what a folly! Well, from now on, I'm coming along with you. That'll ease my mind.
+
+@Battle 
+Jedah: Hehe, cute critter, eh? I didn't expect you to kill it so soon. That brat was named Alm, yes? If you do not wish to lose him, girl... climb the Tower of Duma.
+
+Rudolf: I see, so you've come at last... I leave this to fate now as a knight of Rigel. Men! You have fought well thus far! However... The Rigelian Empire's time has ended. Hear me, all of you! This is my final request. If I should fall, don't interfere. Those remaining should surrender courageously. Do not feel disgraced! Is that clear? Don't die in vain!
+
+@Battle-Talk 
+%Alm,Zeke
+Zeke: What? Tatiana was saved? Very well! All troops, engage Jerome's men!
+
+@Recruit-Battle 
+Zeke: Well... If I must fight... Forgive me.
+
+@Boss 
+Marla: May Duma's blessings--
+
+Nuibaba: Arise, Medusa! Now is the time you must fulfill your contract with me!
+
+Nuibaba: I... I have erred...
+
+Jerome: You bastards pleased?
+
+Dolth: ...Gwehehe... Oh, defiled beings who rule this foul swamp, repel these men as Master Jedah ordered! May they fall to the necrodragons that I, Shaman Dolth, summon from the dark realm!
+
+Dolth: May Duma's blessings--
+
+Jamil: May Duma's blessings--
+
+Magnus: As expected, even I fell...
+
+Rudolf: Alm... You've grown up well... Was it no mistake entrusting you to Sir Mycen after all? You figured it out by now, right? Your full name is Albein Alm Rudolf. My... only son... Guh... I have a last request... Use 'Falchion', the holy sword that sealed Mila... Defeat... the evil god... Duma...

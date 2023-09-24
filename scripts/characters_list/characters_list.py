@@ -25,7 +25,11 @@ for filename in glob.glob(os.path.join(path_from, "*.json")):
 
         for person in data["speakers"]:
             if person not in file_content["counts"]:
-                file_content["descriptions"].append({"name": person, "gender": gender_info[person]})
+                gender = ''
+                if person in gender_info:
+                    gender = gender_info[person]
+
+                file_content["descriptions"].append({"name": person, "gender": gender})
                 file_content["counts"][person] = data["dialogue_counts"][person]
             else:
                 file_content["counts"][person] += data["dialogue_counts"][person]

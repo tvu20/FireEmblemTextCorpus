@@ -1,0 +1,24 @@
+@Conversation
+Unnamed sage: If you go down these stairs you should get to Duma's Altar. It's said that there's no return once you've entered. Your Highness, please take care!
+
+@Battle 
+Alm: Celica!
+Celica: Ah! Alm, help us... At this rate, everyone will... H-hurry... Please...
+
+Alm: Celica?!
+Celica: Alm...
+Alm: Don't worry. I'll crush these bastards.
+Celica: It won't work. Jedah somehow seals all attacks. Plus, Mogalls keep spawning and entangling us. We're done for... Sorry, Alm. I was weak after all. I've had an odd premonition that pain awaits you... That's why I left on a quest to save Mila... That's why I didn't want you to fight yet. I'm sorry I acted so cold... The truth is, I've always...
+Alm: I understand. But Celica! Focus on escaping! I'll definitely save you, so hang on!
+
+@Boss 
+Jedah: You fools... You will regret this...
+
+Marla: May Duma's blessings--
+
+Hestia: May Duma's blessings--
+
+Duma: That's enough... Hero Alm. Inherit our will and rule this land fairly... Carry both Duma's power and Mila's love... You must never repeat these events... Never again disturb our slumber...
+
+@Narration 
+Thus, the war ended. Many have died, but now Valentia sees peace. Why did this war occur? No one knows. There is but one thing said: If mankind again grows too arrogant... The flames of war shall rekindle. All will be lost... A most dire end. That, perhaps, will remain in our hearts.

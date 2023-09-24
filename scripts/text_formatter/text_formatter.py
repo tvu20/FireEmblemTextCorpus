@@ -1,6 +1,11 @@
 # this file strips quotes.txt of all quotation marks and places the output in output.txt.
 
-with open('quotes.txt', 'r') as f, open('output.txt', 'w') as fo:
+import os
+
+__location__ = os.path.realpath(
+    os.path.join(os.getcwd(), os.path.dirname(__file__)))
+
+with open(os.path.join(__location__, "quotes.txt"), 'r') as f, open(os.path.join(__location__, "output.txt"), 'w') as fo:
     for line in f:
         line = line.replace('"', '').replace('“', '').replace('”', '')
         line = line.replace('…', '...')

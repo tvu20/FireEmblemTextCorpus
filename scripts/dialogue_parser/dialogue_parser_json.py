@@ -8,7 +8,7 @@ game_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
 file_content = {}
 
-normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "character-falls", "dialogue"]
+normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation"]
 narration_tags = ["opening", "narration"]
 people_tags = ["boss", "recruit-talk", "battle-talk"]
 
@@ -37,9 +37,12 @@ def update_speaker(speaker):
 
 # update information relating to gender
 def update_gender(speaker):
-    gender = gender_info[speaker]
-    file_content["transitions"] += gender
-    file_content["gender_counts"][gender] += 1
+    if speaker in gender_info: 
+        gender = gender_info[speaker]
+        file_content["transitions"] += gender
+        file_content["gender_counts"][gender] += 1
+    else:
+        print("missing " + speaker)
 
 
 # -----------------------
@@ -143,7 +146,7 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
 
     file_content = {}
 
-    with open(filename, 'r') as f, open(os.path.join(game_path, "chapters", file_without_type + ".json"), 'w') as file:
+    with open(filename, 'r') as f, open(os.path.join(game_path, "chapters", file_without_type + ".json"), 'w+') as file:
 
         file_info = file_without_type.split("-")
         file_content["chapter"] = file_info[0]

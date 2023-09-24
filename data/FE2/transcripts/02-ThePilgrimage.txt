@@ -1,0 +1,80 @@
+@Dialogue 
+Celica: Well, Bishop Nomah, I'll be off.
+Nomah: Celica... Must you go? The road to Mila's Temple is long. Between Geyse's pirates and the evil fiends rising, you'll surely be attacked. It's too risky...
+Celica: But Father, it's been three years since we last grew crops. What in the world befell the Earth Goddess Mila? I want to find out for myself.
+Nomah: I see... If you insist, then I shall not stop you, Celica. You know why Sir Mycen placed you in my care, right? You are the last of the Zofian royal family. Zofia's people depend on you. Don't try to do the impossible.
+
+Mycen: Celica, it's been a while, eh?
+Celica: ...? Grandfather! Why are you here?!
+Mycen: Well, for many reasons... I see you've arrived safely.
+Celica: Yes, thanks to my allies. We're all going to Mila's Temple.
+Mycen: I see... Well, you might want to head upstairs first. You should find someone you've been wishing to meet.
+Celica: It...it can't be! ...Alm? Zofia's liberator couldn't be Alm... could it?
+Mycen: Well, why don't you go see?
+
+Alm: ...? You are... Ce...Celica!
+Celica: Alm... So it really was you. I haven't seen you since I left the village...
+Alm: Yeah. We always used to play together. I held a serious grudge against Gramps the day you were sent away.
+Celica: I was sad too, but Grandfather told me why he did it: 'If you stay in Ram, Desaix will come to kill you.'
+Alm: But why? Why would Desaix want to kill you, Celica?
+Celica: That... I'm sorry. I'd rather not say right now. In any case, Alm, I have a request. Can war be avoided with the Kingdom of Rigel?
+Alm: That's impossible. King Rudolf of Rigel decided to attack while Zofia is weak. At this rate, Zofia will be destroyed.
+Celica: But aren't we all the same? We should be able to coexist.
+Alm: There's no way. Zofians won't tolerate Rigel's barbaric rule. We must retaliate!
+Celica: How sad... I'm sure if we talked, we could come to an understanding... Unless, Alm, now that the Zofians call you their hero, you want to become their king as well?
+Alm: What! That's mean, Celica. I just want to protect the people of Zofia, that's all. Besides, Zofia's only remaining princess is still alive. I'm planning to search for her. After I find her, I'm returning to Ram.
+Celica: That's not true! Zofia's royal family is gone! But I get it, Alm. You go ahead to Rigel. My companions and I are going to Mila's Temple.
+Alm: Celica!?
+Celica: Goodbye, Alm...
+
+@Conversation
+Nomah: May the blessings of Mila be with you...
+
+NPC: It's said a powerful sword is hidden at the Seabound Shrine.
+
+NPC: Don't go near the Seabound Shrine, 'kay? A scary Necrodragon lives on that island and eats all trespassers.
+
+NPC: If you want to sail to Valentia, take that docked ship. However, lots of pirates trawl the waters. Their boss, Barth, has killed many people.
+
+NPC: Earlier, some men left to avenge their families. They probably won't return alive.
+
+Palla: We came from Archanea, a continent to the east.
+
+Catria: Our little sister was taken by pirates. We gave chase, but lost them around here.
+
+NPC: A hero has arrived in Zofia! We're saved!
+
+NPC: You'd better not go to Mila's Temple. That area's crawling with Geyse's bandits.
+
+NPC: Hurrah! Zofia Castle is liberated! Desaix fled to his own lands!
+
+NPC: Sure, I'm happy... But I'm a bit worried that the Kingdom of Rigel might invade...
+
+NPC: Desaix's gone, but crops are wilting and weird demons emerged... What's happened to the Earth Goddess Mila?
+
+NPC: Desaix escaped with the valuable 'Royal Sword'. It was a gift of friendship from the Kingdom of Rigel long ago. No normal person can use it.
+
+@Recruit-Conversation 
+Mae: That Boey's just a kid who only knows Fire magic. I can also use Thunder, so please rely on me, 'kay?
+
+Boey: You must feel uneasy with just the girls, right? I'll come along too, so please relax.
+
+Genny: If Lady Celica is going, then I shall go too. If you get hurt, I can heal you with my Recover spell.
+
+Saber: Oh, shaddaaap! Dun interrupt my drinkin'! Don't gooo... Y'all can't cross the sea by yerselves, can ya?
+Celica: Aren't you a mercenary? Could you protect us?
+Saber: What? You wanna hire me? Hmm... Alright, it might be interestin'.
+
+Valbar: You helped us out there. I owe ya one! Wherever ya go, I'll follow!
+
+Kamui: Me? Well, I can join y'all if you like. ...Unless you're gonna fight the Necrodragon. There's no way to defeat that thing without Angel magic.
+
+Leon: If my bro Valbar's going, then I am too. I'll show you my marksmanship!
+
+@Battle 
+Valbar: Kamui, Leon, don't slip up! If Barth is defeated, his goons should flee. Bring down Barth!
+
+@Boss 
+Barth: You've got nerve attackin' me, the pirate lord Barth! I'll dice ya!
+
+Unnamed enemy: Boss died! Run!

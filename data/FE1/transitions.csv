@@ -1,0 +1,13 @@
+pairing,from,to,frequency
+-M,-,male,71
+M-,male,-,70
+FM,female,male,53
+MF,male,female,49
+MM,male,male,37
+-F,-,female,24
+F-,female,-,14
+FF,female,female,5
+N-,neutral,-,4
+-N,-,neutral,4
+MN,male,neutral,1
+FN,female,neutral,1
