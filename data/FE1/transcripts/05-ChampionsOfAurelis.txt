@@ -5,7 +5,9 @@ Hardin: Finally, we can build a force to fight back. Princess, it is dangerous h
 
 @Visit
 Old man: There are many treasures within the castle walls. However, if you do not have a thief in your army, you will not be able to open the chests!
+
 Woman: I hear that the shops in Port Warren sell many rare items. If you plan to travel there, don't waste your gold beforehand!
+
 Woman: Many foes wait inside the fortresses, ready to enter the battle. Block them so they can't get out!
 
 Young man: Boy! What's that look on your face? Haven't you ever seen a backwoods village like this before? Speaking of rare sights... When I was last in Pyrathi, I saw a manakete! An old man stood there, but suddenly, he turned into a dragon! What a shock... Truth told, I was scared out of my wits at the sight of it! I've heard rumors about the dragonkin, that some survived to this day. Still, I never thought I'd see a manakete with my own eyes! What are you looking at? Oh, this? I picked it up on my trip. It's unusual, this glowing stone... I have no idea what it's for, so you can have it! It makes me uncomfortable anyway. What a nice young man! I hope we can speak again.
@@ -14,7 +16,7 @@ Young man: Boy! What's that look on your face? Haven't you ever seen a backwoods
 %Marth,Wendell
 Wendell: Prince! I am Wendell, a bishop of Khadein. We are a peaceful people. But our pleas were met only with cruelty by Gharnef as he seized the city. Thanks to his dark influence, many mages have now allied themselves with Dolhr. Please, with the strength of your forces, find a way to put an end to Gharnef's ambitions.
 
-%Merric, Wendell
+%Merric,Wendell
 Merric: Oh! Master Wendell? Yes, it's you!
 Wendell: Ah, Merric! How have you been, lad? You certainly look well.
 Merric: I was able to find Prince Marth of Altea! And I have joined his army as well. We are fighting the tyranny of Dolhr! Why are you here, Master?

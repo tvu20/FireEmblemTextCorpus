@@ -3,6 +3,7 @@ Caesar: Prince Marth, we are mercenaries hired to protect Port Warren. Grust has
 
 @Visit
 Woman: Many foes wait inside the fortresses, ready to enter the battle. Block them so they can't get out!
+
 Woman: I've heard tell that a princess of Macedon is being held captive in Castle Deil. Macedon and Dolhr are supposed to be allies! I wonder what happened...
 
 @Recruit-Battle

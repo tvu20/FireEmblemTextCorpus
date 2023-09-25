@@ -1,10 +1,13 @@
 @Opening 
 Khadein, city of magic... This hallowed place is now under Gharnef's control. No warrior, no matter how brave, can stand up to the spells of Khadein. Though they may try, one by one...they will inevitably fall. Has this place truly sunk into shadow?
 
+@Intro 
+Gharnef: What? The dregs of Archanea have come to challenge my kingdom? Ha ha ha... Really, do they think people have not tried before? So long as I possess this Imhullu magic, they cannot snuff my life out. No one can. As for the White Sage... He will trouble me no longer. With the dragon-goddess right where I want her, in the Fane of Raman, there is no way for Gotoh's Starlight to disperse the shadows that guard me.
+
 @Visit 
 Man: You can't hope to fight Gharnef! His evil magic Imhullu protects him. Only Gotoh's Starlight can break his evil spell… But you didn't hear this from me! Get out of here!
 
-Young man: Strong armor is no use against magic. Have a curate use the spell Barrier instead!
+Young man: Strong armor is no use against magic. Have a curate use the spell Barrier instead or Pure Water!
 
 @Boss 
 Gharnef: You must not value your life very much… I will show you the true terror of the darkest of magic, Imhullu!

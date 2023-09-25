@@ -10,9 +10,9 @@ Woman: I apologize... Since Archanea fell, this town has become desolate. It's n
 
 Woman: I hate war... It's always the women and children who suffer. You should stop fighting. Get back to those you love as soon as you can. Parthia, the bow of flame, Gradivus, the lance that pierces stone... And the magic blade that can only be wielded by the chosen, Mercurius. Those that obtain them are said to be blessed by the gods.
 
-Old man: Three weapons have been passed down by the royal family of Archanea.
+Old man: Three ancient weapons known as the Regalia have been passed down through the generations of House Archanea: Parthia, the bow of flame; Gradivus, the lance that pierces stone; and Mercurius, the spectral sword. Only those blessed by the gods may lay hands on them- or so it goes.
 
-Anna: Grust's army has good people in it too. Take my boyfriend, Jake. He's a kind man. If you run into him, will you tell him that Anna is worried about him? Just... There's one more thing. He probably won't want to talk to a man. Send a woman to talk to him. OK?
+Old man: No person can defend themselves against the breath of a dragon. Any armour is useless, so fighting head on is very dangerous.
 
 @Recruit-Visit 
 Ruffian: You lookin' to buy a slave? All's I have left are some scrawny brats, but I'll cut you a deal.
@@ -25,14 +25,12 @@ Linde: I am the daughter of Archbishop Miloah. I disguised myself to escape from
 Marth: So you're the archbishop's daughter! It's good that we found you. Princess Nyna has been worried sick! From today, we will stand beside you. I will not let anything like this happen to you again.
 Linde: Prince Marth, let me fight at your side. I have the Aura tome my father entrusted to me... If Princess Nyna allows me to help, I will use it. I want to take revenge for what Gharnef did to my father. I must defeat him.
 
-@Recruit-Talk 
-%Caeda,Jake 
-Caeda: Hello, soldier of Grust. You're Jake, aren't you?
-Jake: Who are you? Don't you know it's not safe here.
-Caeda: As a girl from this town told me, it seems there are good men among Grust's forces. You know a girl called Anna, don't you?
-Jake: Oh, you heard about me from Anna? That's good! What did she have to say?
-Caeda: She said that if you fought for the people of this land, she would follow you anywhere.
-Jake: Really?! Well, honestly... I don't like seeing the people of this land suffer like this. All right. I've made up my mind! I'm ready to fight for you, and for Anna! I'll show you what I can do!
+Jeorge: Greetings, Prince Marth! I am Jeorge, a sniper of Archanea. I was captured when Archanea was defeated, but, with effort, I escaped. I have been awaiting you. I hear Princess Nyna is under your protection. I wish to join you. With my silver bow in hand, I will expend every effort to set my land free.
+
+@Boss 
+Khozen: Burn...! Burn, till your blood boils and your flesh cooks!
+
+Khozen: Emperor Medeus...I have failed you...
 
 @End 
 Marth: Look, Princess Nyna. It's the Ageless Palace.

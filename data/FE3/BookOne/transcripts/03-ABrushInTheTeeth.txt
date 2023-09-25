@@ -1,3 +1,6 @@
+@Opening 
+When journeying in from the borderlands, one particular peril would spring to mind: the Samsooth Mountains, whose gashing peaks rose up and divided the peninsula. Since before anyone could remember, the mountains had belonged to bandits, blights on the land whose acts of plunder, kidnapping, and arson knew no bounds. Out of fear, their victims gave these peaks another name: the Ghoul’s Teeth; while the bandits who ruled atop the Teeth’s craggy crowns took a name as well: the Samsooth Sires, or Soothsires...
+
 @Intro
 Julian: Hey, Lena! Things are looking bad. We had better beat it! Sounds like the knights of Altea have arrived. This is our cue to get out of here! We're almost there, so come on!
 Lena: I am sorry, but...I have lost my precious Mend staff. Until I find it, I cannot leave. Don't worry about me, Julian! You should flee while you can. I can use my Warp staff to send you somewhere safe.
@@ -15,12 +18,19 @@ Old Man: You youngsters sure do have stamina. Since you made it all the way up h
 @Recruit-Battle
 Navarre: I feel bad killing you, but it was your mistake to come here. Now die!
 
+Navarre: Fools...
+
 @Recruit-Talk
 %Caeda,Navarre
 Caeda: Navarre! Why has a swordsman on your worth fallen in with thieves?
 Navarre: What was that? ...I have no business with women or children. Leave now!
 Caeda: Please, help us put a stop to this pointless fighting. Lend us your strength! If you will not, then I will tell you... Do your worst. I am ready.
 Navarre: ... I have vowed never to turn a blade on a woman. If you would risk your life to convince me, I suppose I have no choice. I will join you.
+
+@Boss
+Reynard: Har. You must really want to die, comin’ into the Soothsires’ palace unbidden!
+
+Reynard: Arrgh... One day it’ll be you!
 
 @End 
 Malledus: Prince, look! The bandits left 15,000G in the castle's vaults. We can use this money to supply ourselves with equipment. Tomorrow, we will arrive in Aurelis! For tonight, rest well.

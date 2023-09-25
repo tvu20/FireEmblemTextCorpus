@@ -1,7 +1,3 @@
-@Opening
-Our tale beginswith the Shadow Dragon, the blade Falchion, and the... 
-Fire Emblem: Shadow Dragon and the Blade of Light
-
 @Intro
 Jagen: Prince Marth! Princess Caeda has alighted from Talys Castle.
 Marth: Caeda, what's wrong? Did something happen?
@@ -21,8 +17,10 @@ Woman: If you are injured, stop at a fortress. You'll feel better after a short 
 
 Villager: It is good that you have come, Prince Marth. I have here 10,000G that the villagers gathered. Take it. Please, use it to equip yourselves. Save this land from these rampaging pirates of Galder!
 
-@Recruit-Visit
-Wrys: I am Wrys, a humble curate. I cannot fight, but this staff I carry can heal the wounded. Please allow me to join you.
+@Boss
+Gazzak: The might of Altea, ye say, now? Har! Ye sprogs look t’be a mite short o’mighty t’me.
+
+Gazzak: Rrgh... Ye'll pay, dog...
 
 @End
 King of Talys: Prince Marth! You have done well to make it here safely. You have my thanks. So, you plan to travel to Aurelis? In that case, though they are few in number, my soldiers will join you. From Captain Ogma down, they are all brave warriors and should serve you well. That is not all. Heed me now. As you travel through these lands, you may find many who cannot tolerate the tyranny of Dolhr. Some are hiding in villages. Others have been taken prisoner. And some must work with the enemy... You must seek these people out and work together! Heed the call! The time has come! Set foot on your path, but be vigilant! You face many dangers.

@@ -1,0 +1,49 @@
+@Opening 
+Trace a line around the continent’s north-eastern plains, and you have Aurelis. This kingdom alone had somehow resisted Dolhr’s attempts to conquer it, but only by some miracle. By the time Marth arrived in Aurelis, much of its territory had already been carved up by Dolhr’s ally Macedon. Still, the king’s younger brother, Hardin, refused to give up without a fight. The people called him Coyote, and he intended to live up to the name. Since its founding, Aurelis and the holy kingdom of Archanea shared close ties and months ago Princess Nyna of Archanea had come to Hardin’s aid. By his side, she had called on the people to fight- but few remained to answer. Macedon’s finest soldiers were closing in. Nyna knew they were out of time…
+
+@Intro 
+Hardin: Princess Nyna, the Altean Army has apapeared on the opposite side of the river.
+Nyna: Oh, Hardin, have they really? So Prince Marth has come...
+Hardin: Finally, we can build a force to fight back. Princess, it is dangerous here. Please wait for the prince inside the fortress. Together with Altea, we will retake the castle!
+
+@Visit
+Old man: There are many treasures within the castle walls. However, if you do not have a thief in your army, you will not be able to open the chests!
+
+Woman: I hear that the shops in Port Warren sell many rare items. If you plan to travel there, don't waste your gold beforehand!
+
+Woman: Many foes wait inside the fortresses, ready to enter the battle. Block them so they can't get out!
+
+Young man: Boy! What's that look on your face? Haven't you ever seen a backwoods village like this before? Speaking of rare sights... When I was last in Pyrathi, I saw a manakete! An old man stood there, but suddenly, he turned into a dragon! What a shock... Truth told, I was scared out of my wits at the sight of it! I've heard rumors about the dragonkin, that some survived to this day. Still, I never thought I'd see a manakete with my own eyes! What are you looking at? Oh, this? I picked it up on my trip. It's unusual, this glowing stone... I have no idea what it's for, so you can have it! It makes me uncomfortable anyway. What a nice young man! I hope we can speak again.
+
+@Recruit-Visit
+Merric: Prince Marth! Finally we meet again.
+Marth: Merric? is that you? What a surprise.
+Merric: I was studying magic in Khadein when war came. I left the city then and have been looking for you.
+Marth: I'm glad you sought me out. We could use someone with your talents in our army. Will you join us?
+Merric: Of course I will. I learned a strong spell in Khadein called Excalibur. I will demonstrate it in battle!
+
+@Recruit-Talk
+%Lena,Matthis
+Lena: Matthis? Is that you?
+Matthis: Lena?! What are you doing on a battlefield?
+Lena: I was attacked by bandits in the Teeth while tending to the sick there, and these people saved me. The real question is, what are YOU doing on a battlefield- least of all this one!
+Matthis: I’m not here by choice, sister of mine. Since you left, Macedon has only gotten worse and worse. They forced me to enlist- you know I hate warfare, but it was into the army or onto the chopping block.
+Lena: Shame on you, Matthis. If you’re going to fight, then at least fight for something you believe in. Medon has done terrible things: marrying their might to Doluna, helping them torment people…Brother, it’s not too late. You could join Altea’s forces. They’re good people you know. Prince Marth would welcome you. They all would.
+Matthis: …All right, then. If I’m gonna to die, I’d rather die as one of the dashing than one of the dastardly. You know, Lena, you always were the reliable one and now you’re all grown up…I thought for sure you’d have already settled down with your one true love.
+Lena: T-true love? I’ve…I’ve met no such man, Matthis.
+Matthis: Hmm, is that so? I’ll bet you haven’t… Well, you just be careful. There are plenty of thieves out there who would steal a girl’s heart.
+Lena: Huh? But...
+Matthis: Well, Lena, don’t push yourself too hard. I’ll just go and say my farewells to the Macedonian army.
+
+@Recruit-Battle
+Matthis: Lena...where have you gone? Even if it could be just once more...I had hoped to see you again.
+
+Matthis: Lena... Forgive this useless brother.
+
+@Boss 
+Merach: Princess Minerva bade me guard this castle in her absence. You shall not take it so long as I stand!
+
+Merach: Heh… You think you’ve won, wretch? Far from it…
+
+@End 
+Aurelis King: Well met, Prince Marth! Princess Nyna has taken refuge in a fortress, but you will see her soon. Many enemies await you in the castle. You face many dangers. Do be careful.

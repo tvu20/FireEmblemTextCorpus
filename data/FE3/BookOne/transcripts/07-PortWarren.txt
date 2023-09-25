@@ -1,0 +1,22 @@
+@Opening 
+The League had reached Archanean soil, so Marth gave himself leave to recuperate in Port Warren, a harbor town known for commerce. Coin alone kept the town free and they paid Dolhr dearly in taxes to preserve their autonomy. Naturally, then, theirs was a warm welcome when the Archanean League arrived. Marth's soldiers were glad to rest there, nestled between mountain and sea, but their joy was spoiled by news that the enemy was fast approaching- as harsh an awakening as a rock beneath the pillow.
+
+@Intro 
+Caesar: Prince Marth, we are mercenaries hired to protect Port Warren. Grust has gathered its forces in the northern fortresses. They have put the port to siege. It's very dangerous here. But there is a castle to the east that looks a bit safer. We should make it our target. Let's head out there together without delay!
+
+@Visit
+Woman: Many foes wait inside the fortresses, ready to enter the battle. Block them so they can't get out!
+
+Woman: I've heard tell that a princess of Macedon is being held captive in Castle Deil. Macedon and Dolhr are supposed to be allies! I wonder what happened...
+
+Old man: To defeat dragons, you must use a Dragon Killer sword.
+
+Villager: In the coliseum, you will be rewarded with gold and experience if you win. But if you die, you lose your life. If you want to enter, you should be mentally prepared.
+
+@Boss 
+Kannival: W-what are you doing all the way out here? Blast, I'm finished...!
+
+Kannival: Long...live...Grust! Nngff...
+
+@End 
+Catria: Prince Marth, I am Catria of Macedon's Whitewings. I have come to you with a secret request. Princess Minerva's forces are planning to rebel against Dolhr. However, the princess's younger sister, Maria, has been taken hostage by Dolhr so we cannot act. We beg of you, please help us save the young princess!

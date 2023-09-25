@@ -1,0 +1,44 @@
+@Opening 
+Heeding Catria's request, Marth heads to Castle Deil in order to save the captive Princess Maria of Macedonia. Not all of the League's soldiers took Catria of the Whitewings at her word. Some insisted her plea was a ruse, a trap concocted by Princess Minerva herself. Marth doubted that, though; he had seen the woman in Lefcandith Valley, and she did not strike him as a sort of conniving menace his followers feared. That woman had the same expression as his elder sister... A tragic and painful one. In Minerva, Marth saw the figure of his older sister, Elice, who was still missing after being captured by the Empire in his place. As the brunt of Grust's might drew closer, Marth led the League to Castle Deil, determined to attack the citadel and rescue the young Macedonian princess, Maria.
+
+@Intro 
+Zharov: Princess Minerva, what brings you here? You've left your post: not very wise. Might I remind you, poor conduct on your part could have repercussions on how...comfortable...your sister remains.
+Minerva: I am aware of my sister, thank you. ...I did not come to make trouble. Just let me see Maria, for a little while. She's only a child, General. Think of what she must be going through.
+Zharov: Impossible, I'm afraid. She is a hostage. If your sister's well-being concerns you, then start following orders.
+Enemy Soldier: General! Grave news! The rebel army has been sighted east of Castle Deil!
+Zharov: What?! Why in creation would the rebels come here? Blast...Order the Dragoons to sortie! And don't forget to send word to the main army. We need reinforcements!
+Minerva: Rebels...? Then Marth has arrived...
+
+@Visit 
+Old man: There were three great bishops in this land. Miloah, the Master of Aura. Gharnef, The Dark Pontifex. And Gotoh, the White Sage. But now that Miloah has been defeated, no one can stand up to Gharnef.
+
+Old man: The levin sword... It is said that they who wield it can loose lightning that will crush even heavy armor.
+
+Man: Snipers are skilled bow users. If you carelessly let them get close, you could get killed.
+
+Old man: Beware of ballistae near the northern fort. They can attack from far away.
+
+@Recruit-Talk 
+%Marth,Maria
+Maria: Ah... You must be Prince Marth! (Wow! He's so dashing!) Thank you for saving me! You have to tell my older sister that I am safe! She must be worried... One other thing... I would like to join you, Prince. Let me stay by your side! Oh, please don't say no!
+
+%Marth,Minerva
+Minerva: Greetings, Prince Marth. I am Minerva of Macedon. For saving Maria, you have my thanks. I had no choice but to be your enemy. I regret that very much. Still, many in Macedon do support Dolhr, including my elder brother Michalis. To me, though, Dolhr is responsible for my father's death. I seek revenge for that. I must also worry aobut my troops, however. Especially the three Whitewings: Palla, Catria, and Est. Dolhr feared our rebellion and separated us. If they knew I was safe, they would happily join your ranks. How I detest Dolhr for trampling Macedon underfoot. Please, allow us to join your fight.
+
+@Recruit-Battle 
+Maria: Ah… Minerva, sister…
+Minerva: Maria was just a hostage. Why did you… I won’t forgive you!!
+
+Minerva: I am looking for Prince Marth.
+
+Minerva: Maria…
+
+@Boss 
+Zharov: Grrr... Must I do everything myself? Bah! You'll not get past me, rebel!
+
+Zharov: They're a force... to be reckoned... with... Rrgh...
+
+@End 
+Nyna: Prince Marth, do you know of the archbishop of Archanea, Miloah?
+Marth: I have heard he was a great man and the wielder of Aura, a powerful spell. He protected Archanea. It is my understanding that he fell fighting Gharnef, who has allied with Dolhr.
+Nyna: That is so. But he had a daughter named Linde. It is said she inherited the magic of Aura. Unfortunately, we do not know where Linde is now. No one does. I fear that something terrible has befallen her. Please, seek her out. Her father is no more, so we must protect her now. For Archanea's sake!

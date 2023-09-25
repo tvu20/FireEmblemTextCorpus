@@ -1,9 +1,14 @@
+@Opening 
+Still smarting from their bitter experience with Gharnef and the dark magic Imhullu, Prince Marth and the League regrouped and marched south- home to Altea. Once Marth's kingdom had been beautiful, blessed with rich soil and clear waters; now the eyes tended to notice instead the barren farms; the ruins; forlorn stares. Marth vowed to free Altea from its torment without any further delay.
+
 @Intro 
 Nyna: So this is your country, Altea...
 Marth: Yes. Dolhr has occupied it for two years now. I escaped to Talys only thanks to my sister Elice's help. And in my place, she was captured by Dolhr. I have no idea where she is now. I vow that I will do whatever I can to rescue her! All right, everyone! It is time to take back Altea! Let us begin!
 
 @Visit 
 Old man: I have something very important to tell you. Listen well! In the northwest of this land, you will find two villages. A paladin named Arran dwells in the western village. In the easterly one, there is a hero named Samson. Both of them are fine men. The problem is the feud between their villages... Due to this rivalry, you can only add one of them to your ranks. Think hard about this before visiting either village.
+
+Young man: Psst… If you have a VIP card, you can access a members-only shop. Its location is a secret. Even I don't know it!
 
 Man: I heard a rumor that the prison to the east holds a young man called Xane. He isn't from around here... That's not all... I hear he holds a wondrous power.
 
@@ -13,6 +18,8 @@ Woman: Princess Elice was taken away somewhere by a bishop called Gharnef. How s
 
 Young man: If you intend to use the Devil Sword, be careful. It's a powerful weapon but a danger to its owner.
 
+Middle-aged Man: Three orbs are enshrined at the Fane of Raman, each brimming with power. What sort of power, none can say. Well, except those who have wielded it, right?
+
 @Recruit-Visit 
 Arran: I am Arran. Once, I was a knight captain. I left that life behind me, but if you have true need of my strength, I will join you. The feud between these two villages is bitter. If our neighbors hear you visited us, they will bar their gates. If you had hoped to recruit the hero Samson, I am sorry.
 
@@ -21,6 +28,14 @@ Samson: I'm Samson. I used to be famous as a gladiator. That's behind me now. I'
 @Recruit-Talk 
 %Marth,Xane
 Xane: Hey there, Prince! Thanks for saving me. The name's Xane. I come from a faraway land. My people can transform into anybody. Dolhr found out and demanded I join them! I refused. I'd never help those villains! I'd be happy to help you fight them though!
+
+@Recruit-Battle 
+Xane: Hey! Wait, I’m not an enemy. Don’t fight me!
+
+@Boss 
+Hollstadt: Well done, rabble. Anyone else would be dead by now. A shame you must end your campaign right here, before your own gates!
+
+Hollstadt: Rrgh! General Camus... The rest... is in your... hands...
 
 @End 
 Marth: Soldiers of Altea, and everyone who has lent us your strength…you have my gratitude. Thanks to you, we have finally taken our country back from Dolhr. Many enemies still remain inside the castle, however! Do not drop your guard!

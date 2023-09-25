@@ -1,3 +1,6 @@
+@Opening 
+One thing could always be said about Galder Harbor, the mainland port nearest Talys: it never had much in the way of riches, but neither did it have much trouble. All that changed when a pirate crew fell upon the town and made it their hideout. Here, in Galder, history records Marth’s first steps toward freeing his homeland.
+
 @Intro 
 Ogma: Prince Marth, I'm Ogma, a mercenary of Talys. The king ordered me to join your forces. I brought along my three most trusted men. Welcome to Galder, the port town that's been overrun by pirates. Pirates aren't all you will have to worry about. We've spotted soldiers from Grust too. Keep your wits about you.
 
@@ -10,9 +13,6 @@ Man: Hammers are effective against knights. It would be wise to purchase one!
 
 Villager: Prince of Altea, I beg of you... Save the cleric Lena. We tried to stop her, but... she left the safety of the village to bring aid to the poor and sick. She set out toward the Ghoul's Teeth some time ago and has yet to return. I can't tell you how much Lena's help meant to us. She's like an angel. It isn't much, but...we can offer you 5,000G to aid in your efforts to rescue her. Please, do what you can to save her!
 
-@Recruit-Visit
-Darros: Prince Marth, I am Darros, a simple man of the sea. I want to leave the life of a sea dog behind. If you need my help, I'll give it gladly! Please, let me fight alongside you.
-
 @Recruit-Battle 
 Castor: Please forgive me, Princess Caeda! I have no choice. I must get my hands on some money...
 
@@ -22,6 +22,11 @@ Caeda: You are Castor of Talys! Why are you fighting us?
 Castor: Princess Caeda... I am sorry. My mother is ill. To afford her medicine, I would do anything. Even this!
 Caeda: I see... The pirates pay you. Well, it it may not be much, but I offer you what I can. Take it, and buy medicine for your mother.
 Castor: You would aid a traitor like me? You are so kind... Oh, Princess Caeda! Forgive me! From now on, I will dedicate my life to you.
+
+@Boss
+Gomer: The gall of ye, defyin' me crew! I'll put an axe square between yer eyes! Ye ain't leaving here alive. I swear it on the rickety peg leg o'Shanty Pete!
+
+Gomer: Augh... Fiends, ye be...
 
 @End 
 Villager: Thank you for taking care of those ruffians, Prince Marth. Thanks to you, peace has returned to Galder. In order to reach Aurelis, you must cross the Ghoul's Teeth. It is a dangerous road. You will find fearsome bandits called the Soothsires there. They prey on travelers and raid nearby villages. I have heard of a skilled swordsman called Navarre in their employ. Whatever you do, do not let your guard down. I will pray for your safety.
