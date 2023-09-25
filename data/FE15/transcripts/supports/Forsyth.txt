@@ -1,0 +1,122 @@
+%Lukas 
+Lukas: ...Forsyth? I'm sorry, are you...reading?
+Forsyth: ...Ah! Oh, um... Hello Lukas!
+Lukas: It strikes me as unwise for you to have your head in a book at a time like this.
+Forsyth: Y-yes, you're probably right. But I swear I'm paying attention to the battle! Please don't tell sir Clive about this.
+Lukas: Peace, friend. I was just looking out for you. If I may, which literary work has so enraptured your interest?
+Forsyth: Oh this? It's an old tactical codex. My father lent it to me when I left home. ...Well, it's more like I took it. My father is a scholar, so I spent my childhood surrounded by books.
+Lukas: Really? I didn't know. That must have been wonderful. I do enjoy a good page-turner.
+Forsyth: Yes, I've noticed you're something of an avid reader.
+Lukas: Guilty as charged. My father wouldn't have it though. He insisted I train in the arts of war. What I wouldn't have given for just one full day curled up with a good book.
+Forsyth: Really? Well, that's...one way to look at it. I suppose. ......
+
+Lukas: Forsyth, do you have a moment?
+Forsyth: Of course! What is it, Lukas?
+Lukas: Remember when I was telling you about my father forcing me to train? I couldn't help but notice it upset you. So I was hoping to clear the air.
+Forsyth: Er, sorry. Was it that obvious? Well all right. We can clear the air. Let's see... How do I put this... Since I was small, all I ever wanted was to become a knight. But my father insisted I wield a pen, and barred me from the sword or lance.
+Lukas: Ah, so we were quite different.
+Forsyth: I would have given anything for the opportunities your father gave you. So it hurt when you said you'd rather read. Books are easy to find, after all.
+Lukas: Heh heh. Well, I still would have gladly traded places with you. Whoever dealt life's cards was clearly in his cups.
+Forsyth: Ha ha. Indeed.
+
+Lukas: *sigh* Really, Forsyth? Reading in the heat of battle again? One day this will get you killed.
+Forsyth: Wagh! Lukas! What a surprise! ...You look well.
+Lukas: Mm-hmm. What are you reading today?
+Forsyth: Oh this old time? Merely a chronicle of Zofian history. I started mixing up my reading list after our last chat.
+Lukas: Really? Why is that?
+Forsyth: You convinced me I was being a fool. As a boy, I told myself the only books I had use for were combat manuals. I passed up countless valuable lessons Just to prove a point to my father. Now I'm trying to serve as lieutenant to Sir Clive, and look at me! Every day is a painful reminder of just how little I actually know.
+Lukas: Nonsense. ...Though if it makes you feel better, I have just as many regrets. Every time I barely escape with my life in battle, I curse myself for not taking my early training more seriously. But at least time is on our side. It's never to late to learn, after all.
+Forsyth: You're right—a warrior can be a scholar as well. ...You know what Lukas? I'm going to KEEP reading this book. And if the enemy comes at me. I'll be ready to stab them with KNOWLEDGE!
+Lukas: Heh heh. If they don't knight you for that, then something is clearly wrong.
+
+%Python 
+Python: *yaaaaawn*
+Lukas: Python, I think an entire village could be swallowed up in one of your yawns. Perhaps you should try sleeping instead of staggering back to camp at sunup. I cannot turn a blind eye to this type of behavior forever. You're a soldier. Occasionally, we need you to behave like one.
+Python: Sir, yes, sir! Crivens, what is it with you knightly types? Don't you know how to get out and let your greaves down a little?
+Lukas: We haven't always been so formal. But now Zofia is at war, and we must—
+Python: Wait. Stop. You actually USED to be more footloose and fancy-free? So you're saying if I dig deep enough, I might find dirt on Clive?!
+Lukas: I...wouldn't go that far. But I have heard tale that all the ladies of court would giggle as he passed by.
+Python: Pfft. BOOO-RING. I mean, at least tell me they were SALACIOUS giggles. Come on, Lukas. Fill old Python in here. Is our Clive a dirty boy? Eh? Eeeeeh? I promise I'll only tell my closest friends.
+Lukas: *sigh* Your decorum continues to amaze.
+
+Python: Oy! Lukas!
+Lukas: What is it, Python?
+Python: I'm still waiting for a good sordid story involving knights. So what about you?!
+Lukas: ...Me? My past is hardly sordid enough to sate YOUR appetite for gossip.
+Python: Are you suuure? You know all the ladies in town keep asking me who the knight in red is. Which, by the way, means they're not paying attention to me, so thanks. But you can make it up to me with an earful of tasty noble scuttlebutt!
+Lukas: I don't see how that makes any sense whatsoever, but very well. Hmm... Well, back home, there was a woman I courted for many a year.
+Python: Ooh! Now we're getting somewhere. Was she a looker? Was it serious? Were her eyes like shimmering—
+Lukas: Stop pestering me like an old maid. Looks like the enemy is nearly upon us. Let's get back to it.
+Python: Hey, wait! Come back! I wanna hear about your special lady friend!
+
+Python: Heh heh... I've got you cornered now, Lukas. Now I'll hear every last detail about that woman you courted!
+Lukas: Juicy...? *sigh* I fear you are going to leave this conversation sorely disappointed.
+Python: Hmm. I'll admit, the mention of her doesn't quite seem to fire your loins. So what's the story? Don't you love her?
+Lukas: Fire my...? Honestly, Python? I'm not sure if I love her or not. Since being parted from her, I feel no particular longing to see her again. I sometimes wonder if a vital part of me is broken. I look at Clive and Mathilda and see... Well, you used the word "fire". But whatever it is that they have, I seem to lack it.
+Python: Aw, don't you worry. You're still young. The "one true love" thing isn't for everyone. Certainly not for me. And I dare anyone to tell ME that I'M broken.
+Lukas: So you think such lack of feeling are normal?
+Python: Perfectly! if you ask me, Clive and Mathilda are the weird ones. The way they look at each other with rainbows shootin' from their eyes...Heh. Look, one day you might decide you miss your lady. But take it at your own pace.
+Lukas: My own pace... That's...surprisingly sound advice.
+Python: And if she falls into the arms of another man before you come around, so be it. I'll be here to cheer you up. We can hit the town, quaff some ale, spend all your money... It'll be great!
+Lukas: Heh heh. I don't doubt I would be in good hands...
+
+%Clive 
+Forsyth: Wait... Is that him? It is! Sir Clive! Sir Cliiive!
+Clive: Ah, Forsyth. How fare you?
+Forsyth: Never better, sir! I could take on a whole army, so I could! Just watch as I secure a grand victory in your name, sir!
+Clive: Splendid. Er, but while I appreciate your enthusiasm, I have a small request: Please DO NOT run headlong into the enemies ranks again. How many times now have we had to save you because you got separated?
+Forsyth: Eeep! Yes, sir. S-sorry, sir. I will strive to do better see! And if I fail to learn my lesson. then I am prepared to die a warrior's death for my mistakes!
+Clive: Let us hope it does nor come to that. You know, you have tremendous talent, Forsyth. but you are far too tense. Perhaps you should attempt...to loosen up.
+Forsyth: L-loosen up, sir? A-all right, sir! I'll work on that right away!! Just watch how loose I can be!
+Clive: ...Perhaps I am wasting my time.
+
+Clive: Ah, Forsyth. You're in fine form today.
+Forsyth: Sir Clive! Never fear—I intend to slay as many foes as possible in your good name! Long live the Deliverance, and three huzzahs for sir Clive!
+Clive: h, yes. Very Good. Listen, Forsyth... I couldn't help but eavesdrop when you and Python were talking. You DO know that you can speak to me as you do him, yes?
+Forsyth: Forgive me, sir, but I'm not certain that I grasp your meaning.
+Clive: With Python, you open up and speak your mind. You're friendly. Relaxed. That's what I meant when I said you can loosen up. Just treat me the same as you would Python.
+Forsyth: EXACTLY the same, sir?
+Clive: Uhhh... Right. Never mind then.
+
+Forsyth: Sir Clive?
+Clive: Forsyth, what's wrong? You look distressed. What happened to your usual vim and vigor?
+Forsyth: I'm sorry, sir. I tried to do as you said. And I mean, I tried EVERYTHING. But I just can't seem to make it work.
+Clive: What are you talking about?
+Forsyth: You know. Being...loose. You asked me to treat you the same way as I do Python, remember? But the only way I could do it was to treat Python with MORE respect. And the filthy things that man says! ...We ended up coming to blows. Lukas had to step in and pull us apart. How can I ever treat him like you?
+Clive: I...think you may have approached the problem the wrong way.
+Forsyth: Sir Clive, why can't things just stay the way they are? You're the land's finest knight—a symbol of everything I've ever admired. And I know this is strange considering how long we've fought together, but I still get excited every time I have a chance to speak with you. If I seem tense or get carried away, it's probably because of that. Do you know what I mean?
+Clive: Ah! Now we're getting somewhere.
+Forsyth: Er...we are
+Clive: You're finally starting to open up! Just don't overthink it, all right? Also I assure you that I'm not worthy of such levels of admiration. You've seen all the terrible mistakes I've made. I feel guilty being put on anyone's pedestal.
+Forsyth: Nonsense, sir! True, losing Zofia Castle was a blow, and we've seen our share of failures. But I've watched you closely. Every time, you picked yourself up, dusted yourself off, and kept going. You're the reason we all still have hope! I WANT to put you on my pedestal! I want you pedestaled! Because it's my faith in you that gives me the courage to fight without fear. I know Alm may be our leader now...but you're still the banner we look to. You should remember that, sir.
+Clive: I shall. Thank you, Forsyth. And forgive for asking you to change who you are. I realize now that you're already the sort of man the Deliverance needs.
+Forsyth: Y-you mean it, sir? Oh, thank you! You honor me!
+
+%Python 
+Forsyth: Python! Ho, Python!
+Python: Crivens, here he comes again... What is it now, Forsyth?
+Forsyth: Don't give me that innocent mummery act! Do you think I'm not watching you? Sir Alm and the others are fighting five times as hard as you are! You're barely even pretending to try! Have you no honor or shame?
+Python: Shame? ...Nope, sorry. Not feeling it. But good on that lot for keeping at it!
+Forsyth: You know, it's high past time I told you a number of—
+Python: Whoops, here comes the enemy! Gotta skedaddle now. Ta-ta!
+Forsyth: Python! Come back here at once!
+Forsyth: He simply does not get it...
+
+Forsyth: Python.
+Python: Oy, gods! It's after me again! Won't someone save poor Python?
+Forsyth: I am not an "it," you daft fool! Why can't you take things seriously?
+Python: Er...because I'm more effective when I don't?
+Forsyth: Oh, you needn't tell me twice. I'm well aware of how you function in this world. No goals. No passion. Just flitting around while doing the bare minimum. Your life must be so horribly empty.
+Python: It's pretty grand, actually. So maybe you should stop painting me as the picture of misery and woe. The carefree life is surprisingly fun. You should give it a whirl.
+Forsyth: Well, I HAVE thought I might benefit from being a bit more...capricious.
+Python: Heh! What, you? Oh, gods no. You'd be terrible at it.
+Forsyth: YOU JUST SAID I SHOULD DO IT!
+Python: Ha ha!
+
+Forsyth: ......
+Python: Forsyth? You all right there, pal? You haven't yelled at me yet. In fact, you NEVER snap at me anymore. Don't tell me you've given up.
+Forsyth: No, I wouldn't call it "giving up." But the excuses you come up with for not trying are beyond comprehension.
+Python: That's because you're not TRYING to comprehend them. Look, I'm not like other folks. I don't like chasing wildly after some dream. Dream's don't fill the belly, and they sure don't pay for life's other comforts. So you know what? I'm happier without 'em.
+Forsyth: Truly? *sigh* Well, that sounds utterly depressing, but if you're happy, I'll let it be. But we ARE fighting a battle here, so perhaps a modicum of help is in order?
+Python: Aye aye, cap'n! I'll give you my all!
+Forsyth: Oh, somehow I doubt that...

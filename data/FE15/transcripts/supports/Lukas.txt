@@ -1,0 +1,85 @@
+%Clive
+Lukas: Clive.
+Clive: Ho, Lukas! Well met.
+Lukas: So how does it feel to have doffed the oh-so-heavy mantle of leadership?
+Clive: Ha ha! Do I sense a hint of judgment there? I wager I'm lucky someone as level-headed as you keeps me on my toes. Forsyth is all drive and emotion, while Python... Well, Python hardly seems to care about much of anything. Both are fine soldiers in their own ways, but neither is a great advisor.
+Lukas: Ha ha ha. Well, don't tell Forsyth. He'd crawl into his bed and never come out again.
+Clive: *sigh* I'd laugh were it not true. You see why I need someone like you? A cold observer to watch over me.
+Lukas: ......
+
+Lukas: ......
+Clive: Is something wrong, Lukas? Why the troubled expression?
+Lukas: Clive... I was thinking over what you said. About my being a "cold observer"?
+Clive: What, that?
+Lukas: Yes, that. It's true—I AM cold. Few passions ever manage to flare up in me. Granted, I'm not nearly as dispassionate as Python... But just once, I should like to be red with rage, green with envy... Something! I wonder if it is normal to feel so... detached.
+Clive: Of course it is. And I believe such perfect composure to be a virtue beyond compare.
+Lukas: Well, I am who I am. I imagine I should stop hoping for more.
+
+Clive: Lukas.
+Lukas: Clive, what is it?
+Clive: The war is drawing to a close. I just wanted to offer thanks for your many services to the Deliverance. Without your fiery presence, we never would have made it this far.
+Lukas: My... fiery presence? Are you certain you aren't confusing me with someone? Or is this an attempt to cheer me up after our last heart-to-heart?
+Clive: Er...n-no! Of course not! *sigh* And here I thought I was being subtle. People always see right through me in a way they never do you.
+Lukas: Well, that's because I'm the cold and composed one. Heh heh. Why do you keep me around if not for my greatest virtue?
+
+%Forsyth 
+Lukas: ...Forsyth? I'm sorry, are you...reading?
+Forsyth: ...Ah! Oh, um... Hello Lukas!
+Lukas: It strikes me as unwise for you to have your head in a book at a time like this.
+Forsyth: Y-yes, you're probably right. But I swear I'm paying attention to the battle! Please don't tell sir Clive about this.
+Lukas: Peace, friend. I was just looking out for you. If I may, which literary work has so enraptured your interest?
+Forsyth: Oh this? It's an old tactical codex. My father lent it to me when I left home. ...Well, it's more like I took it. My father is a scholar, so I spent my childhood surrounded by books.
+Lukas: Really? I didn't know. That must have been wonderful. I do enjoy a good page-turner.
+Forsyth: Yes, I've noticed you're something of an avid reader.
+Lukas: Guilty as charged. My father wouldn't have it though. He insisted I train in the arts of war. What I wouldn't have given for just one full day curled up with a good book.
+Forsyth: Really? Well, that's...one way to look at it. I suppose. ......
+
+Lukas: Forsyth, do you have a moment?
+Forsyth: Of course! What is it, Lukas?
+Lukas: Remember when I was telling you about my father forcing me to train? I couldn't help but notice it upset you. So I was hoping to clear the air.
+Forsyth: Er, sorry. Was it that obvious? Well all right. We can clear the air. Let's see... How do I put this... Since I was small, all I ever wanted was to become a knight. But my father insisted I wield a pen, and barred me from the sword or lance.
+Lukas: Ah, so we were quite different.
+Forsyth: I would have given anything for the opportunities your father gave you. So it hurt when you said you'd rather read. Books are easy to find, after all.
+Lukas: Heh heh. Well, I still would have gladly traded places with you. Whoever dealt life's cards was clearly in his cups.
+Forsyth: Ha ha. Indeed.
+
+Lukas: *sigh* Really, Forsyth? Reading in the heat of battle again? One day this will get you killed.
+Forsyth: Wagh! Lukas! What a surprise! ...You look well.
+Lukas: Mm-hmm. What are you reading today?
+Forsyth: Oh this old time? Merely a chronicle of Zofian history. I started mixing up my reading list after our last chat.
+Lukas: Really? Why is that?
+Forsyth: You convinced me I was being a fool. As a boy, I told myself the only books I had use for were combat manuals. I passed up countless valuable lessons Just to prove a point to my father. Now I'm trying to serve as lieutenant to Sir Clive, and look at me! Every day is a painful reminder of just how little I actually know.
+Lukas: Nonsense. ...Though if it makes you feel better, I have just as many regrets. Every time I barely escape with my life in battle, I curse myself for not taking my early training more seriously. But at least time is on our side. It's never to late to learn, after all.
+Forsyth: You're right—a warrior can be a scholar as well. ...You know what Lukas? I'm going to KEEP reading this book. And if the enemy comes at me. I'll be ready to stab them with KNOWLEDGE!
+Lukas: Heh heh. If they don't knight you for that, then something is clearly wrong.
+
+%Python 
+Python: *yaaaaawn*
+Lukas: Python, I think an entire village could be swallowed up in one of your yawns. Perhaps you should try sleeping instead of staggering back to camp at sunup. I cannot turn a blind eye to this type of behavior forever. You're a soldier. Occasionally, we need you to behave like one.
+Python: Sir, yes, sir! Crivens, what is it with you knightly types? Don't you know how to get out and let your greaves down a little?
+Lukas: We haven't always been so formal. But now Zofia is at war, and we must—
+Python: Wait. Stop. You actually USED to be more footloose and fancy-free? So you're saying if I dig deep enough, I might find dirt on Clive?!
+Lukas: I...wouldn't go that far. But I have heard tale that all the ladies of court would giggle as he passed by.
+Python: Pfft. BOOO-RING. I mean, at least tell me they were SALACIOUS giggles. Come on, Lukas. Fill old Python in here. Is our Clive a dirty boy? Eh? Eeeeeh? I promise I'll only tell my closest friends.
+Lukas: *sigh* Your decorum continues to amaze.
+
+Python: Oy! Lukas!
+Lukas: What is it, Python?
+Python: I'm still waiting for a good sordid story involving knights. So what about you?!
+Lukas: ...Me? My past is hardly sordid enough to sate YOUR appetite for gossip.
+Python: Are you suuure? You know all the ladies in town keep asking me who the knight in red is. Which, by the way, means they're not paying attention to me, so thanks. But you can make it up to me with an earful of tasty noble scuttlebutt!
+Lukas: I don't see how that makes any sense whatsoever, but very well. Hmm... Well, back home, there was a woman I courted for many a year.
+Python: Ooh! Now we're getting somewhere. Was she a looker? Was it serious? Were her eyes like shimmering—
+Lukas: Stop pestering me like an old maid. Looks like the enemy is nearly upon us. Let's get back to it.
+Python: Hey, wait! Come back! I wanna hear about your special lady friend!
+
+Python: Heh heh... I've got you cornered now, Lukas. Now I'll hear every last detail about that woman you courted!
+Lukas: Juicy...? *sigh* I fear you are going to leave this conversation sorely disappointed.
+Python: Hmm. I'll admit, the mention of her doesn't quite seem to fire your loins. So what's the story? Don't you love her?
+Lukas: Fire my...? Honestly, Python? I'm not sure if I love her or not. Since being parted from her, I feel no particular longing to see her again. I sometimes wonder if a vital part of me is broken. I look at Clive and Mathilda and see... Well, you used the word "fire". But whatever it is that they have, I seem to lack it.
+Python: Aw, don't you worry. You're still young. The "one true love" thing isn't for everyone. Certainly not for me. And I dare anyone to tell ME that I'M broken.
+Lukas: So you think such lack of feeling are normal?
+Python: Perfectly! if you ask me, Clive and Mathilda are the weird ones. The way they look at each other with rainbows shootin' from their eyes...Heh. Look, one day you might decide you miss your lady. But take it at your own pace.
+Lukas: My own pace... That's...surprisingly sound advice.
+Python: And if she falls into the arms of another man before you come around, so be it. I'll be here to cheer you up. We can hit the town, quaff some ale, spend all your money... It'll be great!
+Lukas: Heh heh. I don't doubt I would be in good hands...
