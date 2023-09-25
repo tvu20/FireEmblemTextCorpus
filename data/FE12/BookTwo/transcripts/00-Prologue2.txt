@@ -1,0 +1,95 @@
+@Opening 
+In the past, there was a war known as the War of Shadows. It began when the fearsome Shadow Dragon, Medeus, launched a sudden invasion. The Kingdom of Archanea, protector of the lands, clashed with Medeus's forces. But against such superior might, Archanea was overwhelmed and trembled in defeat. Nyna, princess of Archanea, had no choice but to flee from her beloved homeland. To rescue Archanea, the Kingdom of Altea, its allied nation, sallied forth. However, it too was defeated by Medeus. With its king lost to war, Altea fell to ruins...
+
+From his exiled shores Marth, young prince of Altea, swore he would retake his homeland. Marth never forgot his oath. Years later, he rallied an army at Talys to defeat Medeus. Starting with Caeda, Talys's princess, Marth gathered together many allies. Duke Hardin, Nyna's guardian, also became one of his trusted comrades. With Archanea's treasured "Fire Emblem" awarded to him by Nyna, Marth led the Archanean League, as its commander.
+
+In the following battles, the League wrestled back control of both Archanea and Altea. Finally, after a long and fierce battle with Shadow Dragon Medeus's forces... Marth vanquished the Shadow Dragon... And thus did peace return to the world. These are the events that transpired one year ago.
+
+@Intro 
+Katarina: Kris, we have been designated as members of the 7th Platoon. I'm glad we were grouped together.
+Kris: As am I. Who else do we have in our platoon?
+Luke: I'm Luke! Or if you prefer, you can call me Luke, the Paladin of Dawn!
+Roderick: I am Roderick. It is a pleasure to meet you. So, is that everyone?
+Ryan: U-um... I'm a new recruit, too. My name is Ryan. I'm an archer.
+Kris: It looks like that's all five of us. Well, what's the plan for today?
+Katarina: There was an order from Sir Jagen. Today's mission is to decide who the new commander will be.
+
+Roderick: Luke, how should we go about this?
+Luke: Roderick, you wait at the back. I'll fight alone! It's just Kris and that kid, right? If that's all, I should be able to handle it. I'll show them my true strength.
+Roderick: You're at it again...? Fine, have it your way. But I think underestimating your opponent will get you into trouble.
+
+#avatar-M
+Luke: Commander? Gotcha! Well, I'll be commander if you guys all insist!
+Roderick: Nobody's insisting anything, Luke...
+Katarina: Excuse me. I'd like to recommend Kris.
+Kris: Katarina...?
+Katarina: Kris is a really strong individual. And he didn't abandon me during the mock combat yesterday, even though I couldn't fight.
+Luke: Alright then, I challenge him! Kris, if you beat me, I'll cede the position to you.
+Katarina: Huh? H-how has it come to this?
+Luke: It's a challenge, man-to-man! Kris, you're not afraid to fight me, are you?
+Katarina: Don't be silly. Kris won't lose to you.
+Roderick: So we'll decide with a battle. That'll let us know who's got the skill to be commander.
+Katarina: I'm sorry, Kris. That was selfish of me... But I couldn't stand hearing them make fun of you...
+Kris: It's okay. When my grandfather trained me, he used to say the same thing. He said that the best way for men to understand each other is by fighting.
+Katarina: Huh. Y-your grandfather sure sounds colorful... Anyway, our opponents are Luke and Roderick. It's been decided that Ryan will be on our team.
+Ryan: Y-yes. I'll do my best.
+
+#avatar-F
+Luke: Commander? Gotcha! Oh, what's that? Luke should be the one? Yes, I completely agree!
+Roderick: Don't make up our words...
+Katarina: Excuse me. I'd like to recommend Kris.
+Kris: Katarina...?
+Katarina: Kris is a really strong individual. And she didn't abandon me during the mock combat yesterday, even though I couldn't fight.
+Luke: Alright then, I challenge her! Kris, if you beat me, I'll recognize you as leader.
+Katarina: Huh? H-how has it come to this?
+Luke: It's a challenge, man-to-man!
+Kris: But I'm a woman...
+Luke: Well then it's a man-to-woman challenge!! Kris, you're not afraid to fight me, are you?
+Katarina: Don't be silly. Kris won't lose to you.
+Roderick: So we'll decide with a battle. That'll let us know who's got the skill to be commander.
+Katarina: I'm sorry, Kris. That was selfish of me... But I couldn't stand hearing them make fun of you...
+Kris: It's okay. When my grandfather trained me, he used to say something similar. He said the best way for men to understand each other is by fighting. Well, I'm a girl, but...
+Katarina: Anyway, our opponents are Luke and Roderick. It's been decided that Ryan will be on our team.
+Ryan: Y-yes. I'll do my best.
+
+@Battle 
+Roderick: As I thought, Luke couldn't win alone. I guess I'll have to fight, too.
+
+@Boss 
+Luke: Guah...?! I-impossible... The future hero, Luke, defeated...
+
+Roderick: Urgh! I see... You are even stronger than I had imagined...
+
+%Kris,Luke
+#avatar-M 
+Luke: Kris, I've heard rumors about you! Sir Jagen said that there was a recruit who stood out from the rest of us!
+Kris: Is that so?
+Luke: Yeah, that's right! And I bet you're hogging all the attention, overshadowing the rest of us! I'll beat you here to prove I'm the best! Prepare yourself!
+
+#avatar-F 
+Luke: Sorry, Kris, but I won't hold back just because you're a girl!
+Kris: That's fine with me.
+Luke: I'll show you what I've got! Kris, try not to fall in love with me!
+
+%Ryan,Luke 
+Luke: Kiddo, just stand back and watch! Only Kris is worthy of fighting me!
+
+%Kris,Roderick 
+Roderick: Kris, I've heard the rumors about you as well. I need to see your ability firsthand, especially if you're to become the commander. I ask you this, as a fellow squire of Altea.
+
+@End 
+Katarina: Thank goodness... Kris, you won. I knew you could do it.
+Luke: Alright, I'm a man of my word. I'll keep my promise. From here on, the commander'll be Kris. Gah, but I don't get it! I was so confident in my skills! How did I wind up losing?!
+Roderick: Because we didn't fight together. We took turns fighting Kris one-on-one. That's why we lost to him/her.
+Ryan: Yeah, my brother once said the same thing... Even if we are weak individually, we can become stronger by working together with our friends.
+Kris: That's right. Fighting with your friends: That is the way of an Altean knight.
+Luke: ...I see. I thought I could be the victor through my strength alone. But I guess I was wrong. Fighting together is far more important...
+Katarina: Luke... I'm so glad. You understand now.
+Luke: Yeah, it's all clear to me! It looks like being the leader is more trouble than it's worth! So I'll leave this bothersome job to Kris! I'm sure it'll be a joy working under him/her! Kris, I'll be looking forward to your help!
+Katarina: ...Does he really get it?
+
+Luke: Alright then, Kris! Now that you're the commander, how about I give you a cool title?
+Kris: A title?
+Luke: Yeah. All the legendary heroes have their own awesome title! Hm, let's see... Looking at your eyes... It's got to be Kris the Ordinary!
+Kris: I don't really understand... Nor do I think it's something worth celebrating.
+Luke: Aw, don't worry about it! Kris the Ordinary!

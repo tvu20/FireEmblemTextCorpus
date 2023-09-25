@@ -11,6 +11,7 @@ genders = {
     "M": "male",
     "F": "female",
     "N": "neutral",
+    "A": "avatar",
     "-": "-"
 }
 

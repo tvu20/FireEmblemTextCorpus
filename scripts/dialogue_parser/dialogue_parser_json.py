@@ -8,9 +8,11 @@ game_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
 file_content = {}
 
-normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene"]
+normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene", "avatar-male", "avatar-female"]
 narration_tags = ["opening", "narration"]
-people_tags = ["boss", "recruit-talk", "battle-talk"]
+people_tags = ["boss", "recruit-talk", "battle-talk", "boss-talk"]
+
+avatar_tag = ''
 
 
 # ----------------------------------
@@ -39,11 +41,13 @@ def update_speaker(speaker):
 def update_gender(speaker):
     if speaker in gender_info: 
         gender = gender_info[speaker]
+
+        if gender == "A" and avatar_tag != '':
+            gender = avatar_tag.split('-')[1]
         file_content["transitions"] += gender
         file_content["gender_counts"][gender] += 1
-    else:
-        print("missing " + speaker)
-
+    # else:
+        # print("missing " + speaker)
 
 # -----------------------
 # HANDLING TAGS
@@ -71,7 +75,7 @@ def normal_tag(text, tag):
     })
 
 # handles recruit conversations - info on recruiter/recruitee
-def recruit_talk(text, recruiter, recruit):
+def recruit_talk(text, recruiter, recruit, tag):
     speaker = ''
     line = ''
     colon_split = text.split(": ")
@@ -90,7 +94,7 @@ def recruit_talk(text, recruiter, recruit):
     })
 
 # handles battle conversations - info on who is speaking
-def battle_talk(text, person_1, person_2):
+def battle_talk(text, person_1, person_2, tag):
     speaker = ''
     line = ''
     colon_split = text.split(": ")
@@ -109,7 +113,7 @@ def battle_talk(text, person_1, person_2):
     })
 
 # handles boss conversations - special cases
-def boss(text, unit, boss):
+def boss(text, unit, boss, tag):
     speaker = ''
     line = ''
     colon_split = text.split(": ")
@@ -133,6 +137,24 @@ def boss(text, unit, boss):
             "boss": boss
         })
 
+# handles boss conversations - info on unit/boss
+def boss_talk(text, unit, boss, tag):
+    speaker = ''
+    line = ''
+    colon_split = text.split(": ")
+
+    if len(colon_split) > 1:
+        speaker = colon_split.pop(0).title()
+        line = ": ".join(colon_split)
+    
+    update_speaker(speaker)
+
+    file_content[tag].append({
+        "speaker": speaker,
+        "line": line,
+        "unit": unit,
+        "boss": boss
+    })
 
 
 # ----------------------------------
@@ -157,7 +179,8 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
         file_content["gender_counts"] = {
             "M": 0,
             "F": 0,
-            "N": 0
+            "N": 0,
+            "A": 0
         }
         file_content["lines"] = 0
         file_content["transitions"] = ""
@@ -166,6 +189,7 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
         subtag = False
         person_1 = ''
         person_2 = ''
+        avatar_tag = ''
 
         for line in f:
             text = line.strip()
@@ -185,6 +209,7 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
             if line[0] == '@':
                 tag = line.split('@')[1].strip().lower()
                 file_content[tag] = []
+                avatar_tag = ''
                 continue
 
             # NEW SUBTAB
@@ -192,6 +217,12 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
                 persons = text[1:].split(",")
                 person_1 = persons[0]
                 person_2 = persons[1]
+                avatar_tag = ''
+                continue
+
+            # avatar tag
+            if line[0] == '#':
+                avatar_tag = line.split('#')[1].strip()
                 continue
 
             file_content["lines"] += 1
@@ -202,11 +233,13 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
             elif tag in normal_tags:
                 normal_tag(text, tag)
             elif tag == "recruit-talk":
-                recruit_talk(text, person_1, person_2)
+                recruit_talk(text, person_1, person_2, tag)
+            elif tag == "boss-talk":
+                boss_talk(text, person_1, person_2, tag)
             elif tag == "battle-talk":
-                battle_talk(text, person_1, person_2)
+                battle_talk(text, person_1, person_2, tag)
             elif tag == "boss":
-                boss(text, person_1, person_2)
+                boss(text, person_1, person_2, tag)
             else:
                 continue
 

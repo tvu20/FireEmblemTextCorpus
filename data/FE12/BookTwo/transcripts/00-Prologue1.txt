@@ -1,0 +1,67 @@
+@Dialogue 
+Anna: Welcome! Today, another hero will be born. One who will help decide the world's fate... What's your name, hero?
+
+Anna: Are you a boy, or a girl?
+
+Anna: What's your occupation?
+
+Anna: And what do you look like?
+
+Anna: I shall now predict your journey using your past, present, and future. Beginning with your past, what sort of circumstances were you born into?
+
+Anna: And what about you now? What is your most impressive attribute?
+
+Anna: Finally, your future. What kind of future trait do you strive to attain?
+
+Anna: With everything now complete, let us begin your story posthaste...
+
+Katarina: Eek!
+Kris: Hey, are you okay?
+Katarina: I-I'm sorry. I was in a hurry, and... Excuse me, did you come here to become an Altean knight as well?
+Kris: Yeah. I came here all the way from Sera village when I heard they were recruiting new knights. My name's Kris.
+Katarina: Kris? That's a nice name. We're here for the same reason then. My name is Katarina. I came because I wish to serve Prince Marth. But there sure are a lot of hopefuls here. Look, there's one over there and another there...
+Luke: Here it is! This is where my shining legacy starts! The first chapter of my epic saga to become Altea's greatest knight!
+Roderick: ...Luke, I'm going up ahead.
+Luke: Hey, wait up, Roderick! Don't leave your partner behind!
+Kris: There's no doubt those two were knight candidates like us.
+Katarina: We should follow them, Kris. I think the leader of the knights, Sir Jagen, has something to say to all of us.
+
+Jagen: Altea's gates have opened today so that we may test you as potential knights. Knights will be chosen by their ability, not by their blood. The path is not easy, however. We have gathered a hundred men and women today, and only a handful of you will succeed.
+Katarina: T-this is nerve-wracking.
+Kris: I'm nervous too, but I've been training hard for this day.
+Jagen: We expect every one of you to show us the results of your arduous training! Apprentices, I want you to gather in pairs! You will be facing real Altean knights in mock combat!
+Katarina: Huh?! We have to fight? T-this could be a problem... Kris, would you please partner with me? I'm training to become a tactician.
+Kris: A tactician?
+Katarina: Y-yes. I can give you advice on how to fight, but I can't fight at all...
+Soldier: Hey, you two! You're up next. Grab your weapons and get into position. Hurry!
+Kris: Got it! Let's go, Katarina! The test is about to start.
+Katarina: Y-yes! Let's do our best.
+
+@Battle 
+Katarina: Kris! Let's move to that spot over there.
+
+Soldier: So you made it to the right place. I'll be your first opponent. Attack me whenever you like!
+
+Jagen: ...I'm your final opponent for the day. Don't hold back!
+
+@Boss 
+Jagen: Excellent. Show me what you've got!
+
+Jagen: Urgh... I've been beaten?
+
+@End 
+Kris: Phew... we won, somehow.
+Jagen: Yes... splendid work! I see we can expect much from this year's apprentices.
+Katarina: You did it! We won, Kris! ...But I didn't really do anything... It was all thanks to you that we won, Kris!
+
+Jagen: Prince Marth wishes to address everyone who passed the test. Sire, if you please.
+Marth: I humbly thank you all for coming.
+Katarina: Ah, it's Prince Marth! He looks so majestic. So that's the face of the hero who saved the world. I love the stories about Prince Marth in the last war. How about you, Kris?
+Kris: Of course. After all, Prince Marth was the hero who brought an end to the previous war.
+Katarina: Yes, he defeated the Shadow Dragon and Dark Pontifex, restoring peace to the world.
+Jagen: You there, silence! You stand before Prince Marth!
+Katarina: Eep!
+Marth: Everyone. I'm truly happy that so many came to help shoulder Altea's future. With the war over, peace has returned. However, peace isn't something we can simply take for granted: It is my duty, as ruler, to risk my life to protect it. Alone, I am powerless. So, everyone. From now on, I want you to lend me your power, as my knights.
+Katarina: Hear hear, Prince Marth! It was wonderful hearing Prince Marth speak, wasn't it, Kris?
+Kris: Yes, it was. We have to do our best so he can rely on us.
+Katarina: Let's keep at it together!

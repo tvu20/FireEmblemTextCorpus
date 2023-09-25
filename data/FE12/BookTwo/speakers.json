@@ -1,0 +1,42 @@
+{
+  "descriptions": [
+    { "name": "Katarina", "gender": "" },
+    { "name": "Kris", "gender": "A" },
+    { "name": "Luke", "gender": "" },
+    { "name": "Roderick", "gender": "" },
+    { "name": "Ryan", "gender": "" },
+    { "name": "Anna", "gender": "" },
+    { "name": "Jagen", "gender": "" },
+    { "name": "Soldier", "gender": "" },
+    { "name": "Marth", "gender": "" },
+    { "name": "Lang", "gender": "" },
+    { "name": "Villager", "gender": "" },
+    { "name": "Marisha", "gender": "" },
+    { "name": "Bandit", "gender": "" },
+    { "name": "Lorenz", "gender": "" },
+    { "name": "Ogma", "gender": "" },
+    { "name": "Yuliya", "gender": "" },
+    { "name": "Elder", "gender": "" },
+    { "name": "Jubelo", "gender": "" }
+  ],
+  "counts": {
+    "Katarina": 32,
+    "Kris": 26,
+    "Luke": 23,
+    "Marth": 23,
+    "Jagen": 13,
+    "Roderick": 12,
+    "Lorenz": 11,
+    "Villager": 9,
+    "Anna": 8,
+    "Lang": 7,
+    "Ryan": 4,
+    "Ogma": 4,
+    "Yuliya": 4,
+    "Marisha": 3,
+    "Soldier": 2,
+    "Jubelo": 2,
+    "Bandit": 1,
+    "Elder": 1
+  }
+}
