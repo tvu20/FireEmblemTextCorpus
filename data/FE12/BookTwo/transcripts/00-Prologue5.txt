@@ -1,0 +1,75 @@
+@Intro 
+Luke: Ahh... This forest sure is nice and peaceful.
+Kris: Yeah.
+Luke: Just walking around here makes me feel rejuvenated, in a way.
+Kris: Yeah, same here.
+Luke: Oh, by the way. We're lost, aren't we?
+Kris: ......
+Luke: Hey, Kris the Ordinary! Wasn't this supposed to be, y'know, a shortcut!? Well?!
+Kris: Um... I'm sorry... I really did think it was... But we're definitely lost.
+Luke: WHAAAAAT?! You don't need to tell me that! I figured that one out ages ago!
+Katarina: Everyone, please, we mustn't fight. We need to work together in times of crisis...!
+Roderick: She's right. There's no point in crying over spilt milk. Rather, let's find a way home. Ahem. Ladies and gentlemen, our new mission: find our way back to Altea Castle. Of course, we should try not to wander around aimlessly while we find our way.
+Luke: Argh, we've totally fallen behind the others. ...Altean knights, lost in Altea. Sir Jagen is going to kill us...
+Kris: I-I'm really very sorry...
+Katarina: It's fine. If we march all night, we can make up for lost time. Ah...! Please, wait! Could that be...?
+Ryan: W-what's wrong?
+Katarina: Over there! That village is under attack!
+
+Bandit: Gahahaha! Steal, burn, loot, pillage! Kill everyone who tries to flee! Gahahahaha!
+Legion: Yes, yes, that's it, that's it. Uwee hee hee! ...The more you alls riot, the smoother our jobses will be! Uwee hee!!
+
+Kris: Bandits, here...?! We can't just ignore this. Everyone, move out!
+
+@Battle 
+Merric: Bandits... Prince Marth would be saddened if he saw this...
+Kris: Hey! Who are you? You don't look like you're in league with the bandits...
+
+^start 
+Merric: You've got [color] hair... I gather you're the commanding officer? Very well, I shall join you. The name's Merric. I'm a mage from Khadein. Your orders, please!
+
+Merric: You've got blue hair... just like Marth's... I gather you're the commanding officer? Very well, I shall join you. The name's Merric. I'm a mage from Khadein. Your orders, please!
+^end 
+
+@Boss 
+Bandit: Gahahaha! Just die already!
+
+Bandit: Ga...ha...ha...
+
+@End 
+Merric: I'm glad everyone's safe. Might you be Altean knights?
+Katarina: Hm, Kris, maybe this Merric is a friend of Prince Marth... That's it! He must be Merric the wind mage. I heard he even fought alongside Prince Marth during the War of Shadows. Wow, I-I'm a little nervous now...
+Merric: Prince Marth summoned me to help train the new knights. But, sadly, I seem to be rather lost. Would it be alright if you would show me the way to Altea Castle?
+Kris: T-to Altea Castle?
+
+Legion: Uwee hee hee... Just as planned.
+Clarisse: Legion.
+Legion: Ooh, Clarisse. Didn't youses have somethings else to do?
+Clarisse: Quiet, you. It was easier than taking candy from a baby. I don't waste my time like you lot. You and Reese had better end this quick! It's not hard.
+Legion: Whatever. In the ends, our sneaking around is going to gets us results. We've gots a plan... We'll kills Marth... without fail.
+
+Luke: Finally... Altea Castle. We're back at last.
+Kris: ......
+Katarina: Huh? What's the matter, Kris? Is there something bothering you?
+
+^start
+Kris: Katarina, did you see him? Among the bandits... There was a funny man with a mask. I didn't count him amongst the dead. It's a little worrying...
+Katarina: ...A masked man, huh? I'm sorry. I didn't see him... Well, it's okay. We did beat them in the end! Heehee, all this worrying's gotten me hungry... Come on, Kris, let's go and find something to eat.
+
+Kris: I'm just a little tired and hungry, is all.
+Katarina: Ooh, is that all? To be honest, I'm a bit hungry as well... Kris, let's go and find something to eat.
+^end
+
+Marth: Please, come in.
+Kris: Commander Kris and Katarina, of the 7th Platoon, reporting as ordered, sire.
+Marth: Please, calm yourselves. You may stand at ease.
+Katarina: Yet you summoned us so suddenly, milord... Is it to do with the bandits we subjugated? Are you, sire, reprimanding us for disobeying our orders?
+Marth: Not at all--it's quite the opposite. Your actions have saved many. As ruler, my duty is to protect my people, and I am truly grateful for what you did.
+Katarina: We're honored to be of service, but that was tougher than any of our training. Phew...
+Marth: Kris, and you as well, Katarina... I hear from Jagen that you've been exemplary cadets.
+Kris: Is that so, sire? Sir Jagen never intimated as much...
+Marth: I've seen your skill, and I agree wholeheartedly with him. Why, the both of you are suitable for the Altean army. Should the two of you pass your test, I'd love it if you would become my Royal Guards.
+Kris: Royal Guards, sire?
+Marth: Though the stories tell of me as a great hero, it is not so. There is only so much that I can do by myself. That much, I know to be true. The War of Shadows was won with the aid of comrades who wished for the same future as I. 'Twas not a lone romp across the land. I realized, whether in peace or war, I need people I can trust--young, dynamic soldiers who can support and guide me.
+Kris: B-but the Royal Guard exists to protect the king... It is a role of immense importance... Are we even fit for such an esteemed duty?
+Marth: Yes, I believe so. I want you to be my Royal Guard. Jagen feels the same as I. But... don't feel obliged to promise me; I won't think ill of you if you decline. And so, I ask this of you once more. You need not answer right away. It's quite alright. Please think it over carefully.

@@ -1,0 +1,94 @@
+@Opening 
+Marth barely succeeded in escaping, disembarking in the desert of Khadein. He elected to await his subordinates' safe arrival.
+
+Khadein, the city of magic, is a sanctuary for mages. Many prospecting mages come here and undergo rigorous training. Magic relies on containing nature's energies in "tomes" and "staves", freely manipulating these energies to harness great power. A few centuries ago, a lone sage founded an academy here, teaching magic's secrets. However, instead of bringing happiness, magic was soon used as a tool of war and a thing to be traded. The sage was disappointed, and vanished from the pages of history. Though there is no confirmation, some say that was the Archsage Gotoh. Currently, advanced magic like Aura cannot be made without the orbs' power, and their use is restricted to a few chosen ones. Those conditions are set by their creator, and they can only be inherited by those who qualify.
+
+Khadein, the city of magic... the proud Sanctuary of Sorcery.
+
+@Intro 
+Kris: Sire, am I glad to see you!
+Marth: Kris! Thank goodness. Is everyone else okay?
+Kris: Yes, everyone who survived is here.
+Marth: Amazing. I don't know how you all managed to escape that onslaught...
+^start
+Kris: We were most fortunate. A sandstorm was brewing as we were making our escape... Thanks to the obscuring sands, the enemy lost sight of us, and we were able to escape with ease. Even during normal battles, I seem to have lucky moments like that.
+Marth: I see. Kris, you must be loved by the goddess of fortune.
+Kris: It would be my honor.
+
+Kris: Your thoughts are mine. But somehow we were able to shake off the enemy and escape.
+Marth: I see. Thank you, Kris.
+
+Kris: Me neither. The way was blocked by earth and sand, and we lost our way as well... B-but somehow... Somehow we escaped.
+Marth: How horrible for you... Even during normal battles, Kris, unlucky things always seem to befall you. I have to wonder if the goddess of fortune hates you?
+Kris: It would certainly seem that way...
+^end
+
+Michalis: Minerva, if you wait in this village, you will most certainly run into Marth. I don't like him, but he is indeed noble. Join forces with him.
+Minerva: Brother, what are you going to do now? Won't you come with me...?
+Michalis: I have no intention of doing that. I only wish to find Maria and bring her home to Macedon.
+Minerva: You've changed, Brother... Or should I say, you've returned to how you used to be. As I thought, back then you were being controlled by Gharnef's dark magic.
+Michalis: No, no magic could bend my will. I wished to crush the arrogant Archanea, and establish Macedonian supremacy over this continent. But Father, without bending his ear to me, distanced himself from me and later had me banished.
+Minerva: Are you saying that's why you murdered Father? What a fool you were... Didn't you realize that was Gharnef's plotting all along? Yes, Father was strict with you. But it was only because he loved you. Why couldn't you see that?
+Michalis: Enough, Minerva. Do you take me for a fool? After I was defeated, I wandered the gap between life and death. When I had come to, in front of me, I was Maria--her eyes full of tears--praying to the gods. While I treated her like a pawn, Maria, she shed tears for me... Minerva, I'm going now. I have to save Maria. At least that can be my atonement!
+Minerva: Michalis...
+
+Kris: Sire. How shall we proceed from here?
+Marth: Hmm... I want to go home to Altea, but if we can't prevail against Hardin, then we can't go back. What in the world are we supposed to do...?
+Kris: We need to find out the secret of the strange power that's protecting Hardin. Forgive me, sire. As your Royal Guard, I was supposed to strike down your foes...
+Marth: No, it's not your fault, Kris. I too felt a strange presence emanating from Hardin, almost like...
+Jagen: Sire, it's an emergency! I have just come into some new information. The Khadein mage corps has launched an offensive against us.
+Marth: What!? Even Khadein means to be our enemy... Merric, what are you...
+Kris: Sir Jagen, what should we do?
+Jagen: At this rate, it seems we have no choice. Sire, we need to break into the sanctuary, but you must be prepared to make sacrifices. If we don't hurry, Archanea's pursuit force will reach our rear and we'll be trapped.
+Marth: I understand. We've no choice. Everyone, let's break into the sanctuary! But avoid needless fights if possible!
+
+@Battle 
+Jagen: An update, sire! The Archanea army is, at present, approaching from the south.
+Marth: I see. Hasten the march; don't let them catch up!
+
+^start
+Astram: Do not think you can escape, Alteans. I'll turn this desert into your graveyard.
+
+Soldier: Do not think you can escape, Alteans. We will avenge Captain Astram!
+^end
+
+@Visit 
+Villager: A swordslayer will demonstrate your might against a mercenary or a hero. You should definitely get one if you can.
+
+Villager: From here on north, you won't see no more shops. If you're going that way, you should stock up now.
+
+Villager: The person commanding Khadein's mage corps is a young man named Arlen. He's not a bad man, but he can be a bit uncooperative. Seems he regards his old rival, Merric, with disdain. Hmm... I reckon only Lord Wendell could talk some sense into him.
+
+@Recruit-Visit 
+Marth: Huh? Princess Minerva, why are you here?
+Minerva: My brother... Michalis, he helped me.
+Marth: Really? That's good to hear. I was so worried once I heard that Prince Michalis had taken you. But, for him to rescue you: what in the world happened?
+Minerva: Maria saved Michalis's life. She's kind, unlike myself... Maria's kindness was able to touch the heart of even a man like Michalis.
+Marth: But, isn't that what you wanted? That's why you deliberately avoided killing Michalis. Am I wrong, Princess?
+Minerva: Hmm......
+Marth: I can understand. No one can sever the ties between family so easily. Princess, please lift your spirits. I would like you to fight with us again, just like before. I would like Macedon's strength and yours in order to put a stop to Hardin's designs.
+
+@Recruit-Talk 
+%Marth,Etzel
+Marth: You're... Etzel! Why are you here?
+Etzel: I have my ties to Khadein as well. "Prince Marth has succumbed to his ambitions and invaded Archanea." When I was told that, there was no way I could sit still!
+Marth: ......
+Etzel: But... No matter how I put it, I just couldn't imagine you'd become that sort of person. Prince Marth, you said to me long ago that you wanted to let the era of war end. Do you still stand by those words?
+Marth: Yes, I do. I do not seek to fight.
+Etzel: ...I see. I, too, do not seek as such. Allow me to join you once more.
+
+@Recruit-Battle 
+Etzel: I don't want to fight you, but I owe Khadein. What a troublesome ordeal I am in...
+
+Etzel: This war... will... someday...
+
+@Boss 
+Yodel: I will not forgive intruders upon our holy sanctuary! Earth, show your fury! Bolganone!!
+
+Yodel: Arlen... Was this really what you wanted...?
+
+@End 
+Jagen: The atmosphere inside the building seems somewhat strange.
+Marth: Indeed, something seems to be happening. Kris, Merric's inside there. You met him during your training, right?
+Kris: Yes. Sir Merric really helped us with his magical prowess. So Sir Merric is here... We must hurry, sire.
+Marth: Yes, let's go!

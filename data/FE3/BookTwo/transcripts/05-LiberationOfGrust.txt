@@ -1,0 +1,53 @@
+@Opening 
+The shocking news brought by Caeda was a terrible blow to Marth. Hardin was once not only a comrade-in-arms, but a trusted confidant and irreplaceable friend.
+
+"Yet... why attack Altea? What have I done wrong?"
+
+Filled with frustration, Marth hurried his return to his homeland, but the first barrier stood in his way: Olbern Keep, headquarters of the Grustian Occupation Army led by the evil General Lang... also known as the "Nest of Evil."
+
+@Intro 
+Toras: Commander Lang. The... A-Altean army has arrived...
+Lang: You moron. Why are you so panicked? With their nation and name in ruins, the Alteans are of no consequence to us.
+Toras: But, Sir Jeorge's archers left to quell the rebellion. Can we win with just our troops?
+Lang: Why didn't you tell me earlier? Call Jeorge back to the castle this instant! While you're there, find that hired sword, Navarre, and bring him here. General Toras! I'm heading inside. You will defend this location till your last breath. Do NOT let the enemy get close. Do I make myself clear?!
+
+@Battle 
+Soldier: Captain Jeorge. We've received orders to return to the castle immediately.
+Jeorge: Orders from Lang, huh? I'm not fond of that man. His treatment of our people is simply intolerable. To work beneath him is an insult. Pay his orders no mind.
+Soldier: But, Captain! You'll be accused of treason! Captain?! You can't be planning to defect to Altea...
+Jeorge: No, that's not an option. If I were to defect now, I'd drag the entire platoon down with me. So for that reason alone, I will absolutely not take any risks that might besmirch our name.
+Soldier: Captain Jeorge...
+Jeorge: Anyway, inform everyone: Do not move from your stations. However, if the enemy approaches, you may engage them.
+
+@Visit 
+Villager: Y'know, lately I haven't seen that mercenary, Samuel. I thought that he might have joined your ranks, but I guess not... He's as lax as they get, but you can't go wrong with his skill.
+
+Villager: Oh, Alteans, hear our plea! Please, defeat General Lang! As long as that man lives, peace is but a fleeting dream.
+
+Elder: Ohh, if isn't Prince Marth! I wonder how my granddaughter Lena is faring, hm? What, you don't know? I see... Th-then... Do you still want this Hammerne staff? At least, if Lena's pupil Marisha were around, I'm sure she could use it... Well, whatever be the case, I've no use for a souvenir. Please, make good use of it.
+
+@Recruit-Talk 
+%Julian,Rickard
+Julian: Hey, Rickard! I see you haven't tired of stealin'.
+Rickard: Ah! Chief! How nice to see ya. Well, I was plannin' on workin' with you and makin' loadsa money, but you had to go and quit the business! Fallin' head over heels for that beautiful cleric, and then dumpin' me... That's just too cruel! Did our love really mean that little to you?
+Julian: Can it, you little fink!! People'll get the wrong idea about us, if you keep talkin' like that. Anyway, forget about thievin' and come with me to fight for justice.
+Rickard: Hmm... alright then! I'll follow you anywhere. I do adore ya, Chief!
+
+@Recruit-Battle 
+Jeorge: You wouldn't have needed to die if you hadn't come so close...
+
+Jeorge: Fools...
+
+Rickard: Chief, where aaare ya?
+
+Rickard: Tch. Man, I messed up big time.
+
+@Boss 
+Toras: Projection 44.5 degrees! Fiiiire!!!
+
+Toras: General Lang... Altea is too strong...
+
+@End 
+Jagen: Sire, we've finally seized control of Grust. However, a number of enemies are concealed within the castle. Our job here is far from over.
+Marth: Yes, I know. Lang must be stopped here and now. Or else we forsake the people of Grust.
+Jagen: That’s right. He must be defeated at all costs… But we don’t know what dastardly plans he has prepared for us. We must take extra caution when fighting inside the castle!

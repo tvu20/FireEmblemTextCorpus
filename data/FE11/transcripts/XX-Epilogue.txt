@@ -2,6 +2,7 @@
 After Medeus's demise, Dolhr would relax its shadowy grip on the land and fade into obscurity: the Empire was finished. The fires of war that had raged across Archanea would die, and light would come to take darkness's place. But before any of that came to pass, there were a few final moments of Marth's tale that need telling...
 
 @Dialogue 
+^start
 Caeda: Marth, you did it. It's finally over.
 Marth: I've waiting a long time for this day. And now I'm not entirely certain what to do with it...
 Caeda: Marth... um, we haven't talked much since leaving Talys. But I thought.. Do you know where you will be going?
@@ -29,6 +30,7 @@ Marth: Not just me. Many fought at my side... And died.
 Nyna: Marth... You loved her, didn't you? Caeda.
 Marth: ...She was the one I most wanted to keep safe. But I failed, and I have lost her forever... It occurs to me now that perhaps she was the one protecting me all along. Caeda... Why did you take up arms with a fool like me?
 Nyna: Marth, do not blame yourself. ...Remember Anri and Artemis. We are their descendants; perhaps we were always meant to share their curse as well as their blood. And... perhaps only the curse has exacted its price could our battle with the Shadow Dragon be won. This peace we have made... We must cherish it, Marth. We have both paid so dearly for it. Let us work together to ensure none must endure a tragedy like our again.
+^end
 
 @Narration 
 So concludes the tale of Falchion, blade of light; Marth, its wielder; and his battle with the Shadow Dragon. Herein its events have been chronicled, that none may ever forget.

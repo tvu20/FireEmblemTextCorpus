@@ -1,0 +1,61 @@
+@Intro 
+Jagen: The 7th Platoon and its commander, Kris, are all present and accounted for, yes? From today forth, you will train together as a team in your bid to become fully-fledged knights. The first half of your training will focus on developing your practical skills. Without further ado, I will introduce the senior knight who is to be your instructor.
+Cain: I am Cain, the knight in charge of your practical training! To hone your practical skills, we will have a contest in the form of combat. If you let your guard down, it won't be just an injury you'll be walking home with!
+Jagen: Even amongst the Altean knights, Cain is one of our strongest men. You must all become strong enough to earn his approval.
+
+Cain: Well then, let's begin today's training! Your enemies will consist of us Altean knights, as well as brave warriors whom I am proud to call friends. The opponents are determined by the ability of each platoon. 7th Platoon, your opponent is...
+Caeda: My squires, my friends; please go easy on me.
+Katarina: Oh, it's Princess Caeda! Prince Marth's fiancee! She's so pretty... I feel nervous at the thought of fighting her...
+
+@Battle 
+Caeda: Let us see if you've got the ability. Talys's mercenaries shall fight you first.
+
+Caeda: I see you know how to fight well. In that case, I will fight you next.
+
+@Boss 
+Caeda: Fear won't help you; approach with confidence and the intent to fight.
+
+^start
+Caeda: You're a mercenary, aren't you...? Tee hee. This looks promising. Come, show me what you can do with your sword!
+
+Caeda: An armored knight... I'll be at a disadvantage with the way that I fight. But I won't lose so easily! Come, show me what you've got!
+
+Caeda: You're a cavalier, huh? Looks like you'll be a good match for me. Come, show me what you've got!
+
+Caeda: So you're a fighter, Kris? Of the lance and the axe, the axe is advantageous... I might be at a slight disadvantage, but I won't lose easily! Come, show me what you've got!
+
+Caeda: Kris, you're an archer!? The bane of us pegasus knights... B-but I will not sit idly by and lose to you! Show me everything you have!
+
+Caeda: So you're a mage, Kris? Pegasus knights are resistant to magic, you know. I'm not going to lose this one. Come, show me what you've got!
+
+Caeda: Kris, you're a myrmidon, huh? Teehee. I feel somewhat drawn to you. We should be friends from now on. But that doesn't mean I'll go easy on you in this fight. Come, Kris, show me what you can do with that sword of yours!
+
+Caeda: Well, well, Kris, you're a pegasus knight, just like me. Teehee. We have so much in common... But I won't go easy on you for this battle. You and your pegasus... Shall we take to the skies?
+^end
+
+Caeda: Ngh...!
+
+@End 
+Caeda: That was a thrilling fight. You are the first squires to have bested me in combat. Promise me that you'll become knights worthy of helping Marth.
+Kris: Of course, Princess Caeda.
+Caeda: If you ever need help during the practical training, do call on me. And I'll fight, but as your companion.
+Kris: Hm? We'd gladly appreciate your help, but I'm not sure if we would be allowed to.
+Katarina: What should we do? I know, how about we ask Sir Jagen?
+
+Jagen: I have no qualms about your proposal. You may borrow the help of friends if they offer as much.
+Katarina: What a relief. I'm certain Princess Caeda will make a reliable ally.
+Kris: But, is it really alright to rely on others? I don't see how this fits with our training...
+Jagen: Hmph. Don't tell me you're still in the dark about Prince Marth's method of fighting in the War of Shadows?
+
+^start
+Kris: Yes, I'm sorry. I'm not familiar with the details.
+Jagen: Then I shall tell you. Our victory in the previous war was not just by merit of Altea. Gathering and fighting together with allies of various positions and statuses... This is how Prince Marth fights. No matter when an ally came to our side, they could instantly join the battle with us. That is also a necessary skill for an Altean knight.
+Kris: I see... I understand now.
+Katarina: If we can combine our strengths when we fight, I'm sure we can achieve anything. Right, Kris?
+Kris: Yes, you're right.
+
+Kris: No, this I know. The League led by Prince Marth didn't just consist of Altea: It went beyond the frontiers of nationality, and included friend and foe alike...
+Jagen: Yes. Our victory was not just the accomplishment of us Altean knights. Overcoming status and position; being able to fight together as equals... That is how Prince Marth fights. No matter when an ally came to our side, they could instantly join the battle with us. That is also a necessary skill for an Altean knight.
+Kris: I see... That will be important to our training. I understand now.
+Katarina: If we can combine our strengths when we fight, I'm sure we can achieve anything. Right, Kris?
+Kris: Yes, you're right.

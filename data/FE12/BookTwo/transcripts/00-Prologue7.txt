@@ -1,0 +1,93 @@
+@Intro 
+Cain: Kris's 7th Platoon! You have fought valiantly thus far. It has been a joy being your instructor!
+Jagen: Frey, Cain; I have heard reports from both of them. Though your individual strengths vary, there exists no doubt of your excellence. Thus, today we will hold your final practical exam. Make sure that you are thoroughly prepared.
+Cain: The final preparations have been made! We are now ready to begin! Your opponent in the final exam shall be...
+
+^start 
+Cain: Myself: Cain, knight of Altea! I'll show you the sort of battle that real knights face!
+
+Est: Est, ex-Whitewing of Macedon, at your service. I won't go easy on you!
+^end 
+
+@Battle 
+^start 
+Cain: You have come well prepared. But you must be wary that the enemies you see are not always your only ones!
+
+Est: I can tell that you aspire to be something great. But you'd better not think that your only enemies are those that you can see.
+^end 
+
+^start 
+Cain: Now! Reinforcements, attack!
+
+Est: Now! Reinforcements, attack!
+^end 
+
+@Boss 
+Cain: Here we go! Give it your all!
+
+Cain: Impressive...!
+
+Est: Here I come! I wonder, can you keep up with me?
+
+Est: So... so strong...
+
+@End 
+^start
+Cain: Congratulations, you won! There is nothing more we can teach you.
+
+Est: As I thought...It pains me to say this, but you were really strong. I don't think you can call yourselves apprentices any more!
+^end 
+
+Jagen: Hm. Well then, Kris's 7th Platoon; I will announce the results of the second half of your training right here, right now. As before, your score depends on the amount of companions who were forced to make an early exit. Listen carefully. Your performance has been...
+
+^start 
+Jagen: Most impressive! Even amongst the past Altean knights, there has not been a group with such high credentials as yours! Therefore...
+
+Jagen: Ahem, not bad! Compared to other aspiring knights in the past, you have done very well. And so...
+
+Jagen: Hmm... This is extremely difficult for me to say. You have many injured... But you deserve credit for winning all your battles until now. Therefore...
+^end
+
+Jagen: Kris's 7th Platoon, I have decided that you have passed your final test!
+Ryan: We passed... So that means we're...
+Luke: Alright, we did it! We can become knights!
+Cecil: We did it. After this, I'm going to buy myself a nice sword, and a hefty lance... Oooh, it's getting me excited just thinking about it! Heh heh heh heh...
+Roderick: ...Cecil, you're scaring me. But you're not alone in excitement. My lifelong dream has at last been realized.
+Katarina: Everyone looks so happy. I guess it's because we're all to be knights! We really did it, Kris.
+Kris: Yeah. It was my grandfather's and my own dearest wish to become an Altean knight. I can now work for Altea and serve Prince Marth. So I've all the reason to be happy.
+Katarina: Indeed. I'm happy too...
+
+Katarina: ...... Ah, Kris. What are you doing up so late at night?
+Kris: I can't seem to sleep. What about you, Katarina?
+Katarina: I... well... There's a lot on my mind, I suppose. ...Kris, have I ever told you about the town I was born in?
+Kris: Now that you mention it, you're never told me anything about your hometown. It wasn't Altea?
+Katarina: I was born in a town called Knorda. Have you ever heard of it? I... know it all too well. In Knorda, I was treated like an animal, beaten for fun. Whenever I couldn't stand the pain, I'd just close my eyes and think of nothing, taking refuge within my heart's confines...
+Kris: Katarina...
+Katarina: ...But someone was there to save me. She showed me the meaning of life. I felt that I would do anything for her. Kris, do you have someone like that in your life?
+Kris: Yes. To remain loyal to a lord: that's the sort of knight I aim to be.
+Katarina: Yes, that's right. You're also doing it for someone else... Not long now, is it...? It won't be long until we become Altean knights. When that happens... ......... Good night, Kris.
+
+Kris: Well then, time to get some rest...
+Katarina: U-um, Kris! I'm sorry, I forgot one thing... Please take this, if you would.
+Kris: What's this? A headband?
+Katarina: It's from Cecil. "Give this to the new platoon commander," she said. Supposedly if you wear this, you'll be more... "psyched". Cecil really wants you to wear it.
+Kris: So once I put this on, I'll have a hairstyle like Cecil's? But will being like Cecil really suit me?
+Katarina: I'm sure it would. Oh, I know! How about you just try it on? If you try it and it feels a little strange, you can just go back to your original hairstyle.
+Kris: Oh, good point...
+Katarina: Well, how about it? Want to change your hairstyle?
+
+^start 
+#avatar-F 
+Kris: Alright, let's give it a try. It'll be fun becoming like Cecil.
+Katarina: Wonderful! Cecil is sure to be stoked. I look forward to seeing your new look. See you tomorrow then, Kris.
+
+Kris: No, let's stop here. My hairstyle is fine as it is.
+Katarina: Oh, is that so? That's too bad. I was looking forward to see your new look, too... Ah, I'll go return this then. See you tomorrow, Kris.
+
+#avatar-M
+Kris: Alright, let's give it a try. I'll try arranging my hair so that it's like Cecil's.
+Katarina: Wonderful! Cecil is sure to be happy with your decision. I look forward to seeing your new look. See you tomorrow then, Kris.
+
+Kris: No, I think I'm alright. My hairstyle is fine as it is.
+Katarina: Oh, is that so? That's too bad. I was looking forward to see your new look, too... Ah, I'll go return this then. See you tomorrow, Kris.
+^end 

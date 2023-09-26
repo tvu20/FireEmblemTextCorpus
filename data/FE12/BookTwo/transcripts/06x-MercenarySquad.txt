@@ -1,0 +1,89 @@
+@Intro 
+Jagen: Sire! We've been ambushed by the enemy! Enemy troops are waiting for us ahead.
+Marth: Alright. Jagen, Kris, make preparation for battle.
+
+#avatar-F 
+Kris: Yes, immediately.
+
+#avatar-M
+Kris: Yes, at once.
+
+@Intro 
+Radd: We did it, Caesar! Our ambush was a success. They're completely surrounded. Tactical victory is ours.
+Caesar: I see. However, don't lower your guard. Our enemy is the Altean army... We know how strong they are.
+Radd: But Caesar, are you really fine with this? We did fight under Altea's banner in the previous war...
+Caesar: We're mercenaries. We have no liege. I need gold, and will do anything for it. Even selling my soul to the devil.
+Radd: Gold, huh... Indeed, when we get the reward from Emperor Hardin... I'm sure we could save her. Alright, let's do it, Caesar!
+Caesar: Radd, there's no need for you to follow me. My sister is my business. The Altean army is strong. You'll die if you're careless.
+Radd: I'm doing this for my own interests too. So I'll tag along with you, Caesar. As I always have, and always will.
+Caesar: Very well. Then, let's go!
+
+Clarisse: Legion, you're ready, I presume?
+Legion: Yes, yes, yesss! It's finally time for us allses! Uwee hee hee!!! Togethers with those mercenaries, we'll gives Marth a royal funeral!
+Clarisse: It seems some of those mercenaries were Marth's allies in the previous war. I do wonder if they'll be of any use.
+Legion: So whats? Doesn't matters. If they're uselesses, all we have to do is kills him ourselves.
+Clarisse: Bah, I don't like you getting the best part. Oh well, do whatever you want.
+
+@Recruit-Battle 
+Caesar: The time for words is gone. Fighting is all we can do, now.
+
+Caesar: Can't I... even save... one little sister...?
+
+Radd: I am Radd, deputy commander of this mercenary band. Here I come...
+
+Radd: Caesar... Please... stay alive...
+
+@Boss 
+Legion: Uwee hee hee! Come on! Come on! Come on! Timeses to fight!!!
+
+Legion: We won't dies... even if you kill mes... Uwee...hee...
+
+@End 
+^start 
+Caesar: You win, Prince Marth. I should have known you weren't a foe we could defeat with petty tricks. I surrender. Kill me or whatever; I'm all yours.
+Marth: Caesar, I'd like to hire you and Radd if possible. I want you to come with us. You and Radd fought by my side in the previous war. You're both my comrades.
+Caesar: Prince, forgive me, but we're mercenaries. All we did in the previous war was fulfill our duties as hired swords.
+Marth: It might have been just a job for you two... But not to me. Both of you are my precious comrades. You were then, and still are now.
+Caesar: Prince... I appreciate your willingness to say such kind words to mercenaries like us. However, at the end of the day, we're hired swords. Therefore, we ask for gold. Prince, Archanea occupies your country. It's obvious you don't have the extra resources needed to pay us.
+Marth: Well, you have a point...
+Kris: Gold shouldn't be an issue. Prince Marth will reclaim Altea, our homeland. Altea may be occupied by Archanea now, but we shall defeat them. And then, you'll have the gold you seek.
+Caesar: Do you... honestly think you stand a chance? Against a powerful kingdom like Archanea?
+Kris: Of course. Besides, I'm sure you don't have a choice, at this point. Since you've failed your mission, Archanea won't pay you the gold you seek anymore. If you're a hired sword working for gold, following Prince Marth would serve your interests better. Am I wrong?
+Caesar: ...Indeed, your argument is sound. As we've failed, we have no other options. Prince Marth, Radd and I are now your hired swords. We shall accompany you for as long as you wish us to.
+Marth: Thank you, Caesar.
+
+Radd: No... Caesar...
+Marth: Radd... You have my condolences. Radd, I'd like to hire you if possible. I want you to come with us. You and Caesar fought by our side in the previous war. You're both my comrades.
+Radd: ...Me, work for you? Sure thing, Prince Marth. But I hate you guys. I could just feign joining you, Prince, and then try and kill you, y'know?
+Marth: I don't mind.
+Radd: Eh...?
+Kris: Sire...!
+Marth: Radd, listen to me. Caesar is dead... We killed him. And that's why I ask this of you. I don't want this... I don't want comrades killing each other!
+Radd: ...Prince Marth...
+Kris: Radd. This is the first time we meet. I don't know your connection with Caesar. However, I know this. Caesar's death... pains Prince Marth as much as it pains you...
+Radd: ...
+Kris: Radd, Prince Marth will be even sadder if you die, too. We don't want to repeat that tragedy again. So, please...
+Radd: ...Alright. Prince Marth, if you so wish, then I'll tag along with you. I'll accept the money once this war is over. For Caesar's sake, too, I must save that girl...
+Marth: Thank you, Radd.
+
+Caesar: We lose, Prince Marth. I should have known you weren't a foe we could defeat with petty tricks. Kill me. Send me to where Radd is waiting.
+Marth: Caesar, I'd like to hire you, if possible. I want you to come with us. You and Radd fought by my side in the previous war. You're both my comrades.
+Caesar: Prince, forgive me, but we're mercenaries. All we did in the previous war was fulfill our duties as hired swords. Besides, do you think I'd just agree? Now that Radd's been killed...
+Marth: That's right, Radd is dead... We killed him. But that's exactly why I'm asking this of you. I don't want this... I don't want comrades killing each other anymore!
+Caesar: ...Prince Marth...
+Kris: Mercenary commander Caesar. This is the first time we meet. I don't know your connection with Radd. However, I know this. Radd's death... pains Prince Marth as much as it pains you...
+Caesar: ...
+Kris: Caesar, Prince Marth will be even sadder if you die, too. We don't want to repeat that tragedy again. So, please...
+Caesar: ...Very well. While I'm not fully convinced... This was something I brought upon myself. I have no right to blame others for it. Prince Marth, from now on I'm in your service. I shall accompany you for as long as you wish it.
+Marth: Thank you, Caesar.
+
+Kris: Sire, the battle is over.
+Marth: Kris, Caesar and Radd were... our comrades in the previous war. Jeorge too, to think we'd be fighting our former comrades like this...
+Jagen: Sire, you must be strong. Now that Archanea has become our enemy, we'll have to face this kind of situation many times over. But don't worry, sire. You will always have Kris and me--your loyal retainers--by your side.
+Marth: Thank you, Jagen, Kris. It's only because you're with me that I can walk forward. Let us go, to the Fane of Raman.
+^end 
+
+Clarisse: Oh dear. Legion, it seems your clone died.
+Legion: Legion was no clone. Legion was our brotherses. We are allses brotherses.
+Clarisse: Ugh, whatever. So, are you the real Legion? Or just another clone?
+Legion: Who knows? Legion doesn't knowses. Uwee hee hee! The Alteans are strong-strong. Next times, we'll bring ALL our brotherses. Real Legion and brotherses, together we'll kills Marth. Uwee hee!

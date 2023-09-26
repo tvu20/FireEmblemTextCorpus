@@ -1,0 +1,66 @@
+@Intro 
+Jagen: Sire, Lord Horace should be inside this fort.
+Kris: It seems the enemy has already infiltrated the building. Please be careful, sire.
+Marth: All right. Let us fight with caution.
+
+Legion: Uwee hee hee... Horaces, was it? Youses a stubborn ones... Yous already killed three of our brotherses. But there are mores of us... moreses, moreses, moreses! How longs can you last? Uwee hee!
+Horace: Who the hell are you? Who gave you the orders to attack me?
+Legion: Uwee hee hee. Who knowses? We sure don't. But really, poor yous! You'll be killed by us, and won't even knows why!
+Horace: My life isn't my own. Ever since I became a knight, my life is for my liege and my people. I cannot be defeated by cowards like you.
+Legion: Uwee hee hee! Bring it on!! We are Legion. There are manys of us and ones of us, all in oneses. Want to knows how to defeats us, hmm? Simple. Just kills the real Legion. But can you findses the real Legion?! Uwee hee hee!!!
+
+@Recruit-Talk 
+%Kris,Horace
+Horace: You are Kris, Prince Marth's Royal Guard, correct? 'Tis an honor to meet you. I am Horace, an Archanean knight in the service of Princess Nyna. Prince Marth saved me in the previous war. For Princess Nyna's sake, please allow me the privilege of fighting alongside you.
+
+@Battle 
+Legion: Uwee hee hee! You can kills us and kills us again. But there are mores of our brotherses... moreses, moreses, moreses of us! As longs as the real Legion is still standing, there'll be no end to the Legion... Uwee hee!!!
+
+@Boss 
+Legion: Uwee hee hee!!! Are we real or are we false? Try us and see!!!
+
+Legion: Uwee hee... hee... how did you... know...?
+
+@End 
+Kris: Sire, the remaining enemies have fled. Victory is ours.
+Marth: Good work. But either way, that was a strange enemy. Were they even human...?
+Jagen: I've heard rumors about them. Those wicked assassins crushed their souls when they were young, and raised them as living puppets who follow orders without question...
+Marth: How pitiful... Kris. I wonder if Katarina was raised under such circumstances, as well...
+Kris: ...
+Marth: However, we can't do anything about that now. Let us go ahead. To Anri's Way, where Lord Gotoh awaits.
+
+Kris: Sir Jagen, I've found something most odd inside the castle. It's this mask. It seems like a different type from the one those assassins wore, but what's it for...?
+Jagen: Heh... This is a mask for use in a masquerade ball, I believe.
+Kris: Masquerade ball?
+Jagen: Yes. Noblemen once donned these masks in order to conceal their identities. They were probably used in this old castle a long time ago. So, it's unrelated to the assassins.
+Kris: I see... But, it sure is a strange mask.
+Jagen: What of it? Don't tell me you intend to wear it?
+^start 
+Kris: Yes. For some reason, I feel like giving it a try.
+Jagen: You are an odd one. Well, do as you wish.
+
+Kris: No, I'll leave it where I found it.
+Jagen: Yes, good idea.
+^end
+
+Katarina: Lady Eremiya... I have a report. Legion, he...
+Eremiya: I see, so he failed. Even though I took such good care of him... Such a troublesome child.
+Katarina: Lady Eremiya, the Altean army is strong. Now that Legion has been defeated... Perhaps we should refrain from pursuing them.
+Eremiya: No. Crushing Altea was an order of his.
+Katarina: But...
+Clarisse: What? Reese, don't tell me you're afraid?
+Katarina: Clarisse...
+Clarisse: Lady Eremiya, please allow me the honor. I'll take care of them.
+Eremiya: My, you're a good girl, Clarisse. Would you?
+Clarisse: Anything for you, Lady Eremiya.
+Katarina: ... Lady Eremiya, about the remaining Legion brothers...
+Eremiya: Ah, those. Get rid of all of them.
+Katarina: Lady Eremiya...!
+Eremiya: They can't fight now that they've lost Legion, can they? So, they're useless now. Broken junk is to be discarded.
+Katarina: B-but, Lady Eremiya... They were with us in the orphanage... with you too, Lady Eremiya...
+Eremiya: So what?
+Katarina: ...
+Clarisse: Reese, you sure are useless, aren't you? Don't worry, Lady Eremiya. I'll get rid of them.
+Eremiya: My, Clarisse is such a good little girl. Completely different from a certain failure.
+Clarisse: Ah, Lady Eremiya... Your praise makes me happy.
+Katarina: ...

@@ -1,0 +1,97 @@
+@Opening 
+Having liberated Grust, Marth and his companions accepted Wendell's request and stopped by the Fane of Raman in search of the missing orbs. However, the ancient temple built to worship Naga had been wrecked by constant warring, and was now nothing more than a den of thieves.
+
+"They're escaping with the temple's valuable treasures. We must catch them! Stay clear of the free company guarding Chiasmir Bridge. We cannot defeat them. It seems a dancer is lost inside the forest. We must find her before the bandits do!"
+
+As the soldiers received their orders, the flames of a new battle around the Fane of Raman were ignited.
+
+@Intro 
+Jagen: By the way, Kris. I have something I'd like to ask you.
+Kris: Yes, Sir Jagen?
+Jagen: From your perspective, what kind of person am I?
+Kris: What kind... of person?
+Jagen: I keep wondering about how I should have acted towards Lang... Our homeland Altea's position is important, but perhaps I brood far too much and offend people.
+Kris: You worry about these things too, Sir Jagen? You needn't worry. Your concern for Prince Marth is more than evident. You're very strict, Sir Jagen, but also very kind.
+Jagen: Is that so...? Ho ho, if you cheer me on enough, I may even age backwards!
+Kris: Sir Jagen, when you look at me, what kind of person do you see?
+Jagen: Hmm, well... You're very capable as a Royal Guard...
+^start
+Jagen: And you have an aura that attracts people.
+Jagen: And you're wise, almost foresighted.
+
+Jagen: And I can feel a hidden genius somewhere.
+
+Jagen: And you have a kind heart.
+
+Jagen: And you have an indisputably strong heart.
+^end
+Jagen: That's the kind of person you are.
+Kris: What an honor.
+Jagen: Well, we'd best begin the war council. Let us go, Kris.
+Kris: Yes, Sir Jagen.
+
+Phina: Huff... huff... Please... help me... The thieves... They're going to...
+Navarre: ...
+Phina: No, it can't be! You're... one of them... as well? Oh, fine... Do your worst! If you're going to kill me, do it fast!!
+Navarre: Girl... Get behind me. The Altean army is marching towards the south of this forest. I'll take you to them.
+Phina: Huh? You're going to help me? You mean, you're not with the thieves?
+Navarre: Until just now, I was. But, I've changed my mind.
+Phina: Why...?
+Navarre: There's someone in the Altean army that I want to see. That's all.
+Phina: Hmmm... But really, it's 'cause I'm cute, right? At any rate, I'm glad. My name's Phina. I'm a dancer from Warren. People say that once they see my dancing, they feel instantly refreshed! I can show you, if you like. Oh, I should tell you my story: I got separated from my troupe, and wandered into this forest. And then, those horrible thieves came and tried to take me by force... But it's okay now. You seem kind of scary, but actually you're very kind. However, your appearance is... Your face isn't bad, but your dress sense is kind of lacking. And, ugh, what's with your hair? You know, nowadays...
+Navarre: Just stop talking! Anyway, don't stray too far. We'll cut our way to the west corner, and then escape through there. If you want to live, then shut up and come with me.
+Phina: Ah... Y-yes, sorry...
+
+@Visit 
+Villager: The ancient Fane of Raman is just a treasure trove to thieves. You can see 'em carrying the stolen treasure all over the place. I hope they get cursed or something...
+
+Villager: The ones protecting the bridge are Astram's free company: powerful men who stop at nothing. As a wise man once said: "Let sleeping dogs lie", eh?
+
+Villager: I wonder if you've seen that young lady's dance? Marvelous, isn't it? Makes a tired body feel healthy again in the blink of an eye!
+
+Villager: You must never go near that cave. I heard a rumor that in that cave dwells a terrible fire dragon.
+
+@Battle 
+Soldier: Captain Astram, we've sighted the Altean army to the south! Shall we attack?
+Astram: Our mission is to hold the bridge. Leaving the bridge will not be permitted. Only attack if the enemy approaches.
+Soldier: Yes sir. But what about the troops in the fort? I hear they will march out soon.
+Astram: They were bought with coin by the Emperor. Let them do as they please. Either way, they won't win. WE will be the ones to stop the Altean army.
+
+Jagen: Sire, please exercise caution! Reports indicate that a fire dragon has emerged from the cave to the west!
+
+@Recruit-Battle 
+Astram: Traitors! I'll show you the might of the Mercurius!
+
+Astram: Midia... My love...
+
+@Boss 
+Dahl: Tryin' to take a cut from a thief's plunderin'... You people ain't even human!
+
+Dahl: Murderers... the lot of you...
+
+@End 
+Jagen: Sire, we've driven away the thieves, but the temple was completely ransacked; anything that wasn't nailed down is gone. I'm sure even Guardian Deity Naga would be furious. 'Tis truly the end of civilzation.
+Marth: Jagen, do you know the legend of Naga?
+Jagen: Yes; only vaguely, however. Kris, do you know of it?
+Kris: No, not really...
+Jagen: Unknown among the youth, I see... Then, sire, allow me the honor.
+Jagen: It's said that a thousand years ago... when there was not one king in the lands, people lived in small villages. One day, terrible monsters descended and the humans were massacred, pushed to the brink of extinction. The few who survived prayed to the gods for salvation. The gods heard their prayers, and a gigantic warrior was sent down to earth. The warrior carried a gleaming blade of light in his right hand, and in his left hand, a shield embedded with five orbs. Then, after a fierce battle, he eradicated the monsters and returned to the heavens. He was our guardian deity, Naga, and this temple is dedicated to him. "He was the avatar of the gods: our guardian deity..."
+Marth: With the blade of light and the five orbs... That is the legend of Naga...
+Jagen: Well then, sire. We have to cross the Chiasmir Bridge soon. We must hurry; if the enemy takes it, getting across will be nigh impossible.
+Marth: Alright then, inform the whole army: We cross Chiasmir Bridge at once. We haven't a moment to waste!
+Kris: Yes sir!
+
+Kris: Lord Wendell, we're off to Chiasmir Bridge. I... A-achoo!
+Wendell: Oh dear, are you alright? Have you caught a cold?
+Kris: Perhaps. It's too early to tell.
+Wendell: Don't push yourself too hard, and remember to keep yourself warm. Oh I know, shall I lend you one of the hats that I'm wearing?
+Kris: Huh? Is that okay?
+Wendell: Yes, I have many of these hats, so there's no need to worry. Well then, would you like to try it on?
+
+^start 
+Kris: Yes, please, if it's not a bother.
+Wendell: No, no, don't be shy. Here you go. And do remember to watch your health.
+Kris: You're a good person, Lord Wendell. I want to be more like you... Oh yeah, if I wear this hat for a while, I wonder if my hair will start to look like his? And then, maybe I'll be a bit more like Lord Wendell!
+
+Kris: No thank you, but I appreciate the gesture. I'll be just fine.
+Wendell: I understand. But, do remember to watch your health.

@@ -1,0 +1,62 @@
+@Opening 
+Soon after reclaiming the Fane of Raman, Marth's army fears pursuit from the Archanean army and escapes towards Chiasmir Bridge. However, a new enemy attacks the Altean army upon reaching the central islet.
+
+"The Archanean army is coming from the north; we'll be surrounded like this."
+
+The situation is desperate! Can Marth and his friends overcome the many perils?
+
+@Intro 
+Cain: Sire, you're safe! 
+Kris: Sir Cain! You made it!
+Marth: I'm truly glad that you came back unharmed, Cain.
+Cain: Yeah, somehow I managed to shake off the enemy and escape here. But the enemy is already approaching from the north.
+Marth: Don't worry. We will crush them.
+Cain: No, not this time. Hardin is being protected by a mysterious power: we can't lay a finger on him. So even if we fight him now, we haven't a chance of winning. Please, head to the northwestern fortress. There's a boat across the river, which we can use to escape to the Khadein desert.
+Jagen: Sire, the free company to the south will probably make their move soon. Indeed, now's not the time to fight. For the time being, let's do as Cain suggests and make our escape. After that, we'll think of something...
+Marth: I see... I don't like it, but we haven't a choice... Everyone, hurry to the northwest fortress!
+
+@Visit 
+Villager: If ya ask me, archers'll always get along well with archers.
+
+@Recruit-Visit 
+Bantu: Oh look, if it isn't Prince Marth. Long time no see, Lad. It seems so noisy out; I wonder what's happened?
+Marth: Ah, Bantu! Fancy meeting you in a place like this. How is Tiki?
+Bantu: Oh, she is no longer by my side. Lord Gotoh took her to the Ice Dragon's Temple again.
+Marth: The Ice Dragon's temple? Where's that? I've never heard of such a place...
+Bantu: It's in the icy lands, far north of here. But it's no place for humans. Besides the hero Anri, no man has been there yet.
+Marth: Anri?! Are you, perchance, referring to the "Realm of the Gods" from Anri's legends?
+Bantu: I'm not at liberty to say anything more. If you want to know more, you should ask Lord Gotoh. Anyhow, I have a favor to ask of you. My precious firestone was stolen by thieves. If you can get it back for me, I'll show you how it works. Thank you, Prince Marth.
+
+@Battle 
+Hardin: Heh heh heh... Prince Marth, it's been far too long.
+Marth: Hardin... Why did you attack our country? What would compel you to do such an act? I... I can't believe this. Have you really changed this much?
+Hardin: Prince, I am the ruler of this continent and the Emperor of Archanea. I will show no quarter to anyone who opposes me. That includes you, Prince... I must destroy this foul world... It is beyond salvation. Traitors, playtime is over. You will all die here. All soldiers, attack! Do not leave a single traitor standing!
+
+@Recruit-Talk 
+%Gordin,Jeorge 
+Gordin: Master! Please, wait!
+Jeorge: Hm...? Gordin? Long time no see. You seem to have gotten a little sturdier, but has your bow arm improved any?
+Gordin: Yes, at the moment, I... They call me Altea's master of bows. It's thanks to you, Master, that I've been able to progress this far.
+Jeorge: And? Did you come here because you wanted to challenge your old teacher?
+Gordin: N-no! It's not like that... ...I might be asking the impossible, but I'd like you to fight alongside us again, sir.
+Jeorge: ......
+Gordin: Please! Master!!
+Jeorge: I pledged allegiance to Princess Nyna, but as for Hardin... I've had it with him. Taking other countries by force, executing "rebels" without reason. The Archanean army I see now is just a collection of hired thugs. There's not even a shred of chivalry left. To return the kingdom of Archanea to what it was once before... I must take it upon myself to turn my bow against my homeland. Gordin. Convey that to Prince Marth.
+Gordin: Thank you, Master!!
+
+@Recruit-Battle 
+Astram: You traitors! I'll show you the might of Mercurius!!
+
+Astram: Midia... My love...
+
+Jeorge: You wouldn't have needed to die if you hadn't come so close, fools...
+
+Jeorge: What fools...
+
+@Boss 
+Hardin: Rebel soldiers... Come to die, have you? I'll show you the terror of Gradivus!
+
+@End 
+Jagen: Please hurry, sire. The enemy is closing in on us.
+Marth: But everyone is still fighting. I can't just leave them behind.
+Jagen: Don't worry, everyone will escape safely and reunite with you at Khadein. Now sire, to the boat!

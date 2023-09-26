@@ -1,0 +1,51 @@
+@Intro 
+Marth: The blizzard has gotten worse. I can barely see anything in front of me... Kris, I think I can see somebody ahead. Is that...
+Kris: Ah! Sire, please stay behind me. I feel the presence of enemies. Several are currently targeting us.
+Marth: What!? But, we can't see anything like this. How should we fight back?
+Kris: We've no choice but to directly engage the enemy. It will probably be a dangerous battle, unlike any we've faced previously.
+Marth: Indeed. We should select those who'll fight with prudence.
+
+@Battle 
+Marth: Athena! What brings you here!?
+Athena: Huff... huff... They are coming after you, Prince Marth. Ve vanted to varn you...
+Marth: Ah! I see. So you wanted to help me... Thank you, Athena. It's fine now; I'll handle the rest. We'll defeat the enemy!
+Clarisse: That wench... How dare she get in our way. If she hadn't spotted us, I could have shot the prince dead. Tsk! Oh well. As long as this blizzard carries on... This battle is mine. You can't see anything, can you? But we can. Now it's time for you to die, blind and blissfully ignorant.
+
+@Boss 
+Clarisse: You want to escape from this darkness? I'm afraid I won't let you. You won't see the sunlight ever again.
+Clarisse: How... how dare you... I'll... I'll kill... anybody in my way... Just watch me... I'll kill... I'll kill you all!
+
+@End 
+Kris: Sire, we have routed the enemy.
+Jagen: We have accomplished our objective. There is no need to remain here. Let us continue to the Ice Dragon Shrine.
+Marth: Indeed. The sooner we meet Lord Gotoh, the better. Let's go.
+Clarisse: Unh... Ugh... Lady... Eremiya... I'm... alone... once again...
+Katarina: Clarisse...
+Clarisse: R-Reese...! Why... are you here...? Don't tell me... You came here to laugh at pathetic old me?
+Katarina: Come on, hold on to me. Let's return to the hideout, together.
+Clarisse: Wha...?
+Katarina: You can't walk around wounded like this. And you'll freeze to death if you don't find shelter soon.
+Clarisse: Why...? Why would you... go so far to help me...! I've always treated... you like dirt and yet you...
+Katarina: Because you're my little sister.
+Clarisse: ...Pfft. You know I'm not your sister. We're both orphans, remember...? We've always been alone...
+Katarina: But, we were raised together by Lady Eremiya... I don't mind if you hate me. But, I don't want to lose you... If I were to lose this one bond... I'd be alone in the dark, again... And the same goes for you.
+Clarisse: ...Reese...
+Katarina: Please, hold onto me.
+Clarisse: B-bah... This will be the first and last time I'm gonna obey you, you hear me...?
+
+Eremiya: ...Yes, I am aware of Altea's actions. We will begin the next phase of our plan. Your wish is our command, Master Gharnef...
+Katarina: Lady Eremiya...!
+Eremiya: Clarisse failed, didn't she?
+Katarina: Y-yes... She's severely wounded... We need to have her treated!
+Eremiya: Dispose of her.
+Katarina: B-but, Lady Eremiya!
+Eremiya: She's of no use to me wounded like this. Just leave her and she'll die by herself.
+Katarina: ...
+Clarisse: What's with that face...? It's natural... that I'd die if I failed... I knew... this would happen... but, but...
+Katarina: Clarisse...
+Clarisse: Go away. I don't want... you to see me like this.
+Katarina: ...Very well.
+Clarisse: ...... Reese... Wait... Don't go... I changed my mind... stay with me. I don't want... to be alone...
+Katarina: Clarisse... I'm right here. I'll always be by your side. After all, I'm your big sister.
+Clarisse: Bah! You have to be annoying, till the end... ...Sis... ter... ... ... ...
+Katarina: ...Clarisse...

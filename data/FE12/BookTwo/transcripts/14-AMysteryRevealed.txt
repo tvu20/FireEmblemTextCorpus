@@ -1,0 +1,86 @@
+@Opening 
+The surprising truth from Xane was a shock to Marth. Tiki was created as the daughter of the Divine Dragon King, Naga, and slept in the temple because of the king's will. The king's fear of Tiki's power was that of a loving mother's. If Tiki was to awaken, her tremendous power would eventually cause the destruction of the world... That is what the Divine Dragon King feared. However, Bantu, the king's servant, became attached to Tiki after watching over her for a period of hundreds of years became(sic). He awoke her from her sleep, and took her away. So Tiki only had 10 human years' worth of memory... "That is so sad, Tiki..." Marth was too bewildered to think.
+
+@Intro 
+Marth: This is the Ice Dragons' Temple. Anri's final destination...
+Gotoh: Prince Marth, can you hear me? Come to the front of the center room. I shall await you there.
+
+@Battle-Talk 
+%Marth,Gotoh
+^start 
+Gotoh: What!? You found all the shards? Thank you, then the Starsphere can be restored. Please wait a moment...
+(Gotoh teleports closer to Marth)
+Gotoh: Marth, this is the Starsphere. You can take this with you as well.
+Marth: Huh? Gotoh, why are you giving such an important item to me?
+Gotoh: The only person that can restore the Shield of Seals is you... The Shield, itself, has chosen you.
+Marth: .....?
+Gotoh: You still don't understand? The Emblem shield you're carrying is the stolen Shield of Seals. To be honest, it was only recently that I noticed; its exterior had completely changed... After stealing it from the Fane of Raman, the thief removed its jewels and sold them off as treasures. The money was used to fund an army, which, along with three stolen weapons, was used to conquer the world. The thief that went on to become the king of Archanea had the shield, which brought him such good fortune, it became the emblem of his royal family. Now do you understand, Marth? It is what you are carrying, Archanea's Fire Emblem.
+Marth: !! What... ...The first king of Archanea was originally a thief!? Is that true...? In that case, I can kind of understand the curse of the Fire Emblem... Then, Gotoh... If I can collect all five orbs, can I restore the Shield of Seals?
+Gotoh: Mmm... But please hurry up. The shield has already been broken for 600 years... It is almost time for the Earth Dragons, sealed underneath Macedon, to awaken from their slumber. Those evil Earth Dragons number several hundreds... No, several thousands. Once they awaken there will be nothing that we can do... I will leave Tiki in your care. You can find her in the room to the right. That Divine Dragon child should be able to help you battle the Earth Dragons. But, I will state clearly, if the Shield of Seals is not restored, Tiki will be destroyed.
+Marth: Huh...!? Why is that...
+Gotoh: That child is still developing. Without the Shield of Seals she will begin to degenerate. Eventually she will become wild and attack humans. I made her sleep, because I felt sad for her. But, if the Shield of Seals is restored I will no longer have to worry, because the shield will protect Tiki. Marth, please take care of Tiki. You must rescue that child from the path of ruin.
+
+Gotoh: Is that so. You couldn’t find them all... There’s nothing you can do about it... Please hand your collected shards to me. Tiki is sleeping in the room to the right. But since the shield isn’t restored, I can’t let you see her. That child is still developing. Without the Shield of Seals she will begin to degenerate. Eventually she will become wild and attack humans. I cannot allow Tiki to awaken again. It is for her own good... Marth, once you’ve obtained all the treasures, head to the room to the left. I will be waiting for you...
+^end
+
+@Recruit-Talk 
+%Marth,Tiki 
+Marth: Tiki!? Are you alright...
+Tiki: Uh...
+Marth: Tiki, it's me, Marth. Hey, open your eyes!
+Tiki: ...Marth... .....! Oh Marth!! You came! You came to see Tiki!!
+Marth: Yes, I hadn't seen Tiki in a long time. Are you feeling well?
+Tiki: Uh... No. The bishop told me that I had to sleep again. But I don't want to... Because when I sleep I'm always alone. During my sleep, I dreamt many nightmares. There, I became a wild dragon, like those poor Fire Dragons and Ice Dragons. I attacked humans, and I killed them. No... No... When I awoke I was all alone in the dark room... I felt so strange, but also very scared... So very scared... But I couldn't leave that room. I cried many times, and then Uncle Bantu would come to comfort me as usual. One day he took me away, and took me to a human village. Living in that village was very fun, and everybody treated me well... In the short time, until I was discovered by Gharnef, I felt really happy. I don't want to sleep anymore... I feel that if I close my eyes once more, I will be unable to open them ever again. I don't want that. I want to live with everyone, I don't want to sleep again!
+Marth: Tiki, it's alright now. I will protect you, so don't cry...
+Tiki: Really...? I won't need to see those scary dreams again!?
+Marth: That's right! Once the shield is restored, Tiki can live together with the rest of us. Don't worry, believe in me!
+Tiki: Ah! I'm so happy!! Thank you, Marth!
+
+@Recruit-Battle 
+Tiki: Huh...? Who... who are you...?
+
+Tiki: ...Ah... Mar...Mar...
+
+@End 
+^start 
+Gotoh: I see... So Tiki was pretty happy. It must have been very painful for her. Though it was to protect her, I was far too cruel to her. I suspect she must really hate me... You should go, Marth. I will send you to Altea with my powers.
+
+Gotoh: You should go, Marth. I will send you to Altea with my powers.
+^end
+Marth: Lord Gotoh, why don't you come with us?
+Gotoh: Hmm... At the moment I've one thing I must still investigate. Gharnef has returned.
+Marth: Gharnef...!? But we killed him!
+Gotoh: Yes, you killed his body. But his soul was held prisoner by the Darksphere, and within it, his hatred only grew. Afterwards, his former disciples--the heretic bishops--resurrected him. And they seem to be planning something foul.
+Marth: I see. Very well, Lord Gotoh. We shall split ways here.
+Gotoh: Indeed. If I find something, then I too will visit Altea afterwards. I'm counting on you, Marth. Everything rests on your shoulders. You must save both our races from the path of destruction.
+
+#avatar-F
+Kris: ...Altea, home at last. Though you may be occupied by Archanea... I will get you back, I swear.
+Xane: Boy, what a serious lady. Hey, Kris. You said you're Marth's Royal Guard, right?
+Kris: Yes. My mission is to protect Prince Marth.
+Xane: I see. But if you really plan on protectin' him, then you need the strength to match your conviction. Hey, do you wanna know a way to get stronger?
+Kris: Hm? You know of a way?
+
+#avatar-M
+Kris: ...At long last, Altea. My dearest home... Archanean occupation be damned; I will get you back, I swear it!
+Xane: Boy, what a serious fella. Hey, Kris. You said you're Marth's Royal Guard, right?
+Kris: Yes. My mission is to protect Prince Marth at all costs.
+Xane: I see. But if you really plan on protectin' him, then you're gonna need the strength to back up your conviction. Hey, do you wanna know a way to get stronger?
+Kris: Huh? Do you know how to?
+Xane: 'Course, just hold on a second.
+Xane: Ta-da! Kris, you know about Tiki, right? Tiki's still a kid, but the real reason she can fight is because of her hairstyle and tiara.
+Kris: Wait, what?! Are you serious?!
+Xane: Yeah, if you wear your hair like this, then you'll be that much stronger. So all you gotta do is wear this tiara, and wear your hair like Tiki. If you do that, then a legendary power will flow through you! ...Well, maybe. So? Do you wanna give it a try?
+^start 
+Kris: Sure, why not?
+Xane: Alrighty then. I'll be sure to do this properly.
+Kris: Thank you, Sir Xane!
+Xane: ......You aren't doubting me? Is this trust or naivete...?
+Kris: Is something the matter, Sir Xane?
+Xane: Ah, no, it's nothin'. Well, see you around. I'm looking forward to your new look!
+
+Kris: No, that's quite alright. I want to protect Prince Marth with my own strength.
+Xane: Hmm, that so? Boring.
+Kris: Huh? What do you mean "boring"?
+Xane: Ah, no, it's nothin'. Catch you later!
+^end

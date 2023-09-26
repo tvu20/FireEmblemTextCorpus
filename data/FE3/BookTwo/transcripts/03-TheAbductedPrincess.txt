@@ -1,0 +1,73 @@
+@Opening 
+Once upon a time, the region of Macedon was a territory under Dolhrian rule. A century ago, the dragonkin rulers sent many slaves to these wild forests, to excavate ruins and build a country. Many slaves were forced to work to their limits, barely fed, and then slaughtered.
+A young man stood up against such tragic conditions. Iote was his name. He and his companions fled to the forests and fought, astride wyverns, to free the slaves. After Dolhr's demise, the slaves established their own country in these now abundant lands. And the hero Iote was chosen as their first king. And so was born the Kingdom of Macedon, later feared as the domain of dracoknights.
+However, the might Macedon was stripped of Prince Michalis, said to be the second coming of Iote, and is now on the brink of losing Princess Minerva, the so-called "Red Dragon."
+
+@Intro 
+Palla: Julian, good news! Catria finally brought the Altean army for us! We're going to join their ranks to help save Princess Minerva. Please take Lena and escape to safety, quickly!
+Julian: No can do, Palla. Lena's disappeared... I'm not leaving by myself.
+Palla: What? Lena as well... Princess Maria is missing too; why is it only clerics...?
+Julian: Anyway, I'm staying in the village to see if I can't find any information. Sorry, Palla. Give my best to Prince Marth.
+
+@Visit 
+Villager: This is just between you and me, but I heard that armory is in league with the rebels. If you're going to enter you should be careful not to get jumped.
+
+Villager: I wonder what's going to happen to Macedon? They say that Prince Michalis is dead, and Princess Maria is nowhere to be found... On top of that, they say that Princess Minerva has been captured and that her life is in peril. I just hope... that this country doesn't end up like Grust...
+
+Villager: You know, a little while ago, a paladin came here; said he was on a journey. He was wearing a mask, but I'm sure that underneath, he was a good person. He was kind, yet wrapped in a veil of sorrow. I wonder if I'll ever see him again...
+
+Villager: The pegasus knight trio must be lonely without Est. And I was such a fan of their "Triangle Attack!" too... Oh, Est... Come home already, will ya?
+
+Villager: Have you noticed the large drawbridge behind this village? Normally it's separated by the river, but if you use this key here, you can cross the bridge. Just, once you cross the drawbridge, the enemies on the other side will come and attack you at once. If you want to advance safely, you might be better off taking the long detour that goes right around the mountain. Here, take the key. No matter which path you take, do take care of yourself, m'kay?
+
+@Recruit-Visit 
+Julian: Hey, Prince, it's been a while, hasn't it? It's me, Julian!
+Marth: Julian? I'd heard that you'd gone to Macedon with Lena, but to think we'd cross paths here... How is Lena? Of course, she's with you, right?
+Julian: Well, er, how should I say this... Lena suddenly up and vanished... I... I don't know what to do.
+Marth: Wait, Julian, tell me what happened, in detail.
+Julian: Lena's been missing since last night. The villagers speak of some sort of strange priest prowling around lately. It seems that somehow, Lena was taken by this man.
+Marth: A priest...? Julian, as it turns out, Princess Maria has gone missing as well. I have a terrible feeling about this. Anyway, staying here won't solve anything. Come with us. I'm worried for Lena, too. We'll all help to look for her.
+Julian: Prince Marth... Thank you. Nothing would please me more.
+
+@Recruit-Talk 
+%Julian,Matthis
+Julian: Hey! Cut it out. Why must you always insist on pointing your sword at us? I pity Lena for having to put up with your stupidity.
+Matthis: Oh, it's you, Julian. Are you still trying to worm your way into Lena's good books? No way, I won't hand my cute lil' sister to a thieving rat like you.
+Julian: You can relax... Lena and I would never work out. But even if it's just a little, I wanted to help her in any way I could.
+Matthis: Ooh, you finally realized where you stand. Attaboy, Julian!
+Julian: Er, that's not the kind of thing I want to be hearing from you... Well, whatever. If you're worried about Lena, then come with me.
+Matthis: Oh, alright, thanks. You see, they forced me to join the rebel army, but you know I hate fighting. Alright, lil' brother. Let's join forces and look for our cute lil' Lena!
+
+@Recruit-Battle 
+Matthis: Lena... Where are you? What I would give to hear your voice just once before I die...
+
+Matthis: Lena... F-forgive... your foolish big brother...
+
+@Boss 
+Rucke: D-damn it... Why is the Altean army here...? You're all going down with me. Die!
+
+Rucke: The Altean knights... As I expected...
+
+@End 
+Jagen: Sire, the rebels have fled the castle, but I regret to inform you that Princess Minerva was nowhere to be found.
+Marth: What could have happened? She was supposed to be held inside the castle...
+Lang: Oh-hoh, I knew this task was unworthy. Excellent work, Prince Marth. We'll take care of Macedon from here. Now, let us discuss your next mission.
+Marth: General Lang, what in the world do you want this time?
+Lang: Well, you see... My castle was attacked and the Grustian prince and princess were kidnapped. The perpatrator fled to Macedon, it seems. Prince Marth, you are to capture him and return the children to me!
+Marth: You're asking me to send those children to their doom!
+Lang: You're in no position to defy me. Now, off to work you go, my prince.
+Kris: You...! Your rudeness towards my liege has gone too far...! Shut up! Prince Marth is not your minion!
+Lang: What did you say?! Know your place, Altean soldier! Marth, it seems that your countrymen are devoid of manners!
+Marth: ...I apologize on his/her behalf. But it is as Kris says: General Lang, I will no longer follow your orders from here.
+Kris: Sire...!
+Lang: What! Do you mean to defy my orders?! I see... I see. As I suspected, it was YOUR doing. The person who kidnapped Grust's prince and princess was the mercenary, Ogma. On your orders, no less!
+Marth: I didn't know of this. But if I had the choice, I would have done exactly as you suggested. Back at Grust, even though they were meant to be our enemies, I should have helped those children.
+Lang: You! You clearly speak words of treason! Perhaps I should report this to the Emperor!
+Marth: Do as you will. But you're not the only person who intends to visit the palace. I will speak to Emperor Hardin and Princess Nyna and inform them of your crimes. Forgive me, Jagen. But I cannot stand for this any longer.
+Jagen: I understand. You have endured well until now. Lang, my liege might forgive your frequent rudeness to him, but I will not. Come, draw your sword. Even though I, Jagen, am old and senile, I will not lose to the likes of you.
+Lang: Wh... what did you say?! Damn you... I'll remember this!! Once the Emperor gets wind of this, I'll crush your puny little Altea!
+Marth: Jagen... you're a bag of surprises. To think you'd stand up against Lang like that.
+Jagen: Sire, are you underestimating me in my old age? Bwahaha... I'm not about to let youngsters like Kris hog all the glory just yet. Still, I'll admit it was somewhat foolish to contest with Lang, even if he did push my lord at every turn.
+Kris: Sire, Sir Jagen. What is our next plan of action?
+Marth: According to Lang, Ogma is on his way to Macedon. He probably intends to visit the village where Lord Wendell resides.
+Jagen: Understood. But, I worry about Lang... I pray that nothing bad shall happen...

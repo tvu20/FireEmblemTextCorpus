@@ -1,0 +1,70 @@
+@Opening 
+Seeking the Lightsphere, Marth and his friends headed for the Tower of Thabes.
+
+Thabes is an ancient city buried under the sands, along with many treasures. The legend of Thabes, city of illusion, lured many adventurous men to the desert. However, in the end... not one of them ever returned. As the sages once said... stay clear of Mamorthod, the desert of death. There lies the cursed Dark City.
+
+@Intro 
+^locked 
+Marth: Huh...? W-who's there?
+Kris: Sire, it's me, Kris.
+Marth: Oh, it's just you.... You had me startled for a moment. Especially with that mask on you...
+Kris: Is it that strange?
+Marth: Well... perhaps a little. Do you mean to fight like that?
+Kris: Yes.
+Marth: I-I see.
+^end 
+
+Marth: Jagen, where in the world are we...?
+Jagen: This is the path depicted in the Anri Saga. The first obstacle in Anri's Way: the Desert of Death. With its scorching sun, raging sandstorm, savage clansmen of the sands and wyverns that soar and dominate the skies. As the city of illusion shimmers in the distance, we can only stand and gaze... Or so the legend has it.
+Marth: So Anri came through here as well. And by himself, too...
+Jagen: That's right. Your ancestor and Altea's founder, King Anri... To save Princess Artemis, he set out on a journey to seek the Divine Blade Falchion.
+Marth: King Anri was strong. I wouldn't be able to cross through here alone. I'm truly grateful to those who offered to accompany me through this desert.
+Kris: I think everybody wishes to follow you, sire. Everyone wants to be with you. Wherever you go, they will follow. That's what I believe. It's because of your kindness, sire.
+Marth: Thank you. I don't have Anri's power. But I have all of you. Wonderful companions like you, Kris. That's how I can keep going. Let's go, Kris.
+Kris: Understood.
+
+@Recruit-Talk 
+%Caeda,Jake 
+Caeda: Jake! What are you doing all the way out here...?
+Jake: Is that you, Caeda? Hey, long time no see. I'm here to meet my beloved Anna.
+Caeda: Huh? Anna lives in a place like this?
+Jake: Oh, you didn't know? Anna's running a secret shop out here. It's a tiny bit troublesome coming here, but y'know, love conquers all barriers! Your turn Caeda. What're you doing in the desert?
+Ceada: Listen, Jake. We're fighting for the peace of the continent again. Could you help us, like old times...?
+Jake: I dunno, I kinda lost my ballista, so I doubt I'd be much use to you.
+Caeda: That's not true. You'd help us a lot just by being there...
+Jake: Aw, shucks. How could I say no when you say it like that? I bet Anna's worried about the war too. Alrighty, I'll join you then.
+
+@Recruit-Battle 
+Jake: What?! M-more bandits?
+
+Jake: Anna... I'm... sorry...
+
+@End 
+Tiki: Mar-Mar!! It's been aaages. It's me, Tiki! I've wanted to see you for so long.
+Marth: Huh... Tiki?! You came to welcome us? Oh, I see... you've been living with Lord Gotoh, haven't you?
+Kris: Sire, do you know this little girl?
+Marth: Yes. This is Tiki, a companion of ours during the war. Tiki was a great boon to our cause. She mowed down legions of enemy dragons with her tremendous power.
+Kris: What?! This little girl did that...?
+Marth: But you've certainly grown since last time. I'm glad to see you're well.
+Tiki: Yeah... But I was so lonely. 'Cause you never came to see me...
+Marth: I'm sorry. But I could never forget about you. I had intended to invite you back to Altea once things had calmed down.
+Tiki: Mar-Mar... I... I love you!
+Marth: What......?!
+Xane: ...Gotcha!
+Marth: Xa... Xane!!!
+Kris: What the...?! T-the little girl is now a man!
+Xane: Oopsy daisy. Took you by surprise, didn't I? Particularly you over there, newbie. I'm Xane. A friend of Marth's. Transformin' into other people's a special ability of mine. Hey princey, my Tiki impression was pretty darn tootin', wasn't it? Did I provide some comic relief? Well, shall we get goin'? You wanted to see Lord Gotoh, right?
+Marth: Xane, how do you know Lord Gotoh? Just who are you?
+Xane: Well, lemme see. I don't think that really matters right now. Hey, put that jaw back in place and follow me.
+
+Marth: Kris, I noticed you fighting with that mask on.
+Kris: Yes. The desert sun was strong, but it acted as a shield. Nevertheless, I suppose there's little point in wearing it now.
+Marth: I see. Are you going to remove it then?
+^start
+Kris: Yes. I think I shall.
+Marth: Yes, that's probably a good idea.
+
+Kris: No. I'll keep fighting with it on.
+Marth: I-is that so...? Does it not bother you in any way?
+Kris: Not at all. I can fight just fine with it on.
+Marth: I-I see. Well, if that's what you've decided then I have no problems with it.

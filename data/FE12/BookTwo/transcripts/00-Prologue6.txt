@@ -1,0 +1,113 @@
+@Intro 
+Luke: Hmmm...
+Ryan: What's the matter now, Luke?
+Luke: Guys, guys, guys, I need an opinion! How's my hair look?
+Roderick: Your... hair?
+Luke: I'm a soldier of love, seeking out only the most beautiful women, but I... haven't gotten any dates yet.
+Katarina: I'm sorry to say, most of the girls here think of you as small fry. I mean, people think Ryan is a "cutie," or Roderick is "Ohmigosh, so cool!" Quite a few people seem to secretly lust after Kris too.
+Luke: Exactly! I didn't get it at first. I thought, "what am I doing wrong?" That's when I realized: it's my hair!
+Kris: I'm not sure what leap of logic led you to that particular conclusion...
+Luke: Well, for example, I'll fix up my hair like you do! And then...
+
+^start 
+#avatar-F
+Luke: They'll see me as brave... and beautiful, just like Kris, right?
+Roderick: Err... Luke, you're a guy. How does mimicking Kris automatically make you gallant...?
+Katarina: Luke, maybe if you did something about that attitude of yours, you'd be more popular. Oh, it's time. Apparently, today, Sir Jagen wishes to have a word with us before training.
+
+Luke: My feminine grace'll win hearts, just like Kris!
+Ryan: Your "feminine grace" is scaring me actually...
+Katarina: Luke, maybe if you did something about that attitude of yours, you'd be more popular. Oh, it's time. Apparently, today, Sir Jagen wishes to have a word with us before training.
+
+Luke: N-no, let's not actually. The girls would run away in fear if I had Kris's hairdo...
+Kris: ...How rude! What's wrong with my hair, exactly?
+Katarina: I-I think your hair looks great, Kris... Oh, it's time. Apparently, today, Sir Jagen wishes to have a word with us before training.
+
+#avatar-M 
+Luke: They'll see me as brave... and handsome, just like Kris, right?
+Roderick: Not possible...
+Katarina: Luke, maybe if you did something about that attitude of yours, you'd be more popular. Oh, it's time. Apparently, today, Sir Jagen wishes to have a word with us before training.
+
+Luke: They'd see me as gentle and quiet, like softly falling rain! Just like Kris, right?
+Ryan: Umm... If you say so?
+Katarina: Luke, maybe if you did something about that attitude of yours, you'd be more popular. Oh, it's time. Apparently, today, Sir Jagen wishes to have a word with us before training.
+
+Luke: N-no, let's not actually. The girls would run away in fear if I had Kris's hairdo...
+Kris: ...How rude! What's wrong with my hair, exactly?
+Katarina: I-I think your hair looks great, Kris... Oh, it's time. Apparently, today, Sir Jagen wishes to have a word with us before training.
+^end 
+
+@Intro 
+Jagen: Three months have passed since you first came here. During this time, I've witnessed many a platoon desert because they couldn't stomach the harsh training. Not to mention platoons that failed due to miserable results... Of all who remain, there are only twenty names.
+Katarina: Eep, the requirements are incredibly strict!
+Kris: True. But we still remain in the game. That's what matters. As long as we keep working hard...
+Jagen: From now on, the practical training will be far more gruelling. As such, we will be introducing lectures to advise you.
+Kris: Lectures?
+Frey: I am Frey, the knight in charge of lecturing. In my lectures, you will learn essential knowledge that all knights should possess.
+Jagen: From here on, this is the real thing. Prepare to be pushed to your limits.
+
+Frey: Now, firstly, I'll talk about the preparations you need to make before a battle. Before you fight your enemy on the battlefield, you must ensure that you are sufficiently prepared.
+Frey: Selecting those who will fight, organizing their weapons and items... Kris, you will do all these things, as part of your role as commander.
+Kris: I understand. I'll do my best.
+Frey: One more important thing: Pay attention to party members who wish to speak with you. Talking to your party members will often yield tactical advice. The more stars displayed, the more important a conversation is. When you come to a new battlefield, it's always a good idea to check if anybody has something to say.
+
+@Battle 
+^start 
+Cain: Well then, let us begin today's mock battle. From here on, I will prepare an instructor based on your performances until now. The 7th Platoon's opponent, today, is...
+Draug: I am Draug, armor knight of Altea. Your opponent is none other than me.
+Katarina: Draug is an armor knight famed for his sturdy defense. Kris, he'll be a formidable enemy.
+Draug: These soldiers are your opponents. You must defeat all of them if you wish to fight me.
+
+Cain: Well then, let's begin today's practical training! Your opponents from here on will be the toughest yet, so show me that fighting spirit of yours! The 7th Platoon's opponent, today, is...
+Ogma: I will serve as your opponent.
+Katarina: What? We-we have to fight Ogma...? Kris, Ogma is a hero from the last war... He'll make for a formidable enemy.
+Ogma: The soldiers here will be your opponents, first. If you defeat all of them, I'll step up to fight.
+^end 
+
+Cecil: Huff... puff... I-I made it. Hey, where's this Commander Kris person?
+Kris: That would be me, but who are you?
+Cecil: I'm Cecil, a junior knight like you! I know it's very sudden, but I was invited by Katarina to join your group.
+Kris: ...Very sudden indeed. But, the more the merrier. Could we talk after the battle?
+Cecil: Sure, I'm glad you understand. Oh yeah, I brought along some strong weapons that Katarina prepared for you! Just give me the orders and I'll give you them to replace your worn out ones.
+
+^start 
+Draug: You're not bad at all. But I won't be beaten so easily.
+
+Ogma: Not bad. As promised, I will fight.
+^end 
+
+@Boss 
+Draug: I keep hearing about your abilities. Please, allow me to judge for myself whether or not you're the real deal.
+
+Draug: S-so you managed to penetrate my armor...
+
+Ogma: Don't think of this as simply training. Come at me without restraint!
+
+Ogma: ...Not bad. That's quite some skill you've got.
+
+@End 
+^start 
+Draug: How...? Even my defense couldn't withstand such a tremendous onslaught. Commander Kris, if you have need of an armor knight's strength, you may call on me.
+Katarina: We did it, Kris! Good job!
+
+Ogma: Such great power. Looks like Altea is blessed with good knights. Kris, if you have need of my power you need only ask.
+Katarina: We did it, Kris! Good job!
+^end 
+
+Katarina: Excuse me, Kris, do you have a moment?
+Kris: Huh? Of course. What is it?
+Katarina: That Royal Guard position that Prince Marth offered us. Did you think about it? I... I'd like to be a Royal Guard, if you're in with me. Together, we'd be an unstoppable team... When I imagine a future like that, I feel very happy. ...Um, what about you, Kris? Do you, perhaps, feel the same as I...?
+
+^start 
+Kris: Um, I'm sorry. I haven't really thought about it yet...
+Katarina: ...I-is that so? Yes, I... So it was just me after all... I'm sorry. Good night, Kris.
+
+#avatar-M 
+Kris: Yeah, I think it would be nice.
+
+#avatar-F 
+Kris: Yes, of course.
+^end 
+
+@End 
+Katarina: R-really? I'm so glad... Well, this is a little awkward... I should get to bed. Good night, Kris. Good luck for tomorrow.

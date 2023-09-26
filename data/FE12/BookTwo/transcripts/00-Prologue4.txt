@@ -1,0 +1,98 @@
+@Intro 
+Luke: Sigh.
+Ryan: What's wrong, Luke?
+Luke: Don't you think it's a crying shame that there aren't any cute and caring clerics around?
+Ryan: W-what do you mean...?
+Luke: Well, a knight thrives on romance, right? Like if I were wounded in battle, and a lovely cleric came to my aid... Hey, Kris the Ordinary. If we had a cleric like that with us, I bet we'd all fight twice as hard!
+Kris: Well, I don't know about the romantic part... But it would make our lives easier if we had a healer on our side. Unfortunately, I don't think there are any healers around, Luke. It might be a good idea for us to ask someone for assistance on this matter.
+
+Katarina: Kris, everyone, please listen. I bring good news. They've found us someone who can support our platoon! It appears we might be joined by a healer.
+Luke: She's finally here! My lovely cleric! Out of my way! Let me at her!
+
+Wrys: Pleased to meet you! I am Wrys, a humble curate. I cannot fight, but this staff I carry can heal your wounded.
+Luke: ........
+Wrys: Yes, yes, I heard the whole thing from Sir Jagen. If you like, I could lend you my services as a healer. ...Oh my, has something terrible happened? Your face looks awfully pale... Have you been taken by illness, my boy?
+
+#avatar-M 
+Kris: It's nothing... He's just overwhelmed with joy right now.
+
+#avatar-F 
+Kris: Ah, no, it's nothing... (Be careful what you wish for, Luke!)
+
+@Intro 
+Katarina: Pay no heed to Luke; we're all fine. Pleased to make your acquaintance, Wrys.
+
+Cain: Well then, let's continue the combat training. Everyone, you had better be prepared! I've decided that you will have a rather unusual instructor for today's practical training.
+
+^start
+Cain: This is Miss Athena, a foreign myrmidon who helped us in the last war.
+Athena: Ve are indebted to this country, and ve vish to return the favor. Any voman would do the same. Ve are bad at teaching. But if ve are using swords, ve will not lose.
+Katarina: Athena is a myrmidon with excellent speed and an opponent whom you must be very cautious of. Kris, do your best!
+
+Cain: This is General Jeorge, who is visiting from the kingdom of Archanea.
+Jeorge: I came to instruct Gordin in archery, but once I heard your story, my curiosity was piqued, to say the least. So I asked a big favor: to be allowed to take part.
+Katarina: Sir Jeorge... A true master of the bow and arrow, they call him greatest archer on the continent. Kris, do your best!
+^end
+
+@Boss 
+Athena: Ve vill challenge you!
+
+Athena: ...Ve give up.
+
+Jeorge: I am Jeorge, a bow knight of Archanea. Let me see how you fare in battle.
+
+Jeorge: ...That was magnificent...
+
+@End 
+^start
+Athena: You are strong. Especially you. You, vat is your name?
+Kris: The name's Kris. Junior knight Kris.
+Athena: Kris... Ve vill remember that. You, you are our friend. Ve vill aid you if you vant.
+
+Jeorge: Not bad at all. That was a splendid fight. You, what is your name?
+Kris: The name's Kris. Junior knight Kris.
+Jeorge: Kris... I'll remember that name. I'm afraid I cannot join your cause, but... Gordin, could you go in my stead?
+Gordin: Yes sir. I'll gladly fill in for you.
+Jeorge: Kris, you are someone I'd like to fight alongside one day. I look forward to the day we can meet again.
+^end
+
+Cain: Today's training is now over. With that, I shall give you an interim report.
+Kris: Interim report...?
+Cain: From the very first test until now, I have evaluated your manner of combat. The more of your allies that have been injured and forced to withdraw, the poorer your score. Get ready to listen up!
+Kris: Yes sir.
+Cain: Commander Kris of the 7th Platoon! Of the twenty junior knight platoons, you place...
+
+^start 
+Cain: First! Wonderful work, Kris! You are most talented!
+Katarina: A-amazing! We did it! We did it, Kris! It's all thanks to you, Kris.
+Cain: But don't let your guard down. Placing first doesn't give you an excuse to start slacking off. That is all! You may return to the castle!
+
+Cain: Third! Impressive, Kris! I'd say that you've placed rather high.
+Katarina: We did it! We did it, Kris! It's thanks to you, Kris.
+Cain: But don't let your guard down. You are still in-training--so from now on, you must aim even higher. That is all! You may return to the castle!
+
+Cain: Tenth. Just in the middle, Kris. I've got nothing good to say, at this rate.
+Katarina: I'm sorry, Kris. It's because I can't do anything...
+Cain: But don't give up. You are still in the middle of training, so I expect more effort from now on. That is all! You may return to the castle!
+
+Cain: Last... Kris... None placed worse than you...
+Katarina: I, I-I'm terribly sorry, Kris... It's because I can't do anything...
+Cain: ...But don't give up. You are still in the middle of training, so from now on try as hard as you can. That is all! You may return to the castle!
+^end
+
+Kris: ...Wow, this castle is absolutely massive. It's a huge difference to the house in my hometown... Now, where were the 7th Platoon's chambers again...?
+Elice: Oh my... You are a junior knight, are you not?
+Kris: Ah, yes. I'm Kris. I came here hoping to become an Altean knight. And you are...?
+Elice: I am Elice. Marth's elder sister.
+Kris: Oh! Prince Marth's elder sister... Please excuse my lack of manners.
+Elice: It's alright, Kris... I think it's very admirable that you've come to help Marth.
+Kris: It is an honor to serve Prince Marth, the Hero King.
+Elice: "The Hero King"... you say? It does seem that our people have grown fond of calling him that. But the truth of the matter is that Marth... Marth is just a weak, vulnerable child...
+Kris: Prince Marth is weak...?
+Elice: Yes. Of course, he was the hero who triumphed in the battle against the Shadow Dragon. However, behind his heroic face, Marth is an idealistic child who firmly clings on to his beliefs. And as you too must know, the real world... cannot be saved with just ideals.
+Kris: Yes...
+Elice: Even as we speak, somewhere unknown to us, our people's lives are being lost... Marth cannot save those people.
+Kris: Yes, that's true... Even the most excellent of kings is not an omnipotent god. A king is no more than human, and there are limits to what he can do.
+Elice: Yes. Precisely. Most people realize this and can come to terms with that reality. But Marth cannot do that... He truly thinks that he can save everyone. In war, losing just one companion is unbearable for him... He suppresses his feelings with all his willpower, but I know that inside, his heart breaks and bleeds...
+Kris: ......
+Elice: In this cruel world, it will become increasingly difficult for him to continue to hold these ideals... Kris, if some day you should achieve knighthood... Please, protect him somehow and keep his ideals safe...

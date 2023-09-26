@@ -1,0 +1,37 @@
+@Opening
+Khadein is an independent city-state, taking orders from no foreign nation. The Archmage has many pontifices under him, governing according to their counsel. In the previous war, Pontifex Gharnef allied with Dolhr and dragged Khadein into war, and the city suffered great damage as result. As Khadein had lost all its pontifices, Wendell became its Archmage and started rebuilding the city. However, Wendell left on a journey to fulfill a mission given to him by Gotoh. He then left Khadein in the care of two young men. They were two skilled and promising young mages... Merric and Arlen.
+
+@Intro 
+Arlen: Merric. It's time to put an end to this.
+Merric: Wait, Arlen! Why do we have to fight? We were both Master Wendell's pupils: we're friends, are we not? Why do you despise me so?
+Arlen: I was Master Wendell's disciple before you, and I was the stronger one. Even so, Master Wendell gave you Excalibur. He should have given it to me! Clearly, I was the only one worthy to be his successor, yet he...
+Merric: But I have no intention of succeeding Master Wendell. I hold no ill feelings for Khadein, but once I finish studying I plan to go home. Back in Altea, there is somebody I must protect for the rest of my life... So, Arlen, please! Why don't you join us so we can take back Altea?
+Arlen: Altea, you say?! Why should we help a country that rebelled against the empire and attempted to invade their fair nation? The mage corps of Khadein have sworn allegiance to Emperor Hardin. Oh, I see... I knew it was you... YOU dragged the Altean army here!
+Merric: No!! That's not how it is!
+Arlen: Shut your mouth, traitor!! I won't listen to your lies any longer! Your Excalibur and my Thoron; we'll put them to the test!
+
+@Recruit-Talk
+%Wendell,Arlen
+Wendell: Arlen! What are you doing?!
+Arlen: Master Wendell...
+Wendell: You still don't understand my decision, do you? Indeed, as a mage, your power surpasses mine. But you lack compassion. That is why I did not grant you Excalibur.
+Arlen: ... Compassion...?
+Wendell: I had decided that you were to be my successor when the time came. To think you would harbor a grudge towards me... Does that not make you the same as Gharnef?
+Arlen: The same as Gharnef...? Teacher! What are you saying?
+Wendell: Arlen, listen to me... Gharnef, along with Pontifex Miloah, were Lord Gotoh's best pupils. But Lord Gotoh saw Gharnef's weakness, and so he left Khadein and the Aura tome to Pontifex Miloah. Gharnef, overcome by jealousy, stole the Darksphere from Lord Gotoh, and created the Imhullu tome. As a result... His heart was trapped within the Darksphere for all eternity. Wrath and envy led him to ruin. Do you understand now, Arlen...?
+Arlen: ...Teacher... ...Teacher! I'm so sorry. I... I was wrong. Please... find it in your heart to forgive me!
+Wendell: Arlen, you will use that power of yours for the good of the people. Understand?
+
+@End 
+Gotoh: Marth... Do you hear me?
+Marth: Lord Gotoh! Yes, I can. You are speaking to me through magic, are you not? Lord Gotoh, I must ask: what has happened to cause Hardin to suddenly change so much?
+Gotoh: Hmm... The Darksphere is the culprit... Hardin's soul is trapped within the Darksphere...
+Marth: The Darksphere? What on earth is that?
+Gotoh: Light, Star, Earth, Life and Darkness... In this world, there exist five sacred orbs. The Darksphere is that which complements the Lightsphere; in battle, it possesses the enemy's mind, negating their attacks. But the Darksphere also amplifies wrath and envy, and can turn their owner into a demon. Hardin must have obtained the Darksphere from somewhere... And now his heart has been lost to it.
+Marth: But why? He should have been happy after his union with beloved Princess Nyna, so why the envy?
+Gotoh: Prince... Humans are never simple creatures... In any case, the only object that can overcome Hardin's Darksphere is the Lightsphere. If you want to do something about him, then you had best come and get it from me.
+Marth: Huh? Really, Lord Gotoh? If we have the Lightsphere, then we can save Hardin?
+Gotoh: Well... If his heart is not completely consumed, then perhaps.
+Marth: Lord Gotoh! Please, lend the Lightsphere to me.
+Gotoh: If you come in person to the Ice Dragon's Temple where I reside, then you shall have it. But that will be no easy task. So, Marth. Do you have the courage to walk the path that Anri walked?
+Marth: Yes, I do! I will go!! Please, allow me to go! I must have the Lightsphere!

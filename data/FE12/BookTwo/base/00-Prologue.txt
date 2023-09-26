@@ -1,0 +1,78 @@
+Frey: Today's lecture is about Archanea's most valued treasure, the "Fire Emblem."
+Kris: The "Fire Emblem"... I hear Prince Marth fought the last war with it in hand.
+Frey: That's right. In the previous War of Shadows, the abominable shadow dragon, Medeus, invaded Archanea. Archanea was crushed by Medeus's troops, and House Archanea was wiped out, save for Princess Nyna. And it was Princess Nyna who entrusted Prince Marth with the proof of Archanean royalty: the "Fire Emblem."
+Nyna: Then let me give you this. This crest is called the Fire Emblem. House Archanea bestows it only upon a true champion, one we believe has the power to save the world.
+Frey: Therefore, our connection with Archanea runs very deep. Don't forget that.
+
+Katarina: Oh, Kris! I'm going out for a bit.
+Kris: Katarina? Why are you in such a rush?
+Katarina: I've found someone in another platoon who could join us. I'm off to talk to her. She's called Cecil. I can vouch for her ability. All of her comrades have deserted, and it seems she's in a pickle, now that she's all alone.
+Kris: Right, I see. In that case, I'd be happy if she joined us. Sir Jagen did say our battles are going to become fiercer from now on. We need manpower--every soldier counts.
+Katarina: Yes, I'll do my best. Also, I'm hoping to bring along some powerful weapons as well.
+Kris: Weapons? Can you get them?
+Katarina: Err, the truth is... I have some secret connections. I can't get them ready right now, but I'll do my best so they'll be available for your next battle, Kris.
+Kris: I don't really get it, but... You're not getting involved with anything dangerous, are you? You needn't go so far.
+Katarina: It's alright. Please leave it to me. I want to help you, Kris, any little that I can. Well, I'll be off now.
+
+Kris: Kris, reporting. Sir Jagen, did you call for me?
+Jagen: Relax, it's nothing serious. You said your name is Kris. Where did you learn how to fight?
+^start
+Kris: ...I was originally a merchant's son/daughter, but later my parents divorced...
+Kris: ...I was originally a priest's son/daughter, but then my parents died...
+Kris: ...I was originally an orphan; I was picked up when still a baby.
+Kris: ...I was originally from the country.
+Kris: ...I was originally a noble, but I left the castle due to family circumstances...
+^end
+Kris: Since I was young, I've been living in a small village named Sera, together with my grandfather. He was the one who trained me. Grandfather was very strict, and worked me to the bone, every day. Many times, I thought I was going to die...
+Jagen: What's your grandfather's name?
+Kris: His name was MacLear. I heard he was once a knight of Altea.
+Jagen: MacLear? I see. You must mean Sir MacLear...
+Kris: Were you acquainted with my grandfather?
+Jagen: Yes. Kris, your grandfather was an old friend of mine. He left the front lines due to injury, but his loyalty to House Altea was unmatched. I see. So Sir MacLear trained you hard and well so you could become a knight of Altea.
+Kris: "Kris, become Altea's sword. Acquire unbreakable power and loyalty." That's what my grandfather used to say when he was still alive. I grew up with his wish in mind.
+Jagen: I see. I understand your strength now. You are amazingly capable. The lads who will themselves to battle these days don't have that much power. Clearly, that's the result of hard training from an early age. Kris, I ask you too. Never stop tempering your skills. Your power is sure to be of use to Prince Marth.
+
+Frey: Continuing from the previous lecture, today's lecture is about the Kingdom of Archanea. Today is an exceptional day, for Prince Marth will speak to you. If you would, sire.
+Marth: Archanea, was it? The Kingdom of Archanea is technically Altea's suzerain nation. Princess Nyna is the last of their royal line, and there was debate as to decide who would rule Archanea, but I hear Hardin was crowned Emperor of Archanea soon after.
+Katarina: ... What kind of person is Emperor Hardin?
+Marth: He's a wonderful person. In the previous war, Hardin was a precious ally of ours. As King Aurelis's younger brother, he fought to protect Princess Nyna, who had escaped to the Lea of Aurelis.
+Hardin: Tsk, Princess Nyna would not be pleased to hear us nitpicking over who will be listed in the history books. Take command, so we can oust this Macedonian scum and be done with it.
+Marth: Lord Hardin, thank you. That is an honor. If you don't mind me saying so... I feel as though I've made a good friend. We share the same ideals, I think.
+Marth: Hardin is well qualified to be emperor. If he puts Archanea into order, I'm sure everything will go well.
+Katarina: ...
+
+Cecil: Let me introduce myself again. I am Cecil, junior knight of the former 9th Platoon. I'd like to make it clear that I'll show no mercy for those who underestimate me because I'm a woman!
+Luke: Sigh. I wish our female knight was a sexy, big sister type... When we finally get another girl... Why is it Cecil--the 9th Platoon's infamous violent girl--of all people?
+Cecil: You little... Who's the violent girl!? Take this! And this!
+Luke: Yikes, w-wait! Please don't hit me! B-be gentle...
+Kris: Sorry. I apologize for Luke's rudeness. He can be such a troublesome guy...
+#avatar-F
+Cecil: Commander Kris, I think you and I are going to get along very well. Since I've joined this platoon, I'll fight under you. My life is in your hands.
+#avatar-M 
+Cecil: Good grief. If you say so, Commander Kris. I'm your subordinate from now on, anyway. Since I've joined this platoon, I'll fight under you. My life is in your hands.
+
+Katarina: ... ...
+Kris: Katarina, what are you doing here?
+Katarina: Oh, Kris...!
+Kris: I was looking for you. Let's go, It's almost time for the final test... Huh?! Katarina, why are you crying?
+Katarina: Oh... err... this is... It's nothing...
+Kris: What happened? You can tell me. Did anyone do anything to you? We're friends. I won't let someone who made you cry get away with it.
+Katarina: Kris... No, that wasn't it. I'm... just sad... I'll tell you the reason later... So, let's hurry to the test. I'm alright now.
+Kris: Are you really alright?
+Katarina: Yes... Your feelings alone are enough for me. Thank you, Kris...
+
+Marth: Hello, Kris. It's rare for us to meet at a place like this.
+Kris: Yes, it is, sire. Are you going somewhere?
+Marth: Yes. Beyond here... are the graves where sleep the soldiers who fell during the previous war.
+Kris: I see...
+Marth: My father among them... Many Alteans sacrificed their lives in the previous war. I couldn't save them... That's something I must never forget.
+Kris: Sire... From the day I decided that being a knight was my goal, I was prepared to die fighting. Those who fought in the previous war... Weren't they, too, prepared to give their lives for the kingdom? It's painful, I know, but it isn't something you must brood over alone, sire...
+Marth: ... Thank you. I'm happy to hear that. But I... still feel pain. When my comrades get hurt and fall, I can't help but to feel pain... Even if I'm deluding myself... I don't want to let even a single one of my comrades die.
+Kris: Sire...
+Marth: ...Jagen often tells me that, too. "He who leads people must see the big picture." If one sacrifices few to save many, that was the correct decision to take. I understand that, too. But... I don't want that. Having to sacrifice someone... Maybe I'm unfit to be king... Perhaps it's a naive way to think... But, that's how I really feel. And I can't betray my feelings.
+Kris: Sire...
+Marth: Ah, sorry... I must have confused you by suddenly talking about all this.
+Kris: ... No, I understand. I do understand your feelings, sire...
+Marth: Kris...?
+Kris: I don't want any of my comrades to fall, I want everyone to be alright... I think that, too. Sire... I want to help you accomplish that.
+Marth: Kris... Thank you, Kris.

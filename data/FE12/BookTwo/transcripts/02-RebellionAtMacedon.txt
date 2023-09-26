@@ -1,0 +1,81 @@
+@Opening 
+Leaving painful memories behind, Marth and his companions left Grust. They landed in Macedon; their new mission to rescue Princess Minerva. After the War of Shadows, Macedon was led by Minerva, who exiled the oppressive generals and attempted to reform the military. However, the influential General Rucke opposed Minerva's peace-seeking ways. He assembled the exiled officers to instigate a coup d'etat. Caught unprepared, Minerva was captured by Rucke's followers, and his rebel army seized control of Macedon. Then, they dispatched powerful dracoknights to guard the country's forested borders.
+
+@Intro 
+Jagen: Macedon's main force consists of pegasus knights and dracoknights... Both are fast and highly mobile units. In particular, there are the Whitewings, who fought under our banner in the last war... There aren't many in these lands who could match their terrifying speeds.
+Kris: I would have loved to witness their prowess...
+Jagen: Kris, while we're on the subject of speed...
+
+^start 
+Jagen: Your speed can be summed up as exemplary. Even the Whitewings would have trouble keeping up with you. As I'd expect of an Altean Royal Guard.
+Kris: It is an honor to receive such praise, Sir Jagen.
+
+Jagen: Your speed is satisfactory. But the Whitewings would simply fly straight over you.
+Kris: I see... I'll be more careful, Sir Jagen.
+
+Jagen: Your speed is, sadly, terribly lacking. The Whitewings would probably reach their destination in half your time...
+Kris: I-I see... I-I'll be more careful, Sir Jagen.
+^end 
+
+Anna: Hello there Kris.
+Kris: Hm? You're...? Why do I feel like we've met somewhere before...?
+Anna: Oh, don't worry about little old me. The important thing is that I came here to share a wonderful tip with you. Have you heard about "How's Everyone"?
+Kris: How's... everyone?
+Anna: "How's Everyone" is all the rage! By checking it, you can see how everyone in your army is faring. You can watch your allies train, discover useful items, or even listen to their thoughts... So if you ever want to know how everyone is, then take a look at "How's Everyone." Easy, right?
+Kris: I... see. Thanks, I guess.
+Anna: The more time passes, the more things you'll be able to see. If you ever feel the urge, then go ahead and take a peek! Well, I'll be off now. Buh-bye!
+
+Catria: Prince Marth!! Thank goodness you've come to Macedon!
+Marth: Catria?! I received word that there was a rebellion in Macedon. Are you unharmed?
+Catria: Yes, I'm fine. My older sister Palla and I managed to escape somehow. But Princess Minerva was captured by the rebels. Prince Marth, please... You have to rescue Princess Minerva! At this rate, her life will be in danger!
+Marth: Of course I will help her. Catria, please take us to where she is.
+Catria: Yes, my lord! But first we have to break through these woods. General Rumel's dragon knight squad is lurking within this area. If we approach from the front, we'll be easy pickings for them.
+Marth: I see...So you're suggesting we flank them from the left or right. Thank you, Catria. Leave it to us!
+
+@Visit 
+Villager: Warren's a bit of an idiot. Just 'cause they paid him well, he went ahead and joined the rebel army! Ahh, to think a fool like him was once acquainted with the fair Catria...
+
+Villager: Look out for those pilfering thieves. If they take off with your precious treasure, you won't ever get it back. Never let them escape from your sight.
+
+Villager: Because of the last war, every nation has been forced to lead hard lives. The only well-off country is Archanea, ruled by Emperor Hardin.
+
+Villager: Some dirty thieves took our village treasure, the Lady Sword, and ran off with it. Only women can wield the incredible power of that sword. Please, prise it back from their filthy hands.
+
+Villager: Beware when dracoknights are around. Even from a far-off distance, they can move all at once and swoop down on you!
+
+@Recruit-Visit 
+Cord: O'er here! Prince Marth!
+Marth: You're... Cord! What are you doing so far from Talys?
+Cord: I couldn't sit still when I heard you's fighting again, so I came to join in. We're Talys's mercenaries, right? If ya died, Princess Caeda'd cry. Prince Marth, lemme fight too. I'll join you's army.
+
+@Recruit-Talk 
+%Catria,Warren
+Catria: Warren?! Even a good man like you has sided with the rebel army...
+Warren: Catria the White, huh? It's been a while. You know I'm just a common hunter. If they pay me enough, I'll do anything.
+Catria: Warren, listen to me! Princess Minerva endeavored to create a country where its people could live at ease. She exiled soldiers and generals of ill repute to accomplish that goal. But General Rucke, despite knowing this, roused the soldiers into a coup d'etat. Can't you see? He's just trying to make this country into his own! And you can honestly say you're okay with that?
+Warren: ...I see. Well, I don't like the military acting as if they owned the place... Alright then. If you're going to help the princess, then so will I.
+
+@Recruit-Battle 
+Warren: No hard feelings. I don't have anything against you, but this is the way I live. Forgive me!
+
+Warren: Damn it... I should've seen this coming...
+
+@Boss 
+Rumel: Taste the terror of Macedon's fearless dracoknight squad!
+
+Rumel: General Rucke, I leave the rest to you...
+
+@End 
+Jagen: Sire, we found someone most unusual confined in one of the fortress rooms.
+Marth: Hm? ...Linde! How did you wind up in a dangerous place like this?
+Kris: Sire, do you know this woman?
+Marth: Yes, this is Linde. Her natural talent for magic helped us a great deal in the last war.
+Linde: Prince Marth! Thank heavens. What a pleasant surprise meeting you here. I desperately needed to see you again, so I set out to find you. But the Macedonian soldiers found me suspicious and they dragged me to this fortress...
+Marth: Is that so? I'm glad you're safe. But, why were you looking for me? Shouldn't you be by Princess Nyna's side?
+Linde: I was requested by Princess Nyna to deliver you this.
+Marth: Huh? This...! This is the Fire Emblem! The royal heirlom of Archanea: the Emblem Shield!
+Kris: The Fire Emblem... I heard that in the last war, Princess Nyna entrusted you with it, sire...
+Marth: Indeed. I looked after this as Archanea's representative in the last war. But why give this to me now? Especially at a time when Archanea has so much influence under Emperor Hardin's reign? In this peaceful age, why is Princess Nyna giving me the "Champion's Proof"...?
+Linde: I don't understand either. Princess Nyna didn't explain why, just that I had to give it to you... I remember her eyes seemed so sad... I think she may have been crying...
+Marth: Princess Nyna crying?! What on earth has been happening...? Linde, after this battle ends, I will go see Princess Nyna. Until then, I want you to remain with us.
+Linde: Yes, Prince Marth!!

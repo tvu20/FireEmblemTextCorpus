@@ -8,7 +8,7 @@ game_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
 file_content = {}
 
-normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene", "avatar-male", "avatar-female"]
+normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene"]
 narration_tags = ["opening", "narration"]
 people_tags = ["boss", "recruit-talk", "battle-talk", "boss-talk"]
 
@@ -223,6 +223,10 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
             # avatar tag
             if line[0] == '#':
                 avatar_tag = line.split('#')[1].strip()
+                continue
+
+            # dialogue branch - ignore for now
+            if line[0] == '^':
                 continue
 
             file_content["lines"] += 1
