@@ -1,0 +1,75 @@
+{
+  "chapter": "17",
+  "title": "A Knight Filled Sky",
+  "speakers": ["Michalis", "Gotoh", "Man", "Malledus", "Marth"],
+  "dialogue_counts": {
+    "Michalis": 6,
+    "Gotoh": 5,
+    "Man": 1,
+    "Malledus": 1,
+    "Marth": 1
+  },
+  "gender_counts": { "M": 0, "F": 0, "N": 0, "A": 0 },
+  "lines": 15,
+  "transitions": "--------",
+  "opening": [
+    "Maria and Minerva's home, Macedon, is the birthplace of wyverns. It was known as a bountiful land of peace. That changed when Prince Michalis aligned his goals with those of Dolhr\u2026 against Minerva's wishes. He turned Macedon's wyvern knights to war, striking fear into hearts across many lands\u2026 As Marth and his allies approach, the amassed wyverns blot out the sun."
+  ],
+  "intro": [
+    {
+      "speaker": "Michalis",
+      "line": "Lord Gotoh, the League has begun its attack. I wish for you to move someplace safe until the fighting has ended."
+    },
+    {
+      "speaker": "Gotoh",
+      "line": "Mmm... I understand. But Michalis, you truly are a fool."
+    },
+    { "speaker": "Michalis", "line": "...! Why did you call me a fool!?" },
+    {
+      "speaker": "Gotoh",
+      "line": "You loved your younger sister so much. It pains me to see you quarrel. If you and Minerva had worked as one, Macedon might have become a great kingdom- greater even than Archanea, perhaps. But instead, you let Gharnef trick you into destroying your family, and your kingdom with it."
+    },
+    {
+      "speaker": "Michalis",
+      "line": "...I cannot undo what is done. My father\u2019s blood will always be on my hands, just as Minerva\u2019s betrayal of her brother and country will be on hers. And Macedon has not been destroyed, not yet. So long as I carry Iote's Shield, the League\u2019s arrows cannot fell me. Right now, my only goal is to gut that Altean prince who leads the League. My pride as Macedonian king rests upon it!"
+    },
+    {
+      "speaker": "Gotoh",
+      "line": "I see... Then we\u2019ve nothing more to discuss, have we? Go! Michalis, go and punish yourself, for the crime of killing your own father!!"
+    }
+  ],
+  "visit": [
+    {
+      "speaker": "Man",
+      "line": "A great sage lives in the village to the north. He keeps to himself though! I've never met him. Nobody has!"
+    },
+    {
+      "speaker": "Gotoh",
+      "line": "Marth! You have done well to make it here. I am Gotoh. As instructed, you have brought me the Lightsphere and Starsphere. I now grant you the only magic capable of countering Imhullu, Starlight. Take it and bring an end to the wickedness of the Dark Pontifex, Gharnef."
+    },
+    {
+      "speaker": "Gotoh",
+      "line": "Marth! You have not heeded my words! I require the Starsphere and Lightsphere both. Without them, I cannot create Starlight for you. I do not think you can defeat Gharnef... If you cannot claim Falchion from Gharnef, you have little hope of defeating Medeus. If you still wish to try, you must gain much in experience and reach the pinnacle of your strength. That is not all... You must also gather mighty blades like Gradivus, Mercurius, and the Devil Axe. Unless you make these preparations, Medeus's defeat is scarcely possible. This is the harshest road to victory. Are you truly willing to walk this path? Think long and hard on this decision. Choose wisely."
+    }
+  ],
+  "boss": [
+    {
+      "speaker": "Michalis",
+      "line": "Made it this far, have you? Don\u2019t gloat yet. My Dragoons and I still rule these skies!"
+    },
+    {
+      "speaker": "Michalis",
+      "line": "My dreams\u2026 have been shattered\u2026 Forgive me\u2026 citizens of Macedon..."
+    }
+  ],
+  "end": [
+    {
+      "speaker": "Malledus",
+      "line": "Prince! We have discovered the location of Thabes! Far north of Khadein in the desert of Mamorthod lies the city of illusion... None who have entered Thabes have returned... or so it is said. Prince... what should we do?"
+    },
+    {
+      "speaker": "Marth",
+      "line": "Malledus...in order to retrieve Falchion and save my sister, we must step boldly into danger. Gharnef! I vow to liberate the beauteous land you despoil!"
+    }
+  ]
+}

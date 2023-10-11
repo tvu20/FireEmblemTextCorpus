@@ -1,0 +1,246 @@
+{
+  "chapter": "03",
+  "title": "The Abducted Princess",
+  "speakers": [
+    "Palla",
+    "Julian",
+    "Villager",
+    "Marth",
+    "Matthis",
+    "Rucke",
+    "Jagen",
+    "Lang",
+    "Kris"
+  ],
+  "dialogue_counts": {
+    "Palla": 2,
+    "Julian": 9,
+    "Villager": 5,
+    "Marth": 11,
+    "Matthis": 5,
+    "Rucke": 2,
+    "Jagen": 4,
+    "Lang": 7,
+    "Kris": 3
+  },
+  "gender_counts": { "M": 0, "F": 0, "N": 0, "A": 0 },
+  "lines": 51,
+  "transitions": "-------------",
+  "opening": [
+    "Once upon a time, the region of Macedon was a territory under Dolhrian rule. A century ago, the dragonkin rulers sent many slaves to these wild forests, to excavate ruins and build a country. Many slaves were forced to work to their limits, barely fed, and then slaughtered.",
+    "A young man stood up against such tragic conditions. Iote was his name. He and his companions fled to the forests and fought, astride wyverns, to free the slaves. After Dolhr's demise, the slaves established their own country in these now abundant lands. And the hero Iote was chosen as their first king. And so was born the Kingdom of Macedon, later feared as the domain of dracoknights.",
+    "However, the might Macedon was stripped of Prince Michalis, said to be the second coming of Iote, and is now on the brink of losing Princess Minerva, the so-called \"Red Dragon.\""
+  ],
+  "intro": [
+    {
+      "speaker": "Palla",
+      "line": "Julian, good news! Catria finally brought the Altean army for us! We're going to join their ranks to help save Princess Minerva. Please take Lena and escape to safety, quickly!"
+    },
+    {
+      "speaker": "Julian",
+      "line": "No can do, Palla. Lena's disappeared... I'm not leaving by myself."
+    },
+    {
+      "speaker": "Palla",
+      "line": "What? Lena as well... Princess Maria is missing too; why is it only clerics...?"
+    },
+    {
+      "speaker": "Julian",
+      "line": "Anyway, I'm staying in the village to see if I can't find any information. Sorry, Palla. Give my best to Prince Marth."
+    }
+  ],
+  "visit": [
+    {
+      "speaker": "Villager",
+      "line": "This is just between you and me, but I heard that armory is in league with the rebels. If you're going to enter you should be careful not to get jumped."
+    },
+    {
+      "speaker": "Villager",
+      "line": "I wonder what's going to happen to Macedon? They say that Prince Michalis is dead, and Princess Maria is nowhere to be found... On top of that, they say that Princess Minerva has been captured and that her life is in peril. I just hope... that this country doesn't end up like Grust..."
+    },
+    {
+      "speaker": "Villager",
+      "line": "You know, a little while ago, a paladin came here; said he was on a journey. He was wearing a mask, but I'm sure that underneath, he was a good person. He was kind, yet wrapped in a veil of sorrow. I wonder if I'll ever see him again..."
+    },
+    {
+      "speaker": "Villager",
+      "line": "The pegasus knight trio must be lonely without Est. And I was such a fan of their \"Triangle Attack!\" too... Oh, Est... Come home already, will ya?"
+    },
+    {
+      "speaker": "Villager",
+      "line": "Have you noticed the large drawbridge behind this village? Normally it's separated by the river, but if you use this key here, you can cross the bridge. Just, once you cross the drawbridge, the enemies on the other side will come and attack you at once. If you want to advance safely, you might be better off taking the long detour that goes right around the mountain. Here, take the key. No matter which path you take, do take care of yourself, m'kay?"
+    }
+  ],
+  "recruit-visit": [
+    {
+      "speaker": "Julian",
+      "line": "Hey, Prince, it's been a while, hasn't it? It's me, Julian!"
+    },
+    {
+      "speaker": "Marth",
+      "line": "Julian? I'd heard that you'd gone to Macedon with Lena, but to think we'd cross paths here... How is Lena? Of course, she's with you, right?"
+    },
+    {
+      "speaker": "Julian",
+      "line": "Well, er, how should I say this... Lena suddenly up and vanished... I... I don't know what to do."
+    },
+    {
+      "speaker": "Marth",
+      "line": "Wait, Julian, tell me what happened, in detail."
+    },
+    {
+      "speaker": "Julian",
+      "line": "Lena's been missing since last night. The villagers speak of some sort of strange priest prowling around lately. It seems that somehow, Lena was taken by this man."
+    },
+    {
+      "speaker": "Marth",
+      "line": "A priest...? Julian, as it turns out, Princess Maria has gone missing as well. I have a terrible feeling about this. Anyway, staying here won't solve anything. Come with us. I'm worried for Lena, too. We'll all help to look for her."
+    },
+    {
+      "speaker": "Julian",
+      "line": "Prince Marth... Thank you. Nothing would please me more."
+    }
+  ],
+  "recruit-talk": [
+    {
+      "speaker": "Julian",
+      "line": "Hey! Cut it out. Why must you always insist on pointing your sword at us? I pity Lena for having to put up with your stupidity.",
+      "recruiter": "Julian",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Matthis",
+      "line": "Oh, it's you, Julian. Are you still trying to worm your way into Lena's good books? No way, I won't hand my cute lil' sister to a thieving rat like you.",
+      "recruiter": "Julian",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Julian",
+      "line": "You can relax... Lena and I would never work out. But even if it's just a little, I wanted to help her in any way I could.",
+      "recruiter": "Julian",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Matthis",
+      "line": "Ooh, you finally realized where you stand. Attaboy, Julian!",
+      "recruiter": "Julian",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Julian",
+      "line": "Er, that's not the kind of thing I want to be hearing from you... Well, whatever. If you're worried about Lena, then come with me.",
+      "recruiter": "Julian",
+      "recruit": "Matthis"
+    },
+    {
+      "speaker": "Matthis",
+      "line": "Oh, alright, thanks. You see, they forced me to join the rebel army, but you know I hate fighting. Alright, lil' brother. Let's join forces and look for our cute lil' Lena!",
+      "recruiter": "Julian",
+      "recruit": "Matthis"
+    }
+  ],
+  "recruit-battle": [
+    {
+      "speaker": "Matthis",
+      "line": "Lena... Where are you? What I would give to hear your voice just once before I die..."
+    },
+    {
+      "speaker": "Matthis",
+      "line": "Lena... F-forgive... your foolish big brother..."
+    }
+  ],
+  "boss": [
+    {
+      "speaker": "Rucke",
+      "line": "D-damn it... Why is the Altean army here...? You're all going down with me. Die!"
+    },
+    { "speaker": "Rucke", "line": "The Altean knights... As I expected..." }
+  ],
+  "end": [
+    {
+      "speaker": "Jagen",
+      "line": "Sire, the rebels have fled the castle, but I regret to inform you that Princess Minerva was nowhere to be found."
+    },
+    {
+      "speaker": "Marth",
+      "line": "What could have happened? She was supposed to be held inside the castle..."
+    },
+    {
+      "speaker": "Lang",
+      "line": "Oh-hoh, I knew this task was unworthy. Excellent work, Prince Marth. We'll take care of Macedon from here. Now, let us discuss your next mission."
+    },
+    {
+      "speaker": "Marth",
+      "line": "General Lang, what in the world do you want this time?"
+    },
+    {
+      "speaker": "Lang",
+      "line": "Well, you see... My castle was attacked and the Grustian prince and princess were kidnapped. The perpatrator fled to Macedon, it seems. Prince Marth, you are to capture him and return the children to me!"
+    },
+    {
+      "speaker": "Marth",
+      "line": "You're asking me to send those children to their doom!"
+    },
+    {
+      "speaker": "Lang",
+      "line": "You're in no position to defy me. Now, off to work you go, my prince."
+    },
+    {
+      "speaker": "Kris",
+      "line": "You...! Your rudeness towards my liege has gone too far...! Shut up! Prince Marth is not your minion!"
+    },
+    {
+      "speaker": "Lang",
+      "line": "What did you say?! Know your place, Altean soldier! Marth, it seems that your countrymen are devoid of manners!"
+    },
+    {
+      "speaker": "Marth",
+      "line": "...I apologize on his/her behalf. But it is as Kris says: General Lang, I will no longer follow your orders from here."
+    },
+    { "speaker": "Kris", "line": "Sire...!" },
+    {
+      "speaker": "Lang",
+      "line": "What! Do you mean to defy my orders?! I see... I see. As I suspected, it was YOUR doing. The person who kidnapped Grust's prince and princess was the mercenary, Ogma. On your orders, no less!"
+    },
+    {
+      "speaker": "Marth",
+      "line": "I didn't know of this. But if I had the choice, I would have done exactly as you suggested. Back at Grust, even though they were meant to be our enemies, I should have helped those children."
+    },
+    {
+      "speaker": "Lang",
+      "line": "You! You clearly speak words of treason! Perhaps I should report this to the Emperor!"
+    },
+    {
+      "speaker": "Marth",
+      "line": "Do as you will. But you're not the only person who intends to visit the palace. I will speak to Emperor Hardin and Princess Nyna and inform them of your crimes. Forgive me, Jagen. But I cannot stand for this any longer."
+    },
+    {
+      "speaker": "Jagen",
+      "line": "I understand. You have endured well until now. Lang, my liege might forgive your frequent rudeness to him, but I will not. Come, draw your sword. Even though I, Jagen, am old and senile, I will not lose to the likes of you."
+    },
+    {
+      "speaker": "Lang",
+      "line": "Wh... what did you say?! Damn you... I'll remember this!! Once the Emperor gets wind of this, I'll crush your puny little Altea!"
+    },
+    {
+      "speaker": "Marth",
+      "line": "Jagen... you're a bag of surprises. To think you'd stand up against Lang like that."
+    },
+    {
+      "speaker": "Jagen",
+      "line": "Sire, are you underestimating me in my old age? Bwahaha... I'm not about to let youngsters like Kris hog all the glory just yet. Still, I'll admit it was somewhat foolish to contest with Lang, even if he did push my lord at every turn."
+    },
+    {
+      "speaker": "Kris",
+      "line": "Sire, Sir Jagen. What is our next plan of action?"
+    },
+    {
+      "speaker": "Marth",
+      "line": "According to Lang, Ogma is on his way to Macedon. He probably intends to visit the village where Lord Wendell resides."
+    },
+    {
+      "speaker": "Jagen",
+      "line": "Understood. But, I worry about Lang... I pray that nothing bad shall happen..."
+    }
+  ]
+}
