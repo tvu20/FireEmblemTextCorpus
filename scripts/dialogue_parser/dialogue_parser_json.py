@@ -6,6 +6,8 @@ import sys
 
 game_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
+output_path = os.path.join(os.getcwd(), "src/data", sys.argv[1])
+
 file_content = {}
 
 normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene"]
@@ -168,7 +170,7 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
 
     file_content = {}
 
-    with open(filename, 'r') as f, open(os.path.join(game_path, "chapters", file_without_type + ".json"), 'w+') as file:
+    with open(filename, 'r') as f, open(os.path.join(output_path, "chapters", file_without_type + ".json"), 'w+') as file:
 
         file_info = file_without_type.split("-")
         file_content["chapter"] = file_info[0]
