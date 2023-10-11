@@ -1,0 +1,90 @@
+@Intro 
+Marth: ...! Isn't that my sister and the others!? Who are they protecting...? Damn... That's... Is that Medeus...?
+Jagen: Wait, if the princesses are in the way, your highness' sword will be unable to strike. We must think of something fast, otherwise the Earth Dragons will awaken, and then they will be in even more pain.
+Marth: What should I do...? How can I save them? Please tell me Jagen.
+Jagen: That... Not even I know. To defeat Medeus there is probably no other way except to...
+Marth: ...! What, you want me to kill them!?
+Jagen: That is one way. The princess cannot suffer any more. Taking their life is also a way of saving them.
+Marth: Jagen, are you SERIOUSLY telling me to make this decision?
+Jagen: As leader, there are times when you must make painful decisions. That is what I meant.
+Marth: Jagen, that's enough, I understand. I will not give up. There must be some other way. Until the very end, I will not give up!!
+
+@Battle 
+Cleric: THOSE WHO OPPOSE... LORD MEDEUS... MUST DIE...
+
+@Recruit-Talk
+%Minerva,Maria
+Minerva: Maria! Please open your eyes. It's me, Minerva! Be strong!
+Maria: Uh... Oh... Minerva, sister... Ahh, Medeus, he...
+Minerva: Everything's alright now, relax. I'm sorry, Maria, for letting you experience all this...
+Maria: Sister... I'm scared... so scared. Oh! How is brother? He fought with Gharnef to rescue me.
+Minerva: Michalis, he... He's alright, Maria, don't worry.
+Maria: Really? Then, when we return home, will we be like one big family again? That's great, sister. Oh, I really want to see brother again.
+Minerva: Maria...
+
+%Sirius,Nyna 
+Sirius: Princess Nyna! Open your eyes! Be strong...!
+Nyna: Ah... I made a huge mistake. Because of my stupidity... I caused such grief for Hardin. And I made him... turn into that. Oh... I... What should I do?
+Sirius: Empress... Prince Marth has already ended Hardin's suffering. Even until the end Hardin still loved you, and he apologized for his crimes. It's alright now. You don't need to suffer anymore. You just had a bad dream, that's all...
+Nyna: ..... You are.....?
+Sirius: Princess Nyna! You mustn't give up. You shouldn't be a weak person!
+Nyna: Ah...! You are... Camus...!? You are Camus!! Why... Why are you... Am I dreaming? You're still alive... Ah... It's true...
+Sirius: .....! Empress... I think you're mistaken. I am Sirius, a soldier of the allied army. I don't know anybody called Camus...
+Nyna: Sirius...!? ...How...? No! That's wrong!! You must be...
+Sirius: Please calm down. You must be very tired. I must leave this place very soon. Well, Empress Nyna... You should return to Prince Marth's side...
+Nyna: You... Where are you going?
+Sirius: I must return to my country. I... I have somebody waiting there for me.
+Nyna: Really, is that so? I understand... Sirius... thank you.
+Sirius: ..... Sorry...
+Nyna: Huh...!?
+Sirius: It's... nothing... Empress, you must go!
+
+%Merric,Elice 
+Merric: Elice! It's me, Merric! Please open your eyes. I studied magic so that I could protect you... Yet I still couldn't do that, or be by your side... Elice... I'm begging you... Please open your eyes!
+Elice: Merric...? ...! Oh, Merric! Save me... Gharnef, he... is so frightening... Please save me!
+Merric: Elice! Great, you've finally awakened. It's alright now, I'm here. Oh... But Marth... and the others are watching... This is embarrassing. Elice, no matter what happens I won't leave your side again... Okay?
+
+%Julian,Lena 
+Julian: Miss Lena, wake up! It's me, Julian. What should I do? I know I'm a man with no merits, but for you I will do anything. I don't have any other wishes, I just want to see you smile, Miss Lena. Smile, I'm begging you, Miss Lena...
+Lena: Oh... Julian... You did come. I believed that you would definitely come. So that's how I could endure the horrors that I faced... Julian, I'm sorry. I always acted like a spoiled brat to you.
+Julian: No... Just hearing Miss Lena's words is enough for me.
+Lena: Julian, can you listen to a request of mine?
+Julian: Huh? Oh, please ask, as long as I can do it...
+Lena: From now on, just call me Lena. It seems so impersonal when you call me Miss Lena. Because we're going to return to Macedon, to live together.
+Julian: Huh? ...Miss Lena... Oh... No... I meant Le... na... Do you really mean that...
+Lena: Mmm... I believe the deities will forgive me. Because of my... love for you.
+
+@Recruit-Battle 
+Maria: Ah, Minerva, sister...
+
+Nyna: Ah, Camus...
+
+Elice: Ah, Merric...
+
+Lena: Ah, Julian...
+
+@Boss 
+Medeus: I... HAVE RESURRECTED... STUPID HUMANS... I WILL KILL YOU ALL...
+
+Medeus: HAHAHA... IT'S NOT OVER YET. YOUR NAIVETY... WILL DESTROY YOU... THOSE SISTERS WILL BE SACRIFICED... THEY WILL BECOME MY BLOOD AND MY FLESH... AND GIVE ME POWER!
+
+Medeus: GWA...! WHY... WHY HAVE I... BEEN DEFEATED... SO EASILY...... IS THIS... THE POWER... OF NAGA'S... BINDING SHIELD...? BUT... HUMANS. DON'T FORGET... AS LONG AS GREED LIVES ON IN YOUR HEARTS... YOU WILL LOSE THE SHIELD AND I WILL RISE FROM THE EARTH ONCE AGAIN... REMEMBER... TH...IS...
+
+@End 
+Gotoh: Marth, courageous prince of Altea. Because of your efforts, the Dark Earth Dragon, Medeus, has finally been completely destroyed. Medeus's servants, the Earth Dragons have also vanished into the darkness. As long as the Binding Shield exists, they won't awaken anymore. Marth, descendant of Anri, and the chosen Prince of Light. You have saved mankind, and you have saved our dragon tribe...
+Tiki: Marth!! I don't have to go back to the Ice Dragons' Temple anymore. I'm so happy! I really like everybody. I definitely don't want to live all by myself at that lonely place again. It's really... like a dream. I'm so happy, so very happy. Marth, I really like you!!
+Marisha: Really Tiki... For how long do you plan on hogging Marth!? Honestly Marth, if you dare to show even the slightest happiness, Caeda won't forgive you.
+Caeda: Marisha, you're talking nonsense again. However Marth really does look happy...
+Marisha: He can finally put to rest his heavy burden. Lord Marth has always been carrying such a heavy responsibility. It must have been hard on him. But Caeda has also had it hard. There are so many people around Marth that finding a chance to even talk to him is difficult. You must have been lonely.
+Caeda: Mmm... It doesn't matter. As long as Marth is safe, I wouldn't wish for anything else. I once prayed to the deities, since Marth had such an important mission. I prayed that if they decided his life was to be taken, to take my life in his place... That was all I could do.
+Marisha: ..... Ah, Caeda truly can't be beaten. But you don't have to wait any longer. Because Lord Marth is about to return to your side. Look, Caeda, Marth is looking over there. Use your courage!
+
+Caeda: Marth...
+Marth: Caeda, it's finally over. I'm sorry for making you suffer.
+Caeda: No, I couldn't help you one bit... I'm the one that should be sorry.
+Marth: Don't be silly. It's only because I had Caeda that I was able to reach this day. Things will be more difficult from now onwards. The seven kingdoms of Archanea are going to be unified, and everybody is going to hand responsibility to me. But, such a task I cannot possibly do by myself. Caeda, I hope you can help me. I really need you.
+Caeda: I... When I left Talys island, I already swore an oath. No matter where you went, I would be by your side. No matter what happened I would have faith in you. So, no matter what hardships there are, I can endure them. Because Marth... I lov...
+
+@Narration 
+And so the tragic War of Heroes finally came to an end. The seven kingdoms were unified by Prince Marth. The united Kingdom of Archanea was established and peace reigned. The tales of the heroes were remembered by future generations. Archanea’s hero saga… This is the story of the brave warriors who saved Archanea…
+

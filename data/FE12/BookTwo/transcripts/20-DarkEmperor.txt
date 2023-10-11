@@ -1,0 +1,84 @@
+@Opening 
+Saint Archanea is the largest country on the continent. Its golden capital of Millennium Court has bathed in 600 years of proud history. Under the attack of Altea's allied army, it fell in just one day. The citizens of Archanea welcomed them as liberators, and supported them to their fullest. They also mentioned of their hatred towards Hardin and his personal guards. Everybody now calls Hardin the Dark Emperor. This was in hatred of Hardin, the murderer of countless people. If possible fighting would be avoided, but it as already reached this stage... Marth ra
+
+@Intro 
+Jagen: Your highness, we've entered the castle! But don't forget that Hardin is being protected by the Darksphere. To fight him , you must have the Lightsphere!! Be sure to let the person fighting him carry it.
+
+Hardin: Midia, even you betrayed me. Archanea's paladins have lost their touch.
+Midia: You fool!! Don't you see it? What you're doing isn't normal. Where did you take Nyna to? Bring her back to us now!!
+Hardin: Nyna! That woman betrayed me. I just wanted to destroy Grust. And she had to go and give the Emblem to that boy... Those who betray me must die. Midia, you're no exception!!
+Midia: If you want to take my life, go ahead. But Hardin... Do you know how much suffering you've caused because of your stupid jealousy? Just open your eyes and see!
+Hardin: Stupid jealousy...? Haha... You can say what you like. This world is corrupt and full of annoying people. Is this kind of world even worth anything? It would be far better for it to be destroyed. Midia, you shall watch here... As Prince Marth dies by hand!!
+
+@Battle 
+Hardin: Marth...? As a servant of the Empire, you dared to invade Millennium Court. I am disappointed in you. So Altea's Prince of Light is just a lowlife.
+Marth: Hardin! Your are being controlled by the Darksphere, and have lost your just heart!! Please, you must return to normal!
+Hardin: Hahaha...! You are so naive, Marth. I attacked Altea solely because of my hatred of you. In the previous war, it was only because you were the descendant of Anri that Nyna gave the Emblem to you, and chose you to become the leader of the alliance. Prince of Light... What nonsense! If you hadn't received my support you would have died long ago, so don't act all big, Marth!! From that day on, I hated you. I kept silent for Nyna, but I knew I would have to deal with you eventually. This has nothing to do with the orb!
+Marth: Hardin... Is that true... Your hatred of me... I didn't know...
+Hardin: Ha... That's why you're just a boy. Marth! Come to me, so I can use my Gradivus to pierce your heart!! In this tiny continent, I am the only hero that is needed!
+
+@Boss 
+Hardin: Rebels... Did you come here to get yourselves killed? I'll show you to fear my Gradivus!!
+
+Hardin: Marth... Your highness... I have finally awakened... From my deep dream... Your highness... I am deeply sorry... I fought with my inner demon. However I was too weak... I resisted with all my might... But I still lost... I hoped for your highness' hand to end my life... That way I could be saved... Your highness... Nyna... Please take care of Nyna... She... I hope you... can tell her... In the... end... I still... loved her... I hope... She can... forgive me...
+
+%Marth,Hardin
+Hardin: So you've come, Marth!! I'll run you through, just as you wish!
+Marth: Hardin, that's enough!
+
+%Kris,Hardin
+#avatar-F
+Hardin: I've no quarrel with you... Bring Marth to me!!
+Kris: Sir Hardin... To defeat you is my duty. Prepare yourself.
+
+%Kris,Hardin
+#avatar-M
+Hardin: I've no quarrel with you... Bring Marth to me!!
+Kris: Dark Emperor Hardin... Look nowhere else, I am your opponent!
+
+@End 
+^start 
+Kris: Sire, the battle is over. We have won.
+Marth: Yes, and with this, finally...
+Jagen: Sire! Look over there! Your sister and the others...
+Marth: Elice! And Princess Nyna...! Lena, Maria; you're all safe!
+Nyna: Marth, I'm so happy you made it... Ngh...!!
+Gharnef: You--you carry the Binding Shield...! Gah! My magic has been dispelled? Withdraw, my priests. At this rate, he will... Let us hurry the Shadow Dragon's return!
+Marth: Gharnef...!
+Kris: That man was the Dark Pontifex Gharnef! His servants were impersonating the princesses.
+Marth: What was he playing at? He mentioned something about the Shadow Dragon's return... So as we suspected, my sister and the other clerics must be in Gharnef's hands...
+Jagen: Forgive my interruption, sire, but Lord Gotoh has arrived.
+Marth: Lord Gotoh? Take me straight to him!
+Gotoh: Excellent work, Prince Marth. You managed to obtain all of the orbs. Thanks to your efforts, the lost Binding Shield is finally complete.
+Marth: Incredible! It felt as though the shield itself pulled in all the orbs... So this is the fabled Binding Shield. But what now, Lord Gotoh? From Gharnef's actions, it would seem he has the noble clerics imprisoned. I worry for their safety.
+Gotoh: Hmm... I understand how you feel... However, we have a far greater task to accomplish--we must seal away the earth dragons. Soon they will awaken from their slumber. They will rise up from the ground, destroying everything in their wake, and turn this world into a living hell. Go, Marth. Entomb the awakened dragons once more!
+
+Jagen: Marth, it's finally over. Now, the world is safe. Look, the princesses are over there...
+Marth: Sister! And there's Princess Nyna... And Lena and Maria as well. It's great to see that everybody is safe.
+Nyna: Marth, you finally came. I am so happy... I will need your help to restore Archanea.
+Elice: You really worked hard, Marth. You are my pride.
+Lena: Lord Marth, with our combined strength we have already vanquished Gharnef. Please relax.
+Maria: The world is safe now. Your highness, please hurry back to Altea.
+Marth: Really? It's good to see everybody well. But you all don't look too good...
+Nyna: Everybody is tired from battling Gharnef. But it doesn't matter now, so please don't worry.
+Marth: Really...? Nyna, I am sorry about Hardin. I couldn't save him.
+Nyna: It's fine. He was devoured by his own ambitions, so it is not unexpected that he was lost. Well, Marth, you should hurry back to your homeland. Everybody is probably worried about you. With your remaining time, you must live well. As long as there are still people in this world, your name will never be forgotten.
+^end
+
+^locked 
+Jagen: Kris, new information regarding the assassins has reached the palace. As you may have guessed, they were dispatched by Hardin and Gharnef. The head of the organization is a woman named Eremiah.
+Kris: Eremiah... And where is she now?
+Jagen: Here, in Archanea. Apparently, she runs an orphanage in the mountains.
+Marth: An orphanage?
+Jagen: Yes, so it would seem. However, it's an orphanage in name only. She confines the children to a basement devoid of light, and teaches them all manner of wicked things....
+^start 
+Kris: ......Sire. Please, let me go. I'll crush them-- I won't allow such a travesty to stand.
+Marth: I understand, Kris. I, too, cannot allow a situation like this to carry on.
+Katarina: ...Please, wait.
+Marth: Katarina? Were you listening the whole time?
+Katarina: There's a hidden passage to where Lady Eremiah is... I'll show you the way.
+Marth: ......
+Katarina: Please, allow me to go. I'll be fine. I don't believe for a moment that this will atone for everything I've done... But while I live I want to help in any way that I can.
+
+Kris: ......Sire. Please, let me go. I'll crush them-- I won't allow such a travesty to stand.
+Marth: I understand, Kris. I, too, cannot allow a situation like this to carry on. Let's go to the orphanage then.

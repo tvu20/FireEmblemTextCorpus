@@ -1,0 +1,88 @@
+@Opening 
+It is the second month of the third year in the history of the empire... Archanea's holy city of Pales is in the midst of a time of mysterious silence. Archanea, because of a civil war begun by the paladin Midia, has arrested many capable knights. However, Archanea still has twice the military power of Altea to fill the streets of Pales with. It has already been nearly a whole year since the expedition to Grust. And now, at long last, the final battle, which would decide the fate of both countries, was about to begin...
+
+@Intro 
+#avatar-F
+Marth: As expected, the Archanean army is extremely powerful. We must approach with great caution.
+Kris: It seems that Hardin has assembled his entire army for the battle.
+Jagen: Even so, the people have lost their faith in Emperor Hardin. They welcome us as liberators. It is certainly very reassuring. This is our final battle. It may drag on but all the same, I would ask that you take utmost care.
+Marth: Kris, the enemy is the Archanean imperial army. The continent's strongest and most renowned military force. It's strange, but I'm not afraid. Kris, if you're here, then everything will be okay. Everyone, let's go!
+
+#avatar-M
+Marth: As expected, the Archanean army is extremely powerful. We must approach with great caution.
+Kris: It seems that Hardin has assembled his entire army for the battle.
+Jagen: Even so, the people have lost their faith in Emperor Hardin. They welcome us as liberators. It is certainly very reassuring. This is our final battle. It may drag on but all the same, I would ask that you take utmost care.
+Marth: Kris, the enemy is the Archanean imperial army. The continent's strongest and most renowned military force. I'm not worried though... I know how strong you are, Kris. You won't lose to anyone.
+Kris: Yes, sire! Please leave it to me!
+Marth: Everyone, let's go!
+
+@Battle 
+Vyland: I knew it. You intend to invade Coyote's palace. The king forbade us from interfering... But I will do anything to protect Coyote! I'll defy his edict if I have to!
+
+@Recruit-Visit 
+Roshea: Prince Marth... It is I, Roshea of the Wolfguard. I received King Aurelis's pardon and have been waiting for you. I am truly sorry for the battle of the pass. I realize that an apology means little, so I will now fight under your banner. But... the other Wolfguard members have all sided with the Archanean army. I wonder if I could persuade them. Vyland, at the least... Vyland might listen to what I have to say.
+
+@Visit 
+Woman: Emperor Hardin was once a kind man, but he suddenly changed into such a frightening Emperor... Ah... If I say things like this, I will get killed as well.
+
+Young man: Midia is the pride of Archanea. She was the daughter of th highest officer of Archanea, Duke Owen. This rebellion only came about because she could not stand and watch us suffer. No matter what, you must rescue her.
+
+Young woman: We thought that Nyna and Hardin's marriage would finally bring peace to the world, yet this happened. Oh deities... What should we do...?
+
+Old man: Midia is really pitiful. She only just retired as a knight to live together with Astram, and now she has been separated again. She's still a young girl, it's so sad. What can you do to help her...?
+
+Man: The Archanea army has changed. The troops are all bloodthirsty savages now. What is going on with this country?
+
+Old man: Oh, this is so sad. Those that opposed Emperor Hardin have all been killed... Could the Emperor be possessed by a demon...?
+
+@Recruit-Talk 
+%Roshea,Vyland 
+Roshea: Vyland! Why are you here? The king told us not to interfere. Aha! Have you decided to join the Altean army like me?
+Vyland: Roshea, I came to bring you back. Why have you turned to the Alteans? We are Coyote's subordinates. Open your eyes! You're being deceived!
+Roshea: You're wrong, Vyland. The time I spent with the Alteans was short, but I know one thing for sure. It's not as Coyote says. They're not evil people.
+Vyland: Roshea...
+Roshea: Vyland, please. I don't want to fight all of you. Especially you, Vyland...
+Vyland: ............ Well, Roshea... You were always the kindest out of us in the Wolfguard.. You've always been able to tell which were the good guys, and which were the bad. I can't fight you, Roshea. If you, our brother-in-arms, are this sure, then I believe you. I am your ally from now on.
+Roshea: Vyland...!
+
+%Vyland,Sedgar 
+Vyland: Sedgar, hold on. It's me, Vyland.
+Sedgar: What's the meaning of this, Vyland? Don't tell me you've defected!?
+Vyland: Listen, Sedgar. I--I don't know. What am I supposed to do? I loved Coyote like a brother. All I wanted was to fight for him. But... But he has changed for the worse. It's as though he's someone else now...
+Sedgar: ......
+Vyland: I wanted to serve him, always. That's why I've been turning a blind eye. I shut myself, trying to remember the Coyote who loved us so long ago. It really hurt to face the truth. That Coyote's not who he used to be... I just don't know anymore. Hey, Sedgar... What the hell am I supposed to do?
+Sedgar: Vyland... I too... I feel the same way. I know he's gone insane, but I looked the other way and blocked my senses. One day, he'll go back to being our Coyote... That's what I kept telling myself.
+Vyland: Roshea has gone over to the Alteans. I cannot fight him. Sedgar, you should come too. I don't know what's right anymore. But I don't want to fight you, either.
+Sedgar: Yes... Even though Coyote's madness was clear to me, I did nothing. I have to make this right.
+
+%Sedgar,Wolf 
+Sedgar: Wolf! Hold your fire!
+Wolf: Sedgar! What are you doing?! So you've chosen to betray Coyote?!
+Sedgar: No, it's not like that! This is for Coyote's own good! Something's wrong with Coyote. Even you must know that!
+Wolf: That changes nothing! I will die at Coyote's side! I swore as much! Though all of you might betray us. Though I might be alone. I will not abandon him!
+Sedgar: Even though you disobey his heart?
+Wolf: What do you mean!?
+Sedgar: Wolf, do you remember what Coyote said to you, the day you became commander of the Wolfguard?
+Wolf: ......!
+Sedgar: "If I should wander from the path of the righteous, please... lead me back onto it." That's what he said.
+Wolf: I should never have forgotten. The words of Coyote himself... But, to tell me that time has come... That we must... That we must defeat Coyote...
+Sedgar: We have to remind Coyote of the day we swore allegiance to him. No matter how painful it may be... That is our only recourse. I never wanted to believe it would come to this...
+Wolf: Enough, Sedgar! For goodness sake... It would have been better had I died at Adria Pass... I am the commander of the Wolfguard... The life that Coyote gave me... I will not waste it. Even if that should lead to Coyote's death...
+
+@Boss 
+Nehring: What...? Our Archanea has been defeated? But as long as I'm here, I won't let you enter the castle!
+
+Nehring: Glory to the Emperor...
+
+@End
+Boah: Oh, Lord Marth. I've been waiting for you.
+Marth: Boah!? You've suffered a grave wound... What happened?
+Boah: Mmm... It was truly frightening... I suppose the Archanea royal family is indeed under a curse. You should know about Hardin and Nyna's marriage, two years ago. To restore Archanea, a king was required, and only two people were suitable. King Aurelis's younger brother, Hardin, and Altea's Prince Marth, you... Those were the choices, and we pleaded for Nyna to make the final decision. Originally, she wanted to wait a while longer, but we begged for her to make up her mind immediately. In the end she said that choosing Prince Marth as her husband would hurt Princess Caeda, so she finally decided on Hardin.
+Marth: Wait a second, wasn't that a little harsh on Nyna? I understand that Archanea needed a king, but Nyna, she already...
+Boah: You are referring to Grust's Lord Camus? But that would be unspeakable... Unthinkable in fact. Princess Nyna was the sole successor of the royal bloodline of Archanea. I felt bad as well, but for this country we had no other choice. However, Lord Hardin was very happy. Compared to ascending Archanea's throne, he seemed happier about the fact that Nyna chose him for her husband.
+Marth: I also understand Hardin's feelings. He could sacrifice his own life for Nyna. But, did he know about Camus? If he did, I don't believe he would be so happy.
+Boah: Mmm... Of course we kept that a secret, and we also persuaded Nyna to hide it as best as she could. But, Lord Hardin was a very sensitive man. He quickly found out that Nyna's heart had no place for him. He felt very painful... He locked himself in his room, and didn't allow anybody to see him. Taking advantage of his broken heart, Gharnef appeared. He took on the guise of a merchant to approach Hardin, and showed him the Darksphere. The distraught Hardin was quickly consumed by the orb. From that day on, he completely changed. It was because I was only focused on restoring this country that I committed such a horrendous mistake. Please, forgive me, Prince Marth...
+Marth: I can't believe all that happened. ..... Where is Nyna now?
+Boah: When Hardin discovered that she had taken the Fire Emblem, he had her confined in her room. After that, she would still communicate in secret with me. However, Hardin found out and then wounded me. He also handed Nyna over to Gharnef.
+Marth: Gharnef...!?
+Boah: Mmm... Gharnef had always wanted to take Nyna. He said that the resurrection of the dark dragon required the blood of noble clerics... And so... He took Nyna... To use her as a live sacrifice... Lord Marth, I'm already done for. I will give my Thoron and Physic to you. I beg of you, please rescue Nyna. Even if Archanea is destroyed it no longer matters... I only wish for Nyna to be safe...

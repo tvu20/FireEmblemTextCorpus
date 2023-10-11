@@ -1,0 +1,69 @@
+@Intro 
+Eremiya: So the Altean army has reclaimed Altea Castle. Master Gharnef is rightfully livid...
+Katarina: Lady Eremiya...
+Eremiya: And yet, Eine. All you can do is stand there, doing nothing. Are you not ashamed of being alive? To die for my sake-- is that not the natural recourse?
+Katarina: ...Yes...
+Eremiya: Eine, you are worthless trash. There is no value in your life. You're a child the world never wanted. Tell me, who was it that saved you? Who should you thank for allowing your wretched existence to continue?
+Katarina: It's all thanks... to you, Lady Eremiya.
+Eremiya: Kill them.
+Katarina: But... Lady Eremiya...! I... sniff...
+Eremiya: Silence, worthless puppet. You cannot defy my orders. That's what I've "taught" you since you were little. The words I engraved upon your then-young soul will remain there, forever.
+Katarina: ...Sniff... sniff...
+Eremiya: O-hoh hoh! I'll use you until you break. My little puppet...
+
+@Battle 
+Kris: Katarina...
+Katarina: Kris... Prince Marth...
+Marth: Katarina, if you have reasons, I would like to hear them. I'm sure we can settle this, without resorting to fighting.
+Katarina: ...I'm sorry. I... I have no choice but to do this.
+
+@Boss-Talk 
+%Kris,Katarina 
+Kris: Katarina...
+Katarina: Kris. I... had a dream. It was short... but it was a very happy dream. Kris, you and I... Both of us became Royal Guards... We saved many people, received many thanks... And then, the two of us... Kris... I... I'm sorry... I'm talking nonsense. There's no going back for me. ...Let us resume our battle, Kris.
+
+%Kris,Katarina 
+Katarina: Kris... There's nothing left for us to say. You and I are enemies... Please fight me. If you don't, I'll kill you...
+
+%Kris,Katarina 
+Kris: Katarina! Listen to me.
+Katarina: Kris... Why? Why do you refuse to fight...? You must know that you'll die if you don't kill me... And yet, why do you hesitate...?
+Kris: Because you're my friend.
+Katarina: ...
+Kris: You can't have forgotten: Our days training as knights... The times we fought together with Luke, Rody, Ryan and Cecille... "Together, we'd be an unstoppable team"... That's what you told me.
+
+@Flashback 
+Katarina: Kris, that's a wonderful name. We're here for the same reason, then. My name is Katarina. I came because I wish to serve Prince Marth.
+Katarina: Thank goodness... Kris, you won. I knew you could do it.
+Katarina: I... I'd like be a Royal Guard, if you're in with me.. Together, we'd be an unstoppable team... When I imagine a future like that, I feel very happy. ...Um, what about you, Kris? Do you, perhaps, feel the same as I...?
+
+@Boss-Talk 
+%Kris,Katarina 
+Katarina: That was... That was all... a lie. Everything I did was to deceive you... It was all just a ruse... The truth is... I don't care about you...
+Kris: If that's the case... Then why are you crying, now?
+Katarina: ...I'm... not...
+Kris: Katarina. You don't belong there. You want to fight alongside me, for Prince Marth. I'm certain of it.
+Katarina: It's... too late for that. I've committed too many unforgivable sins...
+Kris: Then, you'll just have to start atoning for them. It won't be easy. Many people from both Altea and your organization will turn you a cold shoulder... But, I can promise you this. No matter what happens... I'll stand by your side.
+Katarina: Kris...
+Kris: Return to us, Katarina.
+Katarina: ...Sob... sob... ...Kris... Kris... Kris...!
+
+@Boss 
+Katarina: I am a puppet... I exist only to serve Lady Eremiya... My life has no value...
+Katarina: Thank... you... ... Now I... won't have to hurt Kris... anymore... Kris... I'm... glad I could meet you... During those days of training... you showed me a beautiful, happy dream... Hey, Kris... Today's training... is about to begin... Look, there's Prince Marth and the others... Don't... wait for me... ... ...
+
+@End 
+^start 
+Katarina: ...Prince Marth, I have committed many unforgivable sins. Please, hand me punishment... worthy of my crimes. Please execute me...
+Marth: Raise your head, Katarina. I have no intention of taking your life.
+Katarina: But... why? I don't deserve to live. Please let me atone with my death...
+Marth: That's no atonement. You're just running from your sins.
+Katarina: Oh...!
+Marth: If you truly regret what you've done, then live. I want you to atone with your life, not your death.
+Katarina: Atone with my life...? But, how? What should I do...? How could I even begin to atone?
+Marth: I cannot give you that answer. Until now, you've only followed orders, never thinking for yourself. But that's going to change now. You will think for yourself, and find your own answer. That is my punishment to you.
+Katarina: Prince Marth...
+
+Kris: ...
+Marth: Kris... I've forced you to play a painful role. I won't forgive the villain who led her to this path. Let's go, Kris.

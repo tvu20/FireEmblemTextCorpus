@@ -1,0 +1,54 @@
+@Intro 
+^start
+Katarina: Kris, Prince Marth, this is it. Please watch your footing.
+Kris: It's pitch black. Visiblity's practically non-existent... We'll be in trouble if we have to fight.
+Katarina: The organization's children were raised in darkness... They have no heart or will of their own. They only move their limbs when ordered, like puppets...
+Kris: Katarina...
+Katarina: I'm... not like them anymore. Kris... I want to be of use to you. That feeling is mine and mine alone. Not just some order! But my own truest desire... My treasure. Let's go, Kris.
+
+Kris: Sire, this is it. Please watch your footing.
+Marth: It's pitch black. Did Katarina and the others really live here...?
+Kris: ... It'll be difficult to battle in this darkness... Sire, please exercize caution.
+^end 
+
+@Battle 
+^start
+Eremiya: The Altean army is here? Gosh, that junk puppet betrayed me... Who would have expected that she'd wrestle free from my control. But, I bet you didn't know this: There are many puppets here far superior to you, my dear. Come, my sweet little children. The bad men have come. Darkness is our friend. What our enemies cannot see, we can. Let them experience... the feeling of pure terror.
+
+Eremiya: The Altean army is here? Oh, how wonderful. Come, my sweet little children. The bad men have come. Darkness is our friend. What our enemies cannot see, we can. Let them experience... the feeling of pure terror.
+^end 
+
+@Boss 
+Eremiya: My children... were just trash in the end. They couldn't even dispose of this rabble.... It seems I have no choice but to show them how it's properly done.
+
+Eremiya: My... children...
+
+%Katarina,Eremiya
+Katarina: Lady Eremiya...
+Eremiya: Oh my, if it isn't the broken puppet. I wonder... should I call you ungrateful trash or traitorous trash? But I must say, it's very brave of you to show your face in front of me again, Eine.
+Katarina: Meeting you again... crushes my heart. I'd rather die, frankly... But, if I can be of use to Kris, then I will not run away!
+Eremiya: A junk puppet talking like a human being? The only word you're ever allowed to say is "yes". I'll make sure that mouth of yours starts working properly right away.
+
+@End 
+Kris: Sire, we've seized control of the area. The assassins shall target you no longer.
+Marth: I see, thank you.
+Jagen: According to the villagers nearby... That woman called Eremiya used to be a kind bishop who looked after war orphans. But during the war, her orphanage was burned down and all the children killed... Ever since then... she changed.
+Marth: So she was yet another victim of the war? That does not erase her sins, but... 'tis truly a tragedy.
+Kris: However, at the very least there won't be more victims like Katarina.
+Marth: Indeed. That's my only comfort. Let us go, Kris! There are still things we must do.
+Kris: Yes, sire.
+
+Gharnef: ...Bah! ...So you failed in the end... ...Eremiya.
+Eremiya: Master... Gharnef... Forgive... me... For not... fulfilling your order...
+Gharnef: Oh, you don't need to apologize. The ritual to revive the Shadow Dragon shall soon begin. You and your underlings were useful enough, for capturing the clerics. Heh heh, it was worth the trouble casting that spell on you...
+Eremiya: What? A spell... on me...?
+Gharnef: Yes, don't you remember? But of course. Poor, poor Eremiya. My spell stole that memory as well. Once upon a time, you felt grief. The corpses of the orphans killed in the war haunted your very existence. You wondered what you could have done so that they might have survived...
+Eremiya: I... never wanted... to let those children die...
+Gharnef: And then, I told you. You had to make the children stronger. Twisted, yes, but they became stronger so they wouldn't die, just as you wanted. Well? Have you remembered now?
+Eremiya: That's right, I... I made those children...
+Gharnef: Heh heh... Hypocrites like you and Marth disgust me. Despairing over the orphans' deaths, you fell all too easily under my spell. And then you gathered children, subjecting them to hellish training, just as I told you to. You watched the children cry and scream... and yet, you smiled... Heh heh, 'twas quite a sight.
+Eremiya: Ah... Ahh... ...Aaaaah... ...My... ...My... children... AAAAAAH!
+Gharnef: Heh heh... Worry not, Eremiya. The despair you feel now is nothing. This world will soon be enveloped in the darkest despair... You had better look forward to it, Marth. Heh heh heh...
+
+
+

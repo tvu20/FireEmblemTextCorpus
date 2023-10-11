@@ -1,0 +1,103 @@
+@Opening 
+This was a fierce battle like no other. But, their homeland of Altea has been liberated. All that remains is the castle... If I could regain Altea castle, where I was born... Everybody, thank you... I really must thank you all for placing your trust in me... Before Marth's face flowed shimmering tears... Even the girl, who gently wiped his tears away, couldn't prevent her own tears...
+
+@Intro 
+Jagen: Kris, we've returned at long last. We're back where it all began...
+Kris: Yeah. It's a curious feeling. It feels like yesterday that I first stepped foot here and yet it seems so far away...
+Jagen: Yes, I remember. When you first arrived here for training, you had no experience of battle. And now...
+^start 
+Jagen:
+You've grown into one of the continent's finest young soldiers. Kris, with you here, I have no doubt that we can reclaim our homeland. We're all counting on you.
+
+Jagen:
+You have gained much experience as a knight of Altea. Kris, your efforts will decide whether or not we will succeed in reclaiming Altea. We're counting on you.
+
+Jagen:
+Hmm... You haven't really changed very much from how you were back then. Kris, you must work harder on the battlefield from now on. I'm counting on you.
+^end
+
+@Battle 
+#avatar-F
+Marth: How disgraceful... Thieves inside our fair castle? What if they've stolen the Geosphere?
+Jagen: Sire, we've sighted a suspicious-looking thief making his way north. We should capture him before it's too late.
+Kris: Sire, if you'd allow me the honor, I will go. Your orders, please.
+
+#avatar-M
+Marth: How disgraceful... They let thieves inside the castle? What if they've stolen the Geosphere?
+Jagen: Sire, we've sighted a suspicious-looking thief making his way north. We should capture him before it's too late.
+Kris: Sire, if necessary, I shall recover it. Your orders, my lord!
+
+Macellan: Prince Marth. Please, hold on.
+Marth: Macellan! Did you come here with Dolph?
+Macellan: Correct. Dolph and I are going to be your reinforcements. Archanea has nothing left for me. For the justice that I believe in, allow me to fight by your side again, Prince Marth.
+
+Soldier: Lord Willow, permission to open the door and attack?
+Willow: Wait. Don't be so hasty. Inform me as soon as any of the chests in the treasury are opened. We will sortie the moment that happens. Both the thieves and the Alteans will want their greasy hands on the loot. While they're busy trying to unload the chests, we will take that chance and attack. Heh heh... This is a battle of intellect, not brawn. Don't forget! Attack when the chests are sprung!
+
+Willow:
+What's that? The chests have been sprung? Now! Open the door! Heh heh heh! Their panicked faces will be glorious!
+
+@Recruit-Battle 
+Astram: You foul traitors! Taste the might of my Mercurius!
+
+Astram: Midia...
+
+@Recruit-Talk 
+%Jeorge,Astram
+Jeorge: Astram, how are you doing?
+Astram: So it's the traitor, Jeorge. What do you want with me?
+Jeorge: Wait, Astram. General Eibel has already fallen. You won't be able to win even if you continue fighting.
+Astram: You want me to surrender...? Never! Even if I am the last one standing. I am a warrior of Archanea to the end!!
+Jeorge: Why are you... Who are you fighting for? Are you fighting for Emperor Hardin?
+Astram: No! It's not because of that man, but because of Nyna... And for Archanea!!
+Jeorge: But, did Nyna tell you to fight here? Do you really think that Nyna would hope for this kind of battle?
+Astram: Well... I hadn't seen Nyna for a while. I was told that she fell ill, and that I couldn't see her. But... Since Hardin is Emperor of Archanea, I have no choice. If I don't follow his orders I will become a traitor, and I will be betraying Nyna.
+Jeorge: Astram, Nyna already entrusted the Emblem to Prince Marth. Do you understand the meaning of her actions?
+Astram: Wh-what!! When did this happen, Jeorge? Nyna requested Prince Marth for help?
+Jeorge: I believe that is the only explanation. Astram, if you want to find out the truth then come with us... If you die here, what will Midia do? You must live on, for her. You must live on, so you can confirm with your eyes what is happening.
+Astram: Hmm... I guess I have no choice. But, Jeorge. If this war is as Hardin said, and was caused by Prince Marth's ambitions. I will never forgive you! Remember that!!
+
+@Boss 
+Willow: Hahaha... It's time for me to show you... The destructive power of my Meteor magic...
+
+Willow: Emperor Hardin, forgive me...
+
+@End 
+#avatar-F
+Kris: Sire. It's over.
+Jagen: At long last, Altea is ours once more.
+Marth: We've all the reason to be happy. But is there news of Elice...?
+
+#avatar-M 
+Kris: Sire. We have routed the enemy.
+Jagen: At last, Altea is ours once more.
+Marth: Yes, it's a wondrous feeling. But is there news of Elice...?
+
+@End
+Gotoh: Prince Marth... Can you hear me? I hate to be the bearer of bad tidings, but it would seem that Princess Elice has been kidnapped by Gharnef.
+Marth: Lord Gotoh... Do you speak truly?!
+Gotoh: I have found out that Gharnef commanded his priests to search for clerics of noble birth. It is most likely that Lena and your sister were spirited away by Gharnef.
+Marth: It can't be! What does he intend to do with them!?
+Gotoh: That, I do not know. But something foul is on the cards. There can be no doubt of Gharnef's involvement in this series of unfortunate events.
+Marth: Lord Gotoh! Where is Gharnef now?
+Gotoh: I believe Princess Nyna is his next target. He is probably... at Archanea's palace.
+Marth: I understand. Then I too shall go to Archanea. I still have to free Hardin from the Darksphere's influence. I will defeat the Dark Pontifex Gharnef, and rescue my sister--no, I'll save all of them!
+
+@End 
+#avatar-F
+Marth: Hello Kris. It's been too long since we last spoke casually in Altea Castle. This place holds a lot of memories for you, doesn't it? Your long days of training... Not to mention you met Katarina here...
+Katarina: I-I'm sorry. I was in a hurry, and... Excuse me, did you come here to become an Altean knight as well?
+Kris: ............ Ah! Sire...... Please be careful.
+Marth: Kris?
+Kris: I sense the same enemy presence... as that time. They may already be close...
+Jagen: Sire! We're under attack! It's the assassins!
+Marth: Begin preparations for a counterattack immediately!
+
+#avatar-M
+Marth: Hello Kris. It's been too long since we last spoke casually in Altea Castle. This place holds a lot of memories for you, doesn't it? Your long days of training... Not to mention you met Katarina here...
+Katarina: I-I'm sorry. I was in a hurry, and... Excuse me, did you come here to become an Altean knight as well?
+Kris: ............ Ah! Sire...... Please be careful.
+Marth: Kris?
+Kris: I sense the same enemy presence... as that time. They may already be close...
+Jagen: Sire! We're under attack! It's the assassins!
+Marth: Begin preparations for a counterattack on the double!

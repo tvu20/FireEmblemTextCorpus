@@ -1,0 +1,119 @@
+@Intro 
+Marth: Kris... The final battle is nigh. Medeus awaits us up ahead. It won't be an easy battle... I dare not imagine how many of us will be left standing at the end... Either way, the fate of this world rests on our hands...
+Kris: Sire... Worry not, sire. We will emerge victorious. That's what the fortune-teller said.
+Marth: Fortune-teller?
+Kris: When I was a child, I asked our village's fortune-teller for a reading... The old lady held the palm of my hand, and said to me... "Ah, your fate is clear to me, child."
+Marth: And? What did she say?
+^start 
+Kris: She said that I would "grow up to be a legendary hero..."
+
+Kris: She said that I would "live out my life quietly..."
+
+Kris: She said that I would "follow my calling like an arrow..."
+
+Kris: She said that I would "devote my life to the service of others..."
+
+Kris: She said that I would "be stupidly rich and famous..."
+^end
+Marth: Oh...? I can imagine that happening...
+Kris: And she said that I'd live until I was a hundred years old...!
+Marth: 'Til a hundred...? That is an awfully long time... Oh, I see...! If the fortune-teller was right, then...
+Kris: Then we are definitely walking out of this hall victorious. I'm not quite that old yet... So, rest easy, sire.
+Marth: Haha, you're quite right. I... feel much calmer now. Thank you, Kris...
+
+@Battle 
+Marth: I see my sister and the others... But who are they guarding...? No, it can't be... That's--that's Medeus...!
+Jagen: With the princesses around him, sire, you'll be unable to strike down Medeus. If we don't do something soon, then the other dragons will awaken, and this battle will rapidly escalate into mayhem.
+Marth: Then, what do you suppose I do? How on earth can we save them?! Tell me, Jagen!
+Jagen: I... I do not know... But, if we are to defeat Medeus, we must stop at nothing...
+Marth: What?! ...You can't mean to kill them?!
+Jagen: It may be... necessary. As they are now, they suffer greatly. We must save them, even if it should cost them their lives...
+Marth: Jagen, this--is this really a decision I must make?
+Jagen: You are Altea's crown prince, sire. A ruler must be ready for anything, though it may cost them their happiness. That is all.
+Marth: Enough, Jagen. I understand. Still, I cannot accept it. There must be another way. Even till the very end, I will never give up!!
+Jagen: Kris, I know how Prince Marth feels. Please, I beg of you... Please find a way to save them.
+Kris: Understood. I will try my best. But if the occasion should arise... Even if Prince Marth himself refuses, I shall release them from their misery... But for now... I don't want to think about it. I still want to hope.
+Jagen: Kris......
+
+@Recruit-Talk 
+%Julian,Lena
+Julian: Lena, snap out of it! C'mon, it's me! Julian! What's wrong with you, Lena? I know I'm a good-for-nothing scoundrel, but for you, I'd do anything. I don't want anything else-- I just want to see your smile again. Hey, Lena; could you smile for me? Please...
+Lena: Oh... Julian...? You came. I knew you'd find me. I knew it. That's why, I could continue struggling in the darkness of my soul... Julian, I'm sorry. I've always been a bother to you.
+Julian: Are you kiddin' me, Lena...? I'm just happy to hear your voice again.
+Lena: Julian, there's something I'd like very much. Will you listen?
+Julian: Huh? Sure, Lena, hit me. So long as it's within my power...
+Lena: Could you call me... "honey"? You're always "Lena" this and "Lena" that. You speak as though we're barely friends-- and I don't like that feeling. That just won't do, especially not after we settle down together in Macedon.
+Julian: Huh? ...What're you talking about, Lena...? Er... I mean... H-honey... Don't tell you and I are gonna...
+Lena: Uh-huh... I'm sure God will forgive me. After all, you... You mean the world to me.
+
+%Minerva,Maria 
+Minerva: Maria! Please, wake up! It's me, Minerva! What's happened to you?! Get a hold of yourself.
+Maria: Unh... Ah... Minerva... A-ahhhhhh! Medeus is...
+Minerva: Shh. It's alright now. Everything's going to be okay. I'm so sorry, Maria. I've left you alone for so long...
+Maria: Minerva... I was scared... I was so scared... Oh! How is Michalis? I think he fought Gharnef to save me.
+Minerva: Michalis... is fine. Don't worry, Maria.
+Maria: Really? Then, once we go home, we'll be together again just like before? I'm so glad, Minerva! Oh, I hope we can see him soon.
+Minerva: Maria......
+
+%Sirius,Nyna 
+Nyna: Ahh... I've done something terrible. I was too foolish... I hurt Hardin... I drove him to despair.
+Sirius: My queen... Prince Marth has ended Hardin's suffering. The Emperor loved you till the very end. He was sorry for what he'd done to you. It's alright now. You need not worry. It was all just a bad dream...
+Nyna: ...... Who......? Oh...! You're... Camus...?! Camus!! Why... Why are you... This is a dream, isn't it?
+Sirius: Nngh! ...My queen... You are mistaken... I am Sirius, a soldier of the allied forces. I know not of this Camus...
+Nyna: Sirius...?! ...It can't be... No! You're wrong!! You're...
+Sirius: Please, calm yourself; you must be exhausted. I must depart soon. Queen Nyna, listen to me... You should head to Prince Marth.
+Nyna: You... Where are you going?
+Sirius: I must go to my country. There's... someone waiting for me.
+Nyna: Is... Is that so...? I see... Sirius... Thank you. I am most grateful.
+Sirius: ...Forgive me...
+Nyna: Pardon...?!
+Sirius: No... It is nothing... Now, Queen Nyna; go!
+
+%Merric,Elice 
+Merric: Princess Elice! It's me, Merric. Snap out out of it! I--I studied magic ferociously, all so that I could protect you... I'm sorry... I failed. I couldn't be by your side, when you needed me most. Elice... Please. Please open your eyes!
+Elice: Merric...? ...Ah! Oh, Merric! Help me... Gharnef is... I'm so frightened... Please help me!
+Merric: Elice! Thank goodness, you've come back! It's alright now. I'm here, so... Oh... but Prince Marth is... Everyone's watching, so we can't... Oh well... *ahem* Elice, I'll never leave your side again. No matter what may come between us... Never again shall I abandon you!
+
+@Battle 
+Elice: Forgive me, Marth... I've been such a burden.
+Nyna: We're all safe now. We're free of the Shadow Dragon's power.
+Maria: Prince Marth! Finish him off!
+Lena: We will heal the wounded, so that no one else shall die...
+Kris: Sire, good news. The princesses have come back to us. Your kindness has saved their souls.
+Marth: Thank goodness. I'm too happy for words. I suppose some battles require sacrifice... But that matters not... I won't give up--not now, not ever! Together, we will win this battle!
+Medeus: YOU PRESUMPTUOUS HUMANS... HOW DARE YOU--!
+Marth: Shadow Dragon Medeus! Now, nothing stands between this blade and you. Come, let's settle this!
+
+@Boss 
+Medeus: I HAVE... REVIVED... FOOLISH HUMANS... I WILL LEAVE... NONE ALIVE...
+
+Medeus:
+GWAH...! WHY......? WHY... HAVE I... BEEN DEFEATED... SO EASILY...? IS THIS... THE POWER... ...OF NAGA'S... BINDING SHIELD...? KNOW THIS, HUMANS... THIS LIGHT IS ONLY A BRIEF RESPITE... SO LONG AS EVIL LURKS WITHIN THE HEARTS OF MAN... SHOULD THIS ACCURSED SHIELD BE LOST, WE SHALL RISE FROM THE DEPTHS OF HELL... DO NOT... EVER FORGET...
+
+Medeus:
+GAHAHA... NAIVE HUMANS... DON'T THINK YOU'VE WON! YOUR NAIVETE... SHALL BE YOUR UNDOING... MY NOBLE THRALLS... BECOME MY FLESH AND BLOOD... GIVE ME YOUR STRENGTH!
+
+%Marth,Medeus
+Medeus: DO YOU PLAN TO... DEFY ME ONCE MORE... DESCENDANT OF ANRI...?
+Marth: No matter how many times you return, mankind will never surrender! This long battle... I will end it here, once and for all!
+
+%Kris,Medeus
+Medeus: A MERE HUMAN SUCH AS YOURSELF... WISHES TO CHALLENGE ME...? HOW FOOLISH...
+Kris: I have come this far, just for this moment. My death means nothing, for Prince Marth will create a bright future for us all...! As long as I have that hope, I'll fight on. I'll come at you with everything I've got!
+
+@Recruit-Battle 
+Elice: WE WILL KILL ALL... WHO DEFY... LORD MEDEUS...
+
+Maria: WE WILL KILL ALL... WHO DEFY... LORD MEDEUS...
+
+Nyna: WE WILL KILL ALL... WHO DEFY... LORD MEDEUS...
+
+Lena: WE WILL KILL ALL... WHO DEFY... LORD MEDEUS...
+
+Maria: Ah, Minerva, sister...
+
+Nyna: Camus... Save me...
+
+Elice: Ah, Merric...
+
+Lena: Ah, Julian...
