@@ -4,6 +4,9 @@ import csv
 import glob
 import sys
 
+# output_path = os.path.join(os.getcwd(), "data", sys.argv[1])
+# input_path = os.path.join(output_path, "chapters")
+
 path_to = os.path.join(os.getcwd(), "data", sys.argv[1])
 path_from = os.path.join(path_to, "chapters")
 
@@ -16,6 +19,8 @@ genders = {
 }
 
 file_content = {}
+
+print("Running transitions on " + sys.argv[1])
 
 # reading JSON
 for filename in glob.glob(os.path.join(path_from, "*.json")):

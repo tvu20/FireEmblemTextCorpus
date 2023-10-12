@@ -1,0 +1,17 @@
+pairing,from,to,frequency
+--,-,-,379
+-A,-,avatar,122
+A-,avatar,-,101
+AA,avatar,avatar,98
+F-,female,-,65
+FF,female,female,56
+-F,-,female,53
+MM,male,male,42
+AF,avatar,female,41
+-M,-,male,36
+FA,female,avatar,32
+MF,male,female,28
+M-,male,-,25
+FM,female,male,22
+MA,male,avatar,14
+AM,avatar,male,10

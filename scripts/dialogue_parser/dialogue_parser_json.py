@@ -4,9 +4,9 @@ import json
 import glob
 import sys
 
-game_path = os.path.join(os.getcwd(), "data", sys.argv[1])
+game_path = os.path.join(os.getcwd(), "input", sys.argv[1])
 
-output_path = os.path.join(os.getcwd(), "src/data", sys.argv[1])
+output_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
 file_content = {}
 
@@ -15,6 +15,8 @@ narration_tags = ["opening", "narration"]
 people_tags = ["boss", "recruit-talk", "battle-talk", "boss-talk"]
 
 avatar_tag = ''
+
+print("Running dialogue parser on " + sys.argv[1])
 
 
 # ----------------------------------

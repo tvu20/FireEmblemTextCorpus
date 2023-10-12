@@ -4,10 +4,10 @@ import json
 import glob
 import sys
 
-path_to = os.path.join(os.getcwd(), "data", sys.argv[1])
+path_to = os.path.join(os.getcwd(), "input", sys.argv[1])
 path_from = os.path.join(path_to, "chapters")
 
-output_path = os.path.join(os.getcwd(), "src/data", sys.argv[1])
+output_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 input_path = os.path.join(output_path, "chapters")
 
 tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "character-falls", "dialogue", "boss", "recruit-talk", "battle-talk"]
@@ -17,6 +17,8 @@ gender_info = {}
 file_content = {}
 file_content["descriptions"] = []
 file_content["counts"] = {}
+
+print("Running character list on " + sys.argv[1])
 
 with open(os.path.join(os.getcwd(), path_to, "genders.json"), 'r') as f:
     gender_info = json.load(f)
