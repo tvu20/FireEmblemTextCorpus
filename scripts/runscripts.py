@@ -10,6 +10,12 @@ for game in games:
     command = dialogue_parser + " " + game
     subprocess.call([sys.executable, dialogue_parser, game])
 
+text_data = os.path.join(os.getcwd(), "scripts", "dialogue_parser", "text_data_csv.py")
+
+for game in games:
+    command = text_data + " " + game
+    subprocess.call([sys.executable, text_data, game])
+
 character_list = os.path.join(os.getcwd(), "scripts", "characters_list.py")
 
 for game in games:
