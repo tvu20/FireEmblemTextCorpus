@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public",
     "start": "webpack-dev-server .",
     "build": "Webpack .",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/tvu20/FireEmblemTextCorpus/issues"
   },
-  "homepage": "https://github.com/tvu20/FireEmblemTextCorpus#readme",
+  "homepage": "https://tvu20.github.io/FireEmblemTextCorpus",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
     "@babel/core": "^7.23.0",
@@ -31,6 +33,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-jest": "^27.4.2",
+    "gh-pages": "^6.0.0",
     "path": "^0.12.7",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
