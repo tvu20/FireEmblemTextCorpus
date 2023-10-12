@@ -13,6 +13,10 @@ const Scripts = () => {
         for a given game and creates a chapter summary json file
       </li>
       <li>
+        <i>text_data.py</i>: for each game, compiles every dialogue line into
+        csv format
+      </li>
+      <li>
         <i>characters_list.py</i>: for each game, creates the speakers.json file
         using all the characters present in the transcripts
       </li>
