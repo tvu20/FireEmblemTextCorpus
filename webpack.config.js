@@ -8,21 +8,25 @@ module.exports = {
    * the environment - development, production, none. tells webpack
    * to use its built-in optimizations accordingly. default is production
    */
-  mode: "development",
+  mode: "production",
   /** "entry"
    * the entry point
    */
   entry: "./index.js",
   output: {
-    /** "path"
-     * the folder path of the output file
-     */
-    path: path.resolve(__dirname, "public"),
-    /** "filename"
-     * the name of the output file
-     */
-    filename: "main.js",
+    path: path.resolve(__dirname, "dist"),
+    filename: "bundle.js",
   },
+  // output: {
+  //   /** "path"
+  //    * the folder path of the output file
+  //    */
+  //   path: path.resolve(__dirname, "public"),
+  //   /** "filename"
+  //    * the name of the output file
+  //    */
+  //   filename: "main.js",
+  // },
   /** "target"
    * setting "node" as target app (server side), and setting it as "web" is
    * for browser (client side). Default is "web"
