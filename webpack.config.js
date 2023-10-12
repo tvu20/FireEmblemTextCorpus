@@ -9,6 +9,7 @@ module.exports = {
    * to use its built-in optimizations accordingly. default is production
    */
   mode: "production",
+  // mode: "development",
   /** "entry"
    * the entry point
    */
