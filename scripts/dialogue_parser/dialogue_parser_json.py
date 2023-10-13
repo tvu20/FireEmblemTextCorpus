@@ -10,9 +10,9 @@ output_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
 file_content = {}
 
-normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene"]
+normal_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene"]
 narration_tags = ["opening", "narration"]
-people_tags = ["boss", "recruit-talk", "battle-talk", "boss-talk"]
+people_tags = ["boss", "recruit-talk", "battle-talk", "boss-talk", "recruit-battle"]
 
 avatar_tag = ''
 
@@ -246,7 +246,7 @@ for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
                 boss_talk(text, person_1, person_2, tag)
             elif tag == "battle-talk":
                 battle_talk(text, person_1, person_2, tag)
-            elif tag == "boss":
+            elif tag == "boss" or tag == "recruit-battle":
                 boss(text, person_1, person_2, tag)
             else:
                 continue

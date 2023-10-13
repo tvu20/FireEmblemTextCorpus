@@ -51,6 +51,37 @@ const Inputs = () => {
             Serenes Forest Wiki
           </a>
         </li>
+        <li>
+          <a
+            href="https://drive.google.com/drive/folders/1yqlml9m1Lzwq-Y_rjQ1BZ4oLJGKfCi_7"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Official release of Project Naga Script Repository
+          </a>{" "}
+          - compiled by reddit user Skelezomperman
+        </li>
+      </ul>
+      <h3>Notes about transcripts</h3>
+      <ul>
+        <li>
+          FE1-6 and FE12 are not localized, so I have compiled translations of
+          their scripts. Characters are referred to by their localized names in{" "}
+          <i>Fire Emblem Heroes</i> if possible.
+        </li>
+        <li>
+          These transcripts assume that canon events occur - in particular,
+          dialogue assumes that all playable characters are alive and recruited.
+          If there are significantly different branching dialogues depending on
+          someone's death, this is denoted by the branch path tags (explained
+          below).
+        </li>
+        <li>
+          For the FE4 transcripts, I assume that every female character from Gen
+          1 was paired. If the replacement units have unique conversations then
+          they are included; otherwise, I assume the person talking in the story
+          is the original unit.
+        </li>
       </ul>
       <h3>Guide to transcript text files:</h3>
       <h4>Main tags</h4>
@@ -82,7 +113,7 @@ const Inputs = () => {
         </li>
         <li>
           @Boss-Talk: Dialogue if you talk to a chapter boss outside of fighting
-          tehm
+          them
         </li>
         <li>
           @Narration: Narration that doesn't occur within an opening of a
@@ -112,6 +143,7 @@ const Inputs = () => {
         <li>battle-talk: %person1,person2</li>
         <li>boss: %unit,boss</li>
         <li>boss-talk: %unit,boss</li>
+        <li>recruit-battle: %unit,boss</li>
       </ul>
       <h4>Titles</h4>
       <ul>
@@ -120,6 +152,18 @@ const Inputs = () => {
         <li>in dialogue: #avatar-F represents female avatar</li>
       </ul>
       <p>Note about avatar tags - they reset on the next @ or % tag</p>
+      <h4>Branching dialogue</h4>
+      <ul>
+        <li>
+          ^start - indicates beginning of section with branching dialogue - only
+          one possible per playthrough
+        </li>
+        <li>
+          ^locked - indicates beginning of section that requires prerequisites
+          to unlock
+        </li>
+        <li>^end - indicates end of branching section</li>
+      </ul>
     </>
   );
 };

@@ -1,0 +1,474 @@
+@Opening 
+Word of the first victory of Prince Seliph and his liberation army quickly spreads far and wide, inspiring courage anew in the Empire's victims. Still more uprisings erupt across Jugdral, but once again, precious few are properly organized and are easily crushed, and the death toll climbs ever higher... 
+
+Leonster, a kingdom in the Thracian Peninsula... Prince Leif, the son of Quan, had raised an army with the aid of the knight Finn, but they have suffered a devastating loss before King Blume's vast hordes and are stranded in hostile ground. 
+
+Before Seliph lies the Yied Desert, ruled by the Loptyrian Ctuzof from the Yied Shrine; the oasis city of Darna, governed by the ex-merchant Bramsel and the captain of his sellsword army, Jabarro; and Fort Melgen, guarded by Prince Ishtore and the renowned General Liza. King Blume himself, the son of the late Duke Reptor, awaits at the capital city of Alster with his niece, the mage Tine. 
+
+In Rivough, Seliph and the warriors of his liberation army now prepare themselves to embark on a journey and come to the aid of their allies in far-away Leonster. Each warrior sets aside their worries as, under Seliph's leadership, they prepare for the new battle on their horizon.
+
+@Intro 
+Leif: Finn, what's the situation? Any word from the other division yet?
+Finn: ...We've failed, milord. Every last soldier in the Alster raid is dead. This is a crippling blow to our army. We've lost most of our might in one fell swoop.
+Leif: This can't be happening... I thought this was our big chance... Was all of this useless all along? Damn it all! I'll strangle Blume himself with my bare hands!
+Finn: Please calm yourself, milord! This isn't the end quite yet. I've just had a word with King Lewyn. He's sending Prince Seliph's liberation army to back us up. Until then, no matter what, milord, we must endure the siege.
+Leif: Prince Seliph, you say... He's the son of my father's old friend Sigurd, and of Empress Deirdre, right? I pray we can meet him soon... Perhaps if we merge our efforts with his, we'll have a better chance of protecting people from the Empire.
+Nanna: That's right, Leif! Besides, if we just let ourselves lose now, wouldn't your men's death's all be in vain? I think we should abandon the castle for now, and seek refuge near that western church.
+Leif: Mm, you're right... I suppose we don't have much of a choice now. Very well. Our priority now is to play this out defensively for the time being. Until Prince Seliph gets here, we must endure…
+
+Blume: What's your problem now?! Can't you capture even as worthless a castle as this? Are you worms taking this seriously?
+General: Y-yes, milord... The thing is, though, the enemy is proving to be of a resilient sort. We're struggling to breach their defenses.
+Blume: Buffoons, all of you! Do you really think I want to hear excuses? I want Leonster seized! No more delays! If you waste any more time on this, then we'll have to contend with those Isaachian mongrels as well!
+General: Y-yes, milord! We will strike immediately, milord!
+
+Patty: Hooboy, those rumors weren't kidding! That place was full to the brim with treasure. Been a long time since I've had a haul like this! But I can't afford to dawdle now. Still gotta get out of here, and quick…
+Shannan: Hey, excuse me! Hand that sword over. You can keep everything else, but I need the sword.
+Patty: Where do you think you get off, trying to take somebody else's hard-earned goods? Do you have any idea how tough it was to get my hands on this sword? If you want it, come and get it, nincompoop! 
+Shannan: W-wait!
+
+Ctuzof: What? Thieves have plundered our treasury? And they absconded with Balmung?! You fools! Go seize them! Now!
+Dark mage: Y-yes, Your Grace... But, er, Your Grace... Surely a master of dark magics of your caliber could crush common thieves such as these with a single blow, even from here?
+Ctuzof: I've misplaced my Book of Fenrir... My men are scouring the shrine to find it, but so far it has yet to emerge...
+Dark mage: Understood, Your Grace. In that case, my clan and I will take a few mercenaries and pursue them. We swear to you, Your Grace, that we will have the treasure back where it belongs post-haste!
+
+Seliph: So the route to Leonster requires that we cross this vast desert, yes?
+Lewyn: Yeah... The Yied Shrine's the real problem here, as it's controlled by the Loptyrian Order. The Order's fell mages infest the desert, mercilessly assaulting anyone they find in it. People've taken to calling the region the Desert of Death... A fitting name, really.
+Seliph: I can only imagine how awfully travellers struggle here! I wonder... Perhaps it'd be possible to seize the Shrine from the Order.
+Lewyn: Heh, I thought you'd never ask. There's always a way, but this one won't be easy. We may need to make sacrifices.
+Seliph: So be it. At this point we've little choice. Not to mention, Shannan is likely still in the desert... For now, let's focus on taking control of Yied . All else will begin there!
+
+@Battle 
+Soldier: Milord, we've received word that the Isaachian rebels are on the move.
+Bramsel: Isaachian rebels? Ah, the ones led by that brat... Celice, was it? Or Serlis? Something like that. Heh... Interesting. Very interesting, indeed! The Empire's put a hefty price on that boy's head. Let's make sure we're the ones to rake in that bounty, shall we? Keep our border locked down for the time being. The best option is to let them run themselves ragged, leaving them wide open to our strike! Instruct Commander Jabarro to put his squad on standby. His services will be needed in short order!
+
+Lene: Hey, what's with all this noise? You're not about to go to war, are you?
+Ares: No, we've not entered such a dire state yet. For the time being, we are merely preparing for the arrival of the Isaachian rebel army.
+Lene: Oh, that's good. I guess I'm a bit worried about how you're gonna have to go and fight, too, Ares…
+Ares: What sorry excuse for a mercenary would I be if I refused to join a battle, Lene? Never mind one which, rumor has it, will oppose Sigurd's son... Never would I deny a chance to personally slay the spawn of my father's mortal foe…
+Lene: Hee hee! You're still going on about that, are you? Oh, you dolt. I mean, think about it. Both your father and that Sigurd man were knights, weren't they? And isn't killing part of a knight's job? It's like my job. Sometimes, I've got to dance for foul, leering men! I hate it, but it's part of the work. I have to just deal with it. We've all gotta do what we gotta do to get by in life. I dunno... I just don't think it's right to hate someone for doing their job.
+Ares: Lene... I understand. I'll have to think it over for a time, but I do understand…
+
+Dark mage: Good news, Your Grace. We've found your Book of Fenrir.
+Ctuzof: Hmm? Excellent! Heh heh... This will be the end of the road for the rebels! With their dying thoughts, they shall marvel in fear at the terrifying power of Fenrir…
+
+Seliph: So this is the Yied Shrine... It looks so sparse...
+Lewyn: The remnants of the Loptyrian Empire have hidden within the depths of the shrine for generations. They had no choice. Trying to build new lives on the surface would have led to their mass persecution, or even being burned at the stake. I suspect that at first they weren't really bad or unusual people, but before long, their life here twisted them into what we know them as today.
+Seliph: I can hardly believe it... It's as if they were all being tortured for the sins of their long-dead Imperial ancestors... All my life, these people have been branded as the "dark cult", or the "devil's kin"... I can barely imagine their pain... Hold a moment. This scribble on the wall... Is that a child's penmanship? It's a prayer... And it begs for the return of the dark god... ...Was Loptous the only hope these people had?
+Lewyn: Yeah... Consider this a lesson, Seliph. Good and evil can't be easily reduced to such simple, black-and-white ideals. If you must hate, hate the evil which lurks in us all, not the individual. Never forget this.
+
+Bramsel: Yied's fallen, has it? Heh... Perfect. Open our borders! We'll let them proceed through toward Fort Melgen, let them wear themselves out some more, then strike their wide-open backs! Kehehe... It's almost too easy to be any fun! Wouldn't you say, Jabarro?
+Jabarro: Heh, just another hard day's work for you, sir... But hey, so long as you're payin' the bills, my men've got nothin' to complain 'bout. 'Bout time we had a good fight, anyhow.
+
+Ishtore: Hmm... The rebels have already taken Yied? Liza, what do you make of the situation?
+Liza: I suspect their most likely aim is to come to the aid of the Leonster rebels. As it stands, Ishtore, your father is still preoccupied besieging them at Leonster. Should they reach Alster and strike while he's occupied, the results would be disastrous... It is imperative that we intercept them here and now. Our force will be more than enough.
+Ishtore: Indeed... My lord father could use the aid. Liza, may I place you in command of my army?
+Liza: Certainly. Leave everything to me, milord.
+Ishtore: I confess I'd rather keep you away from the eye of the storm, but there's nobody whom I could ever trust more than you. My apologies, Liza.
+Liza: I... Rest assured, milord. You've nothing to worry about. Just... Please, Ishtore, be careful... Now, excuse me... Men, move out! Assume your positions!
+
+Bramsel: Ohohohoho! Lene, was it? That was quite the dance there! Come hither. I have a little reward for you...
+Lene: Eww, how rude! You get off your butt and come over here if you've got something to give me!
+Bramsel: Hohoho! As cute as that fiery heart is, mouthing off to me so violently? I can't say I care so much for that. Bring her to me!
+Lene: W-what d'you think you're doing?! Let go! Let! Me! Go! You ANIMALS!
+Ares: Hold! Take your hands off the girl, craven scum!
+Bramsel: What? And who exactly are you? How dare you, a common sellsword, turn your blade on your employer!
+Ares: Nobody shall lay a hand on her, lest you face severe consequence. Are we clear?
+Bramsel: Gah... What is this sorry little pantomime?! Seize him! End his little life!
+Ares: You all see my sword, correct? I trust I need not introduce the demon blade. Beware, for Mystletainn craves the blood of men! Who dares to come forth and slake its thirst?
+Bramsel: M-Mystletainn?! That's the one and only demon blade? Th-then you... It can't be...
+Ares: Oh, but it can. It is indeed I: Ares, the Black Knight.
+Bramsel: M-my deepest apologies, sir! I was merely jesting about! Look, I'll never lay hands on the little darling ever again! You forgive me, right? Right?
+Ares: ...Very well. Lene, are you unharmed?
+Lene: Yeah... Thank you, Ares...
+Bramsel: Gah... Damn them both! I'll make them suffer... You'll see…
+
+Lewyn: At last, Seliph, you've reached Melgen. Leonster's just a stone's throw from here.
+Seliph: Say, Lewyn... Will this war ever end? I still doubt that Prince Ishtore or his general were truly wicked people... Must we kill still more like them?
+Lewyn: That may be so, but don't forget they still actively served the will of a brutal tyrant. As far as our cause is concerned, there is no doubt. They were the enemy. This is a war, Seliph. There's more to it than only ever fighting the thoroughly evil, or those whom we hate.
+Seliph: I suppose so...
+Lewyn: Heh! It's okay, Seliph. You're a good man, through and through. You could just stand to worry a bit less. Now, then! We've got our goal to focus on: coming to the rescue over in Leonster.
+Seliph: Indeed. Let's move in on Leonster. Everything shall be there!
+
+Bramsel: What? Melgen's fallen already?! Blast! We were too slow! Oh, well. We can still ambush them while they regroup. Men, this is our chance! Jabarro, send in your brigade! Hit them hard while their backs are turned! Leave no survivors!
+Jabarro: At once, sir!
+Lene: D'you really have to go, Ares? Please don't leave... Please!
+Ares: I've little choice in the matter. It was Jabarro who found me as a lost infant, and raised me all these years. I owe him dearly...
+Lene: Don't you get it? He's just using your loyalty to treat you like a weapon! I... I hate him so much!
+Ares: Lene... No that isn't...
+Lene: Okay, fine! Whatever! Go with him, if you love him so much! It's your life to waste, after all! But you can just go forget we ever met!
+Ares: Lene…
+Bramsel: Hmph... That Ares buffoon has gone, has he? Good riddance…
+Blume: Banba! Fetra! Eliu! Deploy at once! I want you to show these rebel pigs just what it is that the Empire can do!
+Banba: Yes, milord. Leave it to us.
+Fetra: We will never let you down, milord.
+Eliu: The rebels shall be destroyed quickly, cleanly, efficiently and utterly. Excuse us, milord.
+Blume: Hmm! Everything depends on you. Tine. You, too, will deploy at once.
+Tine: ...Y-yes, uncle. As you wish...
+Blume: Hmph... One would think I could expect more gratitude from someone I raised out of the goodness of my heart after their mother died. Or have you forgotten my many kindnesses?
+Tine: No, uncle...
+Blume: Good. Now, get moving. Remember, these rebels are responsible for murdering my dear son, Ishtore, and his true love, Liza! Avenging them is your mission, Tine!
+
+Blume: The rest of you, move out at once! I don't want a single rebel left breathing!
+Banba: Fetra. Eliu. I trust you already understand. We must work in absolute, perfect unison. We will be the ones to claim Seliph's head as a trophy this day. We mustn't be beaten by Tine’s unit.
+Tine: I don't understand... All the villagers talk of the rebels as if they're liberating heroes... But why... Why did they kill Ishtore? I... I don't know what to do anymore... Oh... Mother... What would you do…
+
+Bramsel: There you are, girlie! How dare you embarrass me like that the other day. It's about time I thanked you properly!
+Lene: Oh? And what exactly're you gonna do about it? I see right through you! The moment Ares is nowhere in sight, you think it's okay to act all tough again, you vile louse! Don't even think about coming any closer. I don't need Ares around to stop you!
+Bramsel: Of all the nerve... You little wench! Throw her in the dungeon! You'll have plenty of time to think about what you've done there!
+Lene: Ahh! No... Ares…
+Jabarro: Y'know, I don't get you Ares. Why the hell'd you go and get yourself all cosied up with a broad like that? Oh well, I guess. It's all in the past. You're gonna forget 'er sooner or later.
+Ares: I beg your pardon? What exactly are you trying to say, Jabarro?
+Jabarro: Heh heh... Oh, nothing. Well, 'cept that I bet Bramsel's right about to...
+Ares: T-this can't be... Jabarro! How could you know his foul intent, yet let your tongue lie still before me?!
+Jabarro: You can't worry 'bout the fairer sex, Ares. Have your fun with 'em, but never stick around for when their sorry lives come crashin' down...
+Ares: How dare you! And to think you held my trust for so long... I must return to Darna! Lene needs me!
+Jabarro: Nah, that ain't gonna happen, see. Nobody, and I mean nobody, blows off my orders and turns tail on my watch! Not even you, Ares.
+Ares: Keh... I've come far in your company, Jabarro, but our association ends now. If anyone wishes to stop me, Mystletainn will eagerly welcome your necks!
+Jabarro: Grr... I'll show you your place, whelp!
+
+Seliph: So this is Darna... The legendary city...
+Lewyn: Long ago, at the peak of the old holy war, Darna was the last bastion of the resistance army... It was the last free land in Jugdral. In battle after battle, the overwhelming might of the Loptyrian Empire had devastated the resistance. Ultimately, the last of the resistance soldiers barricaded themselves within Darna's walls. Battered and wounded as they were, they were nonetheless determined to fight to the bitter end. But then, suddenly, there was a miracle... From the heavens descended twelve gods, who bestowed upon twelve young heroes miraculous weapons and immense powers. Thus were born the Twelve Crusaders, the heroes who led the resistance to victory.
+Seliph: That was the legendary Miracle of Darna, yes?
+Lewyn: Yeah, the very same. And even as we speak, Seliph, another miracle is dawning upon us. Just as the resurrection of Loptous looms on the horizon, so too are the Crusaders themselves arising in our world once more...
+Seliph: ...I beg your pardon?
+Lewyn: Heh... Don't worry, Seliph. You'll understand soon enough…
+
+Ares: I pray that Lene is still unharmed. I must hasten back to Darna…
+
+Seliph: Right. Leonster is back under our control. That leaves only Alster... Everyone, we've only a little further to go. We can do this!
+
+@End 
+Seliph: Julia?! You’re safe! Oh, thank heavens…
+Julia: Mm… The enemy seized and imprisoned me here, but I knew… I knew you would rescue me, no matter what.
+
+Lewyn: Excellent work, Seliph. Thanks to you, Alster is finally free from the Empire.
+Seliph: I wouldn't get too excited, Lewyn. King Blume yet lives. I assume he fled to Connaught amidst the flurry of Alster's capture.
+Lewyn: Eh, these sorts of things can't be helped. After all, the war's only just beginning. We're only now starting to carve our foothold in the Thracian Peninsula.
+Seliph: And yet, the citizens are already all so eager to support us! I've seldom seen such joy...
+Lewyn: For the first time, they've got hope for a future free from the Empire's abuse. You're the people's last hope, Seliph, but the worst of the war still lies ahead, huh?
+Seliph: Mm. And yet, I've so much incredible talent fighting by my side! With such amazing men and women with me I know no challenge will be too great!
+Lewyn: Yeah... You'll all do just fine, Seliph.
+
+@Visit 
+Young woman: Darna is lorded over by Count Bramsel, who's as revolting as they come! If he isn't playing the slimy sycophant to some visiting Grannvale noble or other, he's prancin' around like he's the gods' gift to kings! Ugh... The sooner somebody sticks a sword through that pig of a man, the better!
+Old man: It ain't that simple, though. Standing between you lot and Bramsel is the best mercenary force his money can buy. One of 'em, Ares, is the strongest of 'em all. He's still just a kid, really, but he's frightfully strong, 'cause he's got this magic blade called Mystletainn. From what I heard, the mercenary captain, Jabarro, found Ares as a wee little kid and took him in. The two're real close, I hear. You ain't got much of a chance against Ares. Sorry to rain on your parade like that, kid. Here, take this shield ring as an apology. You oughta be able to get some use out of this.
+
+Man: Blume's got some terrifying warriors on his side. There's Banba, Fetra and Eliu, a trio of powerful sorceress sisters. Then there's Tine, a young mage... Blume's niece she may be, but that girl's still got a kind heart on her. She's come to our aid and the aid of our neighbor villages time and again... She's nothing like her family…
+
+Old man: King Blume and his queen, Hilda, have got two children between 'em: Ishtar and Ishtore. Ishtar's ruling over Munster right now, and Ishtore's posted at Fort Melgen, both doing Blume's dirty work. Unlike their folks, they're fine youths. You'll be sure to face 'em sooner or later... Be on your guard, stranger.
+
+Young man: Near the end of the war all those years ago, this entire region was conquered by King Blume, the son of Duke Reptor. His rule's been one tragedy after another... Just when we thought he couldn't get any worse, now he's just letting those child hunts happen! We can't take this anymore…
+
+Woman: The Empire's brutal rule has broken us so... We can't live like this much longer. Please, I beg of you... Save us all…
+With Leylia
+Anna: You’re fighting in the war, right? I bet there’s someone you care about who you’re fighting for. My boyfriend set off to fight in the war, too. I’m not exactly a fighter myself. Not much I can do but wait for people like you to finish it… Oh, I know! Here, this charmed blade’ll boost your resistance. Go on. This one’s on the house. Be sure to make some nice, deep cuts in some Imperials for me, won’t you, sweetie?
+Leylia: Thanks, miss! I’ll take good care of it. Hey, what’s your name anyway?
+Anna: Me? The name’s Anna, and my boyfriend’s called Jake. If you see him, be sure to tell him that Anna’s worried sick!
+Leylia: Jake…?
+
+Old Woman: Ahh... The liberation army... It's a blessing to know that Prince Leif has finally taken a stand. Lord Quan... Lady Ethlyn... I pray you're both proud of your son... Please, kind knight, accept this speed ring. I'd like you to wear it proudly to your battles.
+
+@Battle-Talk 
+%Seliph,Shannan
+Seliph: Shannan! I'm so glad to see you've made it unscathed.
+Shannan: Yeah, sorry to worry you like that. You went and took back Isaach behind my back, did you, Seliph? I can't thank you enough!
+Seliph: No, we'd still be in Tirnanog if not for you. You inspired us. You gave us your courage. If not for you, we could never have taken to the field!
+Shannan: Heh, you're starting to put on a bit of muscle there, aren't you? You're finally starting to...
+Seliph: Shannan...?
+Shannan: Hm? ...Oh, it's nothing. Pay me no mind, Seliph.
+Seliph: Anyway, we're finally starting to challenge the Empire! Not bad, wouldn't you say?
+Shannan: Heh, not bad at all, Seliph! I've waited so long for this day... We all have, really.
+Seliph: Thank you, Shannan!
+
+%Larcei,Shannan
+Larcei: Prince Shannan! Whew... Glad to see you're still in one piece!
+Shannan: Oh, Larcei! Sorry I wasn't around to see all this begin. From what I've heard, you've all had quite the tough time so far.
+Larcei: Don't worry about it! The important part is that you're safe. I, er...
+Shannan: How's your sword arm doing? Any stronger?
+Larcei: Yeah, but still far below your prowess, sir.
+Shannan: How about a quick lesson to patch that up? See, raw power isn't quite enough here. Try putting a bit more spirit into it... and swing!
+Larcei: Nnn-yah! Like this, sir...?
+
+%Dermott,Nanna
+Dermott: Excuse me. You wouldn’t happen to be Nanna, would you?
+Nanna: I am. And you are?
+Dermott: Perfect! I’ve finally found you! I’m your brother, Dermott!
+Nanna: Huh?! What… are you talking about?
+Dermott: I didn’t know until just now, either. King Lewyn told me everything. In the war seventeen years ago, I was with the kids who fled to Isaach. But you were born after our mother, Lachesis, went to Leonster instead.
+Nanna: You… You’re my brother? Then where’s Mother now?!
+Dermott: Er… Where’s Mother? What exactly are you getting at here, Nanna?
+Nanna: I haven’t seen her in so long… When I was around three years old, she left us and travelled alone to Isaach, to try and find you. She never came back. I’ve waited to see her again for years…
+Dermott: She did? But… but I never saw her!
+Nanna: You… didn’t? Then where is she…
+Dermott: The Yied Desert… It’s a very treacherous place. Very few lone travellers survive it…
+Nanna: ...No! Oh, Mother…
+
+%Tristan,Jeanne
+Tristan: Excuse me. You wouldn't happen to be Jeanne, would you?
+Jeanne: I am. And you are?
+Tristan: Perfect! I've finally found you! I'm your brother, Tristan!
+Jeanne: Huh?! What... You can't be serious!
+Tristan: I'm being completely serious! See, our father was a knight of House Nordion. When we were both still little, he was killed in the Agustrian civil war, and we were adopted by Lord Sgiurd's army. We later fled to Isaach with Sir Oifey, but we somehow lost you along the way...
+Jeanne: Huh... That actually fits. I was adopted by a travelling merchant, who once said he found me in Isaach.
+Tristan: Yeah... Sir Oifey's always said he wondered if something like that happened.
+Jeanne: But then, when I was just seven years old, some Imperial thug murdered him... That's when Finn found and adopted me.
+Tristan: Wow... that sounds just awful. I'm sorry you had to deal with that, Jeanne.
+Jeanne: No, it's okay. I mean, now I have you! I'm so happy I finally have a brother... Thank you, Tristan! Let's never be parted again…
+
+%Oifey,Dermott
+Oifey: Say, Dermott. You have a sister in Leonster, don't you?
+Dermott: Yes, sir. We were separated when we were very young. From what I've heard, she grew up with Sir Finn, a knight of Leonster.
+Oifey: Sir Finn, you say... You're eager to have the chance to see her again, aren't you?
+Dermott: Yes, sir. I can hardly wait!
+Oifey: Heh. You'll have to give this battle your all first, then! How about a quick swordplay lesson?
+Dermott: Yes, sir! I'd appreciate that!
+
+%Shannan,Patty
+Patty: Kyaaaaaaa! Stop! Get your hands off of me!
+Shannan: Ugh... Look, I don't want to hurt you. Could you just give me that sword back?
+Patty: Wait... give it back? Is it yours?
+Shannan: Yes, it is! It's my family's ancestral blade, Balmung. I'm the only person capable of using it. You've nothing at all to gain from keeping it.
+Patty: Wait, so how'd this thing end up in Yied, anyway?
+Shannan: It belonged to my father, who died in Grannvale's war with Isaach. Someone must've stolen it from him after he died. I only recently learned that it was being kept at Yied, so I came to retrieve it.
+Patty: Hang on, hang on, hang on! Could it be... Are you Isaach's Prince Shannan?!
+Shannan: I am...
+Patty: Really? It's really, really you?! Wow! Oh my gosh, this is incredible!
+Shannan: Er...
+Patty: No, really, I've heard all the stories about you! All of them! I've been a huge fan of yours for so long, but I never thought I'd actually meet you!
+Shannan: ...
+Patty: But you're here! You're really here talking to me right now! It's like all of my dreams've come true!
+Shannan: ...Yeah, I think I get the idea. My sword, please.
+Patty: Oh, right! Sorry. Here ya go!
+Shannan: Balmung... My holy sword... It's finally mine... Hm? Ahh! What is this power...?!
+Patty: Wooow! This is incredible…
+
+%Leif,Seliph
+Leif: Lord Seliph! What an honor it is to meet you at last. I'm Leif, the son of King Quan of Leonster.
+Seliph: The honor is all mine, Prince Leif! I'm glad to see you've made it thus far unharmed.
+Leif: My parents both died in the Battle of Belhalla's prelude... They were felled by a Thracian ambush. My homeland, Leonster, soon found itself in the clutches of an Imperial occupation, and fell under the reign of its Duke Blume. If not for my knight, Finn, I wouldn't be here today. He raised me in hiding in nearby villages, and we awaited the day Leonster would rise again. We thought that day had finally come, but then...
+Seliph: ...We both took to the battlefield around the same time, did we not? By now practically all of Jugdral knows of King Blume's brutality. I sorely wish my army had made it here sooner and could've properly aided you. You have my deepest apologies, Prince Leif.
+Leif: No, Lord Seliph. I'm the one who should be apologizing. Our failure was squarely my fault. However, this isn't over. I am the son of Quan, a man worthy of being dubbed a Knight of Njörun. I refuse to put to shame his legacy, and so I'll live on. I'll fight on, no matter the cost. To that end, Lord Seliph, my comrades and I would like to join your army. I may not have much of an army left, but what I do have is yours. May we serve you well in restoring honor to Grannvale.
+Seliph: Thank you, Prince Leif. Often I have heard it said that our fathers were inseparable friends, bound together to the bitter end in both life and death. Not to mention, your mother, Queen Ethlyn, is also my aunt... Both of your parents gave their lives to support my father's cause... Prince Leif, you have my deepest, most heartfelt apologies for their sacrifice...
+Leif: Thank you, but that isn't necessary. I am proud of my parents' sacrifice, and I've the utmost respect for Lord Sigurd. The only hatred I bear is for the true villains, Emperor Arvis and King Travant!
+Seliph: As do I... Prince Leif, in the name of our late fathers' last wishes, I seek to restore peace and light to all of Jugdral. Please, join me in my cause!
+Leif: Yes, sir! You have my blade as your own!
+
+@Battle
+Myrmidon: Lord Bramsel has decreed that none shall pass this point for the time being. Move along.
+
+@Battle-Talk
+@Patty,Seliph
+Patty: Kyaaaaa! You're Lord Seliph! Oh my gosh, oh my gosh, oh my gosh!
+Seliph: ...Oh? And who would you be, miss?
+Patty: I'm Patty, the one true love of Prince Shannan!
+Seliph: You're Shannan's...? Er, somehow, I doubt that.
+Patty: Whoops... Okay, you caught me! I'm actually a thief! Well, I used to be. I've had enough of all that now. Now, I want to pitch in with your army instead!
+Seliph: Er... You aren't serious, are you? Military life is dangerous. There's no place for your ilk here.
+Patty: Oh, you sound so sure! You barely have a coin to your name, but if you're gonna win this war, then nothing's more important than money. But with me around, you're not gonna have to worry about money ever again!
+Seliph: I've no use for money obtained by theft.
+Patty: ...You really have no idea, do you, sir? For every last coin carried by an Imperial soldier, there's a poor villager who they took it from. You can't look at all this and say that it's wrong for us to take that gold back! The people of this land've already lost so much... I... I just want to give something back...
+Seliph: I see... Er, my sincerest apologies, Patty.
+Patty: Sniff...
+Seliph: Say, Patty: I'd like you to come with us.
+Patty: Huh? Really? D'you really mean that?!
+Seliph: But of course.
+Patty: Th-thank you, sir! I promise I'll work as hard as I can for you! Oh, that reminds me! Here, take this sword. It's a little present, to commemorate us getting to know each other!
+Seliph: Wow... This is a lovely blade!
+Patty: It's one of those rare brave swords. And it's aaaaall yours, sir!
+
+%Tristan,Rodolbahn
+Rodolbahn: Oi, Tristan! I have to ask you something quick.
+Tristan: Oh. Rodolbahn. What do you want now.
+Rodolbahn: Oh, come on! That’s hardly necessary, is it? Can’t you at least pretend to be happy to see me? Now, as I was saying, here’s a question. I’ve been thinking that we’re kinda dragging Lord Seliph down here. What d’you think?
+Tristan: We? You’re kidding, right? I’m pretty sure you mean yourself. Some of us are actually doing a good job here!
+Rodolbahn: You sure? Come on, then. Let’s hear about that good job that you’ve obviously been doing so far!
+Tristan: Gladly! Why, just today I’ve, er… Let’s see…
+Rodolbahn: Hah! Told you! You can’t remember anything you’ve done if there’s nothing to remember, can you?
+Tristan: Okay, okay! I admit it! I’ve been useless so far! What exactly are you getting at here?
+Rodolbahn: How about a little sparring? Even someone like you oughta be enough of a learning experience! I’m desperate enough to try anything if it means dodging the guard duty shaft. I want to fight on the front lines like the best of ‘em!
+Tristan: You really have no idea how to ask for help, do you? Go away, Rodolbahn.
+Rodolbahn: Okay, fine! How about this? Pleeeeease? Please, please, pleeease be my sparring partner, you wonderful, wise, fantastic, sexy man? ...There, happy now?
+Tristan: Ugh, what else did I expect… Fine, I’ll do it! If it’ll shut you up, that’s good enough for me. Ready? Now draw!
+Rodolbahn: Hyaah!
+Tristan: Ki-yah!
+
+%Ares,Seliph
+Ares: Seliph... At long last, it's you...
+Seliph: Hm? And who would you be?
+Ares: They call me the Black Knight, Ares... Perhaps you would recognize me better, however, as the son of Eldigan.
+Seliph: Huh?! It cannot be... You don't mean the legendary Lord Eldigan of Nordion, do you?!
+Ares: The very same! I am the son of Eldigan the Lionheart, the man whom your father killed in coldest blood! My noble mother, the Lady Grainne, died wracked with grief and rage at Sigurd! It is high time you knew my family's pain!
+Seliph: That's... I don't understand, Ares. As I understood it, your father and mine were the closest of friends. As tragic as their end was, I don't believe our fathers could ever have begrudged each other.
+Ares: That's impossible... Sigurd was my father's mortal foe! This... This is all I've know my entire life...
+Seliph: Please listen, Ares. Would you consider joining my army? I know we can resolve this misunderstanding, if we just give it some time. I hold the late Lord Eldigan in the utmost respect, just as my own father did. Please, Ares. Please understand this.
+Ares: Seliph... Very well. I suppose I can stay my hand for now. However, be warned. Should I learn that even a single word of your claims is false, your life is forfeit in your father's place. Do I make myself clear, Seliph?
+Seliph: If that happens, then do as you must. Ares... I wish you could know just how ecstatic our fathers would be to know we've met at last! If only we'd met under better circumstances…
+
+@Recruit-Talk
+%Arthur,Tine
+Arthur: Excuse me, but... That pendant of yours...
+Tine: Huh? It's... It's a memento of my mother...
+Arthur: Really?! Then you're Tine! Oh, I've finally found you!
+Tine: Er... Who are you?
+Arthur: Here, maybe this'll clear things up. This pendant of mine's exactly the same as yours, and I've had it my whole life.
+Tine: Y-you're right, but... What are you saying?
+Arthur: See, decades ago, my mother was a warrior fighting in Sigurd's liberation army, and after the war she fled to Silesse with her children. When I was little, my mother and my newborn sister disappeared... I was left behind with nothing but this pendant. I only recently learned what really happened. It was King Blume of Alster. He abducted them. He took my family from me. The rumors I've heard all said Mother had died a while ago, but they also said my sister is still alive... That's you, Tine! I've finally found you, after all these years! I came all this way just to see you again...
+Tine: I... I never even knew Blume did that to Mother... It makes sense, though... I can't remember much of Mother, but I know I never saw her smile or laugh... You're my brother... Oh... Sniff...
+Arthur: I don't suppose you'd like to lay down your arms and join our army, Tine? We've still got so much to talk about.
+Tine: Mm. Thank you, brother. I never did want to fight…
+
+@Battle-Talk
+%Tine,Seliph
+Tine: Um... Pardon me, sir...
+Seliph: Hm? And who are you, ma'am?
+Tine: I am Tine... Arthur’s sister...
+Seliph: Ah, of course. I've been told your story, Tine.
+Tine: Um... I'm sorry!
+Seliph: You've nothing to apologize for, Tine. With the likes of King Blume for an uncle, I completely understand. You had no choice.
+Tine: Are... are you forgiving me, sir?
+Seliph: Certainly! There's no question that you're not our enemy, and it would be an honor to have you with us.
+Tine: Wow... You're everything the stories say you are! I wish we couldn't met sooner...
+Seliph: Heh... Thank you! Listen, Tine. I know fighting your own family is a painful prospect, so please, don't force yourself if you're at all uncomfortable.
+Tine: Sir…
+
+%Finn,Larcei
+Finn: Ah! ...Pardon me, but who are you?
+Larcei: Huh? I’m Larcei…
+Finn: T-This cannot be…
+Larcei: Hey, what’s your problem? You realize you’re staring at me, right?
+Finn: Oh… My apologies, miss. It’s just you bear a striking resemblance to someone…
+Larcei: Huh? I do…?
+Finn: Yes… My apologies. This is a bit embarrassing, but you are the spitting image of a woman I loved long ago.
+Larcei: Were you two a thing or what?
+Finn: We were, for a time… But we parted during the war. I’ve been looking for her ever since…
+Larcei: Oh… Sorry about that. What was her name?
+Finn: You’re the only person I’ve met who matches her beauty. Her name was Ayra…
+Larcei: Wait, Ayra?! ...A-are you kidding or what…
+
+%Finn,Lana
+Finn: Ah! ...Pardon me, but who are you?
+Lana: Oh! Er, my name is Lana… You’re Sir Finn, are you not?
+Finn: Y-you are…
+Lana: ...Er, is something wrong, sir? You keep staring at me…
+Finn: Oh… My apologies, miss. It’s just you bear a striking resemblance to someone…
+Lana: I… do?
+Finn: Yes… My apologies. This is a bit embarrassing, but you are the spitting image of a woman I loved long ago.
+Lana: Was she your wife?
+Finn: She was, for a time… But we parted during the war. I’ve been looking for her ever since…
+Lana: Oh… What a sad story. What was her name?
+Finn: You’re the only person I’ve met to match her beauty. Her name was Aideen…
+Lana: Aideen?! That’s… That’s my mother!
+
+%Finn,Nanna
+Finn: How are you faring, Nanna?
+Nanna: I’m okay, Father. You don’t need to worry over me so much.
+Finn: Heh, you’re getting as strong-willed and bold as your mother was. It’s almost like it’s twenty years ago and I’m talking to Lachesis again…
+Nanna: I don’t get it, Father. If you loved Mother as much as you keep saying you did, how could you just let her run off by herself like that?!
+Finn: Look, Nanna. I’m sorry, but her journey to Isaach is none of your business. That was a private matter between her and myself. I ask that you do not intrude.
+Nanna: But-
+Finn: I promise that you’ll understand someday, when you’re a bit older…
+
+@Battle
+Ares: Lene! Where are you? Answer me!
+Lene: Ares...
+Ares: Oh! Is everything okay, Lene?
+Lene: N-no... It's not... But someone from the liberation army rescued me... And I... I knew you'd come, Ares...
+Ares: Lene, I... I beg your forgiveness... I was a fool! So very, very foolish... I should have heeded your word...
+Lene: It's okay... After all, you're here now...
+Ares: I swear to you, I'll never let this happen again...
+Lene: And I swear I'll try to keep my big mouth to myself from now on! Don't ever leave me again, Ares…
+
+%Lene,Seliph
+Lene: Mister Seliph, right? Nice to meet ya!
+Seliph: Er… Hello. And who are you?
+Lene: I’m Lene, the dancer!
+Seliph: You… You’re Lene?
+Lene: Ohh… Mister Seliph, is this the first time you’ve ever seen a dancer?
+Seliph: Y-yes, miss…
+Lene: Hee hee… That’s adorable!
+
+%Daisy,Shannan
+???: Hey, Shannan! Guess whoooo!
+Shannan: GAH!
+Daisy: Ha-haaa! Bet I scared you real good!
+Shannan: Argh, Daisy! For heaven's sake, I nearly took your head clean off! Would you mind cutting it out?
+Daisy: But I'm sooooo booooored! And I'm not strong enough to fight, either!
+Shannan: Then I suppose I'll help you patch that up, then. I don't have enough time to give you a proper lesson, but it'll be better than nothing.
+Daisy: Eeeeeeee! I'm getting my very own private lesson with Prince Shannan himself!
+Shannan: If you don't take this seriously, there won't be a lesson. Are we clear?
+Daisy: Yep! I'm being completely serious!
+Shannan: ...Very well. The first and most important step is posture... Hold on, are you even listening?
+Daisy: Siiiiiiiigh...!
+
+@Boss 
+Ctuzof: You rebel worms... How dare you defile the sanctity of the Yied Shrine! Come! Embrace the darkness, as it entombs you forevermore!
+
+Ctuzof: G-glory to... The Lopt... Empire
+
+Liza: So you're the rebel army... This is where your insurrection ends! So long as I, General Liza, draw breath, you shall never reach Fort Melgen!
+
+Liza: Ahh... Ish... tore…
+
+Ishtore: So you've come this far? Heh... You're made of sterner stuff than I thought.
+
+Ishtore: You... You vermin! How dare you slaughter Liza like that! You'll have no mercy!
+
+Ishtore: Liza, I... I must leave the rest... in your hands…
+
+Ishtore: Liza... I…
+
+Jabarro: Heh... Welcome to your deaths!
+
+%Ares,Jabarro
+Jabarro: Ares! I've found you, you ungrateful sod! You're not gonna get away with this!
+Ares: I regret it's come to this, but so be it. Farewell, Jabarro.
+
+@Boss
+Jabarro: Ugh... Ares, you dastard…
+
+Bramsel: What?! Jabarro bungled it, did he? Darna is my city! Mine! Nobody will ever take it from me!
+
+%Ares,Bramsel
+Bramsel: ...Ares?! What are you... I should've known you were a filthy traitor!
+Ares: Enough, Bramsel! Return Lene to me! NOW!
+Bramsel: Oh, you're far too late! By now, that stubborn strumpet is... Heh heh heh...
+Ares: D-damn you! You'll regret your words!
+
+@Boss
+Bramsel: Nngh... No... Darna is mine... All... mine…
+
+Eliu: Taste the wrath of thunder, rebel!
+
+Fetra: Taste the howling gale, traitor!
+
+Banba: Taste ragin flames, brigand!
+
+@Recruit-Battle
+Tine: I... I'm sorry…
+
+%Arthur,Tine
+Tine: I... I'm sorry... I wish we didn't need to fight...
+Arthur: H-hold on a moment! Are you... could it be...?
+
+@Recruit-Battle
+Tine: Aah…
+
+@Boss
+Blume: Ha! So long as I wield the Book of Mjölnir, what reason would I ever have to fear the likes of you?
+
+%Arthur,Blume
+Blume: And what are you? Wait... could it be...?
+Arthur: Blume! I've waited years for this moment! You took my mother and sister from me, and today you'll finally pay!
+Blume: Gah... Impudent whelp! Just try me!
+
+%Leif,Blume
+Blume: Oho! Quan's son, I presume? You somehow still live on... I'm almost impressed.
+Leif: King Blume! You've tortured my people for long enough! Prepare to die at last!
+Blume: Hmph! A likely retort, but only one of us will die this day, and it will never be me!
+
+%Tine,Blume
+Blume: W-wait... Tine?! How dare you betray my many kindnesses...
+Tine: I-I'm sorry, Uncle…
+
+@Boss
+Blume: Nngh... How? How could I lose... I've no choice... For now, I must retreat to Connaught…

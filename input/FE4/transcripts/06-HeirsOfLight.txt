@@ -1,0 +1,386 @@
+@Opening 
+The final battle for control of Grannvale sent its most powerful figures to the grave. Just as he had planned, this left Arvis as the sole ruling power of the kingdom. 
+
+Opposition from Silesse and Leonster was swiftly crushed, and so Arvis unified all Jugdral under Grannvale's rule. With overwhelming support from his subjects, Arvis thus became the first Emperor of the Grannvale Empire. 
+
+Seventeen years have passed since the Battle of Belhalla... The adoring public who once welcomed the rise of Emperor Arvis now struggle under his oppressive, dictatorial rule. And across Jugdral, in the other realms now dominated by Grannvale, their people have been reduced to living as little more than slaves to the Empire's whims. 
+
+In the former Kingdom of Isaach, Grannvale's harsh rule tortures the Isaachian people. King Dannan, the appointed king of Isaach, is a brutal and unforgiving tyrant, just like his late father, Duke Langobalt. While Dannan himself lives an indulgent life at the Rivough palace, the people remain little more than slaves to the Empire. His second son, Johan, rules Isaach Castle, while his youngest, Johalvier, rules Sophara. And the remote Ganeishire region is governed by Dannan's trusted confidant, General Harold. Under their rule, Isaach knows no freedom... 
+
+However, one last hope remains for Isaach. Tirnanog, an isolated village in Isaach's far north... There, Prince Shannan works to raise a liberation army, whose strength grows with each passing day. Among these proud, young warriors is a young man, dubbed the "Heir of Light" by the people of Isaach and revered as the rightful prince of the Grannvale Empire. He is the brave young leader of the liberation army. His name is Seliph.
+
+@Intro 
+Dannan: Harold! Have you ferreted out the rebels yet? Or are you content to leave them unchecked for the rest of their days?! Shannan and his rebel ilk are growing stronger by the day, now they hamper us at every turn! And as if that wasn't enough, they harbor the spawn of Sigurd the Traitor! The very existence of this scum utterly defiles the authority of the Isaachian throne! How do you expect me to explain this sorry state to His Imperial Majesty?
+Harold: A thousand apologies, Your Highness, but everything is already under control. The rebel hideout has been found, and even as we speak an army is on its way to crush them. Those vile mice have nowhere else to run! By sundown, not a single rebel will still be breathing.
+Dannan: Hm. Very well. But be warned, Harold. Don't even think of underestimating them. Most of the rebels are too young to pose a threat, but they still have Oifey and Shannan. Those two alone are extremely dangerous. Dismissing them would be a fatal mistake. 
+Harold: Yes, sir. I'm aware. But I've already had Tirnanog, the rebel hideout, surveyed in secret, and it appears that neither are anywhere in sight. It's safe to assume them to be currently absent, sir.
+Dannan: What?! Then why are we still talking about this? Send the order to move in on Tirnanog immediately! The people of Isaach are treating these rebels like some kind of heroes of freedom... But it's high time they learned the error of their ways! Kill them! All of them! I'll be waiting back at Rivough. I expect nothing but good news!
+
+Scáthach: We have a problem, Lord Seliph! Looks like the Empire's finally caught onto our whereabouts... A brigade's set out from Ganeishire, and they seem to be headed our way!
+Larcei: Ugh, Scáthach! Why so surprised? Did you really think our little hideout wouldn't be found out sooner or later? Let them come, I say! It only makes the battle easier for us! It's the easiest thing to just walk right over Ganeishire and pick them off as we go!
+Scáthach: You've gotta be kidding! Prince Shannan's still off trying to find the Yied Shrine, and Oifey and the others aren't back yet. It's just us two against an entire army! Surely, even you can't think this'll end well!
+Larcei: I don't care! You can sit here and be as scared witless as you want, but I'm not letting a chance like this pass! The prince still treats us like helpless children, but come on! We've had more than enough training! We're ready for real action!
+Scáthach: But...
+Larcei: I'm... I'm not gonna run away anymore! I'm sick to death of sitting here while those monsters butcher our friends! Or worse... The empire's thugs are still out there, snagging any girl they see... If Prince Shannan hadn't come for me that day, I'd be just another one of 'em: dead, or wishing I was... I won't forgive or forget their plan!
+Scáthach: No, that's not it, Larcei... You're right, it's horrible and all, but...
+Seliph: You're wary of engaging the enemy out of concern for my safety, aren't you Scáthach? Most likely, I presume Shannan would have given you strict orders to keep me safe. After all, if Shannan had not given such an order, you'd already be out there in the fray! To not be thirsting for a good battle just isn't the Scáthach I know.
+Larcei: Oh... That's... That's right. Sorry, sir. I was hoping we didn't have to involve you...
+Seliph: I'm no child anymore, either, Larcei! If you two plan to fight, then I plan to fight by your side. There's more at stake today than only the resistance. What of Tirnanog? We owe so much to its people. I refuse to abandon them at such a critical hour!
+Scáthach: But-
+Seliph: We've no time to waste debating this! Lana, stay behind and help the citizens. We'll engage the foe in the western gully.
+Lana: Wait, milord! I'm coming, too!
+Seliph: I cannot permit that, Lana! A cleric such as yourself is ill suited for such a battlefield.
+Lana: This is my fight, too! You won't convince me any more than you could convince Larcei! Every day I think the Empire can't get any more cruel, and every day I'm proven wrong. They prey on the weak and vulnerable as if snuffing out their lives is a sport to them... I can't sit quietly and accept this! I may not be able to fight, but I've my own way of defending everyone!
+Seliph: Hm... My apologies, Lana. You are absolutely right: the battle for Isaach's freedom rests upon all of us. Very well. We shall all go together! How this will turn out, I cannot say... But we owe it to all of Isaach to give this battle no less than our best.
+Lana: Yes, milord! And er... Sorry. I shouldn't have spoken so brashly.
+Seliph: Ha! You've nothing to apologize for. Now, Scáthach, Larcei, Lana... The time has come! Move out!
+
+@Battle 
+Oifey: We're too late! The battle has already begun...
+Lester: I guess news of Tirnanog, Seliph and all that must've leaked while we were off scouting. I hope everyone's doing alright...
+Dermott: Most of them'll be fine, Lester, but what about your sister? What if Lana's gone and gotten herself mixed up in the fighting? She can't defend herself at all if she's out in the open like this. Sir, we should hurry back. The sooner get back to Lord Seliph's side, the better.
+Oifey: Indeed. Come, Dermott! Lester! The battlefield awaits us!
+
+Seliph: By the gods! I've never seen such ruin. It's as if Ganeishire never even existed...
+Lewyn: Been a while, hasn't it, Seliph?
+Seliph: Hm? Oh, Lewyn! Er, pardon me... Your Majesty, King Lewyn of Silesse...
+Lewyn: Just Lewyn, Seliph... like I've always been. Silesse is just another Imperial conquest now... That's all it's been since the mess in Belhalla. And meanwhile, here I am, still living a pathetic, shameful life for all to see. At least my mother faced Silesse's demise, and her own, with pride and dignity! But me? Nope! I'm still just an idiot bard... Don't listen to what Oifey says of me, Seliph. Just, please... don't call me a king ever again!
+Seliph: I... My apologies, Lewyn...
+Lewyn: Heh, it's fine. Don't worry about it. More importantly, looks like you've finally got this revolution thing started! There's no place more fitting than Isaach to start fighting back against the Empire.
+Seliph: Indeed! The courage of Isaach's people is matched only by the pain and anger the Empire has inflicted upon them. All we're missing now is for Prince Shannan to return and join the fray himself.
+Lewyn: He ran off to follow some rumor, didn't he?
+Seliph: Mm. Rumor has it his birthright as heir to the Isaach throne, the holy sword Balmung, is being kept in a shrine in the Aed Desert. As I understand it, the entire desert region is ruled by an evil priest. I trust Shannan's might, but I cannot help but worry for his safety...
+Lewyn: Eh, if anyone can do it, it'll be Shannan. Actually, Seliph, I've a favor to ask of you.
+Seliph: Oh? If it is within my power, I'll gladly help. What is it?
+Lewyn: Julia, could you come over here?
+Lewyn: See, I found her years ago in Belhalla when she was just a little girl, hurt pretty badly. Since then I've been looking after her in a hidden little corner of Silesse, at least until we had to get out a while back as the Empire set about tightening its grip. The thing is, I've got things that need doing over in Leonster, and at this point, she's just slowing me down.
+Lewyn: I hate to impose on you, Seliph, but I don't have much of a choice. Could I just leave her with your group for a while? I still don't know what happened to her, but it must've been pretty awful. Poor thing. Back when I first found her, she couldn't remember a thing about what happened. It looks like she still can't...
+Seliph: I see... Very well. You can trust me with her, Lewyn. However, I must ask that you return for her as soon as possible. She likely won't feel too comfortable in an army of strangers.
+Lewyn: Deal. Heh, I'll probably be back here by the time you've finished freeing Isaach. Good luck, Seliph.
+Seliph: May the gods be with you as well, Lewyn!
+Seliph: Listen, Julia... I know it'll be hard for you without Lewyn here, but I promise you'll be alright. Until Lewyn returns, I swear I'll let no harm come to you... I know I've still much to learn, and as yet I'm not all that strong... But one day... Someday, I know I'll be strong enough to protect us all! Someday, I'll have the strength to defend all the world's people from the Empire's wrath! Someday I'll be strong, as my father once was...
+Julia: Seliph…
+
+Dannan: The rebels have taken over Ganeishire? Gah! Harold, you moron! What in the blazes are my sons doing? Somebody tell them to take the rebels down! Now!
+Johalvier: Dad's ordering us to attack, huh? Isn't Larcei in that army?! Damn... What do I do? How can I fight her…
+Johan: We're to strike Ganeisire, are we? My, my... Father's got quite the temper. But I could never lay so much as a finger on Larcei, even if she is among my foes... Ahh... What a dilemma standing before me…
+
+Fee: Phew! Sorry, Mahnya! I know a load like this isn't easy on you.
+Arthur: Hah! Mahnya? Is that really what you call your pegasus?
+Fee: Oh, pipe down, Arthur. I don't care if we're nearly there, 'cause I'll still just dump you if you don't shut it!
+Arthur: Er, right. Sorry about that. Say, Fee, I don't have too far to go. If you want, I can just walk from here.
+Fee: Where are you off to, anyway?
+Arthur: Oh, just Alster.
+Fee: A-Alster?! Geez, you're dumber than I thought! Alster's waaay south of here. There's an entire sea in the way, for crying out loud! I dunno what you're thinking, but you haven't got a hope in heck of walking the rest of the way there!
+Arthur: Eh, it's fine. I'm hardly in a hurry.
+Fee: So, er, why do you need to go to Alster?
+Arthur: Oh, see, I've got a sister I haven't seen in years who might be there. She and my mom were taken away when I was just a kid. I was sort of left alone in some far corner of Silesse or another. I just heard a rumor, but at this point even a rumor's enough if it means I might find her.
+Fee: Huh, really? Y'know just what that's like. My big brother's been missing for ages.
+Arthur: Did you get separated from him as well?
+Fee: Oh no, nothing that bad. We've always lived together in Silesse, but a while back he ran off to try and find our dad.
+Arthur: Your father, huh?
+Fee: Yeah, he's been missing for years. Mom spent the rest of her life waiting for him to come back, but he never did...
+Arthur: What happened to her?
+Fee: She... She's dead. Illness...
+Arthur: Oh, er... Sorry about that. I shouldn't have brought it up...
+Fee: It's okay! I mean, you've already brought up lots of things that you shouldn't have. Heh, kidding. You're actually not that bad.
+Arthur: Heh heh, thanks. And thanks for giving me a chance and letting me come along.
+Fee: No problem! So was the sister thing real? Is that actually why you're travelling?
+Arthur: Yeah, it's real. But what about you? What's your deal?
+Fee: Actually, I kinda want to join that Isaachian rebel army. When I was little, mom told me stories about the paladin Sigurd and his brave allies, and those have always meant a lot to me. Lately I've been hearing about how Sigurd's son's somewhere in Isaach, raising a revolution. And it all just sort of clicked, y'know? I knew that's where I need to be, so I just ran right out of home to try and find him.
+Arthur: Wow... That's pretty great of you. Y'know, I think I'll help you out here for a while. It's the least I can do for you putting up with me.
+Fee: Okay! Partners it is, then! Good luck out there... partner!
+Arthur: Heh! Upbeat as ever, aren't you?
+
+Dannan: What in the blazes was that?! Just when I thought my son can't get any more useless, he goes and forgets how to fight! Schmidt! Get out there! Take back my castles, now!
+Schmidt: Yes, sir! You can depend on me.
+
+Old man: Oh, gods bless you, Lord Seliph! Sophara is free once more, thanks to you!
+Seliph: Is everyone unharmed, sir?
+Old man: Indeed, and overjoyed to see you to boot!
+Seliph: Thank you. I swear to you, before this day is done, King Dannan will be no more and Isaach shall belong to its rightful people!
+Old man: Freedom... Oh, the word is tonic to my ears! Please, take care of yourself out there. Lord Seliph, you are the last and greatest hope for the future of this world and all its people. Only you, Lord Seliph, possess the power to free this world from the grip of darkness…
+
+Old man: Ohh! Lord Seliph, sir! Glad to see you're okay!
+Seliph: Is everyone unharmed, sir?
+Old man: Indeed, and ecstatic to see you to boot! Thanks to you, Lord Seliph, we know that at long last, Isaach shall have its freedom!
+Seliph: Thank you, sir, but the effort isn't mine alone. I could never have come so far without the support of the common man. You've all supported me from the beginning. I likely wouldn't be here if not for you!
+Old man: Fate is a funny thing, isn't it, sir? Just twenty years ago, our late king had the utmost trust in your grandfather's wisdom. Then your father came to protect Prince Shannan, and now the prince has guided you to adulthood. Perhaps fate has bound Isaach and Chalphy as one...
+Seliph: Mm. Isaach is the only home I've ever known, and Prince Shannan is like a brother to me. I pray our friendship lasts the rest of our lives.
+Old man: Lord Seliph, you are the rightful heir to House Belhalla and the throne of Grannvale. Not a soul alive in Isaach, nor in the rest of the world, can doubt this. We beg of you! Raise the banner of justice high, march on Belhalla and reclaim your true throne!
+
+Fighter: Lord Johalvier has some weird tastes. Lusting after such a fierce broad? Really? Heh... I prefer my women a little more... Wait, why am I telling you this?!
+
+Axe Knight: Ugh... I don't get Lord Johan. He bends over backwards to please every last bit of skirt, yet here he's so bloody harsh on us!
+Johan: Is that a morsel of gossip I hear, soldier?
+Axe Knight: N-no, sir! Nothing to report here, sir!
+
+@End 
+Seliph: Julia?! You’re safe! Oh, thank heavens…
+Julia: Mm… The enemy seized and imprisoned me here, but I knew… I knew you would rescue me, no matter what.
+
+Lewyn: A job well done, Seliph! Thanks to you, Isaach is free from the Empire's grip.
+Seliph: Lewyn? Are you already finished in Leonster?
+Lewyn: Yeah... I only just got back now. Look, Seliph. Are you aware that right now, this world's at a critical turning point?
+Seliph: Hm? No... I'm afraid not.
+Lewyn: It's been fifteen years since Arvis conquered all of Jugdral and united it as the Grannvale Empire. Honestly, for a while at first it wasn't all that bad. In the empire's dawn, Emperor Arvis sought to bind his nation using only the strictures of law. Sure, it was strict and constraining, but we still got a good few years of peace out of it. But obviously he changed his mind. A few years back, as if by magic, the Empire turned into that oppressive force we all know and love today. Even worse... the ancient heretics of the Loptr Church have arisen from the shadows once more and raised influence across the land. Their murderous rituals have returned with them, and all across Jugdral they abduct children to sacrifice in droves to resurrect their fell god. All attempts to resist the Empire are crushed and met with brutal executions or enslavement. It couldn't be plainer that they seek to return Jugdral to the days of brutal control by that ancient abomination, the Loptyrian Empire.
+Seliph: This cannot be happening! I've heard all the rumors saying the same, but... Never did I think they could be more than rumors…
+Lewyn: By the look of it, Isaach hasn't had it quite as bad as most. Dannan's two sons, at least, refused to follow through on the child hunts.
+Seliph: …
+Lewyn: Of course, there's always been people trying to rebel against the Empire left, right and center, but they were all scattered and disorganized. Before you, none have ever posed a proper threat to the Empire. They were all swiftly crushed before they could so much as blink. Jugdral desperately needs a savior. It needs a man to unite behind in the name of liberty. And I'm pretty sure that man is you, Seliph. You're the only one who stands a chance.
+Seliph: Hold on a moment! Are you sure of this? A savior would require power I sorely lack…
+Lewyn: Chalk it up to duty, Seliph. You're the eldest child of Empress Deirdre... That makes you the elder brother to the crown prince Julius. You're the one true heir to Saint Heim. Your destiny is to unite the power of the Crusaders of this era and free the world from this evil grip.
+Seliph: But…
+Lewyn: Trust me, you really do have what it takes. Your true power and potential sleeps within you: that is, the sacred blood of the Crusader Baldr. Once you get your holy blade, Tyrfing, not even the heavens will be able to stand in your way!
+Seliph: But I-
+Lewyn: Sorry, Seliph, but that's how the gods will it. You're Sigurd's son: The son of a man who fate led to a brutal end. The fulfillment of his dying wishes and his final quest falls to you. You can't afford to go doubting yourself now. You understand, Seliph?
+Seliph: Y-yes... Yes, I do. If this is fate and the will of the gods, then so be it. I will do my duty.
+Lewyn: There actually isn't a single absolute fate, nor is there just one person it all hinges upon. As obtuse as that sounds, trust me, one day it'll make sense. Sigurd left behind so much to help you on your quest. Most importantly, the many friendships he forged in his life... Me, for instance. Brave youths from all over are already lining up to join your cause, all guided by Sigurd's kindness.
+Seliph: Mm. My father won the love and trust of so many people, from all walks of life. I can only pray that in time I'll prove my worthiness to his legacy.
+Lewyn: You'll be fine. Anyway, to business. Our immediate goal now is to reach Leonster. The son of Quan, your father's closest friend, raised his own rebellion only to suffer severe losses. He's in pretty urgent need of backup. I know you've had no time to rest, but we need to get going as soon as possible. For now, at least, we can leave Isaach in the care of its citizens. Odds are we'll run into Prince Shannan on our way.
+Seliph: Understood!
+
+@Visit 
+Old man: King Dannan's got three sons. The oldest, Brian, lives at the old family home in Grannvale. The younger two serve him here in Isaach. Johan controls Isaach Castle, while Johalvier controls Sophara Castle. They're both kind of an odd sort, and they've both got this obsession with someone in your army called Larcei. Always squabbling, they are... I dunno, though. Neither of them are all that bad, really. Heck, I bet they'd want to join forces with you!
+
+Young man: Prince Shannan is our beacon of hope for Isaach's future. Once he returns with his divine blade, Balmung, in hand... Well, those imperial sods won't stand a chance at all! Every last one of them will be run right out of our great land!
+
+Man: Every last citizen of Isaach believes in and trusts Lord Seliph! We owe his family dearly for how his father, long ago, rescued and helped raise our Prince Shannan!
+
+Young woman: Y'know the liberation army's leader, Seliph? They say he's the rightful heir to Grannvale. I bet we'd all have a much better time with him on the throne if that were true, huh! Here, take this here skill ring. Go on, do your best! We're all behind you!
+
+Young man: Ooh, aren't ya from that liberator's army? Glad ta’ see yer makin' a stand now! This is great news! With y'all around, we've finally got a shot at makin' them imperial cowards run outta here with their tails between their legs!
+
+Old man: Ohhh! If it isn't Lord Seliph himself! We can't thank you enough for all your help! Here, allow me to give you my granddaughter's hand in marriage. We raised her as well as well can be, and she's the kindest, sweetest little thing! Oh, I remember that even as a kid she-
+Young woman: Grandpa, knock it off! Ugh, this is so embarrassing! ...I'm sorry, Lord Seliph. I wouldn't wish seeing that sorry display upon anyone! But, er... if you do like me, milord...
+Seliph: Er... Wait a moment... That isn't why I'm here...
+Young woman: Ahahahaha! C'mon, Lord Seliph! It's just a joke! A j-o-k-e! Look, you've gone bright red! How adorable! 
+Seliph: Er...
+Old man: I'm completely serious, though.
+Seliph: Oh. Oh, dear…
+
+Young woman: I've been hearing a lot about how the Empire's been hunting kids in all those other countries... Thanks to you lot, Isaach's free from the Empire at last, but the rest of the world's still in a really dark place... All across Jugdral, they're all waiting for Lord Seliph to rise up and defeat the Empire! Please, I'm begging you... You've gotta make it to Grannvale soon!
+
+@Battle-Talk
+%Scáthach,Larcei
+Scáthach: You holding up okay so far, Larcei?
+Larcei: Yeah, I'm getting by fine...
+Scáthach: Just be careful out here, okay? Your usual brazen antics'll only get you in trouble now.
+Larcei: I know, I know, I know! What, do you think I'm still a child?
+Scáthach: Heh... Man, that iron will of yours! Guess you're just like Mom was, if what Prince Shannan's told us is true.
+Larcei: Yeah... Ayra... I can't remember a thing about her. You?
+Scáthach: No, of course not. We're twins, remember? If you were too young to remember, then so was I! We weren't even two years old yet back then... It was Oifey who took us with him when he fled to Isaach with Seliph. We waited and waited, but Mom never followed... I guess she didn't make it out of the Battle of Belhalla alive...
+Larcei: Scáthach! You swore you'd never say awful things like that! Mom is alive! ALIVE! I'm sure of it! Don't you dare say otherwise ever again!
+Scáthach: ...Er, sorry, Larcei... You're right... I'm sorry.
+
+%Rodolbahn,Radney
+Rodolbahn: You holding up okay so far, Radney?
+Radney: Yeah, I’m getting by fine…
+Rodolbahn: Just be careful out here, okay? Your usual brazen antics’ll only get you in trouble now.
+Radney: I know, I know, I know! What, do you think I’m still a child?
+Rodolbahn: So, er… How about Johan and Johalvier, then? I just don’t get either of ‘em.
+Radney: Ugh… Them! They’re driving me mad! Creeps like them are why men are the absolute worst! They make me feel sick!
+Rodolbahn: Hey, easy there! Not all men are like that. You’ve let the imperial soldiers’ treatment of you make you hate all mean for no reason.
+Radney: Wow, you don’t say! I know it’s irrational, but for crying out loud, just being near a man’s enough to turn my stomach now. 
+Rodolbahn: Every man?
+Radney: Er, I guess you and Lord Seliph are okay.
+Rodolbahn: Heh heh… what about Shannan, then?
+Radney: Ugh, Rodolbahn!
+
+%Lester,Lana
+Lester: Lana?! Don't tell me you're fighting, too!
+Lana: I am, Lester. I simply couldn't bear to leave Lord Seliph to fight alone...
+Lester: Why am I not surprised... Look, I know I can't get you to leave, but just be careful, okay? It'd break Mother's heart if something happened to you out here.
+Lana: I know, but actually, there was something Mother told me... She told me that we owe the greatest of debts to the people of Isaach, and that if we can help them in any way, we owe it to them to do all we can.
+Lester: Yeah, I guess she's right. I mean, we wouldn't even be here now if not for the help of the locals... ...So, er, where is Mother, anyway?
+Lana: She's back in Tirnanog's abbey, working like always.
+Lester: Right... Listen, Lana. We've got to give this battle our all, both in Mother's name and in the name of our lost father... Someday, I know, we'll finally be able to help Mother return to her home, Jungby... 
+Lana: You're right, Lester.
+
+%Dimna,Mana
+Dimna: Mana?! Don't tell me you're fighting, too!
+Mana: I am, Dimna. I simply couldn't bear to leave Lord Seliph to fight alone…
+Dimna: Heh… Why am I not surprised…
+Mana: W-what do you mean?
+Dimna: Oh, nothing… Just, er, don’t get too invested in him. You know Lord Seliph’s a Grannvale prince, right? He’s as lofty a noble as they come. Let’s face it, peasants like us’d ordinarily have no business being anywhere near him. I just don’t want to see you get hurt… 
+Mana: You… You’ve got the wrong idea, Dimna! All I want is to protect Lord Seliph and to make sure he survives this war, okay?
+Dimna: Oh, er, that’s fine then. Sorry, Mana. I’m just really concerned for you…
+Mana: Yes, I know… Thank you, Dimna.
+
+%Oifey,Seliph
+Oifey: Oh, thank the gods, sire! You're safe!
+Seliph: Oifey! Glad to see you made it back. What news of the rest of the world?
+Oifey: The Empire's grip is tightening still further, as if trying to choke life from the people. It's inciting doomed revolts all across Jugdral.
+Seliph: So it's as I thought... It isn't as if the Empire's tyranny would ever be limited to only Isaach... Oifey, is it feasible to assist them?
+Oifey: Not as we presently stand, sire. We still lack the strength to properly challenge the Empire.
+Seliph: Then what of our present battle? The war for Isaach's freedom has already begun. Turning back now would be impossible...
+Oifey: Mm. There's certainly no chance of returning you to hiding, sire, now that your whereabouts have been leaked. Starting the fight now was reckless, but we've no choice but to continue...
+Seliph: Oifey, I'm sorry I let all of this happen behind your back, but we had no choice. Even so, I don't think I could have stood letting Isaach suffer under Dannan's thumb any longer. I trust you understand Oifey...
+Oifey: I do, sire. Now, our priority is to lay siege to Dannan's capital, Rivough, with all due haste. Dannan must fall before the Empire can send him reinforcements. We cannot afford to wait!
+
+%Lana,Julia
+Lana: Julia, right? Hello there! Are you doing okay without Lewyn?
+Julia: You're Lana... Yes, thank you. I'm fine...
+Lana: You know, Lord Seliph's actually really been worrying about you. If there's anything I can do to help you, just let me know and I'll get right on it.
+Julia: Mm. Thank you...
+Lana: Oh, and I've got a little something for you.
+Julia: This is... A Mend staff?
+Lana: You can use these, right?
+Julia: For me? Thank you, Lana. With this... I know I can help everyone.
+Lana: You're welcome, Julia. Let's give this war our all, together!
+
+@Recruit-Talk
+%Larcei,Johalvier
+Johalvier: Larcei! Heh... I guess you finally realized you want to see me, am I right?
+Larcei: Look, Johalvier, I know you try to act like you're cool, tough and uncaring, but I know you're not all that bad. I mean, you've made a point of keeping your hands off the innocent all along. I guess I'd rather avoid fighting you, if I can...
+Johalvier: Yeah, I guess... Pushing people around never really sat right with me, y'know? Not like my brothers. And I'm getting real sick of the Loptyrian Order running the show here. All round Isaach they've been stealing kids and, so I hear, killing 'em all as sacrifices! Dad doesn't even so much as ask 'em nicely to stop! I've had it with 'em! Larcei, my men and I want to join your army. Just say the word and we're yours, yeah?
+Larcei: Wha- ...Are you serious? Johalvier, this is... Thanks so much! Er, I guess I was wrong to doubt you for all these years. Sorry.
+Johalvier: Look, I'm no saint. Way I see it, at least now I can atone for everything I've done. Listen up, men! We're with the liberation army now! We're fightin' in the name of love and justice!
+Johan: What manner of nonsense is this? ...Alas, for Johalvier has turned his cloak for the rebels! Oh, how his claim to Larcei pierces my heart! Men, turn your blades on love's foul traitor!
+
+%Larcei,Johan
+Johan: Oh, Larcei... How the twin hands of love and fate guide us! I've yearned for this day for many, many years, my beloved! 
+Larcei: Johan?! Oh, for the love of... There's a stomach flu playing with your head, isn't there?
+Johan: Larcei... Oh, Larcei! Your words are as the sweetest birdsong! Your eyes are as the most brilliant stars! Oh, without you at my side, what purpose is there in life? What joy could possibly be?
+Larcei: Stop it! How revolting! This is a battlefield! Are you out of your right mind?!
+Johan: I can deny my heart no longer, Larcei. Believe me when I say I've tried! Alas, love is a maddening beast at times... What else can I do but be at your side? Men, we are joining the liberation army! From this day on, we are men of honor! Fight on, in the name of justice, love, and Larcei!
+(Johan joins Seliph’s army. Sophara becomes allied.)
+Johalvier: You've gotta be kidding! Johan beat me to Larcei?! Bet he's gone and sided with her army, too, the weak-willed fool... Hmph... fine by me! Men, attack! Johan's unit is now the enemy!
+
+@Battle-Talk
+%Fee,Seliph
+Fee: Hey there! You're Lord Seliph, right?
+Seliph: Indeed I am. And you, miss?
+Fee: Call me Fee! I'm from Silesse.
+Seliph: Silesse, you say? Are you a pegasus knight, then?
+Fee: Er, not just yet. I'm kinda still in training. My mom was one, though! Actually, in that big war years ago, she helped Lord Sigurd out in his army.
+Seliph: Is that so? She has my utmost gratitude, on my father's behalf. Now, what brings you here, Fee?
+Fee: See, what happened was I was looking for my brother, who ran away ages ago. But then I heard about you, sir, and how you're taking on the Empire yourself! And I just knew I had to be here too. Can I join your army, sir? Please?
+Seliph: Certainly! Thank you. What of your brother, though?
+Fee: It's silly, sir, but I have this feeling that we're gonna run into him somewhere down the line…
+
+%Femina,Seliph
+Femina: Hey there! You're Lord Seliph, right?
+Seliph: Indeed I am. And you, miss?
+Femina: Call me Femina! I'm from Silesse.
+Seliph: Silesse, you say? Are you a pegasus knight, then?
+Femina: Yeah! Er, actually, I’m just a rookie though.
+Seliph: Is that so… So, what brings you to Isaach?
+Femina: See, what happened was I was looking for my brother, who ran away ages ago. But then I heard about you, sir, and how you're taking on the Empire yourself! And I just knew I had to be here too. Can I join your army, sir? Please?
+Seliph: Certainly! Thank you. What of your brother, though?
+Femina: It's silly, sir, but I have this feeling that we're gonna run into him somewhere down the line…
+
+%Arthur,Seliph
+Arthur: Lord Seliph, right? Nice to meet you.
+Seliph: Who are you?
+Arthur: The name's Arthur. I came here from Silesse.
+Seliph: Wait, so you are that Arthur fellow? I've heard of how you have been aiding us so far. Thank you so much!
+Arthur: Eh, it was no big deal.
+Seliph: You are capable of wielding magic, yes? That's truly impressive. I'm almost envious!
+Arthur: My mother was a talented war-mage... But I've still got a lot to learn myself.
+Seliph: We all do, do we not? So long as we all fight together, though, perhaps we still truly can change our world. After all, that's what brought us here today.
+Arthur: Yeah, you're right... My power's at your disposal, sir. I'll give my all to aid the cause. I'm glad we could finally meet, Lord Seliph.
+
+%Johalvier,Radney
+Radney: Hey, knock it off! I don’t want you hovering around me like a lost pup! It’s irritating!
+Johalvier: Oh, uh… I just thought I should protect you… 
+Radney: Argh… 
+
+%Johan,Radney
+Radney: Hey, knock it off! I don’t want you hovering around me like a lost pup! It’s irritating!
+Johan: Oh, what heartless barbs escape your lips! Must you truly so callously reject this, the purest form of my deepest love? I am yours, Radney, body and soul! Never shall my vigilant guard abandon your side!
+Radney: Argh… 
+
+%Seliph,Lana
+Seliph: Lana, I still can't say I feel comfortable having you out here in the field. It's much too dangerous.
+Lana: Y-yes, milord, but I'm sure I'll be fine.
+Seliph: Please, take the utmost care! If you stray from behind the front lines, you'll be too vulnerable a target.
+Lana: But-
+Seliph: Lana, please... I'm worried for your sake.
+Lana: ...Okay, milord.
+
+%Julia,Seliph
+Seliph: Are you faring alright so far, Julia?
+Julia: Mm. Thank you, Lord Seliph…
+^start
+Seliph: Actually, I have something for you. I found this in Sophara Castle.
+Julia: What is...?
+Seliph: It's a light tome called Aura. You can wield these, yes?
+Julia: Aura... This... Why does this sound familiar… Thank you, Lord Seliph. Thank you so much…
+
+Seliph: Actually, I have something for you. I found this in Isaach Castle.
+Julia: What is...?
+Seliph: It's a light tome called Nosferatu. You can wield these, yes?
+Julia: Yes, I believe so... 
+Seliph: Excellent! Hopefully you'll now have an easier time protecting yourself in combat.
+Julia: Thank you, Lord Seliph. Thank you so much…
+^end
+
+@Battle
+Corinne: Hm? Aren’t you Dimna? ...You are! Dimna, it is you!
+Dimna: What? Corinne! Been a while, hasn’t it?
+Corinne: A really long while, huh! I’ve lost count on how many years it’s been since you and Mana said farewell to the city… It’s great to see you’re looking so good!
+Dimna: Yeah. You’ve heard of Lord Seliph’s work to rebel against the empire’s tyranny, right? Well, I’ve actually been fighting in his army. Even if I’m hardly of much help to them…
+Corinne: Heh… That’s amazing, though! Who knew that the little crybaby would someday become a revolutionary hero… 
+Dimna: Heh heh. But would you mind keeping the crybaby part quiet? …I’ve still a long way to go to become strong. Strong enough that you and the entire world can finally live in peace!
+Corinne: Right… I hope you can… 
+Dimna: Something wrong?
+Corinne: Oh, er, it’s nothing… Here, I want you to have this. I’m sure it’ll help you. 
+Dimna: Huh?
+Corinne: This necklace is all I’ve got left of Mom. It makes you stronger when you wear it.
+Dimna: I can’t take something like that from you!
+Corinne: No, take it! I’m sure it’d make Mom happy for someone like you to finally put its power to good use. ...Please, Dimna. 
+Dimna: ...Okay. Thanks, Corinne. Don’t worry. I’ll make sure you get it back as soon as this war ends. I promise.
+Corinne: Heh, good ‘ol Dimna. That’s just like you… 
+Dimna: Well, I guess I’ve gotta get back out there. Take care, Corinne!
+Corinne: You too, Dimna!
+Corinne: Dimna… 
+
+@Boss 
+Harold: Guh... No, calm down. They're nothing more than petty rebels!
+
+Harold: Oof! How... How could I fall to... a few motley soldiers...?
+
+@Recruit-Battle 
+Johalvier: You'll never take my castle from me, rebels! I'll beat the daylight right outta you!
+
+Johalvier: Urgh... I'm sorry, Larcei…
+
+Johan: Ohoho... What courage, to dare to challenge Johan the Invincible! What honor, to be granted death on my blade!
+
+Johan: Ahh... And so I fall, even to rebels such as these... Larcei... Oh, Larcei... Our love shall endure, even beyond the grave…
+
+%Larcei,Johalvier
+Johalvier: Larcei? Wh-what're you doing?! I can't fight you! I won't!
+
+%Larcei,Johan
+Johan: St-stay your hand, Larcei! Never could I turn my blade on you!
+
+%Johan,Johalvier
+Johan: Sigh... Ah, Johalvier... To think my very own flesh and blood could be so dense...
+Johalvier: Dense? Hah! Look who's talking! ...Oh well. This was a long time coming, huh? Let's settle this once and for all!
+Johan: As you will, my brother!
+
+@Boss 
+Dannan: Pitiful rebel fools... Don't you dare underestimate the glory of the Grannvale Empire!
+
+Dannan: Urgh... Lord Arvis... my liege…
+
+%Seliph,Dannan
+Dannan: I-it's you! The spawn of Sigurd! Blast... My father will be avenged!
+Seliph: King Dannan... You've tortured this land, and brought misery and death, for too long. Today, you shall face justice!
+
+%Johalvier,Dannan
+Dannan: Johalvier! What do you think you're doing? You would betray your very own flesh and blood?!
+Johalvier: Yeah, sorry 'bout that, Dad. I just don't care about helping you do this land wrong anymore. Don't take it personally.
+Dannan: Blast... Johalvier!!
+
+%Johan,Dannan
+Dannan: Johan... Curse you! You've let yourself be deceived by that she-witch!
+Johan: Ah, if it were that simple... I live my life now in love's name! Forgive me, Father...
+Dannan: Y-you useless little…
+
+@Boss 
+Schmidt: Hold, rebel scum! King Dannan has decreed that you shall go no further!
+
+Schmidt: King Dannan... my lord... Forgive me!

@@ -1,0 +1,315 @@
+@Opening
+Sigurd's capture of Evans Castle comes too late. Aideen is not there, instead already well within Verdane's borders. 
+
+Verdane's territory is blanketed in a thick sweep of forest. The nation is widely dubbed a "barbarian kingdom" by Grannvale's people, owing to their constant raids on Grannvalian soil. 
+
+However, the reign of King Batur has seen an end to Verdane's infamous border raids. A pacifist, King Batur has long worked to build a lasting peace with Grannvale, while also keeping his aggressive sons appeased. Ultimately, however, it was Batur himself who violated the peace he held so dear. 
+
+Batur's three sons have unexpectedly launched an assault on Grannvale. Kinbois, the second son, lord of Genoa... Gandolf, the eldest, lord of Marpha... And Jamke, the youngest of the three. Lurking deep within Verdane territory, the three now await the arrival of Sigurd. 
+
+Aideen's fate... Batur's sudden belligerence... Sprawling before Sigurd lie the great forests of Verdane - and within them, the answers he seeks. He prepares to take his first steps into the spirit forest of folklore…
+
+@Intro 
+Eldigan: You're doing a fine job, soldier. I leave the border's defenses to you.
+Cavalier: Yes, milord!
+
+Eldigan: Sigurd! It's been a long time. Pray tell, why do I find you suddenly occupying Evans? You couldn't possibly be declaring war on Verdane, could you?
+Sigurd: Eldigan! Am I glad to see you. Listen. The Verdanites have abducted Lady Aideen of Jungby. They've made it amply clear that they don't plan on releasing her. Taking her back by force is our only option.
+Eldigan: Ah, I see. That makes sense. Well, whatever you do, you cannot afford to leave Evans unattended. My fellow Agustrian lords have been of a rancorous sort of late... Ah, I know. I'll ensure they don't threaten you from behind.
+Sigurd: I'm sorry to involve you in this as well. Say, Eldigan, once I'm done here, what do you say to a catch up? You, me, a fine bottle of wine... Just like old times.
+Eldigan: Mm. I'm looking forward to it. I trust I'll see you later, then. May luck be with you this day, Sigurd!
+
+Kinbois: Listen up, Ayra! You know the deal. While I'm out, you guard the palace, right up to your very last breath. Remember, first sign of funny business, and it's the brat's head.
+Shannan: Ayra! Ayra, I'll be alright! Don't give in to these thugs! Don't let 'em boss you around!
+Ayra: Shannan... Look, Kinbois, you have my word. So long as you leave Shannan alone, you'll have no trouble. But I do wonder if, once this battle is over, you actually plan to return him to me.
+Kinbois: Ahahahaha! You got nothing to worry about. If we get Evans back, you get him back.
+Ayra: I understand. But be warned, Kinbois: if you break your promise, you'll deeply regret it. Cross me, and I will pursue you to the very depths of the inferno itself, till I take your head. Remember this well!
+Kinbois: Wh-whoa, settle down there! I don't believe it... Such a cute face, but you only use it to spew bile like that! I'm not about to make an enemy outta someone with a sword arm as fine as yours. I can promise you that.
+Ayra: Shannan, sit tight. Be patient for just a bit longer.
+Shannan: Ayra, no! Don't do it! Don't go! AYRA!!
+Kinbois: Feh... Right, boys, we're moving out! We're taking back Evans!
+
+@Battle 
+Jamke: Come on, Aideen! Take the brat and get out of here, and quickly! You need to get as far away as you can before Gandolf finds out!
+Aideen: Pardon me, Prince Jamke, but are you not joining us?
+Jamke: No. I won't stand for my brothers' vile ways but I just won't betray my father, either. I'm going back to the capital. I'm going to try, one more time, to convince my father.
+Aideen: You're right... We must do all we can to end this war as soon as possible. Prince Jamke, I would sooner not burden you alone, but you are our only hope to persuade King Batur to end this.
+Dew: Aideeeeeeen! C'mon, hurry up! We're still in serious danger here. If they catch me this time, then Gandolf'll rip my tongue out for sure!
+Jamke: Dew, you're a thief. You got caught in the act. Any tongue rippings you get are your own fault. If Aideen hadn't insisted on letting you go too, you'd still be sitting in chains. Now, what did you promise to do?
+Dew: I know, I know. I promised Aideen, too. I'm washin' my hands of thievin' from now on. Can I go now?
+Jamke: I'll take your word for it. Now, go already!
+Jamke: Aideen... May we meet again.
+
+Gandolf: What?! Jamke let the broad go and went scurrying back to the capital? Gah! Damn my rat of a brother! Boys! We'er taking the wench and the brat back! If they put up a fight, kill 'em if you have to!
+
+Gandolf: Oi, oi, oi! What do you lot think you’re doing out there!? The rest of you, get out there and fight! Now! Don’t let them touch the castle! 
+
+Ayra: So it's finally time... Woe be to all who cross me!
+
+^start
+Oifey: Sire, we've found this young boy in the dungeon.
+Shannan: ...
+Sigurd: What's the matter? Why are silent? I want to know why you were held here.
+Shannan: You're not one of Kinbois lot... Are you?
+Sigurd: We've dealt with Kinbois. There's nothing to be afraid of anymore...
+Shannan: Oh! So Ayra doesn't have to keep fighting! My Auntie Ayra was forced to fight 'cause Kinbois had me! Please! You've got to help her!
+Sigurd: That swordswoman? Huh. I thought there was something amiss about her... Very well! I'll let her know that you're safe. Now, what's your name?
+Shannan: Shannan. ...I'm Shannan, the prince of Isaach...
+Sigurd: Isaach's prince, you say... I can barely begin to imagine what you've been through, Shannan. For now, though, you're welcome to stay with our army. Don't worry. One day, you'll make it home. I'll do all I can to ensure that.
+
+Oifey: Sire, we've found this young boy in the dungeon.
+Sigurd: Who are you? What's your name?
+Shannan: I-I'm Shannan... Prince Shannan of Isaach... You're not one of Kinbois's lot... Are you?
+Sigurd: Isaach's prince?! ...Er, forgive me. I am Sigurd, a paladin of Grannvale. We've defeated Prince Kinbois. You're safe now.
+Shannan: Really?! Then Ayra doesn’t have to fight anymore! My Aunt Ayra was forced to fight ‘cause Kinbois had me! Come on, we gotta tell her!
+Sigurd: Ayra? That swordswoman out there? ...Oh. Oh no...
+Shannan: It... It can't be... She's dead? ...You killed Aunt Ayra?!
+Sigurd: I'm so sorry, Shannan... If I had known, I would’ve done all I could to help her...
+Shannan: Ayra...
+Sigurd: Oifey, could you take care of Shannan for a while? Try to help him calm down a bit.
+^end 
+
+Oifey: Pardon me, sire, but we're currently at war with Isaach. If we're going to harbor its prince, shouldn't we inform the king?
+Sigurd: He's a child, Oifey. That war has nothing to do with him. I'll find a way to get him home safely, but for now, we need to look after him.
+Oifey: Understood, sire.
+Oifey: Just as I thought... Lord Sigurd really is such a kind man…
+
+Ayra: Genoa has fallen to Grannvale?! No! I... I must get to Shannan!
+
+Elliot: Tch. Does Grannvale really think it can just waltz into Verdane with such a tiny force? How adorable. Men, here's our chance. Evans is ripe for the plucking, then it's straight for the Grannvale border!
+Cavalier: Is that... No! That's the Heirhein army! Lord Eldigan won't like this…
+
+Ayra: Shannan isn’t here!? No… The Grannvalians must have him. Those fiends…They won’t live to regret it!
+
+Eldigan: What's this? Heirhein's army is marching on Evans?! Ugh... I should've known Elliot just couldn't keep his nose out of this. Take care of the castle, Lachesis. Sigurd is in dire need of my help.
+Lachesis: Of course, brother. Please, do all you can to help Sir Sigurd.
+Eldigan: Right! Cross Knights, move out! Our foe is the Heirhein army. I don't expect a challenge, but stay alert nonetheless!
+Eldigan: Elliot! Ambushing them like a common thief, are you? A cowardly act, ill befitting the honor of a knight! Withdraw immediately, or I will take action. We both know you're no match for me.
+Elliot: What's this? Eldigan?! I should've known you would side with Grannvale!
+Eldigan: In doing this you are crossing not just Grannvale, nor me, but your very liege! We bow to the reverent King Imca, who desires only peace with Grannvale. Would you truly cross His Majesty?
+Elliot: You fool! Only you would still seriously heed that senile old fool's word. The lords of Agustria are united against both Grannvale and any peace with them!
+Eldigan: Wrong, for I will not stand with you! Agustria cannot afford the crippling tolls of war, and nor can Grannvale. Our past stands as a testament to this. Learn well, Elliot: we, the nobility, know not the suffering brought by war. War cripples only the powerless, our subjects. I will not abide your lust for glory at the expense of our people!
+Elliot: A pretty little speech, but that won't save you now. I knew all along: you and I were always fated to clash, Eldigan! Today, we settle this, once and for all! Men, the enemy is now House Nordion! I want Eldigan's head on a platter!
+
+Eldigan: Elliot has fled? Very well. Leave him to lick his wounds. We're done here. Withdraw!
+
+Deirdre: N-no! Please, let go of me!
+Ruffian: Heh heh... What's the matter? C'mon, I'm just askin' for a little date.
+Deirdre: I need to go home, sir. I ask of you, please, pay me no mind!
+Ruffian: Shaddup! Keep up your yappin' and you'll regret it!
+Sigurd: What's going on here? Let the girl go.
+Ruffian: What's your problem!? This ones- ...Urgh! You're not that Grannvale paladin, are you?
+Sigurd: You understand the situation? Then be on your way. There are none I loath more than your kind. The girl has given you her answer. Now, leave her be and get out of my sight!
+Ruffian: Yeah... Yeah, got it... My bad, missy. I was just teasin', is all. Sorry. I'll be off now...
+Sigurd: Are you alright?
+Deirdre: Y-yes... Thank you, Sir Sigurd.
+Sigurd: Hm? You know of me?
+Deirdre: Yes. I met a woman named Aideen not long ago in this castle, and...
+Sigurd: She spoke of me.
+Deirdre: She did. I knew from the moment I laid eyes on you: You are in every way the man I had imagined...
+Sigurd: May I... ask for your name?
+Deirdre: ...I'm sorry, but... ...I... I must go.
+Sigurd: Wait! Please, I just want to talk for a little longer--
+Deirdre: ...I am truly sorry. I am glad we could meet, even once...
+Sigurd: What? What do you mean? Please, wait! ...Ah.
+Old man: Lord Sigurd, is it? What's the matter?
+Sigurd: Oh... You must be the town elder! That woman who ran off just now... Do you know who she is?
+Old man: Ahh, of course. That woman is called Deirdre. She is a priestess of the Spirit Forest.
+Sigurd: Deirdre... She's beautiful...
+Old man: Ohoho, even a refined man like you can't resist being charmed by her ilk! Could it be love at first sight? Hoho...
+Sigurd: Sir, please. Don't tease me. And yet... I've never seen anybody so beautiful before. I... I need to see her again.
+Old man: Alas, sir, for it cannot be so. The folk of the Spirit Forest staunchly refuse to partake in the world beyond their woods. Furthermore, that girl and members of her clan are forbidden from ever liaising with men. Village lore dictates that should this ever happen, calamity would befall the world. You have no choice, sir. Resign yourself of that girl.
+Sigurd: What superstitious nonsense! That poor girl... Deirdre... we must meet again.
+
+Lex: Ugh, dammit! I dropped my axe!
+Woman: What you dropped... Was it this golden axe? Or perhaps, this silver axe?
+Lex: Oh, no. My axe isn't anything as fine as those two. It's just a plain old iron axe.
+Woman: Such an honest person... As a reward... I present you with this brave axe... Farewell, Lord Lex...
+Lex: Er…
+
+Jamke: Father, this is absurd! Why do you still refuse to listen to me? My brothers already have fallen, and it's only a matter of time before they come for the capital as well. The Grannvale commander, Sir Sigurd, is a good man. Please, end the war while you still can!
+Batur: I... allowed Gandolf's raid only because I'd been told that Grannvale would surely come to invade us first. Never did I intend for a war like this.
+Jamke: It was that sorcerer, Sandima, who told you that, wasn't it? You, Kinbois, and Gandolf trusted him too readily. You've all been deceived!
+Sandima: Now, now, Prince Jamke. That's enough of that. Your duty as prince is to lead your men into the fray. Dawdling in a place like this would be deeply troublesome of you.
+Jamke: Argh! Damn you, Sandima!
+Batur: That's enough, Jamke. Listen to Sandima. Go. Lead your men into the fray.
+Jamke: Father! ...Very well. If you won't change your mind, even now, then... I'll see this through as well. But be warned. Should I return victorious, Sandima, I'll allow you to live no longer!
+Batur: Sandima... Perhaps, for all this time, you may not have been entirely forthright with me. You did assure me that Grannvale hungers to claim our land, and yet...
+Sandima: Feh... And just what are you saying now? To think, I believed that your Verdanites would be of use... You truly are naught but savages. You are worthless. Completely and utterly worthless! And from now on, your army is mine to command!
+Batur: What?! No, stay back! Back, I- -Guhh...
+Sandima: Feh... Feeble-minded old fool.
+Manfroy: So, you've put an end to the king, Sandima... Do you expect that the Verdanite army will still obey your command?
+Sandima: Oh, Archbishop Manfroy! How long have you been here, Your Eminence? The army is of no concern at all. They need only know that the king has fallen ill.
+Manfroy: Hrm, I see... And what of the situation here? Does the plan progress?
+Sandima: My sincerest apologies, Your Excellency. That Grannvalian... Sigurd, or something, has proven to be an unexpected obstacle to the invasion.
+Manfroy: Hrm... And what of the search for the Loptrian scion? Have you found Sigyn's daughter?
+Sandima: Er... No, not yet...
+Manfroy: Imbecile! After all of the pains I have gone to, to locate the boy... The son of Sigyn is still in Belhalla, but he's worthless without the female. Listen well. Sigyn was an heir of Prince Maira, brother of an emperor of the old Loptyr Empire. Sigyn alone in this era inherited the sacred blood of the dark lord. That woman broke the commandment that Maira placed upon his heirs and bore two children. Do you know what this means?
+Sandima: Yes, Your Eminence. When the blood of the two heir intersects, the second coming of the dark lord, Loptyr, will be upon us.
+Manfroy: Precisely, and so too shall we, descendants of the Loptyr Empire, return to this world. You know as well as I, Sandima, how heavily our fates depend upon the resurrection of the dark lord. You know well our order's centuries of exile, hidden deep within the Aed Desert. You know well the abuses... The famines... How we were sustained only by dreaming of the day when the Empire will rise again. And at long last, that day is upon us.
+Sandima: Understood, Your Eminence. If I must surrender my life to ensure that the plan is realized, I will do it gladly!
+
+Deirdre: Wait... Lord Sigurd...
+Sigurd: Hm? Is that... Deirdre! Ah! So this must be your Spirit Forest. Thank the gods! For a moment I thought that I might never see you again.
+^start
+Deirdre: Milord, listen. The dark priest Sandima guards Castle Verdane with his wicked magic. You must go no further. You would surely be killed. Please, you mustn't go...
+Sigurd: But I mustn't place my men in even greater danger, either. I have no choice but to go.
+Deirdre: ...I see. Then I will go with you.
+Sigurd: Excuse me?
+Deirdre: This is called a Silence staff. So long as my own power is enough to pierce his magical resistances, it will seal his magic away. Trust me, milord. I'll ensure his dark spells never harm anyone ever again.
+Sigurd: I'd never imagined that you'd have such power... But why... Why are you helping me?
+Deirdre: ...I tried to forget you all I could, but it was all in vain. ...I no longer know what I should do...
+Sigurd: What is it you're afraid of, Deirdre? I don't understand. But if you and I feel the same way, then surely we've nothing to fear. I... I love you, Deirdre…
+
+Deirdre: I heard of Sandima's defeat. I was afraid that he'd find me... He was a dark priest from a shadowy cult, sent to Verdane to find me.
+Sigurd: A... shadowy cult? What in the world do you mean?
+Deirdre: I don't know much of it myself. All I know comes from the last words of the old woman who raised me. Somewhere in this world, she said, there lies an ancient order dedicated to the ancient dark god, Loptyr. So devout are they, it is said that they plot to resurrect their once-fallen god.
+Sigurd: Yes, I've heard those rumors myself. But why is this cult after you?
+Deirdre: The dark god slumbers within my very blood... Through me, they have some way of reviving Loptous. This is why she told me on her deathbed: I must never be found, she said. I must never mingle with men...
+Sigurd: I see... So that's why you kept running away from me.
+Deirdre: I was afraid of falling in love. I did all I could to forget you, but... Love found me still. I couldn't do it... I couldn't bear to lose you. I... no longer know what I should do...
+Sigurd: Deirdre... I know you must fear where your destiny might lead. But nothing will come of living in fear. I will protect you. Come what may, I will protect you. Deirdre, if you and I feel the same way, then we've nothing to fear. O gods above, should our love be a sin, then deliver punishment unto me alone! I swear this day: Even should my body be rendered and rent, no regrets will ever haunt me. All I ask, O gods... Protect my beloved Deirdre in my stead, for all eternity!
+Deirdre: Ahh... Milord…
+^end
+
+@End 
+Sigurd: Deirdre?! Oh, thank the gods! You’re alright!
+Deirdre: Mm. The enemy captured and imprisoned me, but I knew… I knew you would come for me, no matter what. 
+
+Oifey: Sire, we've found a casualty in the palace. It's... it's King Batur himself. By the look of it, he's well beyond help.
+Sigurd: King Batur! Are you alright? Please, come on... you can make it!
+Batur: Hnnh... Lord... Sigurd? I am so sorry for doing all this to you... I let Sandima... lead me astray... He... he abused my trust... and won over my sons... all to seize control of Verdane for himself...
+Sigurd: I understand, Your Highness, but you need to rest now. Please, you mustn't stress yourself further.
+Batur: No... It's too late for me... Heed my word, Sigurd, for there is one final thing I must tell you... The misery here... the grief spreading across Jugdral... it is all the will of the dark priesthood... They blight our world from the shadows, all in the name of the revival of their dark god, Loptyr... Sandima... was one of them... He twisted us to war with Grannvale... for the sake of the cult's madness. The... the dark priests... they infect every corner of our world... Sigurd... Stay vigilant, lest you be tricked too! I... I failed the people of Verdane... Sigurd, I beg you... Make this right... Protect... my... people...
+Sigurd: Oh... Your Highness... The dark priesthood? What in the blazes is happening...?
+
+@Visit 
+Woman: This village is part of the holdings of Prince Kinbois, lord of Genoa. He's as dreadful as they come! Barely a month goes by without him settin' his army on us. It's terrifyin'! King Batur, his father, used to do such a fine job of keepin' him in check. I can hardly imagine what's goin' on... Anyway, glad you stopped by!
+
+Woman: King Batur is as gentle as they come. Normally, at least, leading a war like this is the last thing he'd ever do. Mark my words: this is all the doing of Sandima, his sorcerous advisor. I can just feel it. Eking out a living here's grown tougher and tougher since the day that man arrived, and save for the youngest son, Jamke, both king and country are at his very whim. Please, I beg you... Save our country! Bring back the Verdane that once was!
+
+Old man: Just t'the north a here is this mighty woodland. S'called the Spirit Forest. Once upon a time, I lived there too, in this li'l hamlet deep within. Th' village is home to the last kin o' the dark one of old, Loptyr. They say it all started with Saint Maira, exiled by the empire for darin' to sympathize with mortal men. In my day, there was this gorgeous girl livin' there called Sigyn, the last heir o' Loptyr's bloodline, she was. She lived 'er life under close guard, the villagers wary o' lettin' the blood o' Loptyr loose into th' world. Alas, Sigyn grew weary o' the tedious forest life an' she left it all behind, breaking ancient commandments. A couple o' years later, she came back, 'cept now she was pregnant. Never said who the father was, mind. Before long Sigyn died, even as she gave birth t' her daughter. From what I 'eard, the hamlet's old prophet took 'er in and raised the girl as 'er own. If the little girl's still alive, she'd 'ave to be 'bout seventeen or eighteen by now...
+
+@Battle-Talk 
+%Quan,Finn 
+Quan: Finn, this will likely be a very long battle. My apologies for bringing you into it.
+Finn: I am but your humble servant, milord. I would go anywhere, should my master will it.
+Quan: Thank you, Finn.
+Finn: Even so, I am but a page... It honors me to have your confidence, but I doubt I'll be of much use to you.
+Quan: Is that so? In that case, what better time than now is there for a spot of hands-on training? Draw, Finn!
+Finn: Yes, sir!
+
+%Sigurd,Aideen
+Sigurd: Aideen? Thank goodness you're okay!
+Aideen: Lord Sigurd! So you came to my aid, did you? Please accept my apologies. I've put the people of Chalphy through nothing but danger...
+Sigurd: Don't worry about it. Everyone will be glad to know that you're safe. You've nothing to worry about anymore. The road back to Jungby is secure for you, when you're ready.
+Aideen: No, I wish to remain here. Injuries are inevitable in war. As a humble servant to the gods, it is my duty to stay here and aid your wounded.
+Sigurd: Say, Aideen... As I recall, you declined to pursue a knighthood and instead joined the clergy. Am I right? I shouldn't be surprised, knowing how easily people warm to you, and you them. I'd do well to learn from your example!
+Aideen: Thank you, Lord Sigurd, but that isn't entirely true. Initially, I sought priesthood in a bid to help me find my sister. Even now, I still believe this is the answer I seek.
+Sigurd: You mean Bridget... I'd heard that she went missing as a child. So all this time, Aideen, you've been praying for her sake, haven't you?
+Aideen: Yes. I know we'll meet someday. No matter what happens, I must give her this: her sacred birthright, the bow Yewfelle!
+
+%Azelle,Aideen
+Azelle: Ah, Lady Aideen! You're safe... thank the gods...
+Aideen: Lord Azelle? Have you been fighting for Jungby as well?
+Azelle: When the news of your abduction reached us, the thought of you in danger while I just sat at home was unbearable! I came to Jungby as quickly as I could.
+Aideen: Hold on. You are the younger brother of Lord Arvis of Velthomer, are you not? Did he allow you to come?
+Azelle: No, I... I came without his consent. And he certainly won't be pleased.
+Aideen: Why would you do something so reckless, then? I thought you abhorred violence.
+Azelle: Because I... er, well...
+Aideen: Oh? What is it, Azelle?
+Azelle: It's... It's nothing... never mind.
+
+%Midir,Aideen
+Midir: Milady? You... you're safe! Ahh... thank the gods! I'm so sorry I failed to protect you. Please, forgive me...
+Aideen: The important part is that you're safe as well, Midir. Please, don't worry about it. You gave your all to protect me, and I couldn't thank you enough for that, even if you didn't succeed. For now I'd like you to remain with Sigurd. He could use your strength.
+Midir: Certainly, milady. He's done so much for me, for you, and for all of Jungby. I'll do all I can to return his kindness.
+
+%Aideen,Ethlyn
+Ethlyn: Aideen, are you okay? When I heard you'd been abducted, I was so worried!
+Aideen: You came to fight for me as well, Ethlyn? Thank you... I'm sorry for your trouble. It's difficult to convey my thanks, but please, accept this staff. I think you'll have more use for it than me.
+Ethlyn: Is this... a Return staff?! Oh, thank you, Aideen! I'll put it to good use to help us all.
+
+%Dew,Aideen
+Dew: Hey! Miss Aideen! I got something good to give you. Look, I picked up this odd cane. It won't do much good if I just hold onto it, will it?
+Aideen: Oh? This is a Warp staff. Where did you find it, Dew?
+Dew: Oh... er... I... I found it just over there! Yeah! That's right. Weird, isn't it? I betcha one of the gods left it over there. Juuuuust for you!
+Aideen: Oh, Dew... Having a staff like this ought to be a great help for everybody. Thank you. I'll cherish it.
+
+%Ayra,Quan
+Quan: Princess Ayra of Isaach, I presume? I heard your story from Sigurd. I am Quan of Leonster.
+Ayra: A pleasure.
+Quan: I'd hate to press you for information so soon, but there's something I'd like to know. Why did Isaach attack Darna in the first place? Surely you knew doing so would invoke the wrath of Grannvale. That King Mananan would commit such a reckless act... The very idea defies belief.
+Ayra: You knew my father, Sir Quan?!
+Quan: I'm afraid I never had the chance to meet him. However, my father knows him well. He always had only the utmost praise for him. He also speaks fondly of your brother, Prince Mariccle. He's always said he is a fine young man.
+Ayra: Is that so? It heartens me to hear it. Without a doubt, my father and Mariccle were admirable men. Never would they condone such an assault on a defenseless city. In the matter of Darna, the patriarch of Rivough acted alone and without our consent...
+Quan: I beg your pardon?! Why haven't the Grannvalians heard this? Surely if Prince Kurth knew the truth, he would refuse to continue the war.
+Ayra: So, too, thought my father. Once he executed the Rivough patriarch, he departed for the Grannvale front, head in tow, to negotiate with them. But...
+Quan: ...Yes?
+Ayra: My father, the king... He was assassinated on the way. Once word of this returned to Isaach, the people were utterly incensed. Mariccle set out, leading our entire army, seeking vengeance against Grannvale.
+Quan: Something is amiss here. The murder of a king who seeks peace talks certainly isn't like Prince Kurth, either. Have you told Sigurd of this as well?
+Ayra: No. Lord Sigurd carries enough of a burden as it is. It's too late for my brother...
+Quan: Prince Mariccle was resigned to his death when he engaged Grannvale, wasn't he...
+Ayra: My brother believed to the last that Isaach's hope for the future rests in Shannan, his son. My role is to protect Shannan, and with him, the promise of Isaach's liberty...
+Quan: I see. Thank you for telling me, Princess Ayra. Someday, the world will know this truth, and till that day comes, you mustn't give in. I will do all I can to help you.
+Ayra: Thank you, Sir Quan.
+
+@Recruit-Talk 
+%Sigurd,Ayra
+Sigurd: Hold, Lady Ayra! Prince Shannan is safe with us! You needn't keep fighting.
+Ayra: What? You saved Shannan? Do you speak the truth?!
+Sigurd: I do. Prince Shannan told me everything: that you're the daughter of the late Isaachian king. Listen. You detest Grannvalians. You've made your hostility perfectly clear. But you can't neglect your duty to the prince. You can't afford to waste your life now, not on a battle as senseless as this.
+Ayra: My brother, the crown prince, entrusted Shannan to my care knowing that his death was inevitable. You're right. After all this time, I refuse to die for Verdane's sake. Until I've seen Shannan rise to the Isaachian throne, my life is not mine to forfeit to such dogs.
+Sigurd: I will aid you all I can, if you lower your sword. On my honor as the heir of Baldr the Crusader, I swear I will not betray you.
+Ayra: Very well. I'll place my trust in you, as well... Such is the way of the warriors of Isaach. For now, I pledge my blade in your service. However, this does not change that Grannvale is my foe. Beware, for if one day that includes you... I will not hesitate.
+Sigurd: Mm, war can be truly cruel. Ayra, Isaachian warrior... I pray that day never comes.
+
+%Aideen,Jamke
+Aideen: Hold, Prince Jamke!
+Jamke: Aideen!? What are you doing here?
+Aideen: You said you would persuade your father, yet instead you've taken to the field yourself. What is the matter with you?
+Jamke: My father is a changed man. My words can no longer reach him... ...It all started when that sorcerer, Sandima, arrived. My entire family now obeys his every word.
+Aideen: This is why I ask... Why have you taken to the field? Please, Jamke. Join us. Let's go to Verdane together. We can reason with the king, one more time. We can put an end to this war! Lord Sigurd has no interest in invading Verdane. He fought only to rescue me. Please listen, Jamke. Please... I beg of you.
+Jamke: Fine... If you're willing to go so far, then I'll stain my name with treason. But it must be understood that I won't let anyone lay a finger on my father.
+Aideen: Yes, I will promise you that. Thank you, Jamke. You truly are a good person.
+Jamke: Aideen…
+
+@Boss 
+Kinbois: Pointing your little stick at me? That's precious, that is! I'll cave your head right in!
+
+Kinbois: No… urgh…
+
+Gandolf: Oh, come on! First my woman flees, and now this?! Damn my rotten luck!
+With Azelle
+Gandolf: And what are you supposed to be? You've got nerve, brat!
+Azelle: So you're Gandolf... How dare you harm Aideen!
+With Midir
+Gandolf: You're that knight from earlier?! Ugh, I don't believe this... What are you doing still alive?
+Midir: Prepare yourself, Gandolf? I'll never forgive you!
+
+Gandolf: N-no... This can't be... Guh…
+
+Sandima: Kehehehehe... Learn to fear my dark magic.
+
+Sandima: Archbishop Manfroy... F-forgive me…
+
+Elliot: Damn you, Eldigan, and your little good-guy act! Your grudge against me ends, here and now!
+
+Defeating Elliot
+Elliot: Oof... Men, retreat! Mark my words, Eldigan! This isn't over!
+
+%Jamke,Sandima
+Sandima: You are too late, Jamke. Your father has already passed on.
+Jamke: What?! Sandima! You... You're MINE!!
+
+%Deirdre,Sandima
+Sandima: What's this? A priestess, are you? Could it be... Might you be Deirdre... The cursed maiden…
+
+@Recruit-Battle 
+Ayra: You stand between me and Shannan's future... Farewell!
+
+Ayra: Shannan... I've failed you…
+
+Jamke: I don't want to hurt you! Begone from this land at once!
+
+Jamke: No... Father…

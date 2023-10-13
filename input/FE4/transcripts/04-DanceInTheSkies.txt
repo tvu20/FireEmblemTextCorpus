@@ -1,0 +1,386 @@
+@Opening 
+The unthinkable has come to pass. Sigurd is now a traitor in the eyes of his beloved Grannvale. In desperation, his army flees to find refuge in the northern Kingdom of Silesse. 
+
+Silesse was founded by the Wind Crusader, Ced. It lies under the watchful guard of the valiant pegasus knights and wind mages, and so for over a century since its foundation, Silesse has maintained itself as a neutral nation and persistent all invaders. 
+
+However, ever since the death of its king several years ago, the royal family has been plagued with strife over its inheritance, and shades of war creep over the peaceful land. The late king and his wife, Queen Rahna, had a single son, Prince Lewyn. The king's greedy younger brother, Duke Daccar, objects to Lewyn being heir to the throne and has confined himself to Zaxon Castle in protest. As if acting in concert, the king's youngest brother, Duke Maios, has set to work raising an army for himself at Thove Castle. 
+
+Out of disgust at his uncles, Prince Lewyn left Silesse to travel the world years ago. Is there no end to the dukes' avarice? Their lust for power will condemn Silesse, a beautiful and majestic land, to the searing ravages of a brutal war.
+
+@Intro 
+Oifey: Sire, Queen Rahna is here to see you.
+Sigurd: Queen Rahna?
+Rahna: Good evening, Lord Sigurd. Are you comfortable settling into Sailane yet? Is there anything at all that you need?
+Sigurd: As much as I appreciate the offer, we're fine. I can't thank you enough for your hospitality, Your Highness.
+Rahna: I know Sailane is perhaps too small to house all of you adequately, and I'm sorry, but please, bear with me for a while longer... I'm doing all I can to hasten your liberty. I've sent letter after letter to Belhalla to advocate for your innocence. As of yet, however, I've still heard nothing at all from King Azmur.
+Sigurd: This... This has to be Reptor's doing! First he betrays my father, and now he's stopping all of your letters! He must be!
+Rahna: Calm yourself, Lord Sigurd! I know well the pain you're feeling, but you cannot let your grudges rule you. Your anger will not save your father. Hatred will only destroy you from within. I swear to you, I can and I will find a way to set this to rights, but you must be patient.
+Sigurd: You're right... I'm sorry, Your Highness. I really appreciate all you've done for me.
+Rahna: It's alright, Lord Sigurd. Oh, before I forget... There actually has been some good news from Grannvale of late.
+Sigurd: Good news, you say?
+Rahna: Mm. A previously unknown daughter of Prince Kurth has been discovered. All of Grannvale is rejoicing at the news.
+Sigurd: Huh?! Is that even possible?
+Rahna: It took King Azmur only a glance to recognize her true heritage. She bears the brand of Naga, the proof of a true heir to House Belhalla. There is no doubt. She is Kurth's child.
+Sigurd: I see... Thank goodness. At the very least, this means the royal lineage won't go extinct.
+Rahna: That's not all. The princess and Duke Arvis are in a relationship. King Azmur has given his blessing, and a magnificent wedding will soon be held.
+Sigurd: Arvis? Really?
+Rahna: All who've seen the happy couple eagerly attest that this beautiful princess and Duke Arvis are perfectly matched together. To say nothing of how happy the couple is said to be! Young love is wonderful, isn't it? ...Oh. Lord Sigurd, I'm so sorry. I forgot. Your wife is still-
+Sigurd: Deirdre... My wife's still gone, yes... It's been over a year since she vanished. She's missed an entire year of watching Seliph grow up.
+Rahna: I'm so sorry, Lord Sigurd, but cheer up. I know you'll reunite someday.
+Sigurd: You're right. I feel it, too. I can't give in to sorry just yet. I can't give up on finding her.
+Annand: Pardon me, milady, but the hour is late. We should be on our way soon.
+Rahna: Ah, of course. I'll be with you in a moment. Lord Sigurd, one last thing... Beware of Duke Maios of Thove. I regret to say that my brother-in-law has long hungered to claim Sailane for himself. It's only a matter of time till he goes so far as to attack you. I wish I could provide you with reinforcements, but...
+Sigurd: ...I know. The capital is under the very same threat from Duke Daccar of Zaxon. You cannot afford to weaken your own guard. Daccar will pounce upon you given even a hint of weakness. Don't worry about it, Your Highness. There's nothing the Thove army can throw at us that we can't handle.
+Rahna: Ah, of course. I should be more confident in such veteran heroes as yourselves. Oh! I've been talking for so long, I lost track of the time. Take care, Lord Sigurd.
+Sigurd: You, too, Your Highness. Thank you.
+Lewyn: Mother! Aren't you forgetting somebody? You've just chatted for hours and hours with Sigurd, yet you can't even acknowledge your own son?
+Rahna: My son? The one who abandoned me two years ago, going gods know where? How do I talk to someone who's clearly not here?
+Lewyn: Heh heh... So this is how it's going to be, is it? You're still mad at me, then?
+Rahna: Of course I am! Do you have any idea how hard it was without you, and how worried I've been after you? That my own son could be so cold-hearted... I thought I knew you better than this.
+Lewyn: Look, I know you're upset, but I had my reasons for all this. But come on, I'm home safely! Surely that counts for something and you can forgive me? I swear I'll make up for it and be the very picture of a good son. Hey, how about I give you a shoulder massage to start?
+Rahna: Oh! What nerve! Treating me as if I'm an old crone... Look, Lewyn, there are more pressing matters which we need to talk about, and soon. Come to Silesse as soon as possible. Do not forget! Do I make myself clear?
+Lewyn: ...Sigh. I thought she'd never stop.
+Annand: Don't be fooled by your mother's outward behavior, milord. She's actually very happy, now you've returned. Indeed, she hasn't been anything as cheerful as this since before you left.
+Lewyn: Thanks, Annand. Knowing you're at her side is a big relief. Look after her, okay?
+Annand: Yes, sir! Rest assured, I will protect the queen with my life, on my honor as the captain of the Silessian pegasus knights.
+Lewyn: Thanks. Oh, one more thing... Are you gonna leave Erinys here with Sigurd?
+Annand: I am... Milord, I'd like you to keep my sister at your side. She-
+Erinys: Annand!
+Annand: Oh. Eavesdropping, were you, Erinys?
+Erinys: You were about to tell him too much, so...
+Annand: Ah. My apologies, Erinys. There are things he shouldn't know just yet, of course... Erinys, I'll be leaving with Queen Rahna and returning to Silesse Castle shortly. You'll stay here and keep and eye on Prince Lewyn. Best of luck.
+Erinys: Thank you, Annand.
+
+Quan: Sigurd, we'll now be taking our leave. It's high time we returned to Leonster. Rest assured, we'll be back, this time leading the full military might of Leonster to your aid. May that day come soon, my friend.
+Ethlyn: I'm going with Quan, Sigurd. Don't worry, though. We'll be back before you know it! Take care of yourself.
+
+Finn: By your leave, sir, I'll be departing with my lord. Thank you for all you've done for us. Don't give up, sir. One day, I know, the charges against you will be cleared and your good name restored. I know you can do this.
+Sigurd: Thank you. You've got quite the journey back to Leonster ahead of you. I wish I could do more to help you on your way. May your journey be a safe one!
+
+Maios: Díthorba! Is the army ready to deploy yet?
+Díthorba: Yes, sir. Bishop Cuvuli's wind mage unit has infiltrated the forests near Sailane. They await your command, sir.
+Maios: Very well. Relay my orders to Cuvuli: move in on Sailane! Díthorba, I trust your pegasus corps are already briefed on your mission?
+Díthorba: Yes, sir. Our task is clear. My squadron is to raid the enemy from above, disrupting their tactics.
+Maios: Good. Now get to work! Grannvale will owe us a handsome reward for bringing them the heads of their infamous traitors! Heh heh heh…
+
+@Battle 
+Cuvuli: There's the signal to assault Sailane, as planned. I trust you're all ready? Move in! Teach the traitorous scum the terror of a wind mage's wrath!
+
+Daccar: The Thove army's attacking? Looks like Maios has finally made his move. Heh heh... Why, this little drama is finally getting interesting. Wouldn't you say, Pamela?
+Pamela: Indeed, sir. However, as I recall we didn't account for Sigurd's fugitives being here. Their strength poses a real risk to the plan. If Maios at least succeeds in weakening them, perhaps Silesse's fall will still go smoothly?
+Daccar: Even if he fails, I still have my private deal with Grannvale in my favor. Their Lord André should arrive shortly with a battalion of reinforcements. Heh heh... My victory is certain, Pamela! I'll be sitting on the Silessian throne by the end of the week!
+Pamela: Without a doubt, sir.
+
+Maios: Hm? I'd say those traitors are drawing perhaps a bit too close for comfort. You there! Raise the Thove River drawbridge! Without this key, there's no way they'll ever get over here. Heh heh... I almost wish I could see the looks on their faces!
+
+Dew: What, just one of these locks? C'mon, at least gimme a challenge... Ta-da!
+
+Oifey: Sire, the Thove village elder would like a word with you.
+Sigurd: Of course. Actually, I'd imagine we need to talk this situation over. Bring him in.
+Old man: Lord Sigurd, I presume? We can't thank you enough for getting rid of Lord Maios. The entire population of Thove is rejoicing at his downfall!
+Sigurd: Hm? Are you sure? I mean, I just conquered you. Am I not the enemy here?
+Old man: Lord Maios was nothing but a tyrant. All he ever did was bleed us dry. You fight in the name of Queen Rahna, and there isn't a Silessian alive who doesn't bear the utmost adoration for our queen.
+Sigurd: Is that so? Thank you. Anyway, in the interim I think I'll leave governing Thove to you, sir. Once the crisis has settled, the queen will be in touch to arrange a proper successor. Until then, I'm sure you'll be a just governor to help heal Thove's wounds.
+Old man: Very well. Please, Lord Sigurd, do all you can to protect the queen. She is a treasure to us, and a beacon of peace and kindness.
+Sigurd: Rest assured, my good man. So long as I live, I swear that I'll let no harm come to Queen Rahna. You have my word.
+
+Daccar: Thove has fallen, has it... I almost feel bad for my brother: little more than a pawn in my dreams who'd outlived his usefulness. Pamela, it's your turn. Lead your pegasus knights into battle at once! Sigurd is well clear of the capital. Seize it while he has no chance of aiding them!
+Pamela: Yes, sir!
+Annand: Dire news, milady! Zaxon has deployed Pamela's pegasus unit and they're closing in on the capital.
+Rahna: What?! This can't be happening! ...So, at long last, Daccar has put to rest his tired old façade of innocence.
+Annand: Be at ease, milady. My squad will keep Pamela's at bay.
+Rahna: Annand, are you sure you can do this? I've heard stories of the sheer terror of Pamela's might as a warrior.
+Annand: Of course... I know better than to take lightly such a formidable foe. But remember, I am one of the Four Falcon Knights of Silesse. I never enter a battle ill prepared.
+Rahna: Ah... I'm so sorry, Annand. I already know well how you feel about all this, but... I...
+Annand: To fight in your name is the only life I know... Milady, please. Don't worry about me so much. If that's all, then, I'll be going. Knights, to me! Move out!
+
+Daccar: Ah. Duke André, I presume? You certainly took your time getting here... And... Oh! How magnificent! So this is Jungby's renowned bow knight legion!
+André: Hmhmhm... Alas, my father is dead, and my sister is a fugitive among the traitors. This leaves me, and me alone, as the Duke of Jungby and the leader of our legion! Against the might of the Beige Ritter, these winged ponies stand no chance at all! Now, sit back and watch them drop like flies!
+
+Annand: It's been a while, Pamela... I've known you for years, ever since we trained side by side to become knights. But not once did I ever suspect we would someday find ourselves as enemies.
+Pamela: Annand... Only you would be so foolish as to insist on following your queen to her inevitable grave! Why should I complain, though? After all, once you're out of the way, that leaves me as the greatest knight of Silesse!
+Annand: The only fool here is you, Pamela! No... It's too late to change your mind. You're so set on your fate... Very well. All I can do for you now is give you a last honorable duel befitting a Silessian knight.
+Pamela: Heh... Saccharine as ever, aren't you?
+
+Rahna: Annand has been killed?! Ahh... How could this happen... I'm so sorry, Annand... Forgive me…
+
+Lewyn: What? Annand's dead?! ...Y-you're joking!!
+
+Erinys: Huh? Annand was... No! Th... this can't be happening! How... how could anyone have killed her? This can't be…
+
+André: Heh... I expected so much more from Silesse's famous pegasus knights... No matter. I suppose we might as well bring down the capital while we're here. Pamela, your unit will cross the mountains. Besiege and capture Thove immediately.
+Pamela: Very well.
+
+André: The capital is under our control? Good. Mission accomplished. We ride for Grannvale at once!
+
+Daccar: Heh... At long last. The capital is mine, and mine alone! Now, I want a wind mage unit deployed south of Silesse River. Fortify our defensive line there. Furthermore... Donovan! You and your axemen are to occupy the capital and maintain its defenses. But don't even think about killing the queen. We can't waste a hostage of such high value.
+Donovan: Got it, sir!
+
+Rahna: Hurry! You need to flee as fast as you can!
+Young woman: But, Your Highness...
+Rahna: I'll be okay! Look after yourselves, please!
+Young man: People, please! The queen wants us to run, so come on! Run!
+
+Donovan: Huh? Where the hell are all the townsfolk?! Ugh... they scarpered, didn't they? Damn it! They took all the fun outta this! Boys, it's up to you now! Get out there and butcher those little pigs! No survivors! Understand!
+Rahna: No! Please, stop! My citizens are as innocent as they come! It matters not what happens to me, but please, don't harm my people!
+Donovan: I don't think so. You've been screwin' up Lord Daccar's will long enough, missy. 'Bout time you learned your lesson!
+Rahna: Ahh…
+
+Daccar: Heh... It appears leaving this to Donovan was a good idea after all.
+Lamia: Well, now! It's been a long time since I've seen such darling villainy anywhere! It's almost enough to turn a weaker stomach.
+Daccar: Coming from someone like you, willing to kill anyone, anywhere, anytime so long as you're handsomely paid, that's quite a claim. High praise indeed, if it's from the infamous "Lamia the Infernal".
+Lamia: Ohoho! Quite the flatterer, aren't you? Now, where do we begin with our mayhem?
+Daccar: For now, your group will guard the castle. Be ready to roll out your traditional welcome in case Sigurd's thugs try causing us grief.
+Lamia: Guard duty? Really? Where's the fun in that? Eh, no matter. It's your money. Oi, ladies! Listen up! We're on guard duty. Stick to the castle, and pick off the enemy's leftovers if they come!
+
+Donovan: Huh? So the Sailane army's finally comin'? Good! It's 'bout time I gave those damned rebels the axe! Boys, get off yer sorry hinds! Guard the castle no matter what. Don't let 'em get anywhere near it!
+
+Sigurd: Your Highness! I'm so glad you're unharmed. My sincerest apologies for not coming to your aid sooner.
+Rahna: It's fine, Lord Sigurd. That you've made it here is more than enough. I... I'm sorry I couldn't do more. Too many people have died, and I could only stand by and watch... I can't bear it. And... and Annand…
+
+^start 
+Sigurd: Don't worry, Your Highness. Annand's killers will die this day by my hand. Daccar's crimes are beyond forgiveness. I promise you: he will not escape me. With this in mind, I humbly request your authorization to assault Zaxon Castle.
+Rahna: Lord Daccar's petty greed has condemned my people to utter agony long enough. He is a murderer. Nothing more, nothing less. You may visit justice upon him, Lord Sigurd.
+Sigurd: Understood. I'll mobilize my army to capture Zaxon immediately. For now, Your Highness, please get some rest.
+Rahna: Do take care of yourself, Lord Sigurd. As soon as Zaxon is under your control, I'll be coming by for a word with you.
+
+Sigurd: Don't worry, Your Highness. We've already put an end to Annand's killers. That said, in our haste we neglected to get your consent to do so. My apologies.
+Rahna: It's alright, Lord Sigurd. I couldn't possibly thank you enough for all of your help today. I'll come by Zaxon Castle later, once everything has settled here. May we meet again then, Lord Sigurd.
+^end 
+
+Daccar: Oh, you must be joking! Those accursed rebels have already re-captured Silesse?! What in the blazes is Donovan even doing out there?
+Daccar: Instruct Pamela to lead her squad in pursuit of Sigurd’s army! Throw everything we have at him! 
+Daccar: Blast... We've no choice. Instruct Lamia to move out and attack at once! They mustn't be allowed near my castle!
+Lamia: Wow, even something so tiny gets Daccar panicking... No matter. Let's go, ladies! We've got quite the feast ahead of us!
+
+@End 
+Oifey: Sire, Queen Rahna has arrived.
+Rahna: Lord Sigurd, that was quite the fierce battle, wasn't it? Are you unharmed?
+Sigurd: Yeah. Somehow, I'm okay.
+Rahna: I know I've asked so much of you already, Lord Sigurd, but would you and your army please station yourselves here at Zaxon? Grannvale's Lord Langbalt has already swept in with an immense army and conquered Lubeck Castle, to our east. The people of Silesse are terrified that this will prove to be but a prelude to a full-scale war with Grannvale.
+Sigurd: Your Highness, I believe Langbalt's army is here only for me. I've no desire to needlessly endanger you or your citizens, after all you've done for us. My men and I are leaving. Now. I have a score to settle with Langbalt.
+Rahna: What recklessness! How could you possibly prevail like this?
+Sigurd: They're coming for me no matter what. If we remain here, then they'll just invade. We can't afford to waste time debating this.
+Rahna: Is that so... How sad...
+Sigurd: Your Highness... Thank you so much. You've given me the most wonderful year here, and you've done so much to put my mind at ease. My mother died when I was still very young, so as I grew up, I never knew the unconditional love of a mother.. But thanks to you, here in Silesse, I've come to know that very same warmth. You're like a second mother to me now... Take care of yourself, Your Highness. I hope that someday, once this is all over, we'll have a chance to meet again.
+Rahna: As do I, Lord Sigurd. Please, stay vigilant out there, and keep yourself safe. From the bottom of my heart, I pray that you and Deirdre will soon be reunited.
+
+@Visit 
+Old man: Magic is governed by a hierarchy of power, just like weapons. Fire magic bests wind, wind bests thunder, and thunder bests fire. However, dark and light magic have an advantage over all of the others. Think your strategies through with care.
+
+Old man: Bein' of holy ancestry can bestow a number of powers onto ya. Divine heirs can wield even the most advanced weapons with ease, and'll have an easier time growin' stronger. 'Course, it's not every day you meet someone blessed with that sorta blood.
+
+Old man: The Silesse royal family wields the power of wind, as bestowed by the wind god, Forseti. House Velthomer wields the power of fire, as bestowed by the fire goddess, Vala. And House Friege wields thunder powers, as bestowed by the thunder god, Tordo.
+
+Old man: The sinister powers of the dark god Loptyr can be fought only with the glorious powers of Naga, our great god. Only Grannvale's House Belhalla, the heirs to Saint Heim, inherit Naga's power.
+
+Old man: Only a direct holy descendant can inherit the full breadth of the power of the gods. And only they'll be able to wield their family's divine heirlooms. However, if kin intersect, their offspring'll have their exalted blood enriched and'll reap almighty powers. Needless to say, mind, doin' that is condemned and forbidden…
+
+Old man: Should Prince Kurth's daughter bear a son, that son would be heir to Grannvale's throne. I daresay this makes Lord Arvis, husband to the princess, quite the influential figure.
+
+Old man: Legend has it that all direct heirs to the Crusaders bear exalted brands on their bodies, which appear on them in their infancy. Prince Kurth's daughter has her Naga brand on her forehead. Actually, that was how they recognized her as a direct heiress to Saint Heim.
+
+Man: Oh! Lord Sigurd's army is here to save us all! Hang on... Aren't you a dancer, miss? If you don't mind, perhaps you could do a little dance for us? It's been so long since we've had time for respite or fun...
+Silvia: Yep not a problem! If you think it'll help everyone cheer up a bit, then I'm gonna dance my feet off! ...Okay! Heeeere we go!
+
+Silvia: Hah!
+
+Silvia: Yeah!
+
+Silvia: Hyaaah!
+
+Silvia: Whew... Well, how 'bout that? Everyone feelin' a little better?
+Man: Oh! What fantastic dancin'! I dunno how, but now I feel like I'm ready to give life my all! I can't thank you enough, miss. Here, perhaps this magic sword'll help ya out. It oughta do a fine job of keeping ya safe.
+
+Man: Y'know how there's a drawbridge over the Thove River? Yeah, that's under the control of Duke Maios, too. If it's still drawn and you don't have the key, you're not getting across. Mind you, if you have a thief's sticky fingers at your service, that might not be a problem…
+
+Man: What's that? You got the drawbridge lowered? How'd ya know to do that?
+
+@Battle-Talk 
+%Sigurd,Claude
+Sigurd: I'm so sorry I dragged you into this mess as well, Father Claude.
+Claude: It's fine. If anything, I'm sorry that my efforts to aid you simply weren't enough. I did return to Grannvale, and I was about to relate the truth to His Majesty. But Reptor interfered before I could do anything, and now I, too, am branded a traitor to the motherland.
+Sigurd: Ugh. I've had enough of just sitting here and letting Reptor have his sorry way! I swear, I've half a mind to storm straight into Grannvale and end this once and for all!
+Claude: No. You know better than to rely on brute force or risk the common folk's safety. For now, Lord Sigurd, we must endure.
+Sigurd: But, Father Claude-
+Claude: Make no mistake. I feel your pain, too, but this crisis's end now lies in fate's hands. There is nothing any of us can do to save ourselves anymore.
+
+%Tailtiu,Azelle
+Tailtiu: Hey, Azelle? Wait up a sec.
+Azelle: Tailtiu? Is something wrong?
+Tailtiu: I need to ask you something quick.
+Azelle: Hm? Me?
+Tailtiu: Yeah. That okay? I mean, we've been friends for years. And I don't think there's anyone else who I can ask about this.
+Azelle: Huh. You look downright grim and serious... If you really think I can help, then sure. What seems to be the problem?
+Tailtiu: Well... I, er... I'm only with you lot because I was just following Claud around, but I'm starting to think I shouldn't have done that...
+Azelle: What makes you think so?
+Tailtiu: It's because people are acting kinda like they're treading carefully 'round me. And when I'm around, people stop talking about my father...
+Azelle: Ah... That certainly doesn't sound fun. But I'd say people really do like you. It's more that they honestly aren't sure how they should treat you, and that they're worried they'll cause you grief. Don't worry too much. It'll all be fine once they get to know you better.
+Tailtiu: Yeah... Guess you're right. Thanks, Azelle. Think I might be feeling a bit better 'bout this now.
+Azelle: Hah! Glad you're back to normal, Tailtiu. If you're ever feeling like this again, I'll always be here to help you through it, no matter what happens.
+Tailtiu: Okay. Thanks!
+
+%Aideen,Azelle
+Aideen: Take care of yourself out here, Azelle.
+Azelle: Right. And you as well, Aideen.
+Aideen: This still feels so odd... Not once did I ever think that one day we would be together like this.
+Azelle: It's because I'm younger than you, right?
+Aideen: Oh, no. I'm still not sure why...
+Azelle: I still can't quite believe it, either! That you're now my wife... It all still feels like I'm living in some kind of dream!
+Aideen: Hm? How so? Don't you believe our marriage feels right?
+Azelle: It's not that. It's because, er... Well, you're so beautiful... Even though I was still very young, when I saw you for the first time years ago, my heart just wouldn't stop pounding! Ever since that day, you were the only one for whom I've ever felt this way.
+Aideen: Oh, Azelle...
+Azelle: It's still pretty embarrassing to admit... Oh, I almost forgot! This is for you. This is a Rescue staff. You can use it to bring people far away back to your side instantly. I know you'll put it to good use.
+Aideen: I'm so happy to be with you, Azelle. I'll always treasure having such a kind and gentle soul as you by my side…
+
+%Aideen,Midir
+Aideen: Midir, please accept this bow. 
+Midir: Isn’t this a brave bow? Are you sure you want to give away something so rare?
+Aideen: I am. I bought it for you, after all. Silesse’s pegasus knights are a formidable foe to face. With a bow of this caliber in hand, I know you’ll be better prepared to fight them.
+Midir: Milady… I still can’t believe this isn’t a dream! I can’t believe we’re actually married... I’ve dreamed of this for so long. 
+Aideen: I’ve long dreamt of the same myself. I wanted to act upon it for many years, but I couldn’t, even at my loneliest… But.. I think by now you can just call me Aideen. I’ll always look out for you, Midir. I’ll always pray for your safety.
+
+%Aideen,Jamke
+Aideen: Jamke, I’d like for you to have this bow.
+Jamke: This is a brave bow, isn’t it… You sure it’s okay for me to take it?
+Aideen: Yes. Please, accept it. As formidable as the Silessian pegasus knights are, so long as you have this bow, I know you’ll have the upper hand. 
+Jamke: Thanks, Aideen. I know I’ll be able to keep you safe with a bow like this. I guess I’ll see you later, once this is all over.
+Aideen: Jamke… I’ll be praying for your safety. 
+
+%Silvia,Erinys
+Sylvia: Hey! Hey, Erinys! You totally like Lewyn, don't ya? Like, do ya really like him?
+Erinys: Huh? I... that's... Er, no. Prince Lewyn is beloved and respected by all the people of Silesse, myself included.
+Sylvia: Oh? Okay, then. Then I guess you'd be okay with me and Lewyn getting together, right?
+Erinys: Er... Yes. I wouldn't really mind...
+Sylvia: Reeeeally? That wouldn't but ya at all?
+Erinys: No, I'm sure I'd have no issue. Why do you ask? Am I supposed to object?
+Sylvia: I dunno! But if it's all fine by ya, then I guess it's time for me to go work my magic on Lewyn...
+Erinys: Er... The thing is, a prospective queen of Silesse ought to possess the same grace and dignity as our Queen Rahna.
+Sylvia: Oh, so you're sayin' I'm not cut out for it? How rude!
+Erinys: Er, no... That isn't-
+Sylvia: Hrmph! Fine then! I'll show you!
+Erinys: .....
+
+%Silvia,Claude
+Silvia: Hello there, mister Father!
+Claud: Hm? And who are you?
+Silvia: I'm Silviiiiiiiia!
+Claud: Well then, Miss Silvia, how can I help? Have you, perchance, recently run afoul of bandits?
+Silvia: What's that?
+Claud: Well, er... I'm not sure how to put this... You're wearing nothing but smallclothes.
+Silvia: Eh?! Watch your mouth, mister Father! Haven't you seen dancers like me before? This is just a dancer's clothes. It's just like you wearin' your churchy cloak!
+Claud: Is that so... Hm. Surely you're chilled to the bone, wearing as little as you are, though?
+Silvia: Oh, no! Even 'round here I'm never cold, 'cause my heart's ablaze!
+Claud: Is dancing truly so fun for you?
+Silvia: Yeah! I just love it!
+Claud: Is that so... What of your parents? Do they agree with this career of yours? 
+Silvia: Actually, I'm an orphan. When I was really little, my master took me in and helped me become a dancer. But he... he was an awful, awful man. He'd always beat me outta nowhere. 'Bout a year ago I couldn't stand any more of it all, so I ran away.
+Claud: I see... What a horrible tale. I believe I know your pain. I once had a sister, who would likely be around your age if she's still alive.
+Silvia: A sister?
+Claud: Yes. Alas, she was abducted while she was still an infant. I've searched for her ever since, but to this day I've yet to find any sign of her.
+Silvia: Ohh... I bet she's just like a princess! She's gotta be all pretty and classy... And nothin' like me...
+Claud: I disagree. I assure you, I do find you to be utterly charming. In your own way, you possess a unique grace and beauty.
+Silvia: Oh... mister Father... really?
+Claud: Of course. I could never lie.
+Silvia: Th-thank you... Nobody's ever told me somethin' like that... This feels kinda funny somehow... Oh... Oh, great, now I'm cryin'... What is this...?
+
+%Lewyn,Sigurd
+Lewyn: Hey, Sigurd? Could I have a word?
+Sigurd: Ah, Lewyn. I'm so sorry about what happened to Annand. I had no idea Jungby's bow knights would get involved in this mess.
+Lewyn: No, it's not your fault. Just mine... I just haven't been thinking right lately. I should've been here all along, looking after Mother and the country. But nope, I just ran away! That's why Annand died... She just took my place in all this.
+Sigurd: There's no need to blame yourself. The best you can do now is care for the queen, and ensure that Annand didn't die in vain.
+Lewyn: Yeah, I know. No use pointing out the obvious, huh?
+Sigurd: Very well. Oh, Lewyn, before I forget... Don't forget to go see your mother at the capital as soon as possible. She said it's of the utmost importance!
+
+%Erinys,Lewyn
+Erinys: Lord Lewyn...
+Lewyn: ...Oh, Erinys. I'm so sorry. Forgive me. Please...
+Erinys: Oh, you mean about Annand...
+Lewyn: ...Yeah.
+Erinys: Oh, so she... you really did... I'm so sorry. I had no idea.
+Lewyn: Whoa, Erinys! You've got it all wrong. I guess when I was younger, I did sorta have a thing for Annand... But that was then. This is now, and the now is you.
+Erinys: C-come again?!
+Lewyn: Erinys, I... I love you…
+
+@Battle
+Lewyn: Mother! You're not hurt, are you? When I heard that Silesse had fallen, I... I was pretty worried there.
+Rahna: Thank you so much for coming, Lewyn. Perhaps at last, you've matured into a young man who honors his promises. Perhaps Lord Sigurd has had quite the positive influence on you after all.
+Lewyn: Oh, come on, Mother! You don't need to act like I'm still a child. Besides, Sigurd is hardly all that much older than I am.
+Rahna: Dear, compared to the likes of Lord Sigurd, you may as well still be a screaming infant. You've still much to learn from him, and quickly. Nothing would be more reassuring than having a son as fine as he by my side. Especially now that Annand is... Oh...
+Lewyn: Annand... I should've been the one to die out there. Not her. If only I'd gotten here sooner! Mother, I'll be here to protect you from now on. I won't let Annand's death go to waste. I swear, I will never, ever leave you again.
+Rahna: Oh, Lewyn... I never thought you were capable of saying anything so kind. But your word is more than enough. For now, at least, I believe you should remain at Lord Sigurd's side. He has a greater need of your strength.
+Lewyn: But if I do that, what about you...?
+Rahna: There's nothing to worry about, Lewyn. You are the heir of the wind crusader. Your place is with the rest of the world, to lead and guide it on its true path. The time has come for me to confer upon you your true birthright... The exalted wind tome, Forseti. Here, Lewyn. It's yours.
+Lewyn: This... So this is the royal family's ancestral tome... The Book of Forseti... Oh! This power... What's this... warmth?
+Rahna: Lewyn, never forget: the Wind Crusader flows as the gentlest breeze. His way is to guide all the peoples of the world on the path of peace. Hate and violence is never his answer.
+Lewyn: Yes, of course. I don't think I could live my life any other way.
+Rahna: Indeed. Perhaps you truly are a child of the wind... Lewyn... It's time for you to go. Take care out there, and... And don't do anything too rash.
+Lewyn: Mother...
+Rahna: Go on! ...For heaven's sake, go...
+Lewyn: Okay, mother please take care of yourself.
+Rahna: Oh... Lewyn…
+
+Young woman: Ah! Are you here to help me? I couldn't possibly thank you enough!
+
+Young man: Oh! You're here to save me? Thank you so, so much!
+
+@Boss 
+Cuvuli: Hmhmhm... I'm surprised you've made it this far.
+
+Cuvuli: Díthorba... The rest... is up to you…
+
+Díthorba: Behold: You now face Díthorba, one of the Four Falcon Knights of Silesse! This is where your journey ends!
+
+%Erinys,Díthorba
+Díthorba: Ohohoho! Erinys, is it? Fancy seeing you here! Your head will make a fine gift for Lord Maios' mantelpiece!
+Erinys: I'll never let you win here, Díthorba! I've come a long way from the Erinys you once knew!
+Díthorba: Pfeh. Don't make me laugh! Once a weakling, always a weakling! Some things will never change!
+
+@Boss 
+Díthorba: N-no... What have I…
+
+Maios: Come on, traitors! Grannvale's bounty on your heads is mine for the plucking!
+
+%Lewyn,Maios
+Maios: Keh... Look who's come crawling back. My dear sister-in-law's idiot son has returned at last.
+Lewyn: Hello, Uncle. Time for you to die. After all, Silesse needs its future.
+
+@Boss
+Maios: Oof! This can't... be…
+
+Pamela: Heh... Begone weakling!
+
+%Lewyn,Pamela
+Pamela: Oh. Prince Lewyn. It's been a while, hasn't it? I've some news for you. I've now surpassed Annand. Permanently. Ha ha ha...
+Lewyn: Gah! Pamela! How dare you!
+Pamela: I could say the same of you. After all, all of this is your fault!
+
+%Erinys,Pamela
+Pamela: Oh. It's just you, Erinys. You came back, did you?
+Erinys: P-Pamela... PAMELA!! What you did to Annand is unforgivable!
+Pamela: Hmph. That's rich, coming from a fledgling knight like you! Prepare yourself. You're about to join your dear, departed sister!
+
+@Boss
+Pamela: I-impossible…
+
+Daccar: The throne of Silesse is mine, and mine alone! It is my birthright! Stand aside, loathsome gnats!
+
+%Lewyn,Daccar
+Daccar: Keh... Lewyn... Damn you!
+Lewyn: How dare you, Daccar! How dare you murder Annand! Death is too good for the likes of you!
+Daccar: What nerve! You die here and now, Lewyn!
+
+@Boss
+Daccar: Nngh... My... My dreams... They're…
+
+Lamia: Hah! What a clumsy mistake, trying to fight me!
+
+Lamia: N-no... How…
+
+Donovan: Hahaha! Time for ya to die!
+
+Donovan: Gah... You're... You're too strong…
+
+Annand: I'm sorry. I know you're not to blame, but this must be done…
+
+Annand: Aah... Erinys... Prince... Lewyn...

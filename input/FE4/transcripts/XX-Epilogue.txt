@@ -1,0 +1,784 @@
+@Dialogue 
+Lewyn: Congratulations, Seliph! You’ve endured so much so well to make it this far.
+Seliph: Thank you, Lewyn, but our victory means precious little while our world still lies in ruins. Where do we begin from there?
+Lewyn: There’s only one way to rebuild all the sacred lands. Everyone needs to come together and share the work among you. And for that, you’ll need a good leader. The crusaders’ heirs will be returning home to assume their rightful thrones. And with the proper leadership, they can pool their strengths again to build a new world, one where all can live in happiness. 
+Seliph: A new world, you say… 
+Lewyn: Yeah, Seliph.. A new world. And your role is the most crucial of all. You’ll remain here in Belhalla, and you’ll guide the rise of this new world as the King of Grannvale.
+Seliph: Hold on. I’M to be the king?!
+
+^start
+Lewyn: Mm-hmm. After all that’s happened, you and Julia are the last living heirs of the blood of Grannvale’s kings. The two of you have inherited the last will of all who lost their lives on this path. These souls watch over you, even now. You mustn’t forget the light for which they strove. 
+Seliph: Mm… I understand, Lewyn. So long as I have the power, I’ll do all I can.
+Lewyn: Now, Julia. What do you say?
+Julia: I agree, of course. I wish to aid Lord Seliph… No, my lord brother, every step of the way. I know this path will be a gruelling one, but that’s all the more reason to give it my all…
+Julia: Lady Lover, you’ll do all you can to aid my brother as well, won’t you?
+Lover: Yes, and gladly so! But, er… Lady Julia, what about…
+Julia: I… I must atone for the fate of Lord Sigurd… I know that’s what my mother, Lady Deirdre, would wish of me…
+
+Lewyn: Mm-hmm. You and Julia were the last surviving heirs of the blood of Grannvale’s kings. But we lost Julia in today’s battle…
+Seliph: Julia… I swore I would always protect her… And I failed. Her death is my fault…
+Lewyn: Whatever you do, you can’t let Julia’s death be in vain, Seliph. She bore the weight of her awful fate on her shoulders, but still she never gave up. I guess she got that from her mother in a way. Deirdre, too, was always haunted by her mistakes and failures. I’m sure you understand, Seliph, that you inherited the last will on all those who lost their lives on this path. These souls watch over you, even now. You mustn’t forget the light for which they strove.
+Seliph: Of course… I understand, Lewyn. I’ll guide this world with all I have, so long as I draw breath. In Julia’s name…
+^end
+
+Lewyn: Well, then! Looks like everyone is making their way here from the front lines. Seliph, this’ll be your first task as king. I’m sure they’d all love some words of thanks.
+
+Shannan: Well, that’s it. I’m going home, Seliph. I’ve left the Isaachian people to wait long enough.
+Seliph: I doubt I could ever thank you enough for all you’ve done for me, Shannan. All my life, you’ve been here to protect me at every turn. I owe you so dearly.
+Shannan: Your father, Lord Sigurd, was always there for me when I was a child, as was the Lady Deirdre. But when we lost Lady Deirdre, I couldn’t do a thing to stop it… I failed Lord Sigurd. Even now, I’ll never forget that day.... You don’t owe me a thing, Seliph. Not when I’ve caused you so much pain…
+Seliph: No, Shannan. If it weren’t for you and the people of Isaach, I wouldn’t be here today. To me, Isaach will always be home. Nothing will ever change that.
+Shannan: I’m sure everyone back in Isaach will be heartened to hear such kind words.
+^start
+Lover: Come on, Shannan. Lord Seliph is the king of Grannvale-to-be yet here you are, talking to him as if he’s but your younger brother. 
+Shannan: Lover… Yeah, I suppose you’re right. I ought to put on proper airs! “King Seliph”.... No, that’s not quite right. Perhaps “Your Imperial Majesty, the King” then?
+Lover: I’m sorry… I shouldn’t have said that. Bidding farewell to Lord Seliph must be hard enough without my commentary! My apologies, to both of you. I shouldn’t have said something so crass…
+Shannan: Heh, it’s fine. You did speak honestly, after all.
+Lover: Shannan…
+
+Lover: C’mon, Shannan! This is Grannvale’s new king you’re talking to here. I’m not sure you should be this brotherly to him.
+Shannan: Lover… Yeah, I suppose you’re right. I ought to put on proper airs! “King Seliph”.... No, that’s not quite right. Perhaps “Your Imperial Majesty, the King” then?
+Lover: Oh! I didn’t mean to anger you, Shannan. You’re right… Parting ways like this has to be so painful for you already. I’m really sorry. That was just horrid of me.
+Shannan: Heh, it’s fine. You did speak honestly, after all.
+Lover: Shannan…
+^end 
+
+Seliph: I’ve always thought of you as a brother, Shannan. I pray we never forget that bond.
+Shannan: My blade will always be yours, King Seliph. I’ll never forget that so long as I live.
+
+Scáthach: Lord Seliph, I’m headed home with the king. I’ve got a country to help King Shannan rebuild. That’s all I really want.
+Seliph: Ah, of course, Scáthach. I know King Shannan will depend on your support. And I know your mother, Lady Ayra, would love nothing more than for you to devote your life to the Isaachian people.
+Scáthach: Yes, sir. My life is theirs!
+^start 
+Lana: I’ve never seen you so happy, Scáthach. But then again, knowing we’re finally about to go home, I feel the same way!
+Scáthach: Oh, you too? I almost forgot. We both grew up in Isaach, didn’t we?
+Lana: Mm…
+Scáthach: We’re going back together, right?
+Lana: Yes… I’ve always hoped we would.
+Scáthach: Whew! I’m relieved to hear you say it.
+
+Lover: I’ve never seen you this happy, Scáthach! It must be nice to finally be going home!
+Scáthach: It’s only natural, Lover. I did spend most of my life there, after all!
+Lover: So, er…
+Scáthach: Yeah...?
+Lover: Say, Scáthach… Is it okay if I come with you?
+Scáthach: What, you want to come? To Isaach? With me?
+Lover: I do…
+Scáthach: Wow… Thanks, Lover!
+^end 
+
+Scáthach: I’m heading home now, King Seliph. With King Shannan’s death, it’s up to me to protect Isaach in his place.
+Seliph: Ah, of course, Scáthach. You’re next in line for the Isaachian throne, are you not? I know you’ll take good care of the people.
+Scáthach: Yes, sir. My life is theirs!
+^start
+Lover: Still glum, huh, Scáthach… Lord Shannan’s death is really hurting you…
+Scáthach: There’s no way it couldn’t. He was the closest thing that Larcei and I ever had to a father. I’ll never forgive myself…
+Lover: Huh… You think I can help you at all by staying by your side?
+Scáthach: Huh… You’re not serious, Lover?
+Lover: Yep! If that’s what you want, Lover…
+
+Lover: You still look so sad, Scáthach. Lord Shannan’s death still weighs heavily on you, doesn’t it?
+Scáthach: There’s no way it couldn’t. He was the closest thing that Larcei and I ever had to a father. I’ll never forgive myself…
+Lover: Perhaps… Do you think having me around will do you any good?
+Scáthach: Huh… You’re not serious, Lover?
+Lover: If that’s what you want, Scáthach, then I am… 
+
+Lover: You look awfully sad, Scáthach… Lord Shannan’s death is still troubling you, right?
+Scáthach: There’s no way it couldn’t. He was the closest thing that Larcei and I ever had to a father. I’ll never forgive myself…
+Lover: Huh… Do you think having me by your side will do you any good?
+Scáthach: Huh? ...You’re not serious, Lover?
+Lover: If you want me there, Scáthach, then I am… 
+^end
+
+Larcei: I’m going home with Scáthach, Lord Seliph.
+Seliph: Larcei… I know we’ll meet again someday. Take care....
+
+Larcei: I’m going home with the king, Lord Seliph.
+Seliph: You still feel lonesome, yes? After what happened to Scáthach, I mean… I pray you’ll still work your hardest for Isaach. 
+Larcei: I know, I know! I’m fine. I… I’m so proud of my brother. 
+Seliph: Larcei… I know we’ll meet again someday. Take care....
+
+Larcei: I’m going home, Lord Seliph.
+Seliph: Larcei, I… I beg your forgiveness for what happened to Lover.
+Larcei: No, sir. It’s my fault that he’s… I failed to protect him. I’ll never forget the time we had together, no matter what…
+Seliph: Larcei… I know we’ll meet again someday. Take care…
+
+Rodolbahn: Okay, Lord Seliph, I’m headed home with King Shannan. I’ve got a country to help them rebuild. That’s all I really want.
+Seliph: Ah, of course, Rodolbahn. I know he’ll depend on your support. I pray your combined might will bring peace to the people of Isaach. 
+Rodolbahn: Yes, sir. My life is theirs!
+^start
+Lana: I’ve never seen you so happy, Rodolbahn. But then again, knowing we’re finally about to go home, I feel the same way!
+Rodolbahn: Oh, you too? I almost forgot. We both grew up in Isaach, didn’t we?
+Lana: Mm…
+Rodolbahn: We’re going back together, right?
+Lana: Yes… I’ve always hoped we would.
+Rodolbahn: Whew! I’m relieved to hear you say it.
+
+Lover: I’ve never seen you this happy, Rodolbahn! It must be nice to finally be going home!
+Rodolbahn: It’s only natural, Lover. I did spend most of my life there, after all!
+Lover: So, er…
+Rodolbahn: Yeah...?
+Lover: Say, Rodolbahn… Is it okay if I come with you?
+Rodolbahn: What, you want to come? To Isaach? With me?
+Lover: I do…
+Rodolbahn: Wow… Thanks, Lover!
+^end 
+
+Rodolbahn: Okay, Lord Seliph, I’m headed home. Now that King Shannan’s dead, Isaach needs someone like me to watch over it in his place.
+Seliph: Ah, of course, Rodolbahn. King Shannan’s demise brought an end to the royal Isaachian bloodline, yes? I promise you Grannvale will do all it can to aid you, but the welfare and defense of Isaach will depend on you. 
+Rodolbahn: Yes, sir. My life is theirs!
+^start
+Lover: Still glum, huh, Rodolbahn… Lord Shannan’s death is really hurting you…
+Rodolbahn: There’s no way it couldn’t. He was the closest thing that Radney and I ever had to a father. I’ll never forgive myself…
+Lover: Huh… You think I can help you at all by staying by your side?
+Rodolbahn: Huh… You’re not serious, Lover?
+Lover: Yep! If that’s what you want, Lover…
+
+Lover: You still look so sad, Rodolbahn. Lord Shannan’s death still weighs heavily on you, doesn’t it?
+Rodolbahn: There’s no way it couldn’t. He was the closest thing that Radney and I ever had to a father. I’ll never forgive myself…
+Lover: Perhaps… Do you think having me around will do you any good?
+Rodolbahn: Huh… You’re not serious, Lover?
+Lover: If that’s what you want, Rodolbahn, then I am… 
+^end 
+
+Radney: I’m going home with Rodolbahn, Lord Seliph.
+Seliph: Radney… I know we’ll meet again someday. Take care… 
+
+Radney: I’m going home with the king, Lord Seliph.
+Seliph: Radney, I… I beg your forgiveness for what happened to Rodolbahn. 
+Radney: No, sir. I believe he died a happy man. I… I’m proud of him, I guess…
+Seliph: Radney… I know we’ll meet again someday. Take care… 
+
+Radney: I’m going home, Lord Seliph.
+Seliph: Radney, I… I beg your forgiveness for what happened to Lover.
+Radney: No, sir. It’s my fault that he’s… I failed to protect him. I’ll never forget the time we had together, no matter what…
+Seliph: Radney… I know we’ll meet again someday. Take care…
+
+Dimna: Lord Seliph… 
+Seliph: You’re bound for Isaach as well, Dimna?
+Dimna: I am. Thanks for everything, sir. 
+Seliph: Oh, no. It is I who owes you thanks! Thank you, Dimna.
+Dimna: Take care of yourself, sir!
+^start
+Lover: Going back to Isaach, Dimna?
+Dimna: Yeah, that’s the plan… 
+Lover: Huh… Really?
+Dimna: Yeah… And I really want you to come with me, Lover. 
+Lover: Wait, really?! You REALLY want me to take you along?
+Dimna: Yeah! I mean, if you want to come, of course. 
+
+Lover: Are you going back to Isaach, Dimna?
+Dimna: Yeah, that’s the plan… 
+Lover: Hm… Is that so… 
+Dimna: Yeah… And I really want you to come with me, Lover.
+Lover: Eh? Really?! You… You really want me with you… 
+Dimna: Yeah! I mean, if you want to come, of course. 
+
+Larcei: You’re going back to Isaach, right, Dimna?
+Dimna: Yeah, that’s the plan… Are you?
+Larcei: I, er… I’m not sure I should… 
+Dimna: ...I want to go home with you, Larcei.
+Larcei: Er, why?
+Dimna: Because I love you, silly!
+Larcei: Wh- You can’t just say this stuff out loud, you moron! Eh, doesn’t matter. We’ll go home… together. 
+^end 
+
+Mana: Thank you so much for all you’ve done for me, Lord Seliph. 
+Seliph: Mana… So even you… 
+Mana: Isaach is the only place I could ever call home. I need to work with Dimna and the others to restore Isaach.
+Seliph: Mana… 
+
+Mana: Thank you so much for all you’ve done for me, Lord Seliph.
+Seliph: Mana…. I’m so, so sorry.
+Mana: Why?
+Seliph: I let Lover die… I couldn’t do a thing to save him. But he still keeps watch over you, even now… I know it.
+Mana: Y-yes, Lord Seliph… 
+
+Mana: Thank you so much for all you’ve done for me, Lord Seliph. 
+Seliph: Mana… So even you… 
+Mana: Isaach is the only place I could ever call home. I know it’ll be lonesome, but there’s nothing I can do now...
+Seliph: I’m so sorry, Mana...
+
+Lewyn: Well, it’s time to say goodbye. Best of luck!
+
+Leif: I couldn’t possibly thank you enough for everything, Lord Seliph. I’ll be departing for Leonster shortly. The Thracian peninsula has suffered from war long enough, and it’s high time that we rebuilt.
+Leif: I know my sister, Altena, wishes dearly for a restored Thracia as well.
+Seliph: Indeed. This war has lain waste upon Thracia, and I cannot imagine the burden laid upon you, the king-to-be of a united peninsula… I pray that you give it your best, no matter what happens.
+Leif: I will. You take care as well, Lord Seliph.
+Seliph: Long ago, our fathers Sigurd and Quan were bound by the closest of friendships, sharing their deaths as they did their lives. Prince Leif, I’d love nothing more than for us to follow their example and remain lifelong friends.
+Leif: As do I, Lord Seliph!
+^start
+Lover: You’re about to leave, aren’t you, Leif?
+Leif: Do you wish to accompany me, Lover?
+Lover: Huh? Would that really be alright with you?
+Leif: But of course! All I want is to have you and your might by my side.
+Lover: Th-thank you!
+
+Lover: So you’re off, Leif?
+Leif: Do you wish to accompany me, Lover?
+Lover: Huh? You’d be fine with me coming!?
+Leif: But of course! All I want is to have you and your might by my side.
+Lover: Hwaaah! Thank you, Leif!
+
+Larcei: Leif… You’re off soon, aren’t you?
+Leif: Do you want to accompany me, Larcei?
+Larcei: Huh? You really want me to come?
+Leif: But of course! 
+^end 
+
+Seliph: So you’re destined for Thracia as well, Princess Altena…
+Altena: I am, sir. I’ve got to help the new king in his quest to give rise to a unified Thracia… At the very least, I ought to atone for the legacy of my adopted family… Travant and Arion.
+
+Seliph: How wonderful it would be, if Arion were to work together with you…
+Altena: I… I don’t believe that could happen for the time being, sir. But perhaps someday, he’ll feel the time is right…
+
+Finn: I shall be bound for home as well, milord. I wish you the best of health.
+Seliph: Sir Finn, you’ve come to my family’s aid time and again, and for twenty years played a crucial part in both my cause and Father’s. I couldn’t possibly thank you enough…
+Finn: No, I am a servant of House Leonster. As a knight, I have but followed where my lieges have led. No more, no less.
+Seliph: Thracia is in your hands, Sir Finn. I hope you’ll assist Prince Leif in granting Thracia its hard-won peace.
+Finn: Yes, sir. A peaceful Thracia was my Lord Quan’s lifelong dream as well, and I’ll do all that I can to bring that dream to life. 
+
+Hannibal: Many thanks, King Seliph! I shall excuse myself now.
+Seliph: Are you headed for Thracia as well, General Hannibal?
+Hannibal: Indeed. Thracia yet hangs in the balance, and the people await my return.
+Seliph: Who better to lead the reconstruction of Thracia than a mighty war hero? Do your best for the youths of Thracia. 
+
+Seliph: Ah, Cairpre. I presume you’ll be departing with the general?
+Cairpre: I am, sir. I will be going with Papa to work to rebuild Thracia.
+Seliph: I see… You know, Cairpre, I’ve seldom seen anyone as happy as you are now. I confess I’m a bit envious!
+Cairpre: I’m so proud of Papa, sir. I may just be adopted, but I’m still the son of the great General Hannibal!
+^start
+Lover: Aww, how adorable. Good thing you’ve now got me to be like a big sister for you!
+Cairpre: Huh, Lover? ...What exactly are you talking about?
+Lover: Hee hee! You really are still just a kid! Relax, it’ll all make total sense one day.
+
+Lover: You really are the cutest, Cairpre. And from now on, you’ll have me around to be your older sister!
+Cairpre: Huh, Lover? ...What exactly are you talking about?
+Lover: You really are still a child. Don’t worry. Someday you’ll understand everything.
+
+Lover: You’re adorable, Cairpre, y’know that? I guess from now on, you’ll need me to look after you like a big sister should.
+Cairpre: Huh, Lover? ...What exactly are you talking about?
+Lover: Eh, I guess you’re still just a kid. Don’t worry, you’ll get it someday.
+
+Lover: C’mon, Cairpre. Cheer up! You’re a man now, right? It’ll all work out. I’ve got your back from now on.
+Cairpre: Huh, Lover? ...What exactly are you talking about?
+Lover: Eh, I guess you’re still just a kid. Don’t worry, you’ll get it someday.
+^end
+
+Asaello: I’m going home as well, Seliph. I owe you real big. 
+Seliph: You’re a Connaught native, yes?
+Asaello: Yeah. My folks were hunters workin’ in Connaught. They were pretty poor, then they got caught up in the war and got killed. 
+Seliph: Is that so…
+Asaello: Guess that’s why I hate kings and nobles. Well, most of em. I mean, you’re actually alright, Seliph. Good luck out there, okay? 
+Seliph: Thank you, Asaello. 
+^start
+Lover: You’re sad, aren’t you, Asaello? Sad that you need to part with Lord Seliph… 
+Asaello: W-what? No, not even close! 
+Lover: And being with me wouldn’t help? You’d still be lonely?
+Asaello: No, that’s not it at all! You being here means so much to me. You could never not be a help!
+Lover: Heh… Oh, Asaello… 
+
+Lover: You’re sad, aren’t you, Asaello? Sad that you need to part with Lord Seliph… 
+Asaello: W-what? No, not even close! 
+Lover: And being with me wouldn’t help? Even then you’d still be lonely?
+Asaello: No, that’s not it at all! You being here means so much to me. You could never not be a help!
+
+Lover: Asaello, I know it’s going to be hard for you to leave Seliph. But don’t worry! I’ll always be here for you! 
+Asaello: Lover… Thanks, I guess. Having you around is better than nobody.
+Lover: Tee hee! You’re so cute when you’re shy! That’s why I like you.
+Asaello: Oh, come on, you don’t have to put that in words. 
+
+Larcei: Asaello… Leaving Seliph now’s gotta be pretty painful, huh? I know you’ll tough it out.
+Asaello: I know that, Larcei. I’m not weak.
+Larcei: What’s with the attitude? I’m just worried about you!
+Asaello: Don’t worry about me. I told you, I’m not weak. You couldn’t possibly understand how I feel!
+Larcei: Fine, then. I’m leaving you. You can go home by yourself!
+Asaello: Hold on, I didn’t mean it… I’m sorry! Just don’t leave me!
+Larcei: Hmph… 
+Asaello: Larcei… Come on. I need you.
+Larcei: Okay, but I need you to promise one thing: don’t talk back to me ever again.
+Asaello: F-Fine… I promise…
+Larcei: Then all is forgiven. Let’s go.
+Asaello: Sigh… Can’t live with her, can’t live without her… 
+^end 
+
+Seliph: And you as well, Daisy?
+Daisy: Yep. No offense, but I can’t say I want to sit around here twiddling my thumbs. Besides, my brother’ll need my help!
+Seliph: Remember, there’s plenty to keep you busy in Connaught which doesn’t involve stealing.
+Daisy: Oh! How could you SAY that, sir?! I gave the thief thing up ages ago! 
+Seliph: Heh, my apologies. Well, Daisy, take care. 
+Daisy: You too, sir… 
+
+Lewyn: The job awaiting you, the heroes of Thracia, certainly won’t be easy. It’s up to you to unite two peoples divided by bitter hatred, and build for them all a new, powerful land. 
+
+Ares: Seliph… I dearly owe you for all you’ve done to assist me. I’ll never forget so long as I live.
+Seliph: Oh, no, Prince Ares. The joy chancing upon you brought is thanks enough! It was such an honor to meet the son of my father’s dearest friend. As tragic as their lives were, their faith in each other was unshakable to the very end. Our fathers, Prince Ares, were united by a single dream that their deaths left unfulfilled. Let us fulfill their dream where they cannot. Let the two of us, hand in hand, guide all Jugdral towards bringing the dream to life.
+Ares: Well spoken, King Seliph! My father so dearly wished to see his beloved Agustria united in a lasting peace. In the name of his dying wish, I’ll carve up for Agustria a new, prosperous future.
+^start
+Ares: But my might alone shall not suffice. To this end, my dearest Lover, I pray I’ll have your strength ever by my side.
+Lover: Yep, of course! I’m gonna do everything I can to help rebuild Agustria as well. Let’s all work together to build an Agustria where anyone can live happily.
+Ares: Indeed! So long as you remain, I know I’ll never give up.
+
+Ares: But my might alone shall not suffice. To this end, my dearest Lover, I pray I’ll have your strength ever by my side.
+Lover: But of course. I’ll dedicate my life to helping restore Agustria as well. All these years of war have burnt deep scars in Agustria. All I want is to ensure all Agustrians can live peaceful lives.
+Ares: Indeed! So long as you remain, I know I’ll never give up.
+^end
+
+Seliph: And what of you, Lene… 
+Lene: I don’t exactly have a home to go to, so I thought I’d give Agustria a try.
+Seliph: I see… Don’t worry too much. Somebody wonderful, I know, will be graced with your charm one day, Lene.
+Lene: Hee hee… Oh, Lord Seliph! I know you’re just trying to perk me up. But it’s okay! I’ve always got dancing… I’ve been alone my whole life. Staying alone for the rest of it won’t be that bad. 
+Seliph: Lene… 
+
+Dermott: I’m going with Prince Ares to Agustria, Lord Seliph. I’ll lend the prince my strength and help rebuild the country.
+Seliph: Dermott? Ah, of course. Your mother was a noblewoman of Nordion, yes?
+Dermott: Lord Eldigan’s sister, Lachesis, to be exact, sir. Nobody was closer to him than she was. I’ll give my entire life to fulfilling the last wishes of my mother and Eldigan, and to creating a united Agustria. 
+
+Nanna: Lord Seliph, I’m going to Agustria with my brother. 
+Seliph: I admit this is a surprise, Nanna. I assumed you would go to Leonster…
+Nanna: I know… But my work in Leonster’s done. I’ve got no regrets…
+Seliph: I see… Take care, Nanna. You deserve nothing but happiness.
+Nanna: And you too, Lord Seliph... 
+
+Seliph: My apologies, Tristan, but I’d like for you to go to Agustria. Agustria is still in the midst of an agonizing war, and Prince Ares will need your help to save it.
+Tristan: No, sir, I’m glad you asked. Agustria’s my home, and it’s an honor to be allowed to return there by my king!
+^start
+Seliph: And of course, Lover, you may go with Tristan. I’d hate to part the two of you even briefly.
+Lover: Huh? You know about us, sir?! Kyaaaah! How embarrassing!
+Seliph: Heh… It isn’t exactly hard to see, Lover. I wish you two naught but happiness.
+Lover: Thanks so much, Lord Seliph!
+
+Seliph: And of course, Lover, you may go with Tristan. I’d hate to part the two of you even briefly.
+Lover: Hm? You already know about us, Lord Seliph?
+Seliph: It isn’t exactly hard to see, Lover. I wish you two naught but happiness.
+Lover: Thank you so much, Lord Seliph!
+^end 
+
+Jeanne: Lord Seliph, I’m going to Agustria with my brother. 
+Seliph: I admit this is a surprise, Jeanne. I assumed you would go to Leonster…
+Jeanne: I know… But my work in Leonster’s done. I’ve got no regrets…
+Seliph: I see… Take care, Jeanne. You deserve nothing but happiness.
+Jeanne: And you too, Lord Seliph... 
+
+Jamke’s son: I’ll be leaving for Verdane, Lord Seliph. 
+Seliph: Verdane, you say? Ah, of course. Your father was Prince Jamke. I understand. From what I’ve heard, Verdane has been naught but ruins dominated by brigand clans, ever since the royal family collapsed.
+Jamke’s son: So I’ve heard, sir. I don’t know how much good I can do by myself, but I have to try. Those bandits have run rampant long enough.
+Seliph: Indeed! Verdane was my mother’s home, and my parents first met there as well. Jamke’s son, I entrust this task to you. Do all you can to save Verdane’s people.
+Jamke’s son: Yes, Lord Seliph!
+^start
+Lover: I’m ready to go when you are, Jamke’s son!
+Jamke’s son: I don’t think so, Lover. It’ll be far too dangerous to take you along. Don’t worry. I’ll be back for you, no matter what, once it’s all over.
+Lover: Oh, no, I don’t think so! I’m going with you, and just try and stop me!
+Jamke’s son: I’m sorry, Lover… You’re right. We’ll both save Verdane, together.	
+
+Larcei: Wait up, Jamke’s son! I’m coming, too!
+Jamke’s son: I don’t think so, Larcei. It’ll be far too dangerous to take you along. Don’t worry. I’ll be back for you, no matter what, once it’s all over.
+Larcei: You’re joking, right? I’m Larcei of Isaach, and I’m just as much of a warrior as you are! I don’t care how much you want to. I’m not gonna let you go alone!
+Jamke’s son: Hahaha… Yeah, you’re right. You’ll never have anything to fear from simple bandits, will you? Sorry about that. We’ll go together! Having you by my side’s all the courage I need!
+
+Lover: And I’ll be right by your side, Jamke’s son.
+Jamke’s son: I don’t think so, Lover. It’ll be far too dangerous to take you along. Don’t worry. I’ll be back for you, no matter what, once it’s all over.
+Lover: But I can’t stand to sit back and wait for a return which may never come… What happens if you leave me behind and I never get to see you again…? I don’t want our love to end the same way Lord Sigurd’s and Lady Deirdre’s did!
+Jamke’s son: I’m sorry, Lover… You’re right. We’ll both save Verdane, together.
+^end 
+
+Jamke’s daughter: I’ll be going to Verdane with Jamke’s son as well, Lord Seliph. 
+Seliph: You will, Jamke’s daughter?
+Jamke’s daughter: Yes. I want to help him restore our father’s beloved kingdom. There won’t be a single bandit left in Verdane once we’re through!
+
+Faval: Well, Lord Seliph, I’m off to Jungby.
+Seliph: Mm. Knowing Jungby is in your most capable hands will put my mind at ease.
+Faval: ...I admit, sir, I couldn’t have seen all this coming in a thousand years. But finding out that my mom was Jungby’s Lady Bridget helped me find myself a purpose in life, and I know now what needs to be done. On this blessed bow of mine, Lord Seliph, I swear I’ll be with you every step of the way!
+^start
+Lover: Don’t forget what you swore to me!
+Faval: Huh? What did I promise you again?
+Lover: Oh, come on… You ALREADY forgot?!
+Faval: Kidding, kidding! It was a joke! Sorry… Wow, that’s a terrifying look you’re giving me.
+Lover: How was I supposed to know you’re joking?!
+
+Larcei: So what about what you swore to me?
+Faval: Huh? What did I promise you again?
+Larcei: You’re kidding… You forgot ALREADY?
+Faval: Kidding, kidding! It was a joke! Sorry… Wow, that’s a terrifying look you’re giving me.
+Larcei: Can you blame me for not being sure?
+
+Lover: And what about what you swore to me? 
+Faval: Huh? What did I promise you again?
+Lover: You can’t be serious… You’ve already forgotten?
+Faval: Kidding, kidding! It was a joke! Sorry… Wow, that’s a terrifying look you’re giving me.
+Lover: I didn’t think you were joking. What else was I supposed to do?
+
+Lover: And what about what you swore to me? 
+Faval: Huh? What did I promise you again?
+Lover: You can’t be serious… You’ve already forgotten?
+Faval: Kidding, kidding! It was a joke! Sorry… Wow, that’s a terrifying look you’re giving me.
+Lover: There’s a good reason I wasn’t sure!
+^end 
+
+Seliph: And you as well, Patty?
+Patty: Yep. No offense, but I can’t say I want to sit around her twiddling my thumbs. Besides, my brother’ll need my help!
+Seliph: Once you’ve settled in, there’ll surely be no shortage of tasks to keep you busy. But I assure you, none of it will involve theft. A noble has no place robbing others.
+Patty: Oh! How could you SAY that, sir?! I gave the thief thing up ages ago!
+Seliph: Heh, my apologies. Well, Patty, take care.
+Patty: You too, sir…
+
+Patty: I’m off to Jungby now, Lord Seliph. 
+Seliph: Ah, of course. You’re the heir to Jungby. ...Will you be okay?
+Patty: Huh? Why, Lord Seliph, you’re not saying you think I’m nervous about this, are you?
+Seliph: Er, no. That isn’t what I meant! I just-
+Patty: I’ll be just fine, sir. I’m the daughter of the great Lady Bridget, after all! Sure, I don’t look the part, but when the going needs doing, I’ll go and do it! Just watch me go, sir!
+
+Lester: Well, Lord Seliph, I’m off to Jungby.
+Seliph: Mm. Knowing Jungby is in your most capable hands will put my mind at ease.
+Lester: Jungby should’ve gone to Lady Bridget’s kids, but there’s not much choice now. I’ll do everything to restore Jungby where my mother, Aideen, couldn’t. And of course, Lord Seliph, I’ll promise that you, Grannvale’s new king, will always have my loyalty. 
+^start
+Lover: Don’t forget your promise to me!
+Faval: I haven’t, of course! 
+Lover: Just checking!
+Faval: Lover, you’re kinda scaring me here. 
+Lover: Oh, that’s just mean! And if you say much more of it, I don’t know WHAT I’ll do! Heh heh heh… 
+
+Lover: And what of your promise to me?
+Lester: I haven’t forgotten, of course!
+Lover: Good. I thought you wouldn’t, Lester.
+Lester: Lover, you’re kinda scaring me here.
+Lover: Heh heh… Am I now?
+^end 
+
+Lester: I’m going back to Jungby as well, sir. 
+Seliph: Mm. I know Jungby will need your might in the years to come, as will I.
+Lester: Yes, sir. I want to help my cousin, just as my mother once helped my aunt, and I hope I can for the rest of my life.
+Seliph: And you as well, Lover. You’re as close as him as they come, aren’t you?
+Lover: Yep! I guess this means we’ll be around to visit you quite a bit, sir!
+If Nanna, Larcei, or Tine is Lester’s lover
+Seliph: And you as well, Lover. You’re as close as him as they come, aren’t you?
+Lover: So I am, Lord Seliph. I’m glad we get the chance to keep working with you.
+
+Seliph: Lana… My apologies…
+Lana: …
+Seliph: I know you’re mad at me, Lana. Lester’s told me as much.
+Lana: That’s because you’ve… No, it’s fine. I’ll be fine. I’m going home to Jungby now. Farewell, Lord Seliph…
+Seliph: Lana….
+
+Seliph: Lana… You’ll be inheriting the Jungby throne, will you not?
+Lana: I will… I’ll admit I never even thought Jungby’s rule would be left to me. But… I’ll get to stay by your side and help you… And I’m so glad I can.
+Seliph: We’ve always been together, haven’t we, Lana? ...Fate is an odd thing, I suppose.
+Lana: It truly is…
+
+Seliph: Headed for Freege, are you, Arthur?
+Arthur: Yes, sir. Reptor and Blume’s crimes are beyond forgiveness, but Freege’s citizens can’t be blamed for their liege’s actions. I’ve got a duty to fill my mother’s shoes and guide the people where she no longer can.
+Seliph: If anyone can do it, Arthur, it’ll be you. I’m glad you see peace is never born of hatred. I pray we’ll always be friends.
+Arthur: Yes, sir!
+^start
+Lover: C’mon, Arthur, let’s go already! I’ve never been this bored in my life.
+Arthur: Heh. Thought you’d say that, Lover. Okay, let’s get going.
+Lover: Bye-bye, Lord Seliph! We’ll see you later… 
+
+Lover: I think you’ve chatted long enough, Arthur. Lord Seliph has work to do as well, you know!
+Arthur: Yeah, you’re right, Lover. Shall we head off, then?
+Lover: Well, by your leave, Lord Seliph. Take care of yourself… 
+
+Lover: I think you’ve chatted long enough, Arthur. Lord Seliph has work to do as well, you know!
+Arthur: Yeah, you’re right, Lover. Shall we head off, then?
+Lover: We’ll be leaving now, Lord Seliph. Take care of yourself… 
+^end 
+
+Seliph: And you’ll be accompanying Arthur, Tine?
+Tine: I am. All I want is to be of help to my brother.
+Seliph: You two are awfully close, aren’t you?
+Tine: Mm, we are. I couldn’t possibly ask for a better brother…
+
+Seliph: You’re Freege’s heir, are you not, Tine? I’m sorry. I know returning to Freege couldn’t possibly be easy for you…
+Tine: No, it won’t… But for Mother’s sake, I mustn’t run away. I hope I’ll have your help in this as well, Lord Seliph.
+Seliph: But of course. We’ll be with you every step of the way.
+
+Seliph: Headed for Freege, are you, Amid?
+Amid: Yes, sir. Reptor and Blume’s crimes are beyond forgiveness, but Freege’s citizens can’t be blamed for their liege’s actions. I’ve got a duty to fill my mother’s shoes and guide the people where she no longer can.
+Seliph: If anyone can do it, Amid, it’ll be you. I’m glad you see peace is never born of hatred. I pray we’ll always be friends.
+Amid: Yes, sir!
+^start
+Lover: C’mon, Amid, let’s go already! I’ve never been this bored in my life.
+Amid: Heh. Thought you’d say that, Lover. Okay, let’s get going.
+Lover: Bye-bye, Lord Seliph! We’ll see you later… 
+
+Lover: I think you’ve chatted long enough, Amid. Lord Seliph has work to do as well, you know!
+Amid: Yeah, you’re right, Lover. Shall we head off, then?
+Lover: Well, by your leave, Lord Seliph. Take care of yourself… 
+
+Lover: I think you’ve chatted long enough, Amid. Lord Seliph has work to do as well, you know!
+Amid: Yeah, you’re right, Lover. Shall we head off, then?
+Lover: We’ll be leaving now, Lord Seliph. Take care of yourself… 
+^end 
+
+Seliph: And you’ll be accompanying Amid, Linda?
+Linda: I am. All I want is to be of help to my brother.
+Seliph: You two are awfully close, aren’t you?
+Linda: Mm, we are. I couldn’t possibly ask for a better brother…
+
+Lex’s son: I’m going to Dozel, Lord Seliph. 
+Seliph: Your father was Lord Lex, correct? I’m sure the people of Dozel eagerly await your return, Lex’s son.
+Lex’s son: The likes of Langbalt and Dannan have tormented the people and stained House Dozel’s good name for too long. Now that my father is gone, it falls to me to heal the state’s wounds. 
+Seliph: Mm. I entrust Dozel’s welfare to you. I pray you’ll be able to lend me your might in the years to come.
+Lex’s son: Yes, Lord Seliph!
+^start
+Lover: Lex’s son, still chatting? C’mon, we should be hurrying!
+Lex’s son: Lover? What do you mean?
+Lover: Nothing’ll be a sadder sight than having to walk into Dozel while you’re still here. C’mon, you’ll thank me later!
+Lex’s son: Heh, I suppose you’re right… 
+
+Lover: Still busy chatting, Lex’s son? C’mon, we should be going already!
+Lex’s son: Lover? What do you mean?
+Lover: Is anything quite as sad as going home alone? I guess you should be thanking me for keeping your arm occupied!
+Lex’s son: Heh, I suppose you’re right… 
+
+Lover: Are you still chatting, Lex’s son? Shouldn’t we make haste for Dozel?
+Lex’s son: Lover? What do you mean?
+Lover: I’ll be going with you. I’d be too worried if I wasn’t with you…
+Lex’s son: Ah, right… Thank you, Lover.
+^end 
+
+Lex’s daughter: I’m going to Dozel too, Lord Seliph.
+Seliph: You as well Lex’s daughter? I see… You’re welcome to come by Belhalla once in a while for a visit. 
+Lex’s daughter: Thank you, sir. I’ll take you up on that offer once Dozel is back to normal. 
+Seliph: Take care of yourself, Lex’s daughter.
+Lex’s daughter: And you as well, Lord Seliph… 
+
+Johan: My liege! I owe you a debt among debts. 
+Seliph: I leave Dozel’s care to you, Lord Johan.
+Johan: Home shall hold only pain for me, yet return I must if I am to absolve my kin’s sins. I know yet not if my people could ever forgive me. 
+Seliph: This war could never have been won if not for your strength, Johan. Your legacy is one of kindness. People everywhere know this well.
+Johan: Your words honor me, my liege. I can only pray you shall someday forgive House Dozel.
+Seliph: But of course, Johan. I hope both Grannvale and the world will greatly prosper from your might.
+Johan: You shall always have my axe, my liege. I swear to you, the Grannvale throne shall have the undying loyalty of House Dozel. 
+^start
+Larcei: I hate to admit it, Johan, but that was actually quite the stirring speech! I guess that’s what you’ve always been good at.
+Johan: Larcei, I…
+Larcei: Heh… I know. I mean, I do love you, too, Johan. 
+Johan: Ahh! I’ve never known such joy, Larcei! 
+
+Lover: What an inspiring speech, Johan! Hah… Some things never change.
+Johan: Lover, I… 
+Lover: I know, Johan. I feel exactly the same way… 
+Johan: Ahh! Bless you, Lover! I’ve never known such joy!
+
+Lover: Wow, what a stirring speech, Johan. Hey, I guess it’s no surprise. You’ve always been great at those! 
+Johan: Lover, I… 
+Lover: Hee hee… I know. I love you too, Johan.
+Johan: Ahh! Lover! 
+^end 
+
+Johalvier: So long, Seliph.
+Seliph: I leave Dozel’s care to you, Lord Johalvier.
+Johalvier: Facing my people ain’t gonna be easy, but one way or another, I’ve gotta atone for my dad’s crimes. Well, I’ve gotta try at least, don’t I? I really owe you one, Seliph.
+Seliph: You truly are an odd one, Lord Johalvier. Your rough words hide a gentle spirit.
+Johalvier: Heh, I guess. Talking like that never felt right, yeah? Good luck with everything, Seliph. I’ll see ya around.
+^start
+Lover: Don’t worry, Lord Seliph. Johalvier’s always been awkward about what really lies  beneath his act… 
+Seliph: Hahaha, I thought as much. Do take care, Lover… And do take care of Johalvier.
+Lover: Yes, sir. I suppose I can’t really afford to leave him be, can I? Rest assured, I’ll look after him. Take care as well, Lord Seliph!
+
+Lover: No need to worry, Lord Seliph! Johalvier’s actually just really shy. That’s why he’s acting so tough.
+Seliph: Hahaha, I thought as much. Do take care, Lover… And do take care of Johalvier.
+Lover: Yep! I really don’t think leaving him alone’s a good idea, anyways! Don’t worry. I’ll take care of him. You take care of yourself, too, Lord Seliph!
+^end 
+
+Seliph: I take it you’re headed for Edda, Claude’s son?
+Claude’s son: I am, sir. In the name of my father, Claude, I’ll breathe new life into Edda. 
+Seliph: Saint Bragi’s prayers are strong indeed. I know your exalted prayers will bring peace to Grannvale and the world.
+Claude’s son: Yes, sir!
+^start
+Lover: And you can leave the orphans to me! They need a mother in their life, after all. I’ll make sure they grow up safe and sound.
+Claude’s son: Lover… Are you sure?
+Lover: No need to worry, Claude’s son! The kids need my help and I won’t let them down. I’ll never quit on them.
+
+Lover: And you can leave the children to me! I’ll be the mother that they never had, and I’ll make sure they all grow up safely.
+Claude’s son: Lover… 
+Lover: Heh, relax! I promise, I’m gonna do this right. I’ll take care of all the orphans just as well as if they were my own kids!
+
+Lover: I’ll take care of the orphans, Claude’s son. I’ll do what their mothers no longer can and ensure they all have a good childhood.
+Claude’s son: Lover… 
+Lover: Don’t worry about a thing. I’ll love and take care of these children, just as much as if they were my own.
+^end 
+
+Seliph: You’re headed for Edda as well, Claude’s daughter?
+Claude’s daughter: I am. I ought to visit the Edda convent, to properly farewell the war’s fallen…
+Seliph: I see… I thought you might, Claude’s daughter. Be sure to pass my gratitude on to the spirits of the dead… Thank you.
+Claude’s daughter: You take care as well, Lord Seliph. 
+
+Seliph: You’re headed for Edda as well, Claude’s daughter?
+Claude’s daughter: I am. I ought to visit the Edda convent, to properly farewell the war’s fallen… And Lover as well…
+Seliph: I see… I thought you might, Claude’s daughter. Be sure to pass my gratitude on to the spirits of the dead… Thank you.
+Claude’s daughter: You take care as well, Lord Seliph. 
+
+Seliph: I take it you’re headed for Edda, Claude’s daughter?
+Claude’s daughter: I am, sir. In the name of my father, Claude, I’ll breathe new life into Edda. 
+Seliph: Saint Bragi’s prayers are strong indeed. I know your exalted prayers will bring peace to Grannvale and the world.
+Claude’s daughter: Yes, sir!
+
+Azelle’s son: Lord Seliph…
+Seliph: I beg your forgiveness, Lord Azelle’s son. The task which now lies before you is the most painful of all.
+Azelle’s son: No, sir. I’m all that's left of House Velthomer, and it’s my duty alone to atone for the many crimes of my kin. I know that’s what my father, Lord Azelle, would want as well.
+Seliph: Azelle’s son, I can’t bring myself to hate Lord Arvis any longer. Knowing now he was but a sad victim of fate, I can only offer you my condolences.
+Azelle’s son: Thank you so much, Lord Seliph… The Fire Emblem, House Velthomer’s royal crest, was once revered by people the world over as a symbol of justice. I’ll work tirelessly until the Emblem’s honor and good name are restored.
+^start
+Lover: And I’m going with you, Azelle’s son!
+Azelle’s son: You will, Lover…?
+Lover: Yep! I can’t just let you go alone! If we stick together, then all the pain in the world won’t keep us down!
+
+Lover: I’ll go to Velthomer as well, Azelle’s son.
+Azelle’s son: You will, Lover…?
+Lover: Mm. I won’t let you face this alone. So long as we’re together, I know we can survive any hardship! 
+
+Lover: I’ll go to Velthomer as well, Azelle’s son.
+Azelle’s son: You will, Lover…?
+Lover: Mm. I can’t just let you go alone, can I? So long as we’re together, I know we can endure most anything.
+
+Lover: And I’m going with you, Azelle’s son!
+Azelle’s son: You will, Lover…?
+Lover: I can’t just let you go alone, can I? The world can throw all the painful stuff at us it wants! So long as we’re together, we’ll overcome anything!
+
+Lover: I’ll go to Velthomer as well, Azelle’s son.
+Azelle’s son: You will, Lover…?
+Lover: Yeah. I can’t let you face this alone! So long as we’re together, I know we can survive just about anything!
+^end 
+
+Seliph: You are headed for Velthomer as well, Azelle’s daughter? Do take care of yourself.
+Azelle’s daughter: Thank you. Say… If I ever get lonely, would you mind if I came to visit you? 
+Seliph: You’ll be welcome anytime, of course. But remember, Velthomer’s future rests in both of your hands. Be sure to give its restoration all of your focus and might. 
+Azelle’s daughter: Yes, sir! Leave it to me! 
+
+Azelle’s daughter: Lord Seliph…
+Seliph: I beg your forgiveness, Lady Azelle’s daughter. The task which now lies before you is the most painful of all.
+Azelle’s daughter: No, sir. I’m all that's left of House Velthomer, and it’s my duty alone to atone for the many crimes of my kin. I know that’s what my father, Lord Azelle, would want as well.
+Seliph: Azelle’s daughter, I can’t bring myself to hate Lord Arvis any longer. Knowing now he was but a sad victim of fate, I can only offer you my condolences.
+Azelle’s daughter: Thank you so much, Lord Seliph… The Fire Emblem, House Velthomer’s royal crest, was once revered by people the world over as a symbol of justice. I’ll work tirelessly until the Emblem’s honor and good name are restored.
+
+Oifey: Well, sire… I’m leaving for Chalphy now.
+Seliph: What? Why, Oifey? Why?! I thought you would never leave my side! I… I still need you!
+Oifey: No, sire… You will do a magnificent job ruling on your own. I know it. And whilst you do, it’ll be my duty to protect House Chalphy in your stead.
+Seliph: Chalphy… I understand, Oifey. You are right, of course. I won’t be able to inherit its throne, which leaves you as the last bearer of the blood of Baldr who can claim it. I suppose there isn’t much choice…
+Oifey: Everything will be alright, sire. I’ll always be watching over you, even from Chalphy.
+Seliph: Oifey… To me, you will always be like the father I never had. You taught me all I know… How to strategize, how to live as a knight does… And how to be kind. You’ve done so much, and I could never thank you nearly enough....
+Oifey: Sire… I, too, owe your father dearly for all he once did for me. When my parents died, Lord Sigurd took me into his home. He loved me just as if I were his own brother. And yet… I couldn’t even be by his side in his final moments… ... I was such a coward.
+Seliph: Oifey… Please don’t cry… This is my fault, not yours…
+Oifey: Sniff… My apologies, sire… You shouldn’t have seen that. Now, then… Please, sire…
+Seliph: I know, Oifey… I know. You take care as well…
+^start
+Lover: Don’t worry about a thing, sir. Leave Oifey to me!
+Seliph: Ah, right… You’re bound for Chalphy as well, Lover?
+Lover: Yep. Oifey’s gone and run himself ragged. He needs rest, and lots of it. It’s up to me to make sure he gets a bit of quiet time.
+Seliph: I couldn’t agree more. I trust you’ll take good care of Oifey, Lover.
+Lover: Yes, Lord Seliph!
+
+Lover: You can rest easy, Lord Seliph. Leave Oifey to me!
+Seliph: Ah, right… You’re bound for Chalphy as well, Lover?
+Lover: I am. Oifey is awfully fatigued, and is in dire need of rest. I want to ensure he’ll have a bit of peace and quiet. 
+Seliph: I couldn’t agree more. I trust you’ll take good care of Oifey, Lover.
+Lover: Yes, Lord Seliph!
+^end 
+
+Ced: This is it, sire. I’ll be taking my leave now.
+Seliph: Destined for Silesse, then, Ced?
+Ced: I am. I’ve left the Silessian people waiting long enough. I’ll be joining them in the effort to restore Silesse once I get home. I’ll give it nothing less than I have!
+Seliph: I see. Well, if you’re lending your power to the cause, then I know Silesse is in most capable hands. Take care, Ced the Brave.
+Ced: You too, sire!
+^start
+Seliph: Hm? I take it you’re going to Silesse as well, then, Lover?
+Lover: Yeah, I’m going with Ced… 
+Seliph: Well, congratulations. I pray you two will have many happy years together.
+Lover: Thanks, sir!
+
+Seliph: Hm? I take it you’re going to Silesse as well, then, Lover?
+Lover: Mm. I’ll be accompanying Ced…
+Seliph: Well, congratulations. I pray you two will have many happy years together.
+Lover: Thank you, sir.
+^end
+
+Seliph: You’re headed for Silesse, then, Fee?
+Fee: Yep! 
+Seliph: Is Mahnya the pegasus in good health?
+Fee: Only the best! 
+Seliph: And the lady herself, Fee?
+Fee: Of course! Raring to go! 
+Seliph: Heh, that’s our Fee. 
+Fee: Hang on, so if I weren’t so cheery, then I wouldn’t even be me anymore? Is that what you were trying to say, sir?
+Seliph: Er… How did you guess? 
+Fee: Hmph, that’s not very nice! Anyway… Bye, Lord Seliph! Take care of yourself! 
+
+Hawke: This is it, sire. I’ll be taking my leave now.
+Seliph: Destined for Silesse, then, Hawke?
+Hawke: I am. I’ve left the Silessian people waiting long enough. I’ll be joining them in the effort to restore Silesse once I get home. I’ll give it nothing less than I have!
+Seliph: I see. Well, if you’re lending your power to the cause, then I know Silesse is in most capable hands. Take care, Hawke the Brave.
+Hawke: You too, sire!
+^start
+Seliph: Hm? I take it you’re going to Silesse as well, then, Lover?
+Lover: Yeah, I’m going with Hawke… 
+Seliph: Well, congratulations. I pray you two will have many happy years together.
+Lover: Thanks, sir!
+
+Seliph: Hm? I take it you’re going to Silesse as well, then, Lover?
+Lover: Mm. I’ll be accompanying Hawke…
+Seliph: Well, congratulations. I pray you two will have many happy years together.
+Lover: Thank you, sir.
+^end 
+
+Seliph: You’re headed for Silesse, then, Femina?
+Femina: Yep! 
+Seliph: Is Mahnya the pegasus in good health?
+Femina: Only the best! 
+Seliph: And the lady herself, Femina?
+Femina: Of course! Raring to go! 
+Seliph: Heh, that’s our Femina. 
+Femina: Hang on, so if I weren’t so cheery, then I wouldn’t even be me anymore? Is that what you were trying to say, sir?
+Seliph: Er… How did you guess? 
+Femina: Hmph, that’s not very nice! Anyway… Bye, Lord Seliph! Take care of yourself! 
+
+Lewyn’s son: Well, Lord Seliph, thanks for everything. I’ll be going back to Silesse with Father now.
+Seliph: I must admit, Lewyn’s son. I’m almost envious you have a father like Lewyn by your side. How nice that must be!
+Lewyn’s son: It is. I’m so proud to be his son, sir. And someday, hopefully, I’ll be every bit the great man he is now.
+^start
+Lover: Lord Seliph! I’ll be going to Silesse with Lewyn’s son. 
+Seliph: You will as well, Lover? That’s very reassuring. I pray you and Lewyn’s son will pool your might to aid Silesse’s people.
+Lover: Got it! I’ll do my best!
+Lewyn: Look after Lewyn’s son, okay, Lover? Silesse is both of yours to rule now. I’m not going back.
+
+Lover: I’ll be accompanying Lewyn’s son back to Silesse, Lord Seliph.
+Seliph: You will as well, Lover? That’s very reassuring. I pray you and Lewyn’s son will pool your might to aid Silesse’s people.
+Lover: Yes, Lord Seliph!
+Lewyn: Look after Lewyn’s son, okay, Lover? Silesse is both of yours to rule now. I’m not going back.
+^end
+
+Lewyn: Silesse is yours to rule now, Lewyn’s son. I’m not going back.
+Lewyn’s son: Huh? What are you talking about, Father?! The war is over! Please… Please, you’ve got to come home!
+Lewyn: No. My work there is done. I don’t belong on the throne. Silesse needs a fresh start with its leadership, just like everywhere else. What Silesse needs is you. It needs to be guided by your youthful hand.
+Lewyn’s son: I don’t understand… Silesse needs you, too… And I need you. Please, Father… Please! Come home with me!
+Lewyn: Settle down, Lewyn’s son. You’re embarrassing me here. You already know exactly why I’m doing this… Don’t you, Lewyn’s son?
+Lewyn’s son: ...Father…
+
+Lewyn’s daughter: Hold it right there, Father! What kind of sorry excuse is that?! Are you seriously saying you’re going to up and abandon us AGAIN? No, I don’t think so! Why exactly do you need to do this?
+Lewyn: Lewyn’s daughter… Please… This is hard enough without you carrying on…
+Lewyn’s daughter: ...Father…
+Lewyn: ...That’s enough. There’s nothing left to say! Go! I leave Silesse’s fate to you…
+
+Lewyn: Well, Seliph, I guess this is farewell for me as well. I’ve got a journey of my own to begin…
+Seliph: Thank you, Lewyn… Thank you so much… You’ve done so much for us, the young generation. You’ve always guided us… From the bottom of our hearts, thank you.
+Lewyn: I did only my duty, Seliph. I am the wind, a wind fated to guide the beating light of life. And this very light shines on within the hearts of every last one of you.
+Seliph: I understand now… All my life, I’ve heard tales about how the dragonkin feared becoming entangled in the sorry affairs of mankind. But you were different… You guided us where your kin never would. So long as the world lives on, humanity will never forget your kindness.. Lewyn… No… A hero of a distant land… Forseti of the Wind…
+
+@Narration 
+At long last, Thracia has been unified. A region once swamped with countless small nations constantly warring among themselves, with the restoration of House Leonster and the downfall of the Thracian kingdom, the Thracian peninsula finally knows peace. 
+And as the first ruler of this new Thracia, the people ardently desired for the throne to be taken by Leif/Altena.
+At Leif’s behest, the old Thracia’s former lands were entrusted to his sister, Altena. Legends tell of Altena’s love for and dedication to the very soil that raised her, and this love never died so long as she lived.
+The Thracian peninsula thus gave rise to a new realm: the Kingdom of New Thracia. 
+
+The Kingdom of Isaach may have found its freedom from Imperial abuse the quickest, yet its people could not rest easy while its heir was absent fighting in the war. This changed with the final victory of the liberation army, and when (Shannan/Scáthach/Larcei) returned from battle, the people greeted their liege with raucous cheers. 
+and others by his side to restore the land, they also strove for a new age of diplomacy and trade, seeking to build a wealthy nation. Isaach was once reviled by others as little more than a barbarous eastern land, but under the reign of (Shannan/Scáthach/Larcei), Isaach will grow like never before and shall one day be reborn as a mighty nation, every bit the equal of other realms.
+
+The aftermath of Agustria’s civil war left it to be annexed by Grannvale, and so the land fell to harsh tyranny. After years of abuse, its people dearly wished for the rise of a unified nation, one led by House Nordion, heirs of the legendary hero Eldigan. And so the people eagerly welcomed the homecoming of (Ares/Dermott/Nanna). In (Ares/Dermott/Nanna), the people saw the very same aura Eldigan himself had borne in his youth. 
+Under the reign of (Ares/Dermott/Nanna), Agustria will soon become Grannvale’s most crucial partner and will grow to be greater than ever before. 
+
+Even at its peak, the Empire had shunned and ignored Verdane. Uninterested in seizing the region within its iron fist, it completely abandoned the old kingdom. Instead, Verdane was left to the mercy of constantly warring clans, and brigands ran rampant. Nobody had any hope of peace. Into the fray came (Jamke’s son/Jamke’s daughter), the child and heir of the heroic Prince Jamke, and his wife Jamke’s son’s lover, whose long-awaited return rallied the people’s spirits. Youths flocked to join this new battle. Within a year, the fight for Verdane’s reunification had come to an end, and (Jamke’s son/Jamke’s daughter) took their rightful throne. With the support of Grannvale and Agustria, (Jamke’s son/Jamke’s daughter) worked ceaselessly to rebuild the peaceful Verdane their grandfather, Batur, had once forged. Verdane is a land of natural beauty. Its verdant forests are Sigurd’s prayers… Its sparkling, crystal-clear water is Deirdre’s tears… And these are its people’s emblems of hope and faith…
+
+Silesse had long dwelt under the empire’s cruel hand, and so (Lewyn’s son/daughter/Ced/Hawke/Fee/Femina) devoted their life to rebuilding the ruined land. A breathtaking land… A peaceful people… Lewyn had devoted his life to protecting the Kingdom of Silesse, and at long last, his decades of work had come to fruition.
+
+In the royal capital of Belhalla itself, with overwhelming support from the public, Seliph was officially hailed as their king. The newly anointed King Seliph devoted himself to rebuilding his land and bringing peace to all, his goal nothing short of a prosperous world free of oppression and bigotry. And by his side, one would always find his loving, ever-smiling wife, Queen Seliph’s lover… his sister, Princess Julia, regarding his toil with the warmest of eyes… 
+In ages to come, the people of Jugdral tell legends of a divine king of ages past. None shall ever forget his name: Seliph. 

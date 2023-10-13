@@ -3,7 +3,9 @@ import sys
 import os
 import glob
 
-games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE11", "FE12/BookTwo", "FE15"]
+games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE4"]
+
+# games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE11", "FE12/BookTwo", "FE15"]
 
 game_path_base = os.path.join(os.getcwd(), "input")
 

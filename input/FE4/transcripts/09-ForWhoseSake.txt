@@ -1,0 +1,418 @@
+@Opening 
+With the liberation of the peninsula's north, Seliph's liberation army aoccupies Meath Castle as their headquarters, uncertain of how to next act. Beyond Meath and the engulfing maw of its peaks lies the wyvern knights' kingdom, Thracia. This rural nation is ruled by King Travant, who remains bound in coalition to Emperor Arvis. Thracia is the only state anywhere in Jugdral regarded as an ally by the Grannvale Empire. 
+
+Within Thracia, Travant's minions await Seliph: his children, Altena and Arion, at the capital; the legendary General Hannibal, dubbed "Thracia's Shield", at Kapathogia Castle; the king's trusted advisor, General Distler, at Luthecia Castle; and a Loptyrian agent from the Empire, Bishop Judah, at Grutia Castle. Travant has fortified his kingdom for one final, full-scale showdown with the liberators. 
+
+Thracia's people hardly offer Seliph an eager welcome. Fearing Seliph as a conqueror, they flock in droves to take up arms themselves. How could any justice lie in this conflict? For whose sake is this war being fought? For the first time, these questions now shake both Seliph and his army's resolve to the core…
+
+@Intro 
+Travant: ALTENA!! What was that sorry display? Why, pray tell, is Munster still standing?!
+Altena: Father... I...
+Travant: I've no interest in any more excuses! Don't you dare belittle me, Altena. You are a warrior beyond compare, and you and Arion embody my will beyond these walls. I expect no less than for you to do your duty! And what do I find instead? You've ignored my orders, left an entire platoon to the slaughter, and strolled home as if nothing ever happened! I've never been more disappointed...
+Altena: I'm sorry, Father, but at least let me explain! I could never agree with such tactics, which enrich us at the expense of everybody else! How could you ever expect the proud Thracian people to accept prosperity built on the bones of others? Please, Father, rethink your ways!
+Arion: Enough, Altena. There's no place here for such meddling. Still your tongue and obey Father! Father, bear in mind Altena is still young and unseasoned. I suspect she merely found the last battle too overwhelming a prospect. Please do forgive her, even just this once.
+Travant: You know, Arion? If you'd just hold back on the coddling, perhaps Altena wouldn't be so stubborn! Look, Altena. I'll give you one last chance. Take a dracoknight platoon and retake Meath! If you so much as slip again, then daughter be damned, I will accept no excuses! Understood?
+Altena: Yes, Father…
+Travant: Whew... Family resemblance, indeed! It's plainly obvious that she loathes me...
+Arion: Father, you have to remember that she's still a child. Like all children, she has yet to realize her thoughtless words have real effects.
+Travant: Hmph, I suppose... I'm off to Kapathogia. I hear Hannibal's found himself some funny ideas about my plans. And so it falls to me to ensure he loses those ideas before somebody gets hurt...
+Arion: I've never seen father so fearful... What could possibly have happened…
+
+Travant: General Hannibal! The rebels have seized control of Meath. Altena is en route to counter-attack. Your armored knights will join her at once!
+Hannibal: Your Majesty, I've said it a thousand times and I'll say it again. There is no use fighting this war! We must arrange a truce with the liberators if we wish to recover the strength to endure! Bowing to the Empire was a despicable choice to start, one which now leaves us serving our citizens to the true enemy on a gilded platter!
+Travant: I did not ask for such dopey nonsense! The rebels have slaughtered my soldiers, and now they've stolen our territory! The hour is far too late for a truce!
+Hannibal: I thought as much... Very well. I suppose I have no choice.
+Travant: What's this, Hannibal? Do I hear traitorous rumblings coming from that mouth of yours?
+Hannibal: Come now, Your Majesty! Never would a warrior such as I consider turning my cloak. Traitor, indeed!
+Travant: Really, now? Then I trust you wouldn't object to a test of your warrior's loyalty. Until the war reaches its victorious end, Hannibal, I'll be taking care of your son.
+Hannibal: I beg your pardon, Your Majesty? Do you have such little faith in me?!
+Travant: You have nothing to worry about, Hannibal. If you don't intend to betray me, then I don't intend to so much as scratch the boy.
+Hannibal: Why...
+Travant: Men! Bring me Hannibal's son!
+Cairpre: P-Papa...
+Hannibal: Oh, Cairpre... I am so sorry...
+Travant: Remember, Hannibal. You have nothing to worry about, so long as you behave yourself. As soon as this war is won, you'll get him back. I don't get it, though. The boy isn't even your real son. How could he have such sway over you?
+Hannibal: Cairpre has brought so much joy into my life. A true family transcends simple blood...
+Travant: Ohoho! Could it be? Does Thracia's great statesman have a soft spot for children? Now, then. Thracia depends on you, Hannibal!
+
+Travant: Distler! War is on our horizon. Defense of this castle is in your hands.
+Distler: Oh, Your Majesty! To have your presence is a true honor and pleasure! Rest assured, milord. Luthecia is as an impregnable wall! I've seen to it myself.
+Travant: I'll hold you to your word. Now, I've reason to doubt the loyalty of Hannibal at Kapathogia. I've taken his son hostage, just in case, and I'm leaving him to your custody.
+Distler: Yes, sir! I'll not let him out of my sight. But should Hannibal turn his cloak-
+Travant: Then you'll kill the son. Don't be lulled into offering even a child such as he any mercy.
+Distler: Understood, milord.
+
+Travant: Bishop Judah, we may be in need of reinforcements. How soon can I expect the Emperor to honor his end of the treaty?
+Judah: Heh... Even the great King Travant is wary of betrayal, is he? Be at peace. An Imperial unit is on the march to Thracia even as we speak.
+Travant: Good. In that case, I think I'll leave the defense of Grutia to your hands. Try not to get too cocky with the rebels, Bishop. They're of a treacherous sort.
+
+Lewyn: Looks like they're finally sending more wyvern knights our way, Seliph. This must be it. It's time we readied everybody for battle.
+Seliph: I don't know, Lewyn. Our foremost enemy is the Empire, is it not? Waging a war here feels... meaningless.
+Lewyn: The point of a battle comes from how you conduct yourself in it, Seliph. And we hardly have much choice at this point! We're already this far into the fight...
+Seliph: But what of that dracoknight who was watching us from the Munster peaks? I've seldom seen such a sad look in anybody's eyes... How could I fight somebody like her...?
+Lewyn: That's enough, Seliph! This is a war! If you can't stand it any more, then go on! Run home to Tirnanog!
+Seliph: Lewyn…
+Oifey: I beg your pardon, Lord Lewyn?! His Majesty is tired and stressed. Such harsh words are uncalled for...
+Lewyn: Look, I know... But everyone is just as stressed as he is, yet they all know that we can't afford to stop. With the resurrection of Loptous lurking on the horizon, it's crucial we get to Grannvale and stop the world falling to ruin while we still can.
+Seliph: Thank you, Oifey... but Lewyn speaks the truth. An inevitable battle lies ahead, and if we see in it naught by futility, then my duty is to carve my own purpose into it. Come, Oifey! Lewyn! I'll never again flinch or turn away!
+Leif: Is something wrong, Finn? You've been awfully quiet since we left Manster... Is something on your mind?
+Finn: Oh... Yes my lord. I don't suppose you saw a lone dracoknight lurking atop the mountains of Manster?
+Leif: Oh, the woman? I saw her. I don't believe it's every day that you encounter a female dracoknight, is it? Was there something amiss about her?
+Finn: It was her weapon... She was wielding Gáe Bolg, Leonster's holy lance. And I sensed an aura cloaking her... The holy aura of Njörun, like your father.
+Leif: What? What are you saying, Finn?!
+Finn: There is only one explanation, my lord. Your sister, Altena, mustn't have died in the Thracian ambush seventeen years ago. Nor must Gáe Bolg have been lost...
+Leif: Altena?! She... She's still alive?! Then... Then what in the blazes was she doing commanding the Thracian army?
+Finn: I'd surmise that Travant took her back to Thracia as a child, and raised her as his own.
+Leif: Huh... Who knew a man as cold as Travant could do something so humane?
+Finn: It isn't so simple, my lord. Altena is the sole inheritor of your father's holy lineage from the earth goddess, Njörun. As such, unlike you, she alone is capable of wielding Gáe Bolg. Power is the only reason a man like Travant would ever be so kind to his enemy's child.
+Leif: So he's tricked my sister just so he can use her like a... like a weapon! Travant... What a disgusting man... ...I want to help her, Finn. If we can tell her the truth, then I know we can work together to avenge our parents.
+Finn: My lord, I believe you're the only one who could possibly convince her now. Even after all these years, my lord, you are still her brother. I'm certain she will open her heart to you if you try. Please, my lord. Please save Lady Altena…
+
+@Battle 
+Hannibal: Hm... The rebels are on the move, are they?
+Kanatz: Lord Hannibal! We're ready to attack at any moment. We await your command.
+Hannibal: Wait. For the time being we should remain on the defensive. I'd prefer to avoid any needless skirmishes with the enemy.
+Kanatz: But sire, what about...
+Hannibal: ...My son? I know... I know, but... For now, I would rather hold back and let the battle unfold on its own first. My apologies, Kanatz, but I'd like you to take charge of defending the castle.
+Kanatz: As you will, sire!
+
+Altena: All units, move in and engage the rebels! We will return Meath to Thracian control!
+
+Distler: What a sorry joke... Me, a distinguished general, stuck babysitting some brat?
+Cairpre: Excuse me, Mister Distler, but... Let me go! Papa doesn't want to fight. He's out there risking his life all because of me!
+Distler: Silence, boy! If Thracia's legendary Shield refuses to ply his warrior's craft of his own will, then we will force him to, by any means necessary!
+Cairpre: Oh, Papa... Sorry…
+
+Arion: Father, I've received grave news! It's Altena... She has fallen in battle.
+Travant: I see... Very well, then. I suppose there's little choice now... I'm going to join the fray, Arion. You're in charge of defending the castle. I'll entrust this spear to you... And with it, the future of Thracia.
+Arion: Hold on a moment, Father... This is Gungnir! What is the meaning of this? How do you intend to fight without it? Unless... Father, you can't be-
+Travant: I am. Frankly, Arion, I've had enough. Thracia is yours to do with as you see fit. But we don't need to be hated by their kind...
+Arion: Are you seriously suggesting I should seek a truce, Father? No! Never! To comply with the rebels now would be unthinkable!
+Travant: As I said, Thracia is yours. Do as you see fit. All I ask is for you to find a way to liberate Thracia's people from their suffering... Farewell, Arion.
+Arion: Father...
+
+Hannibal: King Travant has joined the battle, has he? Hrm... I suppose I've no choice. My duty as a warrior demands it... Move in on the invaders! We'll let them proceed no further!
+
+Arion: Altena! Are you alright?
+Altena: Nngh? ...Oh... Arion...
+Arion: My apologies, Altena. I had to give Father a convincing show, that I might ensure your survival. I had no choice but to deal such a powerful blow.
+Altena: Don't worry, Arion. I understand. But where is Fath... er, King Travant now?
+Arion: You won't see him again... Father has died in battle.
+Altena: He has? ...How did it happen?
+Arion: You'd be better off not knowing. Father's heart was an enigma at the best of times...
+Altena: ...Listen, Arion. What do you think I should do now?
+Arion: Join Prince Leif, your true brother. I'm certain he is still waiting for you.
+Altena: Then what will you-
+Arion: Altena... This is my fate. There's no helping it.
+Altena: No! You can call for a truce, Arion! Now that Travant's dead, there's nothing at all to stop you from seeking peace! And I... I could never fight you!
+Arion: I wish I could, and I would were it not for Father's final words to me... Please, Altena... Go! However, be prepared. Our next meeting shall be on the battlefield, and I will not stay my hand!
+Altena: Oh... Arion…
+
+Lewyn: Bad news, Seliph. Looks like General Hannibal only opposed us because they're holding his son hostage. He never wanted to fight...
+Seliph: This cannot be... I've made a horrid mistake! Oh, General Hannibal... Please forgive me…
+
+Lewyn: It looks like they've been holding a child in the dungeon, Seliph.
+Seliph: Who are you? What's the matter?
+Cairpre: I'm Cairpre... I'm General Hannibal's son. And... Wait... Aren't you Lord Seliph, the liberator?!
+Seliph: Indeed I am. If I may ask, Cairpre, why would Thracia imprison one of their own general's sons?
+Cairpre: King Travant took me hostage. Papa didn't want to fight your army at all, sir! The king threatened my life to force Papa to fight... Please, sir... Please take me to Papa! If Papa knows I'm safe, then he won't have to keep fighting! Please! We've gotta save him!
+Seliph: I see... Don't worry. I promise we'll find him. Move out, everyone. I pray we'll still be in time to save General Hannibal!
+Lewyn: Bad news, Seliph. By the sound of it, they were holding General Hannibal's son hostage here.
+Seliph: Hannibal must have been forced to fight solely to protect his son! How appalling...
+Lewyn: The son, Cairpre, seems to have vanished. He must've heard of his father's death. He probably couldn't stand to see any of us right now.
+Seliph: Blast…
+
+Judah: The enemy has got their grubby paws on Kapathogia?! I should've known better than to trust those worthless Thracians... I suppose it was unavoidable... Fortify our defensive line. Until reinforcements arrive, we must defend the castle at all costs.
+
+Musar: So this is the infamous Thracia... I've never seen such a bleak wasteland! Heh, no matter. The rebels' little rampage ends here. Ready, men? We're going in. The Emperor himself's put a handsome bounty on each rebel head. We mustn't waste a chance to claim it for ourselves!
+
+Seliph: Lewyn, do you think Arion still intends to fight us?
+Lewyn: Looks like it. I've sent envoy after envoy offering a truce, but he's not responding. I guess his stubborn dracoknight pride compels him to fight to the bitter end. And here I was hoping the legendary Arion of Thracia'd be a wiser man than this... Seliph, I hope you understand we can't turn back now. This last battle needs to be fought.
+Seliph: I don't understand him... Why? Why must Arion insist on fighting such a futile battle…
+
+Seliph: Arion... How can he be so callous? Does he not understand the grief he is inflicting on Altena?!
+
+Arion: The enemy has come as far as Grutia... Very well. All hands, deploy at once! Engage them in the Dragon Trinity Strike formation! This is our final chance. Thracia's destiny hangs in the balance of this final assault!
+
+Arion: They've come at last... Move out! Whether we win or die, we'll have fought in our fatherland's name! Wyvern knights! Descend upon the enemy!
+
+@End 
+Seliph: Julia?! You’re safe! Oh, thank heavens…
+Julia: Mm… The enemy seized and imprisoned me here, but I knew… I knew you would rescue me, no matter what.
+
+Seliph: Say, Lewyn... Did my eyes deceive me, or did Arion really vanish like that?
+Lewyn: Yeah, he did. Witnesses to the fight are saying Prince Julius appeared and took Arion.
+Seliph: The Emperor's son himself?
+Lewyn: Mm... and your half-brother, at that...
+Seliph: I can hardly believe we share a mother...
+Lewyn: And yet you do. Empress Deirdre was a talented priestess, and it looks like he inherited her skill with white magic. For Prince Julius, common warping and healing spells are the merest of trifles. He doesn't even need staves! But that's not the whole story, Seliph. Prince Julius's true power comes from something else entirely...
+Seliph: How do you mean?
+Lewyn: Loptous... It's the power of the dark lord…
+
+@Visit 
+Young man: I heard tell that the Empire’s gonna send reinforcements to come after ya. Sounds like Sir Musar’s leading the charge. Legend has it his father fell at the hands of a Silessian knight who’s now among ya. You best take care. Odds are he’s lustin’ for a bit of revenge. 
+
+Young man: Oh, hey! You've gone and sorted out them Imperial reinforcements already? Wow... I'm pretty dang impressed!
+
+Woman: Thracia has many generals in its service, but Lord Hannibal is the most revered of 'em all. The man has devoted nigh on his entire life to the battlefield, so he never found a wife. Mind, twelve years ago or so, he did take in an orphan. He treats the boy as if he's his own flesh and blood. What a wonderful guy!
+
+Old man: They say a priest from a dark cult has got his foul hands on Grutia. Could it be true? Make no mistake. I know well the life King Travant is trying to crawl free of... But to allow a fell agent of the Loptyrian Order free run of his country... How could he make such a foolish choice? Accept this here barrier ring... And with it, please, save our beloved nation!
+
+Old woman: King Travant's as heartless as men come, he is. But oddly enough, his two kids, Arion and Altena, are the kindest souls you'll ever meet. Like peas in a pod, those two are! Always have been. Oh, I pray nothing ever changes that…
+
+Young man: General Distler of Luthecia's nothing more than a slimy toady to the king! Useless as he is, he still acts all like he's some almighty tyrant... What a foul little man.
+
+“Shannan”: Wow, what a beauty...
+Jeanne/Femina: ...Excuse me?
+Shannam: Oh, how rude of me! Y'see, I'm the prince of the great state of Isaach. Call me Shannan. And you're just too pretty, miss! I had to meet you, y'know? If I may be so bold, how'd you like to go get a nice, hot meal with me? I know the most charming little tavern...
+Jeanne/Femina: .....
+Shannam: Something wrong, miss? Oh, I see! You're all nervous 'cause you stand before me, the great Prince Shannan, aren't you? Don't worry about it! How I look doesn't matter, 'cause to me, stayin' close with the peasants is the most important thing there is.
+Jeanne/Femina: Huh... So you're... Alright, then. Show me Balmung! I've always wanted to see it for myself!
+Shannam: Huh? B-Balmung? Oh, yeah! The Balmung... Oh, er... Here you go! Look! It's the Balmung, the great dracoshield! How about that, huh? Now, where were we? Dinner, right?
+Jeanne/Femina: Oh, you imbecile! Everybody knows that Balmung isn't a shield! You're nothing like the real Prince Shannan!
+???: Oh, geez... You're part of that liberation army, aren't you? Look, I'm real sorry! It's just... Women've been fawnin' over me left and right ever since I took to callin' myself Shannan. Here, take the bloody shield. Let's pretend this never happened, alright?
+Jeanne/Femina: Honestly... What a pig! Oh, well. I guess this shield'll help me to toughen up a bit.
+
+Man: It wasn't all that long ago that the region here was under House Leonster's rule. Oh, what a peaceful time that was... As soon as the last war was over, though, the Thracians pounced on us like a starving cat…
+
+@Battle-Talk 
+%Faval,Patty
+Faval: Patty! Hey! PATTY! Don’t tell me you’ve been stealing again!
+Patty: Oh, er… Yep. Just a bit, though!
+Faval: Ugh. Look, I don't care if you're just stealing from the enemy. I don't like you stealing at all! Knock it off, okay?
+Patty: What, d'you think I like doing this? That I'm stealing for the fun of it?! This army needs to eat, y'know, and we need gold for that! We don't exactly have many options here!
+Faval: Yeah, but haven’t you heard what people are saying about you? I caught this guy mocking you, like being a thief’s a walking punch line… “What else didja expect from being a pirate’s brat? Like mother, like child,” he kept saying. Of course, I wiped the floor with him for that…
+Patty: It doesn’t matter what people think, Faval! Let them say whatever they want. Doesn’t change a thing about Mom… And it doesn’t change that she was an heir of Ullur the crusader! I was in tears when Lewyn told me about her… I’ve never been so happy!
+Faval: Yeah, me too. Y’know, we haven’t exactly had the best lives. Poor orphans and all that… But I never even dreamed that our mother could be a noblewoman! I don’t suppose you remember anything about her, Patty?
+Patty: Nope! Not a thing… You?
+Faval: Yeah, but… only just a little… She was a kind and beautiful woman… 
+Patty: So is she… Do you think Mom’s dead?
+Faval: I can’t say for sure… But as soon as the war’s done, Patty, we're gonna go look for her. We’ll find our mother… Bridget… And even though we don’t know his name, maybe we’ll find our father, too… 
+
+%Asaello,Daisy
+Asaello: Daisy! Hey! DAISY! Don't tell me you've been stealing again!
+Daisy: Oh, er... Yep. Just a bit, though!
+Asaello: Ugh. Look, I don't care if you're just stealing from the enemy. I don't like you stealing at all! Knock it off, okay?
+Daisy: What, d'you think I like doing this? That I'm stealing for the fun of it?! This army needs to eat, y'know, and we need gold for that! We don't exactly have many options here!
+Asaello: But-
+Daisy: And what about the kids back in Connaught, huh? They need money to get by as well, and I can't just leave them to starve!
+Asaello: Yeah, I guess you're right... I hope they're doing okay.
+Daisy: Don't act like you don't have to help too, Asaello! You're sitting on a tidy little fortune from arena prizes. You'd better not waste it!
+Asaello: Gah, I knew that'd come back to bite me…
+
+%Leif,Altena
+Leif: Waaaaait! Please, my sister! Stop it!
+Altena: Your sister?! ...Who are you, and why do you think calling me your sister is a good idea?
+Leif: I... I am Leif, of House Leonster.
+Altena: Leif? Oh, I see... The famous Prince Leif, is it? In case it wasn't obvious... And, evidently, it wasn't... I am Altena, daughter of Travant.
+Leif: Listen to me, Altena! Your true parents are Quan and Ethlyn, whom Travant slew seventeen years ago. You vanished in Travant's attack, and so too did Gáe Bolg, the sacred earth lance of Leonster. Which, I might add, is the very lance resting in your hand as we speak! Only a true heir of House Leonster can wield Gáe Bolg.
+Altena: What are you talking about?! Are you seriously trying to claim my real father is my father's arch-enemy? That could never be... It mustn't...
+Leif: Look into my eyes. If anything can prove the truth of my words to you, it will be my eyes. Please, sister...
+Altena: Fine... ...What is this?! I know you're lying, but I... I can't bring myself to doubt you anymore!
+Leif: ...Altena!
+Altena: Wait! I... I must speak with Father. I need to confirm this…
+Travant: Altena? Oh, you have got to be joking. Why? Why, why WHY did you abandon your post for the second time in as many days?
+Altena: My apologies, Father... but I have an urgent question to ask of you. Are you my father? Or was my father really King Quan?!
+Travant: Feh... I see you've found out at last. Well, I suppose it was only a matter of time before this day came. It's true. Quan did indeed sire you, but what difference does it make now? It doesn't change that it is I who raised you.
+Altena: So you... You murdered my parents, Father...
+Travant: Heh heh... I suppose I did. Quan and Ethlyn died at my hand. Do you take issue with that? War is hell, Altena. War claims lives. Worrying now won't change a thing.
+Altena: Gah... How dare you! How dare you mislead me all these years, Father! Er, no... Travant!
+Arion: That's enough, Altena!
+Altena: Get out of my way, Arion! This man dies here and now, and nobody can stop me! Not even you!
+Arion: I cannot allow this. If you dare to turn on Father, then you'll have to contend with me first!
+Altena: W-wait! I can't fight you, Arion! I could never-
+Arion: It's too late for you to stand down now... Farewell, Altena!
+Altena: Nngh... Arion...
+Travant: ...You didn't just kill her, did you, Arion? You know, you didn't need to go quite so far... Eh, no matter. I'm going to join the fray, Arion. I suppose there's little choice now... You're in charge of defending the castle.
+Arion: Understood, Father.
+Travant: I'll entrust this spear to you... and with it, the future of Thracia.
+Arion: Hold on a moment, Father... This is Gungnir! What is the meaning of this? How do you intend to fight without it? Unless... Father, you can't be-
+Travant: I am. Frankly, Arion, I've had enough. Thracia is yours to do with as you see fit. But we don't need to be hated by their kind...
+Arion: Are you seriously suggesting I should seek a truce, Father? No! Never! To comply with the rebels now would be unthinkable!
+Travant: As I said, Thracia is yours. Do as you see fit. All I ask is for you to find a way to liberate Thracia's people from their suffering... Farewell, Arion.
+Arion: Father…
+
+%Seliph,Altena
+Altena: Pardon me, Lord Seliph. My name is Altena... Daughter of Quan of Leonster. My brother, Prince Leif, has explained the truth to me, and I can no longer oppose you. If you please, I'd like to join your ranks.
+Seliph: Princess Altena?! ...Ah, yes. That's right! Prince Leif has told me everything, and we've both prayed you would come... He'll be so glad to know you've joined us. You've made a difficult but wise decision.
+Altena: ...I can still scarcely believe this has all happened. And yet, the moment I gazed into my brother's eyes, I understood everything. His eyes revealed my father's warm gaze... And as clear as if it were only yesterday, I felt for a split second as if I were a mere baby, once more swaddled in my mother's gentle arms...
+Seliph: I admit I'm still not entirely sure what King Travant was trying to do with you. I still cannot see what would have led him to spare you and bring you home after murdering your parents...
+Altena: I've heard he once told my brother, Arion, that he sought to use the might of Leonster's holy lance, Gáe Bolg, as his own. For that alone, he needed me...
+Seliph: You were a little more than a tool to him?
+Altena: I... I'm still not entirely sure. For all his cruelty, he still treated me as if I were his true daughter. He was still a father to me.
+Seliph: Did he, now... I suppose I've never known much of his ways.
+Altena: I must ask a favor of you, milord. It's about Arion... We need to help Prince Arion!
+Seliph: Certainly! I'm hardly eager to fight a man of his fine caliber, if what I've heard is true. The only question is, can we convince him?
+Altena: I'll do my best to persuade him again. All I ask is a little time: Please, milord!
+
+%Patty,Cairpre
+Patty: Hmph... So you're that Cairpre guy? Here I thought the son of the great General Hannibal'd be this amazingly hot guy, but you're just some snotty kid...
+Cairpre: You're not any better yourself, you know.
+Patty: Oh, excuse you! Are you really trying to say I just look like a child?
+Cairpre: Yeah. I really am, because you really do.
+Patty: Nrrrgh... Y-you little... You JERK!
+
+@Recruit-Talk
+%Cairpre,Hannibal
+Cairpre: Papa, stop! It's me! You don't have to fight now! The liberators have gone and captured Luthecia!
+Hannibal: Cairpre?! You... You're safe!
+Cairpre: Yep! Listen, Papa... I want to join Lord Seliph's army. Thracia's changed so much lately... I want to fight to help all its people, and bring back the old Thracia!
+Hannibal: You've grown into such a splendid young man, Cairpre... Very well! I, too, shall serve Lord Seliph.
+Cairpre: Yes! Thank you, Papa! First we'll help free Thracia, and then together, we'll challenge the Empire!
+
+@Battle-Talk 
+%Seliph,Hannibal
+Seliph: General Hannibal, it is an honor to meet you at last. Please accept my apologies for engaging you in such a pointless battle.
+Hannibal: Lord Seliph... it is I who need apologize, not you. You have my deepest gratitude for all you've done to rescue my son...
+Seliph: Your reputation precedes you, General. We've all heard of Thracia’s great Shield. That a warrior of your caliber was coerced onto the battlefield by use of hostages... King Travant is an utterly sickening man!
+Hannibal: Indeed... And a pitiful man, at that. All he has accomplished is shattering any trust his subjects once held in him. The people's hearts can only endure so much abuse before they break...
+Seliph: If I may, General, would you join us? To have the power and wisdom of a great general like you would be the finest boon. 
+Hannibal: Very well! If you have a use even for these old bones, Lord Seliph, then you have my fealty.
+
+%Lene,Cairpre
+Lene: You're Cairpre, right?
+Cairpre: Oh, y-yes... I am.
+Lene: I hear you're an orphan too, right? D'you remember anything at all from being a kid?
+Cairpre: No, sorry. Nothing at all. I think I was still just a baby when Papa came to Darna and took me in...
+Lene: Wait, you're from Darna, too?!
+Cairpre: Are you familiar with Darna, Lene?
+Lene: Yep. I grew up in the Darna abbey. They told me my mom, who I think was a dancer as well, left me there when I was just about two years old. And that's why I'm a dancer now. See, what I was thinking was that maybe, if I did the same thing as her, one day I might find my mom again. It's a bit embarrassing, but I taught myself everything I know about dancing.
+Cairpre: Huh. That's really great of you, Lene! I, er, guess I thought wrong about you...
+Lene: Not a big fan of dancers, Cairpre?
+Cairpre: Not really, no... At least, I wasn't until I met you, Lene.
+Lene: Aww! Thanks, Cairpre!
+
+%Leylia,Sharlow
+Leylia: Hey! You’re Sharlow, right?
+Sharlow: Huh? Sorry, but who are you, miss?
+Leylia: I’m Leylia! Er, you’ve never seen a dancer before, have you?
+Sharlow: No, sorry… Not yet. 
+Leylia: Heh! Y’know, if you ever have time to spare, I can show you a bit of dancing. Deal?
+Sharlow: T-thank you… 
+
+%Julia,Seliph
+Julia: Are you at all hurt, Lord Seliph?
+Seliph: Ah, Julia! No, I'm fine, thank you. I pray you're taking care of yourself.
+Julia: Lord Seliph...
+Seliph: Is something amiss?
+Julia: Er... No, it's nothing...
+Seliph: Listen, Julia. You've been acting oddly all day. Is something troubling you?
+Julia: I... All I can feel is dread... I feel as if I'll be torn from you, and we'll never see each other again... I... I'm terrified...
+Seliph: You've no need to worry, Julia. I swore to you all those months ago that I'll protect you, no matter what. Have faith, Julia. I'll never let you down.
+Julia: I know... I do believe in you... I'm so sorry, Lord Seliph... I've never been more than a nuisance to you.
+Seliph: You must be weary. We have been on the march for weeks on end, after all! Listen. Once we're done here, we'll be headed for the free city of Miletos. You can have a nice, long rest there. Oh, that's right! Miletos is famous for its merchants, no? I can take you shopping while we're there. I'll buy you anything you desire. Well, so long as it's not too pricey. Heh... I can only imagine how poorly Lewyn would handle any over-spending!
+Julia: You would do that...? Oh, thank you, Lord Seliph... Thank you...
+Seliph: Is that a little smile I see before me? Heh, now that's more like it!
+Julia: Lord Seliph... Close your eyes, please.
+Seliph: Hm? Why do you ask?
+Julia: I wish to cast a Ward spell upon you... It will help you better resist enemy magic.
+Seliph: Are you sure, Julia?! Wouldn't the use of such a spell endanger you?
+Julia: Everything will be alright... I've done naught but take and take so far. All I want is to give something back.
+Seliph: Julia...
+Julia: Oh, lords in the heavens above... I implore you, confer your blessings upon Lord Seliph…
+
+%Finn,Altena
+Finn: Pardon me, my lady... I am Finn, a knight of House Leonster. It is an honor to meet you once more.
+Altena: So you're Sir Finn, then? Leif's told me about you already. I can't thank you enough for all you've done to protect him all these years.
+Finn: Thank you, my lady, but it is I who owes you an apology. Not once in the past seventeen years did I ever suspect that you yet lived on, let alone just across the border! My failure to search for you is... is inexcusable...
+Altena: Sir Finn... Are those tears I see? Why... Why are you crying?
+Finn: I... My apologies, my lady. You shouldn't have to see me in such a state as this...
+Altena: Hold a moment... I remember something... Yes, I... I was incredibly fond of you... And I always sought your attention, didn't I? That's right... Sir Finn...
+Finn: My lady, I…
+
+%Hannibal,Altena
+Hannibal: Princess Altena. I've been filled in on your situation. You have my deepest condolences.
+Altena: General Hannibal... You've chosen to ally with Lord Seliph as well, have you? Thank goodness... I was dreading the very idea of considering you an enemy as well.
+Hannibal: Hm. Pray tell, milady, what has become of Prince Arion?
+Altena: My broth- Er, no... Arion simply refused to listen to anything I said. Perhaps you would have better luck persuading him, sir?
+Hannibal: If you couldn't convince him, milady, then nothing has a chance. I would surmise that Prince Arion is resolving to die a warrior's death, not giving in to the indignity of a truce. We've no choice left.
+Altena: But sir-
+Hannibal: I know how you feel, milady... But some men like Arion are stubborner than mules. Most likely, Prince Arion would never wish to reveal such perceived weakness before you. Please understand this at lest, milady…
+
+%Sharlow,Hannibal
+Hannibal: Sharlow…
+Sharlow: Hm? Is something wrong, Papa?
+Hannibal: Son… I feel as if I am in some way responsible for all of your misfortunes… If you’d been raised by a normal family, rather than a soldier such as myself, you would have never been abducted… 
+Sharlow: Don’t say things like that, Papa! I’m as happy as can be to live with you! And thanks to you, I’m using my magic to help you all fight for peace and justice. I wouldn’t give that up for anything!
+Hannibal: I see…
+Sharlow: Oh, and by the way.
+Hannibal: ...Yes?
+Sharlow: I’m so proud that you’re my papa, Papa… Kapathogia’s people love you so much. They all say you’re the best thing that ever happened to them. Not to mention, you adopted an orphan!
+Hannibal: They do, do they… Thank you, Sharlow. I’m so glad I have such a fine son… Which reminds me. This staff is for you. I found it discarded in the castle grounds. I believe you’re skilled enough to wield it.
+Sharlow: Ohh! And it’s a lovely staff, too! Thank you, Papa! Thank you so much. 
+
+@Battle
+Villager: Hee hee hee!
+Hawke: Hm?
+Villager: Would ya believe it? I was sittin’ around the town square and this girl confessed her love to me… It feels so, SO great! Wish I could share my happiness with ya!
+Hawke: Er… 
+Villager: Hang on! You’re with the liberators, right? Here, take this town’s famous tonic and secret book!
+Hawke: T-thank you… 
+Villager: Love’s such a wondrous thing… You oughta find someone to love, too!
+
+@Boss 
+Kanatz: My lord Hannibal is depending on me to defend this castle. If you wish to claim it, you must first claim my life!
+
+Kanatz: General Hannibal... Forgive me, my liege…
+
+Hannibal: Must we fight...? I suppose I have no choice. In Thracia's name, then…
+
+Hannibal: Ohh, my son... Please... Survive…
+
+Distler: The rebels are already here?! Blast... We aren't ready for this!
+
+Distler: Nngh... King Travant... I beg... your forgiveness…
+
+Musar: Death to all rebel scum! Only oblivion awaits those who dare to threaten the Empire!
+
+Musar: Glory be… to Grannvale! 
+
+Judah: A liberation army, is it... There is no place for your precious light in this realm. This world is Lord Loptous's to smother in darkness!
+
+Judah: Heh... Lord Loptous's return is nigh... And when it comes... You will all…
+
+@Recruit-Battle 
+Altena: Stand down before I cut you down. You will never win!
+
+Altena: Arion... Oh, Arion…
+
+%Leif,Altena
+Altena: You're Leonster's prince, are you? How dare you try to steal our land!
+Leif: Please, stay your hand! You... You're my-
+Altena: Silence! Spare me your ravings!
+
+%Finn,Altena
+Altena: My apologies, but you shall fall here...
+Finn: Oh! L-Lady Altena! It is you... It really is you…
+
+@Boss 
+Travant: Heh heh heh... Welcome, rebel scum. I am Travant. Remember this well: a final gift from the depths of the inferno!
+
+Travant: Thracia... Nngh... My beautiful fatherland…
+
+%Leif,Travant
+Travant: Heh heh heh... So! You're Quan's troublesome little son, are you? What a fool Blume was... How could he have failed to kill a runt like you?
+Leif: We meet at last, Travant... I... I've awaited this day for so long. This is what kept me alive all this time... I've lived for this alone: to choke the life from you with my bare hands!
+Travant: Heh... As foolish as your father... And unlike him, you can't even wield the Gáe Bolg! You don't stand a chance! Now, hold still! It's time you learned the last agonies your father felt at my hands!
+
+%Finn,Travant
+Travant: Ah, yes. The famous Finn! Still clinging to life, are you?
+Finn: Prepare yourself, King Travant! Today, I avenge my fallen lord!
+Travant: Hah! How laughable! A common soldier like you could never even scratch me! I take it you're ready to die, then?
+
+@Boss
+Arion: Heh... What fools. You dare challenge me, even knowing I wield Gungnir, the heavenly lance?
+
+%Seliph,Arion
+Arion: So... You're the famous Prince Seliph... Heh, I trust you'll make for a fine foe. Shall we begin our duel, then?
+Seliph: Prince Arion, please! Lay down your arms! It isn't too late to end this peacefully!
+Arion: Enough! I've nothing left to say. Now, come! Come acquaint yourself with Gungnir, Seliph!
+
+%Altena,Arion
+Altena: Stop this madness, Arion! We've no reason to fight!
+Arion: Altena... I see you're in good health. I for one have long sought to test my skills against you. Now, come at me! I won't hold back!
+Altena: Oh... Arion…
+
+@Boss
+Arion: How... How could this be?! I've... I've brought shame on myself... Altena…
+Julius: Arion. This place will not be your grave. I forbid it. Heh heh... Join me.
