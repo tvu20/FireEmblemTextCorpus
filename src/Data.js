@@ -35,6 +35,16 @@ const Data = () => {
       </ul>
       {listGames()}
       {/* {url("FE1")} */}
+      <h3>Sentiment Labels</h3>
+      Options:
+      <ul>
+        <li>neutral</li>
+        <li>joy</li>
+        <li>sadness</li>
+        <li>anger</li>
+        <li>fear</li>
+        <li>surprise</li>
+      </ul>
     </>
   );
 };
