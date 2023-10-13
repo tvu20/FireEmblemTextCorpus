@@ -1,0 +1,110 @@
+@Opening 
+Barely escaping the burning of Castle Leonster with his life, the young Prince Leif was looked after by Finn, his knight and retainer. Together with Nanna, a young noblewoman under Finn's care, the trio fled pursuers sent by the conquerors of North Thracia: the Grannvale Empire, which lay to the west.
+
+Yet Finn proved stronger than those who hunted them, and the three made their way to the cities of Ulster and Tarrah, posing as common vagrants. Eventually, they drifted into Fiana, a small village on Thracia's eastern coast. Fiana was an independent community with its own militia, the Freeblades of Fiana, led by the swordswoman Eyvel. Eyvel welcomed Leif's group as if they were her own kin. Under her watchful eye, the deposed prince spent his childhood in Fiana, growing into maturity alongside youths of common birth. Now, in year 776 of the Grannvale calendar...
+
+@Intro 
+Raydrik: Have you found that whelp of a prince yet?
+Weissman: Regretfully not, milord. The men have searched the village top to bottom, but came up with nothing.
+Raydrik: Why is such a simple task taking you so long? There's little doubt that the heir to House Leonster is hiding here. You've been too gentle with these villagers—give them ample motivation to talk.
+Weissman: We are of the same mind, milord—I've already ordered the men to do as much. Yet the townsfolk claim the prince isn't here. According to them, he left with the Freeblades to fend off a pirate raid on a nearby village.
+Raydrik: Freeblades? What nonsense is that?
+Weissman: They're the local militia, sire. As I understand it, this village was once home to a group of brigands—rather savage ones, at that. About a decade ago, they were routed by Eyvel, a wandering sellsword. She claimed the village as her own and founded the Freeblades to protect the region from future attacks. She's supposedly quite a wonder with a sword...
+Raydrik: Hmm... She may be a problem.
+Weissman: You have nothing to fear, milord: we've taken Eyvel's daughter captive. What's more, we also captured the daughter of Finn, the very knight guarding the prince's life. With the leverage we have over them, they'll have no choice but to surrender.
+Raydrik: Hmph. I admit, you have your uses, Weissman. The women will accompany me back to Munster. You'll remain here and prepare for when these upstart rebels return. See that the young Leonster pup is put in chains befitting a stray mutt.
+Weissman: Your trust in me is well placed, sire. Men, bring the girls here!
+Raydrik: What's your name, lass?
+Mareeta: Hmph…
+Raydrik: Hah! A fighting spirit to match a pretty face. Now, let's have a look at the other one... Ah, you must be Finn's young ward. I hear your mother was royalty of House Nordion, is that right? You certainly don't lack for grace, despite living in this backwater hovel—holy blood doesn't run thin even in squalor, I see.
+Nanna: ......
+Raydrik: What a pleasant surprise the two of you make for. Weissman, I'll be departing for Munster now. Don't disappoint me.
+Weissman: All shall be as you wish it, milord.
+
+Eyvel: What's that commotion in the village? Something's rotten here...
+Halvan: I'll scout ahead, Commander. Hold here a moment.
+Halvan: Commander, Fiana is packed to the brim with Imperial troops! They... must have struck while we were away.
+Osian: What? No way is the Empire gonna make a mess of our home! Commander, let's move in!
+Halvan: Calm down, Osian. We'll get slaughtered if we just charge in blindly.
+Osian: Yeah, Halvan, I'm sure the village will appreciate your patient attitude while everyone's being rounded up and jailed!
+Eyvel: Peace, Osian. Halvan is right. Seems we've finally been noticed by the Empire. Looks like this is goodbye, Little Leif. I'm sorry. Finn, take him as far away from here as you can. Leave the soldiers to us.
+Leif: No, Commander! Nanna is still in the village! I won't leave without her!
+Eyvel: I'll get her back. Don't worry.
+Leif: It's more than that, Commander... I won't run anymore. That's my decision to make.
+Eyvel: ...Finn, you wanna weigh in here? You going to let the Little Lord throw himself into harm's way like this?
+Finn: Lord Leif has seen the passing of 15 summers, by now. He's old enough to choose for himself—and as my liege, I will abide by his judgment.
+Eyvel: Has it been that long already? Hmph, I suppose I let Little Leif come with us to fight off those pirates, myself... Guess I made up my own mind when I did that. If Finn's all right with it, so am I.
+Osian: Then what's the hold-up? If we're done arguing, there's an invasion happening over that ridge!
+Eyvel: All right, get ready to move in. But stay sharp: most foot-soldiers are just regular folk, forced into the Imperial Army against their will. If they surrender, just take their weapons and let them go. Are we clear?
+Osian: But we can still bloody them until they surrender, right? I mean, if we can't put up a good fight ourselves, we'll be the ones surrendering.
+Eyvel: Knock 'em around if you have to, sure, but don't overdo it. That means you, Osian.
+Osian: Hey, c'mon, gimme some credit, Commander!
+Eyvel: OK, enough chatter! Let's give the Empire a battle worthy of our names as Freeblades!
+
+@Battle 
+Tanya: Papa, the fighting's started already!
+Dagdar: Ain't no good way to go about this damned battle... Don't matter how good Eyvel is, there's only one of her an' over a dozen of them. We need to hurry.
+
+Marty: Oh, fer cryin' out loud! Not again...
+
+@Battle-Talk 
+%Eyvel,Dagdar
+Eyvel: Dagdar?! You... came down to fight with us?
+Dagdar: Eyvel! Does me heart good to see you in one piece! Listen, ya have any idea why the Empire would come all the way out here? It have anything to do with... the boy?
+Eyvel: Yeah. The Little Lord, Leif, he's... he's not just some nobleman. He's the heir to House Leonster. I've been helping him hide from the Empire. I'm sorry... I shouldn't have kept it from you.
+Dagdar: Mm, I figured as much. Well, no use worryin' about it now. Long as I get to cut down some of those Imperial dastards meself, we're even.
+%Osian,Tanya
+Osian: Tanya? What do you think you're doing here?
+Tanya: What does it look like, Osian? I'm here to help you guys, any way I can!
+Osian: "Help any way you can," huh? In that case, turn tail and march back home. That's the only way a kid like you could help—you'd just get in the way.
+Tanya: You've got some nerve, Osian! You're just a kid yourself, you know! You want me gone, I'm gone—not all of us are as eager to throw ourselves into danger as you!
+
+@Visit 
+Old Woman: Those Imperial dogs took Dame Mareeta and Lady Nanna—just snatched 'em right up like they was cattle! You're not gonna let 'em get away with that, are you? If you're fixin' to fight the Empire, take this with you. This here ring's enchanted with some spell or another. But don't just wear it on your finger like some common bauble! You gotta actually [Use] it for it to do any good!
+
+Old Woman: Y'all made it back! What a relief... But look, there's no Freeblades of Fiana without Fiana, right? So don't just stop with them pirates—drive the Empire from our village, too! ... Not to imply that I ain't grateful, a' course. Take this with you. Use it if you get scraped up. We don't have much in the way of medicine, but it's the least we can do after everythin' the Commander's done fer us.
+
+Old Man: Weapons can be mighty expensive, can't they? Most folk here gotta make do by nicking supplies from Imperial troops. It's awful risky, but if you can capture an enemy alive, you get to help yourself to their stuff. Matter of fact, I got the drop on an Imperial soldier myself. Heard 'im snoring from three houses way, so I took me a souvenir! ... Not that it'll do me much good, though. Probably better off in your hands, I reckon. And hey, if you don't need it, you can just hawk it for somethin' you do need.
+
+Patricia: Big brother! I've got something real special for you! You can use this to keep yourself safe, right?
+Halvan: An... axe? Where in the world did you get such a fine weapon?
+Patricia: Darnedest thing... I was walkin' past the lake up on the mountain, when this strange ol' crone just floated outta the water! She gave it to me, then vanished, quick as you can blink! I been keepin' it for you, and takin' real good care of it. Now go put it to use, an' make me proud!
+
+Patricia: Hey, hey, have you seen my big brother, Halvan? He's got me awful scared... I hope he's all right...
+
+Father: You pullin' your weight in the Freeblades, boy? Last thing Commander Eyvel needs is to babysit you.
+Osian: We're risking life and limb to protect the village, and you're giving me a lecture? You've got a strange sense of gratitude, old man.
+Father: Not even the Empire knockin' down our front door can stop that fool mouth of yours, I see. Well, no point in draggin' this out. Here. This is what you came for, right?
+Osian: For once, you read my mind. When a fight breaks out, I just feel off without this axe at my side.
+Father: Which don't explain why you forget it at home half the damn time!
+Osian: Hey, I came here for the axe, not to get chewed out!
+Father: If that's all you wanted, then get going! Go on, now! Don't keep the Commander waitin' on you!
+Osian: You don't need to tell me twice!
+
+Father: Where has that fool boy of mine gone off to in this fracas? I swear, my Osian's gonna get himself killed one of these days...
+
+@Boss 
+Weissman: Do you fools realize what you're doing?! If I die, so do the women we took!"
+
+Weissman: D-Damn... You'll... love to regret this, all of you...
+
+Weissman: Damn... Bested by a bunch of backwoods yokels. Well, I won't forget this!
+
+@End 
+^start 
+Leif: Nanna! Mareeta! Where are you?! Please, answer me!
+Eyvel: Little Nan, Mareeta... Raydrik must've taken 'em.
+Leif: What?! That means... they were taken to Munster, right?
+Eyvel: Yeah—as bargaining chips, in case Weissman couldn't finish the job. It's the sort of thing Raydrik would pull, allright.
+Leif: Gods' breath... Commander, we have to give chase! The two of them are counting on us!
+Eyvel: Now look here, Little Leif—
+Leif: Commander, you yourself said I'm not a child anymore. Nanna and Mareeta were taken captive because of me—and I refuse to let anyone suffer in my place. I will never again let someone sacrifice their life in exchange for mine.
+Eyvel: ...I understand. We leave at dawn, then. I won't lie, Little Lord: this is gonna get rough. Get some rest while you can.
+
+Leif: Nanna! Mareeta! Where are you?! Please, answer me!
+Man: L-Lord Leif! Gods' breath, are you a sight fer sore eyes! I... wish I had better news fer you. They came fer Lady Nanna, they did, and we couldn't do nuthin' to stop 'em!
+Leif: Nanna? What happened to Nanna?
+Man: The Empire took 'er, sure as you're standin' here. Mareeta tried to break her loose, but only got captured 'erself. They both wore chains, last I saw.
+Leif: Where were they taken?
+Man: Don't rightfully know, Lord Leif. One of them soldiers said somethin' about headin' back to Munster, but nuthin' more specific'n that.
+Leif: Munster... Then that's where I'm headed, too. I'll bring everyone home: Nanna, Mareeta, and the Commander!

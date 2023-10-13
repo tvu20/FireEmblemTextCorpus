@@ -1,0 +1,111 @@
+@Opening 
+Putting down the bandit uprising at Mount Violdrake, Leif's army now sought to join forces with the remnants of Leonster's nobility. Leif set a course for General Hannibal's mountain villa, where the deposed nobles now lived in hiding...
+
+@Intro 
+Travant: Is this the area, Merlock?
+Merlock: That's correct, sire.
+Travant: Hmph... So these bandits are harassing Thracian citizens? Even for your average brigand, that's stupid.
+Altena: Exceptionally stupid. Even so, my lord father, you didn't need to come here in person for such a trifle.
+Travant: And what kind of king would I be if I wasn't aware of all the matters that trouble my realm, trifling or no? Besides, it's been too long since you and I had an outing of our own, Altena.
+Altena: Indeed, Father. I'm glad we were able to spend time together.
+Travant: Shame that Arion couldn't join us. I wanted him to come along, but he didn't want the capital to be left unattended in our absence.
+Altena: He's merely taking after your example, Father.
+Travant: Mm. When I was his age, I'd already taken the throne. Arion needs to keep at it if he wants to outpace me.
+Altena: He's doing his best—and so am I. I want only to be a pillar of strength for our family, my lord father.
+Travant: Good. The two of you are Thracia's future. The North abounds with crops, and the mountains of the South hide much in the way of resources and riches. An independent Thracia will need both, not just one or the other. To have a single, united Thracia... My fondest wish is to return this land to what it was in the days of Dáinn and Njorun. ...Even if it damns me to the deepest pit of Hell.
+Altena: ...Father?
+Travant: Altena…
+Altena: Yes?
+Travant: ...The wind's changing on us. Let's head back and leave this one to Merlock.
+Altena: As you wish, my lord father.
+Travant: You good to handle this on your own, Merlock?
+Merlock: Hah! You insult me by asking, sire!
+Travant: All right, then I'm entrusting you with the rest of our soldiers. I won't accept any excuses—wipe out every last bandit. Show them what it's like to have made an enemy of Thracia!
+Merlock: Leave everything to me, milord!
+
+Selphina: My lord father! It's the Thracian army! T-They're flooding in from the south!
+Dryas: So Travant has finally noticed us... A pox on it all! With Glade in Tarrah, there's no one here with any experience in battle...
+Selphina: Then leave it to me. I'll draw their attention and buy everyone time to escape.
+Dryas: Wait! General Hannibal sent word ahead. According to him, Prince Leif and a coalition of warriors from Fiana and Munster are already en route. We have to hold out until they get here...
+Selphina: Understood. If you've no objections, I'll establish a defensive perimeter. Cain! Alva! Robert! We're moving out! Follow me!
+
+August: The villa is just ahead, Prince Leif.
+Leif: Is something amiss? Those soldiers moving about, are they Duke Dryas' troops?
+August: Hm? Blast...! Take a closer look at their armor, Prince Leif—that's the Thracian army!
+Leif: Wh-What?! Wasn't this villa supposed to be under the protection of General Hannibal?
+August: Perhaps Thracia finally learned of their presence, or perhaps General Hannibal tipped them off...
+Leif: I'll not hear it, August! General Hannibal is a man of honor—he'd not do such a thing!
+August: ...Be that as it may, we must move to rescue them immediately! If that villa falls, any hope of liberating Thracia or rebuilding Leonster falls with it!
+
+@Battle-Talk 
+%Leif,Selphina
+Selphina: Prince Leif! Oh, it's been too long, milord! It's me, Selphina!
+Leif: Selphina, in the flesh! Can it really be you?
+Selphina: Prince Leif... This halfway feels like a dream... When I last saw you, milord, you were but a child, a toddler who fell asleep at my knees... You've grown into such a fine young man...
+Leif: Oh, Selphina, it's enough to make me cry... I had thought you and Duke Dryas were killed trying to protect me. I never imagined I'd be able to see you again. I... never knew my mother or sister. The kinship of family was the one thing my retainers were never able to fetch for me. I saw Lachesis as a sort of mother, and you as the older sister I was never able to meet. Not that I ever showed you much gratitude for it. I remember being quite the little terror...
+Selphina: Oh, it would be terribly improper to ever say such a thing of the prince of Leonster. I'll have to take you at your word, milord. I... take it that Lady Lachesis still has yet to return?
+Leif: I'm afraid so... She... never made it back from her excursion to Isaach.
+Selphina: I see... Well, don't give up hope. It's still possible that she's alive somewhere—alive and happy. I'm sure you'll find her someday, Prince Leif. After all, the two of us were able to meet again, were we not?
+
+%Finn,Selphina 
+Selphina: Sir Finn! It's been too long.
+Finn: Hold! Are you friend or enemy?
+Selphina: Have you forgotten me already, Sir Finn? It's Selphina!
+Finn: Selphina? Duke Dryas' daughter?!
+Selphina: The very same.
+Finn: You don't say... When last we met, you still wore your hair in braids...
+Selphina: I can only hope I'm more of a proper woman now than I was a decade past. Glade and I have since been wed, you see.
+Finn: Glade?! That old dog! How's he been? Ah, we've much catching up to do—you must take me to him at once!
+Selphina: Your reunion will have to wait a little longer, I'm afraid. He's away in Tarrah, trying to aid the city's defenders.
+Finn: A pity... Still, if duty calls, I suppose it can't be helped.
+Selphina: Hmph. You can barely hide your excitement for seeing my husband, but you can't scrape together two words for my benefit. I see you haven't changed much—no regard for the feelings of women.
+Finn: Th-That's uncalled for! I meant nothing by it...
+Selphina: Oh? But I still remember how you abandoned Lady Lachesis—left her to go off on her own. The sorrow was plain as day upon her face, but you let her walk away.
+Finn: I... I'm not sure what you mean...
+Selphina: No, I know you understand, Sir Finn—but you pretend not to!
+Finn: ...Selphina, we've just met again for the first time in a decade. There's no need to get into this now.
+Selphina: Ah... I apologize. You've the right of it. It was more than rude of me to ambush you like that after such a long absence...
+Finn: No, I... I understand. We can... talk about it later. For now, the battlefield calls.
+Selphina: ...Of course, Sir Finn.
+
+%Carrion,Selphina 
+Carrion: Lady Selphina, I made it back!
+Selphina: Oh, my dear Carrion! Thank you for all that you've done.
+Carrion: Think nothing of it, milady. Would that I could've done more... Ah, I must double my training if I'm to become as strong a knight as Sir Glade sometime in my natural life! I want only to aid Prince Leif, but all I've learned in his service so far is just how powerless I truly am...
+Selphina: Don't let your impatience cloud your judgment. You won't be of any use to him dead. Hmm... The time to grant you your inheritance may have come more quickly than I'd thought.
+Carrion: Inheritance? Th-This is... a fine blade, milady, but where—
+Selphina: Your mother entrusted this to me. It's known as the Elite Sword. She bade me give it to you when you had grown into a worthy knight.
+Carrion: M-Mother?!
+Selphina: She passed from this world far too young, taken by illness. A tragedy if ever there was one, that... This very blade was a favorite of your father's, and he wielded it right up until the day he died honorably in battle.
+Carrion: F-Father's own blade... that he wielded in service of House Leonster...!
+Selphina: This is your birthright, Carrion—use it with great care.
+Carrion: Y-Yes, I will! Thank you, Lady Selphina!
+
+@Battle 
+Merlock: What?! The bandits have yet to fall? Signal the Armored Lances to charge!
+
+Merlock: What have you idiots been doing?! All forces, move to engage the bandits! I want them dead, even if you have to throw yourselves on their swords!
+
+@Boss 
+Merlock: Y-You're no common bandit! What's going on here?!
+Merlock: F-Forgive me, King Travant, Your Majesty...
+
+@Battle 
+August: Prince Leif, I've dire news! I... I regret to report that the villa... has fallen.
+Leif: Come again?! Th-Then... Duke Dryas...
+August: All that remained of Leonster's nobility had taken refuge here... Now, they have joined their kingdom in oblivion. Without them, I'm afraid there is... no longer any hope of reconstituting Leonster...
+
+@End 
+Leif: Dryas!
+Dryas: Prince Leif...! To be able to see you, safe and healthy, after all these years... You've... grown into quite the splendid young man.
+Leif: Whatever I've accomplished, I owe to you and Finn. Without your sacrifices, I never could've come as far as I have...
+Dryas: ...Oh, this is most unbecoming! Confound it... I... I, ah... I suppose I've become easier to move to tears in my age.
+Leif: ...Duke Dryas, I think you've earned— Ah! Y-Your arm! Don't tell me you...
+Dryas: Oh, this? Bah! It's but a trifle. I... grew careless during the battle for Ulster. The disgrace is mine alone to bear.
+Leif: At Ulster? Then... it was for the sake of ensuring my escape... Dammit! Is that what it always comes down to?! How many more people have to sacrifice themselves just to save me? How many?! Even you, Dryas... All for me...
+Dryas: Hah! Don't let this, of all things, weigh heavily upon your heart, Prince Leif. Even supposing I wasn't injured, an old dotard like me would hardly be of any use to you now. Let us not allow our minds to linger on past wounds—we've much work to do yet. I understand you wish to aid Tarrah. I mean to do the same, but we've precious little time to act. I've sent Glade ahead to the city. We've gotten word back from him, and he reports that the Empire means to mount an all-out assault against Tarrah perilously soon. With you and your forces here, every brave soul in Thracia now stands assembled beneath the banner of Njorun. The reborn kingdom of Leonster must be unleashed upon the front lines—starting with the Thracian soldiers amassed outside!
+August: Regarding that... the Thracian troops seem to have ceased attacking. Most curious...
+Leif: Outright suspicious, even.
+Dryas: I'll start coming up with a plan. Give me a moment to get a better look at this strange state of affairs, Prince Leif.
+Dryas: Hmm... Leif's man was right. They have indeed called off their attack... But why? ...Who in blazes is that? That Dracoknight—a woman, by the look of it—what's she saying to the Thracian troops? Some kind of declaration?
+Altena: All soldiers of Thracia, heed me! This is your princess, Altena! I bring word from General Hannibal himself! The men in that villa are not bandits—they're a mercenary unit the General has stationed here to PROTECT this area from bandits! Sheathe your swords! Withdraw at once!

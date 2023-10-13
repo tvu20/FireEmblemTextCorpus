@@ -1,0 +1,79 @@
+@Intro 
+Kempf: Bishop Oltof, listen closely: these attackers are none other than the motley survivors of House Leonster. They seem to be led by Leif, the rebel prince who caused a stir when he escaped from the dungeons of Castle Munster. This has escalated beyond a mere border skirmish. I must ride for Belhalla at once and alert the Imperial Army's high command. Not to imply that this relieves you of your duties, of course. I still have orders for you and your men. Your platoon is to barricade itself inside this wing of the fortress, and stall the rebels for as long as possible. Buy me time.
+Oltof: B-But General, the enemy has already breached the fort's interior! My men and I cannot possibly withstand a prolonged siege!
+Kempf: Nonsense! You still have one final means of defense: the balistrariae.
+Oltof: ...You want us to huddle behind those gaps in the walls and take potshots at the invaders?! Y-You're asking us to die...!
+Kempf: No, I'm ordering you to kill the invaders before they kill you. There's a tremendous difference. Mind you, no part of my orders require you to die. In fact, if you die, you have only yourself to blame. Oh, and I'm not "asking" anything. You used that word, not I. These are orders.
+Oltof: I... understand. If... If this is an order, I have no choice in the matter.
+Kempf: That's the first smart thing you've said, Bishop. Take your own advice and follow my orders—otherwise, you'll be keeping Olwen company in the dungeon. Ah, speaking of which, you mustn't forget to dispose of the prisoners. They'll only cause trouble if they manage to survive all this.
+Oltof: ...As you wish, General.
+Kempf: Don't look so glum, Bishop. If you should happen to die here, you can rest knowing your death served a purpose.
+Oltof: ……
+
+Boy: Y-Yer an Imperial soldier...! You low-down, no-good wench! All you do is go around spreadin' misery to other folk! An' now yer here to kill us, ain'tcha?!
+Olwen: No, that's... that's not why I'm here! I was arrested! Wh-What are you kids doing here?!
+Girl: S-Soldiers were raidin' our village... They took me an' brought me here, even when I kicked an' screamed...! Wh-What's gonna happen to us...?
+Boy: Yer talkin' like they ain't already decided what to do with us! They're gonna sacrifice us to Loptous! They're gonna send us to Belhalla an' kill every last one of us... I know cuz my sister got taken there an' she never came back!
+Girl: No! P-Please don't take us away! I jus' wanna go back home... I jus' wanna see Mama and Papa again...!
+Olwen: It can't be... Has the Empire really been conducting child hunts? I'd heard rumors, but... I was sure it was just rebel propaganda. I never even considered that it could be true... For the Empire to be doing something so heinous... This is inexcusable! I believed in the Empire, I trusted in House Friege... and this is what they've been doing all along?!
+Girl: Please, ma'am, help us! Take us back home!
+Olwen: ...Everything's going to be all right. You don't have to worry anymore, little one. They won't lay a finger on you ever again. On my honor, I'll protect each and every one of you! Even if it costs me my life...!
+
+@Battle 
+Fred: Lady Olwen! Are you down here?! Please, say something!
+Olwen: Fred?! You came back for me... I'm over here! And children have been locked up in here, too! But Kempf still has men stationed here! Don't get careless!
+
+Oltof: Hmph! Orders be damned, I'll not just sit here and wait to die! Men! Can all of you truly go along with this, knowing what I was told by the General? I must be off. I'll report how dire our situation is to the General—or to whatever commanding officer still remains here.
+Soldier: If that's the case, Bishop, perhaps I—
+Oltof: No, I'll go! It has to be me, you understand? I entrust you with this unit's command. The rest is in your hands.
+Soldier: ……
+
+@Recruit-Talk 
+%Leif,Olwen
+Leif: I can see you protected those children during the battle... May I ask who you are?
+Olwen: I would ask the same of you, sir.
+Leif: ...My name is Leif, and I command this army.
+Olwen: Leif?! So you're Prince Leif of House Leonster, are you not? I... I am Olwen, Mage Knight of House Friege, at your service.
+Leif: House Friege, you say? Then... why did you—
+Olwen: Frankly, I'm not sure where to begin. It's quite the long story... I've... come to learn a number of terrible truths in a very short time, and my mind is in disarray... Prince Leif, if you can forgive my choice of allegiance, I would ask to stay in your company for a time. Just while I come to terms with what I've learned, I assure you.
+Leif: Your past is of no issue to me. However, I must consult my advisors, August and Dryas, on this matter. You'll have to wait until this battle is over before I can render judgment on your request.
+Olwen: Of course. It was unreasonable of me to ask such a thing of you so suddenly... I apologize.
+
+@Fred,Olwen 
+Fred: Lady Olwen!
+Olwen: Fred! Thank you... You've saved me from a fate most terrible.
+Fred: Think nothing of it, milady. I'm just glad you're safe. Now, we must move quickly if we're to escape... Hm? What's come over you? You're white as a sheet!
+Olwen: Fred… What have we really been fighting for?
+Fred: What do you mean, milady?
+Olwen: What exactly have I accomplished? How many children have been stolen from their families under my watch? How many caravans of children have I helped send to Belhalla? How many... how many sacrifices to Loptous have I made possible?
+Fred: Lady Olwen…
+Olwen: Never before have I had such... doubts... about what I've done. I believed that as long as I followed my brother, there could be no questioning the righteousness of my path. But now... Now I'm as blind as a newborn! I can't be certain of anything! I have nothing to believe in! I... I don't know what to do...
+Fred: ...Lady Olwen, I can tell you only one thing for certain: your place isn't with the Empire and its army. Not anymore. But perhaps there could be a place for us in Prince Leif's army.
+Olwen: Join Prince Leif?! H-He's the enemy! He always has been!
+Fred: ...I met Prince Leif, albeit briefly. Just from what little I saw, his values are far more in line with ours than the Empire's are. Whatever it is you've lost sight of, Lady Olwen, we can find it again in his army!
+Olwen: ...If you're that convinced of Prince Leif's honor, Fred, then that's where we'll go.
+
+@Battle-Talk 
+%Fred,Olwen 
+Olwen: Fred, I've decided to join these people. I'm a defector—you're no longer bound to me by military code. You're free to do as you please...
+Fred: Not another word, Lady Olwen! Once your adjutant, always your adjutant! If milady has decided that this is the best course of action, then I shall gladly follow!
+Olwen: Fred… Thank you.
+
+@Boss
+Oltof: You'll go no further! I... I'll be the one to make it out of this! I will!
+Oltof: G-Glory to House Friege... 
+Oltof: T-This is House Leonster's idea of waging war...? I... I may have been mistaken about you...
+
+@End 
+Leif: Yet more children caged... It's easy to see why the people of Tarrah rebelled.
+Dryas: Indeed. But that makes the Empire all the more desperate to make an example of Tarrah and stamp out their uprising. Supposing they allowed Tarrah to defy them, countless cities would follow suit. It's for this very reason that the Empire has summoned troops from across Jugdral just to attack one city: they move to crush both Tarrah and its hopes all at once. I've even heard tell that the Gelben Ritter have been recalled from Belhalla to join in the assault.
+Leif: The Gelben Ritter... That's House Friege's elite battalion of knights, correct?
+Dryas: Indeed, but they are no mere knights: They're Mage Knights, each of them handpicked for the job, and each of them a noble from House Friege's inner circle. They're one of the strongest—if not THE strongest—battalions of knights in the continent. To make matters worse, they're led by none other than Princess Ishtar—the woman widely feared as the Goddess of Thunder. And her adjutant, Sir Reinhardt, is a damned fine warrior in his own right. Some even believe him to be the reincarnation of the crusader Thrud.
+August: A man who readily lends his hand to child hunting is what you call a "damned fine warrior"? How typical... Knights are so hopeless. You've lost sight of reality!
+Dryas: August! You insult me, speaking so brashly! Just what is it that I'm unaware of?! Please, do tell!
+August: Need I spell it out? Reinhardt is Ishtar's adjutant and guardian. Ishtar is the betrothed of Crown Prince Julius. Julius—the very same man the people call the "Scion of Darkness," need I remind you—is the vessel of the dark god Loptous! Ultimately, anyone who serves Julius in any way is ushering the world closer to destruction!
+Olwen: It's not like that at all! My brother... My lord brother, Reinhardt, is no servant of Loptous!
+August: ...And who might you be?
+Olwen: Olwen, sister of Sir Reinhardt.
+Leif: For her own reasons, she wishes to accompany our army. I gave her leave to do so, unless you have objections.
+August: ...I see. If that's the case, Olwen, take a good, hard look at what the Empire has done here. See them for what they truly are.

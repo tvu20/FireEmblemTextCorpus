@@ -1,0 +1,45 @@
+@Intro 
+Dryas: Escaping Tarrah may be difficult with all these civilians in tow...
+Leif: Civilians? You mean townsfolk from Tarrah are following us?
+Linoan: I'm deeply sorry, Lord Leif... I tried to convince them that accompanying us was too dangerous, but nothing I said could sway them.
+Leif: *Sigh* I can see that... Well, how many of them are there?
+Dryas: About 600, and they're following us in disorganized groups.
+Leif: That many? We can't possibly escort them all the way to North Thracia!
+Dryas: I concur. We're busy enough fighting for our own lives to spare any manpower to babysit them. In honesty, ensuring their safe passage out of just this valley may prove to be difficult.
+Leif: But we can't turn a blind eye to them, either. At the very least, we have to defend them until they can escape the valley. Instruct our forces to focus on protecting the townsfolk until they're clear of the battlefield. Make that our first priority!
+Dryas: Understood, Prince Leif.
+
+Codda: I take it the Pegasus Corps are prepared for battle, Captain Misha?
+Misha: You won't be disappointed. I've brought half of our whole mercenary company along—they'll be ready to take to the sky shortly.
+Codda: Very good. You may return to Leonster now—I've no more use for you.
+Misha: No. I'm not about to let you steal command of my squad right out from under me.
+Codda: Oh, come now, Captain. We're only here to mop up what's left of the Liberation Army as they retreat. Picking at a dead carcass is hardly a task suited to an esteemed pegasus knight such as yourself, wouldn't you agree?
+Misha: I said no. My squad is—
+Codda: You have me mistaken for a man who repeats himself. This is an order, Captain.
+Misha: I... All right, I get it. I'm going...
+
+@Battle 
+Civilian: Thanks for pullin' our sorry bums outta the fire back there. I brought this Stamina Drink along as a little taste of home for the road, but I figure you can get way more use outta it than me.
+
+@Boss 
+Codda: Heh, heh, heh... You imbeciles!
+
+Codda: Loptous, lord of all... Take this humble servant's soul... into your embrace...
+
+Codda: We don't fear death, you simpletons...!
+
+@End 
+Dryas: It seems we've cheated death yet again. Our forces are all clear of the valley, sire.
+Leif: Gods' breath, what a relief! Now, what should be our next course of action?
+Dryas: I'd advise crossing over the Dauph Mountains to reach the road to Nordrhein.
+Leif: The road to Nordrhein? So you propose that we make our way to Leonster along the coast?
+Dryas: That's my thinking, yes, but I've not yet heard August's opinion on the matter. At any rate, we'll have to cross this mountain range regardless of which route we take. We should make haste, Prince Leif.
+
+Lewyn: A moment of your time, August?
+August: L-Lord Lewyn?! How... How were you able to find me so quickly, Your Highness?
+Lewyn: We've been through much together, you and I. I know how you think. When I heard Tarrah had fallen, I anticipated this would be the route you'd take to escape the city. It seems I was correct. And with their defeat, Leif's army now faces a crisis of purpose... You certainly have your work cut out for you.
+August: It... seems I was not up to the task. I'm sorry for disappointing you, Your Highness.
+Lewyn: Oh, don't kid yourself. Tarrah's capitulation was inevitable—we both knew this. You've been doing a fine job.
+August: If you say so, Your Highness...
+Lewyn: Now, if there's no other matters of import, I must be going. I still have to check in on the Orgahil region before returning to Isaach. It will likely be another year before we're able to meet like this again. Until then, I leave things in your capable hands, August.
+August: Another whole year... There's still so much left to be done...

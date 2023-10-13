@@ -1,0 +1,73 @@
+@Opening 
+Leif's Liberation Army made its way to Munster through the pass formerly guarded by Fort Danzig. Before them stood the vast River Thracia, the largest river in the Thracian Peninsula. It was this river's water that blessed much of North Thracia with rich, fertile land. Just beyond its rapid waves, the city of Munster awaited...
+
+@Intro 
+Cowen: You've done plenty, Saias! Quickly, you must begone from here!
+Saias: I shall do no such thing! I'll stay at your side until the end, Count!
+Cowen: If you value me half as much as you claim, be silent and listen! 
+Cowen: Have you already forgotten how my only daughter, my Aida, gave her life to protect you from that fiend Manfroy? Surely your lonely childhood in that isolated monastery cannot have left your memory so easily... 
+Cowen: Yet hiding you in such a remote place was all I could do to shield you from him. I could scarcely contain my laughter when you finally came of age and were appointed a military officer at Manfroy's own suggestion—the fool didn't realize who you really were, having lost your trail years prior. Yet his mistake was your gain, and you set to honing your skills as a tactician with a passion knowing who Saias was, despite that not even I knew you possessed. So obvious was your talent that it only took you a decade to rise from a lowly officer to the Royal Bishop of House Velthomer. And for a brief time, you were so trusted by Emperor Arvis that Manfroy couldn't dare harm you, and I was able to rest easy. But that sanctuary has come to an end: with the power of Prince Julius behind them, the Loptr Church now wields more influence than the Emperor himself. You bear the brand of Fjalar, Saias—neither Prince Julius nor Princess Julia inherited her mark. That is why Manfroy fears you so. 
+Cowen: For the sake of Fjalar, for the sake of House Velthomer, you must live on to preserve that holy bloodline. The fact of the matter is this: you cannot die here, and so you must hide your true strength. More than just my life is at stake here!
+
+Reinhardt: It's been some time since last we met, Bishop Saias.
+Saias: Commander Reinhardt! What are you doing here, milord? I'd heard Princess Ishtar had returned to Miletos—weren't you with her?
+Reinhardt: I worry for my little sister... I've stayed behind to see to her safety. Besides, Lady Ishtar has no need of me any longer.
+Saias: ...Did the princess really tell you that?
+Reinhardt: She did. With a man as powerful as Prince Julius with her, she says, there's no reason for me to escort her as well.
+Saias: …… Commander, this is difficult for me to ask, but... I've heard that Lady Olwen has defected to the rebels. Is this true?
+Reinhardt: ...It is. But she's little more than a child. I'm certain she's being deceived by the enemy, somehow... If I can just speak with her, I know I can bring her back to her senses.
+Saias: Mm... I know that you'll always see her as your little sister, but she's not quite so little anymore. She's a grown adult, Commander. She wasn't going to be the little girl chasing her big brother's coattails forever. How she lives her life is her choice to make. You must accept that.
+Reinhardt: How Olwen lives her life... Bishop, do you mean to say that her path has split apart from mine?
+Saias: Indeed... Though I do agree you should speak with her, if the gods give you a chance to do so.
+
+Leif: The River Thracia... It's stunning just how vast it is. Its clean, shimmering waters are surely the blessing of Earth Mother Ethnia herself.
+August: Indeed? I'm afraid its beauty is lost on me—I see only a river stained red with blood. True, the river has granted this land many blessings, but it also stirs greed in the hearts of men. Countless battles have been fought for control of this river—and now we find ourselves about to fight another. Take heed, my prince. The last king of Leonster—your very own grandfather, King Calf—was slain here.
+Leif: That's right... My lord grandfather met his end at this very spot...
+August: Ah, at the risk of sounding pedantic, King Calf didn't perish exactly here—he died on the bridge just south of here. He fell in battle when the Knights of Conote—Raydrik's men—suddenly turned against his army, shattering their formation. Now, bear in mind that the river is notoriously easy to defend, but near impossible to attack. The enemy has likely stationed powerful battalions here to halt our advance. I expect this battle will be our most difficult yet, Prince Leif. Steel yourself for what lies ahead...
+
+@Battle-Talk 
+%Olwen,Reinhardt
+Olwen: Brother...! As soon as I saw the Gelben Ritter were here, I knew you couldn't be far, my lord brother...
+Reinhardt: It feels like a lifetime since we last saw each other... Thank the gods we were able to meet again.
+Olwen: Brother... I...
+Reinhardt: Come now, there will be time to tell me about all that's happened once you're safe. Everyone will be so glad to see you again—every Friege worth a damn has been worried sick about you. Heh, I'm sure you have plenty of good stories to regale them with. Olwen... Let's go back home together.
+Olwen: Home... No, I cannot go back to Castle Friege. I can't show my face there until I right the wrongs I helped commit, and rescue the children taken by the Loptians. Don't try to argue—I've already made up my mind.
+Reinhardt: Olwen, listen to what you're saying! We're family! You're my darling little sister! I couldn't bear to lose you!
+Olwen: I'm more than just your little sister! I'm my own woman! This is the decision I came to after thinking it over on my own. I know what it means for me. I've prepared myself for the anguish it will bring. Not even the words of my own brother could sway my mind now.
+Reinhardt: Then... Then that makes us enemies. Do you have it in you to raise your blade against me, Olwen?
+Olwen: If you stand in our way, Brother, then... I have no choice.
+Reinhardt: I see... So you really are serious about this... It's exactly as Bishop Saias said. You have indeed grown up—that's clear to me now. You've become a formidable woman, Olwen. I'm proud of you. This is the last time I'll be able to treat you as my little sister, and not as my enemy. But as your older brother, I have one last gift for you.
+Olwen: This is...?! I recognize this sword! It's your most prized weapon, Brother!
+Reinhardt: A token of better days... Princess Ishtar gave me that sacred blade, but I've no need for it now. You can put it to better use.
+Olwen: But why? I know how important it is to you.
+Reinhardt: That's... That's none of your concern! Now ride back to your army, Olwen! The next time we meet on the battlefield, I'll show you no mercy, sister of mine or no! Am I clear?!
+
+@Battle 
+Cowen: Gods above, the enemy has advanced this far? Saias, you must flee! Now!
+Saias: No, Count! Come what may, I'll stay by your side!
+Cowen: Still your tongue! Just do as I say! The battle is lost!
+Saias: Wait! Please! I must—
+
+Saias: ...That's it! NOW! Collapse the bridge! Tell the Gelben Ritter to charge!
+
+Reinhardt: The enemy has finally gotten close enough! In the name of the Gelben Ritter, don't let them take one more step toward the castle!
+
+@Boss 
+Cowen: You shall go no further!
+
+Cowen: The Empire... is undefeatable... Guhh!
+
+Cowen: There's nothing more for me to say.
+
+Reinhardt: This must be fate... Forgive me...
+
+Reinhardt: I am... undone...
+
+Reinhardt: ..May we meet again.
+
+Saias: Lay down your weapons. You'll only get hurt.
+
+@End 
+August: We've made it across the river at last.
+Leif: "A river stained red with blood." Now I understand what you meant by that. Somehow, I can feel that taint upon the river...
+August: ...Blood that has been spilled can never be returned. Wise men accept this, and see to it that blood is only spilled for a worthy cause. Bah, enough of my ruminations. Come along, Prince Leif—we must hurry to Munster.

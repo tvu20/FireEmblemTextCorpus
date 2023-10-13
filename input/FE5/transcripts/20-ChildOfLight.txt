@@ -1,0 +1,65 @@
+@Opening 
+...Half a year has passed. The army of House Friege, led by Barat, has waged a relentless onslaught against Leonster, seeking to recapture the castle. Leif's Liberation Army has fought well, but has been gradually worn down and forced into a small corner of the castle—with no way out. Everyone could see it was only a matter of time until Castle Leonster fell...
+
+@Intro 
+Reinhardt: How goes the war, Lord Barat?
+Barat: Ah, Reinhardt. I've been waiting for you. You've brought my reinforcements, I trust?
+Reinhardt: A battalion is on its way here from Ulster. They should be arriving shortly.
+Barat: Hmm... Yes, that should do it. We've already seized most of the castle. These few halls are the rebels' last refuge.
+Reinhardt: Normally that would be good news, but...
+Barat: Hmm? What do you mean? Is something amiss?
+Reinhardt: This siege has gone on for half a year, yet Leonster still stands. King Bloom is... displeased. I don't mean to speak out of turn, especially to one of my elders, but... I'd suggest you hurry.
+Barat: ...You're not telling me anything I don't already know.
+Reinhardt: The king's temper worsens by the day. The loss of Prince Ishtore at Fort Melgen has been taking its toll on him...
+Barat: What of the Isaachian rebels?
+Reinhardt: I hear they've already crossed the border into the Thracian Peninsula. But they're not entering unopposed: Cowen and the 26th Battalion, Vampa and her sisters, as well as Lady Tine and her unit of mages, are all moving to intercept them. Still, the rebels were able to best Lady Liza... I fear the coming battle will be a most arduous one indeed.
+Barat: And what does His Highness himself intend to do?
+Reinhardt: I believe the king plans to personally take command of the troops at Ulster. Should the Isaachian rebels break through to the city, I imagine he'll send for you. But if Leonster should still remain in enemy hands by that time, your future will be... most uncertain.
+Barat: Ah... Very well. You've made yourself clear.
+Reinhardt: Then I must be returning to Conote. If you'll excuse me...
+
+Barat: You! Get over here!
+Soldier: Uh... Y-Yes, sir?
+Barat: Send word to all the troops: we're launching an all-out assault on Castle Leonster! There will be no retreat! Fight with all your soul if you want to live!
+
+August: ...The enemy has begun their assault, Prince Leif.
+Leif: Can we mount a defense?
+August: I've already ordered as much. Everyone that can stand upright is fortifying the castle. If we fall here, we have nowhere to run.
+Leif: We've done quite well against such an enormous army, considering everything. Holding out for half a year, under siege... But we'll reach our limit before long.
+August: Bah, you've become overfond of such feeble whining. It's unseemly for a prince of your stature. If you're not willing to fight to the last breath, you're betraying the memory of all who have sacrificed themselves to get us this far! Don't forget the bigger picture! We're keeping the bulk of the enemy's forces busy here, which frees Seliph's army to march through Thracia unimpeded! You mustn't give up before we're able to merge our forces!
+Leif: I'm sorry, August. I know... And I do want to meet Lord Seliph myself, but how else do you expect me to feel, having to watch our soldiers die one by one?
+August: If it pains you so, that's all the more reason to honor their memory by fighting to the last man!
+
+@Boss
+Barat: You nuisances have cost me my rank!
+
+Barat: Ugh... So this is... where...
+
+@Battle 
+August: Prince Leif, the Friege army has captured the throne! Our troops are fleeing en masse! Our war... is over...
+
+@End 
+August: Prince Leif, the enemy is retreating!
+Leif: What?! Why would they do that?
+August: Because Seliph's army has arrived! They've already surrounded Castle Ulster, and are mounting an assault as we speak! This is our salvation! We've done it! We're saved!
+Leif: Truly...? Lord Seliph... has... Hold a moment, August. How do you know this?
+August: Ah, listen to me go on... I've forgotten myself. Just now, an emissary of Lord Seliph arrived. He awaits you inside the other chamber.
+Leif: Lord Seliph's emissary?! I must meet him! Please, send him in!
+Diarmuid: So we meet at last, Prince Leif. I'm a soldier in the service of Lord Seliph. I go by Diarmuid.
+Leif: Diarmuid?! But that would make you... Are you Nanna's older brother?!
+Diarmuid: I am.
+
+Leif: Was there anything else you needed to tell me on behalf of Lord Seliph?
+Diarmuid: No, sire.
+Leif: Then now that that's done, it's my honor to introduce you to Nanna.
+Nanna: Diarmuid... Brother...
+Diarmuid: Nanna?! Nanna, it's really you!
+Nanna: Yes.
+Diarmuid: I'm so sorry it took me such a long time to find you... If I had just known you were here from the start, I would've dropped everything to be by your side. I only finally learned of you through Lord Lewyn...
+Nanna: Lord Lewyn...?
+Diarmuid: He's Lord Seliph's tactician. There's nothing the man doesn't know... And he told me about Mother, too... How she was trying to reach Isaach, but vanished in the Aed Desert...
+Nanna: Ah! She's... not with you? I... I see... I had resigned myself to the fact that I'd likely never see her again, but even so... Mother... Oh, gods...
+Diarmuid: I'm sorry, Nanna. Mother was traveling all that way for me...
+Nanna: No, don't think like that. I used to resent her for leaving, but now that I'm older, I understand how Mother felt... All women feel the same deep love for their children. I've seen as much...
+Diarmuid: I haven't given up, Nanna. Lord Lewyn said Mother was still alive. We can search for her together when the war is finally over. So... don't cry anymore, OK? Prince Leif, I have a request, if I may. Would you permit me to transfer into your army? I'll ask Lord Seliph for his leave to do so once we rejoin him.
+Leif: Of course! I'd be glad to have you along to support Nanna. I'll explain the situation to Lord Seliph.

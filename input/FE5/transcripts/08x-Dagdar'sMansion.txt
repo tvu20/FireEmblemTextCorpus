@@ -1,0 +1,54 @@
+@Opening
+Dagdar: ...Tanya, it's time fer you to go. Make a break fer it on yer own—I'll keep any of 'em from followin' ya.
+Tanya: No way, Papa! I leave when you leave!
+Dagdar: You stick around here, you'll just be a burden. Now just listen to yer old man and don't give me lip!
+Tanya: I... I know I wouldn't be much help, but—
+Gomes: Aw, don't tell me you were thinkin' of leavin' the party already. Nope, the only way you two are gettin' out of here is in a casket.
+Dagdar: Listen up, Gomes! I got no reason to fight you an' yer boys. Think about this afore you do somethin' rash.
+Gomes: Naw, it's too late fer you to be makin' excuses, Dagdar! The soil itself don't want us here! Nothin' grows! Tryin' to till a field is like sawing through rock! All I wanted was a full belly, but you let that wench Eyvel cheat you outta the good land! She's got you wrapped around her little finger! You so desperate that you'd let everybody starve just to get lucky? Shame on you, old man!
+Dagdar: What'd you say?! Hmph, you talk big fer a glorified errand-boy! You ain't never known real hardship—just my petty chores! You know why? Cuz I knew I could never trust you with more! Fact is, I could barely trust you with my laundry, junior! But all these years, I still gave you a roof over yer head...! Fine! You want yerself a fight so bad, you got one!
+
+@Battle-Talk 
+%Osian,Tanya
+Osian: Tanya! You're safe! You... really had me worried there, you moron!
+Tanya: Who you calling a moron, moron?! Nobody asked you to fret over me!
+Osian: Would it kill you to show a little gratitude? If we'd showed up any later, you'd just be a stain on the floor!
+Tanya: What?! You're the one who started this argument! I hadn't said one word to you when you started yelling at me! Ugh, you're always like this! Gloomy little Osian, always ready to pick a fight... Whatever I lack for gratitude, you lack for manners! Just this once, you could stand to be even a little friendly...
+Osian: H-Hey! Wait, wait, don't cry, OK? I... I just... I mean, I was really... ...I'm glad you're safe. Er... So, anyhow... Uh... Yeah.
+
+%Leif,Dagdar
+Leif: Dagdar! You're all right!
+Dagdar: Well, I'll be... Prince Leif! Heh, an' here I was the one who was supposed to be rescuin' you! Sorry fer draggin' ya into my mess... So, where's Eyvel? She head back to Fiana, or is she with you?
+Leif: ……
+Dagdar: Prince... What happened?
+Leif: Eyvel is... still in Munster. We... didn't have the forces to rescue her. I couldn't save her...
+Dagdar: Wh-What?! Dammit, Leif! Are you a real prince or just a child?! How the hell could ya just leave her?!
+Leif: There was nothing I could do! I... I wasn't strong enough, wasn't fast enough, I... With my meager strength, what good am I to anyone? What should I do? What CAN I do?
+Dagdar: ……
+Leif: If... If I'd just been a little stronger... If I had done things differently, maybe—
+Dagdar: Dammit, Prince! Yer puttin' too much of the blame on yerself.
+Leif: But—
+Dagdar: Look, I'm sorry fer yellin' at you just now. I... I wasn't expecting things to go so wrong, an' I took it out on you. Truth be told, Prince, yer tougher'n most. You tried to rescue her, right? Ya made the effort, and it ain't yer fault it didn't work out.
+Leif: D-Dagdar...
+Dagdar: Sure, you kids are goin' through some rough times right now, no doubt. But quit yer worryin', cuz I'll be helpin' ya from now on! It ain't like anybody can replace Eyvel, but you still got a long way to go before this war is lost. An' hey, captured ain't dead, right? We'll get Eyvel back—together.
+
+@Boss 
+Gomes: Dammit, don't you dare underestimate the Great Gomes! I'll shrug off whatever you got!
+
+Gomes: D-Dagdar, boss... I'm sorry... But everybody was starvin' to death, an' you were too stupid to see it...
+
+Gomes: I just wanted to help... To have enough to eat, you know? I'll find a way, boss... I'll find a way!
+
+@End 
+Leif: I pity Dagdar and his men, truly, but... Why couldn't they just earn their food through honest labor?
+August: And where would they labor? Their very land was infertile. Many of these men were children of Thracian farmers. Abandoned by their parents, they turned to banditry out of sheer necessity. Their choice was simple: steal or starve.
+Leif: Then they had cowards for parents, to have forsaken their children so!
+August: And how would you know? You've been on the run for your whole life, true, but you've never known the pains of hunger. Just where do you think your food came from during all those days you were fleeing from the Empire?
+Leif: Where my food came from? I... don't know. I never had to worry about hunger.
+August: Then you were fortunate to have had such loyal allies and retainers, but it has left you lacking the perspective to truly understand how the common folk suffer. South Thracia is a land dominated by mountains—steep, imposing crags dot the landscape, and a cliff lies around every corner. By nature, the land demands severity and discipline from all who live in it. Farmers work themselves to the bone to cultivate what few crops the land will provide, but even so, it is not enough to survive on. And thus they are left with a terrible dilemma: for every one person who gets fed, two others must go hungry. Dagdar's men, abandoned in their youth, are the result of this ruthless arithmetic. This is the reality of living in South Thracia.
+Leif: Th-Then they should just import food from elsewhere! In North Thracia, cities had an abundance of crops—buy their excess!
+August: Ah, but the whole of North Thracia—the old coalition of Munster—resolved long ago to prohibit trade with South Thracia. Food, especially, was closely guarded.
+Leif: ...Wh-Why would the North do such a thing?!
+August: Historically? Recall the war between Njörun and Dáinn's children, 100 years ago, that led to the province of Munster declaring independence from the rest of Thracia. The two have considered each other enemies ever since, and this hostility persists because they are mutually unwilling to communicate. The noble houses of Munster, in particular, remained stubborn and selfish for a century afterward.
+Leif: I... had been told that Thracia was all but a military state, that it was an infamously belligerent kingdom. But if they are merely the product of such wretched conditions... How did things all go so wrong? The North and South were a single kingdom once...
+August: It all returns to the Tragedy of the Gáe Bolg, to the misfortune that seems to befall all those who wield either of the holy lances. North Thracia has been plagued by selfish and short-sighted rulers. You must learn from their example—learn how not to govern. If nothing else, you must learn enough to not repeat your father's mistake...

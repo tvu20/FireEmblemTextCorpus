@@ -1,0 +1,95 @@
+@Opening 
+Having overcome countless obstacles, Leif finally stood before the gates of Castle Munster. Better known today as "the Twofold Traitor's Lair," the castle towered above the city, intimidating the Liberation Army with its sheer size. Once, Leif had fled these very walls as a mere fugitive, but now he returned as a conqueror. He stood ready to rescue a lost loved one—and in so doing, usher in a new era...
+
+@Intro 
+Veld: Raydrik, do I hear correctly that you've allowed those rebels to invade the castle?
+Raydrik: Ah... If Your Eminence would grant me more time, I'll see to it that the vermin are wiped out.
+Veld: Don't promise more than you're capable of. It's obvious to anyone with eyes that the rebels have the overwhelming advantage.
+Raydrik: ……
+Veld: Even for you, this is pathetic. I thought you'd at least be more useful than this, but it seems I overestimated you. I wash my hands of you, Raydrik. Our alliance has come to an end.
+Raydrik: Wait, Bishop Veld! Please! If you abandon me now, I... I...
+Veld: Not above begging, are we? Oh, very well... I'll consider this a dead man's last request. I shall spare you a battalion of sorcerers from the esteemed Schwarze Rosen.
+
+Ced: Don't let your guard down, Prince. There aren't many of Raydrik's men left, but he's made up the difference by hiring a slew of sellswords. The most dangerous of them all is a swordsman by the name of Galzus. Challenging him directly is suicide.
+Leif: Galzus, you say? Hmm... What should we do about him, then?
+Ced: Our only option is to lure him close enough for me to ambush him with the Tome of Forseti. Yet even I don't know if that will defeat him...
+Leif: We barely have enough troops to stage such a diversion... August, why did you insist on splitting our army in three?
+August: Divide and conquer, of a sort. The second group is to rescue the children, and the third will arrest the Loptian bishops. As their tasks are a race against time, that was all the more reason to send them in ahead of us.
+Leif: Rescuing the children goes without saying, but why bother with the Loptian bishops?
+August: There's a place of worship in the east wing of the castle where the Loptians congregate. The bishops there pose a grave threat to our army, as they wield Berserk and Sleep staves.
+Leif: I see... So the task of defeating Raydrik falls solely to our group, then?
+August: Indeed. There won't be time for the others to circle back around and rejoin us.
+Ced: We're certainly in for a difficult battle, Prince Leif... Leave the weaker foes to me. You just focus on Raydrik!
+Leif: Understood! No matter what it takes, I'll cut him down!
+
+Saias: Raydrik has few soldiers left, Prince, but stay alert: more sellswords yet await us in the castle's halls. The most dangerous of them all is a swordsman by the name of Galzus. Challenging him directly is suicide.
+Leif: Galzus, you say? Hmm... What should we do about him, then?
+Saias: I can't guarantee this, but if you still have that young woman Mareeta with you, we may be able to avoid fighting him altogether. Galzus appears to have some sort of deep bond with the girl...
+Leif: Then Mareeta could be—Wait! August, why did you insist on splitting our army in three?
+August: Divide and conquer, of a sort. The second group is to rescue the children, and the third will arrest the Loptian bishops. As their tasks are a race against time, that was all the more reason to send them in ahead of us.
+Leif: Rescuing the children goes without saying, but why bother with the Loptian bishops?
+August: There's a place of worship in the east wing of the castle where the Loptians congregate. The bishops there pose a grave threat to our army, as they wield Berserk and Sleep staves.
+Leif: I see... So the task of defeating Raydrik falls solely to our group, then?
+August: Indeed. There won't be time for the others to circle back around and rejoin us.
+Saias: This moment was inevitable... We're certainly in for a difficult battle, Prince Leif, but remember: you're not alone. I'll do everything in my power to help—you just focus on Raydrik!
+Leif: Understood! No matter what it takes, I'll cut him down!
+
+August: Raydrik has nearly run out of men, my prince, but take heed: countless sellswords yet await us in the castle's halls.
+Leif: If Raydrik still has so many troops, why did you insist on splitting our army in three?
+August: Divide and conquer, of a sort. The second group is to rescue the children, and the third will arrest the Loptian bishops. As their tasks are a race against time, that was all the more reason to send them in ahead of us.
+Leif: Rescuing the children goes without saying, but why bother with the Loptian bishops?
+August: There's a place of worship in the east wing of the castle where the Loptians congregate. The bishops there pose a grave threat to our army, as they wield Berserk and Sleep staves.
+Leif: I see... So the task of defeating Raydrik falls solely to our group, then?
+August: Indeed. There won't be time for the others to circle back around and rejoin us. We're certainly in for a difficult battle, my prince, but we've been in worse situations. I know you have the strength to prevail!
+Leif: I do! No matter what it takes, I'll cut Raydrik down!
+
+@Recruit-Talk 
+%Mareeta,Galzus
+Mareeta: It's you... The swordsman that rescued me... I always hoped I'd see you again.
+Galzus: What'd you come back here for?! You're still just a little girl... Swords ain't toys, you know!
+Mareeta: Back then, when I was possessed by that cursed blade, I had a vision of my father. We were separated when I was very young, but I still remember him clearly. He was a towering mountain of a man, strong as an ox, and yet... gentle. Galzus the sellsword... You're... It's you! You're my father!
+Galzus: Ah...!
+Mareeta: Why aren't you saying anything?! Please! Please, just answer me!
+Galzus: I... You don't blame me...?
+Mareeta: I'm the one to blame... Those slavers only caught hold of me because I didn't listen to you. Besides, I wasn't their prisoner for very long. Commander Eyvel rescued me just after it happened. I never held a grudge against you, Father!
+Galzus: ...I'm sorry. I searched for a long, long time, but you never turned up... Besides, with the man I am now... with all the blood I've got on my hands... I figured it was better if you didn't have anything to do with me, wherever you were.
+Mareeta: Just like that...?! It doesn't matter what's happened since then! We'll always be family...!
+Galzus: ......That lady, the swordswoman who got turned to stone... She's the one who rescued you from those slavers, right? The one who's raised you ever since?
+Mareeta: That's right...
+Galzus: ......Then there's no way I'm leavin' her behind. A man of Isaach always repays his debts!
+
+@Battle 
+Child: Huh? This door sure is strange, ain't it?
+
+Child: Oh! Uh... I guess it's busted... Heeey, guys! Wait for meee!
+
+@Boss 
+Raydrik: I saw your grandfather die! I watched your father's castle burn! I outlived them and I'll outlive you!
+
+Raydrik: Ugggh...! This is... absurd... How could... these... children... Bishop Veld... I beg of you... I don't want... to die... Help... me...
+
+@Recruit-Battle 
+Galzus: Fate must really have it out for you, makin' your path cross mine...
+
+Galzus: Ugh... Mareeta... I'm...
+
+Galzus: Tch... Being at the mercy of an enemy... I've fallen so far...
+
+@End 
+August: We fought for every inch, but Castle Munster is ours. Bards will sing of this battle for years to come.
+Leif: But is Raydrik really dead, August? After the finishing blow was dealt, his body just vanished.
+August: Some wicked force is at work here, of that I have no doubt. The whole castle is enveloped in a foul energy... I suspect it's connected to the secret temple of the Loptr Church, which lies underneath this very castle. Until that vile place is reduced to rubble, we cannot consider Munster truly liberated.
+Leif: A secret temple... So this is the Loptians' stronghold in Thracia.
+August: Indeed. The man in charge of the temple is a bishop named Veld—he's a close friend and confidant to Manfroy himself.
+Leif: Bishop Veld... What kind of man is he?
+August: He leads the parish of Loptians that infest Thracia with their presence. It is his responsibility to oversee the region's child hunts—and to sic the Schwarze Rosen on any villages who resist. Raydrik was little more than Veld's pawn. And according to the prisoners we've rescued since, it was he who turned Lady Eyvel to stone.
+Leif: Wh-What?! That's... That's unforgivable! This man, Veld... He's the spider at the center of it all...
+
+Leif: Speaking of which, August... Now that Eyvel's rescue is within our grasp, what can we do to cure her?
+August: As I mentioned before, the Staff of Kia could free her, but only those of Manfroy's bloodline can wield it. We're no closer to finding a solution to that dilemma than when we first fled Castle Munster...
+Leif: So after all this, we're still just as powerless?! We can't save Eyvel...?! Argh... Was all this just a waste?!
+Sara: Nothing's been wasted, silly. I'm right here. I'll use the staff.
+Leif: Sara...?! You don't mean... How can you use the staff?!
+Sara: Because I know how the seal works. I mean, it was Grandfather that sealed it up in the first place, so...
+Leif: Grandfather...? It can't be... Sara, you're Manfroy's granddaughter?!
+Sara: Don't make me talk about Grandfather... I never liked him. He was such a weird man. Let's just hurry up and save your friend. Don't forget the staff, Lord Leif!

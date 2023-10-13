@@ -1,0 +1,127 @@
+@Opening 
+Acting on the advice of Dorias, Leif made for Leonster by way of the coast. However, traveling along such an exposed, public road had its price: the army would have to breach Fort Nordrhein, an Imperial base. There, House Friege had deployed an elite battalion of soldiers, determined to stop the Liberation Army in its path...
+
+@Intro 
+Nicolov: Kempf, for your sake, I hope you're prepared for anything.
+Kempf: Leave everything to me, Colonel Nicolov. These rabble may have the gall to call themselves a "Liberation Army," but they're no stronger than a pack of bandits. My battalion shall shatter their delusions of grandeur with ease.
+Nicolov: "With ease," you say? Get your head on straight, boy! Are you not the very man who abandoned his post and left his men to die at Fort Dandrum? You scurried home with your tail between your legs, brought shame to your uniform, and you still have the audacity to be arrogant?! These men are the Lanzenritter of Leonster, Prince Leif leads their vanguard, and they're within spitting distance of their motherland! Their morale is higher than the damn clouds! Underestimate them and you're as good as dead!
+Kempf: Ah... You... have my apologies, Colonel...
+Nicaraf: Save it, Kempf. Just do as I say. I need you and your battalion to stay on the bridge. Guard it with your life. The ballistae in the rear will help hold your position. No matter what, don't move out of their range. You got that? It's an order: stick with the ballistae!
+Kempf: ...Yes, sir.
+Nicolov: Now, it may seem like we're on the defensive, but we're just biding our time. The real battle will begin when our reinforcements arrive. When the Knights of Ulster get here, we'll have the rebels surrounded from the front and back. We'll trap them in a pincer attack and crush the enemy in one fell swoop!
+Kempf: What? The Knights of Ulster are to be our reinforcements?
+Nicolov: The very same. Count Conomor is bringing nearly 100 men—the rebels will be ambushed by the mightiest army in North Thracia!
+Kempf: I... see... So Conomor is to get all the glory, then? No, this won't do at all! The rebels must die by MY hands, and mine alone!
+
+August: My prince, the scout we sent ahead has returned. He brings word of the enemy's formation.
+Leif: Hm... The perimeter of Fort Nordrhein is protected by ballistae... We won't be able to seize it without doing something about them.
+August: Unfortunately, that bridge is the only way across the river—and it's being defended by a battalion of heavily-armored knights. To make matters worse, attacking the bridge would put us within range of the enemy's ballistae.
+Leif: Then our only option is to lure the knights out of the ballistae's range.
+August: I doubt any subterfuge would convince them to move far enough away. They have a far superior position, and they know it.
+Leif: Perhaps, but it's still worth considering. Surely there's some way of tricking them away from the bridge...
+Olwen: Leave that task to me, Lord Leif. I have... a history with their commander. I'm certain I can lure him away from the bridge—and his troops will be forced to follow.
+Leif: J-Just what are you proposing, Olwen?! I won't allow you to put yourself in such grave danger!
+Olwen: Then I ask it from you as a favor, Prince. I want to help you just as you helped me!
+
+@Battle 
+Woman: Father Sleuf? Seems a battle has broken out just outside—an awfully big one, at that. It's too dangerous for a man of the cloth. You'd best stay here a while longer. It'd be my pleasure to have you, it would.
+Sleuf: Very well. Loathe as I am to impose upon your kindness, I suppose I don't have much of a choice...
+
+Ilios: Damn it all... Now I'm serving in that buffoon's vanguard... Where did I go so wrong? Are all commoners like me just doomed to be pawns of the nobility?
+
+Conomor: All troops, charge! Show the enemy the fury of Ulster!
+Soldier: Lord Conomor, are you sure about this? Win or lose, the motherland is already forfeit. We'll never have another chance like this to retake Alster!
+Conomor: I know. But if we betray the Empire now, I shudder to think what fate would befall Princess Miranda... The girl is just a lass of 15 years... She's much too young to die in some darkened monastery, far from home...
+
+@Recruit-Talk 
+%Karin,Ilios
+Karin: Hey, hey! Over here, pal! Uh, sorry to butt in like this, but can I bend your ear for a second?
+Ilios: Wh-What? Who are you supposed to be? Look, calm your pegasus down and stop fluttering around me like that!
+Karin: About that... I don't suppose you'd lay down your sword and join up with us, would you?
+Ilios: H-Hey! Is this some kind of joke? Why the sudden olive branch? Gods above, you're a strange one...
+Karin: Should I take that as a "no," then? Oh, I should've known this would just be a waste of time... Well, goodbye, I guess...
+Ilios: H-Hey! Wait a minute!
+Karin: Hm? What is it?
+Ilios: I would, uh... consider defecting if I could be promised certain conditions.
+Karin: Really? Well, now we're gettin' somewhere! All right, what is it you want?
+Ilios: Well, assuming Leonster is restored to its former glory, I'd want full peerage and to receive a title of nobility.
+Karin: That's all? Well, that should be an easy ask! Say, if a noble title is all you're askin' for, wouldn't that make you just a commoner? You must be a real hard worker to have made it into House Friege's army! I mean, a commoner in House Friege is like a pegasus flying with Thracia's Dracoknights!
+Ilios: "Commoner" this, "commoner" that... Don't think you can label me so easily! I may be a man of common birth, but I'm not ashamed of it! I'm proud that I was born into my family, even if there's not a drop of noble blood in our veins!
+Karin: Then why do you want a noble title so badly?
+Ilios: Ah... W-Well, I... Look, I don't have to explain myself to you!
+Karin: Uh-huh... Listen, my name's Karin. What's your name, O noble commoner?
+Ilios: Oh, uh... It's Ilios.
+Karin: That's an awfully noble-sounding name... Y'know, the kind a stuffy aristocrat has to practice pronouncing. Is "Ilios" even your real name?
+Ilios: Oh, what a stupid thing to ask! Of course it's my real name! My father gave me such a name in the hope that I would one day earn a title to match!
+Karin: Oh-ho! So another piece of the puzzle falls into place! No wonder you're chasing after nobility so stubbornly when it's literally stamped into your name. Look, maybe it would be better to just change your name instead of diving head-first into this whole "quest for nobility" thing. Besides, you don't really look like an "Ilios." Like, if I shouted "Ilios!" into a crowded room, nobody would look at you. No offense. You look more like a... Troy! Oh, that's perfect! That fits you much better, don't you think?
+Ilios: Wh—Troy?! Look, you can't just go around messing with people's birth names!
+Karin: Well, Sir Troy, it's good to have you fighting alongside us!
+Ilios: H-Hey! That's no fair!
+
+@Battle-Talk 
+%Olwen,Kempf
+Olwen: It's been a long time, General Kempf. How have you been?
+Kempf: Olwen?! Hah! I see your idiocy knows no bounds! Not content with a mutineer's death, you want to be hung as a traitor, too?
+Olwen: Traitor I may be, but my name will be remembered more fondly than yours. Look at yourself. There's no fight left in you—just false bravado. Your whole charade of arrogance is pathetic. You're a failure—and you're too much of a coward to admit it.
+Kempf: What?! How dare you...! I may have fled from Fort Dandrum, but what of you? You abandoned Largo in Nowell Valley, did you not? Bah! You can add "hypocrite" to your litany of crimes!
+Olwen: I ran to get reinforcements. You just ran for your life. I see you for what you are: a coward. When the going gets tough, all you do is run. You ran at Fort Dundrum, and you're still running here—cowering behind your troops and trembling like a child. And just as you hide in the shadows here, you'll never escape the shadow of my lord brother Reinhardt.
+Kempf: Hrk...! You... You'll DIE for those words! Men, seize that woman! Kill her precious rebels! Kill all of them! A lordship to whoever brings Olwen to me alive! I'll choke the life out of you with my bare hands, Olwen! You hear me?!
+Olwen: I've played my part... Gods be with you, Lord Leif.
+
+@Battle
+Kempf: Order a full charge on the enemy's front lines! I'll give a pouch of gold for every rebel head! Stain the ground with their blood! Leave no one alive!
+Soldier: H-Hold a moment, General! That goes against Colonel Nicolov's orders!
+Kempf: And when we win the day, no one will care! Besides, Nicolov is nothing! Nobody! And I'M royalty—don't you forget that! All troops, charge! Kill every last one of them!
+
+Conomor: So the Lanzenritter is alive and well... and just as fierce as their forefathers. Perhaps... Perhaps we should withdraw, just on this occasion. We've misjudged the rebels' strength. Knights of Ulster, I'm ordering a full retreat!
+
+@Recruit-Visit 
+Sleuf: Ah, you must be Lord Leif!
+Leif: That's right. A priest back in Solwood told me to keep an eye out for you. But how did you recognize me?
+Sleuf: I've seen you before, though not in person. I was granted a vision at the Tower of Bragi. It's just as I foresaw... A boy bearing the Twofold Light... such great potential he carries... Father Claud... Your words echo still, and they only become truer as time goes on...
+Leif: The Tower of Bragi? Twofold Light? What in blazes are you talking about?
+Sleuf: When the time comes, milord, understanding will dawn on you like a grand sunrise. Prince Leif, if it pleases you, I would accompany you for a time.
+
+@Boss 
+Kempf: You! YOU! If you hadn't come this far...!
+
+Kempf: I-Is this... a joke? How could I... be bested... by them?
+
+Kempf: Hmph... I won't forget this! Remember me well, for this is the face of your conqueror!
+
+Brook: Rebel scum! My blade shall be the one to cut you down!
+
+Brook: Ugh... This isn't... the end...
+
+Brook: I'll be the laughing stock of the Empire...
+
+@Recruit-Battle
+Ilios: What, you're really going to fight me? How amusing! You think you can best Sir Ilios!
+
+Ilios: After all this... I still die... a commoner...
+
+Ilios: Tch... You think you can push me around just 'cause I'm a commoner? Damn... I can't take this anymore...
+
+Conomor: I pray you don't hold a grudge, but this is fate. Forgive me!
+
+Conomor: Ulster... shall... rise again...
+
+Conomor: Mm... I'll bear the shame of this defeat for the rest of my days... Every third thought shall be my grave...
+
+@End 
+Dryas: Well done, Prince Leif! You've weathered another difficult situation with finesse and wisdom. Our motherland of Leonster is but a stone's throw away. The people have been awaiting your return for many years now...
+Leif: Leonster... My kingdom...
+Dryas: Indeed. Your sovereign land. Ah, but I get ahead of myself... You were so young when we had to flee Leonster—it would be understandable if you do not remember her beauty.
+Leif: No, I remember Leonster's beauty—but most of all, I remember that night. As long as I live, I'll never forget it.
+Dryas: "That night?" What do you remember, milord?
+Leif: The night that Castle Leonster fell... The flames burned so brightly, I thought it was already sunrise. I remember just looking up at the sky from Finn's arms... At first, I didn't understand what was happening. But when I saw the look on Finn's face, I knew something terrible had happened, and I was filled with this... deep sorrow. It was the first time in my life I'd felt such a profound sadness...
+Dryas: I forced Finn into a tough role, I admit. But he was the only man for the job—the only man I could trust with your life. "As long as the prince is safe, the day will come when Leonster rises again." That's what I told him. And off he rode, clutching you to his chest, away from the flames consuming the castle...
+Leif: That was the last time I ever saw Finn cry. Ever since then, he hasn't shed a tear for anything... No, not just cry—it's like he forgot how to laugh, too...
+Dryas: He left a part of himself behind in Leonster. And he's not alone—we all left a piece of our souls behind when we fled the motherland...
+
+Leif: Truth be told, when the Knights of Ulster attacked from the rear, I thought...
+Dryas: The disorder in their vanguard is what saved us, frankly. But still, to see so many soldiers assembled so quickly... Count Conomor is indeed a splendid leader.
+Leif: Hm? Count Conomor?
+Dryas: Indeed. He's a brave general of Ulster, a man of honorable heart and unshakable loyalty. And as the saying goes, "There are no cowardly soldiers under a brave general."
+Leif: Then why is such a man serving the Empire? Does their tyranny not concern him?
+Dryas: It's most puzzling, but there must be something we're unaware of... Regardless, he isn't someone I'm eager to fight again.

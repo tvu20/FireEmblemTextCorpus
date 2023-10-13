@@ -1,0 +1,87 @@
+@Intro 
+August: Prince Leif, over here!
+Leif: August?! What are you doing here?
+August: Planning your rescue, but it seems that was unnecessary. Clearly, you're safe and sound, but... you look as if your mind is in great turmoil.
+Leif: I've never hated the Empire more than I do in this moment, August. They snatched my parents from this world, and now they've taken my mother from me all over again... Raydrik is little more than their hand, committing untold evil at their behest! Augustus, show me how to wage war against them! I'll... I'll do anything to get her back! Just tell me what I need to do!
+August: ...Lady Eyvel was turned to stone by some foul magic, you say? If that is indeed the case, you... must accept that she is gone, Prince Leif.
+Leif: Wh-What kind of talk is that?! Isn't there some way to undo what's happened to her?!
+August: Well... There is a sacred artifact, the Staff of Kia, that can reverse the process of petrification. Yet the enemy is one step ahead of us: long ago, Archbishop Manfroy of the Loptr Church placed a seal upon the staff that prevents anyone not of his bloodline from using it.
+Leif: Manfroy's bloodline... So then...
+August: This is mere rumor, but it is said that a hidden shrine to Loptous lies deep within the Aed Desert. Countless warriors who defied the Loptians and were turned to stone are kept within its forbidden halls. Amongst them, some say you can even find the young rebels who fell in the Battle of Belhalla so many years ago. If true, I imagine Lady Eyvel's petrified form would also be kept there as a trophy.
+Leif: That... That's nonsense! Utter nonsense!
+August: Is it? What you call "utter nonsense" is the state of our world! Do you doubt how much power the Loptr Church holds? Look around you! In the Thracian Peninsula alone, thousands—no, tens of thousands of children have been seized and sent to Belhalla! In places where the Church's influence runs strong, places like your native Munster, they possess near-total authority! Throughout Munster, you'll see nary a single child still free!
+Leif: Do parents feel nothing when their children are stolen from them?! Why aren't they fighting this?!
+August: Of course the people fight this—they resist however they can, not just in Munster but everywhere the Empire has dominion. But they're simple folk with no real weapons! They could never match the might of the Imperial Army, let alone the Loptr Church! Any who do try are arrested and executed—at best! The Cult's elite unit of sorcerers, the Schwarze Rosen, use methods that are the very definition of cruelty: they don't merely execute rebels, they burn everyone in their village at the stake! From all this, the men and women of Jugdral have lost their will to fight—they are little more than slaves now. Make no mistake: the Dark Age is upon us again.
+Leif: Is there no end to their heartlessness...?
+August: North Thracia was once defined by its clear skies and lush, verdant fields—but the land is now beset by dark clouds that blot out the sun. ...Prince Leif, your loyalty to Lady Eyvel is admirable, but a more important task stands before you. North Thracia needs a hero to rally behind, someone who will reinvigorate the people's will to fight and assemble them into an army. Call such heroism whatever you like—whether through bravery or ingenuity, you must rise above the obstacles before you. Prince Leif, you carry the blood of both the loyal Quan and the just maiden Ethlyn. Their strengths, their deeds, live on in you. Do you realize what that means? If the heir to House Leonster were to raise an army, all those in North Thracia who oppose the Empire would unite behind him. If such a thing were to occur, perhaps —just perhaps—the Empire and Loptians could be driven from Thracia.
+Leif: I refuse to abandon the Commander, but... I understand your reasoning, August. If I could become the rallying figure for the liberation of Thracia, if I could rebuild Leonster and lead its army to crush the Empire... It would be nothing short of what Finn and I have dreamed of for as long as I can remember. August, if you would join me as my tactician and advisor, there is no hardship I would be unwilling to endure! But... is defeating the Empire even possible?
+August: Yes, but leave the details for another time—for now, we must focus on our escape. Though I must say, Prince Leif, I am gladdened to hear such resolve from you.
+Leif: There's no shortage of soldiers emerging to pursue us... Is there any safe route out of here?
+August: Going through the eastern side-gate would be ideal, but that would require making our way through the castle town... If anyone is spotted by the enemy, they'll call for reinforcements, making our escape that much more difficult.
+Leif: Not be seen by the enemy? I'm not sure how to avoid that...
+Karin: If you want to avoid going through the town, I've got your back! Hermes an' I can fly everybody over the wall one by one—no chance of being seen that way!
+Leif: That'll get us out of here without a fight, but will you be all right, Karin?
+Karin: I can tell Hermes is willing to tough it out for everybody's sake. Normally, pegasi only let women so much as touch them—somethin' about men gets them spooked. Hermes is willing to give everyone a chance, though! He's a male pegasus, so he's plenty strong enough to carry me an' one extra!
+August: ...Then it seems we have a viable means of escape. The question now becomes whether we should chance visiting the castle town.
+
+@Battle 
+Man: Hey, you all right? I’ve heard the news. You’d better escape while you still can.
+
+Man: If we wait just a little longer, Master Ced should arrive to help us… That should make things easier.
+
+Galzus: I do apologize for this, Bishop. Looks like all I've done is weigh you down.
+Saias: Tell me something, Galzus. You said you work for Baron Raydrik, correct? So why this girl, of all people...? What is she to you?
+Galzus: ...Nobody.
+Saias: ...Whatever you say, Galzus. I admit, this is a bit much to handle on my lonesome, but I'll manage. May the fortunes of war be generous to you, my good man.
+
+Galzus: I barely recognized you, lass... Never expected to see that face of yours again.
+
+Ced: Good! Prince Leif is still safe!
+Magi: He'd better be, after all the trouble it took to find him...
+Ced: We must act as a decoy to ensure the prince's escape. Everyone, I'm... truly sorry to risk your safety like this, but Prince Leif must survive, no matter the cost. I humbly ask for your cooperation.
+Magi: As if you even have to ask! We're with you, Sir Ced!
+
+Ced: We're nearly at our limit... I'm ordering a retreat! It won't be long until the main body of the enemy's forces break away to engage us!
+
+Raydrik: So the esteemed sellsword Galzus finally graces us with his presence! What in blazes took you so long?
+Galzus: ...What you got for me?
+Raydrik: See those prisoners there? They're making their escape, and they've proven quite... resilient. Earn your keep, and use that sword-arm of yours to deal with them!
+Galzus: Hah! Those whelps are hardly worth worryin' about. I'll show you just how weak they are...
+
+@Visit 
+Old man: Yer the folk that helped me grandson Cliff, ain't ya? I'm mighty thankful that Sir Ced has friends like y'all to rely on. If anybody asks, ya didn't get this from me, but... I'd like ya to have this here Rapier. Don't be modest, now. Take it.
+
+Woman: The Magi helped me kid brother, Bowie, escape to another village. Y'all wouldn't know anythin' about that, wouldja...? Listen, I don't know how I can ever thank ya. Not a day'll go by when I don't remember yer kindness. But words are wind, right? Look, this here is a set of writings that's been handed down in me family fer as long as there've been stars in the sky. Folk who read 'em get some kinda strange power, but shoot, we can hardly read, anyhow! It'll help you more'n it'll ever help us.
+
+Man: Oh, I been waitin' fer ya! Bless you fer helpin' me little sis, Leena! ...Oh, I know! Take this! I found it tryin' to uproot a tree from me backyard... Gods know how long it's been buried there, but it looks like a page outta some history book or somethin'. I figure it's gotta be somethin' good, but there's no way I deserve it more'n y'all!
+
+Woman: Y-Yer the ones what saved me daughter, Emily! Oh, I gotta find some way to thank ya proper... Ah, I know! Take a look at this: it's a medal fer chivalry an' knightly valor. Been an heirloom in the family fer generations, but it can be replaced. My Emily sure can't be, though! I'd like y'all to have it. If you ain't worthy of this medal, nobody is.
+
+Hicks: Hey, I was waiting for you guys. I heard you saved Maphy, my son. Thanks to you, I was able to hide him in safe place, along with the other children. I’m Hicks, an Axe Knight of Munster. I was thinking it was about time to teach that Reidric a lesson. I’ll fight alongside you.
+
+Woman: Me little sis, Bella, told me yer the ones who helped her. Thanks be to ye! We're poorer'n dirt, so there ain't much I can give ye, but I do got somethin' I can part with. If it please ye, good folk, this here is a flask of Pure Water. There's enough in there fer ye to get a few uses outta it.
+
+@End 
+Soldier: Baron Raydrik, we regret to report that Prince Leif has made it clear of the castle. He's... escaped.
+Raydrik: And just what were you doing, you idiots?! We had them trapped like rats, and you still couldn't handle it?!
+Soldier: We... We offer our deepest apologies, sire! We're truly sorry!
+Raydrik: Your apologies are as empty as your brains! Clearly, this requires a man of greater intellect... Send for General Aizenau and his knights immediately! He is to lead his troops in pursuit of these upstart rebels. If they escape into Thracia proper, there's no end to the trouble they could cause...
+Soldier: At once, milord!
+Raydrik: Hold! What became of that girl... Mareeta, was it? I've not seen her since this fiasco started...
+Soldier: ...I'm aware of her fate, Baron Raydrik, but I... wished to inform you later, when you were in a better mood... Someone attacked the guards that were stationed, and made off with her. I... I cannot begin to express my apologies, sire!
+Raydrik: ...I swear, I've never encountered a group of adults more incapable of being useful... Do you buffoons even have a clue who this assailant was?!
+Soldier: There's no doubt they were quite skilled, based on what's left of the guards... But one of our own claims to have seen that sellsword, Galzus, near the site of the attack. Are you certain we can trust him?
+Raydrik: No... Galzus...?
+Soldier: What's more, another man is sure he's seen a Brand on Galzus's back: the mark of Od, to be specific. Though if that's true, it would mean he's part of the Isaachian royal family...
+Raydrik: Hmph. I'm already aware of his heritage. I'm not so foolish as to hire a sellsword without knowing everything about them. He is indeed Isaachian royalty—cousin to Prince Shannan, in fact. With the deaths of his kin, he's technically the prince of Ribaut, himself.
+Soldier: B-But Prince Shannan is one of the most influential rebel leaders! Are we to open this castle to a man who shares his blood?
+Raydrik: ...I can see I'll have to spell this out for you. Galzus's kin, the royal family of Ribaut, betrayed their home kingdom of Isaach and were killed for it. The man leading the troops that defeated them was none other than Shannan's grandfather, King Mananan. Since then, Galzus has endured nothing but hardship from a very young age. Do you honestly think such a man would ever help the likes of Shannan and his rebels?
+Soldier: I see your point...
+Raydrik: Ah... Then Galzus would have every reason to free that girl, wouldn't he? She bore the Brand of Od on her back as well... Heh, heh, heh...
+Soldier: Uh, sire?
+Raydrik: Mm, it's nothing you need concern yourself with. We can't do anything about the girl now, but as for Galzus? Our position is too vulnerable to risk losing him. Don't act against him unless I say otherwise.
+
+@Boss 
+Galzus: Fate must really have it out for you, makin' your path cross mine...
+
+Galzus: Hah! So this is it... You're a... real fascinating sort... I was even... able... to... see...

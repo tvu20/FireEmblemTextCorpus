@@ -1,0 +1,72 @@
+@Intro 
+Asbel: Sir Ced, d'you reckon the kids are safe?
+Ced: Think of it the way Raydrik would: would you send a convoy all the way to Belhalla with only three or four children? Or would you wait until you have plenty to show for yourself? There's still time, Asbel.
+Asbel: Then we can send 'em all back home! Their moms must be awful worried.
+Ced: Focus, Asbel. There's too many guards about to celebrate just yet.
+Asbel: Yessir.
+Ced: Listen closely: after you've rescued the children, I want you to rejoin Brighton and seek out Prince Leif of House Leonster.
+Asbel: C-Come again? Prince Leif?!
+Ced: Indeed. He fell prey to some trap of Raydrik's and was imprisoned in this very castle. ...Asbel, what's wrong? You're white as a sheet!
+Asbel: Lord Leif was a dear friend of mine, y'see. We got separated in Tarrah, years ago, an' I've been looking for him ever since. For three whole years, I've been searching...
+Ced: Then look alive—today is the day you've been waiting for. Find the prince, and escape Munster with him. I've ordered all Magi outside the castle to flee Manster as well. We'll be sitting ducks if we stay here much longer...
+Asbel: Are you coming with us?
+Ced: I... considered it, but I can't. There's many villagers and townsfolk left in Munster, and they need my aid just as much.
+Asbel: You've spent this whole time teachin' me, an' I can't even help you in return? Some apprentice I turned out to be...
+Ced: No, this is my choice, Asbel. It's no fault of yours. Besides, all I really taught you was that Grafcalibur spell. Do me proud, and use it to protect Prince Leif.
+Asbel: Sir Ced, will... will we see each other again?
+Ced: If Prince Leif is the hero we've been waiting for, then the long night is finally over, and Thracia will breathe free again. ...We will see each other again, Asbel. Right here in Munster.
+Asbel: Munster...? R-Right! Munster it is! Don't you forget it, Sir Ced!
+
+Girl: *Sniffle... sniffle...*
+Boy: C'mon, knock off the waterworks...
+Girl: B-B-But...! *Sniffle*
+Boy: Don't make them soldiers mad at us again. They'll just tell us to "Quit yer bellyachin'!" like last time...
+Girl: I don't care if they get mad! If I get caught cryin', an' they get angry... Maybe they'll jus' send me home... I jus' wanna go home...
+
+@Recruit-Talk 
+%Leif,Asbel
+Asbel: Lord Leif...! After all these years! It's me, Asbel!
+Leif: Asbel?! What in the world are you doing here? Why aren't you still in Tarrah?
+Asbel: I set off after you just as soon as we got separated! Lotta good that did... I couldn't figure out where you'd gone. For the last half-year now, I been stickin' around Munster.
+Leif: You left Tarrah that quickly?! Then... you've spent the last three years looking for me...
+Asbel: Of course I did! I promised you as much, remember? With your blade and my magic, we were gonna take Thracia back—together! But you just up an' left me behind! That... that was awful heartless of you, Leif. Er, Lord Leif.
+Leif: I'm sorry... At the time, I didn't have a choice. Tarrah had been surrounded by the Empire. I had... I had prepared myself for the very real possibility of dying. When I fled, I never imagined I would make it out alive. I didn't want to drag you down with me, so I left you out of it.
+Asbel: What a load of pegasus dung...! We swore to live and die together, didn't we? Or was that whole oath just part of some kids' game? I've spent all these years with those words etched into my mind—and I chose to believe in them.
+Leif: A-Asbel...
+Asbel: Lord Leif, if only for my sake, you have to liberate Thracia! Make it so that my years of searching meant something!
+
+@Battle-Talk 
+%Karin,Ced
+Karin: Lord Ced! Oh, Lord Ced, after all this time...
+Ced: Yes? Wait... Karin? Has something happened? Why have you left Silesse?
+Karin: To... To find you, my prince!
+Ced: To find me ...? Oh, for heaven's sake... Did Fee put you up to this? Or was it my mother?
+Karin: ...... Lord Ced, I have some... important news for you.
+Ced: Is that so? Well, let's hear it.
+Karin: W-Well, to tell the truth... Oh, gods... ......
+Ced: Karin, if you have something to tell me, speak quickly and to the point. This is no time for weakness.
+Karin: Y-You're right... I... I regret to inform you that Her Majesty the Queen has... she, um...
+Ced: Mother?! No, she can't have...!
+Karin: I'm... afraid so, milord. Two months ago...
+Ced: Mother is... My mother has... passed away...?
+Karin: Lord Ced... I'm sorry. You shouldn't have found out like this. Here, of all places...
+Ced: Does it matter? I was too late... Father... I wanted them to see each other one last time...
+Karin: Lord Ced, return to Silesse with me—please. Lady Fee is waiting for you.
+Ced: Fee... How is she? Is she all right?
+Karin: Silesse faces dire times, milord. Lady Fee can put up a tough front for the others, but when it's just me an' her, she... she cries till her eyes dry up. Lord Ced, with respect, you've done her a great cruelty, runnin' away like you did. Lady Fee isn't much more than a kid, and you've gone and forced the burden of ruling Silesse onto her. That holy blood in your veins has gone to your head! You're the heir to Forseti's legacy, good for you, but you up an' walked out on your mother and sister! Does that sound like what a hero would do? Does that even sound like what a real prince would do?!
+Ced: Karin, I... You're right, of course, but... But Father was the only one who could cure Mother's illness! I couldn't do her any good just waiting at her side! Was I supposed to just sit there and watch her waste away?! So I... I went to find Father, by whatever means I could.
+Karin: Then why are you leading some rebel group in Munster?!
+Ced: I heard tell that my father had been here in Munster until half a year ago. I came here to pick up the trail, but when I arrived, he had already left. But after seeing the it had gone cold. As I investigated, I discovered just how deeply the people of Munster suffered. I couldn't abandon them as my father had abandoned Silesse.
+Karin: Is that right...? I apologize, Lord Ced... I should've heard your side of the story before judging you...
+Ced: I'm sorry, Karin, but I need more time. If I can drive that menace Raydrik from Munster, I'll gladly return to Silesse. By my estimation, that should only take a half- year at most.
+Karin: ...You're fixin' to overthrow that creep, huh? Now that's a plan I can get behind! Count me in—I'll stay here with you!
+Ced: Heh. I'm flattered, Karin, but as your prince, I insist you head back to Silesse. I couldn't fight knowing you were endangering yourself.
+Karin: ...That's a diplomatic way of saying I would be a burden. But you're right: I would just slow you down. All right, I'll make my way back to Silesse—but only if you promise to come home yourself, Lord Ced.
+Ced: You have my word—and as proof of my vow, I bestow this upon you.
+Karin: Er, what is it? A used handkerchief?
+Ced: Hah! Would you believe this is an heirloom of the Silessian royal family? It's an ancient scroll, penned by my namesake—the crusader Ced himself. He imbued it with potent magic that strengthens whoever so much as holds it. I was... supposed to give it to my betrothed, actually. Instead, I entrust it to you, Karin.
+Karin: Are you really trusting me with something so valuable? I... This is most unexpected!
+Ced: Karin... I did wrong by my mother, and I'm sorry. I owe you much for helping Fee in my absence, and this is a token of my gratitude. I want you to have it.
+Karin: ...OK, but I'm only keeping it safe for you. You'll get it back the second you return to Silesse!
+Ced: Then the snowy banks of Silesse shall be witness to our next meeting. Be well, Karin.
+Karin: You said it! Gods be with you, Lord Ced!

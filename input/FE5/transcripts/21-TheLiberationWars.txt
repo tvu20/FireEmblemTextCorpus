@@ -1,0 +1,72 @@
+@Opening 
+By the time Leif had finished the last of the fighting in Leonster and departed for Ulster, the city had already fallen to the Isaachian Liberation Army led by Lord Seliph. However, the head of House Friege, King Bloom, had escaped to Conote. In the now-liberated Ulster, Leif finally met his cousin, a man who would be his friend and ally for the rest of his days: the "Scion of Light" and Lord of House Chalphy, Seliph...
+
+@Intro 
+Julia: Lord Seliph, we should head back soon...
+Seliph: Ah, Julia, are we out of time already? I wish we could keep talking, Prince Leif, but I must be going. Leave the conquest of Conote to us—I bid you go straight to Manster.
+Leif: I pray you forgive my selfishness, Lord Seliph.
+Seliph: Nonsense, you're not being selfish at all! I understand your feelings perfectly. You can head to Munster with a clean conscience—I'll see you soon.
+Leif: Yes, in Munster! You can count on it!
+Julia: I'll be praying for your health, Lord Leif... If your fortune begins to wane, perhaps one of your own clerics could appeal to the gods. I believe there's a church on your route... It was built to receive the prayers of the Ducal Family of Tarrah, as I recall...
+Leif: Thank you, Lady Julia. Just don't forget to take care of yourself, too.
+
+August: How went your meeting with Lord Seliph, my prince?
+Leif: He and I are only a year apart, but he's such an incredible man...
+August: Indeed. He commands an army ten times the size of ours, and he was able to lead them across the Aed Desert. He's certainly not your ordinary youth...
+Leif: But you said before that he was "made" into a hero, did you not?
+August: I did say that, yes—and in one sense, it's true. But I'm not discounting that Lord Seliph himself possesses outstanding talent. I suspect he'll eclipse the legend of his father, Lord Sigurd, by quite some measure.
+Leif: And meanwhile, I'm still just an embarrassment to Leonster...
+August: You've grown much over the past year, my prince—in another year, I expect you'll be the same caliber of man as Lord Seliph. Now, putting that aside, what did you and he agree would be the plans for our armies, going forward?
+Leif: Lord Seliph's main forces will go east along the shore to seize Conote, as planned.
+August: Which frees our army to head for Fort Danzig, correct?
+Leif: Indeed. Lord Seliph readily granted my request. Leaving Conote to Seliph means we can focus all our energy on seizing Munster—I want to head there as soon as possible.
+August: We'll have to claim Fort Danzig regardless—it controls the inland route to Munster.
+
+Diarmuid: The army stands ready, Prince Leif. We await your command.
+Leif: Then there's no time to lose! We storm Fort Danzig!
+
+Seimetol: Everybody remembers we fight for pay, right? So don't be a hero! Wait for the enemy to break up their forces, THEN swoop in! Until then, nobody leave their post!
+
+@Visit 
+Bishop: Ah... You're Duchess Linoan of Tarrah, are you not?
+Linoan: Hm? How do you know who I am?
+Bishop: I grew up with your father. He and I didn't know each other particularly well, but I was also good friends with your late mother. I nearly mistook you for her when you walked in—the resemblance is uncanny.
+Linoan: Oh... Is that so...?
+Bishop: Oh, heavens! I didn't mean to upset you. Er... I take it you're with Prince Leif? I saw you fighting together outside.
+Linoan: I am with the Liberation Army, yes.
+Bishop: Mm... It seems the blood of the crusaders is drawn to conflict...
+Linoan: Blood of the crusaders? You don't mean... I have holy blood?
+Bishop: Eh? Your father didn't tell you? The Ducal House of Tarrah is descended from Saint Heim, the first of the Grannvale kings.
+Linoan: I have... the blood of Saint Heim...?
+Bishop: You mean to say you never realized you bore the power of Naga herself...? Follow me. I can awaken the holy blood that lay dormant in your veins.
+Linoan: Very well.
+
+Bishop: The fighting will only become more intense as you draw closer to the Imperial base to the east. Keep hold of this Pure Water. I'm sure it will come in handy.
+
+@Boss 
+Fraus: On my honor as a soldier, I'll defend this fort to the end!
+
+Fraus: Ugh... I regret... I... couldn't...
+
+Fraus: So I... made it out alive? But what am I going to do now...?
+
+Seimetol: Soldiers of Leonster! Prepare yourselves!
+
+Seimetol: Your Majesty... I'm sorry... I... couldn't...
+
+Seimetol: How am I ever gonna make it up to His Majesty...?
+
+@End 
+^start 
+Leif: August! This can't be an ordinary fort—there are too many guards for that!
+August: By the look of it, this place is being used as a prison camp. The enemy has likely started executing prisoners because of our attack.
+Leif: What?! Then there's not a moment to lose! We have to rescue the prisoners!
+August: Our forces are already exhausting themselves, Prince Leif. Besides, we have intelligence that a battalion of Loptian mages are en route. Please, we need to withdraw while we can!
+Leif: No, August! I won't! I'll not abandon my comrades-in-arms to the enemy's clutches! I'll free them alone if I have to!
+August: *Sigh* I suppose this is unavoidable... At least limit yourself to a small handful of troops, and let the others rest.
+
+Leif: Anything of import inside the fort, August?
+August: Hmm... The fort is completely vacant. Seems to be deserted. By the look of it, this place was once a prison camp, but it's not in use anymore.
+Leif: I see. Then if there's nothing requiring our attention, we should hurry ahead to the River Thracia. Once we cross it, we'll be at Munster's doorstep.
+August: Hah... Easier said than done, my prince. I've no doubt the enemy is waiting for us—they likely have established a defensive line at the river. We still have some way to go before our goal. See that you don't let your guard down.
+^end

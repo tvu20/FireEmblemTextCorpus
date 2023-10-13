@@ -61,6 +61,16 @@ const Inputs = () => {
           </a>{" "}
           - compiled by reddit user Skelezomperman
         </li>
+        <li>
+          <a
+            href="https://gamefaqs.gamespot.com/snes/577344-fire-emblem-thracia-776/faqs/43230"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            FE5 transcript
+          </a>{" "}
+          (used for comparison)
+        </li>
       </ul>
       <h3>Notes about transcripts</h3>
       <ul>

@@ -1,0 +1,139 @@
+@Intro 
+Perne: Something's fishy... What's goin' on outside?
+Troude: Bad news, Perne. Somebody's broken into the manor. Soldiers, by the look of it.
+Perne: Imperial guardsmen, maybe...? Damn... What's happened to Salem?
+Troude: Didn't see him. He might be dead... I'll go check it out. Wait here.
+Tina: Ya look more uptight than my sister after a week of fasting! Has... Has somethin' happened?
+Perne: The Imperial Army's come to bring the hammer down on us, that's what. Argh, a pox on 'em all! Those entitled louts...
+Tina: Th-The Empire's here...?
+Perne: You got an awful funny look on your face, kiddo. Don't tell me you were thinkin' of runnin' off while the army's got us busy! Don't be stupid, young'un. I'd never let such a useful little moppet just slip away!
+Tina: B-But why...? Why you gotta be so cruel to me all the time? L-Look, I wasn't thinkin' anything funny!
+Perne: Nuh-uh, you ain't gettin' off that easy. If you keep gettin' stupid ideas about runnin' away, I won't hesitate to punish you again. You got that?
+Tina: Eeek! No, no, not another punishment! I'm sorry! I'll be good, I promise!
+Perne: Well, we'll just see about that, won't we? Now be a good girl and go help Troude with that Thief staff of yours. Get a move on, runt!
+
+Salem: Perne is a reasonable man. If I can just talk to him, I'm sure I can make him understand the situation.
+Leif: Are you... offering to help us, Salem?
+Salem: Truth be told, I haven't made up my mind yet. But we've more pressing concerns at present, do we not?
+
+Leif: Is something amiss, Lifis? You look terribly pale.
+Lifis: Ergh... Look, Prince, here's the thing... If it's all the same to you, can I just sit this one out? Can't somebody else fill in for me?
+August: ...You wouldn't happen to be acquainted with these bandits, would you? You mentioned you lived near here when you were a child.
+Lifis: Heh, well, about that... There's just this one guy that I, uh, don't get along with too well. If he's here... Look, just leave me out of this one, OK? Pretty please?
+August: Is that it? Bah, what a petty reason... Report to the front lines at once!
+Lifis: C'mon, don't make me beg! Just this once? Please? Pretty please with sugar on top?
+August: The prince has spoken! You have your orders!
+
+Lara: Um, excuse me...
+Leif: Lara? What's wrong?
+Lara: The bandit leader, Perne, he's... he's not a bad person, you know.
+Leif: Hm? Do you know him, Lara?
+Lara: Yeah, I... I do. Up until a year ago, I was a dancer in a traveling troupe of performers. They treated me like dirt, but there wasn't anything I could do about it because I... because I was their property. I'd been sold to them as a child. Perne rescued me from that, an' set me free.
+Leif: And from there, you became a thief... Is that about right?
+Lara: That's about the whole of it, yeah. Lord Leif, please, you've got to let me talk to him. I just... I just need to see Perne, an' talk this whole thing out!
+
+@Recruit-Talk 
+%Salem,Perne
+Salem: That's enough, Perne! No more violence!
+Perne: Salem?! The hell you doin' fightin' with the enemy? What, have you sold us out already? How much is the Empire payin' you for this?
+Salem: You've got it all wrong, you idiot! These people aren't with the Empire! This is Prince Leif's Liberation Army, and they're no enemy of ours!
+Perne: "Liberation Army"? Never heard of 'em. Who are they?
+Salem: They're people who share our value of independence, and that should be all you need to know! I can explain the rest later, but for now, you have to lower your sword!
+Perne: Hmm... Clearly, there's a bigger picture here I'm not seein'. You just want us to stop fightin' and hash this thing out peaceful-like, right? ...Well, if this is comin' from YOU, I expect you've thought through all the angles already. Oh, Salem, that's no fair! You know I've got a soft spot for you! All right, all right, we'll do things your way.
+Salem: Good. Thank you, Perne. But Troude is still fighting. We both know he'll only stop if he hears it from you directly.
+Perne: Hah! Stubborn as a mule, that one—but he's one of my best men. I'll go talk to him before he gets himself killed.
+
+%Lifis,Perne
+Lifis: Ah, hell... Not good!
+Perne: What in the...? Lifis, is that you? You old dog! How long's it been?
+Lifis: Y-Yeah, uh, I've been gone a while... Er, Perne... sir...
+Perne: Hah! You haven't changed a bit, kiddo! You at least learn to stop wetting the bed, junior?
+Lifis: H-Hey, gimme some credit, wouldja? Let's not talk too much about ancient history!
+Perne: Really? Cuz I remember you bein' the biggest crybaby in the village, an' we're just talkin' here, right? Not gonna cry about it, are you? Ah, seems like it was just yesterday that all the kids would chase you 'round the village an' beat you somethin' fierce... But you're all grown-up now, an' you're not gonna start cryin' about it, right?
+Lifis: ...You were always the ringleader. Every time, you were the one that started it, Perne...
+Perne: Hm? You say somethin', kiddo?
+Lifis: N-No, nothing. Nothing at all...
+Perne: Oh, that's right, you joined up with this "Liberation Army," right? Been hearin' rumors about 'em. Looks like they keep you pretty busy, huh? Seems mighty interestin'. Well, Li'l Lifis, looks like it's your lucky day! I'm in the mood to join up with 'em an' keep an eye on you. Where's your leader at?
+Lifis: What?!
+Perne: Hey, you got a problem with that?! I'm all ears, Li'l Lifis!
+Lifis: ...No, there's no problem...
+Perne: It'll be just like the old days! You'll see!
+Lifis: Ugh... It's happening all over again... I'm stuck with the bumpkin born from Loptous' own bosom...
+Perne: Hey, you feelin' OK there, little buddy? You're lookin' pretty pale.
+Lifis: Huh? Oh, uh, I am? Uh, I must've... caught a cold. Just now. Yeah, that's it! A cold. Ahahaha...
+Perne: Huh...?
+Lifis: Oh, Perne? While you're in such a generous mood, could you do something about that mercenary? He's givin' my people trouble.
+Perne: Hm? Oh, you mean Trude? Leave it to me! Trude is one of my best men. I'll talk to him before he gets himself killed.
+
+%Lara,Perne
+Lara: Perne!
+Perne: Yeah? Huh...? Lara? Is that you? What're you doing here? Wait, don't tell me! You just missed me so much you couldn't help but come runnin' back into my arms, right?
+Lara: Er... Would it make you happy if I actually said that?
+Perne: H-Hey, what's got you so serious? Yer face is all scrunched up like ya just swallowed a whole lemon. C'mon, now. Get real. What would I want with some little kid runnin' around me, gettin' all up in my business? Turn 'round and get yerself back to Munster, kiddo.
+Lara: So that's it then, huh? You're shooing me away like a stray dog, just like before... I at least thought you liked it when I danced. I still remember you comin' to see me perform, watchin' me like I was the only thing in the world...
+Perne: W-Well, yeah, but that was before I realized you were just a kid. *Sigh* Look, if it means that much to ya... Yeah, I did like watchin' you dance. An' it was more'n, like, attraction or whatever. It just made me feel... alive. Like... I was invigorated, y'know? But ya hated it, right? So it's for the best that you quit.
+Lara: Y-Yeah... Well, I didn't hate dancing, I just hated the way that troupe treated me, is all. So... If you want me to, Perne, I can go back to doin' it for you.
+Perne: Look, don't be stupid...
+Lara: Not JUST for you, I mean! For everybody! Maybe I could make everyone feel a little bit more lively with my dancing...
+Perne: Huh? Who's "everybody"?
+Lara: Prince Leif an' the whole North Thracian Liberation Army! That's who I'm here with, y'know! Not that I'm much help, myself...
+Perne: Oh-ho! So that's what got all this ruckus started, huh? All right, Lara, I'll tell ya what: you go back to dancin', an' I'll come along with you an' the Liberation Army.
+Lara: R-Really, Perne?! All right, it's a deal!
+Perne: Good! I wasn't keen on holin' up in Dakia Forest an' robbin' people forever, anyhow. Liberating North Thracia, huh...? Oh, this is gonna be SO much fun!
+
+%Perne,Troude
+Perne: Hey, Troude, sheathe your sword! There's no need to fight anymore.
+Troude: Huh? But... why? What's goin' on?
+Perne: These folks are with the Liberation Army, an' I'm throwin' my lot in with 'em. You're more'n welcome to come along, if it suits you.
+Troude: Ah, I get it... So THESE folks are the liberators I've been hearin' so much about. I thought their morale was too high fer them to be Imperial troops. So yer joinin' up with 'em, huh? Looks fun enough, I s'pose. Why don't I come with you? We men of the Dandelion gotta stick together, right?
+Perne: Hey, that's the spirit! I tell ya, you've had my back for so long, I'd hate for things to go south now. I'll be countin' on ya now more than ever, Troude. You'd better be up for it!
+Troude: Hah! "Let the die be cast," as they say. Leave everything to me!
+
+%Safy,Tina
+Safy: Tina?! Wh-What in blazes are you doing here?
+Tina: Oh, Big Sis! *Sniffle, whimper*
+Safy: Tina, dear, why the tears? What's happened to you? Start from the beginning. Why did you leave Tarrah?
+Tina: I w-wanted to help you! *Sniffle* Just thinkin' of you out there, all on your lonesome... Well, I just couldn't stand the thought of it! So I left the city! But then that big bully Perne caught hold of me! He's a thief, an' he's been treatin' me as his personal slave to help him steal more stuff!
+Safy: A slave?! Th-That can't be! Who would do such a thing? ...Tina, what exactly did he make you do?
+Tina: Steal things for him, mostly... With my Thief and Unlock staves, you know? He said those were what made me useful...
+Safy: W-Well, couldn't you just refuse? Surely he'd listen to the objections of a little girl scarcely old enough to lift a broom... Wouldn't he?
+Tina: You don't understand! If I said no, he'd do awful, horrible, terrible things to me!
+Safy: H-He would?!
+Tina: Uh-huh...
+Safy: Tina, please, you must tell me what he did to you! Gods give me strength... I've steeled myself for whatever wickedness it is!
+Tina: *Sniffle, whimper* H-He... He'd take a big, hairy caterpillar and wave it in front of my face! Or even drop it on top of my head! It was so gross and icky... I thought I'd die right then and there!
+Safy: …Is that all?
+Tina: Uh-huh... Oh, Big Sis, it was so awful! I'm gettin' shivers just tellin' you about it now!
+Safy: *Sigh* Oh, Tina...
+Tina: Yeah?
+Safy: ...It's nothing. Listen, I told you to wait in Tarrah until I returned. Promise me you'll do as I say from now on, all right?
+Tina: Yeah, of course! I'm sorry, Big Sis. Say, I saw that Lord Leif fella fightin' earlier... He's awful cute, isn't he? Aw, somebody like him would be my dream guy! Hmm... But he couldn't just have good looks, he'd have to be a prince, too... What do you think, Big Sis?
+Safy: Tina... I... I'm a little worn-out right now. Let's... talk about this later, all right?
+Tina: Okie-dokie, Big Sis!
+
+@Recruit-Battle 
+Perne: You idiots got any idea who you're dealin' with? I'm not just any bandit, you know—I'm Perne, premier purloiner of priceless property!
+
+Perne: Ugh... It's been... quite the ride...
+
+Perne: What, you think ol' Pilferin' Perne owes you one? Bite me!
+
+Troude: That's it, you're dead!
+
+Troude: Tch... Was I... not good enough?
+
+Troude: Next time I see you, you're dead meat!
+
+Tina: Oh, Big Sis... If you're out there, I could use your help right about now...!
+
+Tina: B-Big Sis... I'm... sorry...
+
+Tina: Th-Thank you for saving me! I'm off to find my Big Sis, Safy, now.
+
+@End 
+Dryas: Dawn is breaking, and this battle has allowed the rest of the men a much-needed breather. We must make haste to Tarrah!
+
+Perne: Well, I'll be damned! You actually got the better of ol' Troude, eh? Listen, cut him loose. Troude's had my back for a long time, now. No question in my mind he'll come along an' help the Liberation Army, too.
+
+Leif: Well, Perne proved to be a thoughtful man—and a friend of the Liberation Army as well.
+Lifis: Prince, you've got no idea who that snake really is... Ah, dammit all...

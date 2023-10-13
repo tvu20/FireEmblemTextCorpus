@@ -1,0 +1,137 @@
+@Opening 
+His mind consumed by regret, Leif managed to escape Munster. He was joined by several members of the Magi, who pledged themselves to his service. Yet there was no time to celebrate: an enormous price had been placed on Leif's head, and countless bounty hunters were determined to claim it. What's more, the Knights of Munster had doggedly pursued Leif, and their forces were growing dangerously close...
+
+@Intro 
+August: Prince Leif, the Knights of Munster will catch up with us before long.
+Leif: What should I do?
+August: There are two options: first, you could flee through the mountain range to the west, and lose the knights in the rocky terrain. Second, you could continue south and seek refuge in Castle Meath. In either case, it will be necessary to petition Thracia for aid immediately.
+Leif: A-Ask Thracia for aid?! That's absurd! Those damnable cowards took everything from me: my kingdom, my mother, my father... I'll not come crawling to them with cup in hand!
+August: Do you expect to fight off the Knights of Munster with the strength of your pride alone? We are not fighting to satisfy your own sense of vengeance, my prince—we fight to liberate North Thracia from the tyranny of the Empire. You yourself said that there was "no hardship you would be unwilling to endure" to accomplish this. Did you think the only kind of hardship in this war would be from battle?
+Leif: ...Even supposing I did agree, what makes you think we can trust Thracia? They're allies of the Empire!
+August: And if foreign invaders amass at their borders, they'll respond with force all the same. I imagine the retaliation from General Hannibal of Meath would be especially great. He's a famed military leader that the people revere as the "Shield of Thracia." Between us and Raydrik's men, who do you think he would help?
+Leif: ...I understand. We'll take refuge in Castle Meath, and head for Tarrah afterward.
+August: You want to make for Tarrah...? As in, the city refusing to take part in child hunts? The same city being besieged by the Imperial Army for their rebellion? Going there with the small force we have now is certain death. Does my prince wish an early grave?
+Leif: Tarrah is... my home away from home, you could say. The Duke of Tarrah sheltered me for years and was killed by the Empire for it. I have many friends there, August. I won't abandon them now!
+August: ...Very well, but let's discuss this later. Right now, focus on our escape!
+
+@Battle 
+Shiva: ...What's all the ruckus?
+Mercenary: Couple rebels in Munster kicked the hornet's nest. I hear the ringleader is a young'un named Leif, a Leonster prince with a price on 'is head to match. The boy's got stones, all right. Almost seems like a shame to kill 'im, but coin is coin. He's comin' our way already—haven't had a bounty this convenient in a long while.
+Shiva: Hmm...
+
+Soldier: Welcome back, General Hannibal.
+Hannibal: I see our dungeon is considerably more full than when I departed. What, pray tell, happened while I was away?
+Soldier: A group of suspicious characters were making their way down the mountains near here, so we saw fit to arrest them. I reckon they're bandits from the eastern frontier.
+Hannibal: Hmm... What have they to say for themselves?
+Soldier: "We're just villagers!" and other obvious tripe. What kind of villagers trek through the Thracian mountains? They must be up to something—otherwise, why lie?
+Hannibal: Understood. I'll go have a word with the prisoners myself. In the meantime, there's some sort of commotion over in Munster. Raydrik may be up to something... Let's not give the Twofold Traitor any openings, eh?
+Soldier: Hah! Of course, milord.
+
+Soldier: "We're just villagers!" and other obvious tripe. What kind of villagers trek through the Thracian mountains? They must be up to something—otherwise, why lie? What's more, we saw what looked like a knight among them, but the man escaped. We've assembled search parties to find him.
+Hannibal: Understood. I'll go have a word with the prisoners myself. In the meantime, there's some sort of commotion over in Munster. Raydrik may be up to something... Let's not give the Twofold Traitor any openings, eh?
+Soldier: Hah! Of course, milord.
+Finn: I must reach Lord Leif at once... Ah, I pray that he's still safe...
+
+Finn: I cannot allow myself to be delayed any longer. Sister, please make your way back to Tarrah.
+Safy: Am I that much of a burden to you, Sir Finn?
+Finn: Not at all. Your presence has been most heartening—but where I go, I'm not certain I could protect you.
+Safy: When I left Tarrah, I swore to Saint Heim that, for those willing to defend the city, there was nothing I wouldn't do. If I can help Lord Leif—and in so doing, help Tarrah—then I must. We are both bound by duty, Sir Finn. Allow me to uphold my own oath.
+Finn: ...I understand, Sister. Let's get moving before we lose any more daylight.
+
+Raydrik: The rebels have a head start, but they're only on foot. Aizenau, chase them down with your knights and eliminate them. Don't allow them to set even one foot on Castle Meath's soil.
+Aizenau: Aye, milord, but... Thracia is our sworn ally. Why would the rebels head to Castle Meath?
+Raydrik: Oh, please... Thracia and the Empire can mix no better than oil and water. We may be allies, but we're certainly not friends. If the rebels have any sense, they'll use that to their advantage.
+Aizenau: Ah... I see.
+Raydrik: Perhaps I'm overestimating them, but I'll not be made a fool of twice. Still, we can't overplay our hand: Hannibal's elite knights, the Panzerritter, lie in wait inside the castle. Attacking them would be tantamount to a declaration of war. If they take the field, you must not lay a hand on them, no matter what!
+Aizenau: Aye, milord!
+
+Hannibal: The Knights of Munster dare to cross the border?! Raydrik, do you hold me in such contempt as to attack so brazenly?! Men of the Panzerritter, sortie and engage the knights! We'll show them the wrath of Meath!
+
+Raydrik: H-Hannibal himself has taken the field?! Of all the times for that doddering fool to show his face... All knights, fall back! Retreat to Munster!
+
+@Battle-Talk 
+%Leif,Finn
+Finn: Lord Leif! You're all right!
+Leif: I'm sorry to have worried you, Finn.
+Finn: Worried? Of... Of course not! I never doubted you'd be able to keep yourself safe. I just... didn't expect we'd meet again so soon.
+Leif: You can thank the Magi for that.
+Finn: Magi...? I assumed your retinue to be made up of common sellswords and former knights... Who are they, then?
+Leif: They're a group of rebels from up north. They've pledged to serve me until the day that Munster stands free.
+Finn: Their loyalty to you is most important above all. If they've promised you as much, their personal details are none of my concern. Though now that I get a look at everyone... I don't see Eyvel among them. Milord, is she...?
+Leif: The Commander is still in Munster... She... She was turned to stone by the fell magic of a Loptian bishop. There's... nothing I can do for her now...
+Finn: Gods' breath! Th-That can't be...! Lord Leif... I'm sorry. I... I don't know what to say...
+Leif: You've nothing to apologize for, Finn. As for the Commander... Nothing will stop me from getting her back. Between the two of us, we're sure to find a way to reverse what's been done to her! So, Finn... I'm giving you an order: don't die. I want you there with me, head held high, on the day we take back Munster!
+Finn: Gladly, milord! On my honor, never again shall you and I be parted! I'll be at your side, Brave Lance in hand, until the very end!
+Leif: Thank you, Finn... ...Ahem. Now, where has the rest of our former group gone?
+Finn: They were captured by General Hannibal's Panzerritter, and imprisoned in Castle Meath. I... considered rescuing them, but my duty to you comes first, so I set out without them.
+Leif: Then our road leads to Meath regardless. Very well... Finn, let's head for the castle and see to their release. With our forces bolstered, we can make our way to Tahra. ...You've missed the city as well, haven't you? I can tell.
+Finn: Ah... I have, milord.
+
+@Recruit-Talk 
+%Safy,Shiva
+Safy: Hm? Oh, you're...
+Shiva: Ah, Sister... It's been a while.
+Safy: Why are you doing this? I know you're not a bad person.
+Shiva: This is the job. I'm a sellsword—and frankly, the details are no business of yours. ...Time for you to leave, Sister. I'm trouble to be around.
+Safy: I'm not going anywhere.
+Shiva: ...You really willing to risk everything for that little boy?
+Safy: If it came to that, I would give my life to protect Prince Leif, yes.
+Shiva: ……
+Safy: Losing Prince Leif, losing what he represents, would be an irreplaceable loss to the entire Thracian Peninsula. If I needed to give my life to save his, it would only be right to do so.
+Shiva: Hmph... You're quite the fool, Sister. ...Well, all the better. I can appreciate that kind of naïve innocence.
+Safy: Hm? Will you... agree to aid the prince, then?
+Shiva: Ah, this is getting absurd... But yes, I suppose I will. Just one thing: don't talk so lightly about throwing your life away. There's nothing more loathsome than people rushing toward their own death.
+Safy: I apologize... I'll be mindful of that.
+Shiva: Can I ask you something, though? What is it that YOU want? What is it that brightens your day, that brings you laughter?
+Safy: I suppose that I want to see everyone around me be happy. When they laugh, when they feel joy, I share in it.
+Shiva: I see... Well, I already said you were quite the fool. ...You know, I don't think I even know your name. I'm Shiva of Savan, by the way. What do you go by?
+Safy: Safy. I'm Safy of Tarrah.
+
+@Visit 
+Man: You’re going to Tarrah? Then take this antidote. If you ever get hit by poison, just rub this on the wound and it’ll go away just like that. I’ve heard the rogues in the west use poisoned weapons. You’ll be glad you took this antidote along.
+
+Man: P-Please, I just couldn’t resist…don’t take me away… Huh? You’re not the castle guards? Oh… Just forget what I said, then. Here, I’ll give you this to keep your mouth shut.
+
+Old woman: If you have the time, why don’t you visit the arena to the south? If you fight and win, you’ll get rewarded with cash, and it’s a good way to test your skills. Oh, but you’ll die if you lose, so don’t get carried away. You must never overdo anything. If you do decide to go, then take this. I’m sure it’ll be of some use.
+
+@Boss 
+Aizenau: You stubborn idiots think you can defeat me?
+
+Aizenau: What madness... I can't... believe... they...
+
+@End 
+Hannibal: Clearly, your group wanted to flee Munster, but I would hear your reasons.
+Leif: Most of us lived in a village on the eastern shore. I was... captured while freeing several children from an Imperial prison. The Magi, the local resistance, later rescued me, and we fled the province together.
+Hannibal: Hmm... For one so young, you don't seem to bend easily. What's your name, lad?
+Leif: Lugh Faris, at your service, General Hannibal.
+Hannibal: Hmm... You share... quite the resemblance...
+Leif: Resemblance? What do you mean, General...?
+Hannibal: It's... nothing you need concern yourself with. More importantly, what do you plan to do now that you're free of Munster?
+Leif: We'll head to Tarrah to break the siege on the city. I've many friends there in need of help.
+Hannibal: Are you planning a route through the central mountains?
+Leif: That was my intent, yes. As rebels, we obviously can't risk crossing through Imperial territory.
+Hannibal: Is that so? Then be warned: many bandits make their home there. Don't let your guard down.
+
+Leif: Thank you, General. Now, would you release the men you captured earlier? They're good friends of mine.
+Hannibal: Ah, of course. Men, bring the prisoners here, on the double!
+Soldier: Yes, General!
+
+Halvan: Prince Leif! Sheesh, some help I turned out to be, huh? Might as well have stayed in Fiana, for all the good I did...
+Osian: Damned Thracians! Next time I see you, you'll pay for what you've done!
+Ronan: I'm awful sorry, Prince Leif... I guess I'm just not very strong...
+
+Hannibal: Good folk, let me introduce you to Carrion. There are many perils in the central mountains—not the least of which is a massive hunt for bandits around Mount Violdrake. If you're mistaken for these bandits, you could very well lose your lives over it. Carrion here will see that you cross the mountains safely.
+Carrion: Of course, sire. They can count on me!
+Leif: General, there's no need to reassign your man. We don't need to go as far into the mountains as Mount Violdrake. I'm sure there's a detour we can find—
+Carrion: Nonsense! I'd be honored to join you!
+Leif: ...If you insist, I certainly would appreciate your help.
+Carrion: Think nothing of it!
+Hannibal: Sir Lugh, you'd best be setting out. It'll be dark before long.
+Leif: Of course. Many thanks for your help, General Hannibal. I won't forget the kindness you've done us!
+
+Coirpre: Good day, sir!
+Leif: Oh, you were one of the children imprisoned at Kelves' Gate... What are you doing here?
+Coirpre: General Hannibal is my lord father, you see. On the off chance we met again, I prepared you a token of my gratitude. Here you are. It's a very powerful staff imbued with Warp magic.
+Leif: Thank you! This is most generous...!
+Hannibal: Sir Lugh, you'd best be setting out. It'll be dark before long.
+Leif: Of course. Many thanks for your help, General Hannibal. I won't forget the kindness you've done us!

@@ -1,0 +1,114 @@
+@Opening 
+Heeding August's advice, Leif approached Leonster from the south. However, this meant crossing through Millefeuille—the so-called "Mirage Forest." Leif would soon learn first-hand how the area earned such an infamous nickname, and why people went out of their way to avoid it...
+
+@Intro 
+Dorias: This is the great forest of Millefeuille, a sprawling woodland deserving of the name "Mirage Forest."
+Leif: Mirage Forest... So, how do we proceed from here?
+Dorias: If we can make it to the forest's northeast edge, Castle Leonster will be but a stone's throw away. But I suggest we bring up the rear, so as to better keep an eye on the troops and ensure we don't lose anyone along the way.
+Leif: Understood. Tell everyone to exercise extreme caution, and not let their guard down for even a moment. Now, let's get this over with. Forward march!
+
+Soldier: Is something amiss, Bishop Rinecok?
+Rinecok: Eheheheh... Gaze into the crystal ball and have a look for yourself. Seems some fresh prey has wandered here.
+Soldier: Armed men...? Doubtless it's Count Conomor of Alster, trying to rescue his precious Princess Miranda.
+Rinecok: Bah, not even Conomor is that foolish. No, it's probably the meager remnants of Leonster, trying to recapture their castle.
+Soldier: Ah, they must have chosen to go through the forest to avoid our defenses on the western front... What a colossal blunder.
+Rinecok: It's quite the boon for us, really. Now we have something to kill time with. Gather every free hand and take up positions.
+Soldier: At once, Bishop. But what will you be doing, sir?
+Rinecok: Hah! I'll be taking the opportunity to... test this.
+Soldier: Ah, that's the Berserk staff! This should be most interesting...
+Rinecok: Eheheheh...
+Sara: Having fun, Rinecok?
+Rinecok: Lady Sara?! A little girl like you shouldn't be out here. Please, return to your chambers.
+Sara: ...But that's boring. What's Grandfather doing?
+Rinecok: Archbishop Manfroy is in Conote with His Highness Prince Julius. I believe he should be returning soon...
+Sara: Ooh, if I'd known this was going to be so boring, I wouldn't have come...
+
+@Battle 
+Sara: Huh...? Wh-Who is...
+Rinecok: Lady Sarah? Is there something wrong?
+Sara: No... It's nothing. Rinecok, can I take a walk for a little while?
+Rinecok: Ah... It's much too dangerous outside, Lady Sarah. Please, milady, just... just do as I say.
+
+@Recruit-Talk 
+%Leif,Sara 
+Leif: Huh? A little girl? Here, in this treacherous forest...?
+Sara: ……
+Leif: Who are you? Are you all by yourself?
+Sara: Hmm... So it's you.
+Leif: Come again? What are you talking about?
+Sara: Aah... You're perfect, just like I expected. I'll help you.
+Leif: Oh, this is... quite the nuisance. August, Dorias, where have you two gone? I could use your advice right about now...
+Sara: I'm Sara. I know everything about you. I know you're Prince Leif of House Leonster, son of Quan. And I know your mother was a pretty lady named Ethlyn, but she's dead, isn't that right?
+Leif: Gah...!
+Sara: Don't look so afraid. My Mama and Papa are dead, too. Mama died when I was little, and Papa... Grandfather got angry at Papa for falling in love with Mama, and killed him. It happened before I was born.
+Leif: ……
+Sara: It was you that was calling out to me, so I came to help. ...But if I'm just a nuisance, you can make do without me!
+Leif: Wait! Please! I... I don't completely understand what's happening here, but I feel our meeting is very important. I want to know more about you. Will you come with us?
+Sara: Uh-huh, I'm fine with that. You know, I really like your voice.
+Leif: Um... Thank you, Sara.
+
+@Battle-Talk 
+%Salem,Sara
+Salem: Lady Sara?! What are you doing in a place like this?
+Sara: Who are you? I don’t know you.
+Salem: Ah, of course... You see, I was a bishop of Loptous once, but the granddaughter of the Archbishop would have no reason to know me.
+Sara: Hmm... I see... Well, just get out of my way. I'm looking for the voice of your master. I must find it...
+Salem: The voice of my master...?
+Sara: It's such a beautiful voice... And it's calling out to me for help...
+Salem: Uh... I-Is that so...? Wait. If you're Sara, granddaughter of Archbishop Manfroy, then you can use the Staff of Kaia... That's it!
+Sara: Mm... Bye-bye, Salem.
+
+@Recruit-Talk
+%Homer,Shannam
+Homer: Well, well, look who it is. It's been a while, Shannam.
+Shannam: Grk...!
+Homer: So this time you're a stooge for the Loptians, huh? Guess you don't discriminate when it comes to employers.
+Shannam: H-Hey... I don't like doing this, you know! Look, I'm out of coin... I don't have a choice!
+Homer: Uh-huh. Well, suit yourself. It doesn't make any difference to me what you do.
+Shannam: Hey, wait, where're you going? You can't just leave me here! You gotta help me out! I mean, we're friends, right?
+Homer: Like I said, it makes no difference to me what you do. If you want to tag along, it's no skin off my back.
+Shannam: Really? Wow! I owe you one... Thanks a bunch.
+Homer: You're not like the real prince at all. Ugh...
+
+@Boss 
+Rinecok: You trespass upon land belonging to Loptous himself! Fools...!
+
+Rinecok: O Lord... I beg for your... divine... intervention...
+
+Rinecok: I've nothing to say to you...
+
+@Recruit-Battle 
+Shannam: H-Hey, wait! Let's talk about this...
+
+Shannam: Ngh... What a stupid way... to...
+
+Shannam: You have my thanks—for now. Hah...
+
+Sara: What are you doing? Do you... not like me?
+
+Sara: I feel so... alone...
+
+Sara: That was... boring.
+
+@End 
+August: Somehow, we managed to escape... But to think there was a Loptian monastery in a place like this... This entire battle was born of my negligence. The failure is mine...
+Leif: Don't let it weigh too heavily on you. You're not all-knowing, after all. Still, this place has certainly lived up to its reputation—though we proved up to the challenge.
+
+Dorias: Is this... a monastery of the Loptian Order? The mages and bishops seem to have all fled...
+August: Prince! There was a woman being held captive inside the monastery. She wishes to see you.
+Leif: Very well. Bring her to me.
+Miranda: Prince Leif... It's been a long, long time...
+Leif: ...And you are?
+Miranda: You ask ME that?! Oh, so that's how it is... You've forgotten me, have you?! I'm Miranda of Alster!
+Leif: Miranda... The princess? Princess of Alster? How can that be?! Why are you here?
+Miranda: Did you not recognize me? Bah, I suppose it's no surprise, considering the sorry state I'm in... I must look like some common wretch. But before you get caught up on how unsightly I look, remember that all of this is your fault, Prince!
+Leif: My fault? Why?
+Miranda: All of this began when Leonster fell. My lord father was a gentle man, who hadn't the heart for battle—and he knew there was little sense in fighting the Empire. But nevertheless, he took you in, sheltered you from the Empire—and in so doing, invited their wrath! He had to turn me over to them as a hostage and forfeit his own right to the throne! And in the end, he departed this world in a state of utter misery... I cannot forgive you, Prince! If you'd never come to Alster, things wouldn't be like this...
+Leif: ……
+Dorias: ...Princess Miranda, I must beg to differ. The Empire planned to conquer Alster all along. Prince Leif's presence was merely a convenient excuse to do so. Not to speak ill of the dead, Princess, but your father was too timid. He had knights of the highest caliber at his command, yet when Thracia invaded, he sat on the fence instead of joining the fight. And despite being a sworn ally of Leonster, when our kingdom was in crisis, he sent no troops to our aid. He simply reaped what he sowed. Your father himself is to blame for your kingdom falling into ruin! Shifting the blame to Prince Leif is pure selfishness!
+Leif: Enough, Dorias! Nothing good will come of talk like that!
+Dorias: Hrm... I went too far, I admit. Please accept my apologies...
+Leif: You have my apologies as well, Princess Miranda. I must beg your forgiveness... Had I known you were being held captive here, I would've come to your aid as fast as my legs could carry me. I can't imagine how difficult it was for you, being imprisoned here for so long...
+Miranda: ...Well, admittedly, I haven't been imprisoned in this dreary monastery the whole time. Until last year, I was being kept in Alster. Count Conomor watched over me from afar, and I was comfortable enough. But then came the insurrections in Tahra and Leonster... That stoked the fires of revolution, and even in Alster, a contingent of the people plotted rebellion. Evidently, the Empire feared their position was becoming too vulnerable, and so I was moved to this dreadful place.
+Leif: Ah... Well, even one year is far too long to spend in a place like this.
+Miranda: Prince Leif, if you weren't lying about wanting my forgiveness, you must lend me your strength! I must reclaim Alster... I must undo my father's regrets, and give meaning to his meaningless death!

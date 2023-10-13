@@ -1,0 +1,111 @@
+@Opening 
+Abiding by the armistice brokered by Arion and Linoan, the Liberation Army withdrew from Tarrah. Their next goal was a matter of some debate: the Freeblades of Fiana and the Magi wished to make for Castle Munster and liberate it first, while the nobles of Leonster and the sellswords of Tarrah favored liberating Castle Leonster first. Ultimately, pragmatism prevailed, as it was agreed that seizing Leonster first was more advantageous to the army's mobility. However, as they neared Solwood Pass, Leif would soon have to make another strategic decision...
+
+@Intro 
+Dryas: Prince Leif, a moment, if I may? I would advise heading west at Solwood Pass to reach the road to Nordrhein.
+August: And it is on this matter that Duke Dryas and I are of different minds. I instead argue heading east at the pass. That route will allow us to attack Leonster from the south, where the Empire's defenses are sure to be weaker.
+Dryas: Clearly you aren't well-acquainted with the area. If you were, you'd know that Millefeuille Forest lies to Leonster's south. The place is synonymous with folk getting lost and never returning! Hell, the locals even call it "Mirage Forest" for short!
+August: Don't patronize me. I'm well aware of the dangers—but so is the Empire. They won't be expecting an attack to come from such a treacherous area. With our smaller numbers, making clever use of the terrain is our only hope of victory. That's just basic tactics!
+Dryas: I must strenuously object! All of Thracia—no, all of Jugdral is watching our battle! This is about more than victory! We cannot merely win, we must win in such a way that gives inspiration and hope to the masses oppressed by the Empire! Are we to skulk through the woods like common bandits? Nay! We have to make a glorious spectacle of it, charging into battle with Leonster's flag held high!
+August: Such a spectacle would indeed be glorious—for the Empire. We'd be charging right into their front lines. Our casualties would be enormous.
+Dryas: Some of our own would perish, true, but it would be an honorable death worthy of a knight of Leonster.
+August: Don't presume to speak for all of us, Duke Dryas. Only a small fraction of our troops are knights—many more hold no title. To them, your notion of an "honorable death" is something neither meaningful nor desirable. See that you don't get innocent men killed by projecting your own values onto them.
+Dryas: Th-That's uncalled for, August! Your very words come perilously close to an insult! *Sigh* Though I suppose there's little point to us arguing further. The decision rests with Prince Leif now.
+August: ...Indeed it does. We shall do as the prince commands.
+
+Bandit: Boss, Boss! I gots a great idea! Let's hit up that there village today!
+Zile: What, that old slum? It's just a couple lean-tos and an outhouse. They don't got nuthin' worth stealin'. Heh, burnin' the place down might actually be an improvement fer them villagers.
+Bandit: They might not got anything valuable, but they DO got girls. Real pretty girls. We could just snatch 'em up and sell 'em to slavers! It'd be an easy payday!
+Zile: Huh... You might be onto something, young'un! All right, let's do it! Move out, boys! Round up all the ladyfolk and kill everybody else!
+
+@Battle 
+Amalda: It was good seeing you, Bishop, though I wish it were under better circumstances. You'll watch over the children, I trust.
+Bishop: Of course, milady. They'll be most safe here—the Empire has no reason to come all this way through the mountains for one poor village. Truth be told, I'm most glad to dedicate my final years to raising these children. But what of you, Lady Amalda? Will you be all right? If the Empire learns of what you've done here, I shudder to think of what terrible fate would befall you...
+Amalda: I feel no fear, only shame—shame that, even as a proud knight of House Friege, I can only help these children in secret. With each passing day, more and more are taken captive and sent to Belhalla... I can only save but a handful. Each time His Majesty grants me an audience, I try to convince him that going along with these child hunts is a grave mistake. But time and time again, he simply refuses to listen to reason... And now I'm in command of a whole battalion... How can I lead my men when I don't even believe in our orders myself?
+Sleuf: I'm quite familiar with how you must feel, Lady Amalda, but you mustn't let yourself get careless.
+Amalda: Father Sleuf, I can't just—
+Sleuf: Without you, we'd have no way of helping the captive children at all. We'd be reduced from rescuing a handful to rescuing none. Think of how many more lives we have yet to save before throwing your own away.
+Amalda: ...You're right. Thank you for your counsel, Father Sleuf. I'll do as you advise.
+
+Sleuf: She walks a hard road, that one. Would that our own was any easier...
+Bishop: Yet for all that we do, the world is still crumbling to pieces all around us. We can do naught but pray as it collapses...
+Sleuf: Perhaps... but I know what I heard at the Tower of Bragi. "When the three lights converge as one, darkness shall be banished from the living world."
+Bishop: The voice of Father Claud, long since dead and buried...
+Sleuf: I'm sure it was him. He asked a service of me, saying, "O righteous man, servant of Bragi, do what I cannot: be my eyes, look upon your world, and tell me what it has become."
+Bishop: Mm... I understand. You're meant for greater things than raising a few toddlers in a remote village. Go. Embark on this journey the gods have charged you with. Worry not, I'll care for the children.
+Sleuf: Thank you, Bishop... Please forgive my selfishness. I'm deeply sorry I cannot stay...
+Ralf: Bishop? We got a big problem on our hands. A pack of bandits are closing in on the village.
+Bishop: H-How can that be?! We have nothing of value!
+Ralf: Guess they got their reasons, 'cause I just saw 'em headed this way with my own two eyes. That woman you were talking with, the knight, she says she's gonna help fight 'em off. But with just the two of us, I dunno how long we can hold 'em back. You'd best take all the women and children an' hightail it outta here.
+Bishop: Will the gods grant us no respite? Bah! Very well, Ralf, I'll do as you say. You have my apologies... A sellsword defending a poor village for no pay... You're proof that not all good has vanished from the world. We all thank you.
+Ralf: Heh... I never run from a fight, Bishop. No matter what!
+
+@Recruit-Talk 
+%Leif,Ralf
+Leif: Are you a sellsword hired by the village?
+Ralf: Depends what you mean. I'm fighting for the village, but I sure don't remember gettin' paid by 'em. Not that I woulda taken their gold even if they had offered me any. Couldn't take coin from the needy.
+Leif: Then why fight on their behalf?
+Ralf: I stumbled across this place in the middle of my own little journey and they lent me a hand. Time to return the favor, that's all. Not that it's any of your business, ya little brat. Just who are you supposed to be, anyway?
+Leif: Ah, my apologies. I shouldn't have started prying without introducing myself first. I'm Leif of Leonster.
+Ralf: Leif...? H-How...?! Are you THE Leif, the prince? Talk about being in the right place at the right time! See, I'm Ralf, an' I'm not much more than a lowly sellsword, myself. If it's all right with you, Prince, could I join your army?
+Leif: Of course! We could always use more men like you. Though if I may, I'd like to ask you something. Why exactly do you want to join my army? What's your reason?
+Ralf: Because I won't put up with living under the Empire's thumb for one moment longer. That good enough of a reason?
+Leif: I... can't say I disagree, so that suffices for me, yes. Ralf, my greatest desire is to free every person suffering under the Empire's tyranny. Do you swear to fight for that cause?
+Ralf: Sure do! Leave it to me!
+
+@Battle 
+Amalda: Wonders never cease... That band of soldiers has come to the village's rescue. The gods may yet be merciful... Now, it's high time I returned to my own soldiers.
+
+@Battle-Talk 
+%Mareeta,Shannam
+Mareeta: Hold! Who are you?! Another one of the Empire's lapdogs?!
+Shannam: How uncouth... If you wish to live, turn your blade aside. I didn't learn the technique of Astra just to waste it on cutting down clueless little girls like you.
+Mareeta: Astra? B-But that's the secret art of the Isaachian royal family...! That would make you—
+Shannam: Correct. It is I, Prince Shannan of Isaach. But I've been forced to hide my identity, so do us both a favor and forget you ever saw me.
+Mareeta: Prince Shannan! I would ask something of you!
+Shannam: Hrk! K-Keep your voice down, would you? Let's avoid any surprises, shall we?
+Mareeta: Please, you must teach me some of your swordplay! I beg of you! It doesn't have to be a prolonged lesson. Just knowing the secret of how to perform Astra would be enough...
+Shannam: ……
+Mareeta: Please, Prince Shannan! I want—no, I NEED to become stronger! No matter what, I must grow stronger...!
+Shannam: W-Well, I could take you through the motions, I suppose...
+Mareeta: Would you? Oh, I'd be in your debt!
+Shannam: (Oof, this has gone from bad to worse. Guess I'll just ramble off some vague nonsense about swordsmanship...) 
+Shannam: Knowing the movements of the technique is important, of course, but more important is your spirit, your heart. When the swiftness of your body becomes one with the sharpness of your mind, only then are you capable of learning Astra.
+Mareeta: My body and my mind...?
+Shannam: Indeed. Now, to begin with, make a simple swing with your sword.
+Mareeta: But how should I swing it, exactly? Could you demonstrate? Just once?
+Shannam: Uhhh... N-No, that would defeat the whole point. Astra can only be mastered through your own attempts to understand it. If I were to demonstrate it, all you would learn is how to imitate me. (Yeah, that sounded good...)
+Mareeta: So that's how it is, huh...? All right. I'll just try something, then. Hee-yah!
+Shannam: No, not like that! You're doing it completely wrong!
+Mareeta: Haaa-yah!
+Shannam: No, no! Now you're just flailing your sword around like you're blindfolded! It's about using your body and mind together, remember? Your body is working, but your mind isn't in it! (Lady, I am sellin' you a bill of goods here...)
+Mareeta: Focus my mind into my body... Focus my mind into my body... HAAA-YAH!
+Mareeta: W-Was that...? I can't believe it...!
+Shannam: ...No way...
+Mareeta: No, that can't be it! It isn't really THAT easy, is it, Prince Shannan?
+Shannam: Huh? Oh, well, uh... Of course not, my pupil! You couldn't call that a perfected Astra!
+Mareeta: That's what I thought. I mean, that hardly took any time at all...
+Shannam: A-At any rate, I promised to show you the motions, and I've made good on my word. I'll be taking my leave now.
+Mareeta: Thank you for everything, Prince Shannan! Focus my mind into my body... Focus my body into my mind...
+Shannam: (Maaan, what was up with that girl?)
+
+@Visit 
+Bishop: Good heavens, what a day this has been... Ah! You're the strangers that came to our village's aid, are you not? I wish to thank your leader personally. Where might they be?
+
+Bishop: My goodness, we owe you and your forces quite the debt... Your decision to aid us is the only reason any of us still draw breath. Please accept this gift as a token of our gratitude.
+Leif: Thank you, Bishop. If you'll excuse us, my men and I must be on our way.
+Bishop: Where are you headed, might I ask?
+Leif: We ride for Leonster.
+Bishop: Is that so? I've a favor to ask of you, then. A disciple of mine, Sleuf, left here on... something of a personal journey. If you happen to cross paths, do send word that the lad is all right. That said, I offer to send you partway there with my Warp staff. I can teleport you to one of two places: The first is Millefeuille Forest, which is to the south of Leonster. Be warned: there's a reason it has the nickname "Mirage Forest." The second is Nordrhein, the coastline that runs east all the way to Leonster. But you'd have to breach the fort the Empire has there. Which way shall I send you?
+
+@Boss 
+Zile: Heheheh... You wanna square off with me, do ya?
+
+Zile: Ugh! D-Damned... fools...
+
+@End 
+^start
+Dryas: This way leads to Nordrhein, which will take us east along the coast to Leonster. Seasoned Imperial troops will be on the lookout for us. I anticipate the battle will be a difficult one indeed. Is this your will, sire?
+
+August: This path shall take us through the deep woodlands of Millefeuille Forest, better known as the infamous "Mirage Forest." We would encounter little resistance, but there may well be unforeseen hazards we have yet to discover. Shall we proceed, my prince?
+^end

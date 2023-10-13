@@ -1,0 +1,63 @@
+@Opening 
+Ridding Iz of the pirates who had infested it, Leif hurriedly resumed his course to Munster. It was not long until he arrived at Kerberos' Gate, a small fortress that guarded the entrance to the province of Munster...
+
+@Intro 
+Raydrik: Are the cattle being collected on schedule, Lobos?
+Lobos: Ah, Baron Raydrik. We've rounded up all the brats in the area, rest assured. For the time being, I've locked them inside the fort's prison. What do you want done with them, milord?
+Raydrik: Hm. Best keep them there until the Loptr Church arrives to claim them. The Magi may well try to free the little worms—see that your men are prepared for an incursion.
+Lobos: Magi? As in those rebels from Munster? They're still alive?
+Raydrik: To my great chagrin, yes. I thought they'd been wiped out, but they've resurfaced recently. The little swarm of flies seem to have a new man in charge...
+Lobos: Never a moment's peace these days... And what of you, sire? Will you be returning to Munster?
+Raydrik: Not immediately. My journey has been most tiring, and I would rest here while I can. What better place for a man to catch his breath than the impregnable Kerberos' Gate, eh, Lobos?
+Lobos: Hah! Indeed, sire.
+
+August: That fortress, Kerberos' Gate, guards the road into Munster. As strongholds go, it's rather small, but don't let its size fool you: the people of this area say it's more terrible than Hell itself.
+Leif: Why?
+August: The soldiers here no longer watch over the road—they search for children. Lord Leif, the fortress now serves as a base for the province's child hunts.
+Leif: Child hunts? What are you talking about, August?
+August: ...All across the Empire, children aged seven to thirteen are seized by Imperial soldiers. They're sent to Belhalla, the capital, and after the atrocities wrought upon them there... the ones who survive are never the same. They are children no more—they begin life anew as servants to the dark god, Loptous.
+Leif: That's inconceivable. What manner of tall tale...
+August: I realize it sounds too horrible to be true, but this is no fable—this is the state of Jugdral. Even now, children languish in captivity within that very fortress you see.
+Leif: ...What soldier could willingly take part in such a thing? No one with a spark of humanity left, to be sure. I'm sorry, August, but we must part ways here. I cannot allow this evil to go unchallenged—I must free those children from this barbarism.
+August: Indeed... Allow me to give you one last piece of advice, sire. Kerberos' Gate is too small to fit horses, so have any of your soldiers that fight on horseback [Dismount] before entering. Further, after everything they've seen, I'd wager the children are too traumatized to even move. Have your men carry them back to the villages, and their families will owe you a debt they can never repay. Fortune be with you, Prince of Leonster.
+Leif: Hold! This whole time, you've known I was the heir to House Leonster?
+August: But of course. What's more, I want to see you returned to power. Let's arrange to meet in Munster after your business is concluded.
+
+@Visit 
+Woman: Please, I beseech ye! Save me boy, Romeo, from that gods-forsaken fort!
+
+Man: Master Coirpre, taken by those savages... Argh, a pox on them all! What am I to do...?
+
+Old Woman: Me... me daugher... Please, good folk! Yer armed and fit fer battle! Bring me girl, Lucia, back! I beg of ye!
+
+Young Woman: Me kid brother, Yubel, was taken to Kerberos' Gate... Please, stranger! He's just a wee lad, and you've the arms an' army to give them Imperial dastards what-for!
+
+Woman: Hm? Oh, it can't be! Romeo, safe and sound... From the depths of me heart, I thank ye. Fer bringing me boy back single-handed, I'd like ye to have this. This here ring's been handed down in me family fer as long as I can remember. It's enchanted, it is. Take it, I insist.
+
+Man: Master Coirpre! Thank the gods you're all right! I was sick with worry... The young master is a nobleman's ward, and was coming to our village as a messenger, but got mistaken for one of our own children! You have my deepest thanks, but I've little else to give... Still, I imagine rescuing a child of Thracian nobility ought to pay off sooner or later.
+
+Old Woman: Lucia! Oh, me own girl, hale and hardy! Thought me heart would give out from worry, it would! I can't begin to say how grateful I am to ye, stranger. Don't have much in the way of thanks, but... Mayhap this old parchment could be of some good to you? We been puzzlin' over it fer years, but what it does is beyond our ken. All we know is that merely holdin' it fills ye with tremendous vim and vigor, amongst other things. Hope it helps ye, I surely do.
+
+Young Woman: Holy Heim! Yubel, yer safe! You... gave me a real scare there... I'm so glad to see you again. Whatever yer reasons, stranger, thank you fer helpin'. Truly. Now listen, me older brother is an Imperial soldier, but if'n you ever meet him, tell him what the Empire done to our youngest kin. His name's Dalsin. Ain't a doubt in me mind he'd help you, so don't go forgettin' it!
+
+@Boss 
+Lobos: Wh-who do you think you are?! You honestly believe you'll get away with this?!
+
+Lobos: Ugh... You fools... This doesn't end with me...
+
+Lobos: Hmph. You'll come to regret this. Baron Raydrik will hear every detail!
+
+@End 
+Leif: ...It was a hard-fought victory, but we've taken control of Kerberos' Gate.
+Raydrik: Nicely done. I'm impressed, truly. Such a shame to spoil your moment, but I must ask you to drop your weapons. Otherwise, I'll have to do something very ugly to this very pretty young woman.
+Leif: Nanna?! ...Raydrik, you soulless parasite...
+Nanna: Run, Lord Leif! Don't worry about me!
+Leif: Damn...! Fine... Fine, I said! I'm putting my weapons down, so keep your hands off Nanna!
+Raydrik: Hah! See, the young pup knows how to heel! Men, move in and chain the good Prince Leif! Then fan out and seize the rest of his forces!
+
+Eyvel: Damn...! Little Leif got himself captured? Well, two can play at that game. I'm goin' in and waving the white flag—no doubt they'll arrest me too. I'll do what I can to protect the Little Lord from the inside. The rest of you, hightail it outta here and make ready to rescue him!
+Finn: I suppose this was inevitable... We... have no choice but to retreat... Hold out for as long as you can, Lord Leif! On my honor, I will come for you!
+Orsin: Dammit, Leif... Nothing to be done about it now, I guess. We're comin' after you, so don't you dare go dying first, you hear?!
+Halvan: Well... We lasted until now. No one can say we didn't give it our all...
+Safy: Gods above, watch over the prince...
+Dagdar: Damn it all, the prince let 'imself be captured? Can't much stand it meself, but fer now, I've no choice but to head back to Mount Violdrake. This ain't the end, though: I'll round up me whole crew and we'll storm Munster!

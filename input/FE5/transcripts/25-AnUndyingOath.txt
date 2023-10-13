@@ -1,0 +1,106 @@
+@Intro 
+Veld: Raydrik proved to be even more useless than I thought... Well, if you want something done right, best do it yourself.
+Manfroy: Veld... Explain yourself!
+Veld: Archbishop Manfroy! Wh-When did you get here, Your Eminence?
+Manfroy: Spare me your sniveling formalities. Why is killing one person—a child, need I remind you—so difficult for you? The Leonster heir has humiliated you at every turn!
+Veld: I'm deeply sorry, Your Eminence. I'll claim Prince Leif's head before the day is over, I assure you.
+Manfroy: See that you do—otherwise, it will be your head that hangs from the castle gates. More than just this battle is riding on the boy's death... If he lives, all our efforts to incite war in Thracia and assassinate Prince Quan will be for nothing.
+Veld: I'm amazed the ruse has held for this long, frankly. The fools still think Travant was behind it all.
+Manfroy: Eheheheh! I almost pity the Thracians, in the depths of their ignorance... Did it never occur to them that Travant had no way of knowing when Quan's forces would march, or what route they would take? Capitalizing on Travant's ambitions to make North and South Thracia tear each other apart... Everything happened exactly as you predicted it would.
+Veld: I'm honored by your words, Your Eminence...
+Manfroy: But it's simply given way to a new problem: you underestimated the Leonster heir, did you not? It would have been best to nip him in the bud and kill him when Castle Leonster first fell, when he was little more than an infant...
+Veld: It is true that Prince Leif has brought all the rebellious children of North Thracia together in one, organized revolt... But if we strike them down now, when they all act as one and their morale is at its highest, their spirits will be broken. And in my defense, the boy has done us a great service by defeating so many of House Friege's battalions. Without realizing it, he's eliminated one of the few military powers that could've threatened our rule. Besides, while he may be Leonster's heir, he's a mere child without enough holy blood to so much as lift the Gáe Bolg himself. He's a posturing rebel who's deluded himself into thinking he's a real prince. He cannot hope to triumph against me.
+Manfroy: Hmm... You make a good case for yourself, Veld. Very well. I shall grant you a second chance—and as a token of my favor, I bestow upon you five of my finest creations, the Deadlords.
+Veld: I'm most grateful, Your Eminence. Combined with the one I just finished crafting, that makes for a total of six... Now the barrier will be impenetrable!
+Manfroy: Then I'll leave you to it, Veld. I trust you'll be along shortly to bring me the good news...
+Veld: I won't fail you, Your Eminence.
+
+Leif: Is everyone ready, August?
+August: All of our troops understand the plan: small squads have each been stationed in front of every altar. Let us hope they're all capable of defeating the horrors that lurk within...
+Leif: I know they are. Everyone is aware of what's at stake: the seals inside each of the six altars have to be broken to open the way to Veld.
+August: It's more complicated than that, my prince. One of our men must stand upon the center of an altar to break its seal. Each of the six altars must have one of our soldiers standing on its center all at once for the barrier to be dispelled. Hrm... I fear reinforcements will arrive if we take too long to coordinate this. You need to prepare yourself to sacrifice some of our troops if it means getting rid of the barrier more quickly.
+Leif: I understand... But let's hope that won't be necessary. Come on! Let's end this!
+
+@Battle 
+Veld: Ah! What?! It can't be... Have those children broken through the seal?! Ngh... Leif, you heathen... You're an impudent brat standing in the way of the divine! I'll send you to oblivion to meet your parents—but not before you spend a century or two decorating my altar as a petrified statue!
+
+@Boss 
+Veld: Heh, heh, heh... You dare to cross me? Don't you know the power I wield? Let me show you just what a grave mistake you've made!
+
+Veld: Gah... This is my... own folly... But... this isn't the end...! Even if you kill me, Loptous is eternal... and the rebirth of his empire is nigh! I may die here... but you'll struggle and flounder for the rest of your days...! Heh, heh, heh... Eheheheheheh...! 
+
+Veld: Forgive me, Archbishop Manfroy... Ugh...
+
+@End 
+Leif: We... won...? Is it... really over?
+August: It is. Breathe easy, my prince—your long fight has at last come to an end. With your victory today, the Loptians' influence in North Thracia has been eradicated. At long last, the Thracian people have been liberated from the tyranny of Loptous and his mortal servants. This is all because of your perseverance and strength, my prince. You never gave up.
+Leif: No, August... The people have you to thank as well. Without your guidance, I never would've made it this far. I started this journey knowing nothing, and you taught me how to be a ruler. I thank you, August—as a monarch, and as your student. I was truly fortunate to have met you...
+August: This is... I... I'm not sure what to say... I need to tell you something, my prince. I would be a poor teacher if I continued to keep secrets from you now... It was not by chance that our lives intersected. In fact, I only became your tactician because I was ordered to do so by my benefactor. Truth be told, at the outset I thought liberating North Thracia was an impossible task. But as I spent more time by your side, as I saw how focused you were on freeing your motherland, how earnestly you wanted it... Before I knew it, I had genuinely begun to believe in you. I hope you can forgive me for all the times I doubted you.
+Leif: I'll not lie, August... The times when you voiced skepticism of my abilities did always weigh heavily on my heart. Yet you also taught me how to expand my perspective: to realize the depth of everyone's suffering and sorrow. My upbringing, strange and sheltered as it was, left me lacking the tools to understand the lives of my subjects. And I think I still have even more to learn... I need you, August. I'd be honored if you stayed by my side and continued to teach me.
+August: Ah... As you wish it, my prince, so shall it be.
+
+Finn: Lord Leif! A messenger just arrived from Lord Seliph! Conote has been seized by his army!
+Leif: Huh? Conote has already fallen?! What of Lord Seliph...?
+Finn: He's alive and well, milord—fear not. The message said that he rides for Munster as we speak to help us capture the city. I imagine word has not yet reached him of our victory. He should be in for a most welcome surprise when he arrives.
+Leif: I can hardly believe it... For Lord Seliph to conquer such a formidable fortress as Castle Conote in a single day... My only regret is that I couldn't kill King Bloom with my own hands.
+Finn: I sympathize, milord—but as regrets go, you could have ended today with far worse. Remember, North Thracia is now free again. In the streets of Munster, everyone, young and old, celebrates the victory of the Liberation Army. The people cheer your name—they shout that Thracia has been liberated by the son of the late hero Quan.
+Leif: Finn... We've been through so many long and painful days, haven't we? But however hard I had it, you had it so much worse... You possess more patience and endurance than anyone I've ever known. You've been there for me my whole life. Whenever I felt overwhelmed, I knew I could always rely on you, Finn. You sacrificed everything to raise me. It's like I spent my whole childhood sitting on your lap... How can I ever repay you?
+Finn: L-Lord Leif... Of the four kingdoms of North Thracia—Leonster, Ulster, Conote, and Munster—none save Leonster have a surviving male heir. Hence, the people want to be united under your rule. No others remain who could take the throne. Lord Leif... Please, fulfill their hopes. Be the answer to their prayers. The tragedy of Thracia is that these small kingdoms have been doomed to repeat their petty civil wars, time and time again. Unify Thracia and build a single, prosperous kingdom, as the land once was in the days of Dáinn and Njörun. Doing so was the dream of your late father, Lord Quan—and if you truly wish to repay me, milord, it is what I would ask of you as well.
+Leif: I would move the heavens themselves for you, Finn. Of course I'll do as you ask! I've come this far—I won't start running now. I have a duty to protect North Thracia. Unifying all of Thracia will depend on the will of King Travant, but I'll do everything in my power to make it happen. I know that's not ideal, but... Would that be enough to repay you, Finn?
+Finn: It's... all I could have dreamed of, Lord Leif.
+
+Eyvel: Guess that's the end of this whole mess... Hard to believe this all started with Raydrik kidnapping Little Nan and Mareeta, huh? Ah, Little Lord... It breaks my heart to do this, but me and some of the others have got to head back to Fiana.
+Leif: What?! You're not coming with me, Eyvel?! Why would you do that?
+Eyvel: We may have kicked the Loptians out, but there's still lots of pirates around. I can't just leave Fiana and Iz to fend for themselves. Besides, how useful do you think we'd be? You've got a whole army of knights and mages and priests now—you don't need us.
+Leif: But... Eyvel...
+Eyvel: Little Lord, I'll be looking forward to the day when you beat the Empire for good and come back to Leonster. When that day comes—not if, but WHEN—I'll bring everybody to Leonster to celebrate.
+Leif: ...I'd like that. All right, Eyvel, it's a deal: I promise I'll come back, and you promise to have everyone ready to celebrate. But you might be waiting for a while, so please be patient with me...
+Eyvel: I don't think we'll be waiting for long, actually. I believe in you, Little Leif. Go show the Empire what it's like to have you for an enemy!
+
+Miranda: Prince Leif, something's been on my mind for a little while.
+Leif: Princess Miranda? What's wrong?
+Miranda: I... I owe you an apology.
+Leif: If this is about Dryas, what happened was my fault. You're not to blame for it, Princess Miranda. And if you haven't heard, Ulster was liberated by Lord Seliph's army. I'm sure your people will be glad to know you're alive and well.
+Miranda: Uh, that's... that's delightful to hear, but... Frankly, my people want more than just to see me again. They want to unify with Leonster. My senior vassals and statesmen are all advising that I wed you. They've been nagging me about it for quite some time, actually. Those bloviating imbeciles think they can boss me around just because I'm a woman...
+Leif: Well, out of the royal families of North Thracia's four kingdoms, you and I are the only survivors. They can't be the only people thinking this way. But even so, I still...
+Miranda: Do you not like me, Prince? If that's the case, I'll get over it, but—
+Leif: No, it's not that simple. I just... I've still got things left to do. The battle to unify Thracia has just begun, the Loptr Church and Grannvale Empire are still threats, and North Thracia needs protecting. Right now, I just don't have the time to figure out if I truly love someone or not...
+Miranda: ...... Then I shall return to Ulster to await your answer. But if you don't manage to defeat Travant and South Thracia, consider my offer of marriage withdrawn!
+
+Linoan: Lord Leif...
+Leif: Linoan! Ah... I imagine this must be very bittersweet for you... North Thracia has returned to our rightful hands, but Tarrah remains in Thracia's clutches. You know I'll stop at nothing to recapture the city, so won't you travel with me for a while longer?
+Linoan: Of course I will, Lord Leif!
+
+Deen: Duchess Linoan, though it pains me to say it, I cannot go with you.
+Linoan: How can that be, Deen? Why can't you?!
+Deen: Thracia is my motherland. North and South shall soon face each other in battle, and I cannot fight against my home. You should stay with the prince, Linoan. He'll protect you from now on.
+Linoan: Deen... How can you say such a thing...? I... I couldn't bear to go on without you.
+Deen: Linoan...?
+Linoan: I will abandon my plans to retake Tarrah if it means you would stay, Dean. So please, remain at my side...
+Deen: Don't say something so stupid, Linoan! This isn't like you at all! Ah, dammit... Now that I think about it, I'd be hurting both Prince Leif and my sworn lord if I left with things the way they are now. I have to avoid that, no matter what it takes...
+
+Nanna: ……
+Mareeta: Now look here, Little Lady! You've just got to say it! Right now!
+Nanna: B-But—
+Mareeta: If you don't say it now, you'll only regret it! Or are you comfortable with staying the "cute little sister" forever?
+Nanna: But Mareeta—
+Mareeta: Ugh, you're just going in circles! I'm getting impatient... Hey, Leif!
+Leif: What is it, Mareeta? Gah! What's got you looking so... grim?
+Mareeta: Go on, Nanna. You can do it!
+Nanna: L-Lord Leif...
+Leif: Oh, Nanna! There hasn't been a chance for just the two of us to talk. I wanted to thank you. You've been just as big a help as anyone, and I wanted to make sure you knew how grateful I am.
+Nanna: You give me too much credit... I hardly did anything at all.
+Leif: I think not! We were raised like siblings, and you've always been there for me, Nanna. You were always there to support me, to comfort me when I needed it, and I wouldn't have fought half as well if I didn't have you to keep my spirits up. When this is all over, I'll go looking for Lachesis—and if I find her, I'll tell her, "I've fallen in love with your daughter, Nanna. I humbly ask for your blessing to wed her."
+Nanna: Ah...! Lord Leif...
+Leif: I know we have a long way to go before our battle is over, but I hope you'll stay by my side, Nanna.
+Nanna: Of... Of course I will! I'm honored, Lord Leif...
+August: Prince Leif, Lord Seliph is here to see you.
+Seliph: It seems my reinforcements were unnecessary. I'm relieved to see you safe, Prince Leif.
+Leif: Lord Seliph! We're only here because you intervened at Leonster. The credit for this victory is yours.
+Seliph: No, North Thracia was liberated by you, Prince, with your own strength—I merely played a momentary role, nothing more. All of North Thracia is agreed on uniting under your rule, it seems. If a country that vast and wealthy were to join the fight against the Empire, my Liberation Army would have cause for celebration. Prince Leif, will you continue to fight alongside me? There's still much left to be done, but if we were to join forces, I know we could overcome any challenge in our way. If you would accept it, I offer you a vow of eternal friendship—to live and die as one, just as our fathers vowed before us.
+Leif: I'm honored to accept your oath! After all we've been through, I think of you less as a cousin and more as an older brother. Nothing could make me happier than the idea of pooling our strength to create a brighter future for everyone!
+Seliph: Then let us swear it upon this sword! We may have been born apart, but we shall die as one! As your friend, as your sworn brother, we shall join hands and deliver Jugdral from this evil! This I vow to you!
+Leif: And I vow just the same to you—an undying oath, and may the stars themselves perish before it is broken!
+
+@Narration 
+Thus, Leif's battle, which started in the remote village of Fiana and ended with the liberation of North Thracia, came to a close. Yet although Leif's battle had ended, the war for Jugdral has just begun. In South Thracia, Travant's kingdom has already amassed great power. In the Grannvale Empire, Crown Prince Julius, the Scion of Darkness and incarnation of Loptous, is still alive and well. Now, in year 777 of the Grannvale calendar, the world stands on the brink of a new era...

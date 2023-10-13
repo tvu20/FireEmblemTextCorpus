@@ -1,0 +1,98 @@
+@Opening 
+Leading his men out of the bandit-infested Dakia Forest, Leif found a most welcome sight awaiting him and his Liberation Army: The walled city of Tarrah, its shape tall and imposing, stood before them on the horizon. Under the leadership of Duchess Linoan, daughter of the late Duke of Tarrah, the city had rebelled against the Empire, refusing to be complicit in their many crimes. This rebellion had not gone unpunished: the city had already been under siege by the Imperial Army, led by Colonel Paulus, for some time. Already in dire straits before the Empire's attack had even begun, it would now be exceptionally difficult for Tarrah to recover. Initially, Tarrah had brokered its freedom by agreeing to not interfere with the Grannvale Empire's conquest of North Thracia. In exchange, Tarrah had been allowed to keep its autonomy, but even at the time, the city's freedom was thought to be as precarious and fleeting as a candle flickering in the wind...
+
+@Intro 
+Paulus: How's our situation here, General Rist?
+Rist: We have the city surrounded, Colonel Paulus. I formally request that we begin our assault now.
+Paulus: Why the hurry? Baldack and the 8th Battalion should be here shortly. There's no need to overextend ourselves—we'd only be wasting good soldiers.
+Rist: I see. As you wish, Colonel.
+
+Rist: Hmph! I'll be damned if I just sit on my hands and let Baldack rob me of all the glory! All Imperial forces, begin the assault! Try to retreat, and I'll kill you myself! Go, go, go!
+
+Dean: The Empire's finally making their move... What's the plan, Glade?
+Glade: ...The reality is that we can't match the strength of their army. All we can do is postpone the inevitable.
+Eda: I could... I could take to the sky and scatter their front line. I reckon that would buy you some time, but—
+Dean: Don't. You wouldn't make it far—you'd be easy pickings for their ballistae. A Dracoknight's entire way of fighting is to swoop down, strike, and fly away—all in one swift move. That's how you stay alive, Eda. Impatience will just get you killed.
+Eda: All due respect, Brother, but this isn't the place for a lecture. Time isn't on our side...
+Glade: Hmm... For the time being, I'll dispatch my cadre of knights to the field.
+Dean: But will your small band of knights be enough to stem the tide, Glade? Our sellswords have long since fled. Your men will have to go it alone.
+Glade: ...We must call upon Prince Shannan. The blood of the crusader Od—the Sword Saint himself—runs strong in his veins. My knights could never match his might on the battlefield... Bah! Would that I knew why he refuses to help us!
+Dean: Tch... That pompous little dastard? He doesn't give a damn about the common folk. Our battles don't concern him. I just don't understand that guy...
+Glade: So he means to keep womanizing while the people of Tarrah fight for their lives? Damned philanderer... He won't be any help. We must fight the inevitable on our own, then.
+Dean: Don't push yourself, Glade. The Empire's just getting started. However this ends, we've got a long way to go.
+Glade: Yes... I know that.
+
+Dryas: My prince, take a gander just over those mountains. The road has been long, but may I present the city of Tarrah— H-How?! How is this possible? The Empire has already begun their assault!
+Leif: To arms, then! Tell our forces to charge into Tarrah! We can't abandon the city's people!
+Dryas: I-I must object! The main body of our army has only just now cleared the forest! Our vanguard is all that we have here! That's to say nothing of the enemy's many ballistae! Gods, they practically have more ballistae than men to fire them...! Any of our forces that made for Tarrah's defense now would face... more than their share of danger.
+Leif: ...I'm aware of the risks. But if we stand here and allow Tarrah to be razed to the ground, our war will be lost before it's even begun! Are you in agreement, August?
+August: I am. If we do nothing to defend Tarrah, we lose the support of the people. Their belief in us will turn to contempt. Our army is still young and vulnerable. Without popular support, we have nothing—and our cause will fade into history, forgotten.
+
+@Battle-Talk 
+%Leif,Glade
+Leif: Glade...? A-Are you the knight Glade, sir?
+Glade: Hm...? Prince Leif?! It... It can't be...
+Dryas: Hah! Is the mighty Sir Glade surprised so easily? This is indeed Prince Leif, in the flesh—our sovereign lord, and commander of House Leonster's army by birthright! The North Thracian Liberation Army is also his doing—and his to command.
+Glade: House Leonster's army and the Liberation Army both... Our prayers have finally been answered, Duke Dryas!
+Dryas: Indeed, Glade—our homeland of Leonster shall live again! Ours will be the hands that release the people from the yoke of tyranny! We will bear the flag of the Gáe Bolg, and raise it once more over the land of Njörun!
+Glade: Hah... The day has finally come...! Prince Leif... Long have we mourned the ignoble deaths of King Calf and Prince Quan. The hopes of our people now rest with you. Please, milord, succeed your father and realize his will!
+Leif: I shall! Join me, Glade, and we'll reclaim Leonster!
+Glade: Hah! You needn't ask, milord! We sworn men of Leonster would follow you through the gates of Hell!
+
+%Finn,Glade
+Finn: Glade! You're all right!
+Glade: Finn! It feels like a lifetime since last we met... How long has it been?
+Finn: Ten years. The last time we stood together was at the battle for Ulster...
+Glade: That's right... And all this time, you've been caring for Prince Leif? You've done well, old friend. You have my deepest thanks, truly.
+Finn: The feeling is mutual, Sir Glade. After all, you've been no slouch, yourself—you have helped Duke Dryas raise the next generation of the Lanzenritter, and kept their name alive. Were it not for their aid, I fear Lord Leif wouldn't have been able to come this far.
+Glade: I merely kept my word, nothing more. When last we were together, we made a pact: I to protect the banner of House Leonster, and you to protect Prince Leif. We swore to defend them both with our lives.
+Finn: Well, looking around us, I'd say we've finally achieved what we vowed so long ago to do. Our wards stand tall and ready to fight again. Ah, but there's no rest for us knights, is there? Yet another battle unfolds before us. We cannot lose focus, even for but a moment.
+Glade: Indeed. Until the flag of the Gáe Bolg flies over Leonster once again, we must remain ever vigilant... But when that day finally comes, old friend, I want nothing more than to sit down with you and share a good brew! For now, though, you must see to it that Prince Leif and his retinue make it inside Tarrah's walls! We've gotten word that one of House Friege's battalions are due to arrive soon, and it's dangerous enough out here as it is!
+
+%Selphina,Glade 
+Selphina: Glade! Oh, it does my heart a world of good to see you safe...
+Glade: Selphina... You came along too, my beloved?
+Selphina: Of course! Prince Leif heard that Tarrah was in jeopardy, and we set off together. Oh, I'm truly grateful to be with you again...
+Glade: I'm deeply sorry to have worried you. Ah, but... Selphina... Yet again, I've ordered many promising young knights to their deaths... I lament just how weak I am...
+Selphina: No! My dearest, you are the highest exemplar of a knight of Leonster! I'm proud to be your wife! So, please, don't be so hard on yourself...
+Glade: Thank you, Selphina. Ah, did the gods smile upon me the day that we met... and seeing you again, here, is enough to soothe my very soul. Ah, I almost forgot! Here. I want you to take a look at this.
+Selphina: This is...? Ah! How did you...?! A Brave Bow! Just like the ones in the legends!
+Glade: I came across it by chance during my time in Tarrah. I took the liberty of buying it for you, for when we met again... Will you use it?
+Selphina: Of course I will! Oh, Glade, this is just splendid! Thank you!
+
+%Selphina,Glade 
+Selphina: Glade! Oh, it does my heart a world of good to see you safe...
+Glade: Selphina... You came along too, my beloved?
+Selphina: Of course! Prince Leif heard that Tarrah was in jeopardy, and we set off together.
+Glade: Hah, so I saw! I had the honor of meeting our liege himself earlier. It amazes me just how much he's grown... We parted a decade ago, at Alster, and now he's already a boy of 15...
+Selphina: I shared your shock when I reunited with him, as well. To think the toddler we knew so well has grown so tall...
+Glade: ...He's no longer a boy, is he? He's a man. A fine, young man. He already bears a striking resemblance to Prince Quan.
+Selphina: Indeed? I thought he bore more of a resemblance to his mother. Looking at him, I could feel Lady Ethlyn's grace once again...
+Glade: Truly? Ah, but he must get his eyes from Prince Quan, at least! He has the same determined gaze as his father.
+Selphina: Oh, nonsense! He gets his eyes from Lady Ethlyn, too. She doted on me like a little sister, and I remember her face all the better for it.
+Glade: All right, all right, point taken, my dearest. But there's no need to get worked up over it—he's the child of them both, after all. It's only natural that he'd take after the two of them in a few different ways.
+Selphina: Ah... You've the right of it, of course. I beg your pardon. It's just that so many things remind me of Lady Ethlyn, and I...
+Glade: No, I understand... Lady Ethlyn, she... I've always wondered what she felt, leaving her newborn son behind when she rode out that final, fateful time with Prince Quan... Do you think... Was her heart plagued with regret, to have left Prince Leif behind?
+Selphina: I... I don't know. I remember that when Prince Leif was still but a babe, Lady... Lady Altena used to be so jealous of him. That was always a source of trouble for Lady Ethlyn. Yet despite that, they were a lucky family, and they all had a promising future. My fondest wish back then was to be a mother as strong and wise as Lady Ethlyn when I came of age. But then came that day in the Aed Desert... An act of treachery so foul it could be mistaken for a waking nightmare...
+Glade: Selphina…?
+Selphina: I-I'm sorry... I swore I would never cry again...
+Glade: No, it's better to let it out now. I... know that no mere trinket can begin to make up for what we've lost, but... Take a look at this bow, Selphina.
+Selphina: This is...? Ah! How did you...?! A Brave Bow! Just like the ones in the legends!
+Glade: I came across it by chance during my time in Tarrah. I took the liberty of buying it for you, for when we met again... Will you use it?
+Selphina: Of course I will! Oh, Glade, this is just splendid! Thank you!
+
+@Battle 
+August: T-Tarrah has fallen! With the city crushed by the Empire, the people will surely turn against us... Our war... is over.
+
+@Boss 
+Rist: D-Damn! I can't believe this!
+
+Rist: Ugh... All the glory... the honor... that I worked for...
+
+@End 
+Linoan: ...L-Lord Leif?!
+Leif: Linoan! Good, I made it in time... just barely...
+Linoan: Lord Leif! I... I can scarcely believe my eyes! You've returned! Gods above, I give thanks for your mercy...
+Leif: ...Linoan, you have my apologies. I should have come here sooner. Despite all I'd heard, I just couldn't fathom how the city I'd been raised in could be in such dire straits. I share the blame for this... Because of me, your father...
+Linoan: No, you have it all wrong! From the moment he met you, my father knew what sheltering you in Tarrah would mean... He was prepared for the consequences. If he could open the way to a new world with his death, no one could have convinced him to do otherwise. I am proud of my father, and I stand by his decision—despite the grief it brought me personally. Long have I endured the Empire's tyranny, comforted by the belief that we would meet again—and now that day has come. And yet... To endanger myself is one thing, but now I've imperiled the tens of thousands of people that call Tarrah home. I... I don't know what to do in the face of this crisis...
+Leif: Dry your eyes, Linoan. Fear not. I swear upon my sword that I'll protect both you and the city of Tarrah!

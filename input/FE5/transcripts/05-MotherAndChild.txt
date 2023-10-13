@@ -1,0 +1,97 @@
+@Intro 
+Eyvel: Little Lady! You're a sight for sore eyes!
+Nanna: Eyvel…
+Eyvel: I can't tell you how glad I am that you're safe, Little Nan. Did that maggot Raydrik hurt you?
+Nanna: I-I'm fine, but... but Mareeta, she...
+Eyvel: Mareeta?! What's happened to my Mareeta?!
+Nanna: I don't know if she's even alive... We were separated as soon as we got to the castle.
+Eyvel: Raydrik! This your idea of a joke?! You gave me your word that I could see my daughter! Are you such an excuse of a man that even your word means nothing?!
+Raydrik: I never lied. Of course you can see your daughter. I just made a small... omission.
+Nanna: Look out, Eyvel! There's armed men coming toward us!
+Eyvel: Tch!
+Raydrik: These are my terms: defeat my prized pitfighters, and you can see your daughter.
+Eyvel: ……
+Raydrik: Ah, here they come now. Pitfighters, meet Eyvel. Eyvel, pitfighters. You've had your introductions—let it never be said that I'm a poor host.
+Nanna: E-Eyvel...
+Eyvel: ...Little Nan, this is gonna get real dangerous, real quick. Stay clear and keep your head down.
+
+@Battle 
+Raydrik: A thousand apologies to have kept you waiting, Bishop Veld.
+Veld: Raydrik, you could not make one apology and mean it, much less a thousand. For the Baron of such a troubled area as Munster, you seem to have an abundance of free time. These theatrics are not what you promised you would spend your time on.
+Raydrik: I am... certain Your Eminence will enjoy the spectacle I've prepared.
+Veld: *Sigh* Oh, very well. I could do with a moment's diversion.
+Raydrik: Well, it's all in her hands now... That "Swordmaster" better live up to her name. Ah, and now the star takes center stage! Heh, heh, heh...
+
+Raydrik: Tch... In the end, she was a shadow of what the rumors made her out to be.
+Soldier: What do you want done with her, sire?
+Veld: Don't kill her, Raydrik. Leave her fate in my hands.
+Eyvel: Wh-What...?
+Soldier: G-Gods' breath... Your spellcraft is truly a sight to behold, Your Eminence. Not even the wildest fable could compare to this...
+Veld: Heh, heh, heh...
+Raydrik: A-And now I have a perfect statue of the proud swordswoman of Fiana—an eternal monument to the price of defiance! Ahahaha!
+
+Soldier: ...What about Finn's little brat?
+Raydrik: Hmm... Leave the girl be. That fragile little thing couldn't escape the castle. After this, I'm sure she'll serve as a most entertaining diversion!
+Soldier: As you wish, sire.
+Nanna: …Eyvel…
+
+Raydrik: She's even more skilled than I'd hoped...! How delightful! Here, a reward befitting a magnificent performer!
+Eyvel: What're you scheming?!
+Raydrik: Heh... Bring the girl out!
+Eyvel: M-Mareeta...?
+Mareeta: ……
+Nanna: Mareeta, Mareeta! Oh, you're safe after all! I can't tell you how worried I—
+Eyvel: Little Nan, don't move a muscle!
+Nanna: Huh?
+Mareeta: ……
+Eyvel: Mareeta! Talk to me...!
+Mareeta: ...K-Kill... ...Kill... Kill... KILL... WITH THIS SWORD... ALL...ALL... ALL OF YOU... KILL ALL OF YOU!
+Eyvel: ...Mareeta... you...
+Raydrik: Mother and daughter, reunited at last! Tell me, is she all that you remembered, Eyvel?
+Eyvel: ...What have you done to my Mareeta?!
+Raydrik: Me? I didn't do anything. Quite the contrary: she was trying to escape, so I gave her that sword to grant her a fighting chance. It's an exceptional blade, straight from the treasure vault inside this very castle. ...The Shadow Sword, I believe it's called.
+Eyvel: The Shadow Sword, a cursed blade... You trying to turn my Mareeta into one of your damned pitfighters with your little gift?
+Raydrik: My gift is cursed, you say? Well, this is the first I'm hearing of it.
+Eyvel: I'll rip that lying tongue right out of your mouth! How... How dare you do this to Mar—
+Raydrik: Amusing as your threats are, shouldn't you be worrying about yourself right now? The Shadow Sword bears incredible power—an exceptional gift for an exceptional woman! Ahahaha...!
+Eyvel: Raydrik...! Mareeta, look at me! Snap out of it!
+Mareeta: ……
+
+Raydrik: What's the meaning of this? The girl wields the Shadow Sword, yet she struggles to finish the job!
+Veld: Hmm... The blade does not appear to rule over her completely.
+Raydrik: That's absurd! As if that mere child could... could—
+Veld: The memories of her mother make her falter and hesitate. Her emotions dull the sword's strength the same as running its edge across stone. She's like a caged animal, desperately throwing herself against her binds. Or have you not even noticed her tears, you imbecile?
+
+Mareeta: Argh...! Let go... LET GO...
+Eyvel: ...Sorry about this, Mareeta.
+Mareeta: Ugh...!
+Raydrik: What...?! She's been knocked out cold... Is this some kind of jest...?!
+Eyvel: ...Raydrik, you hellspawn... As long as my heart beats, I'll never forgive you...
+
+@Boss
+Mareeta: ……
+Eyvel: ...Mareeta... I'm sorry... I'm so sorry...
+Raydrik: She prevailed against even the Shadow Sword... Is this some kind of jest...?!
+Eyvel: ...Raydrik, you hellspawn... As long as my heart beats, I'll never forgive you...
+Raydrik: D-Damn…!
+
+@Battle 
+Raydrik: Th-The woman's a beast...! F-Fine, the girl wasn't enough for you?! Let's see how you do against my entire garrison! All hands, enter the arena and stain the ground with her blood!
+
+Leif: Nanna! You're safe!
+Nanna: L-Lord Leif! Please, you have to help Eyvel! I don't know how much more of this she can take!
+Leif: Leave it to us—but stay behind me, Nanna! Commander, are you all right?
+Eyvel: Little Lord! Everyone! Heh, good to see you all made it!
+Leif: I can't begin to thank you for protecting Nanna in this ghastly place.
+Eyvel: Would that I could've done the same for my own kin...
+Leif: No... What's happened to Mareeta?
+Veld: Panicking already, Raydrik? Fear not. I'll clean up your mess for you.
+Eyvel: Wh-What...?!
+Raydrik: G-Gods' breath... Your spellcraft is truly a sight to behold, Your Eminence. Not even the wildest fable could compare to this...
+Veld: Heh, heh, heh...
+Raydrik: A-And now I have a perfect statue of the proud warrior of Fiana—an eternal monument to the price of defiance! Ahahaha! We've nothing to fear now! There's no rescuing a block of stone!
+
+Nanna: Eyvel... I'm sorry. I'll always honor your sacrifice...
+
+@End
+Leif: I'll come back for you, Commander! I'll... I'll grow strong enough to storm this whole city if I have to! No force in all the heavens can stop me! So just... just... ......
