@@ -1,0 +1,406 @@
+@Opening 
+In order to speak to the resistance force about the bandits on the Western Isles, Roy and company move west along the coastline. Along the way, they come across a small village caught in conflict. The local lord oppresses the resistance and does anything he can to get rid of them...
+
+@Intro 
+Zinc: Have you not found that resistance bard yet?
+Soldier: We have a good lead, milord.
+Zinc: Out with it then. Where is he?
+Soldier: He's apparently in hiding in the nearby village.
+Zinc: Removing Elffin the Bard will sever the brain behind the resistance force. Find him. Burn the village to the ground if you have to!
+Soldier: Yes, milord!
+
+Zinc: I apologize for the wait, Madam Melady.
+Melady: You seem to have...a full plate.
+Zinc: Oh, worry not, our obligations to Bern take priority over all. If you need anything, please don't hesitate to ask.
+Melady: Then let's get to the matter we discussed earlier...
+Zinc: Ah, the whereabouts of Princess Guinivere.
+Melady: Have you found anything, Lord Zinc?
+Zinc: I regret to say that I have not. Have you been to Djuto?
+Melady: I have.
+Zinc: Then I suggest you pay a visit to Father Oro. He resides in the castle at Mt Ebrakhm to the north. He knows the region better than any of us, so he may have some idea. However, if even he does not know where Princess Guinivere might be, then she is most likely not in the Isles.
+Melady: Thank you. I will speak with Father Oro then. Farewell.
+
+Roy: The resistance is supposedly very active in this area.
+Merlinus: Yes, that's what our sources say. But I also hear that Etruria's military is hunting down members of the resistance. Their numbers have apparently dwindled.
+Roy: ...Etruria does nothing about bandits but oppresses the resistance? Something is very wrong with this picture...
+Merlinus: Indeed it is.
+Roy: Can we do anything to help the resistance?
+Merlinus: Our hands are tied... To do so would directly oppose Etruria's nobility. We are here under Etruria's orders, remember.
+Roy: I'll send a letter to General Cecilia and see what she has to say. Let's not do anything too rash just yet.
+
+Soldier: Lord Roy! Etrurian troops are attacking the village to find a member of the resistance force! They're under orders from Lord Zinc, the noble who controls this area.
+Merlinus: Oh no!... But should we intervene?
+Roy: We haven't the time to await General Cecilia's reply... But I want to help the people. ...Even if it means opposing an Etrurian noble.
+Merlinus: Lord Roy...
+Roy: We fight! Our purpose is just! Make Lycia proud!
+
+@Battle 
+Galle: Were you able to ascertain Princess Guinivere's whereabouts?
+Melady: Unfortunately, no. But a bishop named Orlo in charge of the mines in the north may know.
+Galle: Very well. Then we head north.
+Melady: Galle... I'm sorry. King Zephiel wanted to keep the matter of Princess Guinivere a secret, so only I was assigned to search for her. I'm sorry to get you mixed up in this...
+Galle: Don't worry yourself.
+Melady: But you work directly under General Murdock. Surely you have other duties.
+Galle: General Murdock agreed to allow me to assist you. He thinks it's vital we find the princess and the Fire Emblem.
+Melady: ...Do you think Princess Guinivere has the Fire Emblem?
+Galle: That's what His Majesty the king thinks. And I think he's correct, all things considered.
+Melady: ......
+Galle: Come now, don't be like that. I'm sure Princess Guinivere went with good intentions. Let's hurry now.
+Melady: You're right...
+
+Elffin: ...Where...am I...?
+Mary: Are you awake?
+Elffin: ...What...happened...?
+Mary: We found you lying at the entrance to the village, covered in wounds. We took you home and have been taking care of you.
+Elffin: Thank you... But you are...?
+Mary: My name is Mary. I live in this village.
+Elffin: ...You live here... Oh no! My very presence endangers this village... ...It may even be too late...
+Mary: I'm sorry?
+Elffin: I am Elffin... One of the resistance force. The lord here is sure to send troops in to capture me.
+Mary: The resistance force...
+Elffin: Lady Mary, you should leave here. The village is in danger.
+Mary: ...No, I will stay.
+Elffin: ...Why?
+Mary: I have a younger brother, but he left with his friend next door to find work. I'm taking care of his friend's sister. I can't abandon her.
+Elffin: I understand... The most I can do to protect this village is leave. I thank you again for tending to my wounds. Please take care.
+Mary: Yes, you too.
+
+Zinc: What is going on out there? Why is it taking so long to find a single member of the resistance?!
+Soldier: It's the Lycian Army! They've joined the battle on behalf of the villagers...
+Zinc: The Lycian Army? They would betray Etruria?!
+Soldier: Also, milord, we have received a missive from Djuto. They Lycian Army is suspected of working with the bandits. The missive says to take them dead or alive.
+Zinc: Oh, really? They have ties with bandits? The irony! Those fools only want to save face...
+Soldier: Excuse me, milord?
+Zinc: This is not the mainland. The Isles are ruled by might.
+Soldier: I'm not quite sure I understand...
+Zinc: Pay it no mind. Was that all the message from Djuto said?
+Soldier: There's more. Lord Arcard has provided us with reinforcements.
+Zinc: What?!
+Soldier: They should arrive soon.
+Zinc: Confound it! We won't get credit for defeating Lycia if we're aided by reinforcements! We must wrap this up before they can join the fight... Ah, I've an idea! Get me Scollan!
+Soldier: Yes, milord.
+
+Scollan: You called, Lord Zinc?
+Zinc: Burn down the village. Kill any who resist.
+Scollan: ...Can we take the loot?
+Zinc: Do as you wish. Just do it quickly.
+Scollan: You can count on us, Lord Zinc. Heh heh heh...
+
+Scollan: Gonzalez! Where are you, Gonzalez?!
+Gonzalez: Here... I here...
+Scollan: There's a village to the south. With me so far?
+Gonzalez: With you so far.
+Scollan: Good. It might be a base for the resistance. Zinc says to burn it to the ground, village and all.
+Gonzalez: Village and all...
+Scollan: Good, you understand. Now get goin'! Don't screw this one up, you dimwit.
+Gonzalez: I... I...
+Scollan: You got a problem? Does your head hurt from thinking too much?
+Gonzalez: N-No...
+
+Scollan: Heh, he's ugly as sin, but he's got a heart of gold. There's nothing wrong with tearin' down a few houses. Are we clear, wretches? No questions?
+Bandit: We got it, boss!
+
+Klein: That's the Lycian Army...
+Thea: They were assigned to fight against the bandits...
+Klein: I know. But Lord Arcard says they're allied with the bandits now. Why they're doing exactly the opposite of their assignment is beyond me...
+Thea: .....
+Klein: Thea, take your soldiers and attack from the north. I'll commence the attack from here.
+Thea: Yes, sir.
+Klein: Thea! Hold on.
+Thea: Yes, sir?
+Klein: I hear that you have siblings.
+Thea: Yes, sir, I have two sisters. One older, one younger.
+Klein: Are they pegasus knights like you?
+Thea: They are, actually. Why do you ask?
+Klein: I have a younger sister myself...
+Thea: Any sister of yours must be enchanting.
+Klein: Yes, she is a sight. I heard, however, she got tangled up in some mess and now she's missing.
+Thea: What? Oh my...
+Klein: I have some people looking into it, but they've yet to find anything. If I didn't have this mission, I would search for her myself.
+Thea: .....
+Klein: Thea, be careful out there. For your family's sake.
+Thea: Yes, sir. Thank you.
+
+Klein: Ready then? Let's move.
+Soldier: Sir, are you sure?
+Klein: Of what?
+Soldier: Lord Arcard said Ilia's pegasus knights are expendable. They should be fighting on the front line, not us. Surely the lives of us Eturian soldiers are more valuable.
+Klein: Don't be ridiculous. They are reliable companions. We will attack at the same time...or before them, if need be. Understood?
+Soldier: Yes, sir.
+
+Klein: ...Lord Arcard's story is curious, though... The army from Lycia only arrived very recently. How could they create ties with the bandits so quickly...?
+
+Soldier: Lord Zinque, the reinforcements from Jutes should arrive shortly.
+Zinc: Blast! We have enough problems as it is...
+
+Thea: Are you ready? We move southward!
+Soldier: Captain... Are you sure we'll be all right?
+Thea: Is something wrong?
+Soldier: The Etrurian army may consider us disposable and send us to the front...
+Thea: Where did you hear that?
+Soldier: One of the other riders heard a rumor from the Etrurian army.
+Thea: Pay no mind to mere rumors.
+Soldier: But...
+Thea: I'm certain Commander Klein would never approve of that.
+Soldier: Do you really think so?
+Thea: Commander Klein's not like that. I trust him with my life.
+Soldier: ...Very well. Then we'll trust him as well, for we trust you, Captain.
+Thea: Good. Let's go!
+
+@Recruit-Talk 
+%Lilina,Gonzalez
+Lilina: Excuse me!
+Gonzalez: W-what you doing?! I am enemy!
+Lilina: I know... But there's such a look of sorrow in your eyes.
+Gonzalez: ...There is a village near mountain. You know?
+Lilina: Yes, I know it.
+Gonzalez: Tell people escape. I have order. Destroy village. I...
+Lilina: What? Don't! The villagers are innocent...
+Gonzalez: No. It order. I must.
+Lilina: It sounds to me like you should leave the person who gave you that order.
+Gonzalez: Leave?
+Lilina: Yes! You can fight with us. We're protecting the villagers.
+Gonzalez: No... I monster... People mean to me... People throw stones... People say "Go away!"... "You a monster!"... Not human...
+Lilina: That's horrible! Of course you're human! You're a very kind-hearted man. I can tell. Please, come with us. Don't be afraid.
+Gonzalez: Me afraid? I never afraid! Everyone afraid of ME! I not afraid!
+Lilina: No. You ARE afraid. You're afraid that people will throw stones and call you a monster.
+Gonzalez: ......
+Lilina: But you don't have to be afraid of us. Everyone in our army is nice. They won't do that to you. Be brave... Take that first step, and you'll never have to be afraid again.
+
+%Roy,Klein
+Roy: Wait! Aren't you an Etrurian commander? Why are you attacking us?!
+Klein: I have specific orders from Lord Arcard to take you down.
+Roy: Can't you see what's happening here? The people are suffering from the lords' abusive treatment! And you're helping them. You should be ashamed!
+Klein: ...Wait. Are you saying that you're helping the villagers?
+Roy: Yes. The lord here is ransacking the village in search of the resistance. We're fighting to stop him. And you're apparently on his side.
+Klein: I had no such intention. My orders stated that you were the ones working with the bandits.
+Roy: What?! Why would we be working with bandits? We just want to clean things up here and get home to Lycia!
+Klein: ...Such nerve.
+Roy: What?!
+Klein: Lord Arcard has made a fool of me. I have been so blind enough not to see through his thin veil of deceit.
+Roy: ...Do you see what we see now?
+Klein: I am Klein of House Reglay of Etruria. Forgive me for my misguided attack against you.
+Roy: I am General Roy of the Lycian Army.
+Klein: General Roy, I would advise you to be cautious. With you against Lord Arcard, I expect him to use every pawn at his disposal to have you dealt with.
+Roy: Thank you for the advice...
+Klein: If you would allow it, I will join you.
+Roy: You will?
+Klein: Yes. I wish to monitor you as an Etrurian commander. I should prove useful as both a fighter and a diplomat.
+Roy: Thank you.
+
+%Clarine,Klein 
+Clarine: Klein!
+Klein: Clarine? You are safe!
+Clarine: I'm sorry I left like I did. But I wanted so badly to see you!
+Klein: Oh, the trouble you get into... Well, you're safe, and that's what matters. ...What brings you out here? Did you find a trustworthy mercenary for hire?
+Clarine: No, I joined the Lycian Army.
+Klein: The Lycian Army?!
+Clarine: Yes! My healing staves have been most useful!
+Klein: ...I see. I thought your eyes looked...sharper.
+Clarine: I'm a lady now, I am.
+Klein: ...Let me ask you this. What kind of individual is General Roy?
+Clarine: Hmm... He's a tad rough around the edges for a noble... His hair especially is an absolute mess...
+Klein: ...Let me rephrase that. Is General Roy working with the bandits?
+Clarine: No, of course not! We've been sent here to vanquish the bandits!
+Klein: So I heard...
+Clarine: The Eturians here are malicious people... It is so embarrassing. Klein... Are you working for them?
+Klein: No. Not anymore.
+Clarine: What?
+Klein: I was sent here to protect the villages. I hereby join the Lycian Army to fulfill my mission.
+Clarine: Thank you, Klein!
+Klein: Shall we, then? Will you introduce me to General Roy?
+Clarine: Naturally! I love you, Klein.
+
+%Thea,Shanna
+Shanna: T-Thea! Sister!
+Thea: Shanna...?
+Shanna: What are you doing here?
+Thea: ...I have a contract with Commander Klein of Etruria. Shanna... Are you with the Lycian Army?
+Shanna: Yes.
+Thea: I see... Then this was inevitable. Draw your lance!
+Shanna: No, Commander Klein said he would join us! We don't have to fight!
+Thea: What? Really?
+Shanna: Yes!
+Thea: ...That's a relief. I will join you as well.
+Shanna: Thanks, Sister!
+
+%Klein,Thea
+Klein: Thea!
+Thea: Commander Klein! What is the matter?
+Klein: There's been a change of plans. We are going to fight under General Roy of the Lycian Army.
+Thea: Understood, sir. We shall follow you without question.
+Klein: I don't mind a question here or there, to be frank.
+Thea: We are Ilian mercenaries, sir. We follow our employer's every order. And besides...
+Klein: Yes?
+Thea: I trust you to make proper judgments.
+Klein: Thank you, Thea.
+
+@Boss-Talk 
+%Thea,Shanna
+Shanna: T-Thea! Sister!
+Thea: Shanna...?
+Shanna: What are you doing here?
+Thea: ...I have a contract with Commander Klein of Etruria. Shanna... Are you with the Lycian Army?
+Shanna: Yes.
+Thea: I see... Then this was inevitable. Draw your lance!
+Shanna: No... I don't want to fight you!
+Thea: ...Shanna, you know the code of the Ilian mercenaries.
+Shanna: ...Never betray your employer...
+Thea: Precisely. And we must follow that code, even if it means we must fight our own kin.
+Shanna: But...one of us could be killed!
+Thea: I know that! But we must fight! Failing to do so would damage the reputation of the Ilian mercenaries. Our nation can't afford to lose its mercenary contracts!
+Shanna: Thea...
+Thea: Now, draw your lance, Shanna!...Why... Why does it have to be like this...?
+
+@Visit 
+House: I wonder how Mary's doing... Her brother and his friend are both traveling, trying to make money. It's too dangerous to go outside now... Can you go check on her? Here, I'll give you this for your trouble... 
+
+House: A few months ago, my granddaughter went missing. We all searched in the mountains and found her. She was with a hulking monster of a man, so we threw stones at him to drive him off... Afterwards my granddaughter told me that he was the one who led her to the village. ...If you ever find that man, would you give him this? It's a special axe that's effective against swords. And...tell him I'm sorry. 
+
+House: I hate the resistance! We civilians have to deal with the consequences of their actions. You know we stand no chance if we try to stand up to our lord. We just want to lead a normal life. Oh... I'm sorry. I'm just frustrated. I have no useful skills so I can't help you... but take this... 
+
+House: ...The resistance suffered a crippling defeat here. Here, take this. I'm going to look for other survivors. There is still hope if we can find our leader.
+
+House: Ah, our heroes! I thank you on behalf of the village. This is made from the scale of a dragon. It's said it will protect the one who uses it from harm. Please, take it.
+
+Myu: It's Wade!
+Wade: Hey, Myu! ...Come on, can't you call me UNCLE Wade?
+Myu: But... You're just Wade.
+Wade: Ah, never mind. You look like you've gotten bigger.
+Myu: Yeah!
+Wade: ...It's dangerous here. Go hide in the hills.
+Myu: ...Alone?
+Wade: My sister's still here, right? She'll take you.
+Myu: Yeah, Auntie Mary's here.
+Wade: So she's Auntie Mary but I'm just Wade, huh?
+Myu: Oh. Here you go.
+Wade: What's this? A wing?
+Myu: It'll make you like a bird!
+Wade: Like a bird? What's that mean?
+Myu: Like a bird. You know.
+Wade: No, I don't know. But, uh, anyway, this is for me?
+Myu: No, it's for Big Brother Lot.
+Wade: And Lot is Big Brother Lot... Have you got it out for me?
+Myu: Ha ha ha! I'll go see Mary. Here's the wing. Give it to Lot, OK, Uncle Wade?
+Wade: And NOW she calls me Uncle... Woah, are you OK?! Don't trip...
+
+Myu: Brother! You're home!
+Lot: Myu! Have you been a good girl?
+Myu: Yes, I was good! I didn't even wet my bed!
+Lot: That's my girl.
+Myu: Lot... While you were away, Mother...
+Lot: Yeah, I know... She went to sleep...
+Myu: Here... Mother left this for you. She said you might find a use for it.
+Lot: ......
+Myu: Brother... You won't leave me, will you? You won't go to sleep like Mother...?
+Lot: Of course not! In fact, next time you see me I'll have a whole wagon of presents. Just listen to Mary and stay good, all right?
+Myu: OK!
+Lot: Go hide in the hills with Mary. It's dangerous here.
+Myu: I will... And Lot?
+Lot: Yeah?
+Myu: You promised! Don't leave me!
+Lot: I won't...
+
+Mary: Have you seen my brother? His name is Wade, and he's a mercenary... Have you at least heard of him? Well, take this for your trouble.
+
+Mary: Wade!
+Wade: Sis! It's good to see you.
+Mary: You've returned?
+Wade: Well, not exactly... We're here on a mission.
+Mary: ...You're never coming back, are you?
+Wade: No! Of course I will! ...Just not yet. Just you wait. When I come back I'll have more money than I can carry. Then all our problems will be a thing of the past.
+Mary: I don't care about that... I just want you safe.
+Wade: Sis...
+Mary: I know how brash and hotheaded you can be, but always remember... There are people who care about you.
+Wade: ......
+Mary: Here, take this.
+Wade: What is it?
+Mary: It's a special weapon. I nursed a traveler back to health, and he left it in return. You can use it, can't you?
+Wade: Thanks, Sis! I've gotta go now.
+Mary: Just be careful...
+
+Lot: Mary...
+Mary: Lot! You've returned?
+Lot: No... We just stopped by on a mission.
+Mary: Oh... Myu will be sad.
+Lot: Ever since mother died, I've been making you take care of Myu. I'm sorry.
+Mary: No... don't be...
+Lot: Someday...
+Mary: !
+Lot: Someday I'll return. ...Can I leave Myu to you until then?
+Mary: ...Can you promise?
+Lot: ... Yes.
+Mary: Don't lie... You're going to war. There's no saying you'll return.
+Lot: ......
+Mary: But I'll be waiting. Without false hope...
+Lot: I'm sorry.
+Mary: Oh, take this.
+Lot: What?
+Mary: It's a magic weapon that will help you keep your promise.
+Lot: Thank you, I appreciate it. Well then... I must be off.
+Mary: Be careful...
+
+@Boss 
+Zinc: The people are suffering...? What concern is that to me? They live to serve me. Their wails are meaningless.
+
+Zinc: This is my land... Mine alone... None...shall...
+
+@End 
+Merlinus: Lord Roy, there is a young man claiming to be with the resistance here.
+Roy: I'll see him. Let him pass.
+Elffin: I am pleased to meet you. My name is Elffin. I am a member of the resistance force.
+Roy: I am Roy of the Lycian Army.
+Elffin: You have my thanks for saving the village here.
+Roy: We simply did what we believe is right.
+Elffin: But now you stand against Etruria.
+Roy: Even so, I have no regrets. We may have opposed Etruria's immediate interests, but once the truth about the Isles is out, I'm certain they will understand. I sent a letter to a trustworthy Etrurian noble. If she takes appropriate measures, they will send us aid.
+Elffin: I would not be so sure...
+Roy: Why is that?
+Elffin: Don't you find it unusual that Etruria sent you here in the first place?
+Roy: Actually...yes, I do.
+Elffin: This is merely conjecture... But was it High Chancellor Roartz and Lord Arcard who requested your help?
+Roy: ...It was.
+Elffin: Why were they so eager to get your army off the mainland, I wonder? Perhaps your presence in Lycia was undesirable to them.
+Roy: I never even considered that...
+Elffin: There are rumors...that Roartz and Arcard are working with Bern.
+Roy: What?! Then Lycia is in danger!
+Merlinus: L-Lord Roy!
+Elffin: Your country may be in peril. Are you free to waste your time on the Isles as you are?
+Merlinus: He's right! Bern wanted us out of Lycia so they could launch an invasion! We must head back at once!
+Roy: ...We stay here.
+Merlinus: What?! Why?!
+Elffin: ......
+Roy: It's difficult to judge what may be hearsay and what may be truth. We can't simply jump on this information and run back to Lycia. I am certainly concerned, but my father and General Cecilia are there. The people on the Isles have only us to rely on.
+Merlinus: That may be, but...
+Roy: If we leave without finishing our mission, then all we've done here was for naught.
+Elffin: ...Your army is blessed with a wise leader.
+Roy: What?
+Elffin: Lord Roy, I am sorry for testing you so.
+Merlinus: Testing us? So that was a lie?!
+Elffin: It was the truth. However, I presented the rumor in a way that you might take rash action. Your leader is an admirable individual. I would join you if you will allow it.
+Roy: ...I don't like that you tested us. But if you can help, I welcome you. Now then, back to the topic at hand. What can we do to help the people of the Isles?
+Elffin: You should head south...towards Caldonia.
+Roy: Why?
+Elffin: Castle Edina is located there. It is where workers are kept before they are sent to Eburacum.
+Roy: Then we must save the people there!
+Elffin: Lord Roy, please take this sword.
+Roy: What is this?
+Elffin: It is called a wyrmslayer. It was created during the Scouring to use against dragons. It is effective against wyverns as well.
+Roy: Wyrmslayer? Is this a legendary weapon?
+Elffin: No. Legendary weapons can only be used by those whose skill rivals the Eight Legends. This weapon, however, can be wielded by anyone with experience in swordplay.
+
+Mary: Are you the leader of this army?
+Roy: Yes, I am.
+Mary: I wish to thank you for protecting our village.
+Roy: There is no thanks necessary... We did what we believe is right.
+Mary: Regardless, I want you to have this as a token of our gratitude.
+
+Soldier: Commander Klein, we will stay and help with reconstruction as directed.
+Klein: Good. These people need you.
+Soldier: Would that we could fight at your side. Here is the bolt we were holding for you. You may need it more than we do. Farewell and good luck, Commander Klein.
+Klein: Thank you. Good luck to you as well.
+
+Soldier: Captain! We will return to Ilia to make our report.
+Thea: Very good. Thank you for your service.
+Soldier: Oh, and take this... Your sister gave it to me before we left. Please be careful...
+Thea: Thank you. You too.

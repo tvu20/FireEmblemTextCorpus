@@ -1,0 +1,112 @@
+@Opening 
+After meeting Niime, the "Hermit on the Mountain," the mysteries of Bern's
+Dragons were slowly beginning to unfold.
+
+With more unknowns still needing verification, Roy directed his troops toward a
+large manor on the outskirts of Bulgar.
+
+There, Advisor Roartz of Etruria was preparing his defenses against Roy...
+
+@Intro 
+Roartz: They let the enemy inside!? Damn! If I am to go to Hell, then that Roy shall be going down with me!
+Soldier: Lord Roartz! The remnants of the Djute clan are saying that they will come to our aid once they have securely hidden the Miurgre.
+Roartz: Miurgre? Ah, one of the Divine Weapons. Good, then we must hold our own until then!
+ 
+Roy: This is Roartz’s manor...
+Niime: I understand that this mansion holds methods of attacking through little cracks in the framework. You must not think you that are safe just because your back is to the wall.
+Roy: Do you know much about this place?
+Niime: Well, I am at least slightly known to know more than most people. The rumor about this manor is something I picked up back in the city.
+Roy: ...Do you know what the Dark Dragon looks like?
+Niime: Well, I can’t say I’m absolutely sure about that. But I would love to see it with my own eyes.
+Roy: I was thinking... Maybe the Dark Dragon is in human form as well.
+Niime: Perhaps. Maybe all the Dragons are in human form now. I’ve also heard stories of Dragons in human form living with people.
+Roy: Arcadia...
+Niime: Hm? Did you say something?
+Roy: No, nothing.
+Niime: I don’t know anything specific, but I’ve read in an ancient scroll that Dragons started taking human form only after the Ending Winter.
+Roy: The Ending Winter...
+Niime: You’ve heard about it, right?
+Roy: Yes, only in legend. ‘At the Winder of Ends, the laws of nature were turned upside down. Day became night, and summer became winter.'
+Niime: That’s it. These scrolls are so old and damaged so I couldn’t decipher all of them, but one thing is clear. The Ending Winter was a disaster powerful enough to bend and twist the planet.
+Roy: What caused it?
+Niime: Who knows... Popular belief says that the laws of nature were twisted when the Dragons unleashed vast amounts of magical power, but I have no idea about what really happened. But it does seem certain that Dragons started taking human form after the Ending Winter. It must be more than coincidence.
+Roy: Yes, I agree.
+Niime: Well, either way, the truth lies in Bern.
+
+@Battle 
+Dayan: Good, the mansion is in chaos. I shall fight those Bern troops alone, to the death!
+
+Thoril: Those pigs from Etruria…! I shall avenge my Djute brothers right here, right now!
+
+@Recruit-Talk 
+%Roy,Dayan 
+Dayan: Are you the Etrurian General leading this group?
+Roy: Yes. And you are?
+Dayan: I am Dayan.
+Roy: Dayan...? I’ve heard that name somewhere...
+Dayan: I must first thank you. My clan was always fighting against Bern and the clans that submitted to them. We were forced to reside to guerilla warfare instead of going up against them honorably, face to face. However, now that you have attacked Bern, the tables are beginning to tip in our favor.
+Roy: I see. I am glad that I could help.
+Dayan: But I want to ask you one thing. Once this battle is over, do you intend to withdraw your troops right away?
+Roy: After this battle?
+Dayan: Yes. Sacae belongs to us Sacaeans. If authoritarian rule by Bern is only to be replaced by Etrurian rule, then we would have to fight you next.
+Roy: Right after this battle... That would not be possible. We must have Sacae as a base to launch direct attacks on Bern.
+Dayan: What... Directly into Bern’s lands?
+Roy: Even if we could drive off Bern now, it would only be a matter of time until they strike back at us. We must destroy their roots. Right?
+Dayan: Yes, you are right. I see...in that case, I shall aid you.
+Roy: That would help us tremendously.
+Dayan: But once Bern is defeated, you must withdraw your troops from Sacae. Is that all right with you?
+Roy: Of course. You have my word.
+
+@Boss 
+Roartz: S-Someone! Come and defend me! It is all over if I am hurt!
+
+Roartz: W-Wait... Be my servant! It is still not too late... I shall...forgive your crime of turning your blade...toward me... Guh...!
+
+%Douglas,Roartz
+Roartz: Douglas... Hmph! After all that you said, you too are following those with power!
+Douglas: Perhaps it may seem that way from the outside. But there is no hesitation in my heart now.
+Roartz: Silence! I have just about had enough of you. Die here!
+
+@End 
+Roy: Next is Bern...
+Merlinus: Master Roy! We have reports that the remainders of the Djute clan are hiding in some ruins near here.
+Roy: Ruins?
+Merlinus: Yes. And we also have a captive who says that a bow used during the Scouring is hidden there.
+Roy: What? Then...
+Merlinus: It’s highly possible that it is a Divine Weapon.
+Roy: We must get to those ruins! Let’s go!
+ 
+Roy: Merlinus, I need you to send this letter to Bishop Yoder in Etruria.
+Merlinus: A letter? May I ask what it says?
+Roy: It’s the story we heard from Niime about the Dragons.
+Merlinus: Oh? What did you discuss with her about the Dragons?
+Roy: It’ll be long if I tell you. I haven’t sealed the letter yet, so you can look through it if you want.
+Merlinus: All right. Let me see...
+Guinevere: ...Roy.
+Roy: Princess, is something wrong?
+Guinevere: ...We enter Bern now.
+Roy: Yes. We will attack Bern very soon. So...may I ask the rest of the story now...?
+Guinevere: ...Yes. That is why I came to you.
+Roy: King Zephiel was an outstanding pupil is his studies, he was skilled in warcraft... He grew to be the perfect heir for the king.
+Guinevere: That is correct.
+Roy: But still, the former king did not look kindly at him.
+Guinevere: In fact... Our father began to hate Zephiel because he grew to become such a brilliant and worthy youth.
+Roy: What...is that supposed to mean...?
+Guinevere: Our father was a man of ordinary skill and intellect. Therefore, Zephiel’s outstanding skill made our father cold towards him.
+Roy: Jealousy...?
+Guinevere: And then one day, our father told Zephiel that ‘the next heir to Bern would be Guinevere’s husband.'
+Roy: What! That’s awful!
+Guinevere: But Zephiel was very patient. He said that he did not mind even if he could not gain the throne. But the people around us, who were looking forward to Zephiel’s ability to be a good king, would not allow anyone else to be the heir. Pressured by the public, our father lost his patience at last, and...
+Roy: Decided to kill King Zephiel...?
+Guinevere: At a banquet, our father gave Zephiel a poisoned drink from his own hands. And that was the first and last cup that Zephiel took from our father. After returning to his room, Zephiel started to get sick. For ten days and nights, Zephiel lingered between life and death. But Murdock, Zephiel’s teacher and loyal general, saved his life.
+Roy: ...The former king never did anything after that?
+Guinevere: No... But I have heard that he had plans to get rid of Murdock and Zephiel’s mother as traitors. He was scheming to murder them all along with Zephiel. After hearing that, Zephiel made believe that he was dead. Our father then checked the coffin to confirm Zephiel’s death. At that moment, Zephiel rose up from the coffin and...with his sword...
+Roy: ......
+Guinevere: I was but a child then, so naturally I could not have understood what was going on. All I knew is that after our father died, Zephiel never smiled again. Until then, he was strict at times, but he was always a kind and loving brother to me. So...
+Roy: Princess...
+Guinevere: So I... At the bottom of my heart, I trust that Zephiel can change, that he can become that loving brother again. I...had to take action.
+Roy: I...see...
+Guinevere: ...But now, my brother is in a place where my words cannot reach him. Roy, please... Please stop him. Please stop him from inflicting pain and suffering to the people of Bern...and the rest of Elibe.
+Roy: Even if it may resolve to the blade?
+Guinevere: ...I have made my resolve when I entrusted this task to you.
+Roy: I see. You have my word and loyalty, Princess Guinevere. I swear to the Fire Emblem that I will stop King Zephiel!

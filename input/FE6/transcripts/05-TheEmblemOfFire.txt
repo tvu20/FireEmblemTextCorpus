@@ -1,0 +1,105 @@
+@Opening 
+Lord Erik, Marquess of Laus, had been working with Bern against his allies of Lycia. This gave Roy further shock. Lycia, where Roy had grown up in, was no longer a safe place to be either. Heading for Ostia, Roy decided to move through the mountains, where people seldom want to avoid unnecessary trouble.
+
+@Intro 
+Bandit: Boss! Our boys just got back from scouting the village.
+Dory: Then let's go get our tribute.
+Bandit: But Boss, something's different today. There's an army stationed real close to us! They say it looks like the Lycian Army.
+Dory: Lycia? Then there's nothing to worry about. They were almost wiped out by Bern. We can handle a few battered soldiers.
+Bandit: You're right, boss!
+Boss: They've probably got some valuables on them too! Still, don't get careless. Ready then? Let's mop up these losers, boys!
+
+Merlinus: A villager is here to see you, Lord Roy. Hey, you, wait just a second...
+Villager: Are you Lord Roy of House Pherae?
+Roy: Yes. How may I help you?
+Villager: Milord, I beg you! Please, rid us of the bandits terrorizing our village!
+Roy: Bandits?
+Villager: There's a group of bandits that made their base in the castle near the cliffs.
+Roy: Where are the castle guards?
+Villager: They fled once they heard that the Lycian Army was defeated by Bern... We villagers were left on our own. Our days are spent in fear of bandit attacks.
+Roy: .....
+Villager: We have no one else we can ask. Please, help us!
+Merlinus: Lord Roy, we must keep our pace towards Ostia...
+Roy: Yes, I know. But we can't simply ignore people in need of help!
+Merlinus: You're joking!
+Villager: You will help us?! Thank you! Please use the gate to the west. It'll take you right to the castle.
+Roy: Thank you.
+Villager: I'll arrange for the gate to be opened when you give the signal.
+
+Roy: Merlinus! We're going to the castle to drive off the bandits!
+Merlinus: Sigh... Youthful energy. Where does it come from?
+
+@Battle 
+Yoder: Thank you, Dorothy. Please tell Brother Saul as well.
+Dorothy: I will, Father Yoder.
+
+Dorothy: But where did Saul run off to now? How am I supposed to guard him if he keeps disappearing?
+
+Girl: Er... Brother Saul, I appreciate the offer, but not tonight...
+Saul: Come now, don't be like that. We can sit by the fire in the dark of night as I soothe you with my calming sermons...
+Dorothy: There you are! Saul!
+Saul: Wonderful. Dorothy...
+Girl: I'll take my leave now.
+Saul: No, don't go! Oh my... Look what you've done now, Dorothy. That expression on your face scared her away.
+Dorothy: This is my normal look! Saul, you can't try to woo every girl you meet.
+Saul: You make it sound like a bad thing! I simply offer my helping hand to any poor souls in need.
+Dorothy: Then why do you always offer to give your sermons at night?
+Saul: ...Well, putting that aside... Did you have some good reason for interrupting my good work?
+Dorothy: Oh, right. The Lycian Army is apparently somewhere around here.
+Saul: Truly?! Is Princess Guinivere still with them?
+Dorothy: Yes, if the reports from the St. Elimine Church are accurate.
+Saul: Then we must make haste! Let us join them.
+Dorothy: .....
+Saul: What's the matter, Dorothy?
+Dorothy: You only want to join them because Princess Guinivere is said to be so beautiful.
+Saul: Don't be ridiculous... Come now, hurry along.
+Dorothy: Yes, let's go!
+
+@Visit 
+Village: Hold on. Before you go, take this lance with you. It was once wielded by a knight called Sir Gant. The stories say he bested many a foe with this lance!
+
+House: If you can, try to occupy forts. That'll stop enemy reinforcements from showing up!
+
+House: I was there when Araphen was taken... The wyvern riders of Bern were terrifying enough... But then a dragon engulfed the Lycian Army in flame... Oh Elimine, please tell me it was a dream...
+
+House: This whole area is really perfect for bandits. It's no wonder they appeared. They can cross mountains and a bandit on a peak is a force to be reckoned with. Dreadful. Just dreadful...
+
+@Boss 
+Dory: No one's ever survived a blow from my axe! Hey, you. Wanna see why?
+
+Dory: Gah...! No...I don't wanna...die...
+
+@End 
+Merlinus: Lord Roy! A priest from the St. Elimine Church wants an audience with you...and Princess Guinivere!
+Roy: He knew that Princess Guinivere was with us?
+Merlinus: Yes. I can't imagine how.
+Roy: Me neither... I'll see him alone.
+Guinevere: Roy, I will be fine. I wish to meet this priest.
+Roy: Princess?
+Guinevere: Tensions between my brother and the church have worsened as of late. I do not believe they would attempt anything underhanded.
+Roy: I see. Merlinus, allow this priest in.
+Saul: Lord Roy, it is a pleasure to meet you at last. I am Saul, an acolyte of the St. Elimine Church.
+Roy: Pleased to meet you.
+Saul: Oh... And you must be Princess Guinivere! You are as beautiful as the rumors say!
+Guinevere: Pardon me...?
+Saul: Ahem... Forgive me. Your Highness, I wish to know the location of the Fire Emblem. You have it with you, do you not?
+Guinevere: How did you know that?!
+Saul: Bern's head church tells us the Fire Emblem disappeared from the Shrine of Seals. And you also went missing at exactly the same time.
+Guinevere: .....
+Saul: I was sent by the Church to confirm the truth. Why did you take the Fire Emblem?
+Guinevere: ...I wished to stop my brother.
+Saul: Your brother... Zephiel, the king of Bern.
+Guinevere: Yes.
+Saul: Do you know what the Fire Emblem is used for?
+Guinevere: ...It's the key that awakens a sword that was used to slay the dragons long ago. That was what my father told me anyway. I am unsure how exactly the Fire Emblem or the sword work. My brother seemed to worry abut the Fire Emblem falling into enemy hands. ...Extraordinarily so.
+Saul: So you took the Fire Emblem to make the king believe it fell into enemy hands? All in an attempt to stop his conquest?
+Guinevere: Yes...but the war continued anyway.
+Saul: And what will you do now?
+Guinevere: ...Must I reveal my plan at this moment?
+Saul: Ah, so Your Highness has a plan.
+Guinevere: Yes. I have not given up hope of settling this war without further bloodshed.
+Saul: I see. In that case, I will accompany you on your journey.
+Guinevere: If Roy allows it.
+Roy: I have no objections.
+Guinevere: Thank you, Roy.
+Roy: Of course, Princess.

@@ -1,0 +1,144 @@
+@Opening 
+After defeating Sigune, Roy headed for Edessa, located in the southeast of Ilia. Castle Edessa, owned by Zelot, leader of the Ilian mercenary knights, once served as the headquarters of the Pegasus Knight squads as well. However, with Zelot gone, Bern saw its chance and attacked the castle, seizing it and forcing the mercenaries and Pegasus Knights into submission.
+
+Castle Edessa was Murdock’s headquarters, but since Murdock had returned to Bern, Roartz was put in charge. Alarmed by the Etrurian Army’s speed in advancing on to Edessa, Roartz hurriedly contacted the various Ilian knight groups asking them for aid. However, their replies were not promising.
+
+@Intro 
+Roartz: Well? Have we got enough troops?
+Soldier: Well... We are requesting aid from Ilia’s knights, but all of them except those that have been given direct orders from Lord Murdock are hesitant to help us.
+Roartz: Damn! How could this happen... ...Ah, we had captured Zelot’s wife and his family. How about Zelot’s group? Have they responded?
+Soldier: No... They have been traveling all over the continent as mercenary knights, so we do not even know their exact location.
+Roartz: Damn...
+Soldier: Ever since Sigune’s group was defeated, all of Ilia’s militia have been reluctant to fight the Etrurian Army.
+Roartz: Blast! Everyone, everyone is such a coward! They would have me, top advisor to the Etrurian Court, die in a place like this!?
+ 
+Old Woman: Cough, cough...
+Juno: Are you all right? Here, take my shawl.
+Old Woman: N-No, then you would be cold...
+Juno: It’s all right, I’m used to the cold. It’s far better than flying through the blizzards on a pegasus.
+Old Woman: ...Thank you. Cough, cough...
+Girl: Lady Juno... What’s going to happen to us?
+Juno: ...I don’t know. But we must have hope. Perhaps the enemy might leave, or perhaps Zelot might return. We must not give up hope.
+Girl: ...Where is Lord Zelot now?
+Juno: In his last letter he said that he was joining the Lycia Alliance Army, but after that... Well, he could be closer that we think he is.
+Girl: I hope you’re right.
+ 
+Guinevere: ...We fight again today.
+Roy: Yes. When we take this castle, we can use it as a base to launch attacks on Bern.
+Guinevere: ...Yes.
+Roy: Princess... May I ask the reason why Bern’s former king tried to murder King Zephiel?
+Guinevere: ...Zephiel and I were born from different mothers. I am actually only his half-sister.
+Roy: I heard that Zephiel’s mother was the queen of Etruria.
+Guinevere: Yes. It was an arranged marriage to strengthen the tie between Bern and
+is my mother. 
+...... 
+The marriage between our father and Zephiel’s mother was forced. Therefore, our father didn’t love Zephiel’s mother, and always thought badly of Zephiel. 
+Then is that why the former king and King Zephiel had a bad relationship? 
+No... Even then, Zephiel was always trying his best to gain our father’s affection. He excelled in his studies and military training, and he was always trying hard. He grew to become a proud heir to Bern’s throne. 
+Then why did the king try to... 
+Master Roy! We are ready for the attack! 
+All right, I’ll be there in a minute! Princess Guinevere, I’m sorry, but... 
+
+@Battle 
+Roy: The blizzard is picking up… This might take longer than we expected. We should head for Bern as soon as we take the castle.
+
+@Recruit-Talk 
+%Zelot,Juno
+Zelot: Juno!
+Juno: Zelot!
+Zelot: Are you all right? You’re not hurt? They didn’t do anything terrible to you?
+Juno: Oh, Zelot, I am no child. I am the ex-flightleader of the Pegasus Knight Fleet, you know.
+Zelot: That’s true, but...
+Juno: I’m all right. I’m not hurt or anything.
+Zelot: Good...
+Juno: Why are you in the Etrurian Army? I thought you were with the Lycia Alliance.
+Zelot: Well, it’s a long story... Anyway, this is the Etrurian Army only by name. It is actually made up of troops from the Lycia Alliance Army.
+Juno: Oh... I see.
+Zelot: I’m sorry. I couldn’t be at the castle when I was needed the most...
+Juno: There’s no point in dwelling on the past.
+Zelot: But you had to go out and fight...
+Juno: Oh? Don’t you like my flightleader outfit?
+Zelot: Of course I do! But...
+Juno: Then there’s no problem. You’ll be seeing a lot of it from now on.
+Zelot: What! Do you mean...
+Juno: Yes. I will fight alongside you as well.
+Zelot: No! No no no. You retired long ago. So just leave the fighting to us...
+Juno: Even after I retired, I had to fight anyway. Zelot, there is no safe place in the world any more.
+Zelot: Well...
+Juno: So I will fight, so I can help bring a time of peace all the more quickly.
+
+%Thea,Juno
+Thea: Juno!
+Juno: Thea... What are you doing here?
+Thea: It’s a long story... But anyway, I’m with the Etrurian Army now. I heard Edessa had fallen to Bern, and I was worried, but... I’m glad to see you’re all right.
+Juno: ...I thought you were originally fighting for the people who were fighting against the Etrurian Army. You didn’t...
+Thea: No! I didn’t go against the Ilian Mercenary Code. I fulfilled my duties as a mercenary and then joined the Etrurian Army.
+Juno: Of course... You’re a good and diligent girl. You wouldn’t do something like that. I’m sorry.
+Thea: No, it’s all right... And, um... What are you wearing?
+Juno: This? Why, this is my military outfit, as you very well know. Well, what do you think? Don’t you think I can still go on as flightleader?
+Thea: But... I thought you retired.
+Juno: I can’t be saying that in this time of emergency! On my own, all I could do was rescue the people in the castle, but if I joined you, I could fight against Bern as well.
+Thea: So you’re going to fight alongside us?
+Juno: Yes.
+Thea: Yes! I never thought I could fight alongside you again.
+Juno: Don’t get cocky now. I haven’t gotten too rusty yet either!
+
+%Shanna,Juno
+Shanna: Big Sister Juno!
+Juno: Shanna? Why are you here?
+Shanna: I’ve been in the Etrurian Army. I was surprised when I heard that Edessa got taken by Bern, but I knew you’d be okay!
+Juno: Oh? Why do you say that?
+Shanna: You were captain of the Fleet! There’s no way Bern could defeat you.
+Juno: Thank you. Well, you’ll be sorry to hear that I was captured.
+Shanna: Well, that’s...
+Juno: But I won’t stay defeated by Bern for long. On my own, all I could do was rescue the people in the castle, but if I joined you, I could fight against Bern as well.
+Shanna: Then are you going to fight with us?
+Juno: Yes.
+Shanna: Really? Yes!
+Juno: Does that make you so excited?
+Shanna: Yes! I became a Pegasus Knight because I wanted to be like you. Fighting alongside you is like a dream.
+Juno: My, my... Well, you always did tend to go overboard with things...
+
+@End 
+Roy: Next is Bern...
+Merlinus: Master Roy! Part of Bern’s army is hiding in the ruins on the outskirts of Edessa!
+Roy: Ruins?
+Merlinus: Yes. Apparently, in them lies a spear that was used during the Scouring.
+Roy: What? That spear...
+Merlinus: It is most probably a Divine Weapon.
+Roy: We must hurry to the ruins!
+ 
+Roy: Princess Guinevere, we will attack Bern now. So may I ask...
+Guinevere: ...The rest of the story.
+Roy: King Zephiel was an outstanding pupil is his studies, he was skilled in warcraft... He grew to be the perfect heir for the king.
+Guinevere: That is correct.
+Roy: But still, the former king did not look kindly at him.
+Guinevere: In fact... Our father began to hate Zephiel because he grew to become such a brilliant and worthy youth.
+Roy: What...is that supposed to mean...?
+Guinevere: Our father was a man of ordinary skill and intellect. Therefore, Zephiel’s outstanding skill made our father cold towards him.
+Roy: Jealousy...?
+Guinevere: And then one day, our father told Zephiel that ‘the next heir to Bern would be Guinevere’s husband.'
+Roy: What! That’s awful!
+Guinevere: But Zephiel was very patient. He said that he did not mind even if he could not gain the throne. But the people around us, who were looking forward to Zephiel’s ability to be a good king, would not allow anyone else to be the heir. Pressured by the public, our father lost his patience at last, and...
+Roy: Decided to kill King Zephiel...?
+Guinevere: At a banquet, our father gave Zephiel a poisoned drink from his own hands. And that was the first and last cup that Zephiel took from our father. After returning to his room, Zephiel started to get sick. For ten days and nights, Zephiel lingered between life and death. But Murdock, Zephiel’s teacher and loyal general, saved his life.
+Roy: ...The former king never did anything after that?
+Guinevere: No... But I have heard that he had plans to get rid of Murdock and Zephiel’s mother as traitors. He was scheming to murder them all along with Zephiel. After hearing that, Zephiel made believe that he was dead. Our father then checked the coffin to confirm Zephiel’s death. At that moment, Zephiel rose up from the coffin and...with his sword...
+Roy: ......
+Guinevere: I was but a child then, so naturally I could not have understood what was going on. All I knew is that after our father died, Zephiel never smiled again. Until then, he was strict at times, but he was always a kind and loving brother to me. So...
+Roy: Princess...
+Guinevere: So I... At the bottom of my heart, I trust that Zephiel can change, that he can become that loving brother again. I...had to take action.
+Roy: I...see...
+Guinevere: ...But now, my brother is in a place where my words cannot reach him. Roy, please... Please stop him. Please stop him from inflicting pain and suffering to the people of Bern...and the rest of Elibe.
+Roy: Even if it may resolve to the blade?
+Guinevere: ...I have made my resolve when I entrusted this task to you.
+Roy: I see. You have my word and loyalty, Princess Guinevere. I swear to the Fire Emblem that I will stop King Zephiel!
+ 
+Girl: Excuse me...
+Guinevere: Yes...?
+Girl: Are you the one who saved us?
+Guinevere: No, I am...
+Girl: Thank you! Thanks to you, we can now stand here safely. Please accept this token of our gratitude.
+Old Woman: Thank you!
+ 
+Guinevere: ...... I shall hand this to Roy...

@@ -1,0 +1,86 @@
+@Opening 
+After defeating Martel and finding their way out of the forest, The Etrurian Army faced the blizzards common of Ilia’s winters.
+
+Ilia’s harsh climate was a natural defense in itself against invaders. Sigune, flightleader of the Pegasus Knights that had turned to Bern, was preparing to attack Roy, coupled with Ilia’s greatest natural weapon.
+
+@Intro 
+Soldier: Captain! The enemy has arrived. They are on the other side of the mountain.
+Sigune: So, they’ve arrived. ...The battle will start soon.
+Soldier: Captain, are you sure?
+Sigune: About what?
+Soldier: The Etrurian Army is saying that will liberate us from Bern. In that case, we could gain independence...
+Sigune: Do you really believe what they say? What idiot would fight a war for the sake of others? Once they defeat Bern, they’ll just establish themselves as the next dictator.
+Soldier: Well...
+Sigune: Then it’s better to be with Bern. They’re better at warfare.
+Soldier: ......
+Sigune: Come now, we have more immediate problems. We’ve got to get rid of the enemy that’s right in front of us first. Are the ballistas ready?
+Soldier: Yes. The archers are all at their stations.
+Sigune: Good! Shoot at them from a distance... They’ll be floundering around in the dark in this powerful blizzard. Observe nature’s wrath...
+ 
+Roy: Such strong wind and hail... I can’t see three meters in front of me.
+Niime: Ilia’s winters are always like this. This is expected if you’re fighting a battle at this time of the year.
+Roy: We must attack now so that Bern doesn’t have the time to recover.
+Niime: That’s true. It would be a disaster if the Dark Dragon really was brought back into this world.
+Roy: I was thinking... Maybe the Dark Dragon is in human form as well.
+Niime: Perhaps. Maybe all the Dragons are in human form now. I’ve also heard stories of Dragons in human form living with people.
+Roy: Arcadia...
+Niime: Hm? Did you say something?
+Roy: No, nothing.
+Niime: I don’t know anything specific, but I’ve read in an ancient scroll that Dragons started taking human form only after the Ending Winter.
+Roy: The Ending Winter...
+Niime: You’ve heard about it, right?
+Roy: Yes, only in legend. ‘At the Winder of Ends, the laws of nature were turned upside down. Day became night, and summer became winter.'
+Niime: That’s it. These scrolls are so old and damaged so I couldn’t decipher all of them, but one thing is clear. The Ending Winter was a disaster powerful enough to bend and twist the planet.
+Roy: What caused it?
+Niime: Who knows... Popular belief says that the laws of nature were twisted when the Dragons unleashed vast amounts of magical power, but I have no idea about what really happened. But it does seem certain that Dragons started taking human form after the Ending Winter. It must be more than coincidence.
+Roy: Yes, I agree.
+Niime: Well, either way, the truth lies in Bern.
+
+@Battle 
+Soldier: Captain! Other Pegasus Knight squads are headed this way to assist us!
+Sigune: Really? That would help. Too bad for the enemy... They’ll be in a panic if they suddenly get attacked from all directions when they can’t see in this snowstorm...
+
+@Boss 
+Sigune: So...you made it through this blizzard and cold? Congratulations. But it’s over. You shall end...right here, right now.
+
+Sigune: ...Well, well... So I’m the one...to die... But maybe...I had already died...a long time...ago...
+
+%Shanna,Sigune
+Sigune: You... You’re Juno’s youngest sister. You would fight me?
+Shanna: ......
+Sigune: By the honor of an Ilian knight... I won’t go easy on you. All right?
+Shanna: Yes...
+
+%Thea,Sigune
+Sigune: Thea? What are you doing here? Oh...you’ve joined the Etrurian side.
+Thea: Captain Sigune...
+Sigune: You know the Ilian knightly code. I won’t go easy on you.
+
+@End 
+Roy: Merlinus, I need you to send this letter to Bishop Yoder in Etruria.
+Merlinus: A letter? May I ask what it says?
+Roy: It’s the story we heard from Niime about the Dragons.
+Merlinus: Oh? What did you discuss with her about the Dragons?
+Roy: It’ll be long if I tell you. I haven’t sealed the letter yet, so you can look through it if you want.
+Merlinus: All right. Let me see...
+Guinevere: ......
+Roy: Is something wrong, Princess Guinevere?
+Guinevere: ...I have come to speak about my brother.
+Roy: ! ...Are you sure?
+Guinevere: Yes... I want you to know before we enter Bern...about the tragedies that have occurred. You asked earlier if my brother murdered the former king.
+Roy: Yes...
+Guinevere: In short...it is true.
+Roy: ! Then King Zephiel indeed killed his own father to seize the throne...
+Guinevere: No!
+Roy: No? He didn’t kill his father to get the throne?
+Guinevere: No... Our father was the one who tried to kill Zephiel first.
+Roy: What!? Then King Zephiel...
+Guinevere: He...couldn’t bear the abuse he was taking from our father. And so he...
+Roy: What... Why did...
+Merlinus: The Dragons are indeed are mysterious species... Hm? What is the matter?
+Guinevere: No...it is nothing. Perhaps later...
+Merlinus: ...Did I appear at a bad time?
+Roy: No, it’s okay. Did you send the letter?
+Merlinus: Yes. I read through it, then sealed it and had it sent.
+Roy: Oh... All right, thanks.
+Roy: ...Why did the former king try to murder his own son...?

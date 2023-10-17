@@ -1,0 +1,121 @@
+@Opening 
+After taking Saul, a priest of St.Elimine, and Dorothy, his bodyguard, into their ranks, Roy and company enter Thria, southeast of Ostia.
+
+Thria is governed by Lord Orun, Hector's half brother. Orun's home castle seems a safe place to stay.
+
+@Intro 
+Cath: I snuck in here no problem, but there's nothing worth stealing! Hmm, looks like the north hall has all the valuables, but with that security- ...Are those footsteps?
+
+Wagner: I trust everything is under control.
+Soldier: Yes, milord, the soldiers are stationed all around the castle.
+Wagner: Once they're inside and have their guard down, ambush them, just as with Lord Orun.
+Soldier: Yes, milord.
+Wagner: I want Princess Guinivere alive. The rest you can do with as you wish. Now go.
+
+Wagner: Ha ha ha ha... First the Silver Wolf's granddaughter, and now Princess Guinivere... With so much to offer, Bern is certain to allow us to join them.
+
+Cath: Hmmm... Now isn't that interesting.
+
+Merlinus: Finally we can get a good night's rest, Lord Roy!
+Roy: I wonder. That man said he was Lord Orun's advisor...
+Merlinus: Wagner? Did something seem wrong with him?
+Roy: He seemed to be in control of everything, as if he were the lord. And Lord Orun is so ill he can't even meet his guests? It all seems strange...
+Merlinus: Now that you mention it, you have a point.
+
+Saul: Excuse me, Lord Roy. There seem to be an awful lot of soldiers patrolling the castle.
+Dorothy: I think they're spying on us.
+Roy: What? No...
+Dorothy: You noticed? Not bad...
+Roy: Who's there?! Show yourself, intruder!
+Cath: Hi!
+Roy: And...who might you be?
+Cath: Aw, I'm not one to talk about myself. I overheard that Wagner guy in the main hall though. He said they're gonna ambush you guys.
+Roy: Lord Orun would never do that!
+Cath: Oh yeah, he's dead, I think. Wagner assassinated him or something.
+Roy: What?!
+Cath: He wants to capture you all and turn you over to Bern.
+Merlinus: Wait, Lord Roy! We can't trust her word so easily!
+Cath: It's up to you whether you trust me or not. But don't say I didn't warn ya!
+Guinevere: Roy... If what she says is true...
+Roy: Let's spring his trap. We'll pretend like we're leaving. If Wagner is after us, he'll try to persuade us to stay.
+Cath: If you wanna get out, go through the north hall! That'll bring you to the courtyard, so you'll be outta here in no time. Good luck!
+
+Wagner: Oh, Lord Roy! Where are you off to? I will escort you back into the castle, so please follow me.
+Roy: My apologies, Sir Wagner. I have just received a report of grave importance. Please excuse us, but we must take our leave now.
+Wagner: Surely you would appreciate a warm bed after being in the field for so long. Lord Orun would be furious with me if you left without accepting our hospitality.
+Roy: Don't worry, I shall tell Lord Orun myself that you are not to blame. I ought to at least offer him a greeting anyway. Please show us to his room.
+Wagner: As I said, milord, Lord Orun is ill and cannot accept guests.
+Roy: If we cannot see him, then we must be off.
+Wagner: There's nothing I can offer to make you stay?
+Roy: .....
+Wagner: You leave me no choice then! Guards! Attack! Kill them all, but leave Princess Guinivere alive!
+Roy: The girl was right! They were trying to ambush us!
+Saul: Lord Roy! If we go this way, we'll be leaving our rear open to attack!
+Roy: Then we'll seize the whole castle! Everyone, follow my lead!
+
+@Battle 
+Sue: All that noise... A battle? What is going on out there?
+
+Cath: Hoo-boy, they're at each other's throats now. Time to pilfer what I can now that security's busy.
+
+@Battle-Talk 
+%Roy,Cath
+Roy: Hey! You're...
+Cath: Oops...
+Roy: Wait!
+Cath: Hey, cut it out! Let go of my arm! Ow! That hurts!
+Roy: Oh, I'm sorry. But what are you doing here?
+Cath: Well, uh, you know, this and that. I'm a busy girl. Ha ha ha...
+Roy: Here? In a battlefield?
+Cath: Oh yes, precisely BECAUSE this is a battlefield- Whoops, better watch my tongue...
+Roy: Do you have some ulterior motive?
+Cath: Uh...
+Roy: Wait, is that why you told us the escape route?
+Cath: Um, what? Sorry, I'm a little deaf in this ear!
+Roy: Just who are you?
+Cath: Don't worry about it! Forget you saw me. Gotta go. Cheers!
+Roy: Hey, wait!
+
+@Recruit-Talk 
+%Roy,Sue
+Sue: Who are you?
+Roy: What's a girl doing in here?
+Sue: You aren't with the castle?
+Roy: My name is Roy. Who are you?
+Sue: I am Sue. Are you the one causing that noise outside?
+Roy: Noise?
+Sue: The noise of battle.
+Roy: Oh, I guess so. We're fighting the castle guards. It's a bit of a long story...
+Sue: I see. Then I will join your side.
+Roy: You will? Why?
+Sue: The soldiers of this castle have done me wrong.
+Roy: What? What do you mean...?
+Sue: Please give me a bow. I will fight with you.
+
+@Boss 
+Wagner: Useless guards! But very well. Witness my magic...and bow down before its power!
+
+Wagner: No... My plan...was flawless...
+
+@End 
+Roy: ...You're the granddaughter of one of the chieftains in Sacae?
+Sue: My grandfather is the strongest warrior in Sacae. People call him the Silver Wolf.
+Roy: The Silver Wolf... I've heard tales of him. But what are you doing in Lycia? This is a long way from Sacae.
+Sue: Bern invaded Sacae, so the Kutolah clan decided to take up arms. Grandfather had the women and children escape to Lycia, but...
+Roy: But?
+Sue: There was a traitor. The Djute clan, who turned to Bern's side, ambushed us.
+Roy: .....
+Sue: We were all separated. I found my way into this land and I was rescued by Lord Orun. But Wagner, his advisor, assassinated Lord Orun and took over the castle.
+Roy: And that's when you were captured...
+Sue: Is your army fighting Bern?
+Roy: Yes, we will fight for as long as it takes.
+Sue: Then let me join you. Fighting Bern may lead me to Grandfather. Lord Orun deserves vengeance as well.
+Roy: We're headed for Ostia, in the west. Sacae is in the east, the opposite direction. Is that all right?
+Sue: I don't mind. No matter where we are, Mother Earth and Father Sky will watch over me.
+
+Merlinus: Lord Roy! The spy I sent to Ostia has just returned. He says that Ostia is in a state of anarchy!
+Roy: What?! Why?
+Merlinus: There's been a rebellion among those who want to surrrender to Bern.
+Roy: Is Lilina safe?
+Merlinus: The spy says that she has been taken hostage. The rebels already took over Castle Ostia and are fighting the loyalist soldiers.
+Roy: We must hurry to Ostia! Lilina... Please be safe!

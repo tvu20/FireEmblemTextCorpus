@@ -1,0 +1,82 @@
+@Opening 
+After defeating Arcard, Roy crossed the border and entered the land of Sacae.
+
+After Bern invaded, the Djute clan, the most powerful clan in Sacae, became
+its servant.  Most of those clans who stood up against the two joint forces
+had already been decimated.  Although the "Silver Wolf" Dayan, the leader of
+the Kutolah clan, has been retaliating with guerilla tactics, the situation
+was dire.  Sacae had basically become a territory of Bern.
+
+Now, as Roy set foot on the plains of Sacae, the warriors of the Djute clan
+stood in his path.
+
+@Intro 
+Soldier: The Etrurian Army has appeared from the west.
+Monke: Good. Lure them into our territory as planned. We shall show them our strength. Have the other clans been notified?
+Soldier: Yes. Although there are many clans who are expressing their discontent toward our alliance with Bern, further invasion by Etrurian forces seems to require more attention.
+Monke: I see. ...The Etrurian army should be easier to deal with than the Silver Wolf, since the Etrurian Army is a invasion force.
+Soldier: The clans will unite to fight against invaders...
+Monke: Right. That is the law of Sacae. When we were up against the Silver Wolf, no one aided us because they saw it as conflict between clans.
+Soldier: But now that we have Bern behind us, we don’t need their help.
+Monke: Exactly. Of course, there are many who don’t like the idea that it is Bern who has actual control of Sacae’s politics.
+Soldier: Yes. I hear that there are many clans who agree with the Silver Wolf and joined forces with him.
+Monke: He is too stubborn. His clan was defeated, so he should join us. It is not as if he doesn’t know what happens to those who try and fight a head-on battle with Bern.
+Soldier: Even large cities like Bulgar have been attacked and taken over by Bern since they resisted.
+Monke: From now on, those who are strong enough to manipulate the situation around them will survive, like us. And right now, we must take advantage of the law of Sacae to do so.
+ 
+Roy: Princess Guinevere... We are getting closer to Bern.
+Guinevere: ...Yes.
+Roy: Since we are getting closer, we are claSing with soldiers from Bern more and more often. It will not be long before we engage in full combat with Bern.
+Guinevere: ......
+Roy: I wish to ask you something before we do.
+Guinevere: What is that?
+Roy: I have been hearing rumors...that King Zephiel rose to the throne because he murdered the former king.
+Guinevere: !
+Roy: I couldn’t believe it. You tried to stop him even by casting away your nationality. If King Zephiel is such a mad individual as the rumors say, then why did you try so hard to find a peaceful way to end the war?
+Guinevere: ......
+Roy: Princess Guinevere, I accepted the Fire Emblem not to use it in battle, but to try and find a use for it to end this war peacefully.
+Guinevere: Roy...
+Roy: Therefore, please tell me the truth about the rumors...
+Guinevere: I...I’m sorry. Please...give me some time.
+
+@Boss 
+Monke: Yes... That’s right! Closer...closer... Right into our trap!
+
+Monke: Argh...! How could you defeat us... My calculations...were...flawless...
+
+%Sue,Monke
+Monke: You are the Silver Wolf’s granddaughter...
+
+%Sin,Monke
+Monke: ...A survivor of the Kutolah clan?
+Sin: Monke! Feel the Kutolah’s wrath!
+
+@End 
+Merlinus: That was no easy feat.
+Roy: But now we have given a telling blow to our strongest enemy in Sacae. Although I’m sure that there are remaining forces somewhere...
+Merlinus: They must be meeting to plan a retaliation.
+Roy: Can we find out where they are meeting?
+Merlinus: Well, I sent out a spy earlier, so he should be returning soon. I shall go check.
+Guinevere: ......
+Roy: Is something wrong, Princess Guinevere?
+Guinevere: ...I have come to speak about my brother.
+Roy: ! ...Are you sure?
+Guinevere: Yes... I want you to know before we enter Bern...about the tragedies that have occurred. You asked earlier if my brother murdered the former king.
+Roy: Yes...
+Guinevere: In short...it is true.
+Roy: ! Then King Zephiel indeed killed his own father to seize the throne...
+Guinevere: No!
+Roy: No? He didn’t kill his father to get the throne?
+Guinevere: No... Our father was the one who tried to kill Zephiel first.
+Roy: What!? Then King Zephiel...
+Guinevere: He...couldn’t bear the abuse he was taking from our father. And so he...
+Roy: What... Why did...
+Merlinus: Master Roy! We have found where the enemy is meeting! ...? What is the matter?
+Guinevere: No...it is nothing. Perhaps later...
+Merlinus: ...Did I appear at a bad time?
+Roy: No, it’s okay. Where is the meeting place?
+Merlinus: It is in a city called Bulgar.
+Roy: Bulgar...I’ve heard of it.
+Merlinus: It is the largest city in Sacae. Of course, it is now under Bern’s control.
+Roy: I see... All right, we’ll be heading there soon.
+Roy: ...Why did the former king try to murder his own son...?

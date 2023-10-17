@@ -1,0 +1,124 @@
+@Opening 
+The Lycia Alliance Army took in Elffin as a tactician. Following his advice, Roy led his forces south toward the isle of Caldonia. Caldonia was one of the three largest islands of the Western Isles. The other two were Fibernia and Dia. Located on Caldonia was Castle Edina. Here, men from all over the Isles were rounded up and locked in prison cells to be sent to Mt. Eburacum, the Mines of Death. When Roy arrived at Castle Edina, the situation was already looking grim...
+
+@Intro 
+Villager 1: Hurry! This way!
+Villager 2: A-Are you sure about this? If we get caught we're--
+Villager 1: Don't be stupid! If we stay, we'll be worked to death! You're just going to lie down and take that? Don't you have a family or something back home?
+Villager 2: Yeah...
+Villager 1: There are people coming to help us from the northeast. We just have to make it there in one piece!
+
+Arcard: More people escaped?! Where were the gaurds?!
+Robarts: They were unconscious. Someone drugged their food...
+Arcard: ...Then there must be a traitor amongst us. Morgan! Pursue and eliminate the escaped workers.
+Morgan: Yes, Lord Arcard.
+Arcard: I will return to Jutes. Don't let them escape. Send more hands to the mines as well. I can't afford to lose more workers!
+
+Roy: Elffin, is that castle to the southwest our target?
+Elffin: Yes, that is Castle Edina. The people kidnapped on the Isles are first sent there. They are then sent to Eburacum and forced to work in the mines. As it happens, today is the weekly shipment of captives to the mines. It will be difficult to rescue them once they've been sent off.
+Roy: Then you're saying we have to rescue them now!
+Elffin: Yes. I already had some spies infiltrate the castle and help the people escape.
+Roy: What will the captives do once they're out?
+Elffin: I told them to send the captives to the northeast. In other words, our present location.
+Roy: Then we must rescue those people before sieging the castle.
+
+@Battle 
+Woman: Geese... You're really leaving?
+Geese: The lord of that castle killed my mates. I won't let their deaths be unavenged.
+Woman: You mean that crew that was always with you...
+Geese: Yeah... They were taken to the mines and told that they would be given work. But they were all worked like slaves until they... died.
+Woman: ......
+Geese: Maybe they weren't the brightest bunch, but they were good people... And they were killed... just like that...!!
+Woman: Do you intend to avenge them on your own?
+Geese: Is there something wrong with that?
+Woman: No... But I thought you were going to go back to your merchant business.
+Geese: Yeah, well, I've got bigger problems now... Once my mates get their revenge, and once the war subsides, maybe I will.
+Woman: ...We won't forget you, Geese. You and your crew risked your lives to get us food and supplies. If you ever need anything, we'll be here.
+Geese: Maybe I'll take you up on that, if I'm still alive. ...Thanks.
+
+Bartre: They're imprisoned in that castle, you say?
+Resistance: That's right.
+Bartre: Then we've no time to lose. Let's begin this daring prison break, shall we?
+Resistance: ...I'm sorry to ask for your help like this. I know you're looking for your daughter.
+Bartre: Don't be absurd! Consider it payment for your hospitality. I won't let some blood-sucking lord take advantage of his people! I'm Bartre the Brave, and I'll smash these puny insects!
+
+Soldier: Sir Morgan, the reinforcements are ready!
+Morgan: Good. Deploy them immediately. Spread them around the castle to defend us on all sides.
+
+@End 
+Roy: Even though we've saved the people at Castle Edina, there are others still suffering in the mines.
+Elffin: That is correct. To liberate the Western Isles, we must take the capital.
+Roy: Then our next destination is Jutes. ...Elffin, may I ask you something?
+Elffin: Of course, Lord Roy.
+Roy: Pardon me if I am mistaken, but are you of high Etrurian nobility?
+Elffin: What?!! ...What makes you think that?
+Roy: I can't quite explain it, but... The way you talk sounds very educated. In Ostia, I learned how to study people and size them up. Am I right?
+Elffin: What would you do if you are?
+Roy: Oh. Nothing in particular. I'm sure you have a good reason to hide your identity. You can tell me when you feel the time is right.
+Elffin: ......
+Roy: Let's head for Jutes! To save the Isles and defeat the true enemy of the people!
+
+Villager 1: Hey, you with the mustache!
+Merlinus: What?! Who are you?
+Villager 1: Here, give this to General Roy. Thanks to him, we can see our families again.
+Villager 2: We of the Western Isles always pay our debts of gratitude!
+Villager 1: Tell him thanks.
+Villager 2: We're all grateful from the bottom of our hearts!
+
+@Recruit-Talk 
+%Roy,Geese
+Geese: Yeah? What? You got something to say to me?
+Roy: I want to ask you why you're fighting against the soldiers.
+Geese: Who wants to know?
+Roy: Roy, leader of the Lycian Army. We're here on behalf of Etruria...
+Geese: You're with Etruria?! Then you're the enemy. Get ready to die!
+Roy: Slow down! We're fighting the castle's troops too.
+Geese: And yet Etruria sent you? I don't understand.
+Roy: I don't either. We were sent by Etruria to get rid of bandits here, but something's strange.
+Geese: ...You say you're fighting the castle's troops. I'm for hire, if you'll take me.
+Roy: What?
+Geese: I'm a seafaring man, so I know both the land and sea around the Isles. You look a bit lost, so I could be a good guide for you.
+Roy: That would help, but why?
+Geese: I want to help with your mission. To be honest, I'm a pirate, so I'm probably the type you were sent to get rid of. But I only go after the rich. They have more than their fair share anyway.
+Roy: Well then, if you'll join us, we're pleased to have you. We don't know this area at all, so it's been difficult thus far.
+Geese: Sounds like we have a deal! Leave it to me!
+Geese: ...This is it, lads. Can you taste it? You'll have your vengeance. And after you do, I might just tag along with this Roy fellow for a while...
+
+%Roy,Bartre 
+Bartre: Are you with Etruria?!
+Roy: Y-yes...
+Bartre: We fight for the people suffering under your tyranny! En garde!
+Roy: W-wait! We're on your side!
+Bartre: You aren't with the castle?
+Roy: We're trying to capture it, actually.
+Bartre: Oh! Sorry then.
+Roy: I am Roy, leader of the Lycian Army.
+Bartre: Lycia? You've come a long way...
+Roy: We were sent by Etruria to rid the Isles of the bandits.
+Bartre: What's that?! So you are with Etruria!
+Roy: Please calm yourself! We share the same goal. We want to bring peace to the Isles.
+Bartre: …You may end up against Etrurian nobility.
+Roy: ...Our mission is to find and eliminate wrongdoers on the Isles. Social status matters not.
+Bartre: You, my friend, are a man of conviction! Very well! I think I'll join your little army!
+Roy: You'll help us? Thank you!
+
+%Fir,Bartre
+Fir: Father? What are you doing here?
+Bartre: Fir! I've been looking for you.
+Fir: Father, I've already made up my mind. I want to become a great master of the sword like mother...
+Bartre: That is good. I don't intend to drag you home. In fact, I want to help you in your journey.
+Fir: Help me?
+Bartre: I know well the hardships one faces in a journey of self-improvement. I can help you out of a bind if things get rough.
+Fir: But Father, if you keep helping me, my training is meaningless.
+Bartre: Nonsense. With your old man around, we can practice sparring any time! Do you refuse your father's love?!
+Fir: No! It's nothing like that, but...
+Bartre: It's settled then. But first we capture the castle.
+Fir: Sigh... I guess I should tell Roy that we have another member...
+
+@Boss 
+Morgan: What are you doing?! Hurry and kill the ones who escaped! Wait, you're not one of my men... Wh-who are you?!
+
+Morgan: The resistance force has been eliminated in this area... Who... are you people...?
+
+@Visit 
+Villager: Are you the guys helping us out? Then please, take this. I grabbed it as I escaped from the castle. I hope everyone else made it out... 

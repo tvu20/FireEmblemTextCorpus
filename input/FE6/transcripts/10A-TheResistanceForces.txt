@@ -1,0 +1,138 @@
+@Opening 
+Three seperate islands: Fibernia, Caldonia, and Dia. All of these islands are rich in minerals, and mining is the economic backbone. The largest mine located in Eburacum, in north of Fibernia. Roy leads his forces toward Eburacum hoping to learn more about the bandits. To get to Eburacum, one must pass a castle located nearby. Roy sends a messenger to Sir Nord, lord of the castle, to resuqest permission to pass through his lands. Because Roy and company are in Isles on Etruria's request, they don't anticipate trouble in gaining Nord's support. But not everything is as simple as it appears...
+
+@Intro 
+Nord: What can you tell me about that spy from the resistance?
+Soldier: You mean the dancer called Larum? We threw her in the dungeon, sire.
+Nord: Has she told you anything?
+Soldier: No. She keeps insisting that she's not affiliated with the resistance.
+Nord: A liar, is she? Perhaps I could interrogate her myself...
+Soldier: Sir Nord!
+Nord: What is it?
+Soldier: There is a messenger here from the Lycian Army.
+Nord: Ah, the army that was sent to clean up tthe bandits on the Isles.
+Soldier: It seems that they want permission to pass through to Eburacum.
+Nord: ...Lord Arcard told us to get rid of the Lycian Army in their time here. Heh heh heh... If we impress Lord Arcard he may see fit to reward us. Desploy the troops and finish them here!
+Soldier: Yes, sire... And the messenger?
+Nord: Kill him.
+Soldier: Understood, sire.
+Nord: Be sure to deploy the ballista. Use it to defeat the Lycian Army before they even reach you.
+Soldier: Yes, sire.
+Nord: Just make sure the enemy doesn't get hold of it!
+
+Merlinus: Lord Roy, soldiers are flowing out from the castle.
+Roy: Are there bandits around here?
+Merlinus: No, they seem to be heading towards us, actually.
+Roy: ...What about the messenger?
+Merlinus: He hasn't returned... Which may mean the worst...
+Roy: He hasn't returned? Why is Sir Nord attack us?
+Merlinus: The enemy draws near... Lord Roy, what are your orders?
+Roy: ...I guess we have no choice but to fight. We might learn something if we can reach the castle.
+Merlinus: Yes, milord. You're right.
+Roy: All right, storm the castle! But have mercy! Some of their soldiers may be willing to listen!
+
+@Battle 
+Woman: Geese... You're really leaving?
+Geese: The lord of that castle killed my mates. I won't let their deaths be unavenged.
+Woman: You mean that crew that was always with you...
+Geese: Yeah... They were taken to the mines and told that they would be given work. But they were all worked like slaves until they... died.
+Woman: ......
+Geese: Maybe they weren't the brightest bunch, but they were good people... And they were killed... just like that...!!
+Woman: Do you intend to avenge them on your own?
+Geese: Is there something wrong with that?
+Woman: No... But I thought you were going to go back to your merchant business.
+Geese: Yeah, well, I've got bigger problems now... Once my mates get their revenge, and once the war subsides, maybe I will.
+Woman: ...We won't forget you, Geese. You and your crew risked your lives to get us food and supplies. If you ever need anything, we'll be here.
+Geese: Maybe I'll take you up on that, if I'm still alive. ...Thanks.
+
+Geese: Yeah? What? You got something to say to me?
+Roy: I want to ask you why you're fighting against the soldiers.
+Geese: Who wants to know?
+Roy: Roy, leader of the Lycian Army. We're here on behalf of Etruria...
+Geese: You're with Etruria?! Then you're the enemy. Get ready to die!
+Roy: Slow down! We're fighting the castle's troops too.
+Geese: And yet Etruria sent you? I don't understand.
+Roy: I don't either. We were sent by Etruria to get rid of bandits here, but something's strange.
+Geese: ...You say you're fighting the castle's troops. I'm for hire, if you'll take me.
+Roy: What?
+Geese: I'm a seafaring man, so I know both the land and sea around the Isles. You look a bit lost, so I could be a good guide for you.
+Roy: That would help, but why?
+Geese: I want to help with your mission. To be honest, I'm a pirate, so I'm probably the type you were sent to get rid of. But I only go after the rich. They have more than their fair share anyway.
+Roy: Well then, if you'll join us, we're pleased to have you. We don't know this area at all, so it's been difficult thus far.
+Geese: Sounds like we have a deal! Leave it to me!
+Geese: ...This is it, lads. Can you taste it? You'll have your vengeance. And after you do, I might just tag along with this Roy fellow for a while...
+
+Nord: Gonzalez! Gonzalez, where are you?!
+Gonzalez: Here... I here...
+Nord: There's a village to the north, right along the mountain. Do you understand?
+Gonzalez: Understand.
+Nord: It may be a resistance base. I want you to go and burn it to the ground, village and all.
+Gonzalez: Village and all...
+Nord: Good. You understand. This is the only use I have for a lump such as you. Now get goung, you halfwit, before you forget your orders.
+Gonzalez: I...I...
+Nord: Forget how to speak? Are you trying to say something?
+Gonzalez: N-no...
+Nord: Such a monsterous face, and yet such a needlessly compassionate heart. He will learn the value of destroying a village firsthand!
+
+@Recruit-Talk 
+%Lilina,Gonzalez
+Lilina: Excuse me!
+Gonzalez: W-what you doing?! I am enemy!
+Lilina: I know... But there's such a look of sorrow in your eyes.
+Gonzalez: ...There is a village near mountain. You know?
+Lilina: Yes, I know it.
+Gonzalez: Tell people escape. I have order. Destroy village. I...
+Lilina: What? Don't! The villagers are innocent...
+Gonzalez: No. It order. I must.
+Lilina: It sounds to me like you should leave the person who gave you that order.
+Gonzalez: Leave?
+Lilina: Yes! You can fight with us. We're protecting the villagers.
+Gonzalez: No... I monster... People mean to me... People throw stones... People say "Go away!"... "You a monster!"... Not human...
+Lilina: That's horrible! Of course you're human! You're a very kind-hearted man. I can tell. Please, come with us. Don't be afraid.
+Gonzalez: Me afraid? I never afraid! Everyone afraid of ME! I not afraid!
+Lilina: No. You ARE afraid. You're afraid that people will throw stones and call you a monster.
+Gonzalez: ......
+Lilina: But you don't have to be afraid of us. Everyone in our army is nice. They won't do that to you. Be brave... Take that first step, and you'll never have to be afraid again.
+
+@Boss 
+Nord: You made it all the way here. But I shall take your pathetic lives...
+
+Nord: Death? I feel...my life...draining...away...
+
+@Visit 
+Woman: I'm worried about Larum. I hope she's all right. She smuggled us weapons so we could defend ourselves. Even when we begged her to hide, she refused and kept helping us. Here's an axe that she brought us. It's a strange one... It's strong against swords, but weak against lances! I'd gladly trade it for her safety, though, so please, take it... 
+
+Old woman: Brigands and pirates... They were all just as innocent as anyone when they were young. Maybe if you spoke to some of them, you could make them understand.
+
+@End 
+Merlinus: Lord Roy... We couldn't find any evidence explaining Sir Nord's aggression.
+Roy: But now we know for certain that somebody wants our heads.
+Merlinus: I think we should contact Etruria about this.
+Roy: Yes, I'll send a message to General Cecilia.
+Soldier: Excuse me, Lord Roy. We found a girl imprisoned in the dungeon. She wishes to speak with you.
+Roy: To me? Let her pass.
+Soldier: Yes, milord.
+Larum: You're Roy? The one who's here to clear out the bandits?
+Roy: Yes, that's me.
+Larum: I beg you, Roy! Please rescue my friends!
+Roy: Whoa, easy there!
+Merlinus: Hey! Get off of him!
+Roy: C-calm down and tell me everything. You say your friends are in danger?
+Larum: My name is Larum. I'm part of the resistance force on the Isles.
+Roy: The force that's fighting against the bandits?
+Larum: Yes. ...Actually, no!
+Roy: No?
+Larum: That's part of it, but the real enemy is Etruria! They work with the bandits to squeeze every bit they can out of the people here!
+Roy: What?! Is that true?!
+Larum: The lords living here take people into the mines and work them to death!! They're allowed no rest, even if they're sick or injured.
+Roy: ...That's terrible...
+Larum: We're fighting Etruria to stop the abuse! Our next plan was to attack the mine at Eburacum and rescue the people there! But...but...!
+Roy: Calm down! You can tell me.
+Larum: A villager here leaked the details of the plan! He was probably tortured... I have to go to the mines before the resistance is ambushed!
+Roy: Then there's no time to spare! We'll backup the resistance force and rescue the people being forced into labor!
+Larum: Truly, you will?! Thank you, Roy!
+Roy: Whoa! L-Larum!
+Merlinus: Hey! I said get off of him!
+Larum: Here, Roy. Use this sword.
+Roy: What is it?
+Larum: It's called a wyrmslayer. It's effective against wyvern riders, and it's said it was used against dragons, too. Who can say, though? It might come in handy. It belongs to Echidna, the leader of the resistance. You're helping us though, so you can have it for now.

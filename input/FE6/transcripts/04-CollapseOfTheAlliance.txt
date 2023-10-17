@@ -1,0 +1,139 @@
+@Opening
+Respecting Hector's dying request, Roy made his way west. Intent on reaching Lilina, Roy keeps a steady pace toward Ostia. On his way there, Roy passes through the territory of Laus, governed by Lord Erik. At a glance, Laus is a peaceful territory with vast meadows and clear streams. Beneath this beauty, however, lies treachery and great skullduggery...
+
+@Intro 
+Erik: Ah, welcome, Genral Narcian.
+Narcian: Lord Erik. I don't think I've yet praised your wisdom in joining Bern.
+Erik: Thank you, sire. Ancient vows and traditions are nothing more than a burden anyway.
+Narcian: You, my friend, are wise beyond your years. Now, where is that gift you promised me? She does not seem to be here.
+Erik: Ah, yes! She is in her quarters. She is exceedingly naive, you see. When I told her she could meet her brother, she cooperated without question. You there! Bring her here!
+
+Clarine: What is this hall? Klein? Where are you, Brother?
+Narcian: Welcome, Lady Clarine.
+Clarine: Who might you be?
+Narcian: I am Narcian, one of Bern's three Wyvern Generals. My lovely little lass, I think you will enjoy my company more than your brother's... Hm hm hm...
+Clarine: Heh... Ha ha ha!
+Narcian: What? Why do you laugh?
+Clarine: You compare yourself to my brother? You think too highly of yourself. Your garb, your hair - even your speech... All a painfully obvious guise to hide your true lowborn face.
+Narcian: Lowborn?! Me?! You would compare ME to a peasant?!
+Clarine: Oh, heavens no. I would sooner compare you to a filthy, disease-ridden mutt!
+Narcian: Y-you vermin!! I'll see you suffer!
+Soldier: General Narcian, we just received word that Castle Araphen was retaken by the enemy!
+Narcian: What?! Impossible! What of Slater?
+Soldier: Err... His whereabouts are unknown, sire. The enemy is reported to be Roy, son of Marquess Pherae.
+Clarine: ......
+Narcian: Accursed interruptions! Lord Erik, lock the girl in a cell. I will give her the pleasure of my company when I return! You, blockade the highroad from Ostia. This Roy might just pass by. I want his head!
+Soldier: Yes, sire!
+
+@Battle 
+Clarine: They will pay dearly for this treatment...
+Unknown person: ...Hey.
+Clarine: Who's there?!
+Rutger: I'm a mercenary hired by Lord Erik. He wants to see you.
+Clarine: I will not. I refuse to meet with such churlish people.
+Rutger: ......Just get over here.
+Clarine: Let go! You will regret this! Do you have any idea who I am?!
+Rutger: .....
+Clarine: Let go, I say!
+
+Clarine: Let go! Let go, I say!
+Rutger: Keep it down. You won't be able to make a clean escape making all that noise.
+Clarine: Escape?! Then you're...
+Rutger: I prepared a horse for you out back under a tree. Take it and go, while everyone's distracted.
+Clarine: .......Why are you helping me?
+Rutger: I despise Bern with all my soul.
+Clarine: With all your soul?
+Rutger: ...Never mind. Forget it.
+Clarine: Saying that only piques my curiosity further.
+Rutger: Time is short. Hurry!
+Clarine: .....
+
+Clarine: I've never met such a boorish man! This is a battlefield! A proper gentleman would escort a lady to her mansion! Well, it's hardly of concern now. Sigh, I only came here to see my brother, and now look at the mess I'm in... What am I to do now?
+
+Pirate: Heh... Foolish nobility. Always involved in some petty dispute. 'Course, you'll hear no complaints from us. Turmoil's how we make a living. Heh heh heh...
+
+Erik: Ah, there you are!
+Rutger: What do you want?
+Erik: We need some backup. Take some troops and prepare for battle.
+Rutger: ......
+Erik: Are you deaf? Go and fight!
+Rutger: I heard you. I'll leave when I'm ready.
+
+Erik: Tsk. Not the amiable sort, is he? If his sword arm is as skilled as the rumors say, though, then it's no matter.
+
+@Recruit-Talk 
+%Roy,Clarine
+Clarine: Pardon me, you there!
+Roy: Me?
+Clarine: Do you see anyone else? You are the leader of this little group, are you not?
+Roy: I am.
+Clarine: Most convenient. Very well then. You will protect me.
+Roy: Excuse me?
+Clarine: Hard of hearing? I said that you are going to protect me from harm.
+Merlinus: Mind your mouth, young lady!
+Clarine: Away with you, peasant. I was not addressing you.
+Merlinus: What?! Who do you think-
+Roy: Calm yourself, Merlinus... It looks like she's being pursued by the castle's soldiers. That's why she wants us to guard her. Right?
+Clarine: Um, yes! That is correct...
+Merlinus: Im...impudent child! We can't simply accept any useless girl into our army!
+Clarine: You may call me Lady Clarine, peasant. And I am not useless! I can use staves to heal wounded allies.
+Roy: So you'll help us fight?
+Clarine: ...If that's what it takes! I suppose I can't simply demand protection without any kind of payment.
+Roy: Thanks, we appreciate it! Our enemy is Bern, so we need everyone we can get. I'm Roy. Pleased to meet you, Lady Clarine.
+Clarine: The pleasure is all- Ahem! Let's focus on the issue at hand.
+
+%Clarine,Rutger
+Clarine: Oh! It's you...
+Rutger: What? You're still here?
+Clarine: "Still here?" You abandoned me in the middle of a battlefield! How can you have the nerve to say that?! I could have been killed!
+Rutger: I guess you're lucky you're still alive then. Did you want something or can I go now?
+Clarine: Just a moment! I shan't allow you to abandon me twice. A gentleman must take responsibility for his actions.
+Rutger: Responsibility? For what? I saved you from that twisted sadist.
+Clarine: If a gentleman rescues a lady, he must also escort her to her mansion! In what fairy tale does some barf of a man abandon his princess?
+Rutger: ...What in the world are you on about?
+Clarine: Besides, you said you "despise Bern with all your soul." If you ask me, you'd be better of joining us. We'll be fighting Bern, you know.
+Rutger: What? Wait! Is that true? Is that army you're in really going to challenge Bern?
+Clarine: Yes... Our leader, Floyd or whatever his name is, told me himself.
+Rutger: ......Fine.
+Clarine: Yes?
+Rutger: I'll join your army. Satisfied?
+Clarine: Ah... I suppose.
+Clarine: Wait! My protection is more important than fighting Bern! Come back!
+
+@Visit 
+Village: If you don't have a thief, you won't be able to open chests and doors. Only a thief can use lockpicks. But I have a key called the door key, which can open any door if anyone uses it. You should thank me. 
+
+Village: Everyone here is your ally. We're not about to abandon the land in which we were born in and change sides. Please take this treasured sword. It was given to us generations ago. A gift from the king. 
+
+Village: I can't believe this war is happening... Under Bern's leadership, we will definitely wither. Here is something that will help you stand longer. Think carefully before using it. 
+
+House: The mountain bandits and pirates attack towns. Once they destroy a town, there won't be anything left. Save the towns!
+
+House: In the Laus army, there are mounted soldiers who use bows. This is the nomad tribe. Everyone wants their military might nowadays...
+
+House: Do you know the main point of combat? There are weapons known as Buster weapons, which defy the weapon triangle!
+
+@Boss 
+Erik: You fools are bound down by moldy, old tradition! Allow me to teach you the way of the world!
+
+Erik: Ha...ha ha... Fools... There is no future for...those...who oppose...absolute power...
+
+@End 
+Merlinus: Lord Roy! The remaining soldiers from Laus are retreating.
+Roy: Thank you. Tell everyone to get some rest.
+Merlinus: Yes, milord.
+
+Guinevere: Roy... Are you all right?
+Roy: I never would have thought Lord Erik would turn on Lycia. I thought the Lycian League's bond was stronger than this. Cowardly Bern! Underhanded tactics!
+Guinevere: ...I apologize.
+Roy: Oh... I'm sorry. I wasn't even thinking about you.
+Guinevere: No... You are right.
+Roy: We'll now proceed west towards Ostia. But now we know that even the other marquesses can't be trusted. With Lord Hector gone, I fear there may be no peaceful end for this war. Princess, do you plan on returning to Bern? If you need anything-
+Guinevere: No, please allow me to stay, if it would not be a burden.
+Roy: You, a burden? Never! But why do you wish to stay?
+Guinevere: My brother is wrong. He is pulling the dragons into a human war. If he thinks this is how he can free the world, I must stop him.
+Roy: Free the world?
+Guinevere: Yes, he has always been obsessed with "liberating the world." He said that's the purpose of this war.
+Roy: What does that mean?
+Guinevere: I do not know... My brother is not so power-hungry that he would attempt to conquer the world. I'm sure he believes strongly in what he's done to Elibe. Regardless, that doesn't excuse the violence he has caused...
+Roy: Princess Guinivere...

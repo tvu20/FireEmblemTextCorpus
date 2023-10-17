@@ -1,0 +1,124 @@
+@Opening 
+Bern surrendered with King Zephiel’s death. The great war that shook the lands of Elibe was over.
+
+However, Roy’s battle was not.
+
+Roy continued to search for the Dark Priestess, suspecting that she was the Dark Dragon. Following the beam of light emitted by the Divine Weapons, Roy headed for the Dragon Temple.
+
+However, waiting for Roy in front of the temple was General Brunnya, the one remaining Dragon Lord of Bern. She had rounded up Bern’s remaining troops and was waiting to attack Roy. Their pride was at stake.
+
+A battle with the now dead Kingdom of Bern… Roy had a heavy heart at having to battle these “ghosts.”
+
+@Intro 
+Brunnya: Lord Jahn, here is Idunn. Please take care of her.
+Jahn: What will you do, human?
+Brunnya: We will stay here and face the Etrurian Army one last time.
+Jahn: Do you have enough troops?
+Brunnya: The Dragon Knights scattered around the continent have all returned under our cause.
+Jahn: Do you have a chance of victory?
+Brunnya: ...Our chances of winning are slim. Still, we are the Bern Army, the strongest standing force on the continent. We shall at the very least show them our unbending will.
+Jahn: Will... You humans take actions incomprehensible to us at times. Would your will raise your chances of winning? ...Very well, I suppose. We all have our methods of battle.
+Brunnya: ...Have you spread my message?
+Soldier: Yes. Those who leave the army now will not be tried for deserting. Whether to fight or to leave is up to each his own.’ That was your message, General Brunnya.
+Brunnya: How many still remain with us?
+Soldier: Nearly all of the troops are saying that they wish to fight by your side.
+Brunnya: All? Our chances of victory are slim. I’m sure many of the troops have families waiting for them. They must not feel pressured to stay.
+Soldier: We are knights of Bern, my lady. We have no intention of bowing our heads to Etruria.
+Brunnya: ...I want you to expel those who are injured and those who have young children or aged parents. They must not stay here.
+Soldier: But General Brunnya...
+Brunnya: This is an order. Understood?
+ 
+Elffin: Master Roy, our troops are ready.
+Roy: ...Did the messenger return?
+Elffin: Yes. ...As we suspected, the enemy has no intention of surrendering.
+Roy: Did you make it clear that their safety would be guaranteed if they surrender?
+Elffin: Yes. But they said, ‘We appreciate your offer, but we will not surrender.'
+Roy: Why? Bern already officially surrendered...
+Elffin: This person might understand...
+Guinevere: ......
+Roy: Princess Guinevere...do you understand why?
+Guinevere: Yes. ...Bern recognizes itself as being the strongest force in Elibe. Their pride would not allow them accept defeat without fighting.
+Roy: ......
+Merlinus: Master Roy! The enemy is advancing!
+Roy: ! ...We have no choice. We must fight! Merlinus, send Princess Guinevere to the back lines...
+Guinevere: No. I will stay here. I...must hear their calls. That is all that a...traitor like myself can do...
+
+@Battle 
+Old Man: M-Master Karel! This will become a battlefield soon...
+Karel: So I see. This place is not known to outsiders. I thought I could be free of warfare if I stayed here...
+Old Man: What should we do?
+Karel: Please do not worry. I will protect the village.
+Old Man: Thank you! We have nothing to fear with the Sword Saint on our side.
+Karel: I am just an ordinary swordsman. Rumors expand out of proportion with time, so they must not easily be trusted. ...But this battle seems to be bigger than I thought. Is my sister all right...?
+Old Man: I never knew you had a sister.
+Karel: I haven’t seen her in years, but I heard a while ago that she had fallen ill. I can only hope that she is leading a peaceful life with her husband and daughter...
+
+@Recruit-Visit 
+Fir: Uncle!
+Karel: That voice... Is it Fir? What are you doing here?
+Fir: I never expected to find you here, either, Uncle.
+Karel: After traveling around the continent, I decided to settle here. I thought I could train my sword skills peacefully in a quiet place like this...
+Fir: Uncle... I must tell you something. Mother...she...
+Karel: ...Died?
+Fir: Yes...
+Karel: ... So she didn’t survive the illness... I’m sorry. I wasn’t there when she needed me the most...
+Fir: No...it’s all right.
+Karel: But why are you here? You don’t seem like you have been searching for me just to say that.
+Fir: Yes. I’m fighting against Bern now.
+Karel: You...joined the war?
+Fir: I know that you don’t like getting caught up in conflicts like this. But I couldn’t help but try and do something for those people who are suffering because of the war. Uncle...was I wrong? Did I make a mistake? Is this not good for training my sword...?
+Karel: No, you have not made any mistakes. The path you choose on your own is never wrong. In fact, I shall assist you from now on.
+Fir: Really!?
+Karel: Yes. ...You are right. You have grown. The last time I saw you, you were still a toddler.
+Fir: Uncle...
+ 
+Bartre: Karel!?
+Karel: Bartre? What are you doing here?
+Bartre: I am currently enlisted in the Etrurian Army. I didn’t expect to see you here...
+Karel: After traveling around the continent, I decided to settle here. I thought I could train my sword skills peacefully in a quiet place like this...
+Bartre: ...I must apologize...
+Karel: ...Is it about my sister?
+Bartre: Yes... I tried my hardest, but...
+Karel: She didn’t survive...
+Bartre: I am truly sorry. My weakness couldn’t save her...
+Karel: It is not your fault. I must apologize. I couldn’t be at her side when she needed me the most...
+Bartre: ...I must ask you for something.
+Karel: What is that?
+Bartre: I want this battle to end. I know you dislike warfare... But would you help us...?
+Karel: ...I see. Yes, I will try my hardest.
+Bartre: Thank you! We have nothing to fear with such a skilled swordsman on our side!
+ 
+@Visit
+Karel: This village has none who would wish to fight. Please leave us in peace.
+
+@Battle-Talk 
+%Roy,Karel
+Karel: Are you Roy?
+Roy: Who are you?
+Karel: I am Karel. I hereby have decided to assist your army.
+Roy: You’re the Sword Saint... I have heard of your skills. You are most welcome in our ranks.
+
+@Boss 
+Brunnya: Bern will not lose! Even if I fall, Bern will rise back up and fight again!
+
+Brunnya: Your...Majesty... Finally...I can go...to your side...
+
+%Melady,Brunnya
+Brunnya: Melady... So, you have chosen the path with Princess Guinevere. That is one way... But I have chosen my own path, as you yours. I must fight to defend it!
+
+%Zeis,Brunnya
+Brunnya: You are a knight of Bern? So, you have chosen the path with Princess Guinevere. That is one way... But I have chosen my own path, as you yours. I must fight to defend it!
+
+@End 
+Roy: This is the Dragon Temple... The Dark Priestess is in here?
+Elffin: We can count on that. But...something is bothering me...
+Roy: What?
+Elffin: In one of the legends of the Scouring, it is said that the Dragon Temple holds the power of the Dragons.
+Roy: What does that mean?
+Elffin: It is also said that the temple’s power protects the Dragon itself.
+Roy: What...? I don’t understand.
+Elffin: This is just my estimate, but perhaps it means that the Dragons inside the temple have much greater power than those on the outside.
+Roy: So... Our tactics against the Dragons until now might not work?
+Elffin: Perhaps... However, if those worthy of using the Divine Weapons use them to their fullest potential, then we may have a chance.
+Roy: ...We have no other good ideas. All right. Then we’ll choose those who have the best skill to enter the temple.
+Elffin: Be careful who you choose. We might not be able to leave once we’re inside...

@@ -1,0 +1,281 @@
+@Opening 
+After rescuing Fa, Roy headed for Aquleia.
+
+The capitol of Etruria, Aquleia is also the largest, most prosperous city on
+the continent.
+
+Preparing for the Lycia Alliance Army's attack, the Coup d'etat army
+concentrated their forces in Aquleia.
+
+Originally they had planned on using the garrison of the city for defense, but
+since the Elimine Church had turned to Roy's side, the Coup d'etat army had no
+choice but to retreat to the castle and take post there instead for fear that
+the Church may have encouraged the city denizens to protest.
+
+The Elimine Church was started by "Saint" Elimine, one of the Eight Heroes.
+This religious organization had many followers, primarily in Bern and Etruria.
+
+Roy had gained the Church's support in attacking Aquleia.  However, Narcian and
+his elite troops were waiting for Roy inside the castle.
+
+@Intro 
+Narcian: Damn...! The Lycia Alliance Army still stands! How could they come this far...!
+Soldier: G-General Narcian... The leader of the Three Dragon Lords, Lord Murdock is here!
+Narcian: What!? H-Hurry! Send someone out to escort him here! Make sure he gets the utmost attention...
+Soldier: He already is here...
+Murdock: Enough. Step aside.
+Narcian: L-Lord Murdock... What a pleasant surprise! What brings you all the way from Ilia?
+Murdock: Narcian, I believe you owe me an explanation.
+Narcian: I-I’m sorry, my lord, I’m not sure I understand...
+Murdock: Princess Guinevere has escaped, again. Flaer, your lieutenant, has failed at Western Isles. Also, you have neglected your mission of capturing the hidden village in Nabata, as given by the king himself! Narcian! I want explanations. Now!
+Narcian: Y-Yes... Well, you see, my lord, there have been many complications, and...
+Murdock: ...Enough. I have orders from the king. You are to be demoted from Dragon Lord status.
+Narcian: What!?
+Murdock: His Majesty wants Galle to take your place.
+Narcian: M-My lord! Please wait! One more chance, please! Just give me one more chance!
+Murdock: ...The Lycia Alliance Army is approaching this palace. Stop them to show me your worth. If you succeed, I shall negotiate with the king.
+Narcian: Lord Murdock...
+Murdock: Narcian... Don’t fail the king...or me, again.
+Narcian: Rubbish! Me, demoted!? And my replacement is that Galle...! Never! I will never allow that to happen! B-But what can I do... No...! My honor, my status... It’s all collapsing!
+Soldier: General Narcian, the enemy is approaching...
+Narcian: Shut up! I know that. ...Wait. The brother of that traitor, Melady, was here, wasn’t he... Ah! I can say that we failed because he was working with his sister to leak information to the enemy, and kill him off later! Hehehe...
+Soldier: General Narcian... What are you thinking?
+Narcian: Hm? Oh, do you know Melady’s younger brother?
+Soldier: Do you mean Sir Zeiss?
+Narcian: Right, Zeiss. Anyway, he’s suspected of leaking information to the Lycia Alliance Army. Capture him and bring him here.
+Soldier: What? But Sir Zeiss would never do something like that...
+Narcian: Shut up! All you must do is follow my orders! Now bring him here!
+ 
+Arcard: T-The enemy is right at our doorstep!
+Roartz: Oh...what must we do! If we get caught, we shall be prosecuted as the initiators of the coup d’etat...!
+Douglas: ......
+Roartz: ...Arcard! This is all your fault! If you had done your duty and gotten rid of the Lycia Alliance Army at Djuto...
+Arcard: B-But Lord Roartz...! ...No! This is not the time to be arguing, my lord! We must escape!
+Roartz: But escape to where...
+Arcard: ...Let us turn to Bern! This was originally their plan...
+Roartz: Y-Yes, of course! We have done what they asked of us. They would be sure to help us.
+Douglas: ...May I ask what you intend to do with the king?
+Roartz: Er... W-Well, I’m sure they wouldn’t harm the king. After all, King Zephiel’s mother was an Etrurian. Anyway, Douglas, you must escape as well...
+Douglas: I refuse. I was originally fighting alongside you because King Mordred’s safety was at stake. I had no intention of going along with your plans.
+Roartz: Hmph! Stubborn as always, I see. Suit yourself. Arcard, let us escape!
+Arcard: Lord Roartz! Please wait...
+Douglas: ...Dirty traitors! Fleeing at the last minute... It must have been easy for Bern to seduce them. I suppose I can leave those two to the Lycia Alliance Army... If Prince Mildain returns...Etruria will pull itself together again. And until then... I shall fight and prove my loyalty as the Great General of Etruria!
+ 
+Yoder: Master Roy, this is the palace of Aquleia. According to the information we have gathered, the Revolutionaries have holed up inside.
+Roy: Bishop Yoder, I thank you for your help. Thanks to the Elimine Church, we were able to avoid fighting in the city and killing innocent people.
+Yoder: No, I must thank you. Our order was being persecuted by the Revolutionaies, so if you hadn’t come along to fight, we would have been driven out of the land a long time ago.
+Roy: Persecuted? Why?
+Yoder: Most likely because we were investigating into Bern’s Dragons. Saint Elimine, our founder, said this before she ascended to heaven: ‘Never allow the Dragons to be brought back to the world... It would spell death for many a people.’ Therefore, we are making our best efforts to find a way to send the Dragons back to the world in which they belong.
+Roy: If the Revolutionaries had joined Bern, then they would naturally want to stop you...
+Yoder: That’s right. Also, we found out this: The resurrection of the Dragons is somehow tied to the Fire Emblem, Bern’s greatest treasure. That was where I sent Saul and Dorothy to investigate.
+Roy: I see.
+Yoder: Master Roy, you must stop the Revolutionaries. And if you would allow me to give you further advice, I would suggest that you do not do any unnecessary killing. I am sure there are troops that had no choice but to join the Revolutionaries due to inside reasons.
+Roy: Yes.
+Yoder: May Saint Elimine bless you, Master Roy.
+
+@Battle 
+Galle: Zeiss. Where are you?
+Zeiss: I’m here, Sir Galle. Is something wrong? Why did you summon me here...
+Galle: There is no time to be explaining the details. Zeiss, you must hide.
+Zeiss: ...What do you mean? The enemy is right in front of us!
+Galle: Zeiss, listen to me. Just now, General Narcian gave an order to the entire army...to capture you.
+Zeiss: What!? Does he think that I am betraying Bern?
+Galle: He is trying to put the responsibility for all of his past failures on your shoulders. He is saying that you worked with Melady to leak information to the enemy.
+Zeiss: With my sister? We don’t even know where she is.
+Galle: Melady has apparently joined the Lycia Alliance Army with the Princess.
+Zeiss: !! Melady turned to the enemy!? I don’t believe it...
+Galle: Then get the story from her yourself. I want to go with you as well, but I have been told by Lord Murdock to observe the battle and report back to him. Zeiss, I want you escape when you see the chance and speak with Melady.
+Zeiss: Sir Galle! I...
+Galle: I do not intend on doing anything until we hear Melady’s story.
+Zeiss: ......
+ 
+Hugh: What the? The Etrurian nobles ran off? Wait a minute, then what happens to my payment? I haven’t been paid for this mission yet!
+ 
+Cath: The treasures are calling me! So this is the palace of the richest family in Elibe... The treasure must be something indeed. Well, they took it all from us in the first place, so I guess I’ll only be taking it back!
+
+@Recruit-Talk 
+%Roy,Hugh 
+Hugh: Hey, you! You’re the leader of the army that’s attacking the castle, right? Do you have a shortage in magicians?
+Roy: ? Well, I guess we could always use more...
+Hugh: Really? Great! You see, there’s a Mage willing to fight for you. You think you would want to hire him?
+Roy: Where is he?
+Hugh: Right in front of you!
+Roy: ......
+Hugh: Hey, don’t look at me like that! I’m pretty decent with my magic. You can hire me for 10000 gold.
+Roy: 10000! That’s expensive...
+Hugh: Come on! I need money for my grandma...
+Roy: What? Is your grandmother sick or something?
+Hugh: Er... R-Right! Something to that nature... Anyway, I need some cash. Come on, pal!
+Roy: Well...
+Roy: All right, if your grandmother’s sick, then I suppose you need money for medicine...
+Hugh: You got that right! She’s really sick, you know. She’s always getting these really bad headaches around her back...
+Roy: Huh? Headaches around her back?
+Hugh: Um, y-you know what I mean, I was just giving an example of the pain... ...Okay, got the money. I’ll do my job well. You can count on me!
+Roy: I’m sorry, but I can’t pay 10000 gold for just one person.
+Hugh: What! ...W-Well, I could compensate with 8000...
+Roy: ?...
+Hugh: Come on, please?
+Roy: Well...
+Roy: I’m sorry, but...
+Hugh: S-Still no good? Um...well, I guess 6000 gold would still do...
+Roy: Er...
+Hugh: Please. I really need the money...
+Roy: Well...
+Hugh: ...... All right, all right! I’m really getting desperate now... 5000! How’s that!
+Hugh: Come on, I’m begging you! Please hire me!
+Roy: Well...
+Roy: ...I’m sorry.
+Hugh: No... ...Please...I swear I’ll be really useful...
+Roy: The money we have belongs to all of us. I have no right to use it on my own judgment.
+Hugh: Argh! I give up! Fine! Have it your way. Just when I thought you were somebody... Ha! You’ve got some pretty nice beliefs, haven’t you, kid!
+
+@Battle-Talk 
+%Elffin,Douglas
+Elffin: Douglas!
+Douglas: Prince Mildain! You’ve returned! You seem so well now...thank goodness.
+Elffin: It is all thanks to you. I am sorry I put you through this.
+Douglas: You returned safely... That is more than enough praise.
+Elffin: Douglas, I am currently working with the Lycia Alliance Army.
+Douglas: Ah! Then everything will go smoothly as long as we can drive off Bern’s troops from the palace.
+Elffin: What...are you going to do?
+Douglas: The king is still in the enemy’s hands. If I turn against Bern now, the king would be in danger...
+Elffin: ......
+Douglas: But now that you have returned, I have no more regrets, even if I were to be defeated by the Lycia Alliance Army.
+Elffin: Douglas...I apologize. You are doing this all for my father...
+Douglas: My Prince, if my life were to be used for the true benefit of Etruria, then that would be my last wish.
+Elffin: ......
+Douglas: I am glad that I could see you alive before my death.
+Elffin: You risked your life to protect me and let me escape to the Western Isles. I shall never forget that. ...Never.
+Douglas: ...I still have false hope. I still think of trying to take you to see the king...
+Elffin: ...Douglas, I will not give up hope. Roy...he just might be able to...
+
+%Larum,Douglas
+Larum: Father!
+Douglas: Larum! What are you doing here?
+Larum: I joined the Lycia Alliance Army with Prince Mildain...
+Douglas: ! So the prince has returned! Now Etruria has hope...
+Larum: Father...
+Douglas: Larum... I’m sorry I put you through this. I had to send you off along to protect the prince.
+Larum: No! That was what I wanted to do.
+Douglas: ...But just when I thought I had saved you from a hard life, I had to send you out to be a dancer again.
+Larum: ...You saved me from that terrible life with no food...no money... And you even raised me as your own daughter... From that time, I made up my mind that I would one day return the gift, that I would be of some use to you.
+Douglas: Larum...
+Larum: So I’m really...glad, now. I’m finally being useful to you...
+Douglas: Larum, thank you. ...Please take care of the prince from now on as well.
+Larum: What about you? You’re not coming with us?
+Douglas: King Mordred is still in the hands of the enemy. If I turn to Lycia Alliance Army now, then the king’s life would be in danger.
+Larum: ...But still...
+Douglas: Now that the prince has returned safely, I have no regrets, even I am to be taken down by the Lycia Alliance Army.
+Larum: ......
+Douglas: Now go. If you are seen with me, you would be suspected of treachery. No matter where you are, you will always be my true daughter. Always.
+Larum: Father...
+Douglas: May your life be blessed with happiness...
+
+%Cecilia,Douglas
+Douglas: Cecilia.
+Cecilia: Lord Douglas... Why is someone of your stature fighting for the Revolutionaries...?
+Douglas: I am prioritizing the king’s safety. That is all.
+Cecilia: But if this continues, Etruria will become a puppet state for Bern! There must be a nation for there to be a king. If the nation falls, so will its power. And in the end, all will be forgotten!
+Douglas: If this nation is doomed to collapse...then so be it. But I will assure the king’s safety!
+Cecilia: What...! We must fight for our people, for our nation! The Etrurian army is for the people. They are not the king’s private soldiers!
+Douglas: ...It is a matter of opinion. Cecilia, you must follow your beliefs, as I must follow mine.
+
+%Percival,Douglas
+Percival: Lord Douglas!
+Douglas: Percival... I see no more hesitation in your eyes now.
+Percival: Lord Douglas, it is thanks to you. Because you saved Prince Mildain, I was able to return to being an honorable knight again.
+Douglas: Good.
+Percival: What are you going to do, Lord Douglas?
+Douglas: The king is still in the hands of the enemy. If I turn to Lycia Alliance Army now, then the king’s life would be in danger.
+Percival: ......
+Douglas: Now that the prince has returned, I have no regrets, even if I am to be taken down by the Lycia Alliance Army.
+Percival: I knew you would say that, my lord.
+Douglas: Well, you have walked the same path as I. Please take care of the prince...and of Etruria.
+Percival: Yes. I shall dedicate my life to them.
+
+@Recruit-Talk 
+%Melady,Zeiss
+Zeiss: Melady!
+Melady: Zeiss!? What are you doing here?
+Zeiss: ...I’m being accused of betraying Bern.
+Melady: Oh...! Is it...my fault...?
+Zeiss: Sir Galle said that you had joined the enemy. But I couldn’t believe it until now, when I can see it with my own eyes! Why! Why did you betray Bern?
+Melady: I never betrayed Bern. I just wanted to help Princess Guinevere.
+Zeiss: So you threw away everything...your homeland, your family, even your lover...for the princess. For that...stubborn princess who betrayed her own brother!
+Melady: Enough, Zeiss! I will not tolerate you insulting Princess Guinevere!
+Zeiss: ......
+Melady: It’s the princess, not the king, who is truly working for the good of Bern. Granted, I was angry when the princess left without consulting me at all. But now that I’m by her side, I understand more than ever...that she had not made a mistake.
+Zeiss: ...Sir Galle was right.
+Melady: ?
+Zeiss: He said that he didn’t intend on doing anything until he heard your story.
+Melady: Galle said that...
+Zeiss: I don’t fully agree with you yet, but... I know I can trust you.
+Melady: Zeiss! Then...?
+Zeiss: If the Lycia Alliance Army’s leader would allow it, I want to go with you. I want to see the princess’ beliefs that moved you so.
+
+@Boss 
+Narcian: I am strong...I am wise...I am handsome...and I am right. Always! More than anybody!
+
+Narcian: No…No…! I will not be defeated…! Not by you…worthless… Gaaaaaaahhhhh!
+
+%Clarine,Narcian
+Narcian: You...! You’re that girl that was...!
+Clarine: ? Excuse me, have we met before?
+Narcian: What! You have forgotten me, of all people!? That...must not be!
+
+%Melady,Narcian
+Narcian: 
+You’re Princess Guinevere’s... Ha! So you betray your nation and turn to the enemy. Disgraceful!
+
+%Zeiss,Narcian
+Narcian: You...
+Zeiss: General Narcian... No, Narcian! I heard everything from Sir Galle! Do you not...have any honor left in you at all!
+Narcian: Galle...! Dammit, is he ever an eyesore! Well, it shall be fine... Once I get rid of you, everything will be shrouded in mystery...
+
+%Cecilia,Narcian
+Narcian: You’re... So, being defeated once wasn’t enough?
+Cecilia: Zephiel was the one who defeated me. Not you.
+Narcian: Then I shall show you my strength now!
+
+%Percival,Narcian
+Narcian: Well, if it isn’t General Percival, the traitor!
+Percival: Joining you...was the biggest mistake of my life. And now, I shall repent for it...by defeating you!
+
+@End 
+Mordred: So it is you...who rescued us?
+Roy: My name is Roy, leader of the Lycia Alliance Army.
+Mordred: Hm...
+Roy: ......
+Mordred: ...I must ask you of something. The soldiers who have been working with Bern have taken over the Tower of the Saint.
+Roy: The Tower of the Saint... That is where Saint Elimine’s altar lies.
+Mordred: Yes... That is a national symbol of Etruria. Please, I ask you to recapture the tower.
+Roy: I will do what I can.
+Mordred: I am sorry. You may use anything in the tower that you find useful.
+Roy: The king... He still mourns the prince’s death.
+Merlinus: He must have been an easy target for Bern.
+Roy: I want to help him...but how?
+ 
+Elffin: Father...I am sorry. When the time comes, I will return...I promise.
+ 
+Roy: Princess Guinevere, I must speak with you.
+Guinevere: ...Is it that we must attack Bern as well after Etruria?
+Roy: ! Did someone inform you?
+Guinevere: No. ...But I knew that it would happen eventually.
+Roy: ...We cannot leave Bern running around freely any longer. I know that it will be hard to see your nation invaded, but...
+Guinevere: ...Roy, I will give this to you.
+Roy: What is this?
+Guinevere: It is Bern’s greatest treasure...the Fire Emblem.
+Roy: What!?
+Guinevere: In the south of Bern lies a temple called the Temple of Seals. In it lies the sword that our founder, Hartmut, used.
+Roy: Is it...one of the Divine Weapons?
+Guinevere: I believe so. It was a sword made to slay the Dark Dragon, the leader of the Dragons during the Scouring. However, it held power so immense that it was sealed away after the war. The Fire Emblem is the key to break its seal.
+Roy: The key...
+Guinevere: My brother...is trying to force the world into submission through power. That is not forgivable, no matter what the reason.
+Roy: ......
+Guinevere: To stop him, all we can do is defeat the Dragon at his side.
+Roy: Princess Guinevere...
+Guinevere: ...My name shall be stained in history, as the woman who betrayed her nation.
+Roy: No...
+Guinevere: I shall be hated all my life as a traitor. Roy, promise me one thing. When we invade Bern, promise me that you will not harm the civilians...
+Roy: I promise. Please trust me.
+Guinevere: ...Thank you.

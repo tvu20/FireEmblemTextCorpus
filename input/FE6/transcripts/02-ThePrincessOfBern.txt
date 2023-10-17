@@ -1,0 +1,130 @@
+@Opening 
+There is a small village on the border of Pherae and Bern. This is where Roy is to meet the mercenary band that Eliwood hired.
+
+Just east of the village is a small castle occupied by Bern's forces. At the time Roy reaches the village, the castle is in an outright panic. Roy has yet to realize that this confusion going on in the castle will spread, engulfing the entire continent of Elibe in chaos...
+
+@Intro 
+Melady: All I want to know is what happened to Princess Guinevere!
+Rude: Y-yes, Captain Melady... I'm certain she was in her room this morning, but she simply vanished...
+Melady: You told me that already, you buffoon! I don't want excuses! Are you so incompetent you can't understand that?!
+Rude: Well... I... Er...
+Melady: Our forces are mobilizing to begin a full-scale war with Lycia. How are we to focus on the battle if the princess is missing?! Naturally, you will take full responsibility for her disappearance.
+Rude: ......
+Melady: I never should have let Her Highness come to the border to begin with. I will return to Bern and inform the king of this matter. I'll try not to cause a panic, but I can't promise your life if the princess isn't found. I trust you'll take every measure to locate her as soon as possible.
+Rude: Yes, Captain!
+
+Rude: Is Princess Guinivere secure?
+Soldier: Yes, Commander. She's under constant surveillance in the cellar.
+Rude: Good. Don't let her escape.
+Soldier: But Commander... are you sure this is a good idea?
+Rude: Of course I'm sure! The younger sister of King Zephiel... We're sure to get a hefty sum turning her over to one of Bern's enemies.
+Soldier: .....
+Rude: Loyalty to one's king. Bah. What a worthless notion. The world is ruled by neither king nor queen. It's ruled by gold!
+Soldier: Yes, indubitably, Commander.... But there has been a snag, shall we say.
+Rude: Hm? What do you mean?
+Soldier: I just received a report... It seems that Princess Guinivere's lady-in-waiting has escaped...
+Rude: What?! You lout, why didn't you say so earlier? Find her this instant! Don't let her get away!
+
+Merlinus: Lord Roy, this is the location.
+Roy: This is where we're supposed to meet the mercenaries?
+Merlinus: Yes, though it seems they aren't here yet. Wait, who's that? Somebody's coming this way...
+Roy: Be careful there!
+Elen: Oh, forgive me! I'm in such a hurry...
+Roy: No need for apologies. Are you hurt?
+Elen: No, I'm fine. Thank you, good sir.
+Roy: Farewell, then.
+Elen:...Are you from Lycia, by chance?
+Roy: I am. I am the son of Marquess Pherae.
+Elen: Oh, Saint Elimine! Thank you for guiding me to this boy!
+Roy: Pardon?
+Elen: Please, I need your help to rescue my mistress.
+Roy: What happened?
+Elen: My name is Elen. I am a cleric of Saint Elimine. My mistress and I came from Bern to seek an audience with the lords of Lycia. However, Commander Rude of the castle east of here trapped us. We were captured, imprisoned by our own countrymen.
+Merlinus: Lord Roy! We must avoid unnecessary entanglements with Bern!
+Roy: But we can't neglect a noble of Bern who wants to speak with the lords of Lycia... Then again, we can't simply charge into enemy territory either... Wait, who's there?!
+
+Soldier: There's the wench! Over here, boys! Get the girl! Our orders say dead or alive!
+
+Elen: Oh dear...
+Roy: Well, Merlinus, they provoked hostilities. I don't think we have any choice now.
+Merlinus: You wouldn't listen even if we did, I'm sure. But no matter. Let me witness all you've learned about tactics in Ostia.
+Roy: All right, everyone! We're going to charge the castle! Sister Elen, you should find a place to hide...
+Elen: No, I will come with you. I cannot fight, but I can heal wounded allies.
+Roy: But...
+Elen: I'm the one that got you tangled up in this mess. Please let me do what I can to help.
+Roy: OK, but just stay behind us so you aren't hurt.
+Elen: Certainly. Thank you for the concern.
+
+@Battle 
+Dieck: They should be around here somewhere... Shanna, check around and try to find the soldiers from Pherae, will you?
+Shanna: Sure!
+
+Wade: So, Big Man, who's our client this time?
+Dieck: House Pherae, one of the noble families of Lycia. The marquess's son is going to join the other armies of the Lycian League.
+Lot: We're going up against Bern then?
+Dieck: Looks that way.
+Wade: Finally, a foe worthy of my axe! Let's show 'em what we're made of!
+Lot: Bern, eh? This won't be easy, I can tell you that. We had best tread lightly.
+
+Shanna: I think I've found them! But it looks like they're already caught up in a skirmish.
+Dieck: What? The fighting's started already? Let's get a move on then. Time to earn our pay!
+
+@Battle-Talk 
+%Roy,Dieck
+Dieck: Are you Lord Roy of House Pherae?
+Roy: Who is it that's asking?
+Dieck: Name's Dieck. You should've heard about me from an older man named Merlinus.
+Roy: So you're the leader of the mercenary band?
+Dieck: Just a small company, really. Sorry we're late. Didn't think the fighting would start so soon.
+Roy: Well... There was a complication...
+Dieck: Don't take it the wrong way. We don't blame you. Actually, quite the contrary. My boys are excited for a chance to show off their skills.
+Roy: Brilliant. It sounds like you're just the caliber of fighters we need.
+Dieck: Enough chitchat then. Let's wrap things up.
+
+@Visit 
+Village: Armored knights have nearly impenetrable defenses. But some weapons, like this sword, can pierce their armor. I'm sure you can get better use out of it than us. Please, take it. 
+
+House: Pegasi are useful for flying to hard-to-reach places. But woe to any rider who finds herself against an archer. An arrow can take a pegasus down in a single hit!
+
+House: Forts are the key to a good defense. If you're in a fort, you can defend and even dodge more easily. On top of that, your wounds will heal slowly over time.
+
+House: The weapon triangle... Swords, axes and lances. Remember, swords best axes, axes best lances, and lances best swords! Keep this in mind and things will be much easier for you!
+
+@Boss 
+Rude: Curse it all! Just when I thought things had finally turned my way...
+
+Rude: Oof... Greed can only...bring you...an ill fate...
+
+@End 
+Merlinus: Lord Roy! There was a woman locked in the cellar!
+Roy: That must be Elen's mistress. Bring her here.
+Merlinus: Yes, milord.
+
+Elen: Your Highness!
+Guinevere: Elen! I'm so relieved you're well. You put yourself in such danger running off like you did... I worried myself sick about you.
+Elen: I am sorry, Your Highness, but I couldn't leave you in that dank cellar...
+Guinevere: Don't worry yourself, Elen. It's thanks to you I am safe now. I am in your debt. May I ask your name...?
+Roy: I am Roy, son of Eliwood, Marquess Pherae.
+Guinevere: It's a pleasure... As for myself...
+Elen: Your Highness... Are you certain you should?
+Guinevere: Yes, Elen. It is fine. My name is Guinivere.
+Roy: Guinivere?! That's the name of the Princess of Bern!
+Guinevere: Yes, that is I.
+Merlinus: What?! This was a trap, wasn't it?!
+Roy: Merlinus, hold.
+Merlinus: I beg your pardon, Lord Roy, but...
+Roy: I wish to hear her out. Give her a chance, will you?
+Merlinus: Tsk. As you will...
+
+Roy: Are you truly Princess Guinivere from Bern?
+Guinevere: Yes, truly. I cannot blame you for doubting me, however.
+Roy: Maybe you are the princess of Bern, and maybe you aren't. I can see from your actions and dress that you are at least of high status. If you are indeed Princess Guinivere, however, there's one thing I don't understand. Elen told me you intended to meet the lords of the Lycian League.
+Guinevere: Yes, that is correct.
+Roy: Why, if you are the sister of the King of Bern?
+Guinevere: I want to find a peaceful way to end the war. If I can speak to the Lycian council, I'm certain we can come to a solution.
+Roy: Your brother instigated this war. Is it in your power to stop it?
+Guinevere: At the very least, I wish to do everything I can. No, I MUST do everything I can.
+Roy: ...I see. For the time being, come with us to meet the Lycian League armies. I want to see what Lord Hector thinks of this affair.
+Guinevere: You will allow me to accompany you?
+Roy: Yes. If there is any possibility to avoid further bloodshed, we must try. It matters not how small the chance.
+Guinevere: Thank you! I truly am in your debt.

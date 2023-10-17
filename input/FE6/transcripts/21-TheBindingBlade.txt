@@ -1,0 +1,135 @@
+@Opening 
+After surviving many hardships, Roy set foot on Bern’s soil at last.
+
+Guinevere guided Roy toward the Temple of Seals, but in their path stood Bern’s main forces, the strongest army on the continent, led by Murdock, the leader of the Three Dragon Lords.
+
+Etruria and Bern, the two leading forces on the continent, clashing in all-out war. The longest and bloodiest day yet to be seen by Elibe was about to begin…
+
+@Intro 
+Soldier: All troops are at their posts and ready for battle, Lord Murdock.
+Murdock: Good.
+Murdock: Galle. So it begins.
+Galle: Yes, my lord. We are prepared.
+Murdock: Your squad will be the key to winning this battle. Understood?
+Galle: Of course, my lord. I will not let you down.
+Murdock: Yes. We shall show them the power of Bern’s main forces. Still...that general from the Lycia Alliance Army made it this far.
+Galle: General Roy?
+Murdock: Yes, him. I wish to see how he fights...by going up against him in person.
+ 
+Yoder: Ah, General Roy! I have found you at last.
+Roy: Bishop Yoder! What brings you all the way from Etruria? Is something wrong?
+Yoder: I did some research after receiving your letter. I have come to the conclusion that Bern has indeed resurrected the Dark Dragon!
+Roy: Is that true!? ...But Hartmut defeated the Dark Dragon in the war. How could Bern have brought it back to life?
+Yoder: Apparently, Hartmut did defeat the Dark Dragon, but he did not finish it off.
+Roy: What!?
+Yoder: Instead of killing it, he sealed it away in the mountains of Bern. And the sword he used to seal it was...
+Roy: The Binding Blade?
+Yoder: Oh, did you know?
+Roy: Yes. I have done a little studying myself...
+Yoder: Even if the Dark Dragon has been released, if we can obtain the Binding Blade, then we may be able to seal it again, or even kill it once and for all. That is the Church’s conclusion, and they sent me to ask for your assistance.
+Roy: Do you know where the Dark Dragon is?
+Yoder: Yes, that is my next point. As the the fire-breathing Dragons can change into human form, is highly possible that the Dark Dragon can as well. In fact, we have a suspect. There is a shaman called the Dark Priestess whom King Zephiel keeps at his side at all times.
+Roy: The Dark Priestess...
+Yoder: We have no solid evidence, but it is true that she appeared at around the same time that the other fire-breathing Dragons started to be seen.
+Roy: ......
+Yoder: Apparently, the Dragons sealed away their power in gems called Dragon Stones to change into human form so that they could adapt to this environment. In that case, it would not be surprising if the Dark Dragon was in the form of a human woman as well.
+Roy: In any case, we have to go see her to confirm the truth.
+Yoder: Yes. I shall accompany you.
+Roy: You would fight alongside us? That would be most helpful!
+Yoder: Also, take these. These are the Divine Weapons that the Church found on its own. I have instructions to give them to you.
+Roy: Divine Weapons, too!?
+Yoder: If the Dark Dragon has really been released, this would be the greatest danger mankind has faced since the Scouring!
+Roy: Yes. We will face it with all our strength!
+
+@Battle 
+Galle: All right, let’s go! Crush them all. Leave none alive! Show the enemy the wrath of the Dragon Masters of Bern!
+
+@Battle-Talk 
+%Yoder,Saul
+Saul: Ah, Bishop Yoder.
+Yoder: Saul, it is good to see you are well. And thank you. The Church has been saved countless times because you and Dorothy fought alongside Roy.
+Saul: ...If one such as I was to be of any help at all, then I am truly proud.
+Yoder: Oh? It seems I have never seen you so...serious.
+Saul: Bishop Yoder, even I am a priest. I have as much concern for the common good as anybody.
+Yoder: I see. I am sorry. Then let us fight together, shall we?
+ 
+@Yoder,Dorothy
+Yoder: Dorothy. Have you been well?
+Dorothy: Yes. It is good to see you again, Bishop Yoder.
+Yoder: You are always so bright and full of energy. I’m sure God loves that part of you.
+Dorothy: Do you think so...?
+Yoder: Everyone who comes in contact with your pure heart has his own heart cleansed. Like me, for example. Even Saul. You should be proud of that.
+Dorothy: Yes, Bishop Yoder!
+
+@Boss-Talk 
+%Zeiss,Galle
+Zeiss: Sir Galle...
+Galle: Zeiss. You seem well.
+Zeiss: Sir Galle... Must we fight?
+Galle: Yes. We must.
+Zeiss: I... I don’t want to fight you! You’re the last person...
+Galle: Zeiss! Don’t be a child!
+Zeiss: Huh...!?
+Galle: Did you have only so much resolve when you left Bern? Is that all the resolve you had when you decided to fight against Bern!?
+Zeiss: No! My mind is...set... Even now, it hurts to point my blade toward Bern, my homeland... But I believed with my heart that the path I chose wasn’t a mistake...!
+Galle: Then cast away your hesitation! Focus on crushing those who block the path that you have chosen. ...No matter who it is.
+Zeiss: Sir Galle...
+Galle: Zeiss... Were you not a knight of Bern?
+Zeiss: ...Of course I am!
+Galle: Good! When we meet next time, neither of us will speak. We will fight!
+ 
+%Melady,Galle
+Melady: Galle...
+Galle: Melady...
+Melady: Galle... I...
+Galle: Don’t speak... You and I are both loyal knights. We both fight for whom we have pledged our loyalty to. That’s all.
+Melady: ......
+Galle: Melady... This is probably the end, so let me say this. Melady, I am truly grateful that I was able to meet you. We trained our skills together, and we fought alongside each other. Melady... The days I spent with you... Those were the happiest days of my life.
+Melady: Me... Mine, too...
+Galle: ...Goodbye, Melady... I always wish we had met in a more peaceful time.
+Melady: Galle...
+Melady: Wait...! Galle! Don’t go! Gaaaaaaaaaale!
+
+@Boss 
+Galle: I have no regrets… Zeiss… Take care…of Melady…
+
+Murdock: Hm...you made it this far. I congratulate you. But can you defeat me?
+
+Murdock: Gah...! You...are strong... Zephiel... My king... I cannot protect you...any further... Forgive me...!
+
+%Roy,Murdock
+Murdock: So! You are General Roy! I have always been looking forward to matching blades with you!
+
+%Melady,Murdock
+Murdock: Melady... I don’t want to fight you, but you stand here before me. It seems we have no choice. Come!
+
+%Zeiss,Murdock
+Murdock: You were one of Narshen’s troops... I heard the story from Galle. I do feel sorry for you, but you are currently an enemy. Come! We fight!
+
+@End 
+Elffin: Master Roy... There is a path leading underground.
+Roy: Does that mean that the Binding Blade is in there?
+Elffin: I don’t know... But I heard from a captive that two things are hidden inside the temple.
+Roy: ! Does that mean that there’s another Divine Weapon?
+Elffin: Possibly... Perhaps we should ask those from our army who are natives of Bern.
+Roy: All right. I’ll check with them.
+ 
+Elffin: Master Roy. This sword stuck in the altar...
+Roy: This must be the Binding Blade.
+Merlinus: Let’s see... ...I can’t seem to draw it from the stone.
+Roy: It’s sealed. You have to use the Fire Emblem.
+Merlinus: Use it? How?
+Roy: Princess Guinevere said that you just have to stick it into the opening in the handle...
+Roy: Whoa! What the...
+Merlinus: The blade is glowing!
+Roy: Now I should be able to draw it... ...!
+Roy: ...What...is this...? This is the Binding Blade’s... No, Hartmut’s... Memories...?
+Roy: Who was that? What’s this feeling... It’s very...
+Merlinus: Master Roy? Are you all right?
+Roy: Yeah... I’m fine. So this is Hartmut’s sword, the Binding Blade... Am I allowed to use it...?
+Elffin: It has been said for centuries that the best swords choose their owners. The sword is in your hands now. You were chosen by it.
+Roy: But it’s only coincidence that I’m holding it...
+Elffin: What we may think of as being coincidental... Even that might be part of our fate.
+Roy: ......
+Merlinus: Anyway, now that we have the Binding Blade, all we need to do is head for the castle. We must hurry!
+Roy: ...Right! We have to defeat Zephiel!

@@ -1,0 +1,91 @@
+@Opening 
+After Roy captured Aquleia, other Etrurian powers gradually began to change their views and express their discontent for the Revolutionaries. Driven away from their palace, Roartz and Arcard fled to Ilia, which was still under Bern’s control.
+
+Ilia, also known as the Frozen Highlands, was a harsh land with short summers and long winters. With little arable land, the nation’s main source of income was to send out mercenary knights to fight for pay.
+
+Etruria joined force with the Lycia Alliance Army to form a joint force under the name of the Etrurian Army, with Roy as its commander. Their first mission was to enter Ilia and finish off the remaining Revlutionaries. Once that was done, they would proceed to launch direct attacks on Bern. With the powerful backing of the Elimine Church, Roy had the populace on his side.
+
+However, Roy had to face the freezing cold of Ilia, as well as Bern’s elite troops under General Murdock, the leader of the Three Dragon Lords. In addition, many of the powerful Ilian mercenary knights had submitted to Bern’s side.
+
+As a start, Roy headed for Castle Raemy, located on the Ilian border.
+
+@Intro 
+Murdock: So, Narshen has fallen.
+Galle: Yes. Lord Murdock, did we really not have to aid him?
+Murdock: Those were the king’s orders. Besides, the Bern army has no use for a man who cannot clean up his own messes.
+Roartz: Lord Murdock... What will become of us?
+Murdock: Lord Arcard, I will entrust this land of Raemy to you. Lord Roartz, I will have you take the land of Edessa. You must make preparations to retaliate.
+Arcard: What!? Raemy is right on the border! The enemy will arrive in no time!
+Murdock: True. But this position also allows us to easily launch attacks on Etruria. Make sure this castle does not fall.
+Roartz: Edessa... It is deep in the wastelands of Ilia...
+Murdock: That would give you plenty of time to prepare your forces, would it not?
+Arcard: Could you not...take back Etruria for us?
+Murdock: We could. However, when we do, Etruria will go under Bern’s rule.
+Roartz: No! That won’t do.
+Murdock: Then I suggest that you find a way to deal with the situation yourselves. Excuse us.
+Roartz: ......
+ 
+Galle: My lord, were we supposed to dispose of those two like that?
+Murdock: Don’t worry. Bern’s code says that every individual must be able to deal with the consequences of his own actions. ...The enemy leader, was his name Roy?
+Galle: Yes.
+Murdock: I must admit, he has done a superb job of rebuilding the Alliance Army after we crushed it so... If I have the chance, I would like to have the honor of fighting him one on one.
+ 
+Yoder: We are soon approaching the Etrurian border.
+Roy: Bishop Yoder, thank you for everything. Thanks to the Church, we were able to proceed thus far with ease.
+Yoder: Please. If you had not captured Aquleia, we would be suffering from persecution under Bern. This is nothing in comparison to what you did for us.
+Roy: I am glad that I could be of use to you.
+Yoder: Now... May I ask you a very important favor?
+Roy: Yes, anything that I am capable of.
+Yoder: If you find out anything else about the Dragons...
+Roy: I understand. If I discover anything new, I will report to you immediately.
+Yoder: Thank you! ...Ah, yes, I must tell you something else. This land of Raemy... At a certain time of the day, the sea level drops, exposing a sand bar that can be crossed.
+Roy: A sand bar?
+Yoder: Yes. It will take long to traverse all the way around the bay to attack the castle. However, should you be able to cross the sand bar, you may be able to save some time.
+Roy: I see.
+Yoder: Still, please be careful. Rushing is not always the best tactic to win a battle.
+Roy: Yes. Thank you for your advice.
+Yoder: Of course. Then, may Saint Elimine bless the Etrurian Army!
+
+@Battle 
+Soldier: Lord Arcard! A path has appeared in the sea!
+Arcard: What!?
+Soldier: Well... According to the locals, the tide pulls at this time of day...
+Arcard: What!? You didn’t know about this!?
+Soldier: But, sir, we are not from these parts! We are not familiar with the geography of this land!
+Arcard: Damn! Charge! Prevent the enemy from crossing that path!
+ 
+Merlinus: Master Roy, we have a report.
+Roy: Did the path in the sea appear?
+Merlinus: Yes. Bishop Yoder was right.
+Roy: Did the enemy know about this?
+Merlinus: Actually, they seem to be a panicked state.
+Roy: All right, then let’s not miss this chance! Charge!
+
+@Boss 
+Arcard: Wh-Why! Why is this happening to me!?
+
+Arcard: I...am an Etrurian...noble! I must not...die...here... Guh!
+
+%Klein,Arcard
+Arcard: Klein! You would betray me?
+Klein: You are the one who betrayed Etruria, Lord Arcard!
+
+%Douglas,Arcard
+Arcard: D-Douglas! You had turned to the enemy...!?
+
+@End 
+Merlinus: Lord Arcard... What a pathetic ending for one who became so powerful.
+Roy: Well, last year, I didn’t think we would be fighting in Sacae, either. Fate can turn out in the most unlikely ways... And that might be true for Bern as well.
+Merlinus: ...? Master Roy, what is it that you are holding in your hand?
+Roy: Oh, this? This is the Fire Emblem.
+Merlinus: Oh... So this tiny gem is...
+Roy: Princess Guinevere wanted me to keep it. It seemed...difficult for her to give it to me... She must have been truly hoping to end the war peacefully until now...where this is no hope left...
+Merlinus: Hmm... Trust between siblings? It didn’t seem likely on the outside.
+Roy: Why not?
+Merlinus: The enemy is Zephiel, king of Bern! It is said that he murdered his own father, so I didn’t think that he would be moved by mere family relations...
+Roy: What!? He killed his own father?
+Merlinus: Didn’t you know, Master Roy? Zephiel took the throne because the former king had died. But because the former king’s death was so sudden, there are many rumors going around.
+Roy: And one of them is...
+Merlinus: ...That King Zephiel assassinated him.
+Roy: ...Does Princess Guinevere know about this?
+Merlinus: She must know something about it, if not all.

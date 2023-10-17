@@ -1,0 +1,136 @@
+@Opening 
+After saving the hidden village of Arcadia, Roy's army found their way out of
+the desert, following Igrene's lead.
+
+Now they turned toward Etruria to confront the Coup d'etat forces.  At this
+point, a disturbing message came from the Elder of Arcadia.
+
+Apparently, Fa, the little Dragon girl, had left Arcadia, following Roy.  If
+she were to fall into the hands of the Coup d'etat forces or of Bern, who stood
+behind them, it would be a disaster.
+
+Bent on finding Fa, Roy moved his forces toward a small fort near the Etrurian
+border.
+
+@Intro 
+Soldier: General Raeth, about the girl we captured earlier...
+Raeth: Girl? That one that was scurrying around the outskirts of the castle? Are you still worrying yourself over that thing? Just throw her out.
+Soldier: But sir, she was carrying this.
+Raeth: ? Is this...a Dragon Stone?
+Soldier: ...That is also what I thought, so I decided to report.
+Raeth: Have you ever seen a Dragon Stone before?
+Soldier: Yes, when we invaded Lycia. The Dragons were carrying them when they were in their human form.
+Raeth: ...But it looks different from the ones that they have. Either way, it has to do with the Dragons. We should inform King Zephiel and follow his instructions. Make sure the girl doesn’t get away!
+ 
+Douglas: Percival, don’t strain yourself here.
+Percival: Lord Douglas, please do not worry about me. You must return to King Mordred’s side.
+Douglas: Hmph, defeating the Lycia Alliance Army is not a task that requires the Knight General’s assistance. ...Roartz, that snake.
+Percival: He is wary of my turning against him. He must be thinking that I would try and murder him in his sleep if I were stationed at Aquleia.
+Douglas: That man, worrying about traitors? Ha! He shouldn’t be the one to talk. Why, he was first to betray his loyalty to the king! The bastard.
+Percival: Well, Lord Douglas, it just goes to show that not many have such loyalty as you.
+Douglas: Rubbish. Look at yourself.
+Percival: ...I had no hesitations when Prince Mildain was alive. I never doubted my loyalty to him, or to the wellbeing of Etruria. This mission is to protect the king’s life... That...should be enough reason to fight...
+Douglas: Do you hesitate now?
+Percival: Yes, slightly. But it matters not. Nothing will change even if I do.
+Douglas: I see... Percival, my speech from this point forth is merely to myself. Do not reply to it.
+Percival: ......
+Douglas: Etruria...will most certainly fall with the king before this war ends.
+Percival: !! Lord Douglas!?
+Douglas: Listen! No matter what happens, I will stay by the king’s side. But you, Percival, you are different. You are the one who will lead Etruria’s future. I cannot say when, but I firmly believe that Etruria will be blessed with prosperity once more. So Percival, you must leave Etruria and wait until that time comes.
+Percival: Lord Douglas! What does...
+Soldier: General Percival! We have spotted the Lycia Alliance Army up ahead! What are your orders, sir?
+Douglas: Now go! I shall return to Aquleia.
+Percival: ... Move forth! Pursue the Lycia Alliance Army!
+ 
+Roy: Is that the castle where Fa was taken?
+Merlinus: Yes. The locals have witnessed it.
+Igrene: Roy, I apologize on behalf of my people for the inconvenience... I know we must hurry toward Aquleia.
+Roy: No, please don’t worry about it. If she were to fall into the hands of Bern, that in itself would be a disaster.
+Igrene: She should be safe as long as she remains in her human form and doesn’t show anyone her Dragon Stone.
+Roy: Dragon Stone?
+Igrene: Yes. When Dragons are in their human form, they seal their powers into crystals called Dragon Stones. It is said that it takes vast amounts of energy for Dragons to maintain their actual form in this world, so they typically remain in human form to minimize energy consumption.
+Roy: Maybe the ‘human not human’ was in human form for the same reason.
+Igrene: Most likely. It is also said that Dragons only started taking human after the Scouring ended.
+Roy: Since the Scouring...?
+Igrene: Yes...
+Merlinus: Master Roy, the spy we sent to the castle has returned.
+Roy: What did he find out?
+Merlinus: He said that a large number of troops have been coming out of the castle. They seem to be fortifying their defenses.
+Roy: Oh... Maybe they found out that Fa is a Dragon.
+Merlinus: The border guards also seem to have noticed us...
+Roy: We have to do this quickly.
+
+@Battle 
+Garret: This is gonna be a battlefield, too...
+Bandit: What do we do, Boss?
+Garret: The army’s gonna loot the villages anyway. I suppose we better ransack ’em while we can.
+Bandit: Awright, Boss!
+Garret: But make sure you don’t do any unnecessary killing, you got that?
+Bandit: Got it...
+Bandit: He’s too nice... Well, I guess we can make it the army’s fault.
+ 
+Soldier: General Raeth, the reinforcements are ready!
+Raeth: Good. Send them out.
+Soldier: Yes, sir.
+
+@Recruit-Talk 
+%Lilina,Garret
+Lilina: Wait!
+Garret: What? Who are you?
+Lilina: Why? Why do you attack the villages?
+Garret: Eh? Who do you think you are?
+Lilina: Tell me why you’re attacking the villages!
+Garret: Why? ...Well, I could say that it’s your fault.
+Lilina: Our fault...?
+Garret: Yup. Because you idiots are causing wars like this, there are more and more people like me who have to steal to get food.
+Lilina: We are fighting to help people like that.
+Garret: Right, I’ve heard that enough times now. Look at reality, kid. They all say that they’re trying to help, but it’s all words and empty promises. Where’s the action? You got your head in the clouds, and you just can’t see what goes on on the ground. Get it? Now out of my way.
+Lilina: ...No.
+Garret: What!? Listen, I ain’t playing games with you. If you don’t get the hell out of my way...
+Lilina: I won’t move. If you want to kill me, then you may do as you wish.
+Garret: What...
+Lilina: If I let you pass, I would just be another one of those people who you say are all talk and no action. I am telling the truth! We are fighting to help the people.
+Garret: You... Hehe... I never thought I’d meet anyone so naive.
+Lilina: Do you...laugh at us...?
+Garret: But still, it’s nice to hear once in a while.
+Lilina: Then...
+Garret: All right, you win. I’ll stop looting. But you gotta let me fight with you guys. I gotta see with my own eyes that you’re gonna be true to your words.
+Lilina: Thank you. If you fight alongside us, I’m sure you will understand.
+Garret: Well, you certainly seem confident about that. I’m Garret. And you’re...
+Lilina: Lilina.
+Garret: Lilina? Well, then, I’m pleased to make your acquaintance, milady.
+
+@Boss 
+Raeth: Hmm… There must be a reason that you attack this castle… But what…?
+
+Raeth: Gah…! That girl…she isn’t human, is she! Why…do you seek her…! To use her power…? …!
+
+@End 
+Merlinus: Master Roy, here she is!
+Roy: You found her? All right, I’m coming!
+Merlinus: Now, young lady, thank Master Roy.
+Fa: ...Sniff, sniff...
+Roy: It’s okay, Merlinus. ...Now, why did you follow us?
+Fa: Fa just wanted to see the outside world...
+Merlinus: What! For such a reason... Do you know how much trouble you have caused?
+Fa: But...but... Fa’s never, ever allowed outside! The elders say that Fa has to be hidden... Fa is always all alone...all locked up in her room...
+Roy: ......
+Merlinus: Master Roy, what shall we do?
+Roy: ...You’ve suffered a lot. But do you understand that you’ve worried the elders and caused a lot of inconvenience?
+Fa: Fa’s sorry...
+Roy: Really sorry?
+Fa: Yes.
+Roy: Well, then, you can come with us.
+Fa: Really!?
+Merlinus: Are you sure?
+Roy: The enemy might already know about her. In that case, it’s better to have her where we can see her rather than letting her go off on her own back to Arcadia.
+Fa: Yay!
+Merlinus: Hush! Don’t get too excited.
+Roy: But you mustn’t go off alone anymore. Promise?
+Fa: Yes! Fa promises!
+ 
+Soldier: General Percival, until further instructions are given, we will station ourselves in this castle and prepare for further attacks from the Revolutionaries.
+Percival: Good.
+Soldier: Here, we found this in the castle. Please take it. General Percival, please take care...of Etruria.
+Percival: I know. Leave it to me.
+Soldier: Yes!

@@ -1,0 +1,87 @@
+@Opening 
+After Roy captured Aquleia, other Etrurian powers slowly began to change their
+views and express their anti Coup d'etat opinions.  Driven away from their
+palace, Roartz and Arcard fled to Sacae, which was still under Bern's control.
+
+Sacae is the vast plain-covered land in the center of the continent.  Before
+Bern invaded, the various tribes there led nomadic lives.
+
+The Etrurian army joined the Lycia Alliance Army to form a joint Etruria-Lycia
+Union Army.  The decision was to head for Sacae to get rid of the remaining
+Coup d'etat forces and also attack Bern, who was behind them.
+
+Thinking that some Etrurian knight groups would not approve of being seen as
+under the Lycia Alliance Army, Roy officially named the new Union the "Etrurian
+Army" and became its commander.
+
+Roy led the division responsible for entering Sacae.  The Sacae people are wary
+of outsiders in the first place, but even worse, Brunnya, another of the Three
+Dragon Lords, had gotten the largest tribe in Sacae, the Djute clan, under
+submission.  The warriors of the Djute tribe and Brunnya's elite Bern troops
+stood in front of Roy as he set foot on Sacae's soil.
+
+@Intro 
+Brunnya: So... Narshen fell at Aquleia.
+Soldier: Yes, General Brunnya. It has been confirmed.
+Brunnya: I see...
+Roartz: L-Lady Brunnya... What will become of us?
+Brunnya: Please do not worry, Lord Roartz. You have assisted us, so we will not abandon you. I shall assure that.
+Arcard: Thank you...
+Brunnya: Then, Lord Arcard, you will be assigned the defense of this land, Talas. Lord Roartz, your post will be the city of Bulgar.
+Arcard: Talas!? W-Wait! This is too close to Aquleia. The enemy will be here in no time!
+Brunnya: Then all must do is defeat them. This is an ideal post to set up a defense. Since it is so close to Aquleia, the enemy will be sure to attack. We can be most prepared here.
+Arcard: Well, that’s true...
+Roartz: Bulgar...that is deep in the foreign lands of Sacae. I hear that there is much rebellion among the nomads...
+Brunnya: Then force them into submission. Is that not your specialty?
+Roartz: Well...
+Brunnya: Rumors say that the enemy commander, Roy, is still a boy. Still, he has prevailed through many scandals and conspiracies to rebuild the Lycia Alliance Army and strengthen it further than ever. Compared to his hardships, yours are close to nothing. Am I wrong?
+Arcard: ......
+Brunnya: Then I must be off. I will be praying for your success.
+Roartz: ......
+ 
+Soldier: ...Are you sure, my lady?
+Brunnya: Those two are disgraceful cowards who cast away their homeland to save their own skins. We must not assist them any more than necessary. They should be thankful that they are getting the land and troops that they are.
+Soldier: ......
+ 
+Yoder: We are soon approaching the Etrurian border.
+Roy: Bishop Yoder, thank you for everything. Thanks to the Church, we were able to proceed thus far with ease.
+Yoder: Please. If you had not captured Aquleia, we would be suffering from persecution under Bern. This is nothing in comparison to what you did for us.
+Roy: I am glad that I could be of use to you.
+Yoder: Now... May I ask you a very important favor?
+Roy: Yes, anything that I am capable of.
+Yoder: If you find out anything else about the Dragons...
+Roy: I understand. If I discover anything new, I will report to you immediately.
+Yoder: Thank you! ...Ah, yes, I must tell you something else. The lands around here... They are surrounded by high mountains and valleys. And now that night has fallen...
+Roy: The perfect setting for an ambush...
+Yoder: Exactly. Castle Talas up ahead is under Bern’s control.
+Roy: All right. I will be careful.
+Yoder: Yes, please. Then, may Saint Elimine bless the Etrurian Army!
+
+@Boss 
+Arcard: W-Why! Why is this happening to me!?
+
+Arcard: I...am an Etrurian...noble! I must not...die...here... Guh!
+
+%Klein,Arcard
+Arcard: Klein! You would betray me?
+Klein: You are the one who betrayed Etruria, Lord Arcard!
+
+%Douglas,Arcard
+Arcard: D-Douglas! You had turned to the enemy...!?
+
+@End 
+Merlinus: Lord Arcard... What a pathetic ending for one who became so powerful.
+Roy: Well, last year, I didn’t think we would be fighting in Sacae, either. Fate can turn out in the most unlikely ways... And that might be true for Bern as well.
+Merlinus: ...? Master Roy, what is it that you are holding in your hand?
+Roy: Oh, this? This is the Fire Emblem.
+Merlinus: Oh... So this tiny gem is...
+Roy: Princess Guinevere wanted me to keep it. It seemed...difficult for her to give it to me... She must have been truly hoping to end the war peacefully until now...where this is no hope left...
+Merlinus: Hmm... Trust between siblings? It didn’t seem likely on the outside.
+Roy: Why not?
+Merlinus: The enemy is Zephiel, king of Bern! It is said that he murdered his own father, so I didn’t think that he would be moved by mere family relations...
+Roy: What!? He killed his own father?
+Merlinus: Didn’t you know, Master Roy? Zephiel took the throne because the former king had died. But because the former king’s death was so sudden, there are many rumors going around.
+Roy: And one of them is...
+Merlinus: ...That King Zephiel assassinated him.
+Roy: ...Does Princess Guinevere know about this?
+Merlinus: She must know something about it, if not all.
