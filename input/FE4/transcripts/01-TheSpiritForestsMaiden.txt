@@ -280,13 +280,16 @@ Kinbois: Pointing your little stick at me? That's precious, that is! I'll cave y
 Kinbois: No… urgh…
 
 Gandolf: Oh, come on! First my woman flees, and now this?! Damn my rotten luck!
-With Azelle
+
+%Azelle,Gandolf
 Gandolf: And what are you supposed to be? You've got nerve, brat!
 Azelle: So you're Gandolf... How dare you harm Aideen!
-With Midir
+
+%Midir,Gandolf
 Gandolf: You're that knight from earlier?! Ugh, I don't believe this... What are you doing still alive?
 Midir: Prepare yourself, Gandolf? I'll never forgive you!
 
+@Boss
 Gandolf: N-no... This can't be... Guh…
 
 Sandima: Kehehehehe... Learn to fear my dark magic.
@@ -295,7 +298,6 @@ Sandima: Archbishop Manfroy... F-forgive me…
 
 Elliot: Damn you, Eldigan, and your little good-guy act! Your grudge against me ends, here and now!
 
-Defeating Elliot
 Elliot: Oof... Men, retreat! Mark my words, Eldigan! This isn't over!
 
 %Jamke,Sandima

@@ -74,7 +74,6 @@ Shannan: No way! I'm just a kid. I can't look after a baby all by myself.
 Deirdre: I won't be long. I promise. Please, Shannan... I implore you...
 Shannan: Okay, fine. I'll look after him. Just be careful out there and get back here as soon as you can, okay?
 Deirdre: Thank you, Shannan. I'm sorry, Seliph. I'll be back for you right away.
-(Deirdre leaves Agusty for Madino. Manfroy warps in and blocks her path.)
 Manfroy: Sigyn's daughter... I've found you at last...
 Deirdre: Oh? Who are you? Wait... How do you know my mother?
 Manfroy: Kehehehe... The day of your rebirth is upon us. Through my black magic, the slate of your life will be cleansed, paving the way for your true husband... Your fate was written the day you were born. There is no use in fighting destiny.
@@ -84,7 +83,7 @@ Chagall: And just what do you think you are doing, Eldigan?! If you hadn't dawdl
 Eldigan: Your Majesty... How could you say that?
 Chagall: What's this? Do you dare to be displeased? To think, you've forgotten my father's favor, all to idly stall for time... You're a disgrace to the knighthood!
 Eldigan: There's nothing more I can do to convince you... Very well, Your Majesty. My men and I will move out post-haste. I am proud to be a paladin of Agustria. If I must die, it shall be with sword in hand! By your leave, Your Majesty.
-(Eldigan and the Cross Knights deploy from Silvail castle.)
+
 Eldigan: This is it, men. It's time for us to enter the fray... Perhaps for the last time. I count myself the luckiest commander there is for your years of loyalty to me. The fatherland's fate hinges on this final battle. Do not let Agustria down. Cross Knights! MOVE OUT!
 Chagall: Eldigan's finally moved out, has he? Pompous twit... The rest of you, fortify the defenses! I'm in command now!
 
@@ -148,9 +147,8 @@ Annand: Please, sir. Time is of the essence. The Grannvale assault is sure to be
 @Visit 
 Politician: Oh? Here to help, are ya? Huzzah! The village is saved! We can't thank ya enough, but mayhap this magic staff'll help ya out. They call it a Restore staff. If yer allies've been put t'sleep or silenced, one cast of this staff'll get 'em back on their feet. This oughta be a big help for ya.
 
-If Silvail has not yet been seized
 Young woman: Ah... the Cross Knights. Lord Eldigan's elite knightly battalion. Their might is legendary, and none in Jugdral can even compare to them. Actually... My boyfriend is a Cross Knight! Hee hee... amazing, isn't it? Don't be shy. Drink up! Well, how 'bout that? Feel the might swellin' in yer muscles! Oughta make yer work out there so much easier.
-If Silvail has been seized
+
 Young woman: Sniff... I can't believe it. My boyfriend died in this blasted war. Damn the Grannvale army... No, no... Damn King Chagall! This is all his fault!
 
 Old man: Oho! Glad to see ya've come. I got this 'ere sword for ya in 'preciation. They call it the wingslayer. It's enchanted to be lethal to sky-riders. If it flies, this sword'll bring it down. 'Course, if ya can't use it, sell it!
@@ -158,7 +156,6 @@ Old man: Oho! Glad to see ya've come. I got this 'ere sword for ya in 'preciatio
 Man: No matter how much I think about it, I just don't get why the Orgahil pirates have so suddenly turned on us like this. We could've sworn that boss of theirs was a good lass... Brigid or something, was it?
 
 Old woman: Oh, it's so nice to see visitors! How 'bout a little somethin' for yer troubles? Here, take a draught of our secret medicine.
-(Str +3 for unit that visited village)
 
 Young man: Hey, be careful out there! Rumor has it that King Chagall's got the infamous Thracian wyvern riders on his payroll. Don't think there's been a war lately where someone or other didn't hire 'em. They're like a pack of hyenas descendin' on fresh prey: brutal and indiscriminate. Nothin' survives in their wake…
 

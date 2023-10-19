@@ -385,8 +385,9 @@ Julius: Hmhmhm... Look, Ishtar. Victory is mine!
 Julius: I grow weary of this silly game.
 
 Arvis: You poor wretches. You cannot even imagine the hell I'll visit upon you!
-With Seliph
-Seliph: You... Emperor Arvis! Why... Why did you betray my father...
-Arvis: At long last... Seliph. I must commend your courage, boy. But courage cannot save you now. Not since your dear departed father have I seen such a pathetic worm... My flames shall purge you from this world!
 
 Arvis: Deirdre... ...Julia...
+
+%Seliph,Arvis
+Seliph: You... Emperor Arvis! Why... Why did you betray my father...
+Arvis: At long last... Seliph. I must commend your courage, boy. But courage cannot save you now. Not since your dear departed father have I seen such a pathetic worm... My flames shall purge you from this world!

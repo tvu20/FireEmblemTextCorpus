@@ -11,7 +11,7 @@ The year is Grann 760, early spring. The fields of Silesse peacefully rest benea
 
 @Intro 
 Byron: Nngh... Sigurd... ...No, I mustn't die yet... No... Not until the exalted blade is in your hands…
-Lubeck
+
 Slayder: Milord, we've sighted the fugitive Duke Byron. We caught him resting, but he slipped away. It seems as if he plans to escape to Silesse.
 Langbalt: What?! You simpleton! Get out there and hunt him down, immediately! My ambush may have put an end to Chalphy's paladin brigade, the Grünritter, but the survival of Byron alone leaves that utterly meaningless!
 Slayder: Y-yes, sir... But you see, milord, Byron is still gravely wounded. Surely, he has very little time left...
@@ -22,7 +22,7 @@ André: Come now, Lord Langbalt, sir! Don't worry about a thing. After all, you'
 Langbalt: I suppose you're right, André. Be sure that your men are ready to join the fray at a moment's notice.
 André: Heh. It would be my pleasure, sir…
 Langbalt: Damn that insolent worm. To think he isn't even the slightest bit remorseful for slaying his own father! Duke Ring... May you be at peace…
-Zaxon
+
 Oifey: Sire! We've sighted a lone knight to our east, who appears to be headed our way.
 Sigurd: Hm? Is he an enemy?
 Oifey: I don't believe so. The Lubeck occupation seems to be pursuing him, so they're most likely not with them.
@@ -44,7 +44,7 @@ Arvis: From the moment I found her lost in the castle grounds, it was clear she 
 Azmur: I remember well the day you introduce her as the woman you wished to marry... I simply could not believe what I saw! At first sight... I knew, perhaps as only family can. Precisely as I thought, beneath your circlet lies the Brand of Naga. Lord Arvis, I trust you understand. Only a full-blooded heir to Saint Heim can rightfully wield the Book of Naga and release its true holy power. And the power of Naga is the only power able to oppose the dark lord, Loptyr.
 Arvis: I am well aware of the legend, sire.
 Azmur: The holy lineage of our lord Naga and Saint Heim must never perish! Deirdre... You must bear a son with all due haste! And should your son be so fortunate as to inherit Naga's power... He shall be the Prince of Grannvale, and shall claim the throne once I am no more. Lord Arvis... until your son has grown into a man, you shall be his regent. Guide him well to adulthood. I trust you understand... Cough! Cough…
-Lubeck Phase after Slayder dies
+
 André: I suppose it's our turn... Move out! Carve the terror of the Beige Ritter into the traitors' hearts!
 
 @Battle 
@@ -87,7 +87,7 @@ Ethlyn: But... What will you do?
 Quan: They're like wild hyenas, Ethlyn! Children are little more than easy targets for them! Thracia has sought to reconquer our territory for centuries. I thought my absence would be taken as an invitation, so I left Finn behind with half the army in case they made the obvious move. Not once... Not even once did I ever suspect they would pursue US instead! I... This was all a mistake...
 Ethlyn: You can't give up now, Quan! It'll be okay. We're together, aren't we? At the very least, together we'll not go down easily!
 Quan: Ethlyn... Forgive me, please…
-Velthomer
+
 Arvis: I see. Duke Langbalt fell in battle…
 Reptor: A-Arvis! What are we supposed to do now?! It was you who insisted that, even if we left the bulk of our armies on conquests with our sons, Sigurd would pose no threat to me at all! The situation before us is not the outcome you promised me!
 Arvis: Reptor, your overreaction is baseless. The deck is still stacked in our favor. The Velthomer army is already lying in wait for the rebels in the Yied Desert's depths. Furthermore, Thracian sellswords should be arriving to reinforce us at any moment. The enemy will assuredly be exhausted. So long as my army and yours cooperate, Sigurd and his rebels ought to fall with ease.

@@ -117,7 +117,7 @@ Altena: The liberators have seized Meath?! Could I have been wrong about them? O
 Young woman: Ohh, thank you so much! I've heard all the stories about your army, and I've been praying that you'd come someday. Lord Seliph is our beacon of hope! Here, take this power ring. It's not much, but it's all we have to show our gratitude.
 
 Young woman: Long ago, Thracia and the states of the Manster District were a single nation. 'Course, you'd never know that from how they've hated each other so for as long as anyone can recall! I wish they could just try to make peace…
-With Asaello
+
 Young man: Gaah! I-I don't believe it... The Connaught Hitman's back for more blood! Run, everyone! Run for it!
 Asaello: ...
 Girl: ...
@@ -288,7 +288,6 @@ Jake: Trust me, you really are a good person… Here, I want you to take this ta
 Amid: Oh, thanks. I really appreciate this. 
 Jake: Right! I’m going to make it home, and then I’m going to see to it that Anna and I have a kid who’s every bit as kind as you!
 Amid: You’ll never get to do that if you don’t make it out of these mountains, huh? Follow me!
-Amid leaves.
 Jake: H-hey! Could you slow down a bit?! I can’t keep up with you like this!
 
 @Boss 
@@ -348,12 +347,13 @@ Faval: Wait... Patty?! No, this... It's not what it looks like!
 
 @Boss 
 Ishtar: I wish I didn't have to do this... But you shall go no further!
-With Tine
+
+Ishtar: Ahh! Lord Julius…
+
+%Tine,Ishtar
 Ishtar: Wait... Tine? What do you think you're doing?!
 Tine: Ishtar... I... I'm so sorry...
 Ishtar: You've turned traitor, then? I'm disappointed in you, Tine!
-
-Ishtar: Ahh! Lord Julius…
 
 @Battle 
 Young woman: Please, we beg of you... Do all you can to help sir Ced!
