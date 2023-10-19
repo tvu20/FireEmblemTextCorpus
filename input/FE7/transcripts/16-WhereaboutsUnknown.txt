@@ -1,0 +1,270 @@
+@Opening 
+Eliwood and colleagues defeat Bauker, one of Marquess Laus's lackeys. They then press on toward Castle Caelin. Yet inside the castle many Laus soldiers remain. Eliwood and friends begin their assault on the castle to save Marquess Caelin.
+
+Near Laus, Hector defeats General Bauker. Hector and his allies now march toward Castle Caelin. However, many Laus soldiers await them inside. They begin their assault to liberate the castle.
+
+@Intro 
+Hector: Looks like there are still a lot of Laus soldiers in the castle.
+Eliwood: Lyndis, where are the Caelin guards?
+Lyn: I think about half of them were killed in the surprise attack. The survivors must be here somewhere…
+Hector: They’re probably locked away as prisoners. Right. Well, let’s find and rescue them too!
+Eliwood: I wish we had more power to make up for our poor numbers.
+Lyn: Hold on, Grandfather… We’ll be there shortly.
+Hector: Time to get inside! Let’s reclaim the castle! The key to victory is seizing the throne! That’s where we’ll find their commander I’m sure.
+
+Merlinus: Um, hellooooo!
+Eliwood: Hm?
+Merlinus: Are you from Castle Caelin?
+Lyn: I am. May I ask your business in the castle?
+Merlinus: I am Merlinus. I am a traveling merchant with goods beyond compare. If you would be so kind to hire me, I…
+Lyn: My apologies. Now is not the time.
+Merlinus: Please, my lady… I’ve dreamt of working for a noble house for so long. By all means, please call on my services!
+Hector: Old man! Are you truly a merchant?
+Merlinus: Old… Old man?
+Eliwood: You’re being rude, Hector!
+Hector: Right, right. Old…gentleman. Is it true you aspire to work for a noble house?
+Merlinus: Yes, my boy. Yes, I do.
+Hector: In that case, we’d like to hire you.
+Merlinus: Really?
+Eliwood: Hector?
+Hector: This journey could last a while, and we’ve acquired many items. It would be quite convenient if we had someone to manage our things.
+Merlinus: Leave it to me! Managing…things is my specialty!
+Eliwood: Our journey is dangerous, and has no end in sight. Is that acceptable?
+Merlinus: Did you say da-dangerous?
+Hector: I’m brother to Marquess Ostia. He’s Marquess Pherae’s son. You can come with us if you so desire.
+Merlinus: Oh? Ostia and Pherae? Nobility beyond compare! I’m coming! Most definitely!
+
+@Battle 
+Eliwood: Mark. The captured Caelin soldiers are most likely exhausted. I'd like to protect them and keep them from having to fight. I realize that makes it difficult for you to plan a strategy, but... I will do my best to take up their share of the fighting. Now, please tell us what we should do, Mark.
+
+Hector: Mark. We can't count on the captured Caelin soldiers to be able to fight. We'll have to protect them as much as possible. What!? That chill feeling... Someone's watching... and wants me dead! No sense in worrying, though. I'll deal with it when it happens. Let's go, Mark!
+
+Raven: Hey, you. Let me out of here.
+Laus Soldier: What?
+Raven: Marquess Ostia’s brother is among your enemy, right? Let me out, and I’ll help you. But I must have the brother. I’ve a score to settle with House Ostia.
+Laus Soldier: Do you think me a fool? You work for house Caelin! I cannot trust your word!
+Raven: Then I’ll have to break down this door and go through you. You were using Lucius as a hostage, but now he’s here with me…
+Laus Soldier: Uh…
+Lucius: No, Lord Raven! You mustn’t! You cannot betray your debt to Marquess Caelin.
+Raven: Shut up, Lucius. You think me foolish, but you don’t understand… How about it?
+Laus Soldier: Very well. You! Get out! Remember, if you betray us, your companion dies.
+Raven: I see. Just remember, if that happens, you die next.
+Laus Soldier: Urr…
+Lucius: Wait! You can’t go alone! It’s too dangerous!
+Raven: Lucius, stay here and be quiet. I’ll be back for you.
+Lucius: Lord Raven!
+
+Caelin Soldier: What in blazes!? It’s getting even noisier than before.
+Lucius: Isn’t that the sound of combat?
+Caelin Soldier: It must be Lady Lyndis! She’s found reinforcements! It’s time…
+Lucius: Hm? What… What are you doing?
+Caelin Soldier: I thought aid might come, so I hid keys and weapons here.
+Lucius: Oh, I see.
+Caelin Soldier: What are you going to do?
+Lucius: Uh…
+Caelin Soldier: Your master… He’s betrayed us. Lucius, I must ask. What will you do?
+Lucius: I… I want to stop Lord Raven. However… In his current state, I…doubt he will lend me his ear. And so…I will…wait. I will wait for Lord Raven here. I’m sorry… I cannot fight. …Please understand.
+Caelin Soldier: I do. Here, these are for you.
+Lucius: For me? Vulnerary and a book of light magic?
+Caelin Soldier: You don’t have to fight, just protect yourself. I’ve known you only a short time, but you’re a friend. I don’t want to see you die.
+Lucius: Thank you… Thank you.
+Caelin Soldier: All right, lads! Open that door!! On our honor as Caelin knights, we will save the marquess!
+
+@Recruit-Talk 
+%Priscilla,Raven
+Raven: You…
+Priscilla: Hm?
+Raven: Can it be?
+Priscilla: I…
+Raven: You don’t… recognize me. That’s not surprising. You were so young when we were separated.
+Priscilla: What? Are you… Raymond? My brother, Raymond?
+Raven: You’ve grown, Priscilla…
+Priscilla: Brother! My brother!!
+Raven: What are you doing here? It’s been ten years since Count Caerleon of Etruria took you in as his foster daughter…
+Priscilla: That’s right. My adopted father has treated me with much kindness. But I am of Caelin’s House Cornwell by birth. I still remember Father and Mother.  I’ve never forgotten them. Or you, Raymond.
+Raven: …Priscilla.
+Priscilla: ……When I heard that House Cornwell was lost…I… I was so worried about you.
+Raven: So that’s why you left Etruria? You’ve come quite a way.
+Priscilla: Dear friends of mine in Etruria helped me. They provided a young mage to be my escort. Then we passed through Laus… The marquess learned of my lineage and refused to let me leave. I would be there still if not for Lord Eliwood and his companions.
+Raven: His…companions?
+Priscilla: Lord Hector, Lady Lyndis… They’re all such kind people. I’m so glad I came to Lycia. And now I’ve found you…
+Raven: You’ve become friends with…him?
+Priscilla: Raymond?
+Raven: ……I see. Then I will join you.
+Priscilla: Dear Brother! Will you truly come with us?
+Raven: I could not refuse my little sister. And besides…
+Priscilla: What is it?
+Raven: It’s nothing. You’re better off not knowing. Tell me, your lineage… Do Eliwood and his friends know of your heredity?
+Priscilla: No, we’ve never spoken of it.
+Raven: I see… That is best.
+Priscilla: Brother?
+Raven: Priscilla, we must keep our relationship secret. OK?
+Priscilla: All right… If you say we must…
+Raven: Another thing, my name is Raven now. Raymond is…a name I’ve discarded.
+Priscilla: Brother… You have your reasons, don’t you? I understand. As long as we can travel together, I’m happy.
+Raven: ……
+Priscilla: If we continue on, we’ll be able to see Father and Mother, too!
+Raven: …Priscilla… That’s……
+
+@Battle 
+Lyn: Are you all well?
+Soldier: Lady Lyndis! You’re unharmed!
+Lyn: Please, I need all of you to help!
+Soldier: Yes, my liege! We are yours to command!
+
+Wil: Is everyone OK?
+Soldier: Wil! Glad to see you’re well!
+Wil: Yes, against all odds. Laus has some tough soldiers, but they can’t defeat us, can they?
+Soldier: NEVER!!! Let’s show them the might of the Caelin knights!
+
+Kent: Is everyone well?
+Soldier: Commander Kent! You’re safe!
+Kent: Can you fight?
+Soldier: Of course, sir!
+Kent: Then let’s drive these knaves out of Castle Caelin!
+Soldier: Yes, sir!
+
+Sain: Rejoice, one and all! Your beloved subcommander is here to rescue you!
+Soldier: Subcommander! You’re unharmed!
+Sain: Are you ready to fight?
+Soldier: Absolutely, sir!
+Sain: All right! Direct your energy on your foes and drive them out!
+Soldier: Yes, sir!
+
+Florina: Everyone… Are you well?
+Soldier: Oh! Florina! You’re unharmed!
+Florina: Yes, uhm… I’m with Lady Lyndis.
+Soldier: Nice work! Leave the rest to us!
+Florina: Now, I’ll…uh…take you to Lord Eliwood. ……Huh? Wa-Wait for me!
+
+@Battle-Talk 
+%Lyn,Lucius
+Lucius: Lyn! Are you well?
+Lyn: Lucius?! Why are you here?
+Lucius: Actually, I’ve been here for a few days as a mercenary.
+Lyn: I didn’t know. Why didn’t you send word?
+Lucius: Well…I’m… I’m traveling with someone, and… More importantly, I apologize for not being able to protect Castle Caelin. My lack of… strength… is truly shameful.
+Lyn: It’s no one’s fault. The attack came so quickly. I was forced to flee myself. Now I simply want to rescue my grandfather as soon as possible. That is all I wish…
+Lucius: May…I offer… my assistance?
+Lyn: It’s not necessary.
+Lucius: Pardon?
+Lyn: Your hands are shaking terribly. I thank you for your offer, but you cannot fight in this condition.
+Lucius: I… I’m sorry.
+Lyn: It’s all right. I do ask that you help me when you’re able.
+Lucius: Yes… Of course.
+
+%Lyn,Lucius
+Lucius: Lyn! Are you well?
+Lyn: Lucius?! Why are you here?
+Lucius: Actually, I’ve been here for a few days as a mercenary.
+Lyn: I didn’t know. Why didn’t you send word?
+Lucius: Well…I’m… I’m traveling with someone, and… More importantly, I apologize for not being able to protect Castle Caelin. My lack of …strength… is truly shameful.
+Lyn: It’s no one’s fault. The attack came so quickly. I was forced to flee myself. Now I simply want to rescue my grandfather as soon as possible. That is all I wish…
+Lucius: I truly hope I can be of service.
+Lyn: You can, Lucius. I’m counting on you.
+
+@Recruit-Talk 
+%Raven,Lucius
+Raven: Lucius.
+Lucius: Lord Raven! I’m so pleased to see you well!
+Raven: Things have changed. For the time being, we side with Caelin.
+Lucius: That is good… So you’ve had a change of heart?
+Raven: No, I will still have my revenge against House Ostia. The closer you are to your enemy, the easier it is to strike, right?
+Lucius: Lo-Lord Raven…
+Raven: Let’s go, Lucius.
+Lucius: Yes…
+
+@Boss 
+Bernard: I am Bernard, Knight Commander of Laus! I would test the might of those who bested Bauker!
+
+Bernard: This is a just reward… for Laus’s brutality…
+
+@End 
+Lyn: Grandfather! Grandfather! Where…
+Eliwood: Lord Hausen? Where are you?
+Hector: Eliwood. Here, on the throne… It’s blood.
+Lyn: Blood? No! It can’t be!!
+Eliwood: Lyndis! Calm down. He might only be injured. Come, let us find him.
+Lyn: Yes, you’re right. I must be calm. There! Over there! There’s someone…
+Eliwood: Who’s there? Show yourself!
+Leila: ……
+Hector: You… Leila!
+Leila: Yes, it’s me, Lord Hector. It’s been a long time.
+Eliwood: You know her?
+Hector: Yes, her name’s Leila. She…works for Ostia… All right, she’s a spy.
+Leila: Lord Eliwood of Pherae and Lady Lyndis of Caelin, correct? I am Leila. Pleased to make your acquaintance. Lady Lyndis, Marquess Caelin is back there receiving treatment.
+Lyn: My grandfather is safe?!
+Leila: …His life is yet his own.
+Lyn: Ah! Father Sky and Mother Earth! I thank you for your mercy!!
+Hector: Leila, what are you doing here?
+Leila: I… I’m following Lord Uther’s orders. I’m investigating Marquess Pherae’s disappearance.
+Eliwood: My father? What have you learned?
+Leila: Come with me. We should talk in private.
+Eliwood: ……
+Hector: Huh? Come on, Eliwood.
+Eliwood: Ah…
+Hector: Worrying about things won’t change them.
+Eliwood: I know. I’m fine. Let’s go!
+Leila: Let me start with my conclusion.
+Eliwood: ……
+Leila: Marquess Pherae… is alive.
+Hector: Whooooo! Eliwood!
+Lyn: That’s wonderful!
+Eliwood: Are you sure?
+Leila: I’ve been posing as a member of the Black Fang for several months. That’s where I got this information. I believe it is true.
+Eliwood: Black Fang… They’re the assassins guild that Erik spoke of.
+Leila: Yes, we’ve known of their existence for quite some time.
+Hector: Explain.
+Leila: The Black Fang is a guild of assassins founded about ten years ago by Brendan Reed. They’re based in Bern. Their arms reached quickly in several other countries. Originally, they targeted only nobles who abused their positions. The masses saw them as chivalrous, defenders of the common man. Their activities found wide support.
+Hector: Chivalrous…
+Leila: Then about a year ago, Brendan got married again. Black Fang’s operations have slowly changed since then. Now, they’ll take on any target, no matter how difficult, as long as they’re paid. And they’re no longer killing only criminals; anyone is a fair target.
+Lyn: Is this Black Fang responsible for what’s happened to my grandfather?
+Leila: Yes. We’ve learned of a mystery man named Nergal, behind Reed’s wife. It seems the Black Fang is performing secret tasks across Lycia for Nergal. Nergal’s trusted retainer Ephidel is with Marquess Laus. He manipulated Laus into hatching the rebellion plot against Ostia. The first to answer Laus’s call for rebellion was… Marquess Santaruz.
+Eliwood: Lord Helman… Why would you…
+Hector: ……
+Leila: Next was Lord Elbert, Marquess Pherae.
+Eliwood: You’re telling me that my father endorsed this plan?
+Leila: I cannot say. I do know that he is with Marquess Laus currently. In a place called… the Dragon’s Gate.
+Eliwood: Dragon’s Gate? Where is that?
+Leila: On an isle called Valor, off the southern coast of Lycia. I apologize, but that is all the information I have.
+Hector: Of all places to be, Valor… Blast!
+Lyn: What kind of place is it?
+Eliwood: It’s said that those who step onto the island never return. The common folk call it the Dread Isle. If that’s where my father is, however,  I will go and find him.  And this “Dragon’s Gate,” too!
+Hector: I’m going with you. I’ll tell you right now, you can’t stop me.
+Lyn: I’m also going.
+Eliwood: Lyndis, I appreciate your kindness, but… Shouldn’t you stay with Marquess Caelin?
+Lyn: Laus must be stopped. Otherwise, they might target my grandfather again. I also wish to help Eliwood’s father. Losing a parent… It’s an unbearable pain. It’s something I’d rather you didn’t have to feel yet.
+Eliwood: Lyndis… Hector… Thank you. You give me strength.
+Hector: Don’t mention it.
+Lyn: We’re friends. It’s what friends do, Eliwood.
+Leila: I’m also going to continue searching. Lady Lyndis, I think it would be prudent to let the world think Marquess Caelin is dead.
+Lyn: I understand. I’ll do that. Thank you.
+Leila: No thanks necessary. If you’ll excuse me.
+Hector: Leila!
+Leila: Yes?
+Hector: Nergal and this…Ephidel? What are they like?
+Leila: I’ve yet to lay eyes on Nergal. I’ve spoken to Ephidel on several occasions, however. He’s…eerie. He always wears a cloak that covers his face. And yet…
+Hector: What is it?
+Leila: His eyes glow golden… You can’t miss them. They seem…inhuman.
+Eliwood: ……
+
+Matthew: Is that you, Leila?
+Leila: Matthew. It’s been a long time.
+Matthew: What have you been doing? More dangerous work?
+Leila: We’re spies, Matthew. Everything we do is dangerous.
+Matthew: That’s true. So how long do you think this mission’s going to last?
+Leila: My objective is the same as yours: to rescue Marquess Pherae. If things go well, I’ll be in Ostia at the same time as you are.
+Matthew: Is that so? You need to visit my hometown.
+Leila: Is this where you were born? Why?
+Matthew: …To meet my parents.
+Leila: Hm? Matthew…
+Matthew: Ha ha. Well, that’s that! See you.
+Leila: As slippery as ever… Didn’t even wait for my reply.
+
+Soldier: Lady Lyndis!
+Lyn: Everyone… I’m happy to see you all well. I’m going after Marquess Laus. Protect my grandfather.
+Soldier: One moment, Lady Lyndis. Please take this jewel before you leave.
+Lyn: Jewel?
+Soldier: We were able to move it before Laus’s men ransacked our vaults.
+Other Soldier: We will take care of Lord Hausen. Please, Lady Lyndis, return to us safely.
+Lyn: I will. Thank you.

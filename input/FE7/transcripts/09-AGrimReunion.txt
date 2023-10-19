@@ -1,0 +1,106 @@
+@Opening 
+Lyn and her friends have been branded as traitors, pretenders to the throne. Lundgren has sent word to Caelin’s neighbors, warning them of Lyn’s approach. He calls for reinforcements to put an end to the “imposters”. If the other realms of Lycia choose to act, Lyn will never reach Caelin alive. Lyn places her faith in Eliwood and waits.
+
+@Intro 
+Eliwood: I’ve received word from Caelin’s neighbors, Laus, Tuscana, Kathelet, Tania, and Santaruz. They will not interfere in Caelin’s affairs. This they have promised.
+Lyn: Eliwood, I don’t know how to thank you…
+Eliwood: All I’ve done is convince them to remain neutral in this dispute. However, this means I cannot aid you in any way either. Will you be all right?
+Lyn: I will win. I have to. It’s the only way that I can help my grandfather.
+Eliwood: I understand. Although I cannot help you directly, as a friend, I pray for your success.
+Lyn: Thank you. I won’t waste the opportunity you’ve given me.
+
+Lyn: All right, everyone! Let’s get going!! This weather is turning foul. It looks like a fog is rolling in.
+Kent: This is no good. If the fog thickens, we’ll be blind in battle. It will be difficult to fight what we cannot see.
+Lyn: We can’t let it delay us, though. Let us press on. We must get closer to the castle. What’s the best route?
+Kent: Let me think… Our best path is to the south… However, that runs through General Eagler’s estate. It looks like we still have one final obstacle to pass.
+
+@Battle 
+Matthew: Mark, put me in the lead, please. Surely you know that we…er…thieves, if you must, can see through fog. Follow me, everyone!
+
+???: So you’ve come…
+Sain: Aah!
+Kent: You! You’re… Lord Wallace!
+Lyn: Kent, who is this?
+Kent: He used to be the commander of the knights of Caelin.
+Sain: Aren’t you supposed to be retired? I heard you were sowing fields now.
+Wallace: I am, and I was. Then I received orders from Lord Lundgren. I was told to capture an imposter and a pair of rogue knights.
+Kent: Lord Wallace! Surely, you don’t believe us to be oathbreakers, do you?
+Wallace: Bring me the girl that claims to be Lady Madelyn’s child.
+Sain: What are your intentions?
+Wallace: If I don’t like what I see, I will take her.
+Kent: We will prevent you.
+Wallace: You? Prevent me? You must be–
+Lyn: Enough! I’m right here! I am Lyndis.
+Wallace: Ah…
+Lyn: I’ll understand if you don’t believe me. But I’ve had enough of you and your foolish posturing!
+Wallace: Hmm… Such beautiful eyes…
+Lyn: Pardon?
+Wallace: I’ve been a knight for 30 years, and here is one thing I learned. A person with eyes as bright and true as yours is no deceiver. Ha ha ha ha ha ha! Ah, yes! I like you, girl! Why, I believe I’ll even join your little band of mercenaries!
+Sain: Are you… Are you serious?
+Wallace: This old bull’s pledged his loyalty to Caelin. I would never allow an usurper on the throne. Let’s march!
+Kent: Lord Wallace! He… He hasn’t changed at all.
+Lyn: I like him. He’s…honest.
+Kent: That he is. He deserves our respect.
+
+Wallace: I’d planned on living out my days in peace on my farm… Ah, well… It looks as though it’s time to take up arms once more. Mark! You’re the tactician of this group, correct? What are my orders?
+
+Tutorial: Wallace is a level 12 knight. He can rise as high as level 20. Most units can change classes once they reach level 10. By changing classes, units can improve all of their abilities. Movement range, constitution, usable weapons… Everything. There are many benefits. With a single action, you can make your units significantly more powerful. In order to change classes, units need to be of a certain level. However, you also need a special item. For example, Wallace is carrying a knight crest. With this, cavaliers and knights can change classes. Each character class has its own unique item that allows units of that class to switch to a different class. Well then, why don’t we try changing class now? Select Wallace, then choose knight crest from his items and use it.
+
+Wallace: Mark! Let Wallace show you his might! Give me an order!
+
+Wallace: Ha ha haaa! So you’ve noticed my knight crest, have you? You’ve eyes like an eagle, my friend! Once I’ve used the crest, I’ll be even stronger! A terrifying thought, isn’t it? Ha ha ha haaaa! What are you waiting for? Order me to use the knight crest!!!
+
+Wallace: Let them stare in awe at my might! Their knees shall quake! Order me to use the knight crest!
+
+Wallace: Ha ha ha haaaa! Look! A giant walks among you!! My defense is impenetrable! Come! Break your weapons against me!
+
+Lyn: Mark… The fog’s rolling in. We can’t hit an enemy we can’t see. Keep your eyes open, everyone!
+
+@Visit
+Man: Hey, you… Do you have any torches? What? You don’t? There’s a thick fog rolling in, and you have NO torches? Wandering about without a torch is… Well, it’s ridiculous! Here. Take one of mine. Use this when it’s foggy, and you can see a bit better. Hm? No, no need for thanks. I know all about you and your comrades. We all, well… Not one of us believes what Lord Lundgren is saying about you. We all want to help the marquess… and his rightful heir. Good luck!
+
+Lady: The forces of Caelin are led by General Eagler. He’s an honest man who has always treated us well. A good general. He must be aware of Lundgren’s evil plans to seize control of Caelin. I can only believe Lundgren’s holding someone dear to him as hostage. It’s so sad, but there’s nothing anyone can do. Why must so many innocents get hurt in the foolish games of nobles?
+
+@Boss 
+Eagler: Imposters to the throne, you shall not pass! No quarter for traitors!
+
+Eagler: Nnng… Go… Go quickly. The marquess… He knows nothing of this… His life is… There’s no illness. Only…poison… Please…for the marquess…for all of Caelin…
+
+%Lyn,Eagler
+Eagler: Bring forth the imposter who calls herself “Lyndis”! She shall not pass beyond this place!
+Lyn: I am Lyndis. I’m no pretender. I’d ask you to believe me, but your heart and mind seem set.
+Eagler: Enough talk… Draw your sword!
+
+%Sain,Eagler
+Sain: General Eagler…
+Eagler: Sain… I never imagined you could turn traitor…
+Sain: Who’s the traitor here? I am following the orders of my sworn liege lord. Not Lundgren, but my true liege, the marquess himself!
+Eagler: You speak with conviction. I think it’s time to test the bounds of loyalty!
+
+%Kent,Eagler
+Eagler: Kent! Is that you?
+Kent: General Eagler! We found Lady Lyndis on the orders of the marquess. We’ve worked so very hard to return her safely to Caelin.
+Eagler: And yet you have no proof of the girl’s identity. Is that not true?
+Kent: Yes, but…
+Eagler: Then our talk is finished! Draw your weapon and come!
+
+%Wallace,Eagler
+Wallace: Eagler!
+Eagler: General Wallace… So you’ve sided with the girl, too, have you?
+Wallace: I fight for Caelin’s honor, not for Lundgren’s lies!
+Eagler: Ah… Is that so? You are– Enough! There’s nothing more to be said. I name you traitors all! Come! Do your worst!
+Wallace: Fool… At the very least, let mine be the blow that finishes you!
+
+@End 
+Lyn: What kind of man was General Eagler?
+Kent: When Sain and I first became knights, he was our captain. Our teacher…
+Lyn: I think he must have known we were telling the truth. Why did he force the fight?
+Sain: Something must have… Lord Lundgren was exerting some hold on him… Eagler was trying to protect someone. A friend perhaps, or family.
+Kent: ……
+Lyn: May Lundgren never know the peaceful embrace of Mother Earth! I care not what others do. I WILL stop that man! Mark! The final battle is approaching!
+
+Lundgren: How are you feeling today, my dear brother?
+Lord Hausen (off screen): Lundgren… You… You fiend…
+Lundgren: Your granddaughter is dead by now. And soon, you will join her.
+Lord Hausen (off screen): Lyndis… Why did this happen? I… I only wanted to see her once.
+Lundgren: Have you lost all hope? Has your life lost all meaning? Then hurry up and die, you miserable old dotard! You and your precious granddaughter are in my way!!! I curse your name! I despise you! My worthless wretch of a brother!

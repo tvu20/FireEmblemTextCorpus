@@ -92,6 +92,11 @@ const Inputs = () => {
           they are included; otherwise, I assume the person talking in the story
           is the original unit.
         </li>
+        <li>
+          For the FE7 transcripts, chapters are labeled according to Eliwood's
+          route with combined dialogues from both routes. If a chapter is
+          exclusive to Hector's route, "H" is included in the title.
+        </li>
       </ul>
       <h3>Guide to transcript text files:</h3>
       <h4>Main tags</h4>

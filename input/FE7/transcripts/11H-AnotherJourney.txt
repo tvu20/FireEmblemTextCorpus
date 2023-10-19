@@ -1,0 +1,94 @@
+@Opening 
+A month has passed since word came of Marquess Pherae's disappearance. Rumors and speculation run rampant throughout Lycia. The head of House Ostia, Lord Uther, takes no apparent interest. The marquess's younger brother is considered odd by the populace. He and Marquess Pherae's son, Eliwood, are fast friends. A hot-blooded youth, he cannot ignore his friend's plight. Marquess Ostia's younger brother, Hector. He would one day be a courageous general, a steel warrior to be feared. The path he chooses will test him to the limits of his strength.
+
+@Intro 
+Hector: Brother! Brother!! Where is he!? He's here, isn't he?
+Oswin: Lord Hector! Calm yourself!
+Hector: No words, Oswin! Just move!
+Uther: That's enough, Hector! What is the meaning of this?
+Hector: You know full well! The disappearance of Marquess Pherae!
+Uther: We've discussed this time and time again. This matter is none of Ostia's affair. We have no reason to involve ourselves. It would be folly to do so.
+Hector: Eliwood's father is missing, for goodness' sake! We know that Marquess Laus is connected in some way. I say we use Ostia's might to end this mystery and find the truth!
+Uther: Calm yourself, you fool! An invasion would be madness! Lycia can ill afford the chaos such an action would bring. Surely even you must understand that!
+Hector: Bah... I understand all too well, Brother! Stay there on your throne. Sit there until it rots beneath you! I will do this alone!!
+Oswin: Lord Hector! You should watch your tone...
+Uther: Peace, Oswin. Let him go. There's no reasoning with him when he gets like this.
+Oswin: .......
+
+Hector: Matthew! Matthew! Blast it! Where could he be?
+Matthew: I'm right here.
+Hector: You... You're not a wraith. Stop skulking in the shadows like one.
+Matthew: Hm? A wraith? And here I thought I was a spy. Be that as it may. As milord ordered, here are your travel rations and your beloved axe. And I've purchased the silence of some royal guardsmen. You're free to slip out the rear entrance and vanish.
+Hector: Well done, Matthew. Try not to let my brother discover my absence too quickly.
+Matthew: What? I thought I was going with you.
+Hector: You're a bigger fool than I'd imagined! Did you think I would trust my brother's spy? Who knows when you would turn me in for some favor! Where I go, I go alone!
+Matthew: Shh! You keep on shouting, and you'll go nowhere! Every guard in the palace must have heard that!
+Hector: Enough... Do not try and follow me!
+Matthew: I did not imagine you would find me so untrustworthy. Professional hazard, it seems. Watch yourself, young master.
+Hector: Huh? He... He gave up too easily. I don't trust him... The time has come... I've got to get out of here and rendezvous with Eliwood. These bags! What did Matthew put in these things?
+Hector: This is ridiculous even if he was packing for two! Huh? .......Come out. I know you're there.
+Mercenary: .......
+Hector: Who are you?
+Mercenary: .......
+Hector: Too dumb to speak? Makes no difference to me. Move out of my way, or I'll run you through!
+Hector: Hah!
+Matthew: Whoa! M-Milord! Stay your arm! It's me!
+Hector: Who? Matthew? I was sure you were one of them.
+Matthew: Well, I'm not! I'm one of me. And I would prefer to remain in one piece.
+Hector: Your fault for jumping out of nowhere. Now tell me, what are you doing here?
+Matthew: Hm? I... I sensed that something was wrong and...came to your aid.
+Hector: My aid... I'll accept that answer for the time being.
+Matthew: So, what should we do?
+Hector: About what?
+Matthew: About the fellows between us and the way out. I'd say there are 7 or 8 of them. To make matters worse, they seem highly competent. I know you're confident in your martial abilities, but... I'm not the strongest sword arm around, and, well...
+Hector: If you've something to say, Matthew, then say it!
+Matthew: We could abandon the rear entrance. I'm sure the royal guardsmen would be happy to aid us, and...
+Hector: Never!
+Matthew: That's what I thought you would say. All that's left is to avoid getting killed, right?
+Hector: You can go back if you want.
+Matthew: In your own words, milord, never. I'm with you, wherever that may lead.
+Hector: Right. Then let's give them a good thrashing and get out of here!
+
+@Boss 
+Wire: Fuh...Fuh...Forgive me...Lord...Nergal...
+
+%Hector,Wire
+Hector: You're not Marquess Laus's assassins, are you? You're too good, too professional. Nothing like those idiots over there.
+Wire: You've no need to know, little Lord Hector. A fool like you, sneaking out of the country alone... You'll go missing, never to return. Your body will never be found. Tidy story, eh? Ha ha...
+Hector: Tsk tsk... Looks like your luck's run out.
+Wire: Our luck? What are you...
+Hector: You see, I'm about as angry as I've ever been. I doubt that even a dozen of you could slow me down. Prepare to die!!!
+
+%Matthew,Wire
+Wire: The Ostian spy. Why did you return?
+Matthew: I've known you were here for some time. I also knew you were after Lord Hector, not me. You're all professional assassins. You wait for your chance, and you don't miss it. You were waiting for me to leave Lord Hector alone. That's when you were planning to attack, right?
+Wire: Ah... So that's why you came back, is it? I was sure you'd gone back to play with the guards.
+Matthew: If I had, I would've taken Lord Hector with me. No matter what it took.
+Wire: Cheeky fellow, aren't you? But you're out of your league.
+Matthew: How so?
+Wire: You think to challenge me? Prepare to die, you witless fool!
+Matthew: Ghaa...
+
+@End 
+Matthew: Whew... That was close. Glad we're both all right. Come, milord, we must fly! The castle guard must have heard all the noise.
+Hector: Matthew, you rogue. You knew this was all going to happen, didn't you?
+Matthew: What else could I do? Those assassins wouldn't show themselves until you were alone.
+Hector: I suppose... Mark my words, Matthew! You're coming with me. But from this point forward, you are no longer my brother's spy. You are my man now, to the bitter end.
+Matthew: Yes, milord! Shall I swear a knightly vow?
+Hector: To what purpose? Your own words will hold you well enough.
+Matthew: True enough!
+Hector: Let us go then! To Eliwood!
+
+Soldier: My lord! Marquess! It's Lord Hector! He's--
+Uther: He's gone, isn't he?
+Soldier: Ye... Yes, milord! We are gathering men now to give chase.
+Uther: Attend me. We will let him go.
+Soldier: Milord?
+Uther: A... Headstrong fool... Oooh... Cough...cough...
+Oswin: Lord Uther! Are you well?
+Uther: ... ...I'm fine. It has passed. There is no need for concern.
+Oswin: You must not rely so much on physical strength alone. It has been most trying these past few weeks. The affairs of the court have not let you sleep. You might endanger your health if you keep on...
+Uther: Yes, Oswin. I understand. I will speak with a physician on the morrow. Will that allay your fears?
+Oswin: Yes, my lord. I shall make the arrangements.
+Uther: Oswin... About Hector... I can entrust him to you, yes?
+Oswin: Of course, my lord. I will guard him with my very life's blood.

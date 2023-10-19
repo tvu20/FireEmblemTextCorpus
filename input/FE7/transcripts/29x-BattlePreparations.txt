@@ -1,0 +1,167 @@
+@Intro 
+Eliwood: We've received word from Captain Fargus. If we come to Badon, he'll give us passage to the Dread Isle.
+Lyn: Well then, let's get going!
+Marcus: It would be best if we outfitted ourselves before setting out. We will need many supplies for a campaign on Valor.
+Hector: And the castle town here is better stocked than Badon, I'm sure. We can empty the coffers here and sell the treasures if need be.
+Oswin: Harrummph!!
+Hector: ...Uh... Within limits, of course. Say...30,000 gold?
+Oswin: That seems a reasonable amount.
+Hector: Come on! I'll lead the way!
+
+Marcus: Ostia's castle town is as impressive as ever. Shops and items of all types imaginable.
+Hector: For generations, our ancestors dedicated themselves to a sort of frugal militarism. Nobles and commoners alike shunned extravagance. "Corrupt neither the body nor the mind," they cried! Since the time of Roland, this has been the dominant ideology of Ostia.
+Marcus: I heard that when Lord Uther first participated in the Lycian Council as Marquess Ostia, he gave a scathing indictment of the peer system. Now I understand, his philosophy had its roots in the history of Ostia itself.
+Hector: That's right. Yet this thinking... it threatens the lifestyles of many of our aristocrats. So some groups view my brother with enmity. I must grow wiser so that I can sit at my brother's side and aid him. Of course, my fighting skills are not yet what they should be...
+Lyn: ......
+Eliwood: ......
+Hector: But this isn't the place for that kind of talk. We've got to get going. Come on!
+Marcus: Yes, I will go with you.
+
+Lyn: ...Curious.
+Eliwood: What is it, Lyndis?
+Lyn: Hector. He acts like such a brute, but he takes his duties seriously.
+Eliwood: Hector has always been a man of firm character. I've always envied him for that. His ability to conceal any doubts he feels about himself or his actions.
+Lyn: Eliwood, you're more than strong enough yourself.
+Eliwood: Hm?
+Lyn: Look at all that's happened in the past few months. Especially for you, Eliwood. One horrible thing after another...
+Eliwood: ......
+Lyn: Yet you're still here. You didn't run away. Through all the battles and injuries... you've held your head high and marched on. Your... Your strength, I admire. Your kindness...I adore.
+Eliwood: Lyndis...
+???: Hey! What are you two doing? Let's go! Both of you!
+Lyn: Well... I guess we should go.
+Eliwood: Uh, Lyndis...
+Hector: Eliwood, what are you yammering about? Huh? Are you feeling OK? You're all flushed.
+
+Oswin: Lord Hector... About last night...
+Hector: Don’t worry about it. No matter the clamor I raise, my brother is dead. All I can do now is try not to distract Eliwood and the others. I must put on a strong face, must be strong for them.
+Oswin: I see.
+Hector: But, Oswin, I...will not forgive you.
+Oswin: ......
+Hector: Not only you, but my brother, as well. Why...why did you hide this from me? Only me? Am I...so untrustworthy?
+Oswin: ...Lord Hector, you may hate me and scorn me as you will, but... doubting Lord Uther’s intentions? You should not do that.
+Hector: ......
+Oswin: I... The last message I received from Lord Uther ordered that, should he die, I must keep that news secret from you.
+Hector: But why?
+Oswin: This is what was written in Lord Uther’s letter... He is true to his own feelings... If asked to choose between his brother and the world, he would not hesitate in rushing to my side. Though he often speaks in anger, we are brothers. We are all we have. I have never doubted his affection. Yet what if the choice were between brother and friend? To choose one would mean abandoning the other. He would come to despise himself, whatever his choice. I cannot force him to make such a decision.
+Hector: ......
+Oswin: Lord Uther had your feelings foremost in his heart. He was also considering Eliwood, who had lost his father. ...Please, if nothing else...understand this.
+Hector: ......
+
+@Battle 
+Soldier: Lord Hector! I have brought the 30,000 gold that was requested from the treasury!
+
+Bartre: Will you look at that! It's an arena! That is a battleground for men to test their strength! Come on, Mark! We can fight to our heart's content!!
+
+Karla: No leads here either… Where in the world could he have gotten to? Ah…brother of mine…
+
+@Recruit-Talk 
+%Bartre,Karla
+Bartre: You! Wench!
+Karla: Hm?
+Bartre: Meeting me here will be your doom! I must erase the shame I met on the Western Isles! Come! We duel!
+Karla: ...Oh, I remember you. You’re the guy who came out of nowhere and challenged me... The one I knocked out with my first sword stroke.
+Bartre: The Bartre before you is not the same one you faced then! I will have my revenge for the Isles here in Ostia! Now, dig up some courage, and do your worst!
+Karla: Hmmm... I did not come here looking for a fight. But how can I refuse you your revenge? Let us begin.
+Karla: Oh... It seems you’ve improved some.
+Bartre: Quiet! We’ve only just started. Continue!
+Karla: So tell me, where have you been training?
+Bartre: I serve Lord Eliwood now. I’m working as a guard for him! Tough opponents every day, but we just tear ’em up and cast ’em aside!
+Karla: Ha... That’s interesting. If that’s the case, I think I’ll join you.
+Bartre: What?
+Karla: My brother gravitates toward strong warriors... This journey of yours sounds like a dangerous one. Joining you might help me find him sooner.
+Bartre: I don’t know what you mean! What about our duel?!
+Karla: We’ll put it on hold. Don’t worry. I don’t run away. I like you. It would be a waste to kill you here. Someday I’ll finish you in an appropriate fashion!
+Bartre: Hmm... OK! Agreed! You’re now my sworn enemy, wench!
+
+@Battle-Talk 
+%Matthew,Hector
+Hector: ...What is it? If you need something, get out here!
+Matthew: Ha ha... Spotted me, eh? ... Well, um... Ah! Young master, beautiful day, isn’t it?
+Hector: Looks like it’s about to rain to me.
+Matthew: Oh...ah... Is that so?
+Hector: Stop treating me like a pouting child. I’m fine. You needn’t worry about me.
+Matthew: Is that so? No problems then, eh?
+Hector: Did you know, too? About my brother...
+Matthew: .....Yes. I’m sorry for holding my tongue.
+Hector: Worried about me, right? Sorry about that. There’s a lot going on.
+Matthew: Please don’t apologize! ...You’re going to make me cry... Like his father before him... ... such a good man... wh...why...
+Hector: My brother really was a great man, wasn’t he? A man like me, I don’t know if I can follow in his footsteps.
+Matthew: What are you saying? Young master... for Ostia, and for Leila... ... We...
+Hector: All right. Well then, we’d better survive this war. Both of us... For Ostia...to protect her!
+Matthew: That’s right! We must make it back!
+
+%Serra,Hector
+Serra: Looorrrd He-ctor!
+Hector: Hm? Oh, Serra. What is it?
+Serra: Eww! Is there something wrong with you?
+Hector: What do you mean?
+Serra: Come on! I’m right here, and you’re not mad or anything! It’s like all the laws of nature have been inverted!
+Hector: ...Do I really treat you so poorly?
+Serra: Yes, you do. You make the face and shoo me away.
+Hector: Really? Sorry about that.
+Serra: Don’t do that! Oh, you’re bound to cause some catastrophe if you keep behaving so oddly! Run for your lives! Hector’s being nice!
+Hector: Uh...
+Serra: Oh, I’m only joking. There’s reason to run after all! Only, Lord Hector, there’s just one thing I must know.
+Hector: What is it?
+Serra: When is Lord Uther coming back?
+Hector: What?!
+Serra: I was so looking forward to getting some sort of reward. With him gone, I’m wondering how much longer I must wait! I would’ve loved to have gone to Etruria! I’m so disappointed!
+Hector: ...So no one’s told you anything either.
+Serra: Hm? About what?
+Hector: It’s a–nothing.
+Serra: Hm? Something’s weird. More importantly, Lord Hector! It’s time to go shopping. I’ve found some hair ornaments that are perfect for me...
+Hector: Do you want me to buy them?
+Serra: Huh? Would you really?
+Hector: You want them, right?
+Serra: No, no, no...
+Hector: Are you sure?
+Serra: Look ooouuuuuutttt!!! It’s an earthquake! It’s the cataclysm! Save me! Blessed Elimine!
+Hector: ...Hey. That’s a bit much, isn’t it?
+
+%Lyn,Hector
+Lyn: Hector! Wait up a minute!
+Hector: Hm? What is it?
+Lyn: ...I’m sorry.
+Hector: Huh?
+Lyn: ...When we first met, I criticized your fighting style, remember? ...I wanted to apologize...
+Hector: Oh, that? Don’t worry about it. ...Why bring this up now?
+Lyn: I used to think you were selfish, oblivious to others’ needs. Even after all this time, I only saw you as crude and insensitive.
+Hector: Hey, now... Do I really need to hear this? I mean, what’s your point?
+Lyn: ...I used to be like that, too. I relied too much on my own strength and stuck to myself... All I did was cause problems to the people around me. ...I think you’re like that, too... So, sometimes, I feel I’m looking at the old me. Sometimes...I treat you horribly.
+Hector: Yeah, that’s true. Sometimes, you really lay into me.
+Lyn: ...But aboard the pirate ship... and back there...what you said made me realize I was wrong. So...I’m sorry.
+Hector: ...You apologized once before. I admitted that I’ve got a bad attitude... It’s fine, right? Just let it go.
+Lyn: Let it go? I can’t just let it go! That doesn’t satisfy me. ...Hit me! It’ll make me feel better!
+Hector: What?
+Lyn: C’mon! I won’t move! Wind up and let it fly!
+Hector: You... Hahhh...
+Lyn: Hm? ... ...Hector? What is it? Are you afraid?!
+Hector: Give me a break. Do you think I could hit a woman?
+Lyn: It’s OK. Just don’t think of me as a woman.
+Hector: I can’t smack a woman I’ve lost my heart to.
+Lyn: C’mon! Hurry– ...What?
+Hector: Look, enough of this foolishness. Let’s go!
+Lyn: ...What did you just say? Hold it! Hector!!
+
+@Visit 
+Man: Weapons and items can help build your fortune, you know? You ought to search through any chest you come across.
+
+@End 
+Eliwood: ...That should cover it. Let’s head out for Badon. Then to the Dread Isle!!
+Hector: Eliwood! I forgot something in the castle. Go on ahead. I’ll catch up shortly.
+Eliwood: All right.
+
+Hector: The throne is empty... Makes her look so small. ......Even on the verge of death, you worried about me... Blast... You were always like that, eh, Brother? I never asked it of you, but you watched over me nonetheless... Like a father... With that know-it-all look... I told you... Don’t treat me like a kid... You never listened. ......I’m coming back. I’ll take care of Nergal and end his threat to the world. I’ll be back... And I’ll take the throne. I may not be nearly as dependable as you, Brother, but... Even so, together we’ll make Ostia and all Lycia a place of peace. We’ll put an end to peerage and make Ostia a place where all are equal. ...We’ll try our best... Watch and see. Brother!
+
+Limstella: Welcome home, Master.
+Nergal: Limstella, look at this.
+Limstella: The children's dragon stone. What will you do with it?
+Nergal: I will infuse it with quintessence.
+Limstella: This is...
+Nergal: The dragon girl... Ninian's essence. Beautiful... Absolutely beautiful....... With this, I will be able to call dragons whenever I please.
+Limstella: Shall we begin the process right away?
+Nergal: No, I lost some quintessence from the injuries I took from Athos. To summon the numbers I need, I must have more essence. One must be fully prepared when dealing with dragons. If they wrested free from my control and killed me, all would be for naught.
+Limstella: I fear to report... that the quintessence from the Black Fang has all been used. Where shall the next harvest come from?
+Nergal: Heh heh heh... All the materials we need are heading this way even now.
+Limstella: ...I see. Eliwood and friends.
+Nergal: That's right. I will crush them, steal their essences, and call forth my dragons!! Heh heh heh... Haaa haa haha haha hah!!!

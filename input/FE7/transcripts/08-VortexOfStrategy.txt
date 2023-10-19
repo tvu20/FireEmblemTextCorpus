@@ -1,0 +1,89 @@
+@Opening 
+Passing through Araphen and Khathelet, Lyn and her friends arrive at in Caelin. However, Caelin is now under the rule of Lord Lundgren. Lundgren's henchmen lay in wait to assassinate Lyn. They wait for her approach and ready a special weapon.
+
+@Intro 
+Lyn: Look, Mark! The mountains seem so far away now. We've come such a long way...
+Sain: Milady Lyndis! Mark! We can't be far from the castle now!
+Kent: By my reckoning, we can reach Castle Caelin in two days if we hurry.
+Lyn: Two more days... Hold on, Grandfather. Please...
+Florina: Cheer up, Lyn. If they see you looking so sad, the entire company will lose heart.
+Lyn: Florina... You're right. There's nothing to be gained by worrying. We just have to press onward.
+Florina: That's the spirit!
+Nils: Lyn... Danger approaches...
+Lyn: What did you say?
+Sain: I don't see anything. Are you sure?
+Ninian: I feel it, too. I'm sure of it. Ah! Milady, don't move!
+Lyn: Hm?
+
+Lyn: What in--Where did this bolt come from?
+Kent: They have a ballista!
+Sain: Lord Lundgren is getting serious. Deploying siege engines is no mean feat.
+Lyn: What is a ballista?
+Kent: It's a weapon designed for long-distance attacks. Only archers can use them, but they can be devastating.
+Sain: Florina! You must stay aground! Do not take to the air! The ballista would target you in an instant.
+Lyn: Is there a way to combat it?
+Kent: The safest course is to use someone with good defense as bait, so the enemy wastes arrows.
+Sain: Then you can walk up and knock the fool on the head.
+Lyn: Wil, can you use a ballista?
+Wil: I've never tried, but... It's just a really big bow, right? I should be able to figure it out.
+Lyn: All we can ask is that you try... Let's see what we can do!
+
+@Battle 
+Matthew: Ah, Lady Lyndis! Mark! I have some minor... business... to attend to. I'm unable to join you. If you need any of my possessions, please take them now.
+
+Tutorial: On the far side of the hill to the south is a ballista. As Kent said, it's a weapon intended for trained archers. The attack range of ballistae is extremely large, so they can fire on enemies at great distances. As they can attack without fear of counterattack, they're quite useful. To use one, move an archer onto an unoccupied ballista, and select the ride command. After that, you can attack as usual. ballistae can also be moved while in use. Additionally, ballistae can be used by any archer in the field. So, if you can remove the enemy manning the ballista and move one of your group onto it... you'll find it most useful.
+
+Yogi: What are you curs waiting for? They're nothing but fleas! Call up for reinforcements, and rush 'em!
+
+@Visit 
+Villager: Do you remember the weapon triangle? Axes over lances and whatnot? This is important, so pay attention. There are some weapons that don't follow the normal rules. This here lancereaver is one of those. It's a sword that reverses the triangle. So if you wield this blade, you can best a lance with it. Of course, there's a downside... Axes can best this sword. Take this as a gift. It's your reward for listening to an old man ramble. Don't be so shy. It's not like I can use the thing. Not everyone can wield a sword of this caliber. I'm sure you know someone who can use it, though.
+
+@Boss 
+Yogi: Curses! The ballista must have been taken... What's going on here!? Somebody, get that girl!
+
+Yogi: Lord Lundgren... I've failed you... I pray you hurry...with those reinforcements...you promised.
+
+@End 
+Lyn: Is it over?
+Kent: Yes. I see no more enemy soldiers. However, something is bothering me.
+Lyn: What is it?
+Kent: I noticed it during the fighting. Our opponents... They were soldiers of Caelin. I even recognized some of those we fought. I trained with many of them... Amd yet they attacked us without hesitation.
+Sain: They're black-hearted traitors who've joined Lord Lundgren. Good riddance, I say. It also means less resistance at the castle.
+Kent: I hope you're right...
+Lyn: I'm just glad Nils and Ninian were with us. If that first shot had hit me, I might not have survived.
+Ninian: We are honored to have served you well.
+Nils: We won't let you down!
+Lyn: I know. I'm relying on you.
+Matthew: What's this? You dealt with the ballista, too? Nicely done!
+Lyn: Matthew, where were you during all this?
+Matthew: I went to the village to sniff about for information. I got some interesting news for my trouble, too.
+Lyn: Let's hear it!
+Matthew: First, about Marquess Caelin's illness. He really is unwell. He's been abed for nigh on three months.
+Lyn: Oh, no... Grandfather...
+Matthew: I heard an interesting rumor about his condition, though. The people believe that someone's been poisoning the marquess...
+Lyn: He's being poisoned!?
+Matthew: And this someone... Well, everyone's too afraid to mention a name. However, they say that as soon as the marquess took ill, a certain noble took control of the castle as though it were his own. I fed a hungry inkeeper some coin, and he fed me a name. The marquess of Caelin's own brother, Lord Lundgren.
+Lyn: How can this be? How can they allow him to get away with this? The villagers know he's the one poisoning my grandfather, and yet no one raises a hand against him? Why?
+Kent: They are afraid, and they lack proof. The whisperings of the common people means nothing.
+Matthew: That's the truth of it. And of the marquess's loyal retainers who might have lent credence to these rumors, there is no sign.
+Lyn: Are you saying they've been silenced?
+Matthew: It's a fair assumption.
+Kent: This is beyond believing.
+Matthew: The worst news is yet to come.
+Sain: What? There's more?
+Matthew: An imposter's appeared, claiming to be the marquess's granddaughter. At least, that's the story Lundgren's telling to all who'll listen.
+Lyn: What does that mean?
+Matthew: It means that people are waiting for two traitorous knights and a baseborn child to appear and lay claim to Castle Caelin.
+Sain: But... But that... It can't be!
+Kent: Traitors? Us? Ridiculous!!!
+Lyn: He says... I'm an imposter?
+Matthew: Don't you have anything that proves your lineage?
+Lyn: When my mother joined the Lorca, she brought nothing of Lycia with her.
+Sain: Milady, Marquess Araphen himself remarked at your resemblance to Lady Madelyn! Your face is your proof!
+Kent: They'll say we found a look-alike somewhere... We're seen as betrayers of our knightly vows. Our word means nothing. No, our only hope is to see Marquess Caelin himself.
+Lyn: We must hurry. If not, my grandfather... I must see him! With my last breath if need be.
+Matthew: But we must formulate some manner of plan! Even if we set out for the castle, the troops patrolling the area will cause no end of problems. You have been branded as oathbreakers, after all.
+Lyn: I've got it! Eliwood... He seemed sympathetic to our plight. He should still be in Khathelet. If we can talk to him, he might help us!
+Kent: Of course! A sound idea!
+Sain: Let's hurry!
+Lyn: Yes! Back to Khathelet!!

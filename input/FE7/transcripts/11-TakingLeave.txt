@@ -1,0 +1,82 @@
+@Opening 
+Once, dragon fought man in a war called the Scouring… Mankind vanquished the dragons thanks to the efforts of eight heroes. These eight mighty generals brought peace to Elibe. The continent was divided into nations, and the people enjoyed an easy prosperity. The hero Hartmut settled in the east and founded Bern, famed for its military might. St. Elimine moved west, and her sacred name flourished among the artisans of Etruria. The horseman Hanon’s legacy lived on with the nomads of his beloved plains of Sacae. The birthplace of the knight Barigan is now home to the renowned Knights of Ilia. The berserker Durban’s final glory was to create a warrior’s clan in the Western Isles. The archsage Athos is said to have retired to the barren wasteland of Nabata. The heirs of the champion Roland themselves became the lords of the Lycian League. Elibe has enjoyed a peace that spans 980 years…
+
+How much longer can this peace stand before its foundations begin to crumble? Deep within the Lycian League lies Pherae, a land that has known no conflict for many generations, but which now finds itself touched by a shadow of unease. Its beloved and benevolent ruler, Lord Elbert, has mysteriously vanished… as have a number of his sworn men, loyal knights who serve at his side. A month has passed without word from the marquess. Rumors of his death abound. However, the marquess’s son believes his father lives, and he has vowed to find him. Marquess Pherae’s son, Eliwood: A red-haired youth who will one day become the finest knight in all of Lycia. His long journey begins here.
+
+@Intro 
+Marcus: Lord Eliwood, we leave on your word.
+Eliwood: I see. Thank you, Marcus.
+Eliwood: Mother, it’s time for us to go.
+Eleanora: Eliwood... Promise that you will return to me safely. I’m worried about your father, but... If anything were to happen to you... My heart could not bear that sorrow.
+Eliwood: I know, Mother. Please do not worry. Father is alive, I know it. I vow that I will find him and return him to your side.
+Eleanora: I have your word then.
+Eliwood: Yes, of course. Isadora, I entrust my mother to you in my absence.
+Isadora: Yes, milord. I will guard over her well.
+Eliwood: Mother, I will return. Rest easy.
+Eliwood: Well, Marcus, it looks like it’s just the two of us.
+Marcus: Not so, milord. My man Lowen will be traveling with us.
+Eliwood: Lowen? That’s reassuring.
+Marcus: I’ve sent him ahead to the village. He hopes to seek out a few able men who are skilled at arms. Normally, I wouldn’t venture forth without a larger company, but... I bow to your will on this matter, Lord Eliwood.
+Eliwood: I’m sorry, Marcus, but I would rather not deprive my mother of even a single guard. The best knights in the realm disappeared with my father. If anything were to happen to my mother while I am gone, I...
+Marcus: I understand, milord. Hmph! What’s keeping Lowen!?
+
+Groznyi: We’ve all heard that the knights of Pherae have vanished, right? Well, your misfortune is my good luck! I have an announcement to make! As of now, this village is mine! Groznyi is your new liege! Now bring every last piece of gold, down to the smallest fleck!
+Lowen: Lord Eliwood! Co-Commander Marcus! I...
+Marcus: Lowen! Calm yourself! A knight must be in control at all times.
+Lowen: The village is under attack! It’s bandits!
+Marcus: What? Bandits? Here!?
+Eliwood: Are you sure, Lowen?
+Lowen: This girl has more details.
+Rebecca: My lord Eliwood? I’m the daughter of the village magistrate. My name’s Rebecca. The bandits came without warning. They’re stealing everything! I beg you! Please help us!
+Eliwood: I see. Marcus! Lowen! We must aid the village!
+Lowen: Yes, milord!
+Eliwood: Rebecca, stay here, and keep out of sight.
+Rebecca: If it please you, milord, I would rather fight. I hunt almost every day, and I have some skill with a bow.
+Eliwood: Is that so? Very well, but be careful!
+Rebecca: Yes, milord.
+Lowen: Lord Eliwood, one more thing. There is another in the village who has offered to help. A traveling tactician who was staying at the inn.
+Eliwood: A tactician?
+Lowen: Yes, milord. This is Mark.
+Eliwood: Mark!
+Lowen: Do you know this person, milord?
+Eliwood: Yes. I met Mark during the trouble in Caelin last year. A fantastic military advisor, if memory serves. If not for Mark, the marquess of Caelin and his granddaughter, Lyn, might not have survived Lundgren’s uprising. What brings you to Pherae, my friend? Ha! Still traveling about, honing your skills? Of course... A worthy pursuit. Let’s give thanks to providence for our chance reunion. We have need of your aid. Please lend us your skill.
+
+@Battle 
+Bartre: Look, Dorcas! Can you believe it? It’s just like that knight said! That’s Lord Eliwood!
+Dorcas: So it seems.
+Bartre: What’s he doing? Hey, he’s taking on those bandits. Protecting innocents? That’s a right lordly thing to do, isn’t it? Right, Dorcas?
+Dorcas: You talk too much. The lordling needs our help.
+Bartre: Right! Leave these mountain weaklings to me! I’m Bartre the Brave!
+
+Woman: Is Lord Elbert well? We’ve heard nothing but foul rumors hereabouts... All of Pherae is worried for his well-being. We hear tell that Lord Eliwood is going to find the marquess. This dragon shield is our village treasure... It boosts the defenses of the one who uses it. Take it, please. And may it see you and Lord Elbert home safely.
+
+Man: There’s a young traveler been stayin’ with the magistrate. Been stayin’ in the village for a few days now. I know, you’re thinkin’ it’s just another good-for-nothing courtier lookin’ for a handout. But there’s somethin’ more to this one... Those eyes... They miss nothing. Got a mission, that one has.
+Man: You’ve got some skill with weapons, but do you understand weapon levels? The more you use a weapon, the more skilled you become. Still, you can only reach the highest level with a single weapon.
+
+@Boss 
+Groznyi: What is this, a pack of children coming to play? You think you can challenge me? What? Pheraen knights!? But that’s impossible!!!
+
+Groznyi: Ugh... I thought my luck... was finally turning around...
+
+@End 
+Elder: Ah, you would be Lord Eliwood, yes? Our deepest thanks for coming to the aid of our fair village.
+Eliwood: Think nothing of it. It’s a lord’s duty to protect the citizenry.
+Elder: Would that were true, milord. The good folk of Laus know no such protection. Their marquess, Lord Darin, is too busy preparing for war. He ignores all complaints of bandits and thieves.
+Eliwood: Preparing for war? Are you sure?
+Elder: I would not lie, milord. My brother lived in Laus until a few days ago. His home was torched, and he had no choice but to flee here. According to him, Laus could go to war any day now. It’s all the people of Laus are talking about.
+Marcus: Lord Eliwood, if this is true, the situation is a grave one. If Marquess Laus is readying for war... His target is most likely another Lycian territory. Perhaps this is connected to Lord Elbert’s disappearance.
+Eliwood: My father and Marquess Laus? It seems a tenuous connection, but it’s as good a start as any. Let us travel to Laus. We must learn more.
+
+Eliwood: Thank you for your guidance, Mark. Where are you bound for next? If you have no destination in mind, perhaps you could travel with us. Ours is a small group, with a single purpose–to find my father. I do not know where our road will lead, but... We would be stronger with you in our company. You will travel with us? Splendid! Thank you! I pray we give you no cause to regret your decision.
+Elder: Rebecca! Where do you think you’re going, young lady?
+Rebecca: Father, I... I intend to accompany Lord Eliwood.
+Elder: Don’t be ridiculous, girl! Lord Eliwood is not going on a picnic. He’s riding into danger.
+Rebecca: I know that, Father. That’s why I want to go. We owe him our lives, and I want to repay him. My bow may not be all that much, but I know I can be of service!
+Elder: But...
+Rebecca: And, Father... I may meet up with my brother somewhere. You’re the magistrate–you have responsibilities. I... This is all I can offer. I need to do this! Please, Father! Let me go!
+Elder: Dear me... You’re just as stubborn as your mother was.
+Rebecca: I’m sorry, Father...
+Elder: You must bow to Lord Eliwood’s wishes on this matter. If he consents, you may go.
+Rebecca: Thank you, Father!
+Elder: Lord Elbert has always been kind to us. Follow his son with a true heart, Rebecca. Serve Lord Eliwood well, as I have served his father.
+Rebecca: I will, Father!

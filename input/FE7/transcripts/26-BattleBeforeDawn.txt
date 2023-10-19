@@ -1,0 +1,250 @@
+@Opening 
+Two assassins in the employ of the Black Fang move in. They've been set loose in the palace to murder the crown prince, Zephiel. Eliwood hurries to prevent them from fulfilling their contract.
+
+@Intro 
+Nino: The prince's room... Is that the door?
+Jaffar: ......
+Nino: General Murdock, the prince's bodyguard, should be away. The king concocted some errand to call him from Zephiel's side... There are no guards around. This is an...easy job, isn't it? I... I can do this! This is my first mission, you know? I guess I'm a little nervous, but... I mustn't fail. Mustn't let Mother down.
+Jaffar: ......
+Nino: Are you ready, Jaffar?
+Jaffar: I've...no desire to be a part of your blundering... If you fail, I will, without hesitation, finish the target and then you.
+Nino: What!?
+Jaffar: Do not be so naive as to expect help from "friends." ...Remember that.
+Nino: I...I knew that. Don't have to tell me... I'm a member of the Black Fang, after all. Ha ha...
+Jaffar: ......
+Nino: ...I won't fail. I will become worthy... I will. Mother will be proud of me. She will see the daughter I've become, and she will love me.
+Nino: ...There are no guards. It's just like we were told, but...something's strange.
+Jaffar: ......
+Nino: Listen! A voice! Someone's talking in the room!
+Jaffar: No... Someone's praying.
+Nino: You're right... It's the prince, isn't it? I wonder what he's praying for.
+
+Zephiel: I offer this prayer unto thee: My coming-of-age ceremony is tomorrow. As the prince of Bern, I've tried... I've tried my best not to be an embarrassment to my father. I know I've not met with his expectations. But I will try harder. I will please him. I vow to do better. For him.
+Nino: ......
+Zephiel: ......Hear me: Tomorrow, I will be a man... So this is my last wish as a foolish child. It's the same one I've asked of you every night for all these years, but... Please, bring Father and Mother together again. Please, let the day come when Guinivere and I and her mother... When all of us can live together happily in the castle.
+Nino: ......
+Jaffar: It's time...
+Nino: Oh! Jaffar...
+
+Jaffar: ...
+Zephiel: What!? Villain... ...
+Jaffar: That will leave him unconscious for some time. Now, the time has come for you to do your part...
+Nino: ......
+Jaffar: ...Do it.
+Nino: ...O-OK.
+Jaffar: ......
+Nino: I...cannot.
+Jaffar: What!? What did you say?
+Nino: Listen to him... All he wants is his parents' love... To be accepted... That's all...... He's just like me. No matter how I try, Mother always looks at me as if I were nothing. Her eyes are so filled with disappointment. She's never held me... not even once.......
+Jaffar: Stop this foolishness! I told you! I will not permit you to ruin my opportunity!
+Nino: I know... Do as you must, Jaffar. I won't resist. You can do it easily. But...please don't hurt the prince. ...For pity's sake...
+Jaffar: !!
+Nino: ...I'm ready to die.
+Jaffar: ...... ...Come.
+Nino: What?
+Jaffar: We're leaving. Hurry.
+Nino: Jaffar?
+Jaffar: ...This is it. Come here.
+Nino: Bu-But if you do this... Jaffar, you'll...
+Jaffar: Don't worry about me. Hurry up. ...No!
+
+Ursula: Hello, Jaffar. Finished already? Such magnificent skill. Is this why they call you the Angel of Death? Sonia told me that you were behaving oddly, but... It appears her fears were groundless.
+Nino: I'm sorry! It's not Jaffar's fault! It was me! The prince... I couldn't...
+Jaffar: Nino!
+Ursula: What's all this? Why is the girl still alive?
+Nino: What?
+Jaffar: ......
+Ursula: You received Lady Sonia's orders, did you not? You were to dispose of the worthless little--
+Nino: No!!
+Jaffar: Hold your tongue. You will not speak another word.
+Ursula: ......So that's how it is? Jaffar, do you plan on betraying Lord Nergal?
+Jaffar: I will not let Nino die. Get in my way, and I'll kill you.
+Nino: Jaffar!
+Ursula: Ha ha... So you have some human emotion in you after all. You always seemed just like those creepy morphs. I bet you didn't kill the prince, either. ......Maxime!
+Maxime: Yes! I'm here!
+Ursula: Take your men and put out all of the lights. Block all the entrances. Your targets are Prince Zephiel and two traitors. Finish this before we draw attention to ourselves. Go!!!
+
+Jaffar: Go now... I will buy you time.
+Nino: N-No! You must come, too, Jaffar!
+Jaffar: Nino... You must live. You are worthy of living.
+Nino: No! Wait! Don't go! Jaffar!!
+
+Eliwood: This is the royal manse.
+Lyn: The lights have been doused. That's the sound of fighting. What's going on?
+Hector: I don't know, but if they're still fighting, we might not be too late! Let's hurry, Eliwood!
+Eliwood: We have to get inside! We have to protect the prince!!
+
+@Battle 
+Harken: Are you our tactician, Mark? I am Harken. I beg your forbearance. Lord Eliwood has ordered me to follow your commands in combat. I care not where I meet death. Just guide me wisely.
+
+Karel: Your name is Mark, correct? A tactician? I see. You use wisdom as your blade… Interesting… Mark… I will remember your name.
+
+Zephiel: Ahh... Ow... What's... My room... That man... He's gone. What's going on? Ah! We're under attack! Coming this way... 10...20... I have to get away... No... That's wrong. That's not the way. If I run, they'll simply follow and surround me... Rather than run, I should wait and face them here.
+
+@Recruit-Talk 
+%Hector,Nino
+Nino: You! Are you from the palace? The prince is in his room! Save him! I’ll take care of anything that happens out here!!
+Hector: Wait, hold on! You’re Nino, right?
+Nino: What!? How–
+Hector: I heard something...
+Nino: ...What? But... you must be lying...
+Hector: I’m not. It’s all true. The Black Fang’s responsible for the death of countless innocents. They’re dancing on strings for Nergal, while he laughs in shadows.
+Nino: ...It can’t be...
+Hector: I know you don’t want to believe all this, but it’s true. Don’t hide yourself from reality. You should come with us. You saved the prince. I think you’ll see what’s right.
+Nino: ......
+
+%Eliwood,Nino
+Nino: You! Are you from the palace? The prince is in his room! Save him! I’ll take care of anything that happens out here!!
+Eliwood: Wait! You... You’re Nino, aren’t you?
+Nino: What!? How–
+Eliwood: We overheard some things...
+Nino: ...What? But... you must be lying...
+Eliwood: I’m sorry... It’s the truth. The Black Fang is no longer the group you thought it was. Nergal is using it to his own ends!!
+Nino: Mother... ...It can’t be...
+Eliwood: I’m not asking you to believe this all at once. But...it’s the truth. The only truth. Come with us! You’re no assassin... You must know the best thing for you.
+Nino: ......
+
+@Battle-Talk 
+%Nino,Jaffar
+Nino: Jaffar!
+Jaffar: Nino? ...... I told you to flee.
+Nino: No, these people came and helped me! Hurry, Jaffar! Come with me!
+Jaffar: Go. There’s no need to save a life without worth.
+Nino: Jaffar...
+Jaffar: I am a corpse. I have been dead since the day I was born. Leave me...
+Nino: No! If you’re not coming, then I’m staying! I do not want you to die, Jaffar!
+Jaffar: Nino... ......
+
+%Hector,Zephiel
+Hector: Prince Zephiel?
+Zephiel: Ah! Who are you?!
+Hector: I’m from Ly... Um... I’m here to rescue you.
+Zephiel: ......
+Hector: We’ll drive back the foe. Get back!
+Zephiel: I will not.
+Hector: Huh?
+Zephiel: I know neither your name nor your motives. Why should I trust you?
+Hector: Well, I guess you have a point. But...I can’t tell you who we are. We’ve got...reasons.
+Zephiel: Reasons?
+Hector: Mm. Complicated reasons.
+Zephiel: ......I see. I place my life in your hands.
+Hector: What? Are you sure?
+Zephiel: If you were assassins, I would already be dead. I must trust you.
+Hector: You’ve my word of honor!
+
+@Boss 
+Ursula: Tell me...are you afraid to die?
+
+Ursula: ...Uww...gaa... ......This can't...Lady...Son...ia...
+
+%Jaffar,Ursula
+Ursula: I cannot understand you. You serve perfection in the form of our masters. Yet you abandon such happiness?
+Jaffar: ……I ensure that Nino lives. That’s all.
+
+%Nino,Ursula
+Ursula: Why won’t you die as Lady Sonia wishes? You, born of garbage. This was your one chance to be useful.
+Nino: My mother… She would not say such things. I…don’t believe it.  I don’t believe anything you have to say!
+Ursula: Stupid child… I’ll see that you don’t suffer at least.
+
+@End 
+Zephiel: Ah! The lights are back. ...The rebels...What's happened? I have to make sure Mother is well! Hello! Is anyone there!?
+
+Nino: Jaffar!!
+Jaffar: Nino...
+Nino: I'm...glad you're well...
+Jaffar: ......
+Eliwood: ......
+Jaffar: Why do you not kill me?
+Eliwood: If we did that, Nino might die as well.
+Lyn: You didn't take the prince's life. So we won't take yours. It's that simple.
+Jaffar: So naive. Do you know how many of your friends I've killed?
+Hector: You monster! I'll--
+Eliwood: Hector!! Calm yourself!
+Hector: Bah!
+Eliwood: Some sins cannot be forgiven, but now... We need all the help we can get to defeat Nergal.
+Jaffar: ......
+Eliwood: Jaffar... You were planning on throwing your life away, correct? If you've come to regret so many of your past actions, then fight with us.
+Jaffar: Regret? Such emotions mean nothing...
+Nino: Jaffar!
+Jaffar: ......If you want me to...I will...do it.
+Nino: Jaffar!!
+Lyn: That's good, isn't it, Nino?
+Nino: Mm! Thank you! Thank you!!
+Hector: ...
+Eliwood: Ah! Hector...
+
+Limstella: Ursula... Beyond hearing so soon?... ......This is quite excellent quintessence. I believe Lord Nergal will be pleased.
+
+Limstella: Ursula...
+Ursula: Limste--my lady Limstella. I am prepared. The only reward for failure is death. However, I must give my report to Lady Sonia...
+Limstella: That won't be necessary.
+Ursula: Urrgh!!
+
+Ursula: ...Urrg...........
+Limstella: This is quite excellent quintessence. I believe Lord Nergal will be pleased.
+
+Murdock: ...What could His Majesty be thinking? Detaining me for so long, with no just cause! What!? No... It can't be... The prince...
+Soldier: Co-Commander! Commander Murdock!! You... You must come...
+Murdock: What's happened!?
+
+Servant: My apologies for the wait. The queen will see you now.
+Pent: Very well.
+Louise: Let us proceed.
+Hector: The queen of Bern... Even if it is a private audience, courtly niceties aren't my strong suit.
+Lyn: Mine, either.
+Eliwood: ...Let's go.
+Hellene: Ah, so you've returned. And you were successful? You recovered the Fire Emblem safely?
+Eliwood: ...Queen Hellene. Has no one told you? Last night in the manse...
+Hellene: Oh, something about assassins sneaking in, wasn't it? I've no time for such trifles. Quickly, the Emblem.
+Eliwood: ......
+Hellene: Ah... Without a doubt, this is the Fire Emblem. Ha ha! With this, my Zephiel holds rightful claim to the succession! Now, it will never pass to that annoying Guinivere... Ha ha ha.
+Eliwood: Queen Hellene...
+Hellene: Oh, yes. I'd forgotten. Your promised reward. The road to the Shrine of Seals, was it not?
+Eliwood: I have a pressing question to ask of you first. What is His Royal Highness Prince Zephiel to you?
+Hellene: I...beg your pardon?
+Eliwood: HIs Highness Zephiel is your trueborn son, isn't he? Or is he, like the Fire Emblem, nothing more than a tool for securing the throne?
+Hellene: How dare you! Such insolence! To whom do you think you are speaking!?
+Eliwood: This has nothing to do with title! You are free to possess your desires and aspirations. But your own innocent son... How can you do anything that places His Highness's life at risk!?
+Hellene: What? What do you mean? Of what do you speak...
+Lyn: Didn't you hear us? Assassins nearly killed--
+Eliwood: Lyndis. That's enough. ...I beg your leave.
+
+Hellene: Wait right there! We are not finished! Someone! Someone stop those insolent children! Someone!
+Murdock: My lady Queen.
+Hellene: Murdock! I thought you'd been summoned to the castle by His Majesty.
+Murdock: That's correct. I've only just returned. One of my men told me all that happened last night. There's something that I must inform you of, Your Majesty.
+
+Hector: Well, that's that, huh?
+Eliwood: ......Lord Pent, Lady Louise, I ruined a perfectly good opportunity. I'm terribly sorry.
+Pent: You said nothing that I did not agree with. Do not think long on it.
+Louise: Lady Hellene has changed. Before she got married, she was a kind woman who wanted to be a good wife and a good mother.
+Pent: She and the king are ill matched. She has suffered much. And now, she is obsessed with the succession. Such a sad life...
+Lyn: ......His parents are alive. Yet they're both awful. I feel so sorry for him.
+Eliwood: Even if it was just, I should have left it unsaid. I angered the queen, and in doing so lost the only aid we had in Bern.
+Hector: It's over and done with. No sense worrying about it now. Let's consider our next course of action. Wait, who's there?
+Hellene: Go no farther.
+Hector: Queen Hellene?!
+Eliwood: What are you... Where are your guards?
+Hellene: Your name... It is Eliwood, yes? Take this book and this seal. My reward to you.
+Eliwood: Your Majesty?
+Hellene: This book contains the road to the Shrine of Seals. The seal was a wedding present from Count Reglay from Etruria. I was saving it for Zephiel, but... I believe at this time that you need it more. Furthermore, your path will remain clear for the next three days. No matter what happens during that time, Bern's soldiers will not move. I can make no promises about the king's own troops, though.
+Eliwood: You've done more than enough. You have my heartfelt gratitude. But, Your Majesty...why all of this for us?
+Hellene: I want to thank you, not as a queen, but as a mother. For saving my son, I am forever in your debt. Now, you should get going.
+Eliwood: ...Queen Hellene.
+
+Hellene: Zephiel.
+Zephiel: Mother. Is something amiss?
+Hellene: You... You've endured much heartache because of me. ...I'm sorry.
+Zephiel: Th-That's not so!
+Hellene: Zephiel... My dear, irreplaceable son. From this day forward... I want us to live together as one loving family. Your father and I...and your sister, Guinivere, too.
+Zephiel: Mother...
+Hellene: I am ashamed of the way I have behaved. The king may not forgive me for the woman I have been. Yet I shall make recompense, no matter the time. I want to change. If I speak to him from the heart, someday, he will understand. After all...we are a family.
+Zephiel: That's right! He will see.
+
+Hector: So the book is a map, but what's this..."seal"?
+Eliwood: This is a...Heaven seal. To receive something so valuable...
+Hector: She really listened to you, didn't she? Let's take them and go!
+Eliwood: She listened to us, didn't she?
+Lyn: That's right. All of us!
+Hector: I guess...
+Eliwood: Let's make for the Shrine of Seals. Once we make it there, something's bound to happen!!

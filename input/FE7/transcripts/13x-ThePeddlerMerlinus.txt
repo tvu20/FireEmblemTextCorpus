@@ -1,0 +1,85 @@
+@Opening 
+The dying words of Lord Helman stun Eliwood beyond belief. “Darin, the marquess of Laus, knows all…” Despite the pain it brings, Eliwood takes this newfound knowledge to heart and sets out for Laus once again. On the way to Laus, he travels through a Caelin village. Eliwood and his party decide to rest there for a night.
+
+@Intro 
+Hector: Bah! Dark already.
+Eliwood: We'll have to stop here for the night. We'll set out for Laus at the first sign of sunlight. Marcus, prepare the camp.
+Marcus: Yes, my lord.
+Hector: So this is Caelin? You think we ought to present ourselves to Lord Hausen?
+Eliwood: We're simply passing through, so I don't see the need. I am curious how Lyndis is getting along, though.
+Hector: Lyndis?
+Eliwood: Marquess Caelin's granddaughter.
+Hector: Oh, her. The missing heir who dealt with Lundgren last year. Didn't you have something to do with that?
+Eliwood: Mm.
+Hector: And? The granddaughter? Is she a beauty?
+Eliwood: A beauty? She's... I don't...she's... I think it must be her Sacae heritage. She's...striking...
+Hector: Striking? Too bad, isn't it?
+Eliwood: What?
+Hector: That we don't have time to see her, loverboy.
+Eliwood: No! Lyndis and I are... We're not...
+Hector: You're not? Then why are you getting so worked up?
+Eliwood: Hector! Don't make me angry!
+Hector: Ha ha ha ha! You are so much fun to tease! Huh? What was that? Did you hear something?
+Eliwood: It was a scream. Someone's being attacked!
+Hector: Do we help?
+Eliwood: Of course!
+
+Merlinus: Oh noooooo! Someone! Help!!!
+Bandit: Grrr! Stupid old fool! He's kept us running in circles for hours!
+Merlinus: My... My valuable merchandise! What are you going to do?
+Puzon: Hey, look at this. The old fool's wealthy.
+Bandit: Huh huh huh. Our lucky day. Eh, Puzon?
+Merlinus: Let go! Let go!! Will you let go!!!
+Bandit: What a racket! Puzon, can we get rid of this simpleton?
+Puzon: I suppose so. There's no reason to let him live.
+Merlinus: Oh my!! Eeeyaaaaahhh!
+^start
+Eliwood: Release him!
+Puzon: Who--
+Eliwood: I told you to let the man go!
+Hector: If you move quickly, we'll let you live.
+Puzon: Ha! A pair of dandies like you? You know what I think? Living off your parents' names, prancing about... I despise you! Come on! Don't hold back! We'll kill you all!
+
+Hector: Hold! Release that man!
+Puzon: What?
+Hector: We're not after you, dullard. We want the old man and his goods. If you value your life, you'll leave now.
+Puzon: What did you say? Who do you think you are? Do you think you can walk away with our spoils?
+Hector: You half-wit! Do we look like thieves to you?
+Puzon: We'll not let our profit be snatched away so easily! Come! To me now! Hold nothing back! Kill 'em all!
+^end
+
+@Battle 
+Merlinus: Aaaiiieeee!!! You! They call you Mark, am I right? I am Merlinus, a humble and lowly merchant. I know nothing of combat. Please! You must protect me!
+
+@End 
+Bandit: Oof… Blast! I won’t forget this!
+Hector: Then you’re smarter than you look! Get out of here!!
+Eliwood: Are you all right?
+Merlinus: Hm? Oho!! I… I’ve been saved!
+Eliwood: We’ve driven them off. Are you injured?
+Merlinus: No, not at all. As you can see, I’m as fine as fine can be.
+Eliwood: I’m glad to see that. Good day, sir. Hector.
+Merlinus: Wait a moment, please! A token of my thanks…
+Eliwood: Do not worry yourself. We did nothing to merit reward.
+Hector: That’s right. We’ve no need of a peddler’s junk.
+Merlinus: P-P-Peddler?
+Eliwood: Hector!
+Hector: Oops!
+Merlinus: Ahem! I am Merlinus. You’ll find no other traveling merchant whose goods compare. Don’t let your eyes fool you: I’m quite prosperous.
+Hector: Huh? You’re a merchant? Books and knives and all that, eh?
+Eliwood: Hector, your manners are terrible. Merlinus, please… Pay no mind to what this oaf has to say.
+Merlinus: No, of course not. I wasn’t concerned at… Ahem! By the way, you two obviously come from highborn houses. Would you grant me the honor of your names?
+Eliwood: I am Eliwood, son of the marquess of Pherae.
+Hector: I’m Hector. Marquess Ostia’s brother.
+Merlinus: Goodness! Ostia! Pherae! The greatest houses in all of Lycia!! Ahh… To be saved by noblemen such as yourselves… It is an honor beyond words!
+Hector: It’s nice to be appreciated for a change. Lately, people just seem to want us dead. Tell me, Merlinus, what are your plans?
+Merlinus: Pardon? My plans, my lord? I had planned to travel Lycia selling my merchandise, but… It may not be possible in such dangerous times.
+Hector: If that’s the case, why don’t you come along with us?
+Eliwood: Hector?
+Hector: Our travels will not be ending anytime soon. We’ve gained more people and more items, right? It might be good to have help managing our things.
+Merlinus: Oho! Now THAT is a splendid idea! Managing merchandise is my specialty, after all!
+Eliwood: Are you sure?
+Merlinus: Quite sure, my lord. To be honest, I’ve dreamt of working for a noble house. To have my fondest wish granted in such a way… I cannot stem these tears of joy! Lord Hector! Lord Eliwood!!! Take me into your bosoms and keep me safe forever!
+Eliwood: Uh… Thank you. Well met, Merlinus.
+Hector: We’re counting on you! Now, I’ve got some things I want you to carry…
+Merlinus: Yes, of course. Whatever you have, Merlinus will keep!

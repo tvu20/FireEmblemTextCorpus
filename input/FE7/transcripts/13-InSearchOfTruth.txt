@@ -1,0 +1,81 @@
+@Opening 
+Eliwood enters Santaruz, only to be attacked by a strange group. In a desperate moment, he is rescued by a childhood friend, Marquess Ostia's younger brother, Hector. The assailants' leader reveals that an unknown party seeks Eliwood's head...Eliwood cannot help but think this is related to his father's disappearance. In search of more traces of his father's footsteps, Eliwood sets out for the castle of Lord Helman, the marquess of Santaruz.
+
+Hector rescues Eliwood, and the two friends are reunited. The paladin Marcus reveals news: Someone has called for Eliwood's death. Pherae's problems must be connected to the attempt on Eliwood's life. Searching for more clues, Hector and friends depart for the castle of Marquess Santaruz.
+
+@Intro 
+Helman: Master Ephidel! What is the meaning of this?
+Ephidel: Peace, Lord Helman. Whatever is wrong?
+Helman: You said you were just going to frighten Eliwood! Your men almost killed him! My patience is at an end! I've decided I must tell Eliwood everything and apologize.
+Ephidel: .......You would betray us?
+Helman: I am tired of you and the Black Fang! Now, remove yourself from my castle! Your presence pains me!
+Ephidel: Lord Helman... Is there nothing I can do to change your mind?
+Helman: Nothing.
+Ephidel: In that case...you're no longer of any use.
+Helman: Gaa...urrgh...
+
+Hector: There's the castle, Eliwood! Hm? Who's there? Show yourself!
+Boies: Pah! Can't believe I was spotted by a snot-nosed stripling...
+Hector: Who are you? No, never mind. Keep your name. Why should I care what a corpse is called?
+Boies: The cub thinks he's a wolf! Does your bite match your bark? Tell you what. If you make it to the castle alive, we'll find out, eh? Geh heh heh hehhh!
+
+Mercenary: Hey, you! Yeah, the new dog! Get this right, or you're gone!
+Guy: I know, I know. I just got this job! I don't want to lose it!
+
+Guy: 'Course, the smart thing to do would have been not to get involved with this ugly bunch. Got to have gold if I want to eat, though. I was too picky before. If I think about the time I passed out in Caelin... Ooooh. Nothing funny about that! That man... What was his name... Matthew? If it hadn't been for him, I would've starved to death...
+Mercenary: What are you mumbling about? Get over here now!
+Guy: Yes, yes, I'm coming! At least I've got work!
+
+Lowen: Nice to be working with you, Mark! As a journeyman knight of Pherae, I'm here to serve Lord Eliwood and you, Mark! I await your command!
+
+Matthew: Say, Mark. Not sure how to say this... You're a full-blown tactician now, aren't you? Not just an apprentice like before. Ha ha... No need to be so modest. My lord tactician! I humbly await your no-doubt brilliant orders!
+
+@Recruit-Talk 
+%Matthew,Guy
+Matthew: Hold on! You! I know you! Isn’t your name Guy?
+Guy: It’s–Is that you, Matthew?
+Matthew: What a pleasant surprise! How’s your swordwork coming?
+Guy: You are aware this isn’t the best place to be catching up, aren’t you? You and I…We’re on opposite sides here.
+Matthew: What? Are you saying you’re going to fight me?
+Guy: I…Well, yeah. I’m much improved. You can’t beat me.
+Matthew: You’re quite a terror, Guy. Well then… Hold on! I’d prefer it if you repaid what you owe me.
+Guy: Huh?
+Matthew: Last time I saw you, I gave you food.  If I remember correctly, you said you owed me your life.
+Guy: I only said that ’cause you said you’d feed me if I did! I hadn’t eaten in ten days, and you were cooking meat! You… This… This isn’t fair!
+Matthew: The people of Sacae never lie. Isn’t that right, Guy?
+Guy: Grrr… Fine! I finally find work, and now I have to throw it away! This is all your fault!
+
+@Boss 
+Boies: What’s this? You’ve made it this far? Ah, I paid too much for that worthless pack of sellswords!
+
+Boies: You’ve beaten me…but you’re too late to save him… Too…too bad, eh, laddie? Geha ha…geha!
+
+@End 
+Eliwood: Lord Helman!!
+Helman: … Is that you…Eliwood?
+Eliwood: Hold on, my lord!
+Helman: I… I must apologize… Your father… He…
+Eliwood: Do you know something, sir?
+Helman: I… … If I hadn’t told Elbert…about…Darin’s plans…This would…never…have…Cough cough…
+Eliwood: Lord Helman!
+Helman: …..Go to Laus…Darin…the marquess of Laus…knows all.
+Eliwood: Marquess Laus?
+Helman: I’m sorry, Eliwood…I…I can’t…
+Eliwood: Hold on!
+Helman: Beware…the Black…Fang………
+Eliwood: Lord Helman!
+Hector: He’s gone…
+Eliwood: It can’t be…Lord Helman…Why……Why did this happen?
+Hector: Blast! What is going on?!?
+Eliwood: …..We go to Laus. We must speak to the marquess of Laus, Lord Darin.
+Hector: You’re right. We should leave quickly. I’m not sure how far we can get today, but…I can’t sit still.
+Servant: Pardon me…
+Hector: Hm?
+Servant: If I may?
+Eliwood: Who are you?
+Servant: I’m the steward of Santaruz. With our lord gone, what are we to do?
+Hector: First, you give Lord Helman a proper burial. After that…I’m sure the Lycian Council will have to meet. Stay here and defend the castle until you hear more.
+Servant: I understand.
+Eliwood: Let’s go. We must keep moving.
+Hector: Yes…and now we seek answers for Marquess Santaruz, too.
+Eliwood: …Lord Helman…May you find peace.

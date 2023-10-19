@@ -1,0 +1,74 @@
+@Intro 
+???: Are you awake?
+Girl: I found you unconscious on the plains.
+Lyn: I am Lyn, of the Lorca tribe. You’re safe now. Who are you? Can you remember your name?
+Lyn: Your name is Mark? What an odd-sounding name... But pay me no mind. It is a good name. I see by your attire that you are a traveller. What brings you to the Sacae plains? Would you share your story with me? Hm? What was that noise? I’ll go see what’s happening. Mark, wait here for me.
+Lyn: Oh no! Bandits! They must have come down from the Bern mountains! They must be planning on raiding the local villages. I... I have to stop them! If that’s all of them, I think I can handle them on my own. You’ll be safe in here, Mark.
+Lyn: What? You want to help? Well, can you use a weapon?
+Lyn: Ah, I see... So you’re a strategist by trade? An odd profession, but... Very well. We’ll go together!
+Lyn: Over here! If you want to help, Mark, I could use your advice. I’ll protect you, so stay close to me.
+
+@Battle 
+Tutorial: Unit Information: Lyn is the blue unit. The enemy units are red. Mark, you are green. Essentially, battle consists of blue  units and red  units taking turns moving on the field. You’re only here as a strategist, Mark. You will only appear during special events. Your job as strategist is to place the cursor on blue units to issue their orders. First, select a unit. Place the cursor on Lyn and press the A Button.
+
+Lyn: I need to be closer to the enemy!
+
+Tutorial: You have selected Lyn. When a unit is selected, the map changes color like so. Lyn can move anywhere in the blue area. Move her to the space with the flashing cursor. Place your cursor there, and then press the A Button to finish.
+Lyn: Let’s advance on that bandit!
+
+Lyn: Yes, this should be close enough.
+
+Lyn: That bandit’s spotted me! He’s coming this way!
+
+Lyn: Let’s close in and attack!
+
+Tutorial: Select Lyn.
+Tutorial: Move to one of the areas adjacent to the bandit.
+
+Lyn : I have to be right next to him to attack!
+
+Lyn : Listen, just get me up next to that bandit!
+
+Tutorial: Press the A Button after placing the cursor next to the enemy.
+
+Lyn: Now, strike!
+
+Tutorial: Select attack!
+
+Lyn: Victory! But I’ve been injured. I have need of a vulnerary.
+Tutorial: Select Lyn.
+
+Lyn: There’s another bandit over by the ger to the west. You don’t know what a ger is? It’s a type of round hut. Many nomads live in huts like these. Hmm... I would do well to use this time to administer a little first aid.
+
+Tutorial: Move to the space marked by the flashing cursor.
+
+Lyn: I’m carrying a couple of vulneraries in my satchel. They should heal me up. Would you get one for me?
+
+Tutorial: Open the Item menu and select a vulnerary. Next, choose Use.
+
+Lyn: Thank you, Mark! Now, let’s go get that brigand over by the ger!
+
+Lyn: Whew! He’s tough… It all comes down to this next blow. Mark, if I fall, I want you to flee. You must escape!
+
+@Boss 
+Batta: Who do you think you are? You think you can stand up to Batta the Beast?
+
+Batta: What? How... How did you—
+Lyn: Whew... That was close. I sorely underestimated him. Sorry if I worried you. I’ll need to be stronger if I’m going to survive... Strong enough that no one can defeat me.
+
+@Battle 
+Tutorial: Lyn gains experience in each encounter. When she has enough experience, she will level up. As she increases in level, her abilities improve. Over time, she will grow much stronger. It’s time to bring this chapter to a close. Select Lyn and move her to the gate where Batta the Beast was standing. Select Seize to complete Lyn’s victory and your own!
+
+Lyn: Good work, Mark! Let’s go home.
+
+@End 
+Lyn: Good morning, Mark! Are you awake yet? That fight yesterday must have taken a lot out of you. Say, Mark... I want to talk to you about something. You have some experience in the ways of war, I can see. Would you allow me to travel with you?
+
+Lyn: What? You... want me to get permission from my parents?
+Lyn: My mother and my father... died six months ago. My people—the Lorca—they don’t... I’m the last of my tribe. Bandits attacked, and... they killed so many people. The tribe was shattered. My father was our chieftain, and I tried to protect our people. But I’m so young, and our people were old-fashioned. They wouldn’t follow a woman. No one would follow me. Sniff... I’m sorry. I’ve been alone for so long... No. No more. I will shed no more tears. ... ... ... ...
+
+Lyn: Thank you. I’m better now. Mark, I want— I must become stronger, so that I may avenge my father’s death! Yesterday’s battle taught me something. I won’t become stronger by sitting here alone. Mark, tell me you’ll train me, that you’ll let me travel with you!
+
+Lyn: You will? That’s just wonderful! Thank you! Oh, thank you! We’ll be better off working together, I know it. You’ll be my master strategist, and I’ll be your peerless warrior! We can do it! Right?
+
+Tutorial: Travel with Lyn, Mark. Give her your aid, and master the art of combat. Complete the tasks set out in each chapter, and help Lyn in her quest. Turn the instruction window on or off by pressing SELECT.

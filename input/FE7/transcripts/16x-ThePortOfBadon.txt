@@ -1,0 +1,119 @@
+@Opening 
+After speaking with the Ostian spy Leila, Eliwood realizes he must travel to Valor, the Dread Isle. The small island, located south of Lyica, is said to be home to the Dragon's Gate. Heading for the southern coast of Caelin, they seek passage in the port of Badon.
+
+@Intro 
+Hector: Listen! We need a boat to Valor!
+Villager: You want a boat to the Dread Isle? You're mad! No way! Never! There's no one in this village who'll sail there!
+Lyn: Please, we're in a hurry. Can you give us passage?
+Eliwood: If you won't help us, can you take us to someone who will? Please.
+Villager: You must be on urgent business, that's certain. ......There may be one way...
+Eliwood: What is it? Tell us, please!
+Villager: Pirates.
+Lyn: Eh? Pirates?
+Villager: Uh-huh. They're fearless, or as close as makes no difference, and they'll go anywhere for a fee. Who knows? They might decide to accept your mad offer.
+Hector: Pirates... Looks like we've no choice.
+Lyn: Are you serious, Hector? Working with pirates? That's unbelievable! You're considering it, aren't you, Eliwood?
+Eliwood: If there's no other way, what else can we do?
+Lyn: You, too, Eliwood? I've misjudged you... It's foolishness to trust the goodwill of pirates! I'm finding another way! (Lyn leaves)
+Hector: Why is she so angry?
+Eliwood: I heard that Lyndis's parents were slain by bandits. Bandits at land, pirates at sea... They're all the same to Lyndis. Lawbreakers and murderers.
+Hector: I see... My parents died of illness... But I can appreciate her feelings. Shall we abandon the pirate plan?
+Eliwood: But...
+Villager: Too bad about the girl, but there's no other way.
+Eliwood: Let's meet the pirates. We can't decide until then.
+Hector: That's true.
+Villager: That inn over there is a known favorite of the local freebooters. They're reckless and unpredictable. Best be prepared.
+
+Fargus: What do you want, whelps? You're here to see me, aren't you?
+Eliwood: You're commander of the pirate armada, aren't you?
+Fargus: Gwah hah hah! "Commander of the pirate armada!" I like the sound of that! Are you lads that naive? Or are you just dumb? Which is it?
+Hector: You insolent...
+Eliwood: Peace, Hector!
+Eliwood: If I've insulted you, I apologize. How should I address you?
+Fargus: Hmph... You don't frighten easily, do you? Well, at least it seems you're not stupid. "Captain" will do, whelp. I'm Fargus, captain of the Davros.
+Eliwood: Fargus... Master Fargus? Or should I call you Captain?
+Fargus: You're not one of my mates. Call me Fargus. Now, what do you want?
+Eliwood: We want to book passage to Valor.
+Fargus: How much will you pay?
+Eliwood: We don't know the current rates. Tell us how much you want.
+Fargus: 100,000 gold.
+Hector: Wait, 100,000 gold?
+Fargus: Well? Will you pay?
+Eliwood: We've no choice, but we need a little time. We'll get the gold and return as quickly as possible. Come, Hector.
+Hector: Wa-Wait a moment! Eliwood!
+
+Hector: Eliwood! Hold on! Where do you think you're going to get 100,000 gold?
+Eliwood: I'm sure there's an arena here. We can raise gold somehow...
+Hector: What? You're not serious!?
+Eliwood: We've no other way, do we?
+Hector: Well, no. (Steps back) Sometimes you surprise me, Eliwood.
+Eliwood: Did you say something, Hector?
+Hector: No, nothing. Let's go earn some gold!
+Dart: (Appears) Ahoy! Hold your ground, boys!
+Hector: What now? We don't have the money yet.
+Dart: Fool! Of course you don't! I know that. The captain's got a message for you.
+Eliwood: A message?
+Dart: All of my mates in this village are going to attack you. If you can beat us all and get to the ship unharmed, he'll give you passage.
+Eliwood: For free? No gold?
+Dart: The captain's a tad off-kilter. He'd rather have a bit o' fun with you than take your gold. Smooth sailing to you.
+
+Dart: Hey! Landlubbers! Over here! I'm over here!
+Hector: Oh, for... This is a joke, isn't it?
+Eliwood: Looks serious enough. Here we go!
+Dart: Listen! The captain's waiting at the docks. Talk to him and you're the winner! Trust me, though.... Don't make the mistake of attacking him! You anger the captain, and there's no turning back! Don't forget!!
+Lyn: (Comes out of a nearby house) I couldn't find a ship after all. But we have to get to that island... Looks like I'll have to endure pirates. Hm? What was that? Commotion in the village?
+Hector: Oh! Lyn! Nice timing. We need your help!
+Lyn: You're battling the pirates?
+Eliwood: Fighting and... Look, we have to reach the docks and speak to the captain! This is a test to see whether or not he'll give us passage.
+Lyn: I don't understand, but.... I'm here, so let me help!
+
+@Battle 
+Lucius: Good to see you again, Mark. Our reunion is surely the work of blessed Elimine. I’m most pleased to travel with you once more. Your commands, please.
+
+Raven: So you’re the tactician, huh? I’m Raven. I’m just a mercenary. I work for these guys now, so it looks like I’ll take your orders. What are you waiting for? What do you need me to do?
+
+Fargus: What mooncalves! I would've just let them sit there if they hadn't come any closer! Rush 'em, boys!
+
+@Visit 
+Canas: Pardon me! I was speaking with an old sailor a few moments ago. He told me that you’re planning to travel to Valor. Is that so? Really? And that’s why you’re playing tag with these pirates? ......I see. In that case, would you mind if I joined you? My name is Canas. I’m a scholar of sorts... I’ve been seeking passage to Valor, but none will take me. My proposal probably sounds somewhat selfish, no? You should know, I can help in combat. I’ve some skill with a form of elder magic... Some call it dark magic, a rather biased term, if I must be blunt. But at the very least, I can take care of myself, and perhaps others.
+
+Anna: I heard about your contest with the pirate captain, Fargus. You’ve got nerve, I’ll give you that! Let me give you some advice. Don’t try to overpower the pirates. Take the narrow path next to us, and follow the wall toward the sea. Pass in front of the last house, and stay close to the sea wall. You should be able to get to Fargus and win your game! Why do I know all this? Well, my sweetie’s a pirate. His name’s Jake, and he’s the best. If you see him, tell him Anna’s worried about him!
+
+@Battle
+Damian: What an interesting diversion. Maybe we should join in. Lord Eliwood of Pherae... You don’t yet know to fear the Black Fang. Start grieving...for I will teach you that fear.
+
+@Boss
+Damian: You’re about to die. Scream if you must.
+
+Damian: Gaa...ha... Crow in...triumph... you’ve–
+
+Fargus: Hey, there! What are you on about? Do you think to test me? Gwa ha ha ha ha ha! You’re a daft lot. I respect your courage, but you’ve chosen the wrong foe. If you can’t judge your enemy’s skill, you’ll wind up fish food. You’ll do well to remember that if you’re lucky enough to live.
+
+Fargus Uugwoh... Can’t believe... you...beat... me... You’ve...lost... your way... to...the Dread...Isle... for good...
+
+Fargus: What’s this? Are you spent already? Hm? Attacking someone you’re asking a favor of? Insolent louts! I thought you smarter than that. You disappointed me. Go on! Away with you!! There’s no ship that’ll carry such conceited half-wits as you!! Never show your faces here again!
+
+
+@Battle
+Fargus: What mooncalves! I would’ve let ’em sit there if they hadn’t come any closer. Up and at ’em, mates! Attack!
+
+@Visit
+Man: Are you interested in this sword here? It’s called a lancereaver. It’s an incredible sword to take against lances. Still, it is a little weak against axes. Go ahead, take it. You’re going to the Dread Isle, right? If you want to avoid the pirates, go behind the shop. From there, just head straight down the alley. Good luck to you.
+
+Man: You’re a brave soul to come to such a perilous place. Here. You should have this staff. You can use it to make those whose magical resistances are weaker than your own fall asleep for a while. Whether it works or not depends on the skill of the wielder. Ho, yes. Looks like those pirates are bearing down on you. Maybe this staff will help you get away.
+
+Man: This road leads to danger. The pirates are waiting for you. Do you not think it would be better to find another route? You’ve risked much to come here. I can’t let you leave empty-handed. Take this axe. What do you think? Nice, isn’t it? However...it’s cursed. It’s a mighty weapon, but if one with bad luck wields it... Ooooh! Terrible, terrible, I tell you. Don’t use it unless you have to.
+
+Woman: You’re being tested by pirates, with passage to the Dread Isle hanging in the balance? Here, use this bow. It’s a rare beauty, eh? A Sacaen friend gave it to me, but I can’t use it. Don’t get yourself killed out there, OK?
+
+Man: Have you been to the arena yet? It’s filled with toughs and bravados. You can get rich there... All you have to do is wager and win. If you’re beaten, however, you lose both money and life. If you think you’re going to lose, press the B Button to give up. Remember, you can’t give up if you’re dead, so don’t wait too long.
+
+@End 
+Fargus: Aha! You made it, whelps!
+Hector: That was... hard...
+Eliwood: Haa...haa...You'll give us passage now, won't you?
+Fargus: I'm a man of the sea. I always keep my word.Are my old eyes lyin' to me? Is this beauty really with you? Gwaa ha ha ha!! My lucky day!
+Lyn: .....
+Hector: Listen, I know how you feel, but you have to accept it. We've no other choice!
+Lyn: I know that! I haven't said a word, have I?
+Eliwood: We can go to the Dread Isle now. Please, Father... be well.

@@ -1,0 +1,135 @@
+@Opening
+The next morning comes too quickly. Lyn has fought back the bandits’ attack. Now, she rushes for the border of Bern. If she can reach it, Lycia itself is not far off. For a moment, Lyn stops to imagine the face of a grandfather she’s never seen.
+
+@Intro
+Kent: We’ve almost reached the Lycian border.
+Lyn: Once we cross, we’ll be safe from the bandits, right?
+Wil: We should be. I doubt they’ll be willing to pursue us across the border.
+Sain: Lycia at last! It’s been a long time. Tomorrow, we’ll dine on a feast of Lycia’s finest foods! And the mistress of the inn at the crossing is said to be a beauty. Ah, yes… Food and love. No better way to restore a man’s soul! This is going to be a fine evening, eh, Kent?
+Kent: If your behavior is as deplorable as ever, we’d best stay elsewhere. We’re not here for sightseeing!
+Sain: Oh, come now! That’s not fair!
+Lyn: Kent, the inn will be fine.
+Kent: As you say, milady.
+Sain: Lyndis! You are truly an angel from on high!
+Lyn: It’s nothing. Forget it.
+Florina: Ah! We’ll finally be able to get a good night’s sleep.
+Lyn: Oh, no… Those bandits are persistent, I’ll give them that much.
+
+Bug: Ah! Here they are! I’ve found ’em!!
+Wil: What? Not again! They’re still after us?
+Bug: Heh heh heh. Don’t think you’re getting away so easily!
+Bandit: You leave alive, and everyone’ll think the Ganelon Bandits have gone soft!
+Lyn: So? We care nothing for you or your reputations! We must get to Lycia! Get in our way, and you’ll pay!
+Bug: Cheeky little thing, aren’t you? Let’s get ’em, lads! And no holding back just ’cause there’s women with ’em! Wipe ’em out!
+
+Serra: Oooh… We’re lost. This makes me so mad!
+Erk: You told me you were certain this was the correct path.
+Serra: What’s your point, Erk? What are you trying to say?
+Erk: …I swear, you are NOT the woman I agreed to escort…
+Serra: What? What’s that supposed to mean?
+Erk: I heard someone was needed to escort a frail Lycian priestess to Ostia…
+Serra: Yes, and I’m that priestess.
+Erk: Frail? You? Serra, you have no need of any escort to protect you. Even the most hardened criminal would flee in terror after five minutes in your company. I’ll return your money. Gladly. Now, will you please go on to Ostia alone?
+Serra: NO! You’re MY escort, Erk! MINE! You’re so clean and tidy. A noblewoman like myself can’t be seen without a proper escort. Your personality’s nothing special, but you’re not bad to look at.
+Erk: I believe that’s my line. And I have to take you all the way to Ostia? I only hope my nerves can endure the journey.
+Serra: What are you mumbling about? You’re so gloomy! Hm? Something’s happening over there. Let’s take a look!
+
+Erk: Ah. Of course. The first opportunity to get involved in trouble, and she jumps right in. No amount of money is worth this. Hoo…
+
+@Battle 
+Serra: Wow! A fight! A fight! Erk! Take a look! Fighting those bandits… It’s a young girl!
+Erk: Fool! Keep your voice down!
+
+Bandit: Eh? What’s this? You in league with that she-devil?
+Serra: Hm?
+Erk: Ah… This is so wrong…
+Bandit: Gyaaa! I’ll take care of you with one swift stroke!
+Serra: Eeeeeek! Eeeeeek! Eeeeeeeeeeeek! Erk! Help me!!!
+Erk: So…loud… Serra! Behind me! You there! See if you can match me! 
+Lyn: That scream… Look! Tactician, someone’s over there!
+Tutorial: Sometimes, you can talk to different NPCs . The process is the same as talking to enemies. Give it a try. Please select Lyn.
+
+Lyn: You want me to talk to that person? Understood.
+
+Lyn: I’m supposed to talk to that person, right? Give the order.
+
+@Recruit-Talk 
+%Lyn,Serra
+Lyn: Um, excuse me… Hello?
+Serra: Hm?
+Lyn: Why are you fighting these bandits?
+Erk: … It just happened.
+Serra: That’s not true! Those ruffians thought that we were with you!!! You got us into a terrible situation! Now, how are you going to get us out?
+Erk: Serra, if you’d not been so meddlesome, this all could have been avoided. My apologies. Please trouble yourself with us no more.
+Lyn: But…if you’re going to have to fight anyway, shouldn’t we team up? It will end things faster, right?
+Serra: That’s true. Yes! That’s a good idea. Erk! Go and help these ladies.
+Erk: But I… Fine!
+Lyn: Very good. My name’s Lyn. SO tell me, will you join arms with us?
+Serra: Yes, we’d be glad to. My name is Serra. This is my escort, Erk. Be a good boy, and go fight now, Erk.
+
+@Battle 
+Erk: …Sigh…
+Tutorial: Erk, a mage, and Serra, a cleric, have joined your group. Mages use the magic of truth to attack and damage their enemies. Clerics use staves to restore HP to their allies. Let’s try them both. First, select Serra.
+Serra: Hello. You’re Tactician, right? I’m Serra. Nice to meet you. By the way, see this contrary mage here with me? His name is Erk. I think he’s been hurt. I am Erk’s employer. “Master,” I suppose you could say. What I’m getting at is… I was thinking of healing him free of charge. I know, I know. I’m generous to a fault. Hm? Why are you looking at me like that? Praise my generosity! Anyway, that’s the deal. Please direct me to him.
+
+Serra: Please direct me.
+Tutorial: Press the A button, and select the staff from the menu.
+Serra: I’m going to use my staff. Watch in wonder!
+
+Serra: My staff! Let me use my staff!
+Tutorial: Clerics cannot wield weapons; therefore they can’t engage in combat. However, they can use their staves to restore HP to allied units. Besides healing staves, which restore HP, there are other staves with different abilities. It’s always a good idea to test out any new abilities you receive, so let’s do that now. Have Erk demonstrate his magic. Begin by selecting Erk.
+Erk: You are Tactician? I am Erk. I’m not sure how I got in this mess. If I’m going to fight, however, I will show you the true power of magic!
+
+Erk: I will show you the true power of magic!
+Tutorial: Magic, like Dorcas’s throwing axes, can strike enemies in adjacent squares as well as those at a distance. It’s very useful. Magic can penetrate even the strongest defenses, so it can be used in many situations. However, mages have few HP and low defensive abilities. To avoid counter-attacks, move in close to archers, and attack other fighters from 1 space away. Try and formulate combat strategies like this to be successful on the field of combat.
+
+@Visit 
+Old man: Magic can be used to attack enemies both near and far. Plus, you might find that magic can hit an enemy that normal weapons do not harm. However… Mages are notoriously susceptible to physical attacks. Just because they’re versatile doesn’t mean you should put them in harm’s way. It does you no good if they are lost because of your carelessness.
+
+Man: Tell me, are you using the R Button? If there’s something you don’t understand, use the R Button to investigate. It’s essential. Place the cursor on a unit and press the R Button. This displays detailed information on the unit. You knew that, right? While that information is displayed, press the R Button again. That will get you even more detailed information. Did you know that? The R Button can be used in many other places, too. Anyway, when you come across something unfamiliar, try pressing the R Button! Won’t hurt to remember that!  Ah, so you’re a traveler? Listen to my advice: handle your money wisely. If you spend too much too soon, you’ll run out early and suffer later. There are other shops, so save about, oh, half of your money.
+
+@Boss 
+Bug: You’re gonna learn why people fear the Ganelon Bandits!
+
+Bug: Blaaaaah… Scum… You’re all scum…
+
+@End 
+Lyn: Nicely done, Tactician. That should just about do it.
+Serra: What a surprise. You are very strong, Lyn.
+Lyn: Your staff is a wondrous thing. Healing powers amaze me.
+Serra: Only those in the service of good can wield them.
+Lyn:You helped us tremendously. Well, it’s time for us to go.
+Serra: Take care. Good-bye, Lyn.
+Lyn: Fare you well. You, too, Erk.
+Erk: Good-bye.
+
+Serra: Well, let us be on our way, Erk.
+Sain: What have we here? Another wildflower? Perhaps a butterfly?
+
+Sain: What an absolutely delectable creature!
+Serra: Oh my! Are you one of Lyn’s companions?
+Sain: Please, call me Sain.
+Serra: I’m Serra. I serve House Ostia.
+Sain: Serra… What a lyrical name. I am in service to Castle Caelin.
+Serra: Oh! So is Lyn a member of the marquess’s family?
+Sain: She is the granddaughter of our lord, the marquess.
+Serra: Hmmm… Such an important person.
+Erk: Serra…what deviousness are you contemplating now?
+Serra: Tee hee! Having a person of power in your debt is never a bad thing!
+Erk: You can’t be serious…
+Serra: Oh, Sain! Do you think we could join the lady Lyndis’s company? She seems like such a nice person, and I would ever so much like to help her.
+Sain: Of course! We couldn’t be happier!! Why, we were only just saying how we need some more fighting power!
+Serra: Are you being hunted or something?
+Sain: Yes, it’s an inheritance dispute. Assassins everywhere.
+Serra: Oh my! In that case, my healing staff and Erk’s magic should come in handy.
+Erk: Well, I, er… It sounds…dangerous…
+Sain: Your staff and magic would be extremely helpful! Please wait here! I will go and speak with Lady Lyndis on your behalf.
+
+Erk: Unbelievable…
+Serra: This is fantastic, Erk! Our good deeds will earn us gratitude beyond imagining!
+
+Erk: I… I… I think I’m going to be ill.
+
+Lundgren: That little girl crossed the border!?
+Soldier: Yes, Lord Lundgren. She’s en route to Araphen…
+Lundgren: Fool! Send out soldiers to meet her! Hold nothing back! Do anything to finish this now! First the old man, and now the girl… They cling to life like a drowning man to a rock! Double the poison’s strength! If he struggles, hold him down and pour it down his throat! Once the girl is gone, Caelin is mine. I will let no one stand in my way!

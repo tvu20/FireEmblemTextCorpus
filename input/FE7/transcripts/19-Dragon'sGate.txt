@@ -1,0 +1,260 @@
+@Opening 
+Following Uhai's last words, Eliwood ventures toward the heart of the forest. He is greeted by an extraordinary sight. A building unlike any he's ever seen. It was clearly not wrought by human hands. It is waiting...waiting for the masters who abandoned it centuries past. Massive beyond belief, these ancient ruins have nothing to do with humankind. Eliwood has arrived. He has found the Dragon's Gate.
+
+@Intro 
+Eliwood: ...We’re here. The Dragon’s Gate...
+Ninian: ......
+Eliwood: What’s wrong, Ninian? You’re trembling.
+Ninian: ...This place... so frightening. Something... powerful...
+Lyn: It’s her power, isn’t it?
+Hector: Her power? What’s that?
+Lyn: Ninian has the ability to sense impending danger. Her memory may be gone, but her power remains.
+Eliwood: What is it you sense, Ninian?
+Ninian: I... should not have... come here. Something awful will happen if I’m here. Ah!!
+Eliwood: Ninian!? Snap out of it!
+Ninian: This place... No... I... I...
+Eliwood: She’s getting worse! Let’s get her away from here!
+Ephidel: You’ll not be going anywhere.
+
+Ephidel: That little bird has escaped this island cage twice. Now that she’s back, she’ll not be allowed to fly away again.
+Eliwood: Who are you!?
+Ephidel: We meet at last. I am Ephidel. Pleased to make your acquaintance.
+Hector: You’re Ephidel? I’ve been looking forward to this.
+Ephidel: ...Gallantly spoken. Of course, I know who you are. Marquess Ostia’s younger brother, Lord Hector. And here we have Caelin’s beloved princess, Lady Lyndis.
+Lyn: ......
+Ephidel: By the way, the gift I left for you in the forest… Was is to your liking? The corpse of that filthy red-haired traitor?
+Hector: Monster! Stay right there! I’m going to crush the life from you with my bare hands.
+Ephidel: Now I see! She was an Ostian spy, wasn’t she? Don’t worry, she did not suffer. It only took one blow.
+Hector: Die‼
+
+Eliwood: He vanished‼
+
+Ninian: What--!?
+Ephidel: This girl is needed for my master’s ceremony.
+Eliwood: Ninian!
+Ninian: Lord Eliwood! Let me go!
+
+Lyn: Vanished...
+Hector: Blast!!
+
+Darin: Lord Ephidel! Is the girl with you?
+Ephidel: As you can see...
+Darin: Oho! The ritual can take place at last!
+Ephidel: Yes. However, we have an infestation of mice to deal with… They should be scurrying in here momentarily. They must be dealt with before the ritual takes place. May I entrust this task to you?
+Darin: Of course. Who do you think I am?! I am Darin, Marquess Laus! Ruler of this world!
+Ephidel: Very well, I leave it to you.
+Darin: Ruler of the world... Ha ha ha ha ha ha ha!
+Ephidel: Humans… They are so very fragile.
+
+Nergal: Ah... you’ve done well. Precious Ephidel. Shall we prepare for the ritual?
+Elbert: Nergal!!
+Nergal: Does it gall you, Marquess Pherae? It’s destiny. There could be no other outcome. Despite all of your mischief, the girl was fated to return to me.
+Elbert: My son... Where is Eliwood?
+Nergal: He’s still alive. Of course, it’s only a matter of time before the Black Fang finishes him.
+Elbert: ...Nergal! Prepare to die!!
+Nergal: Eh!?
+
+Jaffar: ...
+Elbert: Urrgg... grrr... haa...!!
+Nergal: ...That was a surprise. When did he undo his bonds? Heh heh... Why do you not heed my warnings, Lord Elbert? You cannot alter destiny. Stop this foolishness.
+E lbert: ...Urrgh... grraa...
+Nergal: Jaffar, take Marquess Pherae and the girl to the far chamber. I will begin preparations for the ritual.
+Jaffar: Thy will be done.
+
+Cameron: I’ve been waiting for you, son of Pherae.
+Eliwood: Where is my father?
+Cameron: Inside… He’s farther inside. You will never see him, though. Even if you break through here, the path you seek is guarded my Marquess Laus. Will you not withdraw? It’s too late for that, isn’t it? You’ll never leave here alive. Ha ha ha ha ha!
+
+@Battle 
+Sain: Tactician! The final battle is approaching. That traitor, Laus… He harmed Lord Hausen, caused grief to Lady Lyndis… As a true knight of Caelin, I will make him pay! Leave him to me!!
+
+Kent: Mark, let me take the point. I will break through, even though it may cost me my life. If something does happen to me, Mark... Lady Lyndis... Please watch over her. Now, Mark, give me my orders!
+
+Enemy: Hey, you! What are you doing here?!
+Legault: What am I doing? Is that a proper greeting? If you don’t know me, you must be a new recruit, yes?
+Enemy: Uh... I was assigned to the Dragon’s Gate about one month ago.
+Legault: I thought as much. I am Legault. You’ve heard my name, yes?
+Enemy: Legault... Ah! You... You’re the Hurricane? Second in ability to none but the Four Fangs?
+Legault: Yes, yes. That’s me.
+Enemy: I... I beg your pardon.
+Legault: No worries.
+
+Legault: ...Now then, time to fill my purse with treasure and leave the Black Fang behind. No sense staying on a sinking ship. No sense at all.
+
+@Recruit-Talk 
+%Eliwood,Legault
+Legault: Well now, a welcome visitor, indeed. I must thank you for coming so far.
+Eliwood: What!? You’re a...
+Legault: Mmm... To be accurate, I would say a former Black Fang member.
+Eliwood: Black Fang‼
+Legault: Ha, no! "Former" Black Fang. Now I’m simply a thief.
+Eliwood: Huh? So you’re not my foe, is that what you’re saying?
+Legault: Correct. So let’s pretend we never saw each other.
+Eliwood: Hold on!
+Legault: Hm?
+Eliwood: If you’re not my enemy, may I ask for your aid?
+Legault: Me? Help you?
+Eliwood: I want to know about the Black Fang. ...Please.
+Legault: This is a surprise. Are you really going to battle the Black Fang?
+Eliwood: Yes.
+Legault: Your enemy is not Brendan Reed, but a horrible man named Nergal.
+Eliwood: Yes, I know this already.
+Legault: You’re quite plucky. I like you! However, I know almost nothing of the current Black Fang. If you still want my aid...
+Eliwood: I do! Thank you. My name’s Eliwood.
+Legault: I’m Legault. I’ll help you as long as I feel safe.
+
+%Lyn,Legault
+Legault: Well now, a welcome visitor, indeed. I must thank you for coming so far.
+Lyn: What!? You’re Black Fang, aren't you?
+Legault: Mmm... To be accurate, I would say a former Black Fang member.
+Lyn: Former...
+Legault: Yes. Now I’m simply a thief.
+Lyn: Huh? So you’re not my enemy, is that it?
+Legault: Correct. So let’s pretend we never saw each other.
+Lyn: Hold on!
+Legault: Hm?
+Lyn: If you’re not my enemy, please help me.
+Legault: Me? Help you?
+Lyn: Not everyone in Black Fang is evil. I'll not grant mercy in battle, but any information you can provide may help us avoid unneeded fighting.
+Legault: You surprise me. Are you really looking not to hurt people?
+Lyn: The first person we fought on this island was Uhai... I don't believe he was a bad man. There must be some way we can get by without fighting.
+Legault: Hmmm... I know a few like that. Did you know that your enemy isn't Brendan Reed? It's a creepy fellow by the name of Nergal...
+Lyn: I was aware of that. That's the man we've come to defeat.
+Legault: ...Plucky, aren't you? I like that. I like you! However, I know almost nothing of the current Black Fang. If that's OK...
+Lyn: Thank you. My name’s Lyn.
+Legault: I’m Legault. I’ll help you as long as I feel safe.
+
+%Hector,Legault 
+Legault: Well now, a welcome visitor, indeed. I must thank you for coming so far.
+Hector: You’re Black Fang, aren’t you?!
+Legault: Mmm... To be accurate, I’m Black Fang no mo–
+Hector: I thought as much! Take this!!
+Legault: Whoa! A touch hasty, aren’t you? Hear me out, will you? Black Fang no more! No more! I have only recently severed my ties with them. Now, I’m merely a thief. Satisfied?
+Hector: Huh... So you’re just looking for an easy way out?
+Legault: Nothing better than being carefree, is there? I will admit that everyone has his own set of values, though. Well then, I’ll take my leave of you.
+Hector: Hold it!
+Legault: Hm?
+Hector: If you’re not one of them, why don’t you help me out?
+Legault: Me? Help you?
+Hector: You’re not with the Black Fang anymore, right?
+Legault: Are you seriously going to fight them?
+Hector: Uh-huh.
+Legault: Let me tell you a little something, OK? Your enemy here isn’t Brendan Reed. There’s this creepy fellow named Nergal......
+Hector: I don’t care!! They’re all responsible for attacking my homeland and my friends. I’m going to rip them apart with my bare hands!
+Legault: You sound tough, but are you anything more than a little lordling?
+Hector: What did you say?
+Legault: I’ve always been fond of simple, honest children. They’re so sincere... Things are never boring when they’re around. ...You know, I think I will help you. However, I know almost nothing about the current Black Fang. If that’s OK...
+Hector: No problem.  Any little thing you can tell me will help.
+Legault: I’m Legault. I’ll help you as long as I feel safe.
+
+@Boss 
+Darin: Hah... hah ha ha! You dare challenge me? I, who will rule the world!?
+
+Darin: Blood? Is this... my blood? Ephidel! Come to me!! Your master... calls you! I am the ruler... of... the... world...
+
+%Eliwood,Darin
+Eliwood: Darin! Your treachery ends here!!
+Darin: Ha ha ha ha. I will never fall to the likes of you!!
+
+%Hector,Darin
+Darin: Oh... You’re Marquess Ostia’s younger brother...
+Hector: I couldn’t care less if you’ve a grudge against Ostia. I’ll put up with your treachery no longer!
+Darin: Heh heh heh… Ostia is no longer my main concern... Nor is the whole of Lycia... The only goal worthy of my attention is the entire world!
+Hector: You’re mad!!
+
+%Lyn,Darin
+Lyn: Are you Darin? My grandfather… You tried to…
+Darin: What? Who are you?
+Lyn: I am Marquess Caelin’s granddaughter, Lyndis!
+Darin: Oh… that senile fool? …That doddering wreck dared disagree with me… I was so happy to be rid of him.
+Lyn: You’re a dead man!
+
+@End 
+Lyn: He was mad.
+Hector: Consumed by his own lust... Pitiful fool.
+Eliwood: ...Lord Darin.
+Hector: C’mon, Eliwood! This is no time for sentiment.
+Lyn: Your father needs you!
+Eliwood: ...Let’s go!
+Eliwood: Father! Father!? It’s me! Eliwood!! I’ve come to save you! ...Father?
+Hector: It’s dark in here. Can’t see a thing...
+Elbert: Eli... Eliwood...
+Eliwood: Ah!! Father! Where are you?
+Lyn: Back there! Eliwood!! His voice is coming from back there!!
+Eliwood: Ah! Father! You... You’re all right...
+Elbert: Eliwood... Wait! For-Forget me! Take that girl and flee!
+Eliwood: Ninian?!
+Ninian: ......
+Elbert: That girl... She’s the key to the Dragon’s Gate. Hurry! Go, before Nergal notices you!
+Eliwood: Ninian! This way! We must flee!
+Ninian: ......
+Lyn: Something’s wrong with her... Yet we’ve no time to hesitate.
+Hector: Eliwood! I’ve got your father! You take Ninian!
+Eliwood: I understand!
+Hector: Lord Elbert! I’m going to move you a little. Be strong.
+Elbert: Hector...you came, too? ...Thank you.
+Hector: Don’t worry about that. Come, let’s leave this place.
+Lyn: Eliwood! Hector!! Hurry! This way!! Ah!!
+Jaffar: ......You will not pass here.
+Lyn: When did you?
+Elbert: You must not fight that man!!
+Lyn: What!?
+Elbert: That man...is dangerous. You cannot defeat him on your own.
+Eliwood: Father, there’s no time. This danger must be faced.
+Ephidel: ...Be a good boy, and listen to your father, young master Eliwood.
+Eliwood: Ephidel!!
+Ephidel: Even among the Black Fang, this man is feared for his skill... You are no match for him, not even as a group. ...You’ve done well, Jaffar. That is all. Return to Bern and begin your next assignment.
+Jaffar: ......
+Ephidel: Hear my word! I have an invitation from my master. In honor of your hard-fought arrival, he’s prepared a special show for you.
+Elbert: Stop it! You cannot release the dragons!!!
+Eliwood: Father? What’s all this about?
+Ephidel: ...You will know shortly. At the expense of your father’s life!
+Elbert: Guwaah! ...Gaa...ghaa...
+Eliwood: Father! What’s wrong? Father!
+Hector: Lord Elbert! Hold on!
+Eliwood: Huh? ...Ninian?
+Ninian: Pow...pow...er... ...power...
+Elbert: Gahaaa!
+Eliwood: Father!!!
+Nergal: Now, Ninian...at last. Open the Dragon’s Gate.
+Ninian: ...Gate... Open...gate...
+Nergal: Yes...that’s it... This way, dragon...
+Hector: Whoa! What’s... What’s this rumbling!?
+Lyn: Unh! I can barely keep my feet!
+Eliwood: Nergal... What... What’s happening!?
+Ninian: Here... Come, children of...flame. Come...to me...
+Hector: ...It can’t be.
+Lyn: Ah... No... It isn’t...
+Eliwood: Is that...truly........ a dragon?
+Nergal: Ha ha ha ha ha! Yes! Use all your strength! Squeeze every drop from your body! You will call dragons!
+??: ...I will not allow this!!
+Ephidel: Who’s there?! ...You!
+Lyn: Nils!
+Nils: Ninian! Come to your senses! You must not do what they want!
+Ninian: ...Ni... ......Nils...
+Nergal: Nils? Not now! Grrr...Ephidel! Stop him!!
+Ephidel: Desist, Nils! The power... It runs wild!!
+Nils: Ninian!!
+Ninian: ....... ......Nils?
+Nils: Here! Hurry!! The dragon is crumbling. Everyone flee!!
+Nergal: ......
+Ephidel: Hyaaaa! Stop... You mustn’t come here!! Lord Nergal! Lord Nergal! Please......!!! Guwaaaaaaahhh!!!!!!
+Hector: ...Something...happened.
+Eliwood: Is it...gone?
+Nergal: No! I’ve failed! Nils, you whelp! If not for your interference...... Come! Both of you!
+Ninian: What? No!
+Nils: Never! We will not follow you!!
+Eliwood: Ninian! Nils!
+Nergal: Eh!!
+Elbert: You will...not!
+Nergal: What!? ...Impossible... Not...by your hand...
+Elbert: ...I told you. I will...oppose... you always......
+Nergal: ...Why... won’t...you...die? Nnn...
+Eliwood: Father!!
+Elbert: ...Eliwood. Be prepared. He will return...
+Eliwood: All right, but for now... Let’s leave this island... Let’s go home.
+Elbert: No, my son... I’m done here. You, Eliwood... You must finish this.
+Eliwood: Don’t say that! Mother is waiting in Pherae... She’s waiting for you, Father!
+Elbert: Ah... Eleanora... She will be cross with me. Eliwood... Your mother... I’m sorry... Tell her... I’m...sorry...
+Eliwood: Father?
+Eliwood: No... Please, not now... Not after all we’ve done to find you again... Father... Please... Open your eyes...... Faaaatherrrrrrr!!!!

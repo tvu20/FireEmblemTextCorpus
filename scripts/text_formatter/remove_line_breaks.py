@@ -17,3 +17,5 @@ with open(os.path.join(__location__, "linebreaks.txt"), 'r') as f, open(os.path.
         newline = line.strip() + " " + nextline.strip() + "\n"
         fo.write(newline)
         nextline = next(f, None)
+
+        # fo.write(line + "\n")

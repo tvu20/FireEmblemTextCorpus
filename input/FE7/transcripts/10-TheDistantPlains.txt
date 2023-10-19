@@ -1,0 +1,114 @@
+@Opening 
+General Eagler has been defeated. Lyn and her band draw ever nearer to Castle Caelin. Within the castle walls, Lyn’s bitter enemy, Lundgren, awaits… A man who would kill his own kin for a throne. He is the source of all her troubles. He must be stopped.
+
+@Intro 
+Kent: Lady Lyndis, you should be able to see Castle Caelin once we pass these mountains.
+Lyn: Grandfather… I’ll be with you soon.
+Kent: Everything rests on this next battle.
+Sain: Lundgren will not be receiving the reinforcements he expected. He’ll move against us with everything he has soon.
+Lyn: Let him come! Let them all come! I will not be turned away! I will see my grandfather… I’ve come too far to let anyone stand in my way. This is it, Mark. This is our final test. My friends, for one last time, lend me your strength!
+
+@Battle 
+Lyn: Those clouds look bad. It’s going to rain soon. Let’s go, Mark. We should press on while we’re still able.
+
+Lyn: Look! The clouds are breaking. This rain should stop soon…
+
+Lyn: It’s begun to rain, but… the sky looks mostly clear. The rain won’t last long.
+
+@Visit 
+Young Lady: Oh, no! If I don’t bring in the laundry now… Oh, hello. Are you a soldier? Sounds like a hard life… Especially when it rains. Rain must make it difficult for you to move around. I used to ride horses when I was little. Oh, I remember how those horses disliked the rain. It’s better to be on foot when it’s wet. Nomadic horses are trained on the plains, so they’re better with rain, but… Well, rain just seems to make it hard for everyone to get around. The weather around here can change in no time at all. I recommend just staying in one place until the rain clears up.
+
+Young Man: You’re here to fight Lundgren, aren’t you? Do you have enough weapons? Lundgren’s no ordinary knight: he’s a general. Iron weapons lack the edge to penetrate his armor. If you need something, visit my father’s armory. You should go to the shop next door to his, too. They’ve many powerful weapons and items you can use against Lundgren. Head south and cross the river. You’ll see them. Lundgren’s a tricky one. He’s destroyed the bridge. There’s an old snag next to the river, though… If you knocked it over, you should be able to cross. Travel well. You fight for us all.
+
+Man: You know, you really should visit the armory next door. They’ve got all you need if you’re fighting knights and generals. You need something to defeat Lundgren, right? Once he’s been beaten, maybe peace will return to Caelin. Good luck to you!
+
+Old lady: You’ve finally made it here, have you? Such a long way… We’re all behind Lady Lyndis. All of us. Here, take this. Use it in your battle against Lundgren, please. It’s an energy ring. It’ll increase your strength and magic power a bit. There are lots of items that augment your abilities. These are hard to come by, so think carefully before you use them. Of course, not using them at all would be a terrible waste as well, right? Items like this might vanish once you’ve used them. Bear that in mind, and use them wisely.
+
+@Boss 
+Lundgren: This is my realm, and you’ve entered without my permission. You will not leave these lands alive!
+
+Lundgren: That annoying little girl… Nothing but a savage from Sacae… The Caelin throne…should be…mine…
+
+%Lyn,Lundgren
+Lundgren: So you’re the girl claiming kinship with my brother!
+Lyn: You’ll play this farce to the end, won’t you Lundgren?
+Lundgren: The royal house of Caelin has no need of a Sacaen mongrel! I’ll put an end to this foolishness here and now!
+Lyn: To further your own black ambitions, you’ve harmed my grandfather and the very land you ought to serve. I have neither pity nor mercy for you. Lundgren! Prepare yourself!
+Lundgren: Whelp!
+
+%Kent,Lundgren
+Lundgren: Ah. One of the traitors. You must be…Kent, yes?
+Kent: Lundgren, your treachery precedes you. I will not listen to any of your poisoned words!
+Lundgren: You’re a fool! You’ll wish you’d never turned your coat!
+
+%Sain,Lundgren
+Lundgren: Ah, Sain… You’re not like that stubborn fool, Kent. You’re reasonable. Leave this child, Lyndis, and stand at my side. You will go far in my service.
+Sain: That is a gracious offer, my lord…
+Lundgren: Quite…
+Sain: However, I am rather fond of my friend the stubborn fool. And if I am to pledge my service to any liege, I would choose lovely Lady Lyndis over Foul Lundgren, regardless of the risk!
+Lundgren: Fool! I will make you regret your decision!
+
+@End 
+Lyn: We’ve won… At last, I can see my grandfather.
+Reissmann: You are Lady Lyndis, are you not?
+Lyn: Who are you?
+Reissmann: I am Reissmann, the chancellor of the Caelin royal family. I had receive word from Kent and Sain when you first met, but then Lundgren discovered the message and imprisoned me. It is my great pleasure to welcome you to your true home.
+Lyn: Thank you. May I see my grandfather now?
+Reissmann: Yes, of course. Do not be shocked by what you see. Lundgren has been poisoning the marquess’s meals for some time. His body has been ravaged… He’s been bedridden for months.
+
+Lord Hausen: Who is there? I said no visitors. I will see no one.
+Lyn: ……
+Lord Hausen: What are you doing? Leave me…to die…
+Lyn: Um… Pardon me… My name is… I’m Lyndis.
+Lord Hausen: Eh? Did you say Lyndis? Is that…
+Lyn: My father’s name was Hassar, chieftain of the Lorca. My mother was…Madelyn. I was raised on the plains.
+Lord Hausen: … Could it be? Come, come here. Let me see your face.
+
+Lord Hausen: Oh… Yes… There is no doubt… You are Madelyn’s trueborn child… Uhhh…ahhhh…
+Lyn: Grandfather!
+
+Lord Hausen: Lundgren told me that my daughter had died. My heir…and you, too. He told me you were dead. Thank you… Thank you for living. Ahhhh… I am blessed…
+Lyn: Mother and Father were slain last year by brigands. I… I was the only survivor. I lived on, but…
+Lord Hausen: Lyndis, please forgive a prideful old man. If I had but accepted your parents’ love… There would have been no bandits. We would have lived here together in perfect peace.
+
+Lyn: Grandfather. My parents… My tribe… Our life was one of love and peace. The end was tragic, but… up until the attack, we were truly happy.
+Lord Hausen: Truly? Madelyn had a life of happiness? Knowing that gives me so much joy. Thank you, Lyndis. I can die in peace now…
+Lyn: No! Grandfather! You mustn’t say that!
+Lord Hausen: There’s no avoiding it, Lyndis. I’ve taken too much poison for far too long. It’s too late…
+Lyn: Be brave, Grandfather! You will recover! Believe me! On the plains, we say that illness fails in the face of a strong heart! I am with you now! You mustn’t give up!
+Lord Hausen: You’re…with me…
+Lyn: Yes. We have so much to talk about. Walks to take, music to listen to. There’s so much I want to do with you, so much lost time we can recover!
+Lord Hausen: That does sound… nice.
+Lyn: Doesn’t it? And once you’re well, I’ll take you to the plains. I’ll show you the endless sky, the oceans of grass… I want you to know the lands my mother loved so much!
+Lord Hausen: The lands Madelyn loved… You’re right. I still have… quite a bit of living to do.
+Lyn: You can do it, Grandfather!
+Lord Hausen: Lyndis…
+
+Sain: Lady Lyndis! Do you honestly plan on remaining here? Tell me truly!
+Lyn: Yes, until my grandfather is well. I can’t leave him now. I won’t.
+Kent: The physician says that Lord Hausen looks like a new man. It’s like he was never ill. And it’s all thanks to you, milady.
+Lyn: He’s the only family I have left. I want him to have a long life.
+
+Florina: Lady Lyndis!
+Lyn: What is it, Florina?
+Florina: I’ve been taken into service by House Caelin! From here on, Lyn… I mean, Lady Lyndis… We’ll be together always!
+Lyn: Really? Oh, that pleases me so…but… Please don’t call me Lady Lyndis. For you, I’m still just Lyn.
+Florina: My pegasus and I fly for your house now. I am your servant. There are rules to follow.
+Lyn: Florina!
+Florina: I’m happiest when I’m with you. That’s more important than how I address you… Please…
+Lyn: I suppose I’ll just have to get used to it, right? Very well. I understand.
+Florina: Oh, thank you! I do love you, Lyn!
+Florina: Oops! I mean… Lady Lyndis!
+Lyn: Ha ha ha… Oh, Florina!
+
+Wil: Lady Lyndis! I’ve decided to stay, too!
+Lyn: Wil? Weren’t you planning on returning home?
+Wil: Well, I was but… I’ve grown quite fond of Lyndis’s Legions, you know… I couldn’t possibly leave everyone behind. I’ll send word to my family regarding my decision.
+Lyn: I’m pleased to have you, Wil. Thank you.
+Wil: Thank you, milady.
+
+Lyn: Mark… you’re leaving, aren’t you? No, I’m not asking you to stay. It’s just… I’ll miss you. When I found you unconscious on the plains… I had no idea we would be together for so long. You’ve helped us so much, and I’m sure you’ve learned all you can from us. You’ll do just fine on your own. I have the utmost faith that you’ll be a master tactician, Mark. That’s from someone who’s seen you at work!
+
+Lyn: Well then, take care… I… I hope I see you again. I’m sure that I will someday…
+
+Tutorial: As of Chapter 11, Eliwood becomes the story’s main character. Mark’s role will be to act as tactician, aiding his group. Help Eliwood to fulfill the chapter goals and fight his way to the end of the game. You’ll start your first campaign with Eliwood, then meet his friend, Hector, in chapter 12. And who knows? You might even meet Lyn again. If any of these three is defeated, your game will be over. The game will continue if any other allied units are defeated. However, a defeated unit can never take part in combat again, so be careful!

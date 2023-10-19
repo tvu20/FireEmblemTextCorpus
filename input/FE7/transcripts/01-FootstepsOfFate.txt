@@ -1,0 +1,197 @@
+@Opening 
+The apprentice tactician Mark and the young swordfighter Lyn. A strange pair on an even stranger journey. To prepare for the long road ahead, they go to Bulgar, the commercial center of Sacae. Unbeknownst to Lyn, she will discover something that will alter her life forever.
+
+@Intro 
+Lyn: Mark! Over here! This is Bulgar, the biggest city in all of Sacae. We should purchase supplies for our journey.
+???: Oh, my heart! What a dazzling vision of loveliness!
+Lyn: Hm?
+Sain: Wait, O beauteous one! Would you not favour me with your name? Or better yet, your company?
+Lyn: Where are you from, sir knight, that you speak so freely to a stranger?
+Sain: Ha! I thought you’d never ask. I am from Lycia. I hail from the Caelin canton, home to men of passion and fire!
+Lyn: Shouldn’t that be home to callow oafs with loose tongues?
+Sain: Ooooh... You’re even lovely when you’re cruel.
+Lyn: Let’s go, Mark. I‘ve nothing more to say.
+Sain: Wait! Please...
+Kent: Sain! Hold your tongue!
+Sain: Ah, Kent! My boon companion! Why so severe an expression?
+Kent: If your manner were more serious, I wouldn’t have to be so severe! We still have a mission to complete, Sain!
+Sain: I know that. But how could I remain silent in the presence of such beauty? It would have been discourteous!
+Kent: What do you know about courtesy!?
+Lyn: Excuse me! You’re blocking the road. If you would be so kind as to move your horses...
+Kent: Of course. My apologies...
+Lyn: Thank you. You, at least, seem honourable enough.
+Kent: Hm? Pardon me, but... I feel we’ve met before.
+Lyn: I beg your pardon?
+Sain: Hey! No fair, Kent! I saw her first!
+Lyn: Tsk! It seems there are no decent men among Lycia’s knights! Let’s go, Mark! I’ve run out of patience!
+Kent: Wait, please! It’s not like that! ...... Sain, you lout!
+Sain: Huh? Not like that? I thought you were...
+Kent: I am NOT you!!! Come, we must follow her! I suspect she might be—
+Sain: Be what? She’s our mission? You’re joking! Wait!
+
+Lyn: Run!!! We’re being pursued! Could it be those knights from town? No... It’s not them. These men are out for blood!
+Lyn: ... ...
+Zugu: Heh heh hehhh... Aren’t you the pretty one! Your name is Lyndis, is it not?
+Lyn: What did you call me? ...Who are you?
+Zugu: Such a waste. An absolute waste. The things I’d do for gold... Ah, well. Time to die, darlin’! C’mon out, boys!
+Lyn: Oh no! There are more than I can handle... But I’ll not give up!
+???: Hey! There she is!
+Zugu: Huh?
+Lyn: What?
+Sain: Whew... Finally caught up... Hold! You there! What is your business? Such numbers against a girl? Cowards, every one of you!
+Lyn: You! You’re from—
+Kent: We can discuss that later. It appears these ruffians mean to do you harm. If it’s a fight they want, let them look to me!
+Sain: Stand back! I’ll take care of this!
+Lyn: No! This is my fight! Stay out of my way!
+Sain: Well, I can’t just stand here and do nothing...
+Kent: I have a solution. You there, command us. I am Kent, a knight of Lycia. My companion is Sain. We will follow your orders in this battle. Is that acceptable, milady?
+Lyn: Yes, it is. Mark and I will lead! Let’s go!
+
+@Battle 
+#avatar-M
+Sain: You! You are called Tactician? I want to impress my beauteous one! Let me attack first!
+
+Sain: Direct my arm!
+
+#avatar-F
+Sain: O fair and beauteous one! And... Tactician, is it? Allow me to show you the might of a knight of Lycia! Let me be the first to strike a blow in your honor!
+
+Sain: Sain is your faithful servant! Command me!
+
+@Battle
+Tutorial: Blue units are allies. Direct them on the field as you did with Lyn before. Be warned: if Lyn is defeated, your journey is over, as is your game. If other blue units are beaten, the game will continue, but fallen companions will be unable to return to battle for the rest of the tutorial. Use caution and good judgement. After all blue units have been moved, it automatically becomes the enemy's turn. To begin with, select Sain. Place the cursor on Sain, and press the A Button.
+
+Sain: Attack! Move me to a space next to my foe!
+
+Sain: Move me up next to the enemy!
+
+Sain: Whoa! I missed!?
+Kent: Sain! Why aren't you using your sword?
+Sain: The lance is more heroic. A knight should look heroic, don't you think?
+Kent: You're hopeless. If you don't take fighting more seriously, you're going to find yourself on the end of a blade!
+Sain: Truth be told, I...forgot to buy a sword.
+Kent: Forgot? Or were you simply too busy dallying with the ladies?
+Sain: Don't be so mad! I'll be fine with a lance. I'm that good!
+Kent: I'd prefer to rely on your skill, not your empty bragging! Take my spare blade and use it to attack next time!
+Sain: Are you sure? My thanks Kent!
+
+Kent: You're almost more trouble than you're worth. Almost.
+
+Kent: Tactician! Allow me to make up for my companion's blunder. I am at your command!
+Tutorial: Weapons possess a unique hierarchy. Swords best axes. Axes best lances. Lances best swords. This is called the weapon triangle. Remembering this is of the utmost importance. First, let's illustrate that swords are strong against axes. Select Kent.
+
+Kent: Command me to attack!
+
+Kent: The enemy wields an axe. Use a sword for my attack!
+
+Kent: He’s almost defeated. Now, let’s deliver the final blow!
+
+Lyn: I must be next to the enemy!
+
+Lyn: I want to fight! I must be closer to my foe!
+
+Sain: Tactician! Give me another chance!
+
+Sain: I failed you once before, but give me another chance... I'll not fail you again!
+
+Sain: Move next to the enemy and attack!
+
+Sain: Axe-wielding foes should be met with swords. Brandish your blade!
+
+Sain: Gah!
+Kent: Sain! Are you all right?
+Sain: Yes. Yes, I am. I was able to dodge in time. I can't believe he evaded my sword stroke so easily. This is no jest.
+Kent: Look closely. The enemy is hidden in the woods. The branches make it difficult to attack, don't they?
+Sain: You're right. I was so focused on attacking... I didn't see.
+Kent: Your lack of attention may someday cost you your life!
+Sain: Fine! I understand already! Let it go, Kent!
+Kent: If you truly understand, then act like it!
+
+Sain: Kent worries too much. ...He's going to grow old before his time.
+Tutorial: Each type of terrain has unique characteristics. For example, look at woods and plains. Battle an enemy from the woods, and the enemy will probably miss you. However, your attacks will be unimpeded, giving you a distinct advantage. The same is true for foes. If an enemy is in the woods, he is more difficult to hit. Factoring in your terrain benefits and the weapon triangle is vital in combat. The window at the bottom of the screen gives information on the terrain the cursor is placed on. Check to see what terrain type is advantageous by using the cursor. Now, let's put this to the test. Select Kent.
+
+Kent: I'm ready for battle. Command me as you will!
+
+Kent: Move me next to the enemy.
+
+Kent: Let's use my sword to attack!
+
+Lyn: It seems like a wise decision to leave that bandit to the knights.
+
+Lyn: For my part, if I'm going to take care of the other foe, I'll need to close the distance between us. The knight said that woods are advantageous, right? In that case...
+
+Lyn: That looks good. Let's move there, Tactician!
+
+Lyn: You... Your name is Sain, right?
+Sain: Yes! Sain the gallant of Caelin. That's me!
+Lyn: If you insist... Why have you not healed yourself?
+Sain: Huh? Hey! I've been injured? What a cad I am! To wrinkle that perfect brow of yours with worry for me...
+Lyn: Uh... I was thinking of giving you a vulnerary, but... It looks like you're fine. So, never you mind.
+Sain: No, wait! I'll take it! Please! I'll take it!!
+Tutorial: To give away an item, use the trade command. Trade can only be used by units that are adjacent to one another. Let's use the trade command right now. Select Sain and move him next to Lyn.
+
+Sain: I must use the vulnerary and put my lady's mind at ease! Tactician! Bring me to her!
+
+Sain: I mustn't worry my lady any longer. Come, Tactician! Direct me to her!
+
+Sain: I can't keep such a generous offer waiting! The healing power of love awaits with yon angel! Tactician! Tarry no longer!
+
+Sain: Move me next to her! I implore you!
+
+Tutorial: Now select the trade command. Sain's and Lyn's possessions will be displayed together Use the cursor to select a vulnerary from Lyn's items, and give it to Sain. After you finished your trade, press the B Button to end the process. The B Button is the cancel button. It can be used to rescind mistaken commands and other things.
+
+Tutorial: Place the cursor on Lyn's items. Press right on the + Control Pad.
+
+Tutorial: Press up or down on the + Control Pad, and select a vulnerary. Then, press the A Button.
+
+Tutorial: Press the A Button to accept the vulnerary from Lyn.
+
+Tutorial: Press the B Button to stop trading.
+
+Tutorial: Sain can now use Lyn's vulnerary. Select the vulnerary from the items and use it.
+
+Tutorial: Furthermore, mounted units have the unique ability to move again. Essentially, this allows cavalry to move the number of spaces left in their movement range if they haven't done so already. However, the attack command, among others, nullifies the move again ability, so be careful. Select Sain and order him to move again.
+
+Sain: Ah, much better! Thanks, Tactician! And you have my gratitude as well, my angel!
+Lyn: ...
+
+Sain: Ah, much better! You have my gratitude, young ladies.
+
+Tutorial: Mission goals change from chapter to chapter. This chapter's goal is to defeat all enemies. Check the chapter goals in the window to the upper right of the screen. To open the map menu, place the cursor on an unoccupied space and press the A Button. You can confirm the chapter goals here by choosing Status from the menu. The map menu also has the Suspend command. This is useful if you have to stop a chapter midway. Time to continue this chapter! Best of luck!
+
+@Boss 
+Zugu: Accursed knights, always tampering in others' affairs.
+
+Zugu: Blast... There was only...supposed to be a lone...girl...
+
+@End 
+Lyn: That’s the last of them! Fantastic work, Mark!
+Lyn: And now for these knights of Lycia. You were going to share your story with me?
+Kent: Yes. We have ventured from Caelin, in Lycia, in search of someone.
+Lyn: Lycia... That’s the country beyond the mountains in the south-west, isn’t it?
+Kent: Correct. We’ve come as messengers to the lady Madelyn, who eloped with a nomad some 19 years ago.
+Lyn: Madelyn?
+Kent: Our lord the marquess of Caelin’s only daughter. He was heartbroken his own daughter would abandon him so. Eventually, the marquess simply declared that he had no daughter.
+Sain: And then, this year, we received a letter from Lady Madelyn. It said she, her husband, and their daughter were living happily on the Sacae plains. The marquess was ecstatic to learn he had a granddaughter of 18 years. I remember the smile on his face when he announced that he’d suddenly become a grandfather. The granddaughter’s name is Lyndis. This was also the name of the marquess’s wife, who passed away at an early age.
+Lyn: Lyndis?
+Sain: That she should bear this name thawed the marquess’s heart. Now, his only wish is to meet his daughter’s family at least once. This is why we’re here. We didn’t know that Lady Madelyn died a few days after sending her letter... We only learnt this shortly after arriving here in Bulgar.
+Kent: But we also learned all was not lost. Her daughter yet lives. We heard that she was living alone on the plains... I... I knew it immediately. You are the lady Lyndis.
+Lyn: Why would you think that...
+Kent: Your resemblance to your departed mother is remarkable.
+Lyn: What? Did you know my mother?
+Kent: I’m sorry to say that I never met her directly, but I saw her portraits in Castle Caelin.
+Lyn: To the rest of my tribe, I was always Lyn. But when I was with my parents... When it was just the three of us, I was Lyndis. It’s all so strange. I was all alone in the world, and now I have a grandfather. Lyndis... I never thought I would hear that name again.
+Kent: ...
+Lyn: Wait! That bandit! He called me Lyndis, too!
+Kent: What? How could he have–
+Sain: He was a henchman of Lord Lundgren, wasn’t he?
+Lyn: Lundgren? Who’s that?
+Kent: He’s the marquess’s younger brother. Everyone assumed the lady Madelyn was gone forever. This made Lord Lundgren heir to the marquess’s title.
+Sain: To be blunt, milady, your existence is an obstacle to your granduncle’s ambitions.
+Lyn: That’s– But I have no interest in inheriting any title!
+Sain: Unfortunately, your granduncle is not the sort of man to believe that. I believe the attempts on your life will persist.
+Lyn: What should I do?
+Kent: Accompany us to Caelin. Continuing on this way is dangerous.
+Lyn: I feel I have little choice. I will go with you.
+Lyn: Mark... I’m sorry. This changes everything. What do you want me to do, Mark? You... want me to decide? Of course, your companionship would do much to ease my journey, but... It’s going to be so dangerous.
+Lyn: You’ll come? Are you sure? Thank you! Let me ask once again for your friendship and your aid.

@@ -1,0 +1,304 @@
+@Opening 
+After receiving aid from Queen Hellene, Eliwood/Hector rushes to the sealed shrine. The secret road they follow is known only to the royal family… They pass Bern's soldiers unnoticed and unhindered. They approach the castle…
+
+@Intro 
+Linus: Wait for the opportunity, and bring them down... That's the way, right, Brother? And now the time has finally arrived.
+Black Fang: Lord Linus, the enemy draws near.
+Linus: At last! Everyone, scatter! This fight will be Lloyd's wake! Let none of them escape!
+Second Black Fang: Sir!
+
+Eliwood: I can see it... That's the Shrine of Seals.
+Hector: This is strange. We've made it so far without seeing a single soul.
+Lyn: I'm afraid that's no longer the case.
+Hector: What!?
+Eliwood: They're out for blood! Who could they be?
+Black Fang: You're Lord Eliwood of House Pherae, correct?
+Eliwood: ...And if I am?
+Black Fang: We are the Fang, and we serve the Mad Dog, Linus. You will atone for your sins with blood!!
+Eliwood: What!?
+
+Nino: It's the The Black Fang... They're all Fangs. They're alive!
+Jaffar: Wait!
+Nino: What? What is it?
+Jaffar: Their battle lust... It's not normal. Get too close, and they'll tear you apart!
+Nino: Why? Why do we have to fight? If we talk to them, they'll see.
+Jaffar: We are no longer Fangs. No... We served Nergal. We were never Fangs. To them, we were never companions. Never.
+Nino: No... No... That's not true! That man mentioned Linus! Linus must be here! I need to talk to him! Linus will understand! I won't give up so easily!!
+Jaffar: ......
+
+Lloyd: I've been waiting. And now, at last, the time to bring you down is here. The Fangs let none escape.
+Black Fang: Lord Lloyd, the enemy draws near.
+Lloyd: So they're finally here... Our opponents are strong. If anyone here is afraid to die, leave now.
+Black Fang: For the Reed brothers' Fang must not fear dying.
+Second Black Fang: We are all with you. Lord Lloyd! Do us the honor of leading us 'til the end!
+Lloyd: I shall. In the name of the Fang, we will stop them though it cost our very lives. Go!
+
+@Battle 
+Nino: Mark! Let me go! I can talk to my brother! I know it might not work, but...
+
+Jaffar: Do you need something, Mark? That's right. They're Black Fang. The man he named, like me, is one of the Four Fangs. He is an assassin, my equal... Or better... .....
+
+@Visit 
+Murdock: Ah! You…
+
+Eliwood: Huh!?
+
+Murdock: Go. I saw nothing. I met with no one. Wait. Take this staff. Thank you…for Prince Zephiel.
+
+@Battle 
+Vaida: Here they come again, those little Lycian nobles. I’d love to take them on, but… Prince Zephiel insists it was they who saved him… Pah… What’s this world coming to?
+
+@Recruit-Talk 
+%Hector,Vaida
+Hector: You!
+Vaida: So we meet again, boy. Are your little playmates doing well?
+Hector: Take this!
+Vaida: Whoa! Hold on. My, aren’t you quick to action... I like that. But I think you’ve got that axe pointed in the wrong direction.
+Hector: What!?
+Vaida: I’m not with the Black Fang. I serve only Bern. I’m here on my own personal agenda. Tell me, boy. Are you the one who stopped Prince Zephiel’s assassin?
+Hector: How... Why do you ask?
+Vaida: Hmph. So it’s true, is it? That settles it. From now on, I’m traveling with you.
+Hector: Now, hold on...
+Vaida: You saved Prince Zephiel. So, I owe you.
+Hector: Why do you owe us anything?
+Vaida: I told you. I serve Bern. Prince Zephiel is our future, our hope. You saved him when he needed saving, and now I will serve you.
+Hector: You expect me to believe all that?
+Vaida: You don’t trust me? My word?
+Hector: Of course not!
+Vaida: Yeah, I see your point. Wait for me then. The Black Fang and I are on opposite sides. I’ll prove it to you right now.
+
+%Eliwood,Vaida
+Eliwood: You!
+Vaida: So we meet again, boy. Are your little playmates doing well?
+Eliwood: You’re that wyvern rider... You’re working for the Black Fang, aren’t you?
+Vaida: You’re wrong there. I serve only Bern. I’m here on my own personal agenda. Tell me, boy. Are you the one who stopped Prince Zephiel’s assassin?
+Eliwood: ...What? How did you–
+Vaida: Hmph. So it’s true, is it? That settles it. From now on, I’m traveling with you.
+Eliwood: What are you...
+Vaida: You saved Prince Zephiel. So, I owe you.
+Eliwood: But why?
+Vaida: I told you. I serve Bern. Prince Zephiel is our future, our hope. You saved him when he needed saving, and now I will serve you.
+Eliwood: I see. I’ll take you at your word.
+Vaida: Really... Then look for me. I’ll be joining you shortly.
+
+@Boss 
+Linus: Was it you? It was you, wasn't it?! You're the one who killed my brother!! 
+
+Linus: Wha… I’ve lost… At least…I can see my brother again...
+
+%Eliwood,Linus
+Linus: You’re Eliwood, right?! I’ve been looking for you!
+Eliwood: Hey!! Hold on! We need to talk about things…
+Linus: I am Linus Reed, son of Brendan Reed. I am the vengeance of Lloyd, whose life you stole! Prepare yourself! I’m coming for you!!!
+Eliwood: Wait!!!
+
+%Hector,Linus
+Linus: Hey, you! You think you’re tough, don’t you?
+Hector: Tough enough to cleave you in two.
+Linus: I am Linus Reed, son of Brendan Reed. You killed my brother, Lloyd! Take this! Rrraahh!!!
+Hector: I am Marquess Ostia’s brother, Hector!! And I don’t know about Lloyd, but I’ll sure kill you!
+
+%Nino,Linus
+Nino: Linus! Stop!! Please listen to me!!
+Linus: I will kill anyone who aids my brother’s killers! Nino, that includes you!!!
+Nino: No!! …My…brother…
+
+%Jaffar,Linus
+Linus: Jaffar!! You traitorous scum!
+Jaffar: ……
+Linus: Repent your sins, Jaffar! I bring you the Fang’s justice!
+
+%Legault,Linus
+Legault: Hello… Linus.
+Linus: Legault!? You… You disloyal filth! You of all people…siding with them!?
+Legault: Calm down. Your brother’s murder… It wasn’t by our hands… Hey!!
+Linus: Draw your sword. I won’t miss again.
+Legault: Remember how good the old days were? Your father, old Jan, Uhai, you, and me and your brother. When did the Black Fang lose its honor?
+Linus: Be quiet!!! Stop your pathetic whimpering and fight!!
+Legault: I knew this would happen. Nothing’s going to change. I knew it, and yet here I am. I couldn’t leave well enough alone… I’m a fool.
+
+@Boss 
+Lloyd: It matters not who you are. It's too late... I will avenge my brother's death. One by one... 
+
+Lloyd: ......No more waiting, Linus. I'm...coming...
+
+%Eliwood,Lloyd
+Lloyd: We meet at last, Eliwood.
+Eliwood: Ah! Hold on! Let’s talk! We…
+Lloyd: I’m Lloyd Reed, son of Brendan Reed. My brother, Linus, whom you killed, longs for you to join him…….Prepare to die.
+Eliwood: Wait!!!
+
+%Hector,Llyod
+Lloyd: You there, who are you?
+Hector: Marquess Ostia’s brother, Hector! And you, lout?
+Lloyd: The Black Fang commander’s son, Lloyd Reed… You remind me of my brother. Something about you…
+Hector: Huh? What are you talking about?
+Lloyd: My brother, whom you killed. My brother, Linus….It’s none of your business……
+Hector: I have a brother, too. If someone killed him, I would make sure his killer paid dearly and suffered long…
+Lloyd: ……Well spoken. If you don’t want to give your brother cause to mourn, you’d best fight well…….Prepare yourself.
+Hector: Ah!!
+
+%Nino,Lloyd
+Nino: Lloyd!
+Lloyd: Nino…
+Nino: Listen to me, please. This is all a mistake…
+Lloyd: Do not speak. We are enemies now… I can show you no mercy.
+Nino: Lord Eliwood is not a bad man! You’ll fight knowing that?
+Lloyd: They were Linus’s enemies… That is why I fight.
+Nino: Lloyd, please…
+Lloyd: Don’t cry, Nino. You must live for the future. I am bound to this course. Kill me, and don’t look back.
+Nino: No! I don’t want to! Lloyd!!!
+
+%Jaffar,Lloyd
+Lloyd: The “Angel of Death." Since the day I met you, I’ve always wondered… If we met in straight combat, who of us would win?
+Jaffar: ……
+Lloyd: I think it’s time that question was answered.
+
+%Legault,Lloyd
+Legault: Hey… Long time, no see.
+Lloyd: The Hurricane… I heard you’d quit the Fang, but… Seeing you with them is…
+Legault: Unexpected? Shouldn’t be. As soon as that skulking shadow Nergal showed up, I knew the Fang was as good as finished.
+Lloyd: ...…
+Legault: You know… You’re the one thing I can’t figure out. Lloyd, what are you doing here? Why this?
+Lloyd: Who knows… But my brother’s dead. And at the hands of your newfound friends…
+Legault: We’re not responsible for Linus’s death.
+Lloyd: It does not matter. I believe you are, and that is enough.
+Legault: ……All right. I see. Nothing’s going to change. I knew that, and yet… I had to try. It’s a bad habit of mine.
+Lloyd: Farewell, Legault. My old friend.
+Legault: I’ll see you again, Lloyd. With Linus…and Uhai… Even if it won’t be in this world.
+
+@End 
+Nino: ...Brother... ... ... ...
+Jaffar: ......
+Nino: ...Why? Why did it...have to...come to this...? I... I don't understand. ... ... ... ...
+
+Hector: ...You were a strong man. Under different circumstances, I think we'd......
+Athos: Do you regret the outcome of your actions?
+Hector: ...Graybeard. He only wanted to avenge his brother. I can't... ...Maybe it's regret... I'll carry it with me forever. When I'm alone and dying, what will I be thinking of?
+Athos: You're a powerful man. I doubt such power will let you live a life of peace. Yet you should not fear. For perhaps that is the path of your life.
+Hector: ...The path of my life...
+
+Lyn: Lord Athos? When did you arrive?
+Athos: Just now... I warped in, you know? I was watching you in my scrying crystal. The most important thing is that you've made it here.
+Hector: If that's true, why didn't you just magic us here in the first place?!
+Athos: What would that have proven? You cannot hope to succeed if you cannot trust your own strength. Your own power must drive you. That is the most important thing. Now then, shall we go? Underground... Where Bramimond awaits.
+Eliwood: Bramimond? One of the eight legends? Is that who you're talking about?
+Athos: That's right. Of the eight legends, only Bramimond and myself remain. Your journey here was a bit of a test, I'm afraid. I had to see if you were worthy of wielding a legendary item.
+Eliwood: Legendary...item?
+Athos: That's right. It's a weapon that we, the eight legends, used to defeat the dragons. With it, you will be able to sever Nergal's power at its roots.
+Eliwood: A weapon to defeat Nergal...
+Athos: The legendary items are sealed in lands across this continent. The only one capable of removing those seals is Bramimond. Now if only we will be granted this one request.
+
+Eliwood: It's so dark...
+Hector: It's creepy... Can't see a thing.
+Lyn: Shh! ...Someone's here.
+Eliwood: You're Bramimond...
+Bramimond: ...Yes, I...suppose that is me. What do you want of me, you who live above ground?
+Lyn: We have a favor to ask. We seek something to help us defeat Nergal...
+Bramimond: That is unfortunate, for I cannot grant that which you seek. Humanity would suffer were I to remove the seals.
+Hector: What do you mean!? The entire world is on the brink of destruction as it is!!
+Bramimond: The entire world!? Why would I care about that!? The whole world can burn for all I care!!
+Hector: By Father Sky... Your voice... The way you talk. It keeps changing. How many...
+Athos: Bramimond has no self. He... She... It... Yes, it is a mirror that reflects the person addressing it. It projects no personality of its own. There are as many Bramimonds as there are people facing him. ...Bramimond, do you remember me?
+Bramimond: ...Athos. Hmm, it's been many ages. I cannot fathom why you brought these people here. Why I sealed everything away... Do you forget why? The legendary items are not meant for human hands.
+Eliwood: But...we can't stop Nergal like this! We need your power to help us save the world!
+Bramimond: .......
+Athos: Bramimond, remember... We, too, are human. These people, they will not be seduced by power. They came here without my aid, using their own abilities. You observed them, did you not?
+Bramimond: ...It's true... They seem better, stronger than most humans. And yet, humans are frail. What guarantee do I have... that they will not succumb to that frailty, Athos?!
+Eliwood: A guarantee? There is none. We simply ask that you believe in us.
+Bramimond: ...... ...Once... There was a man much like you. His gaze never wandered. It was ever fixed straight ahead... ...... ...........
+Bramimond: ...The seals have been released. You may now do as you please. I'm tired. You will let me rest.
+
+Hector: Ah! It's good to breathe the outside air again!
+Lyn: Bramimond is certainly a mysterious figure.
+Eliwood: Mm... I wonder what convinced him to release the seals.
+Athos: Interesting that... I believe it was darkness. A completely impenetrable darkness, the nature of which is beyond the comprehension of normal men. Regardless, you must hurry. The seals have been broken. Nergal has surely sensed this already... You must get to the blazing blade as soon as possible...
+???: How unfortunate... You're too late.
+Eliwood: Ah!
+Eliwood: Nergal!
+Nergal: At last... At last, my power is restored. Come, Ninian, Nils. This way. Open the Dragon's Gate for me.
+Nils: ...N-No!
+Ninian: ......
+Eliwood: You mustn't go! Neither of you!!
+Nergal: Would you like to see my powers here and now? You may choose, Ninian. Obey me, or...
+Ninian: ...If I go with you, will you let my brother go?
+Nils: Ninian!?
+Nergal: One of you should prove sufficient. ......As you wish.
+Nils: No! Ninian! Why!?
+Ninian: ...Look after Lord Eliwood...
+Nils: Ninian!
+Eliwood: Ninian! You must not!
+Ninian: ......
+Nergal: The gate will open, and I will gain unlimited power.
+Nils: Niniaaaaaaaan!!!
+Eliwood: Don't move! Nergal!!!
+Athos: No! Get down! Both of you!!
+
+Hector: Are you awake, Eliwood?
+Eliwood: Where...
+Hector: Camp. You and Nils were both knocked unconscious by Nergal's parting gift. Do you remember?
+Eliwood: His power... It's so much more than before.
+Lyn: If Lord Athos hadn't erected a barrier when he did... We would have lost both you and Nils......
+Athos: If he'd truly wished to kill you, even my power could not have saved you.
+Eliwood: Ninian... To protect us, she...
+Athos: Even if you catch him, you can't defeat him. Not as you are. If you wish to save the girl Ninian... The power to topple Nergal lies within the sacred weapon. Do you understand, Eliwood?
+Eliwood: ...Yes, I know what I must do.
+
+Athos: You must go to Ostia and take possession of Roland's blade. But before you go... take this, Eliwood.
+Eliwood: This is... It's a...
+Athos: That's right, it's a Heaven Seal.
+Eliwood: I'm sorry, Lord Athos. These seals... They do not find me worthy.
+Athos: Trust me. Take it, and hold it in your hands.
+Eliwood: Very well. ...........! ...It's......!!
+
+Eliwood: Lord Athos!
+Athos: Hm. As I thought. It finds you suitable.
+Eliwood: ...This is incredible. My body is overflowing with power.
+Hector: Way to go, Eliwood!!
+Eliwood: Let's go. We have to get that weapon. We will defeat Nergal and rescue Ninian!!
+
+Athos: To find the legendary item, you must travel westward. But before that... Hector, this is for you.
+Hector: Huh? This is...
+Athos: That’s right, it’s a Heaven seal.
+Hector: Listen, Graybeard... I tried one of these earlier and... Well, nothing happened, OK?
+Athos: Trust me. Take it, and hold it in your hands.
+Hector: No, I... Oh, all right... ...... ...... ...What’s happening...!?
+Hector: What’s going on?! ...Incredible.
+Athos: Hm. As I thought. It finds you suitable.
+Hector: It feels like there’s a beast running wild through me... ...What’s... What’s going to happen to me?
+Athos: For a short while, the newly awakened power will run rampant. Yet this power is your right by birth. You’ll be able to harness it and use it shortly.
+Hector: ...Power running rampant... through...my body...
+Eliwood: Hector! Are you all right!? Your arms are trembling...
+Hector: It’s true... I feel like I can overcome anything. Nothing can stop me. Come on, Eliwood! Let’s go get that weapon and tear that Nergal to pieces!!
+
+Oswin: Regarding this particular issue, please convey to Lord Uther that consent has been given.
+Soldier: Yes, sir!
+Oswin: Lord Uther, your judgment... It’s too... ............
+Hector: Oswin! Where are you?
+Oswin: ...!
+Hector: Oswin! There you are. You just received a message from Ostia, didn’t you? What word from my brother?
+Oswin: Nothing of any import... A simple...relaying of recent events is all.
+Hector: Oswin? What is it? What’s happened? I’ve never seen you look like this before.
+Oswin: Is that so? I must be more tired than I thought.
+Hector: If that’s all... Get some rest, will you?
+Oswin: Yes. I thank you for your concern. ...By the way, did you finish speaking with Lord Athos?
+Hector: Yeah, we’re really moving toward something spectacular.
+Oswin: Spectacular?
+Hector: There are legendary items buried throughout the world. But we don’t have time to gather each one. We’ve settled on collecting a sword and an axe. The sword is for Eliwood or Lyn. I think the axe is to be mine.
+Oswin: The legendary axe... The berserker Durban’s thunder axe, Armads?
+Hector: Impressive, Oswin. You’re so knowledgeable. To get this Armads, I’m going west with old Graybeard Athos.
+Oswin: Just the two of you?
+Hector: Yeah, at first. Then I have to pass some sort of trial. Bramimond had to break the seal protecting the weapon, but now, if I’m to gain it, I have to pass a negotiation of strength, or something.
+Oswin: ...I see. The weapon’s an axe, so you have to prove your strength.
+Hector: ...I will get it. That’s the only way we can defeat Nergal.
+Oswin: I believe in you. I pray for your swift return.
+Hector: ......Oswin. I’m going to ask one last time. Look me in the eye when you answer. My brother... There’s nothing you need to tell me, is there?
+Oswin: ......Nothing. The message... It said that there was nothing new with the marquess.
+Hector: I understand. I will believe that. The vow you swore to me in Laus... That’s still in effect, right?
+Oswin: Yes, the service I vowed still holds true.
+Hector: ...Forgive me. When it comes to my brother, I...
+Oswin: That is only natural.
+Hector: ...Oswin, this is for your ears alone. If something happens in Ostia. ...No matter what, I will return to my brother’s side. I’ve been irresponsible and foolish in the past, but... As the marquess’s brother, I will do anything required of me. ...So, while I’m away in the west, and anytime thereafter, if you have any worries concerning my brother... No matter how trivial they might seem, I want you to tell me. ...Please.
+Oswin: I understand... ...I’ll do as you ask...
+Hector: Then I’d better get going. Take care of things.
+Oswin: .........

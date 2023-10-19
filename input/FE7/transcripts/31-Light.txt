@@ -1,0 +1,415 @@
+@Intro 
+Eliwood: ...Nergal should be back there. Should we wait for Lord Athos?
+Athos: If you're looking for me, I'm right here.
+Eliwood: Lord Athos!
+Hector: You're late, Graybeard!
+Lyn: ...Well? Were you successful?
+Athos: I was. Use this magic tome.
+Eliwood: What is it?
+Athos: A legendary item, Aureola. The strongest light magic, wielded by Saint Elimine herself. With this, we should be able to rend Nergal's dark cloak and do him much harm. And these, too, have been infused with magic that makes them more effective against Nergal. Durandal for Eliwood. And for Hector, Armads.
+Eliwood: It's... I can feel it already... Its power is beyond words.
+Hector: Incredible! With this, I know I cannot fail.
+Athos: ...And Lyndis, this is for you.
+Lyn: Hm? What blade is this?
+Athos: A spirit-inhabited sword, the partner of the Mani Katti. This is the Sol Katti. It's not a legendary item, but its blade contains much power.
+Lyn: Thank you!
+Athos: Nils, is Nergal back there?
+Nils: Unn... I sense tremendous power. ...What could it be? I feel something really odd.
+Athos: He should have lost most of his henchmen in that last battle. But.... Mm. I read energy, too... if only a little. Nils is right. The sense of it is different than before. Brace yourselves. He is...formidable!
+Eliwood: We understand. Let's go, everyone!
+Eliwood: Tactician, this is it. The last battle. Lord Athos spoke the truth about Nergal... Average men cannot hope to stand against him. Ordinary weapons hold no power against him. Those who go with us... They must be chosen carefully.
+
+@Battle
+Merlinus: Lord Eliwood... Lord Hector...
+Eliwood: Merlinus... Thank you for everything.
+Hector: You're made of sterner stuff than I'd imagined. Thought you'd've fled by now.
+Merlinus: ...Sniff sniff... I thought as much. You're not taking me with you...... ...Sniff ooh...
+Hector: That's disgusting. Cry if you must, but do something about that runny nose. What are we supposed to do? You can't fight, so we can't afford to take you with us.
+Eliwood: Take this and return to Fargus's ship.
+Merlinus: ...Wh-What is this, may I ask?
+Hector: A letter of introduction. Take this to Ostia, and you'll be able to do good business there. Of course, if we fail in our mission, it's just a worthless slip of paper.
+Merlinus: But... ...I must protest!! For the rest of my days, I've vowed in my heart to continue serving you both! Please, oh please! Do not abandon me.
+Eliwood: Merlinus... ......
+Hector: Then go get on the boat and pray for our safe return!
+Eliwood: ...Please. Have faith in us. Wait for us.
+Merlinus: ...Sniff sniff... ...I... I under...stand. Until the end of time, my lord. I will wait for you until the end of time. Please...come back... safely... Please!
+Hector: Yeah, OK. We're going. Bye.
+Eliwood: We'll be back.
+Merlinus: ......Oh, Lord Eliwood... Oh my...
+
+Eliwood: Nergal!
+Nergal: Pah...you're here. But you're too late. The gate is already opened. I will claim the mighty quintessence of dragons. I will become stronger and move ever closer to perfection.
+Eliwood: How many lives must you steal before you're satisfied!? And it's not only those who die. What about the ones left behind in pain and sorrow? What about them?
+Nergal: I am who I am. The pain of others, I do not feel. The sorrow of others does not touch me. Death feeds me. Death pleases me. I am the essence I consume. You fools will become corpses here, because I wish it to be. Rise and come forth, my servants!
+
+Eliwood: This...
+Nergal: You seem impressed with my work. Or perhaps it's just that you've seen a familiar face?
+Eliwood: That's... Marquess Laus! And... Those are Black Fang members. What have you done, Nergal?!
+Nergal: These morphs you see before you, I've given them the abilities and appearances of the people whose essences I used to craft them. Well, that's not entirely true. I've made them far more powerful. This is the ideal plan for hypocrites like you. Especially you, Eliwood. You continue to regret causing harm to anyone, even enemies. However, no matter the reason, once the deed is done, it's done. Whether you enjoy it or not is irrelevant--the result is the same.
+Eliwood: It is not the same! If you feel no horror for taking someone's life... then you...you yourself are not alive!
+Nergal: Heh heh heh... Your weakness runs deep in you. You can never understand. The concepts of good and evil are devoid of any meaning, any value. These ideas prevent humans from liberating their own strengths. Such foolishness... The ultimate foolishness of the human race!!
+Athos: Nergal, after all these years... You have not stopped to reconsider your ideas at all.
+Nergal: The same is true of you, Athos. You must see the truth of it! All living creatures take energy from somewhere. We all use it to create, to change it into something better. The knowledge of Arcadia has shown us the road to the ultimate transformation. And yet you will not take that road! Why do you reject the obvious?
+Athos: I am not opposed to the quest for power, for greater knowledge. However, that quest must be driven from within. To fuel your quest with the stolen lives of others, this brings not wisdom but abomination.
+Nergal: Heh heh heh... I remember. I still remember! Those words are unchanged from when you first said them ages back. When you and the dragons conspired to bury me!
+
+Nergal: Look at this wound! The wound I took from your magic!! It was a mistake. The only person who understood... The man I thought my truest friend... It was a mistake to try and destroy me. Heh heh heh heh... It confirmed some things for me. That trust brings betrayal. That friends bring weakness!
+Eliwood: If that is what you learned from your encounter, then you are a fool. Do you believe for a moment that, when wise Athos struck down his dearest friend, he felt nothing!? His heart was torn in two, and yet you refuse to understand that!
+Athos: Eliwood...
+Eliwood: Nergal! I will defeat you! Here! Today!! But...even now, there is no hatred in my heart. You who were born human, you who lost the heart that defines your humanity... For you, I have nothing but pity.
+Nergal: ...Pity? Heh heh heh... Amusing. A weak fool like you has "pity" for me? Interesting... Now, if you hope to defeat me, you may have your chance. Of course, you will have to best my morphs first!
+
+Eliwood: Listen to me! This is my fight now! Mine alone! Everyone, stay back!
+Hector: Hey! What are you talking about? We've come this far together, haven't we?
+Lyn: That's right! I've said it before. We all feel the same way.
+Eliwood: Hector... Lyndis...
+Nils: Don't forget me, Lord Eliwood! And...Ninian. I'm sure she's here as well.
+Eliwood: Nils... Ah! Tactician, you, too?
+
+Marcus: I’ll show you the strength of a knight of Pherae.
+
+Lowen: Knights should fight, not speak! …Was that right?
+
+Rebecca: I'll do whatever I can to help!
+
+Dorcas: …Winning this battle means protecting my family.
+
+Bartre: Whooooooooooa! I’m burning up!
+
+Oswin: For the honor of the knights of Ostia.
+
+Matthew: Let me handle this! There’s much I can do.
+
+Serra: Blessed Saint Elimine, grant us strength to win this with ease.
+
+Guy: Let me show you how much my blade has matured!
+
+Priscilla: I don’t want to lose anyone, so I will fight my strongest.
+
+Erk: For years, I’ve studied. Now, let those studies show their worth!
+
+Florina: I... I...I'll do my best!
+
+Kent: I will gladly volunteer to protect Lycia with my life.
+
+Sain: I won’t hold back! This is for all the lovely ladies I’ve yet to meet!!
+
+Wil: We’ve made it this far. Let’s get out there and win!
+
+Raven: If I die here… so be it.
+
+Lucius: Blessed Saint Elimine, please grant us a miracle...
+
+Canas: Let this battle be forgotten by history... That is all I ask.
+
+Dart: I’m Dart, brave crewman of Fargus’s pirates, and I fear nothing!
+
+Fiora: For the honor of the Pegasus knights of Ilia, I will annihilate the foe!
+
+Legault: My oh my… Fools aplenty. That includes me, too.
+
+Heath: For Bern, land of my birth… May I return to it soon!
+
+Rath: For those whose reasoning is bent. I will straighten it with my bow.
+
+Isadora: My pride shall not be broken! My strength holds true!
+
+Hawkeye: …I, too, will join you in this final glory.
+
+Farina: Hey! There’s no doubt we’ll win! Just don’t forget my bonus!
+
+Pent: If he has power to rival Athos, then I must test that power myself.
+
+Louise: No matter what happens, I’ll be at Lord Pent’s side.
+
+Harken: Lord Elbert… I will protect your son.
+
+Karel: As long as there’s someone to cut, you will have my aid.
+
+Wallace: I’m trembling with anticipation!
+
+Geitz: This looks like fun! This is what I’ve been waiting for!!
+
+Nino: ...Father... Brothers...... For all that I've lost... I won't let him get away!
+
+Jaffar: ……
+
+Karla: I’ve lived long enough. I’ve no regrets…
+
+Vaida: What are you worried about? With me here, we can’t lose!
+
+Renault: It is for this moment that I have lived…
+
+Eliwood: Everyone... Let's go! We've got to stop Nergal!
+
+Hector: Everyone… Here we go! Give it your all, and beat this knave!
+
+@Battle-Talk 
+%Lyn,Eliwood
+Lyn: Eliwood! Wait!
+Eliwood: What is it, Lyndis?
+Lyn: Is it true what Nergal said?
+Eliwood: You mean about Lord Uther?
+Lyn: He said he’s dead... When– Did you know, Eliwood?!
+Eliwood: ...Hector has been acting a little strange... So I forced Oswin to tell me. It was the same illness that took his father. The sickness came on suddenly. It took less than a year for the disease to spread.
+Lyn: So when we met him in Castle Ostia, he was...
+Eliwood: He was dying. ...Yet...he... He didn’t want Hector or us to know... He pushed himself too far. I’m sure he was told he shouldn’t be moving about...
+Lyn: Hector...when... when did he...
+Eliwood: Only recently... He figured it out when he saw Lord Uther wasn’t at the castle. He pressed Oswin to tell him. ......After that, so as not to distract us, Hector pretended that nothing was amiss...
+Lyn: ...... ...That’s...no– ...That’s...
+Eliwood: Lyndis...
+
+%Hector,Eliwood
+Eliwood: Hector... Do you have a minute?
+Hector: It’s about my brother, isn’t it? Sorry I didn’t tell you.
+Eliwood: It’s all right. I understand you better than anyone. More importantly, have you settled things with Oswin?
+Hector: ...Don’t talk to me about him.
+Eliwood: Hector... You’re not angry with Oswin. When Lord Uther was in trouble, you weren’t at his side. You’re angry with yourself. It’s true, isn’t it? I was the same way. I couldn’t save my father... I couldn’t save Ninian... Over and over, I blamed myself...
+Hector: Eliwood...
+Eliwood: But, you know, that’s just a way of running from the sadness of loss. I think you’ve realized that already. Lord Uther...and Oswin... They were thinking of you above all else. You must see that, but if you continue to pretend you do not, you will lost sight of something terribly valuable. That’s all I have to say.
+Hector: ......
+
+%Hector,Oswin
+Hector: Oswin!
+Oswin: Lord Hector. What is it?
+Hector: ...It’s OK. I, uhm... I don’t have any more doubts! Nergal’s time is up!
+Oswin: Yes, sir! And I, Oswin, will be at your side no matter what!!!
+
+%Lyn,Hector
+Hector: ...What is it?
+Lyn: Hector... I’m certain...that... you did not...cry... So, I will... This...is your share...of tears... Don’t say...anything. Just, for a little while, let me lean on you. For a little while...
+Hector: ......
+Lyn: ... ... ... ... ... ... ...Don’t...
+Hector: Hm?
+Lyn: ...Don’t die... Please, you–
+Hector: ...I know.
+
+@Boss 
+
+%Legault,Lloyd
+Lloyd: ……………
+Legault: …Huh, even as a monster, you are a handsome one, Lloyd. But you know something? I can’t let this continue!!
+
+%Nino,Lloyd
+Lloyd: ……………
+Nino: Ah…Lloyd… …Sniff…oh…… Why does this have to happen again?
+
+%Legault,Linus
+Linus: ……………
+Legault: Oh… We meet again. …Linus… This stinks!!
+
+%Nino,Linus
+Linus: ……………
+Nino: Linus… I’ll…see you again… I’m sure you’re angry, but… Please be my friend…again…
+
+%Legault,Uhai
+Uhai: ……………
+Legault: …Uhai…why did this blasphemy occur? …I’ll put an end to it right away!
+
+%Legault,Brendan
+Brendan: ……………
+Legault: …Commander… I really didn’t want to see you like this. …All I can give you is one last act of rebellion.
+
+%Nino,Brendan
+Brendan: ……………
+Nino: Father… Fa-Father… I… I’ll…end this……I’m sorry…
+
+@Boss 
+Nergal: Be prepared. You are to be witness to a power that overwhelms all!
+
+%Eliwood,Nergal
+Eliwood: Nergal!
+Nergal: So you're here, Eliwood. I thought losing Ninian might distract you. Have you forgotten her so quickly? How heartless.
+Eliwood: I haven't forgotten. I'll never forget. It was my mistake that killed Ninian. Because of that... I will fight. I will not run away and hide in sorrow... I'm going to put an end to all this!
+
+%Eliwood,Nergal
+Nergal: Did you know, Eliwood? What happened to your friend Hector? What he was thinking as he fought by your side?
+Eliwood: ......
+Nergal: Heh heh... It's a pity. If only he had been free to return to Ostia.
+Eliwood: I know that I've caused much pain for my friends. But that is why... I will not lose here today!!
+
+%Lyn,Nergal
+Nergal: Little girl from Sacae... You'd do well to vanish. One such as you is no match for me.
+Lyn: The nomads of the plains do not abandon their fellow tribespeople. Eliwood and Hector are my dear friends... Their sorrow is my sorrow. Their anger is my anger.
+Nergal: Pah...
+Lyn: Nergal! In my friends' names, I will cut you down!
+
+%Nino,Nergal
+Nino: ......
+Nergal: Uhn? Who do you think you are?
+Nino: You will pay! You stole my family from me, and you will pay, Nergal!!! I will avenge them all!
+Nergal: Now, I see... You're Sonia's...
+
+%Jaffar,Nergal
+Jaffar: ......
+Nergal: Hmph... It's you, Jaffar? Turning your sword against me, your master? Do you forget who raised you? You are worthless.
+Jaffar: ...Wrong. I am a man.
+Nergal: Oh, really? If so, then I will give you a man's death!
+
+%Renault,Nergal
+Renault: ...Nergal, do you remember me?
+Nergal: Hah. You are... Renault. So you're still seeking out a wretched existence?
+Renault: I went astray. I listened to your honeyed words... I dreamt of the impossible... the return of a lost soul. But...what you gave me was... a puppet... It was soulless...nothing more than an empty vessel!!
+Nergal: Just an empty vessel... Isn't that what you wanted? You desired to bring back your dead friend. You were my experiment, and I completed my morph. I'm grateful, Renault. Thanks to you, I gained power.
+Renault: You villain... You cursed him! Your crime can never be forgiven! I will end you with my hands. In the name of my lost friend!
+
+%Hector,Nergal
+Hector: Nergal!
+Nergal: So you've come, Hector of Ostia. Your existence itself was my greatest miscalculation. If it had only been Eliwood, this could have been over. So, my little miscalculation, I will erase you. And leave no trace remaining.
+Hector: Do your worst!!
+
+%Hector,Nergal
+Hector: Nergal!
+Nergal: I cannot understand you, Hector of Ostia. Why would you do all this for Eliwood? Is this miserable thing called friendship worth dying for?
+Hector: I don't expect you to understand. You've forgotten what it means to be human! Nergal! My connection to you… it's over! I'm finishing everything up right here!!
+
+%Athos,Nergal
+Athos: Nergal...
+Nergal: Heh heh... Athos... Take a good look at me! At my tremendous power!
+Athos: Already...words are useless. As an old friend... I will fulfill my duty.
+
+@Boss 
+Nergal: Why? Why must I lose? More power… I must be… stronger… I… Why? Why did I… want power? ……Quintessence? …Don’t…under…stand… but… Gaa… Not like this… I will not die…like this. With my last breath… tremble…and…despair. Hwah ha ha… Ha…ha ha ha…
+
+@Battle
+Lyn: ...Nils? What is it?
+Nils: ...I...don’t know... Why...am I.........crying...?
+Hector: Don’t worry. You’ve been through a lot.
+Eliwood: It’s just relief. You’ve done well, haven’t you?
+Lyn: Everything’s OK. The world’s been saved. And I know that Ninian is happy, too.
+
+Hector: It’s…finished.
+Lyn: Yes… At long last…
+Eliwood: …Father…
+
+Hector: What was that!?
+Lyn: What on earth… What happened?
+Eliwood: It can’t be…
+Hector: Ah!
+Lyn: Th… Are those… Dragons?
+Eliwood: Nergal’s final warning… This is what he meant!
+Athos: What a calamity! If dragons return to this world… The continent will be ash in less than a month!!
+Eliwood: This must end at any cost! I will stop it!!
+
+Eliwood: So these are dragons.
+Hector: Look at the size of them. I’ve got a bad feeling about this. My… My legs are trembling just standing here.
+Lyn: There are three of them… I don’t know if we can do this. I… We need some kind of help.
+Athos: I’ll do what I can. I’ll halt the dragons. Strike there!!
+Athos: Ahh… So powerful. Can they be stopped?
+Eliwood: Lord Athos! Flee! The dragons are getting closer!!
+Athos: …If we can’t stop them here, we are…lost.
+Athos: Bramimond!
+Bramimond: … Preparations…took time… …OK. I require everyone’s strength. Gather here the legendary power!
+Eliwood: Ah!! This light…
+Hector: Uwaa! What… What is it!?
+Lyn: Look! There…!
+
+Bramimond: Bring her back… Let the dragon girl’s soul be restored.
+Eliwood: Ninian!!
+Nils: …Ah! Ninian…
+Ninian: Where… Where am I?
+Bramimond: Girl with the exalted blood of dragons. Use that power to appease them.
+Ninian: …Ah…it’s not …possible. Use my power… in this world……
+Bramimond: Do you not feel it? Your power returning?
+Ninian: …What? ……Ah…… …Yes… … … … …I will try.
+
+Ninian: That’s enough. I’m sorry… This is not your fault… …I’m sorry.
+
+Ninian: No… no more……
+Eliwood: Ninian!!
+Nils: It’s OK. She only fainted. Thank goodness… Ninian……
+Bramimond: One dragon still remains. Leave the girl to me. I shall tend to her.
+Athos: Chosen ones! You must stop the final dragon! You must save us all!!
+
+@End 
+Hector: Eliwood! Are you all right?
+Eliwood: Yes. Thanks to you, Hector. If it weren’t for you, I wouldn’t be here. I truly thank you.
+Hector: Ninny, I don’t need your thanks. Friends help friends.
+Athos: Well done, brave successors to Roland. It’s finally over. Finally, everything is...
+Hector: Graybeard!?
+
+Hector: Eliwood!!
+Lyn: Eliwood!
+Nils: Lord Eliwood!
+Eliwood: I’m here! I’m right here!
+Athos: Well done, brave successor to Roland. It’s finally over. Finally, everything is…
+Eliwood: Lord Athos!?
+
+Athos: Ha… Looks like I’ve exhausted my strength. I… I’ll die before you, friend.
+Bramimond: …I may well follow you soon. For now…I will sleep again.
+Athos: Eliwood…Hector, Lyn…I’ve lived a long, long time, but now…I’m done. Do not grieve. Soon, I will be with long-absent friends. … I have no regrets.
+Eliwood: Lord Athos!!
+Athos: Now…my friends, my family. Let me give you a parting gift… As I lay dying… I see many things. I see the future… Oh… Why? Why… is this not now? Neither Bramimond nor I… will be…here… to help a land…in need…
+Lyn: What…do you see?
+Athos: An evil star…rises in Bern…All of Elibe will be once again awash in blood… But do not fear. Once again, Lycia brings hope. Children of fire… …Everything… …
+Eliwood: Lord Athos… Even at the end…he thought of us…
+Hector: …Graybeard…
+Lyn: …Look, both of you. Lord Athos… It’s almost as though he’s smiling.
+Ninian: …This world will once again be enveloped by darkness…But… at the end… a saving light shall rise.
+Eliwood: Ninian!
+Ninian: Lord Eliwood…
+Eliwood: I’m so happy…I can’t believe you’re back. I feel like this is all a dream. Once I lost you… I knew for sure. I need you. I want you by my side forever.
+Ninian: Lord Eliwood…I… …I must go home…
+Eliwood: What do you mean?!
+Ninian: I’m…the cause of all of this. It was my weakness that invited this tragedy…
+Eliwood: Ninian?
+Ninian: Here on Elibe… …we were nurtured for ages in the land of our birth. Even after humans invaded and drove us out….. Not a day passed that I did not think of it…..I yearned to see it once again… Our homeland… Those children… the fire dragons…They were like me…..
+Nils: …..
+Ninian: We knew that it was forbidden. And yet we answered Nergal’s call and opened the gate… We didn’t intend to stay long… Just to see home one last time. But Nergal captured us and… it led to this.
+Eliwood: We humans, we took control of the continent like it was our right. We never considered who or what we drove away… …Ninian, Nils, the blame for this was never yours alone. While we can claim ignorance, we still bear some responsibility.
+Nils: …Lord Eliwood, do you truly believe that?
+Eliwood: I do. If my father were here, he would say the same thing. Let’s work together and think about the future. If the entire continent were made a place where dragons and humans could live together like the hidden city Lord Athos spoke of, Arcadia…
+Ninian: What a wonderful world that would be…But that’s certainly something that won’t happen for a long, long time. So we… we can’t stay here. The gate is still open. If it remains so, other dragons will certainly pass through. Before that happens, we must return to our world. We must regain our power and seal the gate…from that side.
+Eliwood: Are you saying I’ll never see you again? That can’t be!
+Ninian: Lord Eliwood…I am truly blessed that I have had the chance to meet you. Please… Please… Don’t forget me!
+Eliwood: Ninian!!
+Ninian: ….. Come, Nils. Let us go. We must return to our world…
+Nils: Ninian… The air of this world, it’s changed so much from what we knew. No matter how much time passes, our strength will never return. If we stay here, we will not survive long.
+Ninian: Nils? Why do you…
+Nils: But even knowing that your life will be short…Ninian…You truly wish to remain here, don’t you? I understand… Stay here. Stay with Lord Eliwood.
+Ninian: Nils?
+Nils: Lord Eliwood… Ninian… No…My sister… Please cherish her.
+Eliwood: I will. I will make her happy. …I swear it.
+Ninian: Nils! You… Are you…
+Nils: Mm. I’m going alone. I want to live a long time. I don’t have your curiosity.
+Ninian: …Nils…..
+Nils: …Ok then, I’m going.
+Hector: Be well, Nils!
+Lyn: I’ll miss you…
+Eliwood: I’ll never forget you.
+Ninian: … …..Nils…
+
+Nils: Don’t cry, Ninian… Even if we’re apart, if we never see each other again, our bond will never, ever be cut… More importantly, Sister…Live as long… and be as happy as you can, for as long as you can.
+Ninian: Nils!!
+Eliwood: Thank you, Nils.
+
+Hector: Oh, daybreak!
+Lyn: Beautiful, isn’t it. The start of another day.
+Eliwood: Ninian… You’ll come with me, won’t you?
+Ninian: Yes!
+
+Eliwood: Good to see you, Ninian.
+Ninian: Lord Eliwood…I worried you…Uhm…I…I…wish to apologize…..
+Eliwood: What? What do you mean?
+Ninian: I was…the cause for all of this. It was my weakness that invited this tragedy…
+Eliwood: Ninian?
+Ninian: Here on Elibe… …we were nurtured for ages in the land of our birth. Even after humans invaded and drove us out….. Not a day passed that I did not think of it…..I yearned to see it once again… Our homeland… Those children… the fire dragons…They were like me…..
+Nils: …..
+Ninian: We knew that it was forbidden. And yet we answered Nergal’s call and opened the gate… We didn’t intend to stay long… Just to see home one last time. But Nergal captured us and… it led to this.
+Eliwood: We humans, we took control of the continent like it was our right. We never considered who or what we drove away… …Ninian, Nils, the blame for this was never yours alone. While we can claim ignorance, we still bear some responsibility.
+Nils: …Lord Eliwood, do you truly believe that?
+Eliwood: I do. If my father were here, he would say the same thing. Let’s work together and think about the future. If the entire continent were made a place where dragons and humans could live together like the hidden city Lord Athos spoke of, Arcadia…
+Ninian: What a wonderful world that would be…But that’s certainly something that won’t happen for a long, long time. So we… we can’t stay here. The gate is still open. If it remains so, other dragons will certainly pass through. Before that happens, we must return to our world. We must regain our power and seal the gate…from that side.
+Eliwood: Are you saying I’ll never see you again? That can’t be!
+Ninian: Lord Eliwood…I am truly blessed that I have had the chance to meet you. Please… Please… Don’t forget me!
+Eliwood: Ninian!!
+Ninian: ….. Come, Nils. Let us go. We must return to our world…
+Nils: Lord Eliwood! Lord Hector! Lady Lyn! …Thank you! My opinion of humans has changed since meeting all of you. There are humans in the world we’re returning to, too. Finding a way to live together may be hard… but we’re going to try.
+Hector: Ok! Good luck!
+Lyn: I’ll miss you…
+Eliwood: Take care! Both of you!
+Ninian: Thank you. Be well, everyone…
+
+Hector: Oh, daybreak!
+Lyn: Beautiful, isn’t it. The start of another day.
+Eliwood: Let’s go home. To Lycia!

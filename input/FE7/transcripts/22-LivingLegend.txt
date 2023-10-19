@@ -1,0 +1,140 @@
+@Opening 
+The Nabata Desert. A wasteland of scorching sun and frigid nights. It rejects human life. Any careless enough to enter its embrace is doomed to wander lost. Uther, the marquess of Ostia, spoke of a living legend… Guided by his words, Eliwood heads straight into the desert.
+
+The Nabata Desert. A wasteland of scorching sun and frigid nights. It rejects human life. Any careless enough to enter its embrace is doomed to wander lost. Uther, the marquess of Ostia, spoke of a living legend… Guided by his words, Hector heads straight into the desert.
+
+@Intro 
+Nils: ...So hot. I'm...going to die.
+Hector: Hey, do you want me to carry you on my back?
+Nils: Huh?
+Hector: Why are you looking at me like that?
+Nils: Such kindness from you surprised me, Lord Hector. Is this some fever dream?
+Hector: What's that supposed to mean? I was concerned that you might collapse again, like the other day.
+Lyn: You're usually so brusque. It's no wonder he's confused. Don't be shy, Nils. Let him help you out.
+Nils: ...But...
+Hector: Do as you're told, boy!
+Nils: Waaa!! Waaaaaaa!!! I'm going to fall! I'm going to fall!!!
+
+Ninian: ...Marquess Ostia said, "Enter the desert and move west. Someone will meet you." ...And yet we've seen no one.
+Eliwood: I wonder if we need to move farther in?
+Ninian: ...You might be right.
+Eliwood: Here.
+Ninian: What?
+Eliwood: This heat is taking its toll on you. If you please, take my arm.
+Ninian: I couldn't...
+Eliwood: Oh, come now.
+Ninian: ...Very well. Forgive me... ......
+Eliwood: Hm? Is something wrong?
+Ninian: ...It's strange.
+Eliwood: What is?
+Ninian: All of you treat my brother and me so...normally. Doesn't it bother you? Our powers...our looks... We're different from...people...
+Eliwood: Has that been bothering you? What's wrong with being a bit different from other people? When I look at you, I don't see other people. I see Ninian. I see a normal, kindhearted girl.
+Ninian: Do you speak truly?
+Eliwood: Mm.
+Ninian: Lord Eliwood.
+
+Athos: ...I believe someone approaches.
+Louise: Is it Lord Pent?
+Athos: No, it's a group sent by Uther of Ostia. Hawkeye will find them soon and bring them here. Hmph. Your companion is still searching in the desert.
+Louise: He's not having any luck finding what he's after, is he?
+Athos: No, I believe he'll find it before long. ...However, a group of bandits is also moving. They've found Pent and are preparing to attack.
+Louise: Oh, that's...
+Athos: Are you concerned for his safety?
+Louise: No, Lord Pent can take care of himself. However, if his return here is delayed...
+Athos: Yes?
+Louise: Will you take your evening meal without us? I will wait for Lord Pent, but I'm sure you must be hungry.
+Athos: Ha ha ha ha...
+Louise: Lord Athos? What is it?
+Athos: ...It's you, Louise. You are a most amusing woman. Since Pent brought you here, I feel I've laughed enough for ten years! You have my gratitude.
+Louise: Hm? I'm not sure I understand, but I'm pleased to have been of service.
+Athos: Ha ha ha.
+Louise: By the way, the visitors are coming from Lycia, aren't they? I wonder what they want.
+Athos: ......
+Louise: Lord Archsage, your coloring... Are you well?
+Athos: Once it begins to turn, none can halt the wheel of fate. But as long as there is hope, people continue to try. ...They do not know the despair that awaits...
+Louise: ......
+
+Ninian: Um, Lord Eliwood?
+Eliwood: Ninian?
+Ninian: Over there... Someone is under attack.
+Eliwood: Are you sure?
+Hector: Ah! That must be him!
+Eliwood: Looks like.....a lone man and a crowd of bandits.
+Lyn: Let's help him! I dislike seeing someone facing overwhelming odds!
+Hector: Hold on, Lyn! I'm going with you!
+Eliwood: Hey, you two!
+Nils: Where do they get all that energy? Unbelievable.
+Ninian: ...What will you do?
+Eliwood: Let's go! Have to keep up with one's friends, right?
+
+Paul: Oh, look at this kindly soul, Jasmine! He's waiting all by himself to give us his treasure!
+Jasmine: Oho, Paul! I do believe you're right! Such generosity!!
+Pent: ...It's taken me many days to find this. I've worked too hard to hand this over to you thugs.
+Paul: So rude... And to think we were going to let you live... We're fragile creatures! You can't trifle with our emotions so! You're a bad man! He's so bad, Jasmine!
+Jasmine: Oh, Paul. I know it. I really do. My heart, it is breaking.
+Paul: What? You, too, Jasmine?
+Jasmine: And you as well, Paul?
+Paul: Let's go! We must convince him to reconsider!
+Pent: ...I've no wish to hurt you...
+
+@Battle 
+Canas: Actually, this is quite fascinating. Mark, the Nabata wasteland is a bit of a paradise to magic adepts. Stories tell of the many magical artifacts lost in these sands. I'll keep my eyes open. Of course, I'll be fighting as well.
+
+Rath: Mark… It’s been a long time. No… I have no other business. Command me as you’ve done in the past.
+
+@Boss 
+Paul: I can't believe we lost, Brother... Aaah... It's a tragedy, Jasmine.
+
+Jasmine: I got hit, but it feels gooood... These people are too strong, Paul...
+
+@Visit 
+Fa: You know what? I’m watching the house all by myself. Do you know how to do that? You have to sit and be good. So that’s why I’m here. What are all of you guys doing? Are you hunting for treasure, like that other guy? Let me tell you a secret. There’s something good buried near the bones. I know stuff like that.
+
+@Recruit-Talk 
+%Eliwood,Hawkeye
+Eliwood: Who are you?
+Hawkeye: I'm Hawkeye, defender of this desert.
+Eliwood: Defender? Of a desert?
+Hawkeye: I will drive out the bandits. Guests need not fight.
+Eliwood: Please wait! Guests!?
+
+%Hector,Hawkeye
+Hector: Ahh…shade. Whew…that’s nice. …Huh? Shade…
+Hawkeye: ……
+Hector: Hm! Waaa! Who… Who are you?!?
+Hawkeye: I’m Hawkeye, defender of this desert.
+Hector: You’re with them? You’ve got some nerve threatening me!
+Hawkeye: I will drive the bandits away. Guests need not fight.
+Hector: …Huh? He-Hey! What’s going on?
+
+@Battle-Talk 
+%Eliwood,Pent
+Pent: Hello there. Beautiful weather, isn't it?
+Eliwood: Er... Yes, sure.
+Pent: Pardon, I'm in the midst of some confusion. I beg your leave.
+Eliwood: Um...????
+
+%Hector,Pent
+Hector: Hey, you! Are you OK?
+Pent: Hello there. Beautiful weather, isn’t it?
+Hector: What?
+Pent: Pardon, I’m in the midst of some confusion. I beg your leave.
+Hector: H-Hey! Hold it! Grrr! Don’t leave me here!!!
+
+@End 
+Pent: You really helped me out. Thank you.
+Eliwood: We couldn't watch such a lopsided battle. That's all.
+Pent: So why have you come to this wasteland?
+Eliwood: Well... We were told to come here and meet a "living legend."
+Pent: "Living legend"? Ha ha ha! I see. That's well said.
+Lyn: But do you know what it means?
+Pent: Yes, I suppose I do. Looks like we share a common destination. Hawkeye! You're here, too.
+Hawkeye: Pent, did you find it?
+Pent: That I did. And as I thought, it's spectacular.
+Hawkeye: It's getting dark. Let's go back.
+Pent: Yes, let's make haste. Desert nights are treacherous.
+Eliwood: Oh...OK.
+
+Hector: I don't mind going with you, but how far do we have to walk? No matter how far we go, there's just more sand... What!?
+Lyn: Hector? What is...it... Hect... Kyaa!
+Eliwood: Hector? Lyndis? Where did those two... Hnh? What in blazes!? I'm... I'm sinking into the sand!

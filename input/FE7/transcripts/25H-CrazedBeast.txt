@@ -1,0 +1,110 @@
+@Opening 
+The Bern royal family is a pageant of power, love, and hate. Eliwood finds himself embroiled in their troubles. He has been sent to recover the Bern family treasure: the Fire Emblem. It has been stolen from the palace vault. Relying on information that he has uncovered in the city, Hector heads south to an area filled with lakes and marshes.
+
+@Intro 
+Sonia: You there, open the cell.
+Black Fang: Lady Sonia? Bu-But… the prisoner… My orders are that none may see him.
+Sonia: Open the cell. …Did you hear me?
+Black Fang: Yes… Yes!
+Pascal: Oho… Aren’t you a lovely one? I pray you’ll forgive the cramped quarters.
+Sonia: Pascal Grentzer, once and former count of Bern’s Landskron. A man whose battlefield prowess was feared far and wide… Until you invited your citizens to your castle and slaughtered them. Stripped of your title, you fled the king and joined the Black Fang. Is that an accurate summary?
+Pascal: Hmmm… You know me well, it would seem.
+Sonia: You were even made one of the Four Fangs. Spending the rest of your days in this place seems so wasteful. I’ve heard that Brendan calls you “the Beast.” A monster who would massacre an entire village to kill one person.
+Pascal: He doesn’t know how to enjoy his work. “Never harm any innocents.” Bah. “The Black Fang brings justice to those above the law.” Ha ha ha… Quite droll jokes, don’t you think?
+Sonia: I’m going to release you, Count. I’ve a job for you. Something you’ll love. What do you say? Are you interested?
+Pascal: Hmmm… Why not? It can’t be worse than rotting here. And I must say, I do love my work… Now, tell me. What is the name of my target?
+
+Hector: This is a really remote area, isn’t it?
+Eliwood: Yeah. Few people call this area home.
+Lyn: Hector, are you sure about this? Is the Fire Emblem really here?
+Hector: Yes, I paid a small ransom for this information. There’s no mistake. Look! Do you see those three run-down fortresses? I was told the thieves who base themselves there stole the Emblem.
+Lyn: Thieves. Wonder if it’s true.
+Eliwood: We’ll simply have to go and confirm it for ourselves.
+Hector: Come on. Let’s go!
+Lyn: Oh! Wait, you two! This looks… It’s them!
+
+Pascal: It’s about time. Shall we get started?
+Black Fang: Lo…Lord Pascal, are you sure? Shouldn’t we tell the chief we’ve found them?
+Pascal: You don’t understand, do you? If we tell anyone, the Four Fangs will take over. I will not let my prey be snatched away by those spoiled children.
+Black Fang: But… But…
+Pascal: If you wish to be executed for desertion, I’ll not stop you from fleeing. I think it would be more fun to fight though, don’t you? Shall we proceed, gentlemen?
+Lyn: …Looks like we’re completely surrounded.
+Hector: Bah, I don’t think we’ll lose if we fight, but… These are not the most favorable conditions. OK! I don’t care who, but someone needs to break out and seize those fortresses. Got that!? We seize all three of them!
+
+@Battle 
+Florina: Oh, Mark.
+Fiora: We’re moving out, too, right, Mark? Let’s go, Florina.
+Florina: OK… But there are so many of them. If only Farina were here with us…
+Fiora: Florina, it’s not helping us to talk about her now. Now, Mark. Give us our orders.
+
+Farina: Wow! It’s started! I must negotiate quickly, or all the fighting will be done! Who looks to be in charge on this side? Aha! There! That must be the leader!
+
+@Boss 
+Pascal: I am Count Pascal Grentzer of Landskron... The man who will cut short your miserable lives.
+
+Pascal: Gahaa... Urrg...gaa... Is this...death? Is this...what I have... wrought so oft before?
+
+@Visit 
+Karla: Hmmm… I heard there was a fighter whose swordwork was a terror to behold. I traveled a long way to see him myself, but it wasn’t my brother. My brother’s strokes are far more lovely. I would lend you my sword, but I’m looking for someone. Take this. It is a poor substitute, but perhaps it will help you.
+
+@Recruit-Talk 
+%Hector,Farina
+Farina: Say, excuse me! Yes, you, the grim-faced one!
+Hector: Me?
+Farina: You’re really pushing yourself, taking on all these enemies.
+Hector: It’s not for pleasure! Hey, who are you, anyway!? You’re not with those guys, are you?
+Farina: Me? No, I’m not. I came out here because I heard I could make some gold. What a joke! Only a fool would work for this piddling amount! Skills like mine do not some cheap.
+Hector: You seem pretty... sure of yourself.
+Farina: I am Farina, a mercenary attached to the Strongwings, Ilia’s 3rd division of pegasus knights. No doubt you’ve heard of me!
+Hector: I’ve heard Ilian mercenaries never betray their employers. So...how much would it cost to hire you for ourselves?
+Farina: Ah, so you’ve an appreciation for true warriors after all? Let me see... I’m yours for 20,000 gold.
+Hector: 20,000 gold!?! That’s laughable. No sellsword is worth that much!
+Farina: I beg to differ. Your journey is a long one, is it not? More than one battle, surely. That requires a special contract, special arrangements. Not to be morbid, but there are sympathy payments to my family in the unlikely event of my death, for example. Not to mention bonuses and hazard pay, medical treatment...
+Hector: Hold on! That’s enough!! ...Your fee includes all of that, right?
+Farina: Ah, so you understand? I’m so pleased. Well, what’ll it be? Will you hire me?
+Hector: What should I do... Hey, Mark! You decide. Should we hire her?
+Hector: Here it is: 20,000 gold. You’ve no complaints, do you?
+Farina: Wow!
+Hector: What is it? You’ll accept it, right?
+Farina: ...You surprise me. You didn’t even try to negotiate... Just paid the gold up front! Who... Who are you?
+Hector: I’m Marquess Ostia’s brother, Hector. Are you going to take the money or not?
+Farina: Ah! My gold!! Of course I’ll take it! Ostia’s the biggest territory in all Lycia, isn’t it? Pleasure doing business with you, noble sir!
+Hector: Mm. I’m counting on you.
+Farina: Oh, and there are weapons and vulneraries, too. All of my current possessions are included in my fee. Anything new, you pay for. I never cover those expenses. Never!
+Hector: You’ve got it all figured out, don’t you?
+
+@Battle-Talk 
+%Florina,Farina
+Farina: Well, if it isn’t Florina!
+Florina: Farina... Is it truly you?
+Farina: It’s been so long! How have you been?
+Florina: Sister!! Ah... ... ... ...
+Farina: Hey! Don’t start crying all over me!!
+Florina: ...But... ...Farina... ...I haven’t seen you since you ran away from home.
+Farina: Ran away? I didn’t run away.
+Florina: But... ...Fiora, she... she said that you weren’t coming home again......
+Farina: Well, uh...we... You know, sisters fight sometimes. I said things, she said things... It’s in the past now.
+Florina: ...Really?
+Farina: Really! Really! Now stop crying, please? So, um... You’re fighting with Lord Hector, too, right? It looks like we’ll be working together for a while.
+Florina: ...Uh-huh!
+
+%Fiora,Farina
+Farina: Ah, Sister?
+Fiora: Farina...You...Why are you here?
+Farina: You and Florina are with Lord Hector’s company, right?
+Fiora: Yes, that’s right. ... You, too?
+Farina: Mm. I’m getting paid a nice, hefty sum. I plan to see he gets his money’s worth.
+Fiora: Farina... I know it’s been two years, but...
+Farina: What? Oh...that. Let’s talk about it later, just the two of us. See you!
+Fiora: Oh! Farina... .....
+
+@End 
+Hector: That’s it! It’s finished! You’re not nearly good enough to trap us!
+Lyn: We should have listened to Eliwood. We should’ve gone toward the palace and avoided this trap.
+Hector: No sense worrying about it now. What we need to worry about is where we go from here.
+Lyn: Now you try and talk sense? You really are something else, Hector.
+Hector: Can’t hold a candle to you, though.
+Lyn: What did you say?
+Eliwood: Peace! Both of you! Anytime we’re able to weaken our foe, we’ve done well. Now we’ve got to get out of here. No telling when reinforcements might arrive.
+Hector: All right. Let’s go.
+Lyn: You’re right. Let’s hurry.

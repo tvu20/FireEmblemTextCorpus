@@ -1,0 +1,228 @@
+@Opening 
+At long last, Lyn arrives in the land of her mother's birth. Lycia is a federation of territories, each one ruled by a powerful marquess. Now, Lyn takes her leave of one of these territories, Araphen and sets out to meet her grandfather, the marquess of Caelin. However, the marquess's brother, Lundgren, hungers to rule over Caelin. He is preparing a deadly welcome for Lyn, who stands to threaten his grasp for power.
+
+@Intro 
+Lyn: What city is this?
+Sain: This? This is Araphen. After Ostia, it’s the second-biggest city in Lycia.
+Lyn: The second biggest, hm? It does seem awfully busy. By the way, where’s Kent?
+Sain: He said he was going ahead to the castle, but... Ah, here he comes now.
+Kent: Milady Lyndis! Let us proceed to the castle. They’ve prepared supplies for us. The marquess has agreed to aid us on our journey to Caelin.
+Lyn: He’s going to help us?
+Kent: Yes. Araphen and Caelin have enjoyed a sturdy friendship for many years. Once I informed the marquess our plight, he agreed to lend us his strength.
+Sain: Looks like we’ve got a smooth road ahead!
+Kent: If we could pick up some soldiers, the road to Caelin would be that much safer. I’m truly sorry for hardships you’ve suffered so far.
+Lyn: Don’t be silly. You are so capable, Kent.
+Sain: Kent!?
+Lyn: Hm? Oh, and so are you, Sain.
+Sain: Of course I am!
+Kent: The castle awaits...
+Man: This is terrible! The castle is burning!!
+Sain: What did you say? What’s happening?
+Man: Smoke! From the castle! Hey! What are those men doing?
+Lyn: Who are you?
+Assassin: You! You’re Lyndis, aren’t you?
+Lyn: Ah! What do you–
+Assassin: No questions! Prepare yourself!!!
+Lyn: Hey!
+Assassin: Aaaargg! Aaaaah!!
+Lyn: What? An arrow?
+Rider: ......
+Lyn: Who are–
+
+Kent: Milady Lyndis!
+Kent: Are you all right?
+Lyn: I’m fine. He... This man saved me.
+Kent: May I ask your name?
+Lyn: Wait! Why did you help me?
+Rider: I thought a Sacaean plainswoman was being attacked. I was mistaken.
+Lyn: No, you were right! I am from Sacae. I’m Lyn, the daughter of the Lorca chieftain.
+Rider: The Lorca? There were survivors?
+Lyn: Yes.
+Rider: You should leave at once. A blaze has started in the castle, and it’s spreading. Don’t be foolish and waste the life I just saved.
+Lyn: You’re from the castle? What’s happening? How severe is the fire? Is the marquess safe?
+Rider: The castle is under attack, and the marquess has been accosted. The man who attacked you was probably one of the marauders. As captain of the castle guard, it’s my duty to rescue the marquess.
+Lyn: I see... All right then, we’ll help you.
+Kent: Milady?
+Rider: Why?
+Lyn: These brigands are after me. If they’re attacking the castle, it’s because of me. So I must help if I can...
+Rider: It sounds like you’re involved somehow... Let’s go.
+Lyn: You’ll accept our aid?
+Rath: I am Rath of the Kutolah. Our tribes may be different, but I will not abandon a woman of the Sacae.
+Lyn: Thank you, Rath! A thousand blessings upon you!
+Rath: And a thousand curses upon our enemy!
+Lyn: Come!
+
+Woman: You! What are you doing in my house?!
+Thief: Peace! I mean no danger to you! Your home offers a good view of the battle outside. Look, I’ll pay you for the privilege. Please.
+Woman: Like a vulture waiting for the spoils, eh? Terrible! Pay up! I’ll be hiding below, so don’t bother me.
+Thief: I wouldn’t dream of it.
+Thief: Now then, which side has the most to offer?
+
+Rath: Once the marquess is safe, my men can move in. Perhaps the secret passageway...
+Lyn: Secret passageway?
+Rath: An underground tunnel leading to the throne room. There are triggers in the barracks that will open the tunnel.
+Lyn: Head through the passage to the throne room... and rescue the marquess. Once that’s done, can you drive the enemy from the castle?
+Rath: Mmm... If we can release those triggers, my men and I can handle the rest. There are three triggers, though. All three need to be released, or the entrance won’t open.
+Lyn: But the doors to the barracks are locked.
+Rath: The enemy’s within. If we don’t get inside and finish them, we’re stuck.
+Lyn: So opening those doors is our first objective.
+Tutorial: The goal of this chapter is to open the doors and reach the 3 triggers located inside. To open doors, you need door keys or the services of a thief.
+
+@Battle
+Lyn: What shall we do, Mark? We don’t have any keys with us. Perhaps some of the marauders are carrying keys...
+Tutorial: There may be times when you are unsure how to proceed. Start by checking Status on the Map Menu. Visiting homes or villages is also a good way to get information. Who knows what hints you might find. Let’s try visiting a house. Please select Lyn.
+
+Lyn: What do you want me to do? Tell me, please!
+
+Lyn: Wasn’t I supposed to visit somewhere? Directions, please!
+
+@Recruit-Visit 
+Thief: Hey, you! Can I talk to you?
+Lyn: Who are you?
+Matthew: I’m Matthew, a specialist in acquisitions of all kinds. Would you like to buy my services?
+Lyn: I’ve no need for a thief.
+Matthew: Really? And how do you plan on opening the barrack doors?
+Lyn: What? How did you know about–
+Matthew: Bullseye!
+Lyn: ......
+Matthew: Don’t be mad. Hire me. For you, I’ll even lower my normal rate.
+Lyn: I do need those doors opened... OK. You’re hired. Why did you choose to ally yourself with me?
+Matthew: Hm? I was watching the battle from up above. Your group looked like a lot more fun than the dead guy. Pretty simple, really.
+Lyn: You’re so odd.
+Matthew: It’s time to get to work!
+
+@Battle 
+Tutorial: The thief Matthew has joined your group. Thieves have picks, which they use to open doors and chests. Picks are usable by thieves alone. It’s time to open that door. Select Matthew.
+
+Matthew: Pardon! You’re Mark, right? I’m Matthew.
+
+Matthew: This is no good. Even I’m not so good I can open a door from this distance.
+
+Matthew: I can’t open a door I can’t reach! Move me in front of it!
+
+Tutorial: The door has been opened. With that, you can also see inside the room behind the door. Within the room there’s a different-colored floor tile. Tiles that seem different in some way might be the triggers we’re looking for. Select Rath, move him to that tile, and order him to wait. Triggers can be released by having allied units wait on them.
+
+Rath: You! You’re Mark? Have you found the trigger? If so, direct me to it!
+
+Rath: I don’t see any trigger there. Do you? I didn’t think so.
+
+Rath: That takes care of the first one. Two more to go.
+
+Matthew: Hey! Unless my eyes deceive me, that’s a chest! Say, Mark! Since we came all this way, what say we help ourselves? Huh? What do you mean,No? Don’t be such a bore. If you want to win, you’ve got to use every means at your disposal. That’s an ironclad rule! Yeah, I know stealing’s bad. I’m well aware of that. We’re saving the marquess, right? Let’s just call this an advance on our reward. OK?
+
+Tutorial: Thieves can use their picks to open chests. Move Matthew onto the chest, and the chest command will appear. Choose this command, and the contents of the chest will become yours. Why don’t we see what we can find? Go ahead and select Matthew.
+Matthew: Battles aren’t won by virtue and glory alone. No one’s going to miss a couple of chests. Relax.
+
+Matthew: Hey! Changed your mind? Hurrah! Treasure time! Treasure time!
+
+Matthew: Oh, come on! There’s a chest right there in front of us!
+
+Matthew: Hey! This is an angelic robe. This is good for those of us on the...less robust side. Like me, for example. Magic items like this that increase one’s abilities vanish after being used. Give them to the people who need them most. But don’t fret too much about it, or you’ll never use them. Simply holding on to a useful item does no one any good.
+
+Tutorial: An angelic robe increases a character’s max HP by a small amount. Select the item on the item list and use it. To view more detailed information on items, press the R Button on the item list. A thief has the skill to open doors and chests, right? That ability can only be utilized if the thief has a set of picks. The number next to an item is the number of times the item can be used before the item breaks. Keep that in mind.
+
+Matthew: An armorslayer! Just as the name suggests, armorslayers are useful against knights in armor. You want to know something? You need to give weapons to those who can wield them. Otherwise, it’s just a waste of a perfectly good weapon. Take this blade. I mean, I can use it, but... I’m not too strong, and... I just hate being counterattacked. Anyway, think strategically about who you give weapons to.
+Tutorial: If you get a weapon or staff you can’t use, don’t worry. Other members of your party might be able to wield them. Items you cannot use appear in gray text. Try trading these items to others in your group. Don’t forget: you can only trade items with one other character at a time.
+
+Lyn: That takes care of the second. Just one more!
+Sain: That’s the second trigger. Only one more.
+Kent: I guess that was the second trigger. That leaves one more.
+Florina: Ah... This must be the second trigger... Everyone! There’s one more trigger!
+Wil: Yes! That was the second trigger. I’ve got to find that last one.
+Dorcas: There’s the second one... One left to find...
+Serra: Hm? So that’s the second trigger? Listen up! Just one trigger left!
+Erk: I guess that was the second trigger. That leaves one more.
+Rath: That’s trigger number two. Where’s the last one...
+Matthew: As I thought, that’s the second trigger. There’s only one more to go.
+
+@Visit 
+Man: We can’t do business with all the fighting in town. You’re mercenaries, right? Can’t you do something? Huh? You can’t get the barracks open? I bet a thief with a set of picks could open any door you needed. Hold on. I may have something here to help you... Here it is! This is it. One door key. Door keys can only be used once, but anyone can use them. Here! No charge. Now go get those thugs, will you.
+
+Old man: So what’s your weapon of choice? Swords, lances, spears? Or do you favor bows or magic? Staves? Whatever it may be, the more you use it, the more skilled you become. Swinging your sword about will allow you to master it. Eventually, you’ll be able to wield weapons of greater power. It’s as they say: Practice makes perfect. You can check your skill level by pressing the R Button.
+
+Man: The captain of the marquess’s guard is a fellow named Rath... I’ve heard tell that he’s a nomad from the plains of Sacae. Odd, considering how the marquess so obviously hates the nomads. I guess the marquess is pleased to have a nomad under his control. The ways of aristocrats are beyond my comprehension.
+
+Lady: The marquess of Araphen’s hatred for the people of Sacae is well known. Nomads are barred entrance to the city on the marquess’s orders. He says he will not allow the nomads’ stench to infect his city. Long ago, the marquess was in love with Marquess Caelin’s daughter. It’s said she spurned him in favor of a nomadic prince. Even so, I think the marquess goes too far in his treatment of the horsemen.
+
+@Battle-Talk 
+%Serra,Matthew
+Serra: I feel something... I feel it!!! Someone’s staring at me! It must be some poor fool who’s smitten with me. Alas, my beauty has rendered him speechless. Ah... I’m so cute it’s almost criminal.
+Matthew: What in the world is that woman doing here? I cannot let HER find the passageway...
+
+@Boss 
+Bool: Bah. Lyndis and her cadre. When did you arrive? No matter. I shall deal with you.
+
+Bool: Gah! Lord Lundgren…
+
+@Battle 
+Lyn: So this is the final one. We should be good to go.
+Sain: The last trigger. This should do it.
+Kent: This must be the last trigger. That should do it.
+Florina: Hey... This just might be the last trigger. So, I only need to...
+Wil: Aha! Found it! The last trigger... Well, here goes...
+Dorcas: The final trigger. If I just press this...
+Serra: Eww. Is this the last trigger? Guess I’ll try moving it around.
+Erk: This must be the last trigger. That should do it, then.
+Rath: This is it. The last trigger. If I press this...
+Matthew: OK. This is the last one. This should do the trick.
+Lyn: Here it is, Mark! The hidden passageway! Good work! We’ll let Rath take over from here.
+
+@End
+Marquess Araphen: Ah, it’s Rath! You’ve done well. What a performance!
+Rath: Sir... If you have praise, it should be given to this group.
+Marquess Araphen: Hm? Who are you?
+Lyn: My name is Lyndis. I’m pleased you’re well.
+Marquess Araphen: Oh... It’s you. You’re Marquess Caelin’s– Leave us, Rath. I would speak with this girl.
+Rath: ......
+Marquess Araphen: Now... Lady Lyndis. Do you know the identity of those responsible for this uproar?
+Lyn: I believe it to be the work of my granduncle, Lundgren.
+Marquess Araphen: That’s exactly right. Which means my castle has been damaged in your family’s petty inheritance dispute.
+Lyn: My-My apologies...
+Marquess Araphen: When I heard that Lady Madelyn’s daughter was in trouble, I thought to lend my assistance... I find I’ve changed my mind. I withdraw my offer.
+Kent: Marquess Araphen! You gave me your word, my lord!
+Marquess Araphen: ... Your name is Kent, is it not? You failed to inform me of one most vital detail!
+Kent: What... What do you mean?
+Marquess Araphen: This girl does resemble Lady Madelyn, but... I didn’t expect to see her so tainted with the blood of Sacae.
+Lyn: What?!?
+Marquess Araphen: Don’t you feel the marquess of Caelin would be troubled to meet this... nomadic mongrel?
+Sain: You–!
+Kent: Sain! Hold! My apologies, my lord Marquess.
+Marquess Araphen: Hm... Your man is poorly disciplined.
+Kent: Marquess Araphen! Please... If you would grace us with your aid...
+Marquess Araphen: ...... I hear Marquess Caelin is ill and abed. I question whether he will survive to meet this girl. In which case, his brother, Lundgren, will claim his title. And I certainly wish to avoid trouble with the coming marquess.
+Sain: You scheming...
+Kent: Sain!
+Lyn: I understand. Kent, Sain, we take our leave at once.
+Kent: Milady Lyndis! We–
+Lyn: I am proud of the Sacae blood that runs through my veins. I will NOT accept aid from one who disparages my heritage.
+
+Sain: That was well done, milady! The marquess is a lout! Don’t worry about anything. We’re all here for you! Isn’t that so, Kent?
+Sain: I beg your forgiveness.
+Lyn: Why are you apologizing, Kent?
+Kent: I’ve been so concerned with seeing you to Caelin. I failed to take your feelings into account.
+Lyn: Is that it? Trouble yourself no more. You have put my safety above all else. I have seen that. Hold your head up and be proud.
+Kent: Milady Lyndis...
+
+Marquess Araphen: Bah! Arrogant child! If she had but shed a single tear, I would have granted her request. We Lycian nobles will never understand those prideful savages.
+Rath: ...... Are those your true feelings toward the nomads of Sacae, milord?
+Marquess Araphen: What? Oh, Rath! I didn’t see you there. My comments do not reflect on you. You are my captain. I’m proud of your service.
+Rath: Of course. As long as we bend our knee to you, you care not where we’re from. But when an equal comes from my lands? What conceit.
+Marquess Araphen: Rath! How can you speak to me like that? I have treated you well, have I not? I have paid you well. I have treated you better than your kind deserves.
+Rath: You will never understand. My service ends here.
+
+Lyn: The marquess of Araphen... He said my grandfather was ill. We must hurry to Caelin...
+Kent: As we approach Caelin, Lundgren’s obstacles will be more difficult to overcome. However, I’ve vowed to see you through to the end, milady!
+Lyn: I’m counting on you, Kent.
+Sain: I’m with you, too!
+Lyn: Thank you, Sain.
+Lyn: Mark... Thank you for always standing at my side. It’s because of all of you that I... I will persevere! They will never break my spirit!
+Rath: ......
+Lyn: Rath! What is it? What are you–
+Rath: I overheard the marquess talking to himself. Lyn of the Lorca... Proud daughter of the Sacae... I would join you. I would add my strength to yours.
+Lyn: Really?
+Rath: And this... I want you to take it.
+Lyn: This is... Gold!? It’s too much. I can’t accept it.
+Rath: I have no need for it. And if it will help you...
+Lyn: But...
+Rath: I cannot take back something once offered.
+Lyn: Rath... I thank you.

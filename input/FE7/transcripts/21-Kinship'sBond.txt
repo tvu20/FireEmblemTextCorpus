@@ -1,0 +1,204 @@
+@Opening 
+Eliwood travels westward to meet with Uther, the marquess of Ostia. They pass through Laus and continue through two more territories. After a time, they arrive at a fortress separating Thria and Ostia.
+
+The group travels west to meet with Lord Uther, the marquess of Ostia. Lord Uther is an intelligent leader and power in the Lycian League. He has also been a father to Hector, ever since their parents died many years ago. Hector's reunion with his brother is a happy one, if somewhat embarrassing. Hector continues his journey filled with complex emotions. At length, they arrive at a fortress that separates Thria and Ostia.
+
+@Intro 
+Sonia: Jaffar. Ursula. Lloyd. Linus. That's everyone, is it not? If I have you, the Four Fangs, together, I need no one else. I have need of you to eliminate a man whose living plagues me. His name is Eliwood, a noble of Pherae.
+Jaffar: ......
+Ursula: ...Pherae's located in Lycia, is it not?
+Sonia: That's right. But he is no simple country lord. He has friends. Other Lycian lords. Individually, they are no match for you, and yet... Carelessness invites death.
+Ursula: Do not make that mistake.
+Sonia: Lloyd, Linus... I have work for you, the Reed brothers, as well. All right?
+Lloyd: One question. Are these our father's ord--I mean... the orders of the head of the Black Fang?
+Sonia: Hee hee... Why, naturally. Isn't that right, my beloved?
+Brendan: Mmm... Ah...yes.
+Sonia: There! Are you satisfied? Remove Eliwood. Your orders come from the head of the Black Fang, Brendan Reed. As members of this group, you will follow that order, yes? Or...does your opponent frighten you into immobility, Lloyd?
+Linus: Sonia! How dare you speak to my brother in such a...
+Lloyd: Linus.
+Linus: ...I know.
+Lloyd: Sonia, we do not need to be chastised by you. Under our father, we are the ones who've carried out the law of the Fang. If Eliwood is an evil person, there is no reason for us to hesitate.
+Linus: The Fang lets none escape.
+Lloyd: We, the brothers Reed, dispense the Fang's justice.
+Sonia: ......Ursula, Jaffar, you understand your orders, yes? Once you find the target, you eliminate him at once!
+Ursula: It will be as you say, Lady Sonia. Anything for you.
+Jaffar: ...I've received my orders. I will do my duty.
+Sonia: Your target's name is Eliwood, noble of Pherae! Bring him down. On the Black Fang's honor!
+
+Hector: ...I've heard word from my brother. He's already on his way here. We're to wait for him.
+Eliwood: Lord Uther is coming here himself?
+Hector: So it appears. I told you of this before, but Castle Ostia, not to mention the city itself, is filled with countless foreign spies. I assume he thinks it will be easier to speak freely here.
+Eliwood: But...wouldn't leaving Ostia generate even more attention?
+Hector: He's traveling in secret with very few attendants. He's skilled at this sort of thing. There's no need to worry.
+Lyn: How unconventional. It must run in the family.
+Hector: ...And what exactly is that supposed to mean?
+Lyn: Nothing. I'm very much looking forward to meeting him.
+
+Ninian: Nils, are you well? You seem...distant.
+Nils: I'm fine. Just a little tired. If we can sit still for one night, I'll be bet...ter...
+Ninian: No! Nils!? Nils!!
+Lyn: Nils!?
+Hector: Nils! You all right?
+Ninian: Nils!! Open your eyes!
+Eliwood: Ninian! Calm down!
+Ninian: ...Ah, I......
+Hector: Let's move him into the back room and call a healer.
+Ninian: You mustn't move him!
+Hector: Huh?
+Lyn: Ninian?
+Ninian: I'm sorry, I... Um... Please, just for now... Don't move him.
+Hector: But...
+Ninian: Please...
+Eliwood: ...Let's do as Ninian says. She must have her reasons.
+Ninian: ...Please, just one night's rest... That should...make things right.
+Hector: If it's going to make him feel better, fine. Whatever you do, don't move him. I'll let the others know.
+Ninian: Lord Hector.......My apologies.
+Hector: No worries.
+
+Eubans: ...So this is where the Pheraen noble and his friends are, eh?
+Heath: Yes, Commander Eubans.
+Eubans: Very well, Heath, your unit will attack from west of the fortress. Your mission is to put an end to the entire group. Make no mistakes.
+Heath: ...Are you serious? Marquess Laus abandoned us and just vanished. We've no reason to engage this group.
+Eubans : We answered Marquess Laus's call, and we will honor our duty. Regardless, we cannot remain in Lycia any longer. We rebelled against Ostia, and our entire mercenary force is hunted... If we take their heads, we can join the Black Fang in Bern.
+Heath: I'm opposed to this plan. There are women and children in their group. What you would ask of us... It's something no knight... no man could do without shame.
+Eubans: Listen well, Heath. You're a wanted man, a fugitive from Bern. How about we take you and hand you over to Bern's wyvern riders? We might even be knighted as a reward, given honest work.
+Heath: ......
+Eubans: Hah! Thought as much. Everyone wants to protect his own skin. Now, get your unit together. We attack!!
+
+Soldier: Sir! We're under attack! It's the east gate! The foe is already inside!
+Hector: Blast! They would show up now.
+Eliwood: We can't move Nils. Let's try and hold them off! Protect Nils! Don't let them near him!
+
+@Battle 
+Isadora: You're Tactician, correct? Lord Eliwood has told me much about you. I'm a knight in service to House Pherae. My name is Isadora. I'm under your command. Please instruct me.
+
+Wil: Shall I join the battle this time, Mark? I can’t wait! Ah, this brings back memories, doesn’t it? Kind of like we’re back with Lyndis’s Legion again. OK, Mark! Guide my arrows true!
+
+Soldier: Lord Hector! We’ll serve as your reinforcements. We’re a small group, and we’ve some mercenaries among us. Rath of Sacae! Take charge of the mercenaries!
+Rath: ...Understood.
+Soldier: Hear me!! We’re here to protect Lord Hector, Lord Eliwood, and Lady Lyndis!
+Rath: Lyn...
+
+@Recruit-Talk 
+%Lyn,Rath
+Rath: ...So you're being hunted again, are you, Lyn of the Lorca?
+Lyn: Rath! Rath of the Kutolah! Well met! What are you doing here?
+Rath: ...After we parted company, I've made my way as a mercenary here.
+Lyn: I see... You haven't changed at all. It's...good to see you again.
+Rath: ...Do you need my help?
+Lyn: Are you offering?
+Rath: ...You...If you desire it.
+Lyn: Yes, please! Lend us your strength! We're...involved in something terribly dangerous!
+Rath: I see. When this is finished, I will end my service to this place.
+
+%Eliwood,Heath
+Heath: Do you command this group?
+Eliwood: Who are you?
+Heath: I'm Heath, a wyvern rider serving Eubans's mercenaries. I wish to surrender.
+Eliwood: Surrender? Why?
+Heath: I've no wish to harm women and children. I'm a soldier, but... I'm trying to be human, too.
+Eliwood: ...I understand. However, as you know, we're under attack. It will be hard to guarantee your safety.
+Heath: No, that's fine. I will fight alongside you.
+Eliwood: Yet...
+Heath: I will stop Commander Eubans when the moment comes... With this, my lance.
+
+%Hector,Heath
+Heath: Do you command this group?
+Hector: Who are you to ask?
+Heath: I'm Heath, a wyvern rider serving Eubans's mercenaries.
+Hector: In that case, you're my enemy. You're gutsy, aren't you? Prepare yourself!
+Heath: Hold. I've not come to fight you. I wish to surrender to your group.
+Hector: Surrender?
+Heath: I've no wish to harm women and children. I'm a soldier, but... I'm trying to be human, too.
+Hector: ...You're an odd one. Right, well. We could use all the help we can get. You'll fight under my command.
+Heath: Understood.
+
+%Lyn,Heath
+Heath: You're...a woman?
+Lyn: What!? Underestimate me, and you'll find you die regretting it! Now come, if you've the nerve!
+Heath: Hold, I am not here to fight you. I'd sooner surrender.
+Lyn: Surrender? You're giving up? Why?
+Heath: I've no wish to harm women and children.
+Lyn: ......I understand. We're no army. I won't hold you prisoner. If you're not going to fight, go someplace where you'll be safe. However, you are welcome to join us and fight at our side. We're trying to protect a sick child traveling with us.
+Heath: I see...and I will help you protect this child.
+
+%Ninian,Heath
+Ninian: Ah...
+Heath: A girl... This place is dangerous, you should flee quickly.
+Ninian: ......
+Heath: ...Wait! Do you know the commander of these forces?
+Ninian: Ah...Yes...
+Heath: Then deliver a message for me, please. I am Heath, a wyvern rider in Eubans's mercenaries. Tell him I want to join your group. I will fight with you.
+Ninian: Wait... Why?
+Heath: I've no wish to harm women and children.
+
+@Boss 
+Eubans: …I didn’t imagine they were this capable… Heh! Still, I won’t lose! I live and breathe the air of war! I can’t be beaten!
+
+Eubans: No regrets... My life...and death...are my own!
+Enemy Soldier: Commander Eubans has gone down… Uh… Sound the retreat!! We’ve no more reason to fight!!
+
+%Heath,Eubans
+Eubans: You are a traitor, Heath. You know nothing of honor!
+Heath: I... No. I simply must live a life of which I am not ashamed. Commander Eubans... It is not too late. Give the order to stop. If you do...
+Eubans: Ha ha... You're so naive! You're no knight. And you're no mercenary, either, you dolt! You know nothing! You can carry your precious morals straight to the grave!
+
+@End 
+Uther: So, brother, you're alive after all. You were so long gone that I feared you dead. Another day, and I might have arranged you a funeral rite.
+Hector: ...My apologies. Been a little busy.
+Uther: Yes...Leila's final report covered much. ...Eliwood. I am sorry about Lord Elbert. I was powerless to help.
+Eliwood: No... Nothing could have been done. ...More importantly, do you know of Nergal?
+Uther: Only what was reported to me. He appeared a year ago and seized control of the Black Fang. Then he ensnared Laus in a plot of rebellion against Ostia. I can't see what he's after...
+Eliwood: The dragons that vanished after the Scouring... He wants to...bring them back again.
+Uther: What!? Can that be done?
+Eliwood: Yes. Let me explain.
+
+Hector: This has even got my brother brooding. He's always been a firm believer in quick decisions. Yet he wishes for more time...that's never happened before.
+Lyn: ...It's gone from a simple rebellion to a threat to the human race. We saw it with our own eyes, and yet... It's all so unbelievable.
+Eliwood: Yet...it's all true.
+Hector: Yes. I wonder what will happen next. Ideally, we could bring the whole of our lands together to fight as one. It would be a return to the time of the Scouring...
+Eliwood: However, this all hinges on the existence of dragons themselves. Unless dragons are seen in the skies, I doubt anyone will believe us.
+Lyn: Right. And once the dragons are here it'll be too late.
+Eliwood: We must stop all of this now. And we're the only ones who know enough to do it!
+Hector: Right!
+Lyn: I agree.
+Hector: There we have it! Come on, let's speak to my brother!
+Eliwood: Tactician. Ninian. Will you go with us?
+Ninian: Ye-Yes...
+
+Uther: I would sooner not place this burden on your shoulders alone. And yet, I can see no other choice before me. Listen, my brother... Eliwood, Lyndis, are you determined to act on your resolve?
+Eliwood: Yes, we're prepared.
+Lyn: Me, too... I don't care for sitting back, waiting for others to act.
+Uther: And you, Tactician. My brother and his friends are in your debt. What role will you play? Will you help them? See them through their coming trials? ...I see. Then I have no more to say. I will aid you as much as I can. ...Good luck to you all. ...And what of the girl? The one we spoke of earlier?
+Ninian: Oh, Ninian.
+Ninian: It... It's an honor to meet you, Marquess Ostia...
+Hector: Both Ninian and her brother, Nils, possess a special power.
+Uther: Is that so? Then I would ask you. Do you know where Nergal is at this moment?
+Ninian: Yes, I can sense him... To the east... He is...very far.
+Lyn: East... Is he targeting Bern next?
+Uther: That bodes ill. Bern is a powerful and militant country. If Nergal ensnares it... We're done for.
+Ninian: ...There's still time. He is still... very weak...... Now... We must act......
+Lyn: So, Nergal can't act right away, is that it? Yet, what can we...
+Hector: We've no choice but to depart for Bern.
+Uther: ...If there's time, make your destination Missur.
+Hector: Missur!? That's the wrong direction!
+Uther: Go to the Nabata desert... You may find aid there.
+Eliwood: What do you mean?
+Uther: Go and meet the living legend.
+Eliwood: Living...legend?
+
+Hector: Well, we’re going, Brother.
+Uther: ...Hm, take care of yourself. And Marquess Pherae, too. You must be Eliwood’s support and strength.
+Hector: I know. This has all gotten so out of hand. Still, it’s not entirely hopeless. Lord Elbert’s death need not be in vain. We won’t lose.
+Uther: You’re beginning to sound reasonable...
+Hector: Hey!
+Uther: What is it?
+Hector: Your coloring. You don’t look so good. Is something wrong?
+Uther: ...I just heard a tale that would frighten anyone. When I think that the future rests on the shoulders of a man like you, who lives so haphazardly, I realize that my life’s been too short.
+Hector: Bah! Is that any way to be? And I was worried about you, too!
+Uther: You should get going. Your friends are waiting.
+Hector: Ha ha... Pardon my overlong visit. I will take my leave of you then! Most honored elder brother!
+Uther: Hector!
+Hector: What is it?
+Uther: Remember, I have not given you permission to die. Heed the orders of your marquess and return to me alive.
+Hector: Mm. I’ll bring you a tale you won’t believe. Mark my words, Brother. I shall return!

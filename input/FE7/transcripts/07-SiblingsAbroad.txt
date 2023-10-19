@@ -1,0 +1,207 @@
+@Opening 
+Lyn takes her leave of Araphen, finding no aid from its spiteful marquess. Now, she and her companions resume their march toward Caelin in earnest. Racing against time, with her grandfather's life the prize. Harried and impatient, Lyn presses onward. Suddenly a young boy appears and pleads for their assistance.
+
+@Intro 
+Nils: Please! Somebody... Somebody, please help!
+Innkeeper: That's enough! Get out now! I want none of your trouble!
+Nils: But, sir... Why? You were so kind yesterday...
+Innkeeper: I thought you were just two kids, a couple of traveling performers... If those men are chasing you, you must be up to no good! Now get up and get out! You're a plague on decent folk!
+Nils: But... .......
+Inkeeper: Whew... What a mess.
+Lucius: Hmmm...
+
+Lyn: Where are we, Kent?
+Kent: This is Kathelet. If we head due south, we'll pass into Caelin.
+Sain: From here, I'd say we're about ten days' ride to Castle Caelin. Assuming we don't run into any delays, of course.
+Lyn: Ten days...
+
+Nils: Pardon me, but...
+Lyn: Yes? Can I help you?
+Nils: You and your friends... Are you mercenaries?
+Lyn: And if we are?
+Nils: I need your help!
+Kent: Milady Lyndis, you mustn't let your guard down. Not even for a child.
+Lyn: I know. Forgive me, but we're in a hurry. Is there someone else you can ask?
+Nils: There's no time! Ninian's been... It's my sister! Some men have taken her away!
+Sain: Your sister? Did you say your sister's been accosted?
+Kent: Sain...
+Nils: That's right! By some cruel, awful men. I don't know what I'll do without Ninian.
+Sain: Milady Lyndis! We must help him!
+Kent: Nonsense! We haven't the time! If the marquess is as ill as we've heard, we must proceed!
+Lyn: Kent, I... I want to help this child.
+Kent: Milady?
+Lyn: I'm worried about my grandfather, of course. But this! I cannot stand by and let a child be taken from her home!
+Kent: I see...
+Lyn: I'm sorry, Kent.
+Kent: I am your loyal retainer. You owe me no apologies. You must do as your heart dictates, milady. I will follow you, no matter where that may lead.
+Lyn: Thank you.
+Sain: Hah! Such a noble speech! Ever the true knight, that one! Ah, well. You're in luck, laddie! Let's go get your sister!
+Lyn: Will you lead us to the men who've done this?
+Nils: Uh huh. They're really tough, so be careful.
+Lyn: Leave them to us. We're pretty tough ourselves. Right, Mark?
+
+Nils: Ah! Oh, no...
+Ruffian: Heh heh heh... Found him! C'mon, it's back to Nergal with you. Quiet now.
+Nils: No! Let Ninian go!
+Ruffian: We ain't supposed to kill you, but we sure can rough you up! Get 'em!
+
+Ruffian: Huh? Who do you think you are?
+Nils: Lyn!
+Lyn: Let the boy's sister go.
+Ruffian: Ah... So you want to help the kid, huh? What a shame. You're gonna die for something that don't concern you.
+Lyn: You think so, do you? Do we look so meek to you? I think you're in for a terrible shock!
+Ruffian: Stupid girl... You'll regret those words. Take 'em down, boys!
+
+@Battle 
+In-Game Message: Starting with this chapter, you'll be able to use the preparations screen. On this screen, you can choose who will fight, equip different items, and arrange your formation, among other things. If you have no special preparations to make, simply press START. This starts the chapter with the same group you were using at the end of the last chapter.
+
+Lyn: I see we're facing a shaman, Mark. I've heard that practitioners of the dark arts are fearsome foes. We'll have to be careful... What!? Who are you?
+Lucius: Please forgive me. I never meant to startle you.
+Lyn: Your robes... They look like religious vestiary. Are you an Elimine bishop?
+Lucius: Yes... Well, no. I'm only an acolyte, an Elimine monk, to be specific. My name's Lucius.
+Lyn: Do you have business with us?
+Lucius: I was at the inn when this child came seeking help. The innkeeper was afraid to get involved. He was...unpleasant.
+Nils: I wasn't afraid of him! I'm used to being treated that way.
+Lyn: That's awful.
+Lucius: May I please lend you my services? I truly wish to help the boy. If only a little.
+Lyn: Of course.
+Lucius: Thank you very much. The blessings of St. Elimine be upon you.
+Tutorial: The monk Lucius has joined your group. Monks are users of the magic of light. Whose who wield magic are highly attuned to its flow, so they have a high magic resistance. Units with high magic resistances can reduce the damage caused by magical attacks. When magic users battle each other, they often find it hard to inflict damage. The light magic of monks is strong against the dark magic favored by shamans. Lucius should come in handy here. Let's put his magic to the test. Have Lucius attack the shaman nearest him.
+
+Lucius: Mark, isn't it? I am Lucius. I await your orders.
+
+Lucius: You wish for me to attack the shaman? Very well.
+
+Lucius: I beg your pardon, but I would prefer to attack from here.
+
+Nils: I can help, too!
+Lyn: Nils! Can you fight?
+Nils: No... But I'm a bard, and bards are useful to have around!
+Lyn: A bard? Do you mean you're a minstrel? This is no place for a ballad or a saltarello.
+Nils: C'mon, trust me! I'm all yours, Mark.
+Tutorial: It's time to see what Nils can do. The music played by bards allows your allies to move twice in the same turn. However, bards cannot engage in combat, so be careful not to expose them to danger.
+
+Nils: Mark? I'm Nils! I'd like to perform for youm so give the word.
+
+Nils: You'd like me to play for Lucius, right?
+
+Nils: I have to be next to him, so he can hear my tune!
+
+Nils: What do you think?
+Lyn: That was lovely... invigorating, even. You ought to play for me sometime. I could use the boost!
+Nils: Everyone could! My music can refresh you all!
+Tutorial: Through the power of Nils's music, Lucius can move again this turn. Bards gain experience by playing music. Use Nils's powers often, and increase his skill.
+
+@Visit 
+Girl: Hmmm... Maybe I could get some firewood out of it... Hm? Who's there? Who are you? Ah, you're just passing through? Pay me no mind. I was just thinking out loud. You see, there's an old tree on the other side of this mountain. It's just a dead old snag, really. I was just thinking of some way I could put it to good use. As I said, it's nothing that need concern you.
+
+Innkeeper: That's quite a group you've gotten yourself involved with. You do know you're facing the Black Fang, right? Anyone they target winds up... Well, you know. No one escapes the Fang! That's what they say, anyway. You and those odd children? I'd say you're finished. Not that I'll have any part of it. Course not!
+
+Hector: Blast! Eliwood's late. I wonder what's keeping him... ...Starting to think my axe'll rust over before he finds his way here.
+
+Serra: Excuse me! Is anyone home? An empty house... how dull!
+Hector: Whew... I thought she would find me for sure. She's been working for my brother in Bern. And now she's returned... Ahh...
+
+Matthew: Huh? Milord! What brings you here?
+Hector: Ah, Matthew. Eliwood and I are here for our monthly bout.
+Matthew: You're still testing one another's fighting prowess, eh? It's a solid friendship you two share, that you can practice so faithfully.
+Hector: If you don't sharpen your blade, you lose your edge. So tell me, what are you doing here?
+Matthew: Milord Uther was curious about the succession issue here.
+Hector: Oh, the long-lost granddaughter thing, right? So which way does my brother lean?
+Matthew: By my assessment, he will back the granddaughter's claim. The marquess's brother, Lundgren, is too ambitious by far. Left alone, we might wake to find him at Ostia's door before long.
+Hector: Sound advice, I think.
+Matthew: My return to Ostia is going to be delayed a bit. Would you mind letting Lord Uther know?
+Hector: What? So the marquess's brother is now your personal messenger?
+Matthew: You always did have a good sense of humor, milord. Don't forget my message!
+Hector: What impudence!
+
+Villager: So how much do you know about magic, huh? Magical attacks are special. You can't just avoid 'em like a sword or an axe. Not even if you're wearing armor. Who's tough against magic? Let me think... Well, anyone who uses magic or staves. Pegasus knights, too. Hm? You got others who need to battle magic users? I got something for 'em. It's a special kind of water. "Pure water," it's called. Just sprinkle a bit on you. It'll protect you and lessen the damage you take a bit. Go on, take it. Don't be so shy. It'snot like I'm givin' you gold or anything. This stuff's strongest when you first put it on. It gets weaker as time passes, so be careful.
+
+@Boss 
+Heintz: Who are you supposed to be? Playing the heroes in some foolish knightly romance? You may think you're helping the children, but you're only rushing to your doom!
+
+Heintz: You were only... striking at air... You are...too late. The girl is already--
+
+@End 
+Lyn: Nils! Where's your sister?
+Nils: Ninian! Ninian... She's not here. Why? Where could she be?
+Kent: My lady Lyndis! A villager spotted a group of men riding south.
+Sain: The boy's dear sister... They must have her!
+Lyn: Come! We must give chase!
+Nils: But... But... We won't make it! What if they've already...
+???: Are you looking for this girl here?
+
+Nils: Ninian! Ninian!
+Eliwood: She'll be fine. She's just lost consciousness.
+Lyn: Who are you?
+Eliwood: I'm Eliwood, of Pherae. My father os the marquess.
+Lyn: The marquess's son...
+Eliwood: She was with a band of ruffians. She seemed upset. She looked in need of rescuing... Was I wrong to involve myself?
+Lyn: No, you saved her life. Thank you. My name is Lyn. I'm from Sacae. I'm Marquess Caelin's granddaughter.
+Eliwood: Marquess Caelin?
+
+Lyn: And that's my story. It's not an easy tale to believe, I know...
+Eliwood: No, I do believe you.
+Lyn: What?
+Eliwood: At first glance, all I saw was a daughter of the plainsfolk. Now I can see it, though. You have your grandfather's eyes.
+Lyn: Do you know my grandfather?
+Eliwood: The marquess, Lord Hausen, is my father's good friend. I also know that the proud people of Sacae tell no lies. It's true, isn't it?
+Lyn: Yes... Thank you. I would not have expected any Lycian noble to be so courteous to a Sacaean nomad.
+Eliwood: You seemed to be in trouble. May I be of assistance?
+Lyn: Thank you for your kind offer. This is my problem, though, and I'll deal with it.
+Eliwood: I see. I'll be in the area for a few days longer. If you need anything, please let me know. Lyndis, I'm on your side.
+Lyn: Eliwood... Thank you.
+
+Nils: Ninian! Are you awake?
+Ninian: Nils? Is it really you? Oh, you're safe!
+Nils: Uh-huh. These people helped me.
+Ninian: Who are they?
+Nils: Uh...
+Lyn: I'm Lyn. I'm glad you're feeling better.
+Ninian: Milady Lyn... Thank you. I'm called Ninian. My brother, Nils, and I are traveling performers.
+Lyn: Both of you? Your borther's a musician. How about you, Ninian?
+Ninian: I... I dance.
+Sain: What? Oh my... you're a dancer!
+Lyn: Sain... Later, please.
+Sain: Um, yeah. Of course.
+Lyn: A dancer? Your clothes don't look like those of a dancer.
+Nils: Ninian dances to honor life. It's special... Sacred.
+Lyn: A sacred dance? What does that mean?
+Ninian: I... The dance I perform when we travel is just a normal dance. My other dance, though... When they caught me, I twisted my ankle. I cannot dance to aid you... I'm sorry.
+Lyn: Please don't worry. We're just happy to see that you're out of harm's way.
+Ninian: Thank you.
+Lyn: But I am concerned about your leg. You can't travel on it...
+Nils: I've an idea. Would it be too much to ask that we travel with you?
+Lyn: I can't allow that! It's far too dangerous. We're being hunted. We never know when we're going to be attacked.
+Nils: We wouldn't be a hinderance. We could even help you. Right, Ninian?
+Ninian: Yes. We might be able to repay our debt using our...special talents.
+Lyn: Special abilities?
+Ninian: When something poses a threat to us, we can sense its approach.
+Lyn: Truly? That's amazing!
+Nils: We can feel it coming, but we can't do anything to stop it. You're warriors, though, so you don't have that worry.
+Lyn: What do you think, Kent?
+Kent: I think leaving them here would cause Lady Lyndis more worry than having them travel with us.
+Lyn: Sain? Oh, never mind. I know what your answer is. Do you really want to travel with us?
+Nils: Of course!
+Ninian: You have our gratitude, milady.
+
+Ninian: Oh...
+Nils: What's wrong, Ninian?
+Ninian: I've lost my ring.
+Lyn: Your ring?
+Nils: Not Ninis' Grace?
+Ninian: The very one.
+Nils: They stole it? Those curs!!!
+Lyn: Was it valuable?
+Ninian: It was a keepsake from our departed mother.
+Nils: It was blessed by the spirit of Ninis... There's no other like it in the world. And now we have lost it to those villains. There's nothing we can do.
+Ninian: You're right.
+Lyn: ......
+
+Lyn: Can I talk to you, Mark? You heard all of that, right? What do you think? I'd really love to retrieve Ninian's ring for her. But if Nils is right, those thieves might prove to be too strong for us. What should we do?
+
+Tutorial: When you fulfill certain conditions, side quests may make themselves apparent to you. Side quests allow you to learn things that aren't part of the main story. You might meet tough new enemies or find new companions to travel with. However, side quests are very difficult, and once you begin one, you must see it through to its end. If you plan to challenge a side quest, I suggest you keep the save data from the previous mission. Not accepting side quests will not effect your ranking. If you're in a hurry to pursue the main story, skip the side quests.
+
+Lyn: You want to help them? That's great! I was hoping you'd say that, Mark. Kent! Sain! Those men were headed south. We must give pursuit!
+Sain: On your word, milady!
+Lyn: There's no turning back now. Let's ride!

@@ -1,0 +1,112 @@
+@Opening 
+A small altar lies on the outskirts of Bulgar. This ancient temple, sacred to the people of Sacae, has long been known for its powerful bond to the world of spirits. Before starting their journey, our travelers come here to pray for their well-being. At this altar, Lyn’s hand is directed to a grand inheritance.
+
+@Intro 
+Lyn: Mark, hold a moment, and allow me a short detour. There is a sacred sword enshrined in an altar east of here. The people of Sacae go there to pray for safety at the onset of a long journey.
+Sain: Oh, how quaint!
+Kent: The teachings of Elimine have the most followers in Elibe. It is nice to see that, here at least, the ancient customs are still observed.
+Glass: Old Man! Stay where you are, and hold your tongue!
+Priest: Threaten me as you will, but I’ll not give up the Mani Katti. The Mani Katti is a sacred blade, under divine protection. It cannot be removed from its place of rest!
+Glass: You’re a fool, old man. What good’s a sword if you don’t use it?
+Priest: Use it? In combat? Sacrilege!
+Glass: Sacrilege? I am Glass! The gods fear my name! My swordplay is peerless! And if I want this sword, this sword I shall have! Now, get out of my way!
+Priest: Oof!
+Glass: This is it! It’s more magnificent than I’d imagined! This sword was made for a swordsman of my skill. Hmm? What’s this? I can’t... draw the sword... from its scabbard?
+Priest: The spirits of the blade have judged you. You have been found waiting. They have rejected you.
+Glass: What? Listen, you senile old fool, if you value your own life, you’ll get out of my sight!!!
+Glass: Curses! Miserable spirits! I care nothing for you! I’ll tear this altar down stone by stone!
+Woman: I beg your pardon, milady. Are you headed east? To the altar?
+Lyn: Yes, we are indeed.
+Woman: Then you must hurry and help the priest there. I saw a band of local ruffians head in there not too long ago. They seemed intent on stealing the altar’s sacred sword!
+Lyn: The Mani Katti... They’re going to steal it? I cannot allow this to happen!
+Woman: You look like a virtuous group. Please, help him!
+Sain: Lyndis, what are you planning?
+Kent: If you go to the priest’s aid, you’ll need to prepare.
+Lyn: You’re right... Say, Mark... There are some homes to the south of us. Perhaps we should go there and question the residents.
+Tutorial: The three buildings to the south are homes. You can speak with the people who live there. They sometimes give you combat hints or useful information about the land and the people. It pays to listen!
+Lyn: Shall I take the lead? All right. Tell me what you would like me to do, Mark.
+
+@Battle 
+Tutorial: The three buildings to the south are homes. You can speak with the people who live there. They sometimes give you combat hints or useful information about the land and its people. It pays to listen!
+Lyn: Shall I take the lead? All right. Tell me what you would like me to do, Tactician.
+
+Lyn: I'm going to visit that home, right? Just point me in the right direction!
+
+Lyn: You want me to visit that home, right? I understand.
+
+Lyn: First, I'm going to visit that home, right? Well, let's go!
+
+@Visit
+Woman: Say, aren't you the... Oh! You're going to help the priest! Well, perhaps you could benefit from something I saw earlier... The bandits may have the main entrance guarded. However, one of the altar's walls is cracked and in poor repair. You might be able to create another entrance by hitting that section with your weapons. We're all counting on you!
+
+@Battle
+Tutorial: Next, send Sain to visit another home. Start by selecting Sain.
+
+Sain: It's my turn to speak with the locals, is it? That's right!
+Sain: Please, I would like to help out however I can. Tactician, direct me to the next residence!
+Sain: I'm next, am I? Well, I'm ready to go!
+
+Sain: It's my turn next? I'm ready to go?
+
+Sain: It's my turn to speak with the locals, is it? That's right!
+
+Sain: Please, I would like to help out however I can. Tactician, direct me to the next residence!
+
+@Visit
+Man: Mountains make it more difficult to be hit, but they're difficult to traverse. If you're riding on horseback, you can't cross them at all. Be careful.
+
+@Battle
+Tutorial: Remember, your mounted units possess the ability to move again. After moving, cavalry can move the rest of their movement range, unless they've received attack or staff commands. This also goes for units mounted on pegasi and wyverns. Now, give Sain his orders.
+Tutorial: Finally, let's send Kent to visit the remaining home. This visit isn't necessary for combat purposes. However, its residents may have useful knowledge. I recommand stopping by. Select Kent.
+
+Kent: I'm next to move, am I not? I await your command.
+Kent: Am I not supposed to visit that home? Please, give me your guidance.
+
+@Visit
+Girl: Do you know much about the sword held at the altar? It's called the Mani Katti, blessed by the spirits. According to the priest, the Mani Katti is waiting for its rightful owner to appear. It's so odd, don't you think? The idea that a sword can choose who will wield it?
+
+@Battle 
+Tutorial: You should know something about fortresses. Fortresses offer more protection than woods do. Fighting from a space in a fortress is beneficial. Remember, this holds true for friend and foe alike. Keep this in mind before engaging your enemy. Fortresses also allow injured units to regain hit points. Your units automatically regain some HP at the beginning of your turn. The HP you recover in one turn is fairly small. As long as you remain in a fortress, you'll regain HP every turn, so a full recovery is possible. There are other places where units can recover HP, including castle gates, thrones, and areas where bosses are found.
+
+Tutorial: This chapter's goal is to seize the throne. The leader of the enemy is on the throne now. Defeat him and have Lyn seize the throne to finish this battle. His name is Glass. He's a sword-bearing mercenary. Think of the weapons triangle... What weapon is able to best a sword? Correct! The lance! Using the right weapon is like a shortcut to victory. To get to the altar, try using the method that you heard earlier. It's up to you, Tactician. Good luck.
+
+Tutorial: Sometimes, you'll get items after defeating enemies. A single unit can carry a maximum of five items.You might need to drop some old items to pick up new ones. Bear this in mind. You can see what items your enemies will drop by checking their inventories. Place the cursor on an enemy or ally, then press the R Button to view their personal data. This data screen contains information about the unit you've selected. Press the + Control Pad left and right to change pages and view items. If any of the items are glowing yellow, you will get them if you defeat the unit. Don't forget!
+
+@Boss 
+Glass: Who do you think you are? What chance do you think you have against me?
+
+Glass: You... You... Urr...urgh...
+
+@End 
+Priest: Ah, your clothing... Are you of the Lorca tribe?
+Lyn: I’m Lyn, the chieftain’s daughter. Are you hurt, sir?
+Priest: Thanks to you, I am unscathed. You have my gratitude.
+Lyn: And the sword? Is it safe?
+Priest: Yes, I have sealed the sword safely away. Until I remove my spell, the sword cannot be drawn. Now, as a token of my gratitude, I shall allow you to lay hands upon the Mani Katti. Touch the blade’s pattern, and pray for a safe journey.
+Lyn: Oh, thank you so much!
+Priest: Hm?
+Lyn: What? Did—
+Lyn: The sword... It’s... glowing.
+Priest: Ah. Hm... It’s the power of the spirits. Lyn, they have looked into your soul, and they call out to you.
+Lyn: What does that mean?
+Priest: You are its rightful owner. You are to wield the Mani Katti.
+Lyn: No... I can’t... I couldn’t...
+Priest: It is the sword’s wish. If you require proof, draw it from its sheath.
+Lyn: Um... ...
+Lyn: It came out... effortlessly.
+Priest: I never dared hope that I might meet the wielder of the Mani Katti in my life. I am indeed fortunate to see your sword reach your hands.
+Lyn: My sword?
+Priest: It is time for you to go, Lyn. You face a great many ordeals. Grip this sword, and meet your destiny head-on.
+Lyn: Yes... Yes, sir!
+Sain: So this is the Mani Katti... A blade with no equal.
+Lyn: This is all so unbelievable. Perhaps the most famous sword in all of Sacae... in my hand.
+Kent: It’s not so strange. In fact, many legends tell similar tales... Special blades all over the land call out to their proper owners. And yet, when I saw you draw that blade, Lyndis... I felt something extraordinary. That sword was waiting for you. You were meant to draw it.
+Lyn: Stop it! I... I’m nothing special!
+Sain: Think of it this way: Some weapons feel more comfortable in your hand, right? Well, the Mani Katti itself feels very comfortable with you. Does it make it any easier for you to accept? It doesn’t appear that either of us can use it.
+Lyn: It... does feel right in my hand. A blade that only I can wield. That seems reasonable enough. I can understand that. Look at it, Mark. This is the Mani Katti. This is... my sword. I must care for it well.
+
+Lundgren: What? Madelyn’s daughter is still alive?
+Soldier: Uhh... Yes, Lord Lundgren. The girl is traveling with Kent and Sain. What are your orders? If we let them be...
+Lundgren: Bah! I’ve heard that northern Bern is full of bandits. She’s just a girl. She’ll not survive her journey here. I’m more concerned with my older brother. His life must be ended quickly. The poison... There must be no blunders.
+Soldier: Yes, m’lord. He suspects nothing and continues to drink it. The marquess’s death, due no doubt to sudden illness, is not far off.
+Lundgren: Heh heh heh. Soon... Soon Caelin will be mine!

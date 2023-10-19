@@ -1,0 +1,161 @@
+@Opening 
+After speaking with the village magistrate, Eliwood and company set their sights on Laus. The road from Pherae to Laus passes through Santaruz. Eliwood suspects his missing father must have visited Santaruz en route to Ostia. Eliwood arranges a meeting with the local ruling lord to see what he can learn.
+
+Hector leaves Ostia. He moves towards Santaruz to meet up with Eliwood as quickly as possible. He encounters a mysterious group whose dark garb hide an even darker secret. Perhaps these same powers have turned their blades on Eliwood...Hector hurries south, praying for his friend's safety.
+
+@Intro 
+Helman: What? Eliwood is here?
+Ephidel: Yes. He has set camp up on a hill south of here. He seeks permission to enter Santaruz. He seeks an audience with you.
+Helman: Could it be... Do you think Eliwood’s come to ask of his father? If that’s the case... I... I know not what to tell him.
+Ephidel: Tell him you know nothing, and let him be on his way.
+Helman: Yet... I know young Eliwood well. His father, Elbert, and I are old friends. I’ve no children of my own, and I’ve always treasured Eliwood... I do not believe I could look him in the eye and... I could not lie to him. I could not.
+Ephidel: We’ve no choice then. Let us chase the boy away. If you do not speak with him, you need tell no lies.
+Helman: Wait! Do you mean to harm Eliwood?
+Ephidel: Not harm. Frighten. A scratch or two will leave no scars. He will run home to Pherae and be done with his adventure. He is, after all, all that Pherae has left...
+Helman: ...
+
+Marcus: Instead of entering Laus with such a small group, we should meet with Marquess Santaruz and request his assistance... I see the sense in that. It’s a good plan, Mark.
+Eliwood: Truly so. I tell you again, I’m pleased to have you with us. Lord Helman... He’s not only my father’s friend. I’ve known him since I was a child. I’m sure that he will help us.
+Marcus: What? Lord Eliwood! Beware!
+Zagan: Heh heh heh... Noble sirs. Alms for a poor villager.
+Marcus: Poor villager? You look nothing like an honest man. Clear the road. Step quickly or...
+Zagan: Step quickly? Heh heh... Good advice. Maybe it’s you who should follow it!
+Marcus: What?
+Zagan: Someone wants the boy in an early grave. A shame if you ask me, but he’ll die here today. C’mon, boys! Earn your keep!
+Dorcas: Here we go again, eh, Mark? Just like old times... Seems our fates are bound. Natalie? Oh, she’s still in Pherae. I’m working for you this time, so she’s not too worried. Guide my axe, Mark.
+
+Matthew: Lord Hector! I have it! I know where Lord Eliwood is. He entered Santaruz not far from here.
+Hector: Is that so? We've read his movements fairly well, then. Let's move due south and cross the border. We'll meet up with him in Santaruz!
+Serra: Ah! There you are! Lord Hector!
+Matthew: Oh, no...
+Hector: Serra? W-What... What are you doing here?
+Serra: You're going to meet Lord Eliwood, right? Well, I want to go, too!
+Hector: Go home! This is no game.
+Serra: But Oswin told me it was all right to come!
+Hector: Oswin?
+Oswin: Yes, my lord. On the marquess's orders. Serra and I will be accompanying you.
+Hector: Bah. This is ridiculous. Always have to have the last word, eh, Brother?
+Oswin: No matter what you think, he's just worried about you, Lord Hector. You're the only family he has.
+Hector: I know...
+Matthew: Lord Hector! Up ahead! There appears to be fighting.
+Hector: Where? Is it Eliwood? Come! Let's get closer! Hurry! Oswin! Matthew!
+Matthew: Yes, my lord!
+Serra: Oh! Wait for me! I'm coming, too!
+
+Hector: Hey! What's going on over there? Looks like some rough business. You! Soldier! Are you just going to stand there and watch?
+Soldier: Who do you think you are? This is Santaruz. What occurs here is no affair of any foreign lordling!
+Hector: I believe I'm going to have to disagree with you. You see, the man they're attacking happens to be a friend of mine.
+Soldier: A friend? What? ...Urrrgh!!
+Hector: Sorry, but I'm in a hurry.
+Serra: Ewww! That's terrible! I loathe violence!
+Matthew: Nicely done, my lord! You're a fighter born.
+Oswin: I cannot condone resorting to force so quickly...
+Hector: Chastise me later, Oswin. First, we deal with these brigands! Come! We must help Eliwood!
+Oswin: Help Eliwood? Sounds like a convenient excuse for more violence.
+Hector: Oswin!
+Oswin: Yes, yes. I'm coming!
+Hector: Matthew! Bring Serra and follow along.
+Matthew: What! With...Serra?
+Serra: No! I want to go with you now!
+Hector: Absolutely not! You'll slow us down! zzz
+Serra: Oh! How rude!
+Hector: Oswin! Let's go!
+
+@Battle 
+Zagan: Bah! He puts up a good fight for a pampered noble pup. It’s up to me to finish him.
+
+Eliwood: How many are there? This looks–
+
+Hector: Hey! What’s going on over there? Looks like some rough business. You! Soldier! Are you just going to stand there and watch?
+Soldier: Who do you think you are? This is Santaruz. What occurs here is no affair of any foreign lordling!
+Hector: I believe I’m going to have to disagree with you. You see, the man they’re attacking happens to be a friend of mine.
+Soldier: A friend? What? ...Urrrgh!!
+Hector: Sorry, but I’m in a hurry.
+Serra: Ewww! That’s terrible! I loathe violence!
+Matthew: Nicely done, my lord! You’re a fighter born.
+Oswin: I cannot condone resorting to force so quickly...
+Hector: Chastise me later, Oswin. First, we deal with these brigands! Come! We must help Eliwood!
+Oswin: Help Eliwood? Sounds like a convenient excuse for more violence.
+Hector: Oswin!
+Oswin: Yes, yes. I’m coming!
+Hector: Matthew! Take Serra and find someplace to hide.
+Matthew: What! With...Serra?
+Serra: No! I’m going with you!
+Hector: You are not! You’ll slow us down!
+Serra: Oh! How rude!
+Hector: Oswin! Let’s go!
+
+@Visit 
+Villager: Hmm... You look like you’ve some experience with battle. No need to conceal it. I’ve fought in many a battle in my time, I assure you. Let me tell you one thing about combat, though. The most important thing is technique. If you’ve no skill, you’ll rarely strike your enemy. My instructor gave me this secret book long ago. It will improve the fighting prowess of the one who reads it. I’m too old to make use of it, so why don’t you take it?
+
+Girl: It’s really important to trust your companions, yes? If you have a boon companion fighting at your side, you feel stronger and more confident. Hm? Who do I think make good companions for whom? Well, I am a fortune-teller, so I could do a reading, but...
+
+Man: I saw them, I did. About a month ago...Marquess Pherae and his men passed right through here. They’ve all gone missing, haven’t they? A group as strong as that just up and vanishing...Couldn’t have been bandits, but...I don’t believe it. Must’ve been something terrible. The world’s become a dangerous place, it has.
+
+Woman: The marquess who leads Santaruz is Lord Helman. He doesn’t ask for much, and he’s a nice enough fellow. I wouldn’t call him weak, but he is more follower than leader. Lately, he’s been meeting with Marquess Laus quite a lot. I hope nothing bad comes of it, but...
+
+@Battle-Talk 
+%Eliwood,Hector
+Hector: Eliwood! Are you all right?
+Eliwood: Hector! What are you–
+Hector: Later! First let’s take care of these louts.
+Eliwood: Right!
+
+@Boss 
+Zagan: Curses! What are you waiting for!? Let me show you boys how it’s done!
+
+Zagan: Oh...aaurr...This...was not...so easy...as it seemed...
+
+@End 
+Hector: Whew...Is that all of them?
+Eliwood: Hector! Where did you come from?
+Hector: Well met, Eliwood.
+Eliwood: Yes, but...what are you doing here?
+Hector: You wound me!
+Eliwood: How do you mean?
+Hector: You’re looking for your father, right? Why didn’t you send word?
+Eliwood: Your brother was just named Marquess Ostia. He’s going to be very busy setting up his court council. Lord Uther must need your support. You are his brother, after all.
+Hector: My brother is not so weak. Oh, he has mentioned some things in public, but...He knew exactly what I was planning, and he let me go.
+Eliwood: Is that so? Well then, it would be unwise to refuse his kindness! It does me good to see you, Hector. Thank you.
+Hector: Think nothing of it. You know Oswin, don’t you?
+Oswin: Well met, Lord Eliwood.
+Eliwood: It is good to see you again, Oswin. So you came as well?
+Oswin: Yes. Lord Uther was worried about Lord Hector traveling alone. I’ve been ordered to keep a close eye on him.
+Eliwood: Ha ha ha! Of course! Good to have you with us.
+Serra: Lord Hector! Why didn’t you tell me the fighting was done!?
+Matthew: I apologize for the interruption. I couldn’t restrain her any longer!
+Eliwood: Are these your companions, Hector?
+Hector: Oh...Yes, I suppose they are. One might have hoped for better, but...
+Serra: That was uncalled for! I can’t believe you said that! Matthew, did you hear what he said about you?
+Matthew: Me? He was talking about you!
+Eliwood: Hector, why don’t you introduce us?
+Hector: The noisy one is Serra. Believe it or not, she’s a cleric.
+Serra: Yes, I am Serra, my lord. Pleased to meet you.
+Hector: And that’s Matthew. He does a lot of...sneaking around.
+Matthew: My lord.
+Eliwood: Sneaking...around.
+Matthew: Well...I, er...gather information, open doors, chests, and such. I’ve got...nimble fingers.
+Eliwood: That sounds...like a thief’s work...
+Hector: Well...Don’t let it worry you.
+Eliwood: But...
+Hector: This journey...I suspect it will be harder than you imagine. You may have to accept things like this if you want to survive.
+Eliwood: What is it, Hector? Do you know something?
+Hector: Nothing specific. Rumors abound, though. A league of assassins from Bern has been moving around in Lycia. Experienced bounty hunters and mercenaries are vanishing...
+Eliwood: That reminds me. One of the men who attacked us said something odd.
+Hector: What was it?
+Marcus: Lord Eliwood, if I may?
+Hector: Marcus! Good to see you!
+Marcus: Lord Hector, it’s been far too long. Your assistance is greatly appreciated.
+Hector: Come now, Marcus. No need for such formalities. Tell me what you heard.
+Marcus: Of course. The apparent leader of that gang of thugs...He indicated that someone was watching Lord Eliwood...That someone needed him dead.
+Hector: Hmm...That is troubling. Actually, a captain of the guard was watching the fight when we arrived. He was a knight of Santaruz, and yet he just stood there and let a lord be attacked. I think he was planning on seeing you die.
+Eliwood: So, Mark. What do you think? ...You might be right. Something may have happened to Lord Helman, too. Come! We must hurry to the castle!
+Hector: Eliwood! Who is this?
+Eliwood: This is Mark. I required tactical aid in the search for my father, and...
+Hector: Oh, I see. So this is who directed the battle plan back there, hm? You know, Mark, you’re very young. We’ve many strategists in Ostia, but none so young. Eliwood, are you sure about this one?
+Eliwood: Mark is still a student of military strategy, but...We’ve received nothing but sound advice so far. Mark has my trust.
+Hector: All right. I suppose I shall witness your skills firsthand. Well met, Mark.
+
+Matthew: Hello! How have you been, Mark? Eh? My secret’s revealed? Oh, that. Yes, it’s true. My guise as a common thief was but a ruse. I’ve served House Ostia for some time as a spy of sorts! Surprised? Well, regardless, it looks like we’ll be traveling together again. Here’s to our mutual survival!
+
+Serra: Eeeeeeee! Mark! Is it really you? It’s been far, far too long! You missed me, didn’t you? Of course you did. I knew it. Hm? Didn’t I tell you before? I’m in the employ of Ostia, Lycia’s ruling territory. I’ll be here to help you just like before! Aren’t you lucky!
