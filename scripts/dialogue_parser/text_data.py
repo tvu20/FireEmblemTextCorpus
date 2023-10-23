@@ -13,8 +13,6 @@ output_path_base = os.path.join(os.getcwd(), "data")
 
 dialogue_tags = ["intro", "battle", "end", "visit", "flashback", "recruit-visit", "recruit-battle", "recruit-conversation", "character-falls", "dialogue", "conversation", "cutscene", "boss", "recruit-talk", "battle-talk", "boss-talk"]
 
-id = 1
-
 for title in games:
     game_path = os.path.join(game_path_base, title)
     output_path = os.path.join(output_path_base, title)
@@ -29,7 +27,7 @@ for title in games:
 
     writer = csv.writer(output_file, quoting=csv.QUOTE_NONE, delimiter='|', quotechar='')
 
-    writer.writerow(["id", "game", "chapter", "speaker", "text", "tag"])
+    writer.writerow(["game", "chapter", "speaker", "text", "tag"])
 
     for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
         chapter = filename.split('/')[-1].split(".")[0]
@@ -65,9 +63,7 @@ for title in games:
                     speaker = colon_split.pop(0).title()
                     line = ": ".join(colon_split)
 
-                writer.writerow([id, title, chapter, speaker, line, ""])
-
-                id += 1
+                writer.writerow([title, chapter, speaker, line, ""])
 
 
     output_file.close()

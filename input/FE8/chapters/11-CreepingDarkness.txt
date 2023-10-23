@@ -1,0 +1,131 @@
+@Opening 
+The Caer Pelyn Range… According to Ewan, a little-known passage to Jehanna lies there, hidden within its cracked red bedrock and knife-edged peaks. To avoid Carcino and combat, Eirika’s troops take the mountain path. They begin climbing higher and higher toward Caer Pelyn. Unbeknownst to the group, hordes of dark creatures now roam the peaks.
+
+@Intro 
+Ewan: We’re almost there! Come on! My teacher lives just up ahead.
+Eirika: Slow down, Ewan. Let’s stick together.
+Innes: ...This fog’s getting thick. I don’t expect any more surprise attacks, but that doesn’t mean we–
+Ewan: Quick worrying, mister! You’re gonna get left behind.
+Innes: ...Don’t speak to me, boy. I don’t tolerate insolence.
+Eirika: Innes, he’s only a child. There’s no reason to be so rude. He is helping us after all.
+Ewan: That’s right. Without me, you’d never get where you’re going. So come on already!
+ 
+Innes: Stop. Don’t take another step.
+ 
+Ewan: Huh? That’s gonna make it awfully hard to get where we need to go.
+Innes: ...What do you know about that fort? It looks like it’s been abandoned for some time. Is anyone using it?
+Ewan: Nope. It’s really run-down. Nobody ever goes there. It’s been empty for ages. I’ve been inside, so I know.
+Innes: Is that right? Then what’s that sound, and where is it coming from?
+Ewan: Huh? What sound? Hey, you’re right... I do hear a weird noise. You could hear that? Neat! You’ve got really good hearing. I wonder what it is...
+Eirika: There it is again. Prince, is this...
+Innes: Eirika.
+Eirika: Yes?
+Innes: Get your troops ready. Tell them to prepare for battle... We’ve been spotted. Monsters are coming.
+Tethys: Ewan, it’s dangerous here. Get behind me.
+Ewan: No way. I’m gonna fight too.
+Tethys: No. You’re too young. You’re not ready for this. Are you going to do as I say or not? I don’t know what I would do if you were to get injured.
+Ewan: Oh...OK.
+ 
+L’Arachel: What spacious chambers. Hm... A bit musty, but I like it. I’ve decided. We’ll bed here for the night. I do wonder where Rennac disappeared to, though. I told him not to wander off, but...
+Dozla: Hmph! Lady L’Arachel, this could be trouble.
+L’Arachel: What is it, Dozla?
+Dozla: Look there! Through that break in the fog... Looks like we’ve got some nasty creatures running ’bout this place.
+L’Arachel: ...I can’t see a thing. But this can be nothing but good fortune shining down on us again. Losing our way in the mountains and running into these abominations? There can be no doubt: we were brought here to destroy these foul things! Come, Dozla! We fight!
+Dozla: Gwah ha ha! My heart cries out for battle!
+
+@Recruit-Talk 
+%Eirika,L'Arachel
+Eirika: You... L’Arachel!
+L’Arachel: Hello! So it’s true! Blessings do come in threes!
+Eirika: L’Arachel, this place is dangerous. You should find safe haven elsewhere.
+L’Arachel: Oh, you needn’t worry about us. As you well know, my divine mission is to purge the land of these obscenities. I will show you the splendor that is L’Arachel in action! Bear witness!
+Eirika: If you insist. At least let us join forces for the time being.
+ 
+%L'Arachel,Dozla
+L’Arachel: Dozla.
+Dozla: Gwah ha ha! What is it, Lady L’Arachel?
+L’Arachel: We’re going to join these good people and eradicate these unclean monstrosities.
+Dozla: Sounds fun! What would you have me to do?
+L’Arachel: Oh, just carry on in your normal manner: destroy, destroy, destroy. But do be sure to enjoy yourself.
+Dozla: Gwah ha ha! I am your obedient servant!
+
+@End 
+Eirika: Thank you, L’Arachel.
+L’Arachel: Please, speak nothing of it. It is heaven’s dictate that I come here to cleanse this charming place of monsters. What’s important is– Oh my! I just realized I have not yet had the honor of your name.
+Eirika: Oh, you’re right. How strange... We’ve met so often now that I had assumed you already... Please forgive my lack of manners. My name is Eirika.
+Seth: Milady...
+Eirika: It’s all right, Seth. She’s clearly not our enemy.
+L’Arachel: Eirika... Aha! So you must be Princess Eirika of Renais! It is simply an honor to meet you. And how strange that we should meet again in this place. You must be lost as well. This continent is so confusing.
+Eirika: Um, yes. Actually, we’re not lost at all. You see...
+ 
+L’Arachel: Is that so! Well, clearly, I must be allowed to accompany you.
+Eirika: You want to travel with us? I appreciate your offer, but our journey is far too perilous. I do not wish to pull you into this madness.
+L’Arachel: No, no, no. There can be no doubt that we were sent here to aid you. It is all part of the grand design. I, L’Arachel, shall play my role and fulfill my divine duties. This I swear!
+Seth: Are you sure this is wise, Princess?
+Eirika: Don’t worry, Seth.
+ 
+L’Arachel: ...Well, that’s that, Dozla. You and I are now traveling with Eirika and her companions.
+Dozla: Gwah ha ha! I understand. For you, Lady L’Arachel, I would do absolutely anything! I would run to the ends of this world and dive into a sea of evil!
+L’Arachel: How very like you, my dear, dedicated Dozla! So noble! Come! We’re off!
+Dozla: Gwah ha ha!
+ 
+Ewan: Teeeaaaacher... Hellooooooo... That’s strange. He’s not here. Must be out wandering again.
+Eirika: He’s out? That poses a problem. Do you know when he’ll return?
+Ewan: Hmmm... I don’t know. He often goes out and looks for people in need.
+Saleh: ...I believe I told you it would be best to stay away.
+ 
+Saleh: I’ve been charged with a mission and must depart again soon.
+Ewan: Ah! Teacher!
+Eirika: Y-you... We’ve met before, haven’t we? You were looking for someone...
+Saleh: ...Oh, yes. And now we meet again.
+Ewan: These people say they want to go through Caer Pelyn. I could guide them myself, but I thought it might be better if you went, too. That’s why I brought them here. What do you say? Will you guide them?
+Saleh: ......
+Eirika: Would you, please?
+Saleh: ...Very well. I’m heading there now. If you need to go to Caer Pelyn, you’re free to follow me.
+Eirika: You don’t mind?
+Saleh: We have little interest in the outside world, but we do not refuse travelers. I should warn you: the road is not easy, and you look very weary. You should rest a night before attempting the mountains.
+Innes: We do need rest, it’s true. We are all exhausted from our encounter with those creatures. We must give our men time to heal, or they’ll be useless in an emergency.
+Ewan: It’s settled then. I’ll go on ahead and let the elder know we’re coming. See? Even when there’s no fighting to be done, I’m still useful!
+ 
+Eirika: No, wait! ...He’s gone. I wonder if he’ll be all right.
+Innes: Idiotic boy. I understand his need to be helpful, but...
+Saleh: Ewan knows this land well. You needn’t worry about him. We’ll depart at sunrise. I suggest you all get some rest.
+ 
+Glen: Princess Eirika of Renais. Hold.
+Eirika: Who? You.. You’re General Glen of Grado. We met once in the capital, didn’t we? You were very kind to me. However, if you’re here now, I have to assume this means...
+Glen: Yes, it does. I wish our reunion could come under different circumstances. Eirika, I must tell you, I come here on the direct orders of the emperor. I’m to bring to justice the rebel army leader who’s been terrorizing Carcino. It’s you, Eirika. They say you’ve been murdering innocents.
+Eirika: What? Wait! What do you mean? I...
+Glen: ...If you have something to say, I would hear it. I know all too well that Grado has robbed you of your homeland, but even so... I do not believe revenge could drive a woman like you to such depths. And yet... here you are in Carcino with a small army under your command. And the emperor tells us that you massacred everyone in Port Kiris.
+Eirika: That... That’s a lie! I could never...
+Glen: Go on.
+ 
+Innes: ...This is ridiculous. Believe what you want. Could one of the legendary Imperial Three honestly be as stupid as this?
+Glen: ...What do you mean?
+Innes: Carcino betrayed Frelia and set a pack of mercenary dogs to kill me. And you paint Eirika a rebel instigator? It’s an absurd farce. Your emperor commits horrors, and you believe Eirika is a criminal?
+Glen: ...What are you saying?
+Innes: You truly are blind, aren’t you? You’re one of the Imperial Three, and yet you can’t see your emperor’s plan?
+Eirika: That’s enough, Innes. There’s no need to provoke him. General Glen, we’ve told you what we know to be true, what we’ve seen firsthand. We don’t want to fight you... But if you push us, we will drive you back to Grado with your tail between your legs.
+Glen: ...I see. You...are more observant than you know. I am ignorant of the emperor’s designs. General Duessel and I both questioned the wisdom of this war. And if you really are innocent of the crimes attributed to you... Why would His Majesty lie to us? I must know the answer.
+Eirika: So, you...believe us?
+Glen: The Princess Eirika I met long ago was kind and merciful in spirit. You’ve faced relentless hardship, and yet that selfsame spirit remains true. ...Let’s put our fight aside for now. I will learn the truth. Then I will once again perform the duties of my office. If you have lied to me today, I will hound you to the very grave itself.
+Eirika: Very well...
+ 
+Valter: Glen. Where do you think you’re going?
+Glen: Valter...
+Valter: Tsk, tsk. What am I to make of this? Those little birds I saw flitting away into the mountains looked vaguely familiar. What do you suppose would happen if it were known you let Eirika escape?
+Glen: Do as you will. I’m returning to the capital. I have questions for the emperor. Clear the path, Valter.
+Valter: Hold on now. No reason to rush off, is there? After all, this is where you’re going to die. See?
+Glen: ...What are you babbling about?
+Valter: Heh heh... We were a grand trio–the Imperial Three: You, Duessel, and me. But my place among you was stolen, and I was exiled from Grado.
+Glen: You slaughtered people who had no intention of fighting. The emperor’s punishment was just and warranted.
+Valter: Heh heh...heh heh heh... After my fall from glory, only desire kept me alive. Desire for revenge. My hatred burned so fierce that I was only barely able to keep my sanity. That hatred keeps me warm still today. Oh, how it burns...
+Glen: ......
+Valter: Hear me, Glen, wyvern general of the Imperial Three. I live for battle. I crave it. I have no need for peace. That is why you must die.
+ 
+Glen: Cur! You’re mad!
+Valter: A battle between generals... Sends the spirit soaring, eh? Come, Glen! Entertain me! Ha ha ha ha ha ha!
+Glen: Urrgh...
+ 
+Valter: Go. The small fish are yours.
+ 
+Valter: Heh heh... This is merely the beginning. Endless battle, war without end... Heh heh... ha hahahahahaha!

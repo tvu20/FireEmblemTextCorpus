@@ -1,0 +1,107 @@
+@Intro 
+Seth: Princess Eirika, are you well?
+Eirika: ......
+Seth: Princess Eirika!
+Eirika: ...Oh...Seth?
+Seth: Yes, it’s me. Please, you must rest. If we continue like this, you’ll...
+Eirika: No... it’s all right. We’re all suffering... We’re still completely surrounded by Grado’s armies... We may all die at any moment... I can’t lose focus now. Has anything changed?
+Seth: Unfortunately, no. On every front, our forces meet with defeat upon defeat. Rausten’s knights are scattered and worn, and the enemy is closing in around them. And this accursed sand... Most of the units can’t get proper footing and are being slowed down. Mounted units are having the worst time, as their movement is severely limited. Princess Eirika... I ask that you leave for safety. We’ll use flying units and magic users to hold the foe here.
+Eirika: No. I will not retreat. If I give up now... My brother would not forgive me. I’m the princess of Renais. I will fight, either to victory or to death. Brother, I...
+ 
+Riev: Valter... You should stop playing around. If you don’t’ finish off Eirika’s forces swiftly... Her brother’s left the capital. He should be arriving here shortly. You don’t want to be fighting her still when he arrives. Trust me. We are equals here in Grado’s army. Would you like me to assist?
+Valter: All you need to do is vanish, you disgusting old man. Eirika is mine. I won’t let you have her. She is so strong, so beautiful... She’s the prey I’ve dreamed of.
+Riev: Heh heh heh... Your fangs are still sharp, eh? Good. Very good. Ah, Valter... You’re a beast. You’re bound to no country. You care nothing for friend or foe. Kill a man, claim a woman... You live for nothing more, you wretched beast. That’s your strength. That’s what makes you stronger than any many alive. A beast acts without remorse. Man’s morality cannot win. It’s nature’s way... The stage is all yours, Valter. Do not fail to get the girl’s bracelet. Our master demands it...
+ 
+Valter: The time is nigh, Eirika... Come to me!
+
+@Battle 
+Ephraim: That building beyond the dunes is Jehanna Hall. I expect that’s where we’ll find Eirika and her companions. Duessel, Knoll. It’s time we rescued Eirika. I’ll need all your strength.
+Duessel: Of course, Your Highness. I’ve pledged my service and my axe. You shall have both.
+Knoll: Princess Eirika... She’s a friend of Prince Lyon’s, isn’t she? I’ll do what I can to help you. I feel like that is what Prince Lyon would want.
+Ephraim: The enemy’s numbers are great, but we do not need to face them alone. We must move quickly to join forces with Eirika and her company. I’m sure Seth and Innes will be there waiting for us. Let’s move!
+ 
+@Visit
+Man: According to this ancient document... ...There was a huge battle here long, long ago. Every day, I’m out here digging up ancient weapons and artifacts out of the sand. There are still more to be found, of that you can be sure. It’s even said a long-dead sage left a copy of Metis’s Tome out here... Oh! But I won’t give that to anyone if I find it. Not a chance!
+ 
+Young Man: All the highest generals in Grado’s army receive titles named after gemstones. The emperor currently has six gemstones fighting in his service. Caellach, the Tiger Eye, commands the forces fighting here. The Moonstone, Valter, is taking part in this battle as well. Glen, also known as the Sunstone, died in the mountains of Carcino. Selena Fluorspar was killed in western Grado. Duessel, whom they call Obsidian, is missing in action... The Blood Beryl, whose real name is Riev, has also gone missing. Hm? How do I know all this? I know I may look young and naive, but this is my job. I’m here to pass this information along to help you out. And it’s good information, too, so don’t waste it.
+ 
+Old Woman: Jehanna Hall...has fallen. I wonder what’s become of Queen Ismaire. You there... Take this, and do some good with it.
+
+@Battle-Talk 
+%Ephraim,Eirika
+Ephraim: Eirika!
+Eirika: Brother? Is that really you? You’re not some phantom, are you?
+Ephraim: No, it’s really me. Hold. Enemies approach.
+Eirika: ...Ephraim. Even when we were children, you were always there to protect me.
+ 
+%Innes,Ephraim
+Innes: It’s been a long time, Ephraim.
+Ephraim: Innes, is that you?
+Innes: You arrived sooner than I’d expected. Eirika is safe. You’ve no need to worry.
+Ephraim: I’ve heard that you’ve been watching over Eirika. I should like to offer you my gratitude.
+Innes: It’s not necessary. Besides, there’s still a war to be won. We can’t rest easy till every last Grado soldier’s been defeated.
+Ephraim: You’re right. Let’s go!
+
+@Boss 
+Caellach: You’re a stepping-stone... And I’m moving up. Don’t take it personally.
+ 
+Caellach: Bla-Blast... A bit more, and...a crown... would have been...mine...
+
+Valter: I’ve no use for these bloodless minnows... Give me prey that will sate my bloodlust... I hunger!
+ 
+Valter: Urggh... Gaaaah!
+
+@End 
+Eirika: Brother!
+Ephraim: Eirika!
+Eirika: Oh, Ephraim... I’ve missed you so.
+Ephraim: And I’ve missed you. I can’t tell you how happy I am to see you safe. Oh, I almost forgot. I have something to give you.
+Eirika: What are these?
+Ephraim: These are called Sacred Twins. We took these relics from Grado. The dark tome Gleipnir and the black axe Garm... I doubt either of us can use them, but... Why not see if one osf your companions can use them. They might have better luck.
+Eirika: They’re from Grado? Does this mean Grado Keep has fallen?
+Ephraim: Yes. I conquered the capital and defeated Emperor Vigarde. But still...
+ 
+L’Arachel: Eirika, may I make a suggestion? We’ve been able to join forces here so... How about if we all get together and trade information. There are people on both sides waiting after all.
+ 
+Ephraim: I see unfamiliar faces among you here, so allow me to introduce myself. I am Ephraim, Eirika’s brother and crown prince of Renais.
+L’Arachel: I’m Princess L’Arachel of Rausten. The pleasure is mine, of course.
+Ephraim: I’ll begin by telling you of how we’ve fared in our mission. We seized the Grado capital and defeated her emperor, Vigarde. Grado’s capital guard have, to a man, surrendered and laid down their arms. Pockets of resistance remain, but the war itself is over.
+Innes: Is that so?
+Ephraim: However, something remains that still bothers me. A Grado man named Knoll told me about something called a Dark Stone.?Their mages had uncovered lore that led them to craft a powerful magic stone. This Dark Stone may have been the catalyst of Grado’s transformation. It seems to be the source of that black wave of energy Myrrh described. Vigarde died some time ago, but the power of the stone played him like a puppet. The war and everything that passed since was planned by the Dark Stone’s master.
+Innes: Well? Who is it?
+Ephraim: ...I still can’t believe it, but I’ll tell you nonetheless. According to Knoll, the man behind this is Lyon, the imperial prince. He said Lyon’s got the Dark Stone.
+Innes: Figures it’s Prince Lyon...
+Eirika: No, that doesn’t make any sense. Ephraim and I know Lyon better than that. We’ve been friends for years. Lyon’s not the sort of person who could start a war like this.
+Innes: But, Eirika...
+Eirika: I saw Lyon recently. Ephraim, you might know this, but after I abandoned the sea route to Rausten, I traveled overland with Prince Innes to Jehanna. We ran into trouble with Grado’s forces, and I chanced upon Lyon. He didn’t share the details of his situation, but he intimated that he was on our side. Despite all appearances, he was on our side. So Lyon...
+Ephraim: Eirika, I also met Lyon.
+Eirika: Did you really?
+Ephraim: Yes. But, he was like a completely different person. To be honest, he didn’t seem to be completely...human.
+Eirika: Ephraim... What are you saying?
+Ephraim: I’ll tell you what I saw. I found Lyon inside Grado Keep. This is what he told me: He said he was behind this war. He said he’d befriended us solely so that, one day, he could invade Renais... He told me he killed our father.
+Eirika: That... That can’t...
+Ephraim: I know. I can’t believe it either. I refuse to believe it. How could he have planned all this since he was a child... I simply can’t fathom it. I’ve heard Lyon changed when he acquired the Dark Stone. I’ve no interest in magic, but... There was something uncanny about him. It seemed almost as though he were being controlled by something himself.
+Eirika: ......
+Innes: The two of you might find this hard to accept, but... The state of Prince Lyon’s heart matters little. He has the Dark Stone. That rock is the cause of all that’s happened. The prince must be stopped.
+L’Arachel: Not yet. There is something that needs doing first.
+Eirika: L’Arachel?
+L’Arachel: Prince Ephraim, I do believe you felt it as well. The Dark Stone held by Prince Lyon... It exudes a malefic miasma... We might be able to handle Prince Lyon alone, but that stone is beyond our ken.
+Eirika: Then what do you suggest?
+L’Arachel: The Sacred Stones.
+Eirika: The Sacred Stones?
+L’Arachel: We’ve all heard the legend of the five Sacred Stones. They alone possessed the power to seal the Demon King away forever. So, of course, to dispel demonic magic, we must use the Sacred Stones!
+Innes: You expect us to pin the outcome of this war on some fool legend?
+Ephraim: ...Not just the legend. We also have hope. According to Lyon, he has already seen to the destruction of Grado’s, Frelia’s, and Jehanna’s stones.
+Eirika: Hm. That explains something... Grado forces attacked me, intent on destroying the Stone of Renais. If that could be the reason they chose to invade Renais... The power of the Sacred Stones may be greater than we’d ever known.
+L’Arachel: Yes, exactly! If we acquire a Sacred Stone, we’ll be able to oppose the Dark Stone’s might!
+Innes: But three of the stones have been shattered, and our options are few. Do you suppose that, during the invasion of Renais...
+Ephraim: No, I don’t think so. The Stone of Renais is hidden by the power of Eirika’s and my bracelets.
+Eirika: Grado has made many attempts to take our bracelets. Every one has failed, and so the stone may still be safe.
+Ephraim: We have to confirm that, of course. We’ve defeated Grado, and we must turn our eyes to our homeland. It’s time to return to Renais.
+ 
+Saleh: Lady Myrrh.
+Myrrh: Saleh...
+Saleh: I’m grateful to see you well. The people of Caer Pelyn will be overjoyed that you’re safe.
+Myrrh: I must apologize to you, Saleh. You were there to protect me from the very start of my journey. When we were attacked, I was separated from you, and... I’m so sorry to have worried you.
+Saleh: Lady Myrrh. As long as you are safe, we have nothing to be worried about. It will be my honor to serve you until your mission is complete.
+Myrrh: Thank you, Saleh.

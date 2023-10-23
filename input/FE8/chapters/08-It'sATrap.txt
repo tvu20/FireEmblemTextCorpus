@@ -1,0 +1,110 @@
+@Intro 
+Orson: This way, Princess Eirika. Prince Ephraim is being kept in a cell back here.
+Eirika: Very well, let’s go.
+Seth: ...Sir Orson. How long ago were you taken prisoner?
+Orson: Some two weeks past. Prince Ephraim and I were forced to surrender. We’ve been held captive here in this dungeon since that black day.
+Seth: Did you gain any news from your captors during that time?
+Orson: Unfortunately, no. Not a word... Our daily meal was brought to us by servants from the neighboring village. They were instructed not to speak to us, and we heard nothing of the war. Tell me, Seth. How fares Renais?
+Seth: ...Renais has fallen. King Fado... The king is dead.
+Orson: Dead... My King... My apologies, Princess Eirika. I have served you poorly....
+Eirika: You’re not to blame, Sir Orson. We must look to the future, not find fault in the past. The Grado army pursues me in hopes of acquiring my bracelet. My brother wears this bracelet’s twin, and he is in danger, too.
+Orson: Bracelet? Ah, I remember... Prince Ephraim still wears the bracelet. And Grado is after them? If that’s the case, Princess... Perhaps you should entrust the bracelets to someone else.
+Eirika: Perhaps, but...
+Orson: Give them to me or Seth. Let someone you trust guard them. If the empire desires you bracelet, you are in danger as long as you hold it. For your own safety, Your Highness, please. What say you? We must not allow the Sacred Stone of Renais to be taken.
+Eirika: Everything you say is true and sensible, yet...
+ 
+Seth: ... Sir Orson. I am sorry for this, but please give me your weapons.
+Eirika: Seth?
+Orson: What are you talking about, Seth? Can’t you see I’m unarmed? Do you think they allow prisoners weapons? What kind of injury have you taken that you suggest such foolishness?
+Seth: If I am mistaken, then I will give you all due apologies. However, there are questions I have that I cannot answer. Too many questions. Why did no enemy reinforcements come from the castle during our battle outside? Why would you escape your cell and yet leave Prince Ephraim in chains? How do you know of the tie between the bracelets and the Sacred Stone?
+Orson: Seth, there is some misunderstanding here. I...
+Seth: And why... Why do you conceal a blade within your doublet?
+Eirika: ...What?
+Orson: ...Very well. You haven’t changed a bit, Seth. If only Eirika had been alone. You, however, simply will not be deceived.
+Eirika: Orson! What is the–
+Seth: Orson. Why did you betray Renais?
+Orson: My fondest with will be granted... To spend the rest of my days in the embrace of my loving wife once more...
+Eirika: What are you saying?
+ 
+Tirado: That’s enough. You’ve done well, Orson. I’ll take over now. You may return to your beloved wife.
+ 
+Seth: Who are you?
+Tirado: We’ve never met. I am Tirado. Loyal and talented aide to Valter, general of the Grado army.
+Seth: You’re that monster’s–
+Tirado: And you are General Seth of Renais, yes? I thought to catch a little bird in my net, and it seems instead I’ve snared a hawk.
+Eirika: Where is my brother?!
+Tirado: Ah, yes. Your brother. He’s not here. The coward fled Lord Valter’s pursuit... Somehow, he escaped the castle. And escaping under these conditions... Tch! Such stubbornness is quite annoying. It was my cunning that led us to turn this unfortunate blunder to our advantage. I spread the rumors myself. I led the villagers to believe he was our prisoner. What better trap with which to catch his sweet, devoted sister?
+Eirika: My brother escaped?
+Tirado: Yes, but your no-doubt emotional reunion will have to wait until the afterlife. Let’s end this, shall we? First, to destroy the bridge and cut off your only avenue of escape... All soldiers to arms! Kill the princess! Take her bracelet!
+ 
+Seth: Princess Eirika, we have to get away from this place!
+Eirika: But how? The bridge is gone!
+Seth: Blast!
+Eirika: Oh, Brother... I’m so sorry... I...
+
+@Battle 
+Ephraim: Eirika!
+Kyle: Prince Ephraim, I hear sounds from the east corridor. Sounds like fighting.
+Forde: Do you think it could be General Seth and Princess Eirika?
+Ephraim: We have two goals here, men: save Eirika and vanquish the enemy. Kyle. Forde. Are you ready?
+Kyle: Yes, Your Highness.
+Forde: As always.
+Kyle: Lord Ephraim, we should join forces with Princess Eirika first. We should be able to reach them by way of the eastern corridor.
+Forde: Come now, Kyle. That seems like a lot of trouble when we could just crush Grado between us.
+Kyle: A lot of trouble? Forde, you’re as insolent as you are careless! If anything were to happen to Princess Eirika, we Knights of Renais would...
+Forde: Fine, fine. I see where you stand. Calm down, before you boil over. Prince Ephraim will decide. How shall we proceed, Your Highness?
+Kyle: We await your command, Prince Ephraim.
+Ephraim: Both of you, follow me!
+
+@Battle-Talk 
+%Ephraim,Eirika
+Ephraim: Eirika, are you well?
+Eirika: Brother!? Is it really– You’re alive! You’re alive!
+Ephraim: Well, of course I am. After we escaped Renvall, I thought I’d strike a blow against the emperor himself. When I heard that you’d been waylaid by the enemy, however, I turned back to find you. Looks like my timing was impeccable.
+Eirika: I’m so sorry. The irony is that I was trying to rescue you. All I did was interfere with your plans...
+Ephraim: What are you talking about? You came to help me, didn’t you? Your efforts alone are enough to inspire me. Come on, Eirika! The enemy awaits.
+Eirika: All right!
+ 
+%Seth,Ephraim
+Seth: Prince Ephraim.
+Ephraim: General Seth! You’re safe!
+Seth: Princess Eirika is safe as well. I’m afraid I have much news to relate to you. That will have to wait, though. For now, we must cut our way out of here.
+Ephraim: Yes. Let’s conclude our business here before we talk of other matters. Come on!
+Seth: Yes, sire!
+ 
+%Franz,Forde
+Franz: Brother!
+Forde: Ha! Franz! How’ve you been?
+Franz: I should ask you! We’d heard you were captured by Grado’s men. I was worried.
+Forde: Worried? I ride with Prince Ephraim, little brother. Death will have a tough time catching anyone who rides with our prince! But it’s not like we’ve avoided trouble altogether, that’s for sure. Hm? Say, have you grown taller on me?
+Franz: I have. I’ve also finished my training. I’m now a sworn Knight of Renais. You just watch–I’m going to be on par with General Seth one day!
+Forde: You want to be like the general, eh? ...What about me?
+Franz: Oh I... I still want to be like you, too, Brother!
+ 
+%Kyle,Seth
+Kyle: General Seth!
+Seth: Well met, Kyle. I never thought for a moment that you could be bested easily.
+Kyle: No, sir! And I never doubted that I would see you again.
+Seth: Kyle. About Orson...
+Kyle: We heard it all. Unbelievable, isn’t it? But facts are facts.
+Seth: Yes. If Orson can turn his back on Renais... We remaining knights will have to work all the harder to prove ourselves! Let’s go, Kyle.
+Kyle: Yes, sir!
+
+@Boss 
+Tirado: Hmm... My men were unable to finish the job, were they? It falls on me to show you my own special brand of power.
+ 
+Tirado: Very...impressive... However... I expect you’ll wish you’d died here on my steel. Lord Valter is...not nearly as merciful as I...
+
+@End 
+Eirika: Brother...
+Ephraim: I worried you, didn’t I, Eirika? And you as well, General?
+Seth: Not at all. We’re happy you’re safe. But tell me, Prince, do you know of Orson’s treachery against you and all of Renais?
+Ephraim: Yes, though I learned of it all too late, after we’d been trapped at Renvall. I still find it difficult to believe that after all his years of service to Renais... I am morally responsible for his plight.
+Eirika: Ephraim...
+ 
+Myrrh: ...Ephraim.
+Ephraim: What is it, Myrrh?
+Myrrh: Something’s coming... It’s drawing near. Dark...big...and great in number.
+Ephraim: I understand. It looks like we should get out of here.
+Eirika: Um, Brother? This girl... Her hair is indigo... Where did...
+Ephraim: Ah, that’s a long story. For now, we must move. Suffice to say Emperor Vigarde has enlisted some... otherworldly powers. We must warn everyone of the danger.

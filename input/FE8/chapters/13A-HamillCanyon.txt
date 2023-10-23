@@ -1,0 +1,126 @@
+@Opening 
+Jehanna, home of dancing white sands. This largely barren desert nation is infamous for its mercenary forces. In accordance with her husband’s dying wish, the beautiful Ismaire rules Jehanna. The Queen of the White Dunes governs Jehanna with Grace and Honor. When he was young, her son left Jehanna. His whereabouts remain unknown. After passing through Caer Pelyn, Eirika arrives in Jehanna. There, she finds the nation embroiled in combat with Grado’s forces.
+
+@Intro 
+Cormag: My brother is...dead? That can’t be! That’s impossible!
+Valter: There’s no mistake. Look for yourself. I’ve brought his corpse with me. That’s him right over there, isn’t it?
+Cormag: No... Brother...
+Valter: Not a pretty sight, eh? You’ll be hard pressed to ready that for a proper burial. But listen, Cormag. There’s no reason for you to grieve. After all, who is better than you to replace your brother in His Majesty’s service? Picture it: General Cormag, the new and improved Sunstone, eh?
+Cormag: Who did this... Who is responsible? Who!?
+Valter: Glen’s last orders were to find and subdue Eirika. ‘Tis a pity I was delayed. I arrived to witness the final blow myself. I watched Eirika run her blade right through his chest and then flee.
+Cormag: Eirika?! Where is she now?
+Valter: Hm? What would you do if I told you? Without orders from His Majesty...
+Cormag: ANSWER ME!
+Valter: ...In the eastern mountains of Carcino. The forests are thick in that region. It won’t be easy finding her, but...
+ 
+Valter: Gone already? I’ve sent a gift your way, Eirika, but I trust you can handle it. You’re my girl after all. I need you to be strong for me... Heh heh... ha ha ha ha ha!
+ 
+Messenger: Messenger! Messenger! I bring word from Frelia!
+Innes: Go on. What news do you bring?
+Messenger: Prince Innes! You’re alive and well! When the reinforcements rode into Carcino, you were nowhere to be seen... We thought perhaps the enemy forces had reached you and... It’s good to see you well, milord.
+Innes: I’m sorry to have troubled you. But remember, the duty I bear is a harsh master. It will not let me die easily.
+Messenger: Of course. Prince Innes...
+Innes: Yes, what word do you bring of Frelia? Speak!
+Messenger: Yes, Your Highness! Frelia has invaded Carcino and engaged the traitor Pablo’s mercenary army. With aid from the elder Klimt, we are crushing the foe where we find them. Pablo’s faction is retreating ever southward, toward Jehanna...
+Innes: Towards Jehanna? They must be planning to join with the Grado forces there.
+Eirika: Pardon me, but I must know... Do you have word of my brother?
+Messenger: Yes. Prince Ephraim has forced them surrender of Grado’s fortress at Rigwald. He is now marching onward toward the imperial capital.
+Eirika: Toward the capital...
+Innes: That fool... Emperor Vigarde himself and his imperial guard are in the capital. It’s too strong a force... Even for Ephraim.
+Eirika: No... I believe in my brother. I know he fights still. The bracelet tells me so.
+ 
+L’Arachel: Ah, Eirika. Is it time to go already?
+Eirika: L’Arachel. We’re going to break through the Grado lines and join the army of Jehanna. You should keep to the rear where it’s safe...
+L’Arachel: No, I will stay with you. Confronting evil boldly is the sworn duty of any ally of justice. And it may be that Grado’s goal is the Stone of Jehanna... I cannot stand by and let it be destroyed.
+Eirika: L’Arachel? Where did you come by such information?
+L’Arachel: Hm? That...uh, well...the...wind whispered to me in the night.
+Eirika: The wind? Whispered to you?
+L’Arachel: Yes, that’s right. ...And according to that gentle breeze, there are knights riding this way from Rausten even as we speak. If we can but hold out until they arrive, the battle will surely be ours. Come, Eirika. Let us be on our way.
+ 
+Eirika: W-wait a moment. L’Arachel? Who are you?
+ 
+Caellach: They should be arriving anytime now. Are you ready, Aias?
+Aias: Mm. Everything’s in place. This Princess Eirika supposedly defeated General Glen. I wonder... If it’s true, then she’s a foe to be reckoned with, and no doubt. Still, there’s no reason to worry. I can best her. I know it.
+Caellach: You’ll take her, I’ve no fear. We fought as mercenaries together, and I know what you’re capable of. I could search the continent over and not find a man to match your skills.
+Aias: I’m honored to hear you say that. But I’ve no interest in the titles and trapping of Grado’s Imperial Army.
+Caellach: Don’t say that. You’re glad you came with me, right? You know we were both sick to death of living like desert rats. I’m going to be king one day. This war is just the beginning.
+Aias: Ah... It starts again.
+Caellach: Word has it that the Knights of Rausten are riding from the north. They’re mine. I can trust this mess to your capable hands, can’t I, Aias?
+Aias: You remember what they called me when we were mercenaries, don’t you? I was never once wounded on the field of battle. Not once... My skill is not garnish and loud like yours, but I’ve never known defeat.
+Caellach: Yes, that is true. I’m depending on you, Aias.
+ 
+Aias: ..... All units prepare for battle.
+ 
+Seth: Princess Eirika. The enemy is arrayed before us. We’ve word that Pablo’s mercenary army is closing in from the rear. You must be cautious.
+L’Arachel: All we have to do is hold them off until the Knights of Rausten arrive. If we can do that, victory is as good as ours. Let’s get started, shall we, Eirika?
+Eirika: Indeed!
+
+@Boss 
+Aias: It’s not over yet. Victory still hands in the balance. They key is defeated the enemy commander, but...
+ 
+Aias: Very...impressive. You’ve pierced the battle formations I’d perfected... No one’s ever done that. Renais’s tactician has earned my highest regard.
+Soldier: Rausten Knights?! No... All troops! Retreat at once!
+
+@Recruit-Talk 
+%Eirika,Cormag
+Cormag: You’re Eirika, aren’t you?
+Eirika: And you’re...
+Cormag: You don’t know me, but you know my brother well enough. I’m Cormag. I’m the brother of Glen, general of the Grado army, whom you killed?
+Eirika: What?
+Cormag: This is no longer war, and this is not a battlefield. This is a duel, and I fight to avenge my brother. He died in combat, and I’ll not foul his name by murdering you unarmed. But I will have vengeance.
+Eirika: Hold! What is the meaning of this? Glen... Are you telling me General Glen is dead?
+Cormag: Do not play me for a fool! You will not... Your lies do nothing but stain your honor. Nothing more.
+Eirika: You’ve got it wrong! You’re making a mistake. Your brother and I never fought. He lowered his lance and left the battlefield to confront your emperor.
+Cormag: ...My brother? You lie! Where is your proof?
+Eirika: I’ve no proof. But... Here are the words he spoke to me. He told me he believed I possessed a gentle heart when we met before. He said I had not lost that quality...
+Cormag: ..... I see... Those are indeed my brother’s words. But then who? Who benefits from– ...Ah! ...Valter!
+Eirika: What is it?
+Cormag: ...Princess Eirika of Renais. I would be your ally.
+Eirika: What?
+Cormag: I don’t care why you’re fighting. I’ve no interest in your goals. I want nothing but revenge, and I will have it. If I can kill Valter with these two hands, what care I if Grado brands me a traitor?
+
+@Battle 
+Soldier: Elder Pablo, there’s fighting ahead.
+Pablo: Grr...I’ve misread the situation. I can’t believe I’ve been forced out of Carcino. It’s those accursed Frelia Knights riding down on us from the north. If things don’t change quickly, I’ll be forced to appeal to Grado for aid. We must prove ourselves worthy allies of Grado. We must have them in out debt! First, I’ll use my magic to bury those enemies in the distance.
+ 
+@Boss
+Pablo: Grrr... I’ve got more money then you’ve ever seen. What say you? Join me, and take a seat of power at my side.
+ 
+Pablo: Argh... It can’t be...I... You can’t have my gold... It’s all...mine...
+
+@Battle
+Aias: Rausten knights?! That means Caellach’s– Curses... All troops! Retreat at once!
+
+@End 
+Soldier: Forward the lances! Show them the might of Rausten!
+Eirika: The Knights of Rausten! Just as L’Arachel said... Reinforcements have arrived in Jehanna!
+L’Arachel: What I’d like to know is what took them so long! However, it seems that all has worked out in the end.
+Soldier: Princess! Knights of Rausten, 2nd battalion, reporting for duty!
+L’Arachel: Well done. You may lift your eyes.
+Eirika: Princess? L’Arachel, you’re a–
+ 
+L’Arachel: What? Oh, you mean... Don’t be silly. This is nothing. Please don’t concern yourself.
+Dozla: I do believe, milady, that your disguise has been penetrated.
+L’Arachel: Oh... I suppose there’s naught to be done about it now. Very well, Eirika. You’ve found me out! The beauteous wanderer who’s been your boon companion is none other then... the jewel of the theocracy of Rausten, Princess L’Arachel herself! I was acting under divine order to strike down evil in this land.
+Eirika: ..... Is that so? But why did you...
+ 
+Soldier: The truth is... The princess was enflamed by the words of the court troubadour, Saaga... She forced us to allow her to journey forth anonymously on a quest for justice.
+Eirika: I-I see...
+Soldier: Princess. This is from King Mansel.
+ 
+L’Arachel: What’s this? War funds? Oh, what a grand uncle. He’s just so thoughtful. Princess Eirika of Renais. Rausten will not yield to Grado. Together, let us defeat the empire in the name of righteousness!
+Seth: Princess Eirika. Princes Innes. I’ve received word from the front. The palace of Jehanna was attacked by Grado forces and has surrendered.
+Innes: What? How did that...
+Eirika: And the queen? Is she safe?
+Seth: That remains unknown.
+Innes: She may yet live. We must hurry.
+Seth: The palace has already been occupied by imperial troops. The Grado army is being led by Lyon, the imperial prince.
+Eirika: Lyon?!
+L’Arachel: What it is, Eirika?
+Eirika: It’s nothing... ...Lyon...
+ 
+Caellach: Hey, Aias.
+Aias: Caellach...
+Caellach: That was something awful. I never expected to see you get beaten so roundly.
+Aias: Yes. It was a complete failure. The Rausten knights arrived far more quickly then I’d anticipated. But it doesn’t matter, does it? Whether I won or lost? You were planning on abandoning me from the start, weren’t you?
+Caellach: ...Yeah, sorry. I’m not going to let things end for me here. I want to rise... To climb higher and higher. I will not be chained to my past. I will not be chained to you. I truly apologize, but you die here. Good-bye, my friend.

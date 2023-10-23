@@ -1,0 +1,85 @@
+@Opening 
+With her bracelet recovered, Eirika sets out with renewed determination. Passing through the ancient forest Za’ha brings them close to Grado’s border. As they near the town of Serafew, Eirika’s fears are assuaged by the lack of troops. But never-before-seen terrors crawl in the shadows of the trees.
+
+@Intro 
+Seth: We’re approaching Serafew, at the border of Renais and Grado. Once we cross, we’ll be in Grado... Renvall won’t be much farther.
+Eirika: That is, assuming we can cross the border without mishap... Oh! Look! Over there!
+ 
+Eirika: Those strange figures... What...What are they? Are they...human? I’ve never seen anything like it. What could they be?
+ 
+Artur: What have we done to deserve the trials before us? What is happening to us? How could such abominations walk out lands while the Sacred Stones protect us?
+Lute: ......
+Artur: Lute, please, it’s dangerous outside the walls. Stay here in the village.
+Lute: Those are revenants, aren’t they? They were the vanguard of the Demon King in the days of darkness. The Tome of Nazania describes them in chapter 2, section 7, paragraph 8.
+Artur: You know of them?
+Lute: Duh! I’m a prodigy. I can recall almost everything I see or hear. According to the book, revenants attack using razor-sharp claws. Sounds painful, wouldn’t you say?
+Artur: Yes, er, well... Be that as it may, I must go aid those travelers outside. You should stay here within the safety of the village.
+Lute: Very well. I don’t mind staying here. In fact, it seems that smarter choice.
+ 
+Lute: Magic is far more powerful than any monster’s claws. The thickest hide and the strongest armor are useless against magic’s power. Yes, I supposed I could have studied swords, but only magic is worthy of me. Even if this village were to be assaulted by monsters, I could defend it perfectly.
+ 
+Artur: Travelers, you must listen to me! The ancient forest of Za’ha is dangerous. Head south and pass through this place before the fiends surround you!
+Eirika: Who are you?
+Artur: My name is Artur. The temple has assigned me the task of cleansing the forest of these...things. There are so many of the fiends, though. I wonder if I stand much chance alone. So if you would, please flee now while you have the chance.
+Eirika: Fiends? You’re not talking about the same fiends that served the ancient Demon King? That can’t be right... They’re nothing but legends and fairy tales...
+Artur: Yes, I felt the same say when I heard. And yet here they are. This place is filled with them. I wonder how far they’re spread... Surely they’re not in Renais alone.
+Eirika: But..why are they here? How?
+Seth: Beware, Your Highness! Something approaches!
+ 
+Artur: Please allow me to deal with this. Evil shade! May the blessed light drive you from this land!
+ 
+Seth: We ought to help. He can’t fight them all alone. Do you have orders?
+
+@Battle 
+Artur: One of my companions is in that village to the south. If you can get there swiftly, I implore you to watch over her safety.
+
+@Visit 
+Man: Do you see that old snag to the south of here? Bet it would make a handy bridge if you could knock it over. Take a weapon to it and give it a few good whacks. That should do it. Here, take this and give it a try. It ought to do the trick.
+
+@Battle 
+L’Arachel: Oh, my! Those travelers are being besieged by the agents of evil!
+Dozla: Ha ha ha! Right you are, Lady L’Arachel!
+L’Arachel: I cannot allow this to happen! Come! We must charge down these cliffs and rush to their aid!
+Rennac: We charge down these cliffs, and the only thing we’ll be rushing to is death. How about we find us a nice, gentle path down, hm?
+L’Arachel: Ah...Yes, well...Let us hurry nonetheless. I simply cannot abide those wicked beasts running amok!
+
+@Recruit-Visit 
+Artur: Lute, help has arrived.
+Lute: ......
+Artur: Lute?
+Lute: Your flesh shows no sign of putrefaction. It seems you’re not a revenant.
+Artur: Well, I should hope not! I wanted you to know help has arrived. Please be patient a bit longer...
+Lute: No, no. I insist on joining you in combat. I’ve been reading up on these revenants. They are, quite simply, no match for me. I am superior after all.
+
+Lute: ......
+Eirika: Hm?
+Lute: Your flesh shows no sign of putrefaction. It seems you’re not a revenant. I’ve decided to join you in battle now. My name is Lute. I’m a mage of superior wisdom and rare ability. I’ve been reading up on these revenants. They are, quite simply, no match for me. I am superior after all.
+
+@End 
+Seth: We’ve killed all the monsters. Still, we’d best burn the bones to ash to be sure they don’t return.
+Eirika: I still can’t believe what we’ve been fighting here... I’d thought those fiends nothing more than myth and legend.
+Seth: Those revenants are said to be the least of the dark creatures. And yet, the weakest of them could outmatch any normal man. We cannot take this enemy lightly.
+Lute: Oh, yes. There are much worse then those revenants and the entombed... Let’s see, there’s the bonewalkers, mauthe doogs, gargoyles, baels... Why, I’ll bet you just about any creature of lore could be walking again. Yes, we’re in for some trouble. Even my fabulous power may not be enough.
+Artur: O divine light, show me... Is this a sign of dark days to come?
+Eirika: By all that’s holy, what is happening?
+Seth: Princess Eirika, perhaps it would be wise to return to Frelia and regroup. Pressing forward seems foolish in light of recent events. We cannot face both Grado’s forces and more of those terrible things.
+Eirika: Seth, I follow your point, and nothing would please me more then running for safety. But what of my brother? He and his men are still trapped in the same situation we are. I know full well that I may be leading us into even greater danger, but... Please try to understand.
+Seth: I do, my princess, and I vow to see you through this safely.
+ 
+L’Arachel: Aha! Foul creatures, beware! I, L’Arachel, bestow upon you the honor at banishment at my blessed hands!
+Eirika: ......
+L’Arachel: Oh...Where are the monsters?
+Eirika: Well, we just finished...
+L’Arachel: Ah, glad tidings indeed! The heavens must be rejoicing! I am.. a tad disappointed however. After all, I did rush all the way here to show you the splendor of my might.
+Dozla: Gwah ha ha! It’s a real shame, innit, Lady L’Arachel?!
+Rennac: What’s shameful is the way you drag us around the countryside.
+Eirika: Pardon me, but...who are you?
+L’Arachel: Me? Since you ask, please allow me to introduce myself. It is I, the true light and glory of the sacred realm of Rausten...
+Dozla: Stop! Lady L’Arachel, you mustn’t continue! You cannot reveal your true identity here!
+L’Arachel: Oh, yes, you’re right. Oh, I get so careless sometimes! Now, I must ride off in anonymity. Oh, how beautifully romantic!
+Eirika: Uh... Right.
+L’Arachel: Fare thee well, strangers. Perhaps our paths will cross again. Come, Dozla! Rennac! We ride!
+Dozla: Gwah ha ha! Let’s go, Rennac!
+Rennac: All right, all right.
+ 
+Eirika: ...What was that about?

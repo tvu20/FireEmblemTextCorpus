@@ -1,0 +1,128 @@
+@Opening 
+Eirika and company pursue the thief who stole her bracelet. Their chase leads them into the mountains, where Bazba’s Bandits pillage at will. Eirika cannot ignore her countrymen’s pleas for help. She leads her group in search of the bandits’ stronghold.
+
+@Intro 
+Seth: The local villagers tell me that Bazba’s Bandits keep their lair nearby. A few of them saw a lad matching the description of our bracelet thief. It seems a fair guess that the youth is one of these bandits.
+Eirika: Bandits...Here in Renais, our homeland. I had no idea... Burning out villages...Stealing from out people with no fear of reprisal?
+Seth: It wasn’t always like this. The knights used to protect the citizenry... However, with Renais in ruins and her army tattered, law and order are hard to find. It doesn’t look like the Grado army is interested in maintaining order here. If nothing changes, Renais will continue this sad plunge into savagery.
+Eirika: ......
+Neimi: Uh...Hello?
+ 
+Neimi: Pardon me for asking... but are you all some sort of...mercenary troop?
+Eirika: Why do you ask?
+Neimi: P-p-please, you have to help Colm. You have to! I told him it was too dangerous, but he wouldn’t listen to me!
+Eirika: Please, you must calm yourself. Start at the beginning, and speak slowly.
+Neimi: All right...Sniff. I’m Neimi. I’m from... I used to be from a village named Lark... Except the village is gone.
+Eirika: Gone? What do you mean?
+Neimi: Bazba’s Bandits burned it down. Only Colm and I escaped. The other villagers... The bandits attacked them and...
+Eirika: ......
+Seth: Neimi, what are you doing here?
+Neimi: Bazba’s Bandits... They have a hideout here in these mountains. That’s where Colm... Um, Colm’s my...uh...We’ve known each other since we were kids. He went to steal back something the bandits took from me...
+Eirika: He went alone? That’s a very dangerous thing...
+Neimi: Yes, I know. Th-that’s what I told him, but he wouldn’t listen to me. If I lose Colm, too, I don’t know... I...I’ll... sniff...
+Eirika: Wait, please don’t cry. Don’t worry. We’ll find your friend and see that he’s not harmed.
+Neimi: Really? Really and truly? Oh, thank you! Thank you!!! I... I don’t have much money, but.. I’ll do anything to help.
+Seth: Your Highness? What will it be?
+Eirika: If the thief we’re after has gone to the bandits?lair as well... Well, it seems as though we share a common cause with Neimi. She is a citizen of Renais, after all. And isn’t it our duty to defend our countrymen? I’m only sad that we weren’t here to protect her friends and neighbors... So, yes, I feel we must help her.
+Seth: Very well. Neimi, I trust you can lead the way?
+Neimi: Er, yes... It’s this way.
+ 
+Neimi: Um... Is there anything I can do to help? I feel so... When I was little I used to go hunting with my grandfather. What I mean is I can– I’m not bad with a bow.
+Seth: Really?
+Neimi: Uh-huh.
+Seth: I see. You should remain behind and protect Princess Eirika.
+ 
+Bazba: Hm. Not sure who’s out there, but it looks like we’ve got guests. Let’s give ’em a warm welcome, lads. You see a stranger, stick an axe in him!
+
+Colm: And here we go! Ha! And not a soul saw me. These bandits are easy picking. I guess I might as well start with these chests here.
+
+@Recruit-Talk 
+%Neimi,Colm
+Neimi: C-Colm...
+Colm: Neimi?! What are you doing here? I told you to wait for me, didn’t I?
+Neimi: I couldn’t... It’s too dangerous. C’mon, let’s go home.
+Colm: We don’t have a home! Don’t you get it? Look, just leave everything to me. I can take care of it in a flash, but I don’t need a clumsy oaf like you tagging along.
+Neimi: But...but...
+Colm: Oh, this is ridiculous. We’ll talk later. Don’t leave my side, Neimi.
+Neimi: I–All right.
+
+@Boss 
+Bazba: I’m the head of this bandit pack, the mighty Bazba! Hope you’ve enjoyed your life, ‘cuz it’s about to end!
+ 
+Bazba: I’m the...mighty...Bazba... This...ain’t–
+
+@End 
+Neimi: C-Colm...
+Colm: What now? I told you not to worry. I could’ve robbed these bandits blind on my own, thank you very much.
+Neimi: I was... worried...
+Colm: H-Hold on! I’m sorry! C’mon! Don’t start bawling!
+Neimi: Aaah...sniff... No more...dangerous stuff... by yourself...
+Colm: Fine, fine. I promise. But you have to stop crying all the time. All right?
+Neimi: Uh-huh...
+Colm: Oh, yeah. Take a look at this.
+Neimi: Hm?
+Colm: I got your mirror back. Remember how you cried when we left Lark? You thought you’d lost this. I knew it was your mother’s, and I knew those thugs had taken it. So I went and got it back! See what happens when you give me a job? Guaranteed results!
+Neimi: Colm... Aa...Waaah... Colm...
+Colm: Hey Wh-why are you crying this time? C’mon! Stop! Knock it off! Please, Neimi...
+Seth: ...This is quite touching, but... I think you’d best return Princess Eirika’s bracelet to her now.
+Colm: Wh-what are you talking about? Are you trying to say that I–
+ 
+Colm: Whoa! Whoa there! Hold it! It’s right here! Take it!
+ 
+Seth: ...... Tell me, boy, is this the path you’ve chosen for your life? If this girl matters to you, you must quit this dark road.
+Colm: Uh, yeah...Right.
+Seth: We’re leaving. Do not expect to be rescued again. Farewell.
+Colm: ...Hey, wait! Let us go with you. You can’t just leave us here.
+Seth: Pardon?
+Colm: Neimi and I... We’ve got no home to return to. No matter where we go, there’s just gonna be more fighting. You’re mercenaries, right? Well, then take us with you. I’m a handy guy to have around. I know I can help you out.
+Seth: I would prefer not, but I’ll agree with Eirika’s decision. Our duty is a grave one however. We’ve no time to waste shepherding you.
+Colm: That’s fine with us You just wait– I promise you won’t regret your decision.
+ 
+Seth: I retrieved your bracelet from the bandit’s stronghold. Here you are, Princess.
+Eirika: Thank you, Seth. You know...Father gave me this bracelet when I was a child. It has only one match in the world, and my brother wears it.
+Seth: Lady Eirika, you must take care never to lose that bracelet. It is the proof that King Fado entrusted the future of Renais to you, his children.
+Eirika: Seth...What is it you’re not telling me?
+Seth: ...I apologize, Your Highness. When the times comes, I will tell you what I know. Until then, I...
+Eirika: I see. If you tell me it must wait, then it can wait. I trust you.
+Seth: Then we should get moving again. We’re safe from bandits for now, but I can’t guarantee for how long.
+Eirika: This... This is just the beginning, isn’t it? If we hope to free out homeland, it will take battle after battle...
+Seth: I’m afraid so, Your Highness. The day you and Prince Ephraim win back the freedom and honor of Renais will come. But I fear it lies at the end of a long and treacherous road.
+Eirika: I know. I must fight for that day. In the names of all those I could not save, I’ll lead us home. Let’s go. My brother awaits!
+ 
+Selena: General Duessel.
+Duessel: Selena. Have you been back long? Tell me, how fares the campaign in Renais?
+Selena: Signs of chaos abound. Brigands ride without fear, and the peasant’s cries fill the air.
+Duessel: Hmm... If Grado’s troops do not enforce public order, the situation will only worsen. And still, His Majesty has given us no orders. Perhaps, just this once, I should take the lead...
+Glen: What could His Majesty be thinking? Breaking our long-held alliance with Renais–invading without warning... He’s never been this way before. He abhors violence.
+Selena: ......
+Glen: And have you noticed the recent promotions? Who are they are going to? Certainly not to the soldiers who have Grado’s best interests at heart. I feel this invasion is the prelude to a much larger war. I feel as though His Majesty is no longer the man we knew him to be.
+Selena: Glen, it doesn’t matter what any of us might think of our orders. We are his servants, and we will not question His Majesty’s intentions.
+Glen: I know that, Selena. And yet...
+Duessel: That’s enough. Both of you. His Majesty summons us. Let’s hope we can learn a little during our audience.
+ 
+Vigarde: ...I appreciate your work in fulfilling your previous orders. You are the hammers that drive the nails of the empire’s will... You will continue to operate ...without hesitation... wherever I send you.
+Duessel: By your command.
+Selena: In Your Majesty’s name.
+Glen: Yes, sire...
+Vigarde: ...However, I know this... You, my Imperial Three, lack the strength to conquer the remaining nations alone. In the invasion of Renais, certain soldiers performed beyond expectation. I have chosen them to join you as new generals in the empire’s service. ...Come.
+ 
+Vigarde: ...The performance of these men surpassed even your own. With the addition of these three... The empire will have six generals strong enough to conquer this land. Do you understand?
+Riev: Heh heh heh... I am Riev, given the name Blood Beryl by His Majesty. I know I am a newcomer, but I pray for your favor.
+Duessel: ...Understood.
+Caellach: I’m Caellach. I was a mercenary, fighting in the desert. Seems I’m to be called Tiger Eye... You’re a fine lookin’ lass, aren’t you? Yeah, I’m gonna love working with you.
+Selena: ......
+Valter: So we meet again. You know me as General Valter, but you will call me the Moonstone. I’ll save you worthless dogs from your own incompetence. You’ll thank me later.
+Glen: Valter... You scum!
+Duessel: Peace, Glen.
+Vigarde: Selena. Caellach. You will bring me Frelia.
+Selena: Yes, sire.
+Caellach: Sure. Good as done.
+Vigarde: Riev. Duessel. You are charged with the defense of the empire. ...I will speak to you individually with more details later.
+Riev: Heh heh heh... Understood, Your Majesty.
+Duessel: By your command, sire.
+Valter: And me?
+Vigarde: Valter, Glen... I have other duties for you...
+Glen: Yes, Your Majesty?
+Vigarde: Renais has fallen, but Princess Eirika still eludes us... Her brother, Prince Ephraim, leads a resistance within our borders. Bring the siblings to me.
+Valter: Ha ha.. Of course.
+Glen: ......

@@ -1,0 +1,133 @@
+@Opening 
+An ominous wave of dark creatures washes over the continent… Eirika’s journey to find her brother, Ephraim, grows ever more perilous. Still, she presses on despite the danger. Her will is strong. The town of Serafew, located on the border of Renais and Grado. The people of both countries have long used the town as a meeting place. It stands as testimony to the friendship the two nations have shared these many years. Now, however, Serafew is teeming with Grado troops.
+
+@Intro 
+Joshua: Well, well. There’s an arena in this town. Perfect. My pocket’s feeling a bit light. Say, is that a cleric? It is! And a gorgeous one at that.
+ 
+Joshua: Something amiss, Sister? You look flustered.
+Natasha: Ahhh! P-pardon me.
+Joshua: No, pardon me! I never meant to startle you. May I offer my apologies....
+Natasha: No, it’s not necessary... It was my fault. Excuse me, I must be going... Good day to you.
+ 
+Joshua: ...And there she goes. Not my lucky day... She was quite the beauty, too. Ah, such is life. I think I’ve time still to visit the arena, though.
+ 
+Glen: Captain Saar of the Serafew Border Guard. How fare you? I bring orders from His Majesty. Rumor has it that Princess Eirika of Renais is making her way to Grado. You are to find her and to place her in custody immediately.
+Saar: Yes, sir!
+Glen: One more thing... A traitor to the empire has fled Castle Grado. We’ve received reports she is hiding somewhere here in Serafew. I don’t care if you have to tear this town apart. Find the turncoat.
+Saar: Yes, sir, General Glen! If she resists, do we have permission to execute her?
+Glen: ...Yes. Permission granted.
+Saar: Understood! Grado’s will be done. The Grado Empire will repay the debt of betrayal with blood!
+Glen: ...His Majesty relies upon you, Captain. Be sure his trust is not misplaced. That is all.
+Saar: Yes, sir!
+ 
+Glen: Such loyalty to the crown. If only I could hold such conviction in the righteousness of our emperor.
+Cormag: Something troubling you, Brother?
+Glen: No...Pay no mind to me. Come, Cormag. Let’s go. From here, we ride northeast, back to the fort.
+Cormag: Very well.
+ 
+Eirika: It’s been so long since I last visited Serafew. My brother and I used to pass through here en route to Grado. I remember the harmony in which the people of both countries lived. No walls divided our borders. No soldiers stood guard in high towers. The border town... It was to me a symbol of the trust between Grado and Renais.
+Seth: ...And now, it is firmly under the thumb of Grado’s emperor.
+Eirika: The peace I remember in this city... It seems like something from another time. It seems lost now... Forever.
+Seth: ...The city doesn’t seem to be very heavily patrolled. They must feel it’s not worth guarding with Castle Renais under their control. We must try to not draw attention to ourselves. The west gate is undermanned....
+Saleh: Pardon me, may I ask you a question?
+ 
+Eirika: What is it?
+Saleh: I’m looking for someone. Have you seen a young girl with indigo hair?
+Eirika: Indigo hair? No...Sorry.
+Saleh: Hmmm... Thank you. Sorry to intrude.
+ 
+Eirika: There was something very odd about that man, wouldn’t you say?
+Seth: He did seem unusual. He didn’t strike me as a Grado spy, but...
+Soldiers: Catch her! Don’t let her escape! That way! She went that way!
+Eirika: What’s that?
+Seth: It’s coming from over there.
+Eirika: Let’s see what the commotion is.
+ 
+Soldier: Traitor Natasha! Surrender peacefully. Come quietly, and you may have the chance to explain yourself before His Majesty.
+Natasha: Wait, please. You must listen to me!
+Soldier: Take her.
+Natasha: No, you must believe me! The emperor is not himself. You MUST be able to see that!
+Soldier: Impugn the emperor at your peril! We’ve been ordered to execute you if you offer any resistance. But your words condemn you!
+Eirika: That cleric is a traitor to the throne of Grado? What madness is this?
+ 
+Natasha: Ah...
+Eirika: Are you all right?
+Natasha: Who are you?
+Eirika: I’m from Renais. Why are these Grado men after you?
+Natasha: You’re from Renais...Oh! I have something I must tell you. It’s about Grado–
+Eirika: Wait–Grado soldiers are coming this way. We’ll have to talk later. Now we must fight!
+
+@Battle 
+Joshua: So much for my dreams of making my fortune here... First the girl, now the gold. It really isn’t my lucky day.
+Soldier: You there! Mercenary! What are you doing here at the arena? Get back to the staging area now!
+Joshua: C’mon, why don’t we both hit the arena? It’ll be good training, If you’re going to risk your life anyway, you may as well try to earn some gold.
+Soldier: I’m reporting you to the captain! You’ll be lucky if he just docks your pay! Don’t forget–You can be replaced in an eyeblink, you filthy sellsword!
+Joshua: Don’t worry, little man. I won’t forget. Work’s work, but I don’t like fighting women... Now then, what’s the rest of the day got in store for me? ...Tails huh? That’s nothing but bad luck and more bad luck...
+ 
+Natasha: They may not want to hear what I have to say, but... I must speak with one of the Grado soldiers. Oh, if only one of them will listen to my words... Please! Grant me strength.
+
+Brigand: Look at this. Now’s our chance! C’mon, lads! Let’s join the fights and steal our way through this pathetic town!
+
+@Visit 
+Tethys: Oh, hello. Did you come to see me dance? I’m sorry, but I just finished a few moments ago. Oh, by the way…Would you be interested in one of these items? A wealthy patron left me a small ransom in gifts after watching my performance. You can sell one for gold if you’d like or use them to improve your skills. I simply cannot carry all of this by myself, so please, take this one. Wealth is useless if you can’t use it to bring happiness to others, right? Thanks for dropping my. Perhaps we’ll meet again someday.
+
+Man: Life in Serafew’s been harder since the Grado occupation force took over here. Serafew’s got Renais citizens as well as Grado, but it’s been hardest on us. They’ve singled out families from Renais for the most awful atrocities. Please, traveler, take this sword. It’s an armorslayer. It’ll cut through even the strongest armor. Take it and strike down that blackheart, Saar.
+
+@Recruit-Talk 
+%Natasha,Joshua
+Natasha: You...You’re that man I met... Are you here to capture me? You’ve been hired to silence me, haven’t you...
+Joshua: Yeah, Grado’s paying the bill. They want you dead, you know? But don’t feel bad. It’s not personal.
+Natasha: Wait, please... It doesn’t matter what happens to me, but you must hear my words. The emperor of Grado is changed. He is not the man he once was. The other nations must be warned before he extinguishes all light from out lands.
+Joshua: Hey, no offense, but I’m just a mercenary. I don’t care about Grado or its emperor. Everything you say may be true, or it may be lies. I don’t care either way.
+Natasha: But that’s...
+Joshua: Even so...killing a beautiful lady like you would leave a bad taste in my mouth. Tell me, do you like to gamble?
+Natasha: What?!
+Joshua: Gambling’s what I live for. Even when I lose, I never want to stop. Let’s have us a little wager. If you win, I’ll believe you. Heads or tails, you call it.
+Natasha: You can’t... This is no time for games...
+Joshua: Would you rather I get on with the job I was hired for?
+Natasha: ...... Um, heads... No! Tails!
+Joshua: All right. So I’m heads, and you’re tails. Here we go. ... ... ...
+Natasha: ...... Which...Which is it?
+Joshua: What do you know?! It’s tails. You win. Figures. I haven’t won anything all day. Well, Lady Luck has spoken. Guess I’m on your side now.
+Natasha: Are you serious?
+Joshua: Yeah. Sure, I might cheat, but I never worm out of a bet. It’s a rule of mine.
+Natasha: Oh, thank heaven! Thank you, blessed light, for your protection!
+Joshua: I got nothing against heaven, but I’m right here if you want someone to thank... No? Well , get behind me then. I’ve got to take care of these fools.
+ 
+@Visit
+Old man: In my youth, I was a knight of some renown, I’ll have you know. I’ve even crossed blades with one of Grado’s most famous generals, I have. Ah, but I’m an old man now... I’m starting to worry... What if I die without passing on my techniques? So I decided to write down what I’ve learned in a book. I have it here. You seem like a strong warrior. I’d be honored if you would accept it. 
+ 
+Amelia: Hope everyone’ well back home in Silva. Just a bit more, and I’ll be in the empire. Let’s see, I’ve got vulneraries, antitoxins... Oh! And I can’t let myself forget torches for when it gets dark. Yep! I’m all set! Now I just need to get to the capital. I’ll be the finest soldier the Grado army’s ever seen! I swear it!
+Eirika: Hm? What’s this...
+
+@Boss 
+Saar: Enemy of the empire! Death’s too good for you!
+ 
+Saar: Emperor Vigarde... Glory to His...Majesty...
+
+@End 
+Eirika: That was a tight spot.
+Natasha: Yes, yes it was... Thank you so much. I don’t know how to repay–
+Seth: You’re from Grado, aren’t you?
+Natasha: Yes... My name is Natasha. I was a servant of the people at Grado’s Imperial Temple.
+Eirika: Then why the trouble with the soldiers? Would you tell us your story?
+Natasha: Of course... A few days past, my mentor was arrested without warning. They executed him. They said he as a traitor... But those were false accusations. The emperor had him killed–a holy man!–to keep him silent.
+Seth: Keep him silent?
+Natasha: Yes. My mentor told me with his final breath. The emperor plans to destroy the Sacred Stones.
+Eirika: The Sacred Stones? Destroy them?
+Natasha: As you must know, the Sacred Stones drove back the power of evil long ago. Even now, each of our nations is home to one of these legendary treasures. There’s one in my homeland, Grado, and one in your Renais...
+Eirika: Yes, the Sacred Stone of Renais is still housed in our royal temple.
+Natasha: The emperor plans to destroy the five stones, one by one...
+Seth: Why would he do such a thing? Legend says the Sacred Stones are even now all that keep evil at bay!
+Natasha: I cannot begin to guess his motives... You must know, our emperor was a gentle man. But one day, he changed. Utterly. Before my mentor died, he said the keepers of the Sacred Stones must be warned. I tried to slip across the border, but the soldiers spotted me...
+Eirika: Is that what happened... What do you think, Seth?
+Seth: I think we can trust no one from Grado. Not in these times. Not without proof. However, if what she says is true, we cannot ignore the danger we face. Destroying the Sacred Stones... We cannot allow that to happen.
+Eirika: I agree. If only we knew if there were some reason for the emperor’s actions. I must tell you, her story chills me to the bone. I pray it is false...
+ 
+Man: A moment, please. Are you perchance... Princess Eirika?
+Eirika: I am.
+Man: Oh... Thank goodness you’re safe! I can’t tell you how happy I am. And please accept my gratitude for driving off that Captain Saar. That Saar treated all the citizens of Renais with such contempt and brutality....
+Eirika: Not here...not in this city. My brother and I spent such happy times here with Lyon...
+Man: I beg your pardon, but it will not be long before Grado sends more troops. Please, you must go quickly.
+Eirika: I’m so sorry. There’s nothing I can do for you now. Please forgive me.
+Man: Do not be troubled. Princess Eirika... We will survive and wait for the day of liberation to come. There will be a day when you, Prince Ephraim, and all of Renais rise up... Until that day of glory comes, we will wait unbowed and filled with hope.

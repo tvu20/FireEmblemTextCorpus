@@ -12,7 +12,13 @@ with open(os.path.join(__location__, "parentheses.txt"), 'r') as f, open(os.path
 
         # remove lines that are just parentheses
         if len(text) > 0 and text[0] == "(" and text[-1] == ")":
-            nextline = next(f, None)
+            # fo.write("")
+            # fo.write("")
+            fo.write("\n\n")
+            # nextline = next(f, None)
+
+            # if len(nextline.strip()) != 0:
+            #     fo.write(nextline)
             continue 
 
         # remove in-line parentheses

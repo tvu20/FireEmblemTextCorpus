@@ -1,0 +1,196 @@
+@Opening
+Thanks to the arrival of reinforcements from Princess L’Arachel of Rausten, Eirika and her allies successfully repel the Grado invaders. Still, Jehanna Hall remains under siege, on the edge of ruin. En route, Eirika learns that the hall has indeed been captured by Grado. To rescue Queen Ismaire and recover Jehanna’s Sacred Stone, Eirika leads an assault on the royal hall.
+
+@Flashback 
+Lyon: ...I yield. The point is yours, Eirika. You’re swift, aren’t you? Compared to you, I’m– I’ve been bested at fencing by a woman. Pitiful crown prince, am I not?
+Eirika: That’s not true...
+Lyon: Oh, no, Eirika. It is. The people need a strong ruler. They don’t want a weakling like me. They want the strength you and Ephraim share. My body is frail. I prefer to spend my time locked away in the castle, reading... I think my father would be better served if someone else took my place. I’m sure all of our retainers feel the same...
+Eirika: You’re wrong, Lyon. An emperor without compassion will never hold the people’s love. And one day, your compassion will surely save us all. I believe that.
+Lyon: Eirika... Thank you. Yes. I...I will do my best. Even though I lack your strength, there must be some good I can do.
+Eirika: There is.
+Lyon: By the way, Eirika... If it please you, would you accept this?
+
+@Intro 
+Seth: Princess Eirika? Is there something wrong?
+Eirika: N-no. It’s nothing.
+Seth: Jehanna Hall has been completely occupied by Grado soldiers. I’m sorry to report that Queen Ismaire is already...
+Innes: And the one giving orders to the troops in the palace is Crown Prince Lyon?
+L’Arachel: What is there to give us pause? Should we not storm the palace and retake it by strength of arms?
+Innes: Frelia’s spy network reports that Prince Lyon is an initiate of dark magic. If this is true, even approaching him will be a serious challenge. I’d heard the prince dislikes violence. However, it could all have been a ruse.
+Eirika: .......
+Innes: Still, if we don’t retake the palace, we’ve no hope of defeating Grado. We must rescue the queen, no matter the cost...
+Eirika: I understand. Let’s go!
+ 
+Carlyle: Queen Ismaire... Please do not resist. I have no desire to see you harmed.
+Ismaire: Carlyle... Why have you betrayed us? After all these years of loyal service as Jehanna’s most decorated commander... Without you, I could not have ruled these long years since my husband’s passing. It was through your unwavering support alone that I still sit upon the throne. You are the cornerstone of Jehanna. You have held my trust more than any man. So tell me why. Why have you betrayed us? Why have you betrayed me?
+Carlyle: Your Highness–No... My queen... Ismaire... It is your own fault. You are too lovely, my queen.
+Ismaire: Carlyle...
+Carlyle: The first time I met you, twenty years ago now... I saw you in the garden of this very palace... and I was bewitched. Your pale beauty far surpassed that of any flower. I was in the grips of an unforgivable desire. You were the wife of my king, to whom I’d sworn life and loyalty. I told myself a grand lie that day. I told myself I could be happy simply serving you as your most loyal knight.
+Ismaire: ......
+Carlyle: After years of duty, years of service, years of...of silence... I became aware once more of the feelings I’d buried deep within myself. How could I leave this world without expressing my true desires? Could anything be more desolate? More devoid of meaning? That is when I made my decision. I would follow my heart and claim your hand as my own.
+Ismaire: Carlyle... You forget yourself. You ruin our country and kill our countrymen. Did you think I would be pleased? Did you think I would love you for this?
+Carlyle: I need no country. I care nothing for my countrymen. I can see nothing but you. If you would only be mine...
+Ismaire: Carlyle...
+
+@Battle 
+Soldier: To arms, mercenaries. We’re under attack! You there! Ready your weapons!
+Rennac: What?!? No, no, no. That was never part of the deal. The only fight I’m here for is with the locks of the treasure chamber.
+Soldier: Hah... Don’t get so excited. I doubt you mercenaries will see any action at all once we soldiers’ve finished.
+Rennac: Yeah, great. You go do that. Whew... With all these soldiers around, I shouldn’t have to lift a finger. I’ll just sit here and wait for them to win they day. Then, I collect my pay! No more being ordered around by that selfish princess and her moronic bodyguard. This is the life. Lady Luck loves me. But something doesn’t feel right...
+ 
+Caellach: Hey, Carlyle! Impressive work you’ve done here. My compliments.
+Carlyle: ...I gave you everything I promised. I opened the hall to your forces.
+Caellach: Yes. The palace is mine. My palace... Oh, how I do like the sound of that.
+Carlyle: Do whatever you want with the royal treasury. The only treasure I wish to leave here with is the queen of my heart.
+Caellach: Oh, yeah, about your queen?.. There’s been a change of plans.
+ 
+Ismaire: Ah!
+Caellach: Don’t move, Carlyle. You twitch, and the queen dies.
+Carlyle: Blackheart! What is the meaning of this?
+Caellach: Calm down. You’ll get her back as soon as I’m done with her. Jehanna’s Sacred Stone is around here somewhere. I’ve got to find it and destroy it. I need this woman to guide me to its hiding place.
+Carlyle: Do not lay a hand on my queen!
+Carlyle: Don’t get so incensed. I’m not going to harm her. I’m not like that freak Valter. I’m kind to women. But if you make a wrong move, you’ll lose your prize. Understood?
+Carlyle: Yes...
+Caellach: There are some annoying pests outside who think to win back the hall. I want you to take care of them. Lose, and the queen will never be yours.
+Carlyle: ...... If my queen comes to any harm in your care...
+Caellach: Yes, of course. I know all about the might of your sword arm. As long as the Sacred Stone is destroyed, you’ll get all you ask for.
+Lyon: ......
+Caellach: Greetings, Prince. Let’s get going.
+Lyon: Caellach... You will put an end to this. Destroying the Sacred Stones is... Ugh...ack...
+Caellach: What’s this? Are you still ill? You know, you’re not very princely. C’mon. Follow me.
+Lyon: Caellach...
+
+@Recruit-Talk 
+%Eirika,Rennac
+Rennac: Hey, that’s a comely lass. Think I’ll have a few words... Wait. Er, haven’t I met you before?
+Eirika: You... You were traveling with L’Arachel before, weren’t you?
+Rennac: Oh, yeah... Renais... I’ve got to get–
+Eirika: L’Arachel is traveling with us. Should I let her know you’re here?
+Rennac: Uh, no! Wait a moment! You... You don’t have to bother her. Actually I wanted to ask you something. How would you like to hire me? The name’s Rennac. I’m a world-class thief, and proud of it. A man of many talents. Lockpicks are for amateurs. I can pick chests and doors with my bare hands. And I’m better with a blade than most swordsmen.
+Eirika: Uh...
+Rennac: I’m a useful fellow to have around. And cheap, too! Only 9,980 gold! Well, what do you think?
+Eirika: Fine. I’ll pay the 9,980 gold.
+Rennac: Very good! You know a bargain when you see one, don’t you? Not at all like a certain pious princess I know.
+Eirika: Were you speaking of L’Arachel?
+Rennac: Uh, no... Idle chitchat about that lass is bound to land me in hot water. Right, then! You’re my new boss. Point out any doors or chests, and get out of my way!
+
+%L'Arachel,Rennac
+L’Arachel: Aha! So this is where you’ve wandered off to, Rennac!
+Rennac: Princess L’Arachel? Uh-oh, um...
+L’Arachel: Come with me.
+Rennac: Wait... hold on now. Go with you where? Look, sorry, but I’ve been hired by the Grado Empire, and... Hello! I’m talking to you!
+L’Arachel: Rennac, whatever is the matter? I promise to listen to your story later, but now, we must be going!
+Rennac: No, I’m no servant, like that kook Dozla. I’m a mercenary. I escorted you to Renais like I was hired to do, didn’t I? You have no right to drag me across creation without any pay whatsoever!
+L’Arachel: Is this about wages? I believe you’ve received ample compensation.
+Rennac: Ample?! Do you even know what that word means? You’ve the princess of Rausten! I thought working for you would pay well. Yet your purse strings are knotted tight, and I’ve almost been killed so many–
+L’Arachel: The joy that comes from doing good is not something that can be purchased. There. All better? Let’s go.
+Rennac: NO! I said I don’t want to! Riding with you is– ...And there she goes. Oh...By the Stones, why did I ever take that job in the first place?
+L’Arachel: We must hurry, Rennac.
+Rennac: Right, right. I’m coming...
+
+@Boss 
+Carlyle: I...I just wanted the two of us...
+ 
+Carlyle: Queen Ismaire. I’m–
+
+@End 
+Caellach: This is as good a place as any. All right, Your Majesty. Hand over the Sacred Stone.
+Ismaire: ...I know nothing of the Sacred Stone’s keeping place.
+Caellach: Don’t waste me time. My partner here sees everything. When the rebellion began, you went straight to the palace altar. You had hoped to prevent us from smashing the Sacred Stone. But you have the Stone of Jehanna with you right now, don’t you?
+Ismaire: ......
+Caellach: Hand it over. Cooperate, and I’ll let you live.
+Ismaire: ...I cannot.
+Caellach: Oh, give it up, will you? I’ve no time for games. If you resist, I’ll just kill you and take it anyway.
+Lyon: H-hold! You mustn’t harm her, Caellach...
+Caellach: Shut up, Prince. My orders come from higher than you. You’ve not going to start disobeying his word, are you?
+Lyon: ......
+Caellach: Last chance. Give me your Sacred Stone.
+Ismaire: ...I cannot.
+Caellach: Ha ha! A queen to the end. I like you. You’ve got guts. Good-bye.
+Lyon: Ah!
+ 
+Caellach: And here’s the Sacred Stone. That makes two for me. I’m on a roll now.
+ 
+Caellach: And another Sacred Stone has been destroyed. Grado, Frelia, and now Jehanna... Only two stones remain.
+Ismaire: Uuh...ahh...
+Lyon: Ah... What should I do? C-Caellach... You must help her.
+Caellach: Leave her. Let her last breath be a harsh and ragged rasp. She’s not long for this world. Why, if you really wanted to help her, you’d deliver the final blow yourself!
+Lyon: N-no. I couldn’t.
+Caellach: ...What a joke. I have a little work to wrap up in the hall before we leave. You should hit the road pretty soon, too, Prince.
+Lyon: ......
+ 
+Eirika: I wonder where Queen Ismaire is.
+Innes: I heard she was in the throne room, but there’s no sight of her. And there’s no Sacred Stone, either.
+L’Arachel: We must search quickly.
+ 
+Lyon: Ah...
+Eirika: Lyon!
+Lyon: Eirika...
+Eirika: Wait, Lyon! Don’t run away! My brother and I have been so worried about you... We know more then anyone the gentleness of your spirit. Your father is deranged, isn’t he? That’s why Grado invaded Renais, right? Tell me, Lyon... Please... Tell me what has happened.
+Lyon: I’m sorry, Eirika. I’ve wanted to see you and Ephraim for so long now... I wanted to see you so that I could apologize. The invasion of Renais... I couldn’t stop it. I’m sorry, but I still cannot talk to you. Not yet...
+Eirika: You... You have a reason, don’t you?
+Lyon: Mm... I can’t talk about it now, but... I promise I will tell you everything someday.
+Eirika: I see... I believe you, Lyon. I must tell you, I’m a little relieved. I was afraid you’d changed as much as your poor father has. I’m so glad.
+Lyon: Me, too, Eirika... No, you have changed. You’re even more beautiful than you were before.
+Eirika: L-Lyon...
+Lyon: I’m sorry, I have to go. But please remember this. This war started because I was too weak to stop it, but... I’ll always be your friend.
+Eirika: Lyon...
+ 
+L’Arachel: Eirika, what are you doing? It seems Queen Ismaire has been found. This way!
+Eirika: Y-yes. Coming!
+ 
+Innes: Queen Ismaire... Is she...
+Seth: We’re too late. Her injuries are... She will not last much longer.
+Ismaire: ...Jo...Joshua... ...Joshua...
+Eirika: Queen Ismaire!
+Ismaire: Oh, Joshua... Where is...that boy...
+Eirika: Queen Ismaire...
+Ismaire: Please forgive me, Joshua... I was a foolish mother... I was so intent on being queen that I spared no time to be your mother. But I loved you nonetheless... Please understand...
+ 
+Joshua: ..... I know, Mother.
+Eirika: Joshua...
+Ismaire: Joshua... It really is you... Joshua...my son...
+Joshua: I’m sorry, Mother. I should never have left you. I’ve no excuse... I wanted to see the world as a man, not as a prince. I wanted to be worthy. I planned on returning to your side afterward... I was so foolish. If I’d been here, I could have–
+Ismaire: No, it’s fine. You’re here now... Listen to me, Joshua. The Stone of Jehanna has... been destroyed. The one who tempted Carlyle is responsible...
+Joshua: What? Who was it?
+Ismaire: ...Carried a dark stone... It is...the origin of all this... It should not exist... Joshua...you must... Our country...our people...
+Joshua: I understand, Mother.
+Ismaire: Thank you...Joshua... I have something... Something I must give you...
+Joshua: This is...
+Ismaire: It’s one of the Sacred Twin relics, unique to House Jehanna... He who would rule our land must possess it... I’ve watched over it since your father passed away. I kept it safe and waited for this day to come...
+Joshua: Mother... I have it now. I understand its meaning...
+Ismaire: Joshua... My...dear, sweet child...
+ 
+Joshua: Mother...
+ 
+ 
+Joshua: It’s been more than ten years. I’d grown tied of the formality of palace life, so I...just left. I wrote a farewell and left the palace, taking nothing with me. I felt I could never understand the people while I stayed sequestered in a castle. I abandoned my identity and roamed the continent, working where I could. I wanted only to be worthy of becoming king. I knew one day I would return. Gods, I was so foolish! I was such a child, I see it now. Was I simply rebelling against my mother? Punishing her for tending to her duties?
+Eirika: ......
+Joshua: I was a fool, yes, but I learned much over these ten years. I have learned about the hearts of our people, how they need to be governed. I have learned how our country needs to change and to grow. I have learned much, but I’ve lost much more. Mother...
+Eirika: Prince Joshua...
+Joshua: I made a promise. I want to continue what she began. I will help defeat Grado. I will defend Jehanna and her allies. ...I know it doesn’t sound like me, but...
+Innes: On behalf of Frelia, I came to Jehanna with a letter to the throne. I give it to you. Prince Joshua of Jehanna... Let us fight together.
+L’Arachel: Renais, Frelia, Rausten, and Jehanna. Four nations...united!
+Eirika: Yes, I suppose that’s true. And my brother is with us as well. And if it were possible... Lyon... I wish you could be here with us, too.
+ 
+Soldier: Fire! Fires have broken out all through the hall!
+Joshua: What?
+Soldier: The curtains were soaked in oil, with torches set about the hall. It’s a trap! Someone did this during all the fighting. You must flee! Quickly, before the flames engulf us all!
+ 
+Seth: Princess Eirika. We must evacuate...
+Eirika: I know. Joshua, we must go. Now.
+Joshua: No... Mother... Forgive me...
+ 
+Eirika: Is everyone well? Did anyone get left behind?
+L’Arachel: We all made it. It’s so smoky that it’s hard to tell, but we’re here. What a cowardly act, setting fire to the palace hall. But we’ve escaped without injury. The enemy’s trap has failed.
+Innes: ...No, it hasn’t. Assemble the troops now. The enemy is coming.
+L’Arachel: What did you say?
+Innes: This is the reason for the fire. To drive us from the palace. They’ll be attacking soon. No other plan makes sense.
+L’Arachel: How is it that you know that?
+Seth: Princess Eirika. I’ve just received word that Grado reinforcements are headed this way. There are two armies, led by Generals Valter and Caellach.
+Eirika: No!
+Innes: Two armies... They’re willing to send so many here and leave the capital defenseless?
+L’Arachel: Why does everyone seem so distraught? It matters not who stands in our path. We shall smite them all with the power of righteousness!
+Seth: Princess Eirika... It’s going to be very difficult for us to continue. One of Grado’s generals alone is more than a match for us. Compound that with the exhaustion of our troops, and I’m not sure we can–
+Innes: Bah... With Jehanna Hall in flames, we’ve no place to hole up and dig in for a siege. We have to retreat. We have to win ourselves time for form a plan. Grado sent two generals... What could be happening in their capital? And what of Ephraim? Is he still alive?
+Eirika: ...Brother...
