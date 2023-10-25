@@ -1,0 +1,262 @@
+@Opening
+Having narrowly escaped Daein's grasp the Greil Mercenaries are pleased to feel the ocean beneath their feet as they set sail. According to Captain Nasir, the voyage to Begnion will take roughly two months.
+
+Blessed with temperate weather the ship's journey southward is smooth and steady. As it passes the midpoint of its trip, the  ship sets a course along the coastline and begins to head east.
+
+These seas belong to Phoenicis and Kilvas, the kingdoms of the bird tribes.Both nations prey on human vessels for supplies and wealth, and their flying corsairs are feared across the seas.
+
+Additionally, the southern portion of the continent contains the realm of the dragon tribe: the monarchy of Goldoa.
+
+This country remained isolated founding centuries past, preserving its] closed culture behind a veil of mystery.
+
+It is these laguz-controlled waters that Ike and company must now cross.
+
+@Intro
+Ike: ...
+Mist: Ike?
+Ike: ...
+Mist: What's bothering you? You've been moping around ever since we came aboard.
+Ike: I'm...just a little seasick.
+Mist: Seasick? You're such a bad liar. You never even get regular sick. You're not the type to get seasick!
+Ike: Really, it's nothing.
+Mist: Come on, talk to me. You've been doing so much lately. I just want the chance to help you for a change.
+Ike: Well...All right. I'll tell you what's been bothering me. It's that incident back in Toha.
+Mist: Go on.
+Ike: When everyone discovered Ranulf was a laguz, all those people--they changed, just like that. Up until that instant, they'd seemed like such kind and decent people. I just...I had no idea beorc prejudice against the laguz was so strong. Why do they hate them so much? How are we so different, Ranulf and I?
+Mist: I have to say, at first, I was scared, too. When I saw how they could change...They can do things that we hu--I mean, we beorc can't do. They're not like us...
+Ike: Mist, you can't honestly feel...
+Mist: It's different now! Everyone's so very nice. But, you know, that's because of all the time we've spent together. I've seen how they are; I've gotten to know them. That's why I've changed. I'm not scared or nervous around them, but other people don't get that chance. I think that's why they're frightened.
+Ike: Maybe you're right...Maybe people like me are the odd ones, the people who accept others as they are.
+Mist: I wish more people were like that. I mean, no one really wants to fight, do they? Doesn't everyone WANT peace? I guess it's just hard to put all of those fears behind us.
+Unknown: You're right. It is very hard.
+Mist: Nasir! What's the big idea, eavesdropping on us like that?
+Nasir: How do you find sailing? Have you gotten sick at all?
+Ike: We're fine. But answer a question for me, would you? Why are you here? Why do you associate with the laguz?
+Nasir: Why? Besides the obvious financial benefits, I suppose I do so because I am one.
+Mist: What? No, you're not a laguz! I don't see any tail or anything!
+Nasir: Because I've chosen to live among beorc, I've taken certain steps to make sure I'm not recognized. I've had to change my attire, my feeding habits...I've done many things.
+Ike: Why would you do that?
+Nasir: Laguz cannot survive in isolation, nor can beorc. If both races are to thrive, they must learn to coexist. I have spent many years searching for a way to make this happen.
+Ike: You think that laguz and beorc can live together? After everything you must have seen? I'm impressed.
+Nasir: Ike, you will never truly understand a matter unless you look at it from each party's perspective. As you say, the laguz are indeed now persecuted by the beorc. But long ago, these roles were reversed.
+Ike: ...Whatever happened in the past does not justify what we do to the laguz now.
+Nasir: That is the thinking of an honest man. Keep things simple and pure. I like that. Still, the strength of your conviction comes from your youth and your innocence. Trust me: it will be tested. When your journey is over, how will you be changed? I pray your conviction is not lost to despair.
+Ike: Talking to you is hard work.
+Nasir: Someday, you'll understand. For now, my role is simply to deliver you safely to Begnion. Ranulf has paid me quite handsomely with money from the king of Gallia himself,and I will not let him down.
+Ike: We're out of our element here at sea, so you're all we have to depend on. Thank you for your help.
+Nasir: I will do what I am able.
+
+Ike: Nasir, what is it?
+Nasir: Nothing. Nothing we can do anything about, at any rate. We're being followed by pirates.
+Ike: Really? I don't see any ships...
+Nasir: Not by sea. By air. Look up.
+Ike: Are those...birds? If they are, they must be huge...
+Titania: Those are laguz, Ike.
+Soren: Ravens from Kilvas. Their black wings are an ill omen for all who see them.
+Ike: Titania, Soren, you noticed them coming as well?
+Titania: Yes, Soren and I saw them when we were discussing our plans from the aft decks.
+Ike: I'd heard stories, but...they're really flying. Wow.
+Nasir: We're still out of their range, but airborne foes can be especially troublesome. I'd prefer to avoid them altogether. Let's see if we can outrun them.
+Titania: From what I've been told, the flying corsairs of Kilvas and Phoenicis are far more cruel than any beast laguz.
+Ike: Winged pirates...How am I supposed to fight against that? Wha-what was that?
+Titania: Oof...It felt like we hit something.
+Nasir: Blast...We've run aground! We must be caught on a reef or something! Move it, lads!Get the ship free!
+Seeker: Predictable humans. Sailed right into our trap without fail.
+Raven Laguz: Let's finish this quickly! It won't be long before Phoenicis or Goldoa takes an interest in what's happening here!
+Nasir: Ike, the crows are coming!
+Ike: Pull everyone together! Looks like we're in for a fight!
+
+@Battle
+Ike: Soren! Do you have a plan?
+Soren: I've done research in the past. All members of the bird tribes are vulnerable to wind magic. I think it's safe to assume that they are also as susceptible to arrows as any other flyer.
+Ike: Wind magic and bows...All right! Everyone gather your weapons and prepare to meetthe enemy on the deck! I want a small group to remain belowdecks to protect Princess Elincia and the crew. We've never faced an enemy like this. I want everyone to stay together. Let's go!
+
+Jill: Caught up...at last. I'll do this on my own. I will not let them escape! Huh? What are those things? Giant birds? Disgusting! Could they be...Are they...bird half-breeds?
+
+@Recruit-Talk
+%Ike,Jill
+Jill: You! Why are you lollygagging about?
+Ike: Who are...
+Jill: I am Jill Fizzart, wyvern rider of Daein, attached to Commander Haar's battalion. I offer a truce! I cannot sit by  and allow a human vessel to be attacked by sub-human degenerates! I will fight with you!
+Ike: We will accept no help from Daein!
+Jill: This is no place for foolish pride! At this rate, the sub-humans will[ devour you--
+Ike: I will not accept aid from anyone who thinks laguz are sub-human.
+Jill: What are you babbling about? I'm on your side! We'll talk after I chase off these crows! Bleed the half-breed!
+Ike: Hold it! What...What in the world is going on?
+
+@Boss
+Seeker: Plunder away! King Naesala has given us his blessings!
+
+Seeker: Argg...I'm falling...
+
+@End
+Ike: Is everyone all right?
+Soren: I'll check on injuries.
+Titania: Those crows make fierce opponents.
+Ike: Nasir, how's the ship?
+Nasir: Completely immobilized. We can't shake free of this reef.
+Ike: I feel useless just waiting around here. There has to be something I can do to help.
+Mist: Hey! Ike! Where are you going? Should you be leaving the ship!?
+Ike: Nothing's getting done sitting around here. I just want to go ashore and see what I can see.
+Nasir: What? Hold on, Ike! You can't...That's--
+Mist: Ah! Ike! Behind you!
+Red Dragon Laguz: You there! What are you doing?
+Ike: Huh?
+Nasir: This could be trouble...
+Red Dragon Laguz: This is Goldoan territory. Outsiders are not permitted.
+Ike: No, wait, you don't understand! Our ship has run aground. There's nothing we can do! We're stuck here!
+Red Dragon: Then return to your ship. What happens to beorc is none of our affair.
+Ike: That's ridiculous! You're a complete--
+Red Dragon Laguz: You have been warned. You will not be warned a second time. Hey!
+Kurthnaga: Cease this at once! What do you think you're doing?
+Red Dragon Laguz: My...My lord prince.
+Kurthnaga: Man of the beorc. My countrymen were discourteous. I ask that you forgive them.
+Ike: Who are you? I am Kurthnaga, prince of Goldoa.
+Ike: The prince? Now we're getting somewhere. Thanks to some Kilvas pirates, our ship's run aground. Can you lend us any help?
+Kurthnaga: ...
+Ike: What is it? You can't help us, can you?
+Kurthnaga: I am not used to being addressed in such a direct manner. I was...taken off guard. My apologies.
+Ike: No, I didn't--If anyone should apologize here, it's me. My father had a great deal to say about my lack of etiquette. I'm sorry. I didn't mean to offend you.
+Kurthnaga: Please, pay it no mind. I am more concerned with the misfortune your journey has met.Of late, the ravens have grown ever more barbarous, and this cannot stand. My father will lodge a formal protest with Kilvas, I assure you. In the meantime, we shall help you with your ship. Gareth, direct the others to push their ship free.
+Gareth: At once!
+Mist: Dragons! They're all dragons! They're huge! And so strong! It's incredible!
+Elincia: It's overwhelming...
+Ike: Yeah...it is.
+Titania: Goldoa is the land of the dragons. More than any other laguz tribe, they are known for their longevity. I've heard tales of Goldoans still living who flew the skies when the goddess herself still walked the land.
+Ike: How is it you know so much about Goldoa?
+Titania: Everything I've learned comes from books. Goldoa itself no longer has any contact with the outside world. Seeing them now, it's like a dream...
+Ike: So this is good fortune, is that what you're saying?
+Mist: She's saying we got lucky! For once, your recklessness actually got us] OUT of trouble!
+Ike: What's that supposed to mean?
+Kurthnaga: We have moved your ship safely and without harm to you or your vessel.
+Kurthnaga: My subjects tell me your ship was indeed lodged against a reef. However, there was no structural damage to your ship. You need not interrupt your journey.
+Ike: That's good news. Thank you.
+Kurthnaga: Is there anything else you require? If you need food or fresh water, we can replenish your supplies.
+Ike: That would be most appreciated. We are beginning to run low on water. As for food, anyfruit, meat, fish...anything fresh would be wonderful
+Kurthnaga: It shall be done. Gareth, will you see to it?
+Gareth: Yes, at once.
+Ike: I know that Goldoa does not engage in trade with other nations, but will you accept gold in payment?
+Kurthnaga: Do not worry about payment.
+Ike: But you've done so much for us when you could have left us to die out there. We must repay you somehow.
+Kurthnaga: Sweet courtesy is ever the herald of hospitality. Will this suffice to explain my actions?
+Ike: Hospitality? Isn't that for guests?
+Kurthnaga: As you know, Goldoa prefers isolation. We rarely see foreigners, especially beorc, and even more rarely do we treat with them. Chance has brought us together, and I am grateful for this opportunity. In fact, I wish we could feast a while and converse. However, my father would never allow it.
+Ike: You can't expect us to accept so generous a gift--
+Kurthnaga: But I do. I insist that you consider it a personal gift from Goldoa's prince. However, I have made you uncomfortable, so if you feel you must decline...
+Ike: No, of course not. We will be happy to accept your gift. We appreciate it.
+Kurthnaga: I'm so pleased you understand.
+Titania: Ike! Captain Nasir wants to depart as soon as possible.
+Ike: Understood.
+Ike: Well then, I beg your leave. Prince Kurthnaga, I won't forget your kindness. Thank you!
+Kurthnaga: It was my pleasure. Take care.
+Kurthnaga: Farewell, beorc! May your journey be safe!
+Elincia: My lord Ike, is something amiss?
+Ike: First, those ravens attack us, and then a band of Goldoan dragons rescues us. I can't understand how they are all considered laguz. Is that strange?
+Elincia: No, I see what you're saying...Just as there are both good and evil beorc, there must be good and evil laguz as well. But they are so distinct in appearance...It is tempting to assume each race is, as a whole, intrinsically good or evil.
+Ike: Aye, that it is. The beast tribes of Gallia and the dragons of Goldoa seem sohonorable...and the birds of Kilvas and Phoenicis seem so cruel. It seems so easy to reduce them all to good or evil.
+Elincia: I'm sure it can't be as simple as that...
+Ike: Look at us beorc: Daeins are evil, and Crimeans are not. It's as simple as that.Well, wait...There were those prejudiced fools we met in port. They weren't all that honorable. Maybe you're right.
+Nasir: Much of what seems good and evil is simply a matter of perspective, Ike. Many conditions affect our judgment. Drawing a definitive line is nigh impossible.
+Ike: Nasir! Where have you been? You vanished without a trace.
+Nasir: I am uncomfortable around dragons. I thought it would be better if I stayed below in my cabin. My apologies.
+Ike: Now that you mention it, Soren seems to have disappeared as well. Have you seen him?
+Nasir: Perhaps he's feeling nauseated. For one unaccustomed to sea travel, it's not uncommon.
+Ike: Right...I think I'll check up on him later.
+Nasir: The wind is picking up. I believe I will go and check on the condition of our sails. Keep yourselves warm up here. It's a chill wind that blows in these waters.
+Ike: Princess Elincia, you should be returning to your cabin.
+Elincia: What about you, my lord Ike?
+Ike: I'll stay on deck a while longer. I have a lot to think about.
+Elincia: Would you mind if I stayed here with you? I won't be any bother.
+Ike: Hm? It's all right with me...
+Elincia: Oh, thank you.
+
+@Conversation
+Ike: ...
+Unknown: Ah, Ike! Grab that boy!
+Ike: What's going on?
+Sothe: Mm!
+Nasir: No more running for you.
+Sothe: ...
+Ike: Nasir, who is this?
+Ike: A stowaway. I gather he boarded the ship at Toha.
+Ike: What are you doing here? Why did you sneak aboard the ship?
+Sothe: ...
+Ike: You won't talk? In that case...
+Sothe: Hm? Ow...oouuuch!
+Nasir: Ike, there's no need to be so rough!
+Ike: I'm not going to waste my time playing games with this urchin. You want me to let you go? Open your mouth and start talking.
+Sothe: Owowow! Quit it! I'll talk!!
+Sothe: ...That hurt! I thought you were gonna break my face...
+Ike: Well? What's your name? What are you doing here?
+Sothe: I'm...Sothe. I'm...I'm a thief, but...I didn't come onboard this ship to steal anything.
+Ike: ...
+Sothe: Stop scowling at me like that! You're making me uncomfortable.
+Nasir: It's not just you. Ike always looks like that. Don't mind him; just keep talking.
+Sothe: I'm...looking for someone. I heard this ship was sailing for Begnion, so I decided to climb aboard.
+Nasir: This person you're after is in Begnion?
+Sothe: I don't know. The trail went cold in Toha, and...I couldn't think of anywhere else to go from there.
+Ike: Is it family?
+Sothe: Huh?
+Ike: The person you're looking for.
+Sothe: Yeah. I mean, we're not related by blood or anything, but...we're definitely family.
+Ike: ...
+
+Ike: Nasir, my mercenary company will look after this boy. He won't be a burden to you or your crew.
+Nasir: If that's what you want to do, it's fine with me.
+Sothe: Are you sure?
+Ike: You're going to be put to work. I hope you're prepared.
+Sothe: Sure, no problem! I'll..I'll do whatever you need!
+
+Ike: I wish we could help you, but we have our own troubles to deal with.
+Nasir: I see your point...This is a very difficult time for all of you.
+Sothe: ...
+Nasir: I see no other option. I'll take you on as a junior member of my crew.
+Sothe: Really?
+Nasir: It's either that or I toss you overboard, and I suspect you'd prefer I didn't.
+Sothe: Thank you! I'll repay you somehow! I swear it!
+Nasir: Don't worry about the boy, Ike. We'll take care of him.
+Ike: It's your ship. You can do as you please.
+Nasir: Well then, it's settled. Sothe, was it? Come, and I'll introduce you to the rest of my crew.
+Sothe: Sure!
+Ike: You're a lucky boy.
+Sothe: I'm just happy I don't have to hide anymore!
+
+Ike: ...Volke?
+Ike: Right here.
+Ike: Gah! Where've you been? You disappeared the moment we got on this ship!
+Volke: Don't worry about it. I'll be there when you need me.
+Ike: It's not me; it's my sister. You've never once shown up for a meal, and she thinks you're dying of hunger.
+Volke: Did we ever eat together while we were on land?
+Ike: All right, listen. Land? Big. Ship? Small. It's not the same thing! I don't want Mist roaming the ship with a plate of food anymore. So please, eat one meal a day with us.
+Volke: One hundred gold.
+Ike: You're going to charge me? To make you eat? And that's more than you charge to pick a lock! Why?
+Volke: I don't like large groups. Bye. Call me if you decide it's worth it.
+Ike: Maybe I should just tell Mist he's dead...
+
+Ike: Do you have a minute?
+Zihark: Of course, Commander Ike.
+Ike: You and I haven't had very many opportunities to talk, and I--
+Zihark: You don't think you can trust me?
+Ike: No, it's not that. I'm just curious--I was surprised to see anyone in Toha who chose to fight on the side of the laguz.
+Zihark: I joined the Toha vigilantes solely for the purpose of saving laguz. I'm not from Crimea, but when I heard she had joined with Gallia, I envisioned my perfect world, one in which the laguz could live normal lives, free of oppression. However, when I came to Crimea, I found things were no different there than in any other beorc nation.
+Ike: It was the same for me. I couldn't allow myself to ignore these problems any longer.
+Zihark: I'm happy to hear it. Of all the beorc I've ever met, you're the only one who shares my conviction.
+Ike: Zihark, is there...some other reason you defend the laguz?
+Zihark: I don't follow you.
+Ike: You see, I was born in Gallia, or so I've been told. I just wondered if you had a similar reason guiding you.
+Zihark: ...Of course I have my reasons. Would you be upset if I didn't want to discuss them? My reasons are...extremely personal.
+Ike: No, it's no problem. I wanted a better understanding of what kind of man you are, and I have that now.
+Zihark: Can I ask what that is?
+Ike: You are a good man. I'm glad to have you along.
+Zihark: I'm glad to be here. I feel I'm finally able to do the kind of good I've longed to do for years.
+
+Ilyana: Ooo...
+Ike: You don't look so well. Are you all right?
+Ilyana: I'm...seasick...When I was traveling with the merchants, we sometimes used...ships...Every time was the same... Urp...I'm...sorry.
+Ike: Did you travel with Muston and the others for a long time?
+Ilyana: About four years, all told. I had just left home, you see...I was all alone, and I couldn't find work. In my hometown, I had so many people I could depend on...but once I left, everything changed. If Muston's group hadn't found me by the side of the road, I'd probably be dead by now.
+Ike: Hm...You seem to have led quite an adventurous life. It's a bit surprising.
+Ilyana: I get that a lot.
+Ike: I find it hard to imagine that you couldn't find work, though. Your magic skills are amazing.
+Ilyana: Aren't they, though? Hee hee! I'm always happy when people notice...Whew...Wow! I feel so much better now. I'm actually starting to get hungry.
+Ike: I'm glad to hear it. Just stay above deck, and when you start to feel sick, look off at the horizon, all right?
