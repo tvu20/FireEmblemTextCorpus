@@ -6,8 +6,8 @@ import sys
 # Remove Parentheses
 # ----------------------------------
 
-script = os.path.join(os.getcwd(), "scripts", "text_formatter", "remove_parentheses.py")
-subprocess.call([sys.executable, script])
+# script = os.path.join(os.getcwd(), "scripts", "text_formatter", "remove_parentheses.py")
+# subprocess.call([sys.executable, script])
 
 # ----------------------------------
 # Remove/Format Line Breaks

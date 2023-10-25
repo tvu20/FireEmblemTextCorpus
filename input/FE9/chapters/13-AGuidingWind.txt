@@ -1,0 +1,434 @@
+@Intro
+Nasir: Ike, there's someone here claiming to be an envoy from the theocracy of Begnion. She's been asking if the princess of Crimea is aboard...What do you want to do?
+Ike: A Begnion envoy? How did she know about this ship?
+Nasir: Hmmm...Perhaps she had word from King Gallia...On the other hand, this is Begnion we're speaking of. I imagine it has spies in every corner of the continent. Perhaps one of those spies is the source of her information.
+Ike: So we shouldn't be surprised that she knows about Princess Elincia, right?
+Soren: No, but it's extremely unusual for Begnion to send an envoy to meet a princess whom they do not even acknowledge.
+Ike: What do you mean?
+Soren: It is a complicated matter. You see, the envoy is essentially an extension of the empress herself. Both Crimea and Daein were once part of Begnion. Both nations have only recently splintered from the theocracy. I can't fathom why the empress would extend the courtesy of an envoy to a nation she must consider somewhat beneath her. She must be planning something.
+Nasir: Beneath her? That is somewhat harsh, don't you think?
+Soren: Harsh, perhaps, but it's true. Clothing it in sweet words will not hide its bitterness, will it?
+Ike: Soren, even I would question the tactfulness of your words.
+Soren: I will try to be more diplomatic.
+Elincia: Ike, Nasir. You've no need to scold Soren. His words are just that. They do me no harm.
+Nasir: I'm glad to hear that, Princess, but he should mind his manners.
+Soren: ...
+Ike: Deciding how we ought to treat with this envoy is a more pressing issue. Princess, will you meet her and hear her message?
+Elincia: I believe I must. We gain nothing by refusing to see her. Let us meet with the envoy.
+
+Tanith: Princess Elincia of Crimea, I presume...
+Elincia: Yes.
+Tanith: It is an honor to meet you. My name is Tanith. I am deputy commanding officer of Begnion's holy guard.
+Elincia: I must ask, what would Begnion want of me that she would send her holy guard to greet me?
+Tanith: The apostle has learned of you, Princess Elincia, and she has come here to meet with you personally. The duty falls upon me to take you to her now.
+Elincia: The apostle? Am I to meet--Surely the apostle has better things to do than...
+Tanith: Will you accompany me?
+Elincia: I suppose that I...
+Ike: We are the princess's escorts, and we will be coming with her. I hope you understand.
+Tanith: Of course.
+Elincia: Then yes, I will go with you. Thank you.
+Pegasus Knight: Bad news,ma'am. We've sighted laguz near the apostle's position. Birdmen. Crows, most likely.
+Tanith: Hmph! We've seen their kind before. They fancy themselves pirates without a ship, but they're thieves plain and simple. Commander Sigrun is with the apostle, and it will take more than a few winged scavengers to get past her. Let's remain calm.
+Pegasus Knight: I... Actually, I'm afraid we aren't quite sure where the apostle is.
+Tanith: What!? They've kidnapped the apostle!?
+Pegasus Knight: No, no! I...From what the commander said, the apostle grew impatient and had another of her more...willful moments. I asked at the docks, and sure enough, one of the longshoremen heard her order the ship to set sail without us.
+Tanith: What!? Where were her attendants? What was she doing without her guard? Why can she never just stay put? I've told her time and time again that the seaports here are rampant with pirates and crow thugs!...Right. Where is she now?
+Pegasus Knight: The wind is poor today, so we think her ship should not be too far from us. I came here as quickly as I could.
+Tanith: Understood. We'll move immediately.
+Elincia: Excuse me, but is something wrong?
+Tanith: Your Highness, I must apologize, but an urgent matter has arisen, and I must attend to it immediately. I will return for you later. Await my return!
+
+Ike: What was that all about?
+Titania: Judging from her expression, I'd say something has happened to the person she's meant to be protecting.
+Mist: Say, do you think that ship over there is involved? The envoy is flying in that direction.
+Ike: If so, then the pegasus knight's fears have already been realized...They're under attack. It's the ravens they spoke of, isn't it?
+Soren: Ike, why don't we go lend them a hand?
+Ike: Are you feeling all right, Soren? It's not like you to offer to help anyone.
+Soren: It's a great opportunity to put the empress in our debt. We'd be fools to pass that up, wouldn't we?
+Ike: I should have known you'd have an angle. What do you want to do, Titania?
+Titania: I don't approve of Soren's motivations, but I agree that we should help.
+Ike: Well, then that's what we'll do. Will you be all right on your own, Princess?
+Elincia: You're doing the right thing. I would not dream of stopping you. I know those pirates are no match for your strength.
+Elincia: Give them...Give them a sound thrashing!
+Ike: Huh...You're starting to sound like one of us, aren't you? All right then, we'd better go!
+
+@Recruit-Talk 
+%Ike,Tanith
+Tanith: Ugh! No matter how many we defeat, there are more waiting to attack! And not just those ravens of Kilvas, either--there are beorc, too. What do they all want here!?
+Ike: Need a little help?
+Tanith: You! Aren't you Princess Crimea's escort?
+Ike: Yes. The princess ordered us to come to your aid. May we join the fray?
+Tanith: That would be appreciated. We'll keep the ravens at bay. In the interim, why don't you go ahead and move onto that ship. The big vessel is ours. I'm not sure who the small one belongs to.
+Tanith: There are human soldiers aboard, but if they're in this part of the sea, they must be pirates. Cut them down!
+Ike: Right. We'll take care of them!
+
+@Battle
+Begnion Soldier: Oh, no! There are more of them!? We're doomed!!
+Begnion Soldier 2: No, don't panic! We must protect the apostle no matter what!! Listen up, pirate scum! You may outnumber us, but we will not yield an inch!
+Ike: Wait, wait! Don't get confused. We're here to help you! We're your reinforcements. The deputy commander of the holy guard asked us to help drive the enemy from this ship.
+Begnion Soldier: Oh! Commander Tanith sent you? We're saved! The apostle has taken refuge in the cabin belowdecks.
+Begnion Soldier 2: Where on earth is the holy guard? Between those crows and the pirates, we're outnumbered! It's only a matter of time before we're overwhelmed.
+
+Gatrie: Lady Astrid! Allow me to serve as your shield!
+Astrid: Gatrie...I'm so sorry that I've gotten you involved in this, too...
+Gatrie: Oh, please! This is nothing. I'm fine!! Before I was hired as your bodyguard, I was a top-notch mercenary! I can handle this many opponents all by myself. This is nothing.
+Astrid: Is that so? Your confidence is impressive, to say the least...
+Gatrie: Tee hee! Well...trust me, my confidence is backed with my blade! I'm ready to fight!
+Astrid: I will fight, too.
+Begnion Soldier 2: Y-you...You're one of the passengers from House Damiell, aren't you? I can't permit someone of your stature to throw herself into harm's way!
+Astrid: I was once a knight of Begnion, albeit for only a short while...I won't get in your way.
+Begnion Soldier 2: No, I can't--
+Astrid: We must defend the apostle, right? We do not have the luxury of choosing how to do so. Come, we must get ready. The enemy is coming!
+Begnion Soldier 2: You are right. We need every able fighter. Accept my apologies, and thank you for your help.
+
+Begnion Soldier: Until the holy guard arrives, we need you to defend the entrance to the ship's cabins.
+Ike: Got it! Weapons ready, everyone!
+
+@Recruit-Talk 
+%Ike,Astrid
+Astrid: Who are you?
+Ike: My name's Ike. I'm with the Greil Mercenaries. I came to defend this ship--and the apostle, if I can.
+Astrid: Is that so? I am Astrid, of House Damiell.
+Ike: A blueblood, huh? Well, unless you're good with a sword, you'd better hide yourself in a cabin.
+Astrid: I'll do no such thing. I once trained with knights and cavaliers. I may be of noble birth...but I know something of battle. I can fight.
+Ike: Well, if you can fight, we can use you. Let's work together. You going to be all right with that?
+Astrid: More so than I would be with hiding belowdecks, certainly.
+
+%Astrid,Gatrie
+Astrid: Gatrie...
+Gatrie: Lady Astrid! Are you all right?
+Astrid: What do you mean? I'm fine. Why shouldn't I be?
+Gatrie: I saw you talking to that rough, blue-haired lad earlier..What did he say to you? Was he rude? Did he try to tell you to run for safety while he fought for your honor?
+Astrid: ...Words to that effect, yes.
+Gatrie: Oh, what a fool! I tell you, he'll never learn! You already have an unbeatable bodyguard--me! I'll have to remind him of that later.
+Astrid: You know that Ike person?
+Gatrie: He is the son of a man under whom I had the honor of serving. He's not a bad person, by any means. But he has no manners whatsoever...
+Astrid: I see. Well, he seemed more concerned than rude. When I told him I would prefer to fight, he seemed to understand.
+Gatrie: Hm...Oh. Oh, of course! I see it now! How silly of me. Not rude, you say? I should have known my presence would have changed the boy for the better! I'm the ideal role model!
+
+@Battle-Talk 
+%Gatrie,Ike
+Gatrie: Well, if it isn't Ike! Good to see you. You're looking well, my boy.
+Ike: Yeah.
+Gatrie: Well, I'm glad to see it. I've been worried sick about how the Greil Mercenaries held up after I left. Did you ever recover?
+Ike: We managed just fine. Uh...What are you doing here, anyway?
+Gatrie: Me? Oh, I'm on a vital mission. Absolutely critical, I am. You see, these men keep attacking this ship, and I am to continue driving them back!
+Ike: I see...Are you working for the Begnion apostle?
+Gatrie: No, no. My employer is far more charming!
+Ike: Is that so...From the sound of it, it must be a young lady.
+Gatrie: Aye, after a fashion. Judging by the look of things, you must be on Begnion's side, yes? I certainly hope so. I'd hate to have to slay you after all we've been through.
+Ike: No, you're right. We're here to defend the apostle.
+Gatrie: Well, that's a relief. There's nothing more awkward than having to kill a friend because of his poor taste in employers, I tell you. Still, I guess that's the hazard of life as a mercenary. It's good to see you, Ike. Let's finish this together!
+Ike: I'm with you, Gatrie
+
+%Ike,Gatrie
+Ike: Hey, Gatrie! What's with that sour look on your face?
+Gatrie: You know, I think it must be fate. Why else would we be here, fighting side by side once again? It makes me wish I hadn't abandoned you so quickly after your father, Commander Greil, died.
+Ike: It's not like you to say things like that, Gatrie...
+Gatrie: You look like none of this matters to you. Aren't you mad at me or anything? I abandoned you all!
+Ike: No. I understand how you must have felt when you left. And it's only because you left that you met this nice new employer. I see no problem.
+Gatrie: Yes, you do have a point. So I guess it all worked out! I can't believe I wasted all this time worrying!
+Ike: The fact that you worried tells me that you never really abandoned us after all.
+Gatrie: Hm. You're right again! I am truly glad to see you, Ike.
+
+%Titania,Gatrie
+Titania: Gatrie? Is that you? Well, I'll be. It IS you!
+Gatrie: Oh! Titania! It's been such a long time! How have you been?
+Titania: Busy, of course. The mercenary life is a busy one. Have you been doing well since you left us?
+Gatrie: Yes! In fact, I'm on a very serious mission right now! I can't afford to lose. A life hangs in the balance!
+Titania: My...I've never seen you so serious before. Whoever your new employer is, he must be quite special...or...would I be safe in saying she?
+Gatrie: Tee hee! You know me too well! But I do love the work she gives me. I'm so happy, I don't know what to do! Well, it is nice seeing you again!
+Titania: You, too. Good luck, Gatrie!
+
+%Soren,Gatrie
+Gatrie: Hm? Hey, it's you!
+Soren: ...Hello, Gatrie.
+Gatrie: What's wrong? Are you still holding a grudge because I abandoned the Greil Mercenaries so abruptly?
+Soren: No, not really. I'm just waiting to find out which side you're working for. If you're on our side, fine...Please fight till you drop. It will only improve our chances of winning.
+Gatrie: I, uh...Of course! You know, you can always count on me!
+Soren: Hm. Always. Of course.
+Gatrie: Phew...That boy hasn't changed a bit.
+
+%Mist,Gatrie
+Mist: Gatrie? That is you, isn't it?
+Gatrie: Well, if it isn't Mist! Long time, no see! How have you been?
+Mist: Oh, you know! Hanging in there.
+Gatrie: Look at you! You're out here on the battlefield now? How do you like it?
+Mist: No worries...Not so far, anyway. How about you? Are you doing well?
+Gatrie: Yes! In fact, I'm on a very serious mission right now! I can't afford to lose. A life hangs in the balance!
+Mist: I'm glad things are working out. I knew they would, but I was worried...Just a little.
+Gatrie: Tee hee hee. You never need to worry about me, dear Mist. I've never been happier!
+Mist: I'm glad to hear that.
+Gatrie: Well, the battle awaits. Stay sharp, and stay safe!
+Mist: The same goes for you, Gatrie!
+
+%Oscar,Gatrie
+Oscar: ...Well if it isn't Gatrie!
+Gatrie: Is...Is that you, Oscar!? My word, Oscar! So, how is it going?
+Oscar: Well, I'm hanging in there. How about you? How have you been? Is everything going well with your job?
+Gatrie: Yes! In fact, I'm on a very serious mission right now! I can't afford to lose. A life hangs in the balance!
+Oscar: I'm glad to hear that. I knew you'd be fine, but I still worried about you.
+Gatrie: Oh, there's never any need to worry about me. Why, I can't recall ever having been happier.
+Oscar: Is that right?
+Gatrie: But enough chitchat. There's a battle to finish!
+Oscar: You got that right.
+
+%Boyd,Gatrie
+Boyd: It can't be...Gatrie!?
+Gatrie: Boyd? Why, Boyd! Long time, no see! How have you been?
+Boyd: Since you left? I've been fine, thanks. We've all been just fine. Uh...What are you doing here?
+Gatrie: Working, of course! I'm on a very serious mission right now. I can't afford to lose. A life hangs in the balance!
+Boyd: Hm. Well, I am glad to hear that. You do seem much happier now than when you were when you left us.
+Gatrie: Ha ha ha. You always were an observant one. Let me tell you, I've never been happier.
+Boyd: If I know you, this has something to do with a woman, doesn't it?
+Gatrie: Huh? What was that?
+Boyd: Oh, nothing. I was just talking to myself.
+Gatrie: But enough chitchat. There's a battle to finish!
+Boyd: You got that right.
+
+%Rolf,Gatrie
+Rolf: Gatrie? It IS you!
+Gatrie: Hey! Rolf? Rolf! It's been a long time! How have you been?
+Rolf: Well...Yes. I've been well!
+Gatrie: They have you fighting for them, too, do they...Are you doing all right?
+Rolf: Oh, yeah. I'm fine. I've been doing just fine. How about you, Gatrie?
+Gatrie: Great! In fact, I'm on a very serious mission right now! I can't afford to lose. A life hangs in the balance!
+Rolf: Sounds exciting! I guess I didn't need to worry about you after all.
+Gatrie: You were worried? That's nice, but to tell the truth, I've never been happier, my boy!
+Rolf: I'm glad to hear that.
+Gatrie: But enough chitchat. There's a battle to finish!
+Rolf: I'll second that.
+
+%Rhys,Gatrie
+Rhys: Hm? Is that...Gatrie, is that you?
+Gatrie: Hm? Rhys? Rhys, look at you! It's been so long! How are you doing?
+Rhys: Oh...I'm hanging in there. And you? How has it been since you left? Is the new job going well?
+Gatrie: You bet! In fact,I'm on a very serious mission right now! I can't afford to lose. A life hangs in the balance!
+Rhys: I'm glad to hear everything's going well for you. I knew it would, but I was worried...Just a little.
+Gatrie: Tee hee! You don't need to worry about me. Why, I can't remember when I've been this happy.
+Rhys: I'm relieved to hear that.
+Gatrie: But enough chitchat! There's a battle that needs fighting.
+Rhys: Agreed. It's nice to fight at your side again, even if we're working for different people.
+
+@Battle
+Naesala: Tell me, walker, are my soldiers proving useful?
+Norris: K-King Kilvas!
+Naesala: What? Aren't you happy to see me?
+Norris: Grrr...Look at this mess! I paid you good money to help me outmaneuver everyone else and catch the Crimean princess's ship first. Everything seemed to be going exactly as we'd planned. But now, we're being attacked by a squad of pegasus knights! We're flying no flags! We've stripped our armor of any crests! They should have no clue who we are! Why are they attacking us!?
+Naesala: Didn't you know? That is a Begnion ship you're attacking.
+Norris: What?!? That's...a Begnion ship? It was your featherbrained lackey who told us that Princess Crimea was aboard that vessel!
+Naesala: Call it a miscommunication...One of those unfortunate misunderstandings that seem to happen now and again.
+Norris: You deceitful...King Kilvas! I wouldn't be surprised if you'd planned this treachery from the start!
+Naesala: Such unkind words! You wound me. I would never intentionally lie to you. And as proof, I bring good news. I have it on unshakable authority that the ship that just sailed up alongside Begnion's carries the Crimean princess.
+Norris: Oh...But unless we can break through the Begnion ranks, there's nothing we can do...
+Naesala: Would you care for some assistance?
+Norris: And what would it cost me this time?
+Naesala: You learn quickly, my friend. Let's see, you'd be receiving my own royal assistance, so...double--no, triple rates.
+Norris: Ludicrous! So much gold... Where would I...
+Naesala: I suppose I could defer payment until later. Of course, that does bring up the question of interest...
+Norris: Leave my sight! I wouldn't seek your aid if the world were burning down around me!
+Naesala: Very well, we've no more to discuss. Call me if you change your mind. I'll find a nice perch and enjoy the show.
+Norris: Curse you! You're no better than your feral cousins!
+
+Naesala: Those humans take themselves far too seriously. It's almost as though being obstinate is a way of life to them. They let their foolish pride stand in the way, and what do they get in the end? A swift and stupid death. Now I'm getting terribly bored merely watching their foolishness.
+Nealuchi: Ne-Ne-Nestling! I can sense you're up to no good again!
+Naesala: Stop calling me Nestling...Really, how many times must I tell you that, Nealuchi?
+Nealuchi: To me, you will always be Nestling, Nestling. You can tell me as many times as you like, but I can't stop. You may be king now, but in my eyes, you will ever be my little nestling with eggshell stuck to your tail feathers!
+Naesala: Oh...curses! Senile old fool. Forget it.
+Naesala: Hey, you there!
+Raven Laguz: Yes, sir!
+Naesala: We should take advantage of the confusion of battle to help ourselves to the cargo. These humans seem interested only in fighting their fellow men. If they can't be bothered to defend their treasure, I think it fair to say they've lost their claim to it.
+Raven Laguz: Right you are, sir!
+Naesala: Hmph. Fight. Fight till you drop, ground-bound humans. We Kilvas will be sharpening our black beaks in the mean.
+
+Tibarn: Hm. A battle...Tell me what you see, Janaff.
+Janaff: It's a bit far off, but with no fog, it shouldn't be a problem. Hmm...The middle ship... I see beorc aboard. By their crests, I'd say they serve the hated Begnion empire. And the other ships...I'm not sure who they belong to. Neither flies any flag...and I see no crest, but I can make out more beorc. From their behavior...I would say that one side fights Begnion, while the other rushes to Begnion's aid.
+Tibarn: A battle between beorc ships? I do not understand this at all. Ulki, tell me what they are saying.
+Ulki: Just a minute, sir......The apostle is...aboard the Begnion ship. And coming to her aid...Soldiers serving Crimea's princess? They appear to be mercenaries. And on that last ship...More soldiers, although I do not know which country they serve. It seems they had a contract of some sort with the raven king.
+Tibarn: The apostle!? That would explain the presence of those graceless pegasus knights.
+Ulki: What would you like to do, Your Majesty? We will fight if you give the word.
+Tibarn: The apostle...This is a tempting opportunity. However, we are no scavengers, feeding on others' scraps. When we fight, it will be with honor. We're going back home. Do some scouting and report back to me with what you find.
+Ulki: Yes, sir!
+
+@Boss
+Norris: Blast! All my plans are falling apart. I'll cut you all down!
+
+Norris: Accursed crows...You ruined...all of...my plans...
+
+@Battle
+Sigrun: Finally! There they are! I hope we'll find Empress Sanaki...safe and sound...Ladies, chaaaarge! Show them what we've got!!
+
+Ike: Oh, no!!
+
+Norris: Pegasus knights? Begnion sent their holy guard here? Blast! Accursed crows...My plan was perfect! It's over...Men, into the seas! Swim for your lives! And if you get caught, tell 'em nothing! Not a word about our homeland, or your life is forfeit!
+
+@End
+Naesala: I saw this coming, of course. You know...If they'd just paid me more, I'd have been willing to lend a hand. Oh, well. What do a few human lives matter to us? They're none of our concern. We're done here. Let's go.
+Raven Laguz: Yes, sir!
+Titania: That's it. It looks like the dust is finally starting to settle.
+Soren: Looks like those crows took flight as soon as the holy guard arrived. The other assailants fled, too.
+Ike: Then our job here is done. Crows are one thing, but what were those men doing with them?
+Titania: Yes, I thought that was odd, too.
+Ike: They looked like pirates, but they certainly didn't act like them.
+Titania: True. They weren't interested in treasure, and their soldiers definitely were trained fighters. But who were they? Which country did they serve? Was this an attempt on the apostle's life?
+Nasir: It's possible. The apostle is the symbol of the Begnion Empire itself. The apostle is its empress. If she were to perish, it's fair to say Begnion itself would perish as well.
+Ike: I see...
+Unknown: The apostle is missing!? What do you mean!?
+Nasir: That voice...
+Ike: Something must have happened. Let's go find out.
+Tanith: ...Ugh. This business is becoming quite the headache.
+Begnion Soldier: I-I'm sorry, ma'am! If I can offer up my life in repentance for--
+Tanith: Oh, stop it. If you want to repent, go do something useful and find the apostle.
+Begnion Soldier: Yes, ma'am!
+Ike: Did I hear correctly? Is the apostle missing again?
+Tanith: Oh, you're that mercenary...
+Ike: My men guarded the cabin entrance. As far as I know, we kept it safe from the enemy...
+Tanith: From what I have been told, the apostle slipped out of the cabin on her own in the chaos...
+Ike: On her own? Now why would anyone called the apostle do something as stupid as that?
+Titania: Hey, Ike! Watch your words. You're being rude.
+Tanith: It's all right, dame knight. I have more important matters on my mind. I hate to ask, but would I be able to enlist your help in searching for the apostle?
+Titania: Of course! You don't mind helping, do you, Ike?
+Ike: Nah.
+Tanith: We'll search the enemy ship. Would you search your ship, just to be sure? I would appreciate it.
+Ike: I'll do what I can to find her, but I don't even know who I'm looking for...
+Soren: I think it's safe to assume she will be a woman of stature, a noblewoman of some sort.
+Ike: Huh.
+Titania: Well, I suppose all I have to do is keep my eyes peeled for any stowaway--anyone I don't know. Let's split up. It will go faster if we search separately. Mist and I will check this side.
+Ike: Then Soren and I will search the rest of the ship.
+Ike: Soren...About what I said this morning...
+Soren: Yes?
+Ike: About the way you phrase things.
+Soren: I...I ought to apologize for that.
+Ike: No, don't apologize. I know you. I know it's been bothering you, hasn't it?
+Soren: No. Well...
+Ike: Don't take it personally. I'm no better, you know. Your ability to speak plainly the things others won't is part of what makes you brilliant. Others are too bound by courtesy...With you, I trust that what you say is exactly what you think.
+Soren: Well...yes... Thank you, Ike.
+Ike: Now, about that missing apostle...
+Soren: Oh...!
+Ike: You found her?
+Soren: No, I don't think so. But there's a child stowing away in here!
+Ike: What!? What is a child doing hiding on our ship!?
+Soren: She must be some aristocrat's daughter. Probably slipped on from the Begnion ship...It was a hectic battle. She must have been frightened and hid herself here in the confusion. Are you going to help her?
+Ike: Well, we can't just leave her.
+Ike: Hey, are you all right?
+Sanaki: I-I'm...fine...
+Ike: Hey, don't be scared!
+Sanaki: Uh...Wh-who might you be? You don't look like a laguz. Perhaps a new recruit?
+Ike: No. I'm a mercenary. I was hired by Princess Elincia.
+Sanaki: The Crimean princess? Ouch!
+Ike: What's wrong? Oh, you hurt your foot. Let me see.
+Sanaki: Hold! Do not approach me! Hey, I told you not to--Oooouch! You're hurting me! You fool!!
+Ike: Looks like the bone's not broken. Still, we'd better have Mist take a look at it just in case.
+Sanaki: Oh? What? What are you doing!?
+Ike: Just hush up and hold on to me. There's my sister. She can heal that foot of yours right up.
+Sanaki: Are you trying to help me? Shouldn't you be elsewhere?
+Ike: I'm supposed to be looking for some sort of apostle person. But I think there are enough other people looking, and I'd rather help the injured first.
+Sanaki: Ha...I see. This is indeed...
+Ike: Hm? What is it?
+Sanaki: Oh, nothing. If that's the case, I accept your help.
+Mist: Ike! Any luck finding the apostle?
+Ike: Nope. All I found was a little lost child.
+Titania: Hey, she's quite a cutie.
+Ike: Mist, do you think you could use your staff to heal this kid?
+Mist: Yeah. Is she hurt?
+Ike: Just her foot...But maybe she bumped her head, too. She's been mumbling complete gibberish since I picked her up.
+Sanaki: I kept silent, blaming these antics on your ignorance, but I can no longer tolerate your manners!
+Ike: Huh? What's wrong? It's your foot, isn't it?
+Sanaki: Prepare yourselves, peasants!
+Ike: Prepare? For what?
+Sanaki: You stand in the presence of Sanaki, empress of Begnion! I am the apostle, the voice of the goddess!
+Ike: Empress? What did she say?
+Titania: What? Then she is...
+Mist: Oh, no... Is she really...?
+Ike: No, she can't be.
+Soren: No way
+Titania: Hold your judgment...Even if she's lying, there must be a reason...
+Sanaki: Y-you...ignorant...!
+Unknown: Are you all right, Empress!?
+Sigrun: My apologies! We were unable to reach you, and we left you in terrible peril. I accept full responsibility.
+Sanaki: You're late, Sigrun! What would you have done had something happened to me?
+Sigrun: Please, Empress, I beg your forgiveness.
+Sanaki: That won't be necessary. I am also partly to blame for what happened.
+Sanaki: Let's focus instead on our rescuers. As a reward for rescuing me, I would like to invite them to visit our court. And be sure that the one they serve, that girl who claims to be the princess of Crimea, is invited as well.
+Sigrun: Princess Elincia's bodyguards, I presume. I am sorry for the trouble you've gone to.
+Ike: And you are...?
+Sigrun: I beg your pardon. My name is Sigrun. I'm a commander of Begnion's holy guard. No word of thanks will ever repay you for saving the empress.
+Mist: Wait...So it's true?
+Titania: Are you saying that little child...
+Ike: is Begnion's...
+Soren: Empress...Hm. It appears so. I can't say I quite believe it, but she seems sincere. Besides, how many people do you know who command a legion of pegasus knights?
+Sigrun: The empress has invited us to join her at Sienne, the capital of Begnion. I think we should go. Where is the princess? We should ask her permission before agreeing.
+Ike: She must be in the cabin. I'll take you to her.
+
+@Conversation
+Daniel: Commander, how are you? Staring at the sea, I see...
+Ike: I know you...You're Jorge, right? You make weapons for us.
+Daniel: No. Jorge buys used ware. I'm his twin brother. Well, mostly his twin. He has blond hair, you see. My name is Daniel. Just remember that I have brown hair and that Jorge has blond, and you'll be fine.
+Ike: Brown hair, Daniel, and weapons...Blond hair, Jorge, and items...I think I'll remember.
+Daniel: Fantastic. Say, can I ask you a quick question? You're a battle expert, right? You've fought a lot?
+Ike: Enough, yeah. What is it?
+Daniel: Picture this. Let's say there are two ships. And suppose there are planks connecting the ships at three different points.
+Ike: All right. I'm picturing it.
+Daniel: Now then, soldiers from one ship are about to attack the other one. Imagine that the defending side has fewer soldiers. If they want to mount a solid defense, what should they do?
+Ike: It seems clear enough to me. Position the soldiers with the best defense on the planks, soldiers like cavaliers and knights.
+Daniel: I see. So you would hold the enemy at bay by using your strongest allies to block the primary crossing points!
+Ike: Then, you'd want to have your long-range attackers line up behind the tougher units barring the bridges. I'm talking about anyone with javelins, axes, or magic. You'd be able to do a lot of damage without much risk.
+Daniel: Sounds like a good plan but...it seems rough on the soldiers defending the bridges.
+Ike: You would want to heal them often,obviously, but maybe there's a way to reduce how much damage they take.
+Daniel: It's a stretch, but what if I don't have them attack at all? That way, they won't run the risk of getting any counterattacks!
+Ike: Hmm... That's not a bad idea.
+Daniel: Great! Thanks. That gave me some good ideas.
+Ike: Ideas? For what?
+Daniel: Oh, my brother and I have been playing a wargame. I've lost four times in a row.
+Ike: A wargame?
+Daniel: We'll let you join if you bring some parchment and a quill. Come see us anytime if you're curious. See you later.
+Ike: Maybe I shouldn't have been so serious with him...
+
+Aimee: Well, well! If it isn't our commander! What brings you down here?
+Ike: I was just on my way to the deck.
+Aimee: Oh, I see. That's too bad. I had a story I wanted to share with you.
+Ike: A story?
+Aimee: Hm mm. And quite a ripping yarn it is, too. Interested?
+Ike: Well... Not really.
+Aimee: Oh, you're so rude! And after you were so sweet the other day!
+Ike: What are you going on about?
+Aimee: When those crows attacked... I had wanted to see what they looked like, so I was hiding on the deck, watching. I had heard they could fly, of course, but I had no idea they could fight! I thought one of them had the drop on you, and I couldn't help myself! I cried out, Commander, watch out!
+Ike: I thought I'd heard a strange, shrieking sound. That was you?
+Aimee: And upon hearing my sweet voice, Commander, you turned around and brought down that crow with one shot! It was awe inspiring.
+Ike: Not really. He was exhausted from the battle. He could barely move.
+Aimee: And that's when you first caught my eye, my dynamic young commander!
+Ike: Is that why your hand always lingers on mine when you hand me my equipment?
+Aimee: Oh, no! Have I been too...obvious?
+Ike: Maybe I should send one of the others down to pick up our gear from now on...
+Aimee: Hm. You're embarrassed, aren't you? You're so cute when you're being coy! But once I set my sights on a man,I never let him get away. Remember that.
+
+Ike: Hey.
+Jill: What do you want?
+Ike: Is there any reason you're still on our ship? The crows are gone. The truce is over, isn't it?
+Jill: ...I have a duty. As a Daein soldier, I cannot allow a Crimean princess and her band of mercenaries to run free where they will.
+Ike: If you want to start a fight,you're on the right path. Think you can take us all on your own? Because if you want to get your friends, I won't stop you from leaving the ship.
+Jill: Watching you all fight those crows like a band of street rats with sticks,I could see you were no match for me. But even if I were to leave this ship, the land is too far away for me to reach.
+Ike: Nonsense. I can see land in the distance from time to time, and I thought you could go anywhere on that wyvern of yours.
+Jill: No wyvern could fly that far without resting, and these islands are thick with half-beast scum. Even if I wanted to, I couldn't leave this ship.
+Ike: Then let me ask you, why did you follow us alone knowing that?
+Jill: I wanted to be recognized...I wanted my deeds to earn me fame. A soldier has little else to strive for...
+Ike: And yet you soldiers sneer at mercenaries. At least we fight for something real. There are some dumb soldiers in this world.
+Ike: You leave us no choice. I'll take you as far as Begnion.
+Ike: But as long as you're on my ship, you will not utter the phrase half-beast. If you can't agree to this condition, I'll kick you off the ship right now.
+Jill: ...
+
+Boyd: I'm just saying, there has to be something more we can do.
+Oscar: Boyd... You're not making any sense. I understand your enthusiasm to help , but try to explain what you mean...We can't do anything until we know exactly what it is you want to do.
+Boyd: You're so impatient, Oscar. I was just getting to it, all right?
+Oscar: Impatient? You're calling me impatient? You're so impatient you can barely be bothered to put your armor on!
+Boyd: Nag, nag, nag. Listen, I think we should come up with an unstoppable killer attack, something only we can do!
+Rolf: An unstoppable attack!? That sounds good...
+Boyd: Doesn't it? I'm glad you approve, peewee!
+Rolf: Don't call me peewee!
+Oscar: It is a fine plan, but you haven't explained what this new attack is supposed to be. How do we do it?
+Boyd: Hey, I came up with the idea. It's your job to figure out the details. Make it cool, though, Oscar.
+Oscar: Boyd, this plan sounds...Oh, dear... How do I put it?
+Rolf: Let me do it! I'll think up a great one!
+Boyd: No way. Forget that. It's too much for your little peewee brain.
+Rolf: I told you, don't call me that!
+Ike: They may not like to admit it, but they certainly are close.

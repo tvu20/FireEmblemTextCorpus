@@ -14,7 +14,8 @@ with open(os.path.join(__location__, "parentheses.txt"), 'r') as f, open(os.path
         if len(text) > 0 and text[0] == "(" and text[-1] == ")":
             # fo.write("")
             # fo.write("")
-            fo.write("\n\n")
+            # fo.write("\n\n")
+            fo.write("\n")
             # nextline = next(f, None)
 
             # if len(nextline.strip()) != 0:

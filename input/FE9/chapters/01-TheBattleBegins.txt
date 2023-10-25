@@ -1,0 +1,85 @@
+@Intro 
+Greil: Good morning, Ike. Today’s your first day as a professional soldier, isn’t it?
+Ike: Yeah, and I’m ready to go.
+Greil: What you are is late. The others were suited up and ready at the break of dawn.
+Ike: Sorry. I’ll get up earlier from now on. So, what’s my first job?
+Greil: I’m talking with Titania right now. Wait outside until we’re done.
+Ike: Yes, sir.
+Titania: Very well, Commander Greil, shall we continue?
+Greil: You were telling me about some bandits that needed taking care of, weren’t you?
+Titania: Correct. The request comes from a nearby village. According to our reports, the bandits are not all that strong. I think it best if I ride out and take a look. I plan on taking Oscar and Boyd along with me.
+Greil: Just the brothers? Hm. Go ahead and add Ike to your team. Shinon, Gatrie, and I can handle the other two jobs easily enough. Titania, I’m leaving Ike in your care. I’m trusting you to show him the ropes.
+Titania: Understood, Commander.
+Titania: Come on, Ike. Let’s get you set up.
+Ike: All right...My first job.
+Oscar: Captain Titania. Preparations are complete, and I’m ready to go.
+Titania: Impeccable timing. It’s nice to know we can always count on you to be at the ready, Oscar.
+Boyd: Don’t forget about me! I’m ready for action!
+Titania: Is that so, Boyd? That’s a surprise.
+Boyd: Ha! Not today it isn’t.
+Boyd: As of today, I am going to be the absolute model of perfection. I need to set a good example for Ike!
+Ike: I’ll take your word for it.
+Oscar: Your first campaign at last. I know you’ve wanted this for a while. Are you nervous,Ike?
+Ike: I think I was more nervous last night. I could hardly sleep. This morning, I’m feeling pretty good. It’s the calm before the storm.
+Oscar: You should try to relax. You’re not going to be out there alone.
+Ike: Yeah, you’re right.
+Titania: Right. Everyone ready? Let’s go.
+Titania: This is the village of Caldea. The bandits are few, but we mustn’t get careless. Our goal is to take out the bandit leader in front of the large building, and then secure that building.
+Titania: All right, let me explain what’s going on.
+
+Titania: This is a map of Caldea. They’ve hired us to drive off some bandits. We’re the blue marks here. The red marks are the bandits.
+Titania: There aren’t many of them, but we can’t get careless. The one in front of the building up north is their leader.
+Titania: Our mission is to take him out and recapture that building.
+Boyd: Ike! Listen up! All this stuff is old news to me, but I can give a rookie like you a few tips. First off, don’t let yourself get worked up and jump out in front of everyone. You’ll just end up getting hurt.
+Oscar: Don’t try to do too much, Ike. When things get dangerous, you can–and should–rely on us. As long as you watch how the enemy moves carefully, you’ll be fine. Think of this as a training mission.
+Ike: I’ll do that. Oscar, Boyd, thanks for your help.
+Oscar: Don’t mention it.
+Boyd: Just sit back and watch how a professional handles things!
+Titania: Enough chitchat, you three! We’ve got work to do!
+
+@Battle
+Titania: Ike, before you engage an enemy, take a good look at his weapon. The weapon you use often determines who has the upper hand in a fight. For example, the axe I’m wielding serves me well against lances, but it fares less well against swords.
+Oscar: And my lance is great against swords but not against axes. And to complete the triangle...
+Ike: Ah! My sword. It’s strong against axes, but weak against lances. Right?
+Titania: Yes, exactly. If you can remember that, you’ll be more effective in combat.
+Boyd: That’s just the basics, though. This’ll come in handy soon enough, so don’t forget it.
+Ike: Swords over axes...I won’t forget. Not if I remember that I’ll always have the advantage over you, Boyd.
+Boyd: Do you think you could maybe find a different way of remembering? Yeah, thanks.
+Titania: And one more thing...Don’t forget to visit the locals. We’re here to help, after all. The villagers should welcome our presence.
+
+Zawanar: What’s going on out there? Is that some sort of army? Pah. A bunch of mercenaries looking for their next meal. The villagers must’ve hired ’em. Listen up, lads! Hurt ’em, and hurt ’em bad! We let this bunch live, and we’ll have hordes of hired swords hounding us the rest of our days!
+Bandit: It’s those fool villagers...They think they can buy a bunch of sellswords to chase us away. It ain’t gonna work out how they wanted. All they get for their trouble is a bunch of ruined houses. Tear’em down, boys! That’ll teach ’em!
+
+Bandit: My work here is done. This house is totalled! Time to move on to bigger things. Now, I smash me some mercenaries.
+
+@Boss
+Zawanar: You looking for something, fool? You looking for a fight? Heh heh... You came to the right place. I’ll give you a tussle!
+
+Zawanar: I...I’m meant for better than this...I don’t want to die here...
+
+%Ike,Zawanar
+Zawanar: Hey, you’re nothing but a boy. Well, every brat needs a beating now and then. Are you ready for it?
+Ike: Not today.If you want to run away, now’s your chance.
+Zawanar: Heh heh heh. Imagine that, you sassing me. Don’t that beat all?
+
+@Character-Falls
+Titania: Despite my own warnings, I let my guard down, and I got beaten. Ha ha...urgh...
+Ike: Titania, you shouldn’t move.
+
+@End
+Titania: That’s the end of it. Ike, are you all right?
+Ike: Yeah, I’ll be fine.
+Titania: You know, you surprised me. To think that you’ve come so far.
+Ike: Look at my father, though. I’ve still got such a long way to go.
+Titania: There’s nothing you can do about that. After all, Commander Greil is–
+Ike: Huh? What about my father?
+Titania: Oh, nothing.
+Ike: Nothing? Now I’m really curious.
+Titania: Don’t worry. You’ll learn all about it someday.
+Ike: ...
+
+Boyd: Hey, Ike! that wasn’t bad for your first battle. Not as flashy as my first time, though!
+Oscar: Yeah, you were a real standout. I’ll never forget the sight of you so keyed up you broke your own axe.
+Boyd: Oscar! Dang it! You didn’t have to bring that up!
+Oscar: Anyway, Ike. Congrats on finishing your first mission.Welcome to the group.
+Titania: Everyone’s all right? Then let’s get going. I’m sure Mist has a nice, hot meal waiting for us.

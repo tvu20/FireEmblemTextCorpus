@@ -1,0 +1,167 @@
+@Intro 
+Rhys: Oh, Titania. So this is where you’ve been, is it?
+Titania: Rhys! Are you sure you’re well enough to be up?
+Rhys: Yes. My fever’s completely gone.
+Titania: Are you sure? You still look a bit unsteady on your feet if you ask me.
+Rhys: Well, I’ve been in bed for almost a week. I doubt anyone would be in top form–even you, my friend!
+Titania: I certainly hope that’s all it is. In any case, until you’re back at full speed, you won’t be doing any work. We’re mercenaries, after all, and...
+Rhys: Even the smallest lapse invites death. Right? I know, I know. My apologies to the rest of the team, then. It looks like I’ll be recuperating for a while longer.
+Titania: Mm, it’s for the best. Take your time and get fully rested and restored. You are our sole staff wielder, Rhys...The harder our work, the more we depend on you to be at our sides.
+Rhys: Thank you for your kind words.
+Titania: Oh, by the way...That paper you’ve been carrying around...Is it a letter? I’d intended to go into town this afternoon. I can deliver it for you if you like.
+Rhys: Oh, no. This letter is for you, Titania.
+Titania: For me?
+Rhys: Not more than a little while ago, I went out for a walk around the yard and...A man I’ve never seen before came up to me and said...Give this to the red-tressed knight.
+Titania: How curious... I wonder what it is.
+Rhys: I imagine it’s a thank-you letter from the people of Caldea or something to that effect.
+Titania: Oh, no! How dare they!?
+Rhys: Titania? What’s the matter? What did the letter say?
+Titania: ...Rhys! Take this letter to Oscar, and tell him to prepare for combat and wait for me! I have to go out for a moment.
+Rhys: Uh, but, Titania?
+Titania: I’ll be right back! I’m counting on you!
+Rhys: What on earth could that letter have said?
+
+Rhys: Everyone! Come quickly!
+Boyd: Hey, Rhys. So, how are you feeling?
+Oscar: What is it? Why are you so agitated?
+Ike: Has something happened?
+Rhys: It’s Mist and Rolf...They...They’ve been taken by bandits!
+Boyd: What?!?
+Ike: What are you talking about?
+Oscar: The two of them went out early this morning to gather wildflowers...Sure,they’re not back yet, but...
+Rhys: Earlier, by the gate...a man asked me to deliver a letter to Titania. It was from a group of bandits–kidnappers. What are we going to do?
+Oscar: Let me see it.
+Rhys: Oh, if only I’d known...He didn’t seem like a bad person...
+Oscar: Hm. I get it. They’re after revenge. They want retribution for the other day at that village... Caldea, was it? Hm. Taking children as hostages? What cowards!
+Ike: Blast!
+Boyd: Wait, Ike! Where...Where do you think you’re going?
+Ike: I’m going to get Mist!
+Rhys: But...No! Titania...She said she’d be right back. You’re supposed to get ready and wait for her...
+Ike: And do you honestly think we’ve got time to wait? I’m going!
+Boyd: What do you think you’re going to do on your own, rookie? Hold it! I’m going, too!
+Rhys: Stop! Both of you! I...I’m going with you.
+Oscar: Oh, c’mon! Wait! This is crazy! Do you think you can just ignore the deputy commander’s orders?
+
+Boyd: The road forks here...Well, which way do we go?
+Ike: How am I supposed to know that?
+Boyd: Hold it! Are you saying you don’t know where we’re going? Unbelievable! You’d better learn to think before you act,you moron!
+Ike: Shut your mouth, Boyd!
+Boyd: You think you can make me? Come on!
+Rhys: B-both of you, this is no time to be fighting.
+Oscar: I figured we’d find you like this.
+Boyd: What are you two doing? So you’re coming after all? It’s not like you two chambermaids to be disobeying orders. What’s the world coming to?
+Ike: Oscar, you know this road, don’t you? Which way do we go?
+Oscar: You’re going to the bandit stronghold, right? It’s the left fork.
+Ike: Got it!
+Boyd: I’m still talking here! Let me finish what I–
+Rhys: Come on, Oscar. Let’s go, too!
+Oscar: I guess we’ve no choice.
+Boyd: Uh...HEY! You’re not leaving me behind!
+
+Ikanau: So you came, did you, boys? Is it just you, then? You came alone? You seriously underestimate what we’re capable of doing to you. Now, where’s that snobby, red-haired wench you ride with?
+Ike: Titania’s not here. It’s just us. All I want to know right now is whether Mist and Rolf are safe.
+Ikanau: Yeah, of course. We’ve got ’em locked up safe and sound in that little shack back there. We got no problem with those brats. What we’re after is a little revenge. We want the redhead and her pups. And that’d be you boys.
+Boyd: Then hurry up and let those two go! We’re here, aren’t we? You’ve got no more reason to hold them.
+Ikanau: You’re here, but Red ain’t. We’ll just keep the brats until she arrives.
+Ike: Dang it!
+Ikanau: If you’re so impatient, I guess we can start by killing you whelps. You all ready to die? Hey! Come on out! It’s time to play, lads!
+
+Rhys: There...There are so many...But...we must not lose!
+Oscar: Rhys, move to the rear! If anyone gets injured, we’ll need you on hand with your staff.
+Rhys: Understood!
+Ikanau: Take ’em, lads! Without the red-haired knight, they’re no match for us!
+Boyd: What’d you say, dirtbag?
+Ike: We’ll make you regret those words!
+
+@Battle
+Ike: Titania! I, uh... I’m sorry. I ran off on my own without...
+Titania: We’ll talk about it later. For the time being, keep your mind on the battle, Ike.
+Ike: Right!
+
+Rolf: Oh...sniff...
+Mist: Keep your chin up,Rolf! Boys aren’t supposed to cry!
+Rolf: But...I’m so scared...Aren’t you even a bit scared, Mist?
+Mist: Of course I am, but...Listen, we’ll be fine! My brother will definitely come rescue us.
+Rolf: Mm...yeah. You’re right! And I’m sure that my brothers will be right there with him.
+Mist: I’m sure they will, too! So no more crying! Got it?
+
+Titania: I’m sure I told them to wait for me...I should have known they’d disobey orders. They have no discipline...As deputy commander of the Greil Mercenaries, I cannot allow any more of our people to be harmed.
+
+@Boss
+Ikanau: Graaw! We won’t lose, not to the likes of you!
+
+Ikanau: This...This can’t be...I don’t deserve to lose to sellswords like you...
+
+%Ike,Ikanau
+Ike: Will you let the two of them go now?
+Ikanau: Sure, you can have ’em both. If you can beat me, that is!
+
+%Titania,Ikanau
+Ikanau: Heh heh heh. I’ve been waiting for you,you red-haired demoness. You are going to hurt–and hurt bad. This is for my mates who fell before you in Caldea!
+Titania: No matter your motives, you’ve taken helpless innocents as hostages. You’re not fit to be called human. May the blessings of the goddess be kept from you for all eternity!
+
+@End
+Ike: All right! Somehow we did it.
+Boyd: Somehow? What do you mean, somehow? We did it because we’re better than them!
+Titania: What you DID...was in direct defiance of the orders I explicitly gave you. How it all turned out is another issue altogether.
+Oscar: Deputy Commander, I take full responsibility. The failure is mine...
+Rhys: Accept our apologies.
+Titania: Oscar, Rhys... What am I supposed to do with you two? Sigh...I think I’ll leave you two to the commander. He’ll know how to handle you, I’m sure. Now, let’s find Mist and Rolf.
+Ike: According to the bandit chief, they’re in that shack back–
+Mist: Eeek!
+Ike: What? Mist!
+Mist: Brother! Everyone! You came!
+Rolf: Oh...I’m scared.
+Oscar: Rolf!
+Rolf: Oscar? Help me!
+Boyd: Rolf! I’m here, too!
+Rolf: Boyd? Wa...waah!
+Boyd: Stop crying! You don’t need to worry! We’ll get you outta there!
+Mist: That’s right! Buck up, buddy!
+Rolf: Uh... I’ll try!
+Ike: You! Harm either of them, and I’ll see you dead!
+Bandit: Shut up! Shut your stinking trap! If you want these two alive, you’ll throw your weapons down. If you don’t, I’ll start with the girl...
+Mist: Eek! No!!!
+Ike: Stop!
+Titania: Wait!
+Ike: Huh?
+Bandit: Yeah?
+Titania: I’m putting down my weapons. See?
+Bandit: Heh...heh heh. Smart move, wench!
+Oscar: Deputy Commander...
+Titania: We’re here to save them. Now all of you back off.
+Oscar: OK...
+Ike: Dang!
+Boyd: This stinks!
+Bandit: Heh heh heh...All right, so now you’re all unarmed. Which means...all you can do is watch while I gut this whiny brat like a fatling pig!
+Ike: Ah!
+Bandit: Beh heh heh! DIE!!!
+Rolf: Wah!
+
+Bandit: Arrr...Uhh......
+Rolf: Ohh... Uhnnng...
+
+Mist: Rolf! Can you hear me?
+Boyd: Mist! Is Rolf– Is he...
+Mist: He’s fine. He just fainted is all. There’s not a scratch on him.
+Boyd: Whew...Don’t do that to me.
+Oscar: I’m just glad to see you both alive and well...You’re both so brave.
+Mist: Yep! Thanks.
+Ike: This guy’s dead. This arrow–who shot it?
+Shinon: A single arrow, right between the eyes? Who else could make a shot like that? No one, that’s who!
+Ike: That voice!
+
+Shinon: Don’t you children owe me a little gratitude? I did just save your lives.
+Gatrie: Deputy Commander...Shinon...hah...hah...You’re both so cruel. With this armor on, you know I can’t run that fast...
+Ike: Shinon! Gatrie!
+Rhys: So, that’s where you went, Titania?
+Titania: Of course. I knew we’d need reinforcements. I’m glad it wasn’t a waste of time.
+Titania: Well done, both of you.
+Shinon: In the end, I got to feather someone. So it was worth the rush.
+Gatrie: All I...did...was sweat...That...]was h-hard...work...
+Mist: Brother!
+Ike: Mist...You did well, Sis. You must have been frightened.
+Mist: Uh-huh...Uh-unh! I never stopped believing. I knew that you and the others would come and rescue us. I knew you’d come! So, I was fine!
+Ike: Really? That’s an improvement on your usual sobbing and nose-running.
+Mist: You jerk! I...My nose does not run!
+Titania: All right, come on! Let’s head for home. My goodness...What a day this has been.

@@ -140,7 +140,7 @@ const Inputs = () => {
         </li>
         <li>
           @Conversation: Talking to people in the world in games you can run
-          around a map in
+          around a map in or at the base
         </li>
         <li>
           @Recruit-Conversation: Recruiting someone by talking to them in the

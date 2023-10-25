@@ -1,0 +1,119 @@
+@Intro
+Boyd: No fair playing the martyr! Nobody made me go with you. I left of my own free will! I’m ready to accept my punishment, too! Wait, what am I saying?
+Rhys: Please, Commander Greil! Titania entrusted me with her orders. If anyone’s to blame for this mess, it’s me. I’m the one who should be punished...
+Oscar: I set a poor example, Commander Greil. Any punishment should be mine alone.
+Greil: Regardless of your reasons, you disobeyed the orders of a superior officer. You are confined to quarters for ten days.
+Mist: But, Father! They did what they did to help me and Rolf!
+Greil: Rules exist for a reason, Mist. Men won’t survive on a battlefield if they do as the, wish without so much as a by-your-leave.
+Ike: ...I understand. And accept the reprimand.
+Greil: That being said, we’ve got more work than we can handle. Your punishment is deferred until things calm down.
+
+Greil: I’m pleased to see that you are willing to shield one another. However...
+Greil: Oscar, Boyd, Rhys. You come with me.
+Titania: Shinon, Gatrie, and you, Ike. You’re with me.
+
+Havetti: Yar har ho! Me belly’s emptier ‘n me first mate’s head! Fetch me some grub!
+
+Titania: Are you all ready? Greil Mercenaries, move out!
+Shinon: On my way!
+Gatrie: Here we go!
+Ike: ...Ready!
+
+@Battle
+Titania: That’s the pirate ship in question, isn’t it?
+Mayor: Aye. They sailed into port a few days ago and have been causing trouble ever since. I pray that you and your companions can drive them away.
+Titania: I understand. We’ll do all we can.
+Shinon: Feathering sea scum is like shooting apples off a tree. Let’s do the job and get out of here.
+Gatrie: Ho, Deputy Commander! You want standard thunder and lightning maneuvers here?
+Ike: Er...Thunder and lightning?
+Gatrie: Yeah! I crash into ’em like thunder, and Shinon rains arrows down on ’em like lightning!
+Titania: Sounds good.
+Ike: What should I do?
+Titania: Let’s hold back and let Shinon and Gatrie soften them up. Once they’ve whittled down the numbers, we’ll all rush the ship and wipe out whatever’s left.
+
+@Visit
+Nasir: This town seems quite unruly, wouldn’t you say? Is it always this dangerous? Oh...So it’s plagued by pirates, is it? I see. That would explain why the people here seem so anxious. You seem so very...young. And you claim you were hired to rid the town of these pesky pirates? Here, perhaps you should take this. It might help you if you run into trouble contending with the pirates. But do hurry. I came all this way to see the world-famous fish market, and I’ll never do so with those ruffians around. Best of luck to you.
+
+@Battle
+Marcia: Hey! You! Boat monkey! You tricked me, didn’t you?
+Havetti: Tricked ye? What a vile and nasty thing that is to be sayin’. Don’t ye agree, matey?
+Pirate: Yar, that I do! There be nothing but honest pirates aboard this ship, missy.
+Marcia: You said you knew the whereabouts of my older brother. That’s why I came all the way to your ship.
+Havetti: Aye, and we do know! He was on board for a while, and then...Do ye recall where he went, matey?
+Pirate: Yar, that I do. He was a penniless oaf, so we tossed his worthless carcass into the rolling waves. Yar har ho!
+Marcia: My... My brother? That’s horrid!
+Pirate: Horrid? Did ye say horrid? Yer scurvy brother was the horrid one! He lost a game o’ chance, he did. If ye lose, ye must pay...And the scallywag tried to cheat me! By Shanty Pete he did!
+Havetti: Arr, calm yerself, me hearty!
+Pirate: Yar!...Yar?...Yar.
+Havetti: After all, his darling sister’s come to pay us a visit. What say ye work off yer brother’s debt?
+Marcia: What say I run you through with my lance and call it a day?!
+Pirate: Yo ho har! It matters not that ye be a pegasus knight, lassie.
+Havetti: A wee minnow like yerself is no match for us sea dogs! Prepare yourself, ye flying wench!
+Marcia: Pfff! I’m not afraid of you, clambake! If your axe is as dull as your wit,this will be over in no time!
+
+@Recruit-Talk 
+%Ike,Marcia
+Marcia: Oh, crackers! There’s too many of them. I don’t want to die here...Brother...this might be the end!
+Ike: Hey! Are you all right?
+Marcia: ...So cold...So...Huh?
+Ike: Don’t give up!
+Marcia: Wh-who are you?
+Ike: I’m a mercenary. The villagers hired us to get rid of these pirates.
+Marcia: Are you...Are you going to help me?
+Ike: Of course. Let me and my companions take it from here. You can escape while the pirates are distracted.
+Marcia: Oh, hey, that would be fantastic! Thanks so much! I don’t know what to say.
+Ike: You don’t have to say anything. It’s all in a day’s work.
+Marcia: Pshaw! You’re helping me out! I should show my gratitude somehow.
+Ike: That’s...nice, but I can’t think of anything off the top of my head. Just get yourself somewhere safe, please.
+Marcia: Well then...I’ll come talk to you about repaying my debt later. What’s your name, handsome?
+Ike: Um... I’m Ike. I’m with the Greil Mercenaries.
+Marcia: Ike! Got it! And I am Marcia, a pegasus knight of Begnion. Don’t forget me! All right, I’ll be seeing you later!
+
+@Character-Falls
+Marcia: Urrr... Ah, nuts...Bro-Brother...I’ll be with you soon.
+
+@Boss
+Havetti: Yahar har harrr! Yer bustin’ me gut, ye rudderless fool! Do ya truly think ye can face me mighty axe and live?
+
+Havetti: Yaaaarr...arrr...Help me...
+
+@End
+Titania: We’ve driven off all the pirates. Your people will suffer no more indignities at their hands.
+Mayor: Oh! That is joyful news! Here is your pay, as promised.
+Titania: Thank you very much. And if you find yourself in need again, do not hesitate to send word.
+Mayor: Of course, of course. All of you put on a most marvelous show–such combat skills! To be honest,I was expecting Commander Greil to be here today. When I saw just you, nothing more than, no offense, a band of children...Well, I will admit to being a tad nervous!
+Titania: I apologize for troubling you. Unfortunately, Commander Greil had other pressing matters to attend to.
+Mayor: Oh, no. Don’t apologize. There’s no need. After all, you got rid of those brigands, and you did it impeccably well!
+Titania: It’s a fine compliment you pay, sir, but it was our pleasure.
+Mayor: As a matter of fact, you’re more than good enough to be in the royal army if you so desired. Especially your Commander Greil. He’s far and away better than most any general I’ve seen hereabouts. Er... What I mean to say is...Don’t you think running off pirates is a bit...beneath you?
+Titania: That’s not–
+Mayor: Don’t get me wrong, now. You certainly helped all of us simple folk out. Even so, it seems to me the proper place for you and your Commander Greil is in the service of the Crimean throne! Well, that’s what this old man thinks.
+Titania: We–and Commander Greil–are quite satisfied with the work we do now.
+Mayor: You’ve nary a selfish bone among you. Well then, rest assured we’ll speak again if any problems arise. Thank you again.
+Titania: Hmm...
+Ike: Titania? Is something amiss?
+Titania: No, of course not. Our mission is complete, and that’s all that matters. You did well today, every one of you.
+Shinon: Pah! Jobs like this barely make a dent in my incurable boredom! It’s like that old buzzard said, there’s better work out there Something with a bit of challenge.
+Titania: Shinon!
+Shinon: I’m joking. J-O-K-ing.
+Gatrie: Come, Titania. Be honest. Don’t you find the work we do to be a bit...disheartening? Unglamorous?
+Titania: What? You too, Gatrie? What’s gotten into you?
+Gatrie: Please! Look, we’re not a band of money-hungry recruits. We’re professionals, and we’re very good at what we do. Shinon and I have discussed this at length. All of this mundane mercenary work is unworthy of us. We’re wasting our talents.
+Titania: I see. You’re telling me that you think Commander Greil is mismanaging us. Do I have that right?
+Gatrie: Whoa! Hold it right there! That’s not what I’m saying at all!
+Ike: What is it, Titania?
+Titania: What’s what?
+Ike: You seem so angry. It’s not like you.
+Titania: Hmph...
+Gatrie: Exactly! Ike’s got the right of it!
+Titania: It’s just that I...Look, we do good work, and we help people. I want you to be proud of that. I felt like you were saying work that doesn’t bring fame and fortune isn’t worth doing, that’s all. Sorry.
+Gatrie: No...you’re right. We are the ones who ought to apologize.
+Titania: Enough. Let’s get going, shall we? Rest is part of our jobs, too. We can’t go into the next battle exhausted.
+Gatrie: Now that’s a plan! I’m so hungry, I could eat a wyvern!
+Ike: Titania!
+Titania: What is it?
+Ike: If you’re looking for pride...I have it.
+Titania: Hm?
+Ike: You and my father have kept this mercenary group together. And I’m...just...proud to be a part of it. That’s all.
+Titania: Ike...
+Shinnon: Pah. I’m surrounded by idealistic fools. What’s so wrong with fame? What’s wrong with having money to live well?

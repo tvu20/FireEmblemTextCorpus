@@ -1,20 +1,30 @@
+@Dialogue
 Ike: For the past year, I’ve been focused on winning this war. I stand here today as a testament to your fortitude and commitment. I understand this will never suffice, but I wanted to take a moment to say something to you all. Thank you. I hope I may continue to rely on you.
+
 Soren: Of course. I hope that I may continue to be of service.
 
 Soren: There’s only one place for me to be, Ike...and it’s by your side.
+
 Titania: You’ve grown so much... I would like nothing better than if Commander Greil and Elena could see you now...
 
 Titania: You’ve become a great man, Ike. For now and ever more, please continue to be our commander.
-Oscar: What a long road we’ve traveled! And yet, in many ways, it seemed to pass so quickly. I’m glad it’s finally over.
 
 Oscar: What a long road we’ve traveled! And yet, in many ways, it seemed to pass so quickly. I’m proud to have fought beside you, Ike.
+
 Mist: We did well, didn’t we? I’m sure Mom and Dad would be proud of us.
+
 Boyd: Great job, Ike! Of course, if I hadn’t been by your side the whole time, victory might have slipped away...
+
 Rolf: Ike! Ike! Er... I mean, Commander Ike! I’m going to keep practicing so I can be better than ever! Thanks for having faith in me!
+
 Rhys: Finally...it’s finally over. At long last, we can return to a life without war. Praise the goddess.
+
 Gatrie: Ike! Are we going to go back to being mercenaries? I’m a great soldier and all, but... The easygoing life of a mercenary is the only life for me. Tee hee! Now let’s go find some good-looking lasses!
+
 Shinon: ...Bah. I suppose you want some kind of congratulations now, right? Well, too bad. You’re a snot-nosed whelp, and I’m still better than you. Don’t ever forget that.
+
 Mia: Heya, Boss! We did it! Whooo-hooo! You know, I am completely in love with your fighting style. If I could train under you, it would be great! So let me stick around for a while. All right?
+
 Volke: I’ve no more work here. I will be leaving you shortly. If you have need of my services, you know how to reach me.
 
 Ike: Elincia. You’ve had to wait a long time, but I finally fulfilled my contract. The mission is complete.
@@ -29,16 +39,22 @@ Ike: I think I’ve gotten used to a few of these noble customs and whatnot, but
 Elincia: My lord Ike... That’s, um...
 Ike: Yeah?
 Elincia: N-nothing! It’s nothing...
+
 Bastian: Oh, glorious day of sweet victory! Praises upon the day the goddess did see fit to send Sir Ike to save our land.
+
 Lucia: Thank you, General Ike. Because of you, I believe we better understand how best to serve Princess Elincia.
+
 Geoffrey: Through your strength, the dark clouds that blanketed Crimea have been dispelled. From this day forth, we will give our all to see the restoration of this land and its people.
+
 Kieran: General, you are Crimea’s savior! For your meritorious service, I salute you! Huzzah! Nay, a thousand huzzahs!
+
 Brom: Whew! Am I glad that’s over! When I saw King Daein, I was sure I was done for! Or that he’d torture me... But you were a bull! Thank you! Now I can go home and see my family once more!
+
 Nephenee: When I get back to the countryside, I’m gonna boast to all my family and friends that I fought under you.
+
 Calill: General, I owe you a debt of gratitude. I’m going to stay in Crimea and open a shop in the city. I do hope you’ll come by!
 Largo: You know, I owe you a lot. I think I’m going to stick around and open an inn. Hope you’ll come by and visit.
-
-Calill: Largo and I are going to stay here and open up a shop
+Calill: Largo and I are going to stay here and open up a shop.
 Largo: With Crimea undergoing reconstruction, there are going to be a lot of people moving about. We’ll open an inn with good food and drink. And free butter on every table! We’ll be rich in no time!
 Calill: We’ll let you know when everything’s all set up. You can drop in anytime.
 Largo: We’ll even give you special rates! Hmm... Maybe we should call it General Ike’s Inn!
@@ -67,12 +83,19 @@ Ike: What about the troops you’ve lent us?
 Zelgius: Though the war may be over, it will take many weeks to see the country secure. I spoke with the princess earlier, and she asked that we help if possible. So I’ll leave them in your care a while longer.
 Ike: I see. It’s very appreciated.
 Zelgius: It’s our pleasure. By your leave.
+
 Marcia: Ike! Hey, handsome! I’ve decided to return to service in the Begnion pegasus knights! Cool beans, huh?! Oh, I owe so much to you, Ike. Thank you so very much! I’ll see ‘ya around!
+
 Makalov: I think I may try to start over in Begnion. Maybe it’s too much, too soon... But I just want to live a more responsible life. Plus I’m tired of men threatening to break my knees... Good-bye, Ike!
+
 Astrid: Good-bye, General Ike. This war has given me the confidence to enter the service of the Begnion knights. Thank you so much!
+
 Devdan: Devdan is glad all the fighting stopped. Devdan prefers the peace and quiet. War is not good for anything.
+
 Tormod: ...Well, we’re going home. All of our desert friends are waiting for us. And wow, do we have some stories to share with them!
+
 Muarim: Laguz and beorc... Perhaps the gap between us has narrowed. War is horrible. Yet, maybe we’ve gained something of value, after all.
+
 Stefan: Find me when you come to the dunes. We can sit and talk, with no fighting.
 
 Ike: Are you leaving already?
@@ -87,9 +110,6 @@ Reyson: You may be right. I hope you are.
 Giffca: Are you ready? We should be leaving soon.
 Ike: Giffca, I’m in your debt as well. Gallia’s a very special place to me... I’d like to visit again someday, if I may.
 
-Giffca: Come whenever you are able. The king will be pleased to see you. And one more thing... Gallia will not spare any effort in aiding Crimea’s reconstruction. We will be sending supplies and workers to you shortly.
-Ike: That is much appreciated.
-
 Giffca: Come whenever you are able. The king will be pleased to see you.
 Ranulf: Oh, and another thing. You’ll be seeing me again soon. Gallia’s decided not to spare any effort in aiding Crimea’s reconstruction. I’ll be back shortly with a whole army of workers and laborers. Look for us!
 Ike: All right, we’ll be waiting.
@@ -97,7 +117,6 @@ Mist: Oh, wait! Reyson! Leanne!
 Reyson: What is it?
 Mist: Um...do you think...I could touch the medallion one last time? For my mom? ...And dad?
 Leanne: (Yes. It’s all right, isn’t it, brother?)
-
 Mist: All right. ... Thank you very much.
 Reyson: Is that enough?
 Mist: Yes. I just wanted to... say good-bye.
@@ -139,8 +158,7 @@ Sothe: Things are going to be rough in Daein, too. I don’t know what the futur
 Tauroneo: ...I have played my part. All that remains is for me to take my leave of this place. History will judge my actions...
 Ilyana: Muston and the others are going to Daein, and I think I’m going to go with them. Thank you for everything, General Ike. Hmm... I hope they packed enough food... I’m pretty hungry...
 Zihark: Crimea’s an interesting place, but I’ve decided to travel to Daein. Perhaps fate will bring us together again.
-(Unused A support with Ike) Zihark: 
- Goldoa
+
 Ike: How odd, Ena. We’ve been both enemies and allies.
 Ena: Thanks to you, Rajaion was saved. And...so was I... Thank you.
 Ike: So, you were with King Daein because you were trying to save Rajaion?
@@ -165,20 +183,10 @@ Nasir: Please stay that way, Ike. Don’t change for anyone.
 Ike: I’ll see you again, won’t I?
 Nasir: Yes, I’m sure of it.
 
-Ike: How odd, Ena. We’ve been both enemies and allies.
-Ena: Thanks to you, Rajaion was saved. And...so was I... Thank you.
-Ike: So, you were with King Daein because you were trying to save Rajaion?
-Ena: Yes. Rajaion is the most important thing in my...life... Some nineteen years ago, he said he wanted to broaden his knowledge and left Goldoa. He...never...returned... When I finally found him, it was too late. He had been so twisted that he was no longer able to recognize me. And yet...I wanted to be near him... With Nasir’s help, I, too, came to Daein... ...Oh, Grandfather...
-Ike: Maybe it’s because I never saw his body, but...it doesn’t feel like Nasir’s really dead. It’s like he’s out there somewhere.
-Ena: Have you forgiven him?
-Ike: He does not need my forgiveness. Except for that one moment when I learned of his deception... I never thought of him as an enemy.
-Ena: That’s good.
-Ike: Are you returning to Goldoa, Ena?
-Ena: Yes. I must help Rajaion return to his hometown.
-Ike: Take care. Give my regards to Kurthnaga.
-Ena: Thank you. I will.
+@Narration
 Restoration The war is over. The Crimean people, who suffered gravely during the harsh Daein occupation, have at last regained their freedom. These same Crimeans have a saying: No matter how harsh the winter, spring will ever follow. This popular proverb proves true as the warm winds of change begin to blow across the countryside. The war has left the country in ruins, but the people rise from the ashes and take the first steps towards rebuilding their nation. Though once scorned and despised as sub- humans, the laguz put aside past enmity and come to the aid of their neighbors. And the Crimeans never forget it was Gallia that fought beside them and helped free them from the yoke of Daein oppression. Led by the examples of Elincia and her retainers, Crimea begins transforming into the land its king had dreamed of. A land where beorc and laguz live together in harmony and equality. As the reconstruction efforts progress, the administrative government announces the enthronement of Elincia as the new queen. And now, the day of her crowning arrives.
 
+@Dialogue
 Mist: Hah...I’m so tired I could fall over! Peace is all well and good, but it sure is busy.
 Ike: We’re rebuilding a country that was completely devastated by war. It’s bound to be tough.
 Mist: You’re right. I bet Princess Elincia and the people in the palace are twice as busy.
@@ -235,3 +243,22 @@ Titania: Yes, you. I’ve done what I was asked to do! Now hurry up and get goin
 Ike: H-hey! Titania! Ah, nuts! Why do I... What’s going on?
 Sephiran: The people of Crimea wish to see their hero and to sing his praises–even if the hero himself protests.
 Ike: If they want a greeting, surely their new queen, Elincia, would suffice. I’ll go speak to her.
+
+@Cutscene
+Ike: What’s wrong?
+Ike: Everyone’s waiting to see you.
+Elincia: I’m nervous. I’ve spent my whole life in hiding. No one ever taught me how to rule a kingdom. I don’t think I’m ready to be their queen. I don’t think I’m ever really going to be ready.
+Ike: What’s the matter with you?
+Elincia: Ike, stop it! How can I–
+Ike: Did anyone teach you how to hire mercenaries?
+Elincia: No, but that’s not the same–
+Ike: How to win back lost allies? How to win back your lost kingdom?
+Elincia: But that’s… That’s different.
+Ike: No, it’s not.
+Ike: You’ve done such an amazing job. And I think you always will.
+Elincia: I see.
+Ike: All right, come on. We’ll do this together.
+Elincia: Thank you, my lord Ike. I am… I am so blessed to have met you.
+
+@Narration
+And so it was that, in the spring of the year 646, Elincia Ridell Crimea saw peace return to her homeland. In the years to follow, the story of Queen Elincia and her noble hero, Ike, spread across the land and inspired the songs of many a wandering troubadour.

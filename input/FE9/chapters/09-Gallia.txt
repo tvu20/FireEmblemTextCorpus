@@ -1,0 +1,293 @@
+@Intro
+Soren: Good morning, Ike. May I have a moment of your time?
+Ike: What is it? I’m listening.
+Soren: Our expenses, our ability to fight...The current status of our troops...These are all things that you must know.
+Ike: I see. Having a grasp of that is part of the commander’s job, too, right? Understood. Let me hear it.
+Soren: Very well.
+^start
+Soren: And that’s it.
+Ike: Ugh...
+Soren: Ike? Is something wrong?
+Ike: Even though I was aware of the numbers, hearing it in a report like this is...hard.
+Soren: Do you mean the casualites and refugees?
+Ike: Death and destruction are all part of war. My father said that a lot. The first casualties of war are those without strength and those without luck. And there’s nothing you can do about it. Live with bravery, be daring and fearless. Live for those who have died. And yet...I can’t help but think f I were more powerful...I could save more people. Couldn’t I?
+Soren: Ike...
+Ike: ...Blast!
+Soren: Indeed.
+Ike: Forgive me. I got carried away.
+Soren: No, not at all... Um, perhaps I should...
+Ike: Thank you for the report. I will need more of the same from here on. Keep up the good work.
+Soren: Thank you, Commander. I will do my best. But if I have your leave, I must be going.
+
+Soren: ...That’s it.
+Ike: I think I’ve got most of it.
+Soren: I’ll give you a report before each battle. I hope that it helps.
+Ike: I’m sure it will. Thank you. I’m relying on you for all the details. Keep up the good work.
+^end
+
+Titania: This place brings back such memories. It hasn’t changed in the slightest.
+Ike: Titania, have you been to Gallia before?
+Titania: A long time ago...When I was still a knight of Crimea. I volunteered for a military officer exchange program and spent some time studying at Gallia’s royal palace.
+Ike: I get it now...That’s why you weren’t surprised when we saw the laguz.
+Titania: That’s right. Ah, I’ve missed the sea. When the setting sun strikes the water, it’s almost as though the horizon itself is on fire.
+Ike: Hmm. Now that I think about it, my father knew where that old castle was...He sure acted like someone who’d been to Gallia before. Was he here with you?
+Titania: Mm-hm. And we weren’t the only ones. You’ve been here, too, Ike.
+Ike: What?
+Unknown: Ike!
+Titania: It’s Mordecai. You’d better answer him.
+Ike: Yeah, but...
+Titania: We can finish our talk later, after we’ve reached the castle.
+Ike: Well, that was cryptic.
+Ike: What is it, Mordecai?
+Mordecai: Do you tire? Should we rest here?
+Ike: No, I think we’re all right.
+Mordecai: Good.
+Lethe: Beorc are such a weak species. A distance like this is nothing. Any laguz worth his claws could cross it in a single bound.
+Mordecai: Lethe!
+Lethe: Hmph! It is the truth!
+Mordecai: If you persist in this way, you will shame the king. You sound like a fool.
+Lethe: Hsss! You are my subordinate! Never speak to me in such a way![
+Mordecai: What’s wrong is wrong. You are a fierce warrior, Lethe, but when it comes to the beorc, you are far too stubborn.
+Lethe: What did you say?!
+Ike: Come on now, both of you...Let’s calm down.
+Lethe: ...Mordecai?
+Mordecai: ...Wait...
+Ike: What is it?
+Mordecai: That smell on the wind...It’s iron. The smell of beorc. Heavily armored. Well armed.
+Ike: Are you sure?
+Daein Soldier: General Kotaff! The Crimean mercenaries have entered our area of operations!
+Kotaff: Ha! They’re trapped! Call every last man. Ready for battle! We stop the enemy here!
+Soren: Black armor...They’re Daein men, all right.
+Ike: You’re saying that some of the invasion force is still around?
+Lethe: Daein worms...They strut about the Gallian forests as though they own them. I won’t stand for it!
+Mordecai: Grrr...The castle to the south.Many beorc are inside. They carry iron weapons. I smell them.
+Ike: Not good...Titania! Gather everyone together!
+Titania: Ha! Understood!
+Lethe: What now?
+Ike: What do you mean?
+Lethe: If you hope to crush the worms, you’d do well to capture the ruins in the south. Since you probably want to flee, there is an escape route...
+Ike: We’re going to fight.
+Lethe: Oh?
+Ike: There are times when running has its advantages, but I don’t think we’ll lose here.
+Lethe: ...I see.
+Mordecai: I will also fight.
+Ike: Good. We could use the help.
+Titania: Ike! Everyone’s here!
+Ike: All right, let’s go!
+Ike: I want you two to take Mist and Rolf and retreat to the rear.
+Jorge: Of course.
+Daniel: We’re counting on you. Be careful!
+Ike: Everyone who can fight, grab a weapon! Greil Mercenaries...Move out!
+Mist: Ike!
+Ike: Mist! You and Rolf clear out of here! Stay back, no matter what!
+Mist: No, Ike! We’re going to fight with you–both of us.
+Ike: What? No. That’s not going to happen. Be serious, Mist...The two of you can’t even wield weapons.
+Mist: I’ve got this!
+Ike: A heal staff?
+Mist: Yeah! I made Rhys teach me how to use it. I can heal injuries! I mean, just little ones, but still...
+Ike: Little ones? No. There’s no way I’m letting you on this battlefield...Huh?
+Boyd: Rolf! Stop being such a brat, you little twerp!
+Rolf: I’m going to fight, too! I’m good with a bow!
+Boyd: Really? That’s news to me. Is that the best lie you could come up with?
+Rolf: It’s no lie!
+Mist: That’s right! He’s not lying.
+Boyd: Of course he is!
+Ike: What are you talking about, Mist?
+Mist: Rolf’s always practicing with his bow. And he’s really good! Aren’t you?!
+Rolf: I sure am!
+Ike: And when did you learn to use a bow?
+Rolf: Well, let’s see...Um...I guess I just...sorta...picked it up naturally?
+Boyd: Stop lying, you booger-eating brat! You can’t just pick up a weapon and start firing away! Someone has to teach you the basics!
+Rolf: Well, maybe I’m just a prodigy, cause I learned it all myself!
+Boyd: You little...
+Mist: You don’t know anything, Boyd!
+Rolf: That’s right!
+Boyd: This is ridiculous!
+Ike: Enough. You two go back.
+Mist: No! We don’t want to! All Rolf and I do is sit and wait and worry about all of you. We’re tired of waiting! We want to fight by your side!
+Ike: Is that so?
+Boyd: How about it, Rolf? Is that how you feel, too?
+Rolf: Uh-huh. No doubt, we’d rather be with you.
+Boyd: Sigh...
+Boyd: What now, Commander?
+Ike: We take them with us. We’re too pressed for time to sit around here bickering. And at least if they’re nearby, they’ll be easier to protect.
+Mist: Are you serious?!
+Rolf: Yes! You won’t regret this, Ike! I promise!
+Boyd: I hope not.
+
+@Battle
+Marcia: Let’s see now...Where are they? Aha! I’ve found them!
+
+Nedata: Yar har ho!
+Pirate: Yo ho har!
+Nedata: Scallywags of the sea are we!
+Pirate: We fight like beasts, an’ men do flee!
+Nedata: We earn our gold with axes bold...Yar! Ye scurvy bilge rat! Why aren’t ya singin’?
+Pirate: Har! Over there, Nedata! Fix yer eyes on that. Do ye sees what I sees?
+Nedata: Oh ho ho! What’s this, then? Humans battling humans here in Gallia? What in the briny beard of Shanty Pete is going on?
+Pirate: Oy! Do ya think they may be the king’s curs out to capture us and claim the bounty?
+Nedata: Gahar har har!
+Pirate: Shall we unfurl the mainsail and steer for calmer waters?
+Nedata: Bite yer tongue, ye kelp-brained idjit! We’re pirates! We don’t turn tail from government scum! I’m goin’ ashore! Watch me, and you’ll see a true sea-dog in action.
+Pirate: Yar, well said! You’ve set me blood aboil! I’m with ye all the way, matey!
+Nedata: Aarrr! Let’s see what we can see then!
+Pirate: Yar! Me axe is sharp, and me spirit is bold!
+Nedata: Yar har ho!
+Pirate: Yo ho har!
+
+Lethe: By the way...
+Ike: What is it?
+Lethe: If there is some special task you would ask of us, we are willing to listen.
+Ike: What are you talking about?
+Lethe: Bah! Open your ears! If you wish it, we shall...follow your orders. Hssss! But you must Direct us.
+Ike: Really? You’re willing to take orders from me?
+Lethe: This is a beorc fight. If you don’t Direct us, then we have no reason for being here. So spoke our king.
+Ike: But last night, you...
+Lethe: THAT...That was an...emergency.
+Mordecai: We thought you were in danger.
+Ike: You thought correctly. We were in danger. I thank you. We were greatly aided by your arrival.
+Mordecai: You are welcome.
+Lethe: Hmm.
+Mordecai: Very well. Let us fight together. If you choose not to Direct us, we shall do as we please. Do you find this acceptable?
+Ike: Of course. Well then, good fortune to us all.
+
+@Recruit-Talk 
+%Ike,Marcia
+Marcia: Ike!
+Ike: You! You’re that...
+Marcia: That’s right. It’s me! Marcia! As promised, I’m here to pay my debt...I’m going to join your group!
+Ike: Join us? But I thought you were one of the holy pegasus knights of Begnion...
+Marcia: Pfff! I resigned So what do you say? Are you going to let me in or what? Come on!
+Ike: Are you sure about this? I mean, I’ll be honest with you. We’re a destitute band of mercenaries. Your wages will be a pittance compared to what you’re used to.
+Marcia: So, what? Are you saying no?
+Ike: No, I’m simply pointing out that you’ll be losing almost all of...
+Marcia: Pfff! I won’t lose out on anything! Plus, I’ll work twice as hard as anyone else. C’mon, please let me join? PLEEEEASE!
+Ike: Well, if that’s what you want, I guess we’ll give it a shot. We’re shorthanded though, so you’re going to be busy.
+Marcia: Huzzah! That’s great! Just tell me what needs doing!
+
+@Battle-Talk 
+%Boyd,Rolf
+Boyd: Rolf, stay by my side.
+Rolf: You got it!
+Boyd: Hold a minute. That was too easy. What’s going on?
+Rolf: Nothing. But if I’m close to you, I can protect you. So you have no need to worry.
+Boyd: What? Hey, that’s my line!
+
+%Oscar,Rolf
+Oscar: Rolf!
+Rolf: I’m...I’m sorry!
+Oscar: Huh Why are you apologizing?
+Rolf: What? But...Aren’t you here to yell at me?
+Oscar: Why? Did you do something to make me mad?
+Rolf: I thought maybe my whole decision to fight and stuff...I made that on my own. I thought that it might upset you.
+Oscar: I won’t complain about the commander’s decisions.
+Rolf: So, you’re all right with it?
+Oscar: I suppose. But I want you to stay close, so I can watch out for you.
+Rolf: Got it!
+Oscar: Wait! There is one thing. When did you learn to use a bow?
+Rolf: Um, it’s a secret!
+Oscar: That’s no answer. Rolf! Blast! I told you to stay close!
+
+@Visit
+Female Cat Laguz: Eeeek! Hu-hu-humans! Yaaaaah!
+Ike: Um...
+Female Cat Laguz: Urk! Urk! Ahhh...Oh, come on! You are so rude! If you can’t tell, I’m playing dead. So go away! Huh? Why? Because my mother told me, If you ever meet a beorc, play dead, and it will leave you be. It’s not true, is it? Hsss! I knew it wasn’t true! I knew it! Well then, take this, and get out of here! Quickly! I HATE humans! I don’t want to talk to you!Hsss! SHOO!!
+
+Cat Laguz: You’re from Crimea, aren’t you? I’m a warrior of the beast tribe. Lord Ranulf spoke of you.  Doubtless you have noticed that Fort Tatana has been taken by Daein forces. Watch your step around that bunch. There’s a dangerous mage with them. We of the beast tribe find magic, and especially fire magic, particularly threatening. I am waiting for friends and cannot take leave of this house, but...I would give you this. If you use it, your magical resistance will increase. It will help you fight that mage. Take care.
+
+@Boss
+Nedata: Scallywags of the sea are we! We earn our gold with axes bold!
+
+Nedata: Scallywags of the sea...are we...An end like this is quite...worthy!
+
+Kotaff: Death to the rogues who defy Daein! Defend our brethren! Erase their shame!
+
+Kotaff: Arrgh...urr...urg...In the name...of the empire...Cleanse...my shame...
+
+@End
+Ike: We defeated their commander, but we still don’t know what they were after.
+Titania: It seems unlikely that they were merely pursuing Princess Elincia. I wonder if Daein is planning to invade Gallia. Perhaps Crimea was only a stone on which to whet their blades.
+Soren: No matter the motive, the fact remains that Daein crossed the border. Under such circumstances, hostilities between Daein and Gallia could break out at any time.
+Ike: So, it’s war...Again.
+Titania: If war erupts between the beorc and laguz, it’s only a matter of time before other nations become involved. Could Daein truly mean to set the land aflame in a blaze of war? If that happens, many of our citizens will be sacrificed on the altar of their ambition.
+Soren: We, too, need to choose which way to move, whose side to take...
+Titania: Whose side? We shall never support Daein! Unthinkable!
+Soren: Captain Titania, we are human. Would you truly have us side with sub–with laguz against other humans? THAT is unthinkable.
+Ike: Beorc and laguz...
+Lethe: Are you going to sit here and argue about a war that hasn’t started? You beorc are all so timid! It’s pathetic.
+Mordecai: Lethe! You must not say such things.
+Ike: Mordecai? Lethe? What do you think? Will it come to war?
+Lethe: Our claws are sharp. If Daein invades Gallia, we are ready for battle. If our king wills it, war will come.
+Mordecai: I like it not...War brings pain. Sorrow.
+Ike: This is troubling...
+Lethe: Enough. We have lost much time. Let us make for the palace. We must reach tonight’s camp before the sun sets.
+Ike: Is the palace still far?
+Lethe: On your skinny beorc legs, it is very far. But we will do as we can.
+Elincia: My lord Ike! Everyone!
+Ike: Princess Elincia.
+Elincia: I heard about...Commander Greil. I...I don’t know what to say.
+Ike: Don’t worry. We’re all right. We’re getting by...somehow.
+Elincia: ...Oh, Ike...
+Cat Laguz: The king has arrived.
+Ike: Um... Hey there.
+Caineghis: Thank you for coming to Gallia Palace. I am Caineghis, ruler of the kingdom of Gallia.
+Ike: These are the Greil Mercenaries. I am Ike, their commander.
+Caineghis: You have been raised well, young pup. I didn’t recognize you.
+Ike: What?
+Titania: When last you were here, you were still a small child.
+Caineghis: Is that you, Titania? It’s good to see you.
+Titania: The pleasure is all mine, Your Majesty.
+Ike: The two of you are friends? How...How does the king know me?
+Caineghis: Mm. I have something I must tell you about your father, Greil...
+Caineghis: Lethe. Mordecai. Leave us now. Prepare rooms, so our guests may have a place to rest and heal their wounds.
+Lethe: At once, my lord!
+Elincia: Would it be best if I were to leave as well?
+Caineghis: No, Princess. I would have you stay. And this one also will stay.
+Giffca: ...
+Caineghis: This is Giffca, my shadow. Pay him no more heed than you would the air.
+Ike: Understood. I would have Titania and Soren stay with me, as well.
+Soren: Me?
+Caineghis: So be it. Now then, where to begin?
+Caineghis: Titania? How much did Greil tell his son?
+Titania: Ike was raised with no knowledge of Gallia whatsoever, nor does he recall ever having been here.
+Caineghis: Is that so? Then it is best for me to tell him all that I know. ...Although that is not much.
+Ike: That’s all right. Whatever you can tell me would be much appreciated. I want to know more of my father.
+Caineghis: Hmm...You have good eyes. Honest and brave.I see your father in them. Long ago, Greil...your father...worked as a mercenary for Gallia. We forged a strong bond, he and I. To speak truly, I still do not trust the beorc. But your father was different.
+Caineghis: Princess Elincia’s father, King Ramon, and his brother, Lord Renning, are also of a different kind. All are...or were...exceptional men. Men in whom one could put his trust.
+Caineghis: Oh ho! Titania! You are an exception as well! Among beorc females, you are unique.
+Titania: You are most gracious, Your Majesty.
+Ike: My father was a mercenary for Gallia...?
+Caineghis: Correct. And you and your sister? You were both born here in Gallia. You stayed only for a short time, but part of your childhood was spent within these borders.
+Ike: Mist and I were born here? Is that so? I don’t remember any of this at all.
+Caineghis: I feel your parents were carrying a dark secret. Someone was hunting them, I’m sure of it. Once, over ten years ago...and after your mother had been slain...Your father chose to leave Gallia. Before he left, I went to him and asked him to share his tale. I asked him, Why are you being chased? Is there anything I can do to help? But I was unable to loosen his tongue. And then I heard he had returned to Gallia, and I thought I had another chance to hear his tale. His fate was black indeed. If I had been faster, if I had hastened my steps, perhaps things would be different.
+Ike: Wait! Now I understand. The voice I heard...That was you, wasn’t it?
+Caineghis: His wound was fatal. I could do nothing. I thought it best not to interfere in his final moments, so I remained hidden. Tell me, Ike... At his last, did he confess anything to you? The identity of the Black Knight...Did he reveal it?
+Ike: The Black Knight? No. I don’t know who he was. My father entrusted me with his command, told me to trust King Caineghis and to live peacefully in Gallia. He said to forget everything else.
+Caineghis: Is that so? Well then, let me do as I can. If any of your mercenaries desire to live here, I will so arrange it. I will vouchsafe them homes and land.
+Ike: Your kindness is truly appreciated. But, speaking for myself, I couldn’t live here in peace. Not now. I will avenge my father. I cannot so quickly forget the past...Or the Black Knight.
+Titania: But, Ike! That’s not...
+Ike: I know. I’m not...I’m not strong enough. An opponent who could defeat my father is well beyond my reach...But that’s why I’ve devoted myself to growing stronger. I will lead my father’s mercenaries and prepare for the day when my chance for revenge arrives.
+Caineghis: A prudent course of action. You look as one who would be more impulsive, but you are Greil’s son after all.
+Titania: Ha! You’ve matured, Ike. It seems like yesterday that you were merely a child.
+Ike: Titania...
+Caineghis: And now, I would ask a boon of you.
+Caineghis: The strength of your mecenary band, Ike, would you lend it to Princess Elincia?
+Ike: Are you serious?
+Elincia: King Caineghis!
+Caineghis: Gallia and Crimea are allied nations, that cannot be denied. However, this alliance in reality binds only the royal families. It is not respected by our citizenry.
+Titania: The people of Gallia are seldom seen in Crimea, are they? Even though our nations are friends, the people of Crimea have little real understanding of the laguz. Many of our people still use that undignified name, sub-human, when they speak of the laguz...
+Elincia: ...My father’s heart was filled with shame and sorrow over what you describe. More than any king in our history, he wanted to deepen relations between our people, and then...
+Caineghis: Perhaps that is why Daein targeted him. Their hatred of the laguz is well known.
+Ike: Could it be...?
+Caineghis: In my heart of hearts, I would like to take guardianship of Princess Elincia and assist in the rebuilding of Crimea. However, anti-beorc sentiment is running high here in Gallia. If we were to offer safe harbor to Elincia, I feel many of our elder statesmen would protest. They would say that we are giving Daein an ideal excuse to attack.
+Ike: Which means Gallia can’t offer Princess Elincia any relief at all...Is that it?
+Caineghis: Unfortunately, it is true.
+Elincia: My lord Ike, King Caineghis has advised me to turn to the Begnion Theocracy for aid in Crimea’s restoration. He says we should make of Begnion a formal request and gain the support of their shields.
+Titania: Passage to Begnion will require several months at sea. An escort will be necessary...
+Ike: As you know, we lack the numbers to serve as a complete mercenary army. So, if the princess were willing to hire us as an escort, it would be an offer beyond our expectations.
+Ike: Titania! Soren! I think perhaps we should accept the king’s offer. What do you say?
+Titania: It’s what you want, right, Commander? Well then, it’s our job to follow you.
+Soren: However you wish to proceed is fine. I will do all in my power to ensure that our road leads to success.
+Ike: Understood. As of now, the Greil Mercenaries shall assume the honor of serving as escort to the princess of Crimea.
+Ike: Princess Elincia, our journey together will undoubtedly be a long one. May we serve you well.
+Elincia: Oh, thank you very much! I only pray that I, in turn, may be worthy of your service!

@@ -1,0 +1,266 @@
+@Intro
+Ike: They’re not here either...
+Soren: Ike, pursuing them any farther may be dangerous. I think it would be best if we returned to Gallia for now. It’s possible the commander may have followed another road into Gallia. It’s something we should consider.
+Ike: ...You’re right. Getting killed looking for them would waste everything they accomplished by breaking away. I guess all we can do is trust that they’re well and withdraw.
+Titania: Ike, there’s a fort over there. Just now, for a moment only..I thought I saw someone. Shall we investigate?
+Ike: What? Really? Yes, let’s go take a look.
+Soren: It seems as though this place has been abandoned for a long time.
+Titania: There’s no one here...Hm. I could’ve sworn I saw a silhouette, but...I guess it was a trick of the light.
+Ike: Let’s take a quick look around. If we don’t find anything here, we’ll head back to Gallia.
+Titania: Very well...
+Daein Soldier: Here they are! I’ve found the Crimean mercenaries! Surround them!
+Ike: Curses! Daein troops...
+
+@Battle
+Mia: Uh-oh. Daein soldiers here, too. Now, where’s that exit...Hm? What’s that sound? Someone...fighting?
+
+%Ike,Mia
+Mia: Your name wouldn’t happen to be Ike, would it?
+Ike: It is, but...who are you?
+Mia: I’m Mia. I’m a mercenary, hired by Crimea to bolster the army’s numbers.
+Ike: An army mercenary, huh? So, uh, what are you doing here?
+Mia: I got careless and was captured. They were about to send me to a prison camp when Greil saved me.
+Ike: You’ve seen my father? Where?
+Mia: Just a little bit north of here. Not too far away, though.
+Ike: Really? So he’s safe...
+Mia: Tell me, who exactly are you guys?
+Ike: We’re the Greil Mercenaries. As you can see, we’re fighting against Daein.
+Mia: Huh...You’re taking on a whole Daein battalion with these numbers? Nice. That settles it then!
+Ike: Settles what?
+Mia: This battle. I’m coming in on your side. You don’t mind, do you?
+Ike: It’s fine with me, but...I don’t know if you’ll get paid just because I let you fight.
+Mia: We’ll worry about the details later! Great, so that’s all taken care of. What next, boss man?
+
+@Battle
+Petrine: Ha ha ha...Found you at last. You provided more entertainment than I thought you would.
+Ike: Who are you?
+Petrine: Me? I am General Petrine, and my arrival marks your doom. Lament your fortune,dear children, for all hope is lost. You will not leave this place alive.
+Soren: Petrine...of the Four Riders of Daein?
+Ike: Do you know her, Soren?
+Soren: If she’s who I think, then she’s one of the four generals who are King Daein’s most trusted confidants. She is said to wield a flame lance of terrible arcane might.
+Petrine: Ha ha ha...You’ve heard of me? Why, I’m flattered. I’ll try to make this easy on all of you. Give me the princess, and do it now. If I roast the girl along with you curs, I won’t be able to present her head to His Majesty.
+Ike: Sorry to tell you this, but the princess isn’t here. She’s been in Gallia for quite some time now.
+Petrine: What...nonsense is that? Do you expect me to believe you? There’s no way mercenary scum like you could get past my troops!
+Greil: They say that blind arrogance sows the field of its own destruction. Something tells me they were talking about you.
+Petrine: Who–
+Ike: Father!
+Greil: What’re you doing back here, you dumb pup?
+Ike: We got the princess safely into Gallia. When you didn’t rejoin us, we decided to look for you. The mission wouldn’t be complete until you returned.
+Greil: ...What am I to do with you? Still, you did well. Good work, Ike.
+Petrine: Ha! Ignoring me proves you’ve got more guts than common sense. So you’re the commander, eh? Hmph! And I was waiting for some great hero. You’re just another sellsword.
+Greil: Am I?
+Petrine: Ha ha. You know, I think I’ll keep you! His Majesty, well...Let’s just say he enjoys strong men. Yes, I do think you’ll make a grand souvenir. You don’t have to come along quietly, but I must have you alive. Dead men have no value, after all.
+Greil: ...So the rumors of mad King Ashnard’s twisted games are true, are they?
+Gatrie: Shinon... What are these twisted games the boss is talking about?
+Shinon: There’s rumor that King Daein gathers strong men from around the continent and sets them to fight one another. Those who live, regardless of their birth, are given influential positions. Don’t know if it’s true, though.
+Gatrie: Oh...So that weird dame’s got her eye on the boss now, does she?
+Greil: Shinon! Gatrie! I’ll distract the woman. You two grab Ike and the others and get out of here now!
+Shinon: Got it!
+Gatrie: But, Commander! We can’t leave you here on your own!
+Shinon: Idiot! That woman’s no threat to the commander. All right Come on! Let’s go!
+Greil: Move it! We’ll regroup in Gallia!
+Petrine: You’ll not escape me. Not you or your little friends. You’re far too tasty a treat to pass up.
+Greil: You said your name was Petrine, is that right? Listen up. This place is nowhere near big enough. There’s not enough room for a true contest between the two of us. I’m going elsewhere. You coming?
+Petrine: Do you actually think I’m going to fall for such a simple ruse?
+Greil: You and I, we’ve got more power than the average person. We don’t come across a chance like this too often. I’d like to flex my muscles without any distractions getting in the way. You?
+Petrine: Ha ha...You really do know how to sweet talk a girl, don’t you? All right, I’m coming.
+Greil: Over here.
+Petrine: All right, men. I’m leaving you in charge here. Don’t let even one of these Crimean vermin escape! Understood? I want them exterminated by the time I return.
+
+Ike: We join up with Shinon, and we get out of here! Come on, don’t fall behind!
+
+@Battle-Talk 
+%Ike,Shinon
+Ike: Well met, Shinon. Are you unharmed?
+Shinon: Do I look injured? I’m as fit as ever. You must be disappointed Daein hasn’t stuck me full of holes yet.
+Ike: ...
+Shinon: Guess it’s time to tighten our belts and move on. Now that I’m gonna be dragging your worthless carcass around again, ‘ll have to work twice as hard.
+
+%Ike,Gatrie
+Ike: Gatrie!
+Gatrie: Hey, is that you, Ike? I heard you got the princess to Gallia. Nice work! You’re quite the hero. ...But wait! So what in blazes are you doing back here?
+Ike: You’ll think it foolish, but I was worried about all of you.
+Gatrie: Aww...You’re going to make me cry, you silly pup! All right...sniff... Get it together, Gatrie. Tonight, you and I will share a meal sing a song or two!
+
+@Battle
+Balmer: How goes the battle?
+Daein Soldier: There aren’t very many of those mercenaries, but they’re fierce.
+Balmer: And you’re having a rough time, eh? Bah! What an embarrassment.
+Daein Soldier: I apologize...
+Balmer: It will work out. Reinforcements will be arriving soon. Once they’re here, I want you to end this farce at once!
+Daein Soldier: Yes, sir!
+
+Ike: More enemy troops...
+
+@Boss
+Balmer: Hmph. You wretches...You’re not worthy of General Petrine’s attention. I will roast your bones and present them to her as a trophy!
+
+Balmer: Urgg...Ahh...
+
+@Character-Falls
+Ike: Titania! Are you all right?
+Titania: Ooh...I think I can move, but...there’s no way I can fight...
+Ike: Get yourself to safety, then, and wait until this is all over.
+Titania: I understand. Watch your back, Ike...
+
+Soren: I’m sorry, Ike. I don’t think I can fight anymore.
+Ike: That doesn’t matter, not as long as you’re still alive. Find someplace out of harm’s way, understood?
+Soren: I’ll do that. And, Ike...watch yourself...
+
+@End
+Ike: I have to find my father. Where did he go?
+Ike: Titania! Is my father...
+Titania: Don’t worry. Commander Greil’s the better fighter. He’ll be fine.
+Petrine: Dog’s breath! Who are you, man? You look like a common sellsword, but you fight like a demon!
+Greil: What’s wrong? Ready to surrender?
+Petrine: And admit defeat? Me? Dont’t be absurd...
+Daein Soldier: Here they are! Over here!
+Ike: Blast. Enemy reinforcements! Father! Let’s get out of here! There are too many–
+Greil: ...Looks like I’ve got no choice.
+Petrine: Ha ha ha ha...So now, the tide has turned, hasn’t it?
+Petrine: All troops, attack! Kill them! Kill them all!
+Greil: Hm...Looks like our luck’s run out.
+Ike: Father!
+Greil: You have to survive this, Ike. I’m not going to lose you, not in this place. Are you ready?
+Ike: Yes, Commander!
+Petrine: You’ve nowhere to run. Curse whatever gods you hold, for they have abandoned you!
+Ike: What was that?
+Daein Soldier: B-b-beasts! Gallian beast soldiers!
+Daein Soldier: R-r-run! We’re going to be torn to shreds!
+Petrine: Stand your ground, all of you! Don’t panic! I will personally slaughter the first man to turn his back on the enemy!
+Daein soldier: Noooo!
+Daein Soldier: B-b-beasts!
+Petrine: Pfeh. Worthless cowards, one and all.
+Ranulf: Attention, Daein soldiers! Leave this place at once! If you do not comply immediately, you will face Gallia’s full strength!
+Petrine: Threaten me all you like. It’s not going to frighten me off. If I leave, His Majesty will have me executed. I’d rather die here in battle, with my honor intact.
+Black Knight: Withdraw, General Petrine.
+Petrine: The Black Knight...
+Black Knight: As for your king, you have nothing to fear. I’ll explain things to him. Take your men and go.
+Petrine: Tsk! All troops, fall back!
+Black Knight: ...
+Greil: Hm?
+Ike: He’s staring at you, isn’t he, Father?
+Greil: Yeah. He is.
+Ranulf: Hey! Are you planning on taking us all on by yourself?
+Black Knight: ...
+Greil: ...
+Ike: Father?
+Mist: Father! Brother!
+Ike: Mist!
+Elincia: Master Greil, my lord Ike...I am pleased you are well.
+Ike: Princess Elincia...Why did you return here?=
+Ranulf: The princess came and requested Gallian aid for your mercenary company. That is what brings us here.
+Ike: Are you one of Gallia’s sub-humans?
+Ranulf: Sub-human? Ha! What arrogance it takes to coin such a name! You think yourselves the only onesworthy of the name human, and so we laguz must be beneath you? And thus you call us sub-human. We are less than human to you, is that it?
+Ike: I’m sorry...I don’t know any other name for you. If I have offended you, I apologize. What should I call you? Laguz? Would that be more appropriate?
+Ranulf: Huh? You show manners? How odd.I like that. Now, you are...Who, exactly?
+Ike: My name is Ike. Ike of the Greil Mercenaries.
+Ranulf: I’m Ranulf, a warrior of Gallia. We did not know what to think when this group of beorc came tramping through Gallian fields...Imagine our surprise to learn that one of them is Princess Elincia. Now, that was a shock. Two days ago, Daein proclaimed their conquest. We thought Crimea’s royals had all been killed.
+Ike: Conquest? They’ve laid claim to Crimea? So that means Crimea must be...
+Elincia: I...also heard this news from my lord Ranulf...After...after I fled the capital...My lord uncle Renning...He...I...I am...all alone.
+Ike: Princess Elincia...
+Ranulf: This is why our king ordered extra patrols along the nation’s border. It wasn’t mere chance that brought my warriors here to offer you support.
+Ike: I see...
+Ranulf: First of all, I must present Princess Elincia to the king. As for the rest of your men, Ike, I must get orders from my superiors. Until then you may rest at an old castle inside Gallia. Sorry, but I cannot bring so large a group of foreigners to the palace without warning.
+Ike: I understand. Commander, that’s not going to be a problem, is it?
+Greil: ...
+Ike: Commander?
+Greil: Hm? What was that?
+Ike: What’s wrong? You’re not paying attention. It’s not like you.
+Greil: I was thinking about something. So, what’s been decided?
+Ike: Princess Elincia is going on to the palace with Ranulf. We’re going into Galliaand setting up camp at an old castle. Which way to this castle, Ranulf?
+Ranulf: I shall prepare a guide to take you. One of you! Quickly!
+Greil: No, don’t go to the trouble. If it’s nearby, we cross the river on the border and head west. It’s Gebal Castle, right? You go ahead. Get the princess to King Caineghis as fast as you can.
+Ranulf: ...Understood. What thoughtful guests you are. If you’ll excuse me. Oh, and if it’s not overly presumptuous, I’ll have food delivered to you later.
+Greil: We’d appreciate it. The road has been hard, and we had little time to pack more than salted meat and hard biscuits.
+Ranulf: Then we shall provide! Princess Elincia, shall we leave?
+Elincia: Farewell, everyone...Until later. I will see you soon, won’t I?
+Greil: Mm.
+Ike: Take care.
+
+Ike: Father!
+Greil: Ike? What are you doing still awake?
+Ike: I couldn’t sleep, so I was lying there staring outside, and I saw you leave the castle. Where are you going at this hour?
+Greil: It’s nothing to do with you, boy. Go back inside and get to sleep.
+Ike: Will you stop treating me like a child? I’ll do as I please, got it?
+Greil: Hmph. You always were a stubborn pup. What say we take a walk and chat a bit?
+Ike: ...Yeah.
+Greil: Tell me, Ike, are you getting used to the ins and outs of the mercenary life? The way we approach combat?
+Ike: I’m definitely a better fighter. But I don’t understand...Why would you put a recruit like me in charge?
+Greil: What is it with all the complaining? You have a problem with authority?
+Ike: Just give me a straight answer. I’ve only just started. I’m barely able to handle my own duties around here. I shouldn’t be in charge of anyone.
+Greil: You can learn it all at once. It’ll all fall into place as soon as you start to get some experience.
+Greil: It’s just strange is all... A while ago, you never would have said or done anything like this.
+Greil: ...
+Ike: Is something wrong, Father? Why are you in such a rush?
+Greil: ......Do you remember anything at all about your mother?
+Ike: What? Where did that come from?
+Greil: Just answer the question.
+Ike: Let’s see...She was kind, I...think...I don’t really remember. And you’ve never said much about her either.
+Greil: Hm. Is that so...
+Ike: Father? What is it?
+Greil: We’re done. Leave me and go back to the castle.
+Ike: What? Just like that?
+Greil: You heard me. That’s a direct order! Return to the castle immediately!
+Ike: I... Fine...
+Greil: ...
+
+@Cutscene 
+Ike: Father… What’s going on? Where are you?
+Greil: Ike? Stay back!
+Black Knight: Here. Use this blade.
+Greil: What are you doing?
+Black Knight: I’ve been waiting for this for a long time.
+Black Knight: I would prefer it if you used your proper weapon, so that I might see you at your full strength…
+Black Knight: General Gawain, Rider of Daein.
+Greil: That was my name once, but I threw it away. The only weapon I need is right here.
+Black Knight: Do you want to die?
+Greil: Your voice… I remember you.
+Greil: You think you can defeat me? The man who taught you how to fight? What a fool.
+Greil: Come on, boy! Come try me!
+Black Knight: Is that all there is? No challenge? No resistance?
+Ike: Father!!!
+Ike: Don’t… Don’t leave…
+Ike: Don’t leave me! Father!
+
+@Dialogue 
+Black Knight: ...Unbelievable. Is this truly what has become of my teacher?
+Ike: Father! Father!!
+Greil: I...Ike...
+Ike: Hold on!
+Black Knight: Now then, will you give me what I came for?
+Greil: I...don’t...have it.........I threw...it away...
+Black Knight: Ha. You, who knows better than any what it truly is, threw it away? Surely you can craft a more plausible lie. You’re not even trying anymore.
+Greil: I’m done talking to you.
+Black Knight: So there’s no way for me to get my answers, is that it? The dead keep their secrets, or so it is said. But you, however...You are not dead yet. I wonder...Will watching your son’s face grow pale, his eyes grow dim as his life bleeds away...And then your daughter... Oh, the horrors I will visit upon her. Will that loosen your tongue, perhaps? I suppose we will simply have to see.
+Ike: What?
+Greil: No! Ike!!!
+Ike: ...Urk...
+Greil: Ike!!!
+Black Knight: I won’t check my hand again. Give me what I am after. If you offer no more resistance, I will leave your child alive.
+Greil: S-stop...You will not touch my son!
+Black Knight: ...What is this? The king of beasts? How bothersome. Do I retreat? Eh?
+Ike: You’re not going anywhere.
+Black Knight: Tell me, is the son as stupid as the father?
+Greil: ...Nng...Ahh...
+Ike: Father!
+Greil: Ike, stop. There’s no way you can win.
+Ike: But...
+Greil: Ike!
+Black Knight: You will not continue? Then I will finish...
+Black Knight: ...So close.Now is not the time for me to deal with him. Hmph. You get to keep your head today, boy.
+Greil: Blast.
+Greil: So willful. So arrogant...Of course... The one who...made him that way...was...m-me...
+Ike: ...Father? Father! Hold on! I can’t do anything here..I’ve...I’ve got to get you back to the castle!
+Ike: ...Nngh
+Greil: I-Ike...
+Ike: Father? You’re awake!
+Greil: I...There’s something I need to tell you.
+Ike: Tell me later. Right now, I’m getting you back to the castle.
+Greil: Forget about revenge...Leave that knight alone...Stay away...
+Ike: What? Father?
+Greil: Stay with the king of Gallia...Live here. Live in peace...
+Ike: Father, stop talking. You’re wasting your strength. Please...
+Greil: I need you to take care of everything...The company...Mist...
+Ike: Wait...You mustn’t say such things! It’ll be light soon. You’ll be fine...
+Ike: A little longer...Stay a little longer...

@@ -1,0 +1,233 @@
+@Intro 
+Nealuchi: Oh my! If it isn't young Prince Serenes! Welcome, welcome, welcome.
+Reyson: Nealuchi, you're looking well.
+Nealuchi: And feeling well, too, thank you very much. This old crow's as spry as ever. Hee hee!...Tell me though. How fares your father, King Lorazieh?
+Reyson: The same as ever. Since that terrible day, he remains abed... He seldom rises anymore.
+Nealuchi: Mmm... I'm not surprised. In the span of a few days, he lost his family, his friends, and almost all of his countrymen.
+Reyson: Yes...
+Nealuchi: And yet, we're blessed that you are still with us! Prince Reyson, if there's anything this doddering old bird can do for you, please do not hesitate to ask.
+Reyson: Thank you. I appreciate your kind sentiment.
+Naesala: Sorry to have kept you waiting, Reyson. Nealuchi! You can talk ancient history later. Leave us at once.
+Nealuchi: Yes, yes, of course. I'm sure you've much to talk about, much to say. I'll just take my leave of you...Please, Prince Reyson. Make yourself at home.
+Naesala: Hmph! Old Nealuchi's always been fond of House Serenes. When he heard the White Prince himself was gracing us with a visit, he could barely contain his joy. So, Prince. What's this all about? We haven't seen your face around here in a long time, and I'm naturally quite curious as to your intentions.
+Reyson: Your attitude during the Goldoa meeting piqued my interest. What is it you're after, Naesala? Why do you provoke Tibarn?
+Naesala: You came all this way for that? Are you serious?
+Reyson: Do not mock me, crow king! Tibarn is my father's guardian. If not for him, we might have suffered the end of House Serenes itself. I will not brook any insults to him.
+Naesala: Oh, I see. So rather than ally yourself with me, your trusted companion of old, you would side with this new protector? That's an unfortunate shift in attitude. I trust you remember that when you and your sister were young, it was I, and not Tibarn, who watched over you?
+Reyson: Any change in my bearing can be laid at your roost, Naesala. After all...you, my old friend, are the one who continues to engage in commerce with my enemy. With humans. If you were to change your ways, I'm sure we could rebuild the relationship the two of us once shared.
+Naesala: Oh no, that I could never do. You see, humans are essential to the fulfillment of my ambitions.
+Reyson: ...You've changed, Naesala. If this is the path you've chosen, I've nothing left to say.
+Naesala: ...I doubt you could ever understand what it means to guard Kilvas, Prince. To protect an entire country.
+Raven Laguz: King Naesala! Duke Tanas of the Begnion Imperial Senate has arrived.
+Naesala: Bring him in.
+Oliver: Your Majesty! J-just now, I brushed against the most splendid specimen! W-was that a Serenes noble? They're supposed to be extinct!
+Naesala: And what if it were?
+Oliver: Oh, I was right! Wonderful! My eyes did not deceive me. Those dazzling white wings. And that shimmering hair, sparkling like falling gold dust...That is the crystallization of beauty in its purest form--
+Naesala: Duke Oliver, can we please discuss the business at hand? Per your request, we have appropriated several pieces of art from the ships of Duke Gaddos.
+Oliver: Yes, yes, and you will be compensated as promised. But right now there is...something else that I simply must have.
+Naesala: Really? Another request? What can we purloin for you today? More art, perhaps?
+Oliver: Oh ho! Something much more stunning. And if you agree to my proposition, I will double your normal fee!
+Naesala: That is a most generous offer. Tell me, what is it you desire?
+Oliver: Desire? But surely you've already guessed...
+
+Ike: Meeting with the apostle was fine, but all she did was pay us and give us another job. She answered no questions.
+Titania: I wonder what she's planning. That cargo... I can't help but believe that there were living creatures inside, but...What do you suppose the apostle intends to do with them?
+Ike: I don't know. Titania, are all nobles and royals like this? They have plans and paperwork for every little thing, and their speech is as confusing as it is tedious.
+Mist: But, Ike, the other nobles we know are different! There's Princess Elincia, and King Gallia, and the dragon prince, too! All of them have been so nice and friendly and easy to talk to.
+Titania: Perhaps the rudeness of the upper echelon is unique to the beorc class system. Princess Elincia was raised in special circumstances. Maybe that's why she's so different.
+Ike: Bah! I could never get accustomed to the culture of beorc nobles.
+
+Ike: Tell me, Soren, are you all right?
+Soren: Hm?
+Ike: Recently--ever since we reached Begnion, in fact--you've seemed depressed.
+Soren: Is...is that so? How odd. Well, I can think of nothing specific that's bothering me.
+Ike: Well, if you say so.
+
+Ike: So, it's time for the desert! Which is the best direction to enter from?
+Soren: ...
+Ike: Soren?
+Soren: ...Eh? Yes, what is it?
+Ike: All right, I know there's something going on!
+Soren: I'm... I'm sorry... I was...thinking. What is it you wanted?
+Ike: Well, I was going to ask you for directions, but it's no longer necessary. It looks like we're being met.
+Soren: Ah!
+Tormod: Who are you? Answer me!
+Ike: We're mercenaries. We were hired to take care of a group of bandits operating in this area.
+Tormod: More of the senators' dogs! You cast us as thieves so you can murder us and hide your guilt! But we will not be defeated! Mark my words! The day will come when all slaves are free, and then you will pay for your crimes!
+Ike: What on earth are you talking about?
+Tormod: No more useless words! Come, my brothers! Take them!
+Ike: What? We're facing laguz? I don't like the look of this!
+Soren: Laguz or no, it doesn't change the fact that they are brigands. Do not lower your guard!
+Ike: I know what I'm doing. Everyone! Watch your footing in this sand. Take care and fight well!
+
+@Recruit-Talk 
+%Lethe,Stefan
+Lethe: Sniff... Hm?
+Lethe: I...sense...something...
+Lethe: ...Grrrr...Must be my imagination...
+Stefan: A female cat! Splendid! I've not seen your face in these parts before.
+Lethe: Aaaah! Wh-where...Where did you come from?
+Stefan: Oh, I see that I've startled you. My apologies.
+Lethe: Who are you?
+Stefan: If you wish to learn someone's name, isn't it polite to introduce yourself first?
+Lethe: Grrr... I am...Lethe. From Gallia.
+Stefan: And I...am Stefan! I live here in this desolate wasteland, playing at being a hermit.
+Lethe: Is that so? Well, don't let me interrupt your...life.
+Stefan: Oh no! Please don't worry about it.
+Lethe: Oh, I won't.
+Lethe: ...And?
+Stefan: What?
+Stefan: Why are you standing there staring at me? I'm interested in Gallia's beast tribes. Fascinating, really. I have an idea! Can we go somewhere and talk?
+Lethe: ...I don't think so.
+Stefan: Why not?
+Lethe: My companions and I are in the middle of a battle! I've no time to chitchat with you!
+Stefan: Very well... Then I will help you! And once this battle is finished, you'll have time to converse, yes?
+Lethe: I suppose...perhaps...
+Stefan: Right! Off we go then!
+Lethe: ...What sort of lunatic have I found now?
+
+%Mordecai,Stefan
+Mordecai: Sniff...
+Mordecai: Urrrr?
+Mordecai: Something's...here...Beneath...the sand... Mmmrrr??
+Stefan: Nope! I'm over here.
+Mordecai: So there you are.You are...good at hiding.
+Stefan: To be praised by one of the beast tribes is an honor! I am Stefan! I live here in this desolate wasteland, playing at being a hermit. Who are you? I haven't seen you in these parts before.
+Mordecai: I am Mordecai, a warrior of Gallia. This is the first time I have walked beyond the borders of my country.
+Stefan: I thought that might be the case...And I was right. Hoooo! I'm ever so clever!
+Stefan: Mordecai, listen here. I'm interested in the beast tribes of Gallia. Would you mind talking with me? I'll buy dinner!
+Mordecai: Um... My friends and I are fighting, so I...cannot. Sorry.
+Stefan: Very well, then! I will help you. Once this battle is finished, you'll have time to converse, yes?
+Mordecai: All right. If you will fight with us,then I will call Stefan a friend. Later, we will talk about Gallia.
+Stefan: I'm looking forward to it. Right then, off we go!
+Mordecai: Yes! Off we go!...Right...then...
+
+@Visit
+Ike: Huh?
+Stefan: Oh, look at you! Lost in a place like this... What an odd duck you must be. Hmm...It would be a shame to see you go home empty-handed, though. I will give you this as a memento! Now, in exchange... I ask you to treat our meeting as a dream and let it fade from your memory. And now, I bid thee...farewell!
+
+@Battle-Talk 
+%Soren,Stefan
+Soren: Woah!
+Stefan: Are you lost, young one? What are you doing in this place?
+Soren: What are YOU doing here? Are you with the sub-humans? ...Wait, did you just pop out of the sand?
+Stefan: Mmm...
+Soren: What?
+Stefan: ...Hmm. It seems I made an error.
+Soren: What are you talking about? You're not--
+Stefan: I was wrong. It's nothing. I've no use for you.
+Soren: Oh. All right, then.
+Stefan: Hold!
+Soren: What now?
+Stefan: It would be a shame to see you go home empty-handed, though. I will give you this as a memento! Now, in exchange... I ask you to treat our meeting as a dream and let it fade from your memory. And now, I bid thee...farewell!
+
+@End
+Muarim: Haah...haa...haa... We lose...
+Ike: You! You're the leader of this band, aren't you?
+Muarim: Yes...I am. I'll resist you no further. Take me with you or execute me here... I care not. But my companions... Would you let them go? ...Please?
+Unknown: No! I won't allow it!
+Ike: Huh?
+Tormod: I won't let you take Muarim!
+Muarim: Grrr... Stay back, little one! You were not supposed to expose--
+Tormod: If you want Muarim, you'll have to kill me first!
+Ike: You're--
+Muarim: Yes, he is a beorc child. I claimed him when he was little more than an infant. He has nothing to do with us...sub-humans...
+Tormod: Stop lying! I'm here because I want to be! Who's the leader of the laguz emancipation army? I am! You're a big jerk, Muarim! Trying to cover for everyone and get yourself killed? I won't allow it!
+Muarim: Little one...
+Ike: Hey! I don't care who the real leader is.
+Ike: A laguz who calls himself a sub-human is protecting a kidnapped beorc who claims to lead a laguz emancipation army? Do I have that right? Because if I do, I have absolutely no idea what any of you are talking about. Would someone please tell me what is going on here?
+Tormod: ...
+Ike: All right... Please go over that again. It's been customary throughout Begnion's history to keep laguz as slaves?
+Tormod: That's right.
+Titania: But that's in the past now! Twenty years ago, all slavery was outlawed, and all laguz were freed!
+Nasir: And as far as the general public is concerned, that is exactly what happened.
+Ike: So there's a portion of society that willingly breaks the law?
+Tormod: The commoners obey, but there are still many laguz slaves in the homes of nobles. Muarim and I brought this to the attention of the senators, but they would not listen. That's why we gathered other fighters. We break into the homes where slaves are kept and help them escape. Of course, the nobles can't let this be known publicly, so they brand us thieves and turn us into wanted outlaws.
+Ike: All right. I think I understand your motives,but you're not going to solve the basic problem this way.
+Tormod: We know that. But we can't give up and leave them in chains. We can't and won't!
+Ike: Do you mind if I try to help?
+Tormod: Huh?
+Ike: This sort of beorc behavior is something that's been bothering me. I think there may be something that I can do...
+
+Reyson: Naesala! Stop this foolishness! Where are you taking me? Tell me!
+Naesala: It's only a little farther! I'll tell you once we've arrived, just as I promised.
+Reyson: I left no word with Tibarn. If I had known we were coming this far, I would have left a message...
+Naesala: Here we are. This is what I wanted to show you. Look below you, Reyson. What do you see?
+Reyson: What...what is this? How is this possible? What happened here?!
+Naesala: ...
+Reyson: This...is Serenes? Is this what you're trying to tell me?! This colorless vista, these cracked and withered branches, these lifeless trees... This is my forest?
+Reyson: [Sacred trees! Seed, root, and trunk! Awake from your slumber and heed my cry! Answer the call of the green, mighty ones!]
+Naesala: ...The ancient tongue. It's been many years since I heard it last. You can still speak it.
+Reyson: The voice of the forest is still. Why... How did this...
+Naesala: It's been like this since your clan's been gone. The area near the entrance is especially bad. They used fire...Most of the trees are dead.
+Reyson: ...Unforgivable. How...how can they do things like this. Cursed humans... What did this forest do? What did my clan do...
+Naesala: Humans hold all laguz in contempt. And in the same way, they hold all of nature in contempt as well. They think everything exists for their pleasure and betterment...They are beneath contempt.
+Reyson: Naesala... It appears that I have misjudged you. I called you a groveling toady to humans and labeled you traitor. I was overly harsh. I apologize.
+Naesala: Not to worry. I engage in occasional commerce with humans...That much is true. A more pressing issue is the growing darkness. You can return to Phoenicis tomorrow, can you not? I'm certain that some noble has a villa in this area. At this time of year, it is almost certain to be empty. I suggest we borrow it for the evening.
+Reyson: You would sleep in a human building?
+Naesala: Think about it... Bird folk like you and I have no night vision whatsoever. If we were discovered by humans, they would surely overwhelm and capture us, right?
+Reyson: Mmm... I see your point.
+Naesala: Very good. I'll go stumble around until I find something to eat. Please...make yourself comfortable.
+Reyson: Naesala!
+Naesala: Yes?
+Reyson: Thank you. For everything you've done. I...I appreciate it.
+Naesala: Don't be ridiculous. We're old friends,are we not?
+Reyson: Right you are! Old friend.
+Naesala: Is everything in place?
+Raven Laguz: Yes. That Duke Tanas cannot sit still. He is literally...quivering with anticipation. It's not pretty.
+Naesala: I bet it isn't. Just make sure that mountain of suet stays hidden. If Reyson catches so much as a glimpse of his bulk, he will take wing.
+Raven Laguz: Understood.
+Naesala: Now, time to put on the finishing touches. This, too, I do to raise up Kilvas. Reyson, please don't judge me too harshly. That being said, I'm sure you will. Ah, well. Such is life. Enjoy your new one... Old friend...
+
+@Conversation
+Servant: Ahem. You are from the northwest nation of Crimea, are you not? You have my condolences for the terrible misfortune that has befallen your country and people. Yet you remain blessed! Fate has brought you here to the Grand Temple Mainal! To the splendor of Begnion, grandest of all the nations of Tellius. By the way, I hear you are traveling north to the Grann Desert. There are ancient ruins there, you know? They are the remnants of a race known as the Zunanma, who come from a civilization that predates our own. I'm sure you will enjoy the sensation of being immersed in such primordial surroundings!
+Ike: Um...yeah. It'll be a real picnic.
+Servant: Oh, yes, picnics are indeed nice. Oh, but a word of caution. Studying the ruins from afar is one thing, but you would be well advised to keep your distance... For safety's sake! It's said that there's a bandit stronghold near the northwest ruins. And we hear occasional reports of strange figures wandering the dunes in the northeast. Be careful!
+
+Sigrun: How are your preparations progressing?
+Ike: They're underway. We leave within the hour.
+Sigrun: Your next mission takes you to the Grann Desert. You must choose your companions with care.
+Ike: A desert is just a large patch of sandy soil, is it not?
+Sigrun: Ha ha! With one major difference! Unlike sandy soil, you'll not find solid earth near the surface. You could dig and dig and find only more sand. Those on foot and horseback may find it difficult to move around.
+Ike: I see. I'm sure that Soren knows much about these things, but...
+Sigrun: Hmm? Has something befallen master Soren?
+Ike: I don't know if he's feeling ill or just moping about. It all started when we arrived in Begnion.
+Sigrun: Oh...
+Ike: Be that as it may, it won't hurt for me to have this information. Can you tell me more?
+Sigrun: Of course. There's little water in the desert, and the soil is very dry. Few trees or grasses grow there. Which means there are no groves or anything else which would provide cover. And, as I mentioned before, those on foot or horseback will find the sand slows their pace considerably. The exceptions are magic users, staff wielders, and thieves. Such people will not be affected to so large a degree.
+Ike: Thieves are agile, so I understand why they would be unaffected. But those skilled in the magical arts? That doesn't make sense.
+Sigrun: I once heard an explanation from a magic user that I know...He claimed that the spirits he employed flew before him and cleared the sand from his path. However, considering the source, I'm not sure how much of that is truth.
+Ike: Who was the source?
+Sigrun: Prime Minister Sephiran.
+Ike: Would he play a joke like that?
+Sigrun: Ha ha! Well, the prime minister is a very amusing man. But, please, allow me to continue my explanation. What else...? Others who are unaffected by sand are pegasus knights, wyvern riders, and other flying units. Oh, and laguz, too. Terrain features don't seem to affect them much in either form, although they will be slowed some.
+Ike: You said laguz, didn't you? Almost everyone here says sub-human.
+Sigrun: Well, of course. Beorc and laguz are both living things. Every precious life was created to be equal by the blessed goddess. The fact that there are still those who persecute laguz in the land of the goddess... It is deplorable.
+Ike: ...Are you of a noble house?
+Sigrun: Yes, I am. One must be of noble birth to serve the goddess.
+Ike: But I thought...that all nobles were half-crazed fools who can't speak the truth. You seem quite honest.
+Sigrun: Ha ha, I'll take that as a compliment...Oh, and one last thing.
+Ike: What is it?
+Sigrun: The desert contains the remnants of more than one lost civilization. Rumor has it that treasures from those times still lie undiscovered beneath the shifting sands. Those with good luck may come across such treasures during battle.
+
+Makalov: Hoooweee! The Grand Temple! Luxury and...gorgeousness as far as the eye can see. If a scoundrel like myself can find employment in a place like this, I guess my luck hasn't abandoned me after all.
+Ike: ...
+Makalov: But...for all the glitter and gold, there's an equal amount of dangerous work. Hmm...That I could do without. Maybe I can use my prone-to-illness ploy...Cough! Yes, I think I can arrange to work about one out of every...five jobs or so! And now that I've a fixed income, it's time to visit the local inns and see what games of chance are about!
+Ike: Evening.
+Makalov: WHAAAA! You... Did you happen to hear any of that?
+Ike: You were talking out loud. Loudly.
+Makalov: Um...I, uh... I wasn't being serious...I am an extremely diligent man! Yes, I am!
+Ike: Those peddlers you were with...You were in debt to them, right?
+Makalov: Huh? How do you know that?
+Ike: When we took out that group, your debt vanished...
+Makalov: Yes! You're right! That was a tremendous help. Thanks much!
+Ike: Come now, you can't believe that the world is as forgiving as that. Or that we are so foolish.
+Makalov: What?
+Ike: Debts are debts, and you have many. Those peddlers weren't the only people who were owed coin by you... Right? We can't have debt collectors hounding the company day in and day out. My staff officer repaid the rest of the money you owe.
+Makalov: Tha-that's...very kind of you.
+Ike: It was from the company coffers. You, my friend, are now in OUR debt. You fight to repay the Greil Mercenaries.
+Makalov: Ah! But! Aaah!
+Ike: Payment will be deducted from your wages. For...quite some time. It seems you're working for free, friend.
+Makalov: Oh! I--! Oooh!
+Ike: Until your debts are completely repaid, don't even think about leaving the company. Or getting sick. Right then! I trust you'll do your best.
+Makalov: ...What a mess...Awww... Nuts!
