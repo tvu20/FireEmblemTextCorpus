@@ -1,0 +1,261 @@
+@Intro
+Izuka: Ahem! As general staff officer of Daein's Liberation Army, allow me to outline my latest strategy.
+Micaiah: Excuse me, but shouldn't Prince Pelleas be here?
+Izuka: There's no need to distract the prince with the war's petty details. He won't be coming to any more meetings. From now on, consider my words the prince's own.
+Micaiah: I'm not sure that's--
+Izuka: Enough idle chatter. Come have a glance, my pretties.
+
+Izuka: Our next target shall be Umono. Among all the work camps, it is one of the largest.
+Tauroneo: Conditions within the prison camp are harsh. If we are to save the prisoners, every moment matters.
+Sothe: One of the largest work camps... Can our forces handle that?
+Izuka: ...Suck a trivial concern, and one my profound genius has already addressed! Behold this lake next to the camp that provides fresh water to all there. Into this lake, we shall dump a deadly toxin of my own devising! Then we'll sit back...as the enemy slowly dies.
+Micaiah: What are you saying?! Poison is inexcusably vile! I will agree to no such plan.
+Izuka: Wha-wha-what was that?! You! You! How dare you question my plan, conceived in a state of exalted meditation!
+Micaiah: No matter how misguided the enemy may be, we must fight with compassion and consideration for the innocent.
+Sothe: She's right. Poison doesn't discriminate. Prisoners would die too. And any nearby villages would be affected. And then what would happen? People would doubt us, question our cause, maybe even side against us. And it would cast a stain on Prince Pelleas's name, don't you think?
+Izuka: Errrrrgh... Fine then! Do as you like! And when you find yourselves utterly defeated, you can come crawling back to me! 
+Tauroneo: My apologies to both of you. When Lord Izuka gets excited, he can lose all sight of reason.
+Micaiah: I apologize too, General Tauroneo. He stormed out because I--
+Tauroneo: You needn't apologize. ?You are in the right. I would never condone the use of poison. However, this does mean we must devise another plan if we are to have any hope of victory.
+Micaiah: Yes, you're right. In that case, what do you think of this strategy?
+
+@Conversation 
+Pelleas: Sorry to call you here like this. Forgive me.
+Micaiah: It's quite all right.
+Pelleas: Can I pour you some tea? Or is there something else you would prefer?
+Micaiah: I'm fine, thank you. What did you want to speak with me about?
+Pelleas: I know you are angry with me. Please, forgive me.
+Micaiah: Can you tell me why you stopped showing up at our meetings?
+Pelleas: It was at Izuka's request.
+Micaiah: You are the leader of this army! You cannot simply leave all the decisions to someone else!
+Pelleas: ...I'm sorry. I'll ask Izuka before the next meeting. I need his permission to attend.
+Micaiah: Why? You're the prince. Why should you need any man's permission, much less your own advisor's?
+Pelleas: Yes, I am the prince, but...I owe much to Izuka. He taught me everything I needed to know to become a proper member of the royal family. He contacted Tauroneo and the other senators from Daein for help. Without his power and influence, I would never have mustered an army--or met my own mother.
+Micaiah: I see. You were alone...
+Pelleas: Pardon?
+Micaiah: And then Izuka reunited you with your mother, gave you a place to stay, and provided you with a reason to live. And you feel you owe him a debt of gratitude for ending your loneliness. That is why you try to do as you are told--as Izuka wishes.
+Pelleas: Micaiah, you're--
+Micaiah: I'm sorry! I didn't mean to-- That was inappropriate.
+Pelleas: You're amazing!
+Micaiah: Amazing?
+Pelleas: You really can read minds! I'm simply amazed! You saw right through me!
+Micaiah: ...
+Pelleas: Sorry, I got too excited. Look at me, I'm sweating.
+Micaiah: Prince Pelleas!
+Pelleas: What is it? Why are you looking at me like that?
+Micaiah: That mark...
+Pelleas: Oh...that.
+Micaiah: What is it?
+Pelleas: It's called the Spirit's Protection. The source of all magic in this world is tied to the power of the spirits. When you make a pact with such a spirit, its power manifests on your body like this.
+Micaiah: I...see.
+Pelleas: What am I saying? You already know all of this, of course. You have the Spirit's Protection, too.
+Micaiah: What?
+Pelleas: I saw you washing your hands the other day. When I walked up to you to say hello, Is aw the mark on your right hand.
+Micaiah: You saw...
+Pelleas: I thought of confiding in you right away, but my mother called for me. I didn't get a chance to tell you until now.
+Micaiah: Do you think this mark is really the Spirit's Protection?
+Pelleas: Oh! You didn't enter into the pact yourself?
+Micaiah: No.
+Pelleas: I see. So, it must have been the spirit who wished to make a pact with you.
+Micaiah: Pardon?
+Pelleas: It's a very rare phenomenon among newborns. Usually it happens to infants who have an exceptional talent for magic. You truly are amazing, Micaiah.
+Micaiah: I don't know about that...
+Pelleas: Let's keep this among ourselves... We don't want people to confuse us with the Branded.
+Micaiah: What are the "Branded"?
+Pelleas: I'm pretty sure it refers to beorc who have laguz blood in their veins. I know, it's hard to imagine someone with the blood of a sub-human running through their veins. Anyway, I've been terribly mistreated by people who thought I was one of the Branded.
+Micaiah: ...
+Pelleas: Micaiah?
+Micaiah: Oh...sorry. I think I understand more about you now, and about the marks we share...
+Pelleas: I'm glad I was able to tell you. I'm surprised you didn't know. Come talk to me again sometime.
+Micaiah: Certainly.
+Pelleas: Oh, I almost forgot. Here. I wanted to give you this.
+Micaiah: What is it?
+Pelleas: It's this splendid sword I recently acquired. It gives its wielder the upper hand in battle. Keep it or give it to whomever you like.
+Micaiah: Shouldn't you give it to the soldier you deem most worthy?
+Pelleas: No, I wouldn't want the soldiers thinking I'm giving anyone special treatment. It would be inappropriate. That's what Izuka says, anyway. So I think you should do it.
+Micaiah: I understand. You must have so much on your mind.
+Pelleas: Indeed. I long for the hold days when I was poor, but had few worries.
+Micaiah: Prince Pelleas...
+Pelleas: But I'll keep fighting. I won't stop until Daein is free once more.
+Micaiah: Hear, hear!
+
+Meg: H-hello...
+Zihark: Oh, hello there.
+Meg: H-h-hello.
+Zihark: Yes...hello. Now that we have that established, what can I do for you?
+Meg: Um... Uh... I... I'm...Meg.
+Zihark: Yes, I know. It's nice to meet you, Meg. That's a very nice name.
+Meg: And, uh... I'm from Crimea.
+Zihark: Yep, I'm one step ahead of you! Heard that too. You're far away from home now, aren't you? Quite an independent girl, eh?
+Meg: Um, and, my village... It's called Ohma.
+Zihark: Oh! You're from Ohma? Now that's something I didn't know.
+Meg: Yes.
+Zihark: Then you must know Brom... Hold on a second... You look exactly like him. Are you two related?
+Meg: We sure are! I'm his daughter. His...youngest daughter.
+Zihark: Oh, I've heard stories! He loves to tell stories about his kids. He said that you could lift a full-grown cow! It's nice to meet the person I've heard so much about! How is Brom? Doing well?
+Meg: Yes! Yes, he is! He works ALL the time. I do wish he would slow down...
+Zihark: Ah, yes. Well, it's good to hear he's staying busy. Brom, huh? Wow, brings back memories... Well, if you're his daughter, I'll do whatever I can do help you. You said you were looking for somebody? Who is this person?
+Meg: Well... He's my... He's my fiance.
+Zihark: How could any guy leave a girl like you? What's this lucky guy's name? What's he like?
+Meg: Well...he's standing right in front of me.
+Zihark: I'm sorry, I'm sure I misheard you. Can you repeat that? ...Slowly?
+Meg: My daddy told us years ago that he was going to marry one of us to a really nice friend of his, a mercenary named Zihark.
+Zihark: Whoa, hey now...I don't, uh...
+Meg: But my older sister got married last year, and so I came instead! Oh, it's so nice to finally meet my husband!
+Zihark: Meg, look, this is kind of crazy...
+Meg: Zihark... I'm sure I still have a lot to learn... But after meeting you, I just know we'll live happily ever after!
+Zihark: Meg, I need you to listen very closely...
+Meg: Oh, don't worry! I'll work hard every waking moment to become a good wife! Even during a fight! See you later, pookums!
+Zihark: Meg, wait! Wow, she's downright pushy. She must get that from her old man. ...And did she just call me "pookums"?
+
+@Intro
+Djur: What?! An enemy attack?
+Begnion: Yes, sir! The Liberation Army has mounted an assault on the gate! We require reinforcements!
+Djur: Hmph. They seek to free their men? My elite guard shall stay here with me. Take the rest to squash these "rebels"!
+Begnion: But, sir, if your guard remains here, we'll have barely enough men to--
+Djur: Who do you think you're talking to, soldier? With my guard and me at the ready, this camp need fear no attack. Understood? Now go! You have your orders!
+
+
+Sothe: Looks like Tauroneo has them distracted. They've left only a small force here to defend the camp itself.
+Micaiah: Perfect. That should make it easier for us to eliminate their defenses, seize the camp, and free the prisoners.
+
+@Battle
+Tormod: What do you think, Muarim? Is that the building Sothe's in?
+Muarim: Most likely, little one.
+Vika: So, are we gonna help them, or should we just stand here all day and twiddle our thumbs?
+Tormod: What do you think? We're helping, of course! Keep up, Muarim! Come on, Vika!
+Vika: Hey, boss! Wait a second! I'll be... He's already out of sight. How does he do that on those skinny beorc legs?
+Muarim: Who do you think taught him how to run? We'd better go after him.
+
+???: Sooooo--ooothe!
+Sothe: Huh?! What...
+Micaiah: Eh?
+Tormod: Have no fear...Tormod is here! I'm coming to your rescue!
+Sothe: Tormod?! You crazy fool...
+Zihark: Time for the trusty hero to save the day, I see. Still quite the showman, eh, Tormod?
+Jill: It's more like a reunion every moment. Now if Haar were just here...
+Tormod: All right! Let's go wild!
+
+Begnion: Ah...eyahhhhhhh! Sub-human! It's a sub-human!
+Begnion: Calm down! Just use fire magic for the beasts and wind for the birds! That'll do the trick. That child hasn't transformed yet! Nab him before he does!
+Tormod: Fool! Transforming ain't what I do. But I can do this...
+
+Begnion: He-he's a mage! Fall back! Don't get too close to him!
+Micaiah: Who in the world are they?
+Sothe: People I used to know. I'll introduce you later, but for now, let's concentrate on the fight.
+
+@Recruit-Talk 
+%Sothe,Tormod
+Sothe: Hey, Tormod!
+Tormod: You! What in blazes did you do?! You scurvy traitor!
+Sothe: What are you talking about?
+Tormod: You grew! Too tall!
+Sothe: And to think, I expected you to make sense. I have more important things to tend to.
+Tormod: Hey, it's important to me!
+Sothe: What I'd really like to hear about is that issue I asked you to look into... How did it go?
+Tormod: I have news to report. But! There's no time to chat in the thick of a fight. I'll tell you later!
+Sothe: Hey! Drat!
+
+@Battle-Talk 
+%Sothe,Muarim
+Sothe: Ah, hello. It's been a while.
+Muarim: Little Sothe... You've grown up.
+Sothe: Why does everybody keep saying that?
+Muarim: Hmm?
+Sothe: You know, "little"?
+Muarim: Oh, sorry. I guess I have to respect your manly pride now.
+Sothe: Yes, please. Or something like that.
+Muarim: "Sir Sothe." Will that do?
+Sothe: Sothe will do. Just Sothe.
+Muarim: I'm afraid I could never speak so familiarly with my little one's good friend. So, with your permission... Sir Sothe.
+Sothe: No! That doesn't... Ohhh, never mind!
+
+%Jill,Muarim
+Jill: Muarim, do you remember me?
+Muarim: Indeed I do, Jill.
+Jill: I'm glad. So why are you in Daein?
+Muarim: You'll have to ask the little one. I merely trail around after him.
+Jill: I see. I will ask him. Thank you for helping us today.
+Muarim: It is an honor.
+
+%Jill,Tormod
+Jill: Tormod!
+Tormod: If it isn't Jill!
+Jill: Thanks for fighting beside us. It's a big help.
+Tormod: Ah, it's nothing!
+Jill: How did you happen to...
+Tormod: An enemy! Excellent! Leave him to me! 
+Jill: There he goes... At least some things never change.
+
+%Zihark,Tormod
+Zihark: Hey there, Tormod. You're looking well.
+Tormod: So you're here too, eh, Zihark?
+Zihark: Polished your mage skills over the last few years, I see.
+Tormod: But of course! I'll toast anyone who dares oppose me!
+Zihark: Really? Well then, why don't you take on the rest of the guards while I sit back and take a break? 
+Tormod: You know what I mean! Get back here and fight like you mean it! Zihark!
+
+%Zihark,Muarim
+Zihark: Muarim!
+Muarim: Zihark, has it been three years?
+Zihark: First Crimea, now Daein. Never a dull day! Still, it's good to fight with you again.
+Muarim: You can say that again.
+Zihark: OK. It's good to fight with you again.
+Muarim: Beorc humor is so...odd. But you know I feel the same.
+
+@Battle
+Ex-Daein: Y-you really came to save us? Thank you. Oh, thank you. You have no idea how scared I've been. I'm so glad I didn't give up. We knew the Maiden of Miracles would free us.
+
+Ex-Daein: Thank you! I'm saved! I couldn't have held on any longer... I'm going to make a run for it. I refuse to die in this pit of despair. I choose to live and return to my family!
+
+Ex-Daein: This isn't a dream? I can really leave this miserable cage? Oh, thank you. Thank you! You've saved my life!
+
+Ex-Daein: You're the Liberation Army. I've heard about you... I'll never forget my debt to you. If I survive and make it home, I vow to devote the rest of my life to your cause. I'll fight for Daein honor, like you do.
+
+@Boss
+Djur: Errrrrgh...! Blundering through like a bull in a china shop... Come closer, so I can shatter your ambition like glass! I will beat into your very bones just who rules this land!
+
+Djur: They were...worthless, trivial... Only...scum of Daein... How? How... could that filth have...
+
+%Micaiah,Djur
+Micaiah: We are the Daein Liberation Army! We demand you free the hostages... or face the consequences!
+Djur: Of all the ridiculous... All of you pigs from Daein will be our slaves 'til you die! It's your destiny. What need have swine for freedom? Swine are happier being kept...and consumed.
+Micaiah: If that's how you really feel, then....
+
+@End
+Izuka: S-see here! Sothe! Who were those three, and where did they come from? Will they join my Liberation Army?
+Sothe: They are my personal acquaintances from Begnion. And yeah, they can handle themselves in a fight. But if any more laguz join us, there will be problems. We've managed to hide Volug and his true nature, but...with more laguz, it will surely get out.
+Izuka: Any such backlash can be extinguished with proper punishment. But laguz... They're powerful!  Just what we need. By all means, invite them to join!
+Sothe: They're good friends. I'm sure they'll agree to help if I ask . But... Isn't it the prince--and not you--who should make those decisions?
+Izuka: Question me not, young Sothe. My words are the prince's words. You need to understand that. Isn't that right, my prince?
+Pelleas: Ah, ah, yes, that's right. You should do as Izuka wishes.
+Sothe: I...see.
+Izuka: I'm glad you see. Now, quickly, quickly...go talk to your friends. And see to it you don't foul up.
+
+Sothe: How did you get here so soon? More importantly, how did the investigation go?
+Tormod: It went great! In fact, we finished up so quickly that we flew here to back you up in case you needed help.
+Micaiah: Um...
+Tormod: Oh, sorry I haven't introduced myself yet. You're Micaiah, I take it? I'm Tormod! Three years back, Sothe and I were in the Crimean Army...sorta. We fought side by side as mercenaries under Ike.
+Micaiah: Of course...General Ike...again.
+Tormod: I beg your pardon?
+Micaiah: Nothing. Don't mind me. So, anyway, what is this investigation Sothe requested of you?
+Sothe: I began to doubt that the apostle--Begnion's empress--actually knew what was happening in Daein. At only thirteen, the apostle may be young, but she's proud and upstanding. She'd never let these kinds of things happen to Daein. So, I asked Tormod to fill her in on what was really happening here.
+Tormod: This is what we learned... The apostle had noticed something shady about Daein. She was investigating on her own. She traced the ones pulling the strings to a certain faction of senators. Now, she's snapping mad, but without proof, she can't publicly move against them.
+Sothe: The apostle is the highest power in Daein... Even so, she and the senate are rarely on good terms with each other.
+Tormod: Sothe, she promised she'd help us however she can. She said to do whatever is necessary... And that inspired me to find you sooner than later.
+Sothe: I see. So... I can depend on having you three around, for at least a little while?
+Tormod: Yeah! Your old pal here is gonna take care of everything. Just try getting rid of me!
+Sothe: I can only try!
+Tormod: What do you mean by that?! Ah, you're as blockheaded as ever.
+
+Micaiah: That Sothe... He looks happy, for some reason.
+Muarim: Because he's reunited with my little one?
+Micaiah: That must be it... Oh, Sothe, ever since he was small, he's tried to act more grown up than the grown-ups... I've taken care of him so long, and still I've never seen him smile so easily before.
+Muarim: Hm... Watch what you say. Comments like that... They reveal that your appearance belies your true age.
+Micaiah: What are you--
+Muarim: Among the laguz, there are those who detest and revile half-breeds such as yourself. They call you "parentless," and deny you any laguz heritage, honor, or dignity. Take due care.
+Micaiah: Oh... Oh no...
+
+@Narration
+Laguz warriors led by Tormod join the escaped prisoners, and Daein's army grows ever larger. Its victories at Talrega and other locations have strengthened its position. The army rides across the land, liberating prisoners from Begnion encampments. The Daein ranks swell with the influx of veteran soldiers, and the men begin to dream of the day when they may retake the capital.
+Like a fever, conflict grips the nation. The night will be long before this fever breaks. All eyes turn towards Daein's capital as the liberation begins what all believe will be a long and bloody march.

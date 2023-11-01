@@ -1,0 +1,162 @@
+@Intro 
+Tormod: Listen and be amazed! BIG news afoot! The apostle is sending an inspection team to investigate the occupation army's abuses!
+Micaiah: Really?
+Tormod: She sent me a message that preparations are finally complete. But wait...it gets better. She also issued an imperial edict to the occupation forces telling them to cease all military action immediately!
+Micaiah: Does that mean the fighting is over? That we've won?
+Sothe: Indeed. It's hard to believe it's over. It almost seems too easy.
+Tormod: And best of all, Duke Persis is leading the inspection team! We'll be home free the moment they arrive. Our worries are over.
+Sothe: Duke Persis...Lord Sephiran? So Apostle Sanaki's dispatching one of the empire's greatest men to handle this.
+Micaiah: What kind of man is he?
+Tormod: He is amazing...the best person ever! He's incredibly influential and high up, but he never stood on ceremony with us. Well, go on, you guys! Don't just stand there. You have to spread the news!
+Sothe: We have to spread the news? Aren't you going with us?
+Tormod: Umm...nah. It's mostly your doing. We'll hold back...let you take the glory.
+Micaiah: It's Izuka, isn't it? You don't want to come because he'll be with the prince.
+Tormod: Well, yeah, basically.
+Micaiah: All right...but wait here! We'll come right back once we've announced the good news.
+
+Begnion: ...In light of which, Her Imperial Highness, Empress Sanaki, has conveyed to you this edict. Occupation forces are to hereby lay down all arms, convene in Daein Keep, and await the inspection team.
+Jarod: Hmmm...
+Begnion: Duke Numida maintains that your forces performed alleged abuses independently...in flagrant violation of his orders. The apostle, in her mercy, will hear your testimony. Do not abuse her magnanimous spirit...and lose your small advantage.
+
+Jarod: Hah! What a magnificently ruthless maneuver. I didn't know Numida had it in him. Disowning the entire occupation army...and framing me for their actions. Brilliant.
+Alder: So then...the game is over. Might we at least drag Duke Numida down with us?
+Jarod: Not a chance. We are proof that Duke Numida--and therefore the entire senate--is corrupt. No doubt they'll work together to silence us. Besides, there's more tantalizing prey than those tottering relics. If I'm to fall, so too should the one who upended our plans and drove us to this dead end... That girl.
+Alder: Oh... I like that. Our final mission.
+Jarod: You create a diversion with the troops tonight, after dark. And I will seek our target...the girl's silver-maned head.
+
+
+Izuka: A-hhrrmm! Silence! Prince Pelleas would now like to favor you with a word. You may begin, my prince.
+Daein: Am I dreaming? Everything looks so delicious! What should I eat first...?
+Pelleas: Everyone, you've done a fine job. Once the inspection team arrives, Daein will be free once again! In anticipation of our emancipation, I invite you to eat and drink to your hearts' content.
+
+Micaiah: ...Whew... Yune! What is it? You didn't need to slip away from the banquet, too.
+
+Micaiah: Silly you! You're kind of a mysterious bird, you know that? How is it you can fly around even at night? 
+Micaiah: Oh, Yune...for some reason...I feel so tired lately. ...But it won't be long... I'll go back home to Nevassa...and then...save Daein...
+
+Jarod: So, you escaped the idiot's ball to be alone? How trusting of you, Silver-Haired Maiden... No--I'm sorry--"Priestess of Dawn." If you really can work miracles, you'd best work one up for yourself now.
+Micaiah: Hm? What? Oh! Begnion soldiers!
+
+Micaiah: General Jarod?! Why are you here?
+Jarod: I'm doomed, thanks to you. But if I have to go down, I'm taking someone with me... The vice-general to the Daein Liberation Army, the revered "Priestess of Dawn."
+Micaiah: Even if you kill me, the kingdom of Daein will be reborn. As long as the prince survives, the people will fight.
+Jarod: Hah! The prince! He's a sham, a travesty, a clod of mud no amount of polishing could shine. The real jewel--whose radiance attracts the people like moths to flame--is you, Priestess. And so I shall steal you and extinguish Daein's light of hope! Know despair, Priestess of Dawn! 
+Micaiah: Ah!
+
+Jarod: Guhahh!
+Micaiah: Who are you?
+Black Knight: Be at ease, Maiden. I shall not let him harm you. I was once one of the Four Riders, serving the army of old Daein. If you recall the name of the Black Knight, you will withdraw from this place at once.
+Jarod: Riiiight! That's precious. You're the legendary Black Knight? Maybe you haven't heard...he died in the war. But let's put your claim to the test, if only to indulge my own amusement.
+Black Knight: Then have at me...and learn your folly.
+Jarod: In due time. But before I bother, why don't you have a go-round with my restless minions? Douse the torches!
+
+Black Knight: Maiden. I shall be your shield. Remain by my side.
+Micaiah: I will. I know I can trust you.
+
+@Battle-Talk 
+%Micaiah,Black Knight
+Micaiah: Sir Knight, how did you know I was in danger?
+Black Knight: That is not important right now. Are you injured?
+Micaiah: No, I'm all right.
+Black Knight: Maiden, stay by me. I will not let them harm you.
+Micaiah: I know you won't. Thank you.
+
+@Boss
+Jarod: I see you're pretty impressed with yourself!
+Black Knight: Did you think the likes of you could be a worthy opponent for me? Know your place.
+
+%Micaiah,Jarod
+Micaiah: General Jarod! Your occupation army has caused untold suffering to the people of Daein... The time has come! You must atone for your deeds!
+Jarod: As if I should care one whit about the wretched worms I trample!
+
+@End
+Black Knight: Make your peace. This blow will be your end.
+Jarod: Heh... How kind of you...
+
+Alder: Gugrh...
+Jarod: Alder?! You... Why are you here?
+Alder: I'd rather fight beside my general than create a distraction with the other soldiers.
+Jarod: You idiot! Who asked you to join me?
+Alder: General Jarod... You are a terror to work under. Even so...I've always sensed a kindred spirit in you. I will follow you and fight for you...to the very gates of the abyss... 
+Jarod: He was a good soldier... What now? Why don't you kill me?
+Black Knight: My sword is not made for killing those who will not raise their weapons.
+Jarod: You've got to be kidding me!
+Micaiah: Stop! Stop it, both of you! A man has died protecting you. Don't waste his sacrifice!
+Jarod: This is not the end! 
+Micaiah: No. It's not.
+Black Knight: You would simply let him go?
+Micaiah: He is not ours to judge. He belongs to the apostle now. I suppose he must bury his fallen friend and pray before facing her.
+
+Micaiah: You have my thanks for saving me.
+Black Knight: There is no need for thanks.
+Sothe: Micaiah, are you safe?!
+Sothe: You! Micaiah, run!
+Micaiah: Sothe! It's OK. This knight just saved my life!
+Sothe: What?! Micaiah, do you know who this is?
+Micaiah: Everybody knows who he is, Sothe! He is the Black Knight. One of the Four Riders under King Ashnard, and the strongest swordsman--
+Sothe: Exactly! The scum that General Ike defeated in Nados Castle in Crimea, three years ago. So how can he be here now...alive?
+Black Knight: You are correct, Sothe. Ike did defeat me in that battle, in a fashion. But as you can see, I managed to escape.
+Sothe: What do you want?
+Black Knight: For Daein to raise its banner as a kingdom once again. I came here to protect those who are necessary for that dream.
+Micaiah: Sothe, General Jarod was here a moment ago. If the Black Knight hadn't stepped in, Jarod would have killed me.
+Sothe: What?! But...I don't see his corpse here. And that means...he's still alive, isn't he?
+Micaiah: Yes. There was another soldier who sacrificed his life protecting Jarod. I presume Jarod's burying him now. Oh! Oh, no...
+Sothe: What is it?!
+Micaiah: I see a dark cloud... It's dimming the light of hope... By letting Jarod go, I may have allowed something terrible to happen...
+Sothe: You aren't sure?
+Micaiah: Sothe, I hadn't told you, but I haven't been feeling well lately. My mind feels...foggy. Things I could always see clearly are now dim and vague. I may have committed us to an irreversible fate.
+Black Knight: I shall aid you. No matter what Jarod may plot, I will prevent it.
+Sothe: Micaiah and I don't want your help!
+Micaiah: Sothe, stop that! In King Ashnard's War, you severed below General Ike, and you and the Black Knight were enemies. But now, you are comrades with the same goal--Daein's restoration. Listen to me. The Black Knight was Daein's strongest general. We need him.
+Black Knight: And I am willing to serve.
+Micaiah: Sir Knight... That you should come to us now, is surely the will of the goddess. I thank you for your aid just now, and ask you to lend us your strength a while longer.
+Black Knight: May my sword serve you well, Maiden of Dawn.
+Sothe: I don't like this...
+
+@Narration
+A figure from Daein's past appears unexpectedly in the night. A figure thought to have perished in the Mad King's War, the blood-stained right hand of the king himself, the mysterious Black Knight.
+The Black Knight protects Micaiah against Jarod's cowardly surprise attack. However, Micaiah suspects that Jarod has one last move to make. Deprived of his chance to capture Micaiah, Jarod abandons all notions of retreat or negotiation. Instead, he makes plans for revenge. He murders an emissary from his homeland of Begnion and reclaims control of Daein Keep.
+From within the keep, he launches a savage barrage of catapult fire, all but destroying the castle town. The momentary peace that arrived with the Begnion emissary shatters along with Nevassa's walls, and the people of the city see their kin and their capital crushed under a rain of stone. This treachery proves too much for them, and their grief explodes into rage.
+Micaiah and company have pitched camp on a nearby hillside. When this merciless attack begins, its brutality leaves them lost for words.
+
+@Conversation 
+Pelleas: Sothe. How unusual to see you alone.
+Sothe: Prince Pelleas. You here to see Micaiah?
+Pelleas: Yes. At least, I intended to. But she is quite popular, isn’t she? She’s always so busy talking to everyone that I can never get near her.
+Sothe: They’re your soldiers. Tell them to get out of the way.
+Pelleas: No, I can’t do that. My job is to be the symbol of Daein’s liberation. But the Priestess of Dawn is no mere symbol. For her, the soldiers will gladly give their lives.
+Sothe: Prince Pelleas?
+Pelleas: Oh, don’t worry, Sothe. I’m not jealous, if that’s what you’re thinking. It isn’t like that. Although I have to admit, I do envy her from time to time.
+Sothe: Hm.
+Pelleas: I almost forgot. Here. These war funds are for you.
+Sothe: But the war’s over. And, besides, this is a small fortune.
+Pelleas: Yes, well, share it with the troops if you like. I may not be much a leader, but I truly appreciate the sacrifices everyone has made. They deserve something in return. Divide it up as you see fit. I trust your judgment.
+Sothe: Prince Pelleas, you should be the one to give the troops their reward.
+
+Jill: Lady Micaiah.
+Micaiah: Hello, Jill. What are you doing here?
+Jill: I saw you walking over here as I was heading back to my tent. Is something wrong? You shouldn’t be leaving camp by yourself.
+Micaiah: I’m just exhausted from talking to so many people. But there’s no need for concern. I just need some time to myself.
+Jill: Now that you mention it, you do look a little pale. Why not rest in your tent? It’d be much more comfortable.
+Micaiah: I don’t want Sothe and the others to know how tired I am. They worry too much.
+Jill: Ah, I can see that. Sothe seems so detached from everything, unless it involves you... He gets so... worked up. He strikes me as a bit overprotective.
+Micaiah: We’ve always lived by ourselves, just the two of us. I don’t think he can help it.
+Jill: Then I shall bring you some medicine, and I’ll make sure no one sees me. I’ll meet you at your tent.
+Micaiah: Oh, no, that won’t be necessary! Do you see that tree? I’ll be resting over there. I should recover in no time.
+Jill: But...
+Micaiah: I’ll be safe. We’re still in camp. Besides, don’t you have an errand of your own to take care of? It must be really important to leave the feast so early in the evening.
+Jill: Oh, no, not really. I just thought I’d write a letter to a friend. That’s all.
+Micaiah: To the man you told me about? The one you run a wyvern delivery service with?
+Jill: Well... um, yes. You know everything, don’t you, Lady Micaiah?
+Micaiah: You’re going to tell him that the fighting is over, right?
+Jill: Yes. More than anything, he despises trouble. He made a delivery to Begnion, and never returned. I’m sure it’s the war that has kept him away.
+Micaiah: Really?
+Jill: Well, indirectly, at least. To be honest, it’s probably more about his napping. Give him a few minutes of free time, and he’s sure to close his eyes and drift away. The war would certainly disrupt his sleep schedule.
+Micaiah: What an... interesting fellow. Well, you should write him and let him know it’s safe to return.
+Jill: Are you sure you’re all right? You’re not pushing yourself too hard?
+Micaiah: I’m fine. Please, don’t worry about me.
+Jill: All right. I’ll let you relax alone, then. Oh, but here... Please take this.
+Micaiah: What is it?
+Jill: It’s a Pass scroll. It might come in handy. Please keep it, if you’d like.
+Micaiah: Thank you, Jill. I will.
+Jill: Good night, Lady Micaiah.

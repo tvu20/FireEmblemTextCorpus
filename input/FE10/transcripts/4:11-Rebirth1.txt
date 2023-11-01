@@ -1,0 +1,523 @@
+@Intro
+Ike: That must be...
+Titania: ...the Tower of Guidance. It's so bright I can hardly bear to look at it! What's happening in there?
+Soren: Let's hurry, Ike. I can't imagine that the glowing is a good omen. We're running out of time.
+
+
+Ike: The city gate is shut. I guess we'll have to force it to get to the tower--
+???: Ahh! You guys made it!
+Ike: Skrimir! I didn't realize your group had already arrived.
+Skrimir: Yes, we've been here for quite some time. I've been itching to go inside and see what the bad guys have waiting for us.
+Sanaki: Skrimir listened to reason, however, and agreed to wait here with us. We know nothing about the numbers or strength of the enemy.
+Micaiah: It seemed safest to wait here for the rest of you to show up. We pitched tents outside the gate.
+Ike: Hello, Micaiah. Any word from Yune?
+Micaiah: She came back to me a number of times during our trip. But nothing for the past few days...
+Ike: I see... Do we know where Tibarn and Elincia's group is?
+Skrimir: No word yet, no. Ike, it's a waste for us to just sit around waiting. Why don't you and I have a look inside?
+
+Skrimir: Wait! What's happening?
+Naesala: Get ready for an attack, people!
+
+Ike: Caineghis? What are you doing here?
+
+Caineghis: In an occurrence I'm told is increasingly common, we heard a voice in our dreams and followed it here.
+Ike: And Lord Tibarn! I should have guessed your group would beat everyone here.
+Tibarn: We joined up with King Caineghis and mopped up the Disciples of Order around the capital.
+Elincia: The only people left within the city are the ones who have been petrified.
+Yune: Good! I like air-breathers with initiative!
+
+Ike: Yune! Here to give us our next instructions?
+Yune: Yes, good guess! Everyone, gather around. You'll all need to hear this.
+
+Yune: Good job, everyone! All three teams got here, and a little faster than I thought you would. While you were traveling, I went around recruiting more help, including King Caineghis here. Unfortunately, it looks like Ashera had the same idea. By the time I made my way to Goldoa, there was no one there.
+Kurthnaga: Wh-what do you mean? Where were they?
+Tibarn: If you're saying what I think you're saying, then we could have a very big problem. Lots of very big problems.
+Yune: I don't know for sure, Tibarn. There aren't a whole lot of dragons altogether, but... It looks like every one of them joined Ashera.
+Kurthnaga: How...how could this be?
+Yune: I haven't seen them anywhere else on Tellius, so they must already be inside the tower. Let's camp for the night before walking into Ashera's own home.
+
+@Conversation
+Stefan: ...What can I do for you, Goddess Yune?
+Yune: You're very strange. What are you?
+Stefan: That's a strange question, especially coming from you. Didn't you create all of us?
+Yune: I didn't create anything. Not laguz nor beorc. But I know what they are, because I've watched them change and grow over time. You... You're not something I've seen before.
+Stefan: I'm the same as the girl you dwell inside.
+Yune: Ohhh... I thought Micaiah was the only one. She could hear my voice and sing the galdr of release. But I learned that others existed. There's that boy who's always with Ike. Or the little girl who stays by the queen of Crimea.
+Stefan: There are several in my village, as well. They are my comrades. We all live under the safe fate...and carry the same curse in our blood.
+Yune: When you say these words, what do they mean? Why are you cursed?
+Stefan: It means that we carry the blood of both beorc and laguz. Beorc call us Branded, and laguz call us Parentless.
+Yune: Does that mean your parents are beorc and laguz?
+Stefan: Not always. It means that laguz and beorc mixed blood somewhere along the line. Beorc and laguz rarely associate in that way. For them to conceive a child together is an even rarer event. What's strange is that the child bears no laguz characteristics. It's just a normal beorc infant. However, the laguz blood lies asleep, waiting, in the child's veins.
+Yune: Oh...
+Stefan: One day, the laguz blood shows itself, marking the child's body with a brand. How old is that girl, hmm? I don't think she's as young as she looks. The other curse is that we age differently from beorc. It depends on what laguz blood the child has, but it always slows how fast we age.
+Yune: Micaiah says that's true. She's listening to every word you say. Please, continue.
+Stefan: The laguz blood gives the Branded unnatural powers. Beorc fear and distrust us because they can't understand those abilities. The laguz are even worse. They treat us like we're phantoms, refusing to acknowledge us, as if we don't exist.
+Yune: I see...
+Stefan: It's easy to hide among beorcs. You just cover the brand, avoid getting close to anyone, and never settle down. Pretending you're normal. The laguz are different. They can sense what we are... They have an instinct for it. Not all laguz know for sure, but the sharp ones figure it out instantly. Others just feel uneasy around us. Some never figure it out, but they're surrounded by ones who do. Either way, the laguz would never talk to us voluntarily. Why would you pay attention to someone who doesn't even exist?
+Yune: Why? That doesn't make any sense. How did things get like that?
+Stefan: I would like to know that as well. It's said that a union between laguz and beorc is a crime against the goddess. That's what we've always been told.
+Yune: That's silly. I've never heard anything of the sort.
+Stefan: ...Heh... Heheh... Hahahahaha...!
+Yune: Why are you laughing?
+Stefan: It's all been a lie! For hundreds of years, we've faced persecution, abuse, and isolation. And for what? A lie! What's not to laugh about, huh? Hahaha... 
+Yune: What's happened? This is all wrong... How did history get so distorted? Was it at a particular place and time? I don't understand. I've been asleep for too long...
+
+Kurthnaga: Almedha! You're safe!
+Almedha: Kurthnaga...
+Kurthnaga: Al, what's wrong? You're so pale, and you've grown so thin...
+Almedha: Oh, Pelleas... My little Pelleas... Why? Tell me why?
+Kurthnaga: Almedha! Almedha, you have to pull yourself together!
+???: Prince Kurth? Are you there?
+Kurthnaga: I'm busy, Ena! Stay where you are.
+Ena: Oh!
+Almedha: ...Ena. It's been a long time. I felt your presence nearby, but you never came to see me...
+Ena: Lady Almedha...
+Almedha: I understand that you don't want to see me. I'm sure you hate me for what I've done. My brother Rajaion... Your betrothed... He died because of me.
+Ena: Don't. It's not important. That's all in the past...
+Almedha: ...What? How can you pretend like nothing happened!? You can't! I know you hate me! You have to hate me! Go ahead, blame me for what happened! Insult me! Do anything, but you have to hate me!
+Ena: ...I don't hate you, Almedha. Rajaion made his decision. He gave his life to save you and his little nephew. Did you know that? He decided to sacrifice himself to protect you. I can't blame you for what Rajaion decided to do. That would mean insulting my beloved for his sacrifice... For his nobility.
+Almedha: Sniff... Sniff... Sniff...
+Ena: Prince Kurth, my grandfather is here to see you. The king knows nothing of this visit.
+Kurthnaga: Nasir is here?
+Nasir: Prince Kurthnaga. I am glad to see that you are safe. And Lady Almedha, as well. It has been a long time. We haven't seen each other in over ninety years, I believe.
+Almedha: Nasir.... You returned to Goldoa?
+Nasir: Yes.
+Kurthnaga: Nasir, I need to know something. Why has Goldoa sided with Goddess Ashera!? What is Father thinking? The laguz and beorc have joined together to save the petrified. Why hasn't Goldoa joined the effort?
+Nasir: As you wish. Lady Almedha... Are you aware of the fact that everything that's happening is due to your decision to leave Goldoa?
+Almedha: ...What?
+Kurthnaga: Explain, Nasir.
+Nasir: King Dheginsea forbade the dragon tribe to use our transformation for the purpose of war. Almedha, you left because you did not agree with this policy, did you not?
+Almedha: That's right.
+Nasir: Shortly after you left Goldoa, you met Ashnard in Daein and were united with him. However, your union begat a chain of tragedies. Did you know that the red dragon platoon which went in search of you was captured and turned into Feral Ones by King Ashnard?
+Almedha: I-I had no idea.
+Nasir: Ashnard needed Goldoa to get involved in his war. That's why he did everything in his power to provoke King Dheginsea. Most of you have never fought in a war, but even more than other laguz, the dragon tribe loses control once they taste battle.
+Kurthnaga: Oh...
+Nasir: Near the end of the war, we found out that Prince Rajaion could not be saved. I thought the king would surely go on a rampage. At the time, we had no idea that Lady Almedha was still alive. The king thought he'd lost not only dragon soldiers but also his children.
+Ena: ...
+Nasir: If the war had ended any later... Had Ike not killed Ashnard... Goldoa would have joined the war. And we would have started killing. We would have destroyed the Daein army, it's coconspirators, everyone. We would not have stopped until the continent was ashes. Then the spirit of chaos would have spread across Tellius, awakening the goddess and destroying the dragon tribe. That was the danger we faced in the Mad King's War.
+Kurthnaga: ...
+Ena: But Ashnard was defeated. And Rajaion regained his sanity thanks to the songs of the heron clan.
+Almedha: ...Sniff. Bwuah... Sniff...
+Nasir: We escaped annihilation once. We took Prince Rajaion's body back to Goldoa. And the king did not shed a tear, nor fly into a rage. He endured his loss by himself. He endured for the sake of his last child, and for the sake of his people. Goldoa remained neutral.
+Kurthnaga: Father...
+Nasir: But now... All that effort has been wasted. The war between the Laguz Alliance and Begnion has spread through Daein and Crimea. And to top it all off, Goldoa can no longer stay neutral because of what Prince Kurthnaga has done!
+Kurthnaga: You're saying this is my fault...!? That I've started a war that my father tried to avoid?
+Almedha: No, Kurthnaga! This was my fault. You fought because of me.
+Ena: This was not Prince Kurth's fault! Besides, the goddess Yune was not awakened by chaos sweeping across Tellius. She was awakened by the galdr of release!
+Nasir: By a galdr!? Are you certain?
+Ena: Yes. That was what Sir Ike said.
+Nasir: That's...very strange. Nevertheless, the end result remains the same. Goddess Ashera has rendered her judgment. The laguz and beorc must follow her decision.
+Ena: What...!? Nasir!
+Nasir: I've come here as a favor to the king. Prince Kurthnaga, you have to return to us. At once.
+Kurthnaga: If we just accept Ashera's judgment, we'll all be turned to stone! That's the end of history as we know it! Do you expect me to just lie down and accept that? How can I? What you're asking is insanity! I won't do it.
+Nasir: And you, Ena?
+Ena: I feel the same as Prince Kurth.
+Nasir: Then I have nothing more to say to you. However, I hope to avoid fighting my own people if at all possible. 
+Ena: Nasir...
+Almedha: ...What will you do on the battlefield, Kurth? Will you face your father as an enemy?
+Kurthnaga: ...I will do whatever I have to.
+
+@Intro
+Yune: Oh, no!
+Ike: Yune, what is it? What's happening?
+
+Caineghis: This isn't good...
+Yune: These soldiers... We've killed them already. They've been reborn in flesh but not spirit.
+Sanaki: Brought back from the dead...
+Elincia: A miracle of the goddess...
+Caineghis: A blasphemy, you mean! How could the goddess of order violate the most fundamental natural law?
+Ike: Philosophy later, everyone! They're about to attack!
+
+Ike: Are you all right? Those dead soldiers really got to you, didn't they?
+Yune: ...We can't win. All we do is kill the flesh, but she brings the flesh back... We need more time... No, there is no more time! Everyone else will be turned to stone...and I will be lonely forever. There's nothing more that I can do! I've failed... I've failed.
+Ike: Yune! Get a hold of yourself!
+
+Yune: Ouch! My ears!
+
+Yune: Wh-what was that for? You big bully! Who do you think I am?!
+Ike: Yune, the goddess of chaos... The warmhearted being whose courage and love gives us the will to go on.
+Yune: Ike... Thank you.
+
+Ike: As things stand, we can't bring everyone into the tower. We'll need support here to hold this position. But at the very least, how many are we going to need inside?
+Yune: They'll have much stronger forces inside the tower...not to mention Ashera herself. We'll send in our best 11. Oh, and we'll want the two dragons! ...And one from the heron tribe... And...uh...the empress. Plus, it wouldn't hurt to have Sothe.
+Ike: Understood. If that's everyone, I'll gather them together.
+
+Yune: ...And once we get inside, you can leave most of the fighting to Micaiah.
+
+Yune: Something like this should work.
+
+Ike: We're ready.
+
+Yune: All right, everyone's almost ready. Who would you like to bring from the heron tribe?
+
+^start
+Ike: Rafiel... Would you join us?
+Rafiel: Of course. I am honored.
+
+Ike: Reyson... Would you join us?
+Reyson: Gladly. I'll give you everything I've got.
+
+Ike: Leanne... Would you join us?
+Leanne:  I...I do...best fighting!
+^end
+
+Yune: All right, Tower of Guidance, here we come!
+
+
+Ike: It's...so quiet. Is the goddess here?
+Yune: Uh-huh. She's at the top. Be careful, everyone. This tower is Ashera's home territory. She's certain to have her most powerful troops waiting for us up ahead. We must proceed with the utmost caution.
+Yune: Hm?
+
+@Flashback
+Female Voice: So, you were companion to the very first empress, Altina. I am honored that you have chosen to speak with me.
+Male Voice: You would trust in the word of a stranger?
+Female Voice: Yes. I can see inside you. I know you cannot speak lies.
+Male Voice: Is it possible? Do you share some aspect of my power?
+Female Voice: I do, as did my mother... Generation after generation, each apostle has been blessed to hear the voice of the goddess. We know of impending disasters, how crops will fare.... All revelations originally intended for you.
+Male Voice: The children of my union with Altina... I had no idea...
+Female Voice: Please look at this.
+
+Male Voice: That mark...
+Female Voice: All of the apostles have born this brand. It is our greatest secret. The senators must never know. Because of this brand, I thought that I had been born of some great sin. It plagued me always. Guilt tore at me every day as I hid my mark from my people, deceiving them constantly about my true nature.
+Male Voice: Oh, child...how can I apologize to you?
+Female Voice: And yet, now that I've met you, I understand. There is no shame in my heritage. None at all. I will not live in hiding. I will reveal to the world that I am one of the Branded. They must see there is no shame in who I am.
+Male Voice: No! You mustn't! You don't understand the danger you will be placing yourself in!
+Female Voice: Oh, but I do. The senators will do their utmost to rally the people against me, as they did when I freed the laguz from slavery. But I will not be deterred. If I am to lead this nation, I cannot allow it to be corrupted by prejudice and hatred. I can put the life the goddess has given me to no greater good than this.
+Male Voice: ...Such determination. Your eyes... They very much resemble Altina's.
+Female Voice: I will stand before my people and proudly proclaim the truth. And then I will guide them to a just and honest future. This is my promise to you.
+
+Male Voice: Thank you. Your strength of will, the truth that guides your life... You have shown me the way back to myself. I shall return to Goldoa and tell my friends of you and your actions. I will tell them that laguz and beorc may once again live together in peace. I will tell them that there is hope.
+Female Voice: Thank you, father of my mothers. I strive to be worthy of the gift of live you have granted me.
+
+@Intro
+Yune: ...What was that? Someone's... Was it someone's memory?
+Ike: What is it?
+Yune: Sorry? Oh, I... Don't worry. It was nothing. All right, then... Our path leads through that door there.
+
+Yune: ...
+
+
+Lekain: Well, well... "Apostle" Sanaki. What a surprise seeing you here. Frankly, I'm amazed that you, of all people, would dare to set foot inside the most holy Tower of Guidance.
+Micaiah: Lekain... We've been looking for you for a long time. You bound Daein to your awful pact, hounded noble King Pelleas, and stole countless lives in your appalling war. You are...beyond redemption!
+Lekain: Beyond redemption? My, that does sound awful. Whatever will you do with me? Oh, and let me remind you, the blood pact is still in effect. You would do well to remember that. I think you know what will happen to the people of Daein if you should dare oppose me.
+Micaiah: Enough. We fear your threats no longer. No more will we bow to your every whim. Now that we've found you, we will exact justice upon you, then destroy the blood pact itself, ending its power over us!
+Lekain: So you figured it out, did you? Heh, heh... It matters not. This changes nothing, do you hear me? Here is the scroll for which you've been searching so diligently. Right here in my hands.
+Micaiah: Ah!
+Lekain: And yet, none of you will ever lay one grimy little finger upon it. I have been blessed by the goddess herself. Her protection will not allow you fleas to even approach me!
+Sanaki: Lekain! Cease this travesty of virtue at once!
+Lekain: What have we here? Oh yes, the apostle. Excuse me, child, but I had completely forgotten you were here. Since you've deigned to grace us with your exalted presence, dear apostle, let me share a bedtime story with you.
+
+Lekain: The year was 640, Begnion era... The empire had been without an apostle for 15 long years. The senators were being constantly harassed with complaints from the people. There had been nothing like it in history. The voices calling for young Sanaki to be crowned grew louder every day... You had just turned five years old when the senate welcomed you to the throne as the new apostle. Ah, but my young mistress Sanaki, what a difficult child you were. You threw tantrums, you screamed and cried constantly. Your conduct was hardly befitting an empress of Begnion! Everyone was at a loss... You wouldn't even stop mewling and crying during official proceedings. But then along came our youngest senator ever, Sephiran, Duke of Persis. When he took you in his arms, you immediately stopped crying. You even smiled. We had to take advantage of this obvious miracle. In an unprecedented move by the senators, we elevated Sephiran to prime minister, keeping him serving as close to you as possible. This plan, radical as it was, proved far more effective than we dared dream. A young, handsome prime minister and an adorable moppet of an apostle brought the people's support to incredible new heights. Apparently the common citizenry is gullible enough to blindly follow any leader who is sufficiently attractive. Enamored as they were, no one ever seemed to care whether or not you could hear the voice of the goddess. With the new apostle and prime minister, the political landscape became unrecognizable. Even in the face of overtly unreasonable legislation, the two of you would stand on the balcony... A smile and a wave later, the people would cheer and go on with their happy lives.
+Sanaki: ...
+Lekain: It was too good to be true, however. Both of you were only meant to be puppets! Each year you interfered with our government more and more, imposing your soft-hearted ideals over our sovereign rights. Were such trivialities as laguz slavery and the Daein occupation worth making issues of? The pair of you were becoming an increasingly bothersome thorn in our side. And then this war against the laguz forces... You went so far as to expose our previous indiscretions and demand reparations for the sub-humans. This was unforgivable. Clearly you both had to be removed. Sephiran would be falsely accused and jailed, necessitating his removal from office. The apostle would suffer a sudden illness, and be excused from official proceedings. Or so we intended...
+
+Lekain: And somehow, despite the extraordinary plans of great me, here you are standing before my very eyes.
+Sanaki: If Sephiran and I hadn't been freed... You were just waiting for your chance to kill us? Just as you killed my grandmother.
+Lekain: Out of respect for the imminently deceased, I'll be completely honest. Yes, you assume correctly. Your assassination, and the plot to once again frame the Serenes herons for it, was entirely my idea.
+Sanaki: Yes... I thought as much.
+Lekain: Impressive, Sanaki. When you were first crowned, you would have cried your little eyes out. You've grown, slightly.
+Sanaki: Lekain, Duke of Gaddos! Before the 37th empress of Begnion... Prepare to be judged!
+
+Lekain: An amusing game, child, truly. But you must know that there is nothing you can do against me! I am the greatest servant of the all-knowing, almighty Ashera. I am her chosen champion! And you, Sanaki, are a pathetic wretch, mewling behind her pack of Daein curs. Ashera's judgment is upon you! You will not live to be turned to stone... You will die here as flesh and blood!
+
+@Battle
+Lekain: Ta ha haaa! Bathe in my radiance!
+
+@Boss
+Hetzel: There can be no forgiveness for my hand in these evil deeds. Salvation is denied me and my stained soul. My torment will be eternal.
+
+%Jill,Hetzel
+Hetzel: I don't understand any of you. how can you oppose the goddess? It's only natural that people live to please the gods...the weak follow the strong.
+Jill: Strong, weak... It doesn't matter. I fight on the side of my conscience, and have yet to regret my battles.
+
+%Haar,Hetzel
+Hetzel: Wait... I remember you... You were one of the dracoknights that fled to Daein, defying the senators... You opposed the almighty Begnion and the word of the goddess... Why? Why would you defy such power?
+Haar: You could live another lifetime, and you'd still never understand.
+
+%Sanaki,Hetzel
+Sanaki: Hetzel... I had thought that you alone might be above Lekain's foul conspiracy! It saddens me to see you at his side.
+Hetzel: N-no, Apostle Sanaki! I--
+Sanaki: I didn't ask for excuses! ?You fight alongside Lekain. That's more proof than I'll ever need.
+Hetzel: ...You are right, I fight with him. I had no choice. But...please, understand that I've always done my best to honor and respect Your Majesty.
+Sanaki: Then how do you explain my confinement in Mainal Cathedral?
+Hetzel: I-I didn't do anything! It was all Lekain! I didn't know anything about it, and only heard later...
+Sanaki: And when you did hear of it, why didn't you stop it?
+Hetzel: I...couldn't. Actually, I could have, but I...didn't say anything. It was the same with Misaha, and the Serenes Massacre... I...
+Sanaki: ...didn't say anything. In other words, you stood by as my grandmother and the Serenes people were killed!
+Hetzel: P-please forgive me...
+
+%Rafiel,Hetzel 
+Hetzel: Rafiel... Rafiel, I’m sorry.
+Rafiel: ...
+Hetzel: I did a horrible thing. I have lived in the shadow of my regret for many years now. Please tell me that you can find it in yourself to forgive me! Please...
+Rafiel: I...
+Hetzel: Rafiel... I was kind to you, was I not? I didn’t treat you like a slave! I always watched over you so kindly. Be kind in return and forgive me, Rafiel.
+Rafiel: ...I’m sorry, I... I don’t have anything to say to you.
+Hetzel: No! Rafiel...
+
+%Nailah,Hetzel 
+Nailah: So you’re Hetzel, huh? Rafiel told me about you.
+Hetzel: That’s right... Yes... I’m... I’m the one who saved his life. He’s still alive because of me!
+Nailah: Ancient history doesn’t change the fact that you’re fighting against him now. And if fight him, you fight me.
+
+%Micaiah,Hetzel
+Hetzel: It is not too late, child, to surrender and accept Ashera's grace. You can win favor in her eyes by abandoning her enemies.
+Micaiah: Surrender? I wouldn't' dare "accept the grace" of a goddess that turns her worshippers to stone!
+Hetzel: Some things simply can't be helped. You and I are alive, and we should be thankful for that.
+Micaiah: I have a feeling that we're not going to be able to come to terms on this.
+
+%Tibarn,Hetzel
+Hetzel: L...Lord Lekain! Help! Help me!
+Tibarn: As payment for taking care of Rafiel when I couldn’t, I’ll make this quick.
+
+%Reyson,Hetzel
+Hetzel: You look so much like Rafiel... Is there anything in the world so beautiful as a Serenes heron?
+Reyson: I was born this way, and mere birth is not praiseworthy. Praise me instead for my strength. What I look like is irrelevant, so long as I have the power to protect my friends.
+
+%Leanne,Hetzel
+Hetzel: Oh! Oh my! A fair heron maiden. I thought they were all gone...
+Leanne: ...
+Hetzel: W-wait! Don’t run away. Don’t just run away!
+
+%Oliver,Hetzel
+Hetzel: D-Duke Tanas! You’ve betrayed us? But why?
+Oliver: You could never understand the depth of my commitment to beauty! Sometimes it simply overwhelms me. I can’t stop the love welling up inside! I’d do anything to keep the hideous likes of you from my precious birds!
+
+%Sigrun,Hetzel
+Sigrun: Senator Hetzel! Do I understand correctly that you oppose Apostle Sanaki alongside Vice-Minster Lekain?
+Hetzel: Th-that’s absurd! Vice-Minster Lekain oppose the apostle! I’m just... I’m just following orders!
+
+%Tanith,Hetzel
+Tanith: Senator Hetzel, Duke of Asmin! You are guilty of treason against our empress!
+Hetzel: No! That’s a lie! I never did anything wrong...
+
+%Astrid,Hetzel
+Hetzel: Mortals cannot measure up to gods. Any child knows as much. Why do you not kneel before her?
+Astrid: That would be throwing away my own beliefs to live a life of blind obedience. I stopped doing that three years ago, and I’ve never looked back.
+
+%Ike,Hetzel
+Hetzel: Wait, please... I never wanted to fight... I'm here only because I was ordered.
+Ike: Then surrender your weapon.
+Hetzel: I-I cannot do that. I would fall into disgrace with Vice-Minister Lekain.
+Ike: ...
+
+@Boss
+Hetzel: Save me! My goddess... Help...
+
+%Jill,Lekain
+Lekain: Knight of Daein, I am Lekain of Gaddos. Your ruler, King Pelleas, will--
+Jill: You can stop it right there! Daein will never bow down to you again!
+
+%Haar,Lekain
+Haar: Why is it that authority figures are always so unwilling to let go of their power? The world could flip upside down and you'd be trying to boss around gravity.
+Lekain: You clearly know nothing of me, lout! To oppose me is to oppose the goddess Ashera herself!
+Haar: That's strange... I always thought that role was filled by the apostle. But who can keep up these days? So you're defending the goddess...but will she do the same for you?
+
+%Reyson,Lekain
+Lekain: You're quite tenacious for a heron. I thought your entire fragile race had been exterminated...
+Reyson: Evil... You are pure evil. I hear it in your heart. How do you even survive?
+Lekain: How pathetic. Hated by a heron, the only sub-human so weak as to actually be incapable of violence. This must feel just like the massacre to you: completely helpless before your inevitable doom!
+
+%Tibarn,Lekain
+Tibarn: I'm glad I got to you first. See, I heard that the Serenes Massacre was all your doing... That puts you at the very top of the list of the enemies of the bird tribes.
+Lekain: That may very well be, but I am under the divine protection of the goddess herself! A shabby sub-human pirate like yourself will find me quite invincible!
+Tibarn: As much as I'd love to draw this little chat out, I don't think I can keep my talons out of your neck another instant.
+Lekain: Why... Why are you laughing? Are you...enjoying yourself?
+Tibarn: Some of us here are just overflowing with the chaos you're causing with this fight. That might be part of it... But, to be honest, there's a part of me that can hardly believe how much fun tearing your head off will be.
+
+%Rafiel,Lekain
+Rafiel: No!
+Lekain: Tah ha ha... How delightfully pathetic. Poor heron prince, teeming with rage, but incapable of hurting me! Tah ha ha ha! How absolutely marvellous!
+Rafiel: Your soul... is deeply scarred...
+
+%Nailah,Lekain
+Lekain: Ah, interesting! You’re one of those sub-humans from the east that I’ve been hearing about.
+Nailah: And you’re one of the fat, corrupted pieces of filth that we’re fighting.
+Lekain: How dare you! I am Duke of Gaddos!
+Nailah: Gaddos? Where’s that? That name means nothing to me. How do beorc always get the idea that the place they’re from is the center of everything?
+Lekain: Silence, you loathsome cur! I’ll ensure that your country is left in ruins!
+
+%Leanne,Lekain
+Leanne: (Eep, it’s you! Where’s Tibarn when you need him...)
+Lekain: The lovely heron maiden... If not for the battle raging around us, I’d keep you as a... trophy.
+
+%Oliver,Lekain
+Lekain: Duke of Tanas... What’s gotten into you? Why are you fighting with these mercenary scum?
+Oliver: I am Oliver, champion of beauty! You would harm my precious feathered angels! That makes you my enemy! Unsightly man... Prepare yourself!
+Lekain: Have you finally gone stark mad? Who, exactly, do you think you’re blathering at?
+
+%Sigrun,Lekain
+Sigrun: Lekain, Duke of Gaddos... Don’t bother with any of your practiced lies. Speak with your weapon.
+Lekain: Dame Sigrun... I suppose I’m not surprised. I should have known you would still be on Sanaki’s leash! Have you asked yourself why? She is a mere pretender to the throne. You’re just a dog to a false apostle!
+Sigrun: Correct me if I’m wrong, Lord Lekain, but Sanaki was formally recognized by the senators as the empress. Where in Begnion law is an empress required to also be an apostle? This sounds like yet another case of you senators trying to twist the law for your own benefit.
+Lekain: Bah! Your legalistic manipulations don’t make you right!
+Sigrun: For too long, we have tolerated you bending laws for your own benefit, with no foundation whatsoever in justice. Now it’s time for you to pay for your sins!
+Lekain: Impudence! You can’t beat me... I am the chosen one!
+
+%Tanith,Lekain
+Lekain: Hmph... Hello, Tanith. How odd to find you alongside these imbeciles, not to mention their imposter of a leader.
+Tanith: Silence your filthy mouth! I will not brook such insults.
+Lekain: F... Fi... Filthy?! How dare you slander the duke of Gaddos! I will rule the world in place of our goddess Ashera! Sanaki is not a true apostle or an empress. She’s a mere slip of a girl!
+Tanith: There is no Begnion law that requires an empress to also be an apostle.
+Lekain: Whaaat?
+Tanith: Each apostle has thus far been seated as emperor only because that has been what served the senators best. Sanaki has ruled successfully without the benefit of divine inspiration for more than half her life. She is well loved by her subjects. Saying that she is not a true apostle will do nothing to alter that fact.
+Lekain: Dogmatic rhetoric will achieve nothing!
+Tanith: Very true. Empress Sanaki is my liege, and as her knight, it is my duty to destroy her enemies.
+Lekain: Blasphemy! Striking me is no different than raising your sword to our goddess!
+Tanith: Speaking of dogmatic rhetoric... Duke of Gaddos, farewell.
+
+%Astrid,Lekain 
+Astrid: Lord Lekain...
+Lekain: Hm? You... You are from House Damiell...
+Astrid: Yes, I am. It’s been a while, but I didn’t think you’d forget me quite so easily. I wasn’t sure at the time, but marrying you would have been the biggest mistake of my life.
+Lekain: Ha! Bold talk from a penniless mercenary! You were never worthy of Lekain of Gaddos, head of the senators and chosen by the goddess herself!
+
+%Pelleas,Lekain
+Pelleas: Vi-Vice-Minister Lekain...
+Lekain: Hm? Ahhh, still alive, are we? I suppose that I can still find a use for you... I know! Go and attack the enemy general.
+Pelleas: Um...
+Lekain: Why are you not obeying, fool? That look on your face... You think you're going to save your people! That is precious! You can't possibly believe that one so flawed as yourself has a prayer against me?
+Pelleas: I do, actually.
+Lekain: Whaaat?! Did I hear you correctly?!
+Pelleas: I said I believe. I believe in myself, and I believe in my companions. Even if I falter and fail... My friends will defeat you. This belief sustains me. I can fight you because I am no longer alone.
+Lekain: Let us test your theory, then! Die, upstart!
+
+%Sanaki,Lekain
+Sanaki: Burn, traitor!
+Lekain: Watch your tongue, girl!
+
+%Sothe,Lekain
+Sothe: ...
+Lekain: Hm? Who are you? How did a shabby little burglar get in here?
+Sothe: If that's how you want to see me, then so be it. But know that that's also how I see you. I don't think we even need to exchange names. I'll just kill you and leave it at that.
+
+%Micaiah,Lekain
+Lekain: Ah, the so-called Silver-Haired Maiden. Both dark goddess and Daein general... Your very existence is vile beyond belief.
+Micaiah: Lekain, Duke of Gaddos... You crushed the people of Daein beneath your unjust rule and dragged us into a futile war. How do you live with the guilt of your sins?
+Lekain: Sins? Do not presume to speak to me of sin, child of Daein. If only you had understood that I am on the side of the angels, you might be standing with me here today.
+Micaiah: Your delusions can't change what I see in your twisted soul, demon! Now give me that scroll!
+Lekain: Impudent brat!
+
+%Naesala,Lekain
+Lekain: Tah ha ha... So nice to see you, King Naesala. When you can’t oppose me, that is. Your blood pact means that you’ll have to betray your companions... yet again.
+Naesala: Not today, actually.
+Lekain: What did you say?
+Naesala: Sorry to break it to you, Lekain, but I have recently... been promoted, shall we say. I now take orders from over your head, Vice-Minister. From Empress Sanaki, to be exact.
+Lekain: Wh-what...Whaaaat... ?!
+Naesala: The curse of the blood pact applies if the master’s orders aren’t obeyed, but by the law of Begnion, you’re overruled. So, Lekain, right here, right now... I’m going to tear you apart, as I’ve been wanting to do for years.
+Lekain: Urk!
+
+%Ike,Lekain
+Lekain: Tah ha ha! Laughable mercenaries! Sanaki could certainly have chosen better allies. If only she had sided with me, she wouldn't be damned now. Oh well...
+Ike: Yeah, whoever chose you as an ally has had better days, too. So who is it? Who's pulling your strings?
+Lekain: Pulling my strings? What are you saying? I alone have been chosen to protect her! I masterminded the plan to resurrect the goddess and become Ashera's chosen one! It is my right! Mine alone!
+Ike: Really? I didn't see you around when the galdr of release was sung to the medallion...
+Lekain: What medallion? What nonsense are you talking about?
+Ike: Wow... You don't have any idea what's really going on, do you, "mastermind"? I'm just wasting my time.
+Lekain: You... You! Urghh! I am Lekain, Duke of Gaddos! The one and only!
+
+@Boss
+Lekain: This... This can't be... I was... I was...chosen...
+
+@End
+Micaiah: King Pelleas! This is it. Lekain was carrying it. It's... It's...the blood pact!
+Pelleas: At long last... We finally found it. All that misery Daein has suffered over this wretched parchment... But this is the last thing we need. Now we can free Daein of the senate's tyranny. Micaiah, savior of Daein... Would you do the honors and destroy that damned thing?
+Micaiah: Of course...
+
+Micaiah: ...Whew...
+
+
+Micaiah: That's it.
+Pelleas: Yes, and now no one has to die.
+Micaiah: Thank goodness...
+Pelleas: Micaiah...Sothe... You have my deepest gratitude.
+Sothe: Hey! Look, there's another pact here. Lekain was carrying two of them. What's going on?
+Sanaki: Oh... I'll hang on to this.
+Micaiah: Empress Sanaki?
+Sanaki: I promised to return this to its proper owner, Raven King Naesala. Because of this, he was forced to serve under Lekain, and he had to turn against his allies...
+Pelleas: So, Kilvas, too?
+Sanaki: Yes. Lekain's treachery ran deep. At least it's finally over. I'm happy for everyone.
+Micaiah: As am I.
+Pelleas: And yet, Daein and Kilvas's newfound freedom is wasted on the statues that call them home. We still must confront the goddess.
+Sanaki: Well spoken. We can't stop until everyone is truly free. Come! The goddess awaits.
+
+Sanaki: Lekain... To think that the warped dreams of one treacherous madman could corrupt an entire nation...
+Ike: Apostle? Are you well?
+Sanaki: So you still insist on calling me "apostle"? I think we're past that, Ike.
+Ike: So what should I call you? Miss Sanaki?
+Sanaki: How rude! You have no right to address me with such familiarity! Please call me "Empress."
+Ike: Got it, Empress.
+Sanaki: You don't have to say it like that. Loosen up a bit.
+Ike: Oh, give me a break...
+
+Yune: You creatures are made of some tough meat. I don't think that girl even needs to hear the divine word, do you?
+Ike: Yune, you're a bit of a mystery, yourself. It almost sounds like you're happy to se that people don't necessarily need you.
+Yune: The one constant truth of people, Ike, is that nobody can stop them from changing. People sometimes do things that even the highest divinities couldn't imagine. That makes me sad. But that also makes me very happy. That's why I love people so much.
+Ike: There are some changes that goddesses can't even predict or control. Maybe Ashera resented that.
+Yune: I don't know... But I do know that Ashera loved people. I'm sure of it...
+
+@Conversation 
+Elincia: We’re almost there. Tomorrow, we head to the tower.
+Geoffrey: Do not worry, Your Majesty. We will be right beside you.
+Bastian: Though long tested by the trials of the goddess Ashera, we shall overcome, and our mission will be laid to rest.
+Lucia: Yes. What we do now, we do not only for the people of Crimea, but for all the people of Tellius.
+Elincia: Yes... We shall succeed.
+???: You are a courageous queen, indeed.
+Elincia: Who said that?
+Elincia: U-Uncle Renning! Are you all right now!?
+Renning: Don’t I look it? I stand before you in full health... Thanks to your efforts, of course.
+Elincia: Wonderful! I’m so relieved, Uncle!
+Lucia: Duke Renning.
+Renning: Lucia, you have my gratitude for looking after Elincia so diligently. Bastian, Geoffrey... Everyone, you have my sincere thanks.
+Lucia: Please, Duke Renning. It is our joy to serve Her Majesty. Our loyalty extends beyond the queen. Please do not forget that.
+Renning: ...Thank you. I appreciate your concern. Especially yours, Bastian.
+Bastian: I stand by you, my lord.
+Renning: You have ever been my most loyal and clever confidant. Was it possible for you to acquire the things I desired?
+Bastian: Indeed, my lord. For you, to whom I owe my mastery of disciplines esoteric and arcane, no task is too difficult. Your sword, your armor, and your faithful steed stand ready, that the battlefield shall know your valor once more.
+Renning: You haven’t changed a bit, Bastian. Always the clever one.
+Bastian: Your praise is too much, my lord.
+Elincia: Uncle! You intend to join the fight!? Please, you mustn’t push yourself too hard!
+Renning: My, how things have changed! Am I to take orders from my niece on what battles I am allowed to fight in? I’m not a princess to be coddled and kept safe behind the vanguard, Elincia. I am a knight of Crimea, and I will be one until I die. As long as I live, as long as I am able to walk, and as long as I draw breath, I shall fight. It is my duty.
+Elincia: ...I understand. Swear to me, then. Swear that you won’t die. That you won’t ever leave me alone.
+Renning: I swear to you that I will never leave you behind. I swear it upon my pride as a knight and upon my love for my country. Now, Your Majesty, please grant me the honor of protecting you in battle.
+Elincia: Oh, Uncle... You may have to compete for that role, I think.
+Geoffrey: Duke Renning... I will not give up my place as the commander of the Royal Knights, even to you.
+Renning: Let’s take it outside, then. Perhaps I’ll remind you why you have never won a match against me.
+Geoffrey: As you wish, Duke Renning. I will also show you that I have spent three years preparing solely to defend the queen from harm. I have made it my life.
+Elincia: U-Uncle?! And Geoffrey, you too?! Bastian, do something!
+Bastian: Truly, I shall have to! After all, a match between such stalwart warriors needs be judged. I believe I shall volunteer my services. Excuse me.
+Elincia: Bastian!
+Lucia: Oh, Your Majesty. Let them be.
+Elincia: Lucia? Are you siding with them, too?
+Lucia: Doesn’t all of this remind you of a scene in Melior from years ago? Tomorrow is full of uncertainty. We may live and we may die. Yet here we are, enjoying a little scene of high drama from glory-filled past. I’m glad of it.
+Elincia: That’s true... It’s like a weight has been lifted off my chest. Why don’t we follow them? We should enjoy our final night together.
+Lucia: Of course, Your Majesty.
+
+Caineghis: Ike. I have something to give you.
+Ike: Hey, this is...
+Caineghis: It’s called Urvan, if I remember correctly. I borrowed it from your father’s grave.
+Ike: Why?
+Caineghis: Honestly? I have no idea. But I felt a sudden urge to visit Greil’s grave on the morning of our journey. When I told Giffca my idea for a little side trip, he said he thought the same thing.
+Giffca: I believe we were guided to your father’s grave by a divine message from the goddess.
+Caineghis: When I saw your father’s axe, I was convinced that I had to take it to you. I felt that’s what your father would have wanted.
+Ike: ...Maybe he and my mother are looking over us from somewhere else. All right. It’s my father’s, so it’s only right that I take it.
+
+Ike: Volke...?
+Volke: Over here.
+Ike: Looking for you is still like trying to find spilled ink at night.
+Volke: It’s part of the job. Anyways... You’ve grown quite a bit since the last time I saw you.
+Ike: Everyone loves telling me that.
+Volke: You’re starting to look like Greil.
+Ike: That might be true, too. He IS my dad. I didn’t expect to see you here. Did someone from this camp hire you?
+Volke: Sure did.
+Ike: I see. It’s good to have you on our side under any circumstances. Why did you call me over?
+Volke: I have to return something to you.
+Ike: What the...!? What’s all this money for?
+Volke: It’s the 50,000 gold you paid me the last time around. Well, minus my pay, expenses, and that sort of thing, of course.
+Ike: Even so, there’s a lot here.
+Volke: Well, the contract ended sooner than expected, I guess.
+Ike: You did a lot for us back then. I didn’t even get a chance to thank you.
+Volke: It was a job. There’s no need to thank me.
+Ike: I know. But if you hadn’t told me the story of my father, I would never have known about his past. So thanks, Volke.
+Volke: Uh, yeah, so, anyhow... You have your money back. See you later.
+Ike: Did he really just get embarrassed because I thanked him? What a weird guy.

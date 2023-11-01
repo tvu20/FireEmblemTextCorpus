@@ -1,0 +1,112 @@
+@Intro
+Micaiah: I hope the others escaped...
+Laura: I'm sure they are safe and secure, just as I'm sure the abbot got his medicine. I believe in them.
+Aimee: Pardon... Excuse me. Not to pry, but did you know you're bleeding? You've got some blood on your sleeve there.
+Micaiah: Hm? Oh, you're right! I've been so distracted, I didn't even notice...
+Aimee: Unfortunately, there are no vulneraries to heal you in this rat hole... Here, try wrapping this cloth around your wound.
+Micaiah: Thank you very much. I don't believe we've met. I'm Micaiah.
+Aimee: I'm Aimee. I've been a lucky guest in this dungeon for quite some time. On behalf of myself and my snoozing friend over there, Ilyana, it's very nice to meet you, Micaiah.
+Ilyana: ...Mm...
+Micaiah: Why are you two in here?
+Aimee: I wish I knew! I belong to a merchant caravan that was passing through en route to the next market day. When we arrived here, we were brought to this charming prison against our will. Now, we await "the general's pleasure."
+Laura: I see. Well, that doesn't sound good. How unfortunate.
+???: Um...
+Aimee: So you can talk. You've been so quiet over there, I assumed you didn't speak our language.
+???: ...if you wish, you may use this salve on your wound. It's an infusion of olivi grass.
+Aimee: Olivi grass? Hm, I've never heard of it. Are you sure it's safe?
+???: It's unquestionably safe...and effective.
+Micaiah: Thank you most kindly. I'll try it.
+Aimee: Well, aren't you the trusting one? Are you honestly comfortable applying a strange medicine to your wound?
+Micaiah: I am. I know it will work. Thank you for sharing your medicine.
+???: You're welcome!
+Micaiah: I hear something!
+Sothe: Here you are.
+Micaiah: Sothe!
+
+Micaiah: Yune! I'm so glad you're both all right!
+Sothe: Sorry it took so long to get here. Hello.
+Aimee: Well, hello! I remember you. You've certainly grown up to be easy on the eyes! I believe I'm a little smitten.
+Micaiah: You two know each other?
+Sothe: Somewhat. We crossed paths during the war. Let's get out of here before the guards come. I'll open the door, then we'll find a way out.
+
+???: I would like to get out of here, too. Like Aimee, I have no idea why I've been imprisoned. May I join you?
+Micaiah: By all means!
+???: I thank you much. My name is Kurth.
+Micaiah: Well then, Kurth, after you.
+
+Nolan: Sothe, this way!
+Micaiah: Nolan! Edward! Leonardo! It's so good to see you all.
+Sothe: How did you manage to sneak in this far without my help?
+Nolan: Oddly, one of the soldiers let us in the back way.
+Micaiah: A Begnion soldier?
+Edward: Yes, he said, "If you're here to save Laura, follow me."
+Laura: How strange. Why would a Begnion soldier mention me?
+Mercenary: The prisoners are escaping!
+Micaiah: Surprise, surprise! They found us!
+Sothe: Micaiah, this is for you.
+Micaiah: My tome! How did you get it?
+Sothe: I didn't know if it was yours, but I figured you could use it. So at the armory, I "borrowed" it too.
+Micaiah: Well done, Sothe. Now I can pull my weight and fight.
+Sothe: And a staff for you, Sister.
+Leonardo: Thank you very much.
+Ilyana: Um... I... I can fight too. Could you...lend me that tome?
+Sothe: What, you mean this one? Ilyana, I didn't know you used light magic, too.
+Micaiah: Sothe, that's a tome of lightning magic.
+Sothe: It is?
+Micaiah: I give up. You just grabbed at random, didn't you?
+Sothe: You know I can't read the old language. The letters all look the same to me! Here. If this one will work, take it. Just like old times, right, Ilyana?
+Ilyana: Thank you... And yes, Sothe... I don't want to fight...but I'm glad I'll get to fight alongside you again...
+Micaiah: Ilyana? If you're not up to it, don't feel pressured to fight. We can handle the soldiers. You look a little woozy. Are you sure you're going to be all right?
+Aimee: She's fine, Micaiah. She's always like that.
+Micaiah: But...
+Ilyana: I can fight... I'm...very angry... The food here... It was terrible, and...they gave us hardly any... I...will have vengeance.
+Micaiah: This girl takes her food pretty seriously. Interesting.
+Sothe: I see Ilyana is as hungry as ever.
+Aimee: Don't worry about us. We'll carefully tiptoe around you all. The boy and I can't fight, so we'll stay out of harm's way. Good luck, everyone!
+Kurth: I am sorry to impose upon you. Please be careful.
+
+@Recruit-Talk 
+%Laura,Aran
+Laura: Aran? I can't believe it! It IS you!
+Aran: Laura!
+Laura: I knew it! But, Aran, why? Why would any true Daein join sides with Begnion?
+Aran: A true Daein? I'm not sure I still am one... Not since a family of merchants from Begnion took me in... But I could never do anything to hurt you. You've always been like a little sister to me. Get out of here, Laura ...while you still have a chance! I'll turn a blind eye.
+Laura: But what about Micaiah and Sothe? They've risked their lives fighting for the abbot--and for me. I couldn't possibly abandon them now, not even if it meant saving myself.
+Aran: Oh, bother...
+Laura: What's wrong?
+Aran: I can't keep lying to myself any longer. I know what Begnion is doing in Daein is despicable, and I can't support it.
+Laura: Then...
+Aran: Then...from now on, I'm fighting for what's right...just like the abbot taught us. Come on. Let's get you--and everyone else--out of here!
+Laura: Wonderful! Thank you, Aran. I knew it. You haven't changed a bit. You're as considerate as ever. Your family would have been so proud!
+
+@Boss
+Burton: Ehhhh! You won't get away! I'll slice through you like a hot knife through cold butter!
+
+Burton: Even if you run... There is no place...for you scum...to go...
+
+%Micaiah,Burton
+Burton: You! Crawl quietly back to your cell, and I'll spare you. More than that, however, I cannot promise.
+Micaiah: Don't be so sure. This isn't our first fight, and it won't be our last.
+Burton: A brave, yet foolish, sentiment. Before the might of the empire, you lowlifes are just cracked dirt beneath my boots!!
+
+@End
+Aimee: Thank you so much...all of you! Because of your bravery, I can finally rejoin my merchant caravan. Still, coming back to Nevassa, I'm stunned at the terrible state of things. Who would have thought that Begnion would rule with such an iron fist? They run your nation with boundless cruelty, looting the towns and sending your able-bodied men to camps. It breaks my heart.
+Jorge: They make me miss Ashnard, Daein's late "Mad King." And I never thought I'd say that! At least he never tried to destroy Crimea as a country!
+Micaiah: What do you mean by that?
+Daniel: People make a country. One person--even a noble king--does not a country make. And a strong country only exists when its people are strong. As Begnion crushes the citizenry, it slowly destroys Daein.
+Jorge: The dastards are treating Daein like a nation of slaves! If this persists, Daein's strength will be sapped, and the nation itself will cease to be.
+Micaiah: Then, what should we do? What can we do to save our country?
+Jorge: There is a rumor. If it's true, there might be hope...
+Muston: Look here, Jorge! Don't go spouting off rumors.
+Micaiah: No, I want to know! If there is a shred of hope for us, tell me.
+Jorge: Well, the rumor is that King Ashnard left an orphan behind.
+Micaiah: Really? Is that true?!
+Sothe: King Ashnard had a child? Why have I never heard of this?
+Daniel: It's just a rumor--nothing more. But if it's true, it would be a strike of great fortune for Daein.
+Jorge: In the last war, Crimea used a scion of the royal family to unify its people and rally a liberation army. So could Daein.
+Aimee: And drive out the loathsome Begnion!
+Micaiah: So where is this orphan?
+Jorge: According to rumor, he's in the east, near the Desert of Death, trying to raise an army to lay claim to the throne. Shall we go there?
+Sothe: Micaiah, what do you think?
+Micaiah: ...In the desert...an important encounter awaits us. It shall be one that changes the shape of our future.
+Sothe: Well, that's it then. We must go to the desert to meet our destiny.

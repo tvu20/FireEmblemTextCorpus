@@ -1,0 +1,133 @@
+@Intro
+Ike: Amazing. We've been traveling for miles now, and there hasn't been a single moving person.
+Nailah: And yet the other plants and animals seem completely unaffected. The only creatures turned to stone were laguz and beorc... A miracle of the goddess, indeed.
+Rafiel: My sister just sent a warning about some "Disciples of Order." Ashera has freed them from stone to fight for her. She's also blessed their weapons and armor. They'll only get stronger as we approach the tower. They nearly beat Leanne's team.
+Soren: Worse, they can attack at any moment and we'd have no idea who or where they are. I'll start working on contingency plans.
+Ike: All right, we'll break here. Everyone, be sure to keep your weapons and supplies in reach tonight.
+
+Ike: Ena, how is Prince Kurthnaga feeling?
+Ena: Not good. He keeps staring into space, he won't say anything, and he hasn't touched a bite of his food.
+Ike: I'm sorry to hear that. I wanted to ask him some questions, but it can wait.
+Soren: Ike, we're under attack! They've already surrounded us!
+Ike: What?! That's impossible!
+Ena: How could they get this close without us seeing them?
+Nailah: I don't know. There was no sign or scent of their approach... I wonder if they simply materialized?
+Ike: Ena, stay here! Protect Kurthnaga's tent at all costs!
+Ena: Understood.
+Ike: Everyone, watch the perimeter! There are a lot of them, but just focus on one enemy at a time!
+
+@Battle-Talk 
+%Ike,Ena 
+Ike: Ena, they're getting close! Be ready to fight!
+Ena: It's OK, Ike. I'm ready.
+Ena: I am ready... Aren't I?
+
+@Boss
+Catalena: Unclean souls, your executioner awaits! Repent, before your vile sins pour out of your black hearts and consume you!
+
+Catalena: Death? But my work is not yet...complete...
+
+%Ike,Catalena
+Catalena: Pawns of your excretable goddess, die! You are a festering wound in the flesh of the world! Die, and let it heal!
+Ike: I suppose talking it over is out of the question?
+
+@End
+Ike: That looks like all of them. Fanatics that appear out of nowhere and attack from darkness... This'll be tough.
+
+Ike: Ena, are you all right? Why didn't you transform?
+Ena: I didn't want Prince Kurthnaga to be frightened, so I tried to hold them off in this shape. He hates blood...
+Ike: This can't go on. I'm going to talk to him.
+
+Ike: Hey, Prince Kurthnaga!
+Kurthnaga: ...Eyuhhh...ugh... Stay away!
+Ike: What's wrong? Don't you remember me?
+Kurthnaga: ...Aughhh...that smell... The blood...on your sword...
+Ike: What, this? No problem. I'll go drop it over there.
+
+Ike: Hey, look... No sword. Are you OK now?
+
+Kurthnaga: Y-yes.
+Ike: Good. I wanted to talk to you a little. Do you remember who I am?
+Kurthnaga: ...Yes. We met once... Three years ago in Goldoa.
+Ike: That's right. You do remember. You helped us when our ship ran aground... And you gave us food and water.
+Kurthnaga: Yes... You were the first beorc I had ever met.
+
+Ike: I'm glad our paths have crossed again. We didn't have much time to talk back then... I didn't even get to introduce myself. I'm Ike, of the Greil Mercenaries. Thanks to you, we completed our voyage safely. I've been wanting to thank you for three years. So... Thank you. Kurthnaga: No, it was nothing at all. Actually, it was quite an experience... I had only read of beorc in books, so meeting one was a rare privilege. I wasn't really myself, so I hope I didn't say or do anything rude. It's embarrassing when I think about it now. I'm sorry.
+Ike: No, if anything, I was the rude one. I was just an ignorant hothead with no manners or gratitude at all. But you just laughed and forgave me. I'm really grateful for that.
+Kurthnaga: I'm glad that I could be of some help. It seems like it's been a while since I've had that chance.
+
+Ike: Prince Kurthnaga... There's something I have to ask you. Before Yune's awakening, why did you side with the Daein army to fight against us and the apostle's army? The dragon tribes are neutral, and known for their hatred of blood and war. As their prince, I can't see why you would do it.
+Kurthnaga: I suppose I owe you an explanation for that. First of all, the dragon tribes had nothing to do with any of this. I... I disobeyed my father, and the laws of Goldoa. I joined the battle against all my training, of my own free will. Ena just saw me leaving, or I wouldn't have brought her into this. I just wanted... I just wanted to help my sister.
+Ike: Sister? You have a sister in Daein?
+Kurthnaga: Yes... A sister and a brother, actually.
+
+
+
+Kurthnaga: My sister's name is Almedha. She was the wife of the late King Ashnard.
+Ike: Mad King Ashnard was married to a princess of Goldoa?
+Kurthnaga: Yes. And my brother... My brother's name was Rajaion.
+Ike: Rajaion? Wasn't he the dragon that was warped and used by the Mad King? Wasn't Ena supposed to marry him?
+Kurthnaga: Yes. That savage Ashnard held his own baby hostage...the baby born of my sister, Almedha. Then he took my brother, Rajaion...and warped him in order to use him as a mount like a common wyvern.
+Ike: I'm sorry. I didn't know...
+Kurthnaga: ...Ike, you were there at my brother's last hour. I'm sorry to ask you, but when my brother died... Did he die peacefully?
+Ike: ...Yes, he did.
+
+Ike: Before he died, Reyson was able to undo what Ashnard had done to his body. Rajaion passed on in Ena's arms, with a contented smile, as if he were sleeping peacefully.
+Kurthnaga: Thank you... It's a tremendous relief to know that.
+
+Kurthnaga: My sister was tangled in Ashnard's schemes, our brother was killed, and her son taken away... She was unable to return to Goldoa and unable to consult our father... My sister has suffered so much. I wanted to help her.
+Ike: So that's why you came to Daein... I'm sure that was difficult for you to tell me. Thank you.
+Kurthnaga: Actually, it makes me feel a little better just talking about it.
+Ike: I won't repeat a word of anything you just told me. I swear on my father's grave.
+
+Ike: ...The dragon tribes, and the Black Knight... They both lead back to Daein. Something about that country always draws me back to it...
+
+
+@Narration
+Tibarn's party takes a long, circuitous route leading them east around Lake Semper. The Hawk King's company includes Queen Elincia of Crimea, her trusted aide Lucia, the heron prince Reyson, the laguz warrior Ranulf, Daein's King Pelleas, and the queen mother, Almedha. While they receive reports from the other two groups about the Disciples of Order, they have encountered no resistance, and have thus far traveled in peace.
+
+@Conversation 
+Rafiel: Mmph.
+Ike: What’s wrong, Prince Rafiel? Are you feeling sick?
+Rafiel: ...No. I am all right. Thank you, though.
+Ike: ...You’re a real puzzle, you know that?
+Rafiel: Why do you say that?
+Ike: You look a lot like your brother Reyson, but you’re nothing like him. Reyson looks delicate, but on the inside he’s all iron. You, on the other hand... I don’t know. I worry that I might kill you if I shout too loud or something.
+Rafiel: ...I’m sorry.
+Ike: See? That’s exactly what I mean! You should get mad at me for saying that, not say "I’m sorry." I mean, come on!
+Rafiel: I-I apologize.
+Ike: There you go again! What I mean is that--
+Nailah: That’s enough, Ike. Rafiel is everything that herons are expected to be: quiet, elegant, and delicate. Those are words people use to describe herons, and he fits all three.
+Ike: Yeah, well... None of those words fit Reyson.
+Nailah: True. Maybe Princess Leanne is only so innocent and sweet because she was asleep for twenty years. Prince Reyson certainly doesn’t seem to have any of the characteristics herons are known for.
+Ike: King Tibarn did mention that "real" herons are more like Prince Rafiel.
+Nailah: Prince Reyson spent a long time in the care of the hawk tribe. No doubt he’s picked up all sorts of quirks. Thank goodness Reyson hasn’t picked up Tibarn’s speech or mannerisms, though. It would be completely ridiculous. Can you imagine a man with Reyson’s looks, talking and acting like Tibarn? I don’t think I could help but laugh at him.
+Ike: Well, he told me he wanted to be just like King Tibarn. He admires Tibarn a great deal.
+Rafiel: Reyson said that?
+Ike: Yeah. What about you?
+Rafiel: Well... Sure, it’d be nice to be a bit more like Tibarn, I suppose.
+Ike: Well, it looks like you guys really are brothers after all.
+Nailah: Ike, be quiet. You’re a bad influence! I won’t allow Rafiel to be tainted like that.
+
+Mist: Ike!
+Ike: What is it, Mist?
+Mist: Take a look at this!
+Ike: How odd. Looks like a master crown.
+Mist: I had the strangest vision just now. There were these places on the ground which were shining. One was close, so I went to take a look, and here it was!
+Ike: Stop it. You sound like Yune when you talk like that. The enemy could attack at any time, so don’t go wandering around alone.
+Mist: All right. You’re the boss!
+
+Aimee: Ooo, it’s my hero, Ike! I’ll take the spot next to you.
+Ike: Hello, Aimee.
+Aimee: Would you do me a favor? Take this and give it to little Soren. It’s an extremely rare item. We don’t know what we’ll run into out there. He’ll be ready for anything with a powerful tome like this.
+Ike: What, you can’t give it to him yourself?
+Aimee: Oh, no way! I’m trying to get YOUR attention. So I’d much rather give it to you.
+Ike: That’s very direct of you.
+Aimee: Because you can be so thick sometimes! I swear, you wouldn’t know how I felt if I didn’t tell you outright.
+Ike: Even if I did, I wouldn’t do anything about it.
+Aimee: That’s fine. I understand. You still have things you want to do, places you want to explore. That’s why you don’t want to be tied down by a relationship. I know how you are.
+Ike: Uh...
+Aimee: But someday, you’ll be ready to settle down. When you are, maybe you’ll think of me. That’s why I’m starting work on you now! Don’t worry about it...for now.
+Ike: But it DOES worry me!
+Aimee: See? You’re already under my spell! Well, good night! Sleep well, my hero.
+Ike: That woman has issues with reality.

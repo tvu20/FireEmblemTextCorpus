@@ -1,0 +1,192 @@
+@Intro
+Haar: So... We're guessing that flare sent up from Geoffrey's troops means Ludveck plans to come for Your Majesty. He's probably marching his troops toward this fortress as we speak. Since it's come to this, I'd like to stick around and help. Let me know if you need me.
+Elincia: ...I see. Thank you ever so much. Sir Haar... I have one more question. What about Lucia? Have you heard from her? Is she safe?
+Haar: We found a man's body in the village safehouse. We believe he was her messenger. We also found this...
+Elincia: No! This is... This is Lucia's hair! But... How?
+Haar: Well, we assume that Ludveck infiltrated her network of spies and captured her. This is his way of letting us know. It also means she's still alive, which means we still can save her. Queen Elincia, it's up to you to determine the best course of action.
+Elincia: Y-yes, I... I know... Royal guards! Arm yourselves, and prepare to meet the rebel forces in battle. I will be commanding you personally.
+Crimea: Your Majesty! But...you are the queen! It's much too dangerous! Please, assign a subordinate to this duty!
+Elincia: I will not. It is my indecision that has allowed the rebellion to come this far. I refuse to run from this problem any longer.
+
+Elincia: Lucia... Lucia, I'm sorry. Somehow, I promise you... I will save you!
+
+Elincia: Princess Leanne, Sir Nealuchi... This fortress will soon be under siege.
+Nealuchi: Wh-whaaat?!
+Elincia: Somehow the enemy has found out that I am hiding here. My two fine friends... You must escape.
+Leanne: I...sing...and h-help...Queen Elincia!
+Elincia: No! Under no circumstances! I won't allow any such thing!
+Leanne: I...like help...Q-Queen...Elincia.
+Nealuchi: Now, now. When my lady makes up her mind, nothing in Tellius can sway her. And me? I'm sure you wouldn't mind having these old bones on the battlefield.
+Elincia: Sir Nealuchi... Honestly, I couldn't... Sigh...
+Nealuchi: Wait until you see me... Even at my age, I'll be one step ahead of those freshly hatched whippersnappers. 
+Elincia: ...Very well. I must prepare as well. I had hoped this day would never come... Amiti, the treasured blade of House Crimea, will awake from its long slumber.
+
+Elincia: ...The battle will begin soon. I want both of you to promise me that you will fall back if in danger. Understood?
+Nealuchi: Fall back, Your Majesty? No one can hold a candle to the speed at which the raven tribe retreats.
+Elincia: Ha ha... That's a relief.
+
+Crimean Rebel: Reporting, sir! Fort Alpea's gate is sealed, and they are readying their defenses.
+Ludveck: I see... Lady Lucia must have arranged some way to warn the queen. But alas, even if they were to have all the energy and luck in the world, the Royal Knights wouldn't arrive for two days. In any case, there's no way we can lose, considering that we have a card which has yet to be put into the game.
+
+Crimea: Y-Your Majesty, dire news! The rear gate is open, and the rebel army is storming in!
+Elincia: What?! how could this happen?!
+Lethe: I think you'll understand once you question this man.
+Elincia: You guard the inner garden, correct?
+Crimea: You scum! You helped the rebel army, didn't you?!
+Servant: Yes. Yes, I did. I did it because it was the best thing for the future of this country. Those Daein murderers killed my entire family, and now the queen bows down and wags her tail at them! It's a disgrace!
+Crimea: Silence! You're the traitor here! Prepare to die.
+Elincia: Wait! Killing this man will do nothing to help our situation. We have to halt Ludveck and his men. They're already inside!
+Lethe: I'm going out there, too.
+Mordecai: Mordecai will fight for you, Queen Elincia.
+Brom: You can count on me, Your Majesty.
+Nephenee: Queen Elincia, Crimea needs you more than anything, and I reckon you could use my help.
+Heather: My homeland, being ruled by a snobby stiff like Ludveck? Please. I don't think so!
+Crimea: Your Majesty! We would give our lives for our queen! Allow us to fight!
+Elincia: Thank you, everyone. I am indeed the queen of Crimea, and a queen does not hide. Our enemies are fellow citizens of Crimea. But we can no longer sit idle as they destroy the harmony of our nation.
+
+Ludveck: Could our situation be any better? Just look at these fragile defenses... As fragile as the queen's reign! Ludveck: ...Oh? The queen's taken command? I expected her to abandon her people, turn tail, and run for the hills. How preciously naïve. We shall have to teach her that being overly optimistic can be fatal.
+
+@Battle
+???: Queen Elincia! I made it!
+Elincia: Marcia!
+Marcia: Thanks to General Geoffrey, we spotted an ambush on the main road and snuck by on the old highway instead! The Royal Knights will be here soon. I flew ahead to tell you...and to serve you some traitor pie on my lance!
+Elincia: ...Thank you. I'm impressed you made it back so quickly.
+Marcia: My pleasure, Your Majesty! Now, which monkeys do you want filleted before the Royal Knights get here?
+
+Geoffrey: Your Majesty! We'll countercharge their flank! The Royal Knights will succeed again! Indomitable knights of Crimea, this is the hour you have trained for! Hold the line, and run them down!
+Elincia: Geoffrey! Geoffrey, oh, Geoffrey!
+Geoffrey: Find Ludveck, duke of Felirae! Seize him immediately! He must not escape!
+Ludveck: What a bother! They arrived far faster than I had expected. But I will prevail. I won't lose to that worthless queen.
+
+@Battle-Talk 
+%Elincia,Geoffrey
+Elincia: Geoffrey!
+Geoffrey: Elincia! I'm relieved you're safe. Leave the rest of the battle to us. Find someplace safe.
+Elincia: No, this is my fight. This is my problem, and it will be resolved under my power!
+Geoffrey: Very well. If that's your decision, Your Majesty.
+
+@Boss
+Ludveck: The day is upon us... A day that will stand proudly in the history of Crimea. Today, a weak queen falls...and a new king prevails!
+
+%Geoffrey,Ludveck
+Geoffrey: That's enough, Duke Ludveck! You have no chance of victory. The Royal Knights are here, and we have our queen to lead us.
+Ludveck: Ho ho... It's the valiant Geoffrey. I assume, General, that you have yet to hear about Lady Lucia?
+Geoffrey: Lucia? What's happened?
+Ludveck: Well... I could tell you, but what would that gain me? Now, if you were to turn on the queen and grovel at my feet, I might consider telling you.
+Geoffrey: How dare you, you rotten...
+
+%Elincia,Ludveck
+Ludveck: Queen Elincia...
+Elincia: Ludveck.
+Ludveck: Looking quite gallant, aren't we? I thought you would surely be fleeing by now...or pleading for your life. I must commend you on your unexpected bravery.
+Elincia: I am the ruler of Crimea. I will not abandon that role.
+Ludveck: Oh, I see... Self-sacrifice, is it? How very honorable of you. By the way, Your Majesty, Lady Lucia is often in your company. Wherever could she have gone to?
+Elincia: Where is she?! Tell me she's safe! Tell me--now!
+Ludveck: Oh my, you look pale. You two grew up like sisters... You must be worried, then? Ha! Yet another facet of your weakness.
+
+@Boss
+Ludveck: Elincia! I yield to you! Please... You may imprison me. Your Majesty, be merciful! Spare our lives. We surrender our weapons.
+
+@End
+Geoffrey: Queen Elincia! I'm so glad you're safe... Please forgive my tardiness. I've let you down. I'm sorry.
+Elincia: Ridiculous! You did no such thing. Geoffrey... Thank you so much. So, what of the rebel army?
+Geoffrey: Without Ludveck at the helm, they're a mess. They're all running about trying to escape. As commanded, we are not pursuing fleeing soldiers, and Lord Ludveck is locked up in the dungeon.
+
+Geoffrey: Queen Elincia?
+Elincia: Lucia is being held captive! If we're to save her, we need to talk to him.
+
+Crimea: Your Majesty! General! W-we've received a missive! It concerns Lady Lucia!
+
+
+Crimean Rebel: Queen of Crimea, we demand that you release the duke of Felirae! Refuse, and Lady Lucia will die!
+
+Elincia: No!
+Geoffrey: ...Lucia.
+Crimean Rebel: You have half a mark! If the duke is not released by then, the girl dies!
+Lucia: Queen Elincia, don't listen to them! Don't worry about me!
+
+Lucia: Guh!
+Crimean Rebel: Quiet! You can die sooner, if you like!
+Geoffrey: ...Your Majesty, you can't... You have to let me do something about this.
+Elincia: ...
+Geoffrey: Lucia would willingly die fighting for her country, I know... But you have to help her, Elincia. If you were in her position, she would surely do the same. Please, just give the word.
+
+
+Ludveck: Hello, Your Majesty... By the look on your face, I can see my plan has been a success.
+Elincia: ...What exactly is it that you want? To throw our country into chaos?
+Ludveck: No. I want to protect it, Your Majesty.
+Elincia: What?!
+Ludveck: Queen Elincia, you're so naïve. Cold and callous decisions are sometimes required of a nation's ruler. ...I was testing you. We all wanted to know if our queen would have the power to stop a civil war. But, no, you were too hesitant and too concerned about harming the people... Now look what has happened. The rule of Crimea cannot be kept in your hands! Please, Your Majesty! You must abdicate and cede the crown to me! And considering Lady Lucia's life is on the line, you haven't much choice. Now, let's have you free me from this prison cell, and then we can discuss any further details...
+Elincia: I don't think so.
+Ludveck: What?! Are you truly willing to sacrifice Lady Lucia?!
+Elincia: ...Lord Ludveck, all your dissatisfaction and misgivings about me are well founded. However, do you realize how many lives you've simply thrown away?! Strength without compassion does not a ruler make. You care nothing for the people, sir. You cloak your desire to rule with pretty speeches, but it is petty avarice nonetheless!
+Ludveck: ...So this is how it shall be? Very well... But Lady Lucia cannot be spared without my order.
+Elincia: Allowing you to plant the seeds of rebellion and play havoc with the lives of my people is a failure for which I must answer. But I will see Crimea through this trial. I will give my people the future they deserve, no matter the cost. 
+Ludveck: ...Ha... Ha ha ha ha! Well played, Your Majesty! Indeed, I have failed. Yet I wonder... Are you capable of watching Lucia die? Or will you crawl back to me, your face awash with tears, begging for mercy? How I pray to see that face, Your Majesty!
+
+Elincia: Rebel soldiers, hear me! Ludveck of Felirae, having conspired against the nation, will stand trial. As the queen and ruler of Crimea, I refuse to negotiate with those bent on destroying it.
+Crimean Rebel: ...So you're going to let this girl die?!
+Lucia: Hah!
+Elincia: I will be strong, Lucia...
+Crimean Rebel: Tch... Kick, scream, beg... Give us a show, wench!
+Crimean Rebel: Your Highness! Your trusted friend will now die. Let this burn forever in your memory! 
+Lucia: People of Crimea... Behold a true queen! YOUR queen! Long live Queen Elincia!
+
+@Cutscene
+Shinon: Come on. Do it. It's a clean shot.
+
+Shinon:  What's the problem?
+Rolf: I'm nervous. What if I hit her?
+Shinon:  It's too late for nerves, Rolf. If you're not up to it, just leave it to the master, eh?  Watch and learn. One clean motion, no hesitation.
+
+Crimean Rebel: The queen's men are attacking!
+Crimean Rebel: Stop him!
+
+Mia: Soren, always lost in your books! What have I said about watching your back?
+
+Crimean Rebel: Form up! Surround them all! Don't let a single one escape!
+
+Mist: Hold on, Lucia! Everything will be fine!
+
+Mist: Can you hear me? Hold on!
+
+@End
+Geoffrey: Queen Elincia! It's Sir Ike and the Greil Mercenaries! They came to our aid! Now we'll get Lucia back in one piece. We've nothing more to worry about. I'll deploy my knights at once!
+
+Elincia: ...Hh... ... 
+
+Elincia: Sir Ike... If you hadn't come to help, I would have lost one of my dearest friends. Thank you... Thank you ever so much.
+Ike: We were happy to do it. And Bastian pays well for mercenary work.
+Elincia: Bastian?
+Ike: Yes. The count of Fayre knew about Ludveck's plotting before he left for Daein. Bastian guessed that if he left the country, the rebels would feel confident enough to make their move. What else could you expect from Crimea's top tactician? Well...Crimea's most deceptive old dog, at any rate.
+Elincia: Yes, that's just like him...
+Ike: Sorry that we had to stay hidden until the last minute. For a ruse like that to work, you have to deceive allies as well as enemies. I know you were acting in Crimea's best interests, but I'm sorry you had to let that happen to Lucia.
+Lucia: No... It worked out fine in the end. Please put it out of your mind.
+Elincia: Lucia, Geoffrey... I value your lives more than even my own. But it's my duty to protect this country, even if that means losing you. I've learned a lot from all of this. I hope to keep them out of harm's way, and I'll never make the same mistakes again.
+Ike: Good to hear. So what are you going to do about all the escaped rebel soldiers?
+Elincia: The rebel army will be eradicated. We cannot allow them to sow the seeds of discontent among the people of Crimea.
+Ike: That's the right choice. Would you consider contracting my mercenaries for the job?
+Elincia: ...No, Sir Ike. I'll leave that up to the Royal Knights. I'm certain this task will create anger among the people, and the Royal Knights may be resented for their role in it... But my duty as queen demands that it be done. The people will have to learn to accept that.
+Ike: I respect your devotion to duty. So, you don't need me then?
+Elincia: That's right. I'm going to move on, together with my vassals and the people of this country.
+
+Elincia: Sir Ike... Before you leave, there's something I'd like to talk to you about.
+Ike: What is it?
+Elincia: When you heard from Bastian... Did he say anything about Daein?
+Ike: No, nothing.
+Elincia: He informed me of a number of things. Apparently Daein's reconstruction is playing out much like Crimea's... He spoke of a new king raising the banner of war, and a charismatic young hero carrying it into battle. He compared King Pelleas to me, and a "Silver-Haired Maiden" to you... It's almost unnatural. He suspected that someone might be scheming, trying to manipulate Daein. Bastian seemed quite suspicious of it all.
+Ike: So Bastian went to Daein to try and confirm his suspicions on that?
+Elincia: Yes. There was also something about Daein's resurrection that we can't afford to overlook. ...The Black Knight.
+Ike: What?!
+
+
+Elincia: I'll never forget him... He was the one warrior who the late King Ashnard trusted. Encased in pitch-black armor, standing tall with a crimson cape... When the Liberation Army fought at the capital, he was there. He sided with the Silver-Haired Maiden.
+Ike: The Black Knight... The man who killed my father... But I defeated him three years ago. I'm sure of it. At the very least, he couldn't have escaped when Nados Castle came crashing down on him.
+
+
+
+Elincia: The day after you fought, Bastian ordered some men to search the remains of Nados Castle. There was no trace of the Black Knight. No armor... No sword... No corpse.
+
+Elincia: If the Black Knight that was seen in Daein was indeed the same Black Knight... He might prove to be a threat to Crimea.
+Ike: Hmm. If he's still alive... I have no doubt I'll see him again. Elincia, this is very important information to me. Thank you.
+Elincia: Of course.

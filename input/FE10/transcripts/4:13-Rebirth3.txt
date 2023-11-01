@@ -1,0 +1,345 @@
+@Intro
+Yune: How dull. I don't sense any enemies nearby. I know! Would you all like me to tell you a story as we climb?
+Ike: What kind of story?
+Yune: One from long ago, long before the grandparents of anyone here were born.
+
+Yune: In the very beginning of this world...there was only water, until one day a girl appeared. The girl was very clever, and she forged the first land...then she made trees and flowers, and then she created beings.
+Tibarn: The story of the grand creation? Heard it. Wake me when it's over.
+Ike: The girl was you, right, Yune? Or are you talking about Ashera?
+Yune: Both, really...and neither, actually. At first, the girl was excited by her new world, and she thought of little else. Then she started feeling lonely. Everyone, every being she'd created, was different from her. Not a single person that could truly understand her. All alone, she grew sadder and sadder, crying for thousands of years. Then some creatures began to grow and change, becoming more clever and sophisticated. They tried to comfort the girl and eventually grew closer to her... That was the birth of the Zunanma. They were your ancestors...beorc, laguz, everyone.
+Sanaki: In Begnion, we are taught that the Zunanma were human—Uhm, I mean...beorc ancestors... ...It makes me wonder what else in my country has been warped beyond recognition.
+Yune: It's possible that the truth was simply misunderstood. Like the way everyone calls me a dark god...
+Yune: But let me continue... The Zunanma worshipped the girl as their own goddess. They said her hair was as striking a color as dawn's first light, so they gave her a name... The Goddess of Dawn. She was a much-loved goddess.
+Ike: The Goddess of Dawn...
+Yune: The Zunanma continued to evolve and change, giving rise to a variety of races and tribes across the land. Naturally, each of the races thought their own was superior to the others, and conflict arose between them.
+
+Yune: The goddess tried to make peace among her people, but nothing could stop the warring Zunanma. Trying to separate the factions, the goddess gave them different names, laguz and beorc... But this only intensified their conflict.
+Yune: And then...the great flood occurred.
+
+Yune: The goddess was only trying to bring an end to the fighting. But her power was so great that all the continents were drowned in the flood, all except Tellius.
+Ike: Are you sure about this story? It's very different from the histories that we've each been taught.
+Elincia: Among beorc nations, we only know a vague fairy tale about the dark god stirring up a great disaster.
+
+
+Kurthnaga: Neither the laguz nor the beorc have an accurate description by the sound of it. I wonder where the story got twisted.
+Yune: There is another standing in our way... I have a feeling he might be able to tell us.
+
+Kurthnaga: ...Fa--...Father?
+Ike: Huh?
+Kurthnaga: My father... Just beyond these doors, my father is waiting.
+
+Ike: Dheginsea, king of Goldoa... He's supposed to be one of the three who defeated the dark god...Yune.
+Yune: He has been blessed by Ashera. Not only that, but it's a powerful, resilient blessing from long ago. He may be nearly impossible to defeat. ...Let's get everyone together. There's no better time than now.
+
+
+Yune: I was hoping to avoid this until we reached Ashera... Actually, I hoped not to have to do it at all... But she's left me with no choice. I will give you the blessings of Yune, goddess of chaos and freedom. In their natural state, the attacks of mortal creatures have no effect on divine beings.
+
+Yune: When Ashera set out to defeat me, she gathered her strongest warriors and bestowed on them some of her power. This is called the Goddess's Blessing... She empowered the dual swords of the beorc swordswoman, Altina. The laguz warrior, Soan, and Dheginsea, the leader of the dragon tribe, were also blessed.
+Yune: I failed then... But this time will be different. I'll use Ashera's own tricks, and I won't be defeated. Everyone... Take some time now to ready yourselves. Beorc, be sure to equip your best weapons. I'll begin when everyone's ready.
+
+Yune: I think we're all ready. I'll need the laguz to transform.
+
+Yune: Let's begin.
+
+Yune: OK, I'm all done now. Whew... I... That was really hard... I think I... I think I need to rest.
+Sothe: Micaiah? Are you feeling all right? You don't look so good.
+Micaiah: ...I'm fine. Thank you, Sothe.
+Ike: What happened to Yune?
+Micaiah: She's sleeping. She wants us to take it from here.
+Ike: All right... If we're all set, let's move out.
+
+Kurthnaga: Father!
+
+^start
+Dheginsea: Caineghis, the great lion king... How many times have I said it now? How many times have I warned against starting another war?
+Caineghis: I know, old friend. I know...
+
+Dheginsea: Tibarn, the great hawk king... How many times have I said it now? How many times have I warned against starting another war?
+Tibarn: Don’t you dare preach to me, you dried-up old fool.
+
+Dheginsea: Naesala, the great raven king... How many times have I said it now? How many times have I warned against starting another war?
+Naesala: And since when have I ever listened to the likes of you?
+^end
+
+Dheginsea: We have betrayed our vow to our goddess. We should have learned, but the fighting never stopped. Now we must pay for our crimes. We must take responsibility, and accept Ashera's judgment.
+
+Micaiah: No! You don't understand! It wasn't the war that awoke the goddess! It was my song... The galdr of release freed the goddess!
+Dheginsea: ...You can't expect me to believe that. We will wait here patiently for the punishment we deserve. If you are unwilling to await judgment...
+
+Dheginsea: You will stand against... The greatest of all dragons!
+
+Kurthnaga: Father, no! Why must we fight? There must be a way to talk this through.
+Ike: It's no use, Kurth. We have no choice but to fight. We must reach the goddess, and not even the king of dragons can stand in our way.
+
+@Battle
+
+Dheginsea: Feel the power of Ashera's faithful!
+
+Dheginsea: You have followed Yune's path here? That puts us irrevocably at odds. I'm sorry it had to be this way.
+
+Dheginsea: You've declared war on a goddess... A foolish action with terrible consequences!
+
+@Battle-Talk 
+%Ena,Gareth
+Ena: Please let me pass, Gareth.
+Gareth: I will not move. Such was the king's command.
+Ena: Is there nothing I can do?
+Gareth: No. I'm sorry to be so hardhead, Ena. But I must serve my king.
+Ena: Maybe we're the hardheaded ones... Opposing our king and our goddess. But we've chosen our path...
+Gareth: Lady Ena. Promise me you'll look after him. Keep the prince safe.
+Ena: Of course. I promise... I will protect him at any cost!
+
+%Kurthnaga,Gareth
+Gareth: I was afraid it would come to this, squared off with the very prince I'm supposed to protect. What to do?
+Kurthnaga: Gareth, let me pass! I need to reach my father!
+Gareth: Without the king's word, I can't let that happen.
+Kurthnaga: Do you mean to fight me?
+Gareth: Of course not! You know I couldn't do that. All I will do is stand here, plant my feet, and wait.
+Kurthnaga: Gareth!
+Gareth: Prince Kurthnaga, it has been a privilege to serve you. I wish you all the best.
+
+@Recruit-Battle
+Gareth: My prince... I was supposed to protect you, but... I failed.
+Kurthnaga: No, Gareth! It was I that turned my back on Goldoa. Gareth... I'm sorry.
+
+Nasir: I have lived long enough... Ena, I wish you...the best...
+Ena: Nasir... Nasir! Grandfather...
+
+@Battle-Talk 
+%Ena,Nasir
+Ena: I'm sorry to see that you stand with the king, Grandfather.
+Nasir: I turned on him once, and I will never do it again. Will you follow your grandfather's example?
+Ena: You know that I won't. I can't. I'm sorry...
+Nasir: It's all right, my dear. You can side with the prince. Stand by your convictions.
+
+%Kurthnaga,Nasir 
+Kurthnaga: Nasir! You must talk to my father! Convince him to stand down!
+Nasir: ...We have committed two crimes. We ignored the will of our king, and in so doing let war rise once more. We must atone for our sins.
+Kurthnaga: ...I am willing to accept my own punishment. But is it right that the innocent--women and children who have never lifted a weapon--are also turned to stone?
+Nasir: You can’t change my mind. I have made a solemn vow that I will never again betray my king.
+
+@Battle-Talk 
+%Reyson,Dheginsea
+Reyson: King Dheginsea, you are more powerful than any being alive... Use that power to help us save the people.
+Dheginsea: You are not the first to make such a request. But my answer is the same now as it was before. I will not change my mind. I have no choice but to follow the will of our goddess.
+
+%Rafiel,Dheginsea
+Rafiel: King Dheginsea, I don’t understand... Why? Why must we fight? I just can’t... I... I... I can’t take it. Fighting only causes more pain and suffering. Why do this?
+Dheginsea: ...You remind me of a friend from long ago. He was the kindest soul I’ve known, but he was so terribly weak. You’ve moved me more than you’ll ever know... But I will not budge. I await my judgment.
+
+%Leanne,Dheginsea
+Dheginsea: Hello, Princess Leanne. You can’t fight me... I advise you to stand down.
+Leanne: (Sadness... Your heart is filled with such sadness. What’s wrong? Can’t we talk about it?)
+Dheginsea: I have nothing more to say to you. This is the way it has to be. My feelings do not matter.
+
+@Boss
+Dheginsea: Fools! By denying your judgment, you merely rush to your death.
+
+Dheginsea: No... Unh... Has my body grown old? Or is it...my heart...
+
+%Ena,Dheginsea
+Ena: Your Majesty...
+Dheginsea: Come now, Ena. Fight.
+Ena: I'm sorry, I can't. I may have turned my back on my king and left my own country, but I still belong to the dragon tribe. I wouldn't dare attack my own king. I couldn't.
+Dheginsea: Then as your king, I order you. I order you to fight for Kurthnaga's life.
+Ena: My king!
+Dheginsea: You and he need each other. You are different from other dragons.
+Ena: ...Very well, Your Majesty.
+
+%Kurthnaga,Dheginsea
+Kurthnaga: Father! Please think about what you're doing.
+Dheginsea: The time for words has passed. The only option remaining is to stop you with brute force.
+Kurthnaga: Why? Father, why?
+Dheginsea: That is enough! No more sniveling! You, Kurthnaga, were to rule the dragon tribe in years to come. Show me that you would have been capable!
+Kurthnaga: But-- Yes, sir... I'll show you.
+
+%Sanaki,Dheginsea
+Dheginsea: In my eyes, the mightiest of you looks no different than an infant. Can you hope to stand a chance?
+Sanaki: Of...of course. I am Sanaki, 37th empress of Begnion. It is my duty to save my people. Even the world's mightiest dragon will not dissuade me from that calling.
+Dheginsea: All right, then, child. Fulfill your duty.
+
+%Elincia,Dheginsea
+Dheginsea: You, too, deign to oppose the goddess Ashera?
+Elincia: I will do whatever is required to rescue those who were petrified. I beg of you, Dragon King, please reconsider what Prince Kurthnaga said to you.
+Dheginsea: It is too late. People, in our weakness, betray the gods, and are meant to be punished for it.
+Elincia: I cannot believe that. People are capable of both terrible and wonderful things. To describe them so simply and cynically does them a disservice.
+Dheginsea: If I am defeated today, that may convince me that I am wrong. Come... I'm waiting.
+
+%Tibarn,Dheginsea
+Tibarn: I never would have believed that one day I'd be facing off against you. Life sure is funny, sometimes.
+Dheginsea: Even you, Tibarn? Don't make me kill you. You haven't got a chance.
+Tibarn: Don't be so sure about that. You just might be surprised. Besides, you've got a lot to answer for, Dheginsea. You'll finally pay the price for all those years of inaction and indifference as your kin were butchered and enslaved.
+Dheginsea: You shortsighted fool, you still don't understand... All right, I'm waiting. Show me what you've got.
+
+%Sothe,Dheginsea
+Dheginsea: Have at you, follower of Yune.
+Sothe: I won't live as long as you have, and I'll never be as powerful. Things like saving the world and fighting goddesses are just beyond me. They're out of my reach. That's why I've always chosen to fight for the smaller things in life and the people close to me. If that means I have to fight you to protect them, then so be it.
+
+%Micaiah,Dheginsea
+Dheginsea: You...you're one of the parentless...
+Micaiah: You know me?
+Dheginsea: Yes. I knew the first of your kind. I have been alive for a very long time... Perhaps too long. But soon it will all be over.
+
+%Ike,Dheginsea
+Ike: Dheginsea, Dragon King. I can see you have no intention of letting us pass.
+Dheginsea: I follow my goddess's decrees. My will is unwavering.
+Ike: I have no choice, then. Be on your guard.
+Dheginsea: Very well, beorc general. Our blessings may be equal and opposite, but your strength is a mere fraction of mine. Show me your best!
+
+%Naesala,Dheginsea 
+Dheginsea: Naesala, you dare challenge me?
+Naesala: Heh. It’s funny you should ask that... I’m not deluded enough to think that I can beat you. The goddess herself would hesitate to fight you. But my people are frozen solid, and I have to delude myself enough to think that I can help save them.
+Dheginsea: You are a true king, Naesala. I am ready when you are.
+Naesala: I’ll be thrilled if I land even a single blow. I’m much better at fleeing than fighting.
+
+%Nailah,Dheginsea 
+Dheginsea: You... are of the wolf people?
+Nailah: Yes. After the floods, we built our country to the east of the great desert.
+Dheginsea: ...So we weren’t the only ones to survive...
+Nailah: Until we met Rafiel, we too thought ours were the only people left.
+Dheginsea: In your country, are there only people of the wolf tribe?
+Nailah: No, beorc live there, as well. There are also a number of what you call the "parentless." Children born of both laguz and beorc parents are still relatively few.. but they live normally among us.
+Dheginsea: Is that so?
+Nailah: That’s probably enough chatting. Do you still intend to block our path?
+Dheginsea: ...I will not deny my goddess.
+Nailah: And I won’t deny my conscience. I will revive those turned to stone, and you cannot stop me.
+
+@End
+Dheginsea: ...Well done. You...have beaten me.
+
+Kurthnaga: Father!
+Dheginsea: Don't lose your head now, boy. This wound... This is nothing. Your power... How could you defeat me? I was blessed by Ashera herself...
+???: I gave them my blessings.
+
+Dheginsea: Yune?! Is that you?
+Yune: That war long ago... I'm so sorry. You were right to fight against me. I was young and immature. The great flood was a result of my unchecked emotions.
+Dheginsea: You don't have to apologize, Yune. I always knew that you weren't actually evil... You were just too powerful.
+Yune: So why did you choose Ashera again? I had hoped that this time you would join me to help protect the people.
+Dheginsea: I'm sorry, Yune. But I've done worse to you...
+Dheginsea: Long ago, we made a vow before the goddess Ashera herself... We vowed that we, the laguz and beorc, would never commit the same genocidal sins. We didn't keep our promise... And for that reason I was committed to accepting my just punishment.
+Yune: Silly, stubborn, old scalebag... You just don't know when to quit... You need to lighten up a bit.
+Dheginsea: To convince the laguz kings to follow my example, I rewrote history, hid my tracks, and declared you a dark god. All I ever wanted was to avoid conflict... Please, forgive me.
+Yune: Don't worry about it, Dheginsea. I caused enough trouble for you, so I'll forgive you just this once.
+Dheginsea: I'm pleased to hear that.
+
+Dheginsea: Gareth! Gather our survivors. Kurthnaga is their commander from now on.
+Gareth: Understood, sir!
+Dheginsea: Nasir... You followed your sovereign very far for having once left your country in disgust. ...I give you my sincerest thanks.
+Nasir: No, my lord... Unaware of my own king's true heart, I did what I thought had to be done... I apologize.
+Dheginsea: Ena... I would like to tell you only that I wish you the greatest happiness in life.
+Ena: Thank... Thank you, sire.
+
+Dheginsea: Now then, Kurthnaga... Get these men moving. I will remain here, for I cannot move.
+Kurthnaga: Yes, Father. We will stop Ashera. Wait here for our return. We will be back.
+Dheginsea: ...Yes, my son. I'll be waiting.
+
+@Flashback
+Male Voice 1: We must save them. Even now, as we speak, countless laguz slaves endure Begnion chains. They suffer terribly.
+Male Voice 2: We have done all that we will do.
+
+Male Voice 1: Admonitions and censures change nothing! Now is the time for the dragon tribes to use their strength to save the oppressed laguz!
+Male Voice 2: Goldoa does not interfere with the outside world. As king of dragons, I will not allow my people to fan the flames of war. Conflict on the scale you describe will wake the goddess and call down her judgment upon us all. This is the path to destruction. A thousand years... That is how long we swore to the goddess that there would be no war. Have you forgotten our covenant?
+Male Voice 1: Of course not. Yet...there are laguz who are treated as less than livestock. I cannot believe that this is what the goddess wants.
+Male Voice 2: Goldoa will not move. This decree stands from the time our nations were formed. The goddess has not yet slept one hundred and fifty years. Would you see the laguz and beorc destroyed? Would you see all of Tellius awash in blood? No, unless destruction comes to seek us at our door, Goldoa will not move, for the sake of future generations.
+Male Voice 1: Tell me, do you care nothing for the laguz who suffer in the current generation? Do you think it would comfort them to know that you condone their misery?
+Male Voice 2: All things require sacrifice.
+Male Voice 1: ...
+Male Voice 2: Where are you going?
+
+Male Voice 1: To Begnion. I will find a solution without you.
+Male Voice 2: You, who have lost your birthright? All you will accomplish is your own destruction. Hold...hold, I say!
+
+@End
+Dheginsea: My queen... Rajaion... I will soon join you.
+
+Dheginsea: My lovely Almedha... Cherish...life...
+
+Yune: It's happening again... Whose memory is that?! Something feels so...familiar about it. Is that... Is that your memory?
+Kurthnaga: Father! ......
+Ena: Kurth... He's gone...
+Kurthnaga: I know. This is simply another reason to move on... Entrusted by my father to care for our people, I will stand before Ashera. ...As the king of the dragon tribe!
+
+@Conversation 
+Sothe: Are you all right, Micaiah?
+Micaiah: Yes, I’m fine. How about you, Sothe? Are you all right? You’re not hurt?
+Sothe: I’m not a child, Micaiah! When are you going to start treating me like an adult?
+Micaiah: Show me your hand.
+Sothe: What?
+Micaiah: Look at your hands. They’re so big... They were so small when we met.
+Sothe: Micaiah...
+Ike: Ahh... Sorry. Am I interrupting something?
+Sothe: C-Commander!
+Micaiah: It’s all right, Ike. How can we help you?
+Ike: I was scrounging around in my stuff and found some extra medicine. I figured I’d ask around and see if anyone needed it.
+Sothe: ...I need to go get ready.
+Ike: Hey, there’s no rush. We still have... He didn’t catch a word of that, did he?
+Micaiah: I’m sorry about that.
+Ike: How long have you been with him?
+Micaiah: ...A long time. I met him when I was hiding out in the back alleys of Nevassa, over ten years ago. He was so skinny, but his gaze was so piercing... I wondered how such a young boy could look like that. One day, I noticed he was standing close to me, just watching. He continued like that for a few days. One day, I held out my hand. He was suspicious of me, but came over anyway. He looked like a scared animal. Then his little hand slipped into mine. It was shaking. His fingers were so thin and frail. I couldn’t let go after that.
+Micaiah: After that, we traveled together all over the continent. No matter where we went, we were always together.
+Ike: The first time I met him, he’d hidden on a ship we were taking. He mentioned he was looking for someone who was like family to him. It was you he was searching for, wasn’t it?
+Micaiah: I...I tried to leave him behind. When we went to Crimea, I split off from him and took a ship to Begnion. But when I reached Begnion, war had broken out between Crimea and Daein. I knew I had to return to Daein to look for him. I couldn’t find him, so I went to Crimea. But I still couldn’t find him... We found each other again after the war, in Daein. In the back alleys of Nevassa, where we first met.
+Ike: You took routes opposite to each other.
+Micaiah: When I told him why I’d disappeared, he got so angry... I’d never seen him get so emotional before.
+Ike: I can’t say that I blame him. I’d be pretty furious if I heard someone that I loved was wandering around two countries at war. Besides, I’m sure he’d hidden his feelings about being abandoned until he saw you again.
+Micaiah: I thought I was reaching the limit of how long I could stay with him. He grew each and every day, but I remained the same... I didn’t want him to be harmed by the curse I lived with. Can you imagine how hard that would have been on him?
+Ike: You mean the blood of the laguz?
+Micaiah: So you knew. Did you find out from the boy who’s always beside you?
+Ike: Soren. Yeah. I guess you both know how to recognize people with a similar nature.
+Micaiah: Yes. He and I are both Branded.
+Ike: ...Don’t use that word. You and Soren are both people. Just like me and everyone else.
+Micaiah: People. You’re just like Yune. You call both laguz and beorcs people.
+Ike: Why should I care about the color of your hair, eyes, and skin? Or your ears, wings, or tail? No matter how long you live or what powers you possess, we’re the same. At the end of the day, we’re all people.
+Micaiah: ... Sothe talks that way, too. His time with you changed him. Thank you, Ike. I’ve made up my mind.
+Ike: About what? I didn’t realize we were doing anything but talking.
+Micaiah: I thought I might travel to a far-off place after all of this was over. But I won’t. I’ll go back to Daein. No matter what happens, I’ll have Sothe by my side. I have nothing to fear as long as he’s with me.
+Ike: It seems the feelings between you two run both ways. But that’s probably the wisest choice for Daein, and Sothe too. Anyway...
+Micaiah: Oh, um... May I have some medicine?
+Ike: Oh! Yeah, I almost forgot. Survive, Micaiah. We need you, and the goddess you host, to save the people of Tellius.
+Micaiah: Yes. I know.
+
+Sanaki: Zelgius is the Black Knight? I don’t know what to say... It’s unbelievable!
+Ike: What was he like in Begnion?
+Sanaki: He was the right-hand man of my most trusted aide, Duke Sephiran of Persis. He was a hero, a perfect general, and the best swordsman in all of Tellius. He was never anything but loyal. But he was serving another country!
+Ike: Hmm. It makes me wonder how Sephiran is doing.
+Sanaki: I doubt he’s been turned to stone. Even though he was captured by Lekain and forcibly removed from his post, he’ll have found a way to persevere. Sigrun always said there’s no other master of the arcane arts who can compare with the duke of Persis.
+Ike: Makes you wonder, doesn’t it?
+Sanaki: Ike... Don’t tell me you suspect Sephiran!
+Ike: Well, look at the facts...
+Sanaki: Do not trouble your mind with that thought! He would never betray me.
+Ike: It’s nice to think so. But if he’s not petrified, he’d have received a message from Yune. So where is he?
+Sanaki: The goddess isn’t perfect. She said so herself! Maybe the message didn’t reach everyone.
+Ike: ...You have to admit that’s a weak excuse. Let’s leave it at that, for now. We need to focus on moving forward.
+Sanaki: Please, let’s! Oh, I almost forgot! I have something for you.
+Ike: What is it?
+Sanaki: Um... Uh... Well, you’re my trusted aide, just like Sephiran. You have to live! So protect yourself with this.
+Ike: A mercenary with a contract to act as aide to the empress of Begnion. Who’d have thought? But thank you, Sanaki.
+Sanaki: You’re welcome, Ike. And thank you.
+
+^start
+Rafiel: Ike, take a look at this.
+Ike: Hey now... Where’d you stumble across it?
+Rafiel: Inside the tower. I thought of using it myself, but...
+Ike: Yeah, I don’t think that it’s right for you.
+Rafiel: ...Indeed. That’s why I brought it here for you to use.
+Ike: Thanks. It’s a very rare item. I’m in your debt.
+Rafiel: It’s the least I could do.
+
+Reyson: Ike, take a look at this.
+Ike: Hey now... Where’d you stumble across it?
+Reyson: Lying around inside the tower. It seemed like the sort of thing I should bring to your attention.
+Ike: That’s very nice of you, but you didn’t have to. Do whatever you want with it.
+Reyson: Really? Do you think I’d be able to use it?
+Ike: Well, don’t get hasty. I don’t think it’s right for you.
+Reyson: ...I know. I’m just kidding, Ike.
+Ike: Thanks. It’s a very rare item. I’ll cherish it.
+Reyson: Please do.
+
+Leanne: (Micaiah, have you ever seen one of these?)
+Micaiah: Yes, Leanne, I have. That’s a very powerful artifact. Actually, it would be of great help to us, with what’s been happening.
+Leanne: (I found it inside the tower. Do you think I can use it?)
+Micaiah: Um... I don’t think so, Leanne. But you can try if you like...
+Leanne: (...I’m only kidding. Here, you can have it.)
+Micaiah: Oh, for me? Thank you very much. It’s a very precious item. I’ll make good use of it.
+Leanne: (Please do!)
+^end

@@ -1,0 +1,222 @@
+@Intro
+Jarod: You summoned me, Your Grace?
+Numida: Jarod, there is trouble. The apostle has formed an inspection team. She's dispatching it to Daein.
+Jarod: Oh-ho...
+Numida: I've arranged to meet with the senate's vice-minister, Duke Gaddos. If we ask him the favor... I imagine he could discreetly sweep their findings under the rug. But in the meantime, you MUST obliterate the insurgents! Once that is done, we'll devise excuses.
+Jarod: Understood, sir.
+
+Alder: What's the plan? Will the senators be able to cover up this mess?
+Jarod: If the inspection team and the rebel army ever cross paths...even the senate won't be able to hide the truth. We'll lure the rebels to Shifu Swamp. We'll plant tales of a mass execution there, and they'll be sure to come. Then, we'll trap the malcontents and wipe them from the face of the land.
+
+Daein: It's amazing... My wound is healed. I give you thanks. I never thought I'd see the Silver-Haired Maiden work miracles before my very eyes.
+
+Prisoner: Silver-Haired Maiden! Help them! You must help them!
+Micaiah: Help who? What's going on? Calm down and tell me.
+Prisoner: They're killing our men! I beg you, please, save them!
+
+Pelleas: Prisoners from Joad Work Camp are being collected in Shifu Swamp and executed...
+Tauroneo: Not only Joad. There's reportedly a plan to exterminate all prisoners in every camp and let the swamp conceal the remains.
+Izuka: I've heard nothing of such a plan! It's a false rumor! Or an enemy trap!
+Micaiah: It may indeed be a trap. But if we don't investigate, we risk a mass execution!
+Izuka: And what if it is a trap and they vanquish the Liberation Army? The dream of restoring Daein to glory will die instantly! For the good of Daein's future, we must ignore this threat.
+Micaiah: ...I understand. And that's why I won't take any troops. Only myself...and my old friends will go.
+Pelleas: Mi-Micaiah!
+Micaiah: If you refuse them your permission, I will go alone. 
+Izuka: Stop right there, little lady!! I will not authorize this action without the prince's full approval!
+Pelleas: Izuka... Let her do as she wishes. Please. She hasn't disappointed us yet.
+Izuka: My prince... Hrrgh! Fine. But I can't help but feel as if these children are running your army.
+
+@Conversation 
+Sothe: We're just about ready. Let's talk to Tormod, and--
+Micaiah: ...
+Sothe: Micaiah?
+Micaiah: Oh, sorry.
+Sothe: Hey, remember our promise from three years ago? There are no secrets between us.
+Micaiah: Sothe, Muarim knows that I'm older than I look.
+Sothe: I see. Well, don't worry too much about it. You can trust him.
+Micaiah: Yes, I'm sure of that. Muarim seems very trustworthy. But, what about everyone else? What would they think if they knew all of my abilities came from the mixed blood running through my veins? Blood they consider cursed!
+Sothe: Micaiah, stop...
+Micaiah: Right now, when they look at me, they have love and affection in their eyes, but would they look at me the same way if they knew? I don't want to find out, Sothe. I don't think I could bear the truth.
+Sothe: You know, we can stop.
+Micaiah: What do you mean?
+Sothe: Look, this was an impossible situation to begin with. You've always led such a secluded life... Ever since you were thrust into this position, I worried that the pressure might get to you.
+Micaiah: You're right. I knew it would turn out like this. Despite that, I accepted the job. I can't stop now.
+Sothe: But, Micaiah...
+Micaiah: Listen, Sothe. I realized something after Daein lost the war.
+Sothe: What's that?
+Micaiah: I realized how much I loved my country.
+Sothe: And?
+Micaiah: During the war, I spent a lot of time with the people of Daein while I was waiting for you to return. After we lost the war, all our cities and towns had been reduced to ruins. We had to help each other to cope. We supported and comforted each other. That's how we survived.
+Sothe: You never mentioned this before.
+Micaiah: I've been secluded so long, I had no idea people were so strong...and kind. No one knew who I was, but they helped me because I was from Daein. They were so...loving. They were my friends.
+Sothe: And now you won't leave them.
+Micaiah: I was touched by their kindness. Now, I'm scared to lose it. Very scared.
+Sothe: Micaiah...
+Micaiah: I suppose this isn't the time to worry about such things. If my power is needed to liberate Daein, I will stand my ground and fight.
+Sothe: Well, not to spoil your resolve... But if things get too hot, I'm just going to grab you and run.
+Micaiah: Sothe...
+Sothe: Friends and Daein are important, but not as important as you are to me. Remember that.
+Micaiah: ...All right. Thank you, Sothe.
+
+Tauroneo: Sorry about this, Lady Micaiah. Just this once, I agree with Lord Izuka’s concerns.
+Micaiah: I completely understand. This is my fight, and mine alone. Please keep the prince safe, General Tauroneo.
+Sothe: I’ll protect Micaiah. I’ve enlisted extra help, too. We’ll make it back in one piece.
+Tauroneo: I place my trust in you, Sothe. Best of luck. Oh, I nearly forgot. You should take this.
+Micaiah: What a peculiar staff… What power does it possess?
+Tauroneo: It is a restore staff. It will help you recover from poison, sleep, and paralysis. Enemies will use every method they possess to destroy you. It is best that you be prepared for every eventuality.
+Micaiah: Thank you, General Tauroneo. We will return safely.
+Tauroneo: I know. And I know you’ll save the hostages, too.
+
+Vika: Hm… I wonder where Boss is? These tents all look the same…
+Micaiah: Hello, Vika. Can I help you?
+Vika: Meep!
+Micaiah: Vika!
+Vika: …
+Micaiah: You always run away from me… Did I do something to offend you?
+Vika: No, I’m so sorry. I can’t explain why this happens. I get so jumpy around you. There’s just… something about you.
+Micaiah: Oh…
+Vika: Oh, but please don’t be sad! It’s not you. It’s me. I get…confused…sometimes. I really admire you, and then I get a bizarre feeling, and…
+Micaiah: It’s all right. Sorry to bother you.
+Vika: …No. Wait.
+Micaiah: Hm?
+Vika: I want to overcome this. I don’t like that I feel I must avoid you for some inexplicable reason.
+Micaiah: But…
+Vika: I know how painful it is to be…feared. I’m really, really sorry. Let’s be friends, OK? If you can forgive me, that is…
+Micaiah: Of course I forgive you! Thank you, Vika. I’d be honored to have your friendship.
+Vika: Here. Take this as a token of that friendship. Please, take it. I’d like you to have it.
+Micaiah: What a beautiful figurine. The goddess looks so serene.
+Vika: Carry it with you. It’ll bring you good luck. I met my boss and Muarim thanks to that figurine.
+Micaiah: Thank you, Vika. I’ll cherish it.
+Vika: I’m glad you like it.
+
+@Intro
+Radmin: Good. You may begin!
+Bandit: Here, have a little swim!
+
+Youth: Aaaaaaaahhh! No! Nooo! Help, someone!
+Micaiah: Stop! 
+
+Begnion: You're that...bleeding-heart filth!
+Micaiah: We are the Daein Liberation Army! Everyone, hold tight! You'll be safe soon!
+Youth: Look at her hair... Could it be the Silver-Haired Maiden? Our country's savior, come to rescue us?
+Youth: The Savior of Daein!
+Radmin: Whether they suspected a trap or not, they're here. Brazen fools! All hands, take battle positions!
+
+Radmin: Silver-haired wench! I'm going to drown you and all of Daein's hopes in these filthy waters! You've no escape!
+Micaiah: So...it's a trap after all.
+Sothe: Don't get too smug, you cruel cowards! We have a little something up our sleeves too. Tormod! Here's your chance!
+
+Micaiah: Lady Nailah! Volug!
+
+Begnion: Su-sub-humans! They're everywhere! How?
+Micaiah: Rafiel, even you came to help?
+
+Micaiah: What happened just now? What was that strange song?
+Sothe: That was Vigor, a heron galdr that can reenergize our allies in a fight. Don't be distracted, Micaiah! Let's set our formation while we can.
+
+@Battle-Talk 
+%Micaiah,Nailah
+Micaiah: Queen Nailah, are you sure it's all right involving not only you, but Rafiel, as well?
+Nailah: Rafiel can't fly, so sometimes he has trouble keeping up. But even so, the effects of his galdr make him a valuable asset in battle. All I ask is that you keep him near me, so I can keep him safe.
+Micaiah: I understand. I will.
+
+%Micaiah,Rafiel
+Micaiah: Rafiel...why did you come? I thought herons abhorred fighting...
+Rafiel: Wherever the queen goes, I follow. I practice seid magic... Even if I cannot fight, I can lend strength to my friends and companions.
+Micaiah: Yes, I heard you singing to Queen Nailah and Volug earlier. We are blessed to have you at our side.
+Rafiel: And if I sing to you, I can restore your spirits as well, so that you might attack your foes swiftly.
+Micaiah: So you will help us?
+Rafiel: Helping you would give me great joy.
+Micaiah: You have my thanks.
+
+@Boss
+Radmin: Silver-Haired Maiden, or whoever you really are! I knew you'd come! I knew how your reputation would suffer if you abandoned these prisoners here. You had no choice but to come.
+Micaiah: How many innocent, defenseless people have you ordered killed...just to lure me here?
+Radmin: Look who's passing judgment! Maiden of Miracles, Savior of Daein... You've spun quite a pack of lies to inspire your conquered people. But that ends here, wench! Let's show them how insignificant you really are!
+
+Radmin: That wench...her powers...much...too dangerous... She mustn't be allowed...to...
+
+@End
+Micaiah: We're nearly back to camp. I wonder if the prince will overlook the fact that I insisted on this mission?
+Sothe: I'm sure he'll be happy when he sees the prisoners are safe.
+Micaiah: Sothe...do you hear a noise coming from the canyon? Is it...people shouting?
+
+Daein: Look! Look up there! The Maiden has returned! And the prisoners are with her!
+Daein: She won another victory! She escaped their trap and destroyed the enemy...again!
+Daein: Radiant with divine protection, she truly has the goddess's blessing! The Silver-Haired Maiden! Our priestess!
+Daein: Priestess...of Dawn! Hooray, Lady Micaiah!
+
+Micaiah: What could they be celebrating?
+
+Nailah: It seems the soldiers are celebrating your liberation of the prisoners. You should wave to them. People like their heroes to seem approachable. It would make them happy.
+Micaiah: I'm no hero... But I see what you mean. 
+Daein: What a glorious sight she is!
+Daein: Lady Micaiah! Lady Micaiah, the Priestess of Dawn!
+
+
+
+Sothe: Here you are. I've been looking for you.
+Micaiah: Sothe, after all those soldiers cheering... I feel like I'm doing real good here...
+Sothe: ...Micaiah?
+Tormod: Sothe! Please, come quick! There's something wrong with Muarim!
+
+Muarim: Ghh...grraaahrrrr...
+Tormod: Muarim, get ahold of yourself! Look at me!
+
+Muarim: ...Gh... Li...ttle...one...
+Tormod: This happens over and over... Muarim suddenly transforms, and...he growls like he's losing his mind. And if I...if I grab him and yell his name again and again, he returns to himself, but...then it just starts over. And...and...when he's growling, his eyes, they look... It's as if, as if one of "them" is looking at me...
+Micaiah: "Them"? One of "them"? One of who?
+Sothe: You can't mean... No!
+Tormod: H-help him, please. I don't know what to do. The time between transformations is getting shorter and shorter...
+Muarim: Agh... My body can't... ...No, no, no... Little one...get away...
+Tormod: No, I won't let you! I'll die before I let you go feral! Muarim! Look at me!
+
+Sothe: That song...
+
+Micaiah: Rafiel...
+
+Muarim: Gh...
+Tormod: Wha--! Muarim! Muarim!
+Rafiel: ...The galdr of rebirth restores twisted bodies and souls to their proper states. He will be all right now.
+Tormod: Th...thank you... Without Muarim...life would be...terrible...
+
+Micaiah: What was that song? It was different than when he sang before...
+Sothe: It was the galdr of rebirth. I heard it once before, in the war. But... Micaiah, what's wrong?
+Micaiah: I feel...odd. Maybe it was the song... I'm shaking, for some reason... But I'm truly glad that Muarim will be all right...
+
+Pelleas: Feral Ones?
+Sothe: In the Mad King's War... Daein's military developed living weapons. They were called "Feral Ones"...laguz that had been warped and twisted by terrible experiments.
+Izuka: "Terrible," you say?! Do you mean to refute the highly effective results of my brilliant research?!
+Micaiah: Then it was you! You secretly gave Muarim the drug to turn him into a Feral One!
+Izuka: And what's wrong with that? Maintaining constant battle strength in beast state... How splendid!
+Tormod: How dare you! Transforming laguz into Feral Ones dramatically shortens their life spans. It destroys their sense of self, and they do nothing but fight until they die! And you! You gave Muarim that drug!
+Izuka: Pawns need no sense of self! It's only natural to sacrifice soldiers for victory in war!
+Micaiah: You twisted maniac! You are the lowest--
+Pelleas: Everybody! Wait, please! Izuka clearly did a terrible thing to that sub-hum--that laguz, I apologize. Tormod... I'm truly sorry. He will not use the drug again. So, please... Try to forgive him...
+Micaiah: Prince Pelleas...
+Izuka: My prince! We must not have royalty bowing and scraping before swine like--
+Tormod: ...That's enough! 
+Sothe: Tormod!
+Micaiah: Let him go...
+
+
+Sanaki: I see... Is that true?
+Lekain: Yes, Apostle. Our occupation forces have engaged in appalling and inhumane excesses in Daein. These excesses were perpetrated entirely outside the knowledge of the occupational governor, Duke Numida.
+Numida: I come to you penitent... Failing my duties as governor, I, Numida, share a measure of guilt for this disaster. I am prepared to take the appropriate punishment, Apostle Sanaki. However, I feel that freeing the people of Daein from the clutches of our oppression is our most urgent task...
+Sanaki: Urgent, you say? Then we must make haste. We will forthwith convene an inspection team and request a meeting with the army led by the late King Ashnard's orphan. We will assure them of Begnion's intentions. Then, we will immediately address the occupation force's tyranny.
+Lekain: Excellent! In that case, please deign to allow me, your humble servant Lekain, to lead the inspection team. The soldiers who have stained the empire's name will be toppled where they stand! I promise, they shall not live to return here.
+Sanaki: That is unacceptable. I will decide the soldiers' punishment only after hearing their side. And I have chosen to appoint Sephiran, Duke Persis, to lead the investigation team. Is that acceptable, Sephiran?
+Sephiran: I hear and I obey, my empress.
+Lekain: What?! But, but, Apostle Sanaki...
+Sanaki: This is a dire situation. Accordingly, I judge the prime minister, Duke Persis, to be more suited to the role than you, Vice-Minister Lekain. That is all. 
+Lekain: Hrrgh...
+Numida: L-Lord Lekain...! What shall I do?!
+Lekain: Duke Numida, my friend... I'm afraid you must sacrifice every last Begnion in the Imperial Occupation Army.
+Numida: What? Th-that's ridiculous! But...grrgh! Blast that spoiled brat and her cunning little schemes... You'll regret this, Apostle Sanaki!
+
+@Narration
+Micaiah and her small band of fighters knowingly walk into a trap to save condemned Daein prisoners. Even without the benefit of Izuka's vast information network, news of Micaiah's heroism in Shifu Swamp spreads like wildfire across Daein.
+The once-hopeless citizens of Daein dub her the Priestess of Dawn and find their spirits restored. In their troubled hearts, they see in her nothing less than the promise of salvation. Throughout Daein, the people rise as one against the brutality of their oppressors. Begnion's occupying forces cannot deal with open war on so many fronts.
+General Jarod redeploys his men to key locations to better defend the capital city. Jarod's forces still outnumber those of the Daein liberators, and he has hardened his defenses in hopes of holding off Micaiah's army.
+The liberation forces fight with a fury not to be denied, however, and the occupation army begins to lose its will to fight. Breaking through enemy lines again and again, Micaiah's forces gain vital ground and momentum.
+Despite the anger Micaiah feels toward Izuka for his treatment of their laguz allies, she continues to lead the army in its lightning-quick advance. Nevassa is now mere days away.

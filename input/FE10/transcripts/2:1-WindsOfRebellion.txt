@@ -1,0 +1,141 @@
+@Intro 
+Brom: Mornin', Jacob!
+Jacob: Look atcha, always sowin' yer seeds! It's lookin' like it'll be a fine crop this year--a real dandy!
+Brom: Heck, I just work the fields. It's the rich soil beneath m' boots and the fine sun over m' head what does the hard stuff.
+Nephenee: Brom!
+Brom: Well, if it isn't Nephenee. What's the story with the armor? Haven't ya heard the war's over?
+Nephenee: You'll be needin' armor too. A revolution's brewin'. Better suit up--and make it snappy! 
+Brom: Revolution?!
+Jacob: ...Oh yeah. Nobody tells us ol' geezers much, but I hear talk about some young hotheads over yonder. They're jawin' about bein' fed up with the queen, and how they want change...
+Brom: I don't get it! Her Majesty is a fine, fine lady... ...even if she is a tad young to be passin' laws instead of havin' fun. I guess I'll go have a look for m'self.
+
+
+Yeardley: ...We are the victors. It was Crimean blood and sweat that defeated Ashnard! And what do we have to show for it? We do not rule Crimea. Our towns have been destroyed. We need coin to ease our suffering. Who's to blame?
+Youth: The queen!
+Yeardley: We've been violated! Daein robbed us of families, friends, and homes! We cannot reconcile with monsters! And now, our hated enemy is rebuilding to threaten us again. Will we stand by and accept this?
+Youth: No! We will not!
+Yeardley: To arms, I say! We are not afraid! We shall fight for the prosperity of our fatherland, as did Ike the patriot!
+
+
+Nephenee: Hmm...
+
+Brom: Oomph, hoaa... Lemmee tell ya... It's been a while. This armor feels like a ton of bricks.
+Nephenee: Brom... Didn't you say somethin' about usin' axes these days...not spears?
+Brom: Uh, yeah... I suppose I did. What, ya went and brought armor AND weapons?
+Nephenee: Here, you take this axe... And hold on to it good, ya hear? All right... Let's go!
+Brom: Hey now... What's going on?
+
+Youth: Hey, look, it's Nephenee. She even brought her own weapon. So you're gonna join the revolution?
+Youth: Together, we can make a difference. Together, we have the power to dethrone the queen!
+Nephenee: ...What're y'all thinking?! You don't know the first thing about Queen Elincia!
+Brom: Maybe this is all some big mistake? Our queen is a splendid gal. Ain't nobody out there with a kinder heart. We should know as well as anyone... Heck, we fought beside her.
+Yeardley: ...You fought with the queen, eh? Hmph... I see. Brothers! Do not be deceived! These two are the queen's agents, and are undoubtedly spying on us!
+Brom: Listen, fella, you're talkin' nonsense. Queen Elincia wouldn't dream of usin' spies like that!
+Yeardley: Do not be deceived, my people! If they go to the Royal Knights... ...they will return bearing torches, burning homes, and taking prisoners! We must silence these spies!
+Brom: Listen up, you blockheads... I guess you forgot 'bout the war. After fighting for years, we finally have peace...and now you want to fight again?
+Nephenee: Ain't no good, Brom. These folk got their blood a-pumpin'. Ain't got a lik'a sense left in 'em.
+Brom: Horsefeathers. Reckon you're right. Listen up, Nephenee, let's try not to kill too many of these dang fools.
+
+@Visit
+Man: There was a stranger in here earlier. He left this axe--probably meant to use it on the queen. You know, I came to this village for some peace and quiet! Isn't there something you can do? Heck with it! Just take this thing. I'm fed up with war!
+
+
+Lass: What? People are fighting outside? That doesn't make any sense... If anyone were to get hurt... We've got to do something. Ohhhh, I hope Sis is all right...
+
+
+Boy: You ever heard of Miss Calill? She teaches magic. You know what? I told her she was pretty, and she gave me one of these! People who can't use magic can use this, and then...well...they'll be able to use magic...or something like that. Here, you take this one!
+
+
+Boy: What? People are fighting outside? That doesn't make any sense... If anyone were to get hurt... Wait, you should take this. It's a kind of medicine we make. Ohhhh, I hope Sis is all right...
+
+
+Lady: There was a bizarre man who just came through here. He was talking about a revolution and stuff. Left this. I'm tellin' ya, I've had a bellyful of this war business. I don't want this anywhere near me. Toss it... Sell it... I don't care what you do with it. Just get it out of my house. It's all yours.
+
+@Battle
+Heather: Sounds like the whole village is in an uproar. More men fussing over nothing, I'm sure. Bigger fools were never made. Lucky me! Time to find one ripe for the picking, get his goods, and be on my way. Be home soon, Mom!
+
+@Recruit-Talk 
+%Nephenee,Heather
+Nephenee: ...Uh, hello?
+Heather: Argh, whaaat?! Do you need something?
+Nephenee: Hey, y'all best... Er... You should be careful hanging around here like that. I reckon you should clear out of here while you're still in one piece.
+Heather: Aww, that's so sweet of you! What's your name?
+Nephenee: Nephenee...
+Heather: Nephenee... What a cute name. I'm Heather. Pleased to meet you.
+Nephenee: Pleasure's all mine. So it's Heather, huh? You gonna get outta here, then?
+Heather: Well... It looks to me like you have an uphill battle to fight. I bet I can help you out.
+Nephenee: But you...
+Heather: Don't worry about it. I'm the type that likes to help nice country girls like you.
+Nephenee: Um...like me?
+Heather: That's right. Don't worry about it. Tee hee... This is turning out to be a great day.
+Nephenee: Uhhh... Yeah...
+
+%Brom,Heather
+Brom: Hey...
+Heather: ...
+Brom: Hey, pay attention.
+Heather: ... ...
+Brom: Aw, heck, I hope I ain't shoutin' at a deaf girl... CAN YOU HEAR ME?!
+Heather: ...Knock it off, already. What do you want, you old hick?
+Brom: ...Oh, sorry 'bout that. They call me Brom, by the way... How 'bout you?
+Heather: ...Excuse me? Are you trying to get lucky or something? Give it up, you smelly pig farmer. There's no way I'm having anything to do with you.
+Brom: No, no! It's nothin' like that at all! I got myself a darlin' wife and a whole passel of kids, and I love 'em ta death.
+Heather: So... What do you want?!
+Brom: See, I believe ya just went and stole something from one of these here youngsters in the village. You did quite a job at it, I might add.
+Heather: Were... Were you watching?!
+Brom: Now hold on a spell... I ain't preachin' at ya, and I'm not gonna turn ya in or nuthin'. I was just thinkin' that maybe ya could lend me a hand.
+Heather: A hand? With what?
+Brom: Well, me and uh...you see that girl over there with the long hair? We're havin' a bit of a tussle with some'a the young folk in the village... They picked a fight, but we don't want anyone gettin' hurt. I just thought maybe you could borrow some'a their weapons, so we won't have to fight at all?
+Heather: Huh... So that girl is a friend of yours? Hmmm...
+Brom: Friend ain't exactly the right word... Nephenee... We met when we fought together during the war. We're kinda neighbors, so we hit it off. Durin' the war, neither of us knew much about fightin', so we helped each other out.
+Heather: All right, I'll help.
+Brom: Whew, that's great! That's just swell of ya!
+Heather: Hey, I couldn't care less about you, but I can't just sit back when a girl's in trouble. OK, let's go. We can't leave Nephenee waiting!
+Brom: Hey, hold up! Just wait a tick. What's your name?
+Heather: Heather! but as for you, hayseed...don't forget the "Miss." Got it?
+Brom: Miss Heather, then. All righty. By the way... Could ya maybe slow down a touch? Huff huff huff...
+
+@Boss
+%Heather,Yeardley
+Yeardley: Be gone with you, thief! We won't have filth like you stand in the way of our supremacy!
+Heather: So! You're the ones sent by Ludveck of Felirae?! You've been stirring up these little revolts all over the place.
+Yeardley: What?! How did you know?!
+Heather: I see things here and there. But half of it was just a guess! ...Judging by your reaction, though, it seems I was right.
+Yeardley: You...little...
+Heather: Tsk... Don't get so steamed up, Mr. Fancypants! You just look silly. Nothing personal... I just don't like men like you!
+
+%Brom,Yeardley
+Brom: Hey, you! Who put ya up to this? Politics ain't my strong suit, so ya can spare me the details, but I know you're up ta no good, and someone's behind it.
+Yeardley: Hah! Clamor all you like, but it won't change a thing. Revolution is taking root across Crimea. Our plan is flawless. We're getting rid of that...girl! We shall have a new ruler in Melior... Soon... Lord Ludveck, duke of Felirae, will wear the crown.
+Brom: Ludveck? From Felirae?
+Yeardley: That is correct. And you shall perish with that name fresh on your lips, you blundering cow!
+
+%Nephenee,Yeardley
+Yeardley: Ah, survivors of the war. You would be better off dead and forgotten. You can't stop the duke!
+Nephenee: Duke?
+Yeardley: Yes. Our master, Lord Ludveck, duke of Felirae, will rule over Crimea. When our plan is complete, the queen will be erased from history. Now then! I believe it's time for you to die...
+Nephenee: Right...
+
+@Boss
+Yeardley: No! My duty is incomplete... Lord Ludveck... Please forgive me!
+
+@End
+Youth: You bumpkins! Just stay out of it!
+
+Youth: It hurts! It hurts so bad! Look, my leg! It... My leg!
+Youth: M-murderer! You're a murderer!
+Nephenee: But I...
+Brom: Yeah. That's right. Nephenee and me... We been to war. When y'all were hidin' in cellars and attics, we were toe-to-toe with Daein. And look at us now...
+Youth: St-stop it... Please! I...was wrong! I'm sorry! I'm so sorry!
+Brom: You got your head on straight now? You youngsters get so riled up... "Let me at 'em!" and "Bring 'em on!" Hmph! You know spit about war! Nephenee... Let's gear up and head out to the royal palace. Her Majesty's gotta know Ludveck's stirrin' up all kinds of nonsense. And my girl, Meg... She's off on her own... Knowing Meg, though, she'll be fine. All righty then. Let's get movin'.
+Nephenee: Sounds like a plan.
+
+Jacob: You two're really leaving, then?
+Brom: We put the people of this village in danger. We can't stay here now, knowin' that. We'll hafta set things straight. I hate to leave, but...
+Grandmother: Why did it have to come to this? I always thought our Queen Elincia was about as good as they come, lowering taxes and looking after orphans.
+Nephenee: The young folk don't care 'bout that stuff. They only care about what's getting' their dander up. Then they ignore everything else. I reckon that's why we gotta do what we gotta do. If we don't step up, the whole country'll be goin 'on the compost heap.
+Brom: That's why we've got to get to Queen Elincia right away. It's all gonna be just fine. If I know Her Majesty, she'll take care of this uprising in no time. Then we can return to our farms and grow some mighty good eats. All of ya just hold tight, now.
+
+@Narration
+In a rural Crimean town, a band of rebels sow the seeds of discontent. They are stopped by Brom and Nephenee, two former Crimean soldiers. However, more uprisings are sure to follow.
+Brom and Nephenee decide to travel to Melior, the capital of Crimea, and inform Queen Elincia as to the gravity of the situation.

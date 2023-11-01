@@ -1,0 +1,375 @@
+@Intro
+Tauroneo: A rebellion in the empire?! Is that true?
+Sothe: Yes. The empire has been thrown into chaos since General Zelgius freed Prime Minister Sephiran. They've incited the peasants by asking, "Who should you believe in? The senate, or the apostle?"
+Tauroneo: And the people have chosen the apostle, correct?
+Sothe: Yes. They're rioting in the capital day and night, demanding answers. The senate is busy trying to quell the masses.
+Tauroneo: This is great news! If we were to forge and alliance between Daein and the apostle's supporters in Begnion--
+???: That is not a wise choice.
+Pelleas: The curse on the blood pact will begin killing our people as soon as we do anything the senate doesn't care for. Defeating the senate doesn't guarantee the curse will be broken either. In fact, it may ensure it can never be broken. In which case, Daein's destruction will come more slowly, but it will come nonetheless.
+Sothe: So, we can't attack the senate, and we can't ask for help. The only thing we can do is search for a way to get rid of the curse. This is driving me crazy...
+Tauroneo: If we could only contact the apostle... But if the senate heard a word of it, they'd destroy us. Our hands are tied.
+Pelleas: Luckily for us, that's not true. I have some good news, for a change. I found a way to break the blood pact. Where is Micaiah? Please bring her here.
+Sothe: You discovered how to break the blood pact?! I'll get her right away. 
+
+@Dialogue
+Micaiah: You can't be serious, Your Majesty!
+Pelleas: But, I am. Don't you see?! This is the way to save Daein! The information was in a book hidden away in a secret room. I think it is reliable.
+Tauroneo: I must ask you to reconsider, my king. There has to be another way. There must be!
+Pelleas: We can't afford to wait for another solution to present itself. We have to try.
+Micaiah: ...I cannot go through with it.
+Pelleas: Micaiah, the life of every single person in Daein depends on this! If it works, we can stop fighting this absurd war. It will be all right. I know this will work! Please do this for me, Micaiah.
+Micaiah: I can't! I thought I made up my mind... I thought I'd do anything for Daein! But then I saw Sothe taken from me, and I saw him fall... I was powerless to do anything! I'd taken so many lives as a general, and yet, when I thought of Sothe dead...
+Pelleas: Even if it hadn't been Sothe in front of you, you would have reacted the same way. That's the kind of person you are.
+Pelleas: Individual lives taken before your eyes weigh more heavily than the many lives taken during the chaos of war. If that life is someone dear, the burden is even worse. It's only human. Isn't that true?
+Pelleas: Micaiah. It's your caring soul that I admire. That's why I want it to be you.
+Pelleas: I want you to kill me.
+Micaiah: No, I can't! I can't do it! Don't make me do this, please!
+Pelleas: "The blood pact breaks when the pact-maker is killed by a third party." That is exactly how it's written. This is the only way to save Daein.
+Micaiah: Please! Please don't ask me to do such a horrible thing.
+Pelleas: This is my duty as king, Micaiah! If you won't do it, I must ask someone else!
+
+^start
+Micaiah: All right... I'll do it... I'll do it for you, and for Daein.
+Pelleas: Thank you, Micaiah. 
+Pelleas: General Tauroneo. Please look after the people of Daein.
+Tauroneo: Yes...Your Majesty.
+Pelleas: Sothe. I'm sorry for all that I put you and Micaiah through, including this. Please forgive me.
+Sothe: Don't worry about that now, Pelleas.
+Pelleas: Micaiah. Please give this ring to my mother. Tell her that I loved her dearly.
+Micaiah: ...I will, Your Majesty.
+Pelleas: Good-bye, my friends. 
+Micaiah: Your Majesty. Sniff...what have I done?
+Almedha: Pelleas! Is he here?!
+Almedha: NOOOOO!  Pelleas! My dear Pelleas! 
+Almedha: Who did this?! Who killed my son?! Was it you?! I know who it was... YOU! You killed my Pelleas!
+Micaiah: ...
+Sothe: It was the king's wish. He sacrified himself to make Daein free. He asked Micaiah to end his life.
+Tauroneo: It was an honorable end for a king. Thanks to his noble sacrifice, Daein has been saved.
+Almedha: Fools! Is that what you think?! Daein has not been saved!
+Tauroneo: Wh-what do you mean, my queen?!
+Almedha: Take a good look.
+Almedha: The mark is still on his wrist. My son's death was in vain!
+Micaiah: No! It can't be! Sothe, tell me that it isn't true...
+Almedha: Murderer! Give me back my son! You took my only son! Give him back!
+
+Micaiah: I...I'm sorry. I can't do this...
+Pelleas: I see... That is all right, Micaiah. I know it's a terrible thing to ask.
+Pelleas: ...General Tauroneo. It is your duty.
+Tauroneo: Your Majesty... Is this necessary?
+Pelleas: This is your king's order, General. You must obey.
+Tauroneo: Such will, at so young an age! ...As you wish, Your Majesty.
+Pelleas: General Tauroneo. Please look after the people of Daein.
+Tauroneo: Yes...Your Majesty.
+Pelleas: Sothe. I'm sorry for all that I put you and Micaiah through, including this. Please forgive me.
+Sothe: Don't worry about that now, Pelleas.
+Pelleas: Micaiah. Please give this ring to my mother. Tell her that I loved her dearly.
+Micaiah: ...I will, Your Majesty.
+Pelleas: Good-bye, my friends. 
+Tauroneo: ...
+Micaiah: Your Majesty... Sniff... What have we done?
+Almedha: Pelleas! Is he here?!
+Almedha: NOOOOO!  Pelleas! My dear Pelleas!
+Tauroneo: Queen Almedha...
+Almedha: Who did this?! Who killed my son?! Was it you?! I know who it was... YOU! You killed my Pelleas!
+Tauroneo: No, Queen Almedha. It was I. I killed the king.
+Almedha: Traitor!
+Sothe: It was the king's wish. He sacrificed himself to make Daein free. He asked Micaiah to end his life.
+Tauroneo: It was an honorable end for a king. Thanks to his noble sacrifice, Daein has been saved.
+Almedha: Fools! Is that what you think?! Daein has not been saved!
+Tauroneo: Wh-what are you saying, my queen?!
+Almedha: Take a good look.
+Almedha: The mark is still on his wrist. My son's death was in vain!
+Micaiah: No! It can't be! Sothe, tell me that it isn't true...
+Almedha: Murderer! Give me back my son! You took my only son! Give him back! Bring him back to me!
+
+Micaiah: I...I'm sorry. I can't do this...
+Pelleas: I see... That is all right, Micaiah. I know it's a terrible thing to ask. ...General Tauroneo. It is your duty.
+Tauroneo: Your Majesty... Is this necessary?
+Pelleas: This is your king's order, General. You must obey.
+Tauroneo: Such will, at so young an age! ...As you wish, Your Majesty.
+
+Pelleas: General Tauroneo. Please look after the people of Daein.
+Tauroneo: Yes...Your Majesty...
+Pelleas: Sothe. I'm sorry for all that I put you and Micaiah through, including this. Please forgive me.
+Sothe: Don't worry about that now, Pelleas.
+Pelleas: Micaiah. Please give this ring to my mother. Tell her that I loved her dearly.
+Micaiah: ...I will, Your Majesty.
+Pelleas: Good-bye, my friends. 
+Micaiah: NO! This is wrong! We can't give up, Your Majesty! 
+Tauroneo: Eh?
+Pelleas: Micaiah?!
+Tauroneo: Lady Micaiah...
+Pelleas: What did you do?!
+Micaiah: I...I'm all right. I...
+Pelleas: Fetch a healer! Now!
+Micaiah: No, I'm fine, really. I'm just confused... Is the goddess telling me that I'm not worthy to become a martyr for Daein?
+Pelleas: Or maybe she is saying that you're just too important to lose... But this is my fault! It was all because I signed that blood pact! I can only amend my mistake by giving my life!
+Micaiah: You must stop running, Your Majesty.
+Pelleas: Wha--!
+Micaiah: But what if your information is incorrect, Your Majesty? I couldn't live with myself if I'd let you give up your life in vain. There MUST be another way! We'll look for it together. There is... I... I can see...
+Sothe: Micaiah! Hey, Micaiah! Wake up!
+Tauroneo: I will call a healer right away! 
+Pelleas: Micaiah... Thank you...
+^end
+
+@Intro
+Tibarn: Welcome back. What's going on with Daein?
+Janaff: They're hold up in this big castle to the east. I'd say ten thousand soldiers, give or take. They're looking pretty desperate.
+Tibarn: To the east, eh? It's just like Soren said. Nox is the next battlefield.
+
+Ranulf: Ten thousand? They aren't really going to try to fight us with only ten thousand men, are they? It'd be suicide!
+Sanaki: Daein should know about the rebellion in the empire by now. We should speak with them. They have nothing to gain by siding with the senate. Why continue the fighting?
+Ike: We can't afford to lose any more troops or time here, either. We should be at the senate's doorstep by now.
+Sanaki: Agreed. Sephiran has earned some time for us. We can't afford to lose that advantage. We must press on. Let us win this battle quickly and continue on our way!
+
+Rafiel: General Ike. Please allow us to join you on the battlefield.
+Ike: Shouldn't you be watching over the medallion with your brother and sister? Is it really a good idea for you to be away?
+Rafiel: They can manage without me for a while. I am here because I must see Micaiah. I want to save her. I can reason with her. I know it.
+Nailah: If we can talk to her face-to-face, maybe she will understand. It's also for our own peace of mind.
+Ike: All right. Come with us. I'll tell my men to avoid firing at Micaiah. Sound good?
+Rafiel: Thank you, Ike.
+
+
+Daein: The outer gate has been breached! The apostle's army is storming the castle!
+Sothe: Here they come.
+Micaiah: ...It all ends here.
+
+Ike: Let's finish this fight quickly! All units, attack!
+Micaiah: We will not lose! We cannot lose! If we lose today, everything Pelleas has done will have been in vain! In the name of King Pelleas, fight for Daein!
+
+
+Daein: Maiden, please take this. You are the commander general of the Daein army. It is imperative that you lead our troops from this spot. However, with this tome, you can aid your allies from afar.
+Micaiah: Thank you.
+
+@Battle
+Ranulf: Ike, are you safe? Wait, that was a dumb question, wasn't it? I don't think any of us are safe at the moment.
+Ike: Are you guys finished with the preparations?
+Ranulf: Yeah. The rest of the force is on the way. They should arrive any minute.
+Ike: All right. Once we merge, we'll launch the attack.
+
+Nailah: Rafiel, are you ready? Let's go look for Micaiah. Do not leave my side; these beorc look edgy.
+Rafiel: Yes, Queen Nailah. I'll be closer than your own shadow.
+
+@Battle-Talk 
+%Sothe,Nailah
+Sothe: Queen Nailah! Are you going to try to hurt Micaiah?
+Nailah: No, silly boy. I'm here to talk to her. Since you know me, why don't you take me to her? I would prefer not to kill all your soldiers if I can help it.
+Sothe: I'm sorry, but I can't do that. I can't let a laguz near Micaiah. Lots of people from Daein have issues with the laguz.
+Nailah: We are not your enemy.
+Sothe: I know that, but our troops wouldn't understand. I'm sorry, Queen Nailah.
+Nailah: ...Very well, then.
+Sothe: I'm...I'm ashamed it has to be like this.
+Nailah: Try not to worry. Just...survive, all right? Watch after Micaiah, as well.
+Sothe: I will. We're fighting for our survival as it is. I don't plan to let anyone go.
+
+%Volug,Nailah
+Volug: (Your Majesty...)
+Nailah: Let me hear it from you. Why is Daein involved in this war?
+Volug: (The Daein king was tricked into cooperating with Begnion.)
+Nailah: What about Micaiah? And Sothe?
+Volug: (They haven’t changed at all. They fight for the continued survival of their country.)
+Nailah: I see. They are our friends. We cannot let them fall.
+
+@Recruit-Battlle
+Ike: Why would you seek me out? I won't have mercy on my enemies. That goes for former allies, too!
+
+Ike: They’re holding out longer than I expected.
+Titania: Ike! Our forces on the western wall broke through the Daein defenses! They’re requesting reinforcements. We should move our forces to the breach.
+Ike: All right. I just hope we’re able to keep Micaiah from doing anything rash. All units, to the western wall!
+
+%Sothe,Ike
+Sothe: Commander Ike...
+Ike: Are you prepared this time, Sothe? Are you really sure about this?
+Sothe: Yes. Our battle has no justice. There is no victory in this war. Only pointless killing. But this is the path I've chosen.
+Ike: Then stick to your chosen path. I'll strike you down with one blow. That's the least I can do for you.
+Sothe: ...Thank you, Commander.
+
+%Micaiah,Ike
+Ike: Micaiah, we have to talk. This is insane.
+Micaiah: What's insane about a people fighting for their country?
+Ike: There's got to be something we can do! Let us help, please!
+Micaiah: Why would you want to help us, after everything we've done? No, after everything I've done...
+Ike: We know you don't want this fight. Isn't there any way for us to avoid it?
+Micaiah: ...No. No, I'm afraid there isn't.
+Ike: Just talk to me! We can find a way!
+Micaiah: You don't understand. We can't stop. I'm sorry, but I can't explain it more clearly than that.
+Ike: Micaiah, I don't want you to die. I don't want all of your soldiers to die. You have to let me help you.
+Micaiah: Ike... Now I see it. Now it makes sense.
+Ike: What makes sense?
+Micaiah: Sothe always spoke so highly of you. Now I know the reason. You truly are a good person. It's a shame...
+Ike: Why is that a shame?
+Micaiah: Because it makes what I have to do even harder. Please prepare yourself. Let's put an end to this.
+Ike: As you wish. Good-bye, Micaiah.
+Micaiah:  ...strike my enemy!
+
+@Recruit-Battle 
+Soren: ...Ugh... What a terrible place... to die...
+Ike: Soren, retreat!
+Soren: But, Ike...
+Ike: Aren’t you supposed to be my strategist? Use your head! I need your help.
+Soren: ...I see. As you command...
+
+%Micaiah,Soren
+Soren: Our last battle, in the valley. Was that your strategy?
+Micaiah: ...
+Soren: That was impressive. You killed thousands of beorc soldiers with your little ambush. Well done.
+Micaiah: I...
+Soren: The Maiden of Dawn... What are you? One of the Branded, that’s for sure. But there is something else about you... Power. Yes, I can feel it in you. You possess great power.
+Micaiah: Yes, and you would know. There’s something very different about you, too. Your energy feels so...ancient. You and I seem to have so much in common.
+Soren: That doesn’t matter in the slightest. The only thing that does matter is that you are a dangerous adversary. You are also in Ike’s path, so it falls to me to remove you. It’s almost a shame. Farewell, Maiden of Dawn.
+Micaiah: So, you fight for someone, as well. So very much alike... But I will defeat you. I will protect the ones I love!
+
+@Recruit-Battle 
+Mist: Oww! Hey, that hurts! Sorry, Ike. I’m going to pull back.
+
+%Jill,Mist
+Mist: Jill! Why? Why are you doing this?!
+Jill: I’m sorry, Mist. There’s no way we can turn back now.
+Mist: But, Jill...
+Jill: Mist...run. I won’t be expected to kill you if you just turn and run!
+
+@Character-Falls
+Titania: Ugh... They got me...
+Ike: Titania! Retreat and don’t exert yourself. We wouldn’t be complete if you weren’t here. We need you.
+Titania: Ah, I understand, Ike. ... You’ve... grown to become a legend... Greil... are you watching? Be proud of your son.
+
+Ranulf: Arg! Like being hit... with a mountain...
+Tibarn: Ranulf! Enough! Get back! I can’t let you die! What would I tell King Caineghis and Skrimir?
+Ranulf: ...I’m sorry, King Tibarn...
+
+Boyd: Ugh! They hit me good. I hate to say it, but I have to pull back!
+
+Oscar: The enemy uses good tactics. Sorry, Ike. I’m pulling back for now.
+
+Shinon: Why do these softheads keep fighting?! There’s no chance they’ll ever win this battle! I’m pulling back for now. I’m not wasting my arrows on these fools!
+
+Gatrie: Ugh! Hey, you’re pretty good! Better than I expected, honestly. Ike, I’m pulling back.
+
+Rolf: I... I guess it’s over...
+
+Rhys: Ugh! That’s it for me... I’m pulling back now, everyone.
+
+Mia: They’re strong! I can’t defeat them! But I’ll be stronger tomorrow, and then we’ll see who wins!
+
+@Battle
+Daein: Maiden of Dawn! The enemy is approaching. Please, you must withdraw inside the castle! 
+Micaiah: Our defenses have been broken... We did everything we could. It's only a matter of time now.  Daein soldiers, pull back immediately! Take up positions inside the castle! We won't let them take us without a fight!
+
+Daein: The inner gate has been breached! It's only a matter of time before they break through the inner walls. 
+Sothe: That was fast. We didn't even get a chance to rest.
+Micaiah: Isn't there anything else we can do? King Pelleas has worked so hard to find the answer... Was it for nothing? There must be something... A rumor, old folklore... Anything...
+Sothe: Hold on. Didn't Lady Almedha seem to know something about the blood pact? Come to think of it, she recognized the mark of the pact on Pelleas's arm right away, like she'd seen one before.
+Micaiah: You're right!  Why didn't I realize it sooner? Where is she? Where is Lady Almedha?!
+Daein: General! It's no use! We can't hold them off any longer! Enemy troops have broken through and are headed this way! Escape while you can!
+Micaiah: No! I must find Lady Almedha! Everything depends on it!
+
+Ike: Break down that gate! If they won't come out, we'll just let ourselves in. All forces, advance!
+Ranulf: Ike! We have a problem! A big problem. All this battlefield chaos is starting to really affect the laguz. They're on the verge of losing control. I can't stop them, Ike! If they find Micaiah, they're going to tear her apart. I guarantee it.
+Ike: Blast! We need to get them under control. Where's Skrimir?
+
+
+Janaff: Sheesh! What a relief to finally have the end of this thing in sight. I can't believe what a fight the Daein army put up, especially considering their numbers. Wait a minute... Hey, Ulki. What the heck is that on the horizon?
+Ulki: It's flying toward us... The flapping sounds heavier than a wyvern... It sounds huge.
+Tibarn: Oh, you've got to be kidding me... All units, get down! NOW!
+
+
+
+
+
+Ena: All of you are ordered to throw down your weapons and cease fighting! Do this for your own welfare.
+Ike: Ena! Elincia! What's going on here?
+Ranulf: It's a black dragon of Goldoa...
+Ike: Tibarn, what's going on?
+Tibarn: Why are you asking me? All I know is that I'm not ready to step up to a black dragon. Did you see that blast?
+Ike: Point taken. All units, retreat! Platoon commanders, gather your men!
+
+
+Micaiah: What just happened? Why did the apostle's army leave? And what was that horrible sound?
+???: Micaiah!
+Micaiah: Kurth! Where have you been? I haven't seen you since you left for home. How did you get here? Why would you even come to a horrible place like this?
+Kurthnaga: I wanted to save you...and my sister, as well.
+Micaiah: Your sister? She's here?
+Kurthnaga: Never mind that now. I'm just glad you're safe. Are you hurt?
+Micaiah: No, I don't think so. I'm just very confused right now.
+
+Daein: The sub-humans are here! Protect the maiden with your lives!
+Micaiah: Stop! Stand down, all of you!
+
+Micaiah: Queen Nailah... Rafiel... I... Th-thank you. Thank you...so...much... 
+Rafiel: It's all right, Micaiah. It'll be all right...
+
+
+Ike: That black dragon is Prince Kurthnaga? Sheesh, I thought the lions got big...
+Tibarn: Ah, it's the son, is it? I thought maybe the dragon king had shrunk a bit in his old age.
+Skrimir: You all know the dragon prince of Goldoa?
+Ranulf: Yeah. Goldoa hosted a meeting of laguz royalty three years ago. That's when Tibarn and I met him.
+Ike: Elincia and I met him around the same time. I'd say he was a nice kid, except that he's older than all of us put together.
+Ena: The prince hopes to avoid the complete destruction of Daein and its people. He wishes to stop the fighting. We would like to ask you to implement a cease-fire and hold a peace talk.
+Sanaki: We have attempted to hold peace talks with Daein on multiple occasions! They refuse to listen to reason, and instead choose to fight. We have no more time to waste on people who choose war over peace at every turn!
+Ena: Your people are waiting for you in Begnion. Is that what presses you?
+Ike: It's not just that. All this strife and chaos has affected the medallion. It's shining brighter each day.
+Elincia: No! that can't be!
+Ena: The blue flame burns once more...
+
+Ena: The light that radiates from the medallion looks like blue fire. It's this flaming aura that earned the medallion its other name: the Fire Emblem.
+Sanaki: The Fire Emblem...
+Ena: The flames on the Fire Emblem indicate the awakening of the dark god. If the war is allowed to continue, nothing can stop the dark god's awakening. We must halt this fighting.
+Sanaki: If there is a way to stop the fighting, we shall do everything in our power to aid in that effort. We have pursued peace since this began.
+Ena: Then let us wait until Prince Kurthnaga returns. He is speaking with the leaders of Daein now.
+
+Ike: Elincia, what are you doing here? Did Ena and Kurth ask you to bring them to this battle?
+Elincia: No, that wasn't the case. Prince Kurthnaga and I ran into each other on our way here.
+Lucia: We are actually in Daein to look for Count Bastian of Fayre.
+Ike: Lucia! You're here, too?
+Lucia: Of course. I cannot let Her Majesty out of my sight. You know that.
+Elincia: Bastian... He'd been so good about sending me reports until recently.
+Ike: He was searching for the Black Knight, right?
+
+Elincia: After the Mad King's War, Begnion sent an envoy to investigate war crimes committed during Ashnard's reign. The Black Knight had already left Daein before the empire's observer arrived. Where he went remains a mystery. That was the last piece of information we received from Bastian. Then he sent word saying that something more important had come up with regards to Crimea. He's been missing ever since. I haven't heard a single word from him.
+
+Ike: Bastian likes to keep his secrets. He's probably just laying low somewhere.
+Lucia: I'm not so sure. He must've found something important, some new piece of information that he had to pursue.
+Elincia: I ordered Geoffrey to watch over Crimea, and came here to begin a search for Bastian.
+Ike: It's too dangerous for you and Lucia to travel by yourselves. Why don't you com with us? Everyone would love having you two around.
+Elincia: Than you, Ike. We'll gladly accept the offer.
+
+@Narration
+Queen Elincia and the dragons of Goldoa persuade both armies to accept a temporary truce. The blue light that burns within the medallion grows more fierce with each passing day. To prevent the awakening of the evil trapped within, the fighting must be stopped.
+However, the apostle and her army refuse to abandon Sephiran's forces in Begnion. Though they hoped that Daein would cease fighting, they knew battle was inevitable. The bloodshed begins anew.
+
+@Conversation 
+Leonardo: Say, Edward. We’ve been fighting really hard for quite a while now, haven’t we?
+Edward: Yeah, I guess so. The war of emancipation, the war against the Laguz Alliance, and now against the apostle’s army. One after another, just like that.
+Leonardo: The world can’t always be like this. These wars seem so pointless. All I want is to be able to live in Daein, peacefully and in freedom.
+Edward: Yeah. The military is a pretty strange place. Hey, I have an idea! Once this battle is over, I’ll quit the army and go home.
+Leonardo: What about Micaiah and the others? Are you going to abandon them?
+Edward: What? No way! I’ll just have to talk them into leaving with me! And if that catches on, all the soldiers will leave, and then there can’t be a war. And then Daein will have peace again!
+Leonardo: You know, I don’t think it’s that simple. But your plan sounds good to me, Edward.
+Edward: See? You know it’s smart! First, you and I will leave. Together, we can tackle any obstacle!
+Leonardo: We’ll have to survive the next battle, first. This should help. Here. Look what I got you.
+Edward: Oh! This sword is amazing! Where did you get this!?
+Leonardo: I’ve been saving up. Micaiah chipped in, too.
+Edward: You got this for me?
+Leonardo: Yeah. Since you’re always fighting so recklessly, I thought this sword would be a good match for you.
+Edward: Thanks, Leonardo! You’re the best friend I could have!
+Leonardo: I know. We’re each other’s best friend and family.
+
+Aran: Hey, Laura! You dropped a staff over there.
+Laura: Oh! Ah. Thank you, Aran.
+Aran: You’ve been carrying a lot of things lately.
+Laura: Yes, I suppose so. Many people are injured. I wanted to help heal as many of them as I can.
+Aran: That’s admirable. Is there anything I can do to help?
+Laura: Yes, of course!
+Aran: First, hand me all of your things. I’ll carry them for you.
+Laura: That would be great. Here you go. Say...
+Aran: Hmm?
+Laura: That staff you picked up earlier... It doesn’t belong to me.
+Aran: Really? It was right at your feet, so I’d assumed that it was yours.
+Laura: I’ve never seen a staff like this. I wonder what effect it has?
+Aran: Hey, be careful. It might be dangerous or something. Let’s throw it away.
+Laura: Well, maybe if I shake it like this... And then... Whoa!
+Aran: Wuh!
+Laura: What did you say, Aran?
+Aran: Zzz... Zzz...
+Laura: Oh, Aran. You’re such a clown. How do you fall asleep on your feet? I guess you must be really tired. Why don’t I just leave you be? Let me just take my things back.
+Aran: Zzz... Zzz... Zzz...

@@ -1,0 +1,200 @@
+@Intro
+Daein: Begnion is attacking Nevassa!
+Daein: No! My parents live there! They're far too old and frail to defend themselves!
+Daein: My wife and kids are there, too! It's that heartless murderer, Jarod... He just wants us to suffer to the bitter end.
+
+Micaiah: Prince Pelleas! We have to do something. We must liberate Nevassa and save the people form this brutal attack!
+Izuka: Is there no end to your lunacy?! The apostle's envoy is nearly here! Why be rash when victory is so close!
+Sothe: People are dying, and Nevassa has already suffered more than enough. Do you really expect us not to lift a finger to help?
+Micaiah: If you will not help, we will go by ourselves. Again. 
+Izuka: Wait! Where are you going?! You can't take the laguz and rush off on some harebrained mission again!
+Micaiah: Can't I?
+Izuka: Of course not, you idiot girl. You've already been far too impulsive, acting without the prince's consent. And do you think I do not see what has happened? Your name has been raised to lavish heights among the Daein people--your name, and yours alone! Why, even our own soldiers heap their praise on you like sugar on berries, sparing not a thought for their prince!
+Micaiah: Oh...
+
+Jarod: Hah! The prince! He's a sham, a travesty, a clod of mud no amount of polishing could shine. The real jewel--whose radiance attracts the people like moths to flame--is you, Priestess. And so I shall steal you and extinguish Daein's light of hope!!
+
+Izuka: And then, even once their rightful king is crowned, the people will still await the approval of their precious Priestess of Dawn. Why, if we are not careful, some calculating wretches might decide they would rather see a priestess on the throne instead of a king! And once again, this country will be torn apart, all because of your glory-hounding disregard for our prince's command!
+Pelleas: Please, Izuka...
+Izuka: Come to think of it...perhaps our "Priestess" here has been planning this all along! Pretending to help the prince...when in truth she seeks to wear the crown herself!
+Sothe: Stop your tongue, worm, or my knife will stop it for you. The only one who seems too hungry for power here is you--
+???: That's enough!!
+
+Pelleas: Izuka, Micaiah does not deserve any such attack on her character. She is pure and noble, and I... I am inadequate.
+Izuka: Have her actions poisoned your mind too, my prince?!
+Pelleas: Since we met, Micaiah has led every battle, even joining the soldiers on the battlefield. Not so with me. I...cannot defend my people. How could our people not rally around her? They see her fighting, throwing her lot in with their own. They respect her. That said, things cannot remain as they are. Izuka is right to worry about my standing. I need to earn my people's respect. Therefore... Therefore, I must take action.
+
+Pelleas: Um... Soldiers of the Liberation Army! Heed my-- No, no... Hear my words! I am Pelleas, true prince of Daein.
+Daein: Yes, we know who you are, milord! We ought to by now!
+Pelleas: And so, uh... So... ...
+Daein: ...Is he...all right?
+Micaiah:  Prince...
+
+Micaiah: Sir Knight?
+
+Pelleas: ...And so... ...And so, beloved friends and comrades dear. With thanks to you, our capital lies close! And if we do not act, if we turn back, the war still ends with us the victors proud, and Daein's rule still falls back to our hands. And if we choose to fight and free this town, we may enrage the empire once again. Thus Daein's fortune turns to sorrow swift. But while I speak, Nevassa's hardship grows! Our brothers suffer, our sisters die, and... I shall not... I... I cannot ignore this tragedy. No man can, and certainly no prince... I cannot look away when my people suffer. And so I ask... I ask you all. Please, will you join me?!
+
+Daein: Long live the prince!
+Daein: Long live Prince Pelleas!
+Daein: Long live Daein! It's time to save our country!
+
+Pelleas: Ah...
+
+Micaiah: Very well, my prince. We are at your service.
+Pelleas: My army is arrayed and waiting. Be well. And...no overly heroic risks, please.
+Micaiah: Company, at attention! Our objective is to save the town and take the keep! Now, move out!
+
+Begnion: The rebels are on the move!
+Jarod: Mm. And a good thing too. What is more honorable than a death fraught with purpose?
+
+Micaiah: I wonder where Jarod is?
+Jarod: Listen up, all of you. This is our last chance to die as we've lived. As proud soldiers of the empire. If we survive this fight, imprisonment and a hushed-up execution await us. If we run from this fight, dishonor and pursuit will dog our miserable days. So I say, let's give those Daein curs a fight to remember, and let the glory of our deaths light our way! We've lived as proud soldiers of the empire! Let us die as proud soldiers of the empire! Now GO!
+Micaiah: That shout...that's Jarod! For Daein's sake, this time I swear I will put an end to him.
+
+@Battle-Talk 
+%Black Knight,Micaiah
+Black Knight: Maiden, take no risks upon yourself. You are the heart of this army, the soul that inspires us. We must not lose you. Leave this battle to me, and stay back.
+Micaiah: Thank you for your concern, Sir Knight. But I am going to fight. You and everyone else are putting your lives on the line. I will not shirk my duty.
+Black Knight: You...are much...like her.
+Micaiah: What?
+Black Knight: ...Nothing.
+Micaiah: ...
+
+%Micaiah,Black Knight
+Micaiah: Pardon, Sir Knight. I wanted to thank you. Thank you for fighting beside us.
+Black Knight: No thanks are needed. I do nothing more than fulfill my duty.
+Micaiah: When our fighting is done...will you remain in Daein?
+Black Knight: ...
+Micaiah: Never mind. It's none of my business. It's only... If you were here with us, we could take heart in--
+Black Knight: I may...take leave of Daein.
+Micaiah: Oh! But why?
+Black Knight: More than this, I cannot say. Forgive me.
+
+%Sothe,Black Knight
+Sothe: ...
+Black Knight: ...
+Sothe: ...What do you want?
+Black Knight: ...
+Sothe: Why are you trying to get close to Micaiah?
+Black Knight: So that I might protect her.
+Sothe: I protect her!
+Black Knight: As things stand, I simply cannot entrust her safety to you.
+Sothe: What is that supposed to mean?
+Black Knight: If you hope to protect her, become stronger. Strong enough to surpass me, and stronger still.
+Sothe: What? What could he mean...
+
+@Boss
+Jarod: So, you have the audacity to approach me at last. Don't expect an easy fight. Before I die, I will see each of you dead before me.
+
+
+Jarod: So, sub-human, the slave turns on the master? I'll teach you to know your betters!
+
+
+Jarod: You're one, aren't you? One of those odd sub-humans that witch brought... You'll make a nice rug!
+
+%Black Knight,Jarod
+Jarod: Well well well. Look what we have here. The loathsome phantom of old Daein... Why in blazes are you here? What inspired you to slooooowly clank your way up out of your grave?
+Black Knight: My purpose is not for you to know.
+Jarod: Oh. I feel so rejected. Must I crack that helm open and ask your ugly, naked face directly!? I have to take vengeance for Alder's death, after all!
+Black Knight: This is how you meet your death? Sad. Come at me, then, and join your friend.
+
+%Sothe,Jarod
+Jarod: That face...I remember you. The kid who's always with that little wench.
+Sothe: Sothe, of the Dawn Brigade.
+Jarod: The Dawn Brigade, hm? Oh, how I despise your ilk. The thought of draining the life from your body... It makes me tingle all over.
+Sothe: Ditto.
+
+%Micaiah,Jarod
+Jarod: So it's you...little girl.
+Micaiah: General Jarod, the battle is over. Surely you can see it. You never believed Daein could do it, did you? But here you stand, broken, defeated by my countrymen and friends.
+Jarod: Have I really, I wonder? Didn't I tell you? With you dead, there is no "Liberation Army." This is my golden opportunity... One blow is all it takes to turn defeat to victory. Such a lovely thought.
+Micaiah: I will not lose to you. More importantly, the people of Daein will not lose to you!
+
+@Boss
+Jarod: Gh-ghuahh... I am...sorry for nothing. I regret...nothing. Because I did it my way... You win, Priestess. You must be delighted. Enjoy it while you can... Because...sooner or later...you...
+
+@End
+Micaiah: We won! We've taken back our country! Daein is under our control once again!
+
+Pelleas: Thank you, Micaiah... Thanks to you, the kingdom of Daein lives again.
+Micaiah: I didn't do it alone. We did it--everyone fighting together.
+Pelleas: Well, you didn't hurt the effort! I'd hazard a guess that Daein's reconstruction would have only been a dream without you. I regret I have no other way to show my gratitude, but... I want to officially name you Supreme Commander of the armies of Daein.
+Micaiah: ...I see. And I accept. It is with great honor that I assume this office. This battle may be over, but the fight to return Daein to its former glory will take time and effort. If my support can be of service, then I am honored to assist.
+Pelleas: I'm glad. Well then, I'll perform the simple ceremony... Will you kneel? In the name of the king of Daein, I dub thee, Micaiah, Supreme Commander of Daein and grant thee the authority and responsibility pertaining thereto.
+
+Micaiah: ...It feels...odd.
+Pelleas: You wear it well. Won't you join me, as I champion Daein to a great new era? I'm counting on you.
+Micaiah: I will.
+
+Micaiah: Are you really leaving already? Stay...at least for the feast tonight. You've done so much, you deserve some celebration! Nothing I can say will convince you to break bread with Lord Izuka?
+Tormod: Well, there is that. But honestly... If we stick around too long, the soldiers are gonna start giving us dirty looks. It's kind of awkward.
+Micaiah: What do you mean?
+Tormod: Most Daeins still loathe laguz. Getting rid of that hatred... Let's just say you have your work cut out for you. Look, we don't want to ruin everyone's party. It's been great, but we'll just quietly slip away.
+Micaiah: That's terrible! I can't believe I never noticed. Tormod, I'm so sorry.
+Tormod: Ah! Don't cry! I hate it when girls cry!
+
+Sothe: Um...take care of yourselves. It's, you know, good...that you came to help us. So...um... Thanks.
+Tormod: Whoa! You're thanking me? Better get ahold of yourself, Sothe. You're gonna make ME get all weepy.
+Sothe: You little...
+
+Micaiah: Muarim, before you go... I just want to thank you. Thank you for not telling anyone about my brand.
+Muarim: No thanks are needed. It's rude of me to ask, but do you know anything about the circumstances of your birth?
+Micaiah: No. I know nothing of my parents. But just before she died, the old woman who raised me told me what the brand was and what it meant.
+
+Micaiah: This is proof that the blood of both beorc and laguz course through me. And so, I am anathema to both. She told me never to let anyone see it, and to be always on my guard.
+Muarim: Wise advice...
+Micaiah: I've avoided people most of my life to conceal my brand...and my powers. But there's no way to hide how very slowly I age. I just keep moving through Daein. The same holds true now... I won't be able to stay in this army long.
+
+Muarim: Even so... As long as little Sothe is by your side, I think that you can overcome any difficulty.
+Micaiah: Yes... Just as you have Tormod.
+Muarim: Yes.
+Vika: Muarim, Boss, I know you don't want to go, but at this rate, we'll be standing here all night.
+
+Micaiah: Vika! My thanks go to you too. Sothe and I will visit you in the desert.
+Vika: I'll be there...but I won't be waiting. Waiting for people who never come is...hard.
+Micaiah: Vika, I said I'll come, and I will.
+Vika: ...OK, then.
+
+Nailah: Micaiah, Sothe, we're going with them.
+Sothe: What? Aren't you going to Gallia?
+Tormod: Yeah. We're taking them. C'mon, neither of you can leave Daein for a little while, right? Don't worry, we can handle it.
+Nailah: Once the battle ended, it seemed time to move on. I'm sorry to change our plans, but this is better for all of us.
+Micaiah: That's awful... I can't believe you're all leaving us at once.
+Rafiel: Micaiah... Fate brought us together, you and I, guided by the same voice. Our paths are fated to cross again someday... I am sure of it.
+
+Micaiah: I'm embarrassed... I didn't mean...to cry... It's been so nice meeting you all...
+
+Tormod: 'Til next time! 'Cause I know we'll meet again!
+
+Micaiah: What was that sound?
+
+Micaiah: Volug! Lady Nailah... Did she send you back to guard me, Volug?
+
+Sothe: Ridiculous... As if you didn't already have that annoying bird...
+
+Sothe: Ouch! Ow! Ow ow ow! I take it back!
+Micaiah: Sothe, we freed our country from tyranny together. But it's not over yet. We'll have to work hard for a long time to return Daein to its former grandeur. I know it won't be easy, but if I have you two with me, I know we can do it.
+
+@Conversation 
+Fiona: Lady Micaiah. I’m sorry to bother you while you prepare for battle. May I have a word with you?
+Micaiah: Of course. What can I help you with?
+Fiona: If my memory serves me correctly, you always use this type of tome, correct?
+Micaiah: Yes, that’s right.
+Fiona: Oh, I’m glad I remembered correctly. Then please, take this.
+Micaiah: For me? Are you sure?
+Fiona: It’s a token of appreciation for letting me--and Marado--join your army.
+Micaiah: We’re lucky to have you. And thank you. I’ll use this tome well.
+Fiona: Listening to Prince Pelleas’s speech earlier, I’m certain that Daein will exist anew. It will be a greater and more unified country than ever before!
+Micaiah: I agree. So many things have happened along the way, but I am glad to be here now. I feel happy...and very proud.
+Fiona: I feel the same way, and I’m sure all the soldiers of the Liberation Army do as well. Daein will soon be free... Lady Micaiah, please lead us to victory.
+Micaiah: ...Yes. Together, we shall see victory!
+
+Micaiah: Volug, where-- How did you get this?
+Volug: (I got it from the ruins in the desert.)
+Micaiah: From the ruins of the desert? Oh, you got it when we were there before?
+Volug: (No, not quite.)
+Micaiah: No? Then... how? When?
+Volug: (You should keep it.)
+Micaiah: What? It’s for me?
+Volug: (I will catch up to you later.)
+Micaiah: Wait! Volug? Did he go back to the desert just to get this...?

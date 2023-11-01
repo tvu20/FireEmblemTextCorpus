@@ -1,0 +1,511 @@
+@Intro
+Ike: The Daein army is working with Begnion? That's unexpected, to say the least...
+Tibarn: Why would Daein join the war? I thought all their resources would be tied up in reconstruction.
+Ranulf: Yeah, that bothers me too. There's something weird about all of this. Didn't Daein resent Begnion's occupation? Why would they be so quick to help out their former enemy?
+Skrimir: Why does not matter. We are running out of time. We must deal with this quickly, if we are to get home.
+Ike: General Skrimir! Have you recovered from your wounds already?
+Skrimir: Yes. Do not underestimate the healing power of the beast tribe.
+Tibarn: All right, everyone's here. Let's begin the meeting.
+Ranulf: The immediate threat is the Daein army. They're dug in around the area that we'll have to use to cross the Ribahn. Maybe we can find another spot to cross?
+Soren: No, we can't afford it. If we waste any more time, the Central Army will catch up to us. If that happens, we're dead.
+Ike: Ranulf, tell me your impression of the Daein army. Anything special?
+Ranulf: ...Well, there weren't very many of them, but their morale was really up there. Their commander seemed very clever, as well.
+Soren: It must be the Maiden of Dawn.
+Ike:  Who?
+Soren: She was the hero of the recent Daein uprising. Micaiah is her name, if I recall correctly. Supposedly she has performed miracles and turned many losing battles into victories. An interesting figure.
+Ranulf: Miracles? I'm finding that a bit hard to swallow. Are you sure about that?
+Soren: Who knows? Personally, I doubt it. All I know is that the Daein army believes in her miracles, which makes her dangerous.
+Soren: This Maiden of Dawn is supposed to be the savior of Daein, whose miraculous powers freed their people from tyranny. In other words, her followers are fanatics who see her as a goddess. She will make a formidable enemy.
+Ranulf: If we attack them head-on, the fighting won't stop until one side is decimated. There's got to be a way to avoid that, right?
+Titania: What about a decoy force, like we've used in the past?
+Tibarn: The decoy only worked because the enemy didn't expect it. I wouldn't count on the same strategy working twice.
+Soren: Not necessarily. The empire assumes superiority over all other countries. Begnion is only using the Daein army as a pawn to stop us, and likely won't care if it is destroyed in the process. As such, the Daein army is most likely uninformed about our past tactics.
+Ranulf: You might have a point there. I went scouting after the fog cleared, and their forces looked really unprepared to fight us. They had no ballistae, and they hadn't fielded many fire mages. It felt like they didn't know a thing about fighting laguz.
+Soren: Then we should definitely have a decoy force hit them head-on, while the bulk of the army crosses the river in the meantime.
+Ike: I'll head up the decoy force, then. The armies of Gallia and Phoenicis can cross the river while we fight.
+Ranulf: I'll go with you, Ike. Daein would get suspicious if they didn't see any laguz in the enemy force.
+Tibarn: Sounds like a plan to me. Take some of my men as well, if you want. I don't want their talons getting dull.
+Ranulf: The Laguz Alliance may have lost the war of might. But we haven't lost the war to save the lives of our brothers! This fight will be ours!
+Skrimir: Yes! With the fangs and wings of the laguz and the knowledge of the beorc, we will return home!
+Reyson: Daein cannot stop us now, just as they could not stop us during the Mad King's War. We can do this!
+
+Sothe: The laguz failed to cross the river. This is their last chance to try. This time, they'll attack with beorc as well.
+Micaiah: Sothe, you know what that means. If we end up fighting beorc...
+Sothe: I know. We'll probably be fighting the Greil Mercenaries. I'm aware. It's not going to be pretty.
+Micaiah: Sothe. Tell me more about Commander Ike.
+Sothe: Why? You used to hate it when I said anything about him.
+Micaiah: I want to know more about the man I'll be fighting against. What kind of a person is he?
+Sothe: Well, let's see... He's generous. He doesn't care about petty things. He holds no prejudice against laguz, nor does he care about the opinions of the nobles. He's a master swordsman. He accomplishes everything he sets out to do. He's a true hero.
+Micaiah: I see. He sounds...quite different from King Pelleas.
+Sothe: Micaiah, they don't even compare. King Pelleas lacks any leadership or decision-making skills.
+Micaiah: ...That may be, but I believe in King Pelleas. His heart is in the right place. I believe in his virtuous nature and his commitment to being a good king...
+Sothe: Even though he would set you out on a war that doesn't involve Daein at all? A war of bigotry and hate, fighting on the same side as our real enemies? You're smarter than this, Micaiah.
+Micaiah: Sothe, we've been through this. I know we're about to fight Ike and the Greil Mercenaries, but I...
+
+Ike: It's time. Shall we?
+Ranulf: Sigh... Those two are still here. So much for friendly advice, I guess. Now it's friends against friends... Things are getting crazy around here.
+
+@Battle
+Daein: The enemy is on the move. They're crossing the river! There are humans among the beasts!
+Sothe: Here he comes.
+Micaiah: Without the advantage of an ambush, this fight is sure to be tougher than our last one.
+
+@Recruit-Talk 
+%Reyson,Janaff
+Reyson: Janaff? What are you doing here?
+Janaff: H-hello! Nice to see you, Prince! What a coincidence, huh?! I'm just, um, taking a flight. At night. In a battlefield.
+Reyson: ...Oh? I assumed Tibarn might have sent you to protect me.
+Janaff: Oh, no, no! Nothing like that!
+Reyson: Janaff. Do you really think you can hide anything from me.
+Janaff: It... It was Ike! Ike asked me to help out the Greil Mercenaries! Really!
+Reyson: Mm-hm.
+Janaff: You see, Your Highness, the enemy might get suspicious if there were no birds among the force!
+Reyson: Ah, that's a good point. Now I understand. My apologies for jumping to conclusions.
+Janaff: No worries, Your Highness... Ha ha...ha...
+Reyson: Then let us go together to Ike and seek his next command!
+Janaff: What?! Whoa, hold up there!
+Reyson: What's the problem? I thought you were here to help.
+Janaff: Oh, hey, no problem at all, Your Highness. No problem whatsoever!
+Reyson: Excellent. Let's go.
+Janaff: Perfect... Tibarn's gonna have my beak for this...
+
+%Ike,Ulki
+Ike: Ulki! What are you doing here?
+Ulki: Orders of the king. I am here to assist you.
+Ike: Oh, I get it. You're here to guard Reyson.
+Ulki: Shh! Ike, please! I cannot let the prince hear about this! Please pretend that I'm only here to assist you, I beg of you.
+Ike: Sure, that's fine with me. Whatever your reasons, I appreciate the help. Thanks!
+Ulki: Don't mention it.
+
+%Ike,Janaff
+Ike: Janaff? What are you doing here?
+Janaff: Oh, hey, Ike. Don't mind me. I'm just, um, getting some air.
+Ike: Hm. Right. And here I was, assuming you were here to guard Reyson.
+Janaff: Shhh! Not so loud! You can't let the White Prince know why I'm here!
+Ike: I know, I know. I'm just giving you a hard time.
+Janaff: Then help me! Hey, how about this? I'll join the Greil Mercenaries!
+Ike: Sounds great to me. Free labor is always welcome.
+
+%Reyson,Ulki 
+Reyson: Ulki. Why are you here?
+Ulki: King's orders. I'm here to assist.
+Reyson: Oh, I see. It's that thing about having some birds in the decoy force, correct?
+Ulki: Of course, Your Highness. Just so.
+Reyson: Good. I'm sure Ike is glad to have your help. We'll be counting on you, Ulki.
+Ulki: I shall do my best.
+
+%Lethe,Zihark
+Lethe: Zihark!
+Zihark: Lethe...
+Lethe: You defeated me last time, but this time it’ll be different. Prepare yourself!
+Zihark: You won’t surrender?
+Lethe: I am a soldier. I will fight to my death.
+Zihark: ... I knew you’d say that. Then I’m coming with you. I’m at your service, Lethe. Just like old times, yeah?
+Lethe: What?! Why?
+Zihark: The Daein soldiers call this war “the sub-human hunt.” You know I hate that word. I believed that Daein would change. Or at least I used to. But now... I just can’t stand by. This war is the last straw. I can’t fight for Daein anymore.
+Lethe: ... You may not have claws, but I think your soul is more laguz than beorc. Welcome to our tribe, Zihark.
+
+%Mordecai,Zihark 
+Mordecai: You, I know...
+Zihark: Mordecai... I never expected us to meet like this, on opposite sides...
+Mordecai: Ah! Zee... eehark! Hm... No, that not it. Sorry, Mordecai says your name not right. Not right yet.
+Zihark: But...
+Mordecai: Zeehork? Zeeehar-ack? Zi...hark? Ahh! That is good! Zi-hark!
+Zihark: Mordecai... Don’t you understand? We’re now–
+Mordecai: I know. Mordecai is your friend. Allies we are. It does not matter who we fight for.
+Zihark: But–
+Mordecai: You have no fang or tail, but you are a beast brother, Zee-hark! Hmm... No. Mordecai forgets again. Sorry.
+Zihark: Hey, don’t worry about it. I’ve got it! I’ll go with you. That way, you’ll get my name right in no time.
+Mordecai: Ah! Good idea! Mordecai likes this idea.
+
+%Ilyana,Zihark 
+Ilyana: Sir Zihark. It’s not too late. Let’s not fight.
+Zihark: I can’t do that... Daein has just freed itself. I can’t betray it now.
+Ilyana: Even if you have been ordered by Daein to hunt down laguz?
+Zihark: I-I just...
+Ilyana: But this isn’t you! When I met you, you were so nice, and you never doubted yourself or your friends. You even risked your own life to fight on behalf of the laguz. And now you’re throwing it all away...
+Zihark: ... Ilyana.
+Ilyana: Yes?
+Zihark: Thank you. You’ve opened my eyes.
+Ilyana: Pardon?
+Zihark: I will leave the Daein army. My friends in Daein are dear to me, but I refuse to take part in any “hunt,” or lie to myself any longer.
+Ilyana: Oh, Zihark, I’m so glad...
+
+%Brom,Zihark 
+Brom: Huh? Well, hey there, Zihark! Long time no see!
+Zihark: Brom...
+Brom: Ah, it sure is great to see ya! You’re looking mighty fine. Seem a bit sad, though.
+Zihark: Oh, I’m all right, Brom. How’s the family?
+Brom: Oh, they’re doin’ great. We had ourselves some troubles, but Queen Elincia took care of it. Ah, speakin’ of my family! About your engagement to one of my daughters... Have you given it any extra thought? All my daughters are eager to marry. Just say the word, now!
+Zihark: What? All of your daughters? You told all of your daughters about me?
+Brom: Ah, they’re all such dears! I can’t favor one over the others, can I? So, what do you say? My second daughter is startin’ to look a lot like me! Nice, soft cheeks.
+Zihark: Um, well, I thought I was pretty clear on this the last time we went over it...
+Brom: She left for Daein to see you. Have you run into her yet? Her name’s Meg. Nice girl. She looks a lot like me.
+Zihark: You haven’t changed at all, Brom. You’re still the same good man that I remember from three years ago. I’m really glad I ran into you, Brom. Now I remember what I was fighting for back then. And now I know what I have to do.
+Brom: Hm? What’re you goin’ on about, son?
+Zihark: I’m leaving the Daein army. My friends in Daein are dear to me, but I refuse to turn my sword against the laguz any longer.
+
+@Recruit-Battle
+Zihark: I'm sorry. I didn't want us to meet again like this. Forgive me.
+
+Zihark: I use my sword for Daein... But am I really fighting for Daein here? What am I doing...
+
+%Ike,Zihark
+Zihark: Ike...
+Ike: It's been a while, Zihark. So, you're with Daein?
+Zihark: Yep. This is weird, Ike. I never thought we'd meet again as enemies...
+Ike: It's the nature of being a mercenary. No hard feelings, Zihark. Any chance you could convince the Daein army to retreat?
+Zihark: I wish. It's too complicated right now. Too many politicians playing around.
+Ike: I see... I'm not much for politics. All I do is live by my principles, my sword, and my friends. What can I say? I won't change who I am, even if it means fighting you.
+Zihark: That's fine by me. You're still the man I knew from the Mad King's War. It's about time I also threw away my doubts...
+
+@Battle
+Zihark: The Greil Mercenaries... They really are here. There's no way we can win this. Sorry, guys. I'm turning back for now. I really suggest you all retreat as well.
+
+Jill: My friends... It grieves me to meet again under these circumstances.
+
+@Recruit-Talk 
+%Haar,Jill
+Jill: Sir Haar! Why are you fighting for these people?!
+Haar: Hey, you stole my question! Why are you fighting in the Daein army?
+Jill: There was a war to liberate Daein while you were gone. So I joined the army again.
+Haar: Well, it looks like you did a good job. Daein has been liberated. So why are you still with the army?
+Jill: I can't just leave! These people are my friends!
+Haar: Oh, stop with the sentimental nonsense, Jill. In case you haven't noticed, you're fighting your friends, too.
+Jill: What about you, then? How did you end up in this fight?
+Haar: Well... Somehow, I got mixed up in putting down uprisings in Crimea. And then I ended up with the Laguz Alliance because...you know, being old friends with Ike and all that.
+Jill: What?! That is hardly a cause worth fighting for!! You're unbelievable!
+Haar: All right, enough debating. What do you want to do now? Do you want to fight me?
+Jill: Of course not! I could never...
+Haar: Then join me.
+Jill: Easy for you to say!
+Haar: You're full of doubt. How do you live like that all the time? Is that how your father wanted you to live? Afraid to trust your own instincts?
+Jill: But...
+Haar: Daein has no business in this war. You know that, right?
+Jill: But...what about my comrades? What about my friends?
+Haar: Is dying how you show loyalty? If you're really their friend, then fight alongside us! Maybe that will get them to think about what they're doing.
+Jill: Oh, Captain...
+Haar: Come with me, Jill. We both know that we should follow our hearts, even if it makes us traitors. We know that better than anyone. For the sake of your father, live your life without shame.
+Jill: Y-you're right, Captain Haar! I've been so foolish. Just as before. I would be proud to serve with you. And...Captain Haar? Thank you. Thank you so much...
+
+%Mist,Jill
+Mist: Jill! I can’t believe it! It is you!
+Jill: Oh, Mist...
+Mist: I’m so glad to see you!
+Jill: Wh-what?
+Mist: Well, I was wondering about what to do if I saw you here with the Daein army. I had it all worked out, you see? And, well, here you are! It’s great!
+Jill: Mist. We’re enemies now.
+Mist: No, you have to listen, Jill. Let’s not fight. There’s a really easy solution to this whole mess!
+Jill: But... what?
+Mist: Just listen! It’s so simple! Since Daein shouldn’t be in this war, they shouldn’t be here right now, right? And you and I are friends, right? So we can each pretend that the other one of us isn’t here! Isn’t that great?
+Jill: Mist, that makes absolutely no sense. Besides, that’s no the issue here! You’re a mercenary. You know how th–
+Mist: We’re not fighting. That’s final.
+Jill: Mist?!
+Mist: Jill, you’d never turn your weapon against me. I just know it. I trust you, because you’re my friend.
+Jill: Oh, Mist... All right, that’s it. I’ve had enough of this.
+Mist: Jill?
+Jill: You made my last doubts fade away. I’ve made my decision. I’m not fighting in the Daein army anymore. I’m joining back up with you.
+Mist: Jill! I knew you’d come around!
+Jill: I feel bad for my comrades in Daein, but I’m going to stand by what I believe. I will not be ashamed anymore.
+Mist: That’s the Jill I know and love!
+Jill: Thank you, Mist!
+
+@Recruit-Battle
+%Ike,Jill
+Ike: Jill? You're back with the Daein army?
+Jill: I know I owe you all so much... And Mist would grieve if you fell. But I cannot retreat. I must stand my ground!
+Ike: Fine. Do what you have to do. Since neither side can retreat, we will fight. And, Jill...I'm sorry it came to this.
+Jill: ...I am too, Commander Ike. Are you ready?
+
+%Ilyana,Zihark
+Ilyana: Hello, Sir Zihark.
+Zihark: Ilyana... You’re on their side, too?
+Ilyana: And you stand with the enemy...
+Zihark: I don’t know why, but it feels like you’ve been in my life longer than the others. I couldn’t handle it if you got hurt. Ilyana, please pull back before something awful happens. I beg of you.
+Ilyana: Oh, Zihark...
+
+%Ilyana,Jill
+Jill: Ilyana? You’re with the Laguz Alliance? No, I mean the Greil Mercenaries?
+Ilyana: Yes. Muston and the others are with me, too.
+Jill: I see... We fought together in Ashnard’s War, and in the war to liberate Daein. We didn’t spend much time together, but you were a trustworthy comrade.
+Ilyana: Thank you... I wonder why we’re here. Why is Daein attacking us?
+Jill: I don’t know. The occupation soldiers left Daein. But Daein still cannot refuse a request from Begnion. Liberation was only a dream.
+Ilyana: Yet you continue to stay with the Daein army? Why do you do that to yourself?
+Jill: Because I can’t abandon my comrades.
+
+%Lethe,Jill
+Lethe: Jill! We’re crossing the river this time!
+Jill: I’m sorry, Lethe. I have to fight. I will do anything for my country...
+
+@Character-Falls
+Jill: They're so strong... Even stronger than three years ago. Lady Micaiah, I apologize. I must head back for now.
+
+Fiona: Most impressive! I cannot fight with a wound like this. I'll be back shortly...
+
+Meg: Oww! Sorry, y'all. I'm turnin' back for now.
+
+Aran: Be careful! They're much stronger than any of the foes we've encountered! They defeated me, as well... I'm falling back temporarily.
+
+Laura: Oh no, is this...blood? I'm sorry, Lady Micaiah. I must heal my wounds.
+
+Edward: Ugh...! My ribs... Sorry, Micaiah. I've gotta fall back!
+
+Leonardo: We're totally outclassed in this battle. This is insane. Micaiah, I'm sorry. I have to turn back for now...
+
+Nolan: Blast! They're better than I expected! I'm sorry, Micaiah. I need to turn back for a while.
+
+Black Knight: Stand aside. You are no match for me.
+
+@Battle-Talk 
+%Reyson,Micaiah
+Reyson: Micaiah, the Maiden of Dawn ... Is that what they call you?
+Micaiah: Who are you? Your wings look just like Rafiel’s.
+Reyson: I am Reyson. My brother told me about you. This is why I’m here. Please pull back your troops. Our enemy is not Daein. This is not your fight. Am I not correct?
+Micaiah: I know how you feel... Though I owe a debt to Rafiel, I cannot do what you ask. It’s not that I don’t want to! I think this whole war is madness! But I must keep fighting.
+Reyson: Why is that?
+Micaiah: This fight is my king’s will. I cannot stop fighting just because I don’t agree with him. If we don’t pull together under our new king, Daein will fall apart again, just as it did before its liberation. I believe in King Pelleas. I believe that our king will lead the people of Daein to happiness
+Reyson: ...I see. I understand your position. Please accept my apology for asking the impossible
+Micaiah: What? What do you mean?
+Reyson: You are fighting to protect your beliefs. I understand that now. But remember that we also cannot, and will not, pull back. We both carry a heavy burden. that’s why we’re here.
+Micaiah: Yes...
+
+%Brom,Meg
+Brom: Meg? Is it you, sweetie?
+Meg: Daddy... Daddy!
+Brom: There, there. Don’t cry, darlin’. I’m just glad you’re safe! What a mess we’re in, huh? But, that’s war, I reckon. In any case... There’s no way I could ever fight my own daughter. You run along now.
+
+%Zihark,Meg
+Zihark: Meg.
+Meg: Sir Zihark? Wh-what’s wrong? What’s going on?
+Zihark: I’m sorry, but I’m joining up with the alliance. I don’t want to betray you, but I can’t fight for Daein any longer.
+Meg: No! Wh-what are you saying?
+Zihark: I know this is a horrible thing for me to say, but listen. Please leave the battlefield. I don’t want to see you get hurt.
+Meg: Sir Zihark! But... you can’t leave me here alone!
+Zihark: I wanted to tell you that. I have to go. I’m so sorry, Meg...
+Meg: Sir... Zihark...
+
+@Recruit-Battle 
+%Ranulf,Black Knight
+Ranulf: Oh, I thought I smelled you earlier. We just have to stop meeting like this.
+Black Knight: ...
+Ranulf: Back in Gallia, in Crimea... We just ran into each other recently, too. I don't know about the others, but I can tell who you are. You have one heck of a stench.
+Black Knight: ...Enough talk. Prepare yourself.
+Ranulf: Still won't own up, huh? Fine. If that's the case, I'll just tear your mask off and show everyone myself!
+
+%Ike,Black Knight
+Ike: So, you are alive. Somehow, I knew it wasn't over yet.
+Black Knight: Of course it wasn't over. You were a boy trying to live up to the memory of the greatest swordsman in history.
+Ike: And yet, I was the one who walked out of the castle that day.
+Black Knight: You have your father to thank for that. When you told me that he had crippled himself, I realized that I had never fought him at all, merely his shadow.
+Ike: What are you getting at?
+Black Knight: I saw immediately that you were not your father's equal, but that one day you might be. So I did the only thing I could to keep you alive... I let you win.
+Ike: ...You did, didn't you? I've relived that fight so many times... How could I not have seen it before?
+Black Knight: You were not yet capable of seeing it. But I had to let you live, so that you could continue to train and perhaps one day be worthy of Gawain's legacy. My armor's blessing is gone; let us see if that day is today.
+Ike: I promise you that it will be. Begin.
+
+@Recruit-Battle
+Sothe: You should run. I'm not the weak child you remember.
+
+@Battle-Talk 
+%Ike,Sothe
+Sothe: Commander Ike!
+Ike: Look at you, Sothe. You've grown a lot. I almost forgot... You're originally from Daein.
+Sothe: I'm glad you remembered. I hope it helps explain why I'm here.
+Ike: Did you find the person you were looking for?
+Sothe: Yes. She commands this army.
+Ike: The Maiden of Dawn?
+Sothe: Please don't call her by that ridiculous name. Her name is Micaiah.
+Ike: I see.
+Sothe: Commander, I... I didn't want to see you like this.
+Ike: But you don't intend to retreat, do you?
+Sothe: That's right.
+Ike: Sothe, before you challenge me, you better be ready never to see that girl again. Can you handle that?
+Sothe: Wh-what?!
+Ike: If you can't, stay away from me. You'll get no mercy, despite our past. I'm sorry, Sothe, but the choices we've both made have brought us to this. There's no turning back now. 
+Sothe: I understand, Commander. And to answer your question... Yes, sir, I can handle that. Whenever you're ready, Commander.
+
+@Recruit-Battle 
+%Ike,Sothe
+Sothe: Commander, we can't retreat. We have to keep fighting, even if I have to fight you...
+Ike: Sothe, you've already lost this fight.
+Sothe: What do you mean by that?
+Ike: you don't think you can win against me, so you won't. Going into a battle with that kind of doubt, you'll lose for sure. Just think of me as an enemy soldier to be cut down.
+
+%Ilyana,Sothe
+Ilyana: Hello, Sothe...
+Sothe: If you’re here with the Greil Mercenaries, does that mean the caravan is with you, too?
+Ilyana: Yes. Everyone is back together. Why don’t you join us? You should bring Micaiah, of course. Everyone is worried about you two...
+Sothe: I’m sorry, I can’t...
+Ilyana: I see... I’m sorry, Sothe.
+
+%Jill,Sothe
+Sothe: Jill! What are you doing?!
+Jill: I’m sorry. I just don’t believe that Daein is in the right this time. Retreat now, Sothe. Daein has no business getting involved in this war.
+Sothe: I can’t do that. Micaiah has made up her mind, and I’ll follow her no matter what. Even if I have to fight you.
+Jill: Then I’ll be forced to stop you! Prepare yourself, Sothe!
+
+%Zihark,Sothe
+Sothe: I understand. I thought that fighting against the laguz would set you off.
+Zihark: I won’t make any excuses. I’m finished with the new Daein.
+Sothe: You chose principles over country and comrades. I can’t blame you for that.
+Zihark: But these people are my comrades! Look around you, Sothe! These people aren’t your enemies, they’re your friends!
+Sothe: Let’s get on with this. I’m with Daein. You’re with the Laguz Alliance. There’s only one thing to do when enemies meet.
+Zihark: I won’t go easy on you. I respect you too much for that!
+
+@Recruit-Battle
+Sothe: Unh... Micaiah, I'm sorry.
+Micaiah: Sothe? No! Sothe, please! Hold on, I'm coming over to you!
+Sothe: Don't worry... I won't die so easily. I'll stay by your side.
+Micaiah: Thank goodness you're all right! But, Sothe, go back and rest. You can't fight with a gaping wound like that... Promise me that you'll go back and get some rest.
+Sothe: ...Fine.
+
+@Boss
+Micaiah: Just as you have a reason to fight, so do we.
+
+@Battle-Talk 
+%Reyson,Micaiah
+Reyson: Micaiah, the Maiden of Dawn... Is that what they call you?
+Micaiah: Who are you? Your wings look just like Rafiel's.
+Reyson: I am Reyson. My brother told me about you. That is why I'm here. Please pull back your troops. Our enemy is not Daein. This is not your fight. Am I not correct?
+Micaiah: I know how you feel... Though I owe a debt to Rafiel, I cannot do what you ask. It's not that I don't want to! I think this whole war is madness! But I must keep fighting.
+Reyson: Why is that?
+Micaiah: This fight is my king's will. I cannot stop fighting just because I don't agree with him. If we don't pull together under our new king, Daein will fall apart again, just as it did before its liberation. I believe in King Pelleas. I believe that our king will lead the people of Daein to happiness.
+Reyson: ...I see. I understand your position. Please accept my apology for asking the impossible.
+Micaiah: What? What do you mean?
+Reyson: You are fighting to protect your beliefs. I understand that now. But remember that we also cannot, and will not, pull back. We both carry a heavy burden. That's why we're here.
+Micaiah: Yes...
+
+%Ilyana,Micaiah
+Ilyana: Oh...
+Micaiah: Ilyana! I remember now... You said that you were a member of the Greil Mercenaries in Ashnard’s War.
+Ilyana: Yes.
+Micaiah: I’m sorry.
+Ilyana: Let’s not do this. Please?
+Micaiah: What?
+Ilyana: Let’s not fight.
+Micaiah: If that means letting the Laguz Alliance get by us, I cannot agree to it.
+Ilyana: I see... That’s too bad.
+Micaiah: How is everyone in the caravan?
+Ilyana: They’re fine.
+Micaiah: I’m glad to hear that.
+Ilyana: Maybe... we should fight.
+Micaiah: What?
+Ilyana: We’re enemies now. We can’t stand here and try to have a normal conversation. It’s too strange...
+Micaiah: Ilyana...
+Ilyana: It’ll be all right. I’m really strong against your spells, and my magic is not powerful enough to defeat you. We’ll be fine.
+Micaiah: But if we’re equally matched, why should we fight at all? It sounds... wrong.
+Ilyana: Of course it’s wrong! The fact that we’re fighting is all wrong! We don’t even dislike each other!
+Micaiah: ...
+Ilyana: Let’s just fight and pretend like this conversation never took place.
+
+%Jill,Micaiah
+Jill: Lady Micaiah!
+Micaiah: Jill...
+Jill: Lady Micaiah... I cannot continue to fight for Daein. It’s all gone wrong. I’m here to tell you that... This is good-bye. I must part ways with you.
+Micaiah: I... see.
+Jill: I am joining the Laguz Alliance. But it’s not because I want to fight the Daein army.
+Micaiah: Jill, I don’t understand...
+Jill: Please retreat! There is no reason for Daein to get involved in this war. You know that better than anyone, Lady Micaiah! This is madness!
+Micaiah: I can’t do that.
+Jill: ...Very well. I will not give up hope. I’ll stand before you as many times as it takes. I will get you to leave this fight.
+Micaiah: Jill...
+
+%Zihark,Micaiah
+Micaiah: Zihark...
+Zihark: As you can see, I’m with the Laguz Alliance now. I can’t lie to myself anymore, Micaiah. I’m sorry.
+Micaiah: I see...
+Zihark: Tell me, Micaiah. Why did Daein become an enemy of the laguz? Daein has a new king now. Why can’t it escape the grip of Begnion?!
+Micaiah: I don’t know, Zihark. I wish I did. I’m sorry...
+Zihark: No, I’m the one who should be sorry. I know this isn’t your fault. It’s just that... now I wonder if the time I’ve spent fighting to liberate Daein was well spent. It makes me sad.
+Micaiah: Will you cut me down?
+Zihark: That depends on you, Micaiah. Will you try to kill me?
+Micaiah: You are an enemy of Daein now. But... I... How could I? How could I possibly kill you?
+Zihark: I feel the same way. I couldn’t possibly hurt you. However, fighting laguz is something I will not do for anyone. Where do we go from here?
+Micaiah: I... I don’t know...
+
+@Recruit-Battle 
+Micaiah: My wounds... They're nothing! They're nothing compare to what my people have suffered! We won't lose! We'll never give up!
+
+%Ike,Micaiah
+Micaiah: You're...
+Ike: Hello.
+Micaiah: You must be Ike, of the Greil Mercenaries.
+Ike: And you're the Maiden of Dawn, Micaiah?
+Micaiah: I feel like I know you already. Maybe it's because Sothe has told me so much about you.
+Ike: I hate to do this to Sothe, but if you stand before me as my enemy, you'll get no mercy from me.
+Micaiah: ...Good. I prefer it that way. Prepare yourself!
+
+%Soren,Micaiah
+Soren: ...Ah, that explains quite a bit about the stories that surround you.
+Micaiah: Who are you? You're... You're just like me!
+Soren: Yes, they call our kind the Branded. As the years pass, I understand better and better how others see us.
+Micaiah: You are so...cold. It's like you're cloaked in frost. Is there even blood in your veins?
+Soren: There is. Blood very similar to yours, in fact. Blood that teaches us what it means to be rejected and alone.
+Micaiah: Your heart is frozen, but I feel a warm core trying to melt through that ice. I see... You have someone you cherish very much. Someone you rely on.
+Soren: Do not presume to understand me, you ridiculous girl. You have no idea who I am and what I can do. None at all. Daein has no business in this war. I will defeat you swiftly and send you and your army back to Daein.
+Micaiah: I finally meet my own kind, and he is an enemy... ...I will not retreat. I won't let you go any further!
+
+@End
+Ulki: ...Janaff. The king is calling us.
+Janaff: Hmm, right. Good! Looks like we did it! Ike! The main force has crossed the river. We did it!
+Ike: Excellent. Everyone, push through! Let's meet up with the main force!
+
+Daein: The beast soldiers are behind us! We're being attacked from behind!
+Sothe: The Gallians?! How did they cross the river?!
+Daein: It's not just the beasts! There are hundreds of hawks, as well!
+Micaiah: Even the hawk tribe is here? The Begnion army never told us that they had moved out...
+Sothe: ...They got us. Commander Ike's force was just a decoy.
+Micaiah: Staying will only increase casualties. Let's retreat.
+Daein: No, Maiden! We can still fight! Please give us your orders!
+Micaiah: I have. We shall retreat! I will not let all of you die in vain!
+Begnion: But...
+Sothe: General's orders. We kept our losses to a minimum. That's enough for this battle.
+Daein: Yes, sir! 
+Sothe: Micaiah, I'm surprised. This is the first time you couldn't predict the enemy's movement.
+Micaiah: ...You're right. 
+
+Sothe: Micaiah?! What's wrong?!
+Micaiah: Sothe, don't... Just act...normal. Everyone...is watching...
+
+
+Pelleas: What? Micaiah failed to eradicate the Laguz Alliance?! No!
+Lekain: Hmm, this looks bad, King Pelleas. Is this how the people of Daein repay Begnion for all the kindness it has offered them? I'm afraid Daein and the senate's friendly relationship stops here.
+Pelleas: P-please, wait! Give me one more chance, I beg of you!
+Lekain: Well, well... Since you begged, I suppose... I will consider it.
+Pelleas: Please, just listen... Daein remains loyal to the senate. We will carry out any task give to us. Your whim is our command. Just, please give us another chance!
+Lekain: Very well. We shall overlook your failure this one time. But only once. Farewell, young king of Daein.
+???: Pelleas...
+Pelleas: ...Mother!
+Almedha: That man you were speaking with... He is a senator from Begnion, correct? Duke Lekain of Gaddos, I believe? He was here before as part of the empire's inspection team. He came in Duke Persis's stead.
+Pelleas: Yes. You are quite right, Mother. That was Vice-Minister Lekain of Begnion. So you saw us together...
+Almedha: Tell Mother what happened. You look absolutely terrified. Does that man have something on you? Is he trying to hurt you? It's all right to tell your mother th--
+Pelleas: No. It's quite all right, Mother. We were talking about the future of our two countries, and how we might...repair our relationship.
+Almedha: But--
+Pelleas: Please go back to your room. I shall go rest as well. I find myself very tired of late. 
+Almedha: Pelleas... Wait! Oh, my son...
+
+@Narration
+The diversion created by the Greil Mercenaries allows the Laguz Alliance to slip successfully past the Daein army's blockade.
+Yet General Zelgius and his Central Army show no mercy and continue their relentless pursuit of the Laguz Alliance. The weakened alliance is forced to a hard choice: they must pass through the northern edge of the Serenes forest. From there, they will try to make their way to a hidden road that will lead them out of Begnion and back to Gallia.
+
+@Conversation 
+Ranulf: So, it happens to be that I have a very rare and precious item in my possession. Which one of you thinks you deserve a gift?
+Lyre: Ooo, me! Me! I want it!
+Kyza: No, Captain! You should give it to me! After all, I’m your faithful servant.
+Lyre: What!? No way! That stuffy know-it-all doesn’t need it! Look at me! I’m so tiny and helpless, I need all the help I can get. You wouldn’t want me to get hurt, would you?
+Kyza: A stuffy know-it-all?! Oh, I say! How dare you, madam!? Captain Ranulf! You know that rewarding her behavior will only encourage her to act up in front of others! Have I not always followed your orders without question, both quickly and effectively?
+Ranulf: All right, all right... Sheesh. You know, I personally don’t really care which of you gets it.
+Lyre: You hold it right there, Kyza! I think you just called me a brat!
+Kyza: Pfft. I’m only stating the obvious. If you don’t like it, don’t act so childish.
+Lyre: Hmph! You stuck-up old alley cat!
+Kyza: Stuck up?! Your mother would be ashamed at your lack of manners!
+Ranulf: Argh! Stop already! I’m sorry I asked. Obviously I have to make the decision for you. All right, Kyza! This is yours. Take it.
+Kyza: Oh, thank you! Thank you! You’ve made me the happiest person in the army, Captain! Hah!
+Lyre: What!? Why!? Why did you give it to him!?
+Ranulf: He’s your commanding officer.
+Lyre: That’s not fair! He’s a stuffy old bore! And I’m wearing my prettiest collar...
+Kyza: Forget it, Lyre. The captain knows who slaves day and night to keep the army running smoothly!
+Lyre: No, no, no! The captain’s love is mine! All mine! Give it to me!
+Kyza: If you want it, you’ll have to take it!
+Lyre: Oh, you’re dead!
+Ranulf: What is it with you two? Sigh...

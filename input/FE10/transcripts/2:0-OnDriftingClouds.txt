@@ -1,0 +1,161 @@
+@Opening 
+Daein has been reborn. Word of King Pelleas's coronation reaches neighboring
+Crimea within days. Crimea itself has spent the past three years rebuilding
+from the damage it suffered during the Mad King's War. News that Ashnard's son
+now sits on Daein's throne sends waves of unease and worry rippling across the
+land.
+
+Alas, this is not the only thing disturbing the people of Crimea during this
+time. There is an ever-widening gap emerging between Crimea's noble class and
+the nation's young ruler, Queen Elincia.
+
+Crimea lost its king during the Daein invasion, and Elincia is still an
+inexperienced ruler. What's more, her very existence was a secret from the
+public, and so she came unexpectedly to her succession. Many of Crimea's noble
+houses raised their voices in protest against her rule. Elincia's desire for a
+long-lasting peace has driven her to strengthen Crimea's ties with the laguz
+nation of Gallia, and to renounce Crimea's claim to rule over a defeated Daein.
+Her political moderation is seen as a sign of weakness among her critics.
+
+Ike, the young hero who led Crimea to victory in the Mad King's War, was
+granted a peerage for his heroism and bravery. The elevation of a common
+mercenary to the nobility, however, widened the rift between the aristocracy
+and the queen yet further. Perhaps to avoid becoming mired in these power
+struggles, Ike renounced his peerage and took his leave of the court.
+
+Yet Ike's actions did little to placate the nobility. They continue to
+criticize the queen's every decision, and lay squarely at her feet the blame
+for all of Crimea's woes.
+
+@Intro
+Aristocrat: So, you have acknowledged Pelleas as the newly crowned king of Daein? Your Majesty, this is beyond the pale!
+Elincia: I have not forgotten our war with Daein. Three years is not so long as that. But do not forget... If we allow hatred to rule our hearts, we become prisoners of our past. A lasting peace serves both nations.
+Aristocrat: Bravo, Your Majesty, well spoken indeed. Your words paint a picture of idealism rarely seen here at court. However, and I beg your forgiveness, it is quite apparent your grasp of politics remains childishly naïve.
+Aristocrat: Abandoning rule over Daein, then reconciling with our most hated enemy... This will not do. The people will soon take their discontent to the streets.
+Aristocrat: What's more, why choose Bastian, the count of Fayre, as your envoy? His skills in court are vital to Crimea. To send away such a key figure... Tell me, Your Highness, how exactly do you plan to rule without him?
+Lucia: The count of Fayre himself gladly volunteered as a delegate. Her Majesty's decision was only--
+Aristocrat: Lady Lucia, still your tongue! You are not Her Majesty. Do not presume to speak for her.
+Aristocrat: Yes, Lady Lucia! Please refrain from speaking if you have not been directly addressed. Your familiarity with the queen does not grant you a seat in the royal assembly. Although you may have been raised as a sister to Her Majesty the queen, kindly remember your place!
+Lucia: ...You have my apologies.
+Aristocrat: And you, General Geoffrey. Does your loyalty to Her Majesty stem only from your unchecked emotions? Those with a taste for gossip are talking. I wonder, have you heard what the help is saying about you?
+Geoffrey: What?! I...
+Lucia: Geoffrey!
+Geoffrey: Rrgh!
+Aristocrat: At any rate, growing discontent has brought the royal family of Crimea to a crossroads of sorts. Your Highness... This is all on you.
+Aristocrat: Indeed. Your Majesty... Whatever do you intend to do?
+
+???: Queen Elincia!
+Elincia: Marcia! How are you today? And what are you doing here?
+Marcia: Lucia told me about those no-goodnik nobles and their chest-beating contest, so I thought you could use some cheering up. You weren't in your chambers or the garden, so I guessed you would be out here.
+Elincia: Forgive me. I needed some...time to think. I'm sorry to trouble you.
+Marcia: Not at all! After everything you've done for me, it's the least I could do. It was nice of you to hire me as a Royal Knight, but hiring my sponge-brained, spine-deprived brother might qualify you for sainthood!
+Elincia: Even so, I'm afraid I may also have caused you a great number of hardships.
+Marcia: Huh? Oh! The grief I'm getting from the nobles? It's nothing I can't handle. If you think your country has stuffed-shirt windbags for aristocracy, you should see Begnion's! When I was a Pegasus knight there, they had a new shenanigan every week! After that, the Crimean crybabies are no big deal.
+Elincia: No, it's my fault, and I'm sorry. I'm so new at all this, even you are affected by my blunders. Sometimes, I think... Maybe I just don't have what it takes to be a queen.
+Marcia: That's so not true! Queen Elincia, anyone can strut around in a queen hat and say she's a ruler, but you always out your people first! Look, it's not that you're doing a bad job, it's just everyone's on edge lately, with Daein getting a new king and all. People are worried that Daein'll start another war like the one three years ago, and they're taking it out on you. Just don't let those peacock-wearing nobles bug you, and remember that you don't have to go it alone. You've got friends everywhere.
+Elincia: Thank you, Marcia. Your kind words have lifted my spirits.
+
+Elincia: That's right... I'm not alone. I must be strong, for the sake of our people. As the protector of our homeland!
+
+Marcia: Huh? Queen Elincia... What the heck is going on over there?
+Elincia: Hmm?
+
+Nealuchi: H-hey! How dare you harass us! Begone, insolent fools! Begone, I say!
+Leanne: ...
+Nealuchi: Fear not, my lady. This senile old bird will gladly trade his life for your protection.
+Begnion: They say nothing is as beautiful as the herons of Serenes... Especially a royal princess! You'll fetch a pretty penny from some lord or other... And our pockets are a little light. Whaddya say, Captain?
+Zeffren: Yes, naturally. She should prove to make a fine gift. Seize them...and mind the raven's talons!
+Nealuchi: This is unbelievable! Stand back, you unrepentant dogs! Nealuchi does not give in easily! 
+Zeffren: Men, silence that cawing raven. Who would pay for an old crow like that, anyway? Leave him.
+???: Stop right there!
+
+Zeffren: Tch... Company. How droll.
+Marcia: Hey, Begnion dracoknights! Are you lost, or have you just been letting those scaly fleabags do your navigating? What're you doing in Crimea's sky?
+Zeffren: ...We've merely strayed a bit in our duties patrolling the border. Do you have a problem with that?
+Marcia: You and your flying snakes are in violation of Crimea's sovereignty! Besides, do you have any idea who you're dealing with here, reptile breath?
+Elincia: Marcia, stop. We cannot afford to start antagonizing the Begnion army. I am the queen of Crimea...
+Marcia: But, Your Majesty! We can't just let these wyvern monkeys run rampant--
+Elincia: And we're not going to. As long as they don't realize I'm the queen, we should be fine.
+
+Elincia: Begnion dracoknights... You will only be warned once. Leave this area immediately! I serve the queen of Crimea. Trespassers on Crimean territory will be dealt with. No exceptions.
+Zeffren: The queen, she says! The very queen that relied on us, the Begnion Empire, to free her nation. Imperial dracoknights are not frightened by soldiers so weak as Crimean pegasus knights. Listen up! Leave those two alone. It's the Serenes maiden we want. Do not allow her to escape!
+Elincia: ...Looks like we'll not talk any sense into them. I suppose we have no choice. Sir Nealuchi! We're here to help you!
+Nealuchi: I'll be! It's Her Majesty, Queen Elincia! Fate has smiled upon us! I hate to be a bother, considering it has been so long, but... Your assistance is most appreciated.
+
+@Battle
+Haar: Yaaawn... Boy, I'm bushed. Hey, partner, you tired? How's a nap sound? You want to rest your wings a bit?
+
+Haar: ...Huh? We're running late? But I'm sleepy... What did you call me? That wasn't very nice. Overgrown lizard...
+
+Haar: Please tell me that's not what I think it is. Oh, this is perfect. Begnion dracoknights? Just my stinkin' luck.
+
+@Recruit-Talk 
+%Marcia,Haar
+Marcia: Hey... Look who's here! It's Haar!
+Haar: ...Hello, Marcia. I see you're still flying about on that apple-eating hairbag.
+Marcia: And you're still asleep at the reins of that foul-smelling... Oh, crackers! I don't have time for your nonsense! Open that one good eye of yours and take a look around, will you? Those Begnion dracoknights have invaded Crimean skies! You've got to help us save the laguz they're trying to kidnap. Well, c'mon, Haar!
+Haar: Me? Why? I owe the queen a favor or two, but I'm not one of her soldiers.
+Marcia: You... You cad! Does having fought together in the Mad King's War mean nothing to you?
+Haar: Well, no, but... Look, I've got a delivery to make, and this cargo's really heavy. Sorry, Marcia. Maybe next time.
+Marcia: NEXT TIME? You lizard-loving jerk! Would you really abandon us? What kind of man are you?
+Haar: The kind who lives to sleep another day. Well, good luck to you. See you around.
+Marcia: Stop! You have to stay and help! Uhm... OK, Haar, hear me out. You were an imperial dracoknight once, right? It's your job to fix this! They're your old comrades--you have to keep them in line!
+Haar: Huh? You're not making a lick of sense, girl.
+Marcia: Why do I have to make sense? If Jill were in trouble, I bet you'd help her! Please, please, please! C'mon, Haar! You have to help us. You have to!
+Haar: ...Is it really all that bad?
+Marcia: Yes! They're a tough bunch! And I'm all alone... I don't think I can manage to protect Queen Elincia. Please say you'll help... If only for the safety of the queen...
+Haar: ...Oh, fine. I really don't have time for this... But I guess I can lend a hand.
+Marcia: Thank you so much! I take back all the mean things I was thinking about you earlier. 
+Haar: That girl's nothing but trouble. Well, if we're going to do this, let's get it over with. Up and at 'em, partner!
+
+@Battle-Talk 
+%Elincia,Haar
+Haar: It's been a while, Queen Elincia.
+Elincia: Sir Haar? You are Sir Haar of Daein, correct? What are you doing here?
+Haar: That's a question for Marcia, Your Majesty. I was passing through on a delivery run, when she hailed me and pestered me into helping you.
+Elincia: What can I say? I'm terribly sorry. I know this is none of your affair, but...
+Haar: You know, I always thought you were too humble for royalty. I'm surprised your underlings don't run roughshod all over you.
+Elincia: I...I'm sorry.
+Haar: Hey, it's no skin off my nose. Besides, anyone who's got the guts to pick a fight with the empire's OK in my book.
+Elincia: Sir Haar, I--
+Haar: Yeah, I got it. You can't let these scum know you're actually the queen. International relations and all that other political stuff, right? I tell you what. I'll keep your secret and treat you like a regular soldier. That means I'm not going to be watching your back, though, so you're going to have to take care of yourself.
+Elincia: I understand. Thank you.
+
+@Boss
+Zeffren: Now, begone with you! The skies and the heron are ours! I can't wait to see your corpse smashed across Crimea's landscape!
+
+%Haar,Zeffren
+Haar: Well... If it isn't Zeffren. What brings the dracoknights into Crimean skies?
+Zeffren: Haar?!
+Haar: Why couldn't you just stay on patrol? Saw a pretty little heron and just had to have her, is that it? I never could decide if you were more greedy or more corrupt. Stupid was never in question, though.
+Zeffren: Who do you think you are?! You're a traitor, just like Shiharam! The dracoknights spit on your name!
+Haar: ...Do they now? Well, here's your chance to try the real thing.
+
+%Elincia,Zeffren
+Zeffren: You... You Crimeans seriously believe you can withstand the might of Begnion?!
+Elincia: Crimea takes this sort of encroachment seriously. We will not overlook invaders in our domain. Release your weapons, and apologize for your discourtesy... Only then will we lower our own.
+Zeffren: You have quite a mouth on you... I won't be addressed in that tone by anyone. It's time to end this farce.
+
+@Boss
+Zeffren: Ugh... Aaaaaaaagghh!
+
+@End
+Marcia: Yeah, you run, dragonbackers! And don't ever come back to Crimea!
+
+Elincia: Princess Leanne, it's a pleasure to see you again. I'm sorry you had to go through all that. Are you hurt?
+Leanne: ...
+Nealuchi: Lady Leanne is very grateful for your help with those ruffians and is quite delighted to see you again, Your Majesty. Frankly, I don't think these old bones would have been up to the task of protecting the princess without your help.
+Elincia: The most important thing is that you're both safe, Sir Nealuchi. But... What brings you here? As far as I knew, the both of you were residing in Gallia...
+Leanne: ....
+Nealuchi: It is imperative that my lady sees General Ike as soon as possible. We were traveling to the royal palace in Melior for that very purpose.
+Elincia: That's unfortunate. Ike left Melior more than half a year ago. After that, rumor has it that he reorganized the Greil Mercenaries... Now, no one seems to know where they are.
+Nealuchi: What?! This is most unexpected. What are we supposed to do now?
+Elincia: Sir Ike isn't here, but... Since you've traveled all this way to Crimea, would you like to visit the royal court? I would be happy to investigate the whereabouts of the Greil Mercenaries during your stay.
+Nealuchi: Well... We don't want to be a bother, but it would be very kind of you.
+Elincia: To be honest, there are matters about which I must speak with Sir Ike myself. And regardless, we're always delighted to have such splendid guests as yourselves. I must tell you, however--and I am ashamed to say it--there is unrest among certain circles here in Crimea. I hope nothing will happen to disturb your visit with us.
+Nealuchi: Un-unrest...you say?
+Elincia: Yes. I trust, however, my protection will be enough to keep you from harm's way.
+
+@Narration
+Queen Elincia encounters and defeats a wing of Begnion dracoknights trespassing in Crimean skies. After rescuing Chamberlain Nealuchi and Princess Leanne, she invites them to be her guests at the royal court. While Elincia's show of loyalty to her laguz allies causes an uproar among the nobles at court, they are aware that the heron princess is under the mutual protection of the mighty laguz hawk king and raven king. Because of this, there is no public show of distaste.
+However, dissatisfaction with Elincia's rule now spreads from a single faction to a larger group. Crimea's unity is slowly rotting from within. This discord begins to be felt even in country hamlets like the farming village of Ohma.

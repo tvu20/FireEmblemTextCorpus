@@ -1,0 +1,664 @@
+@Dialogue
+Nailah: A blood pact? A piece of parchment forced you into this hopeless war?
+Rafiel: How terrible... I'm sorry for what you've been put through, Micaiah.
+Tauroneo: The uprising in the empire continues. The apostle's people await her return as they fight against the senate. Casualties mount each day... We know how urgently the apostle's army needs to reach the empire. However, if we let their army pass through Daein, the senate will surely invoke the blood pact and destroy us.
+Rafiel: But why haven't you told the apostle's army all this? Surely an alliance between your army and theirs could overcome the senate!
+Tauroneo: Attacking the senate is not an option for us. If it were, we would have marched against them when this all started. If we were to side with Ike, the senate would use the curse against us. The death of the senate will not stop the curse.
+Sothe: No matter what happens, the end result remains the same: the obliteration of Daein.
+Rafiel: What tragedy... Is there any hope for Daein at all?
+Micaiah: There is... One person who holds a glimmer of hope for all of us.
+
+^start
+Micaiah: Queen Almedha! Queen Almedha... What do you know about the blood pact? You know some thing, don’t you? I saw the look on your face... You noticed something even before Pelleas told us about the pact. If there’s something you know that we don’t, please tell us!
+Almedha: Heh heh...hmph...
+Micaiah: L-Lady Almedha?
+Almedha: Haven’t... Haven’t you done enough already? It’s done, finished. Nothing matters anymore...There’s nothing we can do. My Pelleas... My Pelleas is...
+Kurthnaga: Almedha! Get ahold of yourself!
+Almedha: Kurth?
+Kurthnaga: I can’t pretend that I know what you’re going through, but, for Pelleas’s sake, you must control yourself. Remember that your son made his final sacrifice in order to protect the people of Daein! Honor his memory now and help us.
+Almedha: ...Sniff... You’re right, Kurth. I’ll try.
+Micaiah: Oh, thank you, Lady Almedha! Now, what can you tell us about the blood pact?
+Almedha: ...In the Begnion era, year 626, a terrible plague swept through Daein, killing over a thousand people.
+Tauroneo: I remember the horror of that disease. King Ashnard took the throne after the plague killed most of the royal family, including his father.The tragedy is still fresh in my mind.
+Almedha: That was no disease. It was the curse of a blood pact.
+Micaiah: What?!
+Almedha: It was all plotted by my husband in a bid to claim the throne of Daein. Ashnard tricked his father into signing a blood pact with a traveling wise man. Ashnard convinced the king that he was signing a contract to procure the services of the wise man, which was true, in a fashion. With the pact signed, Ashnard had the wise man invoke the curse. My husband looked on in triumph as the royal family began to wither. The power of the curse killed every royal in line for the throne. It was brilliant. With no one to block his way to the throne, Ashnard executed his master stroke. He killed his father and took the crown from his head.
+Micaiah: King Ashnard killed his own father? The king of Daein?! And what about the others? A thousand people died for his insane plot!
+Almedha: There’s no point in dwelling on old wounds. Besides, the peasants didn’t matter. They had no vision. Ashnard, on the other hand... What’s important is what happened after the king’s death. Ashnard wasn’t cursed by the blood pact.
+Micaiah: He wasn’t cursed? How is that possible?
+Almedha: In order to break the curse of the blood pact, two conditions must be met. The destruction of the document itself, and the death of the one bound to it. Either condition by itself is not enough. I watched it happen. Ashnard killed his father, then tore apart the pact. And before my eyes, the mark of the pact faded from the dead king’s arm.
+Almedha: The destruction of the document, and the death of the one bound...
+Micaiah: How could you, Almedha? How could you not tell us? You knew all along--
+Almedha: Because I was terrified! I knew that once you found out the truth, you would butcher my dear son to save your doomed country! I would have done anything to save my Pelleas... That’s why I didn’t say anything... How could I? In the end, though...it wasn’t enough.
+Kurthnaga: Almedha, you are stronger than this. You were always the brave one when we were young.
+Almedha: Huh?
+Kurthnaga: I know you grieve, but grieving will not bring Pelleas back. Now is the time when you must be strong. To put Pelleas’s spirit to rest, help carry out his dying wish, and ensure the safety of his homeland.
+Almedha: But he was... He was everything to me... How can I go on without him?
+Kurthnaga: I am still here, dear sister. You still have family.
+Micaiah: Sister? Lady Almedha is your sister?
+Kurthnaga: I received your message, my sister, and have come to help. Please, Almedha, allow me to protect Daein for you and for Pelleas. Do not lose hope. You are not alone anymore and never shall be again.
+Almedha: Oh, Kurthnaga, thank you! I’m so sorry for everything I put you and Father through... I’m so sorry...
+
+Micaiah: Queen Almedha! Queen Almedha... What do you know about the blood pact? You know something, don't you? I saw the look on your face... You noticed something even before Pelleas told us about the pact. If there's something you know that we don't, please tell us!
+Almedha: I... I know nothing...
+Pelleas: Mother... Please tell the truth.
+Almedha: ...
+Pelleas: Mother, if you can't help us, then there's no hope for Daein. I guess we were right... We have no choice but to wager my life.
+Almedha: Pe-Pelleas! Wait! Just wait! I'm going to tell you something... But you mustn't tell the others. In the Begnion era, year 626, a terrible plague swept through Daein, killing over a thousand people.
+Pelleas: Yes, including nearly the entire royal family. Those who had ruled and those destined to do so--none were spared except Ashnard, who ascended the throne in the wake of it all. I've heard that tragic story for as long as I can remember.
+Almedha: That was no disease. It was the curse of a blood pact.
+Pelleas: What?!
+Almedha: It was all plotted by my husband in a bid to claim the throne of Daein. Ashnard tricked his father into signing a blood pact with a traveling wise man. Ashnard convinced the king that he was signing a contract to procure the services of the wise man, which was true, in a fashion. With the pact signed, Ashnard had the wise man invoke the curse. My husband looked on in triumph as the royal family began to wither. The power of the curse killed every royal in line for the throne. It was brilliant. With no one to block his way to the throne, Ashnard executed his master stroke. He killed his father and took the crown from his head. What's important is that, after killing his father, Ashnard was not cursed himself.
+Micaiah: He broke the pact's curse?
+Almedha: In order to break the curse of the blood pact, two conditions must be met. The destruction of the document itself, and the death of the one bound to it. Either condition by itself is not enough. I watched it happen. Ashnard killed his father, then tore apart the pact. And before my eyes, the mark of the pact faded from the dead king's arm.
+Pelleas: The destruction of the document, and the death of the one bound...
+Micaiah: How could you, Almedha? How could you not tell us? You knew all along--
+Almedha: Because I was terrified! I knew that once you found out the truth, you would butcher my dear son to save your doomed country! I would rather watch all of Daein perish than lose my Pelleas...
+Pelleas: Mother... Thank you. Thank you for telling us. It makes my decision much easier. I will save Daein...
+Almedha: No! I won't let you die! You are all I have left in this world, Pelleas! If you only knew how much I've sacrificed for you... I never should have said anything. I can't bear to lose you again, Pelleas... Please don't die.
+Pelleas: I'm sorry, Mother. My mind is made up. This has to happen.
+Almedha: Then I shall die as well! I will take my own life, if necessary!
+Pelleas: Mother?!
+Micaiah: ...Kurth?
+Kurthnaga: Stop! Please, Sister. You must calm down.
+Pelleas: Sister?
+Almedha: Oh, Kurth... Don't you understand? I can't feel this way any longer!
+Kurthnaga: I do understand, Almedha...more than you realize. Everyone, as you've heard, there are two conditions to breaking the blood pact: the destruction of the physical document and the death of the pact-maker. However, it takes two parties to make a pact.
+Micaiah: Oh...I see.
+Almedha: Yes! Ashnard once told me he'd considered killing the man who created his father's blood pact instead! I didn't know why until now... This means that we could kill the senator who signed the pact instead of Pelleas!
+Micaiah: It's possible, but very difficult. We'll need not only to hunt down the senator, but find the document, with no idea where to start. Daein could be annihilated in the time it would take to look.
+Almedha: Oh, Kurth! Please, please save my Pelleas! I need your help! Help me protect Daein until we get our chance to break the blood pact! I no longer have any power of my own. You're my only hope now, little brother. Please, Kurth...
+Kurthnaga: Of course, my dear sister. That is why I came when you called me. I shall protect Daein for you and for Pelleas. So please. Put your mind at ease.
+Almedha: Oh, Kurth, thank you! I'm so sorry for everything I put you and Father through... I'm so sorry...
+^end
+
+Ena: Sir Ike... I've just received a very disturbing message from Prince Kurthnaga.
+Ike: Don't tell me... No luck, right?
+Ena: It is far worse than that. Prince Kurthnaga has decided to fight for Daein.
+Ike: What?! Why? He was supposed to stop them from fighting! And now he wants to fight us instead?! Oh, this is just perfect!
+Ena: He has a good reason to side with them, but... I'm afraid I cannot tell you why.
+Ike: Wonderful! So we still have to fight Daein, and they've added one of the supposedly neutral dragons of Goldoa to their army?
+Ena: I'm sorry, Ike. I will try to reason with Prince Kurth again. It was the prince's wish to come here... King Dheginsea knows nothing of this visit. Be that as it may, for a prince of the dragon tribe to stand on a battlefield... It is unacceptable. I must talk him out of it.
+
+
+
+Ike: I'm sorry, Ena. I know you're doing your best to... Wait, are you talking to him with that stone?
+Ena: Yes. We dragons have the power to sense the presence of our allies. If that ally is someone we care for very much, then we can communicate telepathically. With the sending stone, we can use this telepathy across extreme distances.
+
+Ena: I just hope he listens to me. We can't afford to fuel the flames of the Fire Emblem.
+Ike: It's almost dawn. Do what you can to convince the prince to stay out of this. I would've preferred to avoid a fight, but once again Micaiah isn't giving us much of a choice.
+Ena: I will do my best, Sir Ike.
+
+@Intro
+Daein: The apostle's army has left the castle!
+Micaiah: All right. Order all units to stand by until they encounter the enemy forces.
+
+Micaiah: Everyone! There is still hope for Daein! We are the key to that hope! But first, we must win this battle!
+
+Micaiah: Why are you still here? You must return to the apostle's army before the battle begins!
+Nailah: That army has enough troops. I think you could use some help on your side.
+Rafiel: Reyson and Leanne both fight for the people they love. I shall do the same, even if that means fighting against them. I shall fight for Daein on your behalf.
+Micaiah: Thank you both. It means a lot to me. But are you sure? After all, this seems like a hopeless battle.
+Nailah: It's too soon for you to give up hope. You have the dragon prince of Goldoa on your side. That counts for something.
+Micaiah: Kurth is the prince of Goldoa? So, he is a laguz...
+Nailah: Not just a laguz. He is a black dragon. The black dragons are the strongest of all the laguz tribes. We have a chance.
+Micaiah: If Queen Almedha's brother is a black dragon...that means the queen herself must also be a laguz!
+Sothe: Seems like a complicated mess to me. Just the same, he is a powerful ally.
+Micaiah: You're right. If we can stand our ground, there will be hope for another day. Each day that Daein survives is another day we'll have earned for it!
+
+Skrimir: Onward, my brothers! Hold nothing back! We must end this battle quickly! 
+
+Janaff: Whoa, that's a problem... Uh, guys? It looks like Prince Rafiel is fighting for the other side. What do we do now?
+Ulki: It is his choice. We can't do anything about it.
+Tibarn: Well, his choice or not, it makes things a lot more complicated for us.
+Reyson: He has sided with our enemies? Has he lost his mind? My dear, stupid brother...
+Janaff: Prince! What are you doing here? What about the medallion?1 Weren't you supposed to be--
+Reyson: Leanne is watching over it now.
+Tibarn: Either we convince Rafiel to come back to our side, or we drag his unconscious backside over here. Got that?
+Janaff: Yes, Your Majesty!
+
+Ena: Prince Kurthnaga...
+Ike: what will you do now, Ena? Are you going over to the other side, too?
+Ena: King Dheginsea has expressly forbidden us from choosing sides. The dragon tribe must not fight. I shall attempt to stop the prince.
+Ike: Do what you need to do. Just be careful out there, all right?
+Ena: Yes, Sir Ike.
+
+Ike: Elincia, please stay back. If a chance for a peace talk arises, I want you to mediate the whole show.
+Elincia: I understand. Please be safe. 
+Ike: OK, everyone, get moving! Let's get this mess over with.
+
+@Recruit-Battle
+Zihark: There's no time to dwell on our sorrow.
+
+Zihark: I must not think... The enemy in front of me is the only thing I will focus on.
+
+%Zihark,Ike
+Zihark: Ike, I'm sorry, I... I must raise my sword against you.
+Ike: Zihark, what's going on here? Why do you sound so desperate? This isn't like you at all!
+Zihark: I'll take my secret to the grave. Besides, you know I don't like to complain. At your ready, Commander.
+
+@Battle-Talk 
+%Zihark,Micaiah
+Zihark: Micaiah! Pull back your troops! We don’t want to fight you. There’s got to be a way to stop all this!
+Micaiah: I can’t, and there isn’t. We have to keep fighting. Until the last of us falls, we have no choice.
+Zihark: What’s happened to you all?! Why get yourselves into such a hopeless war? Why did you do those horrible things in the valley? I know all of this must have a reason! Please tell me... Tell me how my country lost its soul.
+Micaiah: I’ve nothing to say to you.
+Zihark: I see. No words to waste on a deserter like me, is that it? I’m sorry I wasted your time.
+Micaiah: Zihark--
+Zihark: No, please... Just know that I could never draw steel against you. Good-bye, Micaiah.
+Micaiah: I... I’m so sorry, Zihark. I can’t get you involved in this, too.
+
+%Jill,Micaiah
+Jill: Lady Micaiah! Why do you insist on continuing this fight?!
+Micaiah: Jill...
+Jill: Even now, Daein blood spills on the battlefield. You must stop this! There must be another way!
+Micaiah: I can’t, and there isn’t. We have to keep fighting. Until the last of us falls, we have no choice.
+Jill: Please! Listen to what I’m--
+Micaiah: Apostle’s dracoknight. Leave here immediately. I warn you only once. Next time, I will attack!
+Jill: Lady Micaiah! Please, I beg of you! Lady Micaiah!
+
+%Reyson,Micaiah
+Reyson: The Maiden of Dawn... Lady Micaiah. I would speak with you. You are not an evil person. I already know that.
+Micaiah: ...
+Reyson: That is why I am puzzled. Why do you continue to fight? Would you have your country destroyed like this?
+Micaiah: ...
+Reyson: Please, say something. You have the power to end all of this violence. Say the word, I beg you!
+Micaiah: Please go. The people of the Serenes are not safe from the chaos set loose upon us. This place isn’t safe for you. Take Rafiel with you and leave the battlefield as soon as you can.
+Reyson: That’s all you have to say? Your men die all around you, while you stand here giving me orders? So be it.
+
+@Recruit-Battle
+Micaiah: What’s that? Who’s talking?
+
+Micaiah: Ungh...
+Sothe: Micaiah! Micaiah, are you all right?!
+Micaiah: So... Sothe...
+Sothe: Can you hear me? Then let’s pull back! You’re in no condition to fight!
+Micaiah: ...
+
+%Ike,Micaiah
+Micaiah: I can hear it... It’s very close...
+Ike: Hey, what’s wrong with you? You don’t look well...
+Micaiah: ...What? Oh, um... I’m fine.
+Ike: Are you? How much good can you do your men if you can hardly see straight? Pull your troops back, Micaiah.
+Micaiah: ...There’s no need. I will stay here with everyone else and fight to the end!
+Ike: You’re very brave, Micaiah, but sometimes bravery isn’t enough to win the battle.
+
+@Recruit-Battle 
+Sothe: I’m sorry, but I can’t stop now. Winning is the only way we’ll survive this.
+
+Sothe: They just keep coming at us... We have to pull back. We’ll regroup and strike them again later.
+
+%Ike,Sothe
+Ike: Good-bye, Sothe.
+Sothe: Commander.
+
+%Astrid,Sothe
+Astrid: Oh... It’s you, Sothe. I’d sincerely hoped we wouldn’t meet like this.
+Sothe: Me too, Astrid.
+Astrid: I knew you were with the Daein army, but I hoped that, if I didn’t see you, I could pretend it wasn’t true. Now, however, I’m glad I saw you. How you have grown. You look like a true soldier now.
+Sothe: ...I’m not the only one who’s grown. You look every bit the true knight now, Astrid.
+Astrid: You really think so? Thank you, Sothe. That means a lot to me.
+Sothe: I know the answer, but I still have to ask. Will you pull back? We don’t really have to do this, do we?
+Astrid: I was about to ask you the same thing. I don’t want to fight you, Sothe. Please fall back.
+Sothe: ...I thought as much. Let’s get started. I’m sorry, Astrid.
+Astrid: I am sorry as well, Sothe.
+
+%Ilyana,Sothe
+Ilyana: Hello, Sothe. Shall we get started?
+Sothe: Uh, I thought you’d hesitate to fight me. I’m... a little surprised.
+Ilyana: You’ve made your choice, Sothe, and I’ve made mine. It’s really that simple, isn’t it? Anyway, I’m starving. If I don’t eat something soon, I think I’ll pass out...
+Sothe: Well, we can’t have that. Ready when you are, Ilyana.
+
+%Jill,Sothe
+Jill: Sothe, I--
+Sothe: Let’s cut the small talk, Jill. We both fight for the side we believe in. There’s no point in talking things over. Let’s finish this.
+Jill: You’re right... Let’s just get past this.
+
+%Zihark,Sothe
+Sothe: I’ll forget about our time together during the Mad King’s War and the Daein Emancipation. You should do the same. We should fight without reservation and without sentiment.
+Zihark: I agree, Sothe. I do hope you survive, for Micaiah’s sake. But you’ll have to defeat me first.
+
+@Battle-Talk 
+%Zihark,Tauroneo
+Zihark: General Tauroneo! Finally, I found you! Please, tell me what happened to Daein! Why are you fighting?
+Tauroneo: There is nothing to say. We have parted ways. That is all.
+Zihark: What are you trying to hide?! Daein has now committed atrocities on par with those committed by Ashnard! I want to know why you’d continue to fight a war like this!
+Tauroneo: And I say that there is no need for you to know. Mercenary Zihark, return to your allies in the apostle’s army.
+Zihark: I will find out what’s going on here! If my country can’t save itself, then I’LL save it! But I’ll never raise my sword against you. Good-bye for now, General. I hope our next meeting goes better.
+Tauroneo: ...Forgive me.
+
+%Jill,Tauroneo
+Jill: General Tauroneo!
+Tauroneo: Jill... I will tell you one thing. I do not blame you for leaving Daein. You must live by your own beliefs. That is what your father would have wanted.
+Jill: But--
+Tauroneo: I must live by my principles as well. You cannot convince me to betray my king and countrymen. I have done so once in the past, but that was long ago. Now, I intend to fight for my country to the end.
+Jill: I understand... General.
+
+@Recruit-Battle
+Tauroneo: I am Tauroneo, a general of Daein!
+
+Tauroneo: Ah, so we meet again. I won’t have mercy on you!
+
+Tauroneo: As I expected. They’re too strong... We’ll need more drastic methods... And this injury is too deep... I have to retreat.
+
+%Ike,Tauroneo
+Tauroneo: General Ike, of the apostle’s army! I challenge you to a duel!
+Ike: ...All right.
+Tauroneo: I see so much of him in you... your stance, your spirit, the expression on your face... You remind me so much of Gawain. Let’s see if your swordsmanship matches your father’s!
+Ike: Test me. You knew my father well. Tell me how I measure up.
+
+%Rolf,Tauroneo
+Tauroneo: Rolf? Is that you? How you’ve grown. Kids always grow up so fast.
+Rolf: General Tauroneo... You’re still fighting in the Daein army? Let’s not do this. No matter how strong you are, Daein can’t win this war, and I don’t wanna hurt you.
+Tauroneo: You’re right, Rolf. Daein can’t win. In most ways, we’ve already lost everything. But I must fight on. Rolf, you stand on the battlefield as a man now. I won’t hold back. You shouldn’t either. Show me what you’ve learned in the last three years.
+Rolf: OK, General, if you really wanna. But, just to tell you... Uncle Shinon’s been teaching me, so this might sting...
+
+%Calill,Tauroneo
+Tauroneo: Is that you, Calill? You look well! I heard you married Largo and opened a pub. How is Largo these days?
+Calill: That fool went and lost his arm in an accident. No more fighting for him, that’s for sure.
+Tauroneo: Oh! Well, uh, I’m sorry to hear that.
+Calill: Oh, but he’s doing fine otherwise. A tough one, that man. Our business is doing great, and he’s married to the best woman in the world! That’s worth an arm or two, I’d say.
+Tauroneo: Indeed. I’m glad you two are happy.
+Calill: How about you, General? I told Largo that I’d visit you in Daein and see how you were doing.
+Tauroneo: Me? I just... I only wish to meet a glorious end on the battlefield, fit for a general of Daein.
+Calill: Mmm-hmm. Men are so full of it. I mean, honestly, are you even listening to how stupid that sounds?
+Tauroneo: Wh-what do you mean--
+Calill: What I mean is that you’re stupid. You have people who care for you on both sides of this suicidal battle. And here you are, in the thick of things, looking to throw your life away! You selfish fool! Looks like I’ll have to do this myself. I’m taking you back with me, General. The hard way.
+Tauroneo: You have an interesting way of making your point.
+
+%Ilyana,Tauroneo
+Ilyana: ...Sigh.
+Tauroneo: Taking a break on the battlefield? Things don’t seem to rattle you, Ilyana.
+Ilyana: I’m not taking a break. I’m just sad I have to fight against you, General. Well, that, and I’m really, really hungry right now...
+Tauroneo: I should’ve known. Let’s get this over with so you can get back and have something to eat.
+Ilyana: ...General Tauroneo, I hope we can meet again under different circumstances.
+Tauroneo: I hope so as well, Ilyana. We’ll have to see what happens.
+
+%Zihark,Tauroneo
+Tauroneo: What a strange twist of fate that we would end up facing off against one another.
+Zihark: Agreed. It seems that fate is cruel in lots of ways lately.
+Tauroneo: Daein owes you, Zihark. Your efforts liberated our country. For that, you will always have our thanks. However, Daein cannot retreat from this war. We may face old friends as our enemies, but we cannot stop.
+Zihark: ...
+Tauroneo: I will not apologize for this war, and I cannot explain it to you. You should do what you must. We are two soldiers now, facing off against each other on the battlefield.
+Zihark: ...Very well. I hope we’ll get to talk more about this later, General.
+
+%Jill,Tauroneo
+Tauroneo: Jill...
+Jill: General Tauroneo...
+Tauroneo: How tragic that we meet again as enemies. It was hard enough for me the first time.
+Jill: I’m sorry... I--
+Tauroneo: Raise your head. Stand tall.
+Jill: ...
+Tauroneo: If you haven’t done anything to disgrace your family’s name, do not cast your eyes away from anyone.
+Jill: I have not disgraced anything. I joined this army so I could avoid that.
+Tauroneo: I know Jill. I’m envious of you. But this is the only way it can end.
+
+@Recruit-Battle
+Nailah: Being outnumbered isn’t such a bad thing. At the very least, I’ll get a good workout.
+
+Nailah: The laguz of the west. I’ve been itching to test your mettle.
+
+Nailah: ... Maybe... I should not have been so cocky...
+Rafiel: Queen?!
+Nailah: Stop squawking, Rafiel, I’ll be all right. ... It makes me happy that you worry for me as you do. But I’ll have to retreat for now.
+
+%Ike,Nailah
+Ike: Hold on a second! When did you decide to side with them?
+Nailah: I spoke to Micaiah. She made me see her side of the conflict. Besides, she needed the extra help.
+Ike: She must be an amazing talker. What did she say?
+Nailah: I could tell you, but you wouldn’t really understand. The situation is quite complicated. But Daein has no way out. One side or the other will be sacrificed.
+Ike: Queen Nailah...
+Nailah: Don’t worry your pretty head about it, beorc hero. You and I are warriors--you of the sword and I of the fang. We understand what to do now.
+Ike: Are you...enjoying yourself?
+Nailah: If we can’t avoid fighting, we might as well enjoy it, agreed? Besides, I’ve been curious about your swordsmanship. You seem strong, for a beorc. Show me what you can do.
+Ike: How could I say no to that? Ready when you are, Your Majesty.
+
+%Ranulf,Nailah
+Nailah: Hm. I’d always assumed that you cats were weak, but I was wrong. I’ve been watching you fight this battle. You’re really very good.
+Ranulf: Queen Nailah, while I’m honored to receive praise from you, I’d really rather not fight you. I think I’d much rather run away with my tail tucked firmly between my legs, to be honest.
+Nailah: Don’t be so modest, Ranulf. You’ll be a good challenge, I’m sure, and those are rare for me. Ready?
+Ranulf: Thrown around by Skrimir, cornered by General Zelgius, and now this. Can someone tell me why I always seem to pull the short straw?
+
+%Tibarn,Nailah
+Nailah: ...I must confess, I’ve wanted this since I first laid eyes on you. I can hardly hold myself back right now.
+Tibarn: Lady, the feeling is mutual. Why do you think I winged my way over here? It looks to me like we can have a nice, private time right here. No interruptions. Just you and me.
+Nailah: Hawk King Tibarn. I think that a few more scars on your face will complete that rugged look you’re going for.
+Tibarn: For a beautiful woman like you, I’ll gladly offer my head. Of course you’ll have to bring me down to the ground first.
+Nailah: Challenge accepted. I think you’ll regret it once I add your feathers to my necklace, though. Oh, and let’s not tell Rafiel about this, agreed? He wouldn’t understand these urges of ours.
+
+%Skrimir,Nailah
+Nailah: Ah, the lion prince! You’ll give me the challenge I’m craving, won’t you? I’m having trouble finding decent enemies.
+Skrimir: Gladly, Queen Nailah. I’ve wanted to fight a wolf ever since I heard the legends of your people as a cub. Let me show you why I am the heir to the lion king. You’d better hope you eastern laguz heal as well as we do.
+
+%Ilyana,Nailah
+Ilyana: Wolf Queen...
+Nailah: Ilyana. I am not familiar with beorc magic. You might actually stand a chance, if you strike quickly.
+Ilyana: Um, OK... But... Queen Nailah? Would you promise me something? If we both live through this, will you take me for some good Hatari cooking?
+
+%Zihark,Nailah
+Nailah: Zihark... You used to fight for Micaiah.
+Zihark: Queen Nailah. Do you fight for Daein now?
+Nailah: Well, let’s say I’ve replaced some of the deserters.
+Zihark: That’s right, I’m a deserter. I don’t have to defend my decision. I made the right choice.
+Nailah: Zihark, I don’t care. These are beorc problems. What I’m interested in is you and your blade. Shall we get started? I remember you as a skilled swordsman. I’m excited to see your work up close.
+Zihark: I don’t know if my blade can match your jaws, Queen Nailah, but I’m honored to face you. At your ready.
+
+%Jill,Nailah
+Jill: Queen Nailah! You’re fighting for Daein now?
+Nailah: To tell you the truth, I’m interested in fighting you, Jill. An armed beorc trained to fight from the back of a wyvern... Now, that’s what I call a challenge!
+Jill: Very well, Queen Nailah. I don’t know why you’ve switched sides, but if it’s a fight you want, you’ve found one!
+
+@Battle-Talk 
+%Zihark,Pelleas
+Zihark: King Pelleas. Would you please listen to what I have to say?
+Pelleas: Zihark. What is there to talk about? You’ve deserted your country and your people.
+Zihark: I just don’t understand. I thought I knew you. You are a good, kind man. Why do you continue to fight for those bloodsucking senators?
+Pelleas: I don’t want to talk about it.
+Zihark: Your Majesty...
+Pelleas: It doesn’t concern you anymore. You’ve abandoned Daein--and us. If you want to stop us, use your sword--not words.
+Zihark: My sword and my allegiance do lie elsewhere now, it’s true. But I am not without honor. I will not draw my sword against the man I call my king, no matter what.
+Pelleas: ...I’m sorry, Zihark. At least you’ll be spared from the curse of the pact.
+
+%Jill,Pelleas
+Jill: King Pelleas! Please wait. I must talk to you.
+Pelleas: Jill. I’m afraid I have nothing to say to you. You abandoned your own country.
+Jill: No, I... Yes, I suppose that’s true. I just couldn’t understand why we would bow to the empire, after fighting so hard to free ourselves from their grasp! Why are you fighting an army that isn’t even an enemy of Daein?
+Pelleas: You don’t need to understand.
+Jill: King Pelleas...
+Pelleas: Jill, you do what you think is best for you. Go your own way. But don’t return to Daein. Ever.
+Jill: But I can’t do that! In the end, I am a native of Daein. This is where the body of my father lies. This is my home. My only home...
+Pelleas: ...I’m sorry, Jill. But there’s no need for you to fall prey to the curse as well.
+
+@Recruit-Battle
+Pelleas: If you thought to end this battle quickly by fighting me, you have made a grave mistake.
+
+%Ike,Pelleas
+Ike: You’re King Pelleas? The son of Mad King Ashnard? I expected you to be...bigger.
+Pelleas: You are the hero of Crimea, General Ike. You killed my father...
+Ike: It was nothing personal. Your father had to be put down. Wait, are you shaking?
+Pelleas: I’ve never killed anyone before... I’ve never even stood on a battlefield before today.
+Ike: Then why did you come here? Do you want to die?
+Pelleas: I do, but it won’t change anything... I promised Micaiah that I wouldn’t run from my destiny. General Ike, you may be able to take me down easily, but I will not run!
+Ike: Just what Daein needs...another mad king. Let’s see if you’re as tough as your father.
+
+%Soren,Pelleas
+Soren: The new king of Daein, Pelleas. How convenient. I can end this farce right now. Surrender or die.
+Pelleas: Who are you? That mark on your forehead... Is it a mark of Spirit Protection?
+Soren: No. It’s something rather different.
+Pelleas: But that shape... It looks so much like mine!
+Soren: Is that so? You might still more powerful than you let on. Still, I doubt this changes anything. Prepare yourself, Pelleas.
+Pelleas: But wait! There’s so much I want to ask you!
+
+%Ilyana,Pelleas
+Pelleas: Ilyana... I’m sorry. If I were a better king, this wouldn’t have happened. I’m sorry...
+Ilyana: Your Majesty, I don’t know what’s happened. All I know is that my friends are hurting each other. If that means I have to stop you to save them, then I’m going to try. I’m sorry...
+
+%Zihark,Pelleas
+Pelleas: Zihark... I only ever wanted to help our people. I’m sorry it came to this.
+Zihark: So am I, Your Majesty. I don’t understand any of this, but I do know that it has to stop.
+
+%Jill,Pelleas
+Pelleas: Jill, you told me once that you wished for me to become a good king for our people. I tried so hard... But I couldn’t fulfil your wish. I’m so sorry.
+Jill: It’s all right, Your Majesty. I’d wrongly assumed that you had turned into a tyrant. Please forgive my desertion.
+
+@Recruit-Battle
+Pelleas: To die in this lonely place... It’s my fate... But... For Micaiah... I must... I...must live...
+
+@Recruit-Battle 
+Kurthnaga: Don’t come near me! I can barely... I don’t want to do this! Get away!
+
+Kurthnaga: Ugh... Gh... Im-impossible! I wasn’t... This can’t... Guh...
+
+%Ike,Kurthnaga
+Ike: Prince Kurthnaga!
+Kurthnaga: It’s so hot... I’m burning up! My body, it’s on fire!
+Ike: Can you hear me? I guess not. Kurth, what’s happening to you?
+Kurthnaga: I don’t want to fight... I... I don’t want to take any more lives...
+
+@Battle-Talk 
+%Tibarn,Rafiel
+Tibarn: Rafiel... Exactly what in the goddess’s name are you doing? You herons are making me tear my feathers out! Do you WANT to die? After all this time apart from your family, you want to die? Did that crazy wolf hit you on the head!
+Rafiel: Tibarn, no, it’s not like that. I just want--
+Tibarn: Hey, I know you’re worried about this Maiden of Daein. But that’s no reason to join up with the bad guys.
+Rafiel: Bad guys? Tibarn, it’s not like that! They are not evil, and I’m not against you, or anyone for that matter!
+Tibarn: Then explain to me what’s going on. Go ahead. I’m listening.
+Rafiel: I...I want to help Micaiah. That’s all, really! That’s why I thought I should be by her side for this battle...
+Tibarn: Right, then that means you’re an enemy now. Are you ready, Rafiel? You’d better hope that queen of yours taught you some fancy moves if you’re planning on surviving me.
+Rafiel: Tibarn, I... Sniff...
+Tibarn: H-hey, Rafiel, c’mon now. You know I wouldn’t hurt you! Sorry I scared you, all right?
+Rafiel: Sniff...sniff...
+Tibarn: Rafiel, stop! There’s no crying in battle! Get up, NOW! Please?
+
+@Recruit-Battle 
+Rafiel: ...Uhh!
+Nailah: Rafiel! You can’t push yourself any further. Get away from here, now! I forbid you to die before I do!
+Rafiel: ... As you wish, Nailah. Everyone... Please, forgive me.
+
+%Ike,Rafiel
+Ike: Rafiel! What are you doing? Why are you fighting for Daein?!
+Rafiel: Please forgive me, Ike. I only wish to help Micaiah.
+Ike: Then join back with Tibarn! If you stay here with Daein, you’re our enemy! And if you’re my enemy, then I’ll have no choice but to take you down.
+Rafiel: But I just want to help Micaiah! I’m not against you! Please, put the sword down!
+Ike: I don’t know how to deal with this. Rafiel, you leave me no choice. I’ll have to knock you out and drag you over to Tibarn. Maybe he’ll know how to deal with you.
+
+@Battle-Talk
+%Meg,Brom
+Meg: Daddy!
+Brom: Meg! I’m glad you’re safe and sound. How’s my baby girl?
+Meg: I’m doin’ swell. It’s good to see you, too, Daddy.
+Brom: Meg, can you do Daddy a favor? I don’t know what in blazes is going on, but family has gotta stick together! Why don’t you be a good little girl and mosey on over to your daddy’s side.
+Meg: No...I can’t. I’m sorry, Daddy. Micaiah is a good person. I believe in her. I want to fight for her.
+Brom: Well, shucks, this ain’t no good at all! I hope those higher-ups get their act together soon. But one thing’s for sure. You’re my girl. No way are we gonna fight. Not for anybody or anything!
+
+%Zihark,Meg
+Zihark: Meg, why are you still with the Daein army? They’re in the wrong, and you know it. I know it’s selfish of me to ask, but I’m pleading with you. Come with me.
+Meg: I can’t... I’m sorry. I hope that this doesn’t get in the way of our wedding, but I can’t do that.
+Zihark: Is it because of Micaiah?
+Meg: Yes. Everybody knows that this whole war is a mess and that none of us should be fighting right now. But Lady Micaiah is fighting for her people, and I’m gonna stick with her until the very end.
+Zihark: Meg, I understand how you feel.
+Meg: But I don’t consider you my enemy! Not at all. Not ever! Please, try to understand.
+Zihark: I’m so sorry, Meg. I should be standing alongside you, but my country has lost its mind. I didn’t want to hurt you, too.
+Meg: Let’s hope for the fight to end soon... Then, we can be together again and get back to making wedding plans!
+Zihark: Right...
+
+%Jill,Meg
+Jill: Meg! I’m glad I found you! Lower your sword and listen to me!
+Meg: No, I can’t! I’m not supposed to talk to my enemies.
+Jill: Enemies? Am I an enemy to you, Meg?
+Meg: Um... Not really. But this being a battlefield and all, I just thought it’d be easier for both of us if--
+Jill: Meg, I could never attack you, no matter the circumstance.
+Meg: I couldn’t hurt you either, Jill. It’s probably a bad thing for a soldier, but I don’t care. You’re my friend.
+Jill: I don’t understand what’s going on... This war is so meaningless. Can’t you tell me why Daein is still fighting?
+Meg: I’m sorry, Jill. I can’t. It’s not that I don’t want to. It’s because I want to protect you. All I can say is that I feel as helpless as a plow without an ox. I wish we could all be together like a family again.
+Jill: Meg...
+
+@Battle 
+Ranulf: Ugh... All this chaos... I can barely see straight...
+
+Sanaki: Still no word from the battle. What’s going on out there? I should go to my people. They may need me.
+???: Hey, just where do you think you’re going? Do you think the high-and-mighty apostle should be traipsing around a battlefield, hmm?
+Sanaki: Wha-- Oh, it’s just you. Hmph. How dare you sneak up on me that way!
+???: That beauty from the Holy Guards told me to keep an eye on you. So, do me a favor and sit still, will you?
+Sanaki: But I can’t see anything from here! I have to know how my people are faring down there! I...I can’t bear doing nothing! Hmm... I have an idea. You! Carry me to a place where I can observe the battle! Don’t give me that look! You’re the one who agreed to guard me, so do your duty and obey your orders! Come on, let’s get moving!
+???: Wait a minute... Is that what passes for beorc logic these days? No wonder you’ve lost your throne. OW! Stop that!
+Sanaki: Are you going to obey me, or shall I have you chased back home in a cloud of feathers?
+Naesala: By the goddess, what have I gotten myself into? As you wish, Empress. My back is yours.
+
+Kurthnaga: My body feels like it’s on fire... I can hardly breathe! So, this is what war feels like... No, please, don’t come near me... I don’t want to hurt anyone!
+
+Micaiah: Whe...What did you say? Did somebody call for me? Who just called out my name?
+Sothe: Micaiah? Micaiah, what’s wrong?
+Micaiah: Wait. I’m coming! I’ll be right there!
+
+Boyd: Ike, get over here, quick! Mist collapsed!
+Ike: Mist?! Mist! What’s wrong?!
+Mist: Ike... My head... It hurts so much... It’s the medallion...
+Ike: What do you mean?
+Mist: The medallion is calling out to me... Please, Ike... Take me to the medallion...
+Ike: Mist! Talk to me! Wake up, please!
+Boyd: I’ll clear you a path! Take Mist with you! Get her out of here, quick!
+Mist: Boyd...
+Boyd: Don’t worry. I won’t die here. You take care of yourself, all right? Hang in there, for me.
+Mist: Boyd... I will. I promise.
+Boyd: Look after her, all right, Ike? Make sure nothing happens to her.
+Ike: I will. Thanks for this, Boyd.
+
+@End
+Ike: What's this light? Is it the medallion?
+Nailah: She collapsed, too?
+Tibarn: I get it now. Anyone who has the spirit of order within them is affected by this light.
+Ike: Tibarn! Queen Nailah! What are you two doing here?
+Tibarn: Reyson collapsed suddenly. I figured I'd take him to a safe place.
+Nailah: Rafiel fell unconscious as well. I thought I'd let him rest with Leanne. But then I found that she had collapsed too.
+Ike: And you think the medallion did this to them? Mist?
+
+Mist: The seal...on the medallion...is about to break... It can't be controlled anymore... My song won't work anymore... We're running...out of time...
+Ike: What are you talking about?!
+Mist: Call the apostle... She must sing the galdr of release... Hurry, before it's too late... Please, Ike... I can hear...a voice... It's inside my head... The voice is telling me...that we must not awaken the dark god through war...
+Ike: A voice in your head? Mist, what is going--
+
+Ike: Hey! Mist! Wake up!
+Tibarn: Ulki! Do you hear me? Bring the apostle here at once!
+Ike: Are you sure about that? Mist is saying that she should sing the galdr of release. She's saying that we should wake up the dark god!
+Tibarn: The seal will break anyway. If that's the case, then we should take a chance on your sister and do what she says.
+Nailah: I agree with the hawk king. It's too late to calm the dark god back to sleep. It would take too long.
+Ike: Do you think we'll be safe if the apostle wakes up the dark god? Didn't we fight a major war to prevent that from happening a few years ago?
+Tibarn: I don't know. Are we safe now? But I did always wonder why Heron Queen Lillia passed down the galdr of release. She must have left it behind for a good reason. I'm willing to bet my life on it.
+Nailah: It's the only choice for our survival. Besides, we won't know if it'll work until we try.
+Ike: All right... Let's do it.
+
+
+Ulki: I brought the apostle with me.
+Janaff: ...And a little extra baggage.
+
+Naesala: Reyson! Leanne!
+
+Naesala: Now, now, Tibarn. I know you're angry, but we'll work it out when this is over.
+Tibarn: Not a chance, Naesala. I hope you've said all your prayers and farewells. After I break every bone in your body, I'm going to rip your wings off and feed them to you before you get to die.
+Sanaki: Hawk King Tibarn, I must ask you for your patience. This man serves under my command.
+Tibarn: You think I care, child? This is a laguz matter. You should see yourself out of it very quickly.
+Sanaki: I will explain later. Put aside your past quarrels for now. Not to repeat the king of Kilvas, but we have more pressing issues we must attend to. Oh, and Hawk King? Don't ever call me "child" again.
+Tibarn: Hmph...fine. You get to live now, Naesala. Once this is done, though, you're a corpse.
+Sanaki: So, what would you have me do? I will use all the power at my disposal to help in this.
+Ike: Sing the galdr of release for us. The song that was passed down from the heron queen to my mother, then from my mother to Mist.
+Sanaki: But if I sing that galdr before the medallion, it would awaken the dark god...
+Ike: This is what my sister said: We must not awaken the dark god with the spirit of chaos. We must use the galdr of release instead. The seal will break if we just leave the medallion alone. Please, sing the song.
+Sanaki: Better than releasing the dark god through war, is that it? Very well. I shall try.
+
+
+Ike: What's going on? Nothing's happening.
+Sanaki: It's not working! But why?
+
+Sanaki: A bird?
+???: A melody alone won't work.
+
+Sothe: Wait! This is right in the middle of enemy territory!
+Ike: Sothe! Why are you here?
+Sothe: Commander Ike! And the laguz kings... Even the apostle is here? I thought you'd all be on the battlefield, commanding the army! This just got really, really bad...
+Ike: Mist and the herons collapsed because of that thing.
+
+Micaiah: ...I can hear the voice. Finally, we get to meet. I have been guided by this voice for so long... I have finally found my purpose.
+
+Micaiah: Galdrar consist of melody and lyrics. Without both in harmony, the songs have a mere fraction of the power.
+Sanaki: Maiden of Daein, the only part I was taught was the melody. I do not know the lyrics.
+Micaiah: The words. They are passed down through the ages like a bloodline. Though time may pass, their meaning is never lost. When I heard you sign the melody, the words came to me.
+Sothe: Micaiah? I don't understand what you're going on about. There's no way you could--
+Ike: Sothe, shut up and watch.
+
+Micaiah: When I heard the melody, the lyrics felt as if they poured out from deep within me. I know this song. I've known it since before I was born. I am...
+
+???: Good morning to you, my goddess.
+???: What has happened? A thousand years have not passed. Why am I awoken early?
+???: Indeed, my goddess. You have been asleep for 780 years. During that time, the world kept its promise to you for a mere two hundred years, at best. It was as you said. Neither the laguz nor beorc could resist the urge to fight. They are too weak. Though there are 220 years left until the thousandth year, there is no longer any need to wait.
+???: Is that so? That is your analysis? Then I shall pass down my judgment. I will save them from themselves.
+
+Mist: Ugh...
+Ike: Mist! How do you feel?
+Mist: Ike, you look so worried... What happened? Where am I, anyway? The last I remember, I was on the battlefield...
+Ike: You don't remember?
+Mist: I had a horrible headache, and my stomach really hurt... Then suddenly, it all went away.
+
+Reyson: Unnh...!
+Tibarn: Reyson?
+Reyson: Tibarn... What is this place?
+Naesala: Are you all right, Reyson?
+Reyson: Naesala? Why are you here? You betrayed us again, you dastard!
+Naesala: I had my reasons. I know you'll never forgive me, but I at least want you to hear me out. But it can wait. Tibarn and I will work out our problems first. You go ahead and sleep now, all right?
+Reyson: Very well... I'm glad to hear that... 
+Tibarn: Start talking, before I tear your arms off.
+Naesala: Whatever my reasons, you won't forgive me. I know that. But I'm asking you to put your feelings aside for now. We're both worried about the herons, right?
+Tibarn: You spineless piece of trash! You used that line on me before, remember?! And look what my forgiveness did to my people! You live now because I choose for you to live, Naesala. Once this mess gets sorted, though, I'll be wearing your beak as a trophy. Get out of my sight.
+
+Nailah: Rafiel and Leanne are still out cold. Will they be all right?
+???: There's no need to worry. They're just not used to the spirit of chaos being so near. They'll wake up soon.
+
+Sothe: Micaiah! What happened to the dark god? Is she awake?
+???: I'm not Micaiah. She's sleeping right now.
+Sothe: What?! What are you saying?! If you're not Micaiah, then where is she?!
+???: I wonder where Ashera is? We must hurry and make our judgment. Wait...what are you doing?! No! You must consult with me first! No, don't do this!
+
+Ike: Mist. Are you all right?
+Mist: Yes, I'm fine. What happened, though? What was that light?
+Ike: I don't know... But it's very quiet outside. Too quiet. I hope everyone's OK...
+
+Tibarn: So, can you tell what's going on out there?
+Ulki: ...Impossible! I can't hear anything... Either that light took my hearing, or...there's nothing out there...
+Tibarn: What do you mean?! There were thousands of troops...
+Janaff: I'll go take a look! 
+
+???: It's time. Everyone, let's go outside. 
+Sothe: H-hey! Micaiah! Wait!
+
+Ike: What in... What happened? They're statues...
+
+Ike: Hey! Anyone! Can anyone hear me? Somebody, please!
+
+Ike: Answer me! Is anyone here!?
+
+@Conversation 
+Mist: What’s this? A bag of spirit powder?
+Boyd: Yeah. You said you wanted one, right?
+Mist: And you found one for me? Thanks, Boyd. You’re the greatest.
+Boyd: Yeah, well. You always take such good care of us.
+Mist: ...
+Boyd: What’s wrong, Mist? Are you feeling sick? You look a little pale.
+Mist: Yeah. I’ve been feeling a bit under the weather lately.
+Boyd: Hey, you can’t go out and fight if you’re feeling sick! You should rest!
+Mist: No! No way!
+Boyd: Mist?
+Mist: I’m staying with everyone! I have to! I’m not going to be left behind. Something might happen!
+Boyd: But you’re in no condition to...
+Mist: Dad never came back! He died somewhere, and I wasn’t there to say goodbye!
+Boyd: Aww, but that’s--
+Mist: That’s why I’m not staying behind! I want to stay with my family until our last moment together. Please, Boyd. Don’t stop me.
+Boyd: All right, I won’t say anything. I won’t tell you to stay behind, either. I guess I’ll just have to be careful to protect you when we’re out in the field. Does that sound good?
+Mist: Yes, Boyd. Thank you.
+
+Rolf: Ah, I see...
+Shinon: Then you secure it right there, and... There, it’s finished!
+Rolf: Yeah! Shinon, you’re the greatest! I’m so proud that you’re my teacher!
+Shinon: Oh, come on, Rolf. Don’t make puppy eyes at me.
+Rolf: What? But it’s true! You’re really amazing!
+Shinon: Cut it out, kid. You exaggerate too much.
+Rolf: Are you going to sell this one to Aimee again? Can I come along? Please?
+Shinon: I’m not selling this one.
+Rolf: What? But... Oh, I got it. You’re going to use it yourself. Then can I fight alongside you? I want you to teach me that trick where you shoot them in the neck and then--
+Shinon: We can talk about that later. Here, this is for you. Go on, take it.
+Rolf: But this is--
+Shinon: You’ve been running around camp with that silly grin plastered on your face, but I can tell all the fighting’s wearing you down. I can’t help you get a good night’s sleep, or make you eat your vegetables, but I can see that you’re using a decent bow.
+Rolf: Shinon...
+Shinon: I don’t know why we’re fighting this stinkin’ war, but I ain’t about to die like a dog. And I know you’re too young to be pushing up daisies.
+Rolf: But I...
+Shinon: What’s your problem, kid?
+Rolf: I can’t possibly pay you back for it! A great bow like this... what can I do? You taught me how to shoot a bow. How to make a bow. And that’s not all! You’ve given me so much, and yet there’s nothing I can do to pay you back for it.
+Shinon: Of all the stupid...
+Rolf: Ouch!
+Shinon: Quit whining at me!
+Rolf: Oww! You didn’t have to hit me with that bow!
+Shinon: Did I ever ask you to pay me back? Did I ever tell you my help had any strings attached? No! Kids should be kids and just learn from their elders!
+Rolf: But--
+Shinon: If you want to pay me back, then be better than me! Doesn’t matter if it’s at using a bow or making one. Just do it better. Then I can point at you and tell people "That’s the best student I ever had."
+Rolf: Shinon...
+Shinon: I look after you because you have talent. I like watching you, kid. I like watching you shoot better every single day, you know? But if someone sticks an arrow in your eye, I ain’t gonna have any way to pass the time. So stay sharp! You hear?
+Rolf: ...Fine. Thanks, master. I’ll do my best to surpass you. I swear!
+Shinon: "Master"? I think I like the sound of that. Keep listening to me and you’ll be all right.

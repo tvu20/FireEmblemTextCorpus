@@ -1,0 +1,63 @@
+@Intro
+Nolan: Just a quick half-mark, and we'll be in Kisca. I'd like to stock up there, but...
+Sothe: Begnion will be on the lookout for us. Let's steer clear of towns for now, unless we want more trouble.
+Edward: Don't tell me... This means another night sleeping on the cold ground with nothing but bugs to keep us warm!
+Micaiah: Oh, Edward, it's not that bad!  The forest is so beautiful and serene. I'd almost rather be out here. Right, Yune?
+???:  Um...excuse me. Are you people heading to town by any chance? Our abbot is ill. He needs medicine, but Begnion soldiers are hoarding our provisions in the manor house.
+Micaiah: The Dawn Brigade, at your service! I'm sure we can help you and your abbot.
+
+Micaiah: Sothe, do you know the layout of the manor?
+Sothe: I was here years ago. As I remember, there's a large armory tucked deep inside the building. And if I understand correctly, Begnion soldiers guard valuables they've stolen-—from rare objects to necessary supplies—-in that armory.
+Micaiah: Then the medicine will be there, too.
+Laura: Are you sure you don't mind?
+Micaiah: Of course not! Danger is part of our work. Leave everything to us!
+Sothe: Your abbot will have his medicine.
+Laura: Oh, thank you so much! Good luck!
+
+@Battle
+Zaitan: Intruders, you say?! What with a full battalion stationed here? The gall! And the intrigue! Now, listen up, my men, catch 'em midstream and filet 'em like fish!
+
+Sothe:  That takes care of the locks. Now, I just have to figure out how to get everybody safely up here. 
+
+Begnion: Hey, you! How did you get in here?!
+Sothe: We are the Dawn Brigade. We go where we please. We're here to reclaim what you've stolen from the people of Daein.
+
+Begnion: Sir! There are burglars on the loose! Several young men and women have broken into the manor house!
+Jarod: Did you say women? What... What color is their hair?
+Begnion: There are two girls. One has bizarre silver-colored hair, and the other—-
+Jarod: The Silver-Haired Maiden! Hm, very well. I want all soldiers on hand. Capture the girl...alive. Do what you will with the others, but bring me that girl! Understand!?
+Begnion: Sir, yes sir!
+
+@Boss
+Zaitan: Don't move a finger, thief, or I'll skewer you with my lance and serve you for lunch!
+
+Zaitan: With this many, we...can't...hold them back... Call...for...rein...force...ments...
+
+%Micaiah,Zaitan
+Zaitan: The Silver-Haired Maiden! I've got you! Lucky for you, Jarod wants you alive—-but there's no escaping now!
+Micaiah: I'm afraid I have to disappoint you.
+Zaitan: Oh, how pompous! Try to "disappoint" me, and I'll break both your arms!
+
+@End
+Laura: At last... Glory be! The abbot will have his medicine. Wait for me here. I'll return soon.
+
+Sothe: Well done, everybody! Are we all present and accounted for?
+Micaiah: Wait! Laura's missing! She was just with me.
+Sothe: Let's split up and search for her. Micaiah, you come with me.
+Micaiah: ...Hm, the forest is huge. We can cover more ground if we search individually.
+Sothe: But...
+Micaiah: Let's rendezvous at Kunu Swamp in three marks' time.
+
+
+Micaiah: Somebody's near by...
+???: You sensed me, did you?
+
+Micaiah: Where is Laura?
+Jarod: And you saw through my ruse. You're as clever as they say, my dear. You even came alone. How brave of you. Was that to give your friends a chance to escape? What a thoughtful little thing you are.
+Laura: Mi-Micaiah! Don't come any closer!
+Micaiah: Laura! Let her go! She isn't one of us...
+Jarod: Now, you know I can't do that. She's a valuable hostage, just like you!
+Micaiah: No! Yune, fly away!
+Jarod: Argh, dratted bird! Yes, get that mangy flying bag of bones out of here before I squash it like a fly! Tch. How annoying. Enough of this! Back to the castle. As long as we have these two, the others don't matter.
+Alder: Sir. All hands, withdraw!
+Micaiah: I've got a bad feeling about this...

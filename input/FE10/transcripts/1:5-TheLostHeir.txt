@@ -1,0 +1,214 @@
+@Intro
+Micaiah: We have to go back to the desert. We still have something we need to do.
+Sothe: It'd be great if it were to find Ashnard's son. I'm burning up out here.
+Micaiah: I'm not sure what it is. I see a lot of images, stacked on top of each other. It's hard to see what they all are. There's danger, battles, and terrible sadness, but also...hope. Whatever our destiny is, I know we'll find it in the desert. Let's go.
+Sothe: I understand, Micaiah. I'll tell everyone to make ready.
+
+Sothe: We've already been north, where we met Prince Rafiel and his party. That leaves east or south... Which way?
+Micaiah: What is it, Volug? Is something wrong? Volug says he senses beorc to the south. A lot of beorc.
+Sothe: That settles it then. We'll head south.
+
+Tauroneo: Hmph!
+
+Zihark: Impressive as ever, General Tauroneo. However, we can't hold out forever. We are seriously outnumbered. It's time we put these vermin in their place. Are you ready, Jill?
+Jill: Just give the word!
+Zihark: All right then, let's get 'em!
+
+Sothe: Who could the Begnion soldiers be attacking out here in the middle of nowhere?
+Micaiah: Whoever it is, we have to help them!
+
+@Battle
+Sothe: wait a moment. Those people fighting the Begnion soldiers... It couldn't be... That white armor... Only certain generals were allowed to wear it. I may very well know that soldier. Micaiah: Really? Well then, all the more reason to help them. Let's hurry!
+Micaiah: Really? Well then, all the more reason to help them. Let’s hurry!
+
+@Battle-Talk 
+%Ilyana,Zihark
+Ilyana: Ah…
+Zihark: Ilyana! It’s been a while.
+Ilyana: Too long, Zihark…
+Zihark: So you remember my name!
+Ilyana: How could I forget you, Zihark? Why, I think of you often! You treated me to food…glorious food… On 23 separate occasions! But who’s counting?
+Zihark: Apparently, you are. And now, might I request something in return?
+Ilyana: Well, um, yes. What exactly did you have in mind?
+Zihark: For you, something sweet! You join our merry band, and together, we fight for Daein’s freedom. I’m counting on you, my dear. You wouldn’t want to disappoint me, would you?
+Ilyana: …Ah…er… What?
+
+%Sothe,Jill
+Sothe: Hey, Jill? Jill Fizzart? It is you, isn’t it?
+Jill: Sothe?!
+Sothe: Haven’t seen you since the war ended.
+Jill: That does bring back memories… What are you doing out here in the middle of nowhere?
+Sothe: We heard that King Ashnard’s orphan was in need of soldiers. We came to find out if it’s true.
+Jill: The prince? He’s just inside the fort.
+Sothe: Then it’s true?
+Jill: It is. Will you help us protect him?
+Sothe: Of course.
+
+%Sothe,Tauroneo
+Sothe: General Tauroneo!
+Tauroneo: Well, if it isn't our little Sothe! I'd never have thought to see you here!
+Sothe: General, these ruins you're defending... Do they hold hope for Daein?
+Tauroneo: They do. In fact, these walls hold what may well be Daein's only hope.
+Sothe: I see. Then we must protect this place at all costs.
+Tauroneo: Indeed.
+
+%Sothe,Zihark
+Sothe: Need a hand?
+Zihark: Sothe? Where did you come from? What are you doing here?
+Sothe: Hello, Zihark. I see you’re fighting Begnion soldiers. I assume you’re siding with Daein here?
+Zihark: That’s right. This is my homeland. These are my people.
+Sothe: Oh, really? I didn’t know you were from Daein.
+Zihark: Yep, I’m a Daein, through and through.
+Sothe: All that time we fought together, and I never knew.
+Zihark: That’s because I never told you. At any rate, let’s rejoin the fight. We can talk later.
+Sothe: Ah, yes…
+
+@Boss
+Wystan: You're a tenacious bunch, I'll grant you. Daein isn't known for winning its wars... So why do you keep trying?
+
+Wystan: Absurd... One must not...meet failure...against the tattered remnants...of a conquered...coun...try...
+
+%Micaiah,Wystan
+Wystan: Come to help the helpless? A dainty little flower like you is hardly worth the effort! Well, do your worst.
+Micaiah: What is Begnion doing out here in the desert? Is there something or someone in these ruins that you're interested in?
+Wystan: That's none of your business, little girl. We'll slash our way in no matter what anybody else wants!
+
+@End
+Sothe: General Tauroneo! Zihark and Jill, too. I haven't seen you since the war ended three years ago. Who would've thought we'd meet again in such a desolate place?
+Tauroneo: Sothe, you've grown. I hardly recognized you.
+Sothe: We have a lot of catching up to do, but for now, I'll just make introductions. This is Micaiah...
+
+Izuka: And who have we here? Hmmm?
+Sothe: Step back. Who are you?
+Tauroneo: Lord Izuka, there's no need for concern. This young man is Sothe. We know him well. Sothe, may I introduce Lord Izuka. He is advisor and close confidant to Prince Pelleas, Ashnard's son.
+Sothe: Micaiah! Did you hear that? The prince IS here. Still, I can't believe we ran into you three--of all people--guarding the prince. What a lucky coincidence. General Tauroneo, we came here because we heard the prince was gathering forces in the desert. We want to help you in your efforts. Will you let us join you?
+Tauroneo: Certainly. Daein needs all the courage we can muster. Let us join forces.
+Izuka: See here! What do you think you're doing?! You can't just ignore me and start making decisions! These people are suspicious, verrry suspicious. You're all Begnion spies, aren't you? Come now, tell the truth!
+Sothe: We're the Dawn Brigade. We'd never work for those filthy curs!
+Izuka: The Dawn Brigade! But how? Then, perhaps the girl... No! Could it be? Are you the Silver-Haired Maiden? Do you have the healing touch of Sacrifice? 
+Micaiah: Excuse me!
+Sothe: Take your hands off her! 
+Izuka: What a coincidence! Or is it fate? Or maybe it's my unrivaled skill as a revolutionary organizer? With the Silver-Haired Maiden at our side, we'll surely win over the people of Daein! And then...yes! Incite scattered rebel movements, mm-hm, and then, further...the future of...change...
+Sothe: Is he...touched in the head?
+Izuka: Oh, my, but yes. I'll beckon to...no, demand that the vicious scalawags...surrender! Perfect! I am a genius! Come, come, my dear maiden! You must meet the prince! 
+Tauroneo: Goddess help me, that man could try the patience of a stone.
+Sothe: Hmmm...
+
+Izuka: Look here! Before you stands the one and only, the grand Prince Pelleas, true-blooded son of the king of Daein. And here we have the consort and queen of our late King Ashnard, Lady Almedha. And look at you! You're standing? Did the desert dry out your brains? Kneel ye before these royal personages!
+Pelleas: It's all right, Izuka. Please, don't stand on ceremony. I didn't know I was a prince until very recently. So, really, I'm not used to any of this.
+Micaiah: What do you mean?
+Pelleas: Until a half year ago--that is, until Izuka found me--I was raised as a normal commoner. To be frank, it still doesn't feel real to me. That I...I myself could be the son of King Ashnard. It's a little overwhelming.
+Almedha: Don't talk nonsense, darling. You are my own sweet, sweet son, Prince Pelleas, yes... I'll never let you be parted from me, no, never ever again...
+Izuka: Ahem! Enough of the pleasantries, then. Shall we get down to business? Well then, Micaiah of the Dawn Brigade. I henceforth appoint thee to the post of Vice-General of the Daein Liberation Army!
+Sothe: Excuse me?! What do you mean by that?
+Micaiah: Wait a moment! I appreciate the offer, Izuka, but I'm afraid I cannot accept. I have no war experience and no knowledge of battle tactics. Daein needs a general with both.
+Izuka: Are you not a member of the heroic Dawn Brigade, whose conquests precede them?! Do you not want to save the people of Daein?! Serve the prince, and you can step out of the shadows and face the empire boldly, without shame! Why hesitate?
+Sothe: This is a thinly veiled scheme...and I see right through it. You just want Micaiah to serve as a figurehead for your revolution.
+Izuka: Is that a problem?
+Sothe: Yes, that's a problem! She's not some fancy stoneware for you to set on display. If you're going to do this...then I cannot sign on.
+Micaiah: Exactly.
+Pelleas: Micaiah, please, wait! That isn't what we meant. You're not the only one who knows nothing about battle. I don't either. But if I don't act, the devastation of Daein will grow ever worse. So, I have to be brave. Please, I'm asking you to do the same, Micaiah... For the sake of the future of Daein, will you join our cause?
+Micaiah: ...Prince Pelleas...I will.
+Sothe: Micaiah?!
+Pelleas: Thank you.
+Micaiah: And in return, will you ensure, beyond a shadow of a doubt, that Daein will be freed from the rule of the Begnion Empire?
+Pelleas: I promise.
+Micaiah: I trust in your word.
+
+Sothe: I can't believe you!
+Micaiah: Sothe, why are you so angry about this?
+Sothe: You have to ask? You know we can't live in the public eye. Doing something that will deliberately make you stand out... I'm just saying, it isn't like you, Micaiah.
+Micaiah: When we were separated during the war, you changed, Sothe. And I changed too. I want to protect Daein more than anything. Our people must be saved, and if I can help in that effort, I will.
+Sothe: So much so that you'll risk your life and sacrifice who you are?
+Micaiah: Yes. But that isn't all. Prince Pelleas cherishes the same wish that I do. I can feel it. Deep in his heart, he wants to save Daein. If we work together, I know that we can do it.
+Sothe: And you don't hear that voice we spoke of? The voice that warns you of impending danger?
+Micaiah: It's all right, Sothe. The visions I see spreading out before us... most of them shine with hope.
+Sothe: All right. I trust you. More importantly, I believe in you. I won't resist anymore. But let me just say one thing.
+Micaiah: What?
+Sothe: I will protect you.
+Micaiah: I know that! Why do you think you need to say it?
+Sothe: I just wanted to make sure you knew. 
+Micaiah: ...Thank you, Sothe.
+
+@Narration
+Three years past, Daein mustered all of its formidable military might and cut a bloody swath through neighboring Crimea in a sudden invasion. Daein was defeated, however, and the dreams of its ruler, Mad King Ashnard, died with him.
+Ashnard's son, Pelleas, possesses a gentle sincerity that is a bright counterpoint to his late father's violence and duplicity. Ill-suited though he seems for these troubled times, his presence is a welcome sight of Micaiah's eyes. Pelleas, declared rightful heir to the throne, finds his name becoming a rallying cry for Daein. At his side is the only person he believes can lead his Liberation Army...the Silver-Haired Maiden.
+
+@Conversation 
+Sothe: Hey, Micaiah. I sold the treasures we took from the ruins. We have traveling cash now.
+Micaiah: How did we do?
+Sothe: We have 10,000 in gold.
+Micaiah: Great! That’ll help a lot.
+Sothe: Maybe. We could use more.
+Micaiah: Sothe, 10,000 is plenty. We just need enough money to live on. More than that, and the soul becomes impoverished.
+Sothe: I know, I know. We should be rich of heart and poor of pocket… Me, I just follow your orders.
+
+Nailah: So, you’re returning to the desert?
+Micaiah: Yes, we must go back.
+Rafiel: My dear…
+Nailah: Yes, Rafiel, I know. Micaiah, I have a question. How can we help you in this fight?
+Micaiah: What? But…
+Nailah: I know you probably don’t want to be seen with laguz. But we cannot just sit on our paws, so to speak, while our allies are in danger.
+Micaiah: I appreciate that, but…
+Nailah: No? Fine. Sorry to bother you.
+Micaiah: No, no. It’s not what you think. Please don’t apologize. It’s just that…
+Nailah: What is it, Volug?
+Volug: …
+Nailah: I see. That is a good idea.
+Rafiel: Oh, yes. I agree. That’s a wonderful idea.
+Micaiah: Yes? Volug? What’s going on?
+Nailah: Micaiah, it will not seem so strange if you travel into the desert with this dog at your side, will it?
+Micaiah: What?!
+Nailah: As you know, we laguz fight only in our shifted forms. However, we can’t remain in that state for very long. It is too exhausting. Volug, however, has halfshifted. When he does this, he can remain in beast form all day long.
+Micaiah: Queen Nailah, I appreciate you help–
+Nailah: He is not as strong in this transitional form. Even so, he is still more than a match for any beorc.
+Micaiah: How could you call Volug a dog?!
+Nailah: I know. He’s not as friendly as a dog. And I don’t know if he’s housebroken. But he can fight!
+Micaiah: That is not what I meant.
+Nailah: Micaiah. We wish you good luck. Volug, guard her well.
+Rafiel: Do be careful.
+Micaiah: I will. Thank you. Volug, is she always so…blunt?
+
+Micaiah: So, you are an old friend of Laura’s?
+Aran: Yes. I’m afraid I must apologize for my poor choice in employers.
+Micaiah: Please don’t worry about it. After all, you saved us.
+Aran: When I saw Laura, I simply couldn’t stand by any longer.
+Laura: Thank you, Aran.
+Aran: I’ve been meaning to ask you, Laura. What’s become of your church? I’d heard that, since the occupation, most of Daein’s clergy have been excommunicated and sent to prisons. I know that the empire sent its own replacements. Was your church affected?
+Laura: No, thankfully. Our congregation would always say… "The clergy of the empire wouldn’t even consider coming to a dingy church in a backwater village like this! You’re been spared, Minister!" Ha ha ha… We extended our prayer time to thank the goddess for saving our church.
+Aran: Ah… I see.
+Laura: Oh, Aran. I meant to tell you, now that you’re one of us, you’ll have to become a bandit.
+Micaiah: Excuse me?
+Aran: I’m sorry…a bandit?
+Laura: There’s really no need to worry. The Dawn Brigade bandits have virtuous people like Micaiah in their ranks.
+Aran: Er… Okaaaay…
+Micaiah: No, we’re not ban--
+Laura: But always remember, Aran. We must strive above all else to be honorable bandits. For the future of Daein.
+Aran: Uh… All right…
+Micaiah: …Bandits?
+
+Edward: Oh, man… Where is this prince, anyway? I wanna go home to Nevassa.
+Leonardo: A long-lost prince of Daein? Who even knows if he really exists…
+Edward: Of course he does!
+Leonardo: How do you know? Do you have any proof?
+Edward: Simple. Micaiah told us we should look for the prince. So, it’s gotta be true!
+Leonardo: Yeah, you’re right. Her farsight is always spot on.
+Edward: Even if we don’t find him, there’s no need to worry… ’cause I’m here!
+Leonardo: Excuse me?
+Edward: Since we left Nevassa, my swordsmanship has pretty much improved tenfold! By the time we get back home, I’ll be invincible! I’ll kick those tyrants out of Daein with my own two hands and one sharp blade!
+Leonardo: It’s great to have a dream, Edward…but you should wake up now!
+Edward: Are you saying I’m not good enough?!
+Leonardo: No. I’m saying there’s a limit to how much one person can achieve. I’m going to do the best I can, but… It doesn’t matter how strong the two of us become. We can’t change what’s going on in Daein. Not by ourselves.
+Edward: Well, duh! I’m just saying it’s a goal! You know? Just something to work toward.
+Leonardo: Sure. But you shouldn’t say such things lightly. It might be just a joke to you. It’s not to me.
+Edward: Wow. Sorry.
+Leonardo: Ya, well. So am I. I didn’t mean to get so serious. All the fighting…it just gets to me sometimes.
+Nolan: Hey, boys. What is this, a funeral? What’s with all the doom and gloom?
+Edward: Nolan.
+Nolan: I couldn’t help but overhear, and I have a little to say on the subject. You’re right, each of us can only achieve so much on our own. But you boys are still young. Don’t let go of your hopes and dreams. Not yet, anyway.
+Leonardo: But…
+Nolan: Listen, there’s no way we can free Daein by ourselves. But we CAN find King Ashnard’s lost son and fight against the empire under Daein’s banner. If we gather our strength, we stand a better chance of freeing our motherland. Now then, how’s that for a little motivation to get your sorry backsides into training harder?
+Edward: That’s great! Thanks, Nolan. You’re pretty smart for an old man!
+Nolan: Hey, now… None of that, or I’ll show you what an old man can do! Leonardo, are you feeling better?
+Leonardo: Yes, sir. Thank you, Nolan. I guess age does make you wiser.
+Nolan: How old do you think I am, anyway? Now I’m getting depressed…

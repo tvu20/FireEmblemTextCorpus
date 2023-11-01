@@ -1,0 +1,122 @@
+@Intro
+Begnion: Hey, have you heard? The sub-humans are retreating!
+Begnion: General Zelgius is amazing! As long as we have him, Begnion has nothing to fear.
+Levail: Ahem! Gentlemen. This is no time for idle chatter. However...if you wish to praise General Zelgius, I suppose that is all right. He is the glory of our forces, after all.
+Begnion: It's true! As long as he leads us, we won't be afraid of any dirty sub-humans!
+
+Senator: Gah! That insufferable fool! I cannot believe he killed one sub-human and ended the battle! Who gave him an order like that?1 I don't care for such a petty victory!
+Lombroso: I understand, my lord. I was hoping that this would be the end of the sub-humans, once and for all. However, can we really punish him for winning the battle?
+Senator: No, you fool! That's what makes it even more bothersome! Zelgius and the apostle are both making mockeries of the senate! They're more of a threat to Begnion than those filthy sub-humans are!
+Lombroso: My lord, please let me fix this painful situation. I shall take to the battlefield and earn us the result Begnion desires.
+Senator: That does sound lovely, I admit. But hasn't General Zelgius ordered all forces to cease fire for three days?
+Lombroso: Who is in charge here, my lord? Must you follow Zelgius's orders?
+Senator: Hah, I see your point. I shall leave everything to you, then. Make Begnion proud, Lord Lombroso.
+
+
+
+Ike: Ranulf has started his retreat. Tibarn and his men are gathering information on Zelgius's forces. Before he left, Tibarn asked me to take you to Gallia, where you'll be safe. Are you ready to go?
+Reyson: No. I won't leave, Ike. I won't leave this place.
+Ike: Reyson, please...
+Reyson: I've lived with the hawk tribe for twenty years. They are my family. I'll... I'll stay here and fight.
+Ike: ...Well, since I can see I won't be changing your mind... You can join up with us. The Greil Mercenaries can stay here as long as we want. After all, we're not on anyone's payroll right now. We're free agents.
+Reyson: Ike... Thank you.
+
+Titania: Ike, come out here! Hurry! It's the Begnion army!
+Ike: What?!
+
+
+Ike: What are they doing here?1 It hasn't been three days yet!
+Soren: It seems they couldn't care less. They are demanding the castle back. If we don't comply, they'll attack.
+Reyson: They were probably waiting for both the Gallians and the hawk tribe to leave the castle.
+Ike: Oh, they think they can take us now that we're all alone, huh? They obviously don't know who they're up against. Let's make them remember the name of the Greil Mercenaries! Everyone, get in position! Let's take them out!
+
+@Battle
+Lombroso: Fools! Can't you see that you're outnumbered?! You have sided with the laguz and betrayed the empire! The senate will be happy to see the likes of you dead and buried!
+
+@Boss
+Lombroso: The outcome of a battle depends solely on the number of troops in the field! Tactics and skill are nothing in the face of sheer numbers! Wait, are you laughing at me? Gah! Die, you insolent cur!
+
+%Ike,Lombroso
+Lombroso: Hmph, pathetic. Your tiny band of outlaws doesn't stand a chance before our might. We have more troops on the way. The onslaught will not stop until every last one of you lies dead!
+Ike: Are you really the best Begnion could send?
+Lombroso: What?! How dare you take that tone with me!
+Ike: Or did they send you at all? Does General Zelgius know about this little excursion?
+Lombroso: I don't take orders from that sanctimonious has-been. Enough questions. Prepare to die!
+
+Lombroso: Im-impossible! But now? We outnumbered them...
+
+@Battle
+Begnion: General Lombroso has fallen! R-retreat! Fall back to base camp!
+
+@End
+Ike: They're retreating. That was close.
+
+Janaff: Hey, hold on a minute! What's going on here? We hurry back, and you don't save us anyone to fight?!
+Ike: Sorry about that. You're back sooner than I expected. How far out did you scout?
+Tibarn: We went to the enemy's headquarters, Castle Gaddos. As promised, the Begnion forces were waiting quietly in their castle. Apparently, some of their soldiers disobeyed orders, but we can trust Zelgius to keep the rest in line. I have other news, however. I ran into someone quite unexpected on the outskirts of enemy territory.
+Ike: Who?
+Tibarn: The commander of the Holy Guards.
+Ike: General Sigrun?
+Tibarn: Yeah. She was by herself. She seemed hesitant to get near Castle Gaddos. It was odd. I figured since she's a friend and loyal to the apostle, why not try to get some information from her? She wouldn't budge. Tough girl, that one. She wasn't at all surprised to see me. Then she said, in such a sad voice, "Please escape at once."
+Ike: I wonder what she meant by that? It can't be a good sign. This whole mess is getting worse by the minute.
+
+
+Begnion: General Zelgius. General Sigrun of the Holy Guards is here to see you. Should I let her through?
+Zelgius: General Sigrun? Let her through. At once!
+
+Zelgius: Is something the matter, General? You do not look well. Should I send for something? Water, perhaps?
+Sigrun: General Zelgius, I... I carry an order from the senate. The cease-fire has been repealed. You are ordered to destroy the Laguz Alliance, and their allies as well.
+Zelgius: What?! The enemy has already lost the will to fight! The apostle and Lord Sephiran would never agree to such a terrible plan!
+Sigrun: ...
+Zelgius: General Sigrun?
+Sigrun: Lord Sephiran of Persis has been stripped of his titles as prime minister and head of the senate. He is currently under arrest and is charged with..."committing high treason and fomenting rebellion."
+Zelgius: No! Impossible! This is madness!
+Sigrun: It doesn't end there. The apostle has gone into seclusion, with illness as the stated reason.
+Zelgius: Damn it! They've been captured!
+Sigrun: I've ordered my subordinates to find out where the apostle is, but I have yet to hear any word. General Zelgius, I beg of you, follow the senate's orders. Our friends' lives are at risk.
+Zelgius: ...Curse those senators.
+
+
+Micaiah: You called for me, Your Majesty?
+Pelleas: It is nice to see you, Micaiah. You remain Daein's goddess of victory. But I never see your face around here anymore. Are you busy in town?
+Micaiah: Your Majesty. My room in the castle is much to lavish for my taste. I'd rather be in town helping with the reconstruction. It's good work, and it makes me happy to help our people.
+Almedha: How precious. Still obsessed with garnering the adoration of peasants, are we? Aren't you past that yet, my dear?
+Pelleas: Mother, please stop. Micaiah is my dear friend. She is the only person I have to turn to for a kind word now that Izuka and the Black Knight have both left Daein. They mysteriously disappeared on the day of my coronation... Do you think they'll ever return?
+Almedha: I'm quire sure that they were both kidnapped by those who wish harm upon you, my beloved son! Those mongrels intend to throw the country into chaos by holding Daein's leaders hostage. But...Mother will always protect you, Pelleas. I will never leave you, not for one moment. When you seek kind words or good advice, you must come to me, and no one else.
+Pelleas: I understand, Mother.
+Almedha: The royal blood of Daein runs through your veins. Do not be afraid of your heritage. Reign over your people as a king. Whatever popularity that girl might garner from the peasants is of little consequence. She is your obedient subject, after all. Now, give her your orders.
+Pelleas: Micaiah, Daein's Maiden of Dawn. Your king requires your service once more. Mobilize the Daein Royal Army immediately.
+Micaiah: Another war? Against who?
+Pelleas: We are answering the request from the Begnion Empire to wipe out the barbaric Laguz Alliance. Your targets are... Gallia's sub-humans!
+
+@Narration
+During the war between the Laguz Alliance and Begnion, the three remaining countries on Tellius--Daein, Crimea, and Goldoa--have thus far remained neutral.
+In Daein, the war for independence is over, and Prince Pelleas has been crowned king. Daein is now free from Begnion's rule and is once again universally recognized as a sovereign nation. Micaiah decides to honor the promise she had made and continue on as the general of Daein's armies until the country stabilizes. Most of her companions remain by her side, helping to restore their beloved country. It is their hope that Daein will recover soon, both politically and socially. Focused as they are, they realize that they can spare no time on outside concerns, including the current war in Begnion.
+However, King Pelleas has a mysterious change of heart and orders Micaiah into the war--on Begnion's side.
+
+@Conversation 
+Ike: …
+Haar: You need something from me, fearless leader?
+Ike: I thought you were asleep.
+Haar: Yeah, I was. Until you came within fifty paces of me. Yaaaaaawn…
+Ike: Do you mind fighting alongside us?
+Haar: I like it fine. As long as I can catch some sleep, I don’t care where I am. What can I do for you?
+Ike: Ever since you joined us, I’ve been meaning to ask you about Jill. The last I’d heard, you were running some kind of delivery service with her. How did you end up passing through Crimea and then coming here?
+Haar: I stopped to chew some fat during a delivery. That’s all.
+Ike: How’s Jill these days?
+Haar: Last I heard, she got mixed up with the army again, fighting for Daein’s emancipation.
+Ike: I see. Don’t you think you ought to go back to Daein and give her some support?
+Haar: She’s a big girl now. She doesn’t need me always lookin over her shoulder. Jill can do whatever she wants.
+Ike: I don’t understand. I thought you two were… You know. Living under the same roof and all.
+Haar: She’s the daughter of my dead teacher. Nothing more. Hey, if you don’t want me hanging around, feel free to just say so, all right?
+Ike: No, it isn’t like that. You’re great on the battlefield. I appreciate you being here.
+Haar: Good. I like your mercenary group. They’re laid back, and we have the same goal: crushing the empire.
+Ike: That’s true.
+Haar: Anyhow, is that all? I’m gonna nap until we deploy. Don’t wake me up until then.
+Ike: All right.
+Haar: Hey… Wait.
+Ike: Hmm?
+Haar: See that bag on my wyvern? There’s a souvenir in there for you. Feel free to take it.
+Ike: A souvenir?
+Haar: It’s a small thing. You don’t need to thank me. …Yaaawn… Zzz… Zzz…
+Ike: Asleep already? What a strange guy.

@@ -1,0 +1,163 @@
+@Intro
+Lucia: Good luck! I'll be sure to keep the palace safe. I'm sorry we couldn't allocate more troops for you. You'll be OK, though, right?
+Geoffrey: Of course. We might even have too many. Actually, I'm more worried about the queen's safety. Make sure the guards stay sharp.
+Lucia: Count on it. I'll maintain a tight watch on the area, and there is the backup plan, just in case.
+Geoffrey: Good... Hearing you reiterate that makes me feel better, I have to admit.
+Lucia: Remember, this isn't for glory. You'll be confronting our own people. Just do your job and come straight back.
+
+Crimean Rebel: The Royal Knights have left the capital! We estimate roughly 4,000 soldiers are marching on Felirae.
+Ludveck: That means about 2,000 are left in the capital... That's more than I'd expected. ...Hmm, I suppose it can't be helped. The column headed toward Felirae is primarily cavalry, is it not?
+Crimean Rebel: Yes, sir. Exactly as you surmise, sir.
+Ludveck: In that case, the forces at the capital will be led by the queen's confidante, Lady Lucia. This is most perfect. The soldiers remaining at Castle Felirae have been given detailed instructions...false instructions, I might add. ...The dear pawns. They are so very heroic, and so very disposable.
+
+
+Kieran: General, all troops are in position! We stand ready for the assault!
+Geoffrey: Thank you, Kieran. The majority of the castle vanguard appears to be common soldiers. And there's still no sign of Ludveck or any of his subordinates?
+Kieran: Correct, sir. And the rest are a bunch of amateurs! You should see them flop around on their horses like rag dolls. They won't last long against the finely tuned skills of our Crimean Royal Knights.
+Geoffrey: Don't get overconfident, now... Most of their forces are likely inside, waiting for us to exhaust ourselves out here.
+Kieran: Yes, good point, sir!
+Geoffrey: And the main gate... Have you seen it? Breaking through that is not going to be easy. We must be patient.
+Kieran: Yes, sir.
+Geoffrey: And remember, we're not facing enemy soldiers. Yes, they're foolish enough to be lured into joining Ludveck...but they are fellow Crimean citizens. Her Majesty would prefer to capture these rebels alive and try to talk some sense into them.
+Kieran: I'm...amazed, sir. Her Majesty's kindness is touching! I'll convey that to all our men. 
+Geoffrey: Listen up! We're to sweep aside the rebels and punch through the fortress gate! Her Majesty wants as many lives to be spared as possible! Set lances! All forces, charge!
+
+@Battle
+Tashoria: Not one step backward! Be strong! The duke will soon arrive with reinforcements. Stand strong a little longer... Stand firm for the revolution!
+
+@Boss
+Tashoria: W-we have to hold out! The duke is on his way! We'll be heroes! Adored, and showered with riches!
+
+Tashoria: Duke... Duke Ludveck... Where are...our reinforcements...?
+
+%Geoffrey,Tashoria
+Geoffrey: Rebel forces! I am Geoffrey, commander of the Royal Knights of Crimea! Lay down your weapons and submit to the rule of law! Further resistance is futile! Her Majesty the queen promises leniency and means you no harm! Listen to me! You must yield!
+Tashoria: Tch... What nonsense is this? Do you take us for idiots!? Our reinforcements will arrive shortly, and your fate will be sealed! Death to the tyrant and her lapdogs!
+Geoffrey: Grr... The queen lives to serve you! Why can't you see that?!
+
+@End
+Crimea: Sir, the rebels have been routed! Some managed to escape, but most have surrendered their weapons. 
+Kieran:  General Geoffrey! No sign of the Felirae regulars, is there?
+Geoffrey: ...No. This was clearly a ruse. Duke Felirae's main force is most likely en route to the capital.
+Kieran: But how?! Quickly! Rally the troops! We must return to Melior at once!
+Geoffrey: Don't panic! They want us to act rashly. Settle down. ...We have contingencies in place. Light the flares to notify the capital. Move, man!
+
+Geoffrey: Scout commander!
+
+Geoffrey: It's very likely we'll be ambushed on the way back to the capital. Don't let anything escape your notice! We may need an alternate route back to the capital... Send some men out to investigate the old highway.
+
+Geoffrey: Those of you who remain, disarm the prisoners and tend the wounded! Let's move, everyone!
+
+
+Haar: ...Well, look at that. Someone's launched a flare... And from Felirae, of all places.
+Lucia: The emergency signal from Geoffrey! As I suspected... The rebels were just a decoy. Sir Haar, thank you for your assistance.
+Haar: Hey, wait... Are you telling me that you knew about this all along?
+Lucia: We knew the duke was up to no good. But if we had known about the decoys, we wouldn't have sent the Royal Knights to Castle Felirae. I suppose I'm just surprised that Lord Ludveck, the supposed epitome of nobility, would so willingly sacrifice his followers.
+Haar: You know...you play a pretty deep game, woman.
+Lucia: We all do, wouldn't you say? Her Majesty is at Fort Alpea. We're due to hear from her at any moment. I'll go check on that.
+Haar: Sharp as a tack, aren't we? I think I'll excuse myself, then...
+Lucia: Actually, there's one more thing... I want you to wait here a little longer. If all goes as planned, I'll be back shortly with your payment. Then you may do as you wish.
+Haar: And if all doesn't go as planned?
+Lucia: Then set out for Fort Alpea and alert the queen. I'll also send a messenger to Geoffrey. Thank you. 
+Haar: Very well, time for a nap...
+
+
+???: ...
+Lucia: ...Well? Any news from Queen Elincia?
+
+Lucia: What?! How?!
+
+Lucia: You...
+Ludveck: Yes, me. I was very hurt by how cruelly you manipulated me, my lady. And I am not easily wounded.
+Lucia: Lord Ludveck... How did you...
+Ludveck: My lady, I am certain to know of any and all facts that concern your activities. My dear, lovely Lucia. Oh yes, it was quite some time ago that I was informed of both this place and your network of shadowy assistants.
+Lucia: Ah.
+Ludveck: I would like to know one more thing... Something only you are aware of. ...Where the queen is currently hiding.
+Lucia: Good luck finding that out.
+Ludveck: Perhaps it's a little place called...Alpea? All that foolishness... the ruses, the informers, the secret flight from the palace... Ha ha ha... All that effort, wasted.
+Lucia: ...Is that so?
+Ludveck: Hm? I can see that my lady still retains secrets. Would it trouble you so much to tell them to me?
+Lucia: To you, Lord Ludveck? I am afraid there is nothing to tell.
+Ludveck: Lady Lucia... I'm done with these games. You'll tell me whatever I wish to know... But I believe I already know your secret.
+Lucia: We shall see.
+
+@Narration
+Having anticipated Queen Elincia's attack, the majority of Duke Ludveck's forces left Felirae. The troops stationed at Castle Felirae were merely the bait with which to lure Geoffrey and his troops away from Melior.
+In Geoffrey's absence, Ludveck's objective is nothing less than to take the royal palace...and Queen Elincia with it. Lucia, foreseeing a possible attack on the capital, arranged for Queen Elincia and Princess Leanne to be secretly moved to Fort Alpea.
+Yet Lucia herself is unable to evade Duke Ludveck's agents. She is captured in the dead of night while attempting to contact an informant.
+Queen Elincia receives the sad news the next morning.
+
+@Conversation 
+Calill: Come on in!
+Geoffrey: May I?
+Calill: Well, speak of the devil! If it isn't General Geoffrey himself. I wouldn't have expected a visit, since you're leaving tomorrow.
+Amy: Hi, General Geoffrey! What can we do for you today?
+Geoffrey: Sorry, Amy, but I'm not here as a customer.
+Amy: Huh?
+Calill: Oh, I see why you're here. It's about time, too. I'm ready to string that blathering drunkard up by his heels.
+Makalov: Ta dah...! Whoops... Who put that chair there? I could have been killed! Lady Calill, you beckoned?
+Geoffrey: Makalov, why are you drinking? You realize that tomorrow we have a battle to fight, yes?
+Makalov: Greetings, General! My, you're looking even more dashing and handsome than usual, Your Excellency.
+Calill: Good grief... That man's an embarrassment. Are you sure he's a Royal Knight? He's like a pig pretending to fly. Why not put a dog in armor and call it "sir"!
+Astrid: Miss Calill, that's not very nice! I think Sir Makalov deserves a little more respect than that.
+Calill: Are you blind, Astrid? It's the night before a mission, and that fool is stinking drunk. Probably gambled all his money away, too. And you! You follow him around mooning over him and cleaning up his messes! Do you have no pride, girl? What the man needs is someone to slap some sense into him. Perhaps I should--
+Astrid: I've chosen to look after Sir Makalov! Nobody's forced me to do it. And it's really none of your business!
+Calill: You know, I'm really starting to wonder about your "good upbringing." Of all the men out there, what possessed you to place your bets on such a shabby prospect?
+Astrid: Wh-what did you just say!? There are no gentlemen in this land half as fine as Sir Makalov!
+Geoffrey: Oh my...
+Largo: All right, settle down, everybody. Keep this up and the general's gonna pretend he doesn't know either of you.
+Calill: Fine, fine. I'm sorry, all right? Happy? So... what was it that you needed with that ale-soaked oaf, anyway?
+Geoffrey: I just wanted to go over our battle plan one last time before retiring.
+Largo: I heard you're going after the duke of Felirae? You think you can handle him?
+Geoffrey: Of course. However, he's been marshalling his forces for quite some time now. Which means our preparations will have to be flawless if we want to end this quickly.
+Largo: If only I were up to it. You know me. Hah! I'd crush him! I'd kick him apart!
+Calill: Well, I suppose I could go? Someone of my wisdom and power is easily worth two of you clods.
+Largo: Yeah! That's a great idea, lamb-blossom. Like I always say, the best enemies are the ones that are on fire.
+Geoffrey: I'm sorry, but no. Although I do appreciate the enthusiasm.
+Calill: I don't see the problem! Do you think I've gone soft! My magic is still in tip-top shape, I'll have you know!
+Geoffrey: No. It's just that I'm sure Queen Elincia wouldn't be pleased with civilians fighting against their countrymen.
+Calill: Hmm. I suppose you have a point.
+Danved: In that case, let Danved join you. Danved is not a citizen of Crimea. Danved will fight like ten men.
+Geoffrey: Devdan! When did you get here?
+Largo: Actually, General... This, uh... This is not Devdan. This is a friend of mine, Danved.
+Danved: Yes, it's true. People often make that mistake. But Danved is definitely not Devdan.
+Geoffrey: Uh-huh. You look exactly like him.
+Largo: Doesn't he?! Amazing, isn't it? Anyway, you can take him with you. Oh, and no pressure, but the fate of our country depends on the Royal Knights. Good luck! Don't blow it!
+Danved: Danved will fight like a bear! like a tiger! We don't need Largo and Calill, because Danved is pretty amazing.
+Geoffrey: Uh... I understand, I think. Thank you for your help.
+Calill: Well, I suppose that's settled. It's time for you to discuss tomorrow's tactics. Good luck with that. As for that useless drunk... I'll have someone carry him over later.
+Geoffrey: Thank you.
+Astrid: Sir Makalov is not useless! How many times do I have to say it!?
+Geoffrey: Astrid. It's about time you got back, as well.
+Astrid: Y-yes, General! Forgive me! I'll hurry back as soon as Sir Makalov is feeling better!
+Geoffrey: Give me strength... The sooner, the better.
+
+Geoffrey: Your Majesty! What are you doing with that lance?
+Elincia: I asked your servant for it, and he gave it to me.
+Geoffrey: Why would Your Majesty, as queen, do such a thing? Who knows how tangled the web of rumors could become, because of that...
+Elincia: Let the court say what it wishes. You are far more important to me than the whispers of nattering nobles.
+Geoffrey: ...You don't need to say that.
+Elincia: Geoffrey... I'm sorry.
+Geoffrey: I don't understand. What's wrong?
+Elincia: Three years ago... you fought to free Crimea from the clutches of Daein. While you held this lance, your courage was dauntless and your prowess, legendary.
+Geoffrey: Yes. It's a brave lance, and I'm very proud of it.
+Elincia: I... I can't have you raise the same lance against your fellow people of Crimea. I'm sorry... I just can't.
+Geoffrey: Your Majesty is worried about the shadow it would cast over my name? The dishonor of using that weapon on Crimeans?
+Elincia: I would never want to damage your pride as a knight. It would be too much to bear.
+Geoffrey: Believe no such thing, Your Majesty. My pride as a knight is most deeply rooted in my service to you. That will never waver, no matter what. Elincia... You know that.
+Elincia: Then take your lance. Use it to fight for Crimea once again.
+
+Kieran: Forgive my tardiness, sir! Kieran, second in command of the Royal Knights, at your service!
+Geoffrey: Sorry to have disturbed your rest.
+Kieran: Not at all! If it were your will, General, I would hasted to the very edge of the world at your calling.
+Geoffrey: Kieran, I'm lucky to have such a devoted follower. This is no reward, but there's something I want you to have.
+Kieran: A silver axe!? Th-this is... It's so sharp! Do you mean I can have it!?
+Geoffrey: Do you like it?
+Kieran: Like it? My heart is ready to burst! I feel... It's like it's my birthday, and I just got my first suit of armor!
+Geoffrey: Wonderful. I'm glad to hear it.
+Kieran: It will look fabulous on the mantel! My family will enjoy it for years to come. I can't tell you how grateful I am.
+Geoffrey: Kieran, that's an axe, not a painting. Paintings are for mantels. Axes are for fighting. I want you to use that axe.
+Kieran: What!? I couldn't!
+Geoffrey: You can't refuse. It's an order.
+Kieran: Sigh... Understood, sir! I promise to keep it well protected and free from scratches!
+Geoffrey: Sigh. You're hopeless.

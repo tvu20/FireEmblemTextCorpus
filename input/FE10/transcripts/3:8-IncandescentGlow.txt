@@ -1,0 +1,149 @@
+@Intro
+Ike: How are we doing for time, Janaff?
+Janaff: They're gaining on us. Their lead force is about...let's say...one day off.
+Ranulf: You've got to be kidding! How did they cover so much ground since yesterday?!
+Ike: They're definitely moving faster than we expected. At this rate, they'll catch us soon. Any ideas?
+Soren: ...With the enemy closing in so quickly, it would be unwise to use this secret passage. If Begnion found it, it would give them an open invitation to surge across Gallia. Your kind would not be pleased.
+Ranulf: We can't expose our country to that danger. We have to think of something else.
+Ike: Well, we can't start a fight in the Serenes Forest. Besides the terrain disadvantage, the forest isn't fully healed, and we can't risk burning it down again. Soren, any ideas?
+Soren: Our options are profoundly limited, Ike. It appears our only other choice is those caves up ahead.
+Ranulf: Caves? Oh...yeah, those are the Kauku Caves. We don't want to go there. It's a complex maze, full of lava and ash. Not exactly a place you'd want to rest. The legends say that, through the caves, there's one exit that leads to Gallia, and another exit that leads to Goldoa. Whatever the legends say, though, the fact is that it's suicide to go in there. We don't even have a map!
+Ulki: However, the more you hens carry on, the closer the enemy advances on us. They're now less than a day away.
+Soren: If the enemy catches up to us in this forest, we will certainly die. The caves are known to be dangerous, so Begnion may not pursue. Even the most formidable natural hazard isn't as deadly as an intelligent, living enemy. We must go to the caves. Now.
+Ike: All right, Soren. I trust you. Let's move out for the caves.
+
+Zelgius: Are you sure? We have visual confirmation of the Laguz Alliance heading into the Kauku Caves?
+Levail: Yes, sir. The enemy must be desperate. Why else would they enter that forsaken death trap?
+Zelgius: We cannot go there without preparation. It would be suicide. Let's not follow them to their deaths. ...That ends our pursuit, then. Tell the men that this mission is over.
+???: I cannot allow you to do that, my dear General.
+Levail: You're--!
+
+Zelgius: Senator Valtome.
+Valtome: Uwee hee hee. You're not even a tiny bit surprised, Lord Zelgius of Cador? What a frightful bore you are. I came here in secret just to surprise you.
+Zelgius: Oh, I am surprised indeed. What would bring a senator of your station to a place like this? Do you bring new orders?
+Valtome: Uwee hee hee. Oh, yes. I am here to deliver a decision handed down by the senate. In its wisdom, the senate has appointed me commander in chief of the Imperial Army. From this moment on, this army is mine.
+Zelgius: ...I see. Then I am at your command. Your orders, Commander?
+Valtome: Uwee hee hee. Oh, you are ever so serious! You haven't changed one bit, Zelgius. One of these days, I will catch you off guard. Well, I suppose that impassive face of yours is just part of your charm.
+Zelgius: ...Senator Valtome. Your orders.
+Valtome: Oh, yes, orders. Hmm, well, this battle is taking far too long for my taste. We will pull back and conquer Gallia by taking a different path.
+Zelgius: I see. Then I shall inform my men.
+Valtome: The northern force will stay here. Tell them to go inside the caves and search for bodies of dead sub-humans or something.
+Zelgius: What?! Sending them into those caves is the same as sending them to the gallows. I implore you to reconsider, Commander.
+Valtome: I gave my order, did I not? Get those men in those caves right this minute! And, Zelgius? Never question my orders again, or I'll have you killed. Is that clear? Besides, you should be happy. You're coming with me to finally wipe out those beasts. Come along now. 
+Zelgius: ...
+
+
+Septimus: Why... Why do I always get stuck with these awful missions? I should have curried favor with General Zelgius! Then perhaps I wouldn't have had to step into these ghastly caves...
+
+Janaff: Hey, Ike! We have company.
+Ike: Seems that way. What kind of numbers are we looking at? I can't see through all this smoke and heat.
+Ranulf: It's just like Soren said: a token force.
+Janaff: As far as I can tell, Zelgius isn't leading them. That helps things.
+Ike: We have to keep the enemy away from Skrimir? And the others while they look for an exit. Let's proceed as planned. We have enough people here to deal with these clowns. Everyone ready?
+Ranulf: We're set. Let's finish this and get out of here!
+
+@Boss
+Septimus: They told me that the enemy would be burnt by the time I reached them. The only thing I'd have to do was carry their dead bodies back as proof... It's just my luck that the enemy is alive and well! Why does this always happen to me?
+
+Septimus: AHHH! Th-they're here! Th-th-the sub-humans! The mongrels are here! They want to consume me!
+
+Septimus: I-I knew it... I knew I would end up like this...
+
+%Ike,Septimus
+Septimus: Wh-who are you?!
+Ike: Ike of the Greil Mercenaries. You don't look too good. Maybe you should just leave...
+Septimus: Wait a moment... HAH! Look, everyone! Look at this one! He's not a beast! Oh, thank the goddess! Victory is nigh!
+Ike: So... Chasing us into these caves wasn't the plum assignment that all the best generals wanted, huh?
+Septimus: How DARE you! Take my spear, knave!
+
+@End
+Skrimir: Ike, Ranulf! This way! I found a way out.
+Ranulf: Excellent! Let's get out of here!
+Ike: You don't have to tell me twice.
+
+Skrimir: Yes! We did it! We made it through the caves!
+Ike: Looks like we finally lost the Begnion army, as well. We can finally rest a bit.
+Skrimir: I thought we were finished... I thought my rashness had killed us. But we've lived to see our land again!
+Tibarn: Hey, Skrimir. Has all the heat gone to that shaggy head of yours? Look around. Is this Gallia?
+Skrimir: ...What?! No! We can't be in--
+Goldoa: You! By whose authority have you entered this land?!
+Ranulf: Goldoa, the land of the dragons... By the goddess, did we mess up.
+Skrimir: The dragons... It is said they are the most powerful of all the laguz tribes. I've always wanted to fight a dragon, but I never expected it would happen like this... When our king finds out about this, I will have much explaining to do.
+Tibarn: You've got to get home first, Skrimir. I guess we have to pay that stubborn old lizard a visit, don't we?
+Reyson: Let's go.
+
+Tibarn: ...And there you have it. We never intended to violate Goldoa's borders. It was an accident.
+Dheginsea: I see... I understand your predicament. However, your reasons neither justify nor change the fact that you trespassed on our territory. I order you to leave immediately. Go back the way you came, through the caves.
+Skrimir: You would have us go through Kauku Caves again?! Never!
+Ranulf: Stop talking, Skrimir!
+Skrimir: Many of my men are wounded! You're sending them to their deaths! I will not allow this!
+Dheginsea: It is regrettable, yes. However, I cannot make exceptions. Your men will leave. Now.
+Skrimir: How could a laguz be so cold to his brothers? We are your people as well!
+Tibarn: This isn't news, Skrimir. Goldoa and its lizards have ignored the suffering of their laguz brothers for centuries. They even looked the other way while we birds and beasts were enslaved by beorc! Isn't that so, Dragon King?
+Dheginsea: ...Our country is neutral. It has been since time out of mind and will continue to be so.
+Ike: Then you might as well just kill us now. It'd be the same as sending us back to the Kauku Caves, and it saves us the walk.
+Dheginsea: You are a beorc. I would not expect your short-lived kind to understand.
+Ike: I don't need to understand to see that it's a poor king who has so little regard for his fellow living creatures!
+Dheginsea: Hmm...
+
+Ena: ...Your Majesty! Please hear our plea!
+Dheginsea: What are you two doing here?
+Ena: Please allow my grandfather and me to guide the Laguz Alliance to the borders of Gallia. I beg of you.
+Nasir: Prince Reyson of the heron tribe stands among these men. The dragon tribe owes him safe passage. Please, Your Majesty! He saved the soul of your son! Would you condemn them to die, despite the good they've done?
+Dheginsea: ...Hmph. Do as you like. This is the only exception I will ever make. 
+Ena: Thank you, Your Majesty.
+
+Nasir: Well, here you are. I think you know the way from here.
+Ranulf: Thanks, Nasir. You really saved us back there.
+Nasir: It's the least we could do. I will pray for your safety.
+
+Ike: Hey, wait up, you two!  We haven't seen you in a long time. Don't you have some time to stay and talk with us for a little while?
+Ena: A long time? What do you mean? We just saw you three years ago!
+Ike: Oh, that's right... Three years isn't all that long for you dragons, is it?
+Ena: Oh, I'm sorry. I suppose three years would feel slightly longer for beorc.
+Nasir: Ike. I would love to stay and talk, but now is not the proper time. In truth, we are not even allowed to speak with you at all. Now, please go.
+Ike: Why? Why do you isolate yourselves from everyone?
+Nasir: ...I don't expect you to understand. But I want you to know that we obey our king's decision of our own free will. That's all I can say.
+Ike: Nasir...
+Nasir: You should go. Many of your wounded need immediate attention. Head back to Gallia at once, and tell the lion king what happened.
+Ike: All right... I don't get it, but I'll go now. We'll see each other again?
+Nasir: I certainly hope so. You are one of our dearest friends.
+Ena: Take care, and be safe.
+
+@Narration
+Goldoa, the land of dragons, lies secluded in the southwestern corner of Tellius. No foreigner, laguz, or beorc, is permitted within its borders.
+The alliance emerges from the lava tubes and into Goldoa by accident. The dragon king, Dheginsea, is displeased by this trespass. However, Ike's former companions Nasir and Ena appeal to Dheginsea to allow the passage of the Laguz Alliance. Reyson's actions during the last war earn them the grudging respect of King Dheginsea, who allows them safe passage.
+Meanwhile, Begnion calls off its pursuit of the alliance and finds its passage into Gallia blocked by the nation's great mountains and deep forests. The Central Army's momentum breaks upon these obstacles like an ocean wave against solid rock. Senator Valtome arrives to take command of the Central Army. He orders Zelgius to march on to Gallia by way of Crimea. Observing diplomatic protocol, Valtome petitions the queen for passage as well as supplies and additional troops.
+Queen Elincia, however, goes against the wishes of the Crimean nobles and resolutely denies each of Valtome's requests. Her reply enrages Valtome, who sees Crimea as little more than a vassal of the empire. Ignoring Zelgius's counsel, Valtome orders his army to enter Crimea and take whatever they need from the villages along the way.
+
+@Conversation 
+Skrimir: How are the injured holding up?
+Ranulf: They’re exhausted. Some are so bad off they can’t even get up the energy to transform. The unwounded soldiers have been taking turns carrying the injured.
+Skrimir: That’s a good idea. Maybe I’ll carry one or two on my back once we enter the caves.
+Ranulf: Hey, you’re hurt, too. Be careful you don’t strain yourself and cause permanent injury, all right?
+Skrimir: Hurt? Do I look like I’ve been wounded?
+Ranulf: Skrimir, you’re standing in a pool of your own blood. Tell me the truth. It hurts to even stand, right?
+Skrimir: ...A little. Do the others know?
+Ranulf: No. None of our soldiers do. But I’m sure King Tibarn and Ike both know.
+Skrimir: Good. Our soldiers shouldn’t know. I have to be their role model! They’ll see that I’ve been wounded yet continue to fight. Maybe that will help them carry on.
+Ranulf: Skrimir...
+
+Lethe: Lyre, come on. You have to stop sulking.
+Lyre: Don’t talk to me! I hate you, Lethe!
+Lethe: That’s too bad, because I like you.
+Lyre: Liar.
+Lethe: I’m only hard on you because I worry about you, and I want you to stay safe. Why did you even become a soldier? You used to hate fighting.
+Lyre: Hmph.
+Lethe: Was it because of Ranulf?
+Lyre: That was one reason, I guess.
+Lethe: There were other reasons?
+Lyre: Yeah. I wanted to stay with you.
+Lethe: ...Does that mean you’ll start talking to me again?
+Lyre: Yeah. Even though you drive me crazy, you’re still my sister!
+Lethe: I’m glad.
+Lyre: Here. Take this as a token of apology.
+Lethe: What is it?
+Lyre: It’s a Daunt scroll. I thought it’d be perfect for someone as scary as you!
+Lethe: What!? Say that again, I dare you!
+Lyre: Aaahh! Lethe’s mad at me again! Stop being mean to me!
+Lethe: I’m the mean one!?

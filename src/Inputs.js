@@ -71,6 +71,15 @@ const Inputs = () => {
           </a>{" "}
           (used for comparison)
         </li>
+        <li>
+          <a
+            href="https://gamefaqs.gamespot.com/wii/932999-fire-emblem-radiant-dawn/faqs/53574"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            FE10 transcript
+          </a>
+        </li>
       </ul>
       <h3>Notes about transcripts</h3>
       <ul>

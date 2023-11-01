@@ -1,0 +1,198 @@
+@Intro
+Sothe: Are you sure about this, Micaiah? This makes absolutely no sense.
+Micaiah: The Daein Royal Army will answer Begnion's request and attack the Laguz Alliance at the Ribahn River. Those are our orders from King Pelleas. As his subjects, we will obey him.
+Sothe: Without even asking why? Daein is finally on its own. Why are we even speaking to Begnion, let alone fighting for them?!
+Micaiah: I don't know. I do know that King Pelleas wants what's best for Daein...just like us. He must know something we don't. I trust him. He's changed since the coronation, though. He doesn't smile or laugh anymore. Maybe it's because Izuka and the Black Knight vanished.
+Sothe: Who cares about Pelleas smiling or laughing? We have no quarrels with the Laguz Alliance! Why are we targeting them?
+Micaiah: Well, with a few exceptions, the soldiers are excited about hunting down the laguz... They've been promised a large bounty for each one they kill. It's certainly raised morale.
+Sothe: Listen to yourself! Laguz hunting?! That's just great. We've gone from being freedom fighters to bigots in the blink of an eye. I can't believe you'd go along with such a murderous plan. How do you feel about this, Micaiah? Tell me the truth.
+Micaiah: ...I don't want to fight.
+Sothe: Then why ar--
+Micaiah: What choice do I have?! I'm the general of this army. It doesn't matter how I feel. Besides, I can't let the king or the soldiers down. My duty ultimately lies with them... I'm sorry.
+Sothe: Following Pelleas's orders is the same as approving of them.
+Micaiah: Sothe, you don't have to do this. I heard that your friend Ike is fighting on the side of the Laguz Alliance. Go, fight with them. Or don't fight at all. But don't let me force you into anything.
+Sothe: I'm not leaving your side. I swore I'd protect you, no matter what. I keep my promises. If I can't talk you out of this insanity, I'll fight Commander Ike and his men.
+Micaiah: Sothe...
+Sothe: But we'd better prepare ourselves. This fight will be harder than any we've had before.
+Micaiah: Thank you. I know this isn't easy. But if one side must fall, I will do all I can to make sure it is not Daein. I have no other choice.
+
+Ranulf: We've just begun crossing the river. This fog worries me. I can't see the other side at all.
+Skrimir: When we first crossed this river, it was in triumph, thanks to that tiny strategist... Ranulf: C'mon, Skrimir... You're hurting morale.
+Skrimir: I was defeated. By a beorc. How can I return to Gallia with this shame? If only I had died, I wouldn't have to suffer this humiliation!
+Ranulf: Skrimir, stop. If you had died, Gallia would have lost a brave soldier.
+Skrimir: Brave? I am a failure... Please. Leave me alone.
+Ranulf: ...
+
+Lyre: Hey, Kyza... Do you smell that?
+Kyza: I can't smell anything. What is it?
+Lyre: Hm. Maybe it's just my imagination.
+Ranulf: Think hard. What kind of smell?
+Lyre: Hello, Captain Ranulf! Um, well... Let's see. What IS that smell? Oh, I know! It smells like one of those torches that the beorc use!
+Ranulf: What?!
+Kyza: Are we being pursued? I don't smell any beorc.
+Ranulf: That's because the wind is blowing from the other side. Oh no... I have a bad feeling about this. Call a halt on the river crossing! Kyza, Lyre! Go tell everyone else. I'll make a run for the lead force and let them know! I just hope it's not too late! 
+Lyre: No... No! The enemy is here? No way!
+Kyza: Lyre, run to the left wing and inform them of the situation.  Lyre!
+
+Micaiah: Not yet. Wait for them to get closer. Everyone, stay quiet...
+
+Sothe: There's the lead force!
+Micaiah: Everyone! Take your positions! Attack!
+
+@Battle
+Lethe: Blast! We're being ambushed! Grr... Turn back! Brothers, turn back!
+Gallia: Never!
+Lethe: What did you just say?!
+Gallia: We're the beast tribe! I'd rather die than be a coward!
+Lethe: ...Fine. No pulling back. We stay here and fight to the last. All forces, attack!
+
+
+Ranulf: Lethe, you idiot! Why won't you fall back?!
+Lethe: The soldiers think that if we retreat any longer, we'd be throwing away our pride.
+Ranulf: You're following the lead of some blood-crazed soldiers? You're supposed to be in charge!
+Lethe: I know that retreat is the sane course of action, Ranulf. But if we run now, we'd lose the values we hold dearest in our hearts!
+Ranulf: ...Fine, Lethe. As long as it's your decision, not someone else's. I'll join the others in the back and watch over Skrimir. We're counting on you!
+
+Lyre: Lethe! Are you out here? Where are you?
+Lethe: Lyre! What are you doing here?!
+Lyre: Lethe! Oh, Lethe! You're safe! I'm so glad you're all right!
+Lethe: Why are you sneaking around?! Get back into position!
+Lyre: What?! How dare you! I was just... Oh, forget it! I don't care what happens to you anyway! 
+Lethe: I'm sorry, Lyre. It's much too dangerous here. Get back in position. Now.
+
+Black Knight: ...
+Micaiah: Sir Knight! You're safe! But where have you been?
+Black Knight: My maiden. I shall not ask why you choose to engage in this battle.
+Micaiah: For that, you have my thanks.
+Black Knight: I am here to protect you. There need be no other reason. Do not leave my side.
+Micaiah: I understand. Then I shall not ask you why you have been absent. I want you to know, I'm happy to see you again. I am very glad you're safe.
+Black Knight: ...
+
+@Boss
+%Zihark,Mordecai
+Mordecai: Ah! Zee... Eehark! Hm... Sorry, Mordecai not say your name right. Not yet.
+Zihark: What am I doing here? This isn't right. Tell me this is all a bad dream...
+Mordecai: Oh, it's good to see... Zee-haark? Why are you sad?
+Zihark: Mordecai... I'm so sorry...
+
+%Jill,Mordecai
+Mordecai: Ahh! Jill! It's been a long time! What? What's wrong? Why are you sad?
+Jill: I'm sorry, Mordecai. I won't take your life, but I must take you out of this battle. Forgive me.
+Mordecai: What? Why? Mordecai does not understand this...
+
+%Sothe,Mordecai
+Mordecai: Ahh! You! I remember you! Sothe! You're so big now!
+Sothe: Mordecai... I have to fight you. Please fight back.
+Mordecai: What?! Mordecai does not wish to...
+
+@Boss
+Mordecai: Sorry, Lethe... I am hurt... I must go back and rest.
+
+%Zihark,Lethe
+Zihark: Lethe?
+Lethe: Zihark! So, you also side with the enemy?
+Zihark: Lethe, please surrender. Our commander doesn't want any more killing.
+Lethe: Surrender? Even you could not convince me to surrender. You know that, Zihark.
+Zihark: Lethe, please!
+Lethe: Enough! We are enemies. The only thing left for us is this fight!
+Zihark: How did it come to this...
+
+%Jill,Lethe
+Lethe: How unfortunate. I remember when we first met, as enemies.
+Jill: Yes. And then we became allies. And after that, friends. But now...
+Lethe: Let us keep emotion out of this. This is war. We will fight.
+Jill: My goddess... You can be so cruel...
+
+%Sothe,Lethe
+Lethe: You!
+Sothe: Wait... Lethe, is that you?
+Lethe: Sothe, right? You've grown to become a strong soldier.
+Sothe: Please surrender, Lethe. You know the situation is hopeless. Continuing this will only mean that more of your soldiers will die.
+Lethe: We will not surrender. This alliance stands for something more important than our lives!
+Sothe: What are you talking about? Death is final, Lethe. Nothing matters if you're dead.
+Lethe: Silence! We'll never be the slaves of beorc ever again!
+
+@Boss
+Lethe: Grr... Their defenses are strong. We can't push through them. But we can't pull back! Retreat is not an option! I'll give my life to uphold the honor of the beast tribe!
+
+@End
+Micaiah: This is pointless. The Gallian soldiers just keep coming, no matter how many we take down. If we keep this up, both sides will take horrible casualties.
+Lethe: Grr, I can't find an opening! If only I could find one weak point, we could break through!
+Ranulf: These guys are really clever. They must have a veteran commander to use a strategy like this.
+Lethe: Ranulf! But, what about General Skrimir?! Isn't he supposed to be at the back of the army?
+Ranulf: You know how he is. I've got six strong men trying to keep Skrimir from coming out here.
+Lethe: All right, then. We'll show these beorc a real fight. We should regroup, and...
+Ranulf: Wait. Look, over there.
+Micaiah: All troops, lower your weapons! I'm going to propose a cease-fire to the Laguz Alliance.
+
+Ranulf: I've seen that black armor before. You're with the Daein army! Why is Daein attacking us?!
+Micaiah: Are you the general of this army? I am Micaiah, a general of the Daein Royal Army.
+Lethe: Wait, you're the one in command?!
+Micaiah: My king, Pelleas, has decided to answer Begnion's request for help in fighting the Laguz Alliance. You have no chance for victory. Further bloodshed is meaningless. Please surrender while you can.
+Lethe: Do not insult us, tiny beorc! We'd rather die than surrender!
+Micaiah: Behind you lies the Begnion army. In front of you is the Daein army. You've nowhere to run.
+Ranulf: Well, I guess we'll just have to chase you down like cattle and press on. Sound good to you, Skrimir?
+
+Micaiah: What in the goddess's name was that?!
+Sothe: Get back, Micaiah! That roar... That must be a lion! Lion laguz are stronger than the cat or tiger laguz we've been fighting.
+Ranulf: Hey... Is that you, Sothe? You look so much older now. Beorc grow up so fast... Just like Ike. Remember him, Sothe?
+Sothe: What? So Commander Ike really IS fighting with you?!
+Ranulf: Let's just say you shouldn't assume that you can see all of our troops. Sothe, if you care for this girl at all, get her and her men out of here. That's my only warning to you.
+Micaiah: Wait!
+Sothe: Stop, Micaiah. If we chase them, they'll kill us for sure.
+Micaiah: ...
+
+Micaiah: General Tauroneo! What brings you out here? Has something happened to the king?
+Tauroneo: No, I am here to deliver supplies. ...And to see how the battle fares.
+Sothe: You made up a clever excuse and convinced the king to let you come here? I'm impressed. Thanks for coming, General Tauroneo.
+Tauroneo: Don't worry about it. I trust that the fight is going well against the Laguz Alliance?
+Micaiah: Yes, but the enemy seems to have additional forces deployed in the area. I expect another battle to begin very soon, and I doubt it will be as easy as the last.
+Tauroneo: So, we still remain on the brink of battle. I see.
+Micaiah: I shall do my best to defeat the Laguz Alliance quickly. When this battle is over, please persuade the king to negotiate a peace treaty as soon as possible. Would you do this for me? Would you please talk to the king and help to stop this pointless war?
+Tauroneo: I shall try...
+
+@Narration
+The Daein army takes to the field and deals a heavy blow to the army of the Laguz Alliance. This sudden aggression shocks the Alliance like a lightning bolt on a clear day.
+With their only avenue of retreat blocked, the forces of the Laguz Alliance begin to despair. As the last shred of hope is fading, Skrimir appears before his troops and rallies them on, bolstering their failing strength. Gallian morale is further improved by the appearance of Tibarn and Ike's forces, who aid the beast army with talon and steel.
+
+@Conversation
+Micaiah: I wonder what this is?
+Sothe: Let me see. Ah, that’s a master crown. King Pelleas got one especially for you.
+Micaiah: How do you use it?
+Sothe: He said that a beorc who honed their combat skills could use it to gain further power.
+Micaiah: Someone who has refined their skills. I see. So, not everyone can use it.
+Sothe: Sounds like it. It’s a very precious item, so choose the recipient with care.
+Micaiah: All right.
+
+Micaiah: Here you go, Jill. This weapon is for you.
+Jill: ...Thank you. Um... Lady Micaiah, I have to ask. What is the purpose of this war?
+Micaiah: King Pelleas has decided to come to the aid of Begnion.
+Jill: Has he deigned to share his reasoning with you? Micaiah, this war is madness! Why would he ask us to aid Begnion!?
+Micaiah: ...I don’t know.
+Jill: Wonderful.
+Micaiah: I believe in our king. That’s all I can say.
+Jill: At least someone does.
+
+Micaiah: Edward, I have something for you...
+Edward: Really? What is it?
+Micaiah: It’s a gift from King Pelleas. One of Daein’s national treasures, the blade Caladbolg.
+Edward: What? Whoa, this thing is amazing! I’ve never seen a blade so sharp! Is it really for me? That means the king’s counting on me, right? Well, Caladbolg and I won’t let him down!
+Micaiah: Um... Listen, Edward, this war... Daein really shouldn’t be...
+Edward: Huh? Shouldn’t be what?
+Micaiah: Oh, never mind. It’s nothing. Forget I said anything.
+Edward: OK, sure. Um, Micaiah? Look, I don’t know anything about kings, or nobles, or anything else like that. But you’re fighting because you believe it’s what’s best for Daein, right? And, well, that’s good enough for me. I’m with you, no matter what.
+Micaiah: Oh, Edward...
+Edward: Now, I want to use this sword! They’re going to write song about me after this, I just know it!
+
+Micaiah: Leonardo, King Pelleas asked me to present you with this bow. This is Lughnasadh. It’s been stored away in the vaults of Daein, waiting for someone worthy enough. It’s more powerful than the purest silver bow.
+Leonardo: It’s beautiful... Honestly, this bow is beyond my skill. It was crafted for better hands than mine. I guess... I guess we really have to win now, don’t we?
+Micaiah: Yes, I suppose we do.
+Leonardo: Don’t look so sad, Micaiah. You’re not responsible for this war. We’re doing the best we can hope to do. But I’m fighting for Daein. The circumstances may change, but my feelings never will.
+
+Micaiah: Hello, Nolan. A gift from King Pelleas has arrived for you.
+Nolan: You’re kidding me... it can’t be! That’s Tarvos, isn’t it? That’s one wicked-looking axe. I’d heard stories about the fabled axe of Daein, but to actually feel the heft... King Pelleas wants me to have it? I always did like that man. I’ll take good care of it, don’t you worry.
+Micaiah: I know you will, Nolan. King Pelleas does too. That’s why he’s chosen to give it to you.
+Nolan: Micaiah, look... I know how hard it is to be a commander, especially with all of this confusion and doubt flying around. Fighting a war you don’t believe in is a bitter pill to swallow.
+Micaiah: Nolan, I--
+Nolan: Just remember something, will you? We’re still the Dawn Brigade. Lots of us aren’t your "comrades," we’re your family. If you need anything, we’re with you, no matter what. Nothing’s going to change that.
+Micaiah: Oh, Nolan... Thank you so much.

@@ -1,0 +1,318 @@
+Elincia: I hope Lady Almedha is all right. How is she doing?
+Tibarn: Reyson's song seems to have calmed her for now.
+Elincia: I see...
+Tibarn: What about her son? How's he feeling?
+Elincia: He is sleeping right now. He's quite exhausted, understandably. We've been fighting one battle after another.
+Tibarn: Pelleas is so fragile compared to his mother. Actually, they don't seem anything alike. That Almedha is a formidable woman. At first I doubted her claim that she was the daughter of that useless old lizard. But even I had trouble holding her down. Me! She's no ordinary beorc woman, that's for sure.
+Elincia: I agree. Lady Almedha and Prince Kurthnaga share a striking resemblance, as well. Not just their faces, but their mannerisms, too.
+Tibarn: Is that how beorc spot blood relations? We laguz use scent, mainly. Speaking of which, something has been bothering me about Almedha. She has no distinct scent. It's as if she is neither beorc nor laguz.
+Elincia: She actually told me something that I wanted to ask you about. She said that she lost her power when she became pregnant with King Pelleas.
+Tibarn: Hm. So the ancient songs are true...
+Elincia: What songs would those be?
+Tibarn: It is said that the goddesses forbid laguz and beorc to procreate. If a couple breaks the taboo, the punishment is dealt to the laguz parent. She or he loses the power of the laguz and becomes something that does not belong to either species. ...Did you hear something? Who goes there?
+Elincia: King Tibarn?
+???: If the songs are indeed true, then it is my duty to keep the honorable hawk king from being alone with my bewitching queen! Do you not agree, Your Majesty?
+Elincia: Who--
+Bastian: My apologies for the lateness of the hour. Proper social graces are most difficult to observe in wartime.
+Elincia: Bastian!
+Bastian: I have been absent for a long time, Your Majesty. I apologize again from the deepest place in my heart.
+Elincia: Oh, you are all right! How I worried for your safety!
+Tibarn: Sorry to interrupt this tender reunion scene, but where on Tellius have you been, Lord Jester? What have you been doing up 'til now? Come on, I'm listening. Out with it!
+Bastian: I suppose one as swift as our king of the skies is unlikely to count patience as one of his virtues. Fear not! I shall tell you everything. But first, I must ask you both to step away from other ears. And would it be possible to rouse the prince with the elegant white wings?
+Tibarn: Are you asking me to get Reyson? Fine. But do me a favor and talk like a normal person, would you? 
+Lucia: It is a terrible habit of yours, Bastian. I've never known anyone who talked so much, but said so little.
+Bastian: Ah, my dear, beloved Lucia! It pains me to imagine your piteous tears during those cold, lonely nights without me! Be of good cheer, little one. This day, you may weep tears of joy in my loving embrace.
+Lucia: Ever the optimist, eh, Bastian?
+
+
+Elincia: Geoffrey? Is that you?
+Geoffrey: It is.
+Elincia: Geoffrey! You're safe, too!
+Geoffrey: Queen Elincia... I swear that I shall never, ever leave your side again!
+Elincia: Oh... I'm so glad...
+Volke: ...Hello.
+Geoffrey: I have told you not to sneak up on me, Volke. Your Majesty, this is Volke, a spy and..."fireman" in Count Bastian's employ. He was working for Ike during the Mad King's War, perhaps you remem--
+Volke: Our captive has disappeared. He has been gone for approximately half an hour.
+Bastian: He escaped?! No! We must find him! Here is your next assignment. Find the escaped prisoner immediately!
+Volke: Two thousand gold.
+Bastian: That will be fine. Make it quick.
+Volke: Understood. 
+
+Bastian: This is very rude of me after I was the one who asked you here, but we have an emergency. Would you all gather here again once we capture the escapee?
+Reyson: That's fine. I'm not very fond of the dark, anyway. We'll gather later.
+Bastian: Geoffrey, give me a hand, would you? I would like to take him to the carriage.
+Elincia: Lucia, do you know who that man in the black cape is?
+Lucia: I was curious, too. It's no use asking, though. Neither Bastian nor my brother would say anything.
+Elincia: Even Geoffrey? I didn't think he ever kept secrets...
+Lucia: A mysterious escaped prisoner...a man shrouded in black...it's a big night for secrets, isn't it?
+
+@Conversation
+Pelleas: Sigh.
+Tauroneo: There you are, Your Majesty.
+Pelleas: ...General Tauroneo.
+Tauroneo: Is something wrong?
+Pelleas: Take a look at this.
+Tauroneo: The mark of the blood pact... It has faded quite a bit, hasn't it?
+Pelleas: What do you think this means?
+Tauroneo: Hmm... I do not know. I must think on it.
+Pelleas: Yes, we'll both have to. The lives of Daein's people depend on it.
+Tauroneo: Do you believe that people can be saved from the state they are in?
+Pelleas: Of course I do. To be honest, I'm a little bit thankful for the situation right now. Daein was headed for destruction because of what I'd done. But what the goddess did has changed the course of things. I can't fail this time. I have to save everyone.
+Tauroneo: Ah, I see. I shall do everything I can to assist.
+Pelleas: Thank you.
+Tauroneo: Your Majesty, this is for you.
+Pelleas: It's a dark tome! Thank you, General Tauroneo. Dark tomes are harder to come by than tomes of other elements. How did you find it?
+Tauroneo: I did not find it. Your gratitude belongs to someone else.
+Pelleas: What do you mean?
+Tauroneo: Lady Almedha looked for it at every village and town we stopped in. She gave it to me out of concern that you might not take it from her.
+Pelleas: I see.
+Tauroneo: Your Majesty. If you'll excuse me. 
+Pelleas: Mother...
+
+
+@Intro
+Geoffrey: ...So, we have a bit of a predicament. I know it's none of your affair, but we would greatly benefit from laguz assistance in our hunt for last night's escapee.
+Tibarn: No problem. I could use a little exercise before breakfast.
+Geoffrey: Thank you, King Tibarn! Please, follow me.
+Lucia: Why are the others up so early? What's going on?
+Elincia: Is it the Disciples of Order? Are we under attack?
+Geoffrey: No, Your Majesty... It's not the Disciples of Order. If you'll excuse me, I must go! 
+Lucia: Wait, Geoffrey! ...Who does he think he is?
+Elincia: Let's follow them.
+
+Elincia: Bastian! What in the world is going on? I insist on a straight answer!
+Geoffrey: Your Majesty! Sister! Why are you here?
+Lucia: That's not important! Explain why there are Feral Ones here!
+Bastian: See that odious man among them? He's controlling them. He is using fell magic to summon the poor laguz souls who were turned into Feral Ones! He is the man who escaped our custody last night. Volke found him just now.
+Bastian: His name is Izuka. He designed the process that created the Feral Ones!
+Tibarn: What?! He's the butcher who twisted the lives of my kinsmen? He won't die quickly. I'll make sure his screams are heard in Phoenicis, Gallia...even Goldoa.
+
+Izuka: ...Dare not speak to me that way again... My work is humanity's greatest triumph... Depraved? Ha! ...Show them the meaning of genius! Come, my children, defend me! Come, my Feral Ones!
+Elincia: We can't let a creature that twisted roam free. We must fight!
+
+@Recruit-Talk
+%Elincia,Volke
+Elincia: Excuse me... Volke?
+Volke: ...
+Elincia: Um... Sir Fireman?
+Volke: ...What is it?
+Elincia: You seem to have some time on your hands... Would you mind helping us?
+Volke: Three thousand.
+Elincia: Three thousand?
+Volke: ...That's what the job will cost you in gold.
+Elincia: Fine. I shall pay you that amount after the battle.
+Volke: Agreed. I await your order.
+Elincia: Thank you. And, if I may ask...
+Volke: What?
+Elincia: Why do you need so much money?
+Volke: One hundred thousand.
+Elincia: Excuse me?
+Volke: That's what it will cost you for me to answer that question. Are you prepared to pay it?
+Elincia: ...No.
+Volke: Then let's get to work. What shall I do first?
+
+%Bastian,Volke
+Bastian: Ah, my partner in crime. How shall I convince you to move those leaden feet of yours into action? How much "convincing" will it cost?
+Volke: Three thousand.
+Bastian: I thought I was the jester. Considering your usual schedule of services, three thousand is negligible!
+Volke: I don't like that guy. Call it a personal discount. Do you want it or not?
+Bastian: Of course I shall take your discount! Do as you wish when you see him. Now get to work.
+Volke: Understood. 
+Bastian: I almost pity old Izuka...
+
+@Boss
+Izuka: Don't you see? If I am harmed, my knowledge will be lost! Can the human race survive such a tragedy? If you fools cannot see the larger picture, you will have to be destroyed!
+
+%Zihark,Izuka
+Zihark: Izuka the Cruel... You are the author of this atrocity against nature? What gives you the right to perform your vile works on the laguz!
+Izuka: The sub-humans are perfect subjects! What could be wrong with using them?
+Zihark: ...She always told me not to let anger and hatred get the best of me, not to let them guide my blade... This will be my only exception.
+
+%Ranulf,Izuka
+Ranulf: I saw the results of your experiments at Gritnea Tower. The mutilated bodies...the rotting flesh... It was the most horrifying experience of my life. I wonder if my nightmares will pass when I kill you?
+Izuka: How could you not see the importance of my beloved research? That was my life's work!
+Ranulf: Then it is appropriate that you will pay for those terrible crimes with your life. My long-suffering kinsmen, watch as I destroy your tormentor!
+
+%Volke,Izuka
+Izuka: You! You're...
+Volke: ...under a new contract. Good-bye, Izuka.
+Izuka: Feral Ones! Kill him! Do it now!
+
+%Bastian,Izuka
+Izuka: Have a care, Crimean count! If my knowledge dies, so does your only hope of saving that man!
+Bastian: Hmm...it's true that your knowledge is a valuable asset.
+Izuka: Ah, my noble count! You are most merciful!
+Bastian: I have some knowledge of anatomy. Once you are dead, perhaps I will dissect your brain and see if I can identify the root of your intelligence.
+Izuka: Y-you monster! What you suggest is unconscionable!
+Bastian: Exactly, yet you had no hesitation before doing worse to the laguz. I will speed you now to the afterlife, where you may contemplate your life's egregious mistakes.
+
+%Lucia,Izuka
+Izuka: Don't you see? If I am harmed, my knowledge will be lost! Can the human race survive such a tragedy? If you fools cannot see the larger picture, you will have to be destroyed!
+Lucia: I don't know what atrocities caused Bastian to hold you prisoner, but I know what you did to the laguz, and that's reason enough for me to kill you!
+Izuka: Don't be too rash! If you kill me, Crimea will surely suffer!
+Lucia: I will silence your lying tongue, degenerate!
+
+%Geoffrey,Izuka
+Izuka: They've broken through my Feral Ones! I must create more!
+Geoffrey: After the war against the Mad King, I always regretted not capturing you. Prepare yourself for justice!
+
+%Pelleas,Izuka
+Pelleas: Izuka!
+Izuka: Ah, my dear prince Pelleas! Excuse me, King Pelleas! I'd assumed that you had been turned to stone. How nice to see you again! But I am saddened to see that you would betray me and fight alongside these shortsighted fools! I found you and set you on the path to royalty! I served you well, did I not?
+Pelleas: I know that you've been working for the senate, Izuka.
+Izuka: So you found out. Very well. At least I don't need to pretend anymore. It isn't like you will spare my life, anyway.
+Pelleas: With most of Daein turned to stone, the blood pact can no longer harm anyone. But that doesn't change the fact that you tricked me into risking the life of every citizen of my kingdom. Why would you betray me, Izuka? Were you ever loyal to Daein?
+Izuka: Betrayal? What of your betrayal to me? I remember well how you valued one worthless laguz life over mine! It was your betrayal that forced me to abandon my work! You were supposed to be my puppet, a weakling boy-king that I could control, giving me free reign!
+Pelleas: What? How could that be...
+Izuka: Oh, princeling boy, how completely I've fooled you... You are not King Ashnard's son. All I did was look for a boy that could pass for the king's son.
+Pelleas: But... Mother said... She said she was certain that I was her child!
+Izuka: Ah yes, Lady Almedha, paragon of sanity! She is certainly fit to identify a boy she hasn't seen in fifteen years. She was so desperate to have her son again that she would have believed anything I told her.
+Pelleas: No... No! Stop it! Stop talking!
+
+%Elincia,Izuka
+Izuka: Elincia, the Crimean queen! Are you here to seek revenge?
+Elincia: Revenge? On whose account? What are you talking about? I am arresting a dangerous fugitive.
+
+%Tibarn,Izuka
+Izuka: Ah... You must be the hawk king! Understand that my work was never intended to harm the laguz, specifically!
+Tibarn: No power on Tellius will protect you from me. With your death, I can finally lay my brothers' souls to rest.
+
+@Boss
+Izuka: Aaaargh! But my work...is still...incomplete...
+
+@End
+Tibarn: Disgusting filth. I can't kill him enough times for what he's done!
+Elincia: At least he is finally gone. No one else will suffer by his hands.
+Reyson: I suppose that is all there is, then.
+
+
+Ranulf: Laguz brothers and sisters, I hope your souls can find peace now.
+???: Hey! Count Bastian!
+
+Jorge: That man in the black cape you left with us is in bad shape! We can't even hold him down anymore!
+Bastian: Oh no... Your Majesty, we must return immediately. I will explain everything.
+
+Daniel: Oh, thank goodness you're here! I couldn't hold him down anymore. Please, follow me!
+
+Man: Aaaaargh! Ahhh! Grrr... Graaaagh!
+Bastian: Shhh! Calm down, sir. It's all right. You are a strong man. You will pull through! Please, you must calm yourself! Duke Renning!
+
+Elincia: It cannot be!  Uncle! Uncle Renning! You are alive! Oh, you are alive!
+Renning: Ugh... Ahhhhhh! Grrr...rr...
+Elincia: What's wrong, Uncle? Please speak to me! It's me, Elincia!
+Bastian: It's no use, Your Majesty. Your noble uncle's mind has been broken...by the drug that creates Feral Ones.
+Elincia: No! How did this happen? Uncle! Uncle! You must hold on! Uncle Renning...
+
+
+Elincia: Forgive me. Please give me a moment to collect myself.
+Tibarn: What happened back there? Who is that man?
+Bastian: That is Duke Renning, the younger brother of Crimea's last king, and Queen Elincia's uncle. He was next in line to become the king of Crimea, but-- He was believed killed in the last attack by Daein, three years ago.
+Tibarn: I see. And what's wrong with him now?
+Lucia: Bastian. No more secrets. It's time for you to tell us everything you know.
+Bastian: Duke Renning was apparently killed three years ago... but as you can see, he is still alive.
+
+
+
+Bastian: Duke Renning was one of the strongest warriors in Crimea, and while Daein tried to kill him, he survived. When the Mad King heard of his skill, he had Renning kidnapped and gave him the drug that creates Feral Ones. This drug made Duke Renning even stronger, but shattered his mind. He became Bertram, one of Ashnard's infamous Four Riders. After Her Majesty and company defeated him, I had him taken back to my castle. I hoped to find a cure, but I didn't want to raise false hope, Your Majesty, so I kept the secret. However, his mind continued to deteriorate, and there were no signs of improvement. As a last resort, I hired Volke to investigate a way to cure him.
+
+
+
+Bastian: Volke quickly discovered that Duke Renning's transformation was engineered by a man called Izuka. This man had made himself an aide to the new king of Daein and was not difficult to locate. Feeling that Renning was running out of time, we kidnapped Izuka to learn more of the condition.
+
+Bastian: Returning to Fayre Castle, we interrogated Izuka at length and discovered more about his experiments. Perhaps unsurprisingly, beorc are affected differently by the drug than laguz. Izuka then offered to create an antidote in exchange for his freedom.
+Geoffrey: Did you agree to it?!
+Bastian: We refused without a second thought. Such a monster cannot be allowed to roam free. Besides, we know a more certain way to cure Lord Renning.
+Lucia: The galdr of rebirth!
+
+Elincia: Prince Reyson, I beg of you. Please save my uncle!
+Reyson: I can't guarantee anything, Elincia. But I will try.
+Elincia: Oh, thank you, Prince Reyson! Thank you!
+Reyson: Please give me a moment to myself. I must prepare.
+
+Tibarn: Are you sure about this? I thought the galdr of rebirth was too powerful and complex for a single heron to perform.
+Reyson: Usually, that's true. Right now, however, Ashera's awakening has infused the world with order; I've never felt stronger. What's more, Lord Renning's condition seems less severe than a true Feral One. I think I can do this.
+Tibarn: Well, you're the expert. Just don't go taking unnecessary risks.
+Reyson: I won't, Tibarn. You needn't worry so much. I've grown a lot.
+
+
+Renning: ...Grr...grrr... Aaarrrrgh! Grragh...
+Elincia: Uncle! Hold on!
+
+Renning: ...Unnnhh...
+
+Reyson: ...It worked. He's sleeping peacefully. When he wakes, he should be his old self.
+Elincia: Oh! Thank you, Reyson. Thank you!
+
+Ranulf: So, how's Prince Reyson?
+Tibarn: He's asleep with a big, contented smile on his face. He'll be fine.
+Ranulf: I suppose we should give thanks to Goddess Ashera. Her power gave strength to Prince Reyson and saved Duke Renning's life.
+Tibarn: It's hard to think of her as the bad guy after seeing a thing like that. Goddess Ashera, huh? I can't die until I see what she looks like.
+
+@Narration
+Ike and company manage to evade their persistent foes, finally arriving in Sienne, the capital of Begnion.
+The Tower of Guidance. According to the Creed of the Goddess, which has been taught across the continent by Begnion, this is where the goddess Ashera will appear during times of great crisis to lead the people to safety. As even the smallest child in Begnion knows, the tower is sacred, and mere mortals may not enter.
+With the world edging toward catastrophe, the tower glows like a pillar of pure light, as though to pierce through the very heavens.
+
+@Conversation 
+Amy: Oh! Queen Elincia!
+Elincia: Amy! You’re safe! Oh, I’m so glad! It’s so good to see you!
+Amy: I came here with General Geoffrey.
+Elincia: With Geoffrey?
+Geoffrey: I was outside on the day when the bright light engulfed everything. At first, I thought that time had stopped. Then I realized that time was normal, but everyone around me had been turned to stone. I rode around the city to investigate, and I found this little girl crying in Calill’s bar.
+Elincia: Did you find anyone else? What about Largo?
+Geoffrey: ...
+Elincia: No... How tragic. How am I going to tell Calill?
+Amy: Mommy is here!? I want to see my mommy!
+Elincia: Yes. She is here, Amy. Lucia?
+Lucia: Yes, Your Majesty. Amy, do you want to see your mommy? Here, take my hand. We’ll go together.
+Amy: Yay! I can’t wait to see her!
+Reyson: How unusual. I can’t believe a small child like that has been saved from petrification. Isn’t she the first?
+Elincia: King Tibarn, Prince Reyson.
+Tibarn: I’d assumed that only the people with a certain amount of power were safe from petrification, but I guessed wrong.
+Reyson: I’m wondering if there are even rules at all.
+Elincia: Hmm.
+Amy: Mommy!
+Calill: Amy! You’re safe! Thank goodness. I’m so glad!
+Amy: M-Mommy! Daddy couldn’t move! H-he wouldn’t say anything! He... Sniff... Wahhhhhhh!
+Calill: There, there. It’ll be all right. Mommy will take care of Daddy. Mommy and Queen Elincia are going to save all the people who can’t move. Everything will be all right. Daddy will be back soon. I promise.
+Amy: All right... Sniff... Sniff...
+
+Janaff: Sheesh, all I’m saying is that you should take it, Ulki!
+Ulki: No... You are older than me. One must respect one’s elders. It’s yours, Janaff.
+Janaff: That’s not fair! You only say things like that when it’s convenient for you. We’re only five years apart!
+Ulki: Five years is five years. You deserve the perks due someone of your age. You take it.
+Janaff: Did you just call me an old codger!?
+Tibarn: Come on, I don’t care who keeps it. Just make a decision already.
+Janaff: Shut up, Tibarn! This is between me and Ulki!
+Ulki: Should you really be addressing your king with words like those?
+Janaff: Who cares? It’s not like anyone else can hear.
+Ulki: Selfish little magpie.
+Janaff: Hey! Lookit me! I’m Ulki, the solitary peacock!
+Tibarn: All right, Janaff, that’s enough.
+Janaff: What?! How am I the one getting scolded!?
+Tibarn: You too, Ulki. You know how to press his buttons. Don’t egg him on like that.
+Ulki: ...Fine.
+Reyson: What are you fighting over?
+Tibarn: They’re arguing over who would take my gift. Neither of them seem willing to take it.
+Reyson: Really? How uncharacteristically selfless of you to put up a fight, Ulki.
+Janaff: What do you mean, White Prince? Ulki is just being an ungrateful wretch for not appreciating my thoughtfulness! He’ll never understand!
+Ulki: Since the item is so nice, I thought that you should have it. I’m not the stubborn one here.
+Reyson: Well, since neither of you want it, I’ll take it.
+Janaff: What!?
+Ulki: ...Prince Reyson?
+Reyson: It will come in handy during a battle, right? Then I’ll wear it and fight next to Tibarn. Sure, it’s good to be thoughtful and giving, but if neither of you appreciates it, there’s no point.
+Tibarn: Reyson’s right! All right, this is for you. Reyson can be my one and only aide from now on. I shoulda thought of this sooner.
+Janaff: W-wait! No, I’ll take it!
+Ulki: No, I shall take it.
+Janaff: Ulki?
+Ulki: Once we have it, Janaff and I will discuss who should wear the item.
+Tibarn: Do you agree to this, Janaff?
+Janaff: Um... Yes, I do. I have no problem with that.
+Tibarn: Reyson?
+Reyson: That’s fine with me. As long as you agree to keep me nearby, I’m all right with whatever you decide.
+Tibarn: It’s a done deal, then. Now, don’t you two feel a little stupid after getting lectured like that? And by Reyson, as well!
+Janaff: ...Sorry, Ulki.
+Ulki: I... I apologize, too.
+Janaff: I’ve been with you and Tibarn since our feathers hadn’t even grown in yet. I guess we know each other a little too well. Well, the White Prince certainly reminded me of who I am. I’m an aide to the king of Phoenicis!
+Ulki: Me, too. Here, Janaff. This is for you.
+Janaff: ...Hey, wait a minute! You think you pulled a fast one on me, don’t you?! Get back here, Ulki!

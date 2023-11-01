@@ -1,0 +1,113 @@
+@Intro
+Micaiah: How should we explain yesterday to Sothe and Nolan?
+Leonardo: It's like you said. We didn't have a choice. We had to save Nico and the townsfolk. But I admit, getting spotted by those Begnion soldiers was unfortunate. Still, I'd do it all over again. The worst part is they know we're near. They could find this hideout as easily as they found our last one.
+Edward: I just don't get it. This is our country... Why do we have to live in hiding, like prisoners in our own land?
+Leonardo: Come on, you know why. We lost the war...and Crimea won. It's not "our" country anymore. End of story.
+Edward: Except that Crimea walked away after winning, leaving those heartless Begnion dogs to rule our country for the last three years! The occupying soldiers march around like they own the place, doing whatever they want, and no one dares to stop them!
+???: To be fair, Crimea didn't have the resources to rule another country.
+
+Micaiah: Sothe! And Nolan, too! Welcome back. I'm glad you made it in one piece.
+Leonardo: At last, the Dawn Brigade is all present. But you are unusually late. Were you delayed?
+Sothe: I think our fame's catching up with us. Begnion patrols are everywhere. It took us a while to avoid them.
+Nolan: I've never seen so much Begnion activity in this area before. Is there...something we should know?
+
+Leonardo: Um, well, actually, the truth is...
+
+Nolan: Ah, that's what did it. You had a run-in with bandits?
+Micaiah: And Begnion soldiers spotted us as we made our escape. I'm sorry. We only wanted to help. We were careless.
+Sothe: We'll worry about that later. More importantly, Micaiah, were you seen healing anyone with Sacrifice?
+Micaiah: I'm afraid so.
+Sothe: You can't allow anyone to know what you can do. Healing without any tomes or staves is a rare gift—-almost unheard of. If anyone saw you doing it, you'd be given away immediately, and I don't know if I could keep you safe.
+Micaiah: I know, Sothe.
+Sothe: I know you know, but you keep doing it! This place isn't safe anymore. We should leave at once.
+Nolan: Correct. Ah, but it would have been nice to eat just one meal in peace...
+
+Edward: This way's no good either. Begnion soldiers have every alleyway blocked. A kitten couldn't sneak past them.
+Nolan: It looks like this really is the least guarded path, then. Even so, it's swarming with soldiers.
+Micaiah: There are more coming up behind us! We'll be trapped if we don't move quickly!
+Nolan: We can't wait for Sothe.
+Micaiah: The stairs by the church lead to the marketplace. We can break through there.
+Nolan: I'll go first and secure the way. Micaiah and Leonardo, cover my back! Remember to keep your distance from the enemy. Team up and bring them down one by one!
+Micaiah: We'll be careful.
+Leonardo: Leave it to us.
+Nolan: Edward, you bring up the rear. Your skills have improved, but you're still new to fighting. Don't rush the enemy. Just focus on surviving their attacks. Got it?
+Edward: Yeah, yeah, I got it.
+
+@Battle
+Mercenary: Captain Isaiya! Just as you said. A group that appears to be the Dawn Brigade is storming the alley!
+Isaiya: How generous of them. I'll wipe them out and advertise my exploits to our commanders back home.
+
+@Visit
+Grandmother: You there! You must be... Ah, you needn't say a word. I see the goodwill in your eyes. Take this and go, quickly. You've done so much for Daein's poor. It's time we did something in return.
+
+Man: Those beasts! They do whatever they want in our country. They're even sending our clergy to their awful camps! But I'm helpless. I don't have your strength or courage. This axe... You should have it.
+
+@Boss
+Isaiya: What fast little mice you are! How long do you plan on scurrying around in back alleys?
+
+Isaiya: What?! This can't be! I'm in my prime... Not...so easily...
+
+%Micaiah,Isaiya
+Micaiah: Step aside!
+Isaiya: The girl we've been looking for! The lucky little escapee. Too bad for you, sweetie. Your luck ends today!
+
+@End
+Sothe: Everybody...this way!
+
+Begnion: They're running to the center of town! After them!
+
+Nolan: Good work! I see the market. If we can blend into the crowd, they'll lose us, and we'll be free and clear.
+
+Nico: Hey, lady!
+Micaiah: Nico!
+Lady: They're after you again, aren't they?
+Nico: Are you and your friends all right?
+Begnion: Moldy onions! Where'd they go?! 
+Grandfather: Leave the soldiers to us. Go on, now. Get yourselves to safety.
+Lady: Quickly—-don't dawdle. You must escape. You're our only hope.
+Micaiah: Thank you so much! 
+Begnion: Wait! There they go! Catch them!
+
+Begnion: What are you stopping for?
+Begnion: W-well, they...
+Lady: You won't get past us! We stand by the Dawn Brigade.
+Nico: That's right! Goddess protect the Dawn Brigade!
+
+Micaiah: Wait! Something terrible is about to happen!
+Sothe: What is it?
+Micaiah:  ...No! We have to go back. 
+
+Begnion: What?! You're letting this rabble stop you? Ready your bows! Nobody defies the will of Begnion.
+
+Grandmother: No! How could you shoot a child? You vicious savages!
+Lady: Someone! Someone, help him, quickly! Please...this child is dying!
+Begnion:  Pay heed! This is what happens when you meddle in Begnion affairs of state. Remember it well!
+Man: I didn't realize that the Begnion Empire's affairs of state included murdering children in the street!
+Begnion: Don't point your fingers at us. We're just doing our job. If you're upset, blame the Dawn Brigade! They made this happen!
+
+Begnion: It's the girl we're looking for! Call for reinforcements! Surround and arrest every last one of them...
+
+Begnion: What's happening?! What does she think she's doing?! Hey, you, step away from that child!
+
+Grandfather: It...it's a miracle. We've seen a miracle today!
+Man: That was Sacrifice...
+Lady: That girl! She must be the Silver-Haired Maiden. Only she possesses Sacrifice!
+Begnion: Stop right there! After them! We can't let them get away!
+
+Man: We still stand by the Dawn Brigade.
+Begnion: What is wrong with you people?! Did you hear me?! Clear a path, or you'll end up like that kid!
+Jarod:  You sniveling idiots! Why are you just standing there?! Give chase. Now!
+
+Begnion: Yes, sir! We would like to, sir, but...the townspeople are blocking our way.
+Jarod: Oh...I see. The townspeople are blocking your way. You dullards!
+
+Jarod: Clean out those dirty ears and listen to me! You are soldiers, and I am your commander! You will follow my orders promptly and without hesitation. Understand, you useless vermin? Now, move!
+
+Jarod: Unbelievable! If it's not one thing, it's another. Why am I always stuck leading the buffoons?
+
+Micaiah: ...Mmm...
+Sothe: Are you awake now? Thank goodness. Do you see? This is why I told you not to use Sacrifice...
+Edward: We sure showed them in Nevassa, huh? I guess we can't go back there... not for a while anyway.
+Micaiah: I'm so fond of Nevassa. It's where we all met. It feels like my only real home. We will return...someday.
+Sothe: We will, Micaiah. I know you, and you have a way of getting what you want.
+Micaiah: Because you're always there to help me get it, Sothe.

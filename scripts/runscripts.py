@@ -4,7 +4,7 @@ import sys
 
 # games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo","FE4", "FE5", "FE6", "FE7"]
 
-games = ["FE8", "FE9"]
+games = ["FE10"]
 
 # games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE11", "FE12/BookTwo", "FE15"]
 

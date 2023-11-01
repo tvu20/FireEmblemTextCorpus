@@ -1,0 +1,187 @@
+@Intro
+Ranulf: King Tibarn! Queen Elincia! We may need to halt for a bit.
+Tibarn: Why? What's the problem?
+Ranulf: We have some stragglers lagging behind.
+
+Tibarn: You mean Almedha and Pelleas are slowing us down again. We have to reach the Tower of Guidance as soon as possible. We can't have them always hampering our progress.
+Elincia: But we have no idea when the Disciples of Order might attack. We need to keep everyone together, for safety's sake.
+Tibarn: Reyson! We'll rest here. You can land and give your wings a break.
+Ranulf: Reyson, I remember when a trip like this would have exhausted you. I'm impressed at how well you're handling it.
+Reyson: Yes, physically I'm quite healthy. But I can't say that I'm really happy about that...
+Elincia: Why would that be?
+Reyson: We of the heron clan can feel the energies of others. In times of war, negative energy is dominant, and we sicken. Now that all of the people have been turned to stone, the energy is gone and, physically, I feel much better. It's unsettling to feel healthy and know that the reason is such a sad one.
+
+Elincia: It's a terrible irony... We finally have the peace we've been praying for, at the cost of all freedom, everywhere.
+Reyson: Could this truly be the world that Goddess Ashera wants for us?
+Ranulf: No, this is the world she had to give us after we ruined hers.
+Tibarn: ...
+
+Tibarn: Ah, welcome back. Any sign of the Disciples of Order?
+Janaff: Unfortunately, no.
+Tibarn: I don't like this. Why are they leaving us alone?
+Ranulf: I'm not sure I see the problem, Tibarn. If they're going to let us stroll on through, I won't complain.
+Tibarn: Not me. Right or wrong, I would prefer a stand-up fight. Right now, even.
+Elincia: What are you saying, Tibarn? how could you wish that upon us? I don't understand you.
+Tibarn: Right now, the world is calm, peaceful...almost eerily so. It almost feels...comfortable. If this goes on, we might relax, lose our edge. I'm worried that we'll get careless.
+Elincia: Hmm...
+Tibarn: Everyone, let's get one thing perfectly clear here...This isn't a natural peace. It's Ashera's work. Don't forget for an instant that the world isn't supposed to be like this. It should be noisy, vibrant, and chaotic.
+Elincia: You're right. A peace built on the sacrifice of so many lives is monstrous and unjust. It cannot be allowed to stand.
+Ranulf: I didn't mean that I'm losing motivation to save the petrified people. It's just that, before we started talking about it, I was feeling...complacent. Is it just me?
+Tibarn: The spirit of order is hanging heavy across the land. When we fight, we get a dose of chaos, which may help us get back in touch with our true selves. If our enemy has also figured that out, it might explain why they're staying away.
+
+Almedha: Pelleas, dear, how are you feeling?
+Pelleas: Mother, I'm fine. Please stop asking after my health.
+Almedha: But you're so pale, darling. You were always such a sickly little boy... You should rest a while. We can't have you exhausting yourself.
+Pelleas: No, Mother... If we stop walking now, we would slow the others.
+Almedha: Never mind them, sweetheart, they can wait. You should take a nice rest under that tree. Son, remember that you are a scion of both Daein's and Goldoa's royal families! You are more important than any of these peasants! The others can certainly wait for you; don't spare a single thought for them.
+Pelleas: L-let go of me! Leave me alone!
+Almedha: Haah!
+
+Pelleas: Mother!
+Almedha: Pelleas...
+Pelleas: I'm sorry, Mother. I...
+
+Almedha: Pelleas, wait! Pelleas!
+
+Janaff: We've spotted the enemy! They're over there, to the southwest!
+Tibarn: How did they get so close without being noticed? Did we have men out of position?
+Ulki: No, I just checked in. Enemy forces just suddenly appeared, with no sign or warning at all.
+Tibarn: Guess that's one good thing about fighting a goddess... Things are sure to be exciting. Everyone, get in position!
+
+Reyson: ...An entire legion that can appear from nowhere? Who are these Disciples?
+Tibarn: To be honest, I don't care who they are. I just want to knock a little disorder back into the world.
+
+@Battle
+Valtome: My humblest apologies. I hope we didn't sneak up on you. I'm sure that cheeky little queenlet is still amongst you? I hope so. I'm going to make her pay for defying me! Uwee hee hee!
+
+
+Pelleas: I'm sorry to be late! What unit would you like me to support?
+Tibarn: Oh, King Pelleas. ?You shouldn't...endanger yourself. Besides, I don't think we'll have too much trouble with these guys.
+Pelleas: I appreciate your concern, but as the king of Daein, I fight for the people of all free countries. It is my duty.
+Tibarn: Wait, where is your mother?
+Pelleas: W-well...
+Tibarn: Listen, I don't know what she's been telling you, but don't throw your life away. I appreciate that you want to help, but this battle is beyond you. Try to stay out of the way.
+Pelleas: ...Y-yes, sir.
+
+@Boss
+Valtome: Uwee hee hee! Uwee hee hee! I have always known that only I, Valtome, possessed the grace and beauty to be chosen by the goddess! How wonderful to finally be recognized for my excellence! If only that insufferable Zelgius could see me now! I am divinity! Uwee hee hee!
+
+%Pelleas,Valtome
+Valtome: You are no soldier! Who are you, boy?
+Pelleas: I... I am Pelleas, king of Daein.
+Valtome: Oh, how precious! I was hoping that I'd meet the simpering moron who signed the blood pact with Lekain... Uwee hee hee!
+Pelleas: Y-you will regret this!
+
+%Elincia,Valtome
+Valtome: Ah, there you are, Queen of Hayseeds! I look forward to scraping you off my immaculate nails! Uwee hee hee hee!
+Elincia: Lord Valtome, I desire no battle with you. Withdraw your troops immediately. If you do so, no more lives will be lost.
+Valtome: Uwee hee...uwee hee hee... Are you touched as well as homely? I offer YOU the chance to surrender! But you, Elincia, I will only forgive if you beg. And crawl. And lick the sole of my left boot.
+Elincia: I'm sorry that you feel that way. If that's how it has to be, may the goddess have mercy on you, Valtome.
+
+%Tibarn,Valtome
+Valtome: Zelgius... Where is Zelgius?! Do you think you can hide him? That man...must be...uwee hee hee...punished!
+Tibarn: Sorry to disappoint you, but Zelgius is my prey. There's no chance I'm passing him on to the likes of you.
+
+%Reyson,Valtome
+Valtome: Oh, how quaint...a bird. Do you seek to defeat me? Haven’t you herons learned it’s not safe to play with senators? Uwee hee hee! Beg for my mercy!
+Reyson: Mercy will be done when you and your fellows are gone from this world.
+
+%Ranulf,Valtome
+Valtome: The so-called queen... Where is that brazen little hussy? Bring her before me! Now! Right away! Immediately!
+Ranulf: Are you the best that Ashera could do? This really is the end of the world.
+
+%Pelleas,Valtome
+Valtome: You are no soldier! Who are you, boy?
+Pelleas: I... I am Pelleas, king of Daein.
+Valtome: Oh, how precious! I was hoping that I’d meet the simpering moron who signed the blood pact with Lekain... How funny! Uwee hee hee!
+Pelleas: Y-you will regret this!
+
+%Kieran,Valtome
+Valtome: Ah, a Crimean soldier, yes? Ugh! That queen of yours has no style! What ridiculous armor! You go out in that?
+Kieran: I will brook no insult to my queen or my armor! You face Kieran, second commander of the Royal Knights...and your doom!
+
+@End
+Tibarn: Whew, that's just what I needed! Queen Elincia, are you hurt?
+
+Tibarn: Do you all feel as...alive as I do? This is proof that we need a little chaos. Everyone understand that now?
+Elincia: Yes, but it doesn't make me fond of war. I know we can't stop, but...
+Tibarn: I understand, Elincia. Your path is important, too. Leave the rough stuff to us. 
+Elincia: King Tibarn... Thank you.
+
+Tibarn: That was some good work you did back there.
+Pelleas: Haaaa haaa haaa...
+Tibarn: ...OK, just relax. Get it together...
+Pelleas: Haaa...haa...
+Tibarn: Hmm. I'll go get the others. You just sit down and catch your breath.
+Pelleas: Haa huff... Ahem. 
+Tibarn: Considering he's the only son of Ashnard the Mad King, scourge of Crimea and butcher of innocents, he is quite the mama's boy.
+
+Almedha: ... Hm?  Pelleas?!
+Elincia: Queen Almedha... You shouldn't be out here all by yourself. It's dangerous.
+Almedha: ...Queen Elincia.
+Elincia: I was worried when I didn't see you at supper, so I came looking for you.
+Almedha: Hmph. I didn't think anyone in this merry band cared about me. After all, my own son is trying to avoid me.
+Elincia: Don't say that. A lot of things have just happened... I'm sure Pelleas is just confused. He'll come around.
+Almedha: I hope you're right. Lady Elincia, can I ask you a question? What of your mother? Was she also turned to stone?
+Elincia: No... My mother died three years ago. Both my mother and my father were killed by King Ashnard...
+Almedha: By Ashnard? I-I'm sorry.
+Elincia: Lady Almedha, you were King Ashnard's wife, correct?
+Almedha: There was never a formal wedding ceremony, so I suppose some would call me a mistress... But I was the only one he could ever call his wife. And I'm the only one who can be called the mother of his child...
+Elincia: King Pelleas.
+Almedha: Yes, Pelleas. We were separated so long... Finally having him back is the greatest gift imaginable.
+Elincia: ...Forgive me for asking, but why did King Ashnard suddenly decide to invade Crimea? I want to know why my parents died.
+Almedha: Truthfully, I don't know.
+Elincia: You were closer to him than anyone. Didn't he say anything? Did he never explain his reasons?
+Almedha: The last time I saw Ashnard was long ago, more than twenty years. I'm afraid I don't know many state secrets from after that point.
+Elincia: But, why...
+Almedha: You look so surprised. We had a falling out and ended up living separately... It happens rather a lot, I'm afraid.
+Elincia: No, it's just that... Well, you said that King Ashnard had no other wives or children... I just assumed that you had always been by his side.
+Almedha: Ha ha... There was always gossip, of course, and I hated it. But I know with absolute certainty... Ashnard had relations with no other woman. And so I said as much.
+Elincia: So he did love you, in his own way?
+Almedha: Love? Love?! Ha ha... Seriously... Ha ha ha...ha ha haa!
+Elincia: Wh-what's so funny?
+Almedha: There was no love between Ashnard and me. There was a strong mutual attraction between us, eventually resulting in a child... But all I ever was to him was a source of power. Once I became pregnant, I was useless to him. Bereft of my strength, he found my presence nothing more than an irritating distraction. After Pelleas was born, Ashnard became obsessed with the boy... But, once he realized Pelleas had no special powers... Ashnard rejected him, and used him as bait in a cruel trap for my brother...
+Elincia: Lady Almedha?
+Almedha: I... It's just that I...
+Elincia: I'm sorry, it was not my place to ask.
+Almedha: Where is he? Where is my Pelleas? He's the only thing that matters... I can't lose him...ever! Please, I beg of you. Bring me my Pelleas! Tell him his mother needs him... Hurry... Bring me my Pelleas!
+Elincia: Of course. I-I'll bring him as soon as I can. 
+Almedha: Oh, Rajaion... I'm so sorry. Please forgive me...
+
+@Narration
+The journey to the Tower of Guidance becomes more difficult, as Ashera's Disciples of Order hound the travelers' every step. Micaiah's ability to sense danger proves invaluable, as it gives her allies advance warning of attacks by the Disciples. Thus prepared for each battle, the group keeps casualties to a minimum.
+As they travel south through Begnion, Micaiah and her company clash repeatedly with the Disciples of Order. Eventually, they pass through the central mountains and into the lonely wastelands of the vast Grann Desert. They are sustained only by their faith that they will reunite with their companions at the Tower of Guidance.
+
+@Conversation 
+Tibarn: Reyson! Where are you!?
+Reyson: Over here, Tibarn.
+Tibarn: What are you doing so early in the morning?
+Reyson: I’m hunting for treasure!
+Tibarn: Could you repeat that?
+Reyson: I believe it was the goddess Yune. She sent me a message in my sleep. I saw patches of ground that glowed. I went to one of those spots and found this.
+Tibarn: A satori sign... Don’t see these very often. It’s a good find. But blast it, Reyson, why didn’t you wake me up?
+Reyson: I didn’t know what I would find. Besides, you looked so comfortable.
+Tibarn: Hm. I didn’t even notice you’d snuck out. I can’t believe a heron snuck by me...
+Reyson: Even heroes need their sleep to keep fighting, Tibarn. Where’s the harm in sleeping? I know that you haven’t had a good night’s rest since the incident in Phoenicis.
+Tibarn: Yeah. But you know, there must be something in the air... Despite all that’s happened I feel fantastic. It’s a perfect day for hunting treasure...and enemies.
+Reyson: Excellent.
+
+Jorge: Good morning, Queen Elincia.
+Elincia: Oh. Good morning, Jorge. It looks to be a pleasant day, doesn’t it?
+Jorge: Indeed. And a splendid morning is the best time to present a queen with a fine gift.
+Elincia: Oh, Jorge... Your kind thoughts are enough. You and Daniel have worked so hard to supply our army. If you have something for me, please let me pay you for it.
+Daniel: Even under these circumstances, Queen Elincia, you always try to be good to us. That’s why we wanted to give you a gift. It’s a token of our appreciation.
+Elincia: Daniel...
+Daniel: We’ll take payment for everything else. But please, take this one item without any protests. It’s our pleasure.
+Jorge: Please, Queen Elincia! We insist.
+Elincia: Very well. I suppose it would be quite rude of me not to accept it.
+Jorge: Wonderful!
+Daniel: Here it is. Please use it with our compliments.
+Elincia: Oh... This is a fire tome.
+Daniel: Yes. It’s a very valuable one.
+Elincia: So I can see. I am not a mage, but I feel great power from this tome.
+Jorge: Daniel and I happened to be in that building when there was the big flash of light. That’s how we escaped being turned to stone. But you avoided it because you were one of the chosen.
+Daniel: But we still want to help you. We can collect weapons to help you in battle!
+Jorge: Please, save the people who were turned to stone.
+Daniel: Please give us the world we used to have.
+Elincia: I promise you I will do my utmost. I’ll work toward it with everything I have. Together, we can accomplish anything.

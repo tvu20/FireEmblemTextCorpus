@@ -1,0 +1,219 @@
+@Intro
+Begnion: Assembling is forbidden! All violators will be punished immediately!
+Man: Assembling? We were just talking around the well...
+Begnion: Silence! No excuses!
+
+Man: Gyaaahhh!
+
+Fiona: Can I really have just seen that?
+Jarod: Lady Fiona. The self-proclaimed "Liberation Army" is on the march. Marado's army has been ordered to deploy with us.
+Fiona: Understood, General. We will prepare immediately. But I need to address your soldiers' conduct--
+Jarod: A new war is afoot. You never answered Ashnard's call to arms in the last one. You have a reputation for ruling wisely. Don't endanger your people by hurling ugly accusations at my soldiers. I trust I needn't worry that you'll fail to answer the empire's call.
+Fiona: I will not lie to you. My people are proud citizens of Daein, and some agree with these so-called liberators. However, I will not lead my people into danger over ridiculous rumors of some unknown orphan prince.
+Jarod: I'm glad to hear it.
+
+Jarod: I need a volunteer. Follow that woman's every move. I trust her no farther than I can throw her.
+
+Izuka: Well, well! The rumors that my...operatives started have spread like wildfire through all of Daein! "Late King Ashnard's orphan surfaces!" "Silver-Haired Maiden at Prince Pelleas's side!" Now that we have the people's attention...we snag their hearts! We'll just extol the savior, fan the rebellion, go to battle...and conquer the enemy in a blaze of glory!
+Sothe: Do we have sufficient forces to arouse said rebellion and achieve victory?
+Izuka: You let me worry about that. This highly sophisticated strategizing is beyond your young minds! Worry not, my prince. After painstaking investigation, I have determined the exact locations to target! Gather 'round, all of you! Hear my plan for our next strike.
+
+Izuka: If the Liberation Army attacks any of these places, we are assured of an absolute victory.
+Pelleas: Masterful as always, Izuka. It's good to know I can count on you.
+Izuka: First, we'll target Talrega. It borders the frontier, Begnion's hold is shaky...and resentment runs high.
+Micaiah: No. Talrega is no good.
+Izuka: Wha-what was that!? On what grounds are my decisions being questioned by this...this child?!
+Micaiah: The timing is wrong. Because of the rains, we won't be able to advance well, let alone fight.
+Jill: It's true. I'm from Talrega, and I remember well the landslides and floods that come every spring. The mountain road leading to that particular work camp is notoriously dangerous.
+Izuka: Wha-what?! Impossible! My...my strategy is flawless, perfect even. Hmph, I never...
+Sothe: Micaiah, where do you think we should attack?
+Micaiah: ... Terin... We'll have better luck in Terin.
+Tauroneo: Terin, too, lies in the mountains, but in the arid northern region, where the weather is predictable.
+Pelleas: Micaiah, you're amazing! I count my blessings to have you as vice-general. You give me hope.
+Jill: Lady Micaiah, few outsiders know of the landslides in Talrega. Have you been there before?
+Sothe: Micaiah is a powerful seer. We in the Dawn Brigade owe our lives and our freedom to her abilities.
+Izuka: Ahhhhhhhhhhhhhhhhggghhhk!
+Pelleas: Goodness, Izuka, what is it?
+Izuka: She can foresee battle outcomes!? Magnificent! Why didn't anybody tell me of this? This only makes the maiden that much more appealing. And let us just be honest here, my foresight in decreeing her vice-general was wondrous--nay, genius!
+Sothe: ...
+Izuka: Excellent. Well then, yes. All bow to the maiden's vision. Let's leave the camp and make for Terin!
+
+@Conversation
+???: Yes, that's what I heard! What with that light...and that silver...
+Lass: Could she... Could she be the Silver-Haired Maiden?
+Micaiah: Hm?
+Lass: Oh, it is! It is you!
+Grandmother: Oh... Oh, my...
+Lass: You're fighting with King Ashnard's son to free Daein, aren't you? Oh, we've heard so much about you!
+Grandmother: Oh...what a blessing! What a blessing!
+Lass: We're all waiting! We're waiting for the day you free us from those filthy Begnion pigs!
+Grandmother: Please...take...this.
+Lass: It's not much, but people from all over the village pitched in.
+Micaiah: Oh, no, I couldn't possibly...
+Sothe: Thank you. We appreciate your kindness.
+Grandmother: ...
+Lass: We're all counting on you! Please, free us! 
+Micaiah: ...
+Sothe: Looks like Izuka's propaganda is working fast.
+Micaiah: Mm.
+Sothe: You didn't want me to take the money, did you?
+Micaiah: It's not that. It's just... Oh, never mind.
+Sothe: Oh, come on. What did I do this time? You're not going to say? Great. In that case, let's get out of here and go find the others.
+ 
+Kurth: So, you're staying, then?
+Almedha: I appreciate your concern. However, I--
+Kurth: You can't leave Prince Pelleas's side. Is that not so?
+Almedha: That's right.
+Kurth: Then take this, at least. Almedha: A sending stone?
+Kurth: Do you remember how to use one?
+Almedha: Of course I remember how to use one. But it's such a precious gift... Are you sure about this? Thank you, Kurth.
+???: Kurth! Where are you?
+Almedha: I must go now.
+Kurth: Please, remain safe.
+Almedha: You as well. 
+Kurth: ...
+Micaiah: Kurth?
+Kurth: Micaiah. How nice to see you.
+Micaiah: Kurth, I'm leaving for Terin. I know this is sudden. To tell the truth, I'm surprised too.
+Kurth: I see. You are off to perform your first duties as a general of this "Liberation Army".
+Micaiah: Yes.
+Kurth: I abhor violence. I do not think you should fight.
+Micaiah: Kurth, I'm not fighting because I enj--
+Kurth: I know. I know you wish there were another way. And I understand that you feel this is what you must do to save your country.
+Micaiah: ...
+Kurth: Here, take this.
+Micaiah: What is it?
+Kurth: May it serve to protect you. Micaiah, I must leave you now. I am going home to my own country.
+Micaiah: What? So suddenly?
+Kurth: I'm sorry, Micaiah. Being so close to battle frightens me, to tell the truth. Thank you for rescuing me. And thank you for the short time we spent together. I enjoyed it immensely.
+Micaiah: Will I ever see you again?
+Kurth: Who knows? Why don't we... Yes. Let us leave it up to the goddess.
+Micaiah: I suppose we must.
+
+@Intro
+Begnion: A small troop approaches from the east! It appears to be the Daein Liberation Army!
+Laverton: ...Blissfully ignorant of the trap that awaits them. I pity them, really. Have the first platoon assume their battle positions!
+
+Fiona: Shall we deploy too?
+Laverton: Kind of you to offer, Lady Fiona. But the first platoon will suffice here. This is really none of Marado's business.
+Fiona: I see. In that case, we'll use this opportunity to observe the empire's army at work.
+
+@Battle
+Laverton: Hornet hairs! At this rate they'll breach our lines before we can stop them. I have no choice. You! Bring out the prisoners!
+
+Boy: I'm sc-scared! Please don't hurt me.
+Fiona: Lord Laverton, exactly what are you planning to do?!
+Laverton: This so-called "Liberation Army" is forcing me to sacrifice this boy!
+Boy: Help!
+Micaiah: No!
+Sothe: Micaiah!
+Laverton: Fight, and these people will be executed right now! Surrender, and they will be spared.
+Micaiah: ...Everyone, throw down your weapons.
+Sothe: You have a feeling, don't you? Got it. We'll follow your instinct.
+Laverton: Ha ha ha ha ha... A wise choice, girl! Well, no more need for these prisoners, is there? Kill them all!
+Fiona: No!
+
+Laverton: What do you think you're doing?
+Fiona: I'll have nothing to do with you and your monstrous tactics!
+Laverton: So, you betray us after all. Marado has never been known for holding its faith. You'll die like the rest!
+Sothe: A troop of Daein cavalry just mutinied. Is this what you sensed?
+Micaiah: Yes. Now we must reinforce them and help save the hostages!
+
+@Boss
+Laverton: Y-you pretentious little fools. I'll show you how insignificant you are!
+
+Laverton: Gu...uarrgh... You...disgust...me...
+
+%Micaiah,Laverton
+Micaiah: Making hostages of the helpless. Is that how knights of the great Begnion Empire operate?
+Laverton: Shut up, shut up, shut up!
+
+%Volug,Laverton
+Laverton: Wh-what kind of monster are you?! A su-sub-human? B-but, there are no wolf sub-humans!
+Volug: …
+Laverton: Don’t just stand there! Say something, you vile beast!
+
+%Fiona,Laverton
+Laverton: General Jarod will never, ever overlook this betrayal! Marado will be put to the torch, and your people will be put to the sword. You will rue this day!
+Fiona: Empty threats! My fate lies in defending my country and my people. You don’t stand a chance against that kind of loyalty!
+
+@End
+Micaiah: Dear boy, I'm sorry you had to suffer on our account.
+Boy: I wasn't scared! I knew the Dawn Brigade would save us. Thank you!
+
+Fiona: Thank you for rescuing my people.
+Tauroneo: Your people? So you must be--
+Fiona: Yes. I am Lanvega's daughter, Fiona. After my father died, I assumed the governance of Marado.
+Micaiah: General Lanvega? From the song? "Bryce, Tauroneo, Gawain, and Lanvega... Four Riders of Daein, one country, one king, While they bear our banner, A free Daein shall sing." You're THAT General Lanvega's daughter?
+Tauroneo: Indeed... Lanvega, of the Four Riders. He was a good friend, and a mighty swordsman as well. And stubborn as a mule. Your father was a powerful warrior of unquestionable integrity. A great man.
+Fiona: Yes. And that's why he renounced his rank and title as Rider and withdrew from court life, rather than serve King Ashnard. You've heard the rumors, no doubt, that Ashnard murdered his own father? My father could not serve such a man... And so, to protect Marado from a madman, we did not send men to fight for Daein in the war. I doubt you could ever forgive us...
+Micaiah: No, quite the opposite. You are these people's steward, and you chose the course that would protect them. But now, Begnion is willing to sacrifice innocent children to maintain their grip over our country. We cannot allow that. That is why we are asking you to lend your strength to the Liberation Army. Together, we can reclaim our country.
+Fiona: And now, you ask us to bear part of the burden of restoring our motherland? If you would have my lance, then... I, Fiona, Steward of Marado, do gladly swear allegiance to your Liberation Army. I and my men bind ourselves to your fate. Use my army as best you see fit.
+
+Jarod: And now, Marado betrays us as well? You are aware that riots broke out in three other regions yesterday, are you not? ...All quelled immediately, of course, but the unrest grows.
+Numida: Who cares what the commoners do or think? Does the shepherd fuss when his sheep butt their heads against the fence post?
+Jarod: Nevertheless, as the insurgence grows, news of it will inevitably reach Begnion.
+Numida: Yes... I see what you mean. That would be...less than desirable.
+
+Jarod: The Imperial Prime Minister Sephiran casts a grim eye on dishonesty. If he finds out what has been going on in Daein under our rule...
+Numida: That would not be good. Sephiran's persistent as a mosquito and quick to judge. Though you and I know I have been nothing but fair and just in my rule here...it's best to avoid an inquiry.
+Jarod: Which leaves us but one recourse... Crush the rebel faction before it grows larger. Exterminate them. Then the commoners, bereft of all hope, will turn their sheep eyes back to us and beg to rejoin the flock.
+Numida: I see. Well, I leave the matter in your hands. What funding you need is yours.
+Jarod: I'm glad we agree on this. Well then, pardon me, sir, while I tend to our little lambs on the loose.
+
+@Narration
+The Liberation Army's sweeping victory seems to signal a turn in the war for Daein. However, General Jarod uses his superior numbers to harry the group and threaten their fragile momentum. Begnion has fortified its army with weapons and supplies bought with funds stolen from Daein. Begnion has also purchased the swords of a vast number of mercenaries from these same stolen funds.
+The Liberation Army does not want for willing fighters of its own. However, most are old men and inexperienced boys whose passion far outstrips their skill. The Liberation Army has no choice: it must bolster its ranks if it is to meet Begnion on equal terms. Its only hope lies locked in Begnion's prison camps, where Daein's former soldiers await their rescue.
+
+@Conversation 
+???: Yes, that’s what I heard! What with that light… and that silver…
+Lass: Could she… Could she be the Silver-Haired Maiden?
+Micaiah: Hm?
+Lass: Oh, it is! It is you!
+Grandmother: Oh… Oh, my…
+Lass: You’re fighting with King Ashnard’s son to free Daein, aren’t you? Oh, we’ve heard so much about you!
+Grandmother: Oh…what a blessing! What a blessing!
+Lass: We’re all waiting! We’re waiting for the day you free us from those filthy Begnion pigs!
+Grandmother: Please…take…this.
+Lass: It’s not much, but people from all over the village pitched in.
+Micaiah: Oh, no, I couldn’t possibly…
+Sothe: Thank you. We appreciate your kindness.
+Grandmother: …
+Lass: We’re all counting on you! Please, free us!
+Micaiah: …
+Sothe: Looks like Izuka’s propaganda is working fast.
+Micaiah: Mm.
+Sothe: You didn’t want me to take the money, did you?
+Micaiah: It’s not that. It’s just… Oh, never mind.
+Sothe: Oh, come on. What did I do this time? You’re not going to say? Great. In that case, let’s get out of here and go find the others.
+
+Kurth: So, you’re staying, then?
+Almedha: I appreciate your concern. However, I--
+Kurth: You can’t leave Prince Pelleas’s side. Is that not so?
+Almedha: That’s right.
+Kurth: Then take this, at least.
+Almedha: A sending stone?
+Kurth: Do you remember how to use one?
+Almedha: Of course I remember how to use one. But it’s such a precious gift… Are you sure about this? Thank you, Kurth.
+???: Kurth! Where are you?
+Almedha: I must go now.
+Kurth: Please, remain safe.
+Almedha: You as well.
+Kurth: …
+Micaiah: Kurth?
+Kurth: Micaiah. How nice to see you.
+Micaiah: Kurth, I’m leaving for Terin. I know this is sudden. To tell the truth, I’m surprised too.
+Kurth: I see. You are off to perform your first duties as a general of this "Liberation Army."
+Micaiah: Yes.
+Kurth: I abhor violence. I do not think you should fight.
+Micaiah: Kurth, I’m not fighting because I enj--
+Kurth: I know. I know you wish there were another way. And I understand that you feel this is what you must do to save your country.
+Micaiah: …
+Kurth: Here, take this.
+Micaiah: What is it?
+Kurth: May it serve to protect you. Micaiah, I must leave you now. I am going home to my own country.
+Micaiah: What? So suddenly?
+Kurth: I’m sorry, Micaiah. Being so close to battle frightens me, to tell the truth. Thank you for rescuing me. And thank you for the short time we spent together. I enjoyed it immensely.
+Micaiah: Will I ever see you again?
+Kurth: Who knows? Why don’t we… Yes. Let us leave it up to the goddess.
+Micaiah: I suppose we must.

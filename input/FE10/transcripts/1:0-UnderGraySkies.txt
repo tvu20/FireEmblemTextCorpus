@@ -1,0 +1,121 @@
+@Cutscene
+Begnion Soldier: Find anything?
+Begnion Soldier: Not yet, sir, no.
+Begnion Soldier: Someone's gotta be here. Keep looking.
+Begnion Soldier: Sir!
+
+Begnion Soldier: We're wasting our time. There's no one here.
+Begnion Soldier: I know I heard something...
+Micaiah:  Hush, Yune! Please, don't cry. If they hear you, you'll give us away.
+
+Begnion Soldier: Who's there?
+
+Begnion Soldier: Is it the Dawn Brigade?
+Begnion Soldier: No. It was just a bird.
+
+Begnion Soldier: Ha ha ha! Thought we didn't see you?
+
+Begnion Soldier: Look... Silver hair...
+Begnion Soldier: If it's the fortune-teller, we'll be heroes! Without her, the Dawn Brigade is nothing.
+
+Begnion Soldier: Oh, the general's going to love this. Bind her.
+Begnion Soldier: Sir.
+
+Begnion Soldier: Listen up, lass. If you don't want to get hurt, don't struggle.
+
+Begnion Soldier: She's not alone!
+
+Sothe: Micaiah.
+Micaiah: Sothe...
+Begnion Soldier: Got you now!
+
+Micaiah: Ekarif Magae Teiodasto Ieraka!
+
+Begnion Soldier: My eyes!
+Sothe: Good job, Micaiah. Let's go.
+Micaiah: Right. Yune!
+
+@Intro 
+Edward: Something must have happened to him.
+Micaiah: Don't worry. He'll be here.
+Edward: Hey, I have an idea... Micaiah, why don't you use your farsight to see when Leonardo will arrive?
+Micaiah: Edward, you know that's not how it works. I foresee some things, but I don't get to choose what I see.
+Edward: I was just teasing! Still, Leonardo's never late. Something must have—-
+???: H-help! Someone, please help us!
+Lady: Bandits! Bandits are attacking the town! Run away! Who knows what the brutes will do if they catch you!
+Micaiah: Where is the Imperial Occupation Army this time? How can they keep the peace when they're nowhere to be found?
+Lady: Who, the Begnion soldiers?! Hah! They don't care a lick about us! We lost the war, and they won. We're nothing to them.
+Lady: They're only interested in chasing down the Dawn Brigade. They let the real scoundrels run wild and brutalize us.
+Micaiah: They're worse than useless! We'll be glad to help you. Just find someplace to hide, and leave those bandits to us.
+Edward: And don't worry about us. We happen to be members of that same Dawn Brigade that the Begnion troops are so interested in!
+Boy: What! Really?! You guys are in the Dawn Brigade?! Wow, my friends and I talk about you all the time!
+Lady: You? But you're just children! Oh, how Daein has fallen... Children, forced to fight and steal for the good of the poor.
+Lady: But we can't fight the rogues, so we'll take you up on your offer. Please be careful. They're slice clean through you if they can.
+
+Pugo: Listen up, you louts! This town is nothin' but idiot kids and drooling graybeards. Steal everything you can!
+
+Micaiah: Yune, it's dangerous here. Go find someplace safe for now.
+
+@Battle
+Ruffian: Heh heh heh! A pretty little girl like you'll fetch a pretty penny for me! Now be a good girl and come to papa.
+
+Ruffian: What did you say? That better not have been an insult, you... Huh!?
+
+Micaiah: No matter the manner of man, the goddess judges with an even hand.
+
+Leonardo: Micaiah!
+Micaiah: Leonardo! How did you find us?
+Leonardo: A little bird told me. Yours, in fact.
+
+Leonardo: What were you two thinking, taking on these bandits alone? That's beyond reckless.
+Micaiah: I'm sorry, Leonardo. We couldn't just leave the helpless villagers to these monsters. Please, help us fight them.
+
+@Boss
+Pugo: Who do you brats think you are, the Dawn Brigade?
+
+Pugo: Aghhh! What just happened?!
+
+%Micaiah,Pugo
+Pugo: You give proper thieves a bad name. Hah! You like charity? Come closer! I'll show you some charity!
+Micaiah: These people work hard to feed their families mere scraps. Then you come along and steal what little they've earned.
+Pugo: Shut up, kid! I work hard, too! You want honest? Once I've sold you, I'll have earned an honest penny!
+
+@End
+Edward: Fantastic! We won! It's just like you said, Micaiah. They were no match for us!
+Micaiah: Yune, come here.
+
+???: You did it!
+
+Lady: Thank you so much! We owe you our lives.
+???: You there! What are you doing? Stop immediately!
+
+Edward: Well, well, well. Look who decided to show up... Begnion soldiers. They certainly took their time, didn't they?
+Leonardo: We mustn't be caught. Micaiah! Edward! Make a break for it. Run!
+Micaiah:  I'm sorry. We have to leave.
+Lady: I know. Thank you again for all you've done. Now, go! Run!
+Boy: Hey, lady! My name's Nico! When I grow up, I want to be just like you guys! Come back sometime!
+
+Begnion: Hold it! Stop right there!
+???: Who are you bellowing at, soldier?
+Begnion: General Jarod?! Wh-when did you arrive?
+Jarod: Answer my question, maggot. I want to know who you were yelling at and why you did nothing but yell at them.
+Begnion: S-sorry, sir. We suspect they were from the Dawn Brigade, a band of thieves that targets goods levied from the town. People say they give what they've stolen back to the villagers and strut around acting like heroes.
+Begnion: They're said to have a witch among them, a girl called the Silver- Haired Maiden. They say she can heal wounds instantly by laying her hands on any injury. Townspeople treat her like a savior.
+Jarod: And? What have you been doing about this band of fools?
+Begnion: Sir. A few days ago we stormed their hideout. We found a girl much like the Silver-Haired Maiden... We ran the dogs from their den, but they were cunning and cautious, and...we lost them.
+Jarod: I see. I'm beginning to understand.
+Begnion: How do you mean, sir?
+Jarod: I'm beginning to understand exactly how incompetent you all are!
+
+Begnion: Urk!
+Jarod: Make the villagers talk. I want to know who these bandits are and where they're hiding.
+Begnion: Y-yes, sir! Understood, sir!
+
+Alder: I don't care who they are. The more kick they have in them, the more fun for us, don't you think, sir?
+Jarod: Precisely. Overseeing this dusty old town is wearing thin. A little fresh game is just what I need.
+
+@Narration
+The northeastern nation of Daein lost a bloody war with neighboring Crimea three years ago. Crimea, however, abdicated its right to rule Daein and passed sovereignty of its former enemy to the powerful Begnion Empire. Daein's future is now subject to the whims of the empire.
+Begnion's occupations forces have gathered all of Daein's men of fighting age and put them to work in labor camps. Their work is brutal and void of purpose, designed to break both body and spirit. The remaining population faces poverty and starvation as the fields lie fallow. A band of young heroes has escaped the Begnion army to form a group called the Dawn Brigade. Fighting for a free Daein, they alone have stood against Begnion's forces. They alone have shouldered the hopes of their nation.
+Among the company is a young girl named Micaiah, who is said to possess mystical powers. The people of Daein have come to know her as the "Silver- Haired Maiden." They have come to think of her as the savior for whom they had been waiting.
+Begnion's forces have tried time and time again to capture and silence the Dawn Brigade. However, Micaiah's ability to sense impending danger has thus far allowed the Dawn Brigade to evade the empire's grasp.

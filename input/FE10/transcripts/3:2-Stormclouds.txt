@@ -1,0 +1,220 @@
+@Intro
+Ranulf: Felirae, Mugill, and Telgam are ours. But this war has just started. The enemy's main force is in Sienne, the capital. The real fight starts now.
+Skrimir: Ah, now we fight the big battle! My claws itch for beorc flesh. Hey, Ranulf! Are there strong enemies in the capital?
+Ranulf: There will be plenty. Before we go, we must fight the northern nobles. Their collective army is massive.
+Soren: By now, I imagine the Begnion Central Army is heading our way. They're going to be our real problem.
+Titania: So, if we're too slow, we get caught in the middle.
+Ike: I don't like the sound of this. Soren, do you have a deployment plan worked out?
+Ranulf: Actually, why don't you all just relax? You might not believe it, but WE have a plan this time!
+
+Titania: I see. An army of that size would require a massive amount of supplies to be able to sustain itself. So the bird tribes will hit the Central Army's supply unit and slow their advance.
+Ranulf: Exactly. The empire fears the bird tribes. The Shipless Pirates, they're called. They specialize in surprise attacks and have been raiding Begnion merchant ships for years.
+Ike: After they hit the supply unit, the bird tribes will head north. We'll meet up with them after we finish off the nobles' forces. Then when the Central Army arrives, we'll attack them together. Does that pretty much sum it up?
+Soren: I'm surprised. As laguz strategies go, it's not bad at all. We might even win, provided everything goes as planned.
+
+
+Naesala: Tibarn! We can't see it yet, but Begnion is close. Shouldn't you let your men take a break?
+Tibarn: Yeah... Let's land on one of those islands and get some rest.
+
+Tibarn: You're full of surprises, Naesala. I never expected you to join the Laguz Alliance. I wish you could be this helpful all the time.
+Naesala: Tibarn, just stop. I'm not interested in your friendship.
+Tibarn: The hawk tribe and the raven tribe used to live together in Phoenicis. Our tribes were like brothers! Maybe if you fess up about some of your secrets, I might consider helping you out in the future.
+Naesala: That doesn't really narrow it down, Tibarn. Which secrets are you talking about?
+Tibarn: How about the secret of how you suddenly became first in line to succeed the throne of Kilvas?
+Naesala: Oh, THAT secret. Sure, no problem.. I'll tell you if we live through this war. Sound all right to you?
+Tibarn: Sounds fine to me. You know, this war is going to be vicious, but at least our tribes will grow close again.
+Naesala: Do you actually trust me? You might live to regret it.
+Tibarn: You're trying to protect Reyson, Leanne, Rafiel, and their father, King Lorazieh. Isn't that so? As long as they're on our side, you won't betray us. I think that's enough rest and small talk, though. Let's go! 
+Naesala: ...
+
+@Conversation
+Boyd: So I told him, you know? I thought it was important.
+Oscar: Are you sure about this? You're always exaggerating stories to make them more impressive.
+Boyd: No, I'm deadly serious! Trust me, you'd have done exactly the same thing if you were there!
+???: Oh... I finally found you!
+Woman: Oscar... Boyd... It's been such a long time.
+Oscar: Eep!
+Boyd: How did you find us?
+???: She's in here!
+Woman: Let go!
+Gallia: What are you doing here, intruder? You're coming with me!
+Woman: No, please! I'm not done yet!
+Oscar: Sigh... Please let her go. She's a friend of ours.
+Gallia: She is? You should have said something! 
+Woman: ...Thank you, Oscar. Oh, that was scary!
+Boyd: Why did you come here?
+Woman: Please. You have to let me see him.
+Oscar: I do?
+Woman: He's here with you, right!? Let me see Rolf!
+Boyd: Uh... Why should we?
+Woman: What!?
+Boyd: You abandoned him! You left me, Dad, and Rolf for some guy! What kind of mom does that, huh!?
+Woman: I was different back then! I was so young... I didn't know how to raise two kids while looking after your bedridden father. Believe me, I tried! I tried... But it was too difficult.
+Boyd: At least you and I aren't related. But, Rolf... That's different. He's your son! Yours! And you left him behind because it was "too hard"!?
+Woman: I'm sorry... I've regretted my decision since the day I made it. I thought of you each and every day.
+Boyd: My father died not too long after you left him. We'd have followed him, too, if my brother hadn't abandoned his knighthood in Crimea to take care of us!
+Woman: I... I had no idea... Oh... I've made a terrible mistake! I'm so sorry. Forgive me.
+Boyd: Leave. Now. You've got no right to see Rolf.
+Woman: Boyd! Please, I'm begging you! I...I want Rolf to come back and live with me!
+Boyd: Lady, you've got some serious nerve. He's our brother! You're not gonna take him away from us!
+Oscar: ...Just...wait here. I'll go get Rolf.
+Boyd: Oscar?!
+Woman: Oscar! Thank you!
+Oscar: Don't get the wrong idea. I haven't suddenly forgiven you.
+Woman: Then why...?
+Oscar: Because you are still Rolf's mother. Nothing in the world will change that. We'll leave it up to Rolf to decide. 
+Boyd: Oscar...
+Oscar: Are you sure? Are you sure you don't want to see her?
+Rolf: Yeah. I don't even remember her face. She's just another stranger to me.
+Oscar: Rolf...
+Rolf: I have my family, Oscar. You, Boyd...everyone in the Greil Mercenaries. I don't need anyone else. Why should I let her try and change that?
+Oscar: ...
+Rolf: Don't look at me like that. Why do you look so sad? I'm not sad.
+Oscar: Then I'll ask her to go home.
+Rolf: Tell her never to come back. She's being a nuisance.
+Oscar: ...Fine. 
+Boyd: Rolf...
+Rolf: I... I do love you, Boyd. We fight all the time, and we might not be related, but you're my real brother. Don't make me go away. You can't! I want to stay with you! I want to stay with my family!
+Boyd: You little idiot. Of course you can stay! We raised you, remember? You're not some...thing, to give away to a crazy woman! You're one of us.
+Rolf: ...Thanks.
+
+@Intro
+Begnion: General Levail! How did it go?
+Levail: It was no use. No one would even listen to me. It makes my heart heavy. The nobles are too busy competing with one another for rewards and status to realize the danger to their lands. Begnion: Rewards? Are they crazy? The sub-humans are at their doors, and all they care about is some reward?!
+Levail: They only listen to each other. No one wants to listen to me.
+Begnion: General Levail, how are we going to survive this?
+
+
+Ranulf: Ike! Are you in position?
+Ike: Yeah. Ready when you are.
+Ranulf: We'll leave the troops on the left to you beorc. Sound good?
+Ike: Fine by me. We'll teach these nobles a thing or two.
+
+Ike: All right! Move out!
+
+@Boss
+Istvan: What luck! Enemy comes in tiny numbers. Get up, comrades! We cannot let other army take reward! Crush enemy and gain glory for Lord Seliora!
+
+%Ike,Istvan
+Istvan: I am Istvan, general of Lord Seliora's royal army! You, leader of sub-human filth! State your name!
+Ike: I'm Ike of the Greil Mercenaries.
+Istvan: Greil Mercenaries? Hm. Never heard of them! You are just small-time bandits, yes? Argh! If we had left behind dead bodies of sub-humans, our reward would have been bigger! My lord is not being pleased with heads of bandits!
+Ike: Oh, I wouldn't worry about our heads. You have no chance to win this fight. Leave while you can.
+
+@Boss
+Istvan: W-wait...! This cannot be! Our...reward...
+
+@End
+Ike: The enemy general is down! Let the fleeing soldiers go. Everyone, fall back!
+
+Ranulf: Hey. You're done, too? That was fast.
+Ike: Yeah, it was easy work. They retreated pretty quickly.
+Soren: Their soldiers were well equipped and well trained, but their commanders were terrible.
+Ranulf: That's lucky for us, I suppose. Things seem to be working out pretty well so far. Unless they bring in a real commander, it's only a matter of time before they wave a white flag.
+Gallia: E-enemies to the south! It's the Central Army!
+Ranulf: What?!
+
+
+Ike: Tibarn failed in stalling them... Does that mean he's...dead?
+Soren: Doubtful. I don't think there was even a battle. The Central Army has arrived too quickly.
+Ranulf: Grrrr... We only know one thing for sure. The enemy now has the advantage.
+Titania: There are still enemies to the north. This is quickly turning into our worst-case scenario.
+Ranulf: Skrimir, we must retreat. We're in serious trouble here.
+Skrimir: Show my back to beorc? Never! We will fight on like the Gallians we are!
+Ranulf: Skrimir, listen to me! We must retreat. This is the Central Army we're talking about!
+Skrimir: Ah, finally! Finally, we get to fight the Begnion Central Army! I have been waiting for this!
+Ranulf: I can see you won't change your mind, Skrimir. All right, if it has to come to this...
+
+Skrimir: Are you joking? You can't beat me, Ranulf. You know that.
+Ranulf: I can't let you or our men die in vain. It's my job to keep you from doing anything that stupid. If I have to knock you out to keep you out of this battle, then that's what I'll do.
+Skrimir: Fine. Try. 
+Titania: Ike! Stop them!
+Ike: No. They need to do this.
+
+
+Skrimir: Do not worry about him. I might have broken some bones, but he will heal quickly.
+
+Skrimir: My soldiers! We are leaving! Head back to base camp! 
+Ike: General Skrimir...
+Skrimir: We will return and regroup. It pains me, but we must. Damn it, Ranulf... He...got my leg.
+Ike: But you're still willing to carry him?
+Skrimir: If he doesn't rest and heal, all his little chores fall on me. I can't have that.
+
+Begnion: Reporting, sir! The Laguz Alliance is retreating!
+Zelgius: So, the enemy does not persist with the situation turns against them. I'm impressed. They're flexible and adapt quickly to a changing environment.
+Begnion: Shall we pursue them?
+Zelgius: No, first we will join our allies to the north. I hear they've taken heavy losses.
+
+Levail: General Zelgius. It's an honor to meet you.
+Zelgius: General Levail of Duke Gaddos's northern force, is it? Are you in command here?
+Levail: No, not I. Rather... The northern force lacks any order. We do not have a central commander to direct us in battle.
+Zelgius: So, each force was fighting the enemy on its own?
+Levail: Quite so. Taking orders from others is beneath the nobles, I suppose.
+Zelgius: How pitiful.
+Levail: A sad state of affairs, yes. But now that you are here, General, the situation will be rectified.
+Zelgius: Yes, one can hope.
+Levail: ...So, are the rumors true?
+
+
+
+Levail: I've heard that power in Begnion has been split between the apostle and the senators.
+Zelgius: True, they do not agree on how to deal with the Laguz Alliance. However...
+
+Zelgius: As long as there are enemies who threaten the empire, we shall fight. That is our duty, is it not?
+Levail: ...Indeed.
+Zelgius: Then do not trouble your mind with politics. Let the nobles worry about their games. We should focus on this war.
+
+@Narration
+The apostle Sanaki, empress of the Begnion Empire, does not wish war with the laguz and searches feverishly for a peaceful resolution. However, many imperial senators see the war not only as a means to expand their own influence but also as a convenient opportunity to exterminate the laguz once and for all. These ambitious senators meet with Vice-Minister Lekain and vigorously advocate a full-scale war.
+Having seen their homeland invaded, Begnion citizens desiring peace are now few and far between. Against the apostle's wishes, Begnion's army is now fully committed to the war with the laguz.
+Zelgius easily escapes the talons of the bird tribes meant to delay him and the Central Army. He arrives at the Sestohl Plains to reinforce his weakened allies.
+The laguz forces are surprised by the sudden appearance of this new enemy and seek counsel from Ranulf of Gallia. Ranulf orders a retreat with all speed, thus avoiding a full-on engagement with the Central Army.
+General Zelgius chooses not to pursue the fleeing Gallian army. Instead, he orders his army to hold position on the eastern banks of the Ribahn. Divided by the river, the two armies are deadlocked, able to do little more than glare at one another in hatred.
+
+@Conversation 
+Heather: So you’re Ilyana? That’s such a cute and delicate name! I’d never have guessed there’d be such a pretty girl around all these laguz! What a lucky day!
+Ilyana: Sigh…
+Heather: Is something wrong, Ilyana? Are you feeling sick? You look weak.
+Ilyana: I’m… so hungry…
+Heather: Oh, no! That’s no good. Hold on. I’ll bring some food for you right away.
+Ilyana: Really? Oh, that would be wonderful…
+Heather: Oh, look at that smile! So, what do you like?
+Ilyana: Something delicious. I don’t particularly care what it is. I just want loads of it.
+Heather: Um, all right. I guess that means you eat pretty much anything? I’ll go find somoe dupe who thinks I’m cute, and I’ll con him into cooking something! You stay put!
+Ilyana: How interesting… Heather… Her name is Heather. I’ll have to remember her name. She likes to feed me.
+Ike: You still eating everything in sight?
+Ilyana: Ah… Hello, Ike. I haven’t seen you in a long time.
+Ike: Glad to see you remember me.
+Ilyana: Of course. I remember all of the mercenaries. Well, most of you, anyway. Oscar prepares such delicious meals. I remember that well enough. Oh, I can’t wait to eat his food again.
+Ike: Well, I can see you haven’t changed a bit.
+
+Aimee: Oh… It’s like a dream come true. My hero, standing right in front of me. Somebody pinch me.
+Ike: Hey, if you don’t let go of my hand, I can’t pay you for anything.
+Aimee: No! My darling… Let us not spoil our time together with talk of money! Speak sweetly to me, handsome.
+Ike: Listen, lady. This is a shop, and I’m a customer. What’s so sweet about that?
+Aimee: Oh, such cold words… My hero plays hard to get! You’re only making me more interested.
+Ike: Will you let go of my hand? Please?
+Aimee: Then tell me I’m beautiful! Tell me I’m more beautiful than any woman in this camp!
+Ike: …And then you’ll let go of my hand?
+Aimee: Of course. I’ll even give you everything you want for free.
+Ike: Oh! All right, then…
+???: No, Ike! Don’t say another word!
+Aimee: That voice! It’s--
+Ike: C’mon, Soren. She’s going to give us everything! For free!
+Soren: Nothing in life is free, Ike. Suppose you said what she asked you to say, hmm? What then? You’d hear it all over the camp. In nearby villages. Eventually, the entire country would be saying it! "Ike, hero of the Mad King’s War, is in love with Aimee the shopgirl." Rumors can quickly spin out of control.
+Ike: Come off it. You’re exaggerating.
+Aimee: Ooh, don’t be so sure. With my network of merchants, I’ll spread the word to the four corners of Tellius! Within half a year, everyone will know! Then you will be mine forever, Ike! You’ll have no choice at all!
+Ike: Man, you go right for the neck, don’t you? All right, Soren. She’s all yours.
+Soren: Yes, sir. What I do now, I do for the good of the company.
+Aimee: No, Ike! Don’t go! Don’t do this to me!
+Soren: Well, now. Shall we get on with our business? You’re looking more beautiful than ever, Miss Aimee. A true delight for the eyes.
+Aimee: Ooo… Now you’re talking, you little lady-killer!
+Soren: I know you won’t discount the goods to nothing, since it’s coming from me. So… How about you cut your prices down by three-quarters?
+Aimee: Ooh… Decisions, decisions.
+Soren: You’re a diamond, and other beorc only glass beads, Miss Aimee. I’ll buy more than enough to justify the discount.
+Aimee: Half price, maybe.
+Soren: A touch less than three-quarters, then. What do you say, rose of Tellius? O goddess of desire?
+Aimee: All right, you win! Just this time, mind you. Take this.
+Soren: Ah, a Silver Card. I can buy everything for half price at all of the shops?
+Aimee: That’s right. Remember what I said, though. It’s a limited-time deal. I’ll have to take it away soon. Oh, and while you own this card, you won’t be able to sell your weapons as raw material. Got that?
+Soren: Understood, Miss Aimee. Stay beautiful.

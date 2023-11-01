@@ -1,0 +1,153 @@
+@Intro
+Senator: General Zelgius! Why did you retreat so quickly?! Order an all-out attack!
+Zelgius: The Laguz Alliance is inching closer after successfully crossing the river. It would be unwise to attack them head-on at this time.
+Senator: At this time? That is for me to decide! You are a fool, Zelgius! The senate wants all sub-humans roaming our lands to be exterminated at once! I forbid you to retreat from now on! Am I understood, Zelgius?
+Levail: Pardon my impertinence, but that is madne--
+Zelgius: I understand, my lord. I will do my best to end this fighting as soon as possible.
+Levail: But, General Zelgius!
+
+Levail: General Zelgius! Why didn't you say anything? The senator's orders are madness!
+Zelgius: Don't make me repeat myself. We soldiers are in no position to question the orders of our superiors.
+Levail: But I thought... No, I was certain that you would steer the military in the right direction.
+
+Levail: General Zelgius! ...
+
+Soren:  I'm late. My apologies.
+Skrimir: Ah, here comes the great strategist! Don't be so shy. Come sit next to me.
+Soren: Not if you begged me, Skrimir. 
+Titania: Soren! I'm so sorry. He's rude to everyone, but strangers especially.
+Skrimir: You still don't trust me? Then I will take the first step. I admit that we won the last battle thanks to your cleverness. I underestimated the wisdom of the beorc. As a general of Gallia, you have my thanks.
+Soren: ...You're welcome.
+Skrimir: What do we do next? We hit Begnion hard in the last battle. Surely we will use this opportunity to wipe out the enemy entirely?
+Soren: Actually, it would be unwise to launch a new offensive now. I recommend we negotiate a peace treaty with Begnion.
+Skrimir: What?! You'd give up our best opportunity to crush Begnion for some peace treaty?!
+Soren: For once, please try to think for a moment, Skrimir. Yes, we crossed the river, but we haven't so much as touched the Central Army. Not one scratch. Consequently, Begnion still has the advantage. It would be foolish to press the attack.
+Skrimir: I must ask you to think harder! A peace treaty? Now? My soldiers will never accept this! We need another way!
+Ike: What do you think, Ranulf? Do you feel the same way?
+Ranulf: Well... It's not so much how I feel, but how we laguz are as a species. Once the fighting begins, laguz can't see anything except the enemy in front of them. In a long fight like this, it's even harder to keep ourselves in check.
+Tibarn: The same goes for my tribe. If we were to stop fighting now, I'd have to go around knocking every one of my men unconscious.
+Ranulf: But rushing headlong into the enemy and getting killed is not an option. Soren, can you think of something? ...Maybe it's too much to ask.
+Soren: No, I can do it... ...Just let me think.  ...All right, I have it. Gather around the map. I'll explain what we have to do.
+
+Lyre: Hey, Captain Ranulf! The hawk king's decoy attack got the Begnion forces to move out!
+Ranulf: Good. Our unit will hit them from the north, Ike from the south, and Skrimir from the west. I'm impressed. If everything goes according to plan, Soren will have delivered another easy victory.
+Kyza: Captain! We appear to have a situation! General Skrimir's western forces are charging down the cliff!
+Ranulf: What?! I told him to keep his men under control at all costs!
+Kyza: Apparently, an enemy commander challenged General Skrimir to a duel. He accepted, of course. He always was an impatient one. The challenger was a large raven-haired beorc, clad in stunning crimson armor.
+Ranulf: That must be Zelgius. No, no, no! Skrimir can't win. He'll get slaughtered! Send a message to Tibarn and Ike. Tell them I'm going to save Skrimir. We can't let him do this!
+
+
+Titania: Ike! A company of enemy troops has appeared to the south of Skrimir's forces.
+Soren: General Zelgius seems to be in command.
+Ike: Uh oh. That's not good.
+Soren: If Skrimir's force collapses, we'll get penned in by Begnion. We must change our strategy. Ike, let's help with the rescue. You can't take everyone, though. Assemble a strike force to accompany you.
+Ike: Got it. Titania, let Tibarn know what's going on.
+
+
+
+Ike: Where's Skrimir?
+Ranulf: He charged up that cliff, chasing after Zelgius.
+Ike: We have to get up there. The two of us might be able to save him from Zelgius.
+Ranulf: Kyza, can you carve us a path to the top?
+Kyza: Certainly, Captain. I'd be happy to. We'll neutralize anyone in your way. You can count on me, sir.
+Ike: All right. Let's clear this pass. Time is a factor here, everyone, so let's make this quick!
+
+@Boss
+Callum: None shall pass. General Zelgius forbids it!
+
+%Ranulf,Callum
+Callum: So, sub-human. Are you worried about your general?
+Ranulf: You bet I'm worried! Without us looking after him, who knows what kind of trouble that hothead might get himself into! You can see we're in a big hurry. Get out of my way, or I'll move you. Painfully.
+Callum: Never! If you wish to reach the top, you must "move" me. Do your best, sub-human.
+
+%Ike,Callum
+Callum: You will not gain the peak, nor shall I yield my position. You will wait for the duel to finish.
+Ike: Duel?
+Callum: Correct. The general does not wish to be disturbed during his duel. I'm certain that it will be over very soon. You may then pass and fetch the carcass of your general.
+
+@Boss
+Callum: You are too late... The general... He is strong...
+
+@Battle
+Ranulf: I have a bad feeling about this... Ike! Com on, there's no more time!
+
+Ike: Ranulf, this way! Hurry!
+
+@End
+Ranulf:  No!
+
+Ranulf: Skrimir!
+Ike: Stop, Ranulf! Don't get too close!
+
+Zelgius: Heed my words, Laguz Alliance! I am Zelgius, general of the Begnion Central Army! Your general has fallen to my blade in single combat! My army does not wish to continue this senseless bloodshed. Leave this place immediately! Soldiers of Begnion! I forbid you to attack the fleeing laguz soldiers! This fight is finished!
+Begnion: General Zelgius is amazing! He kept the damage on both sides to a minimum!
+Begnion: Yeah, that's great, but... I wanted to fight! How am I going to get my kid a stuffed laguz now?
+Gallia: No... General Skrimir was defeated?! By a beorc?!
+Gallia: If General Skrimir is defeated, we must fight on in his name! We must get revenge! Don't be fooled by that human! Fight on, brothers!
+Ranulf: Stop! We will fall back! Brothers, listen to me! I swear upon my life that I'll take Skrimir back with us! Fall back!
+Zelgius: A wise choice.
+
+Zelgius: Levail. Go back to base camp. I have business to take care of.
+
+
+Ranulf: What are you plotting? You could have crushed us.
+Zelgius: True. That's exactly what the heads of the senate want. But the apostle feels differently. The apostle wishes to resolve this conflict peacefully. Begnion is not united on this idea, however. So, how about this? Arrange a peace proposal from your people. The apostle would accept it.
+Ike: But...to begin a peace talk under the current circumstances...
+Zelgius: The most favorable opportunity for a peace talk would have been when you crossed the river. You missed that chance, and now look at where you are.
+Ranulf: ...
+Zelgius: Think it over. I'll give you three days. Request a peace talk within that time. If that isn't possible, negotiations are over. I sincerely hope that won't be the case.  As for the heir of King Caineghis, he will be fine. Treat his wounds quickly.
+Ike: You mean you didn't finish him off? Why not?
+Zelgius: It does not matter who the enemy is. If there is a way to avoid taking a life, that is the path I will choose. Leave now. I swear upon my name that my men will not attack as you retreat. 
+
+
+Tibarn: ...Three days, huh? What will the beast tribe do, Ranulf? What will become of Gallia?
+Ranulf: I'm sorry, Tibarn. Now that Skrimir has been incapacitated... Gallia can't go on any further.
+Tibarn: Right... That's too bad. I guess the Laguz Alliance has to take a break, then.
+Ike: What about you? Will Phoenicis agree to a peace talk?
+Tibarn: I haven't decided. Our force lacks numbers and supplies. We can't possibly take them on, but... I imagine that a "peace talk" would be far from pleasant.
+Ranulf: General Zelgius seems like a trustworthy beorc. I also know from the Mad King's War that even the apostle is not a bad person at heart. But in reality, the senate controls Begnion right now. They were the ones who killed our messenger.
+Ike: I know that General Zelgius can't disobey orders from the senate. But what about the apostle? She's Begnion's supreme leader, right? Can't we just contact her directly?
+Reyson: Trust me, we tried. All our efforts were in vain. It's not just the laguz, either. Tanith said that the apostle won't even meet with the Holy Guards these days.
+Ranulf: Wait, she won't meet with Tanith? But Tanith has been at her side forever! There's something very wrong with all this...
+Ike: What is happening in Begnion?
+Tibarn: Well, we'll stick around and see what happens. The Laguz Alliance will disband temporarily. The problem is Gallia's retreat. You've got a lot of ground to cover before Begnion attacks in three days.
+Ranulf: Agreed...
+
+@Narration
+General Zelgius's plan succeeds in breaking the morale and momentum of the laguz forces. Skrimir accepts a challenge to single combat with Zelgius and barely escapes with his life. His defeat sends a wave of doubt and fear through the Laguz Alliance.
+Ranulf, knowing that the situation has turned against them, orders a full retreat, and the beast tribes use the three days offered by Zelgius to recross the Ribahn and begin the long march back to Gallia.
+
+@Conversation 
+Aimee: Oh, you have no idea how happy you've made me! Do you have any idea how long I've been waiting for this?
+Shinon: Hey, I'm a busy guy. But I'm glad to hear it, I guess.
+Aimee: Don't be so cold! You could do this for me anytime, if you want. You know I'll pay good money.
+Shinon: No thanks. It's more trouble than it's worth.
+Aimee: I'll make it worth your time. How about it, baby? You could leave your mercenary lifestyle behind, and...
+Ike: Uh... What the heck are you talking about?
+Aimee: Ike! My hero! Are you here to see me?
+Shinon: Hmph. I'm outta here.
+Aimee: Hey, wait! What about what I owe you?
+Shinon: Give it to him! And don't tell him anything that he doesn't need to know!
+Aimee: ...And now he's gone. What a selfish man.
+Ike: Care to tell me what's going on?
+Aimee: Ike, no! Are you feeling jealous? Don't you worry, darling. There's only room for you in my heart. Really!
+Ike: You're scaring me, Aimee.
+Aimee: Oh, come on. It's just a joke! Business only, I promise. First, this is for you.
+Ike: A blue gem?
+Aimee: You heard what the man said. I'm supposed to pay you instead.
+Ike: You're paying us? I'm very confused. I'd assumed that Shinon owed you money, or something.
+Aimee: No, no. Nothing like that. This is what I owe him for-- Oops, he told me not to say.
+Ike: Aimee? I'm getting scared again.
+Aimee: All right, fine. It's a payment for a bow.
+Ike: A bow?
+Aimee: I paid a lot for a bow he made me. I'm going to offer it as a one-of-a-kind item at the shop.
+Ike: Right... Is that why Rolf is making bows now? He mentioned something about bows being good income in emergencies.
+Aimee: Probably. Rolf is learning from a good teacher, but he's still no match for the master himself.
+Ike: Rolf is Shinon's student?
+Aimee: Oh, dang. You think that was a secret, too?
+Ike: How should I know? Shinon wouldn't tell me that he smelled smoke if I was on fire.
+Aimee: Well... I don't think Shinon likes people. Especially you, for some reason. I wonder why he came back to you after he left the Greil Mercenaries during the war?
+Ike: Shinon likes our little group. I know that much. This is probably his way of trying to help us be less broke.
+Aimee: You think so? Why wouldn't he just come out and say so? He's so strange like that.
+Ike: I'll keep this conversation a secret. I don't want to risk losing Shinon by putting him on the defensive about all this.
+Aimee: Right. It's a secret between you and me, Ike!

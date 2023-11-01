@@ -1,0 +1,185 @@
+@Intro
+Mist: This is great! I can't remember the last time we got to sleep indoors! We can be thankful for the rain, I guess.
+Ike: Yeah, the decorations are a little...overdone, but the beds will be warm and dry. I'm glad I remembered this mansion was here.
+Soren: Presumably we're the first people to set foot in here since Oliver was posthumously found guilty of trading in heron slaves. I understand the senate confiscated his lands and property immediately after the Mad King's War ended.
+Titania: Well, someone must be living here; the place is spotless. By law, there shouldn't be anyone here. I wonder if someone is squatting.
+
+Rafiel: ...
+Nailah: Is something wrong, Rafiel?
+Rafiel: I feel that we are being watched. I sense no malice...but there is definitely some sort of presence. Perhaps the master of the house?
+Nailah: Hmm. I'll be we find out soon.
+
+Nailah: The Disciples of Order are here! They just appeared in the outer building.
+Ike: All right, let's get everyone mobilized.
+Rafiel: General! Come quickly! Our friends are in trouble!
+Ike: Friends?
+
+Ike: Hey! Isn't that--
+Mist: It's Tormod! We haven't seen him since the Mad King's War!
+Order: Extinguish them!
+Tormod: Funny you should phrase it that way, you soon-to-be cinder!
+
+Tormod: What the—That should have worked better. Who are these guys?
+Ike: Tormod, your backup's here! Just hold your position!
+Tormod: Much appreciated! Don't worry. We're not going anywhere! Wait a second...Ike? What happened to you, musclehead?
+Muarim: It's definitely Sir Ike. But beorc growth always amazes me. It's like looking at a different person.
+Tormod: Between him and Sothe, I'm starting to feel a little inadequate! Well, that settles it! I've still got a lot of growing to do, so I've got to survive! I can't die like this!
+Ike: All right, let's help these guys out. Get ready for battle!
+
+@Battle
+Hetzel: Oliver, Duke of Tanas, have a care. The last time you faced these enemies, you were defeated, humiliated, and your heron slave trade was exposed. By the good graces of your fellow senators, you were saved from death and hidden away here. Behind the backs of the apostle and the prime minister, we have kept you safe. Do not fail us.
+Oliver: I understand, Senator Hetzel. Rest assured, the savages who dare set foot in my home a second time will be eradicated for the glory of the goddess! Ugly creatures deserve nothing but an ugly death. You will not regret the lovely mercy you've shown me!
+
+@Battle-Talk 
+%Ike,Tormod
+Ike: Tormod, it's been a while.
+Tormod: Holy moly! You are absolutely huge! I feel puny next to you...
+Ike: That's because you are puny. Magic clearly doesn't give you much muscle tone.
+Tormod: Oh...I suppose that's true. Still, it works pretty well for winning battles. 
+Ike: Actually, Tormod...
+Tormod: What?
+Ike: Did you actually get smaller?
+Tormod: Nah, you just can't see me properly because all of your blood gets pumped to your muscles, away from your brain!  Ike: A little touchy, Tormod? ...Whatever. We have work to do.
+
+%Ike,Muarim
+Ike: Muarim, we've got your back here. Are you ready for these guys?
+Muarim: Absolutely, Sir Ike. I'm glad to have the chance to fight with you again.
+Ike: The pleasure's mine, Muarim. You're a good man.
+Muarim: Thank you.
+
+@Recruit-Battle
+Oliver: I have seen death's vistas and returned an even wiser, more exquisite man! Take it in! Bask in the beauty!
+
+@Recruit-Talk 
+%Rafiel,Oliver
+Oliver: Ohhh...you are truly a banquet for the eyes as well as the...spirit. I am quite overcome!
+Rafiel: Unhand me!
+Oliver: But how is it that anyone could risk a precious treasure like you in battle? What if something marred you?
+Rafiel: What are you talking about?
+Oliver: Don't worry, pretty bird; I'll save you. You need someone who can give you loving protection. Someone...like me.
+Rafiel: ???
+Oliver: I'll take you away from these savages! I would never let them lay a single finger on you, my precious! No, no... The jealous cretins mustn't ruffle a single feather... I'll have to kill them. Come now, come to daddy!
+
+%Ike,Oliver
+Ike: Hold on a second... Aren't these your men? Why are you fighting them?
+Oliver: It's quite simple, really. A true guardian of beauty stands with those who are beautiful. If your exquisite heron prince will not stay here in my home, I must follow him. I have seen death; it holds no mystery for me. Only my pursuit matters. Rest at ease, friends.
+Ike: Look... Would you mind rejoining the enemy?
+
+@Recruit-Battle
+Oliver: Aagh... Still so many beautiful things...that...I...don't own.
+
+%Vika,Oliver
+Oliver: Ho ho, what have we here? A fine little raven indeed! Please... Let me see the length of those wings. I'll need to know, if I'm to take proper...care of them.
+Vika: You Begnion nobles... Can't you ever just say what you're thinking?
+
+%Muarim,Oliver
+Oliver: Sub...sub...sub-human! Tiger! Tiger! Eyes burning bright! In my foyer late at night! Oh, my poetic soul! I'm much too delicate for this!
+Muarim: Oh boy...
+
+%Tormod,Oliver
+Tormod: Hey, chunky! Apparently we didn't kill you enough last time! Time to try again!
+Oliver: Yawp! Dear me! What a frightening young child.
+Tormod: I am NOT a child!
+
+%Volug,Oliver
+Volug: Grrrrr!
+Oliver: Ack! A sub-human! What a horrible monster, smacking his lips before dining on my delicate body! Someone, please help me! A man like me doesn't deserve this!
+
+%Nailah,Oliver
+Oliver: S-sub-human! A hideous sub-human is attacking me! Help! Someone help me! I'm much too lovely for this!
+Nailah: What a strangely shaped creature... Is this some rare subspecies of beorc?
+
+%Ike,Oliver
+Ike: You! You're still alive?!
+Oliver: The world simply could not bear to be without me. Your crude weapons have no force against true magnificence! Blessed with such beauty, I have no foes...only inferiors!
+Ike: Glad to see you're still barely clinging to that last shred of sanity. Just give it up, already.
+
+@End
+Ike: Well, another storm weathered. It's late. Everyone try to get some sleep and be ready for tomorrow.
+
+Hetzel: Wiped out... Not a man left standing. It must be the will of the goddess.
+Rafiel: You! You are...
+Hetzel: Rafiel? How-- You're still alive! I'm so glad you're safe...
+
+Rafiel: I have nothing to say to you.
+Hetzel: So, you know, then. What we did was unforgivable... I was against it from the beginning... I argued with the others time and again! ...Ah, what's the use... It doesn't matter what I say now. Rafiel... Despite everything, I'm very happy to see that you're alive. But I beg of you... Stay away from the capital. You must not anger the goddess!
+
+Ike: I've seen that man before. He's a pretty influential senator, isn't he?
+Rafiel: His name is Hetzel, duke of Asmin... I owe my life to him.
+
+Nailah: Ike, I'm sorry, but can we talk later? Rafiel needs to rest.
+Ike: Yes, of course.
+
+Ike: So... Why are you guys here, anyway?
+Tormod: You won't believe me, but it came to me in a dream, Ike.
+Ike: A dream?
+Tormod: Yeah. Shortly after that light turned everyone to stone, I had a really strange dream. I don't remember it very well, but it was like there was a voice in my head, whispering encouragement. When I woke up, I knew what I had to do. I knew that everyone who hadn't been petrified was heading to the Tower of Guidance, and from there we'd all be saved.
+Muarim: I had the same dream. I thought this must be a divine revelation, so we left the desert to make for the tower.
+Ike: Sounds like more of Yune's handiwork.
+Nailah: Agreed. This is her way of gathering able bodies. I suppose a goddess of chaos will do things her own way...
+Tormod: Yune? Isn't that the dark goddess I keep hearing about? Should I even be listening to her?
+Ike: I can't really put it into words, but I can feel it inside. Listening to her is the right thing to do. I guess it's a lot like the dream you described.
+Nailah: We laguz are pretty intuitive. I feel it in my blood that Yune is the goddess of our ancestors.
+Tormod: All right. That makes it a little easier to come to grips with.
+
+Ike: Are you feeling any better?
+Rafiel: Yes, much. Sorry if I worried you. That was quite a shock.
+Ike: No problem... Can we talk about it? I'd like to know about you and that man...
+Rafiel: Yes, Hetzel... It was some time ago now, a little while before the Serenes Massacre...
+
+
+Rafiel: I was alone outside of the forest. There, I was found and captured by beorc slave traders. The slavers sold me at auction, and the winner was Lord Hetzel. I didn't know until later, but the bidding for me among the senators was extremely competitive. Lord Hetzel actually spent much of his fortune on my purchase.
+
+Rafiel: After he took me home, I fell deathly ill, mostly just from desperation. Lord Hetzel was deeply moved by my plight... He brought me to a temple and spent many days nursing me back to health. I have no doubt that he saved my life, but my wings never fully recovered. I haven't been able to fly since. Lord Hetzel felt terrible... Do you know what he told me? He said, "Once you fully recover, you can return to the forest." Members of the heron clan, we can look inside people's hearts. I knew the truth of what Lord Hetzel said... He was being absolutely honest. I knew I could trust him from that moment on.
+
+
+
+Rafiel: Then... The Serenes Massacre. I didn't need to be told. I would have felt the suffering of that many of my brethren from anywhere in the world. Lord Hetzel never said anything, but I knew that the senators had murdered the apostle and blamed my clan. Because of the monstrous ambition of a handful of evil men, my entire race was burned to ash.
+Ike: Rafiel...
+Rafiel: Late that night, I returned to the temple. Something happened to me there... Some sort of force took hold of me... The next thing I knew... I was lying in the sand. If Queen Nailah hadn't come, I would have died right there. I didn't even realize how far I was from my dear home.
+
+Ike: So Duke Hetzel is both your savior and your enemy.
+Rafiel: Hetzel was not directly involved, nor did he give orders to those who were. Something about him still troubles me, though... Whenever I think of him, I feel chaos boiling up from his heart. ...I sense it in myself, as well. I have the same feelings welling up in me. I suppose that's why I can accept it in him.
+Ike: Your people, the remaining heron tribe... They've also changed. King Tibarn has said many times that Reyson and Leanne are far from typical herons.
+Rafiel: Yes, I was surprised when we met again. They're both so strong...and vitality seems to shine forth from within them.
+Ike: It makes you wonder if chaos is really all bad, doesn't it?
+Rafiel: I am starting to think that what the world needs is a balance between order and chaos. What do you think?
+Ike: I don't know. I think there are some things we're not meant to understand.
+
+
+@Narration
+Tibarn's group passes quickly through Salmo, drawing steadily closer to the imperial capital. The hardships of the journey lead the group to overcome their racial differences, and form bonds of friendship and trust.
+However, Almedha, the queen mother of Daein, remains alone and aloof, lost in thoughts of her own. Her son, Pelleas, also seems to guard some secret thought, tucked deep within his heart.
+
+@Conversation 
+Volug: ...
+Ike: Er. Hello. What can I do for you?
+Volug: ...
+Ike: Hey, that’s an elixir.
+Volug: ...
+Ike: Yes, I like them too.
+Volug: ...
+Nailah: (Volug, speak out loud. Ike is confused by your silence.)
+Volug: (But, Your Majesty... He doesn’t understand our language.)
+Nailah: (It’s better than staying silent.) Sorry. I don’t mean to leave you out of the conversation.
+Ike: No, that’s fine. I would have been confused either way. I didn’t know you could speak the ancient language.
+Nailah: It’s Hatari’s common language. I would never have known about the Tellius language if I hadn’t met Rafiel.
+Ike: The Tellius language?
+Nailah: You don’t know? The language we are using right now is called the Tellius language. You call it modern speech, I suppose.
+Ike: Oh, I see.
+Nailah: Long ago, beorc created the Old Tongue. The ancient speech is what we laguz call it. The language was too difficult for the laguz to master. So the language of Tellius was created in its place.
+Ike: Huh. I’ve never heard that before. The only people I’m aware of who know the ancient speech are the heron laguz. I think Nasir of Goldoa said he could read it. Among beorc, only mages know how to use it, and that’s only for spells.
+Nailah: Well, the laguz who live a long time, such as dragons and herons, have all the time in the world to learn it. Beorc probably left the ancient speech behind in favor of a newer and improved language, with the exception of spells.
+Ike: That makes sense, I suppose. Mordecai once told me that speech lets you avoid fighting when it’s not a good idea. He said that’s why it’s a good idea to know many languages.
+Nailah: Did he, now? Volug, did you hear that? You can learn the language of Tellius with Mordecai.
+Volug: ...I will... I...will try.
+Nailah: He understands what you’re saying, for the most part. It’s the speaking that’s the hard part for him.
+Ike: You don’t need to feel obligated. I mean, it isn’t like I can understand ancient speech.
+Volug: (Here, I want you to have this.) Um, here... Take.
+Ike: Oh, I understand. Thanks.
+Volug: (It’s about time!)
+Ike: I think I understood that. You were happy that I understood what you just said.
+Volug: (I guess you could say that.)
+Nailah: Good. As long as you have the desire to learn, words will soon follow.
+Ike: I see. I’ll try to learn a little ancient speech from now on, too. Volug, you be my teacher and I’ll be your teacher.
+Volug: (All right. It’s a deal.)

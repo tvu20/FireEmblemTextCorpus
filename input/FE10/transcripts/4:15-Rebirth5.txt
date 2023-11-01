@@ -1,19 +1,16 @@
-Female Voice 1: Lehran... I will not...countenance this plan.
+@Flashback
+Ashera: Lehran... I will not...countenance this plan.
+Lehran: Hear me, Goddess Ashera... Yune's imprisonment within the medallion has begun to change you. Order and chaos, you are one being, comprising both parts. The one must naturally affect the other.
+Ashera: Even so, I will not return Yune to this body. She is unstable, and I must be perfect in order to protect this world. It is as I have said, Yune must be destroyed.
+Lehran: Ashera, you mustn't! You cannot survive without your opposite. Please, you must not do this. Your world still needs you.
+Ashera: Lehran, you have ever been a wise and kind- hearted child. In deference to you, I will place my faith in your kind one last time. For the next thousand years, I shall sleep as well. When I wake again, I hope it is to a world of peace and order, where all prosper as equals. If I do, then I will know that you have advised me well. I will reward your counsel. I will also allow Yune to return to me. I will once again be the goddess of creation, whole and complete. Ashunera, the Dawn Goddess... The name your ancestors gave me so long ago. I should like to hear it again.
 
-Male Voice 1: Hear me, Goddess Ashera... Yune's imprisonment within the medallion has begun to change you. Order and chaos, you are one being, comprising both parts. The one must naturally affect the other.
-Female Voice 1: Even so, I will not return Yune to this body. She is unstable, and I must be perfect in order to protect this world. It is as I have said, Yune must be destroyed.
-Male Voice 1: Ashera, you mustn't! You cannot survive without your opposite. Please, you must not do this. Your world still needs you.
-Female Voice 1: Lehran, you have ever been a wise and kind-hearted child. In deference to you, I will place my faith in your kind once last time. For the next thousand years, I shall sleep as well. When I wake again, I hope it is to a world of peace and order, where all prosper as equals.
+Ashera: However, during this thousand years, if the chaos of war should arise and awaken Yune from her slumber in the medallion... I will know that you have strayed from your path, and I will punish your failure as I would reward your success. And then you will know my judgment. You will pay for your sins, each of you to the last.
 
-Female Voice 1: If I do, then I will know that you have advised me well. I will reward your counsel. I will also allow Yune to return to me. I will once again be the goddess of creation, whole and complete. Ashunera, the Dawn Goddess... The name your ancestors gave me so long ago. I should like to hear it again.
+Lehran: In the names of our people, we vow to keep this covenant. There will be no great war between laguz and beorc for a thousand years. So pledge Altina of the beorc, Dheginsea of the dragon tribes, Soan of the beast tribes, and I, Lehran, of the bird tribes.
+Ashera: If you believe during this thousand years that you have created a world that has outgrown the atrocities of war... Or if you feel the world has fallen beyond hope of redemption, you may sing the galdr of release and awaken us both. Your heirs will possess that ability as well... Sing to awaken us, and tell us your tale. Tell us of the world your two kinds have built in our absence. We will listen, and we will judge fairly and impartially. This is our covenant with you.
 
-Female Voice 1: However, during this thousand years, if the chaos of war should arise and awaken Yune from her slumber in the medallion... I will know that you have strayed from your path, and I will punish your failure as I would reward your success. And then you will know my judgment. You will pay for your sins, each of you to the last.
-
-Male Voice 1: In the names of our people, we vow to keep this covenant. There will be no great war between laguz and beorc for a thousand years. So pledge Altina of the beorc, Dheginsea of the dragon tribes, Soan of the beast tribes, and I, Lehran, of the bird tribes.
-Female Voice 1: If you believe during this thousand years that you have created a world that has outgrown the atrocities of war... Or if you feel the world has fallen beyond hope of redemption, you may sing the galdr of release and awaken us both. Your heirs will possess that ability as well... Sing to awaken us, and tell us your tale. Tell us of the world your two kinds have built in our absence. We will listen, and will judge fairly and impartially. This is our covenant with you.
-
-
-
+@Intro
 Ike: It's her...
 Yune: Ashera.
 
@@ -59,8 +56,8 @@ Ike: So that's how it's going to be, huh? Then we will fight...  and we will sav
 
 Ashera: My end  is near?
 Ike: In every battle that mattered in my life, I've always been the one left standing, no matter how slim my chances. This battle means more than any of the others, because it's for the life of every person that I've ever cared about. I will win this fight.
----------------------------------------------------------{base conversations}--
-; Soren] 
+
+@Conversation
 Soren: Ike... Um... Were you joking when you said you couldn't remember how we met?
 Ike: Well, sorta. It was a long time ago.
 Soren: How could you forget?
@@ -89,12 +86,10 @@ Soren: D-don't treat me like I'm a child! I'm not that--
 Ike: Come on.
 Soren: Shut up! Shut up...
 Ike: Then I'll come over to you.
-
 Ike: It's all in the past, Soren...
 Soren: ...Sniff... Sniff... Gwuh... Wahhhhhhhh! Ahhhhhhh!
 
----------------------------------------------------------------{start battle}--
-
+@Battle
 Lehran: Forgive me, goddess. I must end my service to you now. My dear goddess, Ashera. Please forgive me!
 Ashera: Lehran...
 Lehran: Everything I've done was a mistake. This is all a result of my weakness. The changes were unbearable to watch, too frightening to understand. It grew painful to accept change, and with that my heart filled with cowardice. I was overwhelmed by the pain, and could think of nothing but soothing it. As long as I suffered, I was blind to anything else, even to the beautiful things of the world. I can see it now... The people deserve compassion. They deserve to have their lives back!
@@ -112,7 +107,9 @@ Ashera: You would face me in battle? I need no further evidence of your kind's i
 Micaiah: The aura is gone.
 Ike: Excellent. Now we can finish this.
 Ashera: ...
-----------------------------------------------------{talk; Kurthnaga, Lehran}--
+
+@Battle-Talk 
+%Kurthnaga,Lehran
 Kurthnaga: You're Lehran...
 Lehran: Prince Kurthnaga... How you've grown.
 Kurthnaga: You know who I am?
@@ -122,7 +119,8 @@ Lehran: That's because I was kept in hiding. But I did meet you several times, w
 Kurthnaga: I remember a...a mysterious man with black wings. Was that you? I always thought it was a dream...
 Lehran: ...
 Kurthnaga: I was always so fascinated by that man and his songs... I remember him well, and fondly.
--------------------------------------------------------{talk; Sanaki, Lehran}--
+
+%Sanaki,Lehran
 Sanaki: You finally made it, Sephiran.
 Lehran: Sanaki, I...
 Sanaki: I was starting to wonder how I would punish you.
@@ -130,7 +128,8 @@ Lehran: I'm sorry?
 Sanaki: You are my subordinate, after all. I have decided that leaving one's empress to die is punishable by drowning in a pool of rancid butter.
 Lehran: Of course it is, my empress.
 Sanaki: I hope you're a strong swimmer.
-------------------------------------------------------{talk; Micaiah, Lehran}--
+
+%Micaiah,Lehran
 Micaiah: Um...
 Lehran: Yes?
 Micaiah: You're Lehran, aren't you?
@@ -146,7 +145,8 @@ Lehran: Micaiah?
 Micaiah: Y-yes?
 Lehran: Looks like you could use some backup. I'm good with a staff, too, you know.
 Micaiah: Th-thank you.
-----------------------------------------------------------{talk; Ike, Lehran}--
+
+%Ike,Lehran
 Ike: Sephiran... I mean, Lehran...
 Lehran: I can't apologize enough. I was so terribly mistaken, and now there's nothing I can do to help.
 Ike: Don't worry.
@@ -155,9 +155,30 @@ Lehran: Ike, I... There's no one that I think more highly of...
 Ike: No time for compliments. We still have work to do here.
 Lehran: Yes... Yes, we do.
 
-Lehran: Head up! Eyes forward! I will not back down! Altina... Give me strength!
-----------------------------------------------------------------{boss battle}--
+@Boss
+Ashera: You would face me in battle? I need no further evidence of your kind's imperfections. This will hardly be a battle at all. Simply an end. Perish, flawed one.
 
+%Ike,Ashera
+Ashera: It is tragic that you are too limited to see how hopeless this is. You cannot hope to defeat the divine.
+Ike: You're right. We can't hope to defeat you.
+Ashera: Then why continue?
+Ike: You haven't left us much choice. I'd rather die like this instead of being turned into some mindless statue.
+Ashera: Simpleminded fool...
+
+%Micaiah,Ashera
+Ashera: Don't waste your energy, fleshling. You are physically unable to harm me.
+Micaiah: Yune... I'm fine. I can hear you. No, I'm not afraid. I know you're with me.
+
+%Kurthnaga,Ashera
+Ashera: Ah, son of the dragon king... You may be the greatest among the enfleshed, but you are no match for me.
+Kurth: Goddess Ashera, please listen to me. We know that we are clearly imperfect, but you, unnaturally created of pure order... Might that not be considered an imperfection?
+Ashera: No, I am perfect. Free of emotion, I have no doubts. Therefore I commit no errors.
+
+%Lehran,Ashera
+Ashera: Lehran, you have joined my enemies?
+Lehran: My goddess... Never before have I defied you in even the least thing. But I have seen the error of my ways and wish to save the people whom I once desired to destroy. I am one man, and my life is precious. How much more precious are the lives of the countless multitudes?
+
+@Battle
 Ashera: ...
 Ike: It's over. It's all over...
 Micaiah: We did it. Our fighting is finally done. Now the people...
@@ -175,3 +196,20 @@ Ashera: You can try as many times as you like. The result will always be the sam
 Micaiah: I can't believe that! General Ike, you can do it! Forge a new destiny for us! Ike, please... You've got to!
 Ike: I don't need encouragement. I'd fight to the end no matter what. Ashera, you can't stop me. It doesn't matter if you're a goddess. It doesn't matter if I have no way to win. Fighting defines me, and I will not lose.
 Ashera: When will you tiresome gnats surrender?
+
+@Cutscene 
+Yune: We have to put an end to this. Take all the power I have.
+Ike: Thank you. I'll use it well.
+
+Ike: What of you? Are you leaving?
+Yune: I am. But I believe it's for the best. This world does not need gods. We have always failed you. We've made you weak. That's why we must...go.
+Ike: You don't have to leave.
+Yune: Hm?
+Ike: It's true, we don't have much use for gods. But, well... You show us what we should aspire to. We need inspiration. You give us a reason to grow. To become more than we are.
+
+Ike: And if we don't have that, Yune, we're nothing more than statues.
+Yune: Can you forgive me for the pain I've caused?
+Ike: I don't know. But you have already forgiven us. How could we not?
+
+Ike: We are all family. We will try to understand one another, even when we disagree.
+Yune: You're right. I will try. One more time.

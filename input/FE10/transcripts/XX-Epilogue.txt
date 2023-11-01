@@ -1,0 +1,119 @@
+@Dialogue 
+Sothe: Well, I guess this is over. We'd better be on our way.
+Ike: Are you going back to Daein?
+Micaiah: Yes. Everyone's waiting for us.
+Sothe: We have to start rebuilding all over again. Hopefully, this will be the last time.
+Ike: Don't say "hopefully." Make it the last time. If anyone can do it, you two can.
+Sothe: I don't doubt it. But thanks for the vote of confidence.
+Micaiah: Thank you, Ike. I won't ever forget you.
+
+^locked
+Pelleas: I'm sorry.
+Almedha: But that's... I don't believe you! Because, see, my dear, you have the mark! Wait. Don't you have a mark?
+Pelleas: No, Mother. Lady Almehda, is that the reason you thought me to be your son?
+Almedha: I...
+Pelleas: And that is the reason why Izuka chose me out of all the children at that orphanage.
+Almedha: Stop! This is impossible! You are my son. I am your mother, and I say so!
+Pelleas: Lady Almedha, your only memories of your son were of him as a baby. You yourself said so. In other words, he already had a mark, even as a child.
+Almedha: Yes, that's so. What of it?
+Pelleas: This mark--my mark, here--is called the "Spirits' Protection." When I was thirteen, I chose to make a pact with the spirits.
+Almedha: What?!
+Pelleas: When I learned that you were one of the dragon clan, I began to doubt. And slowly my doubt turned to certainty. I'm sorry, Lady Almedha. I'm sorry that, though it was never my intent, I ended up deceiving you. I'm sorry, but I am not your son.
+Almedha: P-Pelleas...
+Pelleas: But still... I was happy. It was fleeting, but... I knew the feeling of a mother's love. You have my thanks.
+Almedha: I... Ah...sniff...
+^end
+
+Caineghis: Ah, Ike. Your work out there was superb.
+Ike: Hey, you aren't quite over the hill yet yourself. You know, I always wanted to go one-on-one with you, just once.
+Caineghis: Hah. I would have expected you'd had your fill of fighting.
+Ike: I've had enough of kill-or-be-killed to last me a lifetime. But something simpler, some way of testing our respective strengths...
+Caineghis: You mean controlled matches, with all the little rules they have. In a peaceful world, we need such things. Especially we laguz. Without a fight now and then, we go a bit strange in the head.
+Ike: That's the honest truth. I'd rather try to order a river to change course than stop a bunch of rampaging laguz!
+
+Sanaki: Wait... Sister!
+Sanaki: You're my older sister, aren't you?
+Micaiah: What do you mean?
+Sanaki: It makes sense. All the pieces fit. The galdr of release... The goddess Yune's voice...
+Micaiah: It's true. Inside the tower, I heard the voices of many hearts, and I knew. I am descended from Lehran and Altina. Misaha, the former apostle, was my grandmother.
+Sanaki: Yes, I thought so. In that case, my sister, please consider staying in Begnion. With your power and charisma, you could do so much good here.
+Micaiah: No, I'm afraid I can't.
+Sanaki: Wh-why not?
+Micaiah: Daein is my home, and Daein needs me to help it heal and rebuild. Not Begnion.
+Sanaki: But Begnion--
+Micaiah: Begnion has you, Empress. You will be a just ruler. Make your country proud to have you.
+Sanaki: Will I...never see you again?
+Micaiah: Hardly. I think that what our countries need now is a sense of family and friendship. I ask that you sign a treaty of alliance with Daein and announce that we are equals.
+Sanaki: I will! Of course! Once things settle down in both of our countries, that will be the first thing I do...Sister!
+Micaiah: Thank you, Empress Sanaki. ...My dear little sister.
+
+Ike: Will you be heading back to Gallia first?
+Tibarn: We'll stop by Gallia, then wing straight on to Serenes.
+Ike: Serenes? Why there?
+Reyson: The Empress Sanaki has kept her promise. Serenes will be formally ceded back to us. She said we may return immediately.
+Ike: Ah, I see. That's good to hear.
+Tibarn: Sometimes birds change their feathers. The hawks, the herons, even the ravens. We're thinking we'll all settle down together.
+Reyson: All this time, we've sorted ourselves by our ways of thinking and seeing and living. If we can respect each other's opinions and learn to compromise, we can learn to live together without strife.
+Ike: I don't think it will be that easy, but it still ought to be simpler than getting beorc and laguz to treat each other decently. You set a good example, Reyson.
+Tibarn: All the major issues look like they'll be handled soon. The only thing we can't agree on is hunting and eating meat.
+Reyson: The forest creatures are off-limits! Needless displays of violence as well. You know we will not budge on that.
+Tibarn: Tell me... Have you ever heard of a vegetarian hawk? Or a raptor that doesn't scream victoriously at the skies after a kill?
+Ike: Meat, huh? That's a thorny problem...
+
+Ike: Well, Your Majesty. Shall we be off?
+Elincia: Yes, let us. To Crimea. To our homeland.
+
+^locked 
+Almedha: You are Ike, of the Greil Mercenaries?
+Ike: And you're the dowager queen of Daein. I heard some of what you've gone through. I'm glad that you're safe.
+Almedha: Ah, indeed.
+Ike: In light of that... Can I do anything for you?
+Almedha: I think not. I think I have seen enough.
+Ike: As you wish. Well then, Lady Almedha, Prince Kurthnaga. Take care of yourselves.
+Kurthnaga: Yes. And you as well. I know we shall meet again!
+Kurthnaga: Are you satisfied, my sister? You wished so strongly to meet with General Ike.
+Almedha: I only did so because Pelleas said... He said that it would be wise if I were to meet with him.
+Kurthnaga: Did he say why?
+Almedha: "That child," he said. It was the last gift he could give me. He wouldn't say anything more.
+Kurthnaga: A gift? By meeting General Ike?
+Almedha: What about that beorc could possibly be... Wait... Ah! Wait! Wait, stop a moment!
+Kurthnaga: Sister!?
+Soren: Yes? You needed something?
+Almedha: You are... What is your name?
+Soren: Soren.
+Almedha: I-I see. That...that is a fine name.
+Soren: Thank you...?
+Almedha: You're welcome.
+Soren: Is that all?
+Almedha: Ah, yes, yes. Pardon me. Calling out to you like that... I was confused.
+Soren: Don't let it trouble you. If you'll excuse me.
+Almedha: I don't believe it.
+Kurthnaga: That boy is the staff officer for the Greil Mercenaries. What made you call out to him like that?
+Almedha: I...
+Kurthnaga: Sister?
+Almedha: Because I have lost the power of my birthright, I thought... Maybe I wouldn't be able to... That I might not be able to recognize my own child. But when her own true son stands before her, no mother could fail to know. Oh, my son, you've lived and grown strong.
+Kurthnaga: You can't mean... Soren is your son?
+^end
+
+^locked 
+Lehran: Welcome home.
+???: Could it be that you were here all this time?
+Lehran: Alas, no, I am sorry to say. But for several days, I've somehow felt as though you would soon return.
+Ashunera: Well, I'm home. And I'm glad to see you again, Lehran.
+Lehran: And I am glad to see you as well, Goddess Ashunera.
+Ashunera: How long has it been? A hundred years? Five hundred?
+Lehran: About twelve hundred years.
+Ashunera: I see. For mortals, that is many, many lives.
+Lehran: Yes. The peace we once had is on the verge of crumbling again.
+Ashunera: That is unfortunate. The miasma of war is beginning to shroud the world. However, I shall not again be frightened. As one born of the hopes of man I shall protect this world.
+Lehran: Yes.
+Ashunera: Lehran. I've missed your songs. Would you sing for me now?
+Lehran: I...I no longer...
+Ashunera: Well, then I will sing. And you may sing with me. Is that all right?
+Lehran: ...Yes.
+^end
+
+@Narration 
+In days long past, a young man strode the lands of Tellius.
+
+He was simple yet true, his deeds brave and noble. He reunited two races long at war, and healed the heart of a goddess long gone mad. Ask any you meet be they young or old, beorc or laguz, of a hero named Ike and you'll receive a warm smile and a tale or two of faith, courage, and honesty.
