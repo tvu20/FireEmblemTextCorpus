@@ -8,8 +8,8 @@ __location__ = os.path.realpath(
 with open(os.path.join(__location__, "linebreaks.txt"), 'r') as f, open(os.path.join(__location__, "quotes.txt"), 'w') as fo:
     for line in f:
         fo.write(line)
-        # fo.write("\n")
-        nextline = next(f, None)
+        fo.write("\n")
+        # nextline = next(f, None)
         # nextline = next(f, None)
         # print("next line", nextline)
    

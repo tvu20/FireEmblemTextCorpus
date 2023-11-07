@@ -1,0 +1,157 @@
+@Intro 
+Robin: ......
+Chrom: Are you ready, Robin?
+Robin: Chrom, first I have a favor to ask...
+Chrom: As long as it's not a request to leave you behind.
+Robin: It's not...though I did consider it. I can't hurt you if I'm not there in the first place. But...I can't run from Validar forever. And if I'm going to overcome him, my best chance is with you by my side.
+Chrom: That's more like it.
+Robin: But therein lies the favor... If Validar somehow does gain control over me... Promise me... Promise me you'll cut me down.
+Chrom: You can't mean that. You can't ASK that!
+Robin: I'll resist him with all that I am. I promise you. But there are other people involved here— too many people to ignore... You have a duty to protect them as well.
+Chrom: ...You're right. The words burn my tongue, but you're right. But you mustn't let Validar seize control! Whatever it takes. Whatever the cost!
+Robin: I'll try. You know I will.
+
+Chrom: Validar!
+Validar: Chrom... Come to witness the glorious culmination of your failure? How nice. I have the Fire Emblem, and the Dragon's Table is set for a feast. I will return Grima to this world!
+Chrom: You'll DESTROY the world! Lucina has seen it!
+Validar: Then I pray today's spectacle lives up to her nightmares! The Awakening rite is not only for exalts and Naga, you know. With it, I'll arouse Grima! The fell dragon needs only a mortal vessel, which you so kindly brought along...
+Robin: ...Oh, gods. He means me.
+Validar: You ken quickly, Robin. That's my boy/girl.
+Robin: No! Never! I'll die first!
+Validar: You carry my blood—the blood of the fell dragon. His soul slumbers within you. And now the time has come to awaken you both!
+Robin: ...Wh-what?! I'M Grima? I'M the fell dragon?!
+Validar: The Grimleal have worked for generations to create someone like you... A vessel worthy of our master. Simply having Grima's blood in your veins is not enough... My father was not worthy, nor was his father before him. Even I was not able to accept Grima's most sacred gift. But you? You had all the makings. You were perfection!
+Robin: N-no...
+Validar: If your damnable mother hadn't been seized by weakness and fear... She betrayed us—stole you from your crib, and fled with you in the night! I know naught of your life thereafter; but all that matters is your return. That you are here is PROOF of your purpose! it is why you still draw breath!
+Chrom: You've proven nothing but your own madness. Robin... We are going to stop this. This can be stopped. YOU can be stopped!
+Validar: You may have killed me in some future past, but I am stronger this time! With the power of the Dragon's Table flowing through me, I am unstoppable.
+Chrom: You're not the only one stronger this time! Right, Robin? ...Robin?
+Robin: Nngh...
+Chrom: Stay with me, Robin! You're not beholden to this fiend! You can fight it! We've all seen how strong you are! We've seen what you're capable of! Don't let him shake your resolve!
+Robin: C-Chrom, I... I don't know.
+Validar: Enough! This sorry display ill befits the heir to our master's power. And you, Prince—your sad poem sounds lovely, but it will not alter destiny.
+Robin: They're more than just words!
+Validar: Be still now, my son/daughter...
+Robin: My life did not begin with you. It began the day Chrom found me in that field. I have been all over this world, and I have helped change it—for the better. I have fought and laughed and bled with my friends, and THAT is what matters! The ties we forged, the bonds we share—they are of a power greater than Grima.
+Validar: A ludicrous idea, as you will know better than anyone soon enough...
+Robin: We do agree on one thing: my life so far has all been in preparation for this moment... When I kill you or die trying!
+Validar: Heh heh heh. You have your father's courage, but your mother's judgment... Very well, pup. Come! Do your worst! Come at me with all you have! There is no damage I can do your body that the fell dragon cannot repair!
+
+@Battle 
+Chrom: This is it! Our final battle! You're one of us, Robin, and no "destiny" can change that. Now let's kill this dastard and be done with it!
+
+Validar: So long as the dark barrier stands, no other soul can reach us. You must face your grim fate alone!
+
+Validar: Come, my Grimleal! Smite these infidels!
+
+@Boss 
+Validar: Destiny is your master, one way or the other!
+
+Validar: Heh heh... Even this...was meant to be...
+
+%Chrom,Validar
+Validar: Heh ha, are you so eager to meet your end, little Prince? You WILL die here. Your future is already written.
+Chrom: I tell you again: I make my own future. And it's one you'll not live to see!
+
+%Robin,Validar
+Validar: Robin, why insist on these games? You only delay the inevitable. And besides, the alternative? Have you considered what happens should I fall? These followers of Naga will spurn you now that they've learned what you are. Kill me, and you incur the wrath of the Grimleal as well... Would you truly choose to be so utterly alone?
+Robin: ......
+Validar: Humans are weak, pathetic creatures... Your "bonds" with them will bind you. You are destined for a greater purpose! The GREATEST purpose! You are to be a GOD!
+Robin: ...Not your god—not today.
+
+@Cutscene 
+Validar: This isn't over... Damn you BOTH!
+
+Chrom: Are you all right? That's the end of him. Thanks to you we carried the day. We can rest easy now. At long last...
+
+Chrom: ...What's wrong? Hey, hang on!
+
+Chrom: This is not your—your fault... Promise me you'll escape from this place... Please, go...
+
+@Dialogue
+Lucina: N-no... Father! No!
+Validar: With the five Gemstones in hand, my magic knows no bounds. Robin is powerless to resist me. Do you see now, Son/Daughter? Human bonds are leaves in the wind. They offer you nothing.
+Lucina: This can't be happening. We were supposed to change this! Everything I have done is...worthless.
+???: The hell it was!
+Lucina: Huh? I know that voice...
+
+Basilio: Don't you put any stock in this destiny hogwash! Let the dead whine about their fate... As long as I draw breath, I choose to keep fighting! That's what life is all about!
+Lucina: Khan Basilio! I-I thought... We all thought you were—
+Basilio: Worm food, back in Valm? It almost went that way. But I scraped by, thanks to you.
+Lucina: I don't understand.
+Basilio: Once I took a couple hits from Walhart, I knew he was too strong for me. Normally pride would've had me dead before I'd even thought twice about it. But your warning gave me the courage to be a coward, hah ha! I played dead like a big, bald opossum! It wasn't hard. In truth I almost WAS dead. You saved my life, Lucina. Had you not said anything... I'd have stood my ground against that monster and died on the spot.
+Lucina: Oh, Basilio!
+Validar: This...does...not...MATTER! If you didn't die there, then you can die HERE!
+Basilio: Hah! You're no Walhart, snake eyes! Not as strong, or even as clever... For example: you STILL haven't realized that you've been tricked.
+Validar: What?!
+Basilio: Robin predicted everything that would happen here. He/She saw it in a dream. Saw this very fight with you.
+Validar: If you think—
+Basilio: Guess what else was in the dream? The five Gemstones. When Flavia gave my stone to Chrom, Robin saw what fate had in store. He/She knew Chrom couldn't bring the real Gemstones here to Plegia. That would be like swinging a big, juicy steak right in front of destiny's choppers!
+Validar: Gya ha ha! A worthy bluff, Feroxi fool, but ridiculous all the same. I've had your merry little band watched since Carrion Isle. Your every move! So I know Robin hasn't touched the stones—he/she hasn't been near them!
+Basilio: You watched our party, yes—the members your men knew about; the live ones. But they weren't watching dead men, were they? ...They weren't watching me.
+Validar: I... No, that's not—
+Basilio: Heh, looks like it might be finally starting to sink in...
+Validar: That is not possible! These have to be... They must be...
+Basilio: Why? Because of...DESTINY? PAH ha ha! Robin had your destiny beat days ago, when he/she came up with this plan. The expression on your face...it makes all those long nights in hiding worth it. Hah!
+Validar: Damn you! Damn you to all the hells! None of this matters! Chrom is dead! Your fates sealed! Grima will— ...Eh?
+
+Validar: No...
+Lucina: Father! You're alive!
+Chrom: Robin...spared me... He/She weakened his/her magic...just before the strike...
+Robin: ......
+Validar: GRAAAAAAGH! Damn you all, and your stones! I won't need them to kill you!
+Chrom: Ready to end this, Robin?
+Robin: Let's do it. I'm ready to see what our true future has in store.
+Chrom: We will. Now. Together.
+
+Basilio: Chrom! Robin! We're yours to command!
+Flavia: Let's put this dastard down, for good this time!
+
+@Boss 
+Validar: Rrgh... F-fools... Destiny cannot...be...unraveled...! 
+
+Validar: No...nngh! All...wrong...
+
+%Lucina,Validar
+Lucina: Die, Validar!
+Validar: Impudent meddler! You have failed to change the future at every turn. What makes you think this time will be different?!
+Lucina: Perhaps it won't... But either way, it's no reason to spare your miserable life!
+
+@End 
+Validar: Why... Why would you squander your birthright... Robin...my son/daughter...
+
+Chrom: We did it! We did it, Robin! We've altered our destiny! We... We've won.
+
+Robin: You!
+Future Robin: You may have altered the course of history, but not its destination.
+Robin: What do you mean?!
+Future Robin: It is still written that Chrom died here at your hands. Or, perhaps to be more precise...mine.
+Chrom: Who are you, really?!
+Future Robin: I told you, I'm Robin. The Robin that murdered you and became the fell dragon, Grima. When this "Marth" of yours decided to come back in time...I came with her.
+Robin: Another version of me? But how...?
+Future Robin: *Sigh* I can be so daft sometimes... It's really quite simple. I am you. Our only difference is the decisions we've made... Those vivid dreams you have—those are my memories. We share those memories because we share the same heart... Grima's heart.
+Robin: Th-the headaches... The voices... It was you!
+Future Robin: Your recollection begins the day I entered this world. I intended for us to unite then, the first moment I found you. But your heart was still too weak to contain Grima's power... The shock of my attempt wiped your memory clean.
+Robin: ......
+Future Robin: I knew if Lucina managed to rewrite history, Grima would never be resurrected. And I, in turn, would cease to exist. So I had to step in, now and again, to keep my future secured. Like when Validar was killed in his attempt to assassinate Emmeryn... But that is the past, now. We have our future past to think of. All that remains is for you to become Grima, as I did. Then you and I will become as one, and we can reclaim my power.
+Robin: We are not yet the same?
+Future Robin: ...You were supposed to choose godhood over your pathetic band of servants. But if you'll not claim the sacrifice laid at the Dragon's Table... I will claim it in your place!
+Robin: What?!
+Future Robin: Myeh heh ha ha ha! The fell dragon and I are one! And though my journey through time has diminished my power...the life force here shall renew me!
+
+Chrom: All right. Now what?
+Lucina: Grima. It's all over...
+
+Lucina: That's Grima! That's the demon who destroyed my world. And now he is among us...
+Frederick: The terrible size of it...gods! For once the legends spoke true. We can't face him, not in a straight battle—he'd kill us all!
+Chrom: If only we still had the Fire Emblem, we could ask Naga for her power. Then at least we'd have a chance.
+Lissa: But Validar took the Emblem!
+Chrom: And it was lost inside the Dragon's Table... I know.
+Robin: What, you mean THIS Fire Emblem?
+Chrom: The Emblem! But how...
+Robin: I stole it from you once, remember? The least I could do was steal it back.
+Chrom: Robin, you old dastard/sly cat. You never cease to amaze! Quickly now! We must complete the Awakening before Grima catches on!
+Frederick: It's said the first exalt paid tribute to Naga at a site on Mount Prism.
+Chrom: Do you know where, exactly?
+Frederick: Yes. There is an altar at the peak of the mountain. If milord would perform the Awakening, it must be done there.
+Chrom: A small hope is better than no hope at all. Hurry, everyone!

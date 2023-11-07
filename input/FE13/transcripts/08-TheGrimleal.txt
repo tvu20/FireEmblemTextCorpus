@@ -1,0 +1,78 @@
+@Intro 
+Chrom: I'd like to believe it's our cunning that got us this far without being spotted... But we've seen far too little of the Plegian Guard. Where are they? Whatever trap Gangrel has planned, he is in no hurry to spring it. 
+Frederick: Milord, our scouts report some manner of engagement downfield.
+Chrom: Understood. Get everyone ready to move.
+Frederick: These desert sands are certain to bog down our units, milord. Only mages and fliers will likely be able to proceed unhindered.
+Chrom: Good point. I'll keep it in mind. Robin, let's discuss strategy.
+
+@Battle 
+Nowi: *Huff, huff* Have... Have I lost him?
+
+Gregor: Wait, I say! Why you no comprehending, wee one?
+Nowi: AUGH! GET AWAY! Everyone just leave me ALONE!
+Gregor: Please, be keeping down with the voice! You give away position! Very bad!
+Nowi: My throat is dry, my shoes are full of sand, and some big weirdo is trying to KILL ME!
+Gregor: Oy, you break Gregor's heart! Why you treat like villain?
+
+Chrom: You there! Fiend! Keep your hands off that maiden!
+Gregor: Who is fiend? ...You mean Gregor? No, friend! You have idea wrong!
+Lissa: Yeah, right! ...Creep!
+Gregor: This day has been nothing but insults and punches to groin. And all for doing good deed! ...Listen, friend! Gregor only want to—
+
+Chalard: Gotcha, you slippery scamp! Prepare for a dose of Grima's wrath.
+Gregor: Oy, this is most terrible! Do you see now? They make with the catching of us!
+Chrom: Why are you all after the girl?
+Gregor: All? What is this "all"? Gregor is not one of "all"! Look close! Maybe you not see from so far? Gregor have innocent-baby face!
+Chrom: Hmm…
+Lissa: Well…
+Robin: Yeah... Not sure "innocent baby" is how I'd describe it…
+Gregor: Gah! Never be minding! Gregor is not enemy! You must believe!
+Chrom: ...This is making my head hurt. We'll sort him out later. Right now, we need to protect the girl.
+Nowi: Y-you're going to help me?
+Chrom: We'll do everything in our power to keep you safe. Just hold on until we can reach you, and we'll drive them off!
+
+Chrom: We need to warn these villages of the danger. But who to send? Best if it's someone who can move swiftly through the sands...
+
+Nowi: GET AWAY FROM ME!
+
+Robin: What in blazes?! The girl is a dragon!
+Chrom: By the gods, she's a manakete... I never thought I'd see one.
+Robin: Hmm... Perhaps she doesn't need our help so much as we could use hers...
+
+@Character-Falls
+Nowi: Nngh... That h-hurts! I have to get to...safety...
+
+@Boss
+Chalard: Ha ha! You dare defy Grima, god of annihilation?
+
+Chalard: Master Grima...my life force...is yours...
+
+@Visit 
+Elder: Gods praise ye, good people! Gods praise ye one and all! We lives in constant fear of what the Grimleal will do to us, so we does! 'Ere! Take this staff with me blessings! It can fetch distant comrades to safety. Be sure to place it in the hands o' one gifted in spells or the like. Magic folk be able to reach the farthest with it!
+
+Villager: You have our thanks for the warning. Please, take this. It's my family's treasure. I would offer more, if only I could. A fellow with enough experience could use it to grow even stronger.
+
+Maiden: Really? You'll protect the village? ...This little dung heap? Goodness, you're kind! I suppose I should give you a little something, eh? ...Here. Someone with enough experience could use this to start a new life. It's like running off to join a circus troupe! ...But more classy-like.
+
+@End 
+Nowi: This is just the worst. Day. EVER! *sob!*
+Gregor: Ho now, wee one! Do not make with the crying of tears. The evil people are now dead people. This is good, no?
+Nowi: You... You're right. Th-thank you. And... I'm sorry I was so mean to you earlier. I just get nervous around people who are...outside my age group.
+Gregor: Your age group? Ha! Gregor much closer to your age than others here!
+Chrom: Say, um...Gregor, was it? Gregor, do you mind looking after her? We need to press on.
+Gregor: Mmm... Gregor is mercenary, yes? Maybe you hire Gregor instead. True, Gregor just finish killing former employers, but still very reliable! So long as you not try to hurt little girl, Gregor will not hurt you. Also, Gregor need steady income. ...Many angry former employers.
+Chrom: You're a sellsword?
+Gregor: Yes! Very swell sword! Cost performance very high. You have Gregor's word.
+Chrom: Sure, why not? You're hired.
+Nowi: But! But what about me?! I WON'T go back on the auction block!
+Lissa: Wait. You've been sold? Like a...like a slave?!
+Nowi: To men more despicable than you can possibly imagine. They made me transform for them... They drank and laughed and called out tricks…
+Lissa: What kind of scumbags buy and sell a little girl?! Even if she CAN turn into a dragon…
+Frederick: She may be little, milady, but not nearly so young as you might think. Manaketes live a very long time.
+Lissa: Really? ...How old are you?
+Nowi: Oh, I dunno. ...A thousand...something? But look! No wrinkles!
+Frederick: The dragonkin are said to be more resilient than men. Nowi would make a strong ally. Besides, we cannot risk her falling back into the hands of the Grimleal.
+Robin: Beg pardon, but who are the Grimleal?
+Frederick: Followers of the fell dragon, Grima. The selfsame dragon the first exalt defeated a thousand years ago. Even today there are some who yearn for the fiend's return.
+Robin: I...see.
+Flavia: Well, shall we get some rest? We're almost to the Plegian capital. We'll need all our strength, soon enough…

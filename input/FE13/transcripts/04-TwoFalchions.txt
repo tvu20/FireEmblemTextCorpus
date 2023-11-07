@@ -1,0 +1,115 @@
+@Intro 
+Raimi: Prince Chrom, please wait here while I summon the khan.
+Chrom: Of course.
+Robin: The khan is away?
+Chrom: Out training, I'd wager. The khans of Ferox prefer battle to politics. Or rather, battle IS their politics.
+Robin: A warrior ruler, eh? I can picture him now… A giant of a man of unparalleled thew, his broad chest covered in hair, heheh…
+Flavia: Am I now? ...Please, do go on!
+Robin: Huh? 
+Chrom: You're the—?! Er, that is to say... The khan, I presume?
+Flavia: One of them, yes—the East-Khan. My name is Flavia. I apologize for the troubles at the border, Prince Chrom. You are welcome in Regna Ferox.
+Chrom: Thank you, but I'm confident we can put that misunderstanding behind us. Is it true bandits posing as Ylisseans have been ransacking your border villages?
+Flavia: Yes. Those Plegian dogs! We found documents proving as much on the corpse of one of their captains. Plegia must see some benefit in raising tensions between your kingdom and ours.
+Chrom: Damn them! I... Forgive me, Your Grace. That was...indelicately put.
+Flavia: Ha! Damn them and damn delicacy! Here in Ferox, we appreciate plain speech.
+Chrom: In that case, you should have a word with your damn border guards…
+Flavia: ...Ha ha! Now that's Feroxi diplomacy! Yes, I like you already. I know why you have come, Prince. But regrettably, I cannot provide any Feroxi troops for Ylisse.
+Lissa: What?! Why not?!
+Flavia: I lack the authority.
+Chrom: Forgive me, but I don't understand. Aren't you the khan?
+Flavia: As I said, I am ONE of the khans. In Ferox, the khans of east and west hold a tournament every few years. The victor acquires total sovereignty over both kingdoms. And that means they have the final say when it comes to forging alliances. The West-Khan won the last tournament, you see, and so…
+Chrom: So we are to receive no aid at all?
+Flavia: Not if you always give up so easily! The next tournament is nigh, you see, and I am in need of champions.
+Chrom: What does that have to do with us?
+Flavia: The captain of my border guard informs me your Shepherds are quite capable. Perhaps you would consider representing the East in the upcoming tournament? If you win and I become ruling khan, I will grant your alliance.
+Chrom: I would have assumed Ylisseans had no place in such Feroxi traditions.
+Flavia: Ha! On the contrary. The khans themselves do not fight—they choose champions to represent them. Otherwise our land would be rife with blood feuds and dead khans! We don't involve comrades or kin for the same reason. Over time, it was decided the tournament should be fought by outsiders. Although the outsiders have never included foreign royalty. ...That I know of! Ha! Regardless, it is your choice to make.
+Chrom: There is no choice, East-Khan. My people are desperate. We face not only Plegia's constant attacks, but now the added threat of the Risen. If fighting for you is the quickest way to an alliance, then we will take up our steel.
+Flavia: Ha ha! Oh, I like you, Prince Chrom. I do hope you survive the tournament! Come, I'll show you the arena where the tournament is held. But be wary! I hear an equally able swordsman champions the West-Khan.
+Chrom: He shall be defeated by Ylisse’s necessity.
+Flavia: Well spoken again—I look forward to seeing if you're equally skilled with a blade!
+
+@Battle 
+Lissa: Chrom! Look!
+Chrom: I see him…
+Marth: ......
+Chrom: Marth! One question, before we begin?
+Marth: ......
+Chrom: ...Fine, then. Our swords can speak for us!
+
+@Cutscene 
+Chrom: Where did you get that? There's no way...
+
+Chrom: Tell me—Who taught you to fight like that?
+Marth: My father!
+
+@Recruit-Battle
+Marth: Let us fight with honor. May the best soldier win!
+
+Marth: Impressive...if not surprising...
+
+%Chrom,Marth
+Chrom: Who is your father?
+Marth: I've said enough for one day, sir.
+Chrom: Hmph. Is that how it is? Lissa owes you her life, and for that you have my gratitude. But within these walls, I represent the East-Khan and the interests of Ylisse. I can't promise to stay my blade, but I vow not to shame you.
+Marth: Heh, never expected such youthful arrogance... We shall see who shames who!
+
+@End 
+Flavia: Well fought! You have my respect. And, perhaps more to the point, you have your alliance. I will provide Ylisse with the soldiers she needs.
+Chrom: Truly? Thank you, East-Khan.
+Flavia: I should thank you! It feels like ages since I've held full power. Come, my new friends! Tonight, we celebrate! 
+Basilio: Bah! Any excuse for a party and Flavia jumps on it…
+Chrom: I'm sorry, have we met?
+Basilio: I'm the West-Khan you so rudely removed from power! You're handy with a sword, boy. I thought for sure I'd picked the stronger man.
+Chrom: What do you know about him?
+Basilio: You mean that "Marth"? Bah! He's just some sellsword with delusions of grandeur. All I know is that he turned up one eve and knocked my old champion flat. It was love at first sight, and I'm generally too old for such things! Baha! Anyway, he's gone now. Up and fled the moment the tournament ended.
+Lissa: He's so dark and mysterious... *siiigh*
+Robin: Sounds like Marth's got at least one fan…
+Lissa: Well, I mean, c'mon... He IS sort of dreamy, isn't he?
+Chrom: And YOU'RE sort of dreaming!
+Lissa: Yowch! Lighten up, Big Brother. I was just kidding.
+Frederick: Milord? Milady? If this fascinating discussion is over, we'd best return home. The exalt will want this news of our new alliance immediately.
+Chrom: Right as always Frederick.
+Basilio: Hold, boy. Before you go, I have a little present for you. 
+Lon'qu: ......
+Basilio: This is Lon'qu, my former champion. Not much for talking, mind you, but he's peerless with a sword. As good as Marth, in my mind. To be honest, I can't figure out how Marth bested him so quickly.
+Lissa: Marth beat him? But he looks so big and strong… 
+Lon'qu: Away, woman!
+Lissa: Hey! Wh-what did I say?!
+Basilio: Ba ha ha! Let's just say that ladies tend to put Lon'qu on edge. Nonetheless, he is capable. Perhaps he even has the makings of a khan. Consider him West Ferox's contribution to the Ylissean cause.
+Chrom: You're certain about this?
+Basilio: Yes, yes. He's your man now.
+Chrom: And Lon'qu? You have no objections?
+Lon'qu: He gives orders. I stab people. I think our roles are clear.
+Chrom: ...All right then. Welcome aboard.
+
+@Dialogue 
+Emmeryn: ...Then Regna Ferox will support Ylisse? Thank you, Chrom. I knew sending you was the right choice.
+Chrom: You should see Ferox's warriors! Perhaps now our people will be safe from--
+
+Phila: Your Grace! M-milord! Forgive me, but I bring alarming news! 
+Emmeryn: Phila! Slow down, please! What's happened?
+Phila: Plegian soldiers have been sighted inside our southwest border! They attacked a village in Themis and abducted the Duke's daughter. 
+Lissa: B-but that would be...Maribelle! Chrom, we have to do something!
+Phila: There's more: King Gangrel of Plegia claims Lady Maribelle invaded HIS country. He demands we repay reparations for this "insult."
+Chrom: And we're to believe a dastard like the Mad King of Plegia? 
+Emmeryn: Peace, Chrom. We must keep our wits about us. 
+Chrom: We should put a sword in his gut and be done with it! The Mad King has been trying to provoke war with Ylisse at every step! He won't stop until he drags this whole continent to hell with him!
+Phila: I agree with the prince, Your Grace. We must demonstrate to Plegia that such actions have consequences. 
+Emmeryn: I understand your feelings, Chrom. Truly I do. But if we give him the war he wants, then we lose, no matter what the outcome. Our last conflict nearly ruined the halidom. It left Ylisseans homeless and starving. We cannot repeat that mistake. I will offer parley with King Gangrel. 
+Lissa: Emm, no! You can't! 
+Phila: Please reconsider, Your Grace. He cannot be trusted to act in good faith! 
+Emmeryn: So we either choose to march to war or leave Lady Maribelle to die? No. I will not accept that. 
+Phila: ...Forgive me, Your Grace. I spoke out of turn. I know you will stand always by your own principles. Pray, allow the pegasus knights to accompany you, though. 
+Chrom: I'm going, too. ...Someone has to save you from your good intentions. 
+Lissa: And I want to be there for you AND Maribelle! 
+Emmeryn: As you wish. Thank you all. Your strength will be mine. 
+
+Chrom: Well then! Is everyone ready to go? It's a long march through the western mountains to the Plegian border. 
+
+Ricken: Captain! I'm all packed! When do we leave?!
+Chrom: Ricken? How did you... Go back inside. You're not old enough for this mission. 
+Ricken: But, Captain! You know my skill with magic! You know I can handle myself! 
+Chrom: I'd feel safer with your magic here, protecting the garrison. All right? We're off, then. Be good. 
+
+Ricken: "Be good"? Gods, how old does he think I am? ...Well, I'll show him just how good I can be! 

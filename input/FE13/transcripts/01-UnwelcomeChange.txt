@@ -1,0 +1,149 @@
+@Intro 
+Lissa: I told you—it's getting dark already! ...Ech! And now the bugs are out! Noisy, disgusting bugs that buzz around and crawl all over and bite you when—Agh! Won goph in mah mouph! Blech! Ptooey!
+Chrom: Aw, come on now, Lissa. Hardship builds character. Want to help me gather firewood?
+Lissa: Tpht! Tpht! Yeeeeeuck! ...I think I swallowed it... I'll pass on finding firewood, thanks. I think I've built QUITE enough character for one day!
+Robin: We should probably think about food. I don't know about you, but I'm starving.
+Frederick: Yes, I should think a little hunting and gathering is in order. Now, who wants to clear a campsite?
+
+Chrom: Mmm... It's been too long since I last had bear meat. Delicious! ...What's wrong, Lissa? Dig in.
+Lissa: Pass! ...Gods, couldn't you spear us an animal normal people eat for once? I mean, come on! Who eats bear?! You're meddling with the food chain. Right, Robin? ...Uh, Robin?
+Robin: *Munch, munch, slurp*
+Lissa: *Sigh* I suppose a person would enjoy just about anything after not eating for days...
+Chrom: Just eat it, Lissa. Meat is meat.
+Lissa: Since when does meat smell like old boots?! Wait, I take that back—boots smell better!
+Frederick: Every experience makes us stronger, milady. Even those we don't enjoy.
+Lissa: Really? Then why don't I see YOU eating, Frederick?
+Frederick: Me? Oh, well... I'm not hungry. I...I had a large lunch! Yes, quite.
+Lissa: Yeah right, Frederick!
+
+Chrom: ...Huh?
+
+Lissa: *Yawn* What's wrong, Big Brother?
+Chrom: Sorry, I didn't mean to wake you, but... Something is amiss...
+Lissa: Define "something".
+Chrom: I'm not sure... I think I'll have a look around.
+Lissa: Not alone, you won't! I'm coming too.
+Chrom: Heh. Thanks, Lissa.
+
+Lissa: It sure is dark. ...And quiet. Where did the birds go?
+Chrom: Something is wrong here...
+
+Lissa: Aaah! Chrom!
+Chrom: Gods, what— Agh! What is this madness?! Lissa, stay close!
+
+Chrom: Lissa, run.
+Lissa: Huh?
+Chrom: I mean it! Go!
+
+Chrom: Hey! This way!
+
+Lissa: Chrom, what IS that?!
+
+Chrom: Lissa, you'd better stand back.
+
+Chrom: Lissa!
+
+Marth:  Help!
+Chrom: ...Right!
+
+Chrom: ...Quite an entrance. What's your name?
+
+Frederick: Milord! Milady! Are you hurt?
+Lissa: Frederick! Robin!
+Robin: Are such horrific creatures commonplace in these lands?
+Chrom: They're not from Ylisse, I promise you that.
+Frederick: No one is injured, then? Thank the gods...
+Lissa: Thank the masked man who saved me! If it wasn't for him, I'd be... Hey, where did he go?
+Frederick: We can worry about him later, AFTER we put these...things...to the blade. Eyes open, now. We know nothing about this enemy.
+Chrom: Right.
+
+@Battle 
+Robin: Hmm? Are those...
+Frederick: Abandoned forts, yes.
+Robin: Then we should take shelter in them whenever possible. No doubt they will offer distinct advantages in battle.
+
+Sully: Captain Chrom! Wait! I'm coming! ...Agh, I knew I shouldn'ta left 'em. All right, you ash-faced freaks! Which one of ya wants to try my lance on for size first? I know just the spot for it: shoved right up your—
+
+Virion: Hold, milady!
+Sully: Muh?
+Virion: Life may be long, but attraction is fleeting! Would you leave me in your sweet dust? Leave war to the warriors, dear bird! A beauty such as you need wage only love.
+Sully: ...The hell are you?!
+Virion: Ha! Is the lady intrigued? Of course you are—it's only natural. I am myth and legend! I am he who strides large across history's greatest stage! The man who puts the "arch" in "archer"! My name, dear lady, is Vi—
+Sully: Sorry, Ruffles—no time for this. Onward!
+
+Virion: Virion! ...Er, my name. It's Virion. W-wait! Where are you going? Pray, at least tell me your name!
+
+Sully: I'm Sully. ...And I'm a Shepherd.
+Virion: "Sully"! How divine! A starkly beautiful name, as befits its owner, truly. Will you marry me, my dearest Sully?
+Sully: Will I what now? Oh wait, I get it... This is a joke. And when I put my boot through your face—that's the punch line.
+Virion: I realize my manly figure and noble bearing can be overwhelming. 'Tis common! So please, don't feel pressured to answer right a—
+Sully: How's THIS for an answer?! 
+Virion: OOF! G-goodness, but those shapely legs certainly can kick, can't they... P-please, milady! Allow me to accompany you, at least! Mine is a cold, empty world without you. I shall be your most willing servant, and you, in turn, will give my life purpose...
+Sully: *Sigh* Fine... Anything to shut you up. ...What? Stop staring at me like that!
+
+Virion: Goddesses and gentlemen, might I have your attention? I, as it happens, am an archer! ...The archest of archers, in fact. As such, I attack most effectively from a distance. So kindly keep me one step away from peril, if you would!
+
+@Boss
+Risen Chief: Ryaaargh! 
+
+Risen Chief: Nnh...aaagh... 
+
+@End 
+Frederick: It seems all the creatures are vanquished. This young man took care of the others.
+"Marth": ......
+Lissa: Um, I never got to thank you...for before. So...thank you. You were very brave.
+Chrom: You saved my sister's life. My name is Chrom. Might I ask yours?
+"Marth": You may call me Marth.
+Chrom: Marth? After the heroic king of old? You certainly fight like a hero. Where did you learn your way with a sword?
+"Marth": I'm not here to talk about me. This world teeters at the brink of a horrible calamity. What you saw tonight was but a prelude. You have been warned.
+
+Lissa: Huh? What's teetering where now? Hey, wait!
+Robin: Not much for conversation, is he?
+Frederick: It appears his skills lie elsewhere. I wager we'll hear his name again... But for now I'm more concerned about the capital. We should make haste.
+
+Robin: So this is Ylisstol, capital of Ylisse... I've never seen so many people!
+Frederick: It appears the capital was spared the chaos we encountered, thank the gods. I see no evidence of the great quake. It must've been limited to the forest.
+Lissa: Well, that's a relief!
+Old Villager: Look! The exalt has come to see us!
+
+Robin: The exalt is your ruler, yes?
+Frederick: Yes. Her name is Lady Emmeryn.
+Robin: Is it safe for her to walk among commoners like this?
+Frederick: The exalt is a symbol of peace—Ylisse's most prized quality. Long ago, at the dawn of our age, the fell dragon tried to destroy the world. But the first exalt joined forces with the divine dragon and laid the beast low. Exalt Emmeryn reminds us all of the peace we fought for then.
+Chrom: With Plegia poking at our borders, the people need her. She's a calming presence, when some might otherwise call for war.
+Robin: Then the Ylissean people are indeed lucky to have her.
+
+Lissa: She's also the best big sister anyone could ask for!
+Robin: Yes, I imagine she... Wait, what? She's your... But wouldn't that make you and Chrom...
+Frederick: The prince and princess of the realm, yes. You remember Chrom's name and not this?
+Robin: You said you were "shepherds"!
+Chrom: And so we are...in a manner of speaking. We just have a LOT of sheep.
+Robin: C-Chrom... I mean, Prince Chrom! Sire! Forgive my dreadful manners!
+Chrom: Just Chrom is fine. I've never been much for formalities.
+Robin: The prince and princess... That explains why Frederick tolerates all the teasing, eh?
+Frederick: Indeed. Oh, the sacrifices I make for the good of the realm...
+Chrom: It looks like Emm is returning to the palace. Would you like to meet her?
+
+Emmeryn: Chrom! Lissa! Welcome home. Oh, and good day, Frederick. How fared you all?
+Chrom: Well—we shouldn't have any bandit problems for a while.
+Emmeryn: Wonderful. And our people?
+Chrom: Safe as they can be, Emm. But we still need to watch the borders. The brigands crossed over from Plegia.
+Phila: Forgive me, milord. My pegasus knights should have intercepted them.
+Chrom: No, Phila. Your duty was here, with the exalt.
+Lissa: And besides, we had plenty of help!
+Emmeryn: Ah, you speak of your new companion here?
+Chrom: This is Robin. He/She fought bravely with us against the brigands. I've decided to make him/her a Shepherd.
+Emmeryn: It sounds as though Ylisse owes you a debt of gratitude, Robin.
+Robin: Not at all, milady!
+Frederick: Forgive me, Your Grace, but I must speak. Robin claims to have lost his/her memory, but it is only that: a claim. We cannot rule out the possibility that he/she is a brigand himself or even a Plegian spy.
+Chrom: Frederick!
+Emmeryn: Yet you allowed him/her into the castle, Chrom. Does this man/woman have your trust?
+Chrom: Yes. He/She risked his/her life for our people. That's good enough for me.
+Emmeryn: Well then, Robin... It seems you've earned Chrom's faith, and as such you have mine as well.
+Robin: Milady.
+Emmeryn: But thank you, Frederick, for your prudence, as always. Chrom and Lissa are blessed to have so tireless a guardian. I do hope they remember to mention that from time to time...
+Frederick: They occasionally express something akin to gratitude, Your Grace. Phila. I assume you've heard about the deathly creatures we encountered, yes?
+Phila: Yes, milord. They've been sighted all across Ylisse.
+Emmeryn: Chrom, we are about to hold council. I was hoping you could join us.
+Chrom: Of course.
+Lissa: I think that's our cue, Robin! C'mon, there's a place I want to show you.

@@ -1,0 +1,88 @@
+@Intro 
+Lissa: Brrr! F-F-Frebberick! I'm f-f-freebing!
+Frederick: Stand beside my horse, milady. She'll shelter you from the wind.
+Robin: So this is the fortress?
+Chrom: Yes, the Longfort. It stretches along the border of Ylisse and Regna Ferox.
+Frederick: The khans that rule Ferox have grown quite wary of foreigners. Still, don't mistake a lack of hospitality for open hostility. This simply calls for a bit of diplomacy.
+Chrom: Negotiation's not my strong suit, but I'll do my best. Remember, everyone: your actions here reflect back upon Ylisse.
+
+Frederick: Trouble in the wind, milord: the Feroxi Guard are mobilizing.
+Chrom: What?! Why?
+Frederick: Who can say? But they look ready to let fly at a moment's notice. We'd best prepare for combat, just to be safe. Perhaps we ought pool our supplies and select which Shepherds to deploy? Loath as I am to trust him/her, Robin might offer some valuable insight in this…
+Chrom: Indeed, he/she IS our tactician, after all. So, Robin? What do you suggest?
+
+@Battle 
+Raimi: Halt! Who goes there?!
+Chrom: In the name of House Ylisse, I seek audience with the khans!
+Raimi: Not another step, my bold lad! I've lancers at the ready!
+Frederick: Hold, milady! We are not your enemy! Exalt Emmeryn herself sent us to discuss matters of mutual interest.
+Raimi: My only interest is keeping you out of Regna Ferox, brigand!
+Frederick: B-brigand? Now see here—
+Raimi: You think you are the first "Ylisseans" to try and cross our border? I have the authority to fell such imposters where they stand.
+Frederick: How dare you! You are in the presence of Prince Chrom, the exalt's own blood!
+Raimi: Ha! Yes, indeed—and I'm the queen of Valm! You do realize impersonating royalty is a capital offense, yes? Mmm... Then perhaps we should settle this the Feroxi way. You claim to be the prince of Ylisse? Then prove it on the battlefield!
+Chrom: Rgh... Emmeryn won't like this at all... Please, good lady! If you'd just listen—
+Raimi: I've heard quite enough! Attack!
+
+@Cutscene 
+Chrom: Sumia...?
+Sumia: Better hold on tight, Captain. Could get bumpy.
+Chrom: Uh...right.
+Sumia: You'll be fine.
+
+Chrom: Sumia!
+Sumia: Right! 
+
+Sumia: Oh, Captain, I'm so relieved I made it in time.
+Chrom: That goes double for me, Sumia! And this—is this the same ornery pegasus we met on the road?!
+Sumia: Oh, she's a sweetheart, isn't she? ...Once you really get to know her…
+Chrom: Well, many thanks to you both.
+Lissa: I think the pegasus is blushing!
+Frederick: And I think we had all best focus on the situation at hand!
+Robin: Chrom, they're coming!
+Chrom: All right. The Feroxi way it is!
+
+@Battle 
+Sumia: Phila said pegasi can fly far afield, but they're highly vulnerable to arrows. Don't worry, girl. I'll watch out for archers for both our sakes!
+
+@Recruit-Talk 
+%Chrom,Kellam 
+Chrom: Why do I feel like I'm being watched...?
+???: Um, sir? ...Sir! Right here, sir!
+Chrom: Who's there? Show yourself!
+Kellam: I'm standing in plain sight, sir. Right he—
+Chrom: BWAAAH! Oh! I-is that you, Kellam? When did you arrive?
+Kellam: ...The same time as you. I've been with you all along. Er, I AM still a Shepherd, right? It's quite the honor, after all. I'd hate to lose it. Sometimes I—
+Chrom: Of course, Kellam. Forgive me. You're just so...quiet, I completely—
+Kellam: Quite all right, sir, quite all right. I've been told I'm easy to miss.
+Chrom: At least the Feroxi didn't find you.
+Kellam: I've been calling to you and waving my arms for several minutes... I don't think they've so much as glanced this way.
+Chrom: You almost sound disappointed.
+Kellam: Well, I just... I'm glad you finally saw me! Just try to keep an eye out from now on?
+
+@Battle 
+Robin: Hmm…
+Chrom: What is it, Robin?
+Robin: I've been thinking about how you rode with Sumia earlier... Do our unit always have to fight one-on-one?
+Chrom: Are you suggesting we pair up? That's an interesting thought... I admit, I'd resemble a pincushion right now if it weren't for Sumia and her mount.
+Robin: Exactly. By pairing up, units could lend each other added offense and defense... It might also allow quicker soldiers to ferry slower units great distances... Yes... Yes! I'm sure of it. This opens up all sorts of strategic possibilities! We should try it whenever the opportunity presents itself.
+
+Kellam: *Sigh* Do they STILL not see me? Perhaps Chrom will talk to me if I...wave my...hands around...
+
+Chrom: It already feels as though Robin has been a Shepherd forever. It's funny how fighting alongside someone speeds friendships along... And the more we fight side by side, the more valuable those friendships become!
+
+Frederick: A key! We can use it to open the fortress doors.
+
+@Boss
+Raimi: Let our battle sound out the truth of your words!
+
+Raimi: Then your claims were...true...
+
+@End 
+Raimi: A thousand apologies, Prince Chrom. I truly took you for brigand impostors. But no frauds could ever wage a battle as you just have! I will send word of your arrival to the capital and escort you there personally.
+Chrom: That would be most appreciated, thank you.
+
+Robin: Amazing. Her whole demeanor changed.
+Frederick: In Ferox, strength speaks louder than words. I should have known better than to overestimate the value of diplomacy here…
+Lissa: So can we get going, Chrom?
+Chrom: Yes, it's not getting any warmer.

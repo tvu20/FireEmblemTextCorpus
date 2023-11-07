@@ -1,0 +1,89 @@
+@Intro 
+Chrom: ...Where is his army?
+Frederick: No sign of them yet, milord.
+Robin: Hmm...
+Flavia: I don't like it. They could be buying time...
+Lissa: ...Buying time waiting for what?
+
+Excellus: Tya ha! The fools have no idea what they've just stepped into! Eee hee!
+Cervantes: Mmm, the anticipation before a battle. My hairs stand on end—every one of them! Makes it difficult to brush, if I may say... But today's struggle will set the course of history, once and for all.
+Excellus: Today's "struggle," Cervantes? I think you mean today's SLAUGHTER.
+Cervantes: That's the spirit, tactician!
+Excellus: Wha—No! *sigh* I JUST finished explaining this to you. What is wrong with your ears?! The Resistance will destroy itself—you and I needn't so much as lift a finger. The Ylissean League thinks the dynasts no longer fear us... But they don't understand how...persuasive my methods can be! Hya ha ha! They'll know once they see their former friends with knives to their backs!
+Cervantes: Chives and flapjacks, you say?
+Excellus: The battle is won before it's started, and without us risking any further casualties! Hya ha! Brilliant, if I do say so myself. And really, no one else is capable of judging... Ah well... Tea, Cervantes? I have a stash of gray-root blend here...simply divine...
+Cervantes: Why Excellus, thank you. It IS quite a divine 'stache, isn't it, eh wot!
+Excellus: You imbecile! "Stash"! The tea! The— Oh why do I even bother! *Sigh* If only there were someone with the intellect to appreciate my talents...
+
+Walhart: Cervantes.
+Cervantes: Y-yes, my master!
+Walhart: Who is the pinnacle of man, in body, mind, and spirit? Who is greater than the gods?
+Cervantes: Only you, my master!
+Walhart: Well, Excellus, that seems to contradict your last statement. What say you?
+Excellus: ...M-my master! I assure you, I meant no offense! I only celebrate achievements in your service, master. To your glory.
+Walhart: Glory is won on the battlefield! Glory is meeting your enemy's eyes and watching the hope drain away with his life... Glory is not won holed up in a castle with plots and cowardly schemes. And I'll be dead before I let some dynast farm lord take today's glory in my stead.
+Excellus: Oh, why yes, of course! And so well put, my master, hya ha... I only meant that—
+
+Cervantes: That sick mind of yours sees much, Excellus. That much is certain. But for someone so clever, you really can be quite daft.
+Excellus: What?! You DARE speak to me like some child? ...Like your EQUAL?!
+Cervantes: Ta ha ha! Your equal? No, fear not. I will never think of you as my equal, worm. Now if you'll excuse me, I would shave and wax up before the fight...
+
+Excellus: Broom-faced twit! To hell with him...with the both of them! ... *Sigh* Now, Excellus, keep your wits about you. They're all you have...besides good looks. Let Walhart charge ahead—the big, stupid lobster... I'll end up on the winning side one way or another! Whee hee hee hee!
+
+@Battle 
+Chrom: That's him, isn't it? Walhart... Brave of him to face us.
+Say'ri: Brave? Aye. But more likely he just wants to enjoy this himself.
+
+Walhart: You do your sister's legacy proud, Prince! But humanity already has a savior. A conqueror who broke stronger men that you when they refused to bow. Warriors of Valm! Ride with me now! Together we will stamp out this final pack of insurgents and unite the world!
+
+Walhart: Call in the reinforcements! Let the cavalry rain upon them like a blizzard of swords!
+
+@Boss 
+Walhart: Behold: I am Walhart the Conqueror! And you are but a pebble upon my path to immortality. 
+
+Walhart: Nngh... You think you have won? You blow as if to douse a candle, but you only stoke the fires of hell!
+
+%Chrom,Walhart
+Walhart: Why do you resist me, little Prince?
+Chrom: You enslave the weak and kill the able. You are the enemy of peace.
+Walhart: I would end the reign of the gods, and you object on moral grounds?! Blood is spilled in any new birth, Prince. And in many a just cause, as you know...
+Chrom: There is no justification for what you've done.
+Walhart: By whose laws do you judge me? Yours? Your sister's? The gods'?
+Chrom: You cannot—
+Walhart: Look at you! Are you not ashamed? Your mind is filled with nothing but secondhand beliefs. You dance upon the stage of your gods like a mindless puppet! THAT is what I reject: being a slave to tradition, to obligation. The old ways. Damn the gods! Damn their fates and their destinies! I will have true freedom! Any man who offers less is my enemy.
+Chrom: Enough! I don't require every detail of your twisted philosophy. You're a villain and a murderer, plain and simple. And I am the justice you deserve.
+Walhart: Ha ha ha! Better, Prince. Much better! Be not an agent of someone else's justice, but justice itself! Now, let us fight as two great men, freed of their gods. I grant any challenger the chance to test his will against my own... But you, too, shall be found wanting!
+
+%Say'ri,Walhart
+Say'ri: Walhart!
+Walhart: Hmm? The princess of Chon'sin? It's a wonder you still live.
+Say'ri: I have survived your gauntlet of betrayal and death, tyrant. Shall I describe to you now the searing pain of it all? The torture of watching friends, family...my entire kingdom perish? The fresh hell of each new day, with no respite in sight?
+Walhart: Pain is a concern of men. And respite? Beg that from your gods. Your concerns are not mine. I have risen to a higher plane of existence.
+Say'ri: Then today you come crashing down to the hell you've made of this one.
+
+@End 
+Say'ri: Walhart has retreated into the capital! Fie, will this war never end?!
+Chrom: His men gave their lives to secure his escape. They won't lay down arms until he does.
+Lucina: Then we must pursue and see that the deed is done.
+Chrom: Damn! We're surrounded! The dynasts ride against us!
+Say'ri: Hold, sir—look!
+
+Excellus: H-he lost? But how...? How could the Conqueror be conquered?! He's insurmountable! Incontestable! Invincible! ...But then that means... Oh my... Good-bye, then! Do see to it that—
+Walhart: Going somewhere, tactician?
+Excellus: M-master! I... I was just coming to make sure you were all right. Are you hurt?
+Walhart: Rally our forces in the capital. We will put an end to this here.
+Excellus: At once, my master. Only... Have you considered, perhaps, waiting just one day? I do have the dynasts and their men on the way. With them to help us, we—
+Walhart: Have you seen the battlefield? No, I suppose not. Take your head from wherever it's lodged, and peer out into the daylight, snake. I'm sure your mighty intellect will quickly understand what's happened. Though if you had half the mettle of that Ylissean tactician, you'd already know...
+
+Excellus: M-Master, I don't—
+Valmese: The dynasts, sir! From the southlands! They are making to siege the capital!
+Excellus: But that's...that's impossible. We had an agreement! Just like I had with... Oh dear... The southern dynasts... Did they find out about Yen'fay?
+
+Say'ri: This...boggles the mind...
+Chrom: Do you recognize them?
+Say'ri: Aye, sir. They're from the southlands... States that betrayed us for the empire. ...Or so I thought.
+Flavia: Well, their allegiance seems clear enough now.
+Say'ri: I can hardly believe it... Theirs are the lands my brother commanded. Finally, now, they come to answer the call?
+Flavia: Finally is right. It's taken a lot of hard work to get here, Say'ri. A lot of sacrifice. From you, from Basilio, from your brother. Don't forget this moment.
+Say'ri: Aye, my lady. Aye.
+Chrom: Now, let us finish what we began. To the capital, friends!

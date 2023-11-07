@@ -1,0 +1,194 @@
+@Intro 
+Lucina: There it sits...
+Lissa: What's wrong, Lucina?
+Lucina: That great skull. I saw it once before, when Emmeryn was sentenced to die. Even then it reminded me of...him...
+Chrom: You mean...
+Lucina: Yes. Grima, the fell dragon. A cataclysmic war ushered his return... It's said he fed on the souls of the fallen before turning upon the living...
+
+@Cutscene 
+Grima: So ends the human race. The future is built upon the past... But your kind shall never see it.
+Grima: Your mother and father... ...are dead, tiny one.
+Grima: And now it is your turn... to DIE!
+
+@Intro 
+Lucina: ...Whether these are his true bones or just an effigy, I cannot say. But I know this: we cannot let that monster come back to life.
+Chrom: We'll stop him, Lucina. I promise. The future can be changed. You've proven it already. And with all of us together, we can turn the course of history.
+Lucina: I want to believe that, Father. I want to believe that, more than anything...
+
+Robin: (Psst! Chrom!)
+Chrom: (...Trouble?)
+Robin: (I saw armed soldiers hiding in the shadows as we were shown in...)
+Chrom: (Then it sounds like we have our answer already...)
+
+Aversa: Well met, milord.
+Validar: Prince Chrom! Welcome.
+Chrom: ...I was told you had something you wished to give me.
+Validar: My my! No time for courtesy, milord? Such impatience... Do you really want it that badly? This concerns me. The Gemstones and the Fire Emblem can be...treacherous artifacts. A fact Plegia and the Grimleal sadly know all too well...
+Lucina: "Sadly"? You speak ill of when the first exalt used them against the fell dragon?
+Validar: Yes I do, intruder!
+Lucina: ...Intruder?
+Validar: You are not supposed to be here. You must be destroyed!
+Chrom: You wouldn't dare!
+Validar: Give me the Fire Emblem... Give it to me!
+Lucina: You mad scoundrel! This is a declaration of war!
+Validar: I will only ask one last time: give me the Emblem. Now!
+Chrom: ...Never.
+Validar: Then this parley is over. Guards! Seize them!
+Chrom: Just as we thought...
+Robin: Chrom, this way! Quickly!
+
+Aversa: Robin had an escape route all planned out... How preciously clever of him/her. You should be proud.
+Validar: Hmph. If he/she had half the wits of his/her father, he/she would know they've already lost.
+
+@Battle 
+Chrom: We have to get out of here now! Cut down anyone who gets in the way!
+Algol: Heh heh. Signal the men in hiding, and give these Ylissean scum no quarter!
+
+@Boss 
+Algol: Heh heh... Leaving Plegia so soon? No, please, stay awhile. Stay...forever! 
+
+Algol: No! Hyaughhh... 
+
+@End 
+Chrom: Almost there! The exit is just— Wait. Do you feel...
+
+Chrom: Hnrgh...
+Validar: Run all you like—you can't escape fate. Don't you know that?
+Lucina: Father!
+Validar: The Fire Emblem. Give it freely, or it will be taken.
+Chrom: Just try it!
+Validar: Heh heh... I won't need to do anything... Robin!
+Robin: Nngh! Ahh...
+Chrom: Robin?
+Validar: Seize the Emblem and bring it to me.
+Robin: Nngh, no, I... Aarrrgh!
+Chrom: Robin... What are you...doing?!
+
+Validar: Well done, my child. At last, the Fire Emblem belongs to me. And with my Gemstone, it is complete! Now, to set the Table and perform the rite... 
+Chrom: D-damn you, Validar! Nngh...
+Robin: Ah! Nngh...ahh... What have I...done?!
+Chrom: Robin! We must go!
+Robin: Chrom, I'm sorry! I don't...know what came over me... I'm so sorry!
+Chrom: I know you are, but right now we need to focus on getting out of here!
+Robin: ...Understood.
+
+Robin: What I did... It's...it's unforgivable.
+Chrom: Enough of that, Robin. Save your energy for helping us track him down.
+Robin: No, I... You must leave me behind. He could use me again... I can't be trusted! This cursed blood in me must somehow give...my father...dominion over me...
+Chrom: But he never had full control... You can fight it, Robin. And if he expects you to blindly obey, that might be the surprise we need.
+Robin: Chrom, you...you put too much faith in me.
+Frederick: Get back on that horse, Robin. You can't give up now!
+Robin: But you're not listening! I told you, I'm not—
+Chrom: The deed is done. But you can still try to undo the damage. It's not too late!
+Robin: All right. I'll...I'll try.
+Lucina: ......
+
+@Dialogue 
+^start 
+Robin: ......
+Lucina: Beg pardon, Robin. Might I have a word?
+Robin: ...Lucina. What is it?
+Lucina: It's about my father. I have memories of him, you know. From when I was little. Before he...died.
+Robin: I see...
+Lucina: He was courageous, and kind, and everyone spoke fondly of him. People say he was brave right up until the very end. I always yearned to know him better. And now that I do... I can see that the world will be robbed of a very great man. ...I won't allow that to happen.
+Robin: I understand. You love him. ...We all do.
+Lucina: Robin, I... Please, forgive me...
+Robin: Lucina?!
+Lucina: Stay where you are, Robin! I have no choice. I must kill you.
+Robin: What?! What madness is this?!
+Lucina: In my future, you... You are my father's murderer.
+Robin: No! That's insane! Why would I kill Chrom?
+Lucina: I was not certain myself, until now... I knew he had been killed by his closest friend. Having witnessed your bond with him, I doubted it could be so... But today's events make it clear. You are at Validar's mercy. I suspect it's he who forces you to take my father's life, and very soon...
+Robin: Lucina, wait.
+Lucina: If my father is right, then we can change our fates. If this dark future is to be averted, sacrifices must be made. I am sorry, Robin! I know this is murder, I... I know that...
+Robin: Lucina, you don't have to—
+Lucina: Don't make it harder! Don't resist, and your death will be swift and painless. If you hold any love for Chrom, then let this be done...
+Robin: ...Very well. I forfeit my life.
+Lucina: Godspeed, Robin.
+Chrom: Enough!
+Lucina: Father, you don't—
+Chrom: Lucina, lower your sword...
+Lucina: But, Father—
+Chrom: LOWER YOUR SWORD!
+Lucina: A-all right. ...I can explain.
+Chrom: There's no need. You're not the only one who can eavesdrop. I heard every word. Lucina, I know your heart is in the right place... But I trust Robin. You cannot shake my faith in him/her.
+Lucina: This is not about trust! He'll/She'll be the death of you!
+Chrom: Robin and I have held fast through good times and ill... We swore to be two halves of a greater whole. You underestimate the strength of those ties, the bonds we share. I believe in them more than some foretold "destiny."
+Lucina: That is easier to say when you haven't seen it yourself...
+Chrom: Lucina, aren't our ties stronger here now than they were in your future? You said so yourself. In this flow of time we are bound tighter than ever, you and I. Not just as father and daughter... But as friends. We can change things—we already have...and we will again.
+Lucina: ...Very well, Father. I would ask your forgiveness, Robin, but I cannot expect it.
+Robin: I do forgive you, Lucina. You needn't speak of it again.
+Lucina: I pray... That is, I trust the both of you will prove me wrong. And that this future will fall to pieces before your bond ever would.
+
+Robin: ......
+Lucina: Beg pardon, Mother. Might I have a word?
+Robin: ...Lucina. What is it?
+Lucina: It's about Father. I have memories of him, you know. From when I was little. Before he...died.
+Robin: I see...
+Lucina: He was courageous, and kind, and everyone spoke fondly of him. People say he was brave up until the very end. I always yearned to know him better. And now that I do... I can see that the world will be robbed of a very great man. ...I won't allow that to happen.
+Robin: I understand. You love him. ...As do I.
+Lucina: Mother, I... Please, forgive me...
+Robin: Lucina?!
+Lucina: Stay where you are, Mother! I have no choice. I must kill you.
+Robin: What?! What madness is this?!
+Lucina: In my future, you... You kill Father.
+Robin: No! That's insane! Why would I kill Chrom?
+Lucina: I was not certain myself, until now... I knew he had been killed by his closest friend. Having witnessed your bond with him, I doubted it could be so... But today's events make it clear. You are at Validar's mercy. I suspect it's he who forces you to take Father's life, and very soon...
+Robin: Lucina, wait.
+Lucina: If Father is right, then we can change our fates. If this dark future is to be averted, sacrifices must be made. I am sorry, Robin! I know this is matricide, I... I know that...
+Robin: Lucina, you don't have to—
+Lucina: Don't make it harder. It...will be swift and painless. If you hold any love for Chrom, then let this be done...
+Robin: ...... My life is yours. It always has been.
+Lucina: D-don't say that, Mother! Don't! That only...makes it harder.
+Robin: I would give my life for Chrom. ...And for you.
+Lucina: Mother, please...
+Robin: I know you will be quick about it. I love you, Lucina.
+Lucina: M-Mother...
+Robin: ...I'm ready. Do what you must.
+Lucina: I... I...
+Robin: ......
+Lucina: Damn me! I can't do it! I love you too much! I'm sorry, Mother, I'm so sorry! P-please forgive me!
+Robin: My poor girl...there's nothing to forgive.
+Chrom: Are you done, Lucina?
+Lucina: Father! I... I can explain!
+Chrom: No need. You're not the only one who can eavesdrop. I heard every word. Lucina, I know your heart is in the right place... But I trust Robin. You cannot shake my faith in her. Robin and I have held fast through good times and ill... We swore to be two halves of a greater whole. You underestimate the strength of those ties, the bonds we share. I believe in them more than some foretold "destiny."
+Lucina: That is easier to say when you haven't seen it yourself...
+Chrom: Lucina, aren't our ties stronger here now than they were in your future? You said so yourself. In this flow of time we are bound tighter than ever, you and I. Not just as father and daughter... But as friends. We can change things—we already have...and we will do so again.
+Lucina: ...Very well, Father. Mother I...I hope someday you will find it in your heart to forgive me... And I pray... That is, I trust the both of you will prove me wrong. That the future will crack and fall apart before our family bond ever does.
+
+Robin: ......
+Lucina: Beg pardon, Robin. Might I have a word?
+Robin: ...Lucina. What is it?
+Lucina: It's about my father. I have memories of him, you know. From when I was little. Before he...died.
+Robin: I see...
+Lucina: He was courageous, and kind, and everyone spoke fondly of him. People say he was brave up until the very end. I always yearned to know him better. And now that I do... I can see that the world will be robbed of a very great man. ...I won't allow that to happen.
+Robin: I understand. You love him. ...We all do.
+Lucina: Robin, I... Please, forgive me.
+Robin: Lucina?!
+Lucina: Stay where you are, Robin! I have no choice. I must kill you.
+Robin: What?! What madness is this?!
+Lucina: In my future, you... You are my father's murderer.
+Robin: No! That's insane! Why would I kill Chrom?
+Lucina: I was not certain myself, until now... I knew he had been killed by his closest friend. Having witnessed your bond with him, I doubted it could be so... But today's events make it clear. You are at Validar's mercy. I suspect it's he who forces you to take my father's life, and very soon...
+Robin: Lucina, wait.
+Lucina: If my father is right, then we can change our fates. If this dark future is to be averted, sacrifices must be made. I am sorry, Robin! I know this is murder, I... I know that...
+Robin: Lucina, you don't have to—
+Lucina: Don't make it harder! Don't resist, and your death will be swift and painless. If you hold any love for Chrom, then let this be done...
+Robin: ...... Very well. My life is yours... It always has been.
+Lucina: D-don't look at me like that! I love you! ...Do you have any idea how hard this is for me?
+Robin: I would give my life for Chrom. ...And for you.
+Lucina: ......
+Robin: Just...promise me you'll find someone else who cares for you. Promise you won't be alone... I want you to be happy, Lucina. That's all I've ever wanted.
+Lucina: N-no... Ah gods, no...
+Robin: ...I'm ready now. Do what you must.
+Lucina: I... I must...
+Robin: ......
+Lucina: Damn me! I can't do it! I love you too much! I'm sorry, Robin. I'm s-so sorry! Please forgive me!
+Robin: Easy now. Easy. It's all right...
+Chrom: Are you done, Lucina?
+Lucina: Father! I...I can explain!
+Chrom: There's no need. You're not the only one who can eavesdrop. I heard every word. Lucina, I know your heart is in the right place... But I trust Robin. You cannot shake my faith in him. Robin and I have held fast through good times and ill... We swore to be two halves of a greater whole. You underestimate the strength of those ties, the bonds we share. I believe in them more than some foretold "destiny."
+Lucina: That is easier to say when you haven't seen it yourself...
+Chrom: Lucina, aren't our ties stronger here now than they were in your future? You said so yourself. In this flow of time we are bound tigher than ever, you and I. Not just as father and daughter... But as friends. We can change things—we already have...and we will again.
+Lucina: ...Very well, Father. I would ask your forgiveness, Robin, with all my heart. And I pray... That is, I trust the both of you will prove me wrong. ...That this future will fall to pieces before your bond ever will.
+^end

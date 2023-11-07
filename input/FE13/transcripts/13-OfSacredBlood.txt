@@ -1,0 +1,347 @@
+@Dialogue 
+Aversa: Greetings, Prince Chrom. Plegia welcomes you.
+Chrom: Aversa!
+Aversa: What can I say? It seems fate has designs for me yet.
+Chrom: You serve the new king, then? This... Validar?
+Aversa: I do.
+Frederick: They say he worships Grima...
+Aversa: Why yes, of course he is Grimleal. We are both believers. My liege often says it was his faith that got him through, after Gangrel's passing. It was a difficult time... But he kept order where there might have been chaos. We had meant to arrange an official visit to Ylisstol, but—Ah, here is my lord now.
+
+Validar: An honor to finally meet you, sire. I am Validar, king regnant of Plegia.
+Chrom: The honor is mine, good king. ...Is it possible we've met before some... Gods! It can't be.
+Validar: Oh ho, I'm quite certain I would remember any encounter with Ylissean royalty.
+Chrom: (Psst! Robin!)
+Robin: (I know! He looks just like the assassin that came after Emmeryn...) 
+Validar: And you must be Sir/Lady Robin.
+Robin: You know of me, sire?
+Validar: The whole world knows of Ylisse's master tactician! And indeed, I see the sparkle of wisdom in your eyes.
+Chrom: (But we killed him, Robin!)
+Robin: (I know but... The resemblance... it's uncanny...)
+Chrom: (How could he possibly--)
+Validar: My, the negotiations haven't even begun and already so much whispering...
+Chrom: ...My apologies, King Validar. We meant no disrespect.
+Robin: (Chrom? What should we do?)
+Chrom: (Nothing for now. But stay close, and be ready for anything...)
+Validar: Then let us get to it.
+Aversa: Plegia can offer no soldiers, but will provide 800 warships and 200 transports. In addition, we would be pleased to fully fund the campaign against Valm.
+Frederick: That is... surprisingly generous of you, milord. We could not ask for more, quite literally. You offer most all your assets...
+Validar: I would give troops as well, but our army remains in shambles from the last war. I trust the gold and ships will suffice as a sign of our commitment to the cause?
+Chrom: Of course it will. Thank you, King Validar.
+Validar: The honor is ours, my prince. I look forward to building a strong bond between our two nations.
+Chrom: As do I. Then, if there's nothing else? My men and I must hurry back to Port Ferox.
+Aversa: Oh, so soon? But I have one more introduction to make.
+Chrom: ...Yes? And who would that be?
+Validar: A hierophant, the highest of his/her order in Plegia.
+
+???: ......
+Robin: ...So you lead the people in worship? We were just discussing religion earlier...
+???: ......
+Robin: ...I'm sorry, have I said something to offend you?
+???: ...The heart still sleeps, but the blood flows through it. And the blood is strong...
+Robin: ...Huh? Beg pardon, were you talking to me?
+Frederick: Good hierophant, I would ask you to lower your cowl. In Ylisse, it is a courtesy expected of one in the presence of royalty.
+???: ...... ...You are a long way from Ylisse, sir. ...But very well...
+
+???: Is that better?
+Robin: What?!
+Chrom: By the gods!
+Frederick: What matter of sorcery--
+Robin: He/She looks just like... me.
+???: My name is Robin. Oh, and that was YOUR name as well, wasn't it? What a strange coincidence...
+Validar: Why that IS rather curious, now that you mention it... What are the odds? In any case, I believe we are finished here. We will let you be on your w--
+Chrom: Hold just one moment!
+Aversa: Milord?
+Chrom: What is the meaning of this? Why do your hierophant and Robin--
+Aversa: I'm afraid we've no time for such trivial matters now, Your Highness. We have aid preparations to attend to, and you have a long, hard journey ahead. Oh, and do be careful on your way back to Port Ferox. This time of year the highroads of Plegia can be quite treacherous...
+
+Robin: ...... It's no use. I can't sleep. Who was that man/woman? How could he/she bear my same face?
+
+???: Robin... Heed me, Robin...
+Robin: Huh? Who's there?! T-there's no one. I'm alone...
+???: Heed my call, Robin...
+
+Robin: Nngh... This voice is... in my head? Who are you?! What's happening?!
+
+Validar: Why do you close your heart to him, Robin?
+Robin: V-Validar?
+Validar: Have you truly forgotten?
+Robin: You were... calling me... Augh! My head! Get out of my mind.
+Validar: Heh heh. Such arrogance! You dare take such a tone... with your own father?!
+Robin: ...My what?
+Validar: You are of my flesh, but of sacred blood. You are to serve a glorious purpose! Search deep in your heart. You already know it is your destiny...
+Robin: No... Get... out...
+Validar: Why do you resist us, Robin? Your rightful place is at my side. Not wasting your time with these doomed servants of Naga! Give yourself to Grima! Let me join your strength to the fell dragon!
+
+Chrom: Robin!
+Validar: ...Pah! Not this one again... No matter. In time you will see the truth. And that is all it will be—a matter of time...
+
+Chrom: Robin! Are you all right? I heard shouting.
+Robin:  Nngh... Ahh... Ahh... I-I think so... Yes, Chrom, thank you. I'm... I'm fine.
+Chrom: "Fine" is a poor choice of words! What's happened?!
+Robin: ...King Validar, he... He spoke to me... in my mind. He said I was his... his son/daughter.
+Chrom: What?! ...Is this true?
+Robin: I don't know... But I also don't know it's a lie. Loath as I am to say it, I felt a... a strange connection, between us.
+Chrom: Oh, gods... That hierophant doppelganger... Could he/she be the king's son/daughter, as well? Are you twins?
+Robin: I... I'm sorry, Chrom. I can't remember... But if I'm being honest... it would explain much... I'm not even sure I want to know the truth of my past anymore.
+Chrom: You are yourself, before you are any man's son/daughter. Remember that.
+Robin: ...Thank you, Chrom.
+Chrom: Can you walk?
+Robin: Yes... yes, I think so.
+
+Frederick: Milord, we are under attack! Risen have encircled the camp!
+Chrom: But... we posted sentries! How did this happen?
+Frederick: They made a stealthy approach, milord. I've never seen Risen behave like this. Either they are learning our ways, or someone is commanding them...
+Chrom: Validar! This is his doing—I'm sure of it. Equip anyone who can bear arms, and tell them we fight for our lives!
+
+@Intro
+Chrom: Wh-what's that? A storm of... crows?! Gods, it's upon us!
+???: CAW! CAW! Are you folks lost? Or perhaps a lost CAWs? Heh ha!
+Chrom: Who's there?! Show yourself! Gods' breath, I can't see anything through all these damned birds! Shoo! Scat! Away with you!
+
+Henry: What's wrong? CAW-strophobic? Nya ha ha! Oh, I slay me!
+Chrom: Not if these Risen do it first! This is no time for japes! Hide yourself, boy!
+Henry: You know, I thought you were all right... Turns out you're all FRIGHT! Nya ha ha! I'd wish you good luck killing these monsters, buuuuuut... They're ALREADY DEAD!
+Chrom: We are well aware!
+Henry: The ravens wanted me to give you a message. "Caaw... C-caw-caw." Roughly translated, it means... Hmm, now what was the human word for that again? ...Traipse? ...Tripe? Oh, TRAPPED! Right! ...They say you're trapped.
+Chrom: We know, damn it! Gods... Where did they all come from?
+Henry: Well, see, when a mommy zombie and a daddy zombie love each other very much... Nya ha ha!
+Chrom: Perhaps I should save the Risen the trouble and silence you myself.
+Henry: Hey, wait! I want to join your CAWs—I mean, I can help you! I know magic! What do you say... Birds of a feather and all that?
+Chrom: Those robes... A Plegian dark mage? ...Why would you help us?
+Henry: Oh, don't let all the joking around fool ya—I've got kind of a thing for killing. Most funny people do, you know. The two things must be linked somehow. Ever talk to a jester when he's off duty? Those guys are some sick dastards!
+
+@Battle
+Henry: Oh! Those ravens also said to keep an eye on those fortresses. If you're nearby when more monsters emerge, it could CAWs quite a stir!
+
+@Boss
+Risen Chief: Grrr...kill...prince... Bwaaarg!
+
+Risen Chief: Kill...priiii...agh...
+
+@End 
+Chrom: That's the last of them. Gods, I thought it might nev--
+Robin: Chrom, look out!
+Chrom: Huh?! Ah!
+Marth:  Father, no!
+
+Marth: Thank the gods you're safe!
+Chrom: ...You called me "Father."
+Marth: Did I? I... ...Perhaps we might speak privately?
+Chrom: Perhaps we should, yes.
+
+@Dialogue 
+Marth: I don't even know where to begin.
+Chrom: I already know you're not "Marth," though I've nothing better to call you... But I'll ask nothing of you that you don't wish to reveal. Whoever you are, Ylisse owes you a debt beyond repaying.
+Marth: Thank you, but... I think I would prefer you know the truth.
+Chrom: As you wish.
+Marth: Here. Look closely, and all will be made clear.
+
+@Cutscene 
+Chrom: That's the Brand of the Exalt... Lucina...
+
+Chrom: You deserved better from me than one sword and a world of troubles. I'm sorry.
+Lucina: Oh, Father! Father...
+
+@Dialogue 
+Chrom: ......
+Lucina: ......
+Chrom: Better, Lucina?
+Lucina: Yes. Father... I'm sorry. It just all rushed back at once.
+Chrom: Father...
+Lucina: Should I call you something else?
+Chrom: No, it's just strange to my ear. ...I like it.
+Lucina: ...Father! Heh heh...
+Chrom: Hah! Yes, it will take some getting used to!
+Robin:  I'm sorry—Chrom?
+Chrom: Hmm? Oh, Robin. What is it?
+Robin: It's just that... You two are out here alone, and Marth is...crying. This is how ill rumors are born.
+^start 
+Robin: I trust you, Chrom, but is there a reason you and Marth need to be alone?
+Chrom: Can we tell her, Lucina?
+Lucina: Of course.
+Robin: Lucina?!
+Chrom: Robin, this is going to come as a shock, but... I'll just say it: This is our daughter.
+Robin: ...What?! Have you gone mad?!
+Lucina: It's true, Robin. Please, look closely. Prove it with your own eyes by looking into mine.
+Robin: Ah! You have the Brand!
+Chrom: The same Brand carried by all House Ylisse's bloodline.
+Robin: Lucina's eye bears the exact same pattern...
+Chrom: Do you see now?
+Robin: ...No, no I can't say that I do. If this is Lucina, what has befallen our baby back at the palace?
+Chrom: Nothing. She's fine.
+Lucina: Your baby is right where you left her, and perfectly safe. I am from another time. A time that has yet to be.
+Robin: You mean... the future?
+Lucina: Yes, more than 10 years hence. After history takes a dark and most destructive turn...
+
+Sumia: He loves me... He loves me not...
+Chrom: Er, Sumia? Why in the gods' names are you shredding those poor flowers?
+Sumia: I'm not spying on you! You can't prove that I am! Oh, gods! You brought... HER! *sniff sniff*
+Chrom: Can we tell her, Lucina?
+Lucina: Of course.
+Sumia: Lucina? But wait, that's...
+Chrom: Sumia, this is going to be something of a shock, but... I'll just say it: This is our daughter, Lucina.
+Sumia: ...What?
+Lucina: It's true, Sumia. I'm your daughter. Look closely and see for yourself.
+Sumia: Y-your eye! It has the Brand!
+Chrom: The same Brand carried by all House Ylisse's bloodline.
+Sumia: This... This is...
+Chrom: Do you see now?
+Sumia: No, Chrom, I do NOT see! This doesn't make any sense! ...Wait. Is my Lucina all right? What did you do to her?!
+Chrom: Peace, Sumia.
+Lucina: Your baby is right where you left her, and perfectly safe. I am from another time. From a time that is yet to be.
+Sumia: You mean... the future?
+Lucina: Yes, more than 10 years hence. After history takes a dark and most destructive turn...
+
+Maribelle: All right, Maribelle. Be calm, and handle this like a true woman of good breeding... Or just punch him in his cheating lying face! Grrr...
+Chrom: Maribelle? You seem upset.
+Maribelle: Oh, upset?! Upset, is it?! Is that why you're flocking to other women? And you brought her HERE! Why? Just to rub my nose in it?!
+Chrom: ...I think we should tell her, Lucina.
+Lucina: Of course.
+Maribelle: Lucina? But that's...
+Chrom: Maribelle? This may be hard to understand, but... This is our daughter.
+Maribelle: What?! Now you're LYING to me?!
+Lucina: It's true, Maribelle. I am your daughter. Here, look closely. Prove it for yourself.
+Maribelle: ...You have the Brand!
+Chrom: The same Brand carried by all House Ylisse's bloodline.
+Maribelle: This is Lucina's pattern...
+Chrom: You see now?
+Maribelle: No! I DON'T! Did someone kidnap our daughter and...and...and ENLARGE her?!
+Chrom: Peace, Maribelle.
+Lucina: Your baby is right where you left her, and perfectly safe. I am her from another time. From a time that is yet to be.
+Maribelle: You mean...the future?
+Lucina: Yes, more than 10 years hence. After history takes a dark and most destructive turn...
+
+Sully: Hyah! Kah! Yah!
+Chrom: Um, Sully? Isn't it a little late to be practic-
+Sully: You've got some nerve bringing that damn hussy around here! Now get her away from me before I start practicing on HER!
+Chrom: ...I think we should tell her, Lucina.
+Lucina: Of course.
+Sully: ...Lucina? This trollop shares the same name as our daughter?!
+Chrom: ...She IS our daughter.
+Sully: This is cruel, Chrom. Cruel beyond words! Stop hiding behind your wild stories and admit your-
+Lucina: It's no tale, Sully. It's the truth. I am your daughter. Look closely and see for yourself.
+Sully: ...She has the Brand!
+Chrom: The same Brand carried by all House Ylisse's bloodline.
+Sully: It's the same as Lucina's... What the blood hell is going on here?!
+Chrom: Sully, listen to me-
+Sully: Did someone kidnap our baby?! Dastards! I'll rip their throa-
+Chrom: Peace, Sully.
+Lucina: Your baby is right where you left her, and perfectly safe. I am her from another time, a time that is yet to be.
+Sully: You mean... the future?
+Lucina: Yes, more than 10 years hence. After history takes a dark and most destructive turn...
+
+Olivia: Oh, Chrom...I thought we would last forever! *sob*
+Chrom: Olivia? Why are you crying?
+Olivia: It's alright. She's beautiful, and your happiness comes first... WAAAAAAAAAAAH!
+Chrom: We have to tell her, Lucina.
+Lucina: Of course.
+Olivia: Lucina? I don't understand...
+Chrom: Olivia, this is going to come as a shock, but...I'll just say it, then: This is our daughter.
+Olivia: ...Do you think I'm an IDIOT?!
+Lucina: It's true, Olivia. Look closely. Prove it with your own eyes by looking into mine.
+Olivia: Ah! You have the Brand!
+Chrom: The same Brand carried by all House Ylisse's bloodline.
+Olivia: Our baby's is identical...
+Chrom: You see now?
+Olivia: No, I...I don't understand any of this. What happened to our child? Is this some sorcerer's trick?
+Chrom: Peace, Olivia.
+Lucina: Your baby is right where you left her, and perfectly safe. I am her from another time. From a time that is yet to be.
+Olivia: You mean...the future?
+Lucina: Yes, more than 10 years hence. After history takes a dark and most destructive turn...
+
+Chrom: Can I tell him/her, Lucina?
+Lucina: All right.
+Robin: "Lucina"? ...What are you saying?
+Chrom: Robin, this will come as a shock, but... I'll just say it. This is my daughter.
+Robin: ...No. Impossible.
+Lucina: It's true, Robin. Here, look closely.
+Robin: She has the Brand!
+Chrom: The same Brand carried by all House Ylisse's bloodline.
+Robin: Your daughter's is the same pattern...
+Lucina: And she is still safe back at the palace, I assure you. I am her from another time. From a time that has yet to be.
+Robin: ...The future?
+Lucina: Yes, more than 10 years hence. After history takes a dark and most destructive turn...
+^end
+
+@Cutscene 
+Woman:  What are you doing?! Run! Oh, gods! Run faster!
+
+Lucina: I believe the woman you want... is ME!
+
+Lucina: We can't let these things win.
+
+Lucina: Now grab a sword... and FIGHT!
+
+@Dialogue 
+Robin: But why? What happens in the future?!
+Lucina: The fell dragon, Grima, is resurrected. His roar is a death knell for man, a scream that silences all hope... Death everywhere...
+Robin: Chrom? ...Our whole company? All of us? Dead?!
+Lucina: ...Yes.
+Robin: ...I...I don't know what to say.
+Chrom: A tale that beggars belief, and yet the truth of it stands before us. She carries Falchion, my same sword. And the same sword the first exalt used to defeat Grima long ago.
+Lucina: Your blade and mine are one, Father. It was... It was all I had left of you.
+Chrom: [to Robin] There is only one Falchion, Robin. I believe her.
+Lissa: Yeah, and so do I! Heck, I saw her COME from the future! She fell right out of the sky! I've never seen anything like it...
+Lucina: Thank you, Aunt Lissa. Naga, the divine dragon, feared mankind would face Grima again. In preparation for that day, she devised a ritual. It allows one to return to the past and alter events already written. I made the journey with others, but... we became separated.
+Lissa: Don't worry, Lucina. If they're out there, we'll find 'em!
+^start
+Robin: ...... My daughter...
+Lucina: Yes, Robin. Your daughter.
+Robin: You have grown into such a strong and beautiful woman... Chrom and I are truly blessed.
+Lucina: Thank you... milady.
+Robin: Will you not call me Mother?
+Lucina: I... thought you might mind.
+Robin: Of course not! I love you with all my heart!
+Lucina: *Sniff* Oh, Mother...
+Robin: You are the finest daughter a woman could hope for, Lucina.
+Lucina: Mother... Oh, I've missed you more than you'll ever know...
+
+Sumia: ...... Are you really my daughter?
+Lucina: I swear on my life.
+Sumia: You grow up... Er, grew up to be so strong... So beautiful...
+Lucina: Thank you...Sumia.
+Sumia: You don't want to call me Mother?
+Lucina: I... thought you might mind.
+Sumia: Of course not! I love you more than anything in the world.
+Lucina: *Sniff* Oh, Mother...
+Sumia: I am so very proud of you...
+Lucina: I've missed you more than you'll ever know...
+
+Maribelle: ...... Are you truly my daughter?
+Lucina: Yes. I swear it.
+Maribelle: I suppose it IS rather obvious. So strong and lovely...
+Lucina: Thank you...milady.
+Maribelle: What's wrong with "Mother"?
+Lucina: I...thought you might mind.
+Maribelle: Of course not, you fool of a girl! I love you, and have every intention of showing you off to everyone!
+Lucina: *Sniff* Oh, Mother...
+Maribelle: I couldn't be more proud of you.
+Lucina: I've missed you more than you'll ever know...
+
+Sully: ...... So you really are my daughter?
+Lucina: I swear on my life.
+Sully: Well, you turned out damn beautiful. And tough like me! Har!
+Lucina: Thank you...Sully.
+Sully: ...Sully?
+Lucina: I... thought you might mind anything more familiar.
+Sully: Why, so Chrom can take all the credit? Of course not! I love you!
+Lucina: *Sniff* Oh, Mother...
+Sully: C'mere, you. I'm so proud of you...
+Lucina: I've missed you more than you'll ever know...
+
+Olivia: ...... You're really...my daughter?
+Lucina: Yes. I swear it.
+Olivia: But you're so strong and beautiful...Nothing like me!
+Lucina: Everything like you...milady.
+Olivia: You don't want to call me Mother?
+Lucina: I...thought you might mind.
+Olivia: Mind? It would make me happier than anything!
+Lucina: *Sniff* Oh, Mother...
+Olivia: I love you, Lucina.
+Lucina: I've missed you more than you'll ever know...
+
+Chrom: I wish I could introduce you to Lu— er, yourself, back at the castle. I'd like my child to see the amazing woman she will become.
+Lucina: Yes, and Mother! I would love to see Mother as well.
+Chrom: Yes! She would be so happy! ...Er, after the initial shock.
+Lucina: I've missed you both so much, Father. ...So very much.
+^end

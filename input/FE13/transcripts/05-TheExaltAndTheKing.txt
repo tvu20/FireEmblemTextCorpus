@@ -1,0 +1,76 @@
+@Intro 
+Gangrel: What's this, then? The exalt herself, in all her radiance? I fear I must shield my eyes! Bwa ha ha ha!
+Emmeryn: King Gangrel, I've come for the truth of this unfortunate incident between us.
+Aversa: The truth? I can give you the truth.
+Emmeryn: Perhaps milady might first share her name?
+Aversa: You may call me Aversa.
+Emmeryn: Very well, Aversa. Is Maribelle unharmed?
+Gangrel: Who? Oh yes, that little blonde brat.
+
+Maribelle: Unhand me, you gutter-born troglodyte!
+Lissa: Maribelle!
+Maribelle: Lissa? Darling, is that you?
+Aversa: This girl crossed the Plegian border without our consent. And what's more... She wounded the brave Plegian soldiers who sought only to escort her safely home.
+Maribelle: LIES! You speak nothing but lies, hag! Did they not teach the meaning of the word "truth" in wretched-crone school?!
+Aversa: ...You see? No manners at all. Such a nasty little bird simply had to be caged.
+
+Gangrel: Such a violent temper speaks to her guilt. This will call for a weighty punishment. And if she were to later confess to being an Ylissean spy? My goodness! It would take an act of CONSIDERABLE good faith to repair our relations.
+Maribelle: I have done nothing wrong! It is they who should confess! They are the ones who invaded Ylisse. They razed an entire village! When I attempted to intervene, they took me and dragged me across the border. Let the plundered shops and charred homes of that village serve as my proof!
+Gangrel: That would only prove Ylisse has a bandit problem—something I hear oft of late... But indeed, tonight I shall weep salty tears into my pillow for your dead villagers.
+Maribelle: Your Grace, please!
+Emmeryn: Peace, Maribelle. I believe you. King Gangrel, I request that you release this woman at once. Surely you and I can sort out these affairs without the need of hostages.
+Gangrel: Without so much as an apology? Why should I even bother with parley? I'm within my rights to have her head this instant and be home in time for supper.
+Chrom: You black-hearted devil!
+Gangrel: Control your dog, my dear, before he gets someone hurt.
+Chrom: Rrgh…
+Gangrel: Now then, Your Graceliness. Perhaps we can arrange a trade? You give me the Fire Emblem, and I return Mari Contrary here in one piece.
+Emmeryn: You would ask for Ylisse's royal treasure? But why?
+Gangrel: Because I know the legend! The Fire Emblem is the key to having all one's wishes realized. I have desired it for years. YEARS! ...Yet my birthday comes and goes each year, and nothing from Ylisse. Heheh…
+Emmeryn: The Emblem's power is meant for a single purpose, King Gangrel: to save the world and its people at their hour of most desperate need. Would you claim a more noble wish?
+Gangrel: I want what every Plegian wants—a grisly end for every last Ylissean! What could be more noble than that?
+Emmeryn: What?
+Gangrel: Surely you have not forgotten what the last exalt did to my people? Your father named us heathens! His "crusade" across Plegia butchered countless of my subjects and my kin!
+Emmeryn: ...I have never denied Ylisse's past wrongdoings. But I have sworn to never repeat those mistakes. Ours is now a realm of peace.
+Gangrel: Yours is now a haven of hypocrisy! Now give me the Fire Emblem!
+Maribelle: No, Your Grace! I'd sooner die than act as a bargaining chip for this filthy reprobate!
+Emmeryn: No, Maribelle…
+Gangrel: Ugh... Taaaaaalk talk-talk-talk-talk. It's time to speak louder than words! This negotiation is over, Your Luminosity! I shall have the Emblem if I have to pry it from your shiny dead hands!
+
+Chrom: Stay back! Or you'll all suffer the same fate!
+Gangrel: Now that's a declaration of war if I've ever heard one... A big, messy war that will bleed you Ylisseans dry. Bwa ha ha!
+
+Aversa: Poor, stupid girl... Are you really worth fighting a war over? Years from now, you'll be remembered only as she who destroyed House Ylisse.
+Maribelle: No... That's not... Oh, Lissa... Please, no…
+
+Aversa: ...?!
+Ricken: Maribelle! Go! You're free!
+Maribelle: RICKEN?! What are you doing here?
+Ricken: Just run! We can talk about it later!
+Aversa: Oh, is this your little boyfriend? Isn't he just precious.
+Ricken: Don't talk down to me, witch! 
+Aversa: Nngh! W-wind magic?
+Ricken: Come on, Maribelle!
+Maribelle: Right!
+
+Aversa: Wretched whelp! I should... No. Our soldiers have them outnumbered. The brats will be dead long before they can reach their comrades.
+
+@Battle 
+Gangrel: Bwa ha ha! I have my war! Captain Orton! Remain here, and take down as many Ylisseans as you can. You can expect reinforcements from the forts as well. Now, do your best—at doing your worst! Bwa ha! 
+
+@Boss
+Orton: I won't ask for your name. Only your life!
+
+Orton: This matters not. Soon war will be upon...your soil... Heh heh...
+
+@End 
+Lissa: Maribelle! Are you hurt?!
+Maribelle: Nothing I didn't return twofold, darling.
+Robin: I'm glad you're safe.
+Maribelle: Who...? Oh. It's you.
+Robin: Yes. I know you're not especially fond of me, but it's a relief just the same.
+Maribelle: Oh, it's not a question of fondness. I am simply protective of Lissa. My treasure is very sensitive, and... Wait. Am I really justifying myself to a commoner? Gods... Yes, well, I do...apologize for being curt. And... And... And you have my thanks for your part in the rescue. There, I said it!
+
+Chrom: Forgive me, Emm. I acted rashly.
+Emmeryn: It's all right, Chrom. King Gangrel is the one at fault here. You were only protecting me.
+Frederick: The Mad King will be rallying his forces, if they have not mobilized already. I suggest we make haste back to Ylisstol and discuss our strategy.
+Emmeryn: Of course, Frederick. It seems war is upon us. We must protect the Ylissean people at all costs.

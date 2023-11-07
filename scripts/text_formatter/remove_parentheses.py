@@ -15,7 +15,7 @@ with open(os.path.join(__location__, "parentheses.txt"), 'r') as f, open(os.path
             # fo.write("")
             # fo.write("")
             # fo.write("\n\n")
-            fo.write("\n")
+            # fo.write("\n")
             # nextline = next(f, None)
 
             # if len(nextline.strip()) != 0:
@@ -24,11 +24,12 @@ with open(os.path.join(__location__, "parentheses.txt"), 'r') as f, open(os.path
 
         # remove in-line parentheses
         else:
-            new_text = line.replace("(Name of tactician)", "Mark")
-            new_text = re.sub(r'\([^)]*\)', '', new_text)
+            # new_text = line.replace("(Name of tactician)", "Mark")
+            new_text = re.sub(r"([\(\[]).*?([\)\]])", '', line)
+            # new_text = re.sub(r'\([^)]*\)', '', new_text)
             new_text = new_text.replace(" :", ":")
 
-            # this is just for fe7! will remove later
-            new_text = new_text.replace("In-game message", "Tutorial")
+            # # this is just for fe7! will remove later
+            # new_text = new_text.replace("In-game message", "Tutorial")
 
             fo.write(new_text)

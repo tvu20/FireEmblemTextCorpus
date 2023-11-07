@@ -1,0 +1,117 @@
+@Intro 
+Lissa: Here we are! The Shepherds' garrison. Go on, Make yourself at home.
+
+Maribelle: Lissa, my treasure! Are you all right? I've been on pins and needles!
+
+Lissa: Oh, hey, Maribelle!
+Maribelle: "Oh hey" yourself! I've sprouted 14 grey hairs fretting over you!
+Lissa: Aw, you worry too much. I can handle a battle or two! ...Although I could do without the bugs and the bear barbecue...
+Vaike: Hey, squirt! Where's Chrom? I bet he had a rough time out there without ol' Teach and his trusty axe!
+Lissa: Oh, so you're "Teach" now, Vaike, is that it? Hee hee! And here I thought people were just born lacking wits. It can be taught?
+Vaike: Ha! Never doubt the Vaike! ...Wait, was that an insult?
+Sumia: Beg pardon, but when might we see the captian?
+Maribelle: Poor Sumia. She's simply been beside herself with concern... Her eyes were scanning the horizon all day during training. ...She might have earned fewer bruises fighting blindfolded.
+Lissa: Aw, Sumia, that's so sweet of you to worry about Chrom.
+Sumia: Worry? Well, I... He's our captain and our prince- of course I'd worry!
+Vaike: So, who's the stranger?
+Lissa: No one's stranger than you Vaike... But allow me to introduce Robin! He/She just joined the Shepherds. Chrom's made him/her our new tactician. You should see all the tricks he/she's got up his/her sleeve!
+Vaike: Oh yeah? Can he/she do this? *buuuuuurp*
+Robin: I'm sure I have much to learn in the belching arts, "Teach." In any case, it's a pleasure to make your acquaintances.
+Maribelle: Ugh, Vaike! That was abhorrent! Must you baseborn oafs pollute even the air with your buffoonery? And you, Robin! Don't encourage him! I'd hope you were cut from finer cloth. Hmph!
+
+Sumia: Don't take it to heart, Robin. Maribelle warms to people slowly.
+Lissa: Or burns too quickly! Hee hee! But yeah, just give her time.
+
+Sumia: Ah! Captain! You've returned! I was- I mean, we were so-
+
+Chrom: Sumia! Are you all right? ...Those boots of yours again?
+Sumia: No! I mean, yes! I mean... *sigh*
+Chrom: All right, listen, everyone: in the morning, we'll be marching to Regna Ferox.
+Robin: Regna Ferox?
+Sumia: A unified kingdom to Ylisse's north inhabitied by barbarians, or so it's said.
+Chrom: Warriors are what they are, and we'll need their strength to quell thas new menace. Typically, the exalt would request such aid in person. But given recent events... Well, the people might worry should my sister suddenly leave the capital. So the task has been passed to us. Now, this mission is strictly voluntary. So if, for any-
+Lissa: I volunteer!
+Vaike: Me too! You'll be needin' ol' Teach along for such a delicate mission!
+Kellam: I'll go as well. ...What? I've been here the whole time!
+Sumia: I... I, um...
+Chrom: Yes, Sumia?
+Sumia: It's just that... I'm not sure I'm quite ready for a proper mission just yet. I'd probably just get in the way.
+Chrom: Well, you could stay behind the main group, and if a battle is met, just watch and learn? Your choice, of course. But some lessons can only be learned on the battlefield.
+Sumia: W-well, if you think it wise, Captain.
+Chrom: Just stay by me and you'll be fine.
+Sumia: Oh, yes! I mean- Yes, sir, I'll do that!
+
+Chrom: Is everyone ready? We've a long march ahead.
+Stahl: W-wait for me!
+
+Chrom: Stahl?
+Stahl: Why am I the last to hear about this expedition to Ferox?
+Lissa: Huh? Vaike was supposed to... Vaike! Did you forget to tell Stahl about our mission?
+Vaike: The Vaike never forgets! ...I just don't always remember, is all...
+Lissa: Ugh... I swear, you'd forget your own name if you weren't constantly saying it yourself! Speaking of which, are you SURE you remembered your axe this time?
+Vaike: Hey! That was one time! ...Okay, twice, but training sessions don't count. Anyway, I got it right here. Teach is loaded and ready for action! Glad to have you along, Stahl, ol' buddy.
+Stahl: That makes one of us. I was in such a hurry, I had to miss breakfast! There were muffins, and cakes, and... Well, I can tell you all about it while we march...
+Robin: Your name is Stahl, right?
+Chrom: Oh, I'm sorry, Robin. This is Stahl, one of our finest.
+Stahl: Hello, Robin. Miriel told me we had a new Shepherd. Er, Miriel's one of our mages. She should catch up soon.
+
+@Battle 
+Chrom: Gods, have the Risen spread this far?
+Robin: "Risen"?
+Frederick: We needed a name for this new threat, so the council gave them one.
+Chrom: Everyone, remember what we're up against!
+Vaike: Mya ha! They'll remember ME once I drive my axe into their... Wait... My axe. Where's my axe?! I had it a second ago!
+Chrom: Vaike, this is no time for jokes...
+Vaike: I'm serious! It's gone, but I JUST had it! It's got to be around here somewhere...
+Chrom: Keep to the rear, then! The battle is nigh!
+
+Frederick: All right, listen up. ...Especially those of you who BROUGHT weapons! All weapons have strengths and weaknesses to bear in mind. Lances have an advantage over swords, for example, while swords best axes. We'll want to work this into our strategy whenever possible.
+
+Miriel: Splendid! It seems I've caught up. Now to extirpate these brutes... Hmm? Is that an axe? Why yes it is... Perhaps someone mislaid it? I'd not thought such dereliction permissible amoung the Shepherds. Still, I'd be remiss to not return this implement to its owner. Perhaps along with a stern word or two of disapprobation!
+
+@Battle-Talk 
+%Vaike,Miriel
+Vaike: Whoa! My axe!
+Miriel: I wondered what manner of ignoramus would mislay their weapon. Now I know.
+Vaike: Thanks, Miriel! ...Er, for the axe anyway!
+Miriel: Perhaps next time I'll use a spell to fasten it to your hands... permanently.
+
+Chrom: What's next, Robin? Guide our swords.
+Frederick: Might I advise patience, milord? Robin is a fine tactician, but we have been working her/him mercilessly. Even the best of us needs rest.
+Chrom: Yes, of course. I'm sorry.
+Frederick: Perhaps Robin would prefer we choose our own actions at times.
+Chrom: But how will we know?
+Frederick: We could use a simple command that lets us fight on our own. So long as Robin realizes such a strategy does not guarantee victory. Acting as we see fit may not always lead us to the best course of action.
+
+@Boss
+Risen Chief:  Gwaaaaaar!
+Risen Chief:  Unnngh...
+
+@End 
+Chrom: Finally, and good riddance! But if they're appearing this far up the Northroad...
+Frederick: Then no path is safe. We'll need to stay wary.
+
+Robin: Well, what do we have here?
+Lissa: Hey, is that what I think it is?
+
+Chrom: It's a pegasus, all right. I think it's hurt. Let's just have a look here...
+
+Chrom: WHOA! Down, girl! Easy there!
+Sumia: Captain, one moment!
+
+Chrom: Sumia! Are you all right? ...Those boots of yours again?
+Sumia: No! I mean, Yes! I mean... *sigh*
+Chrom: Well, come no closer. This beast is crazed!
+Sumia: It's okay, Captain. I can handle this... Shhh... Easy now, girl. I won't hurt you.
+
+Sumia: Shhh...
+Robin: How did she calm it so quickly?
+Lissa: That's incredible, Sumia!
+Chrom: I've never seen anything like it.
+Sumia: Oh, it's...it's nothing. Really. I just have a way with animals, I guess.
+Chrom: I should say so!
+Sumia: You all go ahead. I'll dress her wounds and catch up as soon as we're able.
+Chrom: We can make time to wait for you.
+Sumia: thank you, Captain. But I can manage. Every moment is precious when all of Ylisse is in danger.
+Chrom: Right, then. Be safe, Sumia.
+Sumia: As you command, sir.

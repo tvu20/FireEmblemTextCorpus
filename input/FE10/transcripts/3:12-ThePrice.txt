@@ -29,7 +29,7 @@ Micaiah: Please tell me, Your Majesty. What is a blood pact?
 
 Pelleas: I-I swear to you. I didn't know. I had no idea...
 
-
+@Flashback
 Pelleas: What could be so urgent that the empire's messenger would pay a visit at this hour? Has something happened?
 Messenger: King Pelleas... Please prepare to receive Vice-Minister Lekain.
 Pelleas: What?!
@@ -67,9 +67,10 @@ Lekain: It was quite tragic. One man died on the first day. He was only a peasan
 
 Lekain: I hope I've made myself clear. No matter how you struggle, you have no choice but to follow the orders given to you by the empire. No matter how noble your motives, defiance against us will result in the death of your nation. This you must never forget. Ahhh, and one more thing... If you're considering seeking aid from outside of Daein, think again. We have spies and informants in every corner of Tellius. We will know immediately if you tell anyone.
 
-Sothe: Let me get this straight. Everyone in Daein will die if you disobey the senate? Tauroneo: What a heavy burden... It cannot be! Almedha: Show Mother the mark of your pact.
-
-
+@Intro
+Sothe: Let me get this straight. Everyone in Daein will die if you disobey the senate? 
+Tauroneo: What a heavy burden... It cannot be! 
+Almedha: Show Mother the mark of your pact.
 
 Almedha: It's true... This is the mark of a blood pact. My son has been deceived!
 Sothe: Oh, give it up! You expect us to buy that ghost story? It's just something to scare little kings into eating their vegetables! Before you go shining Begnion's boots, get some proof of the senate's claims!

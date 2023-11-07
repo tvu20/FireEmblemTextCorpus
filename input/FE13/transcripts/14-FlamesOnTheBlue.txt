@@ -1,0 +1,72 @@
+@Intro 
+Robin: Ah, take it all in! Breathtaking... Somehow our troubles feel a lifetime away out here.
+Chrom: Yet in truth, we're headed straight toward them... I should be grateful the Plegians delivered us this fleet, as promised. But it's my first time on a vessel, and my legs... I never fancied myself a sea captain.
+Lucina: This is my first voyage as well. In my time, all ships were destroyed. Smashed to pieces, along with their ports.
+Chrom: Lucina... Something I've been meaning to ask... After you stopped Emm's assassination... Why didn't you stay with us?
+Lucina: I felt I had no other choice. I could not risk altering history any more than necessary. I sought only to divert events that directly led to Grima's return.
+Lissa: Hey, so wait—what about the guys who tried to kill Chrom in the gardens? What would've happened if you didn't save him?
+Lucina: He would have been gravely wounded. And those wounds would have played a part in the tragedies to come.
+Lissa: Whoa! Good thing you changed things, huh?
+Lucina: If indeed they have changed... The river of time always favors its original course. Take the exalt's death... I stalled it, yes, but in the end I was not able to prevent it.
+Chrom: ...You did what you could.
+Lucina: I was so certain it was over. That I'd saved the world. But time simply found another way back to its course. Perhaps the task is simply too great... Perhaps if I'd done something differently? I replay events in my head, over and over...
+Chrom: Don't. You did your best. And you saved me, after all.
+Lucina: You're kind, Father. But nothing is certain... Another could take your life. Time could find a way...
+Chrom: ...Do you know how I die?
+Lucina: Only rumors... I was told you fell in a great battle, fought to sway your destiny. ...And that you were murdered— betrayed by someone dear to you.
+
+Robin: Nngh! Ah...
+Chrom: Robin? What is it?
+Robin: M-my head... I don't... F-forgive me. I'm fine.
+Lucina: ...... After your murder and Grima's return, I took the name Marth and fought back. I prayed to the Hero-King for a small part of the strength he used to save the world. But I need this subterfuge no longer. I choose to fight as Lucina now. The name that reminds me of the strength in the man and woman who chose it.
+Chrom: A strength shared by the woman who bears it.
+
+Frederick: The pegasus knights report the Valmese fleet matches ours, ship for ship.
+Chrom: Your tone tells me this is not good news.
+Frederick: Their troops vastly outnumber ours. Our vessels are half-full, at best. But every Valmese ship is packed from stem to stern with soldiers.
+Chrom: If we attempt to board them in a straight fight, we'll be slaughtered.
+Flavia: We've little choice but to try anyway. Plegia had no men to spare, but they were generous with other supplies...including oil. Perhaps a clever tactician could find a use for that.
+Robin: Hmm... Perhaps he/she could.
+Flavia: If we can put their ships to flame, they'd have nowhere to escape to. We could—
+Basilio: You could roast us all like hams! Are you truly so eager to die, woman?!
+Flavia: Do you have a better idea, oaf?! ...The problem is we have no catapults. Hmm... How to get the lit oil on their decks without our own ships getting caught in the blaze?
+Robin: Hmm... Unless we WANT our ships caught in the blaze...
+Basilio: Why in the gods' named would... Well, I know better than to question Robin. Especially not when he/she has that look in his/her eyes. Gods save us from what he/she's cooked up this time—let's just hope it's not us!
+Robin: Chrom, I have an idea.
+Chrom: Those words from your mouth are music to my ears, Robin.
+Robin: But for my plan to work we'll need to disrupt their chain of command... Our strongest team would need to board their lead ship and kill their general. As our best captain I'd have you head the squad, but you ARE the prince, so...
+Chrom: Yes, I AM the prince, so no one can order me NOT to go. I will lead the assault!
+Robin: Then this plan truly stands a chance.
+Chrom: Heh... So much has changed since we found you that day, lying in the open field... Hard to believe you determine the fate of our entire army now...our entire people. Destiny has a strange way.
+Robin: ...No, Chrom. Not destiny.
+Chrom: What?
+Robin: We're not pawns of some scripted fate. I believe we're more. Much more.
+Chrom: How do you mean?
+Robin: There's something between us all. Something that keeps us together... Like...invisible ties, connecting us. Giving us strength... WE forged these ties. WE strengthen them. If we preserve them, or break them, it will be by our choices, not some "destiny"...
+Chrom: ...Robin... I think this salty air might have gone to your head, hah!
+Robin: All right, all right—perhaps enough philosophy for one day... There are still details to discuss.
+Chrom: Indeed there are! And preparations to be made! Oh, and, Robin... If we are all bound by these invisible ties, I thank the gods it's with you.
+Robin: ......
+Chrom: Now then, everyone! Look lively! We have work to do!
+
+@Battle 
+Ignatius: One ship against three of ours? They're either very brave or very stupid... Either way, their bodies will float on the long sea before the day is done.
+
+@Boss
+Ignatius: Arrogant pup! The seas are my home, and they will be your grave!
+
+Ignatius: Strike me down, and ten will take my place... You...have...lost!
+
+@End 
+Chrom: Robin! Their general has fallen! I'm giving the signal! All appointed ships, change course! Head right at them! Ramming speed!
+Soldier: ...Gods and thunder! Any second now!
+Chrom: Steady... Steaaaady...
+Soldier: We're right on top of them!
+Chrom: NOW! JUUUMP!
+
+Lissa: The sea itself is on fire!
+Frederick: It worked! It worked!
+Flavia: Only you could hatch such a brilliant scheme, Robin. Who else would desert half our vessels and turn them into flaming cannonballs? And there was still enough room on the remaining ships for all our troops. It was so simple, and yet the Valmese never saw it coming. They never considered anyone might be willing to sacrifice half a fleet...
+Chrom: We may have won the day, but the war still looms. We must continue on and seize control of their main harbour.
+Basilio: Aye, boy! I've had enough of the smoke and smell here for one lifetime, besides.
+Chrom: Full speed for Valm!

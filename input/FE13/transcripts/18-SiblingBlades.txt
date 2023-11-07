@@ -1,0 +1,121 @@
+@Intro
+Say'ri: Just as I thought: the turncloaks only made a show of opposing us. We're clear of them. But Yen'fay's forces approach swiftly. It won't be long now...
+Robin: We should hasten south to meet them, and distance ourselves from Walhart. This battle will be challenge enough without the Conqueror breathing down our backs.
+Say'ri: ...Another concern: the dynasts who betrayed us. They attacked us and let us go both, because it suited their purpose. Should they attack us from behind as we battle Yen'fay, it would be an easy victory. They would curry favor with the empire without risk of injury. This is how they think.
+Robin: Hmm...
+Chrom: We cannot defend two fronts. We'll need to choose our battlefield carefully... Say'ri, that mountain—I've seen it smoke for hours but I see no trees on it anywhere?
+Say'ri: What...ah. That is no forest fire, sir. It's a volcano. Have you never seen one? That one is called the Demon's Ingle. It is known and feared by all people of Valm. Few dare even get close, lest they anger the wicked fire god.
+Chrom: Hmm... Robin? Are you thinking what I'm thinking?
+Robin: Only if you're wondering how quickly we can reach the volcano.
+Say'ri: G-go to the Demon's Ingle?! Do you know what you're saying?
+Robin: I'm saying your opportunistic former friends wouldn't dare risk following us. And we can use the flames as barriers, to limit how your brother's army approaches.
+Say'ri: Mmm... And my brother will still come. His stubborn pride will force his hand...
+Chrom: Then it seems we have our strategy.
+Say'ri: ...'Tis a risky plan, but I can devise none better. And you two seem to have a peculiar talent for performing miracles.
+
+@Battle 
+Yen'fay: ......
+Excellus: Why, General, such a melancholic air about you today. Whatever is the problem? ...Oh, is today the day you face off against your beloved sister? Dear me, of course it is! Well then, of course you'd be in a foul mood...
+Yen'fay: She is a rebel and traitor to the empire. I have no sister.
+Excellus: Oh, very good, very good—right out of the book, General Yen'fay! (And I commend your acting ability...very convincing! I think your men all heard you.) In any case, I'm SO glad I can trust you not to take it easy on her ragtag little troupe.
+Yen'fay: ......
+Excellus: Yes, we BOTH know why you'd never let any of her comrades escape, don't we? Oh, I know it must be so difficult, General. But think of it this way: You still have a family. A big one! The whole imperial army is your family now! ...Well, I should run. Do tell your little sister I say hello? Ta ta!
+
+@Boss 
+Yen'fay: I am Yen'fay of Chon'sin. That is all you need know before you die.
+
+Yen'fay: Well fought... She will...be...safe... I can die...in peace...
+
+%Say'ri,Yen'fay
+Say'ri: Brother. I won't ask you why... We are well beyond that point now. I will speak it plain: I cannot forgive you, and neither can I let you live.
+Yen'fay: I've asked you for nothing, Sister, least of all your forgiveness.
+Say'ri: But you will have my justice, like it or no! You, who stood by in silence while everyone around you suffered! While villages were razed and fields burned, you watched but said nothing... When Father and Mother were murdered—you said nothing! Nothing, before you ran to the arms of the one man responsible for all of it! Your silence was deafening. Maddening. Even now...have you nothing to say?!
+Yen'fay: ......
+Say'ri: Damn you, Yen'fay! Then I will make your sword answer for you! Draw your blade, and let it sing your final words!
+
+%Say'ri,Yen'fay
+Yen'fay: Say'ri... You have grown...so strong...
+Say'ri: ...Do...do you mock me? I have seen your best swordplay...that was not it. You went easy on me...but why?
+Yen'fay: What I could not tell you in life... I say with my death...
+Say'ri: But, Yen'fay...
+Yen'fay: You have found...strong comrades... I no longer need fear for you... ...I die...in peace...
+Say'ri: Yen'fay, wait! What do you mean? Why?! Don't leave me with more silence—not this time! Yen'fay!
+
+%Chrom,Yen'fay
+Chrom: General Yen'fay.
+Yen'fay: Aye, that is the name. What would you have of me, Ylissean?
+Chrom: I would ask why a famed swordmaster would sell his honor to Walhart.
+Yen'fay: ...That is not your concern.
+Chrom: ...Are you truly your sister's brother? She is a principled woman. Even knowing Walhart's strength, she has fought on valiantly. Are you so deluded as to genuinely consider her your enemy? Or are you simply afraid of your master?
+Yen'fay: Afraid...? Yes, fear plays its part, that I cannot deny.
+Chrom: ...You admit it, then? You are craven!
+Yen'fay: I did not say it was fear for my life. That my reasons exist is not cause to explain them all to strangers.
+Chrom: If there's honor left in you, say it now. You could still join us...
+Yen'fay: The bones have been thrown, lad. All that remains is to see where they fall.
+Chrom: So be it.
+
+%Chrom,Yen'fay
+Yen'fay: Hrrgh! Nngh...
+Chrom: Whatever your reasons joining them, there must have been another answer...
+Yen'fay: Some quandaries in this world...have...no...proper answer...
+
+@End 
+Say'ri: Our victory is secured... Yen'fay has fallen. I will never understand why he joined Walhart... His reasons die with him.
+
+Excellus: But oh, what a death it was! Did you see the grief etched on his face? The mix of longing and pain in the eyes? He had become such an accomplished actor, but that was all too real, hee hee!
+Say'ri: Excellus... What would you know of my brother, you loathsome toad!
+Excellus: More than you, princess of Chon'sin. And I would watch that mouth of yours... I am honoring Yen'fay's sacrifice by not killing you now...but even I have my limits.
+Say'ri: ...What? What do you mean "sacrifice"?
+Excellus: Oopsie! Did I just spill the beans? Hya ha ha ha ha! I'm so sorry, but I promised your dear brother I'd never tell...
+Say'ri: Explain yourself, snake—or die!
+Excellus: Bah! As if YOU could harm ME! YOU only live by MY grace, you ungrateful WRETCH! I could have had you killed countless times! And I would have, if not for him...
+Say'ri: Enough talking around it—say what you mean!
+Excellus: Oh, did Yen'fay not groan out the truth as you cut him to bloody pieces? No, I suppose not. He always was so quiet. And proud...honorable, I think they call it? Yet he swallowed his pride and cast aside his honor...all to protect his beloved kin. That's right, Little Sis. He did it...to save you.
+Say'ri: What?! ...Lies... You're lying!
+Excellus: No, I'm telling the truth, which I admit is a rare treat, so you best shut up and enjoy it. Before you met these Ylisseans, I could have had your head with a word. In Chon'sin, at Valm Harbor... Did you really think yourself so elusive? You were my leverage for Yen'fay. Unwitting and unbound, but a hostage all the same. I let you live; he fought for us. That was our deal. And he kept his end, right TO his end!
+Say'ri: No...NO!
+Excellus: Phew... Well, I don't know about you, but I feel MUCH better having that off my chest. Maybe I will give this truth telling a try more often! Yes, I shall resolve to do so! In any case, good-bye, friends! I wish you safe travels, and so sorry about Yen'fay... Oops! I broke my resolution twice already! Tee hee hee!
+
+Say'ri: N-no, this isn't... This can't be... Y-Yen'fay, no...
+Chrom: Say'ri...
+Say'ri: Gods... The things I said to him... The things I did... I have wronged him beyond imagining.
+Chrom: ......
+Say'ri: If he had only spoken! Told me! I could have joined the ruse, I...
+Lucina: Milady, I know well the grief of losing family with so much yet unsaid.
+Say'ri:  I am wretched! I've repaid my brother's kindness with death! Oh, Yen'fay, forgive me... Please, oh please... Please...
+Lissa:  Say'ri, I... I'm sorry... I'm so sorry!
+Chrom: Say'ri, you did all you could. Your brother knew that... You are blameless in this. Excellus and the empire are at fault here. And they will be made to answer for it, I promise you.
+Say'ri: ...... Sir Chrom, I... Pray, forgive me. You have done so much for this land while I can give nothing in return. Or worse... What help I offered turned against us...
+Robin: WE'RE the Resistance now, and we've yet to lose a battle! Yen'fay would be proud. And he'd also want us to fight on...to make sure his sacrifice has meaning. And fight we will, Say'ri. Until this land is free.
+Say'ri: Aye, sir/my lady... And thank you. I owe my life to you all, and to my brother... I swear to you, and to him... I will make the most of it.
+
+@Dialogue 
+Soldier: Milord! *huff, huff* K-Khan Basilio, he... He has been killed in battle!
+Lucina: No!
+Chrom: Damn it all! You're certain?
+Flavia: I am. He's gone, Chrom. I saw him fall myself. ...He's gone.
+Chrom: Flavia! What happened? Wait...you're hurt! Lucina—fetch a healer, at once!
+Flavia: I'll be fine, gods damn me... Gods damn me for outliving that one-eyed clod! That big, bald oaf! That...that...Aaaaaargh!
+Lucina: That's twice now I have failed...
+Flavia: I'll kill him! I'll cut that dastard Walhart down myself! I swear it before the gods!
+Chrom: No, Flavia...for now, you need to rest and to heal. When the time is right, we will avenge Basilio. You have my word.
+Flavia: ...Then know that I will hold you to it...
+Lucina: ...Why did I let him go...
+Flavia: Chrom, there's something else. Something important. Basilio asked I give you this...
+Chrom: Wait... Is that...? Ah... I can feel its power resonating through my whole body...
+Flavia: It's Gules, one of the Gemstones you need. Don't ask me why in hell's name the oaf hid it from you. He always did love his surprises, damn him.
+Chrom: Whatever his reasons, I accept his gift now, and gladly.
+Flavia: It's hard to believe he's truly gone... The larger the man, the larger the void left in his wake...
+Lucina: And Khan Basilio was a titan. There is no replacing him. I should have tried harder to convince him...
+
+Say'ri: The scouts have reported back. Walhart's army...has retreated to the imperial capital.
+Robin: Retreated?!
+Say'ri: It seems the dynast turncloaks are withdrawing their soldiers as well.
+Chrom: I don't believe it...
+Say'ri: Steiger and Yen'fay have fallen; it's no shock Walhart might pull back to regroup. And of course the dynasts now see cracks forming in the empire...
+Chrom: Maybe they'll reconsider which side they will fight for?
+Lucina: Possibly, if they can see an advantage in it for themselves. With them or not, it seems a decisive battle is upon us.
+Say'ri: To think, how quickly our fortunes have shifted...
+Robin: We have Basilio to thank for it. For all of it. His sacrifice made it all possible... If only there had been some other way...
+Flavia: No second guessing! Basilio would have hated that. You did your duty as best you were able, same as he. Now clear the doubts out of that clever head of yours—we're going to need it. The fate of Valm—and all our homelands—hangs on this next battle. For the sake of history and all our fallen comrades... We will bring this empire crashing down!
+Chrom: Shepherds! Comrades! Soldiers! We make for the capital! This "Conqueror's" reign ends now!

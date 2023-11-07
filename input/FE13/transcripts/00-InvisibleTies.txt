@@ -1,0 +1,38 @@
+@Intro
+Chrom: Up there! 
+
+Validar: '  You fool!
+
+Validar:  *laughs* Die!
+
+Chrom: This is it! Our final battle! You're one of us, Robin, and no "destiny" can change that. Now let's kill this dastard and be done with it!
+
+Chrom: Robin, we have to get closer. Let's move!
+Chrom:  All right, my turn.
+Chrom:  Go ahead, Robin!
+
+@Battle 
+Validar: Ha ha ha! Why do you resist?
+
+Chrom: Good, he's almost within reach. Let's move in and strike!
+
+@Boss
+Validar: Gya ha ha! Fools! Struggle all you want! You cannot unwrite what is already written!
+
+@Character-Falls
+Chrom: Robin, I...I'm Sorry. Just..run while you can...
+Validar: Gya ha ha! You can't escape it! That's why it's called destiny!
+
+Chrom: Robin! No! This can't be how it ends!
+Validar: Heh heh heh... GYA HA HA HA!
+
+@End 
+Validar: This isn't over... Damn you BOTH!
+
+Chrom: Are you all right? That's the end of him. Thanks to you we carried the day. We can rest easy now. 
+
+Chrom: At long last...
+
+Chrom: ...What's wrong? Hey, hang on—
+
+Chrom: This is not your— your fault... Promise me you'll escape from this place... Please, go...

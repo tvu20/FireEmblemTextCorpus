@@ -1,0 +1,89 @@
+@Intro 
+Excellus: Th-they... There must be several hundred thousand soldiers out there! Would they dare...?! Is it... Is it possible... Is it possible it was Yen'fay they feared all along, and not me?!
+Walhart: Without him to back it up, your threat was only the grand shadow of a tiny spider.
+Excellus: Tiny spider, is it? Well this spider has woven other webs in secret you could not even—
+Walhart: You mean how you blackmailed Yen'fay to keep his loyalty? Or perhaps your correspondence with the Plegian woman...Aversa, was it? Yes, I know you have designs on the Fire Emblem... You have no secrets from me, worm.
+Excellus: B-b-b-but... I... I don't... If you...knew all of that...w-why...
+Walhart: Why haven't I killed you? ...I've asked myself the same thing, several times... But you're no threat to me. And I admit, you have your uses. Besides, I'm not one for court jesters, but you do...amuse me.
+Excellus: Amuse you? I AMUSE you, like I'm a jester?! Are you AMUSED now? With a million swords at your door, come for your head?! You've lost! Lost, and you are going to DIE! All of you, ALL OF YOU! But not me! I want no part of this suicide!
+Walhart: ...Why, Excellus, did you just volunteer to lead my personal guard against the rebels?
+Excellus: ...What?! No, that's—
+Walhart: Unless you'd rather fight me. Right here. RIGHT NOW.
+Excellus: Mercy! Mercy! F-forgive me, my master! A moment's madness only—it will not return!
+Walhart: Then it's settled: we have our new captain of the guard. Congratulations, Captain. You'll be right at my side until the fray is upon us. (Walhart leaves)
+Excellus: *Pant, pant, pant, pant*
+Cervantes: Do give our guests a warm welcome, snake. Perhaps offer them some of your tea? Hah hah... My equal... Pah! (Cervantes leaves)
+Excellus: ...They forget who I am. I could have fried them both where they stood with my magic! We will crush these rebels... We MUST crush these rebels... Or maybe...if Walhart is sufficiently injured...I might "amuse" him with a spell... Nya ha, either way, this spider crawls out alive! Eee hee hee hee!
+
+@Battle 
+Chrom: I see Walhart, still seated in his throne room. It doesn't seem like he's thinking about escape.
+Robin: And his soldiers... They look ready to die before they'd surrender. One must admire their loyalty, at least.
+Chrom: He does inspire that in people. It's part of what makes him so dangerous.
+Robin: He inspires that in SOME people.
+Chrom: Yes, in some. But not me.
+
+Soldier: Rally every last man! We make our stand with Emperor Walhart!
+
+@Boss 
+Cervantes: Let's have it then, rebellious scum! Like a flimsy belt around the waist of defeat, you shall buckle here!
+
+Cervantes: I...am finished... Nngh... But I have no regrets... I die in the shadow of...greatness...
+
+Excellus: You think I'm afraid? Of YOU?! Come, then. COME AT ME! 
+
+Walhart: You would challenge the Conqueror himself?!
+
+Walhart: Nngh... Do you see? Often the sword...is the only way... My conquest...ends here...
+
+%Say'ri,Excellus
+Excellus: ...You. ...YOU! You and Yen'fay cost me EVERYTHING!
+Say'ri: I only pray my brother is watching... Yen'fay, guide my hand!
+
+%Chrom,Walhart
+Chrom: Walhart!
+Walhart: Prince...
+Chrom: Will you surrender?
+Walhart: Don't waste my time with questions you know the answers to, boy.
+Chrom: It did not have to be this way... You believe in mankind's strength... So did my sister. You believe that we are masters of our destinies... So do I. You could have joined us.
+Walhart: ME, JOIN YOU?! Does a pegasus join with the flea on its back? A dragon, with a cow it eats?! You forget your place, BOY. I am the Conqueror! I will unite the world!
+Chrom: No! ...I will. And not by forcing all the people to choose the sword or the knee. Peace will only come by stoking people's hearts...not their fear.
+Walhart: You think that's what you've done? What your sister did before you? No, she shouted some nonsense and leapt off a rock! Such weakness!
+Chrom: Wrong. Not weakness—strength. That one act lives on, and WILL live on, longer than all your conquests...
+Walhart: And longer than you will... Come then, flea, and die for your peace!
+Chrom: Emm, I tried...
+
+@End 
+Frederick: Milord! Walhart's soldiers have agreed to cease hostilities.
+Chrom: Finally... Then pull our men back immediately. ...It's strange, Frederick... Walhart and my sister were complete opposites. One gave her life to stop a war. The other took lives to create one. And yet they both inspired those around them; both walked a path to end all war. Both lived, and died, trying to unite the people.
+Lucina: Yes, Father, but as they say, the method is the message. Your father suffered from beliefs similar to Walhart, and his legacy is plain to see...
+Chrom: Mmm...these are matters too weighty for this moment. There will be plenty of time for reflection now that the war is done.
+Say'ri: Sir Chrom, a thousand thanks from every Valmese couldn't repay what you did for us. But I recovered Vert, the Gemstone that was stolen from Chon'sin as a trophy.
+Chrom: You're giving it to me?
+Say'ri: Of course, sir. It seems the fell dragon will soon threaten us all. I would feel safer knowing the Gemstone was in your hands.
+Chrom: Then so it will be. Thank you, Say'ri.
+
+Chrom: Are we packed and saddled? Our business in Valm is finished, but we have another task ahead. One perhaps even more dire than we faced here... To Ylisstol!
+
+Chrom: *Sigh*
+Robin: I know that face... "Dueling with unpleasant thoughts," are we?
+Chrom: You know me well, Robin.
+Robin: Hey, remember when Lissa first brought me here? When I met all the Shepherds? And Sumia... Ha ha! Oh, what a day! ...Actually, that's my first memory, in a way.
+Chrom: Heh, I suppose so. I wish all our memories since could have been as joyful.
+Robin: I know... So much needless bloodshed. So many days of pain and doubt and fighting... We would have never made it without you there to guide us, you know.
+Chrom: Funny. I was going to say the same to you.
+Robin: I guess we really are two halves of the same whole.
+Chrom: I've sent Frederick to search for Sable, the final Gemstone. And I've been reading more about the Awakening ritual. It seems that whoever attempts the rite must brave Naga's fire. If both body and spirit survive the agony, they are blessed with the dragon's power. Otherwise, the candidate...dies.
+Lucina: What?! No! ...Er, that is... Father, must you attempt this? (Lucina enters)
+Chrom: Eavesdropping, young lady?
+Lucina: Forgive me, Father. I didn't intend to... I came to speak with you, but I couldn't find the right moment and—
+Chrom: It's all right, Lucina. And yes, I'll be all right, too. I will withstand Naga's fire. I'm sure of it.
+Frederick: Milord, I have returned. (Frederick enters)
+Chrom: Yes, Frederick? Did you find it?
+Frederick: I believe so, sire. King Validar has extended an invitation. He says Plegia has been guarding Sable, and now he wishes to return it to you.
+Chrom: Validar...
+Frederick: They sent word to me, milord. They must have caught wind of my search... In any case, Validar asks that you visit him in person, that he might formally present it. Perhaps needless to say, milord, but I don't like this one bit.
+Chrom: Neither do I, Frederick the Wary. Neither do I. At best, it's selfish political maneuvering at a time when the world can ill afford it. At worst, our run-in with those Risen last visit was no accident... But we will meet with him. Send word at once.
+Frederick: Milord, are you...certain that's wise?
+Chrom: No, but we haven't time to be certain. ...And my sister never refused a diplomatic gesture, no matter how foul smelling. If he doesn't give us the stone, he may at least reveal where it is. ...Don't worry, Frederick. I'm not walking into this blindly. We will make certain everyone is armed to the teeth.
+Frederick: Then the Fire Emblem, milord—you ought at least leave it behind.
+Chrom: Unless that's what Validar expects, and he comes to steal it with my best men away... No, it's safest with me, for now. We'll learn the truth of Validar's motive soon enough...

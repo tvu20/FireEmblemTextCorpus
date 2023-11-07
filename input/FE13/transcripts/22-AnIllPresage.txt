@@ -1,0 +1,80 @@
+@Intro 
+Chrom: All these strange travelers... What's happening here?
+Lissa: Let's ask 'em! Um, excuse me, sir? ...Sir?
+Villager: ...the appointed...time... ...to the Dragon's...Table... ...our prayers...Grima...
+Lissa: Riiiiiight... I'll just be backing away slowly then...
+Frederick: Sire!
+Chrom: Frederick! Have the scouts returned?
+Frederick: Yes, milord, and with grim news. Validar has moved to a great altar to Grima known as the Dragon's Table. What's more, it seems all the Grimleal in Plegia are headed there as well. It's as if they're being drawn by some unseen force...
+Chrom: Any idea what it all means?
+Frederick: Who can say, sire? They speak only gibberish and plod on as if possessed.
+Chrom: The cataclysm in Lucina's future... This shows all the signs of leading to it. Damn! This destiny is a stubborn business...
+Lucina: We cannot give up.
+Chrom: And we will not. We make for this Dragon's Table, and quickly! Come, everyone!
+
+@Battle 
+Aversa: The Ylisseans have finally caught up to us, milord.
+Validar: Delay them. But carefully... We must reclaim Robin's power.
+Aversa: Ah, yes. Don't worry, I'll take extra care with Daddy's special little boy/girl.
+Chrom: Validar!
+Validar: Fools! Do you know where you've come?
+Chrom: Return the Fire Emblem now, and we can end this!
+Validar: Aaah ha ha ha ha! You would...end this?
+Chrom: Yes, once and for all.
+Validar: My dear boy, we already know how this story ends—you and I both! And yet you rush here... Are you so eager to meet the fell dragon yourself? Or perhaps your own fatal destiny—you would have that realized first? Ha ha!
+Chrom: To hell with your destiny. I'll write a new ending.
+Aversa: Oh ho ho, so now you believe you can change fate? And here I thought your exalted sister had delusions of grandeur...
+Chrom: We've done it already.
+Aversa: Your victory over sad little Gangrel? Or perhaps Walhart's defeat? Those were meant to happen. They were preordained. You are just another fool in motley, capering on the stage!
+Lissa: But...what about Emmeryn!
+Aversa: You changed only the method of her death. Either way, she was planted in the ground...
+Frederick: But that was Gangrel's will... Not yours... Not Validar's...
+Aversa: You aren't listening. All of this—every word and action—has been orchestrated... Gangrel held the exalt in contempt, yes, so Validar and I used him. In life AND death. The king's demise threw Plegia into chaos. It drove the people to Grima... Now their life force and rancor can be laid before the fell dragon en masse.
+Chrom: You couldn't mean...
+Aversa: It is called the Table for a reason, you naive little man. It is where Grima feeds! The Grimleal have gladly offered themselves to him for ages. Even now, they pray for his return... Today the Table overflows with bounty, and their prayers will be answered!
+Chrom: I will never allow that to happen!
+Aversa: But it already HAS happened in our future. This moment was set a millennium ago.
+Lucina: How could anyone give their life willingly to that...thing? That monster!
+Chrom: I will stop you! I will stop Grima!
+Aversa: Goodness! Now you're starting to sound like Walhart, the big bully... He intended to destroy Grima as well, you know. ...Our thanks, incidentally, for taking him off the stage for us.
+Chrom: Rrgh... That's why you gave us your ships and treasure but no soldiers... Get rid of Walhart, but keep the faithful Plegians to set your god's Table...
+Validar: Aversa, it is time. I must prepare.
+Aversa: As you command, Master.
+Chrom: Validar! ...VALIDAR! 
+Aversa: Master Validar is not to be disturbed. But fear not, I have brought the Deadlords to keep you entertained. These 12 generals were great warriors in life...and even greater, now, in death! I would introduce them one by one, but well, as you'll see, they're not much for talk. Besides, you'll meet them all soon enough!
+
+@Boss 
+Aversa: Hee hee. Looking for attention? One at a time, love. 
+
+Aversa: Ooh... You play rough... But the ritual has already begun. You are too late! Farewell! perhaps we shall meet again? Oh, actually...I suppose not! heh heh! 
+
+%Robin,Aversa
+Robin: I'll never understand minions like you and Excellus. No lives of your own... Living only to serve at the beck and call of your masters. Pathetic.
+Aversa: Oh? I might say as much about your relationship to the prince... And please, don't lump me in with that half-witted little toad. Excellus was nothing but a pawn on our board. Another actor on our stage. His ambition was our insurance against Walhart's threat. If you had failed, he might have destroyed the empire from the inside. But in the end, he was just another puppet whose strings we had to cut.
+Robin: Then you've confirmed my theory.
+Aversa: Yes, I promised him the Plegian throne in exchange for the Emblem... He jumped at the offer! Well, as much as the fat little piggie could jump... Men are all the same. Learn their ambition, and you have them by the— Oho... Well, perhaps Excellus was a bit different in that respect...
+Robin: Here I thought him the lowest form of slime imaginable, but you win handily...
+Aversa: Yes, well, we play the roles we're given, Robin, as you'll soon discover.
+Robin: If we all stand on a great stage, I'll be happy to assist with your exit!
+Aversa: Oh really now, how amusing... You're so cute when you try to be clever. But Master Validar already considers you stronger and smarter than I... Whatever shall I do if he decides you're more witty as well? Perhaps I'd best kill you before you ripen and become his everything...
+Robin: Before I "ripen"?
+Aversa: ...Shhh. Nothing to worry your pretty little head over. Focus on our battle, instead! if you truly are as gifted as my master says... There is no need for me to hold back!
+
+%Chrom,Aversa
+Chrom: A final question, witch, before you die—
+Aversa: Oh? Then perhaps one final answer, boy, before you fail...
+Chrom: Who is Validar? Why do you follow him?
+Aversa: He is...a father to me.
+Chrom: ...What?! But... You're Robin's sister?!
+Aversa: Aha ha ha! You damn fool! not literally... But he did raise me as if I were his own. Taught me everything... I was a poor orphaned wretch with dirt for food, yet Master Validar took me in. He provided when others would have watched me starve. I would never presume that he loves me... But he is everything I know of love. I would gladly die at his command.
+Chrom: Even knowing his actions will destroy the world?
+Aversa: But he IS the world—and it is YOU that would destroy HIM! From where I stand, YOU are the only aggressor here. How Robin lives with the shame, attacking his/her own blood...
+Chrom: Robin sees beyond himself/herself, to the larger reality. One person's life means nothing in the shadow of millions.
+Aversa: A sweet sentiment, and easily spoken when you bear no love for the one... But more difficult when the sacrifice was your exalted sister, wasn't it? I don't expect you to see the world through my eyes, Prince. But I won't pretend to understand how things look through yours.
+Chrom: ...Then I suppose there is nothing more to say.
+Aversa: No, I suppose there isn't.
+
+@End 
+Chrom: Damn! She escaped! Aversa wouldn't leave Validar before he was ready, even with her wounds. His preparations must be complete...
+Lucina: We have to stop him! My future is upon us!
+Chrom: We will, Lucina. I swear to you—we will.

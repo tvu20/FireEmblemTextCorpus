@@ -1,0 +1,124 @@
+@Cutscene 
+Lissa: Chrom, we have to do SOMETHING.
+Chrom: Well, what do you propose we do?
+Lissa: Uh... I don't know!... 
+
+Chrom: I see you're awake now.
+Lissa: Hey there! 
+Chrom: There are better places to take a nap than on the ground, you know.  Give me your hand.
+
+@Intro
+Chrom: You all right?
+Robin: Y-yes... Thank you, Chrom.
+Chrom: Ah, then you know who I am?
+Robin: No, actually. I... It's strange... Your name, it just...came to me...
+Chrom: ...Hmm, how curious. Tell me, what's your name? What brings you here?
+Robin: My name is... It's... Hmm?
+Chrom: ...You don't remember your own name?
+Robin: I'm not sure if... I'm sorry, but where am I, exactly?
+Lissa: Hey, I've heard of this! It's called amnesia!
+Frederick: It's called a load of pegasus dung.  We're to believe you remember milord's name, but not your own?
+Robin: B-but it's the truth!
+Chrom: ...What if it IS true, Frederick? We can't just leave him/her here, alone and confused. What sort of Shepherds would we be then?
+Frederick: Just the same, milord. I must emphasize caution. 'Twould not do to let a wolf into our flock.
+Chrom: Right then—we'll take him/her back to town and sort this out here.
+Robin: Wait just one moment. Do I have a say in this?
+Chrom: Peace, friend—I promise we'll hear all you have to say back in town. Now come.
+
+Robin: What will you do with me? Am I to be your prisoner?
+Chrom: Hah! You'll be free to go once we establish that you're no enemy of Ylisse.
+Robin: Is that where we are? Ylisse?
+Frederick: You've never heard of the halidom? Ha! Someone pay this actor/actress. He/She plays quite the fool! The furrowed brow is especially convincing…
+Chrom: Frederick, please.  This land is known as the Halidom of Ylisse. Our ruler, Emmeryn, is called the exalt. I suppose proper introductions are in order... My name is Chrom—but then, you already knew that.  The delicate one here is my little sister, Lissa.
+Lissa: I am NOT delicate! …Hmph!  Ignore my brother, please. He can be a bit thick sometimes. But you're lucky the Shepherds found you. Brigands would've been a rude awakening!
+Robin: Shepherds? You tend sheep? ...In full armor?
+Chrom: Heh, it's a dangerous job. Just ask Frederick the Wary here.
+
+Frederick: A title I shall wear with pride. Gods forbid one of us keeps an appropriate level of caution. I have every wish to trust you, stranger, but my station mandates otherwise.
+Robin: I understand, sir. I would do no less myself. My name is Robin. …I just remembered that. How odd. I suppose that's one mystery solved.
+Chrom: Robin? Is that foreign? …Ah, well. We can discuss it later. We're almost to town. Once we—
+Lissa: Chrom, look! The town!
+
+Chrom: Damn it! The town is ablaze! Those blasted brigands, no doubt... Frederick, Lissa! Quickly!
+Frederick: What about him/her?
+Chrom: Unless he's/she's on fire as well, it can wait!
+Frederick: Aptly put, milord.
+Lissa: Let's go already!
+
+Robin: But what about— Hmm...
+
+@Battle 
+Garrick: Gwa ha ha! Get to it, lads! Grab anything shiny, and put the rest to the torch! We gots an example to set for these Ylissean types! Ain't that right, lass?
+Maiden: S-stay away from me! Please! Someone! HEEEEEELP!
+
+Lissa: Chrom, we have to stop them!
+Chrom: Don't worry—after today, these bandits won't be bothering anyone ever again…
+
+Robin: Wait!
+Chrom: Robin! You followed us! Why?
+Robin: I… I'm not certain myself. But I'm armed, and I know my way around a fight if you'll have me.
+Chrom: Of course—strength in numbers. Just stay close!
+
+Frederick: Remember, Robin, we face practiced thieves and murderers. They will grant us no quarter. It's kill or be killed.
+
+Chrom: So, Robin, I see you wear a sword. Is it— Wait, is that a tome? …You know magic?
+Robin: I…believe so? I suppose I should check.
+Chrom: You "believe so"? Perhaps I'll just keep a few paces behind you for the time being…
+Robin: No, I can control it. I'm sure. Now, how did this work again? Ah, yes…
+
+Lissa: We'll see who's delicate! I may not be able to attack like Chrom, but when you get injured? I'll be the one stitching your bones back together, care of my trusty staff! You just tell me where to go, Robin.
+
+Chrom: Is anyone hurt? It would be foolish to leave a wound untreated.
+Robin: Indeed. Timely use of a staff or a vulnerary should prevent the worst.
+
+Chrom: Still with us, Robin?
+Robin: Hmm… It's strange. Here on the battlefield, I can… Well, I can "see" things.
+Chrom: See things? Like what?
+Robin: The enemy's strength, their weaponry, the flow of battle… I must have studied this somewhere.
+Chrom: So, you're saying you can size up the enemy at a glance?
+Robin: Yes, it would seem so. And perhaps more, if I apply myself…
+
+Chrom: Are you all right, Robin? Don't rush into danger.
+Robin: I'm fine, Chrom. Don't worry.
+Chrom: You've lent us your strength, and that makes you a friend. Having an ally by my side gives me courage.
+Robin: Thank you, but…I think there's more to it than that.
+Chrom: What do you mean?
+Robin: I believe there's a tactical advantage to fighting side by side… It's fuzzy… Wait, yes: working in pairs improves strength, defense, speed… Yes, yes, I'm sure of it!
+
+@Boss
+Garrick: Here, sheepy sheepy! Come to the slaughter! 
+Garrick: Bwaaargh! 
+
+@End 
+Robin: Well, that's the end of that.
+Lissa: Lucky for the town, we were close by. But holy wow, Robin! You were incredible! Swords, sorcery, AND tactics! Is there anything you can't do?
+Chrom: You're certainly no helpless victim, that much is for sure.
+Frederick: Indeed. Perhaps you might even be capable of an explanation for how you came here?
+Robin: I understand your skepticism, Sir Frederick. And I cannot explain why only some knowledge has returned to me. But please, believe me. I have shared all that I know.
+Chrom: You fought to save Ylissean lives. My heart says that's enough.
+Frederick: And your mind, milord? Will you now heed its council as well?
+Chrom: Frederick, the Shepherds could use someone with Robin's talents. We've brigands and unruly neighbors, all looking to bloody our soil. Would you really have us lose such an able tactician? Besides, I believe his/her story, odd as it might be.
+Robin: Th-thank you, Chrom.
+Chrom: So how about it? Will you join us, Robin?
+Robin: I would be honored.
+
+Frederick: Did you notice, milord? The brigands spoke with a Plegian accent.
+Robin: Plegian? What's that?
+Chrom: Plegia is Ylisse's westerly neighbor. They send small bands into our territory, hoping to instigate a war.
+Lissa: And it's the poor townsfolk who suffer! Totally innocent, and totally helpless...
+Frederick: They do have us, milady: Shepherds to protect the sheep. Do not be swept up in your anger. It will cloud your judgment.
+Lissa: I know, I know... Don't worry. I'll get used to all this.
+Villager: Milord, please! You must stay the night! We are simple folk of simple means, but we would gladly toast your valor with a feast!
+Frederick: A most generous offer, sir, and no doubt your hospitality would be grand... But I'm afraid we must hurry back to Ylisstol.
+Lissa: Dark meat only for me, medium well, and no salt in the soup. I simply— Wait, what?! We're not staying?! But, Frederick, it's nearly dark!
+Frederick: When night falls, we'll camp. Eat off the land, make our bed of twigs and the like... I believe you mentioned you would be "getting used to this"?
+Lissa: Frederick? Sometimes I hate you.
+Robin: You've quite the stern lieutenant there.
+Lissa: Yeah, well, "stern" is one name for it. I can think of a few others!
+Chrom: Frederick only smiles when he's about to bring down the axe.
+Robin: Duly noted.
+Frederick: *Ahem* You do realize I AM still present?
+Chrom: Oh, we realize.
+Robin: Heh heh.
+Frederick: Milord remains as amusing as ever. Now then, shall we be going?
+Chrom: All right, all right. Ready to go, Robin? The capital isn't far.

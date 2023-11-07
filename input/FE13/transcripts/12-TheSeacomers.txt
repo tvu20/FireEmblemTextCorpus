@@ -1,0 +1,41 @@
+@Battle 
+Dalton: You dare board our ship, worm? I'll not discuss terms with a peasant; I will issue demands to all! Citizens! Soldiers! Hear my words! The Conqueror himself, Emperor Walhart, claims dominion over these lands! You will grant your new emperor your ships! You will grant him all your provender! You will grant him your loyalty and your every possession! And you will surrender this land's greatest treasure, the Fire Emblem! Do this, and your lives will be spared. Resist, and your lives are forfeit! Now, kneel! And swear fealty to the mighty Valmese Empire!
+Villager: B-but if you take all that we have, how are we to make our living? Without food and ships, people will starve! Would you have us all die?
+Dalton: ...You'll do for now.
+Villager: Hrrgh!
+
+Chrom: These savages will never listen to reason. Everyone: prepare to engage!
+Frederick: Milord, are you certain? Another war...
+Chrom: I've had time to ponder Ylisse's place in the world, Frederick. ...And my own. We must stand against evil, in all its forms, or there can be no peace!
+
+Cherche: Might I join, sire? This may not be my country, but it is my cause. My dear Minerva here hungers for a bite of the action as well!
+
+@Boss 
+Dalton: You are nothing! A speck of sand on the boot of the great empire!
+
+Dalton: What... H-how... Ahh...
+
+@End 
+Robin: Chrom, is that all of them?
+Chrom: Yes, but victory's come with a price...
+Basilio: The town is in shambles, as is my army.
+Frederick: This is most troubling news. Feroxi soldiers are the finest east of the long sea. If they are having trouble, we are ALL in trouble.
+Flavia: That's not the half of it. This was just the vanguard—but a taste of the meal yet to come.
+Basilio: And once it arrives, their host will wash over the whole continent in a matter of weeks. There's no way we could repel them and defend our people. It would be a slaughter.
+Chrom: Ylisse is no better equipped to handle an attack from the sea... Robin, what do you suggest?
+Robin: Hmm... Their greatest strength is their cavalry, which puts us at a disadvantage... on land. But if we were to catch them at SEA...
+Chrom: But how?! Ylisse has no warships, nor does Ferox.
+Basilio: So we'd need aid from a kingdom that does...
+Flavia: You have someplace in mind, oaf?
+Basilio: Perhaps a land that borders the sea, with enough wealth to afford this campaign?
+Robin: Plegia!
+Chrom: No. Absolutely not. Out of the question.
+Basilio: They have gold, boy! Countless ships! And more importantly, we have a fart's chance in the wind without them.
+Flavia: The oaf is right. ...Crude, but right. There's only one path forward.
+Robin: Chrom, will you reconsider?
+Chrom: ...... ...Very well. Send a messenger and request a summit immediately. Let us pray this new king is more reasonable than their last.
+Robin: Indeed.
+Flavia: You know, Robin... For your first time against Valmese forces, that was an impressive victory. You and Chrom have both grown quite adept. You should be proud.
+
+Frederick: Milord, we have word from Plegia. They have agreed to meet with us at their outpost on Carrion Isle. A poor venue should things go sour, as the island's name makes plain. But then I don't see we have much of a choice.
+Chrom: Cautious as ever, Frederick the Wary. Don't worry. We'll get our ships. This threat hangs over all of us—Plegia as well. They must see that.

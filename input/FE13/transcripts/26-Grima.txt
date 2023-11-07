@@ -1,0 +1,410 @@
+@Intro 
+Grima: WRETCHED SON OF NAGA... YOU WILL BE DESTROYED.
+Chrom: Are you ready, Robin?
+Robin: As ready as I will ever be, Chrom. Let's finish this!
+
+@Battle 
+Chrom: Hrrngh! *Huff, huff* ...Wh-what... What manner of magic...
+Basilio: Magic? *huff, huff* That was a...damned...catastrophe... He's weakened us all... He's too...strong...rrgh...
+Frederick: It cannot end like this... I won't have...all our struggle...be for naught...
+Lucina: No... This darkness... The future is upon us! Oh gods... F-Father...
+Grima: And so it ends, Robin. See how frail these human bonds of yours are? How short lived? How pointless? You have all thrown your lives away, and the result is the same!
+Robin: We're not dead yet!
+Grima: Details, details. *sigh* But yes, I suppose it's time I got you all off my back, so to speak—permanently.
+Robin: No...
+Grima: No, you don't want this, do you? You do have a choice, you know. It doesn't have to be this way. You can still save all your friends... Become one with me, and we shall spare their lives. ...Refuse, and watch as I rend the flesh from their bones!
+Robin: ...I...
+Chrom: No, Robin! Don't...do it...
+Lissa: He's/She's lying... It's...a trap...
+Grima: NOW! I will have your decision! Will you save these worms? Will you JOIN ME and become a GOD?
+^start 
+Robin: Do you think me a fool? You'll kill them anyway!
+Grima: ...Well, of COURSE I would. I only thought you might want to leave your comrades with a heroic, selfless image. ...But so be it. Leave them with the final memory that you were their undoing!
+Robin: Aaarrrrgh!
+Chrom: Robin!
+Robin: Where am I?
+Grima: Where your god wills you to be. Now if you will excuse me... I have some fleas on my back to take care of.
+Robin: No... I won't let you!
+
+Robin: All right! I'll do as you wish! Just...let them live.
+Chrom: No, Robin! Don't—
+Grima: Yes, at last I have you... Once our power is joined... THE DRAGON'S MIGHT...WILL BE MADE WHOLE.
+Robin: First, let my friends go... You promised to spare them.
+Grima: Oh come now, we both knew that was never going to happen... But I am not altogether cruel... I did spare you the pain of damning them openly.
+Robin: You...
+Grima: In truth, I simply don't understand why you care so deeply for the creatures... No matter. Your soul is mine now; you cannot escape. Your mind will descend into the shadow of my own!
+Robin: No... I won't let you!
+^end 
+Grima: You still DARE resist ME?! Then perhaps I should end you first!
+
+@Dialogue
+Robin: So dark... A sea of black... I have...no final strategy... No cards left to play... He/She has...won... Ah... I c-can't see... I can't hear... I feel...nothing... ...... ...Nothing... ......
+???: ——ve to ————ack!
+Robin: ...... ...Huh?
+???: Yo— ha——— fi— back! ——ghting!
+Robin: I...hear something... A voice...
+???: Fight ba—! —ave to keep ——ing! Fight back, Robin! You swore to do so, remember? Now keep your damn word!
+Robin: C-Chrom? Chrom! Chrom, I can hear you!
+Grima: What?! No! You are mine now! The dragon's grip cannot be broken!
+
+Lissa: Come back to us, Robin!
+
+Frederick: I know it would take more than this to stop you, sir/milady!
+
+Sully: You gonna let that ugly snake get the last hiss? Come on!
+
+Virion: History is watching, Robin! The bards would sing of your triumph!
+
+Vaike: On your feet, soldier! Don't make ol' Teach give ya a lecture!
+
+Stahl: Wake up, Robin! Only I get to oversleep!
+
+Miriel: Arise from your hypnopompic state! You are sorely needed here!
+
+Kellam: Hello? Can you hear me? ...Perhaps if I shout? AAAAAAH!
+
+Sumia: Robin, remember all the days we spent together!
+
+Lon'qu: Answer us, Robin!
+
+Ricken: Please, Robin! You're too important to me!
+
+Maribelle: Get up right this instant, or suffer a swift smack of my parasol!
+
+Panne: Do not rob the taguel of one of our last true champions!
+
+Gaius: Up and at 'em, Robin! One dragon ought to be a piece of cake!
+
+Cordelia: We're all right here by your side!
+
+Gregor: Gregor will snap you out of it! Gregor does with the YELLING!
+
+Nowi: I thought I was your favorite dragon! Forget about Grima!
+
+Libra: The gods gave you to us. I do not believe they wish you taken away!
+
+Tharja: Get up, Robin! No one goes down without my say so...
+
+Olivia: Please, Robin! I still haven't shown you my new dance!
+
+Cherche: Minerva wants you back, and so do I!
+
+Henry: I know the darkness is warm and delicious... But too much of a good thing is just bad!
+
+Lucina: You have earned my trust and my love, sir/milady. Now return to us!
+
+Say'ri: Aye, awaken! You cannot leave now, with my debt to you unpaid!
+
+Basilio: Pull it together, lad/lass! Death is overrated, believe me!
+
+Flavia: You don't bow to dragons. You break 'em!
+
+Donnel: I need ya to come on back, y'hear?!
+
+Anna: Robin, you can't close up shop on us now! We still need you!
+
+Owain: Heed not the dark's eerie call, friend! Summon forth the strength inside you!
+
+Inigo: I can think of nothing worse than dying alone. ...No, seriously. I can't.
+
+Brady: Come on, bud! No giving up now!
+
+Kjelle: This is a test, and by the gods, you're gonna pass it!
+
+Cynthia: Come on! You can do this! You need to fight with us!
+
+Severa: If you don't come back, I'm never going to forgive you!
+
+Gerome: We lost to the fell dragon once. Do not grant fate a second victory!
+
+Morgan: Father/Mother! You mean everything to me! I can't lose you again!
+
+Yarne: You're going to be okay, right? ...I need you to keep me safe.
+
+Laurent: It is inconceivable that our rollicking adventures might end at this juncture.
+
+Noire: Blood and thunder! Return to us now!
+
+Nah: You'll return. I know you will.
+
+Tiki: You are not Grima, nor is he you. Remember that, Robin!
+
+Gangrel: One nip from a dragon and you're down? Get up, you craven schoolboy/schoolgirl!
+
+Walhart: Rise, Robin! Show this god that man is made of sterner stuff!
+
+Emmeryn: Robin... Robin... Robin!
+
+Yen'fay: ...... ...Robin!
+
+Aversa: Oh, Robin, no taking the easy way out—I haven't finished with you yet!
+
+Priam: True champions find victory in the darkest hour! Show us, Robin!
+
+Robin: I can hear them... I hear my friends!
+Grima: Stop this at once! SILENCE those wretched voices! You are all powerless! Frail! Insignificant! You are NOOOTHING!
+Chrom: Return to us, Robin! Your bond with us is stronger than even the fell dragon's might!
+Robin: Chrom! I'm coming, Chrom! Hold on!
+
+Naga: Children of man, take my power! Rise now, and face the fell dragon!
+
+@Battle 
+Naga: Hear my words, Awakener! Grima's servants will beset you to no end. Dispatch him as soon as you are able! Once the fell one is weakened, a choice will await you... If Chrom lets fall the final blow, Grima shall survive but return to his slumber...
+Chrom: So be it.
+Naga: If Robin strikes in Chrom's stead, both his/her life and Grima's are forever over. Only in this way may the fell dragon be destroyed for good and all.
+Robin: ......
+Naga: The final decision...is yours.
+
+@Boss 
+Grima: ...I AM...GRIMA... I AM...DESPAIR...
+
+Grima: ...NNGH...AAAAUGHHH...
+Chrom: Now, Robin! This is our chance! I'm going to finish it!
+
+%Robin,Grima
+Grima: ...RETURN TO ME... COME... WE ARE ONE...AND THE SAME...
+Robin: ......
+
+%Chrom,Grima
+Chrom: I come to end you, Grima!
+Grima: ...ARROGANT MORTAL... I AM THE END!
+
+%Lucina,Grima
+Lucina: I lost to you once, monster. I shall not lose again! Die now, that our future can live!
+Grima: ... YOU CANNOT SLAY...WHAT MAY NEVER DIE...
+
+@End 
+Chrom: He's...he's finished. ...We did it! And without sacrificing the life of another friend! Can you believe it, Robin?
+Naga: Grima has returned to slumber.
+Robin: ......
+Chrom: He may rise to threaten the world again, but he'll never destroy it. One such as I, or the first exalt before me... One will rise up to challenge him.
+Chrom: Shepherds... Friends... The war is over! The fell dragon's era of chaos has been averted! The Risen will trouble our world no more! You all know that I'm a simple man, never one for speeches or song... But you need to know this... All that is good and brave in me and what I have done is because of you! We have weathered a sea of horror, but we did it as one. And, finally, we have come to the inviting shores of a bright future. Together.
+Lissa: Wooooo! I can't believe we did it!
+
+Frederick: Exceptionally well fought, my prince! At long last Ylisse can know lasting peace.
+
+Sully: Nothing like kickin' the crap out of a dragon to make you feel alive!
+
+Virion: Virion the Grimslayer... Ah, such a noble ring to it!
+
+Vaike: Yes! We won! We won! We... Uh, hey—has anyone seen my axe?
+
+Stahl: Anyone else hungry? Because I'm starving!
+
+Miriel: Let the scholars remember: there is no weapon more proficuous than the heart!
+
+Kellam: Hip hip hurrah! ...Huzzah? ...Hello? ...Anyone? ...Never mind.
+
+Sumia: We owe our victory to the world's finest captain and prince!
+
+Lon'qu: Laying it on a bit thick, aren't all of you? ...Well, I guess if any time called for it, it'd be now.
+
+Ricken: Captain Chrom! How'd I do? I was great, wasn't I?
+
+Maribelle: I never doubted us for a second! ...Well, maybe a half second.
+
+Panne: The taguel have won more than peace... We have won a new clan.
+
+Gaius: And so ends another contract. ...Sweet, sweet victory.
+
+Cordelia: My good prince... My joy has no bounds...
+
+Gregor: Today Gregor not be stingy! Treat everyone to special bear dinner!
+
+Nowi: All this happiness is so contagious! I could just...c-cry! *sniff*
+
+Libra: At last, we have won Exalt Emmeryn her peace...
+
+Tharja: Stop grinning, you shameless fools! ...You want to make me smile, too?
+
+Olivia: Today's dance will come from the heart!
+
+Cherche: Whew! Quite a battle... Perhaps time to settle down for a spell.
+
+Henry: Oh, NICE! I'm still bleeding in, like, twelve different places! Look at all that blood...
+
+Lucina: It's over... I'm finally free...
+
+Say'ri: Chon'sin's struggle has ended. Mercy on you all, my good friends.
+
+Basilio: Har har har! We whupped 'em but good! Now, to feast! Bring the meat and mead!
+
+Flavia: The names of Chrom and Robin will long be remembered in Regna Ferox.
+
+Donnel: Look, Ma! Look, Pa! I done done it!
+
+Anna: Well, it's back to business, I suppose. Drop by our shops now and again, okay?
+
+Owain: Farewell, O dire beast! Now it's your turn to suffer in darkness!
+
+Inigo: Huzzah! Now I'll finally have more time for the ladies...
+
+Brady: Well, heck. We actually did it. We saved the world!
+
+Kjelle: My long training has finally proven its worth.
+
+Cynthia: Truth and justice win again! Woooooo!
+
+Severa: I never doubted us. We were born to win.
+
+Gerome: We have wrestled destiny itself into submission!
+
+Morgan: Father/Mother! Now we have years to share stories with one another.
+
+Yarne: H-holy moly! I might make it outta here alive after all!
+
+Laurent: Well, how delightfully fascinating this all was.
+
+Noire: Is... Is all the scary stuff over?
+
+Nah: Our journey through time was worth it, wasn't it, Mother?
+
+Tiki: The world has been plucked from the maw of darkness!
+
+Gangrel: Really now, I just can't seem to die... Where's the messy end I was promised?
+
+Walhart: I stand justified! Man alone is the ruler of his domain.
+
+Emmeryn: Chrom... Everyone... Thank you...
+
+Yen'fay: Say'ri, your strength has led this world back to light.
+
+Aversa: I suppose an end is an end. ...But now how will I fill my days?
+
+Priam: Our strength in body and mind have set the world on a better course.
+
+Chrom: I know some of you will be returning home to your homes and families. This is good, though I will be most sorry to lose you. But ours is a fellowship that cannot be weakened by time or distance. As we walk toward a new and brighter future, let us think often on each other. And let's never forget what we have accomplished, here, today. Together.
+
+Robin: ......
+Chrom: Still feeling guilty, Robin?
+Robin: Huh? Oh... Hello, Chrom.
+Chrom: Don't bother trying to hide it. You're wondering if you should have sacrificed yourself.
+Robin: How can I not question it? I could have ensured my bloodline never threatens us again. But instead...
+Chrom: I won't lie: your death might have spared the world future grief. Perhaps. ...But I know for certain it would have robbed the world of someone very special.
+Robin: I'm just one man/woman, Chrom.
+Chrom: And the good you bring to the world will more than make up for it. You made the right choice, Robin. Everyone agrees.
+
+
+@End
+^locked
+Chrom: ...Robin?! Wait, what—
+Grima: ...WHAT...WHAT ARE YOU DOING?
+Robin: For once, I'm glad you and I are the same. Now I can give my life to protect those I care for...
+Grima: ...YOU WOULD...NOT DARE!
+Robin: I would and I will. The evils you would visit on this world are unthinkable... In some way, I—we share the blame. It's only right we meet our end together!
+Grima: ...NOOOOOOO!
+
+Chrom: Robin! No!
+Robin: Thank you, Chrom. For...everything... Tell the others...my last thoughts were of them... May we meet again, in a better life...
+Chrom: Robin! No! Ah gods, NO!
+
+Chrom: The war is ended, my friends. Never again will the fell dragon trouble our world. I owe you all far more than words can ever repay. Especially Robin, who gave himself/herself to save us all. To save all the worlds to come.
+Lissa: P-poor Robin... *sniff* After everything he/she did for us...
+Chrom: Don't cry, Lissa. We'll see him/her again. I'm sure of it. Remember what Naga said? That Robin would survive if our ties were strong enough. This isn't over. I believe Robin is out there...somewhere... And I'll find him/her. If it takes me the rest of my days, I'll find him/her...
+Lissa: You're right! He/She has to be out there somewhere... And we'll find a way to bring him/her home. Even if we have to search every open field in this whole stupid world!
+
+Frederick: I believe the same, my prince. Robin is too strong to simply disappear. It falls to us to look after the realm until he/she returns.
+
+Sully: Robin had damn well BETTER come back! If that blasted dragon truly got him/her, I'll be the one breathing fire!
+
+Virion: He/She made a noble sacrifice, and I know my nobility! And I know Robin shall someday return!
+
+Vaike: Robin has gotta be out there somewhere... How do I know? Hey, you don't question the Vaike!
+
+Stahl: I can feel it, too. Robin is out there waiting for us. Though I surely will miss him/her in the meantime...
+
+Miriel: While statistically unsubstantiated, I have what laymen might call a "hunch." This hunch corroborates with most of the statements made thus far.
+
+Kellam: Robin, I know you're out there... I know you're not gone... And no one knows more about being lost and found than me!
+
+Sumia: I wish he/she could have stayed with us long enough to see me grow stronger... But all the more reason to work hard between now and his/her return!
+
+Lon'qu: ...He/She lives. I know it. Some people just aren't the dying sort.
+
+Ricken: If Chrom believes he's/she's all right, then so do I! Maybe I can work out some new magic to bring him/her home...
+
+Maribelle: If he/she returns to us now, I might even consider making him/her tea. ...Myself. Do you hear that, Robin?! ME, making TEA! You should be honored!
+
+Panne: Let us honor Robin's regard for his/her warren. He/She was a true taguel. And a true taguel would not leave family behind... I feel he's/she's out there!
+
+Gaius: If Robin's anythin' like me, he/she won't check out just 'cause a job is done. Gotta collect on all the sweet rewards, right?
+
+Cordelia: Too many times now have I watched loved ones give their lives for me... I must hold on to faith that this time will be different.
+
+Gregor: Oy, Robin! You daring to make Gregor celebrate alone?! Gregor not rest until he drink you under table! Har har!
+
+Nowi: *Sob* *sniff* Robin's not gone! He's/She's just...misplaced! I'll wait a thousand years for him/her if I have to!
+
+Libra: Naga has a way of sending a ray of light into even the deepest darkness. May Robin find that light, just as he/she became that light for us.
+
+Tharja: He/She had better march back here and try again! I only send people off on my terms! ...Or in a casket.
+
+Olivia: There will be one less set of eyes on me as I dance... It feels wrong... Please come back, Robin! Please be out there somewhere!
+
+Cherche: Minerva says she still feels Robin is of this world... Also that he/she smells delicious, but that's neither here nor there...
+
+Henry: Hey, Robin, everyone's dying to see you alive. We're sick to death of death! That reminds me of a good one: two Risen, a wyvern, and a priest walk into a bar—
+
+Lucina: We have won our future, but we are in debt to so many sad memories... I pray at least one of those sadnesses will yet be undone.
+
+Say'ri: I swear my life and blade to defend this future you have won, Robin. If you can hear me, swear that you will help me do so!
+
+Basilio: He/She did what he had to do. That's the mark of a true warrior! He'll/She'll be back. I'd bet my sweet brown arse on it!
+
+Flavia: Bah! Leave it to Robin to take responsibility for all of us. If he/she cared for us that much, I hope he/she knows how we still need him/her.
+
+Donnel: Thanks to you and the others, I was able to change... And I've got more changin' to do! I wants ya to see it.
+
+Anna: You've done so much for me and all of my many, many sisters. You're an extra-special customer. ...I hope we meet again.
+
+Owain: I feel a soul straight and true pulsing in the darkness. The hero...will return!
+
+Inigo: No tears today. I know he'll/she'll be back. I'll just have to wait, and...try to smile...
+
+Brady: I won't cry! He'll/she'll be back! I know it! And in the meantime, I'll write the finest song about him/her that ever was!
+
+Kjelle: I am glad for our victory, but I wish it did not mean so sad a farewell... I still have so much to learn. Come back and teach me.
+
+Cynthia: Now I know what it really means to be a hero... But heroes always come back to fight again...don't they?
+
+Severa: Fool! Why did you sacrifice yourself?! I refuse to accept it! Return, Robin, or face my wrath!
+
+Gerome: He/She showed me that I have a future. That destiny can be defeated. We have to believe that we can alter destiny once more and bring him/her back.
+
+Morgan: Father/Mother... You can't leave me now. Not like this... I believe in you. Come back!
+
+Yarne: All this death... No more! Please, you've... You've got to come back...
+
+Laurent: The world is vast and full of potential unexplored! I shall devote myself to discovering that art which might reunite us.
+
+Noire: No, this is all wrong... He/She can't be dead! He's/She's out there. We have to be patient and believe!
+
+Nah: This is all wrong. We can't just leave Robin for dead. I'll wait until the end of time for his/her return!
+
+Tiki: Robin put others before himself/herself. No one can question his/her character. But his/her work is not done. He/She is still needed here.
+
+Gangrel: Damn you, Robin! I joined this fight to meet my end, not secure yours! I'll chase after you to the ends of hell...and if you're there, well I'll drag you back!
+
+Walhart: How we die defines how we lived. This can be said of Robin. But I expect there are more pages yet to be written of a man/woman so nearly my equal.
+
+Emmeryn: Robin... Come back... I need you... We...need you... This world...needs you...
+
+Yen'fay: ...Robin. 'Twas a life lived grandly. ...... But was it lived to its end? I trow you are yet meant for more.
+
+Aversa: What? Robin, dead before me? Preposterous! Return, my lord/lady, and you will have my service...
+
+Priam: Robin could not have arrived at his/her decision easily. But I won't accept it. This can't be the end of his/her story...
+
+Chrom: Robin has secured for us all the most precious gift: a future. Now it falls upon our shoulders to protect what was given. I vow to give my all to healing the damage this war has wrought upon the realm. When Robin returns, I want him/her to see what his/her sacrifice bought. Robin...if you can hear me... You will always have a place here with us. Remember that. Always.
+
+@Cutscene 
+Lissa: Chrom, we have to do SOMETHING.
+Chrom: What do you propose we do?
+Lissa: Uh... Uh, I don't know!...
+
+Chrom: I see you're awake now.
+Lissa: Hey there!
+Chrom: There are better places to take a nap than on the ground, you know.  Give me your hand.
+
+Chrom: Welcome back. It's over now.
+^end

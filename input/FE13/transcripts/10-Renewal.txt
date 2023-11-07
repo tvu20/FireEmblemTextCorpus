@@ -1,0 +1,93 @@
+@Intro 
+Basilio: Hurry! There should be carriages waiting just through the ravine!
+Chrom: ......
+Robin: Chrom, please!
+Chrom: Rrgh... I'm... I'm coming.
+Basilio: Quickly! We're almost... Huh? Damn!  Plegians! I knew it couldn't be that easy... They're right in our way! We must fight!
+
+Mustafa: Ylisseans! I offer you mercy! Surrender to me now and live!
+Basilio: Surrender? Sorry, I'm not familiar with the word.
+Mustafa: Emmeryn would not have wished for this to come to bloodshed.
+Chrom: Don't speak her name!
+Mustafa: Your rage is justified, Prince Chrom. But the meaning of your sister's final sacrifice was not lost on me. I suspect many Plegians who heard her final words would say the same. If you lay down your weapons, I vow to protect you as best I can.
+Frederick: How can we trust you after what your barbarous king has done? I think we shall take our chances with weapons in hand!
+Mustafa: I suspected you would say as much. So be it, Prince Chrom. I shall endeavor to grant you a swift and dignified end.
+
+@Battle 
+Mustafa: What are those--thieves I see scattered about? So, they found our battlefield... They comb it for trinkets and spoils, then scurry away like mice. Pah! We shall bring them to justice later. First, the Ylisseans!
+
+Soldier: Forgive me sir, but I...I no longer see the justice in hunting these people down. I accept any punishment you see fit, but after all that's happened...I just can't.
+Wyvern Rider: How dare you question the general's orders! You know full well the punishment of insubordination is death!
+Soldier: B-but, sir! These people are--
+Mustafa: These questions are not ours to ponder, lad. The soldier does not judge. The soldier delivers judgment.
+Soldier: Sir, I... I cannot raise my lance against them. Even if... Even if it means death.
+Mustafa: ...You were there when Emmeryn spoke, weren't you? So be it! Those of you unwilling to fight are dismissed!
+Soldier: But I don't wish to abandon you, sir!
+Mustafa: I cannot defy the king, lad. I know him well. He would murder my wife and child to set an example. I will accept the blame for your actions today. Now go!
+Soldier: W-wait, General! I see a cause worth fighting for, one I believe in: loyalty to my general.
+Mustafa: ...Aye. That's a good lad.
+
+Mustafa: Call in the reinforcements! Draw them close, then strike!
+
+@Boss 
+Mustafa: I am General Mustafa of Plegia. If you wish to keep your lives, then you must win them!
+
+Mustafa: Well done, Ylisseans... Hrrggh! Please...spare my men...
+
+@End 
+Olivia: Khan Basilio!
+Basilio: Olivia! I'm sorry we kept you waiting.
+Olivia: When I didn't hear from you, I thought... I assumed the worst.
+Basilio: Chrom? Robin? Meet Olivia. She'll be smuggling us out of here.
+Olivia: Only if you hurry! Doubtless more of the Mad King's men are on their way.
+Basilio: Right. Pile in, you lot! And bid farewell to this Plegian hellhole.
+Olivia: Ready? Hold on tight!
+
+Robin: All that... For nothing...
+Lissa: *Sob* *sniff* Emm... Oh, Emm...
+Frederick: I should have died before allowing the exalt to be captured. I have failed as a knight...
+Flavia: So what now, oaf?
+Basilio: Don't look to me—I'm not in charge!
+Flavia: Ugh... I picked a fine time to regain the full throne...
+Robin: Chrom, I'm... I'm so sorry. My plan just wasn't enough.
+Chrom: You did your best, Robin. ...You have my thanks. It's my own failures that haunt me now. Gods, I was just so powerless!
+Robin: It's not your fault either, Chrom.
+Chrom: ...She did it for me, Robin. So that I wouldn't have to live with the guilt of either choice, she chose for me. She sacrificed herself rather than give up what could one day save her people...
+Robin: Chrom... Listen to me. Look at me.
+Chrom: ......
+Robin: I was powerless once, too, remember? And yes, alone, I don't think either one of us is half the person your sister was. But together...maybe we can be something more. If you fall, I'll be there to pull you back up. When you fight for your sister's ideals, I'll be by your side. You don't have to become your sister, you know. You can still be true to yourself. You just have to give people hope in whatever way you can.
+Chrom: And what if I can't? What if I'm not worthy of her ideals? Robin, what if I drag you down with me?
+Robin: If you aren't worthy, you'll keep at it until you are. And if we both fall down, well, that's what friends are for, isn't it?
+Nowi: That's right. I wouldn't be even here if not for you.
+Tharja: You gave me your trust and now you have mine. ...For the time being.
+Lon'qu: Were you unworthy, I would have left long ago.
+Virion: It took great courage and charisma to unite all of us. ...I knew I possessed such talents, but clearly you do as well!
+Ricken: Yeah. We all look up to you! You're like a hero to us.
+Chrom: Thank you, everyone. Your words mean more than you could know. My Shepherds... My warriors... There is work to be done. Gangrel must be stopped so that peace can once again reign in Ylisse. Will you help me?
+Lissa: You can count me in! I'm tired of crying all the time! It's time to start punchin' stuff!
+Maribelle: Hear, hear, darling! Our people have suffered enough.
+Stahl: Gladly would I fight and die for House Ylisse!
+Sully: Gladly would I fight and KILL those dastards for House Ylisse!
+Libra: Our hearts echo yours, sire.
+Sumia: I will be the the unbreakable shield by your side!
+Kellam: I'm with you, too! You know. Just in case anyone...Hello?
+Vaike: Teach is here and class is in session!
+Gregor: How much you pay Gregor? Hee hee haw! Gregor make joke! ...Why you look at Gregor like that?
+Panne: Your sister earned my respect. The last taguel shall champion her.
+Frederick: You have grown strong, milord. I may have set a poor example as a knight... but I swear to you, I shall die before any more exalted blood is spilled!
+Chrom: ...Thank you all. Truly. You honor me with your fealty. I will not falter again. We shall answer this outrage! The Mad King must be stopped!
+Flavia: Right! It's time for ol' Gangrel to get a dose of his own vulnerary! The whole of the Feroxi army is yours to send crashing against him!
+Basilio: Har! You young folk—your passions run so hot! If I had any gray hairs, you would've singed 'em right off. In other words, count me in!
+Olivia: I'd like to go too, if I may. The exalt did me a kindness once.
+Chrom: She did?
+Olivia: Y-yes, sire. It would honor me to have a part in giving her justice! Although all I can do is dance... And I'm not so skilled at that, if we're being honest...
+Basilio: Har har! She's too modest! Olivia is a Feroxi treasure. You won't meet a finer dancer in all the realms! Her moves inspire soldiers to work twice as hard! You'll do well to bring her along, Commander.
+Chrom: "Commander"? What happened to "boy"?
+Basilio: You've earned your way up from that name, I think. Now, where were we? Oh yes! I was just about to start cracking skulls! Flavia will lead me and the other Feroxi in a head-on assault. That should buy you enough time to take down Gangrel. Hear that, boy! You get the fun part!
+Chrom: I thought you weren't going to call me--
+Basilio: You and Robin have my every confidence. You're a born leader, and he/she has a knack of guiding troops to victory. You both have some growing to do yet, but I can already see you'll grow tall.
+Chrom: Thanks, Basilio.
+Basilio: All right, enough talk. It's time to raise some hell!
+Chrom: Right.
+Basilio: Let's get to it, then! Gangrel may try to hit us while we're still licking our wounds.
+Chrom: Let him try. This time, I'm ready to dethrone the Mad King, once and for all.

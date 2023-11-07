@@ -1,0 +1,55 @@
+@Intro
+Chrom: Origin Peak...
+Naga: The fell dragon is indeed here. Remember, Awakener! The power I gave you cannot destroy Grima.
+Robin: It can only put him back to sleep...
+Naga: Correct, Fellblood.
+Robin: So you know of my lineage?
+Naga: You possess power not so different from my own.
+Chrom: We must find some way to break this unholy cycle! We can't just keep putting Grima back to sleep every few centuries. Otherwise we merely will his vengeance on our descendants.
+Robin: ...I may know a way.
+Chrom: Yes, Robin? You have some strategy?
+Robin: The other me claimed the dragon and I were the same, yes? If I strike the final blow, he'd be killed by his own hand...
+Chrom: Robin! Ingenious! Naga? Will it work?
+Naga: ...Perhaps. But there would be consequences. Grima's heart and Robin's are inexorably linked. Dragon and man/woman can no longer be separated. Therefore, slaying Grima would also cause the end of Robin's life.
+Robin: ...I realize that. I am ready.
+Naga: There is...a chance you could survive, but it is small indeed. You have bound your heart to those of many others in this world.
+#avatar-M
+Robin: If those ties prove strong enough, they may yet keep you in this reality. But I would not give you false hope. The chance you would live is insignificant. In truth, you will almost certainly cease to exist.
+#avatar-F
+Robin: If those bonds prove strong enough, they may yet keep you in this reality. However, not even a thousand human friendships surpass the dragon's grip. In truth, you will almost certainly cease to exist.
+
+@Intro
+Robin: ......
+Chrom: Robin would cease to be?! No. We'll find another way.
+Robin: Chrom, wait. You're not thinking clearly. Think about what your sister would have wanted.
+Chrom: Emmeryn would never have asked you to do this!
+Robin: What is one life, when weighed against millions?
+Chrom: Stop it! You're one of us. You'll ALWAYS be one of us. There has to be another way. We just have to find it. Promise me, Robin. Promise me you won't do this!
+^start 
+Robin: You have been so very kind to me, Chrom, always... But this is my decision.
+Chrom: Robin...
+
+Robin: ...You're right, Chrom. I'm sorry.
+Chrom: We swore to stand by each other, remember? We're two halves of a whole... Not even a dragon can sever us!
+^end
+Naga: The time for deliberation is over, Awakener. The Grimleal have found us.
+Lucina: Father! We're under attack!
+
+@Battle 
+Aversa: Really, now—still at your little schemes? Butchering Validar wasn't enough? Do you SEE what your great struggle has won you?! ...NOTHING! Master Grima has returned! The world's fate is sealed! Or perhaps you simply seek a tender embrace here at the end? Hmm? I'm not completely cruel, you know. Come, I have a kiss for each of you...
+Naga: Be swift, Awakener. Grima's servants will harry you to the very last. You must reach the dragon before it is too late.
+
+@Boss 
+Aversa: Murderers! You'll pay for taking Master Validar from me!
+
+Aversa: Ahh...finally... Sweet...death... Finally...the pain... F-finally...it ends... 
+
+@End 
+Lissa: Yikes! What was that?!
+Lucina: The dragon's call!
+
+Lucina: Grima!
+Chrom: We can defeat him!
+Frederick: Milord, how does a man challenge a mountain?! Where would one even strike?!
+Naga: The fell dragon has a weakness on the nape of his neck. But that weakness will be guarded by his servants. I can send you onto the dragon's back, but the rest is in your hands.
+Chrom: Then please, milady, and quickly! We would ask no more of you. Everyone, gird yourselves! One way or another this ends here!

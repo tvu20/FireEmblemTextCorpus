@@ -1,0 +1,170 @@
+@Intro 
+Chrom: *Sigh*
+Robin: Chrom? What are you doing out so late?
+Chrom: Oh, hi, Robin. Just... dueling with some unpleasant thoughts... Tomorrow we march to Regna Ferox to request additional soldiers. But there's something you should know first. ...Not everything Gangrel said was a lie. The last exalt, my father, waged war on Plegia for many years. The violence... It was a brutal compaign, ending only with his death 15 years ago. Plegia rightfully remembers their suffering, but his war was no kinder to his own people. As the fighting dragged on, out army became more and more diminished. Farmers who could barely wield a pitchfork were conscripted and sent to their deaths. Soon there was no food at all, and the kingdom began to collapse. I was young, but I remember those dark times. ...I know how they affected Emmeryn.
+Robin: Such an experience would change anyone.
+Chrom: Indeed. When our father died before her 10th year, he left her quite the legacy... Plegia's desire for vengeance... Our own people's unbridled rage... My sister became a target for blame on all sides. Her own subjects began to hurl insults—and stones. She still bears the scar from one... But she never let them see her pain. Only Lissa and I understood.
+Robin: It must have been so hard...
+Chrom: I cannot claim to know how she does it, Robin. I could not greet such hostility with warmth and patience. While our people mocked and vilified her, she reached out and healed them. She brought soldiers home to their families. She ended the war. And when Ylisse's spirit was mended and the people "forgave" her? ...She never resented them for it. She represents the best part of the halidom—the part most worth protecting. She IS peace. But some men would take advantage of that. Men like King Gangrel. The day he understands peace will be the day death gives it to him. ...So perhaps I must be death's agent. Emmeryn would never order him killed, nor would I wish her to.
+Marth: Well spoken, sir.
+Chrom: Marth...
+
+Marth: Good evening to you.
+Chrom: How did you get here?
+Marth: The cleft in the castle wall, behind the maple grove.
+Chrom: There? But how would you...? Ugh.
+Robin: You know the place, Chrom?
+Chrom: Yes. I bashed in part of the wall while training the Shepherds. It's only a small hole, and I'd thought it well concealed, but...
+Marth: Your secret is safe with me. I come here only to warn you.
+Chrom: Warn us?
+Marth: The exalt's life is in danger.
+Chrom: What, Emmeryn? That's absurd. She's guarded at all hours.
+Marth: What if... What if I told you I have seen the future? Would you believe me? A future where Emmeryn is killed. Here. Tonight.
+Chrom: Seen the future? Have you lost your wits?
+Marth: Yes, I expected you wouldn't believe me. So allow me to prove it!
+
+@Cutscene 
+Marth: I'm about to save your life. ...From him.
+
+Marth: I trust this proof will suffice?
+Chrom: ...Yeah.
+
+Chrom: Wait, you're—You're a woman?
+Marth: And quite the actress, too. Honestly, I'm surprised you didn't figure it out until just now.
+
+@Intro 
+Validar: Remember, I want the Emblem in my hand and Emmeryn dead on the floor. Let nothing distract you from either purpose.
+Assassin: As you will it.
+
+Gaius: Woah, woah, did I just hear that right? We're to KILL the exalt? I'm just here for the plunder. You know, line my pockets with some royal goods. The exalt's such a sweet lady... Sure, I'll rob her blind, but I'd never harm her!
+
+Chrom: Emm!
+Emmeryn: Chrom! Take Lissa and flee while you still have time!
+Chrom: No! We're not leaving you! Just stay where it's safe!
+Robin: The assassins should scatter if we can defeat their leader.
+
+Validar: Hmph! Two assassins and the little princeling was not even wounds? ...Wait. Some of these actors do not belong on this stage...
+
+Validar: Ho ho! Can it be?! After years of searching... Tonight, fate truly piles gifts at my feet!
+
+Marth: Falchion is gleaming...
+Chrom: What's wrong?
+Marth: It's not your concern.
+Chrom: Seems like nothing ever is with you.
+Marth: My apologies.
+Chrom: Just stay at Emmeryn's door. We'll handle the killers.
+
+@Battle 
+Emmeryn: Chrom, please! Flee while you still can! You each have but one life, and I do not wish it weighed against mine!
+
+@Recruit-Talk 
+%Chrom,Panne
+Panne: I knew there was wisdom in slipping in with those rogues. Look at how these man-spawn claw at each other like savages! I will repay my warren's debt and then wash my hands of their race.
+Chrom: Another assassin?
+Marth: Hold! Panne is not your enemy.
+Chrom: You know her?
+Marth: I know... of her. And I knew she would come here tonight.
+Chrom: Quite the prophet, aren't you?
+Marth: As you say. And I swear to you, Panne is an ally.
+Chrom: ...Good enough for me. All right, Shepherds! For now, we leave this Panne character be.
+Frederick: Is that wise, milord?
+Chrom: Marth has earned our trust. She enjoys her secrets, I know. ...Like her gender, for one. But she's also saved our lives. Twice. And that's enough for me.
+Marth: Chrom... Thank you.
+Chrom: Now, to the matter at hand: driving these scoundrels from our castle!
+
+%Chrom,Gaius 
+Chrom: Drop your weapon, or die where you stand!
+Gaius: Easy there, blue blood. I'm not here to hurt anyone.
+Chrom: ...Yet you run with a band of assassins?
+Gaius: Believe it or not, just trying to make a living. I'm a thief, see? Bust open doors, crack into chests... that kind of thing. This lot said they wanted to break into some kind of vault. Nobody said anything about murder. I'd just as soon sit this one out.
+Chrom: Hmm... Then perhaps you'd be willing to prove your good intentions?
+Gaius: Beg pardon?
+Chrom: We need all the help we can get to save the exalt's life. You appear capable, and we could use any information you have about our foes.
+Gaius: Oh, right—those good intentions. Fine then, I'll prove my sincerity... if you sweeten the deal.
+Chrom: You want gold? ...Fine, you scoundrel. Let me just—oops.
+Gaius: Looks like you dropped something. What's in the satchel, mmm?
+Chrom: Nothing—candies from my little sister. I'm sure you--
+Gaius: "Candies"? As in, sugar candies?
+Chrom: Well... yes. I assume they'd be sweet? But--
+Gaius: IT'S A DEAL!
+Chrom: ...You'll risk your life if I give you... a bag of candy?
+Gaius: I said "sweeten the deal", didn't I? Don't get me wrong, I'll take the gold, too. Later. Unless you've got more of these. ...Have you got more of these?!
+Chrom: Um... I'll ask Lissa.
+
+@Character-Falls 
+Gaius: Nngh... Damn and double damn... I hate it when things... go sour...
+
+Panne: I have misjudged the strength of these animals... I must fall back...
+
+Marth: Nngh, no! I must keep fighting...or what purpose have I served?
+Chrom: Marth, no! Stand down! You'll die if you don't! We'll keep Emmeryn safe, I swear!
+Marth: All right...nngh... A-as you wish...
+
+Emmeryn: Ah... I... Forgive me…
+Chrom: Emm? ...EMM?! No, no, no, no, no! Oh gods, nooo! 
+
+@Boss 
+Validar: Emmeryn was supposed to be an easy target... You will pay for interfering in my designs!
+
+Validar: No... This is... all wrong... How could... you have known the plan...
+
+%Robin,Validar
+Validar: Well, well... Ha ha ha! Oh, I know you... Submit to me, and perhaps I might honor you with the truth!
+
+@End 
+Chrom: Thank the gods you're safe!
+Emmeryn: It is you I have to thank, Chrom.
+Phila: I beg your forgiveness, milord! I failed in my duty—they should never have made it into the castle in the first place.
+Chrom: Peace, Phila. You couldn't have known what was coming. Only Marth could...
+Emmeryn: ...Marth?
+Chrom: Yes, I would speak more with... Um... Robin, where's Marth?
+Robin:  Hmm... An excellent question. She was here a moment ago...
+Chrom: ...Not again!
+
+
+Marth:  ...... 
+
+Chrom: Going somewhere? You have a bad habit of leaving without saying goodbye, you know.
+Marth: Yes, I'm afraid I have a few bad habits.
+Chrom: Good ones as well—you saved my life, as well as both of my sisters. Is there some way I can repay you? Some favor I can grant?
+Marth: Hearing you offer is reward enough.
+Chrom: But there must be something...
+Marth: I already have what I came for: history has been rewritten.
+Chrom: And what future averted?
+Marth: After the exalt's untimely assassination, the Fire Emblem would be stolen. This, in turn, would lead to a great war, and soon to the end of mankind itself. ...But I'm sure that sounds like madness to you.
+Chrom: ...Strangely, no. It doesn't. Somehow I know I can trust you. And I hope someday to repay your favors.
+Marth: Perhaps one day you shall. Until then...
+
+Chrom: ......
+
+Emmeryn: Brave taguel, there are not words enough to express my gratitude.
+Panne: So you know our true name?
+Robin: Sorry, what's a taguel?
+Panne: I am a taguel. The... The last taguel. We are shape-shifters. Most of your kind calls us "beast" or "coney" in the midst of their hunt. I only helped because my warren owes Ylisse a debt. Do not think us friends, you and I!
+Robin: I don't understand...
+Panne: Yes, it's precious little your kind seem to understand. It was man-spawn like you that invaded our warren and slaughtered my people.
+Emmeryn: What?! Is this true? Who would do such a thing?
+Panne: Ha! Do not act so shocked. You are all the same. Right down to your base desire to ruin and destroy all your touch—even each other.
+Emmeryn: ...There is truth to your words, perhaps. I'm told that, in taguel society, everyone is treated as an equal. Mankind could learn much from your warren. The words may come too late and mean too little, but I am deeply sorry. We have stolen your friends and family and made the world a lesser place.
+Phila: Your Grace—you had no fault in this!
+Panne: You claim to be blameless, and yet you would apologize? Pah! Your words are but wind.
+Emmeryn: I know... But they are all I have.
+Panne: ...You seem sincere, man-spawn. You feel my pain as your own. ...I've never felt that before. Look at me. ...See what I am. I will never trust mankind. But you... Perhaps you truly are not like the others.
+Emmeryn: All I ask if a chance to earn your trust.
+
+Validar:  Nngh... How?! My purpose is too significant... to be thwarted... here... Aaargh...
+
+???: Validar.
+Validar: What? Who are you... Where did you... come from?
+???: I am the power that compels you. You will not perish here. It is not written. You must live on to author a destiny greater than you know.
+Validar: I-impossible! It can't be you! It can't be...
+???: I am the wings of despair. I am the breath of ruin. I am the fell dragon, Grima...
+
+Phila: It will take time to investigate how the assassination plot got so far. We have no leads at present.
+Chrom: It was Plegia! I'm certain of it. They'd do anything for the Emblem. Emm, you can't stay here. Come to Ferox where it's safe.
+Emmeryn: And leave the people undefended? War is at our borders, Chrom. Do you expect Ylisse to stand against Plegia without a leader? They must know their exalt stands with them.
+Chrom: But if something happens to you? What then?
+Frederick: Your Grace, perhaps you might relocate to the eastern palace for the time being? The other kingdoms would know nothing of it. You would be safer.
+Chrom: Yes, please. At least that. I can't leave for Ferox with you right in harm's way.
+Emmeryn: ...Hmm. Very well.
+Chrom: Thanks, Emm. I mean it. We'll escort you to the palace before we head north to the border.

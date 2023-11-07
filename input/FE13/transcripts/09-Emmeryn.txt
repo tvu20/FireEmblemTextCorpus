@@ -1,0 +1,170 @@
+Aversa: So, Captain, let me be certain I understand your report... Not only did you NOT confirm that the Ylissean party carries the Fire Emblem... But you can't be certain Prince Chrom is even among them? ...Is that the gist of it?
+Soldier: Y-yes, milady! The air was thick with sand—even their number was difficult to ascertain.
+Aversa: Perhaps if you had gotten closer, Captain. Here, let me show you...
+
+Soldier: N-no! I'm sorry, I-- Huargh!
+
+Aversa: Apology accepted.
+Gangrel: Do try not to kill ALL the soldiers, my dear. We'll need a few for the welcoming party. The Ylisseans will be here soon—Chrom and the Emblem among them, I'm sure. That bleeding-heart prince would never put good sense before his sister!
+Aversa: ...And when they arrive?
+Gangrel: It will be a massacre worthy of their legendary father!
+
+Spy: The exalt is the be executed at the castle on the morrow. I heard it from the king's own lips, sire.
+Basilio: This is it, then.
+Chrom: Exactly as you predicted, Robin.
+Robin: So far, yes. But tomorrow will be the true test...
+Flavia: Chin up, there! Show some confidence! It's your thinking that's got us this far. The plan is risky, but only as much is called for.
+Chrom: We'll find a way to see it through, Robin. Don't worry. This time tomorrow, we'll be swapping stories with Emm on the road home.
+Robin: I hope you're right.
+
+Validar: Master Grima, Exalt Emmeryn is to the put to death on the morrow. Events will soon be back on course.
+???: ......
+Validar: Ha ha, yes, I should never have doubted the truth of your words. The yoke of destiny cannot be cast off! Even as they resist, they write your future with every step, O great one!
+???: ......
+
+Robin: ...AAAAAH!
+Lissa: Robin? Hey, Robin! What's wrong? Was it a nightmare?
+Robin: Is... that what it was? Y-yes, it must have been... I'm sorry, what brings you here, Lissa? Was there something you needed?
+Lissa: Frederick says it's time to march. And we can't start the plan without our master tactician!
+
+Gangrel: Good people! Warriors of Plegia! Welcome! Welcome, one and all! Your anticipation electrifies the air! We ALL remember the crimes of Ylisse... Would you have their witch-queen answer for them? Here? Today? NOW? YEEEEEEEEEEEES! Finally, we will have JUSTICE!  EXECUTIONER! If you would be so kind...
+Robin: Flavia!
+Flavia: I've got him!
+Robin: EVERYONE: NOW!
+
+Chrom: Take out all the soldiers first! We'll deal with the Mad King later!
+Gangrel: Oh will you now? Bwa ha! We've been expecting you, Little Prince. Men: Kill him. Kill his sister. Kill his troops and his friends and anyone else you find! KILL THEM AAAAAAAAALL!
+
+@Battle 
+Tharja: So we're to kill or die here, simply because the king demands it? Pfft. What do I care of these Ylisseans? We're given no reasons to fight, only orders. What's the point? Besides, I've always been quite good at choosing who to hate on my own...
+
+Libra: Exalt Emmeryn! No! Gods speed me to her side!
+
+Campari: Where is the damn wyvern brigade?! Hurry! Close off their escape!
+
+@Recruit-Talk 
+%Chrom,Libra
+Chrom: You there! Who are you? Why do you fight alone?
+Libra: Good heavens! You're Prince Chrom, brother to Her Grace the Exalt!
+Chrom: You know me?
+Libra: Know you? Of course, sire! All Ylissean clergy do. I must thank the gods for uniting us! Oh, dearest and most heavenly fa-
+Chrom: With all respect, now is not the time for prayer—it's action that's called for
+Libra: Ah, too true! We hurried here to help as soon as word came of the execution.
+Chrom: We? Then there are more of you?
+Libra: Alas, there were. I lost many brave comrades along the way. In truth, I was starting to doubt the purpose of my struggle... But no longer! Pray, sire, let my axe serve you and your party!
+Chrom: Your love for my sister is clear. I would be honored to be joined by such a formidable woman of the cloth.
+Libra: ...Man, sire. Man of the cloth.
+Chrom: You're a... ...You're not a woman?
+Libra: No sire, Women are clerics. I am a priest. Well, technically a war monk, if you care to split hairs...
+Chrom: Oh. Yes, well, I'm... I didn't mean to imply... Well, this is rather awkward.
+Libra: Oh, it's all right, sire. You realized your mistake quickly enough. It could have been much more awkward. ...... MUCH more...
+Chrom: Right! Let's stop there.
+
+%Chrom,Tharja
+Chrom: You there! Are you with the Plegians? You seem reluctant to fight.
+Tharja: Death comes to all of us eventually. Why invite it early, fighting for a cause I don't believe in?
+Chrom: So... I should take that as a no, or...
+Tharja: Let's just say I'm keeping my options open. I mean, long live the king and all, but I'd like to keep living as well. And I have a bit of a rebellious streak, I'm afraid. A...dark side.
+Chrom: Then perhaps you would rebel now and fight for our cause?
+Tharja: ...You would trust me? What if this all just a ploy to plunge a dagger in your back?
+Chrom: My sister, the exalt—I think she would trust you. And I'm trying to learn from her. Besides, I already need to watch my back, whether you're with us or not.
+Tharja: Well, that's odd... Ususally when I bring up the backstabbing bit the dicussion is over. All right, then—consider me your new ally. ...For now.
+
+@Character-Falls 
+Libra: No... Oh gods... Please finish...what I have started... S-save her...
+
+@Recruit-Battle 
+Tharja: Nngh... Curses! Literally: curses...on you...till the end...
+
+@Boss 
+Campari: You'll never save your precious exalt, scum!
+
+Campari: Urgh... Killing me will only... feed Plegia's rage...
+
+@End 
+Chrom: Robin! Their wyvern riders have fallen! The skies are clear! I'm giving the signal!
+
+Phila: Your grace!
+Emmeryn: Phila! I'm so glad to see you're safe! But how--
+Phila: Khan Basilio's men freed me. Come, we must hurry!
+
+Gangrel: What? Pegasus knights? How did they... That damned Ylissean tactician does NOT play fair!
+Aversa: Heh heh heh... Yes, well. Neither do I. 
+
+Robin: ...Risen?! Oh gods, no! Chrom! There are Risen everywhere!
+Chrom: Damn! Not now!
+Gangrel: Bwa ha ha! Oh, did an army of living corpses just APPEAR out of the blue?! Truly, the heavens smile upon mighty King Gangrel this day! Bwa ha ha ha!
+
+Phila: Risen... How... Y-your Grace, I... Forgive me... Uhh...
+Emmeryn: Phila!
+Gangrel: Exeunt one pegasus knight! Bwa ha ha! Watch how they fall, one by one!
+
+Robin: No no no...
+Chrom: We've lost...
+Gangrel: I believe this is what they call a reversal of fortunes. Now... grovel before me. Plead! Beg for your worthless lives!
+Chrom: I'd give up my life before I beg for it from you.
+Gangrel: Oh, now THAT is a good line. A fitting epitaph for your tombstone, perhaps? But it's not just your life in the balance. The exalt still stands upon the block. And I have a dozen bows trained on her. All it would take is one word from me...
+Chrom: Emm! Hold on, I'm--
+Gangrel: ARCHERS! If this Ylissean pup so much as twitches, let fly your arrows!
+Chrom: I... I'll kill you!
+Gangrel: Go ahead! I welcome it. Just know you were responsible for Big Sister's bloody demise! ...And what of the rest of you? Eh? Who wants the honor of killing the exalt? ...No one? Bah! Your merry band isn't quite so headstrong anymore, is it? Pathetic!
+Chrom: Damn you!
+Gangrel: Now, now, my boy—no one needs to die today. Not you. Not the exalt. Not your friends. Just lay down your sword and give me the Fire Emblem.
+Chrom: ...I...
+Robin: Chrom! You can't trust him! 
+Chrom: Of COURSE I can't trust him! I'm not an idiot! But if I say no, he'll kill her! The gods are cruel, damn them! My sister or my duty... A problem with no right answer, yet I must choose!
+
+^start 
+Robin: I know it's hard to admit, Chrom, but it's the only choice. Compared to the lives of thousands, one person, any one person, is--
+Chrom: DON'T! Just... don't say it.
+Gangrel: What's this? You'll let your sister and ruler die, all to save some old family trinket? Oh, so delicious! I can't WAIT to hear what your people have to say about it! "THE EXALT IS DEAD! LONG LIVE HER MURDERER!" Your halidom will collapse before you could even begin your rule...
+Chrom: We'll see, when the time comes. But first, I'll see you dead.
+
+Robin: That's right. Don't give up! There has to be a way...
+Chrom: If there is, I can't see it... Ah, gods!
+Gangrel: I will count to three! Throw down your weapons, or your exalt becomes the world's largest quiver. One! Two! Thr--
+Chrom: Gangrel, hold! ...You win. Everyone, lay down yo--
+^end
+
+Emmeryn: No wait!
+Gangrel: SILENCE!
+Chrom: Emm...
+Emmeryn: King Gangrel, is there no hope you will listen to reason? 
+Gangrel: You mean listen to more of your sanctimonious babble?! I think not. No, all I want is to hear a THUNK of arrows, and a SPLAT as you hit the ground. Take one, long, last look from your perch. You do so enjoy looking down on people... Then prepare to meet the ground, and your maker! That is, unless if someone were to give me the Emblem... NOW!
+Emmeryn: ......
+Chrom: ALL RIGHT! All right... Emm, I know you won't approve, but this is my final decision. MAYBE someday we'll face a crisis where MAYBE the Emblem would've helped. But I know for a fact that Ylisse needs you, today! The people need their exalt... And we need our sister. If those dark days should come, we'll face them together. 
+Emmeryn: Chrom... Th-Thank you. I know now what I must do...
+Chrom: Emm, what are you--
+Emmeryn: Plegians! I ask that you hear the truth of my words! War will win you nothing but sadness and pain, both inside your borders and out. Free yourselves from this hatred! From this cycle of pain and vengeance. Do what you must... As I will do. See now that one selfless act has the power to change the world!
+Chrom: Emm, no! No!
+
+@Cutscene 
+Emmeryn: No reaction... Was I wrong then?
+
+Emmeryn: Chrom... This is some torch I'm passing you.
+
+Emmeryn: Hmph... So be it.
+
+Emmeryn: Chrom...
+
+Emmeryn: ...Lissa...
+
+Emmeryn: ...And all my people.
+
+Emmeryn: Know...
+
+Emmeryn: ...that I loved you.
+
+Chrom: Emm...
+
+@End 
+Robin: Oh gods...
+Chrom: DAMN YOU, GANGREL!
+Lissa: NOOOOOO!
+Gangrel: Bwa ha ha haa! Well now! ...How disgustingly noble. And so lovely a fall! Here I thought death to be an ugly thing. I've never seen one fall so gracefully, in fact. ...And I've seen many fall! Ah... So ends Emmeryn, Ylisse's most exalted! But how can we ensure everyone remembers this beautiful moment of her sacrifice? Perhaps we should gather up her body and put it on display! Bwa ha ha...
+Chrom: Gangrel! You die today!
+
+Basilio: No, boy! I secured an escape route! We have to flee!
+Chrom: B-But...her body... I have to...
+Basilio: You have to RUN! Now do it! Robin! Don't let him do anything stupid!
+Marth: No! No... I'm too late... Our bleak future is written once more... And darkness awaits us all. 

@@ -1,0 +1,138 @@
+@Intro
+Flavia: Damn! Look at those walls... This isn't going to be easy.
+Basilio: It's not the walls I'm worried about—it's the hordes of Valmese inside them.
+Say'ri: Our best bet is a swift, surgical strike, right at their heart. If we can strike down their commander, the fortress will be ours. So—Khan Flavia, your men will take on the forces surrounded the castle. That should create an opening for a smaller team led by Chrom and I. ...I regret to say this will put you at the forefront of the battle, Sir Chrom.
+Chrom: I wouldn't have it any other way.
+Say'ri: Then it's settled. Other Resistance forces are on the way. With luck, they'll arrive in time to help. Let's cleave them a proud trail of imperial blood to find us by!
+
+Pheros: Hmph. Such arrogance... They truly mean to assault Steiger in such meager numbers? Perhaps they expect a woman's garrison to be a softer target,.. Heh, when I'm through, they'll wish they'd challenged Yen'fay instead. Battle stations!
+
+@Battle
+Say'ri: Sir Chrom—I hear movement from the floor below. It may be reinforcements. Be wary...
+
+Say'ri: Our comrades! But wait, how...
+Chrom: The Resistance had already infiltrated the castle...?
+Say'ri: Nay, impossible! Something is amiss...
+
+Excellus: Oooh, it appears I'm just in time for the Rebellion reunion! Delicious... Please, do give your "friends" your warmest welcome. Just remember your promise...or you can be sure I will remember mine.
+
+Chrom: Say'ri... Are you certain their reinforcements are from the Resistance?
+Say'ri: Aye, sir, I'm ashamed to say I am. I know some of them by name. ...B-but why would they turn cloak against us now?!
+Excellus: Oooh, it seems we've touched a nerve! I do so enjoy inappropriate touching... Now be good little servants and scrub the stronghold of these Ylissean filth.
+
+Pheros: What is this meddling, Excellus?!
+Excellus: ..."Meddling"? Why, General Pheros, one might almost mistake you for ungrateful. This "meddling" is going to save your post, and quite possibly your life...
+Pheros: We've no need of your parlor tricks here, schemer! I can handle this myself.
+Excellus: Why yes, of course you can, General! I can see you're doing SO well already. You're obviously just...waiting to crush the Ylisseans? Toying with them, like a cat! I only brought these rebels so they might learn from your shining example! They were so anxious to join the cause...
+Pheros: Because you threatened them? Tortured them? ...Or perhaps their families? Their villages?
+Excellus: *Ahem* ...I would not wish to burden you with such mundane details, good General. You have more important matters to think after, and to deal with...quickly. But rest assured they are QUITE motivated. Feel free to thank me some other time!
+
+Pheros: Odious freak... He has no honor. Just the sight of him makes me sick. He is the worm, yet I'm the one left squirming... Bah. ...True, his interference may seal our victory...but he'll never hear me say it.
+
+^locked 
+Soldier: General! Sir Excellus is here to see you.
+Excellus: Good day to you, General. You look ravishing, as always.
+Pheros: Why are you here, trickster?
+Excellus: "Trickster"? Why General, it's almost as if you aren't happy to see me! And after I came all this way to help you... I brought friends, you know. Well... perhaps "friends" isn't the word... But they will fight for you all the same.
+Pheros: You brought rebels into my stronghold?! Why would they fight their own kind? Unless... You threatened them? Tortured them? ...Or perhaps their families? Their villages?
+Excellus: *Ahem* ...I would not wish to burden you with such mundane details, good General. You have more important matters to think after, and to deal with...quickly. But rest assured they are QUITE motivated. Feel free to thank me some other time!
+Pheros: Odious freak... He has no honor. Just the sight of him makes me sick. He is the worm, yet I'm the one left squirming... Bah. ...True, his interference may seal our victory...but he'll never hear me say it.
+^end
+
+@Boss 
+Pheros: In the name of the Conqueror, you shall not take this fortress! 
+
+Pheros: Nngh... Well done... I may not live...to see Walhart unify all mankind...with my own eyes... But I have seen it...in my dreams... And that is enough... 
+
+%Chrom,Pheros
+Pheros: Then you'd be Prince Chrom... Once, I followed your exalted sister, you know. Made the pilgrimage all the way to Ylisstol, just to hear her speak. I, too, grew up worshiping Naga and the Earth Mother.
+Chrom: ...Yet you abandoned your faith.
+Pheros: I have no use for invisible spirits any longer. I serve a god among men now. Emperor Walhart will do what no religion ever could—unite all people.
+Chrom: Your naivete betrays you. Think about it: who willingly follows a tyrant?
+Pheros: Thinking plays no part in it. In words and deeds, a great leader takes hold of the heart, not the mind. I remember your sister possessing that selfsame gift for inspiring others. Doubtless many still cling to the power of her poetry. But I have found a greater voice...
+Chrom: My sister believed we all desire the same thing: peace. If Walhart holds such promise, why must he use violence to unite the people?
+Pheros: Now who is being naive, good Prince? Sometimes those who will not walk must be dragged along or pushed aside. So raise your sword, Chrom of Ylisse, and prepare to be pushed aside.
+
+@End 
+Say'ri: Steiger has fallen. ...But I'm afraid our new enemy has the fortress surrounded.
+Chrom: "New enemy"... You mean the rest of the former Resistance?
+Say'ri: Aye, sir. Words cannot express my shame. My...regret... Finally, I succeed in uniting them...but only against us.
+Soldier: Milord! Dire news! Our forces to the north and south have been decimated by Walhart and Yen'fay! What's worse, most of the survivors have turned their coats for the empire!
+Say'ri: B-but our troops numbered in the hundreds of thousands!
+Basilio: The empire must have had more.
+Flavia: Or perhaps have been better trained and equipped...
+Say'ri: Blast! Walhart and my brother—where are their armies now?
+Soldier: Marching toward this fortress, milady. It's only a matter of time.
+Basilio: So much for fortune favoring the bold. This war was lost before it even began.
+Chrom: All our struggles until now, and we've yet to so much as dent the empire...
+Robin: ...Chrom?
+Chrom: What is it, Robin? Do you have something to say?
+Robin: We need to leave here—right away.
+Flavia: Have you lost your wits? We're surrounded!
+Robin: When the other armies arrive, then we'll be trapped for a certainty. If we intend to escape, now is our best chance.
+Say'ri: He/She's right. The dynasts outside betray us only out of fear for the empire. They'll only put up token resistance without their masters watching.
+Chrom: But we can't keep running forever. How do we hope to turn the tide?
+Robin: By striking at either Walhart or Yen'fay before they join strength.
+Chrom: Either one seems a death sentence.
+Say'ri: One general would be upon us before we could finish with the other.
+Robin: I agree...which is why we attack both.
+Flavia: Our army lies in tatters, yet you would divide it by half?!
+Robin: ...I didn't say by half. Chrom would lead our strongest troops against Yen'fay. Meanwhile, a smaller force could attack Walhart.
+Basilio: A SMALLER force? We couldn't defeat him with double our entire number.
+Robin: ...I didn't say we'd defeat him. We only need to distract him.
+Basilio: Hmm... Spend some lives to buy the other team time...
+Chrom: This smaller force would face our most dangerous mission yet. It would need a leader of unparalleled skill, reckless bravery...
+Basilio: All right, Chrom, please—you're embarrassing me! I'll do it already—just stop with all the compliments!
+Robin: This is no time for japes, Basilio. The stakes could not be higher.
+Basilio: I am being serious—I'll lead the squad. Though I prefer my steaks well done...
+Flavia: That's just his way, Robin. Bad jokes come with the bravado. But the oaf clearly has faith in your thinking. And I as well... All of us do, I'd wager. Somehow you always find a way to best the odds.
+Basilio: Then it's settled. I'll make preparations and be off. The rest of you stay with Chrom and keep him safe.
+Robin: Godspeed, Basilio.
+
+Lucina: Stop!
+Chrom: Lucina? What are you—
+Lucina: I cannot allow you to go, Khan Basilio. You will die in this battle. I know it for truth!
+Chrom: What?
+Basilio: You know, lass, you have a strange way of saying good-bye. All right, then. Who is it? Who kills me? Is it Walhart himself? ...Please say yes. It'd make a poor song to die at the end of some farmer's pitchfork.
+Lucina: ...Yes, it was Walhart. Or so goes the story I heard. We must change our plans so fate cannot take this course!
+Basilio: All I needed to know. Thank you much, lass. ...I'll be careful.
+Lucina: Y-you're still going? But I just told you—
+Basilio: Aye, I heard you just fine. But someone still has to stall his division from advancing. If he's the one that kills me, well then, I'll just avoid confronting him. You don't grow this old and handsome without knowing how to avoid trouble.
+Lucina: N-no! It's never that simple.
+Flavia: Don't worry, love, he'll be fine. He'll have me to keep an eye on him.
+Basilio: You aren't coming, woman! You're the reigning khan!
+Flavia: I thought you intended to survive this, oaf. Regna Ferox has two khans, and now you're responsible for both. I dare you to die now!
+Basilio: ...Har! Aha ha ha! All right, all right. You can come. ...Hope that's all right, Chrom.
+Chrom: Just look after each other.
+Flavia: Ha! I'll bring this big ox back on a leash if it comes to that.
+Basilio: Luck and more be with you all. We'll meet again soon.
+Lucina: But please, your future! You must—
+Basilio: "Please," yourself! not another word. I fully intend to outlive all you sprogs—just see if I don't. And as for your "future," it can kiss my big brown Feroxi arse!
+
+@End 
+Basilio: Fall back and form up! Don't let them scatter us!
+Flavia: Rrgh! Easier said than done... Their cavalry is riding right over us!
+Basilio: We can hold our ground... I'll show you how a real Feroxi fights, woman!
+Flavia: Ha! Did I hear a crack in your voice? Is that fear in your eye?
+Basilio: Gah! Never! Let's give these kettleheads a taste of our barbarian roots!
+Flavia: Now THAT'S the oaf I love! ...Huh? Enemy soldiers, there—
+
+Basilio: They're swatting our troops like flies!
+Flavia: Is it some kind of elite cavalry? No, wait... Gods! It's just one man!
+Walhart: YOU THERE! Do you command these forces?
+Basilio: Awww, crap!
+
+Basilio: Haaarrrgh... Such...strength... Is he even human...
+Walhart: ...Impressive. You're the first since Yen'fay to survive beyond a single stroke.
+Basilio: I d-don't... I don't stand a chance... Flavia! Everyone! Run! Run for your lives!
+Flavia: I'm not leaving you here!
+Basilio: He's a demon, woman... I can only keep him...busy while you...escape... Hngh! ...D-damn... Looks like the lass was right...
+Flavia: I think not! I'm here, and that means events can be changed! Damn you, oaf! You're not getting away from me that easily!
+
+Flavia: Basilio!
+Basilio: Nngh... Flavia... Give this to Chrom...
+Flavia: Is this...the Gemstone?!
+Basilio: You have to...survive... G-give it to him...
+Flavia: Give it to him yourself, you one-eyed clod of a man! I'm not going anywhere and neither are you!
+Basilio: Fool woman! I'm f-finished... Don't let it...be for nothing... For once in your life...just do what I say... Go! Go, gods damn you! GOOOOOO!
+Flavia: BASILIO!
