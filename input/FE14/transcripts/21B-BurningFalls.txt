@@ -1,0 +1,75 @@
+@Intro 
+Garon: So Iago has failed yet again. Pitiful. I'll have to dispose of him one of these days... No matter. Plan B will spring into action anytime now. Oh...and to see the look on Corrin's face when it does... Bwahahaha!
+
+Elise: No, Father... How could you?
+
+Xander: Hello, Elise. Might I ask what you're doing out here?
+Elise: Gah! Xander, don't spook me like that.
+Xander: Be honest—were you spying on Father?
+Elise: ... Yes.
+Xander: Elise. You should know better. Father would not be pleased if he found out someone was listening in on him. Even you would likely face some unpleasant consequences.
+Elise: I know. It's just... *sob*
+Xander: Elise! What's wrong?
+Elise: I don't know what to do! Corrin is gone... Leo is gone... Camilla is so depressed that she hardly even leaves her quarters. What's happened to our family, Xander? How can we go back to the way things were?
+Xander: Elise... Don't worry, Sister. When this war is over, everything will go back to normal.
+Elise: *sniffle* R-really? But how can you be so sure?
+Xander: Because I believe. That's why I can keep fighting in the face of heartache. We must all believe that what we're doing is for the greater good... We must trust in our cause and fight for it with all we have! That's all we can do, at least for now.
+
+Ryoma: Well, we had to take the long way around, but we're finally here. This ferry will take us right to your childhood home, Corrin.
+Corrin: I know. I'm having a hard time believing this is really happening.
+Takumi: Yeah, well, don't get too nostalgic or anything. As soon as we step off this boat, there won't be any place to hide.
+Corrin: You're right. We should begin preparing for battle now. There won't be any time to rest once we reach the dock.
+Ryoma: Before we get to that, I need to brief you on something, Corrin.
+Corrin: Yes?
+Ryoma: Just before we boarded this vessel, I received a message from Yukimura.
+Corrin: Really? How is that possible?!
+Ryoma: He sent a young pegasus rider from the Bottomless Canyon to find us. Both rider and steed appeared exhausted. Sakura is tending to them now.
+Corrin: I see. So, what was the message?
+Ryoma: It's bad news, I'm afraid. Yukimura reports that the royal troops are still holding the line in Hoshido. But it appears that soldiers from Mokushu have joined Nohr in attacking us. It sounds like it's only a matter of time until our defenses are breached.
+Corrin: No!
+Ryoma: It gets worse. That message is at least several weeks old. I wouldn't be surprised to find that the situation has deteriorated even further.
+Corrin: It sounds like we don't have much time left. We need to defeat Garon and end this war before our castle falls. How long until we reach our destination?
+Ryoma: Another day—maybe two. According to the captain, we need to go far upstream to reach a docking point.
+Takumi: But...according to the map that the Rainbow Sage gave us...our destination is directly across the river from us. Why can't we go straight there?
+Ryoma: Hmm. I'm not sure. The captain didn't indicate that we had any options.
+Takumi: Look. Right there. A port marked Demon's Fall on the map.
+Ryoma: Demon's Fall? Show me!
+Corrin: He's right. It's handwritten very faintly, right there. Have you heard of the place, Ryoma?
+Ryoma: Yes, but I believed it to be a legend. They say it's a waterfall made of fire, which seemed too fantastical to be true.
+Corrin: Perhaps it's worth checking out. It could save us a few precious days.
+Takumi: Well, we better decide quickly. We're coming up on a fork in the river!
+Ryoma: I believe it's worth a shot. What do you say, Corrin?
+Corrin: I agree. We must act quickly...or else there may no longer BE a Hoshido to save. I think we're ready to take on anything we might find at Demon's Fall. Who's with me?
+Ryoma: We're all with you, Corrin! I'll inform the captain.
+
+Ryoma: By gods...the waterfall IS on fire!
+Jakob: Yes. It is a strange phenomenon, but I can explain how it came to be. There is a massive reservoir of oil nearby that has mixed with the water. At some point, hundreds of years ago, the river was set aflame. It may have been a lightning strike, or an accident, but regardless... It has burned ever since. All of us living in Nohr have avoided the general area, for obvious reasons. So naturally, there doesn't appear to be any sort of a path for us to follow.
+Ryoma: Hmm...
+
+Ryoma: Corrin, do you see that statue over there? I feel the presence of a Dragon Vein nearby...maybe even two!
+Jakob: Be careful! I also sense a hostile presence in the area...
+
+@Boss 
+Stoneborn: None shall pass. Your life ends...here.
+
+@End 
+Corrin: What's happening? Is this another of Iago's traps?
+Ryoma: Corrin, look!
+Corrin: A cave! That wasn't here before, was it?
+
+Felicia: Jakob, is that...what I think it is?
+Jakob: Yes, this must be it.
+Corrin: What are you two talking about? Care to enlighten the rest of us?
+Jakob: Do you feel that breeze? It's fresh air, coming from that passageway. Unless I'm mistaken, it will take us directly to the capital of Nohr, Windmire. There were rumors of such a thing, but I never knew it actually existed...
+Corrin: That's...that's good news, right?
+Ryoma: Yes, if what they suspect is true, this passage would be a massive shortcut.
+Jakob: The air is unmistakable. But I don't see why the path would lead here...
+Ryoma: The Rainbow Sage must have known about this.
+Sakura: O-or maybe he built the secret path himself!
+Takumi: Yeah? Well then why didn't he just tell us about it? Sure woulda saved us a lot of trouble and guesswork...
+Hinoka: Hey! The Rainbow Sage gave us a hand-drawn map. What else do you want from the guy?
+Takumi: Yeah, yeah. I know. Maybe he didn't tell us directly becaus he knew we still had a rat problem. I can just see the traitor now, telling the Nohrians our EXACT route...
+Corrin: Takumi...do you truly believe there is still a spy among us?
+Takumi: I'd like to believe not, but...we haven't exactly had the best luck so far.
+Ryoma: There's no time to debate this. Not when we're about to enter Nohr proper. Now is a time for unity, not division.
+Corrin: That's right. We're probably going to have to face off against Xander and Camilla soon... But I'm prepared to fight even them, if I have to. Hear me, King Garon—we're coming for you!

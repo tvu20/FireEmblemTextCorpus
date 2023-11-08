@@ -1,0 +1,173 @@
+@Intro 
+Corrin: Well, it took some doing, but we've finally arrived at Notre Sagesse. The ferry ride over was rather smooth too. Perhaps our luck is improving.
+Silas: Perhaps. Although, I must admit, I can't shake this strange feeling I have...
+Corrin: Oh? Is something the matter?
+Silas: Well, King Garon said this place would be overflowing with Hoshidans. And yet we were able to disembark from the ferry without so much as a scuffle.
+Corrin: That's a good point. I was so happy that we arrived safely, it hadn't occurred to me.
+Silas: As a matter of fact, I don't see any soldiers around here either. Not a single one. I can't help thinking this is either a trap or some big misunderstanding.
+Corrin: We'll keep our eyes open. In the meantime, I must learn more about the Rainbow Sage. Let's talk to the locals. Maybe they can help solve these mysteries. Oi! You there! Pardon me, ma'am, but may I speak with you a moment?
+Old Woman: Hm? Are you talking to me?
+Corrin: I am. So sorry to bother you, but I was hoping you might be able to help me. To start, we had heard that the Hoshidan army was stationed here, but it seems...
+Old Woman: Hoshidans? Yeah, there was a whole group of 'em around here not too long ago. They were armed up to their teeth. Didn't do us no harm, but they were a bit forceful. They took the Rainbow Sage, though. Said they was his new guards. Most of us thought that was a load o' horse dung, but who are we to argue?
+Corrin: They kidnapped the Rainbow Sage?! Dastards! Do you happen to know where they took him?
+Old Woman: Surely. They carted him up Mount Sagesse. It's right over there - ya can't miss it. You fellas ain't plannin' on goin' up there, are you? Cuz that's a fool's errand. There ain't nothin' but heartache up there. If ya like livin', you'd best stay down here.
+Corrin: What do you mean?
+Old Woman: Climbing that mountain is like the ultimate test o' grit and the like. Every now and then some kook tries to scale it. Most never make it back. Rumor has it, if you reach the summit and enter the Sevenfold Sanctuary... you die.
+Corrin: Sevenfold Sanctuary... How mysterious.
+Azura: What do you want to do, Corrin? It sounds like a trap.
+Corrin: It does, but that can't be helped. There's no turning back now. If we fail this mission, I truly believe Father will have me killed. He's using these missions to test me, maybe even torment me. I mustn't falter. I must end this war at all costs, but I can't do that if I'm dead. If I'm to be tested here, so be it. I shall not fail.
+Azura: I understand. If you insist on going, I won't try to stop you. I will follow you to the end.
+Corrin: Thank you, Azura. 
+Old Woman: I don't know why you came here or why you wanna climb that thing, but good luck. Just try yer best not to croak, ya hear? It pains me every time some young wannabe hero dies tryin' to scale that mountain. 
+Corrin: I promise I shall return safely. Thank you for the valuable information, ma'am. You have our gratitude. 
+
+Corrin: *pant* *pant*  Phew! Climbing this thing really is a test. A test of endurance. Good gods, this is taking forever. 
+Camilla: Aww, my poor widdle Corrin. You look so exhausted! Why don't you have a little rest? You can ride my dragon for a bit. 
+Corrin: That's very sweet of you, Camilla. But I'll survive. Surely someone else could use the break more then myself. 
+Camilla: Oh, Corrin. Why are you so cute?! I want to hug you and never let you go! I'll never forgive those pesky Hoshidans for making you suffer like this. When we get to the top, I'll make sure they pay tenfold for the pain they've caused you!  ... Hmm? What might that be? I think I see something.
+Corrin: Could it be... the Sevenfold Sanctuary? 
+Azura: It would appear so. This is where the battle truly begins. Stay on your guard. The place is likely filled with Hoshidan soldiers waiting to ambush.
+Camilla: Don't worry, Corrin. This is nothing to fret over. I'm with you all the way, and so are the rest of us. And if your evil fake Hoshidan sisters are in there, all the better. I will not lose. 
+Corrin: You're right - we must win no matter what, no matter who we find inside. 
+
+Kaze: Pardon the interruption, Lady Hinoka, but the Nohrian army has arrived. 
+Hinoka: What?! They actually climbed the mountain and lived to tell the tale? Their little ragtag team is more skilled then I gave them credit for. Still, there's no way they can best our troops after such an exhausting climb. We must keep the Rainbow Sage out of their grasp no matter what. Prepare for battle, everyone! This is NOT a drill!
+
+@Boss 
+Azama: Why must you resort to violence? I really do despise savages...
+
+Azama: You have much strength... I am loath to do so, but I must retreat...
+
+Setsuna: You made it all the way up here... Surprising...
+
+Setsuna: I lost. Oh, well. Guess I'll retreat for now...
+
+Rinkah: I am Rinkah, proud daughter of the Flame Tribe's chief. I will not allow you to capture the Rainbow Sage!
+
+Rinkah: Why didn't... you kill me? Perhaps we were wrong about Nohr... No, it can't be! This way of peace must be... Corrin's path...
+
+Kaze: I am Kaze, a ninja in the service of the Hoshidan royal family. But enough pleasantries... to battle!
+
+Kaze: Such power... and determination... you are truly a worthy opponent. Perhaps the royal family was wrong about Nohrians...
+
+Hinoka: I applaud you for making it this far, but your journey ends here. I will not allow you to take this territory OR the Rainbow Sage!
+
+Hinoka: Forgive me, Hoshido... I just wasn't ... strong enough...
+
+%Corrin,Azama 
+Azama: Lord/Lady Corrin, I presume? Lady Hinoka speaks of you often. 
+Corrin: Sh-she does? 
+Azama: She does. She said you are her "sweet little brother/sister". But I'm confused... Given her praises, I never expected to see you attacking a defenseless monk. You must have given in to the savagery so abundant in the Kingdom of Nohr. But if fate would have you cut me down, so be it. Do as you will, I am not afraid.
+
+%Corrin,Setsuna 
+Setsuna: You're Lord/Lady Corrin, yes? I'm Setsuna... I'm Lady Hinoka's retainer... Nice to meet you. 
+Corrin: Polite even to the enemy... I'd expect nothing less from Hinoka's guardian.
+Setsuna: Oh, are you the enemy? Even though you're her brother/sister? Huh.
+Corrin: Um... yes. I mean, it's complicated. Did you really not know that?
+Setsuna: Hm? No... Maybe? It doesn't really matter... Guess it's time for you to die now.
+
+%Corrin,Rinkah 
+Rinkah: I don't wish to fight you, Corrin. But it seems I have no choice. 
+Corrin: I don't want to fight you either. After all, I owe you my life. You took me back to Hoshido during my hour of need.
+Rinkah: Well, you saved my life as well. If you hadn't intervened, King Garon would have killed me. 
+Corrin: I wish it didn't have to be this way, but I can't afford to back down. It's difficult to explain, but it's for the good of all. Please forgive me.
+Rinkah: We understand each-other perfectly. Enough talk. Prepare yourself. I may owe you my life, but I don't have it in me to hold back!
+
+%Corrin,Kaze 
+Kaze: So we meet again, Lord/Lady Corrin. After our last encounter, I did not think we would battle again. But as an enemy of Hoshido, it is my duty to take you down. I respect you too much to hold back. I shall do all I can to vanquish you. 
+Corrin: I understand, and I shall do the same. Let's do this!
+
+%Corrin,Hinoka
+Hinoka: Corrin! We meet at last!
+Corrin: Hinoka...so you're the one who took the Rainbow Sage.
+Hinoka: You really are fighting for Nohr eh? I had to see it with my own eyes. You know, I spent so many years wishing that I could be near you. Now you're right in front of me, but we couldn't be further apart.
+Corrin: I'm sorry it had to be this way. I know you wanted me to return to Hoshido and for us to be a family. It kills me to have caused you so much pain. It is a burden I shall always bear. However I... I...
+Hinoka: I know. You needn't say another word. I also know you won't hold back. I can read your sad eyes like an open book. After all, though we hardly know each other, you're still my little brother/sister.
+Corrin: Hinoka....
+Hinoka: If you're that determined to fight, then so be it. Let's see if all that resolve is enough to take down your own sister!
+
+%Azura,Hinoka
+Hinoka: Azura?! Is that really you?
+Azura: Hello, Hinoka.
+Hinoka: Thank goodness you’re safe! I was so upset when I heard you were missing. I’m sorry we couldn’t stop those rogue soldiers from taking you away. You must have gone through a lot of pain and suffering, but it’s over now. Come on back to Hoshido with me, I’ll keep you safe from the Nohrians.
+Azura: I’m sorry, Hinoka. I cannot return to Hoshido with you.
+Hinoka: What?! Why would you say that? Y-you’re not really siding with the Nohrians, are you? Say it isn’t so…
+Azura: I am. I will never forget the kindness your family showed me… I bear you no ill will, but even so, I have chosen to fight alongside Corrin.
+Hinoka: So you’re to betray us too? …So be it.
+
+%Camilla,Hinoka
+Camilla: Heh heh, I finally found you...
+Hinoka: You! Aren't you Princess Camilla of Nohr?
+Camilla: I am. And you are Princess Hinoka of Hoshido. Corrin's "real" sister.
+Hinoka: Yes, I am. All I've wanted for as long as I can remember is to bring him/her home. I still feel the same way. The last thing I want is to fight him/her. Corrin belongs with us! Can't you see that?!
+Camilla: Oh my, how wrong you are. My sweet brother/sister will never return to you. He/She knows who his/her true family is, and it's not the one he/she left in Hoshido. He/She chose Nohr. More specifically, he/she chose me over you. Deal with it.
+Hinoka: You! Y-you'll pay for that!
+Camilla: Now prepare to beg, Princess. My dear Corrin only needs one big sister! That's why you're the one person I simply can't lose to!
+
+@End 
+Camilla: We won! It's over, Hoshidans. Retreat while you still can. I'd hate to destroy such brave soldiers, but I will if I must. 
+Hinoka: Argh... w-we're out of options here... Everyone! Retreat, now! *sigh* Leave the dead behind, at least for now. There's no time to lose. 
+Rinkah: That won't be necessary. We suffered no casualties. Not one. Many of our soldiers are injured, but they'll recover, and they can all still walk.
+Hinoka: What?! How is that possible? I don't understand... Corrin! What is the meaning of this? Was this your doing?
+Corrin: Run, Hinoka. Why are you hesitating? GO!
+Hinoka: ... Fine I'll retreat, for now. Before that devil you call a sister stabs me in the back. ... good-bye, my brother/sister.
+
+Camilla: Aww, my little Corrin. You really are too kind for your own good. Telling us all not to kill any Hoshidans before we even entered the building... You certainly made things difficult on us, but it was a fun challenge at least! Are you certain we shouldn't chase after them? It's not too late to kill them all... 
+Corrin: No, Camilla. Let them go. We're blazing a new path for Nohr, one of mercy. There will be no pointless killing. That is the only way to end this war. OK, now that we've seized Notre Sagesse, all that's left is to find the Rainbow Sage. 
+
+Kaze: Is that true, Lord/Lady Corrin? Do you really mean to bring peace to this world?
+Corrin: Kaze?! What are you doing here? Why didn't you retreat with Hinoka and the others?
+Kaze: I asked my question first. You said your path is one of peace, and that you seek to end the war. Is that true? if so, why did you choose to return to Nohr?
+Corrin: Yes, I spoke the truth. At first I returned because I couldn't bring myself to betray my Nohrian siblings. But I soon realized that being a Nohrian prince/princess granted me certain opportunities. As a Nohrian, I can change things from the inside, stop the death and destruction. Without me, the Nohrian army would keep slaughtering the Hoshidan army... and the Hoshidans would keep retaliating. A never-ending cycle of hate and death. Since I chose to side with Nohr, it's my responsibility to end that cycle.
+Kaze: ...
+Corrin: I'm sorry, Kaze. But if your intention is to take me to Hoshido, you're out of luck. I won't let anything come between me and my goal of bringing peace to this world.
+Kaze: I see. I have only to look in your eyes to witness how determined you are. Yours is an admirable goal, milord/milady. As such, I request permission to join your ranks.
+Corrin: Huh?!
+Kaze: Please forgive me for my past brashness. I should not have judged you so quickly. When you left Hoshido, I thought you had betrayed us. Like the others, I was certain that you meant to destroy Hoshido. I see now that I was horribly mistaken. Your reasons for siding with Nohr aren't just sound. They're actually quite pure. You have inspired me to hope for a peace I had long ago dismissed. Please allow me to lend my strength to your noble cause.
+Corrin: Thank you for your kind words, Kaze. I would be happy to have you, but... You know the others will call you a traitor, right? Can you live with that?
+Kaze: Words do not harm me, so long as I act with honor. I do not regret my decision.
+Corrin: That's all I needed to hear. From now on, you're one of us. Welcome to the team, Kaze!
+Kaze: Thank you, Lord/Lady Corrin. I shall serve you to the best of my ability.
+Corrin: I don't doubt it. Now to find the Rainbow Sage. He should be somewhere in this building...
+Kaze: Of course. Allow me to show you the way to his quarters.
+
+Rainbow Sage: Hmmmm... 
+Corrin: Um... pardon me, but are you the Rainbow Sage.
+Rainbow Sage: I am the one you seek. You fought a trying battle to get here, young warrior with a heavy heart. 
+Corrin: I did... I heard you have the power to make me stronger than I am. Please, oh wise sage, would you consider blessing me with your strength? 
+Rainbow Sage: Hoo hoo hoo... Oh, you're a funny little dragon, aren't you? You have already gone through my trial, and so have already received my power. Does not your body feel lighter and stronger than when it first arrived? 
+Corrin: I was so distracted I hadn't really... but you're right. I suppose it does!
+Rainbow Sage: All who seek to find me must struggle through various trials to do so. It is amid that struggle that I witness and unlock their true power and potential. You did well, hero of darkness. 
+Corrin: Thank you so much! I can't wait to show Xander my new power. 
+Rainbow Sage: There is one matter we must discuss, brave Corrin. You have in your possession the legendary Yato blade, do you not?
+Corrin: How do you know that? And wait... How do you know my name?
+Rainbow Sage: Hoo hoo hoo, how humorous. I know all that there is to know! I know all that you have done and all that you are still to do. But I won't spoil the ending. That's for you to discover. However, the fates will allow me to divulge one little tidbit to set you on your path... As wielder of the divine blade, it is you who will solve the mystery of the Seal of Flames. The Seal is the key to bringing an end to the hatred and war that soil these lands. Solve the mystery, and you will bring peace to this world at long last. So it shall pass.
+Corrin: The Seal of Flames... Where do I start? 
+Rainbow Sage: Your Yato is the key... that is your first clue. Unfortunately, it seems the Nohrian hero who would aid you is not present. That will change in the not-too-distant future. When the time comes, this will help you lead the way. Lift up your blade, Corrin. 
+Corrin: As you wish, Sage...
+Rainbow Sage:  I, who forged the sacred blade... I, who committed the great sin... I, who wove the divine colors... I call on you now, Seal of Flames! 
+Corrin: What... just happened?
+Rainbow Sage: Nothing, yet. I merely awakened a seed that was already sown. When you enlist the help of another hero of Nohr, your blade will evolve. A blade fierce enough to guide us through the night... the Grim Yato.
+Corrin: The Grim Yato... Once I've unlocked it, will I be able to find the Seal?
+Rainbow Sage: The Grim Yato is a part of the Seal of Flames, though it is not it's final form. Perhaps one day you will meet your fate head-on and unlock the Seal's power. Perhaps... That is all I can say. Your path is an arduous one, but I believe in you. You'd better get going, young hero. The King is awaiting your return. 
+
+Corrin: What a success! We secured the territory and even found the Rainbow Sage. Let's hurry back to the castle and tell Father we completed his mission.
+Iago: Heh heh, not so fast, Lord/Lady Corrin.
+Corrin: Iago?! What are you doing here?
+Iago: I am still at the castle, foolish prince/princess. What you see is merely an illusion. King Garon has tasked me with informing you of his latest command.
+Corrin: Another command? Already?
+Iago: Aren't you lucky? If it were up to me, you would be dead and buried. King Garon doesn't wish for our enemies to obtain the Rainbow Sage's strength. So it is now your illustrious privilege to carry out his will by killing the sage.
+Corrin: Are you insane?! I can't do that! I won't! The Rainbow Sage is a force for good. I will not repay his kindness with death. And the Hoshidan high prince, Ryoma, has already received his power. It's too late to prevent it. To kill the Sage now would not only be cruel but pointless.
+Iago: I'm afraid an order is an order, Lord/Lady Corrin. As you well know by now, to disobey a direct order from the King is treason. Not even your meddling siblings could save you if you disobey once more. If you value your life, I would rethink your refusal.
+Corrin: You dastard! I won't do it! I won't...
+Rainbow Sage: Worry not, young hero. All things must pass.
+Iago: What the?!
+Corrin: Sage! You heard all that?
+Rainbow Sage: Hoo hoo, you never cease to amuse. As I said, I know all there is to know. I am grateful that you chose to protect me, even at the risk of your own life. But now it is my turn to protect you. My time has finally come. I am ready.
+Corrin: Wh-what are you saying? You can't mean...
+Rainbow Sage: I am older than you can fathom. My time to pass into the next world is long overdue. When higher beings like myself stay in this realm too long, we eventually go insane. My power is too great to allow that, as I might even destroy this world I so love. I've known for some time now I must die soon. But not until I gave you my strength. Now that my work is done, so too is my time here.
+Corrin: Please, no! You don't have to do this! I'll find a way to convince Father that...
+Rainbow Sage: Thank you for your kindness, Corrin. That kindness may just save this world. Never forget that life is the most precious gift of all. Protect it. Cherish it. And weather your path is bathed in light... or in the gentle veil of darkness... Allow yourself to be happy. This is such a lovely world... Don't take it for granted. Do this, and your soul shall give hope to the future, brave prince/princess... Do this, and it will shine brightly with all the colors... of the... ... ... 
+Corrin: Sage? SAGE!!! Please don't do this... Don't die... Gods, no... NOOO!!!
+Iago: Hmph. You and your loopholes. Well, I suppose dead is dead. You technically fulfilled King Garon’s order. You sneaky little rat…
+Corrin: I'm so sorry, Sage... I should have found a way to stop this. I chose this path to bring peace to the world. To stop the senseless death... Yet here I am again, powerless to save an innocent life. I failed you, Rainbow Sage... Forgive me...

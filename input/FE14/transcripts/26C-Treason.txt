@@ -1,0 +1,109 @@
+@Intro 
+Garon: Iago! Is that the throne room up ahead?
+Iago: Yes, my liege. Nothing stand in our way. The kingdom of Hoshido is all yours!
+Garon: Mwahaha, the time has finally come! I have awaited this moment for decades upon decades...
+Corrin: ... Yes, Father. Please, sit on the throne and claim what is rightfully yours. Let us admire you in your first moments as the conqueror of Hoshido!
+Garon: No. Stay right there.
+Corrin: Hm?
+Garon: I must first consult the sacred mystical dragon, Anankos. No one may enter the throne room until I say so.
+Corrin: ...Understood, Father.
+Garon: Mwahahaha!! I am ruler of both Nohr and Hoshido, the two greatest kingdoms of all! I shall be remembered forever as the king who conquered the world!
+
+Corrin: ...
+Azura: Corrin...
+Corrin: It's all right, Azura. Once he's done praying to his god, we'll be allowed to join him in the throne room. Then everyone will finally see his true form. After all we've endured, waiting just a few moments longer is nothing.
+Azura: You're right. It's almost time...
+Corrin: Relax, everyone. Father will give us permission to enter any minute now.
+
+Corrin: The fighting is finally over. Let's lay down our weapons and rest easy for a change.
+Azura: Corrin, behind you!
+Corrin: Huh?!
+
+Iago: Drat, I missed! What a slithery little snake you are.
+Azura: What are you doing, Iago?! Why did you attack Corrin?
+Iago: What am I doing? Is it not I who should be asking that question? What exactly do you think you're doing, Lord/Lady Corrin?
+Corrin: What are you talking about?!
+Iago: Princess Hinoka is alive and well. Do you deny it?
+Corrin: That's...that's nonsense! You have no proof!
+Iago: Oh? While you were fighting Prince Ryoma, I had soldiers search the castle grounds. What do you think they found? Surprise, surprise! Princess Hinoka with a small group quietly escaping from the back.
+Corrin: ...
+Iago: You don't seem surprised, young prince/princess. I take your silence as a confession. You let her escape, didn't you?! Such betrayal is an act of treason, and the only possible punishment is death.
+
+Iago: As such, I think I'll go ahead and take your pathetic little life myself!
+Corrin: No!
+
+Xander: As though I would ever allow that to happen.
+Corrin: Xander!
+Iago: Out of my way, Prince Xander. Otherwise you too will be branded a traitor and executed for your crime.
+Xander: So be it. If you wish to kill Corrin, you will have to defeat me first. However, know that I do not intend to go down without a fight.
+Iago: Wh-what do you mean?
+Xander: I challenge you to a duel, Iago. I have had enough of you and your cruel manner of doing things. You are a disgrace to the great kingdom of Nohr, but that ends today. If you choose not to repent, the only fate left for you is to die by my blade. As the crown prince of Nohr, I am taking back my kingdom!
+
+Leo: Count me in. I've long hoped for the chance to express my discontent with Iago's dirty schemes. If you are going to take him down, allow me to share in the pleasure.
+Iago: You d-don't intend to kill me, do you?! Your king's trusted g-general? That's not very becoming of a N-Nohrian royal, now is it?!
+Xander: Say what you will, coward. Our father is not here to protect his lapdog. We'll tell him you were murdered by some remaining Hoshidan rebels. How tragic.
+Iago: What?! No! That's deceitful! It's traitorous! It's—
+
+Elise: Hmph! Who are you to judge us?! You and Hans have done nothing but awful things to innocent people for years! And what's more, you've been openly mean to Corrin! I've always hated you two! It's time to pay for being such big jerks!!
+Camilla: Hmm, well, I perhaps don't feel as strongly as our little Elise here... But anyone who tries to hurt my darling Corrin most certainly deserves death. It's only fair. You're ready to die now, I hope?
+Iago: Lady Elise! Lady Camilla! Th-this is bad...
+Hans: Are you traitors really turning your blades against your own?! Fine then! Bring it on, gwahaha! I don't care if you're a prince or a princess. You're weak—all of you!
+Azura: It seems the only way to settle this is with a battle. Do not expect me to hold back. Though I do not regret returning to Nohr... I will not stand idly by while you desecrate the kingdom I grew up in!
+Corrin: If it’s a fight you want, Hans, it’s a fight you’re going to get. I always try to avoid needless violence...but there’s an exception to every rule. You want to see me act more like you? Like a merciless killer? Then watch this. You may be on the side of Nohr, but I will punish you all the same!
+Xander: Don't worry, Corrin. We all share the sentiment, and we have your back. You are still the leader of this army, and we are awaiting you orders. You have plotted the course, little prince/princess. Give the word, and we shall act upon it!
+Corrin: Right! Everyone, ready your weapons! These men have employed cowardly tactics to hurt innocent people! They have destroyed the reputation of our beloved kingdom! They are traitors, and they will pay for the crimes with their lives! Hurry my friends! It is time to obliterate the king's army and take back Nohr!
+
+@Boss 
+Hans: I've waited a long time to wipe that smug look of your face. This is what you get for not bowing down to my might!
+
+Hans: Defeated? How?! No... It can't be... I was to be rewarded with power! So much...power...
+
+Iago: You impertinent traitor! Your ragtag group is no match for my army! Let your death serve as an example to all those who dare oppose King Garon!
+
+Iago: GAAAAH!! This can't...be happening! How could I lose?! King Garon, please...save...me...
+
+%Corrin,Iago 
+Iago: Are you ready to pay for your betrayal, Lord/Lady Corrin?
+Corrin: No, Iago, I am ready to kill you.
+Iago: Oh my, how very frightening. I'm trembling! I am the highest-ranking general in the Nohrian army, you fool. Do you really think I'll be so easy to kill? But before you die, I have something to tell you. A parting gift, if you will. It was I who sent the Faceless who killed that flying rat, Lilith.
+Corrin: What!?
+Iago: Oh, and that's not all. It was I who suggested to King Garon that you be forced to kill Prince Ryoma. And I who told the enemy about your journey to Macarath. Did you enjoy my little gifts of sorrow? I put ever so much thought into them!
+Corrin: I will never forgive you for all that, Iago. Prepare to die!
+Iago: Ha! So the imprisoned little prince/princess fancies himself/herself all grown up. The king ordered me to make you suffer without killing you... But I can no longer comply. In order to see my plans to fruition, you must die! Say your prayers, Lord/Lady Corrin!
+
+@End 
+Iago: Eeeeek! No! NO, PLEASE! I don't wanna d-d-die!!
+Corrin: It's over, Iago. Have some dignity and let me finish you off quickly.
+Iago: Please, Lord/Lady Corrin! Spare me! Have mercy! All we did was follow King Garon's orders, just like you! If you don't like our tactics, blame him! Punish him instead! I'm innocent! Innocent, I say! You wouldn't kill an innocent man, would you?
+Corrin: ...
+Leo: Yeesh, this is getting embarrassing. How low are you going to stoop, Iago?
+Iago: Lord Leo! I've known you since you were a child! As wise as you are, surely you understand the awful situation I'm in! Please, milord! Spare me! Tell your army how absurd it would be to kill me!
+Leo: You are an eyesore, Iago. A cruel fiend who deserves nothing but a blade at your neck. I haven't any mercy to spare for someone like you. You are naught but a spineless coward who brings shame upon our beloved Nohr. These are your final moments. I suggest you muster some dignity for them.
+Iago: Lord Leo? No! You can't! You—
+Leo: For all the pain you have caused...to hell with you!!
+Iago: GAAAAAAAH!!
+
+Leo: *sigh* It is done.
+Corrin: Thank you, Leo.
+Leo: It was nothing. It actually feels really nice, knowing he's out of our lives.
+Elise: That's our Leo! Always thinking of the big picture and stuff!
+Camilla: Good work, Brother. Now no one remains who can harm our precious Corrin.
+Xander: Yes. This was truly our final battle.
+Azura: Corrin... I think it's time.
+Corrin: I know, Azura. I know. Everyone...I need to tell you something.
+Xander: Oh? What's that?
+Corrin: The war isn't over just yet. There's still someone we must defeat before our world can know peace.
+Xander: Out with it, Corrin.
+Corrin: I'm sorry, but... That person is King Garon.
+Leo: Father?!
+Camilla: You...you can't really be telling us to kill our own father, can you?
+Elise: That's a horrible thing to say! Why would you say something like that, Corrin?! I know he's rough around the edges, but together we can change him!
+Xander: Explain yourself, Corrin. You have our attention.
+Corrin: OK. This isn't going to be easy to hear... But you have to know. I fought so hard and sacrificed so much for this moment. I lost Lilith, Ryoma...even myself to an extent, just to make it this far. I did all that so I could show you, my family, the truth about Father.
+Xander: And what is this truth of which you speak?
+Corrin: Father...King Garon...is no longer human. He has become a monster, kept alive by someone or something truly unholy. There is no way to save him at this point...defeating him is our only option.
+Xander: That's impossible... You must be joking!
+Corrin: I'm sorry, Xander, but I'm dead serious. I had a hard time believing it myself, but I swear it's the truth. I can prove it to you, too. The truth about our Father...lies behind those doors.
+Xander: ...
+Corrin: Please, follow me. Let's go, Azura. We've waited long enough.
+Azura: As you wish, Corrin.

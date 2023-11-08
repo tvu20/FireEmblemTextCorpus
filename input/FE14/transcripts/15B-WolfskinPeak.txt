@@ -1,0 +1,156 @@
+@Intro 
+Kaze: Pardon me, milord/milady. I've finished scouting the surrounding area.
+Corrin: Thank you Kaze. How does it look?
+Kaze: I'm afraid it's not good. I don't believe the Nohrian army is aware of our precise location, but... They have moved to block all possible routes to the castle. Even the back roads and trails. They are being quite thorough. There are thousands of troops massing.
+Corrin: Thousands. And we are just a handful. Well, thank you again, Kaze, for taking on such a difficult scouting mission.
+Kaze: Of course, milord/milady. May I ask... How do you plan on proceeding? I don't see any way we can get around Nohr's forces undetected.
+Corrin: There's really NO other route we can take?
+Ryoma: That's not entirely true.
+Corrin: Oh? Well, let's hear it! It doesn't look like we have any other options.
+Ryoma: Technically speaking, it is possible to reach Nohr via Mount Garou. However, Mount Garou is more commonly known as the Impassable Peak.
+Kaze: How can you even suggest such a thing, Lord Ryoma? We'd fare better against 10,000 Nohrian soldiers out in the open!
+Ryoma: I am aware of the downside... and so is Nohr. That must be why they're forcing us in that direction.
+Kaze: Right. I didn't see any troops blocking the entrance to the peak... But that is surely intentional.
+Ryoma: What do you think, Corrin? This may be our best chance.
+Corrin: Well, we can't just stay here. We're a small force, but we're powerful and nimble. I think we should take our chances with Garou.
+Ryoma: Then it is agreed. Kaze, can you guide us to the best possible entry point?
+Kaze: Of course, milord.
+
+Corrin: *huff* *huff* *huff* First the Eternal Stairway...now this. At least we don't have to worry about staying in condition with all this exercise.
+Ryoma: I'm afraid the physical demands of this peak aren't our only worry... How are you doing, Corrin? Do you need to take a break?
+Corrin: No, I'm OK. But it looks as though we've put some distance on the others. Perhaps we should give them a chance to catch up and rest.
+Ryoma: Good idea. I'll backtrack a little bit and alert the leaders. Wait...someone else is here!
+Corrin: Where? I don't see anyone...
+Wolfskin: Grrrr...
+Ryoma: Watch out, Corrin!
+
+Wolfskin: Grr... *snarl*
+Corrin: What are we dealing with, Ryoma? Another of Nohr's monsters?
+Ryoma: No, these are wolfskin—a tribe with shapeshifting abilities. They're the other hazard associated with crossing Mount Garou.
+Keaton: Hey! What are you guys doing in our den?
+Corrin: I'm sorry...who are you?
+Keaton: Me? Oh, my name's Keaton. And you CAN'T HAVE MY FUR, got it? Some other humans came and tried to get my fur. But I collected their bones instead. Ha! The joke's on them.
+
+Ryoma: He does appear to have a collection of human bones...
+Corrin: I'm sorry. I think there's been a misunderstanding. We're not after your fur. We just want to pass through the area. We mean you no harm!
+Keaton: Really? How can I trust you? My fur is pretty soft, you know. A lot of people want it!
+Corrin: Please, believe me. We have no intention of fighting. Everyone! Set down your weapons.
+Ryoma: I hope you know what you're doing, Corrin...
+Takumi: Yeah, you better be right about this.
+Corrin: There. You see, we're sorry about trespassing, but we come in peace. We'd just like to pass through this area.
+Keaton: Hmm...
+Wolfskin: Grr!
+Keaton: All right, all right. I think they're telling the truth. Let's let these humans through.
+Corrin: Thank you Keaton. We appreciate it.
+
+Wolfskin: Gyaaah!
+
+Keaton: What was that?
+Corrin: Some kind of explosion! Everyone, get down!
+Ryoma: Look, up there. What is that?
+Corrin: It looks like...dark energy. The same kind that exploded from my sword... Have we been set up by King Garon again?
+Keaton: Hey! Hey! Wake up! This isn't funny, OK? Snap to it! Aww, open your eyes. Please? Not like this... *sniff* *sniff*
+Corrin: Oh dear.
+Keaton: YOU! You did this, didn't you? You were tricking us the whole time!
+Corrin: No! That's not true. We had nothing to do with this!
+Keaton: Lies! You'll die for this. ALL OF YOU!
+
+Kaze: Lord/Lady Corrin! Are you OK?
+Keaton: Gah! Get out of my way! This is between me and him/her.
+
+Kaze: Urgh...
+Corrin: Kaze!
+Kaze: I don't think we can talk our way out of this one, Lord/Lady Corrin. We're going to sustain heavy losses if we don't fight back.
+Keaton: I knew I shouldn't have trusted humans. None of you are leaving this place alive!
+Kaze: Quickly, Lord/Lady Corrin! We need to take action one way or another.
+Corrin: Argh! I guess we have no choice... Please forgive us, wolfskin!
+
+@Boss 
+Keaton: Now I'll take your life in exchange for my friend's. Rawr!
+
+Keaton: Ugh... Why did you have to come here...
+
+@End 
+Corrin: We owe the wolfskin an apology. As meaningless as they may believe it to be... We can't undo what happened here today.
+Kaze: An apology may be in order, but we're not at fault here. Please don't be too hard on yourself about all of this.
+Corrin: I don't know. I'll never be able to fully forgive myself. I suppose it's just another burden I'll carry until the end.
+Kaze: Perhaps it's a burden I can help you carry, milord/milady.
+
+Kaze: Would you allow me to serve you?
+Corrin: To...serve me? What do you mean?
+Kaze: Ah, pardon me. Of course you wouldn't be familiar with Hoshidan tradition. It is expected that the most skilled elite soldiers will eventually choose a liege. As you're aware, Subaki and Hana serve Lady Sakura. Hinata and Oboro support Lord Takumi. Lady Hinoka counts on Azama and Setsuna as her retainers. And Kagero and my older brother Saizo work directly for Lord Ryoma.
+Corrin: Yes, of course. I suppose I'm the only one left for you. Sorry about that.
+Kaze: On the contrary. I feel blessed that I've remained unattached. Because now I can pledge my loyalty to you.
+Corrin: Kaze, are you sure?
+Kaze: Yes. I've seen you make tough but necesary decisions in the face of danger. I'm confident that you're the right leader for our group in this time of crisis. Besides, I've done something to you that can never be forgiven...
+Corrin: How could you possibly? I don't know what you're talking about.
+Kaze: Lord/Lady Corrin, allow me to explain. When I was much younger—
+Corrin: Whoah, what's happening? I think it's a landslide! Watch out!
+
+Corrin: Kaze! You have to let go of me! We'll both fall if you don't!
+Kaze: Ungh...never! I couldn't live with myself. I already owe you my life...I'm the reason you were kidnapped as a child!
+Corrin: That can't be true!
+Kaze: It is. I was traveling with you that day, and I saw an unusual Nohrain troop presence. If I had only said something... But I was young... I didn't know the risk they posed. I could have prevented everything!
+Corrin: You were a child! You couldn't have known. It's not your fault!
+Kaze: I wish you were right. But I was raised in a family of ninja. I should have known better. I owe you a lifetime of service. But perhaps sacrificing myself will do.
+Corrin: Kaze, no! Don't do anything foolish!
+Hinoka: Corrin! Kaze! Hold on!
+Corrin: Over here, Hinoka. Please help!
+Hinoka: I'm coming!
+Corrin: Agh...the ground is moving again!
+Kaze: It has been a pleasure serving you, Lord/Lady Corrin. Lady Hinoka! You know what you have to do. Haaa!
+Corrin: Whoa!
+Hinoka: I've got you, Corrin!
+
+Kaze: Please forgive me, Lord/Lady Corrin. I am only doing what is necessary.
+Corrin: NO! Kaze!
+Hinoka: I...I couldn't save him! What just happened?!
+Corrin: I can't belive it... Kaze, why? WHY?!
+
+Ryoma: Well, we've reached the summit. How are you doing, Corrin?
+Corrin: We...we lost Kaze. I still can't believe it.
+Ryoma: Yes. Another tragedy among countless tragedies we've witness of late. ... Look, Corrin. Can you see the sun breaking over the horizon?
+Corrin: Yes...I suppose I can.
+Ryoma: They say the sun never shines in Nohr, but we can see that that's not true. Perhaps it's small comfort, but I take this as a good omen.
+Corrin: It is warm here. The same kind of warmth I felt walking the streets of Hoshido. Perhaps Kaze's spirit lives on in another world, watching over us.
+Ryoma: Anything is possible, Corrin.
+Corrin: Thank you for saving me, Kaze. I promise that you won't have died in vain. rest in peace, friend...
+
+^locked 
+Kaze: I'll always be at your side—especially at times like this.
+Corrin: Thank you, Kaze. Your words mean a lot to me.
+
+Corrin: Whoah, what's happening? I think it's a landslide! Watch out!
+
+Corrin: Kaze! You have to let go of me! We'll both fall if you don't!
+Kaze: Never milord/milady! I won't let you die!
+
+Kaze: Hrrrgh! I can't hold this much longer... Hmm, is that what I think it is? Milord/Milady! I'm going to try something! Please hold tight!
+Corrin: What?!
+Kaze: Hah!
+Corrin: WHOA!
+Kaze: Are you all right, Lord/Lady Corrin?
+Corrin: Yes...I think I am. Thanks to you. What WAS that?
+Kaze: I...I don't know. I didn't know what would happen...but I'm afraid I didn't have many options.
+Corrin: I can't say I'm disappointed, but you should have let me go and saved yourself.
+Kaze: Nonsense. If anything, I was prepared to sacrifice myself. Hoshido needs you, Lord/Lady Corrin.
+Corrin: Well...thank you.
+Azura: Are you two OK? I heard what sounded like another explosion.
+Corrin: Yes, we're fine Azura. Kaze managed to save us both.
+Azura: Oh, thank goodness. I must admit, I feared the worst. Even though we're out of danger for now, it would be wise to stay alert.
+
+Ryoma: Well, we've reached the summit. How are you doing, Corrin?
+Corrin: I'm still upset about what happened with the wolfskin. Not to mention the fact that Kaze and I just nearly died.
+Ryoma: Yes. This clash with the wolfskin is just another tragedy in a long line. ... Look, Corrin. Can you see the sun breaking over the horizon?
+Corrin: Yes...I suppose I can.
+Ryoma: They say the sun never shines in Nohr, but we can see that that's not true. Perhaps it's small comfort, but I take this as a good omen.
+Corrin: It is warm here. The same kind of warmth I felt walking the streets of Hoshido. I hope someday, both Hoshido and Nohr can share this kind of warmth.
+Ryoma: Anything is possible, Corrin.
+^end
+
+@Dialogue 
+Lilith: Lady Corrin, could I have a moment of your time? There's a familiar face here to see you.
+
+Felicia: Lady Corrin! I'm so glad you're safe! When I'd heard you'd gone missing I couldn't think about anything else! I've been tracking you down ever since, through the astral whosits! It wasn't easy, but I made it here and I want to fight!
+
+Jakob: Lord Corrin, it's truly splendid to see you are doing well! When word reached us that you had gone missing, I could not rest. Tracking nobles across dimensional barriers was a new item for my résumé... But I am undoubtedly richer for it. Now that I am here, I would like to fight at your side.

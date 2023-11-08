@@ -1,0 +1,172 @@
+@Intro 
+Rinkah: Ah, you’re awake. Sorry about that bump on your head.
+Corrin: It’s you! From the Flame Tribe, right? Where are we?
+Rinkah: Yes, I am Rinkah. This is a Flame Tribe village within Hoshido’s territory. I’m going to hand you over to the Hoshidan authorities.
+Corrin: I see. I suppose they’ll want to hear an explanation for the unprovoked attack. And then they’ll probably execute me.
+Rinkah: Heh. I don’t think so.
+Corrin: Gods…they’re here already, aren’t they?
+Rinkah: Yes. It’s time to go.
+
+Corrin: We meet again. Kaze, right?
+Kaze: Yes. I’m glad we found you, Prince/Princess Corrin.
+
+Corrin: You are? Wait, am I missing something?
+Kaze: Please come with me. All will be explained.
+Corrin: Very well.
+
+Ryoma: Welcome back, Kaze. Good work.
+Kaze: Thank you, Lord Ryoma.
+Corrin: Did…did you just say Lord Ryoma?
+Rinkah: Yes, this is the high prince of Hoshido, Lord Ryoma.
+Corrin: I understand.
+Ryoma:  Hmm…
+Corrin: What are you waiting for? If you’re going to execute me, please get on with it.
+
+Mikoto: I cannot believe it is really you…
+Corrin: I’m sorry, do we know each other?
+Mikoto: Oh, I’ve missed you so much! Come here, Corrin, my sweet child!
+
+Corrin: Your sweet child?! What are you talking about? That’s not possible…
+
+Mikoto: Oh, my poor Corrin. It’s a sad story. When you were very young, you were abducted by forces from Nohr. I am your mother, Mikoto. All this time, I didn’t know if I’d ever see you again!
+Corrin: But King Garon is my father! None of what you’re saying makes sense.
+Ryoma: It must be quite a shock, but I assure you that she speaks the truth. I am your elder brother, Ryoma.
+Corrin: No, no, no… Xander is my older brother! Leo, Elise, and Camilla are my siblings…
+Ryoma: Are those the Nohrian royals? They’re not your real family. I still remember the day you were taken. In those days, there was tension between Hoshido and Nohr, but no full-blown war. Not until King Garon lured King Sumeragi-our father-to Cheve under false pretenses. He said it was for a peace conference. Ha! His real plan was to murder our father in cold blood. And to make matters even worse…he kidnapped you.
+Corrin: No. That’s just not possible…
+Ryoma: You really don’t remember any of this? Not even a single memory?
+Corrin: No. Honestly, I have only the vaguest memories from my early childhood…
+
+Corrin: These are times when I can sense something beneath the surface… A blurry image. Like a stone at the bottom of a lake, shimmering and ethereal. But that’s it. Nothing of substance.
+Ryoma: Well, I can’t imagine the Nohrian royals would share much of the past with you. I know this is a lot to take in.
+
+Hoshidan: Lord Ryoma! I have an urgent message. We’re under attack from the north!
+Ryoma: No! Hinoka and Sakura are in that area right now!
+Hoshidan: Yes, milord. I’ve been told that they’re working to help evacuate the villagers.
+Ryoma: Very well. We’ll need to provide support. I’ll leave immediately. Corrin, will you come with me? I want you to see the truth with your own eyes.
+
+Sakura: Sorry I’m slowing us down. Of all the times to sprain an ankle…
+Hinoka: Don’t worried about it, Sis. We’ll be OK. These stupid beasts don’t stand a chance against me.
+Sakura: I hope you’re right…
+
+@Battle 
+Ryoma: Take a look around, Corrin. This is a treacherous region for battle. It’s important to scout ahead and look for any troublesome areas.
+
+Rinkah: Hm? That village… Not everyone has evacuated yet. We should warn them to stay out of harm’s way!
+
+Kaze: I hope it doesn’t come to this, but I’ve brought some Vulnerary for you. Please use it as necessary, Lord/Lady Corrin.
+
+@Visit 
+Old Man: Oh, thank you, kind warrior! Everyone in our village is so grateful. Please, take this. Good luck!
+
+@Battle 
+Rinkah: Did you see that? The entire hill just disintegrated! Is that the power of a Dragon Vein? I had no idea…
+Kaze: To harness the ancient dragon powers is truly a magnificent gift. Yet I wonder if even the royals who wield that power can fully control it… Still, strategically using Dragon Veins could be the key to this rescue.
+
+Ryoma: When you are in command, you can lead your allies in battle. Or, you can allow them to engage the enemy as they see fit. Just be careful to never let your guard down!
+
+Corrin: I think I see someone over there. It might be the princesses. We should get close and try to speak to one of them.
+
+@Battle-Talk 
+%Corrin,Hinoka
+Corrin: Hey, are you all right? We’re here to help.
+Hinoka: Yeah, we’re fine. Who are you? I thought I knew most of my brother’s troops. Anyway, I appreciate the help, but it’s really not necessary. It takes more than a few dozen 800-pound monsters to bring me down!
+Corrin: Well, I’m glad you’re feeling confident. Just know that we’ve got your back.
+Hinoka: Hey, wait a second!
+Corrin: Hmm?
+Hinoka: I didn’t mean to be dismissive. Thank you for coming all the way out here. I owe you one…so take this. You can use it in a pinch to heal your wounds. Now really, don’t worry about me. I’m at my best in situations like this!
+Corrin: Thank you. I’ll use this wisely.
+Hinoka: Hey, you never did tell me your name.
+Corrin: Oh, sorry. I’m Corrin. Nice to meet you.
+Hinoka: Corrin? Corrin?! This can’t be a coincidence!
+
+%Corrin,Sakura
+Corrin: Hey! Are you OK? We’re here to help.
+Sakura: Oh! Th-thank you so much. Yes, we’re OK…for n-now.
+Corrin: Excellent. I think we have things under control at the moment. But please stay back for the time bring. We’ll take care of the rest of the monsters.
+Sakura: Yes, of c-course. Oh. I didn’t even get a chance to ask his/her name…
+
+@Battle
+Ryoma: Hold strong, Sisters! I’m coming for you!
+
+Hinoka: Do your worst, monsters. I promise I can be meaner than you!
+
+Sakura: I’m not scared of these things…as long as Hinoka is close by!
+
+@Character-Falls
+Hinoka: Ugh! I lost to that... THING.
+Sakura: Hinoka! You've taken too much damage. Please, you must retreat!
+Hinoka: Never! Urk... Well, maybe just this once...
+
+Corrin: I wasn't prepared for this! I'm sorry, I can't go on...
+Ryoma: Corrin, no! How could I let this happen...
+
+Sakura: No! *sob*
+Hinoka: Sakura, get out of here! You can't possibly go on!
+Sakura: You're right. I'm sorry, Hinoka...
+
+@End 
+Sakura: Thank you so much for coming to our aid. Those monsters would have caused more damage if you hadn’t come. I have to ask, though… Who are you?
+Corrin: Oh, my name is-
+
+Hinoka: His/Her name is Corrin.
+Corrin: Er, yes. Nice to meet you properly.
+Sakura: Hinoka? Are you OK?
+
+Hinoka: Finally…after all these years… I…I’ve missed you so much.
+
+Hinoka: S-sorry…
+Corrin: Oh! Um…
+Ryoma: Hinoka was so attached to you when you were little, Corrin. When you were taken from us, she cried for months. One day she stopped crying and pick up the naginata. And I will say…if you ever find yourself facing business end of her weapon… …you will soon be filled with major regrets about your life decisions. She vowed to bring you back to us someday… And now here you are.
+
+Hinoka: I’m sorry, Corrin. I’m not usually this emotional. But I’m just so happy to have you back. Take that, Nohrian scumbags! We win, you lose!
+Sakura: Wait…is this really Corrin?
+Ryoma: Yes. I know it’s big news. I’ll fill you in on the whole story later. For now we should return to the castle before Nohr deploys more monsters. Everyone, let’s head home!
+Corrin: What are those things, anyway?
+Ryoma: They’re known as the Faceless. Creature with no will of their own. Created by Nohrian mages.
+Hinoka: I call ’em dead meat. But they’re the only thing Nohr can throw at us right now. Our mother, Queen Mikoto, put up a magical barrier around our kingdom. Regular enemy soldiers find themselves without the will to fight upon crossing it. So long as Mother is able to keep the barrier up, Nohr can’t invade Hoshido.
+Ryoma: That’s why Nohr sends those…things. They have no souls-no will of their own.That’s why they are able to penetrate the barrier and terrorize our borders.
+Corrin: But…the Nohrians wouldn’t send monsters to terrorize innocent people…
+Hinoka: Of course they would. They’re pure evil. Sometimes the Faceless even turn on the mages who created them. But the Nohrians don’t care. They’re willing to sacrifice their own just to hurt others. I’ll never forgive them for that, or for stealing you away. They’ll pay for all the suffering they’ve caused!
+Corrin: I can’t believe it…
+
+Mikoto: Welcome back, Corrin! This is your old room.
+Corrin: And what’s this?
+Mikoto: Oh! That’s a picture you drew when you were a little boy/girl. This is your father, this is me, and that’s you. It’s so cute!
+Corrin: *sigh*
+Mikoto: We couldn’t bear to touch a thing in this room after you were taken. If we put your things away, it would have felt like giving up. You’ve grown so much. I can’t believe how handsome/beautiful you are!
+Corrin: I’m afraid I still don’t remember anything.
+Mikoto: Oh?
+Corrin: I…I just don’t know how to respond to your stories. I do believe I could be your child… But everyone here simply feels like a stranger to me.
+Mikoto: I understand, Corrin. Please don’t worry about it.
+Corrin: I’m so sorry. Here you are, maybe my real mother, and I don’t feel anything…
+Mikoto: Please. It makes sense. You spent your whole childhood in Nohr. I’m sure you were quite sheltered. You will need time to think all of this through and search your soul. But I hope that someday we can be a family again.
+Corrin: …
+Mikoto: For now, please make yourself comfortable. Explore the castle, or stroll the grounds outside. You’ll be safe here.
+
+Corrin: I can’t stop thinking about Xander. Or about Camilla, Leo, and Elise…
+
+Corrin: Hm? What a beautiful song…
+
+@Cutscene
+Azura: Yet the waters ever change, flowing like time. The path is yours to climb.
+
+@End
+Azura: ?
+Corrin: Er, hello. I’m sorry to bother you. I just got lost in your singing. There is something about that song captivated me…
+Azura: You must be Prince/Princess Corrin.
+Corrin: Yes. And you are?
+Azura: I’m Azura. A former princess of Nohr.
+Corrin: Former? I don’t understand. If that were true, surely I would have heard of you. I grew up with the Nohrian royal family…
+Azura: I’m afraid I’ve been here a long time. After you were taken by the Nohrians, the Hoshidan forces retaliated. They tried desperately to get you back, but they failed again and again. However, I wasn’t as heavily guarded. Hoshidan ninja easily kidnapped me. I suppose we’ve both been hostages for most of our lives…
+Corrin: Gods…I’m so sorry.
+Azura: No, it’s OK. I may technically be a hostage, but I’ve lived a happy life. The people of Hoshido have accepted me as one of their own. Even Queen Mikoto herself treats me as if I were her daughter.
+Corrin: Does she? Hmm…
+Azura: Did something happen between you and Queen Mikoto?
+Corrin: No. I just don’t know what to do. She seems perfectly lovely, but I don’t feel any connection to her. But she loves me. And so do all my blood siblings-who I’ve just met.
+Azura: I understand. If I were to return to Nohr, I suspect I’d feel the same way.
+Corrin: Do you think you could start over there? Live a new life among strangers?
+Azura: No. Given a choice, I would prefer to stay here in Hoshido. Queen Mikoto is a peace-loving ruler. King Garon is not.
+Corrin: …
+Azura: So, Corrin…what are you going to do?
+Corrin: I don’t know. For now, I’m just going to spend some time thinking.

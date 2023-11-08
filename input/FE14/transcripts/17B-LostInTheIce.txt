@@ -1,0 +1,132 @@
+@Intro 
+Corrin: I'm guessing we're on the right track... It's absolutely freezing out here.
+Flora: Heehee. It feels great to me, but I know it's not for everyone. Just hang tight. There's a warm cabin waiting for you at the end.
+Corrin: Thank you, Flora. I have to commend your navigating skills as well. We've somehow managed to avoid running afoul of any Nohrian troops the whole way.
+Flora: Yeah...I guess we just got lucky...
+Felicia: She's right, Lord/Lady Corrin. This was just the most direct route. I would have chosen the same route if I were leading us.
+Flora: Why must you always one-up me, sister? What's the point?
+Felicia: What are you talking about? I'm not trying to one-up you. You're the one who's always been so perfect. I've always looked up to you.
+Flora: Oh, I'm sorry. I don't know what came over me. Thank you for the kind words.
+Felicia: Just don't let it go to your head, all right?
+Corrin: For the rest of the group's reference: yes, they've always been like this. *sigh*
+Ryoma: What's wrong, Corrin? You haven't seemed yourself lately.
+Corrin: Well, to be honest...our encounter with Iago is still bothering me. I'd hate to think I can't trust everyone here, but I've been burned once before...
+Ryoma: That's not your style, Corrin. You're on your way to becoming a great leader, and you lead by example. If you don't trust your own troops, how will they trust you? Don't let what happened with Zola shake your confidence.
+Corrin: I don't know. I feel like things have changed. The stakes have been raised. As if they could get any higher...
+Ryoma: Let's take a step back, shall we? Do you trust me, Corrin?
+Corrin: Of course.
+Ryoma: All right. How about Sakura and Takumi? Think about Hinoka, Azura, and Silas too. Any of them potential suspects?
+Corrin: Absolutely not. I believe in all of them!
+Ryoma: Very well. How can you be so sure?
+Corrin: I...I just can. I don't know. It's a gut feeling, I guess...
+Ryoma: Precisely. This is both your weakness and your strength. You have a keen intuition for people and natural charisma. Yet you lack the years of experience needed to make calculated decisions. So? Follow your strength. Use your intuition. Don't try to be what you're not.
+Corrin: Thank you Ryoma. The problem is that my intuition is telling me that Iago wasn't lying. Regardless, I'll try to focus on the task at hand. Thank you.
+Ryoma: Of course.
+Felicia: Hey, guys, we're almost there!
+
+Corrin: Brr! Where's that warm cabin you promised, Flora?
+Flora: Just a minute, Lord/Lady Corrin. I need to check in with the village elders.
+Corrin: By all means. But please, hurry back—we're freezing out here!
+
+Corrin: Gods...I can't feel my own face. How does anyone actually LIVE here?
+Felicia: Heehee! When you're born here, you never even notice how cold it is.
+Corrin: The rest of us, meanwhile, could use some sweaters and a roaring fire.
+Felicia: Well, hopefully Flora will be back shortly. I don't want you to think the Ice Tribe doesn't know how to treat its guests. Ah, here she is. Hey, Sister!
+
+Flora: Ahem...
+Felicia: Flora, everyone is freezing. It's adorable! But we should really get them inside so they can warm up.
+Flora: Felicia...I'm sorry.
+Felicia: What for?
+
+Corrin: It's getting even colder! And I can't see anything... What's going on?
+Felicia: What are you doing, Sister? Knock it off!
+Flora: I can't. I can't allow Lord/Lady Corrin to live. He/She betrayed King Garon and the kingdom of Nohr.
+Felicia: You can't be serious!
+Jakob: Flora, listen to reason. This is madness.
+Flora: No, it is our king's will. Stand aside, Jakob, or I'll destroy you as well.
+Jakob: How dare you...
+Flora: Very well. If I have to kill all of you, I won't hesitate to do so. You've been warned.
+Corrin: This can't be happening. Flora, are you under the direct control of King Garon or Iago? Stop this at once and rejoin us! And together we can end his hateful rule!
+Flora: No. My mind is made up, and I'm acting of my own free will.
+Felicia: What is wrong with you?!
+Flora: Felicia... Don't worry—I won't target you. You have betrayed us as well, but I'm sure King Garon will be merciful...if you join my side right now.
+Felicia: Never!
+Flora: Really? Come on, Felicia. It's still me. We can do this together!
+Felicia: I could never attack Lord/Lady Corrin... My job is to protect him/her!
+Felicia: And I'm not the only Nohrian who's turned her back on King Garon's atrocities.
+Felicia: If you had, you'd know that Corrin is just trying to follow the path of justice! So, even though it means fighting against my own sister and tribe... I stand with Lord/Lady Corrin.
+Flora: I wish I had your strength...
+Felicia: You do! You can still do the right thing!
+Flora: No! Forget what I said. This has gone on long enough. I'm going to end it quickly.
+Felicia: Please, no!
+Corrin: Flora, I still believe in you! I know that King Garon must have something over you. But if we stick together, I promise we have the strength to take him on. Flora! Are you listening?
+
+@Visit 
+Boy: I've got nothing for you. Go ahead and kill me if you must! You should give up now, though. Do you even realize you're surrounded?
+
+Old Man: Nothing but old bones and dust in this house, youngster. All I can offer is a warning—our soldiers love hiding in the snow!
+
+Child: People in town are saying you're the bad guys...but I don't know what to think. I've seen some of those Nohr soldiers doing awful things to our people. Here, take this. It's not much, but it's all I can give. I just ask that you spare Flora and the other locals. Good luck!
+
+Girl: Why did you have to come here and make all this fuss? Well, no matter. Now that you're here, we can't let any of you leave, I'm afraid.
+
+Old Woman: Ahhh! Get out of here! I don't want any trouble. Hey, soldiers! The invaders are at my front doorstep. COME GET 'EM!
+
+@Boss 
+Flora: I had no choice...
+
+Flora: Thank you...for stopping me...
+
+%Corrin,Flora
+Corrin: Flora! Why are you doing this? Please! There must be a reason.
+Flora: I told you already. You betrayed Nohr. Now quit asking about it!
+Corrin: This isn’t you...
+Flora: You don’t even know the real me. Now it’s time for you to die!
+
+%Felicia,Flora
+Flora: So...they sent you to face me.
+Felicia: Sister, I’m here to talk you out of this madness. It’s not too late to change your mind!
+Flora: No, I can’t turn back. And I won’t go easy on anyone—not even you.
+Felicia: *sob* *sob* No! This can’t be happening…
+
+%Jakob,Flora
+Jakob: Flora! Stop this madness at once and return to your senses. You've embarrassed me more than enough for one lifetime.
+Flora: Jakob... I wish it didn't have to be this way. I wish we could have just stayed in the fortress... Happily serving Lord/Lady Corrin until we were old and gray... We could have had a future together. Just know that I'll always regret this.
+Jakob: What? I can't hear you over this ridiculous snowstorm.
+Flora: That's just as well. It's fitting that my hopes and dreams should blow away in the wind...
+
+@End 
+Corrin: You left me no choice, Flora. I've been as merciful as I can be, but I need to hear it from you. What is Garon threatening you with?
+Flora: I...I can't... Ugh. I guess it's all over. I have nothing left to lose, so... Garon said he'd destroy my entire village if I didn't cooperate.
+Corrin: You see? That's exactly why we must stand against him!
+Flora: But you don't understand! Garon said that if I didn't kill you and Felicia myself...he'd kill everyone in the village and burn it to the ground! I made the toughest choice of my life. To protect many at the expense of a few...
+Corrin: But, Flora... How could you be sure Garon would even keep his promise to spare your village?
+Flora: I know...but it was that or risk certain destruction. He gave me 30 seconds to make a decision before killing me on the spot. Being weak and afraid of death...I shamefully decided to betray you.
+Corrin: None of this is your fault, Flora. I just wish you'd trusted that we could help you...
+Flora: Well, nothing will change the fact that I betrayed you. Not to mention my own flesh and blood. For that...I deserve to die.
+Corrin: Flora. Please don't be so hard on yourself.
+Jakob: Yes. You've been foolish, but we have survived. Now it's time to regroup.
+Felicia: See, Sister? It's all over. All is forgiven. Please come talk to me.
+Flora: Everyone... GET BACK!
+
+Felicia: Flora...NO!
+Jakob: What in the devil are you doing?
+Corrin: Oh, gods! No! Flora, what have you done?
+Flora: This is what I should have done the moment Garon threatened me. Perhaps I could have taken him out with me...
+Corrin: Somebody help! Put out the fire!
+Felicia: Stand back... HAAA!
+
+Felicia: Oh no... It's not working!
+Jakob: The fire must be enchanted... It's getting even stronger! We need water! Won't someone bring water?
+Corrin: Flora! You have the power to stop this! PLEASE! DO IT NOW!
+Flora: No, Lord/Lady Corrin. I finally feel at peace.
+Corrin: Please! *sob* Don't do this! We can still save you...
+Felicia: My ice power isn't strong enough to put out the fire... Flora, why won't you listen to reason?
+Flora: Please stop trying to save me. This is what I deserve.
+Felicia: Flora, NO! You can't die like this!
+Flora: Ughh... The end is near... Felicia... Lord/Lady Corrin... I regret...everything. ...
+Felicia: Sister, NO! NOOOOOO! SISTER!
+Corrin: Gods...why... Flora...
+Jakob: What a foolish and terrible waste of life. I think I am going to be sick.
+Felicia: *sob* *sob* Sister...please wake up! Tell me that this is just a bad dream...
+Corrin: ... King Garon claims another beautiful life. He...will...PAY! I swear on my own life. We're coming for you, Garon.

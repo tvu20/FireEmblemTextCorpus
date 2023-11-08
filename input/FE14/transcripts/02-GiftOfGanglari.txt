@@ -1,0 +1,131 @@
+@Intro 
+Garon: I see you made it here safely, Corrin.
+Corrin: Yes, Father. Long have I wished to see you and visit Castle Krakenburg again. I feel like I’m dreaming…
+Garon: It is only thanks to your diligence that you are here. I am told you are now a warrior almost on par with Xander. You finally possess the strength to be an instrument of Nohr’s power in the world.
+Elise: But, Father, will he/she be all right outside of the fortress?
+Camilla: I worry about that as well. Isn’t it dangerous for Corrin to live outside the fortress’s magical barrier?
+Corrin: I appreciate your concern, but I earned my way here and I’m ready to fight.
+Garon: Corrin, as you know, Nohr is at war with the eastern kingdom of Hoshido.
+Corrin: Yes, Father. I have heard as much.
+Garon: We of the royal family are descendants of the ancient gods, the First Dragons. As inheritors of that divine strength, we conquer those who oppose us with ease. One who learns to wield that power can destroy an entire army of common troops. Xander, Camilla, and Leo have already shown that they possess this power. I expect no less from you.
+Corrin: I am aware of your expectations, Father. And I have trained every day to become more like my siblings.
+Garon: Hmm…you show promise. But you will need a suitable weapon in order to serve Nohr.
+Corrin: Wow…
+Garon: This is Ganglari, a sword infused with magic from another world. With this sword at your side, you will crush the Hoshidan army with ease.
+Corrin: Thank you for this generous gift, Father.
+Xander: Hmm… Generous indeed.
+Garon: Now, let us see you put that sword to its proper use… Bring out the prisoners!
+Nohrian: Yes, sire!
+Corrin: Prisoners?
+Garon: These are prisoners from our most recent skirmish with Hoshido. I want to see your power with my own eyes. Use that sword to strike them down.
+
+Gunter: I shall join you, milord/milady. My lance arm is perhaps rusty but still serviceable. Felicia/Jakob, will you join us well?
+Felicia: Of course! I’m as much a bodyguard as a domestic, after all. To be honest, I was never that great at the domestic stuff anyway.
+Jakob: Naturally. I couldn't allow someone of your advanced years to bear the burden alone. Lady Corrin, there is no need for you to soil your hands with this filth. Please relax and leave the fighting to us. Afterward, I will prepare you some tea.
+Rinkah: I am Rinkah! Daughter of the Flame Tribe’s honorable chieftain. What is your name, Nohrian prince/princess?
+Corrin: I’m Corrin.
+Kaze: Corrin… Can it be?
+Corrin: Huh? Have you heard of me?
+Kaze: … I am Kaze, a ninja of Hoshido. Show me what you can do.
+Garon: Kill them all.
+
+@Battle 
+#avatar-M
+Corrin: Is that…
+Felicia: Is something wrong, milord?
+Corrin: I feel…something emanating from the ground. Could it be…
+Felicia: Oh! Th-that’s amazing! You blew away all the debris!
+Garon: Heh…Well done.
+Gunter: Excellent plan, milord─now we can hide in there and ambush our foes.
+
+#avatar-F
+Corrin: Is that…
+Jakob: Hm? Is something the matter, milady?
+Corrin: I feel…something emanating from the ground. Could it be…
+Jakob: Extraordinary! No debris field can stand up to your mighty lineage!
+Garon: Heh... Well done.
+Gunter: Excellent plan, milady─now we can hide in there and ambush our foes.
+
+@Battle 
+Gunter: Remain focused, milord/milady. This is no mock battle-a mistake here could cost you your life.
+
+Felicia: You should know I’m trained to use daggers-up close or thrown from afar. I can even hit enemies hiding behind walls, which might come in handy!
+
+Jakob: Milady, I'm well trained in the dagger─effective both up close and at range. I can even attack foes hiding behind walls, which may prove useful.
+
+Gunter: Remember your training. Each weapon has strengths and weaknesses. You would do well to consider them before you attack.
+Jakob: I’m sure you know this, milord/milady, but it’s useful to stay close to your allies. If you fight side by side, you can help each other in battle/combat.
+
+Felicia: Maids can also use staves to heal wounds. If you get hurt, let me know right away!
+
+Jakob: Butlers can also use staves to heal wounds. Please inform me immediately should you become injured.
+
+@Recruit-Battle 
+Kaze: A ninja’s Shuriken may not cut deep, but it can sap you of your strength. Your death need not come all at once!
+
+Kaze: I regret…nothing...
+
+Rinkah: Behold the might of the Flame Tribe!
+
+Rinkah: Nohrian scum…
+
+@End 
+Kaze: So this is how it ends…
+Corrin: Phew! They’re really tough, aren’t they? I hope all Hoshidans aren’t this strong.
+Garon: Don’t just stand there, idiot boy/girl. Finish them!
+Corrin: But. Father…they’re beaten. You want me to execute helpless prisoners?
+Garon: You dare question me?! I order you to kill them!
+Corrin: No! It’s wrong!
+Garon: I won’t argue the point any further.
+
+Corrin: Gods!
+
+Kaze: Hm?
+Elise: Corrin! What are you-
+Xander: Unbelievable…
+Garon: You would defy me directly, Corrin?!
+Xander: Father, please forgive him/her! He/She doesn’t yet understand our situation…
+Garon: Fine. Xander, you kill them. And if anyone gets in your way, kill them too.
+Xander: Ngh.
+Garon: DO IT! KILL THEM ALL!
+Xander: …
+
+Xander: Stand down, Corrin. If you don’t, I will be forced to-
+Corrin: No, Xander. I won’t let you do this!
+
+Xander: Why do you refuse, Corrin? You know the Hoshidans are our sworn enemies.
+Corrin: I know, but…this is different. These people can’t fight anymore. Why not show mercy?
+Camilla: Please, Corrin, don’t fight him… My dear, sweet Corrin…
+Elise: No no no! Leo, what should we do?
+Leo: *sigh* Why does this fall to me?
+
+Leo: Father, I have dispatched our enemies on behalf of my softhearted brother/sister.
+Garon: Hmph.
+Leo: I only ask that you would be merciful in your punishment of him/her…
+Garon: Enough! I will consider the matter later.
+
+Corrin: Leo! How could you?! They were beaten! There was no reason to execute them!
+Leo: Agreed. Now hush.
+Corrin: Leo, did you-
+
+Xander: Enough, both of you. The battle is over.
+Corrin: …
+Xander: Mark my words, Corrin… One day, an act of kindness may be the death of you.
+Corrin: Perhaps, but if I’m kind. I will die without regrets.
+Xander: …Well said. Guard! I would examine the prisoners’ belongings. Bring their remains to my quarters.
+Nohrian: Yes, Your Highness!
+Corrin: Leo, your spell…
+Leo: Was only enough to weaken them, yes. I should have followed Father’s orders. But Camilla and Elise always make such a fuss when I do anything to upset you.
+Corrin: Thank you, Leo. I’m sorry for teasing you about your collar.
+Leo: *sigh* You can repay me by not mentioning it again.
+Elise: That was great, Brother!
+Camilla: It was, but I doubt this will be the last we hear of this. Father never forgets a slight.
+
+Xander: Listen well. It is only my brother’s/sister's kind heart that has bought your freedom. Disappear now, lest you be spotted by our king.
+Kaze: …
+
+Rinkah: Tch. I am not a hostage to be freed. You said your name is Corrin? When next we meet, I will make you pay for this humiliation!
+Corrin: I was hoping the next time we met, it could be as friends.
+Rinkah: Softhearted fool! I am a Hoshidan warrior. You do not understand what you suggest.
+Corrin: I understand that right now Hoshido and Nohr are at war. But I’m trying to plan ahead for the day the war is over and we can live in peace.
+Rinkah: I’ve heard rumors of a sheltered Nohrian prince/princess who knows nothing of the world. I see those rumors are true. If we do meet again, the world will have no doubt taught you the error your ways.

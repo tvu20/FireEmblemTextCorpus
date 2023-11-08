@@ -1,0 +1,183 @@
+@Intro 
+Elise: All right, Corrin. Let’s go in there together. I’ll help as much as possible. This is our father we’re talking about. He has to forgive you, right?
+Corrin: Thanks, Elise. I hope you’re right.
+Elise: All right. Deep breath, and… here we go. Father! We have something we need to talk you about!
+
+Garon: Gah hah ha!
+Corrin: Father?
+Elise: It sound like he’s with someone… Maybe we should come back later.
+Garon: Hrmph! Who’s there?
+Elise: Oh! Sorry to bother you, Father…
+Corrin: Yes, we apologize if this isn’t a good time.
+Garon: What do you two want?
+Elise: Father, we’re here to apologize. Right, Corrin?
+Corrin: Yes, that’s right. I’m sorry for questioning you.
+Garon: You may enter.
+
+Garon: Corrin… You disobeyed a direct order from me. Ordinarily you would not still be alive.
+Corrin: I understand…
+Elise: No! Father, I can explain-
+Garon: Silence! As you are my child, Corrin, I will grant you some leeway. I have something in mind for you. A mission. If you complete this task successfully, I will pardon your crime in full.
+Corrin: Really?! What sort of mission?
+Garon: There is an abandoned fortress perched on the Hoshidan border. I wish to know if the building there remains serviceable. You are to travel to the site and inspect the premises. No battle will be required. Do you understand? I won’t tolerate being disappointed twice…
+Corrin: Yes, Father. It shall be done.
+
+Camilla: Darling, are you sure you’re going to be OK out there? I don’t like this…
+Corrin: Of course! Please don’t worry. It’s just an abandoned fort.
+Leo: You’re acting rather casual about all this, Corrin. It isn’t like Father to be so forgiving…
+Corrin: Huh? What do you mean, Leo?
+Elise: That’s enough, Leo! Don’t be so worried all the time, sheesh. And don’t even try to scare Corrin before his/her first mission!
+
+Leo: Hey! That’s not necessary.
+Camilla: I suppose I’ll just have to come along. That way I know Corrin will be safe.
+Iago: I’m afraid that’s not possible.
+
+Camilla: Why ever not, Iago?
+Iago: Lady Camilla, King Garon intends his expedition as a test of sorts. As his top advisor, I have been entrusted with coordinating this mission. He would like to know whether Prince/Princess Corrin is worthy… After all, he/she IS a part of the royal lineage. Therefore, your assistance would simply muddy the results.
+Corrin: Understood. Camilla, I need to do this all by myself. Surely you understand.
+Garon: Not all by yourself, Corrin.
+
+Corrin: Father! I didn’t see you there.
+Garon: Rest assured, I don’t intend to send you out there completely defenseless.
+
+Hans: …Milord/Milady.
+Garon: This is Hans. He is a veteran warrior and will ensure no trouble befalls you.
+Corrin: Thank you, Father.
+Xander: Hmm…
+
+Xander: I’d be wary of that man if I were you, Corrin…
+Corrin: Why do you say that?
+Xander: He’s a criminal. A murderer and scoundrel. I arrested him myself, years ago. Father seems to think he’s rehabilitated, but I’m not so sure. That said, he is a formidable soldier.
+Corrin: I see.
+
+Corrin: Wow… Is this it? The Bottomless Canyon?
+Gunter: Yes. It’s the natural boundary dividing Nohr and Hoshido.
+Corrin: It can’t be really bottomless, can it?
+Gunter: Let the eternal darkness below be your answer. Those who fall in never return… I truly despise this place. Something about the land around here just isn’t right. The sky here is always dark and foreboding, and lightning strikes all who fly across. This clearly a place us mortals were never meant to enter. Normally we’d go around… But the fort that King Garon wants surveyed is right over there.
+Corrin: Oh, it’s not so bad. Or perhaps I’m just happy to be outside in the fresh air! Compared to the inside of that fortress, this is downright exiting.
+Gunter: Ha! That certainly puts things in perspective, milord/milady. Come, let’s proceed.
+
+Gunter: Blast! It looks like this fort isn’t as abandoned as we thought. Why the devil is this place crawling with Hoshidans?
+Hoshidan: Hold on! Do not advance any farther, soliders of Nohr.
+Omozu: Crossing that bridge is a violation of our border treaty. Turn back at once, or we’ll be forced to attack!
+Felicia: What should we do?
+Corrin: We’re not here to fight. I suppose we’ll have to turn back and report to Father.
+Gunter: Wise decision, Lord/Lady Corrin.
+Hans: Who asked you, old man?
+Gunter: What?!
+
+Hans: Gyaaah!
+Hoshidan: AAAUGH!
+Hans: Ah ha ha! Die, scumbags!
+Omozu: You’ll pay for this!
+Corrin: Hans, what are you doing?! We had no reason to engage these troops!
+Hans: Pfft.
+Corrin: We should have tried diplomacy first. We weren’t sent here to fight!
+Hans: Speak for yourself, weakling.
+Corrin: What’s that supposed to mean?
+Omozu: Soldiers of Hoshido, hear me! Do not leave a single Nohrian alive!
+Hoshidan: Prepare to attack!
+Gunter: Argh! Looks like there’s no getting out of this now. Get ready to fight, Lord/Lady Corrin.
+
+@Battle 
+Gunter: Now then, Lord/Lady Corrin. There are two kinds of battle formations. You’ll need to learn both, and fast! You can take a defensive position by moving to the same space as an ally. Your ally will benefit from your support, but you won’t be able to attack. If you want to unleash the most potent attacks, stand in adjacent positions. From that alignment, allies may be able to attack simultaneously. I’d tell you more, but you’re about to receive some practical experience…
+
+Gunter: I’m afraid the enemy’s position across that bridge may be impenetrable. We’ve got to look for another way across. Lord/Lady Corrin! See if you can find a Dragon Vein around here.
+
+Omozu: Gods! Did you see what just happened to the cliff? Who are we dealing with here?
+
+Felicia: Look! More troops are arriving from the south!
+Gunter: More enemy reinforcements… Take caution, Lord/Lady Corrin.
+
+@Boss 
+Hans: Gyaaah! Die!
+
+Hans: Bwahaha! Look like I’ve done enough damage for the time being. Time to lay low and see how this all plays out…
+
+Omozu: Do you even realize what you’ve done here today? Hoshido won’t stand for unprovoked attacks like this. Revenge will be ours!
+
+Omozu: Damn you! This isn’t over…
+
+@End 
+Corrin: This isn’t what I had in mind…but at least I’ve completed Father’s mission.
+Saizo: You’re the leader of these troops? Pah. You’re nothing more than a boy/girl.
+Corrin: Who are you?
+Saizo: My name is Saizo. I’ve come to claim your life.
+Corrin: Hey! Everyone! We’re still under attack!
+Saizo: Destroy them!
+???: I won’t allow it!
+Saizo: What?! This must be their real commander…
+Xander: What’s going on here, Corrin?
+Corrin: Xander! How did you know were in trouble?
+Leo: We’ve arrived just in time. Your luck never runs out, does it, Brother/Sister?
+Camilla: Are you all right? I was so worried about you.
+Elise: We’re all here for you, Corrin!
+Corrin: Thank you, everyone! Um, but before we get too carried away… we ARE under attack.
+Camilla: Who dares attack my beloved Corrin? I’ll have their heads on a platter!
+Corrin: I’m not hurt, Camilla.
+Camilla: But, darling…it’s the thought that counts!
+Corrin: I never knew Camilla could be so…ruthless…
+Elise: Heehee! That’s right, you’ve never seen her on the battlefield before.
+Saizo: This is not going well…
+Kagero: Saizo! What’s wrong? What’s our status?
+Saizo: I misjudged the situation. We’re outnumbered. Kagero, do we have anyone else on the way?
+Kagero: Affirmative. Lord Ryoma is right behind me.
+Saizo: Ahh… Then I think this battle is as good as won.
+Xander: It looks like more Hoshidan reinforcements are on the way.
+Leo: Indeed… What should we do?
+Xander: Well, Corrin is safe, and the fort’s condition has been evaluated. There’s no reason to engage Hoshido further at this point. Corrin, you take the lead with Gunter. We’ll follow close behind.
+Corrin: Will do. Thank you, Xander.
+
+Corrin: Gunter, have you seen Felicia/Jakob? She/He was here a second ago…
+Gunter: I’m sure she’s/he's right behind us. Now hurry up. I can’t stand being on this bridge a moment longer.
+Hans: Don’t worry-you won’t have to stand there much longer.
+Corrin: Hans!
+Gunter: What is the meaning of this?
+Hans: Less talk. More death.
+Corrin: Hans, no! Why are you doing this? Your own ally…
+Hans: Aww, did I knock your babysitter into the ditch? Here- you can meet up with him at the bottom!
+Corrin: You’ll pay for this!
+Hans: What?! What kind of…freak…are you?
+
+Hans: It can’t be..
+Corrin: I want answers, Hans! Why are you doing this? Why did you provoke the Hoshians? And why did you kill Gunter? Answer me!
+Hans: Just following orders. King Garon’s orders.
+Corrin: What?! You lie!
+
+Corrin: Come back here!
+
+Corrin: Huh? Noooo!
+
+Lilith: My kin, my gods, my blood… Dragons grant me strength! Great Moro, I beseech you!
+Corrin: Lilith? Is that you? What…ARE you?
+Lilith: Lord/Lady Corrin… I knew this day would come eventually. This may come as a shock, but I am not a human.
+Corrin: Well, I can see that. Are you a dragon?
+Lilith: Yes, this is my true form. You’ve seen it before. Do you remember? That strange bird you rescued in the barn…
+Corrin: That… was you…?
+Lilith: It was. Once I recovered, I was able to take human form. You were so kind to me that I decided to remain a human that I might serve you. But now I have used a power that goes beyond the capacity of a human body. I will not be able to return to that form. I don’t mind, though. The most important thing to me is that you’re safe…
+
+Lilith: Eeek!
+Corrin: Lilith! Be careful! Drop me if you must… I won’t have you sacrifice yourself for me!
+Lilith: First Dragons, I call on you. Grant us access to the astral plane!
+Corrin: What just happened?! Where…are we?
+Lilith: This is a world parallel to the one in which you live, Lord/Lady Corrin. It is known as the astral plane.
+Corrin: How were you able to get us here?
+Lilith: The First Dragons have granted us the power to inhabit this dimension. Under their protection, we are safe here. Oh! Allow me to prepare a place for you to rest…
+Corrin: Did… did you just use a Dragon Vein?
+Lilith: Yes. The power of the First Dragons flows freely in this realm. You should know that space and time operate differently here as well…
+Corrin: I have so much to learn… Is there anyone else here?
+Lilith: No, we are alone. There’s no one left here…
+Corrin: I’m sorry, I didn’t mean to invoke any bad memories.
+Lilith: It’s OK, Corrin. I’m not lonely as long as I have you in my life. Now…you should get some rest.
+
+Lilith: How are you feeling, Corrin? I know this is a lot to take in.
+Corrin: Yes, it is. But I feel much better now. My wounds seem to have healed already. And my mind is racing! I have so many new questions about this world…
+Lilith: All in good time. For now, some business remains in the other world.
+Corrin: Yes, you’re right. I can’t relax until I know everyone made it safely home.
+Lilith: Of course. There is just one thing you should know before you go back. When I open the portal, you will return to the same location you came from. That means you’ll arrive right on the Hoshidan border. There may be soldiers lying in wait for you…
+Corrin: I understand. I’ll be ready for them.
+Lilith: Very well. Then I will open the gate.
+
+Corrin: Ah, I’m back. But… where is everyone?
+???: You’re mine, Nohrian!
+Corrin: Hmm?!

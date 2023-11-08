@@ -1,0 +1,172 @@
+@Intro 
+Mikoto: You look as if you’re feeling better after a few days to yourself, Corrin.
+Corrin: I am, yes. I still have many questions, but at least now I have a few answers. Thank you for giving me the space I needed to think.
+Mikoto: Of course. I’m glad to hear you’re feeling better. If you wouldn’t mind, I have a small favor to ask. Would you try sitting on the throne for a moment?
+Corrin: Why would I do that?
+Mikoto: Well…this throne is infused with the power of the First Dragons. It is said that those who sit on it regain their true form and mind. I thought if you sat on the throne, then perhaps-
+Corrin: Wait… Do you not trust me? Do you think I’m under some kind of Nohrian spell?
+Mikoto: No! It has nothing to do with trust. I just wonder if the Nohrians have been sealing away your early memories… If so, maybe this special throne could help bring those lost pieces back. Those sweet memories of me and your siblings…
+Corrin: I see.
+Mikoto: I’m sorry, Corrin. I don’t mean to push you toward something you don’t want.
+
+Yukimura: Excuse me, Lady Mikoto. The ceremony is about to begin.
+Mikoto: Thank you, Yukimura. Corrin, you probably don’t remember him, but this is Yukimura. He’s one of our strategists and brightest leaders. We would be lost without him!
+Yukimura: You are too kind, milady. Though in truth, I still have much to learn. That said, I am here to help in any way I can, Lord/Lady Corrin.
+
+Mikoto: I’d like to make a public announcement about your presence here, Corrin. There have been rumors circulating about spies from Nohr infiltrating the castle. I would like to quash those rumors once and for all. Yukimura, is everything ready?
+Yukimura: Yes, milady. People are beginning to gather at the plaza.
+Mikoto: Excellent. Thank you. Corrin, I’ve arranged for Takumi, Hinoka, and Sakura to give you a tour. I thought you might want to get to know the area a little bit before this event. I need to speak with Yukimura first, but I’ll meet you at the plaza soon.
+Hinoka: We’d be happy to show him/her around. Thank you, Mother.
+Mikoto: Azura, do you mind going with them as well?
+Azura: Not at all. It would be my pleasure.
+Corrin: Thank you, Azura.
+Azura: Of course, Corrin.
+Takumi: Hmph.
+Sakura: I can’t wait to show you around! I think you’ll l-love it here.
+Corrin: Thank you, Sakura. A guided tour sounds like a great idea.
+
+Mikoto: I hope Corrin is truly OK with all of this…
+Yukimura: Yes, I can’t imagine the position he’s/she's in. It’s a lot to process. That said, I think his/her return is a message from the gods.
+Ryoma: A good message, I hope.
+Yukimura: Why do you say that?
+Ryoma: I don’t know. After that invasion up north, I just feel uneasy. We should remain on high alert, if you ask me.
+
+Old Woman: Hey, young man/lady! Would you like to try my world-famous roasted potatoes? They’re delicious and nutritious! I guarantee you’ll love ’em.
+Corrin: Well…sure! Why not? Mmm…I’ve never tasted spices like these before. This is amazing!
+Old Woman: Ha ha! Told ya! Here, take an extra one on the house. Share it with your lady friend!/friend!
+Corrin: Well, thank you very much! Here you go, Azura.
+Azura: Thank you, Corrin. Mmm, you’re right. This is delicious.
+
+Corrin: Everyone really is friendly here. And it’s so…bright…and open. It’s quite a contrast from the fortress I grew up in.
+Azura: I’m glad you like it. Like I said, I’ve always been happy here.
+Takumi: Just don’t get too comfortable…BROTHER/SISTER.
+Corrin: Pardon me?
+Takumi: I don’t trust you. Shouldn’t you be heading back to Nohr soon?
+Azura: Takumi…
+Takumi: Hey, who said you could call me by name? You haven’t earned that privilege either.
+Corrin: That doesn’t even make sense.
+Takumi: Excuse me?
+Corrin: Azura has been in Hoshido for as long as I’ve been gone. Shouldn’t that be enough to consider her part of the family?
+Takumi: I don’t care. I don’t trust either of you. I just wanted to tell you that to your face.
+Sakura: I apologize for Takumi’s rudeness. He’s a bit of a hothead. Anyway, how’d you like to try a sweet rice dumpling? It’s a Hoshidan specialty!
+Corrin: I’d love to. Thanks, Sakura!
+Sakura: You’re welcome!
+Corrin: You know, I’m very close with a girl in Nohr who’s around your age.
+Sakura:  Oh? What's she like?
+Corrin:  Well, she's generous and kind. Always putting the need of others first...
+Hinoka: All right, everyone. The ceremony is starting. Let’s head to the plaza!
+
+@Cutscene 
+Corrin: *gasps*
+Mikoto:  You were not hurt? Tell me you’re OK.
+Corrin: I’m fine…
+Mikoto: I’m so glad…
+Corrin:  Mother!
+Sakura: Mother?… Mother!
+
+Ryoma: You there! Show yourself!
+Takumi: Gods! What is that?
+Ryoma: It's an ancient dragon. I never thought I’d see the day…
+
+@Battle 
+Azura: Corrin! A word of warning, if you can hear me. Watch out for enemies carrying Wyrmslayers! They’re a type of blade designed to pierce dragon scales-and they work!
+
+Azura: Corrin, listen! My song can help you win this battle. Using it can give you another chance to attack or take cover in a pinch. Please don’t hesitate to ask me for help!
+
+Ryoma: Be careful, everyone! These enemies are no mere Faceless. One wrong move and they’re perfectly capable of ending you. I hope we can count on Corrin even in this new form…
+
+Sakura: Watch out for magical attacks, Corrin! Your defense against physical attacks is strong…but you’ll need higher resistance to protect yourself against mages.
+
+@Boss 
+???: Show me…what you’ve got. Heh. Heh. Heh…
+
+%Ryoma,???
+Ryoma: Vengeance will be mine... Prepare to die!
+???: Heh. Heh. Heh...
+
+@Character-Falls
+Ryoma: You can kill me, but you cannot kill the spirit of Hoshido!
+Sakura: Brother, no! You have to step back! We can’t afford to lose you…
+Ryoma: Ugh…you’re right. I’ll retreat for now…
+
+Azura: No! You can't die like this, Corrin! What are we going to do without you...
+
+@End 
+Azura: You are the ocean's gray waves ♪ Ahh...
+Ryoma: Azura! No, stop!
+
+Ryoma: Ooh! *gasps*
+
+Azura: You are the ocean's gray waves, destined to seek ♪  Life beyond the shore, just out of reach.
+
+Azura: Yet the waters ever change ♪ 
+Sakura: No! *whimpers*
+
+Azura: Flowing like time... ♪  The path is yours to climb.
+
+Azura: Kill me if you want, but…do it as yourself.
+
+Corrin: *huff* *huff* Ughhh… I…I finally remember! I remember…
+
+@Flashback 
+Garon: Fire at will.
+
+Garon: I’m disappointed in you, Sumeragi. *sinister laugh* That wasn’t even my best trap.
+
+Garon: You poor thing. Orphaned at such…a tender young age. You are my child now.
+
+@End 
+Corrin: My real father…
+Azura: Are you all right, Corrin?
+Corrin: Yes, I’m fine. Just disgusted with myself. Are you OK? I can’t believe what I just did to you. It was like…I had no control over myself.
+Azura: Please don’t worry about it. That wasn’t you. It was the blood of the ancient dragon that runs in your veins.
+Corrin: I thought only the Nohrian royal family had dragon blood.
+Ryoma: The blood of the Dusk Dragon runs in the Nohrian royal family. And the blood of the Dawn Dragon runs through ours. But you’re special, Corrin. You can actually take the form of a dragon.
+Azura: I’ve heard of such a thing. But this is my first time seeing it in real life…
+Corrin: … Never mind me. What happened to all the innocent people in town?
+
+Corrin: I can’t believe this. The entire town…devastated. An hour ago these streets were filled with vendors and children and…
+Ryoma: So you see, Corrin. This is the work of the Nohrians. This is what they do. Let me guess. That sword you carried…was it a gift from King Garon?
+Corrin: Yes.
+Ryoma: He masterminded the whole thing. It’s not your fault. He knew you’ll be captured and brought before the queen…
+Corrin: But why? Why would he do this? I’m so sorry I couldn’t see it coming…
+Takumi: Your apology means NOTHING.
+Corrin: …
+Takumi: This is all your fault! Mother is dead, along with countless others. And it wouldn’t have happened if you hadn’t shown up on our doorstep. You don’t belong here!
+Ryoma: Enough, Takumi!
+Azura: Your words don’t change anything. And besides-
+Takumi: Shut up, Azura! You’re no different than Corrin. An interloper.
+Azura: …
+Corrin: Takumi…
+Takumi: Don’t speak my name! I don’t want to see you again. Are we really to believe you had no idea this would happen?
+Hinoka: Takumi, what are you saying? Knock it off! You just saw Corrin help us defeat those Nohrian soldiers!
+Azura: Takumi, please. You must listen. Corrin is your brother/sister. If you don’t trust me, that’s one thing. But Corrin is your own blood.
+Takumi: Mother is dead. Thanks to him/her. He’s/She's not my brother/sister.
+Corrin: I’m so sorry, everyone. I’ve brought nothing but pain to all of you. It would be better if I’d never come here— maybe I should just leave.
+Yukimura: Please wait. I don’t believe that’s what Queen Mikoto would have wanted.
+Takumi: What do you know about it, Yukimura?
+Ryoma: What do you mean? Did she say something to you?
+Yukimura: I hate to deliver this news, but… Queen Mikoto foresaw her own death. This isn’t your fault, Corrin. King Garon set these events in motion. And the queen speculated that there may be an even darker force at work. She didn’t know when or how death would strike, only that it was certain. And there’s one other thing. Please take a look at that statue.
+Corrin: Is that…a sword?
+Ryoma: It can’t be…
+Yukimura: It is. The divine sword Yato. Much like your weapon, Ryoma. The divine Raijinto… And your Fujin Yumi, Takumi... Yato may be wielded by only a singular warrior. One who is chosen by the blade itself. It is said that the Yato was forged to be the key to peace in our world.
+Corrin: The key to peace…
+
+Ryoma: The blade has chosen Corrin!
+Takumi: Impossible.
+Hinoka: Corrin, do you know what this means?
+Sakura: Corrin? Are you listening? Can you h-hear us?
+
+Kaze: Lord Ryoma! I have important news. A massive Nohrian force is gathering at our border.
+Ryoma: This is the final straw. I have worked hard to avoid an all-out war, but now… Death is too good for them. Who’s with me?
+
+Corrin: There must be another way. Surely the answer is not more bloodshed. But I feel I must follow Ryoma to the border. If I can help avert total war…
+Azura: Wait, Corrin! There’s something you need to know. If you become embroiled in a fight right now, it would be easy to lose control. Your dragon blood could take over again. And if you yield completely to the dragon, you may lose your humanity altogether.
+Corrin: Is there anything I can do?
+Azura: Yes. This is called a Dragonstone. It will allow you to control the dragon’s power and still return to your human form. Now, please close your eyes…
+Corrin: Very well…
+Azura: … There. You should be OK now. This Dragonstone is now attuned to you. Be sure to keep it safe.
+Corrin: Thank you, Azura. I don’t know what I’d do without you.
+Azura: Oh! Um…
+Corrin: I’m sorry. Did I make you uncomfortable? I know we’ve known each other only a short while, but I feel close to you. You already risked your life to help calm my dragon form. I only hope I can repay the favor someday.
+Azura: Thank you, Corrin. I feel close to you as well. I feel…safe when I’m with you. I wish to keep you safe too. That’s why I’m coming with you to face Nohr.

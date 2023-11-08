@@ -1,0 +1,147 @@
+@Intro 
+Corrin: Here we are... The Hoshidan capital. What a long journey it's been.
+Azura: Yes, but soon this long ordeal will finally be over. If we can take control of the capital and seize the throne room, victory will be ours.
+Corrin: Azura... Are you OK with that?
+Azura: ...Why do you ask?
+Corrin: We're about to conquer the place where you grew up...the castle you called home. If this is too much for you, I'd understand. You can leave the fighting to me. If you need to, go hide somewhere safe until our work here is done.
+Azura: Thank you, my friend, but I'm afraid I can't do that. I didn't side with Nohr just to lose my nerve and turn tail at the pivotal moment. I told you once, and I shall tell you again. I am with you until the bitter end. Ending this war will benefit us all, even the kingdom I grew up in. This is what I need to do, not just for you, not just for the world... But also for the Hoshidan siblings I love so dearly. That is what I believe, with all my heart. It is why I am able to bear this burden.
+Corrin: Azura...
+Azura: Speaking of our Hoshidan siblings... We never did find him.
+Corrin: You're right. I don't know what to think... It's too much to process right now.
+Azura: Poor Takumi. Our troops made a thorough search of the area, but didn't find a thing. Nothing... Not even a single clue as to where he might have gone. It's as though Takumi just...vanished. But I know that's not possible.
+Corrin: ...
+Azura: We should probably keep this from Princess Sakura. She has enough to deal with at the moment.
+Corrin: Yes, I agree. There will be plenty of time to further break her heart later. *sigh*
+Xander: Corrin, I must speak with you.
+Corrin: Let me guess... Is it time?
+Xander: We have received our orders from Father. We are to invade the capital immediately. Please prepare your troops...and yourself.
+Corrin: Understood.
+
+Boy: It's them! Gods, the rumors are true! The Nohrian army is headed this way!
+Girl: They're so frightening... Like an army of reapers out for blood!
+Corrin: ...
+Boy: Look! Prince/Princess Traitor is marching with them! SHAME on him/her!
+Corrin: *sigh*
+Old Man: How dare you show your face here after what you did to Queen Mikoto!
+Old Woman: My husband died in that explosion, just like our queen. Monsters! All of you!!
+Corrin: I must...stay strong...
+Iago: Filthy street rats! Out of my way!
+
+Old Woman: AHHHHH!
+Corrin: Iago!
+Iago: Hmph, one less blathering fool in the world. Rest easy, Lord/Lady Corrin. I shall personally destroy anyone who dares speak an ill word about you.
+Hans: GWAHAHAHA!! Just try and cross us Nohrians, and watch the bodies drop!
+
+Boy: Ahhhhhh!!
+Corrin: No... Please...
+Azura: Patience, Corrin. King Garon is close behind. There is no telling what he'll do if he sees you standing up for Hoshidans.
+Corrin: ...
+
+Iago: Ah, we've finally arrived at our new castle! And no guards to stop us, heh heh. They must be in defense mode. I'd wager that all of their forces are waiting inside.
+Xander: Hmm, so it would seem. This bodes well for us. Our army is large enough to surround the entire premises. We might be able to secure their surrender without raising a blade.
+Iago: Oh, I'm afraid that won't do, Lord Xander.
+Xander: Pardon?
+Iago: This is our only chance to finally eliminate those pesky Hoshidan insects. They don't deserve the honor of a clean and quick surrender. Besides, so long as they live, those who follow them will never stop fighting. Now is the perfect opportunity for us to kill their royalty and stake our claim. For the glory of Nohr, every last one of the Hoshidan royals must die.
+Xander: That's low even for you, Iago!
+Iago: Oh? Well let's ask our king, shall we? King Garon! Your Majesty! What do you think of my plan? May I proceed?
+Garon: Kill them all.
+Iago: I thought you might say that. Thank you, my liege.
+Xander: Father...
+Iago: Now that we've settled our differences, let's begin the invasion. My men will attack from the rear while Lord/Lady Corrin's troops storm the front. Divide and conquer, as they say!
+Xander: ... What say you, Corrin? Any objections?
+Corrin: ...None. If this is what Father wishes, then so be it.
+Iago: Oh, Xander, hasn't our "little prince/princess" grown so? How proud must you be! Now then, let's begin. My troops will meet up with yours in the throne room. Do try your best not to slip and die on your own tears, will you? Heh heh heh.
+Corrin: ... Xander, what do we—?
+Xander: I know. I don't like this plan any more than you do. But we must stay strong. If we falter now, the whole world will pay the price. Corrin... Camilla told me you once asked her where justice lies.
+Corrin: Yes. She didn't have any more answers than I do.
+Xander: Little prince/princess... The sad truth is that justice is an illusion. A child's fairy tale. There is no light path that always leads to good, nor dark path that leads to evil. To believe that—to see the world in black and white—is missing half the picture. All that matters are the choices we make—especially the hard ones.
+Corrin: But this? It's too much...
+Xander: Letting innocents die is a tragedy, but so is letting the chance for peace slip away. This is war. There is no such thing as a clean win when lives are on the line. Instead of clinging to a false sense of justice, hold strong to something true... The desire to do what you know is right and to protect the ones you love... And the ambition to see your vision of a peaceful future through to the end. If we allow evil men to let their vision take precedence over our own, we all lose. Remember that, and find solace in it.
+Corrin: You're right, Xander. I know in my heart that you're right. Gods, give me strength...
+
+@Battle 
+Azama: Oh my... It appears your little brother/sister has brought friends for supper, Lady Hinoka.
+Hinoka: Corrin... Hmph.
+Setsuna: Are we going to fight?
+Hinoka: Yes. I will not let Castle Shirasagi fall, even to my own brother/sister. Don't let even a single person breach the throne room! If I can't at least stop that, I'm a sorry excuse for a princess.
+Setsuna: OK, sure... I'll do my best.
+Azama: We will protect you, Lady Hinoka, with all the strength we possess.
+Hinoka: Heh, I never thought I'd hear you speak so gravely, Azama. Whatever happens, I'm proud to fight with the two of you at my side. Thank you, Azama. And you, Setsuna. Thank you for everything. And don't even try to die on me... We're in this together!
+
+Hinoka: I spent my whole life looking for you. Finally...I found you!
+
+@Boss 
+Setsuna: I told Lady Hinoka I'd do my best... So here I go.
+
+Setsuna: I lost? I've never felt...so frustrated...
+
+Azama: Those who live such a barbaric life do not deserve my mercy. Make peace with your choices, for I am about to send you to your death!
+
+Azama: Fools... Your day of judgment will come...soon enough...
+
+Hinoka: I don't care who you are or who you're with. I will not let you pass!
+
+Hinoka: It's up to you now...Ryoma... Please...protect our home...
+
+%Corrin,Hinoka 
+Hinoka: Hello, Corrin. Here you are back in your true home. How does it feel?
+Corrin: I'm sorry, Hinoka, but I must seize the Hoshidan throne. Let me pass, or I will strike you down.
+Hinoka: You can't mean that! Do you really feel nothing for this place? For us?! I always imagined welcoming you home, seeing you running up those steps. I longed to watch you grow up...to call you brother/sister and hold you tight. That was my dream. But now... That dream is dead. Isn’t it, Corrin?
+Corrin: Hinoka...
+Hinoka: Psh, what am I wasting my time for? Dreaming of things that will never be... The enemy commander is right in front of me. There’s only one thing to do. When I’m through with you, you will never threaten this kingdom again!
+
+@End 
+Hinoka: Drat! How could I lose?! Our castle... I failed...
+Corrin: Lay down your weapon, Hinoka. It's over.
+Hinoka: Hmph! If you're going to kill me, just get it over with. I won't beg for mercy. All I ask is that you spare the lives of my remaining soldiers.
+Azama: No, milady! You don't know what you're saying. You are a princess of Hoshido. You must not fall!
+Setsuna: You can't do that, Lady Hinoka... If you die, I'll die with you.
+Hinoka: Azama, Setsuna... I need you to stay strong for me.
+Corrin: I'm...I'm afraid I have no choice. Father would never allow an enemy leader to survive. I'm sorry , but...I must do what I must do.
+Hinoka: I understand. Please, make it quick.
+Corrin: Of course. *sigh*
+
+Corrin: HYAAAA!!
+
+Hinoka: Ugh!
+
+Hinoka: ...Huh?
+Azama: He/She missed?! And not by accident... But why?
+Setsuna: Yes, tell us. Why did you spare her?
+Hinoka: Corrin?
+Corrin: Hinoka... My sister, listen carefully. As of this moment, you are dead to the world. Leave this place, and do it now. I beg of you, take your retainers and find somewhere to hide. I hate to send you out unarmed, but I must ask for your weapon. Quickly. I must have something to show Father as proof that I defeated you.
+Hinoka: What are you saying?! You're really going to let me go?
+Corrin: Yes. I am not my father, Hinoka. The last thing I want is meaningless bloodshed. I will not kill you nor your remaining soldiers, but you must leave now.
+Hinoka: No! Let me come with you, Brother/Sister! I knew you were on our side. I knew it! If I explain things to Ryoma, maybe we can end this war before things go any further!
+Corrin: I can't let you do that. There's no telling what King Garon would do if he found out I allowed you to live. I know it won't be easy, but I need you to go far away from here. If you can just stay hidden until the war is over, everything will be OK. You don't have to die here. Please, choose to live.
+Hinoka: How can I run...when everything I hold dear is on the brink of ruin...?
+
+Camilla: My, what a spoiled child.
+
+Hinoka: What?!
+Camilla: Oh dear, how did my naughty blade get so close to your vulnerable little throat? If you move even a tiny bit, I may just slice it open like a ripe tomato.
+Hinoka: You're insane! What do you think—
+Camilla: Quiet, dear. You see, my brother/sister...who is not yours, by the way... Well, the sweet thing chose to spare your meaningless life. It's rather precious. I support his/her choice, of course. But only so long as you keep your end of the bargain. If you cause my darling brother/sister any harm... If you disobey him/her and refuse to run away... When you least expect it, my naughty little blade might just slip. Understood?
+Hinoka: ...
+Camilla: Aww, you always make that same frightening face when we speak. Keep that up, and you'll positively terrify Princess Sakura when you see her again.
+Hinoka: Sakura is alive?!
+
+Camilla: She is. And she will stay that way if you help me keep my brother/sister safe. That's MY brother/sister, darling. Not yours. In case you were keeping score. Now be a good girl and go hide somewhere safe like Corrin ordered you to. After all, how would young Sakura feel if she found out her sister was dead?
+Hinoka: *sigh* Fine! You win. I will do as you say.
+Camilla: Wonderful! I'm so glad we had this little chat. You know, now that I'm up close...your face is rather cute. Somewhat similar to Corrin's. Fully adorable and quite pretty.
+Hinoka: What am I supposed to say to—
+Camilla: Look at that! Absolutely lovely. You even blush like Corrin!
+Corrin: Um...Camilla?
+Camilla: Oh, my apologies. I got carried away. It seems we must be going. Farewell, princess of Hoshido.
+
+Hinoka: Corrin, wait! You should know that Ryoma is waiting for you inside the castle. You said you wish to avoid bloodshed, and I'm choosing to believe you. So whatever happens...don't kill him. Please, find a way to spare my brother. We've already lost Mother. We couldn't bear to lose Ryoma too... If he fell, it would tear the heart out of our kingdom. I couldn't survive that.
+Corrin: You have my word, Hinoka. I will not take Ryoma's life. I swear on the Yato of salvation that I will find a way to protect him.
+Hinoka: Thank you, Corrin.
+Corrin: One last thing... I know the awful things my kingdom has done to Hoshido and to your family. I know that because of those things, I can never hope for forgiveness. But when all this is over, and peace has been restored to our world... I dearly hope that one day we can all come together as siblings again.
+Hinoka: Corrin...
+Corrin: I'm sorry. Perhaps I should not have spoken. Feel free to cry and scream at me, and to tell me that wish can never come true. But even still, I won't let go of that dream. I just thought you should know.
+
+Hinoka: ... Good-bye, Corrin.
+Azama: Lady Hinoka! I am truly grateful that you escaped that ordeal with your life.
+Setsuna: It's time to go, milady. If we stay here, they'll catch us for sure.
+Hinoka: Yes. Let's get going. Brother/Sister... You're right about one thing. I cannot forgive the Nohrian army. They started this war, and they're winning it like cowards. They're all barbarians! Yet Corrin's dream of us all uniting as siblings in a world without war... His/her wish is so earnest, so pure, I can't help but believe in it too. Ryoma... Please don't hurt Corrin. Don't kill that lovely dream...

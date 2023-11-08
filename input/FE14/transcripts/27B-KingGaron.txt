@@ -1,0 +1,88 @@
+@Intro 
+Corrin: At last. King Garon...
+Garon: I'm so glad you made it home.
+
+Garon: Heh. Heh. Young Prince/Princess Corrin. It has been a while, hasn't it. For someone who spent much of his/her life as a pampered shut-in... You've achieved something approaching competence.
+Corrin: Gee, thanks for the compliment. As I'm sure you're aware...we're here to dethrone you. You've sparked a needless war that has claimed thousands of innocent lives. Including my mother's...and those of your own children. Xander and Elise.
+Garon: Hmm. I am surprised to hear that. Xander in particular was quite a capable pawn.
+Corrin: A capable pawn? Your own son? Do you feel nothing at their deaths? What happened to you, old man?
+Garon: How dare you insult me! Of course my own children were pawns. As are you. AS IS EVERYONE HERE!
+Corrin: Xander and Elise thought of you until the very end! They fought and died trying to save you from my blade! Yet you feel no remorse?! You are clearly beyond redemption or negotiation. The only thing left is to do is end your reign...and your life.
+Garon: Bwahaha!
+
+Corrin: I...I can't even scratch his armor...
+Garon: What did you expect? Attacking me with that pitiful letter opener you call a sword... Let me show you how it is done!
+
+Azura: Corrin! Are you OK?
+Corrin: I'm fine, Azura. He's not so tough.
+Azura: Psst... Get ready. I'm going to sing my song now... He'll be vulnerable for a moment or two—so attack immediately! *ahem*
+Garon: I don't think so.
+
+Corrin: Azura! Let her go, Garon!
+Garon: Don't even think about it. You'll never hear her pretty voice again. If any of you wish to escape here with your lives, I demand total surrender!
+Azura: Forget...about...me. Just...attack him!
+Corrin: I...I can't!
+Ryoma: Hold it! Let's hear what he has to say before Azura gets hurt. King Garon... What are your demands? If you are reasonable, I'm sure that Nohr and Hoshido can come to an agreement. Now, please...let Azura go so that we can discuss this.
+Garon: Wise decision. I demand nothing less than total, unconditional surrender from Hoshido. You are to transfer control of your kingdom to Nohr immediately. Also...I require your life. BAHAHA!
+
+Corrin: No! Ryoma!
+Ryoma: Watch out, Corrin. He's more powerful than I imagined...
+Corrin: This negotiation is a sham! I won't let anyone else die today!
+Garon: BAHAHA! What are you going to do about it, exactly? Will you drop your pathetic sword and surrender to me? Or will you fight—and ensure the deaths of all your friends?
+Corrin: I don't understand... When I attacked him earlier, it was like my sword just bounced off Garon's armor... That never happened before. I need to figure out a way to hurt him...
+Ryoma: You're right. We need more power...
+
+Ryoma: Look... Raijinto is glowing!
+Corrin: Is Garon doing that? What's going on?
+Takumi: I don't think so. Remember when my Fujin Yumi combined with Yato? It's happening again!
+Corrin: So that means Raijinto is— Urgh!
+Ryoma: Corrin!
+Corrin: Noble Yato is...changing somehow...
+Ryoma: I can feel a new power coursing through Raijinto as well...
+Corrin: This must be what the Rainbow Sage was talking about... The Seal of Flames! Our three weapons are unlocking something amazing... Noble Yato is becoming...Blazing Yato!
+Garon: Call it whatever you like. It still has no hope of penetrating my defenses.
+Corrin: Perhaps you're right. But there's only one way to know for sure. Hyaaah!
+Garon: GRAAAH! That...actually hurt...
+Corrin: Azura, now's your chance!
+Azura: Thank you, Corrin!
+Garon: You've just sealed your fate. Prepare to die. I'll cast your soul into the eternal darkness of Nohr! Soldiers! Surround them!
+Corrin: Wrong. Blazing Yato gives me the power to bring light to your kingdom of darkness! Your reign is practically over, Garon!
+
+@Boss 
+Garon: HAH! Corrin should have known better than to send an underling. Or perhaps you're just a sacrificial lamb... 
+
+Garon: You...you think you've won? Urk...
+
+%Corrin,Garon
+Garon: You're like a cockroach to me... How can you possibly think you can win?
+Corrin: I've grown, Garon. I'm not a victim anymore. And I WILL defeat you!
+
+@End 
+Corrin: I did it... I really did it... Soldiers of Nohr! Lay down your weapons! Garon is defeated! Our next order of business is forging a peace treaty as soon as possible.
+Garon: ...PEACE TREATY? GWAHAHA...
+Corrin: No!
+Garon: ARE YOU REALLY SURPRISED?
+Corrin: What are you?!
+Garon: NOW YOU SEE MY TRUE FORM. THE BLOOD OF THE DRAGONS RUNS IN MY VEINS—AS IT DOES YOURS. WITNESS MY POWER UNLEASHED!
+
+Ryoma: Corrin!
+Corrin: *cough* *cough* No! He destroyed the Blazing Yato! HOW?!
+Garon: BAHAHA! EVEN I AM SURPRISED. I EXPECTED MORE FROM HOSHIDO'S MOST FEARSOME WEAPON.
+Corrin: This can't be happening...
+Ryoma: Hold fast, Corrin! Blazing Yato may be destroyed, but I can still attack with the power of Raijinto!
+Takumi: Don't forget my Fujin Yumi!
+Garon: YOUR WEAPONS ARE MERE TOYS AGAINST ME.
+
+Corrin: NO! Ryoma, Takumi...are you OK?
+Garon: YOUR ALLIES ARE WEAK. I WILL DESTROY THEM NOW.
+Corrin: You can't! I...I'll protect them... Somehow...
+Garon: DIE!
+Corrin: Over here, Garon!
+
+Corrin: Ugh...
+Sakura: Corrin! Stop hurting him/her, you monster!
+Ryoma: Why did you do that?!
+Corrin: Ryoma...are you hurt?
+Ryoma: What were you thinking, moving in front of his attack like that? You could have been killed!
+Corrin: You worry too much, Brother... I'm fine. I can keep fighting. I can stop him. I can... Urgh...
+Ryoma: Corrin!

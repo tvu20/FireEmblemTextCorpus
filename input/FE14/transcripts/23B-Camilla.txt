@@ -1,0 +1,160 @@
+@Intro 
+Ryoma: This is quite a passage. It's more like a catacomb than a tunnel.
+Elise: Yeah, there's some spooky stuff down here for sure!
+Ryoma: Heh. Thank you for the warning. But I think we'll be all right.
+Corrin: Yes, thank you so much for accompanying us here, Elise. We'll be alright from here. I'd recommend that you stay with Cassita for a while...
+Elise: What? Why?
+Corrin: Because...we're heading to the castle. That means that we'll be facing off against King Garon, and likely Xander too. Things could get ugly, and there's no need for you to be there.
+Elise: So what you're saying is...you're going to try to kill Xander and Father. Right?
+Corrin: I...I'm afraid I must do whatever it takes to end this war. Ultimately, I have to do what's right for the people of Hoshido and Nohr. If that means killing King Garon, or even Xander... Well...
+Elise: I see... That settles it. I'm coming with you!
+Corrin: Huh?! No, Elise! It's too dangerous! And I can't let you fight your family! That's a burden I alone must bear.
+Elise: Oh, don't be silly. I'm not gonna fight with anyone, and neither are you! I'm not siding with or against you, Brother/Sister. I want to help bring both sides together! I want the war to end just as much as you do. So! I'm coming with you to let Xander and Father and everyone else know how I feel. They're still super mad at YOU, but maybe they'll hear me out! Maybe we CAN end the war without any more fighting! Don't we at least have to try to end this without hurting each other more?
+Corrin: Elise... All right. I suppose you won't be in any danger from either side. Just promise me that you won't do anything reckless.
+Elise: Yep, yep! I promise!
+Corrin: All right, then. Let's get moving!
+
+Corrin: So far, so good. This passage appears fairly well traveled. Although...I see a fork in the road ahead. Which way do we go, Elise?
+Elise: The path on the right leads to an area near my quarters. Camilla said that the other path leads more or less to the throne room.
+Corrin: Right. Left path it is.
+Elise: But...she also said the left path is like a maze. She warned me to NEVER take that path, you guys!
+Corrin: Don't worry, Elise. You wouldn't believe what we've had to overcome to get here. I'm confident that we can get through anything together.
+Elise: If you say so...
+Corrin: What's the matter?
+Elise: It's just...you almost seem like a different person now. You're so...commanding. I guess I just have to get used to you being all grown up...
+Corrin: It's true...I've done a lot of growing since I left Nohr. But don't worry, Elise. I'm still the same old Corrin. And I'll always do everything I can to protect you, Little Sister.
+Elise: Aww, thank you. I'm so glad you came back! I love you so much!
+Corrin: Haha! Whoa! Easy with the monster hugs. I almost fell over!
+Elise: Heehee!
+
+???: Ah! Did you hear that? That's Lady Elise's laugh!
+???: Oh ho! You're right! Let's report this to Lady Camilla posthaste...
+
+Ryoma: This part of the tunnel seems a bit ominous. Be on guard, everyone!
+Takumi: Yeah, are you seeing all of these traps? Most of 'em have been sprung, but I bet there are even more that haven't.
+Hinoka: And the ones that did spring look like they were pretty effective. I'm seeing more corpses than I'd like...
+Sakura: C-corpses? Eek! I thought those were just decorations to make it spooky! I'm scared, Corrin.
+Corrin: It's OK, Sakura. If you want to close your eyes, I can lead you through this part.
+Sakura: Oh...th-thank you so much...
+Elise: What about me? I'm scared too!
+Corrin: Heh. I can help lead you, too. Just come over to this side.
+Elise: Yay! Heehee! Uh-oh...do you hear that? There's someone behind us!
+Corrin: Elise...have you ever seen any Faceless down here?
+
+Camilla: Ah, Elise. There you are! I've been looking all over for you.
+Elise: Camilla! What are you doing down here?
+Camilla: Like I said, I was looking for you. Are you hurt, darling? Who are all these people? Are you being kidnapped right now?!
+Elise: What? No! These are—
+Camilla: The Hoshidans! I knew it. Well, I'm so glad we could meet down here. How DARE you bother my baby sister. I shall now make you all dearly regret ever stepping foot in here!
+Corrin: Hold on, Camilla. It's me, Corrin! We're not kidnapping Elise!
+Camilla: Corrin! How can this be? You're back in Nohr!
+Corrin: It's...a long story.
+Camilla: Well, have you come to your senses? Are you returning to Nohr for good?
+Corrin: Oh...um... Sorry, but no. I want Hoshido and Nohr to be at peace, and that can't happen while Garon lives.
+Camilla: Hmm. I see. So you want to come back, but these awful people are still confusing your little head. Don't worry, darling. Big Sister is here to take care of these monsters for you!
+Corrin: Camilla, no! You don't understand!
+Elise: Please listen, Sister!
+Camilla: Don't worry, Elise. I promise to save our precious Corrin. Once I've killed all his/her friends, he's/she's sure to remember his/her true family. Right? Right!
+
+@Battle 
+Arthur: Never fear, Lady Elise! Arthur is here to vanquish your captors!
+Effie: This won't be anything more than a light workout...
+Elise: Oh, Arthur. I don't need saving! And, Effie...save your energy!
+Corrin: Oh, Arthur and Effie... Those are your retainers, aren't they?
+Elise: Yep! They're the best! They seem to think you're kidnapping me... Whoops! This is all my fault for sneaking out and running around with you. If you can get me over to them, I'm sure we can smooth this over.
+Corrin: OK, I'll give it a shot. But remember...this is still a battlefield. Stay close!
+
+@Battle-Talk 
+%Elise,Arthur
+Arthur: Lady Elise! I'm so glad you're safe. I was so disappointed in myself when I heard you were missing.
+Elise: Oh, Arthur. I just came down to get away from the castle for a while. And just to be perfectly clear—Corrin is not kidnapping me!
+Arthur: Oh. So there'll be no valiant rescue for me to perform today, I suppose...
+Elise: Heehee! No, sorry about that, Arthur. I'm perfectly safe with Corrin. I'm trying to help him/her gain an audience with Father, that's all.
+Arthur: Very well. I'll retreat the way I came. And I'll let Effie know as well. However, there's nothing I can do to stop Lady Camilla at this point. I hope you understand, milady.
+Elise: *sigh* I know. My big sister can be so stubborn sometimes... Anyway, when this is all over, I'd like it if you came to my quarters for tea.
+Arthur: Erm...you mean it's not over...now?
+Elise: There's one last thing I gotta help Corrin with! It's all up to me! Don't worry about me. I'll be perfectly safe with Corrin. And afterward we can celebrate a new era of peace with some tea! Heehee!
+Arthur: Nothing would please me more, milady. I shall await your triumphant return!
+Elise: Yup! Thanks, Arthur. I'm lucky to have you as my retainer!
+Arthur: You kind words are much appreciated.
+
+%Elise,Effie 
+Effie: Corrin, step away from Lady Elise at once!
+Elise: No, Effie...it's OK! Corrin isn't kidnapping me. I snuck out of the castle on my own.
+Effie: I don't understand... We've all been worried sick!
+Elise: I'm trying to help Corrin settle things with Father before someone gets hurt. I can't stand watching people I love trying to kill each other. That includes you!
+Effie: Well...my allegiance is to you above all others, Lady Elise. So as long as it appears you are in no danger, I will retreat. However, I'm not sure I can persuade Lady Camilla to stand down. I'm sorry. I hope you understand.
+Elise: It's OK. I understand. When all of this is over, please meet me back at my quarters.
+Effie: When all of this is over? What do you mean?
+Elise: There's still something I need to help Corrin with! I won't be long. Don't worry about me, Effie. Like I said, when this all blows over, we'll have tea in my quarters. I can't wait!
+Effie: Very well, milady. I'll let Arthur know you're OK. Please stay safe.
+Elise: Yup! Thanks, Effie. Love you!
+Effie: I love you, too...
+
+@Boss 
+Arthur: In the name of justice, I won't let you scoundrels kidnap Lady Elise!
+
+Arthur: I've failed you, Lady Elise... Please...forgive me.
+
+Effie: I've been training my entire life for this moment. Do you really think you stand a chance?
+
+Effie: I couldn't protect you... I'm so sorry, Elise...
+
+Selena: I let you win last time. You know that, right? Well, the kid gloves are coming off this time! You're going down!
+
+Selena: Not fair!
+
+Beruka: I'll defeat you all. Then Corrin will return, and Lady Camilla will smile again...
+
+Beruka: How frustrating...
+
+Camilla: Hmm... Once all of you are out of my way, Corrin will be all mine!
+
+Camilla: I still love you, Corrin...
+
+%Corrin,Selena 
+Selena: Ugh. You again.
+Corrin: Why do you seem so unhappy to see me?
+Selena: We're about to fight, dummy! Lady Camilla told me not to kill you, though, so I guess it's your lucky day.
+Corrin: Heh, so you're going to go easy on me, then?
+Selena: Argh! Yes, but ONLY because Lady Camilla said so! Geez! Anyway, I'm not allowed to kill you, but that doesn't mean I can't beat you up!
+Corrin: *sigh*
+
+%Corrin,Beruka 
+Beruka: What are you doing? I'm not supposed to kill you. Just get out of my way, and I'll let you live.
+Corrin: Sorry, I can't do that. You'll have to get through me to get to my friends.
+Beruka: But I...I'm not allowed to kill you. This doesn't make sense.
+Corrin: You're exactly right! There's no need for us to fight.
+Beruka: Hmm. I can't disobey an order. I suppose I'll just have to render you unconscious and then kill your friends.
+
+%Corrin,Camilla 
+Camilla: Oh, I'm so happy you're coming back to us, Corrin!
+Corrin: Camilla...I'm not coming back. I'm trying to end this war! I don't want to fight you, but I can't let you stand in my way.
+Camilla: Awww, I can't stand to see you upset like this. Come over here, and I'll just put you to sleep for a little while. I won't hurt you! I just need you to stay calm while I kill these fiends...
+Corrin: You leave me no choice...
+
+@End 
+Camilla: So...it wasn't meant to be...you coming back to us... And now it looks like I'm losing my precious Elise, too...
+Corrin: Camilla. You're not losing anyone. Elise is just coming with us to help persuade King Garon and Xander.
+Camilla: Persuade them? Is it...possible?
+Elise: Well, we won't know until we try. We have to change their minds to stop the fighting! I'm just doing whatever I can to bring our family back together again. It turns out we all want the same thing, Camilla! To be together again!
+Camilla: Oh, Elise...
+Corrin: Listen. When the war is over, I want to establish a peaceful alliance. If Nohr and Hoshido are on cordial terms, we don't have to be estranged. I must believe that if I end the war, I'll be able to return to my family one day.
+Camilla: Do you really think peace is possible? I'd love to be a family again...
+Corrin: What is the point of believing otherwise? We will either forge a peaceful future or die trying.
+Camilla: I see. Well, I suppose it would be wonderful if we could all get along... I think I understand what you're trying to do. I hope you can make it happen.
+Corrin: Thank you, Camilla.
+Camilla: Yes...I can imagine it now. Xander, Leo, Elise, and...the Hoshidan Prince/Princess Corrin. We could all have a picnic! And there would be games, and food, and... Oh, dear...I'm feeling a bit woozy...
+
+Elise: Camilla, are you OK?
+Selena: Her pulse is strong, and she's breathing normally. I think she's fine. But she took quite a beating in that fight, and she must have been exhausted... No matter. We can take care of her. The rest of you are free to go.
+Corrin: Oh? You won't try to stop us?
+Selena: Yeah! You heard what she said, right? We can't go against Lady Camilla's orders just because she's unconscious! As much as I'd like to keep fighting...
+Beruka: Selena...anger is clouding your judgment.
+Selena: Whatever, Beruka! I'm tired—why don't you pick up Camilla and carry her back to her quarters.
+Beruka: Why me?
+Selena: Did you not hear me? I'm tired! That's why you!
+Beruka: I see.
+Selena: All right, Corrin. Get out of here before we change our minds! You just gave Lady Camilla hope... Don't go breaking her heart again!
+Beruka: Go ahead, Corrin. Hurry.
+Corrin: Right. Thank you. And thank you, Camilla, for finally understanding my aim. This war is coming to an end...I promise!

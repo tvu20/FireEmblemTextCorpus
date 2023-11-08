@@ -1,0 +1,72 @@
+@Intro 
+Leo: Corrin, we've got trouble up ahead.
+Xander: Yes, it would seem our path is blocked by thousands of Hoshidan soldiers. If they engage us, we don't stand a chance.
+Corrin: Dammit! This is bad...
+Azura: Ryoma must have ordered them to intercept us as soon as he returned. A logical course of action since he knew where we'd be coming from.
+Corrin: I suppose we'll have to backtrack and find another way into the capital.
+Azura: Not necessarily. There's another path just ahead we could potentially use.
+Corrin: I get the feeling there's a catch.
+Azura: To the west, there's a path through the mountains the Hoshidans never use. There would be no danger of running into their troops. However... That mountain is home to kitsune, a race of people who can transform into foxes. If they find us, there's no guarantee we'll make it back down the mountain alive.
+Corrin: Hmm...
+Azura: What will you have us do? I know it's tempting to avoid such a risky path... But the more time that passes, the more time the Hoshidans will have to prepare.
+Corrin: *sigh* You're right, Azura. We'll go through the mountain. We need to end this war quickly so we can expose the truth about Father.
+Azura: Sadly, I agree. Come, I'll show you the way.
+
+Corrin: Ugh, we've climbed up so far already. I wonder where the kitsune live...
+Azura: I'm not sure. Very few people have found their village and made it back in one piece. For all we know, we may have already passed it. Pray that's the case. For now, all we can do is remain on guard.
+Corrin: Perhaps we should pick up the pace...
+Elise: Corrin...
+Corrin: Don't be frightened, Elise. Hold my hand if you need to, OK?
+Elise: Um, it's not that... Look over there.
+Corrin: Hm?
+
+Kaden: Ehem.
+Corrin: Is that what I think it is?!
+Azura: A kitsune! Gods, no...
+Kaden: ... Hey there, travelers! Nice to meet you!
+Corrin: Ah, um... H-hello.
+Kaden: It's been a long time since anyone's come up here for a visit. Are you Nohrian humans? You look like Nohrian Humans...
+Azura: How does it know we're from Nohr?
+Kaden: I'm not an "it", human! I have a name. A better name than yours, no doubt. Call me Kaden. I'm the chief of this village.
+Azura: My apologies, Kaden. That was very rude of me. May I ask how you were able to discern that my friends and I are from Nohr?
+Kaden: Your clothes, for one. And that smell. *SNIFF* Yep. You’re Nohrian, all right. That's great though. Nohrian humans are fine by me. I tend to wander away from home and lose my way now and then. Nohrian humans always seem to be the ones to help me find my way back. I love Nohrian humans!
+Azura: Hm...
+Corrin: It's nice to meet you, Kaden. I'm happy to see kitsune are friendlier than expected. We've heard all kinds of crazy rumors about people losing their lives to your kind... But it seems all that is just one big misunderstanding.
+Azura: No, I'm afraid that's not so.
+Corrin: Azura! Why would you say that?
+Azura: Take a look around.
+
+Kitsune: Grrrr! Rrrowl!!
+Corrin: Kitsune! They must have surrounded us while we were distracted!
+Kaden: Keehee, not bad, eh? It really was nice to meet you. I wish we could have met elsewhere. I really loathe violence, but since you stepped into our territory... Sorry, but you humans have to die now.
+Corrin: What?! But you just said you like Nohrian people...
+Kaden: Oh, I do! You smell so nice and are expert fur brushers! Honestly, all the humans I've met in the outside world have been nothing but kind. But the humans who come directly into our village never are. Our elders taught us long ago that humans who come here will kill us and take our fur! That's why we have to kill anyone who comes here, to protect our own.
+Corrin: But we're not like that at all! We just want to pass through peacefully.
+Kaden: Hmmm... I'd really like to trust you. You have an honest face for a human. But as village chief, it's my job to protect everyone, I can't risk it. I love my people too much... Even though I hate fighting, for them I will. I'm really sorry about all this.
+Corrin: That makes absolutely no sense!
+Kaden: If we meet in the afterlife, I'll make this up to you. Maybe we can even be friends! But for now... This is good-bye.
+
+@Boss 
+Kaden: As chief, I will protect my own! This is for peace! It really is!
+
+Kaden: I'm sorry...everyone...!
+
+@End 
+Azura: It's over. Let's move, Corrin.
+Corrin: *sigh*
+Azura: Corrin?
+Corrin: I know we had no choice but to fight them. Still...it felt wrong. We came here to avoid being massacred, but in the end...we're the ones who...
+Azura: It could not be helped, Corrin. Though inherently peaceful, they were serious about killing us. We would have all died if we had held back.
+Corrin: I know... Still, my heart breaks for them.
+Azura: I know what you're thinking... That they'd still be alive if we hadn't come this way. But the war would have been prolonged, and others elsewhere would have died. Surely you see that?
+Corrin: This war doesn't concern them. They were only guarding against potential poachers. They died because we brought them into this mess. Because I did.
+Azura: And what would you have sacrificed to save them? Your family? Your kingdom?
+Corrin: Huh?
+Azura: In this world, there is no clean-cut path. You can't save everyone. Each path represents a choice to protect one thing while sacrificing another. All you can do is try to protect those you love as best you can. I know it's hard...but we must follow our hearts and let the tide of fate fall as it will. So forgive yourself, Corrin. For all the tragedy that has come and is yet to come. Forgive yourself.
+Corrin: Forgive myself...?
+Azura: Do you remember what you were told about your blade in Hoshido? Your Yato is a legendary sword destined to bring peace to the world. That sword chose you, and you chose this path. Don't you see? No matter how hard it is, or how sad, this path must be the right one. I truly believe that. I hope one day you will too.
+Corrin: Azura... Thank you.
+Azura: A smile? How refreshing. That's Corrin I'm used to seeing.
+Corrin: If you were trying to cheer me up, you did an amazing job.
+Azura: It was for the team. After all, I'm supposed to be the melancholy one! Now let's get down this mountain before the Hoshidans catch wind of our location.
+Corrin: I wonder... Is she right?

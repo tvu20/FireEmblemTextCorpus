@@ -106,6 +106,11 @@ const Inputs = () => {
           route with combined dialogues from both routes. If a chapter is
           exclusive to Hector's route, "H" is included in the title.
         </li>
+        <li>No DLC chapters! I am counting Fates Revelation as a DLC.</li>
+        <li>
+          Jury's still out on paralogue chapters - I'll only do them if I have
+          time.
+        </li>
       </ul>
       <h3>Guide to transcript text files:</h3>
       <h4>Main tags</h4>

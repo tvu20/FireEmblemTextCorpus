@@ -1,0 +1,106 @@
+@Intro 
+Corrin: Well, this should be interesting. I've never sailed before. And we made it just in time to catch the last boat leaving the harbor. How lucky!
+Sakura: I know. It's been such a long march—I'm really looking forward to r-resting a bit.
+Azura: I wouldn't get too comfortable. Remember, we are on our way to Nohr. Some of the passengers on this ship could be our enemies.
+Takumi: Yes, and there could be a spy among us.
+Azura: What are you talking about, Takumi?
+Takumi: You know exactly what I'm talking about. That whiny little mage from Nohr! Whose idea was it to let him tag along?
+Zola: Gah! I'm no threat, guys! I promise! Haven't I been helpful so far?
+Hinoka: Don't worry, Takumi. I've been keeping a very close eye on him.
+Takumi: I don't know. Didn't he set everyone up back in Izumo? I wouldn't be surprised if he were plotting something.
+Zola: But...but...
+Hinoka: OK, I'll get my knife ready...
+Zola: Eeeek!
+Corrin: Calm down, everyone. I trust Zola, and I believe you should as well. He stood with us through one battle without stabbing anyone in the back. Besides, how could he even really information to Nohr? It's a preposterous notion.
+Takumi: Sorry. I can't just take your word for it. I don't trust him.
+Corrin: That's fine. A little healthy skepticism won't hurt. Just try to be civil, OK?
+Takumi: I'll do my best.
+Zola: Lord Takumi...
+Takumi: What's wrong with you? Did I say that you could speak my name?
+Zola: Gah! No, sir. I'm sorry, sir.
+
+Sakura: Well, petty disagreements aside, we've had smooth sailing so far, don't you agree? The captain even says we could reach Nohr tomorrow with favorable winds.
+Corrin: That's great news. Although, to be honest, I wouldn't mind a longer trip. It's so relaxing out here.
+Sakura: N-not for me. I've been feeling a little seasick, to be honest. But it looks like you've really taken to the sea. You've been out here for hours!
+Corrin: Perhaps when all of this is over, I'll buy my own boat... Although...it does appear that the weather is turning on us.
+Sakura: Oh! You're right. Those clouds don't look good. And look at the w-waves!
+Corrin: Right. Let's head inside before we get soaked!
+
+Corrin: Whoa. It's really roughs out there.
+Sakura: Ahhhh! We've stopped moving! How is that even possible? Are you OK, Corrin?
+Corrin: Yeah, I'm fine. But we really need to get out of here! Maybe there's a problem with the boat. Let's go speak with the captain.
+
+Corrin: I've never seen a storm come on this quickly. Is this normal at sea?
+Sakura: I don't think so. I'm s-scared, Corrin. My goodness! Look at the sea! Those waves are massive! This boat is too big to capsize, right? Right?
+Corrin: Stand back! There's something in the water!
+
+Sakura: Eeeek!
+Corrin: What is it?
+???: Shh...
+Corrin: Who goes there? Are...are you the spirit who appeared when my mother was killed?
+???: Shh...
+
+Azura: Corrin! What's going on?
+Corrin: Stay back, Azura!
+
+Kaze: Milady! Are you OK?
+Azura: Yes, I'm fine. Thank you, Kaze!
+Kaze: Lord/Lady Corrin! What is that thing?
+Corrin: Your guess is as good as mine. A storm came out of nowhere, and then this spirit appeared on deck.
+Azura: Maybe it came out of the water...
+Kaze: Well, it looks like we have a fight on our hands. Whatever this spirit is, it seems capable of sinking our ship!
+Corrin: We've come too far for that. Everyone, on guard!
+
+@Battle 
+Reina: Ah, at last. I can see Lord/Lady Corrin from here. Oh my. Look at them struggling with those spirits. Well, I should be able to help them with that! May my bow strike true and deliver exquisite pain and death upon my enemies!
+
+@Recruit-Talk 
+%Corrin,Reina 
+Reina: Hello, Lord/Lady Corrin. I'm glad you're safe and sound.
+Corrin: I'm sorry, but who are you? And do you realize that we're in the middle of a battle?
+Reina: Oh, yes, of course. But this type of battle is like a playground to me. I'm Reina, a kinshi knight from Hoshido. Yukimura sent me here to provide you with my special brand of assistance. Specifically, skewering enemies by the dozen. Oh, I wish you could have seen some of the work I did on the way here. The depth of agony was palpable. And the palette of violent reds...so vivid. Mmm...
+Corrin: Uh... What?
+Reina: I'm talking about the enemies I killed on the way here.
+Corrin: Ah. I see. And you're not going to kill any of us, right? Just our enemies?
+Reina: Of course! I'm sorry if you misunderstood. Please, just point me in the direction of anything you would like to die.
+Corrin: Right. Well, anyone glowing purple would be a good start...
+
+@End 
+Corrin: That's the last of them.
+Takumi: Ha! Those stupid things didn't know who they were messing with.
+Corrin: Well, I'm glad to see that you're feeling like yourself again. Takumi.
+Takumi: Me too. After all, I have a long way to go to redeem myself...
+Corrin: Takumi, that's simply not true.
+
+???: Shh...
+Corrin: Look out!
+Takumi: Hmm?
+Zola: Lord Takumi! Move!
+
+Takumi: He saved me!
+Zola: Ugh...now's your chance. Take him out!
+Takumi: With pleasure. Haaaa!
+
+???: Ugh...
+Takumi: That did it.
+Zola: Well done...Lord...Takumi... Oh...I forgot. I'm not supposed to say your name... *cough* *cough*
+Takumi: Oh. About that...
+Sakura: Zola! Are you OK? Took quite a shot there. Here, I can help heal your wounds.
+Zola: Thank you, milady...
+Takumi: Hmm.
+
+Corrin: That was extremely courageous, Zola. Are you all right?
+Zola: It was nothing. I'm just glad that Lady Sakura was able to heal me.
+Corrin: I beg to differ. It was not nothing. It was a remarkably selfless act.
+Takumi: Zola...I have something to say to you.
+Zola: Yes, Lord Tak—I mean yes, milord?
+Takumi: Please. You've more than earned the right to speak my name. I'm sorry for doubting you.
+Zola: Really? You mean that?
+Takumi: Yes. Talk is cheap, and I still think I was smart not to trust you at first. But you may have just saved my life. It was a heroic act.
+Zola: Thank you, Lord Takumi! I'm just following Lord/Lady Corrin's lead. If it weren't for him/her, I may have died at the hands of Lord Leo in Izumo. Now maybe you'll have the chance to perform a similar gesture.
+Takumi: Wait, Corrin jumped in front of an attack meant for you? Right after you tried to kill him/her?
+Corrin: Ha! No, Takumi. It wasn't exactly like that. I merely asked Leo to spare Zola's life. He was helpless and defeated.
+Zola: Yes. And that kindness was enough to sway Lord Leo. He merely exiled me instead of taking my life.
+Takumi: I see. Well, I just hope we can put all of this behind us.
+Zola: Of course, milord!
+Corrin: Yes. It's time to focus on what's next. Who knows what's waiting for us in Nohr...

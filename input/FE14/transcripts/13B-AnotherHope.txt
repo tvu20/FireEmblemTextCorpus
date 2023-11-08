@@ -1,0 +1,140 @@
+@Intro 
+Azura: Finally. This is Cheve.
+Sakura: Oh, I hope Ryoma is here...
+Takumi: He's the toughest person I've ever met, but... I'm still worried.
+Hinoka: Have faith, Takumi. Soon, the six of us will be reunited in the fight against Nohr!
+Corrin: I agree. I'm confident we're on the right path.
+Hinoka: Hmm, someone's coming this way.
+Corrin: Who is it?
+Hinoka: I can't tell yet. Look, over there, coming out of the shadows.
+Corrin: It can't be Xander. He couldn't have tracked us down so quickly. Wait. That's not Xander. But it's definitely trouble...
+
+Camilla: Ah. I see you miss your big sister.
+
+Camilla: Heh. You're so...cute.
+
+Camilla: Oh, my darling Corrin! I missed you so much...A little birdie told me that you were coming here, and I just couldn't resist.
+Corrin: Camilla!
+Hinoka: Back off, lady! That's my brother/sister you're smothering.
+Corrin: No, Hinoka...it's OK.
+Camilla: So, this is your new big sister, eh? Hmm...
+Corrin: Camilla... I hope you know I could never replace you. But I couldn't stand for what King Garon represents, either. I had to make an impossible decision...
+Camilla: Well, I'm happy for you. I'm happy to see you with your new siblings and your new friends. All I ever wanted was for you to be loved! So I'm glad that you are, even though we're not together any longer.
+Corrin: Camilla...
+Camilla: If only this joy could last, baby brother/sister... Oh, how I wish it didn't have to be this way.
+
+Corrin: What are you doing?
+Sakura: Look out, Corrin!
+Takumi: Will someone hurry up and take her out?
+Hinoka: I'm working on it!
+Camilla: Oh, I'm so terribly jealous of you all. My dear Corrin chose you. He'll/She'll never be our brother/sister again. I'll never get to sing him/her to sleep. We've loved him/her for most of his/her life, but I guess that wasn't enough in the end... I'll make you pay for taking him/her from us! You'll all die, here and now!
+Corrin: Camilla, no!
+
+Hans: Is it time, milady?
+Camilla: Yes, yes. Sorry for the delay.
+Corrin: Hans?!
+Camilla: I'm sorry, dearest Corrin. I wish all could be as it was, but I came here to fight. I won't allow you to meet with the Hoshidan prince! Hans and my lovely retainers will help me take good care of you!
+Corrin: Camilla, please! No!
+
+Camilla: I love you, Corrin. But if you survive long enough to make it all the way up here... I will do what I must and pierce your body with my blade. And then cradle you in my arms...just as I did when you were a child.
+Corrin: Sister...
+
+@Visit 
+Old Woman: You must be from Hoshido, right? No need to hide it from me! People here are fed up with Nohr. We're on your side! Here, I don't have much, but maybe this will help. Good luck!
+
+Girl: I heard that the resistance fighters have some mysterious new recruit. If you meet up with them, can you give the new guy this gift? We need all the help we can get!
+
+Old Man: I spent some time in Hoshido as a younger man. What a wonderful place. Here, take this. It was a souvenir from my time there. This feels like fate!
+
+Old Man: We may be under Nohrian rule, but not everyone here supports the king. Here, take this. Give it to someone who can make good use of it.
+
+Boy: Are you working with the resistance fighters? Their leader is named Scarlet. Here, take this. And keep fighting the good fight!
+
+Child: You're here to fight all those meanies from Nohr, right? Well, take this! I hope you give 'em hell!
+
+@Boss 
+Hans: I've always wanted a trophy... I think I'll keep your head in a jar.
+
+Hans: Not again...
+
+Selena: Ugh, you don't deserve to even LOOK at me. Get out of here!
+
+Selena: Whatever. I wasn't even trying my best...
+
+Beruka: My orders are to kill everyone from Hoshido. I will not fail.
+
+Beruka: I've failed...for now.
+
+Camilla: Oh, how I envy all the time you've spent with my dear Corrin...
+
+Camilla: I still love you, Corrin...
+
+%Corrin,Selena 
+Selena: Well, if it isn't Corrin. Do you even remember who I am?
+Corrin: Um...
+Selena: Ugh, whatever! Like I care whether you remember me or not. You're a monster for making Lady Camilla so sad! Now it's up to me to make you pay for breaking her heart!
+Corrin: Gah!
+
+%Corrin,Beruka 
+Beruka: It's not my place to question orders. But still...I don't understand.
+Corrin: What do you mean?
+Beruka: Lady Camilla can't stop talking about how much she loves you. And yet she's ordered me to kill you and all your friends.
+Corrin: It's complicated.
+Beruka: No matter. My mission is to kill, and I will not fail.
+
+%Corrin,Camilla 
+Camilla: Ah, Corrin. So we'll get to dance one last time after all.
+Corrin: Camilla. Please clear the way. I don't want to fight you.
+Camilla: Well, I don't want to fight you either! But your decision left me no choice.
+Corrin: Can't you see what Garon is doing? I had no choice!
+Camilla: Darling, I'm completely talked out. It's time for action. Get over here!
+
+@End 
+Camilla: Well, if someone had to defeat me...I'm glad it was you, Corrin. Are you going to kill me now? It has to be you... Don't let anyone else do it.
+Corrin: No, Camilla. I can't just kill you in cold blood.
+Camilla: Won't you even put a defeated enemy out of her misery? Aww, that's the Corrin I know. So sweet and innocent. But then...why did you betray us, Brother/Sister? Tell me! Why are you fighting for Hoshido?
+Corrin: Camilla, you have to listen to me. King Garon was manipulating me. Possibly for as long as I've been alive!
+Camilla: What?! How so?
+Corrin: The sword he gave me before I left the castle was cursed. He knew I'd fall in with the Hoshidans and get close to the queen. That's when the sword exploded, killing her and dozens of innocent people.
+Camilla: But...but what would have happened to you, Corrin?
+Corrin: I probably should have been killed as well, if not for Queen Mikoto's sacrifice. Garon surely didn't care if I died, as long as his plan inflamed relations with Hoshido.
+Camilla: How DARE he even THINK about harming a hair on your precious head! To think that Father has been up to such evil... I can't believe it. I'm sorry, Corrin. I had no idea.
+
+Corrin: Hold! Who's there?
+Leo: Stay right where you are, traitor. And please stop trying to brainwash my sister.
+Corrin: Leo! I'm glad you're here. Camilla and I have something to-
+Leo: Enough. Sorry for the delay, Sister. I'll take over from here.
+Camilla: No, Leo! Listen to Corrin. He's/She's still the same person we knew.
+Leo: Sister... Listen carefully. He's/She's fooling you. Do not allow him/her to do so!
+Camilla: But...
+Leo: Please stand back, Sister. Your wounds are serious. You should be resting.
+Leo: I'll take it from here... I'm the only little brother you have left, after all.
+Camilla: Leo...
+Leo: Listen up, Corrin! I'm coming for you and all your friends. That's the only way to fix what you've broken. If you don't want to be my brother/sister, fine! I'll erase you from my heart forever!
+Corrin: No!
+Leo: Argh!
+Corrin: What's happening?
+???: ...
+Leo: Who are you?
+???: Wouldn't you like to know?
+Hans: How dare you attack Lord Leo! Prepare to die for your mistake.
+???: Heh. And how do you propose defeating us with so few soldiers?
+Hans: What are you talking about?
+???: Soldiers! Sally forth!
+Scarlet: We're on it! Look at those pathetic losers. We can take 'em, no problem.
+Leo: Where did you come from? When did the resistance get this strong?
+Hans: Milord, we must retreat. We don't have a chance against these numbers.
+Leo: Damn it! If Camilla weren't injured, we could make a stand... But I think you're right. We have no choice but to leave. This isn't over, Corrin!
+
+Corrin: Whew...
+Scarlet: Ha! They turned tail and ran! I guess the Nohrian royal army isn't so tough after all!
+Corrin: Thank you, stranger. I'm not sure what would have happened if you hadn't arrived.
+Scarlet: No problem. I'm Scarlet, by the way.
+Corrin: Nice to meet you. I'm Corrin from Hoshido. So you're the leader of this resistance force we keep hearing about...
+Scarlet: Yeah, that's us. Even though we live in Nohrian territory, we can't stand Garon. That's why we're on your side. The enemy of my enemy is my friend, right?
+???: Heh. Heh.
+Corrin: Oh, and you're the brave soldier who was first on the scene. You weren't scared of Leo at all, were you? I wish I could say we were as brave.
+???: You still don't know who I am, do you?
+Corrin: No. Should I? Wait...it can't be...
+Ryoma: Haha! Thanks for coming all the way here to my aid, Corrin.
+Corrin: Ryoma! Boy, are we glad to see you!

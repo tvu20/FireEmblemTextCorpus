@@ -1,0 +1,194 @@
+@Intro 
+Azura: We're finally here. Izumo.
+Corrin: It's beautiful. I had no idea...
+Azura: Yes. Some call this place the kingdom of the gods. Even when other kingdom are at war. Izumo has remained neutral. It almost seems...too good to be true.
+Izumite: Who's there?
+Corrin: Ho! Visitors from Hoshido. We seek information about two of our friends who may have passed this way.
+Azura: Will you please give us permission to enter your territory?
+Izumite: Ah, Lady Azura. Of course. People from the kingdom of Hoshido are always welcome within our borders. I'll notify the palace, and someone will be with you shortly.
+Azura: Thank you.
+Corrin: Excuse me, before you go... We're looking for Lord Ryoma and Lord Takumi. We believe they were involved in a battle near your borders. Do you have any information about them?
+Izumite: A battle...around here? No, I don't think so.
+Corrin: Really? Nothing?
+Izumite: Sir/Milady, Izumo has been a neutral territory for many generations. There's simply no way a battle could have been staged around here. Ah, it seems we're ready to welcome you. Please, come this way.
+Corrin: Very well.  
+Azura:  ...
+
+Corrin: Well, I'm no quite sure what we're supposed to do now. Just wait around until someone arrives?
+Sakura: Yes. This is probably just a bit of formal grandstanding. I've heard that Archduke Izana likes to make people wait a few m-minutes.
+Corrin: Well, as long as he eventually shows up with some answers for us...
+
+Izana: ...
+Corrin: Wow, is that the archduke? He looks so...serene!
+Hinoka: I've never met him, but I think it must be. And you're right about his looks. He's almost oddly calm...
+Sakura: This is actually making me nervous...
+Izana: Welcome.
+Corrin: Lord? Archduke Izana? May I call you Lord?
+Izana: Bwahaha! Please, call me anything you like. Welcome, welcome! Can I get you anything fizzy or bubbly? Or anything wibbly or wobbly? Heehee!
+Corrin: Um...
+Hinoka: He's a little different than I expected...
+Izana: Oh, pardon me, I didn't even introduce myself. I'm Archduke Izana! Voted best hair in Izumo five years running! I'm so happy to have some visitors from Hoshido. Now, what kind of weird stuff do y'all like to get into back in the homeland? No, never mind, we'll get into all that later. Let's just sit back and relax and put on some slippers for now, right? Am I right?
+Corrin: Um, yes. You're right. Than you.
+Azura: Archduke, before we get to the slippers, we have some important questions for you. Are you aware of a recent battle between Hoshido and Nohr in this area?
+Izana: A recent battle? Ha! Not likely! And I'd be the first one to know about it. You know, 'cause I'm the archduke. Giddyup! Haha!
+Azura: I see.
+Corrin: Maybe we're in the wrong place...
+Izana: Now hold on just a minute, partner. You're in the rightest place of all. Izana's house! But now that you mentioned a battle, I do see that some of you are wounded. Gosh, we can't have that, can we? Not with all the resources I have here. Guys, we've got some great healers and doctors in my kingdom.
+Sakura: Yes, I've heard about the healers here. They're supposed to be the best.
+Corrin: Excellent. We certainly could use a little bit of rejuvenation. Of course, we can't stay long, but it seems wise to heal our wounds while we can.
+Azura: Perhaps...
+Izana: Well, I won't take no for an answer. Let's get started with treatments right away! Come on, everyone, let's head over to the spa.
+Sakura: Thank you, Archduke.
+Izana: Ooh, what do we have here? You look pretty banged up, little lady! And your friend—Corrin, was it? Well, you're looking a bit frazzled as well. Tell you what. I've got something special in mind for the two of you. Deep restorative healing is what I call it. It mends the body and soothes the mind. Whaddaya say?
+Sakura: Just the two of us?
+Corrin: I'm not sure we're the only ones with significant wounds... But perhaps we should just play along.
+Izana: Come on, guys! The hot towels won't stay hot forever!
+Hinoka: Hmm...
+
+Corrin: It's pretty dark in here. I guess that must help with relaxation. I wonder what all of these sharp-looking devices are for...
+Izana: Welcome.
+Corrin: Archduke, are we in the right place? This is the deep-relaxation chamber?
+Izana: Oh yes. You will go to sleep literally forever in this room. It's our execution chamber! Heehee!
+Corrin: Wait a minute!
+
+Sakura: Corrin, we're surrounded!
+Corrin: What are you playing at, Izana? This is not funny.
+Izana: Well, we haven't even reached the punchline yet. I'm not Izana. Boom.
+
+Zola: Eeheehee! It's been a while, hasn't it, young Corrin? Or don't you remember me? I'm Zola! Dark mage of Nohr.
+Corrin: Am I supposed to be impressed? I don't care who you are. All I care about is what you've done with Izana.
+Zola: What? Why would you care about that creep? I'm the one who's finally captured the famous Corrin! I'm the one who matters! Anyway, good luck getting yourself and Princess Sakura out of THIS! Heehee!
+
+Corrin: All right...stay behind me, Sakura.
+Sakura: What are you going to do? There are too many of them...
+Zola: Prepare to die!
+Corrin: Here we go...
+
+Corrin: What's going on? Are they attacking each other?
+Zola: No! Idiots! What are you doing?
+
+Hinoka: This is some healing treatment our hosts have arranged for us, eh?
+Corrin: Hinoka! How did you know?
+Zola: This can't be happening...
+Kaze: Very impressive, Lady Hinoka. You were right on all counts.
+Azura: I, too, had my doubts about this situation. Thank you for acting on your instincts, Hinoka.
+Sakura: I'm so glad you guys are here.
+Zola: How in the world did you suspect anything? My Izana disguise as perfect! No matter. I still have enough power to defeat you. The joke is still on you!
+Hinoka: Your supposed archduke acted a buffoon. No royalty would behave like that.
+Azura: Precisely.
+Zola: How dare you! My impression was flawless. Move forth, men. Take them out!
+Corrin: Get ready, everyone. We've still got a fight on our hands.
+
+@Battle 
+Hinata: What's going on here? I thought we were in Izumo! I guess that whole "neutral kingdom" thing isn't working out for 'em anymore. Anyway...do you see Lord Takumi anywhere? I didn't get much info out of those Nohrian soldiers.
+Oboro: Perhaps that's because you tied them up and gagged them before questioning them!
+Hinata: Bah. You would have done the same thing, and you know it. I'll tie up as many people as I need to track down Lord Takumi.
+Oboro: Whatever. I just wish you were the one missing. Then it would just be me and Lord Takumi relaxing in an Izumo sauna...
+Hinata: Ugh! Keep it to yourself! Anyway, we've got some work to do. Maybe these guys can lead us to Lord Takumi.
+Oboro: You're right. I can't stand these Nohrian scum. If they've done ANYTHING to harm our master...I don't know what I'll do.
+Hinata: OK, OK, get a hold of yourself. If you kill all of them on a bloody rampage, then where will we be?
+Oboro: You're right. I will decimate them with calculated efficiency...but spare a few. Let's go!
+
+@Recruit-Talk 
+%Corrin,Oboro
+Oboro: Die, Nohr scum!
+Corrin: Hold! I'm with Hoshido!
+Oboro: Wait...who are you? You seem familiar.
+Corrin: I'm Corrin. And who are you?
+Oboro: Oh! Lord Takumi's brother/sister! It's nice to finally meet you. I'm Oboro, Lord Takumi's retainer. Have...have you seen him? We can't find him anywhere!
+Corrin: No. But we're hopeful that he's not far from here. We could use your assistance tracking him. Will you join us? I only ask that you...temper your zeal for killing Nohrian moderately.
+Oboro: Yes, of course. It's just...every time I see one of those evil jerks... I just...start to rage! GRRRRRR! But, if I keep my thoughts focused on my dear Takumi. I can control myself. I'll do my best to assist you, Lord/Lady Corrin.
+Corrin: Thank you, Oboro, good to have you with us.
+
+%Corrin,Hinata 
+Corrin: You're not with Zola. Whose side are you on?
+Hinata: Lord/Lady Corrin! You don't know who I am?
+Corrin: I'm afraid not. Should I?
+Hinata: Ha! Probably. The name’s Hinata. I'm Lord Takumi's retainer. Unfortunately, we became separated on the battlefield. We're doing everything we can to track him down, but we're running out of ideas. Will you help us find him?
+Corrin: Yes, of course. That's why we're all here, too. It looks like we must be on the right track. since we've all arrived at the same location.
+Hinata: Thank you, Lord/Lady Corrin. It's big of you to put aside your differences and help us find Takumi. Especially after some of the things he's been saying...
+
+@Boss 
+Zola: Ah, I see you're ready to die. I'm going to enjoy this!
+
+Zola: Urgh... What was I thinking...
+
+@End 
+Corrin: Game over, Zola. Now tell us where you're keeping Izana!
+Zola: *cough* *cough* Urk... No...
+Corrin: What do you mean, no? You're beaten!
+Zola: Oh my. How naive you are. What a sheltered life you've lived! I'd rather die than give you ANYTHING. Luckily, I won't have to. PAH!
+
+Corrin: *cough* *cough* He's using some kind of a smoke screen!
+Zola: Bingo! Until next time, fools!
+
+Zola: GYAAAH! Ow, ow, ow... What are you doing? Let me go!
+Leo: No.
+Corrin: Leo! What are you doing here?
+Leo: Ah, Zola. You've embarrassed our kingdom for the last time.
+Zola: Milord! Please, you don't mean that... I was just attempting to preserve my dignity.
+Leo: Dignity? What would you know about that? You're done here.
+Zola: Gyaaaah! Nooo...
+Corrin: Leo, what are you going to do?
+Leo: Zola is a monster. I'm going to make the world a better place.
+Corrin: But he's one of your own! I refuse to believe you'd harm a fellow Nohrian.
+Leo: Why should I listen to a traitor like you? You abandoned us! You have no right to tell me what to do!
+Corrin: Leo...please.
+Leo: Ugh, fine! Keep this pitiful fool if you like him so much. Good-bye, Corrin. When the time is right, you'll pay for what you've done.
+
+Corrin: Leo, wait! It doesn't have to be this way...
+Hinoka: I've never seen such a display of power.
+Jakob: Yes... Lord Leo is a gifted dark mage. He's feared and respected in Nohr.
+Corrin: He's certainly changed since the time I spent there. The Leo I remember was kind and curious. Even clumsy at times. I wonder what happened to him...
+
+Izana: Woooo! You guys saved me! This calls for a feast. No, better idea—an all-night party! We'll wear pajamas and eat bonbons. Let's get started! Izana in the house!
+Sakura: Is...is this still Zola?
+Hinoka: No...but I think we underestimated Zola's Izana impression.
+Corrin: Um, Archduke Izana, before we get to the bonbons, I have a few questions. Have you witnessed any nearby conflicts involving the Nohrians?
+Izana: Oh, yeah. Definitely. What a bunch of party poopers they were. We were just listening to some music and getting massages. And then I heard, like, a big explosion or something outside. I went to see what was going on, and they captured me. I was still wearing my silk pj's! Anyway, we're all about love, peace, and chicken grease here in Izumo... So we don't exactly have a world-class military force. I don't know what happened after that. I was in my own jail. Luckily, I previously had the cell equipped with velvet sheets and scented candles. Best sleep I've had in weeks!
+Corrin: I'm so sorry you had to, uh, suffer through all that...
+Hinoka: Yes. It's despicable for Nohr to take advantage of a neutral realm like this. Archduke Izana, I know you've been confined to a luxuriously appointed cell... But would you happen to know anything about my brothers Ryoma and Takumi?
+Izana: Well, I've heard of them! That's something, right? I did overhear that the battle stretched all the way to the Bottomless Canyon. Maybe they just fell in?
+Sakura: Gods! No!
+Hinoka: Get ahold of yourself, Sakura! Your brothers are not the type to accidentally fall into a canyon. We've got to believe that both of them are alive and healthy.
+Izana: I'm sorry—that was rude of me to speculate like that. It's just that that canyon is totally treacherous! Such a hazard! Anyway, maybe I can help by reading your fortune.
+Corrin: I'm a bit skeptical of fortune-telling...but this is your kingdom...
+Izana: Yep! And I'm a descendant of the gods! It really is a pretty sweet deal from me. All right, here we go...
+
+Izana: Oh, ancient gods... What's up? I ask that you please answer me. ... Oh, I'm getting something! In the white light, a hand ♪ reaches through... A double edged blade cuts your ♪ heart in two... waking dreams fade away... ♪ Embrace the brand-new day...
+Azura: Can it be?
+Izana: Om...
+Corrin: Is that it?
+Izana: Om...
+Corrin: Hmm.
+Izana: All right, I'm all done.
+Corrin: Oh. That's it?
+Hinoka: I'm sorry, but that wasn't very helpful.
+Izana: Hey, what can I tell you? I don't make the fortunes up—I just read 'em.
+Corrin: Very well. Let's just move on.
+Izana: Sounds good to me. I'm dying for something bubbly to drink. Who wants to join me in the sauna? Oh, right. You probably want to hurry off and find your friends. Well, there's no rush. I peeked into their fortunes a little bit just now. And I can tell you that they're both doing OK at the moment.
+Sakura: Are you s-sure? I'd really like to believe that.
+Izana: I swear it on my gold-plated statue of myself. They're fine.
+Corrin: Well. Thank you, Archduke Izana, for your hospitality and services as fortune-teller. It is tempting to stay and rest, but we'll leave now in search of our brothers.
+Izana: I knew it. Oh well! Come back again sometime, and we'll have a toga party.
+Corrin: I don't know what that is, but...OK. Take care.
+
+Corrin: I can't stop thinking about the fortune Izana read for us... Those words were so poetic. "A double-edged blade..." "Embrace the brand-new day..."
+Azura: Corrin, I must speak with you.
+Corrin: Is everything OK?
+Azura: Yes. Well, I don't know, actually... It's about that fortune.
+Corrin: It was strange, wasn't it? And a bit haunting, too...
+Azura: Yes. Those were the words to a song my mother taught me as a child.
+Corrin: Are you certain? Do you remember the meaning behind the lyrics?
+Azura: No. It's an ancient song. But this is what troubles me. The lyrics almost seem to speak directly to YOU.
+Corrin: To me? How is that possible?
+Azura: I don't know. the song has always been a bit of a mystery... But I never thought about trying to solve it until now.
+Corrin: Perhaps it's just a coincidence. Right? I mean, how could someone write a song about me if I hadn't been born... Oh, um...
+Azura: *sob*
+Corrin: Azura, what's the matter?
+Azura: I'm sorry... Please forget about all of this.
+Corrin: All right, I'll drop it for now. But don't hesitate to come speak with me about anything. At any time. I'm here for you.
+Azura: Thank you, Corrin. All right, let's get going, shall we?
+Corrin: Azura?
+
+Corrin: What was she trying to tell me?

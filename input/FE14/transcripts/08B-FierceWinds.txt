@@ -1,0 +1,148 @@
+@Intro 
+Corrin: Gods...these stairs seem to go on forever.
+Azura: Indeed. But what did you expect? This is the Eternal Stairway. Not to worry—we've almost reached the halfway point.
+Corrin: Right. I suppose there is no Five-Minute Stairway we could have taken instead.
+Kaze: Lord/Lady Corrin, please be silent for a moment...
+Corrin: Yeah, that fell a bit flat. Sorry.
+Kaze: No, that's not it. I'm sensing an unusual presence. I think we're being followed.
+Corrin: How is that possible? I haven't seen any signs of life...
+Kaze: Attention! Whoever you are! Show yourself now if you wish to avoid conflict!
+
+Corrin: Faceless! Where did they come from?
+Kaze: How strange. I expected humans. The Faceless usually aren't this stealthy. In any case, we have no time to spare. Let's take them out!
+
+Corrin: Azura, can you please guard Sakura while we deal with this?
+Azura: Yes, of course.
+Sakura: Be careful, Corrin!
+Corrin: Are you ready, Kaze? Let's do this.
+
+Kaze: You can count on me. Hyah!
+
+Corrin: Stand aside or be destroyed!
+
+Corrin: All right, just a few more standing...
+
+Corrin: Everyone, hold! Something isn't right.
+
+Azura: What's the matter, Corrin?
+Corrin: These aren't Faceless—they're people! Gods! What have we done?
+Azura: I'm afraid you're right. I recognize their clothing. These people are from the Wind Tribe.
+Corrin: I don't understand. A moment ago, this person right here was a Faceless monster!
+???: Ahahaha...
+Corrin: Who's there? Show yourself at once!
+
+Iago: Good day, Princeling/Princess. Did you enjoy my magic trick?
+Corrin: Iago! What have you done?
+Iago: I didn't do a thing! You're the one who struck down these poor villagers.
+Corrin: Why? What could you possibly have to gain...
+Iago: Don't you see? This is just the beginning. Now that you're with the Hoshidans, anything is fair game. Oh, your ignorance does tickle me. Bwahahah!
+
+Kaze: And he's gone.
+Azura: This puts us in an unfortunate position, to say the least. The route ahead takes us thorugh Wind Tribe territory. And we're going to have a hard time explaining what just happened.
+Sakura: Who was that maniac, anyway? Do you know him, Corrin?
+Corrin: Yes. His name is Iago. King Garon's right-hand man. I didn't know he was capable of this sort of thing. He probably made US appear to be Faceless to those poor villagers...
+Azura: Well, he did do us one favor. He revealed himself to us as an enemy. I'm sure we'll have to go through him to get to King Garon.
+Corrin: Yes, I would expect so...
+
+Kaze: We've arrived. This is the Wind Tribe Village we must pass through. Lord/Lady Corrin, are you certain you want to approach the village directly?
+Corrin: Yes. Trying to sneak around will only makes us seem more suspicious. Surely they'll understand that we mean them no harm.
+Kaze: I'm not as optimistic, but I will trust your judgment. Ah, it looks as though the decision has been made for us...
+
+Tribalist: Here they are! The savages who attacked our people!
+Tribalist: Prepare to die.
+Corrin: Please wait! We can explain. It is true that we fought with some of your people. But we were deceived by an enemy from Nohr.
+Tribalist: Please. How stupid do you think we are?
+Kaze: This is going well.
+Corrin: Right. Any ideas?
+Sakura: Excuse me! Can I have everyone's attention?
+Corrin: Sakura! Be careful!
+Sakura: Please forgive us. We are so s-sorry to have hurt your people. But you must understand that they appeared before us as Faceless!
+Tribalist: Lady Sakura? You're with these brigands?
+Tribalist: Yeah, what's going on here?
+Azura: Please. You must believe us.
+Tribalist: Lady Azura is with them too! Maybe they are telling the truth...
+Tribalist: Hold that thought. Have you considered that THIS might be a trap? Either way, we can't make this decision ourselves. Let's see what Chief Fuga has to say.
+Corrin: Very well. We would be happy to speak with your Chief Fuga.
+Tribalist: Speak? Bwahaha! Somehow I don't think that's what the chief will have in mind.
+Corrin: I see...
+Azura: Be careful, Corrin. I believe your strategy is sage, but... We are putting ourselves in a higly vulnerable position.
+Corrin: Yes, I'm well aware of that. But what choice do we have?
+
+@Battle 
+Hinoka: What's going on here? I thought the Wind Tribe was neutral.
+Azama: Oh ho! The human mind is weak and malleable. Things change.
+Setsuna: Oops.
+Azama: Setsuna? Have you shrunk about, oh, a foot or so in the last minute?
+Setsuna: No. I'm actually sinking in some quicksand.
+Azama: Mmm? Quicksand at this latitude? How fascinating!
+Setsuna: Am I going to die now?
+Azama: Physically...yes, probably. But your spirit will live on in our memories...
+Hinoka: Azama! Why aren't you doing anything to help her? And Setsuna... Why are you so calm? Is this some sort of joke? Gah! I guess I'll have to save you.
+Setsuna: Ah. Thank you, milady.
+Azama: My, my. Lady Hinoka the Hero.
+Hinoka: *sigh* Azama, we are currently under attack. Can you try to be serious for two seconds?
+Azama: Of course, milady! Although, I am currently without any battle implements, so... I'm afraid I'm at the mercy of your protection.
+Setsuna: I think I'm stuck in the quicksand again...
+Hinoka: Gods. I knew I couldn't rely on the two of you, but this is worse than I imagined! Just try and hold it together long enough for us to see this through, all right? Maybe Ryoma and Takumi can help me babysit, once we finally catch up to them...
+
+@Recruit-Talk 
+%Corrin,Hinoka
+Corrin: Hinoka! What are you doing here?
+Hinoka: I could ask you the same question, Corrin.
+Corrin: Yes, well... A lot has happened. I thought you were in the capital.
+Hinoka: Yes, I was. But I decided to try to catch up to Ryoma and Takumi on their way to Izumo.
+Corrin: Ah. Well, it's good that we met up...but I have some bad news. Ryoma and Takumi are missing. We're trying to track them down.
+Hinoka: Missing? Oh gods... They are not the sort of men that simply go missing. What has happened to them, Corrin?
+Corrin: We don't know. And we've run into a few problems of our own along the way...
+Hinoka: Yes, I can see that. I thought the Wind Tribe was neutral. Why are we fighting?
+Corrin: It's a long story, but I believe that we'll be able to explain ourselves to the chief. Will you join us? We could certainly use a little help.
+Hinoka: Of course! Although, a LITTLE help is about all you'll get from these two...
+Corrin: What do you mean by that? Never mind... I'm just happy to have you all on our side. Let's do this!
+
+@Battle 
+Fuga: So. You've made it this far.
+Corrin: You must be Chief Fuga. Please, allow me to explain—
+Fuga: No. You must earn the right to explain. Show me that you fight with honor!
+
+@Boss 
+Fuga: You've shown some fortitude. Now show me that you're worthy of my attention!
+
+@End 
+Fuga: Bahaha! Well done. I suppose I shouldn't have underestimated one who carries the sacred Yato blade. Now, I will gladly hear an explanation for the unprovoked attack on my people.
+Corrin: Yes, of course. Wait—what do you know of my blade?
+Fuga: Ah, King Sumeragi and I were good friends. I learned much about the history of that weapon from him. I also shared concern for its future, which is why it was necessary for me to test you.
+Corrin: Test me? How so?
+Fuga: Corrin, the blade you possess has the power to link the Seal of Flames. In the wrong hands, it could unleash enough power to end the world. That's why I wanted to see for myself if you are indeed the right person to handle it.
+Corrin: I see. And what of the villagers we wounded?
+Fuga: I already knew that you and your associates were acting in good faith. For what reason would Hoshidan royalty attack a stranger? And then allow her party to be peacefully captured by the stranger's tribe? No, I was well aware that something was amiss.
+Corrin: Well, thank you for believing in us. This is the first good news we've had in some time, I'm afraid.
+Fuga: Oh? Please, I would gladly hear your full story. But let us freshen up from the battle and sit down to a proper meal first.
+Corrin: I appreciate the invitation—and believe me, a bit of rest and a meal are what we need... But we're in search of Lord Ryoma and Lord Takumi. We haven't a moment to spare.
+Fuga: I see. Then you must be on your way. Best of luck.
+
+Corrin: Well, I suppose that worked out better than it could have...
+Azura: Yes. I'm glad to know we can still count the Wind Tribe among our friends.
+Corrin: I'm still puzzling a bit over what Fuga said about my blade. Do you know anything about the Seal of Flames?
+Azura: No. But I found it curious that he described "linking" the seal. Could there be more than one Seal of Flames? If so, could there be more than one sacred blade out there? It is a troubling idea. What if our enemies already possess a similar weapon?
+Corrin: Right. That is a troubling thought. But let's focus on the problems in front of us before inventing new ones.
+Azura: You're right, Corrin. I suppose I'm getting carried away.
+Corrin: Perhaps we've spoken too soon. Here comes Chief Fuga, and he appears to be in a hurry.
+Fuga: Corrin! Please wait a moment.
+Corrin: How can we help you, Chief? Is everything OK?
+Fuga: Yes, yes, thank you. It occurred to me that we might be able to make a mutually beneficial arrangement. You are in need of all the men and women you can get. And we have a skilled diviner who could use some real-world experience. His name is Hayato, and he would like to offer his services to your party.
+Hayato: Good day.
+Corrin: Um...
+Hayato: Is there a problem?
+Fuga: Please! Don't judge him by his youthful appearance. Hayato has mastered a number of unique skills that make him invaluable.
+Hayato: I don't mean to sound conceited, but... You would be lucky to have me on your team.
+Corrin: Very well! I certainly won't turn down your assistance at a time like this.
+Fuga: Splendid. I hope he makes a valuable addition to your team. And as for you, Hayato, I'm glad to finally be able to offer you this chance to travel.
+Corrin: Travel? I hope you both realize that this isn't exactly a vacation...
+Fuga: Of course. It's just that Hayato has not had much opportunity to leave the village. In addition to helping you, he will be exploring the world for the first time.
+Corrin: I see. I think I understand exactly how he feels. After all, I spent most of my childhood locked in a Nohrian castle.
+Fuga: Well, then I'm sure you two will have a lot to talk about. And I trust you'll take good care of our Hayato.
+Hayato: Chief! Must I remind you again that I am no longer a child?
+Fuga: You're right, you're right. I must admit that I still feel a bit protective at times...
+Hayato: Dad! I mean...Chief! Lord/Lady Corrin, he's not my dad. He's just looked after me since I was a child.
+Corrin: It's OK. I understand. Anyway...we should get going. Welcome aboard, Hayato. And thank you for everything, Chief Fuga.
+Fuga: No need to thank me. Please feel free to come back here anytime you'd like. I'm proud to have met the one whom the sacred Yato chose. We shall meet again.

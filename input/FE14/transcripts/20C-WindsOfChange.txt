@@ -1,0 +1,85 @@
+@Intro 
+Elise: *SIGH* It's no use, Corrin! The Wind Tribe refuses to let us pass through their territory. They said if we even set one foot on their land, they'll attack. Big meanies!
+Corrin: Don't worry, Elise. We'll figure something out.
+Camilla: It's quite bothersome, darling. The Wind Tribe is supposed to be neutral. What's more, cutting through their village is the only safe option we have left.
+Elise: Big ol' liars! They're about as neutral as...um... Oh, you know what I mean! They weren't even remotely swayed when Camilla used her feminine wiles on them! That can only mean one thing... They hate Nohr. Or women. Or just Nohrian women.
+Camilla: Elise, you silly thing. I did not use wiles of any kind, love. But you may have a point about them hating Nohr. Long ago, their village was attacked by Faceless, sent there by Nohrian mages. That said, I'm afraid there's probably little we can do to win them over.
+Corrin: Hmmm. Well, something must be done. I'm going to try reasoning with them one more time.
+Camilla: You are? Oh, little Corrin! Are you sure that's a good idea?
+Corrin: It's our only option, I'm afraid. If that attack still has them apprehensive, I'll apologize on Nohr's behalf. We must earn their trust—show them that our new way is the way of peace.
+Camilla: Aww, what a sweet little brother/sister I have! But, darling, what if they don't listen? What if they try to attack you?! The thought is just too much to bear!
+Corrin: I appreciate your concern, Camilla, but I'll be fine! We must end this war as soon as possible. We haven't a moment to lose. As wielder of the Yato, it is my duty to do whatever I can to bring peace to the world. Wait here for me, OK? This may take a while, but I'm certain we'll eventually come to an understanding.
+Camilla: Oh, Corrin... Be so careful.
+
+Fuga: Ho ho, I can see the fierce determination blazing in your eyes, outsider.
+Corrin: Ah. Can you? That's good. Erm... Who are you?
+Fuga: I am Fuga, chief of the Wind Tribe.
+Corrin: Oh! Sorry, I had no idea. I am Prince/Princess Corrin of Nohr. May I request an audience with you?
+Fuga: Hmm. I was informed there were outsiders at the entrance of my village. Not just any outsiders, but ones claiming to be Nohrian royalty. I am intrigued.
+
+Fuga: It must have taken great courage for a Nohrian prince/princess to face me like this. I will hear what you have to say.
+Corrin: You will?! Thank you!
+Fuga: Yes, but not here. The winds cry out with a ferocity no mortal could hope to rival. We shall venture to my castle, Reppu. There, your story will be heard. ...Corrin, is it? In time I will require some information. It's about that blade you grasp. Come.
+Corrin: My sword? Hmm...
+
+Fuga: That's quite a tale you just told. I believe I understand your aim. Just this once, I will allow your army to pass through this village. I will alert my people that you are welcomed guests who are not to be disturbed.
+Corrin: Thank you so much, sir! Oh, but before I depart... You said there was something you wanted to ask me?
+Fuga: Yes. It is about that golden blade of yours. That is the legendary Yato, is it not?
+Corrin: Yes, it is. How did you know?
+Fuga: I used to be close friends with Sumeragi, the former king of Hoshido. I was always enthralled by the various Hoshidan legends he shared with me. The legend behind that blade of yours particularly captured my imagination...
+Corrin: You were friends with the Hoshidan king?! But wouldn't that make you...our enemy?
+Fuga: Calm yourself, young prince/princess. That was many years ago. My tribe has since adopted a policy of neutrality in regard to this war. Though Sumeragi was a friend of mine, we are not allied with Hoshido. However...
+Corrin: What's wrong?
+Fuga: That divine Yato is the key to the Seal of Flames. Sumeragi once warned me...that if it fell into the wrong hands, it would lead to our world's destruction.
+Corrin: I would never let that happen! This blade...it chose me. The Rainbow Sage told me it was my destiny to wield it. That with this Yato, I was fated to unlock the Seal of Flames and end this war.
+Fuga: But are you truly worthy? I believe a test is in order. If you are unworthy of wielding the Yato, I will pry it from your dead hands!
+Corrin: What?! But you just said that we could pass through here safely!
+Fuga: You may—if what you say is true, and you truly mean to bring about peace. If not, the blade will fail you, and I shall take up its noble cause in your stead.
+Corrin: Please, wait! I don't want to fight you!
+Leo: Don't worry, Corrin. Just show him what you're made of. This battle is no different than all the other ones we've fought and won.
+Xander: You can do this. You're stronger now than I ever could have imagined. Your family is behind you all the way. Together, we shall prevail.
+Fuga: Ho ho, what have we here? Two more wielders of legendary weapons! The glistening metal of Siegfried working alongside the ancient pages of Brynhildr... This fight will be the stuff of legends! Let me witness the power of those who align themselves with the Yato wielder. I will gather my best soldiers, including one nearly as skilled as myself... Hayato!
+Hayato: Hmph. I'm right here, Fuga.
+Corrin: A child? You expect me to clash blades with a cute little boy?!
+Hayato: I am no child, fool. My name is Hayato. You should thank the gods you have the chance to face one as talented as I am.
+Corrin: Um, right. OK then. He sure is confident for someone so...diminutive. He looks shorter than Elise.
+Hayato: What?! What does height have to do with anything? Foul beast! Fuga! We're not gonna let him/her get away with insulting our honor are we?!
+Fuga: Ho ho ho. If you're that angry, then exact your revenge on the battlefield. You are the most talented mage in the entire village, young one. Unleash your power, and show these outsiders the Wind Tribe's might!
+Hayato: Hmph, like I'm even capable of holding back.
+Fuga: Prince/Princess Corrin, the time has come. We will be waiting outside the castle. Come find us when you are ready to meet your fate head-on.
+Corrin: If this is how it must be, so be it.
+
+@Boss 
+Hayato: Let's get this over with. I have better things to do.
+
+Hayato: Hmph! You're stronger...than you appear...
+
+Fuga: Are you worthy to follow he/she who wields the legendary Yato? If so, prove it!
+
+%Corrin,Hayato 
+Hayato: So you're the one the divine Yato chose? Pfft. Laughable. I thought the chosen hero would be a warrior, but you're more bark than bite.
+Corrin: I'm being ridiculed...by a child. *sigh*. When Fuga told me I'd be battling someone as strong as he was...you're not exactly what I had in mind.
+Hayato: I TOLD you I'm no child! Do not underestimate me, fool! Prepare to crumble beneath the weight of my magic!
+Corrin: Do your worst, kid!
+
+%Corrin,Fuga 
+Fuga: The time has come, Corrin. Show me what you're made of. Prove to me and to yourself that you are worthy to wield the divine Yato!
+Corrin: I used to wonder myself if I was worthy. But now that I stand before you... All of my doubts have fallen away upon the wind. Behold my power!
+
+@End 
+Fuga: You fought well, Corrin. As did your loyal allies. I see now you truly are worthy of wielding the Yato. The divine blade chose well.
+Corrin: Do you truly believe that? ... Thank you. I'm...I'm so happy!
+Hayato: Wah? Why are you smiling like that?! You look ridiculous!
+Corrin: I'm just so grateful to finally put my own doubts to rest. All this time, I've struggled with the question of whether or not I'm worthy... Whether or not I chose the right path... Whether I can truly use this divine blade to bring peace to the world...
+Hayato: For our fated hero, he/she's so...humble. It's odd!
+Fuga: Worry not, young prince/princess. Your power is beyond question, and your aim is true. No matter what path you walk or which kingdom you fight for... I am certain you will always make the right choice and use that blade for good.
+Corrin: Thank you, Fuga.
+Hayato: Hmph, fine. If Fuga accepts you as a hero, I suppose I must do the same.
+Corrin: Thanks, Hayato. Glad to hear it.
+Hayato: But know that the next time we meet on the battlefield, I won't lose. Divine blade or no divine blade, I won't tolerate a defeat! While you're off saving the world, I'm going to keep training. When this war is over, come face me again. If you have the guts, that is.
+Corrin: Haha, I better end this war soon then. I don't need you getting any stronger!
+Hayato: Hmph, you speak the truth. I look forward to our rematch. Good luck, Corrin. May the winds be ever at your back.
+Fuga: Come, Corrin. I will show your people the way through our village.
+
+Azura: Are you ready for this, Corrin? We'll arrive at the Hoshidan capital soon. The battles ahead will be our most difficult yet. Prepare yourself.
+Corrin: I'm ready. As ready as I'll ever be...

@@ -1,0 +1,133 @@
+@Intro 
+Elise: All right...the throne room is just upstairs from here.
+Corrin: Understood. Wait. Someone's coming down.
+Elise: Oh!
+
+Iago: Well, well...look who's still alive! You're just full of surprises, Corrin.
+Corrin: I'm through playing games, Iago. Let's just do this.
+Iago: Not so fast! Lady Elise, I'm here for you! Why don't you come over here, and I'll protect you.
+Elise: Why would I ever listen to YOU! You tried to make Xander and Leo fight Corrin! And you've tried to kill him/her, like, five times already!
+Corrin: Save your breath, Elise. This guy never listens to reason. He doesn't care about right or wrong. He's just looking out for himself. I think it's time we taught him a lesson he'll never forget.
+Iago: Ooh, such big words. Hoshidan prince/princess! But you are right... I don't care about what's right or wrong. That's why I always get my way. I'm willing to do what's necessary. Like THIS!
+
+Azura: AHHH!
+
+Corrin: Takumi! What are you doing?
+Takumi: Die die die die die...
+Azura: Urk...you're...hurting me! Why...
+Corrin: What's wrong with you? Stop hurting her!
+Iago: *sigh* I just knew this would be too much for your feeble mind to understand... And I need you to comprehend the totality of your defeat. Otherwise I can't properly enjoy myself, you see? Very well, let me explain. Prince Takumi has been on our side all along! Thanks to him, I've known your whereabouts every step of the way.
+Corrin: You're lying. How could that be possible? Takumi, tell me this is a joke!
+Iago: Bwahaha! How does it feel? Being stabbed in the back again and again? And to think of all that time you spent looking for poor little Takumi...
+Corrin: There's no way Takumi would betray us of his own free will. He must still be possessed!
+Iago: Oh, please. Of course he's possessed. But the spell wouldn't work without a kernel of dissatisfaction in his soul. He's always felt like an afterthought in the royal family. He has quite the inferiority complex. He desperately wants to prove himself. That's how he survived. His hatred kept him going so he could deceive you all! Now it's his turn to shine. Mwahahaha! He's deliciously evil, is he not? Better hurry up and kill him... before he kills Azura!
+Corrin: There's got to be a better way... Takumi, listen! What happened in the Bottomless Canyon? What made you this way?
+Takumi: Nnngh...
+Azura: I can fix this... Just need to sing my song...
+
+Azura: Aieeee!
+Corrin: Azura!
+Iago: Oh, I'm so glad I'm getting to see this all in person for once. It's quite a show! I wonder how it will end...
+Corrin: Takumi...you've got to listen to me.
+Iago: Are you really just going to let him kill Azura like this? What are you waiting for? Kill Takumi! And then see how Ryoma reacts. Oh ho ho!
+Corrin: I believe in you, Takumi. I know the real you is still in there.
+Takumi: Nnngh...Brother/Sister...
+Iago: What?!
+Azura: Now's my chance... You are the ocean's gray waves... ♪
+
+Iago: No! Shut up!
+Sakura: Haaah!
+
+Iago: Gwaahhh...
+Sakura: I w-won't let you interrupt her!
+Corrin: Sakura! Thank you!
+Iago: You will pay for that bit of sass, young lady. I didn't want to get my hands dirty, but I suppose it can't be avoided.
+Sakura: Eeeee!
+Corrin: Leave her out of this, Iago!
+
+Takumi: *cough* *cough* It's OK, everyone... I'm myself again. Thank you, Azura.
+Corrin: Yes! I knew you'd snap out of it!
+Takumi: Thank you for believing in me, Corrin.
+Corrin: Of course.
+Iago: What just happened?
+Takumi: I just woke up for good. That's what happened. You were able to exploit some of my deepest fears and flaws, but that's over. My brothers and sisters need me, and I won't let them down. I'm a proud prince of Hoshido, and from now on I will live up to the title!
+Iago: How disappointing.
+Corrin: This is it for you, Iago. You're on the wrong side of history. Peace is coming, and you can't stand in its way any longer. WE WILL GRIND YOU TO DUST!
+
+@Boss 
+Iago: You poor fool. Doing Corrin's dirty work for him/her...
+
+Iago: Save me...King Garon...
+
+%Corrin,Iago
+Iago: You're like a rather pesky cockroach, you know that? Just when I think I've got you under my foot, you scamper away.
+Corrin: Sure. Just keep talking. It's what you do best. I'm through talking.
+Iago: Well, then! I'll save the rest of my clever analogies for another time... And kill you right now. HAAH!
+
+%Takumi,Iago
+Takumi: Yes! I was hoping I'd get a chance to kill you myself. This is for everything you've put me through!
+Iago: *yawn* You know I chose you because you were the weakest, right? You should never have come out of that spell—now you're going to suffer!
+Takumi: Wrong! Now that my head is clear, my aim is truer than ever. I'm going to turn your face into my own personal bull's-eye.
+
+@End 
+Corrin: You're finished, Iago.
+Iago: Awk! No...I don't want to die! Please...listen! I was under a spell the whole time. This is all King Garon's fault! I would never have done all those things to you.
+Corrin: Sure.
+Iago: Won't somebody save me? King Garon is the evil behind all of this. I've been used! Have mercy on me!
+???: Pathetic. I've never seen someone face their own death with less dignity. For that, and for all of your cruelty, you're a disgrace to Nohr!
+Corrin: Leo!
+
+Leo: Any last words, Iago?
+Iago: Lord Leo! I throw myself upon your mercy. You're here to save me, right?
+Leo: Weren't you listening just now? I am not your ally, you monster. I won't allow you to sully our kingdom a moment longer!
+Iago: B-but, milord...
+Leo: Just stop talking. I'll put you out of your misery.
+Iago: Please, I beg you!
+Leo: Die!
+
+Iago: Gyah!
+
+Leo: Good riddance.
+Corrin: Thank you, Leo. Have you come to join us? We're about to confront King Garon.
+Leo: Not exactly. I have had a moment of enlightenment, and I believe you are on the side of justice. However, I'm still a Nohrian prince, and King Garon is still my father. I won't stop you, but I cannot assist you further.
+Corrin: I understand. Even though I now know we're not related, I still think of you as my brother.
+Leo: Thank you, Corrin.
+Corrin: Also, I meant to tell you earlier, but... No, wait. Never mind.
+Leo: What? What is it? You can't tease me like that!
+Corrin: *sigh* Your collar is inside out again.
+Leo: DAMN IT. Why didn't you tell me before?
+Corrin: Sorry, I didn't want to interrupt your moment with Iago. You really took charge there!
+Leo: Well...thank you. I guess.
+Elise: Don't worry, Leo! You still looked super cool!
+
+Leo: Elise! What are you doing here?
+Elise: I'm here to try and talk Xander and Father into listening to Corrin. I can't stand watching our family self-destruct anymore!
+Leo: I see. Well, I'm not sure Xander or Father are in the mood for chatting... You should go wait this out in that secret passage Camilla thinks I don't know about.
+Elise: You know about that?! Ugh, of course you do. Nothing gets past you. But it doesn't matter. I have to do this! I'm the only one who has a chance of making them drop their guard and listen. I can't just sit by and do nothing while everyone I love tries to kill each other! I couldn't live with myself...
+Leo: But, Elise...
+Elise: Sorry, my mind's made up.
+Leo: Well, I suppose I can't make you change your mind. So...do as you wish. But please be careful.
+Elise: Yay! Thank you, Leo! Your blessing means a lot to me.
+Corrin: Thank you, Leo.
+Leo: You two...so reckless. Since you can't be stopped, I must at least warn you one last time... Xander is stronger than you can fathom. Much stronger than either of us. And Father is perhaps stronger still.
+Corrin: I appreciate the warning. But I am willing to give my life for this cause. And I am confident enough to believe I won't have to.
+Leo: You have grown considerably, Corrin.
+Corrin: Thank you, Leo. We'll be on our way now. I hope we can meet again.
+Elise: See you soon, Leo!
+Leo: Yes... Good-bye.
+
+Leo: I honestly have no idea how this is all going to turn out... Wait a moment. Was that Odin giggling? And did I hear Niles cough? Guys, why don't you stop hiding and come out here.
+Niles: So sorry, Lord Leo. We simply didn't wish to disturb you unless it became necessary.
+Odin: Yes, but then this insolvent creature tickled my fancy with a mirth-filled quip! Even my dark aura could not resist a chuckle.
+Leo: What have I said about referring to your dark aura all the time?
+Odin: But, milord...to even think of you being imprisoned within eternal darkness... Your soul yearning to break free.... Oh, the lamentations I would express...
+Leo: Huh?
+Niles: He's trying to say that he was worried about you, milord. You went off to the Bottomless Canyon with that strange crystal all alone... I was worried about you, too. That's why we're here.
+Leo: Yes, well...thank you, I suppose.
+Odin: Tell us, what fantastic truths did the dark crystal reveal to you?
+Leo: Well...
+Niles: Ooh. That good, huh?
+Leo: No, it's just... Father... He's no longer... Ugh. Let's just say, big changes are on the horizon, for all of us. There's going to be a major battle, and anything could happen.
+Niles: Understood, milord.
+Odin: Yes. I have prophesied this from the very beginning...
+Leo: Heh. You're hopeless, Odin. ... *sigh* Good luck, Corrin...

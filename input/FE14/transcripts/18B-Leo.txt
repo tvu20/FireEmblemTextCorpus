@@ -1,0 +1,179 @@
+@Intro 
+Corrin: Ugh, this forest is so dark and dismal... The trees are blocking the whole sky. I can't even see the moon from here. It feels as though we've been walking in darkness forever.
+Ryoma: They say this is the darkest region in the kingdom of Nohr. Which is precisely why we're here. Most Nohrians would have a hard time tracking us through this area. Once we make our way through the forest, we'll be just outside the capital.
+Corrin: Are you sure we're on the right track? I'd hate to get lost in here.
+Felicia: Don't worry, Lord/Lady Corrin. I know my way around this place pretty well. Flora and I used to camp in this area in the summers. Between the two of us, we had every nook and cranny mapped out. Oh...Flora. *sob*
+Corrin: Felicia...I'm so sorry.
+Felicia: I'm sorry...I need a moment.
+Corrin: Of course. Take all the time you need. I can't imagine what you're going through.
+Felicia: Thank you, Lord/Lady Corrin. I know we're all suffering in one way or another. I'm just trying to hold it together.
+Corrin: We're all here for you, Felicia.
+
+Corrin: So, Ryoma... I know Felicia said she knows her way around here... But it feels like we've been walking in circles for hours.
+Ryoma: Hmm? I don't think so. It probably just feels that way because it's so dark.
+Corrin: I hope you're right. Oh, wait. There's something different.
+Ryoma: What is it?
+Corrin: I...I don't know. It's over there. Something glowing...
+Ryoma: Is it some sort of animal?
+
+Corrin: No. It's giving off an unnatural light.
+Ryoma: I don't like the looks of this...
+
+Ryoma: Do you think they could be more of Iago's optical illusions?
+Corrin: I don't know, but I'd rather not find out. Let's get out of here!
+Ryoma: It's too late—we're surrounded. Let's hope these...things...aren't hostile.
+Corrin: I...I think this place is a graveyard.
+
+Corrin: Faceless! They're everywhere! We're in trouble, Ryoma—I can barely see anything, let alone defend myself!
+Ryoma: There's something strange about these Faceless. It's almost like they're...waiting. Usually they attack anything in sight without hesitation. Someone must be controlling them!
+Corrin: You may be right, but knowing that will do us little good when we can't see anything!
+???: Oh, Corrin. Have you really lost your night eyes so quickly? Hoshido has made you soft.
+Corrin: Who's there?!
+???: That's quite an attitude to take with a voice in the dark, is it not? See for yourself. Can you still not see me...
+Leo: even when I'm right next to you?
+
+Leo: Nohrian law is blunt on the subject of traitors. There is only one punishment... The sentence is death.
+
+Corrin: Leo!
+Leo: Yes, Brother/Sister. I'm here to settle the score once and for all. No more running or hiding. It's time to answer for your betrayal! I've even gone to the trouble of trapping you in a proper graveyard. After all, the brother/sister I once loved is dead. It's only fitting.
+Takumi: That's some big talk from a reedy little bookworm! We won't back down until we defeat your father, King Garon. Why don't you come down here and fight us face-to-face?
+Leo: You're quite confident for a coward who shoots his foes with arrows from afar. If you think you can best me, so be it. Let's see how long you can survive my game. You Hoshidans think you're a ray of light in the world, but you're all hypocritical fools. True power comes from a heart forged in darkness!
+Takumi: Gah! My feet—they're stuck! Aaaugh!
+Corrin: Takumi? What happened?
+Sakura: Ow! Eyaaah!
+Hinoka: Ughhh...I'm getting so...tired. So...drained...
+Ryoma: It's the swamp! Everyone, get out of the water right now!
+Corrin: Strange, it doesn't seem to be affecting me...
+Leo: Hmm. So your connection to Nohr hasn't been completely severed, I see... No matter. There will be no escape today. In the dark forest, where even the moon and stars dare not shine... All sources of light shall be swallowed up in my darkness, because I will it so. Hoshidans, who have spent all their days in the light, can't survive without it. I'm surprised it didn't work against you too. This only goes to show you were meant to side with us. You chose wrong, Brother/Sister. You chose the light and left those who love you most to rot in the dark, traitor!!
+Corrin: Please, Leo! Stop this! I don't wish to fight you, Brother!
+Leo: Ugh, how annoying. I would love nothing more than to best you in battle. Xander always lavished you with praise while ignoring my accomplishments... Camilla was the same. She...she always loved you more than me! You were Xander's perfect little toy soldier and Camilla's dress-up doll! I've always resented you for that, Brother/Sister. I've been keeping all this in for so long, but it doesn't matter anymore. Had I known you'd betray us, I wouldn't have bothered being intimidated by you!!
+Corrin: Do...do you really mean that? Have you always resented me? I thought...we were so close. Did you never truly love me? Tell me!
+Leo: ...I'm not going to give you the satisfaction of answering that. I'm just going to kill you now.
+Corrin: Leo, no!
+
+@Boss 
+Odin: Out of darkness, I spring into action. Fear me! I am Odin Dark!
+
+Odin: Urgh! Back into the darkness I go...
+
+Niles: Say, that’s a nice face you’ve got there. Would be a shame if someone were to slash it. Let’s have some fun, shall we?
+
+Niles: Oof. That’s enough of my own medicine for today. I’ll just slip away now…
+
+Leo: I hope you like the dark. I'm about to drown you in it...
+
+Leo: No...I can't fall like this... Not until I prove myself...
+
+%Corrin,Odin 
+Odin: Halt! I am Odin Dark—warrior chosen by the darkness. It’s been a while, hasn’t it, young Corrin? It’s a shame that I will have to destroy you now, but orders are orders. If only you had stayed true to our glorious and noble kingdom...
+Corrin: What are you talking about?
+Odin: Oh. That’s not the reaction I expected. Do you not remember the darkest and most mysterious of heroes?
+Corrin: Um, sorry. I have a really bad memory. REALLY bad. By the way, what’s with the whole "warrior chosen by darkness" thing?
+Odin: Yes, well...I am the night! I am the...er... I can’t do this.
+Corrin: Then throw down your weapon! There’s no need for us to fight!
+Odin: No! Must...tame...the darkness... Let’s just get this over with! I can’t control my powers around you...
+
+%Corrin,Niles 
+Niles: So, you’re the little thorn in my master’s side, are you? Very well. If he wants you dead, who am I to argue?
+Corrin: I still can’t believe it. We lived as brothers/sister and brother...
+Niles: Oh, yes. The suffering on your face is simply delicious. Now, let’s see what happens when you have a few more holes...
+Corrin: You’re sick!
+Niles: Oh, please. This is war. This is my job. I’m good at what I do. I’ll try to make this painless so you can die in peace. Deal?
+
+%Corrin,Leo 
+Leo: Ah, so you made it all the way here. I suppose that means I'll have to kill you with my own hands.
+Corrin: Leo, be honest. Did you really mean what you said earlier? Have you...have you really always hated me? Because...I've always loved you.
+Leo: There's no point in answering that. It's all over now.
+Corrin: Leo...
+
+@End 
+Leo: Ugh... Go ahead. Do what you must.
+Corrin: No. Accept your defeat, and we can end this together.
+Leo: Don't you see? This can't ever end! Not until one of us is dead.
+Corrin: No! I can't accept that. There was no need for our kingdoms to be at war in the first place. This is all Father's doing, Leo! He's fooled us all!
+Leo: You've always been naive, Corrin. This is war! This is life and death! Only the strong survive! If Nohr bows down, we'll lose everything. Our land and our people...our culture and our legacy... Our families...even our lives. I won't let Hoshido take anything more from us! I won't back down!
+Corrin: Am I the one who's naive? Or is it you, blind to Garon's lust for power?
+Leo: Ha! As though the Hoshidans have never ended a life to serve their own purpose. They would slit your throat in an instant if they thought it served them.
+Corrin: That's not true! From the moment I arrive in Hoshido, I was treated as if I belonged. The same goes for Azura. King Garon is mad with power, and he must be stopped!
+
+Leo: Huh?!
+Corrin: I hate to do this, but... Don't move an inch, Leo, or I will be forced to end you.
+Leo: Heh, I don't doubt your ability to hurt me, dear brother/sister. Go on. Kill me. End this battle, just as you wish.
+Corrin: ...
+Leo: What are you waiting for? I'm not helpless, even in this position. I could kill you right now with a spell. Make your move.
+Corrin: No...
+Leo: Why? What's wrong with you?
+Corrin: Me? What's wrong with you? Why haven't you cast your spell?
+Leo: Because...
+Corrin: Leo, I know you. We grew up together. I know you've got a good, kind heart.
+Leo: Shut up!
+Corrin: No, listen...
+Leo: I told you to shut up! What makes you think you understand anything about me?!
+Corrin: Because we're family, Leo. Regardless of my true lineage, I'll always think of you as my little brother.
+Leo: Hmph.
+Corrin: I won't ever give up on you. You said you'd kill me...but I'm still here. If you really wanted me dead, you could have done it a dozen times by now.
+Leo: ...
+Corrin: I believe in our bond, Leo. I have to believe you wouldn't really kill me. As one who betrayed Nohr, maybe I don't have the right to say this, but... I don't want to fight against you, or anyone in Nohr, but especially my family. I still love you, Brother. That will never, ever change.
+Leo: *sigh*
+
+Leo: I...I'm sorry, Brother/Sister. I lied to you.
+Corrin: Leo, it's OK.
+Leo: I never hated you. Not...not ever. I was jealous at times, sure. You were always Xander's favorite. And Camilla...she always doted on you so...
+Corrin: I understand. There's no need to say anything more. But, Leo...please. Please join us, Brother! Help us put an end to this war.
+Leo: You're asking me to betray my father. And Xander. And everyone else... How can I do that? I can't hurt my siblings! I won't do it!
+Corrin: I...I can't answer that. Only you can. I'll admit, it's a tough road to tread.
+Azura: You'll have to find your own reasons for joining us. We can't give you the answers. But I do have something that can help you...clarify your thoughts.
+Leo: What do you mean?
+Azura: Take this. Look deep inside it. You might find it helpful.
+Leo: Huh? What is it? It looks like some kind of crystal.
+Azura: It's...not something I can explain. You'll just have to try it for yourself.
+Leo: I see... Understood.
+
+Leo: So you're Azura. You were originally a princess of Nohr, right? Does that mean... Are we related?
+Azura: Yes, I am Azura. But I'm afraid we're not related.
+Corrin: But I thought—
+Azura: I'm afraid I haven't been able to share everything about my past quite yet...
+Leo: Does that mean you're not originally from Nohr after all? Why are you being mysterious? Why can't you just come out with it?
+Azura: I assure you—I have my reasons. But I have given you everything you need to find the answers. That's all I can do.
+Leo: Very well.
+Corrin: Leo, what are you going to do?
+Leo: I don't know. I'm not ready to completely forgive you for betraying Nohr and tearing our family apart. There are a lot of questions that I need answered.
+Corrin: I see.
+Leo: To be honest, all of this may be moot. None of you realize how strong Xander has become.
+Corrin: Leo, I've sparred with Xander dozens of times. I know he's strong, but I'm ready.
+Leo: Hah! You mean your friendly little tickling contests up on the roof? You do know he always went easy on you, right? You...know that, right? Xander means business now, Corrin. He is not to be taken lightly. You may have stopped me and my small army of Faceless today... But I doubt the lot of you could defeat Xander all at once.
+Corrin: He can't be...THAT powerful... Can he?
+Azura: What can we do, Leo?
+Leo: Truly, there may be nothing you can do. But I know one thing you can TRY. Make a pilgramage to Notre Sagesse.
+Ryoma: Notre Sagesse...land of the philosophers? What possible benefit lies there?
+Leo: Notre Sagesse is home to the Rainbow Sage. I don't know who he is or what he does, but Xander visited him ages ago. Upon returning, he put on display of powers the likes of which I've never seen.
+Corrin: I hate to ask...but how far away is Notre Sagesse from here?
+Ryoma: It's more than halfway back to Hoshido, I'm afraid. The most direct route would take us back through Cyrkensia. And then we'd still have a lengthy boat ride ahead of us...
+Corrin: Then it's hopeless. We've come too far together to backtrack like that.
+Leo: What will you do? I assure you that facing off against Xander as you stand would be akin to suicide.
+Corrin: I suppose I have no choice. I'll have to go to Notre Sagesse alone.
+Takumi: Are you serious, Corrin? Please don't tell me you believe this clown.
+Corrin: Takumi, I've known Leo my whole life. I believe he's telling the truth about Xander. So, even though this is a setback...I believe it gives us the best chance at victory.
+Takumi: Unbelievable.
+Corrin: I'm sorry. I'm not asking anyone else to come with me.
+Takumi: Who said anything about not going with you? I just want to make sure you think long and hard about this.
+Corrin: But...
+Hinoka: We're all with you, Corrin. Right, everyone?
+Sakura: Of c-course!
+Corrin: Really, I can make this pilgrimage alone...
+Ryoma: Nonsense! We stand with you, Corrin.
+Azura: Did you really have any doubt? We will all follow your lead.
+Corrin: Thank you, everyone. I'm...humbled to have your confidence and support. Especially you, Ryoma. To think...you could be king right now...
+Leo: Very well. I suppose if you're all determined to do this...I shouldn't hold this back. Please, take this.
+Corrin: What is it, Leo? A book?
+Leo: Yes, a warp book. It has the power to transport you instantly to Notre Sagesse. Consider it an even trade for the item Azura gave me.
+Corrin: What?! That can't be possible, can it?
+Leo: Oh yes, Corrin. Believe it. This is why I've always put my faith in books rather than blades. Given the size of your party, I'd say this book has the power for ONE round trip. So, don't push your luck with it...
+Corrin: One round trip should be plenty. Thank you, Leo!
+Leo: Yes, well...I wasn't sure that helping you would be the right decision. But after seeing how determined you are... I suppose it just seems right. You've always been a bit reckless, haven't you?
+Corrin: Thank you, Leo.
+Leo: It's time for me to go now. We'll see each other again, I'm sure of it.
+
+Corrin: He smiled! It's been so long... since I saw that smile. How bittersweet.
+Ryoma: I can imagine. Thank you for keeping a steady head throughout all of this. You're a natural-born leader, Corrin.
+Corrin: Thank you, Ryoma. I'm just glad I didn't have to kill my own brother. As for you, Leo... I know you can't hear me, but I wish you safe travels. My kind and precocious little brother, who was ever at my side... I hope you find the answers you're looking for... And one day, I hope we'll be together again, as we should be.

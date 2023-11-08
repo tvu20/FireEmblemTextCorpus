@@ -1,0 +1,117 @@
+@Intro 
+Azura: This way, Corrin.
+Corrin: What is this place?
+Azura: This is Fort Jinya. Sakura is already here, tending to the wounded soldiers and citizens. Let's go and help her.
+Corrin: By all means.
+
+Sakura: Corrin! Thank you for coming!
+Corrin: Is everything OK, Sakura? I'm here to help.
+Sakura: Yes, but thank goodness you're here. We're really short staffed.
+Hana: Hello Lord/Lady Corrin. I'm Hana. Lady Sakura has told me all about you.
+Subaki: And I'm Subaki. It's a pleasure to meet you Lord/Lady Corrin.
+Corrin: Nice to meet both of you. I'm afraid you probably know a lot more about me than I know about either of you.
+Sakura: That's OK, Corrin. I'm sure you'll be fast friends in no time. Hana and Subaki are my retainers—always close at hand and ready to help.
+Corrin: Ah, I see. Well, we should have plenty of time to relax and get to know—
+Azura: Corrin! We have trouble! Nohrian forces are approaching!
+Corrin: Seriously? We haven't even been here five minutes.
+Azura: Yes, well...the Nohrian soldiers haven't wasted any time surrounding us.
+Corrin: Unbelievable.
+Sakura: I can't believe they'd attack at a time like this... We're using most of the fort as a makeshift hospital—there's no military target here! Why can't they just leave us alone?
+Hana: Don't worry, milady. I can handle this.
+Subaki: With my help, of course. If you'd like, Lady Sakura, you may remain with the wounded while we resolve this.
+Sakura: I'll consider it. Thank you. Both of you.
+Corrin: Well then. I guess we'll be getting to know each other in a hurry. Nothing like a life-or-death situation to cut right through the small talk.
+Hana: As you command, Lord/Lady Corrin! As Lady Sakura's lead retainer, it will be my pleasure to take your orders.
+Subaki: And as Lady Sakura's supervising retainer, I, too, welcome your leadership.
+Hana: Supervising retainer? That's not a thing.
+Subaki: Well, neither is a lead retainer. I don't remember you getting a promotion.
+Hana: Lady Sakura and I have been best friends since childhood! I've ALWAYS been her lead retainer.
+Subaki: I'm not sure this is the time or place for such a discussion, but... I believe my results on the battlefield speak for themselves.
+Hana: Oh, so is that why you neglect all your nonbattle duties? Is that why I'm the one maintaining all of your gear and scouting the enemy?
+Corrin: Guys, um...
+Sakura: Knock it off, you two! You're embarrassing yourselves—and me! Corrin, please don't let this juvenile display deceive you. Hana and Subaki are both extremely capable on the battlefield. And they're both going to set aside this petty argument and help you, right?
+Hana: Of course, milady.
+Subaki: Certainly. Expect perfection, and you will not be disappointed.
+Corrin: Excellent. I'm glad to have your support.
+Azura: We should get moving and face the intruders head-on. We must protect our wounded!
+Corrin: Of course.
+
+@Battle 
+Silas: Ho, Corrin! Is that really you?
+Corrin: Who's asking?
+Silas: Yes, that's the voice I remember! It IS really you!
+Corrin: Please, drop the act. We don't know each other.
+Silas: You honestly don't remember? It's me, Silas! We were best friends as children.
+Corrin: I don't remember much, I'm afraid.
+Azura: Corrin, please be careful. This could be a trap of some sort.
+Silas: I promise that I'm telling the truth. However, it seems we are destined to clash swords regardless of our past...
+
+@Recruit-Battle 
+Silas: Don't take this personally. I'm just following orders from King Garon...
+
+Silas: It didn't have to be this way...
+
+%Corrin,Silas 
+Silas: It's been too long, Corrin. I never imagined we'd reunite under these circumstances. I became a knight in hopes of seeing you again, but...
+Corrin: Silas...I simply don't remember my past.
+Silas: That's OK. You can still come back to Nohr with me. It's not too late!
+Corrin: I'm afraid you're wrong. I'm way beyond the point of no return.
+
+@End 
+Silas: Go on. Kill me.
+Corrin: No. This isn't right.
+Silas: What are you waiting for?
+Corrin: You seemed hesitant to attack us, even as you led your army into battle. Why were you holding back? Because we were friends?
+Silas: Ugh...
+Corrin: Aren't you here on King Garon's orders? Did you even intend to defeat us?
+Silas: Corrin... some things are more important than following orders.
+Corrin: You're going to need to be clearer than that, or I will finish you off!
+Silas: Do as you must. I value an oath I made long ago far more than my own life. I still can't believe you don't remember. We used to play together. You always said how badly you wanted to see the world... So one day I made us a picnic and snuck you out for a few hours to explore. I even packed your favorite meal: Surf and turf! I knew taking you beyond the walls was forbidden, but... I also knew how much it would mean to you. The guards tried to execute me when we returned but you wouldn't let them do it.
+Corrin: Gods! That does ring a bell...
+Silas: My life belongs to you, friend. Do as you must.
+Corrin: Silas... Silas... Yes, of course! I do remember a childhood friend by that name. One who helped me explore outside the walls that bound me.
+Silas: Yes! That's it! What else?
+Corrin: Only bits and pieces at the moment... But I have a proposal for you. You say you would sacrifice your own life for mine?
+Silas: Indeed.
+Corrin: Very well. Then join forces with me. I know you are a knight of Nohr... and you may not believe what I'm about to say... But King Garon has gone absolutely mad! He gave me a cursed sword and sent me off to be captured by the Hoshidans. Knowing, of course, that I would be brought before my mother. She was killed when the sword exploded. I would have been too...
+Silas: I...I don't believe it...
+Corrin: It's all part of his grand plan to escalate this conflict into a full-blown war. I can't forgive his actions against Hoshido. And I will never return to Nohr.
+Silas: ...
+Corrin: You must think I'm manipulating you.
+Silas: No, Corrin... I believe you. You've spared my life twice now. I have no reason to doubt your story.
+Corrin: Then you will join us?
+Silas: Yes. Perhaps together we can bring peace to this world someday.
+Corrin: That is my aim, Silas. I promise that I will never deviate from the cause.
+Silas: I can't believe this is happening!
+
+Saizo: Lady Sakura, we've got bad news.
+Orochi: This is an emergency!
+Sakura: Saizo, Orochi... What happened to you? You're both wounded!
+Orochi: Our wounds are nothing. but as for Lord Ryoma and Lord Takumi—
+Sakura: What?! What happened to them?
+Orochi: They're missing. Last anyone saw them, they were headed to Izumo. It's possible they were captured en route. I hate to think of the alternative...
+Sakura: No! No, no, no, no...
+Kaze: Lady Sakura, please take a deep breath. Saizo, Orochi... Please tell me you're joking.
+Saizo: Yes, I'm well known for my japes, aren't I? I blame myself. I should have been at lord Ryoma's side every step of the way.
+Orochi: Pardon me, but you must be Lord/Lady Corrin, yes? I'm Orochi. I used to serve as a diviner for Lady Mikoto. It seems it would serve a common purpose for our army to join forces. Our tactician, Yukimura, is readying the troops to march on Izumo. Time is of the essence! Will you join us in search of Lord Ryoma and Lord Takumi?
+Corrin: Yes, of course. We'll support you in any way that we can.
+Orochi: Thank you. Corrin.
+Sakura: I'm coming with you.
+Kaze: Lady Sakura, I strongly recommend that you reconsider. The battlefield near the border is highly dangerous, and—
+Sakura: I don't care! I can't just stay here and do nothing. If there's anything I can do to help my brothers, I need to be in position to do it.
+Corrin: I'm so sorry, Sakura. But I'm afraid I agree with Kaze...
+Azura: Corrin... Sakura just lost her mother, and now her brothers are missing. It's understandable she would want to accompany us. With my help I believe we can provide adequate protection...
+Corrin: Very well. I won't try to stop you, Sakura. I just hope you understand the risks.
+Sakura: Thank you, Corrin. I do.
+Corrin: Will you be joining us as well, Silas?
+Silas: Yes, I will join you. Although, I must say that I didn't expect to be pressed into service THIS quickly...
+Saizo: You can't be serious, Corrin. You'd really allow this backstabbing Nohrian scum to accompany us.
+Kaze: This is not your call, Saizo. And besides, if we abandon him here, he dies. That is not the Hoshidan way.
+Saizo: Is the Hoshidan way to allow a potential spy access to our party? I will follow Corrin's lead...for now. But I will keep my eyes wide open.
+Orochi: Saizo!
+Kaze: Brother, Corrin spared my life when I was a prisoner in Nohr. I assure you that we can trust his/her judgement.
+Saizo: Oh, please. A five-year-old wouldn't be fooled by such an obvious setup.
+Corrin: I appreciate your skepticism, Saizo. I hope you'll give me a chance to prove you wrong.
+Saizo: Words mean little. Actions are what count. We'll see what happens.
+Azura: Corrin, we really must press on. Every second counts!
+Corrin: Right, let's get moving.

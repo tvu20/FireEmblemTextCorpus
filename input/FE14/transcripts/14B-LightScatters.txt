@@ -1,0 +1,130 @@
+@Intro 
+Ryoma: Welcome to the Cheve Underground. This is where the resistance meets. We should be safe here for the time being.
+Corrin: Thank you, Ryoma. I think I speak for everyone when I say this... We're so glad to have you back in command.
+Sakura: We all missed you so much!
+Takumi: I knew you'd be fine. But I'm still glad to have you back.
+Hinoka: Now that we're all reunited, nothing can stop us!
+Ryoma: Thank you, everyone. It's great to see you all again. And I must apologize for making you all worry so much. To think of all you've overcome to track me down... I've never been prouder to be your older brother.
+Corrin: So, what's next? Now that we're all back together, it seems like anything is possible.
+Scarlet: I like the sound of that. So you all must be Ryoma's siblings, right?
+Ryoma: Ah, yes. It seems introductions are in order.
+
+Ryoma: These are my younger brothers, Corrin and Takumi. And my sisters, Hinoka, Azura, and Sakura.
+
+Ryoma: This is my younger brother, Takumi. And my sisters, Hinoka, Azura, Corrin, and Sakura.
+Ryoma: Everyone, this is Scarlet.
+Scarlet: Wait...those names are awfully familiar. Are you named after the Hoshidan royal family?
+Ryoma: Er. You could say that. We ARE the Hoshidan royal family.
+Scarlet: Urk! Please forgive me, Your Highness! I had no idea you were THE Ryoma!
+Ryoma: Please, Scarlet. You may simply call me Lord Ryoma. I apologize for not revealing my true identity earlier, but it was necessary. I wanted to get a true feel for your group without my royalty muddying the waters.
+Scarlet: You needn't have worried. We have a common enemy. And many of us have strong ties to Hoshido. My own grandfather was one of the king's servants many years ago.
+Ryoma: Is that so?
+Scarlet: Yes! I've always wanted to be a knight because of him. I fact, if it wouldn't be out of place...I'd really like to join your party. You've seen what I can do in battle. What do you say?
+Ryoma: I say we'd be lucky to have you. Welcome aboard.
+Scarlet: Yes! Thank you so much, Lord Ryoma.
+Corrin: Ryoma, can you tell us more about the resistance?
+Ryoma: Yes. The group here in Cheve is one of the most well organized. In the early stages of battle, I learned of this group and decided to investigate. I made my way to this region and joined the resistance under false pretenses. Of course, you must realize that there are underground anti-Hoshido groups as well. That's why it's important for us to have a presence in regions controlled by Nohr. In case the conflict spreads.
+Scarlet: I can't believe I didn't recognize him. Oh well. I'm just glad we're on the same side. All of us in the Cheve resistance simply wish to be free of Nohr's oppressive rule.
+Corrin: Yes. It's important to remember that we're not just fighting for Hoshido. Garon's mania for conquest must not be allowed to claim one nation more!
+
+Corrin: What was that? I thought this was a safe house.
+Scarlet: It is! Nobody outside the resistance knows about this place. Let's see what's going on.
+
+Scarlet: What's going on? What was that blast?
+Resistance: Milady, we're surrounded by Nohrian troops. Our men have engaged the enemy, but we're severely outnumbered.
+Scarlet: No! How did they know that we were here?
+Azura: We may still have a traitor among us...
+Corrin: What are you suggesting? You saw what happened to Zola.
+Azura: I don't know, Corrin. How else could this have happened?
+Corrin: I refuse to believe...
+Ryoma: No matter. We must evacuate immediately. There's a secret path nearby. Come, everyone!
+Scarlet: But what then? That path leads right to Nohr's doorstep.
+Ryoma: Indeed. And that is exactly where I intend to go.
+Scarlet: Are you serious? We're not ready for that kind of mission.
+Ryoma: Running from the enemy won't bring this war to an end. We need to confront King Garon directly. And I believe that a swift counterattack would be the last thing he expects now. What do you think, Corrin?
+Corrin: I think you're right. Moving forward quickly with a small force could actually work.
+Scarlet: I don't know...
+Corrin: Scarlet, if you're not on board with this plan, please don't feel obligated to join. I understand it must be hard to leave your troops here to fend for themselves.
+Scarlet: No...I'll go with you. The resistance here is strong. We may be outnumbered, but we'll win the day. I can see the conviction in your eyes. Let's do this!
+Ryoma: Excellent. Now that we're in agreement, we should get moving. The sooner we make our move, the greater our advantage!
+
+Corrin: So this path leads all the way to Nohr? Are you sure we'll be safe?
+Scarlet: We should be. Then again, I thought that our safe house was actually SAFE. We built the path for this exact purpose, but I had no idea we'd use it this soon...
+Corrin: I'm sorry, Scarlet. Our arrival has certainly set things in motion.
+Scarlet: It's all right. Maybe it's just the spark we needed to finally make a move. So please, wipe that sad look of your face. We're going to kick some butt!
+
+Corrin: Whoa! Thanks, I guess I needed that. If we're going to invade Nohr all by ourselves, I'd better be confident.
+
+Ryoma: We're close, everyone. Time to get serious.
+
+Corrin: Well, that's a formidable wall. And there's no shortage of troops... Everyone, please listen up. Once we cross the border, there's no turning back. If anyone wants to retreat, now's your chance. You will not be judged.
+Hinoka: I'll follow you to the end of the world, Corrin. You have my support.
+Takumi: And leave you here to take on these jerks all by yourself? Forget about it. I'll bend my bow to your will, Corrin!
+Sakura: I wouldn't think of staying behind after all you've done for us.
+Ryoma: I'm pleased to see you taking on the role of a leader, Corrin. You're becoming worthy of the sword that has chosen you. Naturally, I will not be turning back.
+Azura: You know this already, but you have my support as well, Corrin.
+Corrin: Thank you, everyone. Your support means the world to me. Now, let's head into Nohr and show King Garon we mean business!
+
+@Boss 
+Benny: Nothing personal. I'll make it quick...
+
+Benny: I did my best. That's all I can say...
+
+Charlotte: Ugh, I have better things to do. Why'd you have to invade today?
+
+Charlotte: You're such a pain...
+
+Daniela: How sad for you to make it all the way here only to be butchered by me!
+
+@End 
+Corrin: We made it! Did that really just happen?
+Ryoma: Yes, Corrin. We won this battle. But remember, we're in Nohrian territory now. We've got a long way to go.
+Corrin: Can't I just be happy for a minute?
+Ryoma: Of course. But time is of the essence. Garon will hear about this soon. It won't be long before more Nohrian troops are on our trail.
+Takumi: He's right. We've got to find someplace to rest. It'll be dark soon. There's cover in the forest nearby. What do you think, Ryoma?
+Ryoma: I think that's a good idea. Let's move toward the forest. I've been studying maps of the area in preparation for this scenario. Follow me!
+
+Corrin: Ugh...I can't get any sleep. If only I could shut off my brain for a few hours... What's that?
+
+Azura: Ugh...
+Corrin: Ah, it's Azura. I wonder what she's doing up at this hour. I hope everything's OK. It almost seemed like she was going to faint back in Nestra. Well, there's only one way to find out.
+
+Corrin: Where'd she go? I can hear her voice... It sounds like she's singing that song again.
+
+Azura: You are the ocean's gray waves... ♪
+Corrin: Ah, there she is. It seems a bit cold for a swim...
+
+Azura: Oh, Corrin!
+Corrin: Azura...what are you doing out here? Couldn't sleep?
+Azura: Were you following me?
+Corrin: I suppose I was. I just heard your voice, and I wanted to ask you something.
+Azura: Yes? What is it?
+Corrin: Well, it's about the song you were singing just now.
+Azura: I see.
+Corrin: What can you tell me about it? It seems to have a different effect on everyone. For example, when you sang to Takumi, it seemed to break the spell he was under. But when you sang to the Nohrian soldiers, it was almost like they were in a trance. And Izana knew some of the words—even though he'd never heard it sung before! How is that possible?
+Azura: I'm sorry, but I'd rather not talk about it.
+Corrin: Really? Azura, it's me. You can tell me anything.
+Azura: You should try and get some sleep. We're going to be up early tomorrow.
+Corrin: Please don't change the subject. You won't talk about the song, and I feel as though I hardly know anything about you. Doesn't that make you lonely? You know that we're all friends—we're here for you!
+Azura: Corrin...it's not that simple... Ugh...
+Corrin: Azura! What's wrong? How can I help?
+Azura: Agghhh...
+Corrin: No! Azura!
+
+Azura: Don't look...at me...please.
+Corrin: What's happening to you?
+Azura: *huff *huff* *huff* Phew... I'm OK now. I'm sorry to have worried you.
+Corrin: Please, don't apologize. I'll go get someone. Can Sakura help?
+Azura: I'm afraid not. What you've seen is the result of a curse. Like you, I carry special blood in my veins. But this comes at a price... I can sing for fun, or even to help someone in battle, and I'll be OK. But when I sing THAT song, in combination with my pendant... I'm able to generate a special kind of power.
+Corrin: The power to exorcise demons?
+Azura: Something like that. But in exchange, every time I use the power, I suffer. It doesn't always happen right away. But it always happens.
+Corrin: Why didn't you tell us before? You've been suffering needlessly this whole time!
+Azura: No. The suffering is temporary, and I always recover.
+Corrin: But...
+Azura: But nothing. Each time I have sung that song, it was required. And it will be required again in the near future. We will eventually need the song's power to defeat King Garon.
+Corrin: I see.
+Azura: Please don't worry. Although it is excruciating, the pain always subsides. If my song can help us end the war, I'll sing it as many times as necessary.
+Corrin: OK. But you must promise that you won't ever put yourself in danger. I don't know how you can willingly inflict such suffering upon yourself...
+Azura: I promise. If only everyone were as kindhearted as you, we'd have no war at all, Corrin.
+Corrin: Thank you, Azura.
+Azura: I'm sorry for no telling you about this before, but... I didn't want you to worry. Remember, you mustn't hesitate to have me use the song if it becomes necessary.

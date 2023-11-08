@@ -1,0 +1,104 @@
+@Intro 
+Corrin: Whew...this passage just keeps on going, doesn't it? I'm beginning to worry that we made a wrong turn somewhere...
+Azura: Believe it or not, I actually remember this part of the tunnel. So I think we're getting close.
+Corrin: That's reassuring. Thank you, Azura. Although...this looks an awful lot like a dead end.
+Azura: No, look. There are stairs on one side. You just can't see them from this angle. The exit must be at the top.
+Corrin: So. The heart of Nohrian power is just above us. Perhaps a few of us should take a quick look. It might be reckless for all of us to burst into the palace at once...
+Azura: Good idea. We're with you, Corrin.
+Corrin: Here goes nothing...
+
+Nohrian: Hyaaah!
+Nohrian: Yah! Hyah!
+Corrin: This isn't the throne room... Where are we?
+Ryoma: It looks like a training facility. These soldiers are being put through their paces.
+Corrin: Well, at least we're in the castle.
+Ryoma: Yes. But of all the places the tunnel could have led... We're surrounded by Nohr's most elite soldiers!
+Corrin: Gods! Maybe they haven't noticed us yet. We should keep quiet...
+Ryoma: Look, someone's coming!
+
+Hans: What are you idiots doing? This is a FULL CONTACT exercise! I want to see real blood! Get after it!
+Nohrian: Yes, sir!
+Corrin: That's Hans! It seems like Garon must have given him a promotion...
+Ryoma: Yes. If I had to guess, he's in charge of this entire group.
+Corrin: I'm not a vengeful person...but he killed Gunter right in front of me. I'd sure like to avenge his death.
+Nohrian: Well, well! What do we have here? Captain Hans! Some intruders are hiding behind the statue!
+Hans: Great! Drag 'em out here—we'll use 'em for target practice. Wait...that's Corrin!
+
+Corrin: Hello, Hans.
+Hans: How the hell did you get in here?
+Corrin: I have nothing to say to a coward like you. I'd rather let Noble Yato do the talking.
+Hans: Bahaha! You'd threaten me in front of my own battalion? Oh, I'm going to enjoy this. Rip 'em apart, soldiers!
+Nohrian: Haaaah!
+
+Corrin: Hah!
+
+Nohrian: Ugh...no...
+Nohrian: Taste my steel!
+Corrin: Hyaaah!
+
+Nohrian: Oof...
+Corrin: Are all your soldiers this poorly trained, Hans? What will Garon think?
+Hans: Damn it... Don't be afraid of this pathetic child, soldiers! She's all talk! Sacrifice yourselves if need be. For King Garon's glory!
+Nohrian: But, Captain...
+Hans: What was that? Please, speak up, and I'll relay your comments to King Garon! I'm sure he'll be sympathetic to you and your family. Now SHUT UP and KILL THE INTRUDERS!
+Nohrian: Urk!
+
+Corrin: *huff* *huff*
+Hans: Bwahaha! There's the pathetic crying baby I remember. Don't let up, soldiers! We've got him/her right where we want him/her.
+Corrin: I'll show you who's pathetic.
+Hans: Ooh, look who learned to talk like a real soldier! Well, you're not the only one who's gotten stronger. I'm King Garon's newest captain. Let me show you how I got my promotion. HAAAH!
+
+Corrin: OH—
+Ryoma: Corrin, look out!
+
+Corrin: Lilith! NO! Lilith! NO! Talk to me, Lilith! ARGHHH!
+Hans: Stupid bird! I'd have had her... Never mind. I won't miss again. I'll have your head off with the next swing—count on it!
+Corrin: You'll pay for this, Hans... I'll kill you with my own two hands!
+
+@Boss 
+Hans: Let me relieve you of your head! Bwahaha!
+
+Hans: You...you killed me! How can this be? URGHH...
+
+%Corrin,Hans 
+Hans: Ah, I finally get a chance to finish the job. My axe is waiting...
+Corrin: I'm going to burn you to the ground, Hans. When I'm through with you, your axe will be the only reminder you ever lived.
+
+@End 
+Ryoma: Stand down, Nohrians! Your captain has been defeated! Drop your weapons, and your lives will be spared.
+Nohrian: They killed Captain Hans... What do we do?
+Nohrian: I...I don't know. I think we surrender.
+Takumi: It looks like they're giving up.
+Ryoma: Good. Then we're done here.
+Hinoka: Guys, we've got a problem. Lilith took quite a shot...
+Ryoma: Gods, no...
+
+Corrin: Lilith...please open your eyes. Hans is dead. We finally got him. Please... You have to be OK!
+Sakura: She's too far gone for my rod to work. I don't think I can save her, Corrin...
+Corrin: What?! No!
+Elise: My staff isn't helping either. What do we do?
+Corrin: This can't be happening...
+
+Corrin: Lilith! You're...you're human again!
+Lilith: *cough* *cough* Only for a moment, it seems... The Astral Dragon Moro has taken pity on me. It's giving me the strength to return to this form for my last few breaths...
+Corrin: Please don't say that! You're not going to die. You can't! Please! Stay with us!
+Lilith: I'm sorry, milord/milady, but I'm not long for this world. Please don't cry. I decided to give my life for you, and I'm happy I succeeded. After all, you already saved my life once. This just makes us even. I die with no regrets.
+Corrin: But...we could end the war today! You could live in a peaceful world... Don't give up!
+Lilith: It's OK, Lord/Lady Corrin. I know how far we've come. And I know you will succeed. I can die happy, remembering our time together and the progress we've made. Lord/Lady Corrin...be brave and go on without me. 
+
+Corrin: Lilith...no. No... WAAAAAH!
+Elise: Lilith... This can't be happening...
+Sakura: I'm so sorry...I couldn't s-save you...
+
+Corrin: What are we even fighting for? Is it worth it?
+Ryoma: Look up, Corrin.
+Corrin: Ryoma?
+Ryoma: Dry your tears. Think about Lilith's sacrifice. She gave her life so you could continue fighting. And what are we fighting for? We are fighting for peace! We are fighting for Queen Mikoto and for the whole world! Do you think Lilith would want you to give up like this?
+Corrin: Ughhh...
+Ryoma: Listen. It is time for you to rise to the occasion. If we want to end this war, now is the time for us to take action!
+Corrin: I'm just so tired. Tired of loss. Tired of death.
+Ryoma: There will be a time for rest. But that time is not now. Rise up! The sacred blade Yato chose YOU, Corrin. We're all counting on you!
+Corrin: ... You're right. I know you're right. I will not stop until King Garon's reign of terror is over. Let's go, everyone.
+Ryoma: That's the spirit.
+Elise: Father's room is this way, Corrin. Please promise you'll try talking first.
+Corrin: I will. ... Thank you, Lilith. And good-bye for now.

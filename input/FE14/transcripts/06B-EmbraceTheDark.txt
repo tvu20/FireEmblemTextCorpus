@@ -1,0 +1,102 @@
+@Intro 
+Corrin: ...I know what I must do. Ryoma! Withdraw your troops.
+Ryoma: You don't mean that, Corrin. You cannot possibly!
+Corrin: I'm sorry, Ryoma, but I will not fight for Hoshido.
+Ryoma: How can you say that?! Open your eyes! Can you not see how vile those Nohrians are? They're hateful fiends who wish to trample Hoshido! They killed our mother!
+Corrin: It's not that simple... I know what the Nohrian kingdom has done to Hoshido is unforgivable... And I know now that these are not my brothers and sisters by birth... Yet even still, I must side with them. My heart won’t allow me to do otherwise.
+Ryoma: How can you fight alongside those monsters after what they did?! Now that you know of their sins, how can you possibly justify joining them? You are a prince/princess of Hoshido! You are my brother/sister! They are to blame for you not growing up with us as you were meant to. Do you truly mean to fight for those who stole you away?
+Corrin: Ryoma... My sorrow is beyond words. Still, I simply will not abandon the only family I have ever known.
+Ryoma: ...
+Xander: You did the right thing, Corrin. As you now know, you do not share the same bloodline as the rest of us. But it matters not. I have regarded you as family since I first laid eyes on you. I cannot express what it means to me that you've chosen to return to us. Father will be pleased with your decision as well.
+Ryoma: Are you certain of that, Prince Xander? Surely you must know of King Garon's attempt to murder Corrin!
+Xander: Explain yourself. Swiftly.
+Ryoma: There was an attack in our capital's square. The explosion came from Corrin's sword. If my mother hadn't sacrificed herself, he/she would be dead now. If King Garon truly cares, why did he risk Corrin's life just to hurt Hoshido?
+Xander: Is this true, Corrin?
+Corrin: ...It is. But I still need to hear Father's side of the story. That's why I must return home right away. I must know the truth of this tragedy.
+Ryoma: I'm afraid that is not an option.
+Corrin: Arrrgh!
+Ryoma: Everyone! Attack Corrin! I will not allow you to return to Nohr until we've settled this on the battlefield.
+Corrin: Ryoma! Please don't do this!
+Ryoma: If you are looking for forgiveness, you'll find none here. So you wish to side with Nohr? Then you must first defeat your true brother. It is your birthright to fight on my side. I cannot forgive the choice you've made. How dare you use the sacred Yato blade against your own kingdom! Perhaps it is a blessing Mother isn't here to witness your betrayal.
+Xander: Stand down, prince of Hoshido. I will not allow you to cause any further harm to Corrin.
+Ryoma: Order me around once more, and Nohr will lose two princes/a prince as well as a princess today. I will do what I must to awaken my brother/sister from the spell that binds him/her. You vile Nohrians have brainwashed him/her, and I will not rest until he/she is free!
+Xander: More false accusations. You know very well he/she chose this of his/her own free will. No matter the blood that courses through his/her veins, we are his/her true family. That will never change.
+Ryoma: I will not stand here and listen to your lies! Your heart knows only deceit and betrayal. Nohrians are notorious for their cruel and cowardly methods. This is no different. But enough of your foolish words. We must resolve this with blades.
+Xander: So be it. I always knew it would come to this. The crown prince of Nohr clashing blades with Hoshido’s heir. It’s almost poetic.
+Corrin: Please, stop this madness! Both of you! Xander, I beg of you. Let it go for now. We must return to Nohr right away. There has been enough senseless death on this day...
+Leo: I'm afraid retreat is not an option.
+Corrin: Leo? Why would you say that?
+Leo: If we retreat, they'll think we fear them. Or worse, that we coerced you into joining us. This is our chance to prove beyond a doubt that you chose us of your own volition. We have no choice but to stand our ground and fight!
+Camilla: I agree with Leo. After all, we've done nothing wrong. Why should we flee? You're one of us, Corrin. that's worth fighting for!
+Elise: Don't worry, Corrin! Everything's OK now that we're together again! If we all try our hardest, there's no way we can lose!
+Corrin: Is that really what you want? Leo, Camilla, even Elise...
+Ryoma: If you mean to fight, then FIGHT! Nohrian pawns. Soon you shall be a mere stain on my sacred blade, Raijinto. Hinoka! Takumi! Sakura! Are you ready?
+Hinoka: Ready and waiting! Like I'd ever let them take Corrin away from us again.
+Takumi: Show no mercy. Now is our chance to avenge Mother's death!
+Sakura: I'll help too. I'll do my b-best! Please, Corrin, come back to us...
+Xander: Fools, all of you. You have my pity. Sadly for you, my sacred blade, Siegfried, knows nothing of pity—only triumph. Camilla! Leo! Elise! prepare for battle!
+Camilla: I swear to protect our dear Corrin no matter what!
+Leo: Failure is no option. Let's show those scoundrels what it means to be a family!
+Elise: I'm ready too! Let's finish this quickly, though. I'm starving!
+Ryoma: This is it... ATTACK!
+Xander: It begins!
+
+@Boss 
+Sakura: I don't care what happens to me, but I w-won't let you hurt the people I love!
+
+Sakura: I don't...understand...
+
+Hinoka: I won't rest until Corrin returns home. I've been training for this day!
+
+Hinoka: How could this happen?! What have I been fighting for all this time...?
+
+Takumi: Prepare to pay for what you monsters have done. This is for Mother!
+
+Takumi: Gah! You may not have honor, but you certainly have skill. This isn't over...
+
+Ryoma: I will not allow a filthy Nohrian to sully my honor!
+
+Ryoma: Damn! I'll have to withdraw for now... This isn't over, Corrin!
+
+Yukimura: This battle is truly lamentable. It would have broken Lady Mikoto's heart to watch these events unfold...
+
+Yukimura: I must withdraw... Forgive me, Lady Mikoto...
+
+%Corrin,Sakura 
+Sakura: Corrin! Are you r-really gonna fight me right now? What did I ever do to you? All I wanted was to l-love you!
+Corrin: Sakura, I'm so sorry for all this. You didn't do anything wrong, I promise. It's difficult to explain, but I just need you to...um, take a little nap right now.
+Sakura: Brother/Sister, no...
+
+%Corrin,Hinoka 
+Hinoka: What exactly do you think you're doing, Corrin?! Betraying us for Nohr... It just can't be true! They must have tricked you somehow, right?
+Corrin: I'm sorry, Hinoka. I just... I can't abandon the ones I loved all these years. It's as simple as that.
+Hinoka: Corrin... Say it isn't so...
+
+%Corrin,Takumi 
+Takumi: Hmph. I knew it would come to this. From the moment we met, I knew you couldn't be trusted. And I was right.
+Corrin: Takumi... Please, let me explain.
+Takumi: I have no time for your empty words. Ryoma and the others were fools. I knew trusting a Nohrian would only lead to death and heartbreak. But I am not Ryoma, nor my siblings. I won't make that same mistake. I shall take great joy in slaying you here and now like the traitor you are!
+
+%Corrin,Ryoma 
+Ryoma: Corrin! Do not allow them to fool you a moment longer. There's still time... Come back to your true family, where you belong!
+Corrin: I'm sorry, Ryoma. I'm afraid that's not possible. I've made up my mind. I'm staying with Xander and my Nohrian siblings.
+Ryoma: Very well. Although it pains me, I see you cannot be dissuaded. In that case, I have no choice but to drag you back to Hoshido by force!
+Corrin: Ryoma! Don't do this!!
+
+%Corrin,Yukimura 
+Yukimura: So, here we are. You have come back to us, but with a blade in hand. I suppose it's safe to surmise you have no intention of returning to Hoshido?
+Corrin: You are correct. Nohr is my home. It's where I belong.
+Yukimura: How very upsetting. If Lady Mikoto were here to see this, it would break her heart. Then again, she may just have smiled and said, "It's his/her path to choose."
+Corrin: Yukimura...
+Yukimura: But such talk is pointless, for our dear queen has left this realm. As for myself, I am above all a tactician for the honorable Hoshidan army. As such, I am obligated to prevent you from returning to Nohr!
+
+@End 
+Corrin: Ryoma… Everyone… Please find it in your hearts to forgive me. I know that a prince/princess of Hoshido siding with Nohr seems like the ultimate betrayal. But I swear on my honor…I will end this war, for all of us. For Nohr and Hoshido—for you and me. I promise you that. Until then…farewell.
+Azura: Corrin!
+Corrin: Azura?
+Azura: So...you're really leaving us?
+Corrin: Azura, I...
+Azura: Are you sure about this, Corrin? Once done, it cannot be undone.
+Corrin: Yes, I know. But it's the only way. These people, I've loved them for as long as I can remember. They are my family.
+Azura: I see. If that is the path you have chosen, I will not try to stop you. I am certain we will meet again. But for now... I suppose this is good-bye.
+Corrin: Azura...
