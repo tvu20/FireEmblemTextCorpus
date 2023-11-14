@@ -6,7 +6,7 @@ import sys
 
 # games = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
 
-games = ["FE5"]
+games = ["FE6"]
 
 # games = ["FE3/BookOne", "FE3/BookTwo", "FE12/BookTwo"]
 
