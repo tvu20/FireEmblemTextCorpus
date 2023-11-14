@@ -197,13 +197,13 @@ Man: Y'know how there's a drawbridge over the Thove River? Yeah, that's under th
 Man: What's that? You got the drawbridge lowered? How'd ya know to do that?
 
 @Battle-Talk 
-%Sigurd,Claude
-Sigurd: I'm so sorry I dragged you into this mess as well, Father Claude.
-Claude: It's fine. If anything, I'm sorry that my efforts to aid you simply weren't enough. I did return to Grannvale, and I was about to relate the truth to His Majesty. But Reptor interfered before I could do anything, and now I, too, am branded a traitor to the motherland.
+%Sigurd,Claud
+Sigurd: I'm so sorry I dragged you into this mess as well, Father Claud.
+Claud: It's fine. If anything, I'm sorry that my efforts to aid you simply weren't enough. I did return to Grannvale, and I was about to relate the truth to His Majesty. But Reptor interfered before I could do anything, and now I, too, am branded a traitor to the motherland.
 Sigurd: Ugh. I've had enough of just sitting here and letting Reptor have his sorry way! I swear, I've half a mind to storm straight into Grannvale and end this once and for all!
-Claude: No. You know better than to rely on brute force or risk the common folk's safety. For now, Lord Sigurd, we must endure.
-Sigurd: But, Father Claude-
-Claude: Make no mistake. I feel your pain, too, but this crisis's end now lies in fate's hands. There is nothing any of us can do to save ourselves anymore.
+Claud: No. You know better than to rely on brute force or risk the common folk's safety. For now, Lord Sigurd, we must endure.
+Sigurd: But, Father Claud-
+Claud: Make no mistake. I feel your pain, too, but this crisis's end now lies in fate's hands. There is nothing any of us can do to save ourselves anymore.
 
 %Tailtiu,Azelle
 Tailtiu: Hey, Azelle? Wait up a sec.
@@ -261,7 +261,7 @@ Erinys: Er, no... That isn't-
 Sylvia: Hrmph! Fine then! I'll show you!
 Erinys: .....
 
-%Silvia,Claude
+%Silvia,Claud
 Silvia: Hello there, mister Father!
 Claud: Hm? And who are you?
 Silvia: I'm Silviiiiiiiia!

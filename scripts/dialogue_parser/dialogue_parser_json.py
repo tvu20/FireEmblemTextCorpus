@@ -50,7 +50,9 @@ def update_gender(speaker):
             gender = avatar_tag.split('-')[1]
         file_content["transitions"] += gender
         file_content["gender_counts"][gender] += 1
-    # else:
+    else:
+        file_content["transitions"] += "N"
+        file_content["gender_counts"]["N"] += 1
         # print("missing " + speaker)
 
 # -----------------------

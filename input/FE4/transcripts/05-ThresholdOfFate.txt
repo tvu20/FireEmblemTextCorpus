@@ -242,20 +242,20 @@ Aideen: Brigid...
 Brigid: André's crimes are House Jungby's crimes. They're our crimes, too. They reflect badly on us, even though they really shouldn't. I know I'll have his blood on my hands for the rest of my life, but... Aideen, I want you to understand.
 Aideen: Of course I do, Brigid…
 
-%Claude,Aideen
-Claude: This is the end, Aideen. Our final battle.
+%Claud,Aideen
+Claud: This is the end, Aideen. Our final battle.
 Aideen: Indeed.
-Claude: I have a little gift for you. Here. Use this to aid our young comrades.
+Claud: I have a little gift for you. Here. Use this to aid our young comrades.
 Aideen: This is a Rescue staff, is it not? Thank you, but… why me?
-Claude: Well… I’ve yet to speak a word of this to anyone, but as my wife… You should know. Listen well, Aideen. We cannot prevail. This war today will end with our defeat. Everything we hold dear will be lost.
+Claud: Well… I’ve yet to speak a word of this to anyone, but as my wife… You should know. Listen well, Aideen. We cannot prevail. This war today will end with our defeat. Everything we hold dear will be lost.
 Aideen: ...I beg your pardon?!
-Claude: Such is the decree of the gods that I received at the Tower of Bragi. I, too, struggled to accept it at first. However, this is our fate. It is inevitable. I know I am destined to die in this battle. Thus, I entrust you with this staff.
+Claud: Such is the decree of the gods that I received at the Tower of Bragi. I, too, struggled to accept it at first. However, this is our fate. It is inevitable. I know I am destined to die in this battle. Thus, I entrust you with this staff.
 Aideen: That… You must be lying! I cannot believe any of it! I cannot! Please… Please! Tell me this is just a cruel joke…
-Claude: Aideen, there is no need to grieve. Our deaths are not the end, but rather a new beginning for us all. Life is fated to fade into death, and with it, so too does mortal form die. And yet, never shall life fade into total nothingness. Death is but the herald for the next step to a perfect state of being. It holds no fear for mankind.
+Claud: Aideen, there is no need to grieve. Our deaths are not the end, but rather a new beginning for us all. Life is fated to fade into death, and with it, so too does mortal form die. And yet, never shall life fade into total nothingness. Death is but the herald for the next step to a perfect state of being. It holds no fear for mankind.
 Aideen: But… But, Claude…
-Claude: Even as I greet death, a rebirth awaits… Why, look no further than yourself for proof! Within you grows a new life waiting to be born, and I too am a part of it. This, Aideen, is why you must live on.
-Aideen: Do… Do you realize what you’re saying, Claude?! Asking me to live on while I accept your death… It isn’t fair…
-Claude: Aideen…  I am richly blessed to have known you and been your husband, even so briefly. Please, forgive me…
+Claud: Even as I greet death, a rebirth awaits… Why, look no further than yourself for proof! Within you grows a new life waiting to be born, and I too am a part of it. This, Aideen, is why you must live on.
+Aideen: Do… Do you realize what you’re saying, Claud?! Asking me to live on while I accept your death… It isn’t fair…
+Claud: Aideen…  I am richly blessed to have known you and been your husband, even so briefly. Please, forgive me…
 Aideen: Claude….
 
 %Sigurd,Ayra
@@ -373,15 +373,15 @@ Lewyn: Of course I still love you! That's why we're married, remember?
 Silvia: Oh... 'Course. Whew. Be... Because I love you too, Lewyn... I'll never forget ya... And I don't want ya to forget me...
 Lewyn: Silvia…
 
-%Silvia,Claude
-Silvia: Hey, Claude, you doin’ okay?
-Claude: Yes, I’m fine. But you shouldn’t still be here, Silvia. There’s nothing you can do, and you are only endangering yourself.
+%Silvia,Claud
+Silvia: Hey, Claud, you doin’ okay?
+Claud: Yes, I’m fine. But you shouldn’t still be here, Silvia. There’s nothing you can do, and you are only endangering yourself.
 Silvia: But…
-Claude: Please, Silvia. You cannot stay with me this time.
+Claud: Please, Silvia. You cannot stay with me this time.
 Silvia: But Claude… I love ya…
-Claude: And I, you. That is why I ask…
+Claud: And I, you. That is why I ask…
 Silvia: No! I’m with ya ‘til death parts us!
-Claude: Silvia, please… I can’t allow that… Please understand… 
+Claud: Silvia, please… I can’t allow that… Please understand… 
 
 %Erinys,Noish
 Erinys: Oh, Noish! There you are!
@@ -463,14 +463,14 @@ Tailtiu: But…
 Lex: Look, right from the start, fate seriously screwed us both over. I wish we’d had longer together, but what little time we did have’ll always mean so much to me, right till the end. 
 Tailtiu: Oh, Lex… 
 
-%Tailtiu,Claude
-Tailtiu: Claude, what do you think I should do?
-Claude: Fighting the Freege army is out of the question. I don't believe engaging your own father in battle is at all advisable. Please, go to Silesse. There is still a safe, peaceful life awaiting you there.
-Tailtiu: But what about you, Claude?
-Claude: I have an obligation, Tailtiu. My fate is to stay here and see this war through till its very end.
+%Tailtiu,Claud
+Tailtiu: Claud, what do you think I should do?
+Claud: Fighting the Freege army is out of the question. I don't believe engaging your own father in battle is at all advisable. Please, go to Silesse. There is still a safe, peaceful life awaiting you there.
+Tailtiu: But what about you, Claud?
+Claud: I have an obligation, Tailtiu. My fate is to stay here and see this war through till its very end.
 Tailtiu: How can you be so cruel? Wh... What about our children?!
-Claude: I understand how difficult this fate will be for you, but please... Please understand.
-Tailtiu: Claude!!
+Claud: I understand how difficult this fate will be for you, but please... Please understand.
+Tailtiu: Claud!!
 
 %Alec,Noish
 Alec: Well, Noish, I suppose this is it.
@@ -558,7 +558,7 @@ Reptor: Such a pity your hard work is all for naught! Byron died a sad, pitiful 
 %Tailtiu,Reptor
 Reptor: T-Tailtiu... I can hardly believe it... No matter how traitorous you became... Not once did I expect to face you like this.
 Tailtiu: Father... I'm sorry...
-Reptor: Curse that Claude! How dare he fill my daughter's head with lies... No, it's too late. I have no choice... I must protect the honor of House Freege. Tailtiu, for your treachery, you must die.
+Reptor: Curse that Claud! How dare he fill my daughter's head with lies... No, it's too late. I have no choice... I must protect the honor of House Freege. Tailtiu, for your treachery, you must die.
 Tailtiu: Oh! Father…
 
 %Aida,Reptor

@@ -5,7 +5,11 @@ import glob
 
 # games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE4", "FE5", "FE6", "FE7"]
 
-games = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
+# games = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
+
+games = ["FE4"]
+
+# games = ["FE3/BookOne", "FE3/BookTwo", "FE12/BookTwo"]
 
 # games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE11", "FE12/BookTwo", "FE15"]
 

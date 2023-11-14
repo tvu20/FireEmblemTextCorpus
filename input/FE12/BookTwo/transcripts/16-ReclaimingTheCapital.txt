@@ -6,14 +6,11 @@ Jagen: Kris, we've returned at long last. We're back where it all began...
 Kris: Yeah. It's a curious feeling. It feels like yesterday that I first stepped foot here and yet it seems so far away...
 Jagen: Yes, I remember. When you first arrived here for training, you had no experience of battle. And now...
 ^start 
-Jagen:
-You've grown into one of the continent's finest young soldiers. Kris, with you here, I have no doubt that we can reclaim our homeland. We're all counting on you.
+Jagen: You've grown into one of the continent's finest young soldiers. Kris, with you here, I have no doubt that we can reclaim our homeland. We're all counting on you.
 
-Jagen:
-You have gained much experience as a knight of Altea. Kris, your efforts will decide whether or not we will succeed in reclaiming Altea. We're counting on you.
+Jagen: You have gained much experience as a knight of Altea. Kris, your efforts will decide whether or not we will succeed in reclaiming Altea. We're counting on you.
 
-Jagen:
-Hmm... You haven't really changed very much from how you were back then. Kris, you must work harder on the battlefield from now on. I'm counting on you.
+Jagen: Hmm... You haven't really changed very much from how you were back then. Kris, you must work harder on the battlefield from now on. I'm counting on you.
 ^end
 
 @Battle 
@@ -34,8 +31,7 @@ Macellan: Correct. Dolph and I are going to be your reinforcements. Archanea has
 Soldier: Lord Willow, permission to open the door and attack?
 Willow: Wait. Don't be so hasty. Inform me as soon as any of the chests in the treasury are opened. We will sortie the moment that happens. Both the thieves and the Alteans will want their greasy hands on the loot. While they're busy trying to unload the chests, we will take that chance and attack. Heh heh... This is a battle of intellect, not brawn. Don't forget! Attack when the chests are sprung!
 
-Willow:
-What's that? The chests have been sprung? Now! Open the door! Heh heh heh! Their panicked faces will be glorious!
+Willow: What's that? The chests have been sprung? Now! Open the door! Heh heh heh! Their panicked faces will be glorious!
 
 @Recruit-Battle 
 Astram: You foul traitors! Taste the might of my Mercurius!
