@@ -1,0 +1,409 @@
+@Opening 
+The Kingdom army has captured Fort Merceus. Managing troops from the now-stable western Kingdom and former Alliance territory, the Kingdom army returns to Garreg Mach to regroup and reorganize its forces. With sufficient might to challenge the Empire, the Kingdom army finalizes their plans to march on Enbarr, the Imperial Capital.
+
+@Dialogue 
+Gilbert: Ah, there you are. His Highness was looking for you.
+Byleth: Where is he?
+Gilbert: He's gone ahead, and started interrogating the prisoner–Viscount Kleiman's man. He said he'd like for you and I to be present as well. Will you come with me?
+
+
+
+Dimitri: I cannot overlook your reckless remarks. Are you really so keen to lose your head?
+Prisoner: I only did what I believed was right. I swear to the goddess that I'm not lying. Amidst the turmoil of the tragedy, Lady Patricia was supposed to be the only one who was unharmed. We had been given orders ahead of time to not approach her carriage...
+Byleth: Was Patricia an accomplice?
+Dimitri: Of course not. What would my stepmother have had to gain from such a...
+Gilbert: Perhaps Lady Patricia would have done anything to return to the Empire...to her husband and daughter.
+Dimitri: What exactly are you implying?
+Gilbert: For the past few months, I've been spying on lords who defected to the Empire in order to investigate rumors about Lady Patricia. Cornelia's words were true. The two of them... I am afraid they conspired together, after all.
+Dimitri: Enough of this nonsense. You say she wished to return home? That isn't nearly enough reason to cause such a tragedy.
+Gilbert:  I do not intend to imply that the two of them were solely responsible for the whole affair. There were likely nobles who opposed the king, or potentially someone who wanted to throw the Kingdom into chaos. The Empire, and people like Solon and Kronya, had their motives, too.
+Dimitri: So my stepmother joined with them to cause the tragedy... Is that what you believe?
+Gilbert: Ultimately, this is just conjecture based on the evidence at hand. I have no idea what their true intentions were.
+Dimitri: I see. We will hear what this man has to say. For now...
+Prisoner: My lord had long felt that King Lambert's radical ways were dangerous. At the time, he was approached with an offer to take part in the incident at Duscur... My lord loves his homeland. To me, he embodied justice. We were only doing what we thought was right.
+Dimitri: And so, in the name of justice, he caused massacre upon massacre out of love for his homeland. You murdered your own king, killed our soldiers, and involved innocent citizens. And yet you have the gall to speak of justice?
+Prisoner: I am only standing before you now because I could no longer bear the weight of my sins.
+Byleth: Did you share those feelings about your homeland?
+Prisoner: Yes... I believe I do.
+Byleth: Do you regret your actions?
+Prisoner: No. I accept your hatred, and even the punishment of death, but I still believe it was a massacre in the name of justice.
+Dimitri: Gilbert. Lock this man in his cell.
+Gilbert: Are you not...going to kill him?
+Dimitri: I will make that decision once I have had time to consider this man's definition of justice.
+Gilbert: Yes, Your Highness.
+
+
+Dimitri: ...
+Byleth: Are you OK?
+Dimitri: No... I cannot say that I am. Tell me, Professor... How well do you remember your father, Jeralt?
+Byleth: Not very well.
+Dimitri: I figured as much. Even the memory of those who pass away is taken from those they left behind. Little by little. Year by year.
+Byleth: Very well.
+Dimitri: Soon enough you will come to understand how painful it is to forget the faces of those who have passed on.
+Dimitri: To be honest, I cannot really remember my stepmother's...that woman's smile. Nor the sound of her voice. I always told myself that I would not allow my mind to forget. And yet...all I can recall with clarity is her gazing away, so forlorn. Did my stepmother wish to go home so badly that she would kill Father and me...kill her false family? Home...to her own blood. Her true family.
+Byleth: There's no way to know for sure.
+Byleth: I don't have those answers.
+Dimitri: I suppose it doesn't make any difference now. I am asking you questions you could not possibly know the answer to. I am finished with thoughts like that. I am finally able to go on living without clinging to hate. If I truly treasure those who have died, then I must earnestly atone for my sins. Father, Glenn, all of the soldiers who have fallen... The people of Duscur who still suffer persecution... The only atonement I can offer them now is to take responsibility for this broken Kingdom that has been entrusted to me.
+Byleth: That's true.
+Byleth: Take responsibility for the Kingdom...
+Dimitri: That is why I feel that I must meet with Edelgard and try to talk to her. Do you think it's a fool's errand? Honestly... I think so too. But I must swallow my feelings and grudges–our whole history, really–and ask her about this future that she sees. What she aims for once her domination is complete. What kind of justice she clings to as she fights. And why she felt it necessary to start this war... I believe that asking her these things is the true responsibility I have been tasked with as king.
+Byleth: How will you accomplish this?
+Dimitri: We will march our troops to the Imperial capital. But before any battle begins, we will set up camp nearby and send a messenger. I will tell her that I need to speak with her in a safe place, without any weapons or troops. As to whether or not she will agree to my request... Well, that rests solely on Edelgard.
+Byleth: I'm certain she'll agree.
+Dimitri: I would like to believe that as well. You know, Professor... When we fought in Fhirdiad, Cornelia mocked me and called me pitiful. But even if it is true that my stepmother never loved me, I am not to be pitied. After all, I have allies and dear friends who care for me. And now, I also have you by my side.
+
+@Conversation 
+Dimitri: Our next battlefield will be the Imperial capital. There will be no turning back. If you have any unfinished business here, you had best settle it before we depart.
+Byleth: There's not enough time.
+Dimitri: I apologize, but you'll have to make do with the time you have. We cannot afford a delay.
+Byleth: Leave it to me.
+Dimitri: I knew I could count on you. Good luck.
+
+
+
+Dedue: I believe in you, but please ensure that his Highness survives as well. Fódlan's future would be in peril if we lost him. I would not be able to go on.
+Byleth: Leave it to me. 
+Dedue: Thank you,
+Byleth: I understand.
+Dedue: Good.
+
+
+
+Felix: He intends to speak to the emperor? She's his stepsister, I know, but this seems risky.
+Byleth: It's important.
+Felix: Pah! I know that!
+Byleth: You're against it? 
+Felix: No, I'm not. I'm sure he's thought it through.
+Felix: If the two can settle this diplomatically, that would be the best way out of this mess. No more bloodshed. Let's just hope he doesn't become so overwhelmed with emotion that he's unable to strike her down... should the need arise.
+
+
+
+Ashe: Returning to the monastery brings back so many memories from five years ago. Hard to believe we only spent a year together here. So much happened that it felt a lot longer than that. But it was so exciting. And so much fun. Honestly, I think those memories are what's kept me fighting this long. What was that year like for you, Professor?
+Byleth: It was a lot of fun. 
+Ashe: I don't think I could ask for a better answer.
+Byleth: It was challenging.
+Ashe: Ah...yeah, there were a lot of hard times too.
+Ashe: Let's all do our best to survive this, so we can come back here when it's all over. I know that's what I'll be doing.
+
+
+
+Sylvain: I've been thinking about how we've got our own ideas about justice...and so does the Empire. And what's coming, it's not just a battle between us and them. It's our ideals that are fighting. Whoever wins will say they were right and the other side was wrong. And I get it. That's how it goes... But nobody's willing to talk or compromise, so we'll fight to the death to prove the other guy's wrong. It won't be an easy battle, but let's make sure we come back alive. Right, Professor?
+
+
+
+Mercedes: We'll be heading for the capital soon. So much rests on this moment. Will the war really be over if we take the capital?
+Byleth: It might not end right away.
+Mercedes: You're probably right...but we'll get there eventually.
+Byleth: Definitely.
+Mercedes: Yay! I'm sure it won't end right away, but that's still great news!
+Mercedes: I truly believe that a peaceful future is waiting at the end of all this.
+
+
+
+Annette: I hope this is the final battle. Don't you, Professor? When the war is over, everyone will be busy with their own lives... But let's all meet up again someday. Right here at Garreg Mach. You, His Highness, my father, our monastery friends, the knights...everyone!
+Byleth: That's a great idea. 
+Annette: It was just a silly whim I had, but I really love it!
+Byleth: I wonder if that's possible...
+Annette: All that matters is whether we choose to make it happen. I really hope that we do!
+Annette: Ooh, and I'll bake a bunch of desserts for it! Reunion sweets! All we have to do now is win! Let's get to it, Professor!
+
+
+
+Ingrid: I'm so glad you were assigned to the Blue Lion House, Professor. We made it this far thanks to your guidance and leadership. There's a bitter fight ahead - that much is certain. You have my lance.
+Byleth: We're counting on you. 
+Byleth: We will prevail!
+Ingrid: Yes. Let's do this together!
+
+
+
+Ferdinand: Professor. At last, the end is nigh. I love the Empire. Part of me wants it to survive. But I know that is not reasonable. The Empire's time has come. The Kingdom is battle-scarred, the Alliance is in tatters... People must be terrified. The world is crumbling around them. What we need now is a mighty leader who can rebuild Fódlan and rule it as a single nation. Nonetheless, it saddens me that we will not have an Adrestian emperor...
+
+
+
+Linhardt: When you think of it, as one approaches the end of a war, the sacrifices only grow larger, don't they? The winning side musters their forces and attempts to strike a decisive blow... While those of the losing side make desperate attempts to turn the war in their favor. Neither side will give. I only wish we'd consider those who lose their lives in that struggle.
+Byleth: We're far from being safe ourselves. 
+Linhardt: Yes, exactly my point. Let's be careful to ensure we don't lose our lives, Professor.
+Byleth: It's a necessary sacrifice.
+Linhardt: Perhaps, but that doesn't make it any easier to accept your own survival depends on a throw of the dice.
+Byleth: It's better than dragging the war out.
+Linhardt: I can appreciate that, but just because a choice is better does not mean that it's good.
+
+
+
+Caspar: It's such a relief that we've made it this far without having to fight my father.
+Byleth: You'll have to face him at some point.
+Caspar: Are you trying to scare me? What if he turns up while we're charging the capital?!
+Byleth: It sounds like you're scared. 
+Caspar: You bet I'm scared! The Imperial army hasn't lost a single battle with my father on the field!
+Caspar: But still, I wonder what'll happen to him if we win...
+
+Bernadetta: Professor! My, um, mother might be in the city. I don't have many good memories of her if I'm being honest, but she's dearer to me than my father, If you happen to see her, please make sure she's not caught up in all the fighting. She's only a civil servant, so hopefully she takes a cue from her Bernie and stays inside.
+
+
+
+Dorothea: I keep thinking the war is near its end, then it isn't... When can we finally put this dreadful war behind us?
+Byleth: Let's end it with the next battle.
+Dorothea: That would be wonderful. Imagine, the last moment of combat...then peace. It sounds like a fairy tale. I want to make this a world where there is no fighting, where children can grow up happy and safe.
+Byleth: There can be no end to war. 
+Dorothea: I suppose you're right... But we should still try to make the world a place where children can grow up happy and safe.
+
+
+
+Petra: Five years ago... Edelgard said a thing to me. Brigid is a vassal of the Empire. But she also said I always have the freedom to be choosing whether I am with or not with her. I will become the ruler of Brigid. So she said I must make my own path. So now, my path and her path will be colliding.
+
+
+
+Lorenz: At last we've come to the final confrontation! Ruin to the Empire! Glory to Faerghus! Of course, to be perfectly honest, I would have much preferred to march against the Empire at the head of the Alliance. But I suppose I have Claude to thank for denying me that satisfaction, don't I?
+
+
+
+Raphael: We're heading up to Enbarr next. I hope I make it back safe so I can tell my little sis about it! I hear they got a neat opera house there where Manuela used to perform. What was it called again?
+
+Byleth: Mitreflanc Opera Company
+Raphael: Nah, that doesn't sound right!
+Byleth: Mittelfrank Opera Company 
+Raphael: Ah, that's the one!
+Byleth: Mildewplank Opera Company
+Raphael: Nah, that doesn't sound right!
+Raphael: My little sis always goes on about how much she'd like to see them perform. I know we can't see a show, but do you think we could at least see the building?
+
+
+
+Ignatz: We're about to put the finishing touches on this war. I wonder how Fódlan will look without the backdrop of death and destruction. I can't wait to see it! On the other hand, I'm terrified of what the future might hold. Who knows if I'll survive the assault on the capital?
+
+
+
+Lysithea: Wanting so desperately to speak with Edelgard just as we're about to fight... Could it be that the prince is having doubts about killing her.
+Byleth: I don't think so.
+Lysithea: Then perhaps it is okay.
+Byleth: It's only a formality. 
+Lysithea: I suppose they're the only ones who fully understand the extent of their relationship.
+Lysithea: He's certainly changed from the vengeful person he once was. I don't mean that in a bad way. I'm actually relieved. A king who's responsible for Fódlan's future can't exact personal vendettas and have a cold heart.
+
+
+
+Marianne: Dear Goddess...
+Byleth: Praying again?
+Marianne: Yes... I was praying for your safety.
+Byleth: What are you praying for? 
+Marianne: Um...for your safety.
+Marianne: I'll do all I can to survive, but please...please don't die out there Professor.
+
+
+
+Hilda: Fighting in the capital! Ugh! And we're fighting against Edelgard! Double ugh! But with you leading us, Professor, I know we'll win. Yeah! Wahoo! Fighting! I'm a little scared, to be honest. I'm just shouting to relieve the tension, but I'll be fine.
+
+
+
+Leonie: At last, it's time to face the Flame Emperor... Edelgard. I know that the future of all Fódlan rests on this battle. Nothing else is more important. But for me, this is personal. For Captain Jeralt's sake, I'm going to give it all I've got and more!
+
+
+
+Seteth: Rhea will be somewhere in the city. I wonder if she can sense us coming. The battle will soon be upon us. Let us both be at our best for what is to come.
+
+
+
+Flayn: I was born in Enbarr. My mother and father met in the church there. Not too long after, I was brought into the world. I do not understand how war can happen in such a precious place. It is most regrettable.
+
+
+
+Hanneman: Enbarr's streets are paved with unhappy memories, Professor. I've avoided the damned place since I abandoned my nobility. Swore never to return. Now here we are. To return in this manner... Well, I can't say it is something I ever imagined. Especially as I'm returning to end the Empire. What a strange feeling, breaking one's history.
+
+
+
+Manuela: Life can be tough, you know? But if you've got your friends to help you through, it can be a lot easier. Maybe you butt heads sometimes...but that's OK. That's how you build bonds, right? And I've got friends, Professor. Plenty of those. It's true love that seems to have passed me by.
+Byleth: You should relax.
+Manuela: Relax? I'm relaxed.
+Byleth: There's still hope. 
+Manuela: But where is my true love to be found? Where is my ray of hope?
+Byleth: Time to give up?
+Manuela: Yeah... I'm starting to figure that's the most realistic option.
+Manuela: At this point, I'm just hoping you stay single too. Then at least we can share each other's misery!
+
+
+
+Gilbert: It matters not how just our cause may be. In the end, war is nothing more than organized murder. I understand the desire to reach a conclusion, but we mustn't overlook the sins inherent in our deeds.
+Byleth: I am well aware. 
+Byleth: I understand, of course.
+Gilbert: Heh, sorry, I have a tendency to preach. We have lost so much, and in return, we have taken much from our enemies. I pray we can put an end to this cycle of violence.
+
+
+
+Alois: Here we are, facing the final battle with the Empire. It's been a long, difficult struggle. We have to get Lady Rhea back! And we have to crush the Empire, in the name of Captain Jeralt. He's watching over us now, protecting us. I know he is.
+
+
+
+Catherine: Looks like we're nearing the end of this struggle. I'm sure Lady Rhea is on tenterhooks waiting for me to swoop in and rescue her.
+Byleth: Probably. 
+Catherine:  I was just kidding! Pay me no mind.
+Byleth: I doubt it.
+Catherine: Oof... You don't mince your words. Try being a bit more mindful of other people's feelings.
+Catherine: Lady Rhea is not waiting for me, I know, no matter how much I might wish she were. She's waiting for you.
+
+
+
+Shamir: Ten years ago, Dagda and Brigid attacked the Empire from the west. Their final target was the capital. But they were countered at a port town, long before they reached their destination. We spent a lot of time going back and forth, but at least we made it this far.
+
+
+
+Cyril: Whenever I think about how we'll be seeing Lady Rhea real soon, I get happy and really get cleaning! We'll get there for sure, right? We'll see her again?
+Byleth: We'll meet her for sure. 
+Byleth: We don't know for sure.
+Cyril: I just gotta believe Lady Rhea is waiting for us in the capital... We just have to find her.
+
+
+
+Anna: Seems like the war is gonna end soon. Once the dust settles, it'll be back to rolling in fat stacks of gold for me!
+
+Gatekeeper: Greetings, Professor! Nothing to report! Momentum's really picking up for this final battle, huh? Even I'm starting to feel tense! Me! Enbarr's history goes back 1,400 years. That even predates the founding of the Empire. It's one of the sacred sites of the Seiros faith, so it's a pretty big deal. But hey, no need to worry about the monastery while you're fighting the final battle. I've got it covered! I'll defend it to my last!
+
+@Intro 
+Dimitri: Professor. Do you think Edelgard will show up?
+Byleth: She will.
+???: Well, well. It's been a long time, Professor. And hello to you, too, Dimitri.
+Byleth: I doubt it.
+???: Sorry to disappoint you, Professor.
+
+Dimitri: Edelgard. I did not think you would actually accept my request.
+Edelgard: Call it a whim. Well then? What did you want to talk about?
+Dimitri: I will get straight to the point. Why did you start this war? There had to be a way to change things in your territory without the need for so many senseless casualties.
+Edelgard: It may be hard to believe, but this is the way that leads to the fewest casualties in the end. Don't you see?
+Dimitri: How could I? Countless people have already lost their lives in this conflict.
+Edelgard: The longer we took to revolt, the more victims this crooked world would have claimed. I weighed the victims of war against the victims of the world as it is now, and I chose the former. I believe that I have chosen the best path, the only path.
+Dimitri: Even after seeing the faces of those who have suffered the ravages of war, you would still force them to throw their lives away for the future? You are obsessively devoted to this war and deaf to the screams of its victims. You cannot change the cycle of the strong dominating the weak with a method like that.
+Edelgard: You're wrong. That very cycle is exactly what I have devoted my life and my power to destroying. If after all of this you believe the weak will still be weak, that is only because they are too used to relying on others instead of on themselves.
+Dimitri: Yes. Perhaps someone as strong as you are can claim something like that. But you cannot force that belief onto others. People aren't as strong as you think they are. There are those who cannot live without their faith...and those who cannot go on once they have lost their reason for living. Your path will not be able to save them. It is the path of the strong, and so, it could only benefit the strong.
+Edelgard: Heh, so you consider me strong, do you? Even if one clings to their faith, the goddess will never answer them. Countless souls will be lost that way. Living without purpose. And I can be counted among those who have died that way as well. But that's why I must change this world, on behalf of the silent and weak!
+Dimitri: And do you intend to become a goddess yourself? Will you steal the power to take action from the broken-hearted masses you claim to defend? The ones who can truly change the way of the world are not the rulers, but the people. Pushing your own sense of justice and your own ideals onto even one other person is no more than self-righteousness.
+Edelgard: Maybe it is self-righteousness, but it doesn't matter. Someone has to take action and put a stop to this world's endless, blood-stained misery!
+Dimitri: Do you not believe in the power of people to join together and rise up? Humans are weak creatures. But they are also creatures who help each other, support each other, and together, find the right path. I have learned that humans are capable of all that from the professor...and from everyone in my life.
+Edelgard: I doubt a highborn person like yourself could know how the poor feel or what motivates them.
+Edelgard: This is nonsense. Thought, I'm finally starting to understand how you feel. But that makes it even clearer to me that we can never fully understand each other.
+Dimitri: I feel the same. I finally understand...what you believe is right.
+Edelgard: Good-bye, Dimitri.
+Dimitri: Wait, Edelgard. There is something I must give you.
+
+Dimitri: This is for you. Use it to cut a path to the future you wish for. And I will rise up to meet you there...El.
+Edelgard: ...
+
+@Flashback
+Dimitri: El! So it's true... You're really going away? Going back home?
+Edelgard: There's nothing I can do about it. It's all happening so fast... I'm as surprised as you are.
+Dimitri: El... Um... Here. I want you to have this.
+Dimitri: El, listen to me. No matter how hard things get, you can't give in, OK? You've got to cut a path to the future you wish for, no matter what.
+Edelgard: It's...a dagger? Why would you give me something like this?
+Dimitri: Oh, um... I'm sorry. I couldn't think of anything better to give you.
+Lord Arundel: Edelgard! What are you doing? It's time to go. Hurry and get in the carriage.
+Edelgard: Oh! I... I'm sorry, Uncle! I have to go now... Good-bye, Dimitri.
+
+@Intro
+Edelgard: I...I remember now. You gave me a dagger, all those years ago.
+Dimitri: Heh, I'm still sorry about that. I should have given you something that would've made you happier.
+Edelgard: Perhaps. At the time, I was quite flustered by such a dangerous gift. I left without giving you a proper response...and that was the last time we saw each other.
+Dimitri: True. It is a sweet memory with a bitter ending.
+Edelgard: I'm afraid it will do no good to reminisce, Dimitri. That girl you knew back then is gone. As good as dead. But...I'll tell you now what I wasn't able to tell you back then. Thank you. My dear, forgotten friend...because of you, I never lost my heart. As for the future...that will be decided in battle. King of Faerghus. As the emperor, I shall await your arrival in Enbarr.
+Dimitri: ...
+
+@Opening 
+The Kingdom army, having gathered new troops and significant strength, commences its march towards the Imperial capital of Enbarr. In response to their movements, Emperor Edelgard orders her trusted retainer, Hubert, to the front lines to meet the Kingdom army head-on. The two forces clash in the city streets.
+
+With Fort Merceus conquered, it's time to approach Enbarr, the Imperial Capital. Imperial forces stand ready in the city streets, intending to resist to the bitter end.
+
+@Battle 
+Dimitri: The gates to the Imperial capital have been broken. All troops, storm in! The emperor is within reach!
+Gilbert: The Imperial troops are dug in across the city. Let's cut through them, and carve a route to the palace.
+
+Hubert: Heh. The Savior King arrives, hands red with blood. Let's give him a royal welcome. Artillery, once the enemy is in range, fire at will. Reinforcements will fly in shortly. Keep your focus and hold steady until they arrive.
+
+Dorothea: Reinforcements should be here soon. Let's draw them in... just like we planned. 
+Hubert: Draw them toward the opera house. Reinforcements will be here any moment. 
+
+Manuela: Has it really been so long since I was in that opera house? Couldn't have imagined any of this back then.
+
+Dorothea: The battle is nearing the opera house. I hope everyone in the company is safe.
+
+Flayn: That church... It looks familiar. I believe that is where my parents first met.
+
+Seteth: Ah—that church. I've such memories of that place. From a time before I was Seteth...
+
+Thief: War is for the wealthy. We don't even have enough to eat... I'm sure the goddess won't punish us for a little bit of thievery here and there...
+
+Dimitri: More reinforcements, eh? And this time it looks like a fair number... It would be best if we could take them down from a safe distance... Is there any way we could neutralize the cannons or catapults?
+
+@Boss 
+Dorothea: The battle is nearing the opera house. I hope everyone in the company is safe.
+
+Dorothea: Oh, that face brings back some memories. It's a shame we don't have time to catch up.
+
+%Manuela,Dorothea
+Dorothea: Manuela? It's not like you to show up anywhere sober. What's the occasion?
+Manuela: I thought maybe we could talk. I could help you see the error of your ways. Or we could just try to kill each other over what we believe in. You ready to do this?
+Dorothea: No... But let's get to it.
+
+%Byleth,Dorothea
+Dorothea: If it's our destiny to kill each other, then I cannot–will not–respect the goddess. My only request is that if you win, you'll at least have the decency to kill me quickly.
+
+@Boss
+Dorothea: Edelgard, forgive me... I can't...
+Hubert: So, Dorothea has been defeated. We will need to thin their numbers as well, or else. If House Varley's troops arrive in time, we may be able to flank the Kingdom's army...
+
+Hubert: So, they've stopped our reinforcements. We will need to thin their numbers as well, or else. If House Varley's troops arrive in time, we may be able to flank the Kingdom's army...
+
+Petra: For Adrestia and for Brigid! I will be defeating all of you!
+
+%Byleth,Petra
+Petra: Professor... I have been thinking. About why I came to Fódlan. To the Empire. I am here to be protecting Edelgard...and to be stopping you.
+
+%Shamir,Petra
+Shamir: I cannot bring myself to kill you... You're a princess of Brigid. A hostage of the Empire.
+Petra: That was the truth in the past, but it is a different truth now, Shamir... I am... the will of the emperor!
+Shamir: In that case, I won't hold back.
+
+@Boss
+Petra: Edelgard... I will not be keeping my promise... Give me forgiveness, please...
+
+Hubert: It's almost a shame to kill you. Not even death will make you consequential.
+
+%Byleth,Hubert
+Hubert: I should have disposed of you a long time ago. I will rectify that failure here!
+
+%Ferdinand,Hubert
+Hubert: Running into you in the capital like this-I have to say it's almost sentimental.
+Ferdinand: Hubert. She must leave.
+Hubert: You really think you can make her?
+Ferdinand: It does not matter what I think. Those are my orders.
+
+%Dimitri,Hubert
+Dimitri: Hubert. I would tell you to get out of my way, but I highly doubt that you would abide.
+Hubert: Heh. Your silver tongue will do you no good here. This is not your path to tread.
+Dimitri: That is not your decision to make, nor is it mine. All I can do is blaze ahead!
+
+@End 
+Hubert: We must place our faith...in Her Majesty... Her victory is everything...
+Dimitri: It's over... The way to the palace is clear. Let's move!
+
+Dimitri: Send your platoons to capture Enbarr! There is to be no needless killing or pillaging, understand?
+Kingdom General: Yes, Your Highness!
+
+Dimitri: Edelgard awaits us. We will advance our main forces straight to the palace.
+Byleth: We've finally made it here.
+Byleth: We can win this.
+Dimitri: Yes, it has truly been a long war. And we have only made it this far because of you... Actually, no. I will save that sentiment for after we win this battle. We will advance our troops and confront her. We must strike down the emperor and end this war.
+Dedue: My life is yours, Your Highness.
+Annette: Let's win this and go back home in victory! I'll do the very best I can!
+Ingrid: On my honor as a knight...I will not lose!
+Mercedes: I know the goddess is watching over us. Let's be sure to return home safely. All of us.
+Ashe: As a citizen of Faerghus, I will fight with everything I have!
+Sylvain: Heh heh heh, is this what a do-or-die situation looks like? You had best give it your all too, General.
+Felix: The path to the emperor is open. Fulfill your duty as our king.
+
+Felix: Go and win. Be the boar you are, and don't you dare look back.
+Byleth: Let's go!
+Dimitri: Yes. I will... No. We will win this. Together! Everyone! Move out!
+
+Edelgard: The time has nearly come.
+Imperial General: Yes, the anomaly should present itself shortly. However...
+Edelgard: There's no reason to fret. Besides, it's far too late to second guess. Now, assume your position. I can't promise your safety if you remain here.
+Imperial General: Very well. 
+
+Edelgard: Ugh... This pain is nothing...compared to what I have already suffered...

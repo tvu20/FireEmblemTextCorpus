@@ -1,0 +1,577 @@
+@Opening 
+As the sun grows stronger and the nights grow ever shorter, the Blue Sea Star returns to the sky once more. Believed to be the goddess's home, her followers look to the star and commence celebrations of her rebirth. On the grounds of Garreg Mach Monastery, a grand ceremony is held in honor of this much anticipated event. Every true follower of the Church of Seiros is sure to be in attendance.
+
+@Dialogue
+^start
+Edelgard: Our mission this month is to patrol and set up defenses to stop the assassination plot.
+Hubert: I wonder if an assassination attempt is truly the goal of our enemy...
+Byleth: What do you mean?
+Edelgard: You must sense that something's off about all of this.
+Byleth: It's a distraction. 
+Edelgard: Yes, I think so too.
+Edelgard: A barely concealed secret message, trying to distract us from whatever's really going on. Sloppy, to say the least. And while everyone is out searching for a phantom assassin, they'll be free to accomplish their true goal with ease.
+Ferdinand: The monastery houses many valuable weapons. Perhaps that is their aim?
+Dorothea: I hear the monastery has a treasure vault too. Seems like the sort of place a foe would like some alone time in.
+Linhardt: Garreg Mach is immense, and not just above ground but below as well. Perhaps their aim lies beneath the monastery...
+Hubert: It seems to me that we should search the monastery for a clue as to what the enemy might be after. Of course, we must never underestimate the need for preparedness, in case a battle should ensue.
+Shamir: A secret meeting, Professor? Oh, we haven't been introduced. I am Shamir.
+Edelgard: Shamir is one of the Knights of Seiros. And this young man is-
+
+Dimitri: So, our task for this moon is to patrol and guard the monastery, to help put a stop to that assassination plot. The knights will certainly have their hands full protecting Lady Rhea. Perhaps our enemy is counting on that...
+Byleth: What do you mean?
+Dedue: Your Highness, I am curious as to what you mean by that.
+Byleth: I agree. 
+Dedue: Please, elaborate.
+Dimitri: Why would Lord Lonato be carrying around a secret note with an assassination plot written on it? Isn't it possible he hoped to monopolize everyone's attention with this alleged plot...in order to distract from his true aim?
+Annette: Maybe they're after the treasure vault. There's also lots of valuable stuff in the library and Professor Hanneman's quarters!
+Felix: True. The monastery undoubtedly houses many weapons that rival even the Heroes' Relics.
+Sylvain: Whatever their aim, we can't allow any harm to come to the ladies of the monastery. I mean, what would I do with my spare time?
+Dedue: You mean to say we should search the monastery. Try to find what the enemy is truly after.
+Dimitri: Yes. And we should be prepared to fight them as well, should it come to that. I wouldn't mind getting in some training, just in case.
+Shamir: A secret meeting, Professor? Oh, we haven't been introduced. I am Shamir.
+Dimitri: Shamir is one of the Knights of Seiros. And this young man here is–
+
+Claude: OK... So our task this moon is to patrol and guard the monastery in support of the knights, who are busy trying to stop an assassination plot. Here's the thing. I don't think the bad guys are really trying to assassinate the archbishop.
+Byleth: What do you mean?
+Claude: Come on, Teach. Don't you think that "secret" note Lord Lonato was carrying around was just a little too obvious?
+Byleth: It's a distraction. 
+Claude: Precisely. That "secret note" with the assassination plot on it... There's just no way that was real.
+Claude: People don't just carry around secret notes. Someone wanted us to find it.
+Ignatz: Do you really think the assassination plot is just a distraction?
+Hilda: Oh, yeah. That makes complete sense. But then...what are they really after?
+Claude: If I knew that, I wouldn't be so worried. Let's see... It probably involves somewhere that will be empty during the Rite of Rebirth, yeah?
+Lysithea: Since the ceremony is at the Goddess Tower, it follows that everywhere else at the academy will be severely understaffed.
+Leonie: Do you think they're after the church's donation money? I hear noble families tend to donate quite generously.
+Raphael: My bet's on the dining hall. It's a treasure trove of delicious food. Makes me angry just thinking about them getting their grubby hands on it!
+Hilda: Let's split up and look around! I'll keep an eye on the reception hall.
+Claude: You should get in some training if you have the time, Hilda. There's a good chance we'll have to fight.
+Hilda: Uh! Well, I'm not the only one who needs to train here! It's not right to single me out like that.
+Shamir: A secret meeting, Professor? Oh, we haven't been introduced. I am Shamir.
+Claude: Shamir is one of the Knights of Seiros. And that little go-getter there is–
+^end
+Cyril: I work for Lady Rhea! And I'm Shamir's apprentice! Oh, the name's Cyril.
+Byleth: You work for Rhea?
+Cyril: Yep. I help Lady Rhea with all kinds of stuff.
+Byleth: Shamir's apprentice?
+Cyril: Yep. She's teaching me about the bow and the sword and all kinds of stuff.
+Cyril: I've gotta protect Lady Rhea, so that's why I've gotta learn all I can from Shamir.
+Shamir: Cyril adores Rhea. That aside, if you need anything, ask.
+
+@Conversation 
+Sothis: A Hero's Relic...
+Byleth: Do you know something? 
+Sothis: However could I know something? Still, it is heavy on my mind.
+Byleth: It represents great power.
+Sothis: Quite so.
+Sothis: The stone within the sword... A glow of red... Hm? Oh, it is nothing.
+
+
+
+
+
+Edelgard: Our enemy's true target... What could it be? The monastery has been around for nearly a millennium. It's only logical that there are secrets here. We'd better investigate. Would you mind asking around and seeing what you can dig up? Once you've uncovered some leads, we'll regroup.
+
+Edelgard: We need more information. Is there anyone else you could talk to?
+
+Edelgard: Hmm... There's a place that the church values above all others. On the day of the rite, it will be open to the public. That will make it much easier than usual to access.
+Byleth: The greenhouse?
+Edelgard: You must be joking.
+Byleth: The Holy Mausoleum?
+Edelgard: Precisely.
+Byleth: The dining hall?
+Edelgard: You must be joking.
+Edelgard: We can't know for certain, but it's a distinct possibility that the Holy Mausoleum is our enemy's target.
+
+
+
+Edelgard: Oh, have you been tasked with guarding the monastery as well? Such a stir over a single letter...but I suppose the archbishop's safety is too important to risk.
+
+
+
+
+
+Dimitri: If the enemy's aim lies elsewhere, we had better discern their true intent quickly. As I see it, our best option is to explore every inch of the monastery. We should also speak to everyone here. Let's plan to compare notes once you've got a lead.
+
+Dimitri: Hmm. I'm afraid we'll need more information than that. Is there anyone else you could try speaking to?
+
+Dimitri: So... There is something that the church values above all else. On the day of the rite, it will be open to the public. That will make gaining entry far easier than usual. You know the place of which I speak...
+Byleth: The greenhouse?
+Dimitri: Whatever would make you think that? This is no time for games, Professor.
+Byleth: The Holy Mausoleum?
+Dimitri: Yes, that is the most likely possibility.
+Byleth: The dining hall?
+Dimitri: Whatever would make you think that? This is no time for games, Professor.
+Dimitri: We do not know their objective, but there is a good chance that our enemy is planning to target the Holy Mausoleum.
+
+Dimitri: All this talk of assassination plots... It brings back dark memories I prefer to keep buried. I doubt there is any correlation, and yet... Ah, it is nothing. I am sorry for allowing my mind to wander. My focus should be solely on guarding the monastery right now.
+
+Claude: To figure out our foe's intentions, we need information. Lot's of it. Or any, at the least. For now, try going around the monastery and looking for suspicious locations. You should also try chatting folks up to see if they know anything. Once we've got things narrowed down, let's meet up and compare notes.
+
+Claude: Hmm... We still don't have enough to go on, Teach. Let's try looking around a little more.
+
+Claude: Hmm. Something the church values above all else... And on the day of the rite, it'll be open to the public, making it easier than ever to get inside. That's gotta be it, right?
+Byleth: The greenhouse?
+Claude: That would be a resounding no.
+Byleth: The Holy Mausoleum?
+Claude: Bullseye.
+Byleth: The dining hall?
+Claude: That would be a resounding no.
+Claude: We don't know the enemy's intentions, not yet. But our best bet is that their target will be the Holy Mausoleum.
+
+Claude: There's been talk of an attempt on Rhea's life. We've been order to help the knights patrol. Could that possibly mean that Rhea isn't beloved by everyone the world over?
+
+Hubert: Can you imagine the archbishop being murdered? I prefer not to consider such a gruesome scenario.
+Byleth: Of course not. 
+Hubert: Awfully calm, aren't you? I wonder what it takes to rile you up.
+Byleth: Frightening thought.
+Hubert: That easy to get under your skin, is it?
+
+Ferdinand: Hmm... Setting fire to the stables to distract everyone, to cause a commotion. It is the oldest trick in the book, but I cannot shake the thought that our enemies may attempt it... I will stand guard and watch over the stable...and the knights' horses. They are truly magnificent.
+
+
+
+Linhardt: So sleepy... Too sleepy... I found an interesting book in the library. Got so caught up reading it I forgot to sleep... Interesting discovery though–the coffins of the Four Saints in the sanctum each have their Crests carved into them. I'll need to find a way down there to get a look.
+
+
+
+Caspar: Oh. Hey, Professor. I was just reading this letter from my father. Do you know him? He's a pretty big deal in the Empire. He only writes to ask how my training's going, or how many monsters I've killed. Stuff like that.
+
+Bernadetta: Um... Hi. Right now is, um... Well, right now's OK I guess. If you, um, want to chat...a little.
+Byleth: Didn't I see you in the dining hall last night?
+Bernadetta: Hey, I get hungry sometimes. Like anyone else! What? Eating at night is bad for you? There's no way that's true. Wait, really?
+
+
+Dorothea: People die in every battle. And it can be by sword or spear or magic, but... But depending on who it is that died... Depending on who died, it's different.
+Byleth: What do you mean?
+Byleth: It's different if it's someone you know who was lost... 
+Dorothea: I hope nothing bad happens this month.
+
+Dorothea: Is it true you got caught in the fighting? I'm so thankful you made it out alive. I don't know what we would do if we lost you...
+
+
+
+
+Petra: In Brigid... assassinations are many. I have also been the targeted back in the past.
+Byleth: How frightening.
+Byleth: I'm happy you survived. 
+Petra: The Goddess Tower has an entrance of narrowness. That is most good. The windows are not the most good though. A target of ease for snipers.
+
+Petra: Fighting to stop a murdering is my specialness...no, my specialty. I will show my best work!
+
+
+
+Dedue: The monks declined my offer of assistance. They said that no one from Duscur is to be trusted, especially now. Given the circumstances, I cannot fault them.
+
+
+
+Felix: Sending an assassin to the monastery, hm? Hopefully it's someone worth crossing blades with.
+Byleth: I hope so too. 
+Felix: It seems we're cut from the same cloth.
+Byleth: I hope we can avoid bloodshed.
+Felix: You're entitled to your opinion.
+
+
+Felix: Lord Lonato's rebellion may have been quelled, but the unrest in Faerghus isn't dying down anytime soon. The boar prince should hurry up and claim the throne, rather than letting old customs hold him back.
+
+
+Ashe: I can't stop thinking about Lonato... I'm sorry, Professor. I know this isn't the time, but... I just can't get past it.
+Byleth: There's nothing to be done.
+Byleth: Pull yourself together. 
+Ashe: Thank you. No matter what happens, I promise you I'll do my part. I checked on my brother and sister who were living in Castle Gaspard. Thankfully they're all right. I was worried because they're both so young, but the church in the castle town offered to take them in. That much, at least, is a big relief.
+
+
+
+Sylvain: No classes on a festival day! I thought I'd get to spend all day relaxing in the company of some lovely ladies, but now this has happened. Hey, Professor, I know there's talk of an assassination attempt, but do you really think they'll do it on the day of the Rite of Rebirth? I feel like security would be looser some other time. Is there some reason why it has to happen on that day?
+
+
+
+Mercedes: The monastery holds many treasures. Maybe the enemy is after one of those? Even so, the idea of stealing from the church is just horrible...
+
+
+
+Annette: I bought the ingredients for making some sweet treats I can't wait to eats! Huh? Oh! I know it looks like I'm fooling around, but I'm not. I'm preparing for potential battle during my patrol by making sure I have plenty of food I can eat while walking. Smart, huh?
+Byleth: Good thinking. 
+Annette: I know! Once they're ready, I promise to share some with you.
+Byleth: You're making patrol sweets?
+Annette: I just thought I'd be more alert if I had something sweet in my tummy. Oh, wait! Was it spicy food that you liked, Professor?
+
+
+
+Annette: Have you heard? Rumor has it that death himself has been appearing in Garreg Mach. They say he appears every night and kidnaps folks. I wonder what happens to them…
+
+
+
+
+Ingrid: Professor, while the investigation is important, don't forget to make time for your training. If we have to battle and cannot win, all will be lost. We don't know who our enemy is, so we must be prepared for anything.
+
+Ingrid: Lady Rhea lifts the spirits of all the people of Fódlan. We cannot allow her to come to any harm.
+
+
+Lorenz: Are we really just taking Claude's word for it? If so, I doubt anything will come of this. It is all probably just some sort of distasteful joke. I find it highly unlikely that anyone would be foolish enough to barge in here and cause a disturbance.
+
+Lorenz: The Goddess's Rite of Rebirth is the most significant ritual for the Church of Seiros. Could it be that someone has spread these rumors of an assassination plot merely with the intention to hinder the celebration?
+
+
+Raphael: I bet the enemy's using this assassination nonsense just to sneak in and raid the pantry. What do you think, Professor?
+Byleth: You may be right. 
+Raphael: Oh, I'm right all right. My animal instinct is telling me that the enemy is after our best meats.
+Byleth: I don't think so.
+Raphael: You don't think so? Then dinner's on you if it turns out I was right!
+
+
+Ignatz: The monastery's so big. How can we narrow down the list of possible targets? The only places I can think of are the vault and the library, and… I guess that's it.
+
+
+
+Ignatz: With the whole monastery preparing for the Goddess's Rite of Rebirth this month, it feels like everyone's a little on edge…
+
+
+
+Lysithea: I don't know who to blame for all this commotion, but it's frankly a huge inconvenience. With everyone stuck on guard duty, our study and training time has been drastically reduced.
+Byleth: Some things are more important than that. 
+Lysithea: Yes, yes, I understand that. But it doesn't change the fact that it's a royal pain.
+Byleth: I agree--it's very inconvenient.
+Lysithea: Indeed. For now, let's do all we can to find and dispose of our enemy.
+
+
+
+Marianne: It seems there were forces opposing the church, beyond Lord Lonato... I never thought such forces could exist in this world.
+Byleth: It makes sense that the church has enemies.
+Marianne: I don't understand. What would they have against the church?
+Byleth: We only know a small part of this world. 
+Marianne: I suppose that may be true...
+
+
+
+
+Hilda: Hello! I'm in charge of managing all records for the Golden Deer House. Oh, but I don't have any information of note right now. Go ahead and continue your investigation. And put a little extra effort into it, please!
+
+
+
+Hilda: Did you know that, on the last day of the rite, the monastery's open to the general public? It's kinda fun. It makes the place feel like a festival.
+
+
+Leonie: Seems like donations to the monastery aren't actually kept here. That means the enemy isn't likely to be interested in money. We should turn our attention elsewhere. Then again, I guess some of the plants in the greenhouse could sell for a lot. But that can't really be it, can it?
+
+
+
+
+Leonie: Hey, did you hear? A knight wielding a scythe is roaming around town at night. If he's a villain, I'd like to get the measure of him.
+
+
+
+Rhea: Hmm... Might you have come looking for me because you were worried about my safety?
+Byleth: I was worried. 
+Rhea: I am quite all right. But your concern means a great deal.
+Byleth: The enemy could have other objectives.
+Rhea: I am aware of the possibility. On the day of the ceremony, I am trusting that you will not allow your attention to wander or wane.
+
+
+
+Seteth: I've been in town, procuring some supplies for Flayn.
+Byleth: Did you encounter any danger? 
+Seteth: No, but do not concern yourself for my safety. I am very much stronger than I appear.
+Byleth: What supplies?
+Seteth: Nothing out of the ordinary. Do not trouble yourself over it.
+
+
+
+Flayn: Professor... I am afraid I have acted a bit childishly toward my brother recently... Given the circumstances, I requested that he provide me with some candies... Silly of me, really. The timing was improper, and I regret it very much now. Oh, but more importantly, this place is off limits, Professor. It is only open to the public on the day of the Goddess's Rite of Rebirth.
+
+
+
+Alois: Have you visited the Goddess Tower? It's a sacred place, used for rituals and the like. In general, students aren't allowed entry. But as you'd expect, that rule just excites their curiosity. Some have even tried sneaking in. Well, at least for this month, that kind of behavior is totally unthinkable. We have a lot more security, what with the Goddess's Rite of Rebirth coming up.
+
+
+
+
+Catherine: You'd best keep your distance. In this nervous state, I might just cut you down.
+Byleth: Please don't.
+Byleth: I dare you to try. 
+Catherine: Oh, come on. I'm only kidding!
+
+Catherine: Hey, Professor. You're good-looking, you know that? At the same time, you look like someone who was born to fight. I bet we'd get along. I'm also good-looking and born to fight, heh? Need any help with your class?
+
+Catherine: Feel free to call on me when a fight's brewing. Thunderbrand and I will be there when you need us.
+
+
+Shamir: You spend too much time roaming the monastery. If you're looking for something, try less aimless wandering.
+Byleth: I was thinking about the enemy's objective. 
+Shamir: Do you even know who the enemy is? You can't know why without knowing who.
+Byleth: I'm not looking for anything.
+Shamir: Sure.
+Shamir: It's none of my business anyway. I'm just here to take care of enemies who get too close.
+
+
+
+Jeritza: You're skilled. Why won't you battle me? Hmph.
+
+
+
+Jeralt: What's the matter? You're running all over creation. Ah... You don't believe Lady Rhea is the real target, do you? Even so, the knights have their orders. We can't abandon our duty to guard Lady Rhea. The Goddess's Rite of Rebirth is an important event for the Church of Seiros. They say it's the day when the goddess will return to walk among us. Not too likely, if you ask me. Uh... Best if you keep that to yourself.
+
+
+
+Hanneman: Unbelievable. What a terrifying story. However, an assassination attempt on Lady Rhea is doomed to fail. Pardon? You think the goal may be different than simple assassination? Intriguing. I suppose the priceless objects in this room could perhaps draw thieves. However, there's no one but me who could make use of them...
+
+
+
+
+Manuela: Professor. I hope you're well. As for me, I had a date with a splendid specimen of a knight. But now he's suddenly not in the mood to see me again. I blame all these rumors of a deathly figure showing up in town. Such an uproar must have, beyond reason, drawn his attention away from me.
+
+
+
+Tomas: I hear you have fought alongside Catherine. I would wager that her power exceeded your expectations. Had you the chance to witness her Relic? Thunderbrand, glowing red... That glow is a sure sign that her blood contains a Crest that harmonizes with that Hero's Relic.
+
+
+
+Cyril: Excuse me, Professor? I just wanted to let you know that Lady Rhea is always real concerned with you. She expects great things, I think. Please don't let her down, OK?
+Byleth: Of course not. 
+Cyril: I hope you're not just saying that.
+Byleth: We'll see...
+Cyril: Ya know what? I'm watching you.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! The Goddess's Rite of Rebirth is this month, right? The monastery gates will be thrown wide open on that day! I'll be working as a guide. I hope I get to guide some lovely ladies around... Heh heh...
+
+
+
+Squire: The goddess's home is in the sky! She lives on a bright and shining star! But in the spring, you can't see that star. That means she can't protect Fódlan. That's why we all celebrate the day when her star returns to the sky! That's the day of the Rite of Rebirth! See, see? I've been studying! I know just about everything!
+
+
+
+Knight of Seiros: People seem to think that all the Knights of Seiros are equal, but that isn't quite so. There are many distinguishing ranks within the order. For example, there are squires, who are training to become knights, as well as full knights, like myself. Oh, and then we have the holy knights, such as Catherine. Those are the knights that can wield a Hero's Relic.
+
+
+
+Priest: About 20 or so years ago there was a big fire in Garreg Mach. On that day, Captain Jeralt went missing. Everyone thought he was dead... It never occurred to me that he might actually have survived. The truly strange part is that, in all those years, he hasn't changed a bit...
+
+
+
+Knight of Seiros: On the day of the rite, the monastery will be open to the public, including the Holy Mausoleum. The Holy Mausoleum is where the tomb of the divine Seiros lies. There she slumbers, eternally. That's...pretty much all that in there. Just an ancient coffin. It's sealed with a powerful magic, to protect against would-be grave robbers.
+
+Knight of Seiros: Have you heard of the War of the Eagle and Lion? It was the battle that won the Kingdom its independence from the Empire. Even the Church of Seiros had no choice but to recognize the courage of Loog, the King of Lions, who emerged victorious. The church awarded him a crown and the right to govern the Faerghus region, backing him in his bid to found the Holy Kingdom of Faerghus. In return, Loog agreed to make the Church of Seiros the religion of his territory, and permitted them to publicly proselytize across the Kingdom. In the 400 years since, the church and the Kingdom have continued to maintain very close relations.
+
+Knight of Seiros: Something in the monastery that someone might go after? There's so much here I couldn't possibly name just one. Even this here kitchen contains previous wares. Wine bottles from centuries past and the like. I hear that stuff is fancy, but not very drinkable. I doubt anyone would go to the trouble of stealing it.
+
+Monk: It would be terrible if the greenhouse was targeted. The plants in here are incredibly valuable. This place contains the heart of Garreg Mach's 995-year history! So many beautiful flowers... Plants that can save or end lives... They are all my precious children.
+
+Knight of Seiros: I have heard talk of students wandering the monastery late at night. They wouldn't happen to be from your class, would they? Please keep your students in line, Professor. Kids these days...
+
+Priest: Do you know what this room is? It is the church's treasure vault. I say treasure, but I do not mean silver and gold and jewels. It mostly contains weapons, artifacts, and the like. Anything that would cause too great a stir should it be stolen? No. The church knows better than to store anything too valuable in such an accessible location.
+
+Monk: There are numerous books in this library that you cannot find anywhere else. But once you are here, you can read them easily enough. I doubt someone would go to the trouble of stealing one. Sometimes Seteth will dispose of books that are deemed inappropriate for the monastery, but that's about it. In a way, I suppose that makes those particular volumes more valuable... Right?
+
+Monk: That boy who assists the archbishop... Cyril, I believe? I hear he's originally from a foreign land to the east called Almyra. I know he's still only a child, but I do wonder about his true intentions...
+
+@Intro 
+^start
+Hubert: The Goddess's Rite of Rebirth is about to begin. Are we going to move forward with our plan?
+Edelgard: I believe so. How confident are you in our theory, Professor?
+Byleth: We're not wrong.
+Linhardt: No one's intuition is perfect. It's ridiculous not to have doubts.
+Byleth: It could go either way.
+Bernadetta: Oh, I don't like those odds at all...
+Byleth: I'm a little doubtful...
+Petra: You have little doubts? That is good. We have no room for big doubts on this day.
+Hubert: All that matters is how our enemy makes their move, not how our teacher feels about our plan.
+Seteth: You seem a mite too relaxed for my liking. The Goddess's Rite of Rebirth is about to begin. While we are in the Goddess Tower, we are relying on you to secure the locations that are lacking in defense.
+Flayn: May I let you in on something, Professor? My brother can be a bit...callous. He told me that he was concerned about you, and hinted that perhaps you would be better off patrolling a coffin!
+Seteth: That was said in jest, Flayn. And in confidence. Please just remain by my side and do not cause any more trouble. As a professor, you would do well to remember that it is your duty to guide your students down the path of righteousness.
+Flayn: Please excuse us, everyone. We shall see you again after the ceremony has concluded!
+Hubert: A coffin. How fascinating.
+Edelgard: Hurry, Professor. We must find a place to hide where we can guard the stairs to the Holy Mausoleum. If the enemy moves as predicted, we should be able to cut off their escape path and capture every last one of them.
+
+Dimitri: The Goddess's Rite of Rebirth is finally here. Let's move ahead with our plan.
+Dedue: Leave it to me. Professor, Are you in as well?
+Byleth: Of course.
+Ingrid: We've narrowed down our objective...kind of. So, let's show everyone that we can carry out our duties better than anyone!
+Byleth: I'm not sure about this.
+Mercedes: Oh dear. Our professor seems to lack confidence in our plan. That is not very reassuring.
+Byleth: I'm hungry.
+Annette: Umm... Oh! Well, I'll be sure to whip you up some tasty treats when this is all over!
+Dimitri: We're counting on you, Professor.
+Seteth: You seem a mite too relaxed for my liking. The Goddess's Rite of Rebirth is about to begin. While we are in the Goddess Tower, we are relying on you to secure the locations that are lacking in defense.
+Flayn: May I let you in on something, Professor? My brother can be a bit...callous. He told me that he was concerned about you, and hinted that perhaps you would be better off patrolling a coffin!
+Seteth: That was said in jest, Flayn. And in confidence. Please just remain by my side and do not cause any more trouble. As a professor, you would do well to remember that it is your duty to guide your students down the path of righteousness.
+Flayn: Please excuse us, everyone. We shall see you again after the ceremony has concluded!
+Dedue: It's time.
+Dimitri: All right. Let's stick to the plan, and go hide where we can watch over the entrance to the Holy Mausoleum. If anyone suspicious enters, we'll follow them in and take them down. Got it?
+
+Claude: The Rite of Rebirth is finally underway. Time to see if our hunch was right.
+Hilda: Ugh, I hope it's not. Then we wouldn't have to fight anyone.
+Byleth: Our hunch is right.
+Ignatz: We've all come to this conclusion together. I'm sure we got it right.
+Byleth: We are mistaken.
+Lorenz: Do you really believe that, Professor? Claude certainly looks confident.
+Byleth: Only the goddess knows.
+Marianne: Dear Goddess... Please protect us...
+Claude: Right or wrong, the clock is ticking. All we can do now is stick to the plan.
+Seteth: You seem a mite too relaxed for my liking. The Goddess's Rite of Rebirth is about to begin. While we are in the Goddess Tower, we are relying on you to secure the locations that are lacking in defense.
+Flayn: May I let you in on something, Professor? My brother can be a bit...callous. He told me that he was concerned about you, and hinted that perhaps you would be better off patrolling a coffin!
+Seteth: That was said in jest, Flayn. And in confidence. Please just remain by my side and do not cause any more trouble. As a professor, you would do well to remember that it is your duty to guide your students down the path of righteousness.
+Flayn: Please excuse us, everyone. We shall see you again after the ceremony has concluded!
+Hilda: Seteth is way too overprotective. He reminds me of my brother.
+Claude: Come on, Teach. I know a hidden spot where we can monitor the stairs that lead to the Holy Mausoleum. If there's anyone down there, they'll be trapped like the rats they are. We'll just have to take them down without getting bitten.
+^end
+
+@Opening 
+While the plot to assassinate the archbishop shakes the monastery to its core, you suspect the enemy may have a different motivation. Anxiety abounds as the Goddess's Rite of Rebirth commences.
+
+@Battle 
+Edelgard: We were right. Unwanted gusts have come to visit.
+
+Mysterious Mage: Those Central Church dastards have spotted us... Buy me some time while I open the seal on the casket!
+Western Church Soldier: I'm on it.
+
+Dimitri: It is as we suspected. The enemy is within.
+
+Edelgard: Our enemy appears to be after the tomb of Saint Seiros in the back. Are they attempting to steal her bones? It would be best to defeat them before the achieve their aim.
+
+Edelgard: Look closely... There are contraptions of some sort on the floor. We must pay attention to our enemies' weapons and advance while attacking them from advantageous positions.
+
+Mysterious Mage: Death Knight! Prove your strength and scatter these fools!
+Death Knight: I don't take commands. Or waste my time on weaklings.
+
+Edelgard: That knight is a powerful enemy... Let's do all we can to avoid him.
+
+Dimitri: The enemy is after the casket of Saint Seiros. Do they intend to steal her bones? We must defeat those enemies before they open the casket.
+
+Dimitri: But look closely at the ground... There are contraptions of some sort in place. We'll have to look closely at the enemies' weapons and advance while attacking them from the best positions possible.
+
+Dimitri: That knight looks like he has experience. It would be foolish to challenge him recklessly.
+
+Claude: Our guess was spot on. Looks like we have company.
+
+Claude: Looks like the enemy is going after the casket in the back. Maybe they're going after the saint's bones? Weird. I'd like to defeat them before they can finish the job.
+
+Claude: But did you notice? Look closely at the ground. There's some kind of contraption on certain parts of the floor. The smart move is to advance while finding the best fighting positions we can based on the enemy's weaponry.
+
+Claude: I'm getting a really disturbing vibe from that guy... No one go near the evil-looking knight, OK?
+
+Mysterious Mage: The reinforcements haven't arrived?! If they approach from behind, we can attack them from both sides...
+
+Mysterious Mage: It's no use! The seal is broken. You can't— Huh? A sword?
+
+@Boss 
+Death Knight: Like moths to a flame...
+
+Death Knight: I told you that if you fled, I would not chase you. But it seems you wish to die...
+
+Death Knight: I didn't expect to encounter someone like you... How fortunate.
+
+Mysterious Mage: You're too late! The seal will be broken any minute now...
+
+Mysterious Mage: It's no use! The seal is broken. You can't– Huh? A sword?
+
+%Edelgard,Death Knight
+Edelgard: There's no way around it... I accept your challenge!
+Death Knight: Oh? This will be fun...
+
+%Mercedes,Death Knight
+Mercedes: Oh my, how frightening! Won't you please go easy on me?
+Death Knight: You... Was this meeting...preordained?
+Mercedes: Hmm? What do you mean?
+
+@End 
+Death Knight: That sword is...I see. What a pleasant surprise. 
+
+Edelgard: Ugh, he got away! That sword... Why is it –
+Hubert: That's the sword that was in the casket. Seems to be shimmering, almost as though...
+
+Dimitri: He got away... We have no choice but to let them go for now. Professor... The way that sword is glowing. I wonder...
+
+Claude: The jerk got away. Was that magic? We can't even chase after him. Hey, Professor. The way that sword is shining... Do you think it could be...
+
+Catherine: Is the intruder here?! Oh... Looks like you have this under control. You! Round up any stragglers.
+Knight of Seiros: Will do!
+
+Seteth: As all of you have committed a breach of faith, the archbishop will now pass judgement.
+Shamir: Inciting a Kingdom noble to rebel. Unlawful entry. The attempted assassination of the archbishop. An attack on the Holy Mausoleum. It is unnecessary to go on, followers of the Western Church.
+Priest: What?! We have nothing to do with the Western Church!
+Seteth: You have already been identified. Please spare us your second-rate theater.
+Rhea: Dishonoring a holy ceremony is worthy of death for a member of the church. You are well past the hope of redemption. If you have any grace remaining, you will willingly offer your life as atonement for this crime.
+Priest: No! This isn't what we were told would happen! We've been deceived!
+Shamir: It's no use arguing. Whatever your excuse, the punishment stands.
+Rhea: May your souls find peace as they return to the goddess...
+Priest: Wait! Please! The goddess would never forgive you for our execution!
+Priest: Monster! We know you've already slaughtered many of our fellow brethren like this!
+Rhea: This concludes the investigation. Please remove these poor, lost souls from my sight.
+
+^start 
+Edelgard: That's that, I suppose. The assassination attempt, the attack on the Holy Mausoleum... It was all the Western Church's doing. That masked knight who led the attack somehow managed to disappear without a trace.
+Hubert: The Church of Seiros clearly isn't as unified as it would hope to appear. It seems the bishop of the Western Church was always opposed to the church being ruled centrally from Garreg Mach. Perhaps they hope to remove the archbishop in order to completely strip the Central Church of its authority.
+Byleth: The Western Church...
+Byleth: The Central Church?
+Edelgard: Ugh, that's right. Jeralt mentioned that you were raised without any exposure to the church. In order to function more efficiently, the Church of Seiros is split into several smaller entities. The Central Church is the largest and leads the organization from Garreg Mach.
+Hubert: The Western Church extends from Castle Gaspard, where Lord Lonato rebelled into the far west. They can be found just beyond the most renowned stronghold of the Kingdom, the Fortress City of Arianrhod.
+Edelgard: It seems the knights have been tasked with subduing the leaders of the Western Church. We may be give an opportunity to help them with their mission.
+Hubert: To think...our own professor was born in Fódlan and yet knew nothing of the church. I never imagined explaining something so basic to an instructor of mine. You're something of a special case, are you not?
+Edelgard: How strange that the archbishop would ask someone like that to lead her students. There's clearly more to that decision than we know.
+Caspar: Lady Rhea is pretty scary sometimes...but to execute that whole group just like that? It seems harsh, even for her.
+Bernadetta: If one of us does something bad, I wonder what she would do to us!
+Dorothea: Professor... Do you agree with the archbishop's actions?
+
+Dimitri: There you have it... It seems that the assassination attempt and the attack on the Holy Mausoleum were all the work of the Western Church. As for the masked knight who led the attack... I'm afraid his whereabouts are yet unknown.
+Dedue: It makes no sense that the Western Church would try such a thing.
+Dimitri: It just goes to show that the Church of Seiros is not completely united. The church is led by those here in Garreg Mach, and the Western Church doesn't have a strong voice on its governing council. I imagine the Western Church has harbored some resentment towards the Central Church for a while now.
+Byleth: The Western Church...
+Byleth: The Central Church?
+Dimitri: Ah, that's right. Jeralt did say that you grew up outside the influence of the church. The Church of Seiros is split into a few branches across Fódlan. The largest being the Central Church, which is headquartered right here at Garreg Mach.
+Dimitri: The Western Church lies far to the west of Castle Gaspard, where Lord Lonato held his rebellion. It's situated on the far side of the Kingdom's most impressive fortress, Arianrhod. I imagine the Western Church's intention was to eliminate Lady Rhea, and the Central Church's authority along with her. Naturally, the knights will be riding out to question the Western Church's top officials. Or rather...to punish them.
+Dedue: When they do, Your Highness, we will likely be asked to carry out said punishment.
+Dimitri: Indeed. Now, I don't mean to be rude, Professor, but I must say that your situation is rather unusual. For someone to grow up in Fódlan and yet never have any contact with the Church of Seiros is...it's hard to believe.
+Dedue: I wonder why the archbishop would hire someone like that as a professor...
+Ashe: So...those people from the Western Church were... Um, Lady Rhea had them killed, didn't she?
+Mercedes: Well, of course she did. Going against the teachings of Seiros like that. Quite unforgivable!
+Ingrid: Those who stray must be punished, I suppose. That said... Professor, I–
+
+Claude: I suppose that's that. The assassination attempt, the attack on the Holy Mausoleum... Looks like it was all a plot by the Western Church. It's just too bad that that masked knight who was leading the attack got away. Vanished without a trace.
+Hilda: But why would the Western Church want to attack Lady Rhea?
+Claude: Why? Take your pick of reasons. Relations with the Western Church aren't exactly friendly.
+Byleth: The Western Church...
+Byleth: What reasons?
+Claude: Oh, that's right. Jeralt mentioned that you grew up completely isolated from the church. The Church of Seiros is split into a few different branches across Fódlan. The Central Church is headquartered right here at Garreg Mach.
+Claude: Then there's the Western Church. Far west from Castle Gaspard, where Lord Lonato had his little rebellion, is the Fortress City of Arianrhod. It's the strongest fortress in the Kingdom. On the other side of it is the headquarters of the Western Church.
+Hilda: Not too smart to bicker with people who worship the same goddess as you.
+Claude: The bishop of the Western Church must be pretty ambitious. Probably hopes to split off completely. In which case, he'd need to weaken the Central Church's influence. Killing Rhea is certainly one way to do that. To the shock of no one, I hear the knights have been sent to subdue the leaders of the Western Church. We'll probably get a chance to assist.
+Hilda: You're an odd one, aren't you, Professor? How'd you make it this far in life without ever interacting with the church? I can't believe someone like you exists in Fódlan. It's too strange!
+Claude: If you think that's weird, consider the fact that Rhea hired Teach despite all that.
+Raphael: So, those guys they caught... They all got the axe, right? That's brutal.
+Lysithea: Lady Rhea can be rather intimidating at times. In fact...she can be downright terrifying.
+Marianne: Professor. Those who cannot be saved must be delivered to the goddess for judgement. Is that not so?
+^end
+
+Seteth: There you are, Professor. It seems Lady Rhea would like a word with you. Come with me.
+
+Lord Arundel: The archbishop lives. Not that I had ever placed much faith in those swine from the Western Church.
+Flame Emperor: I have news, both good and bad. The remains of Seiros were not in the tomb. However, something else was. The Sword of the Creator.
+Lord Arundel: Ah, the weapon wielded by that thief, the King of Liberation.
+Flame Emperor: Thief? Hm. At any rate, it is now in the hands of the academy's new professor. I doubt you will be surprised to hear that the Crest Stone had already been removed from the sword when it was found.
+Lord Arundel: Hmph. As expected. It would be foolish to keep both in the same location.
+Flame Emperor: There's more. The professor was able to awaken the sword's true power. Even without the Crest Stone, the sword glowed red. The professor's Crest is compatible. There is no mistaking it.
+Lord Arundel: Absurd. Using a Relic without its Crest Stone should be impossible... The King of Liberation's bloodline should not even... Hmm.
+Flame Emperor: They must be allowed to keep it, for now. I do not have enough information about the professor to act. As for your request, I assent. The Death Knight is at your command. Use him well.
+Lord Arundel: Good. I believe I will enjoy this a great deal...
+
+@Dialogue 
+Rhea: I cannot thank you enough for defeating those invaders in the Holy Mausoleum, and especially for protecting the Sword of the Creator. That sword is one of the Heroes' Relics, and the most precious artifact in the church's possession. It is also a weapon of terrifying power. For now...I will entrust the sword to you. Please, use it wisely.
+Seteth: Lady Rhea, wait! Do you truly mean to give the Sword of the Creator to this stranger?! Surely it is not the sort of thing that one hands over so readily, even to someone who has the ability to wield it! If someone like Nemesis were to appear again, all of Fódlan would be consumed by war!
+Byleth: Nemesis?
+Seteth: Nemesis, the King of Liberation. He is an ancient king of mankind who was defeated by Seiros over a thousand years ago. When Fódlan was attacked by wicked gods, it is said that the goddess gifted Nemesis with the Sword of the Creator. Nemesis used that sword to defeat the wicked gods, saving all of Fódlan. Henceforth he was dubbed the King of Liberation. However, his power began to corrupt him until he, himself, turned to the darkness. Saint Seiros was forced to destroy him. Lady Rhea, I beg you to reconsider. Given a little more time, we could more accurately assess this stranger's abilities.
+Rhea: No. I have faith, Seteth. Faith that our friend here will not be corrupted by wickedness. Since the death of Nemesis, none have been able to wield the Sword of the Creator. Now, after all those long years of being sealed away, it has returned and found a new master.
+Seteth: I...understand. As you wish, Lady Rhea. There you have it, Professor. See that you do not betray the trust the archbishop has seen fit to bestow upon you.
+
+Sothis: The Sword of the Creator. The King of Liberation. Each tale is more confusing than the last! And I really can't read that Rhea at all... That sword is clearly precious... So why is she so keen to gift the thing to you?
+Byleth: It certainly is strange. 
+Byleth: The sword chose me.
+Sothis: Is that a fact?
+Sothis: I feel as though we have become entangled in a mystery... And there is one more thing that has been plaguing me. The Sword of the Creator... It somehow feels distinct from other Relics we have seen. Such as the one that... Oh goodness, what was her name? Ca... Cat...
+Byleth: Catherine?
+Sothis: Yes! Her!
+Byleth: Cat?
+Sothis: What is wrong with that head of yours? Of course it's not a cat! Her name is Catherine.
+Sothis: The Sword of the Creator differs from her Thunderbrand in one key way. It bears a hole...where something should have been, but is no more. I despise not knowing what is going on! It...it frightens me. And yet... I place my trust in you. I must. Whatever comes to pass...please swear to cut a path that is your own.
+
+Claude: The Sword of the Creator… Pulled right from the legends. I finally found it, and yet it ended up in Teach's hands. Could I even use it anyway? Damn it. There's no telling what's to come…

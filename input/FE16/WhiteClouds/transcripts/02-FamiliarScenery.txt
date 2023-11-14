@@ -1,0 +1,474 @@
+@Opening 
+In honor of the saints whose births or deaths took place under this moon, the people perform music once beloved by those divine beings. Whether by harp, by flute, or voice alone, joyous melodies are shared between farmers as they sew their seeds across the vast plains of Tailtean and Gronder.
+
+@Dialogue 
+Seteth: As you have already been notified, your mission is to subdue some bandits. Our students have been learning about combat through study, but this is a precious opportunity to provide them with practical experience. The knights will support your mission and are prepared to offer their assistance if necessary. In short, this is no mock battle. You must be prepared for anything. You will receive a message from the knights when it is time to depart. Until then, use your time wisely.
+
+^start 
+Edelgard: The last time we fought bandits, you saved me. Maybe I can return the favor this time.
+Byleth: Let's do our best.
+Byleth: Don't get careless.
+Edelgard: The knights are well aware of our enemy's strength. We can count of them to keep the battlefield under control for us. It seems unlikely that we would lose. Still, let's do all we can to prepare.
+
+Dimitri: This will be our first true battle. I'm looking forward to fighting alongside you, Professor.
+Byleth: As am I.
+Byleth: I'm a bit concerned.
+Dimitri: During the mock battle, your commands were thoughtful and thorough, as was your strategy. With you on our side, I'm confident we will prevail. It seems we have some time to spare before our departure. Let's use this opportunity to prepare as best we can.
+
+Claude: More bandits? Not very original, Teach.
+Byleth: Not interested?
+Byleth: You need to focus.
+Claude: Well, as long as you're with us, at least things won't be boring. In fact... It may take a turn for the interesting. And with that, I take my leave to make my final preparations.
+^end
+
+Jeralt: You seem well. Are you adjusting to life at the monastery?
+Byleth: I think so.
+Jeralt: Oh? I didn't expect that answer. When we were mercenaries, I handled everything. Outside of battle, you didn't have much contact with people, did you? I thought being thrown into a swarm of noble brats to teach would be a bit much for you. But I guess I was wrong to worry.
+Byleth: Not quite. 
+Jeralt: Well, I didn't expect it would be easy on you. When we were mercenaries, I handled everything. Outside of battle, you didn't have much contact with people, did you? I thought being thrown into a swarm of noble brats to teach would be a bit much for you. It seems I was right to worry.
+Jeralt: By the way, I heard about those bandits. Your first assignment is to take them out, right? That's fairly routine for you by now, but don't forget it's the first real taste of battle for those brats. It'll be tougher to sleep at night if you let one of your little pupils die, so stay vigilant and lead them well. I wish I could offer you my support, but Lady Rhea won't allow it. For now, I'll try to figure out what she wants from you. I don't mind you settling into your life here, but don't let your guard down. Ever.
+
+Byleth: ... (A girl's voice... What could it mean?)
+
+@Conversation
+Edelgard: For some students, this will be their first time stepping onto a real battlefield. It's important that they're mentally prepared. As for me? Ha! Do I look green to you? Is there anything you wish to ask me about, regarding spending your time at the monastery or battles?
+Edelgard: Just as students have much to learn from other students, professors can also share their knowledge with each other. You should consider seeking instruction from Professor Hanneman or Professor Manuela. I think you'll find their insight quite interesting.
+Edelgard: Which house a student is assigned to depends on where they're from. That said, each professor has their own area of expertise. So if a student is adamant about it, it is possible to switch someone from one house to another. Pending your approval, of course. If you become closer with the students by partaking in the various activities around the monastery, you'll be able to talk to them about such things.
+
+Edelgard: You're quite powerful to have beaten us in the mock battle. Such a shame you aren't leading our class...
+
+Dimitri: We have only just arrived at the academy, and we're already being sent out to take care of bandits. It is a noble mission, but one that will likely require battle. In practice, there is little difference between a battle and a war. Even with the support of the Knights of Seiros, we must still brace ourselves for the challenge. Do you have any other questions about life at the monastery or about battle?
+Dimitri: Just as students receive guidance from professors, professors may also guide each other. If you're interested, you should seek out Professor Hanneman or Professor Manuela.
+Dimitri: A student's house is determined by their place of origin, but naturally, each individual has their own aptitudes and interests. That said, if a student so desires and their current professor consents, they may transfer from one house to another. If you get to know the students better through the activities at the monastery, they may approach you about this.
+
+Dimitri: Your performance in the mock battle was exceptional, Professor. You have inspired me to follow your example and study even more diligently. Perhaps we could train together sometime. I would love to test myself against your sword skills again.
+
+Claude: Those bandits really didn't think things through, did they? They had to have known the knights would be after them the moment they entered the monastery's turf. Fine by me, though. I'm raring for some real combat experience. Any chance to grow is a good thing. Is there anything else you want to ask me, Teach? About living at the monastery or combat, anything like that?
+Claude: Students aren't the only ones who have something to learn from their professors. Professors can also learn from each other. If you want to, you should try trading knowledge with Professor Hanneman or Professor Manuela.
+Claude: The house a student belongs to is determined by where they're from, but it is possible for someone to switch to a different one. Of course, that's only if the student very strongly wants to make the change and their professor is on board with it. If you do a lot of different activities around the monastery, you'll get closer to students and they may ask you about it.
+
+Claude: I hear you've been tasked with hunting down bandits, right? Meanwhile, my class is stuck with a downright peaceful mission. Sounds like you'll be fighting alongside the knights too. Don't let the monastery down, Teach.
+
+Hubert: I fully accept the necessity of real battle from time to time, but it is still a surprise to be tasked with punishing bandits without warning. It is a rather different sort of mission. It makes me wonder what the archbishop is planning...
+
+
+
+Hubert: I've heard your class is hunting thieves. That mission is very different from the one we were given.
+
+
+
+Ferdinand: Do you know of the Aegir family? We have long held the position of prime minister in the Empire. The Empire's power lies with six noble families, my family foremost among them. The full explanation may be time-consuming. I can give you a moment to get ready, if you would like to take notes.
+Byleth: I'm not taking notes.
+Byleth: I'm ready.
+Ferdinand: All right. I will list the six great noble families. There's Caspar's father, Count Bergliez, the Minister of Military Affairs. Then there's Linhardt's father, Count Hevring, the Minister of Domestic Affairs. Beradetta's father, Count Varley, is the Minister of Religious Affairs. Hubert's father, Marquis Vestra, is the Minister of the Imperial Household. Finally we have Duke Gerth, the Minister of Foreign Affairs, and my own father, Duke Aegir, the Prime Minister. One day, I will take his place as the prime minister of the Empire. I am more talented than anyone in my class — even Edelgard. I will lead the Empire to a bright, enlightened future.
+Byleth: I look forward to that. 
+Byleth: That sounds like wishful thinking.
+Ferdinand: There is nothing I cannot achieve.
+
+
+
+Linhardt: Swimming through a sea of countless books, tracking down that single sought-after volume... It's absolute bliss. How do the poor fools who spend their days sharpening swords and polishing armor find any joy in life?
+
+
+
+Caspar: Hey there, Professor! You here to check in on my training? Oh, that reminds me. I found this small cloth. It's kinda weird. Not really sure what it is, but it works great for wiping up sweat!
+Byleth: ...
+
+Bernadetta: Wh-what is it? I'm not doing anything!
+Byleth: It's not good to just do nothing.
+Bernadetta: I'm not bothering anybody...am I?
+Byleth: Hey, what's this cake doing out here? 
+Bernadetta: Cake?! Oh, come on... That's just cruel.
+
+Dorothea: Oh, Professor... Hello. I was just looking for my— Well, it's...it's like a pale blue cloth. Have you seen it?
+Byleth: Let's search for it.
+Dorothea: Eh? Um... OK...
+Byleth: I'll tell Manuela. 
+Dorothea: Thank you so much.
+
+Petra: Brigid has much more warmth than Fódlan. Even spring here has coolness! And you, Professor? Which do you find is worst? Too hot or too cold weather?
+Byleth: The cold. 
+Petra: I have agreeance! In Brigid, I am able to be wearing much lighter clothes.
+Byleth: The heat.
+Petra: But you are wearing many things, Professor. If you are not liking the heat, you should be wearing lighter clothes.
+
+
+
+Dedue: It is better if you do not approach me. If you spend too much time around a man of Duscur, there will be rumors.
+
+
+
+Felix: For years, the boar prince and I were inseparable. I know him better than almost anyone else. So let me give you some advice. Beneath all that princely polish, he's an animal, nothing more. He's strong and skilled, sure. But don't place your trust in him as a human being. Take care he doesn't chew you up and spit you out.
+
+
+
+Ashe: It's thanks to my adoptive father, Lonato, that a commoner like me is here at the academy. He is the very model of chivalry. Someday I'm going to be just like him.
+
+Sylvain: Professor, you're the one taking out the bandits? Heh, that's one way to start your career at the academy. I didn't realize they'd order us to risk our lives here. Seems a bit extreme, doesn't it?
+
+Sylvain: Our first assignment is to take out some bandits? Did anyone tell Lady Rhea that people's lives are at stake? I lost my own brother to bandits... ...Is something someone has said at some point, I'm sure. OK. Not my finest attempt at humor.
+
+Mercedes: The cathedral is nice and quiet. It's so relaxing... Oh, Professor. Did you come to pray to the goddess?
+Byleth: That's right. 
+Mercedes: Me too! Shall we pray together?
+Byleth: I did not.
+Mercedes: No? But shall we pray together while you're here?
+
+
+
+Annette: I've got to find out everyone's likes and dislikes so I know what to cook. Who knows when it will be my turn at kitchen duty! How about you, Professor? Do you like sweet or spicy food?
+Byleth: Sweet. 
+Annette: Ooh, same! I'll definitely remember that!
+Byleth: Spicy.
+Annette: Spicy? Ooh, your tastes are so mature! I'll definitely remember that.
+
+
+
+
+Ingrid: Felix, Sylvain and I have known each other since we were children. His Highness, as well. Though I should warn you that both Felix and Sylvain are a bit...challenging at times. The moment I take my eyes off them, they're off causing all kinds of trouble. It's always been that way.
+
+Ingrid: Now that you're all the way over here, Professor, care to join me in some training? After training, I love tending to the horses or burying myself in a good pile of books. Ahh, there's truly nothing better!
+
+
+
+Lorenz: It is the duty of every Fódlan noble to demonstrate piety toward Seiros. Have you also come to offer your prayers to the goddess, Professor?
+Byleth: Sure.
+Lorenz: You don't sound terribly sure. Perhaps you are not of noble birth? After all, devotion is not as essential for a commoner.
+Byleth: Not exactly. 
+Lorenz: I see. The truth is, I am not a particularly devoted believer either. But it would be unbecoming for a noble like me to neglect his prayers, wouldn't it?
+
+
+
+Raphael: The next assignment is to track down bandits? Sounds like some training is in order! Tell me something, Professor. When it comes to a one-on-one battle, which is better? Strength or skill?
+Byleth: Strength. 
+Raphael: I knew it! When it's all said and done, muscle always comes out on top.
+Byleth: Skill.
+Raphael: You might be right. But when it's all said and done, I still think muscle comes out on top!
+
+
+
+Ignatz: I'm so glad to be a student here, if only because I get to use this library. Reading books from all the regions of Fódlan... I feel almost like I'm visiting those places myself.
+Byleth: You should visit them in person.
+Ignatz: I'd like to. I don't have many chances to travel...
+Byleth: You can learn so much from books. 
+Ignatz: I agree! They're brimming with the knowledge and experience of our ancestors.
+
+
+
+Lysithea: There were way too many vegetables in today's meal. The ratio of vegetables to sweets was completely skewed... Oh! Hi, Professor! Were you just eavesdropping on me? Well...everyone knows a plateful of sweets is far preferred to a plateful of vegetables, regardless of age.
+
+
+
+
+Marianne: Um, Professor? Our next mission is to go after a group of bandits. I'm...not very confident. I'm afraid I'll just hold everyone else back. I should probably stay behind for this one. Or help plan the attack instead.
+
+Marianne: Uh. Hello. Um, if you'll excuse me...
+
+
+
+Hilda: I'm bored! Maybe I should go into town... But that would be such a hassle. Oh! Hi, Professor. I'm rather busy right now, so do make it quick.
+Byleth: You don't look busy to me.
+Hilda: Ah, you can tell? I suppose being a professor has taught you how to ferret out time wasters.
+Byleth: If you're busy, never mind. 
+Hilda: Are you sure? I thought you'd found me out for a moment there...
+
+Leonie: Professor! Hey, do you know how old Captain Jeralt is?
+Jeralt: That's enough, Leonie. If I don't know, how could my child know?
+Leonie: It's not normal to forget your own age, you know. It's kind of worrisome, actually.
+Jeralt: By the time you're forgetting your own age, you're past the point of caring.
+Leonie: I guess if you put it that way, you've got a point...
+
+Rhea: Thank you for paying me a visit. Is there anything troubling you? Or is there, perhaps, something I can help you with.
+Byleth: I wonder if the students are taking to me...
+Rhea: You seem to be getting along well with the students. I would advise you to be confident in your abilities. The rest will fall into place in time.
+Byleth: About the teachings of Seiros... 
+Rhea: Believers live their lives by her sacred wisdom. Please use the library's vast resources to learn more.
+Rhea: I can often be found here, so if there is ever anything you need, please do not hesitate to pay me a visit.
+
+Seteth: Inside the cathedral, there is a chapel dedicated to the Four Saints. Do you know of them? Saint Indech, Saint Macuil, Saint Cichol, and...
+Flayn: Saint Cethleann! Who is your favorite, Professor?
+Seteth: Now that you are a member of the church, be sure to familiarize yourself with our teachings and traditions.
+
+Alois: Oh, Professor! How are you today? I'm just heading out for a mission. I'll be seeing you!
+Byleth: Good luck. 
+Alois: I don't need luck! This will be a piece of cake. I'll be back before you know it!
+Byleth: Be careful.
+Alois: What make you say that? Do you know something I don't? Are there supernatural elements at play? Ghosts?! Ah...oh, forget it. I'll be going now.
+
+Shamir: Have we met?
+Shamir: No. Sorry. Must be my imagination.
+
+Jeritza: You look bored. Care to duel?
+Byleth: A duel?
+Byleth: To the death?
+Jeritza: What? I just wanted to spar...
+
+Hanneman: Excellent work guiding the students in the mock battle. Taking command like that? Simply splendid. And bearing the unknown Crest's power? Yes! I'm talking about you. Your talents are incredible, and Lady Rhea's insight as to your potential is doubly so.
+
+Manuela: You know, Professor, there are some things I'll just never understand. Like the other night, I went on a date with a dashing, handsome, strong, young knight. Oh, I'm a bit weak just remembering him. Anyway... Do you know what that no-good jerk said when we got back to my room? He said, "What a mess. I'm afraid to go in there!" Can you believe it?! You know who cares about keeping everything neat and tidy? Not me, that's who. "Afraid to go in there." Some knight he is!
+
+
+
+Tomas: Do you know about the cardinals? They are the ones who run the church. Their identities are a closely guarded secret...
+
+
+
+Cyril: That person sure does remind me of somebody, but I can't figure out who. Oh, do ya need me for something? Sorry, but I'm really busy right now.
+
+
+
+Anna: Hello there! Are you that new professor everyone's talking about? Name's Anna. I'm a merchant who slings wares all around Fódlan... and beyond! I come in here all the time, so I'm sure our paths will cross more. Hopefully much more!
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Are you settled in here at the monastery yet? Make sure to have a good look around! There's much to see! Like fish! You do know about the pond behind the dining hall, right? You can fish there! Give it a try!
+
+
+
+Knight of Seiros: We will accompany you on your assignment. We don't want anything to happen to our precious students. If any of you run into trouble, we'll step in and help out!
+
+
+
+Knight of Seiros: The Knights of Seiros are also known as the shining knights. We are the sword and shield of the divine Seiros. There are many orders of knights in the world, but we are the only one that has the honor of bearing the name Seiros. As a member of the church, you should probably study up on the history of Seiros and the knights.
+
+
+
+Knight of Seiros: I hear the Officers Academy of the monastery was founded about two centuries ago. The eastern region of Fódlan was being invaded by Almyra, and so the archbishop of the time took measures to prevent the border from being taken. In order to ensure Fódlan would be safe from potential threats, she deemed it necessary to raise a generation of excellence. That is how the establishment was founded, though its purpose has changed over the years.
+
+
+
+Monk: Zanado, the Red Canyon, is a place of great significance to the Church of Seiros. Even members of the church are forbidden from entering without permission. To go trampling around in there, causing trouble... Those bandits truly are morally reprehensible.
+
+
+
+Student: Brigid, Almyra, Duscur... Even people from far-off lands gather here at the academy. Word of advice, Professor. There are those who don't think kindly of such people.
+
+@Intro
+^start 
+Edelgard: Perfect timing, Professor. I just received word from the knights. They've located the bandits.
+Hubert: It seems they have them cornered. They are in Zanado, the Red Canyon.
+Caspar: I can't wait to get started! I'll strike down those heinous thieves before they know what hit them!
+Ferdinand: Charge ahead if you must, Caspar. Just do not put the rest of us in danger.
+Bernadetta: I'm going back. I won't be of any help anyway, and I don't want to get hurt.
+Dorothea: Don't worry, Bern. It's just some bandits. We'll have no trouble at all.
+Linhardt: Eh, don't get ahead of yourselves. Unfounded optimism isn't a great strategy. Let's just get this over with.
+Petra: There is nothing to get over. We will work with each other to achieve our mission.
+Byleth: You seem excited to get out there.
+Byleth: I'm not sure about this...
+Edelgard: It's time, Professor. Give us our orders, and let's move out.
+
+Dimitri: Professor. I just got word from the knights that the last of the thieves have been cornered.
+Ingrid: Just as planned. They're in Zanado, the Red Canyon.
+Ashe: We certainly can't allow those underhanded thieves to get away. Let's work together and do our best to take them down!
+Dedue: It matters not who we're up against. They will not harm His Highness.
+Felix: Hmph. We're just fighting common thieves, right? I don't expect much of a challenge.
+Sylvain: Aren't you a spoilsport. I'm actually quite excited myself. Who knows... There may even be some cute lady thieves.
+Annette: Hmm. Well, at any rate, a real battle is a great opportunity for us to see how far we've come.
+Mercedes: True. The mock battle was a success. We'll be fine so long as we stay the course.
+Byleth: So much excitement...
+Byleth: I hope everything turns out all right.
+Dimitri: Perhaps we are a bit overly excited, but remember that we have the knights on our side. All should be well. Ah! And speaking of the knights, I heard that Jeralt is once again one of the Knights of Seiros. Perhaps we'll have the good fortune of seeing you two fight side by side.
+Byleth: This isn't a game.
+Byleth: We've fought together many times.
+Dimitri: Oh, of course. I apologize for letting my childish whims get the better of me. In all honesty, I'm a bit jealous. My parents are no longer around.
+Byleth: What do you mean?
+Byleth: No longer around?
+Dimitri: They...they died. Both of them. I'm all that remains of them now... Anyhow, I'm sorry to bore you with such things. I'd say it's nearly time for us to depart. Eh, Professor?
+
+Claude: Hey, Teach. Glad you could make it. We've been waiting on you.
+Lorenz: It seems the knights have our foes cornered. They are in Zanado–the Red Canyon.
+Raphael: It's bandit time? That sounds like real knight work. Let's get to it!
+Leonie: I'm itching to put my skills to the test as well. We have to win so Captain Jeralt can see how much I've learned!
+Ignatz: I thought Jeralt wasn't coming with us. Either way, I'll give it everything I've got.
+Marianne: Um... Even if I go, it's not like I'd be of any use...
+Lysithea: That's enough of that. If we don't work together and give it our all, we are doomed to fail.
+Hilda: You can be pretty intense sometimes, Lysithea. But I agree! Let's do our best!
+Byleth: Everyone is so eager.
+Byleth: I wonder how we will do...
+Claude: If we fight half as well as we chatter, we'll be fine. C'mon, Teach. Lead the way.
+^end
+
+@Intro 
+Sothis: So, we are taking children into battle, are we? I am not certain I will be able to sleep soundly after beholding something like that... I shall allow you to turn back the hands of time, but know this power is not infinite!
+
+Edelgard: So this is the Red Canyon... A ruin of sorts by the look of it. Let's end this quickly. The thieves must have been driven back. Be careful, or the cornered mice might bite us.
+
+Dimitri: The Red Canyon... This is the first time I have ever been here. It's like walking through a ruin. Let's get this battle out of the way, Professor. The thieves must have already been driven back.
+
+Claude: So this is the Red Canyon? Doesn't look red to me... Anyway, let's get things started, Teach. Looks like the thieves have been driven back. That's what we last heard, so no surprise there.
+
+Kostas: The knights chased us all the way here?!
+Thief: Chief, let's get out of here! There's no way we can win against them!
+Kostas: Shut your dumb mouth! Where would we go at this point? You can't be a thief if you fear death!
+
+@Battle
+Edelgard: Professor...I hear there's a back road to the west. Why don't we split up and attack from both the west and the front? If we advance tactfully, we can attack our enemy from both sides. I leave the rest to you. Regardless, we must cross the bridge first.
+
+
+Edelgard: Regrettable...but there was no other way.
+
+Hubert: Allow me to clean this up for you, Lady Edelgard.
+
+Ferdinand: These ruffians are no match for a noble like me!
+
+Linhardt: I...I killed them. What have I done? The blood...
+
+Caspar: Are all real battles this exciting? Come on, let's get on to the next one!
+
+Bernadetta: I don't care if they're stealing! Can I go home?!
+
+Dorothea: So, is making us experience a real battle part of the church's teachings?
+
+Petra: People and beasts are as one. Calm your heart, and do not be worried about this killing.
+
+Edelgard: Thank you for leading us, Professor. Though I suppose there was no way we could lose to a familiar foe. In any case, something about this canyon feels...inexplicably strange.
+
+Dimitri: According to our information, there is a back road to the west. Let's split up and approach from the west and the front. If we advance cleverly, we attack from both sides and gain the advantage. I'll leave the rest to you, Professor. But before all else, we'll need to cross the bridge.
+
+Dimitri: I know they are just thieves, but this never gets easier for me…
+
+Felix: Finished already? I was hoping for more of a challenge.
+
+Ashe: If I’d hesitated… that would’ve been me.
+
+Sylvain: I had to do it. Don’t hate me, please.
+
+Ingrid: I can’t relax here. We need to prepare for our next battle!
+
+Annette: I did it! See? I’m a great fighter!
+
+Mercedes: I hope the goddess blesses them to rest in peace…
+
+Dedue: Still whole and sound, I hope…
+
+Dimitri: We have defeated the thieves. We'll follow the knights' instructions for what to do next. You led us well, Professor.
+
+Claude: I hear there's a back road to the west. How about we split up and attack from there and from the front? We may be able to corner the enemy by approaching from both sides. In any case, we need to cross the bridge first. I'll leave the details to you, Teach.
+
+Claude: We were taken by surprise last time, but... I guess this is what we can expect when battling thieves.
+
+Lorenz: It is a noble's duty to guard the welfare of the people. Nothing personal
+
+Hilda: I was planning to just sit back and watch. But hey, I got one!
+
+Ignatz: I'm sorry... I didn't have a choice.
+
+Raphael: This is my first real fight. I guess I'm pretty strong!
+
+Lysithea: A precious opportunity to test my own strength. I won't make waste of your deaths.
+
+Marianne: Please forgive me, Goddess...and save their souls...
+
+Leonie: This is what I've trained for!
+
+Claude: Those thieves ran out of luck when they entered this canyon. They never had a chance. Your leadership was amazing, Teach. Let's leave the rest of the work to the knights.
+
+Thief: We stole this treasure! It's all ours! There's not way we're gonna give it up to some knights!
+
+@Boss 
+Kostas: Damn, they're coming from the west too! I can't stand these brats!
+
+Kostas: Sending these brats instead of the knights means they've underestimated me! Big mistake!
+
+Kostas: I should have never listened to that idiot... What a mistake... 
+
+%Byleth,Kostas
+Kostas: Y-you're... It can't be! The mercenary from before? So what, now you're pals with the knights? I'll kill you and your pesky brats!
+
+%Edelgard,Kostas
+Kostas: Spoiled little noble! Just die like a good little rich kid!
+Edelgard: Do you really think being born a commoner gives you the right to kill? Despicable.
+
+%Dimitri,Kostas
+Kostas: Spoiled little noble! Just die like a good little rich kid!
+Dimitri: Unfortunately for you, I will not oblige. You will regret all that you have done.
+
+%Claude,Kostas
+Kostas: Spoiled little noble! Just die like a good little rich kid!
+Claude: Being noble has nothing to do with who you are as a person or how hard your life is. Your logic is illogical!
+
+@End 
+Byleth: ...
+Byleth: I remember this being a peaceful place... 
+Byleth: Since when has it been called the Red Canyon... 
+Byleth: ... ?
+Sothis: Hmm... I wonder why it is that you recall this place.  You must be weak of heart. Each time I speak, it scares you so.
+Byleth: I'm sorry.
+Sothis: Although the battle is at an end, do not feel too at ease.
+Byleth: You surprised me. 
+Sothis: Although the battle's at an end, do not feel too at ease.
+Byleth: I'm not scared.
+Sothis: Do you think you can lie to me? It saddens me to know you wish to hide such things from me.
+Sothis: Well, anyhow... I am quite fascinated by this place. As far as I can tell, this is your first time here...
+Byleth: Still, it feels familiar.
+Sothis: How very odd. I wonder if somehow, my memories have... Hmm.
+Byleth: Have you been here before, Sothis?
+Sothis: Here? I daresay it would be impossible to have forgotten such as place as this.
+Sothis: I must admit I am unsure. Beyond the name and this strange feeling of familiarity, I can't seem to remember anything about this place. And yet...a great depth of emotion is tied to that sense of familiarity. Like joy and sorrow. Pain and love. And all things in between... If I was somehow here before, I wonder what took place...
+
+Edelgard: Professor? I was wondering where you were... It's about time we headed back to the monastery.
+
+Dimitri: Professor? We should return to the monastery soon. We're all ready for the journey.
+
+Claude: Teach? What are you doing here? We should get back to the academy.
+
+Sothis: It is time to depart. But know that time reveals all things. One day, I will remember that which I have lost... Oh, by the way. It seems you've earned my gratitude. The thieves who came here are no more.
+Byleth: Why are you grateful?
+Byleth: Why are you...
+Sothis: I am not sure myself, yet I am grateful all the same. In any case... You must become accustomed to my voice! If you fall down with shock each time I speak, that just won't do.
+Sothis: Oh... You think you're standing strong? Of course you are! It was a jest.
+
+^start 
+Edelgard: On our way out, I had the chance to observe the Red Canyon... Did you notice anything, Professor?
+Byleth: What are you talking about?
+Edelgard: Oh, I suppose it was only me, then.
+Byleth: I did. 
+Edelgard: Of course. I expected as much.
+Edelgard: The area was covered in ruins, each more curious than the last. They did not match the architectural style of any era or culture within the Empire. Or across all of Fódlan, for that matter. That can only mean one thing... The valley's civilization must have flourished and fallen in the distant past, long before the Empire was established. Who do you think lived there?
+Byleth: Our ancestors.
+Byleth: A culture long since perished. 
+Byleth: Subterranean beings. 
+Edelgard:  Heh, it's possible they weren't even human.
+Edelgard: Hmm, perhaps their remnants still influence this world...
+
+Dimitri: We're finally back. I'll leave the report to Lady Rhea in your hands, Professor.
+Dimitri: Huh... Edelgard.
+Dimitri: Does the Black Eagle House have a mission to see to? Remember–on a real battlefield, one can never tell what's to come. You can never dismiss the possibility of a worst case scenario. Take care, Edelgard.
+Edelgard: There's no need to state the obvious, Dimitri. But tell me... Why the concern? Perhaps you doubt my abilities? If so, your lack of insight is disappointing.
+Dimitri: That's...not what I meant. If I've offended you, I hope you'll accept my apology.
+Edelgard: Don't worry about it. Professor, we must hurry. Everyone's waiting on you. 
+Manuela: I suppose I should be off too. Try not to let her get to you, Dimitri. I promise you, there's no need for concern. 
+Dimitri: Hmm...
+Byleth: Why are you so worried?
+Dimitri: I'll tell you all about it...some other time.
+Byleth: Puppy love? 
+Dimitri: Hahaha! Now, that's a lark. I had no idea you had a sense of humor, Professor. I'll tell you all about it...some other time.
+
+Claude: Hey, Teach. On the way back, you seemed transfixed by the canyon. Did something happen there?
+Byleth: It's nothing
+Claude: Nice try, but you can't get anything past me. You saw something...or felt something. I'm sure of it. But hey, if you don't want to share, that's fine by me. Everyone has their secrets.
+Byleth: Actually... 
+Claude: It seemed familiar to you? Huh. Can't say the same. Maybe it's a memory from when you were a child. Or from a past life. Anyway, if you can't remember, I guess there isn't really much more to be said.
+Claude: Although, I'll admit, there is something about that canyon that has me captivated as well. How did Zanado come to be called the Red Canyon? Nothing there...was actually red...
+^end
+
+@Dialogue 
+Rhea: So, you have safely disposed of those bandits. I pray that their souls find salvation. But why did they target the students to begin with? We must further investigate the true cause of all that took place. Until we know more, I ask that you support the students and relieve them of any unnecessary worry.
+Byleth: Of course.
+Byleth: I will do all that I can. 
+Rhea: Good. I have high expectations for you. By the way, how was your time in Zanado? Legend has it, in ancient times, a goddess alighted upon this world in that very canyon. For a goddess from heavens, Zanado could only have been a temporary haven.
+Byleth: A goddess?
+Byleth: A temporary haven?
+Rhea: Long ago, the divine Seiros received a revelation from the goddess. A gift, to help the lost. The goddess is always watching over Fódlan from her kingdom above. However, in ancient times, the goddess graced this world with her presence and offered salvation to the people here. She is the mother of all life, the arbiter of every soul.
+Byleth: I didn't know.
+Byleth: My father never told me.
+Rhea: I see. During your time here, I pray that you come to devote yourself to the teachings of Seiros.
+Seteth: Uh...Lady Rhea, I am sorry to interrupt. There is something I must ask about in regard to those bandits...
+Rhea: As you wish. We shall continue our discussion when next we meet.
+
+Sothis: A goddess... I have no memory of her. But then... I have no memory at all! Oh, how bothersome! It is as though I know...and yet I don't. Perhaps Zanado was my home back when the goddess walked the land. If so... What does that make me now? A ghost?
+Byleth: That must be it.
+Sothis: Are you simple?! That's impossible! I am most certainly alive.
+Byleth: I don't know.
+Sothis: Hmm... No. That cannot be. I am most certainly alive.
+Sothis: Of course, we also have the mystery of why I'm here with you. Is it somehow connected? Perhaps some past regret is stopping me from moving on, and now I'm forced to stay with you instead... No, that's not it! I can't believe in such a meaningless existence! I... I... 

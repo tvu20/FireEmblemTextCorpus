@@ -1,0 +1,323 @@
+@Opening 
+The Kingdom Army meets with Rodrigue in Ailell, the Valley of Torment. With the strength of House Fraldarius on their side, the time to invade the Empire is finally at hand.
+
+@Dialogue 
+Rodrigue: Even though it's in ruins, in some strange way, this monastery never truly changes, does it? I studied at the Officers Academy when I was young. Those memories come rushing back whenever I return. What are you doing at this hour, anyway?
+Byleth: I couldn't sleep.
+Rodrigue:  It's the same for me.
+Byleth: Nothing.
+Rodrigue: I see.
+Rodrigue: Perhaps you'll allow me to join you...
+Rodrigue: . I keep recalling my eldest son... He was quite gifted. In fact, he was appointed a knight at the age of 15. I still vividly remember the day he was granted a sword from His Majesty...
+Byleth: Your son... Isn't he...
+Rodrigue: Dead. He was killed nine years ago in Duscur. All that returned of him that day were his sword and his armor... After it happened, I said something horrible to Felix. He's hated me ever since...and I don't blame him. No matter how much you grieve, the dead will never return. No magic in the world can bring them back. That's why their memory clings to the living like a curse. The more they were loved, the tighter their hold, and the more suffering they cause... I fear I am not a strong enough man to scold His Highness for his foolishness.
+Byleth: Someone must.
+Rodrigue: Right you are... As adults, it is our responsibility to scold him and help him find his way again, but really... I'm just a failure of a man. 
+Byleth: I know how you feel...
+Rodrigue: Since this war began, we've seen countless generals, soldiers, and citizens die. It never gets easier. 
+Rodrigue: Professor... I entrust the young prince, and the future of Faerghus, to you.
+Byleth: This is unexpected...
+Rodrigue: I suppose that was a dramatic way of putting it. My apologies.
+Byleth: I won't let you down.
+Rodrigue: You're a brave one, aren't you? One worthy of leading the Church of Seiros, I daresay.
+Rodrigue: You should know that I have no intention of insisting that you take back Fhirdiad. All I ask is that you continue to rein in Dimitri's manic desire for revenge. Now then... we have received House Riegan's consent. All that's left is for us to depart. If we make it through Gloucester Territory and across the Great Bridge of Myrddin, we'll be in Empire territory. You are not afraid, are you?
+Byleth: A little.
+Rodrigue: Ha! No need to worry. Don't you underestimate the power of my soldiers.
+Byleth: I don't feel anything.
+Rodrigue: Yes.Such is war...
+Rodrigue: I'm glad you were the one to lead the Blue Lion House, Professor. I mean that...
+
+@Conversation 
+Dimitri: If you stand in my way, I will strike you down.
+
+
+
+Felix: Leaving the house in my uncle's hands? What is the old man thinking? I always knew my father was mad, but this time he's gone too far.
+Byleth: I agree. 
+Felix: My uncle is a reliable man. But still.
+Byleth: I'm actually grateful to him.
+Felix: Easy for you to say. You hardly know the man.
+Felix: Only a fool would abandon his own territory.
+
+
+
+Ashe: The area around Castle Gaspard, where I was living, is under the control of House Rowe, who have submitted to the Empire. If I hadn't come to Garreg Mach, I might have ended up as your enemy at Ailell. That thought makes me really happy to be here now. I don't think I would have been able to handle facing all of you in battle.
+
+
+
+Sylvain: I had an encounter with Lord Gwendal... How many years ago was it? Back before the academy, I met this girl who I fell madly in love with...and her dad tried to kill me. I suppose he just tried to scare me, but I was sure I was gonna die. Oh yeah, her dad? Lord Gwendal. Crazy, right? I never thought I'd seriously be trying to kill the guy in battle. I kind of don't know how to make sense of it.
+
+
+
+Mercedes: It looks like we're all set with food supplies, thanks to Lord Rodrigue! We have more soldiers to feed now, so we'll still need to ration... But I think we have enough extra to make some tasty treats! I'll go scout the pantry.
+Byleth: That would be wonderful. 
+Mercedes: We can enjoy it together over some tea!
+Byleth: We shouldn't be wasteful...
+Mercedes: That's true, but it's important to indulge every now and again. It's been so difficult lately and everyone is worn out. We won't be able to go on if we don't treat ourselves!
+
+Annette: Next we face the Great Bridge of Myrddin... We actually crossed it a long time ago. Do you remember? It was five whole years ago!
+Byleth: During the Battle of the Eagle and Lion? 
+Annette: It seems like so long ago, doesn't it? It's odd how fast time flies...
+Byleth: When we went to Remire Village?
+Annette: What are you talking about, Professor? It was on the way to the Battle of the Eagle and Lion!
+Annette: Everyone was still friends then. After the fighting, we all ate together without splitting into our separate houses. I often wish we could go back to those peaceful days...
+
+
+
+Ingrid: Just like House Fraldarius, House Galatea is currently being invaded by the Dukedom. My family is not as wealthy as most others, so we are incapable of sparing resources or reinforcements. I'm sorry. It's just so frustrating, not being able to do anything to help.
+
+
+
+Ferdinand: What used to be Aegir territory lies far to the east of the Great Bridge of Myrddin, downstream of the Airmid River. For the sake of my family, I wish we could invade the Empire from there. But I do not have the power to advocate for that. Strategically, Myrddin is more important.
+Byleth: Someday, we'll take it back. 
+Ferdinand: Thank you, Professor. I will not give in. Not until I have restored my noble pride!
+Byleth: Taking it back would be difficult.
+Ferdinand: Yes, I know it would be difficult, but I will not give in!
+
+
+
+Linhardt: Since I'm originally from the Empire, it seems no one trusts me with any important tasks. Fine by me. Honestly, I'd bet they're watching my every move to make sure I can be trusted.
+Byleth: I'm sure they're not...
+Linhardt: If I were in charge, it's what I would do.
+Byleth: Probably. 
+Linhardt: I knew it. War makes people crazy, huh?
+
+
+
+Caspar: The Airmid River separates the Empire and Alliance. It's the largest river in Fódlan. Sometimes it'll flood when there's lots of rain, but... At least the land gets some extra water!
+
+Bernadetta: War isn't kind to you if you're a recluse. By the time you realize what's going on, you're already under attack. And if you're off by yourself, you can get killed with no one ever finding out.
+Byleth: Sounds like you're learning.
+Byleth: I highly doubt that would happen. 
+Bernadetta: Oh, that'd be awful--just terrible! OK, Professor, I get it. I know I'll have to come out.
+
+
+
+Dorothea: We're going to invade the Empire...which means we'll be fighting people we know, won't we? If we're attacked by someone we know, or used to think of as a friend, is it permitted to run away?
+Byleth: No, it's not OK.
+Dorothea: Makes sense. A commander running away would be terrible for morale.
+Byleth: I wouldn't blame you. 
+Dorothea: Really? If something happens, will you keep me safe?
+
+
+
+Petra: If we can suppress this Myrddin, we can invade into the Empire. Right? I was in the Empire. Now I will be an enemy... I am having strange feelings. It is with ease that an ally turns into an enemy.
+
+
+
+Raphael: I finally got to eat a full meal for the first time in forever, and it's all thanks to Lord Rodrigue! I've got so much energy! Let me at that Great Bridge of Myrddin! I'll bust it down myself! Oh, but then how do we cross?
+
+
+
+Ignatz: The Great Bridge of Myrddin isn't just a bridge. It has the features of a fortress. I believe it was built for military purposes by the first leader of the Adrestian Empire. In other words, it's even older than the monastery. So if we occupy the Great Bridge, we'll have to search it from top to bottom.
+
+
+
+Lysithea: I'm sure you know this already, but House Ordelia is aligned with the Empire. They face the Empire from across a river, similar to the Gloucesters. Even so, I refuse to yield to the Empire a second time. The Empire did unthinkable things to my family. And to me. The only option here is winning. Professor, you must promise we will overcome the Empire.
+
+
+
+Marianne: My adoptive father is planning on supporting the Riegan family in the upcoming operation. He says it's the perfect opportunity to get both the Alliance and the Kingdom on his side. He even insisted that I promote the good name of House Edmund to the people of the Kingdom.
+Byleth: Have you managed to do that?
+Marianne: No... I'm not very good at this sort of thing.
+Byleth: Do you really need to promote them? 
+Marianne: He'll see right through me if I lie, so I can't ignore the request...
+Marianne: But I suppose I did just tell you, so that must count for something.
+
+
+
+Hilda: Claude says he's on our side. I know everything will be fine if we leave it to him! He may act like a layabout, but he's actually smart. And although Claude isn't honest about some things, you can trust him when it counts.
+Byleth: You're not calming my nerves.
+Hilda: No, I'm sure it'll be fine! That's just my gut feeling, but still.
+Byleth: Yeah, I'm not worried. 
+Hilda: Yeah, he'll do us proud! That's just my gut feeling, but still.
+
+
+
+Leonie: Lord Rodrigue seems reliable. But even with his help, aren't we still a little shorthanded? We can probably make it to the Great Bridge of Myrddin. But beyond that, I don't know. Don't let Dimitri push you too much, Professor. It'll shorten your life for sure.
+
+
+
+Seteth: So, the renowed Shield of Faerghus is now on our side. That is quite reassuring. Not only will he provide valuable support in battle, but he has also brought us much-needed supplies. We cannot grow complacent, however. We must take the Imperial capital as soon as possible.
+
+
+
+Flayn: Being here brings back all manner of memories. The days I spent studying here with you and everyone else--those days were so special to me. They truly were some of the warmest days of my life. I hold them dear in my heart. And now, to be forced to fight with those I was once so close to, my friends... It is most saddening.
+
+
+
+Hanneman: The battle at Ailell was a tactical marvel. You grow stronger with each passing day. Where does your talent end and your Crest's power begin? Are they one and the same, I wonder? Most intriguing. Yet it is quite difficult to draw useful conclusions, given the situation. It is quite unfortunate I did not achieve my research goals before the war broke out. So much unknown. Now, I fear I will not have those answers even by conflict's end. So very frustrating.
+
+
+
+Manuela: Oh, hello there, Professor. Did you need something from me? It doesn't look like you're wounded or anything. You just looking for...someone to talk to?
+Byleth: Yes. 
+Manuela: I thought so. Well, I'm here for you! Making you feel better is my top priority.
+Byleth: No.
+Manuela: Come on now, you don't have to be shy. Helping you feel better is important to me.
+Manuela: Whether it's physical pain or worries of the heart, you can come to me for anything, Professor.
+
+
+
+Gilbert: House Fraldarius is a military house. They swore fealty to the royal family at the Kingdom's founding. The current family head, Lord Rodrigue, was raised like a brother to the former king. He harbors a loyalty that goes beyond mere duty. Perhaps that is why he was willing to lend us his aid.
+
+
+
+Alois: I thought House Fraldarius had an invasion of their own to worry about. I'm impressed Lord Rodrigue was willing to provide us all these reinforcements and supplies. The knights' morale is really boosted, seeing as they have had their first good meal in a while. Let's hope we can keep this up, and take down the Great Bridge of Myrddin!
+
+
+
+Catherine: Gwendal made the ultimate sacrifice in service of House Rowe. I understand that feeling. I'd do anything for Lady Rhea.
+Byleth: But--
+Catherine: You think we should have stopped him. You might be right about that.
+Byleth: I understand it too. 
+Catherine: I'm surprised. I didn't peg you as the kind of person to say that sort of thing.
+Catherine: At any rate, it's up to the individual how to demonstrate loyalty.
+
+
+
+Shamir: So, House Riegan accepted. I knew the leader of the Alliance wouldn't refuse. Still, we can't let our guard down. There's no telling when he'll turn on us. If we advance through the Alliance into the Empire, our chances for reconnaissance will be limited. I just hope it goes according to plan.
+
+
+
+Cyril: Lady Rhea must be so scared. We gotta find her quick as we can. We got reinforcements from the Kingdom people now, right? Then we oughta be able to go save her!
+
+
+
+Rodrigue: Even after all these decades, the academy hasn't changed a bit. I remember it well, even now. I used to sneak out of lectures with Lambert almost every day... I suppose this is not the time for an old man's nostalgia. We have received approval from House Riegan. We should set out as soon as you're ready.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Lord Rodrigue is revered by all as the Shield of Faerghus. I was imagining a more stern-faced fellow, but he's actually quite friendly. Shocking! I heard that he recently spent the night drinking in the dining hall with soldiers from the church...
+
+@Intro 
+Gilbert: Our scout has returned. As expected, there are quite a few Imperial soldiers stationed there.
+Dimitri: I see. So the enemy has prepared for our arrival... It matters not. I will kill them all, whether they are one or one hundred.
+Byleth: That's not necessary.
+Byleth: Don't say such things...
+Dimitri: What would you do, if you saw the people who stole everything from you? If you saw them right before your eyes, living carefree lives and feeling no guilt. Would you feel nothing? Do nothing? Five years ago... Did you not deem the woman who killed Jeralt to be unforgivable? I am most certain that you did. You couldn't let her get away with her crime, so you took up your sword in pursuit.
+Byleth: You're wrong.
+Dimitri: I think not. We're the same, you and I.
+Byleth: You're right.
+Dimitri: Precisely my point. We're the same, you and I.
+Felix: You're wasting your time. There's nothing to be gained from exchanging words with a boar that has lost its mind.
+Gilbert: Felix...
+Felix: This is war. Every last one of us has lost someone we care for. But we choose to suppress our anger and go right on living. Do you know why?
+Byleth: Because we've given up.
+Felix: Revenge can't bring the dead back to life. Unfortunately such a thing isn't possible. Hanging onto your anger, like the boar here, is futile.
+Byleth: Because it's pointless.
+Felix: That's right. All the boar is accomplishing is stacking up more corpses.
+Dimitri: Tell me, Felix... If the dead are beyond reach, is it not also pointless to mourn or even bury those who are lost?
+Felix: Ha. That mind of yours. I'm done here. Remember, Professor. It's not compassion for this fool that has brought our army so far. There are those of us who despise the Empire, and those who side with the church. If we keep running down this path, it's only a matter of time before the ground beneath us collapses.
+Rodrigue: That's enough, Felix.
+Felix: Hmph. You're a damned fool, old man.
+Rodrigue: The soldiers are ready to march on your command.
+Dimitri: Then let's move out at once. Every moment counts.
+Rodrigue: Understood. Let's show those Empire dastards the power of the Knights of Faerghus!
+
+@Opening 
+Intent on the Imperial Capital, the Kingdom army goes around the Oghma Mountains and marches through Alliance territory as they continue south. But this route takes them through the territory of House Gloucester--Imperial supporters--so they request help from Claude, the leader of House Riegan. Claude agrees to to distract House Gloucester's soldiers, and the Kingdom army marches onward toward the Great Bridge of Myrddin to cross the Airmid River, which separates the Alliance and the Empire.
+
+After fending off the Empire, your forces decide it's time to advance. But first, you must capture the Great Bridge of Myrddin, a strategic crossing point over the Airmid River, which borders the Alliance and the Empire.
+
+@Battle 
+Ladislava: That symbol...it's an enemy raid! Stay calm and face them head-on. Send a messenger to Acheron immediately! If we're quick, we might be able to pull off a pincer attack!
+Dimitri: Edelgard's dog, huh? All the more reason to kill her.
+
+Rodrigue: Attack Ladislava and take the bridge. Shall we begin?
+
+Rodrigue: Let's deal with the enemies protecting the fortress quickly, and take control of this area.
+Imperial Soldier: Enemies approaching! Get the soldiers standing by to join the fight! We may need to hurry up preparations of the ballista too. Protect the fortress!
+
+
+Imperial Soldier: You think we'll let you take this bridge form us?
+Rodrigue: This is no good... Reinforcements keep coming, and more will soon join them.
+
+
+Dedue: Your Highness! Apologies for the late arrival.
+Dimitri: Dedue... You're alive... How?!
+Dedue: We can discuss it later. For now, allow me to join your forces.
+
+Lorenz: I, Lorenz Hellman Gloucester, have arrived to join the battle in my father's stead! 
+Alliance General: We'll ally ourselves with the Imperial soldiers too! 
+Ladislava: Thanks for making your way here. Annihilate the enemy with the rest of them!
+Lorenz: Is that...the professor? Why would someone like that join such a senseless fight?
+Ferdinand: Lorenz! Here you are. I am heading south, so I will leave this area to you.
+
+
+Ladislava: Acheron! Now's the time to show your loyalty to the Empire! Attack the enemy from behind!
+Acheron: I've got to make her name known to Her Majesty through distinguished service.
+Rodrigue: Acheron, a minor lord of the Alliance territory... If he's fighting for the Empire, we've no choice but to attack him.
+
+@Boss 
+Acheron: As they say, if you can't beat them, join them. I'm not in for a beating, am I?
+
+Acheron: Argh... I never should have allied with... the Empire...
+
+Ladislava: To repay Her Majesty's favor...I will not let you pass!
+
+Ladislava: I can't retreat... Even if it costs me my life, I've got to protect the Great Bridge.
+
+Ladislava: Lady Edelgard... I'm sorry...
+
+Ferdinand: Ladislava, no! I will protect this area!
+
+Ferdinand: After this battle, I will be known far and wide as the legendary Ferdinand of Adrestia!
+
+%Byleth,Ferdinand
+Ferdinand: Edelgard has always been obsessed with you. I am a little envious, to be frank. I will just have to impress her with my skills on the battlefield!
+
+%Dorothea,Ferdinand
+Dorothea: Oh, Ferdie. You opposed Edie for so long... I had real hopes for you, you know? Now you're following her. Is that your duty as a noble? Follow your master when they say to heel?
+Ferdinand: I will not try to explain my duty or hers. You would not understand. I wish you could. Anyway, no time for idle chitchat!
+
+@Boss
+Ferdinand: Retreat, Ladislava! Tell Her Majesty about this!
+Ladislava: We've already sent a messenger! I can't let you die while I flee!
+Ferdinand: In that case... Even if I die, you must protect this area.
+
+Ferdinand: Even if I die, please... protect this area.
+
+Lorenz: To oppose the Empire at a time like this would be entirely too reckless.
+
+%Byleth,Lorenz
+Lorenz: It's been a while, Professor. If this were anywhere but a battlefield, I would offer you tea. I've no choice but to follow the Empire, if I wish to live. I hope you will not think ill of me.
+
+@Boss
+Lorenz: Lay me to rest...in a manner that is befitting...of the nobility...
+
+Lorenz: I yield. Though I will not beg for my life. That would be unbecoming, wouldn't it?
+
+Lorenz: You're inviting me to join you? But...to abandon House Gloucester... No--I can convince my father. I will help you topple the Empire, I swear it!
+
+@End
+Dimitri: It's a farce. All of it...
+
+Dimitri: Dedue! Why...How are you here? You died. Five years ago...
+Dedue: I was saved by my brothers. Men of Duscur.
+Dimitri: Those people you were with... They were of Duscur? And they saved you?
+Dedue: Your Highness. I asked that you fulfill your long-held desire, did I not? Allow me to once again act as your sword and shield. Please, let me witness your triumph. I want to behold the moment your wish is finally granted.
+Dimitri: Dedue... Of course. And in exchange, I ask that you swear something to me, here and now. Do not ever throw your life away again. Understood?
+Dedue: Your Highness... Understood.
+
+Dimitri: Idiots. Embracing death for the sake of that woman. Truly foolish...
+Byleth: Aren't you happy we won?
+Byleth: What troubles you?
+Dimitri: I... I don't know.
+Byleth: Do you regret killing them?
+Dimitri: They were just beasts with human faces. I had no choice but to kill them, and so I did. That...that is all there is to it.
+Rodrigue: It's about time you two returned. We must discuss our next course of action.
+
+Maiden: Please! I need to join you, no matter the cost!
+Kingdom General: I'm sorry, but my hands are tied...
+Rodrigue: By the goddess! What's with all the commotion?
+Maiden: *gasps* 
+Rodrigue: What is this girl doing here? This is an army, not an orphanage.
+Kingdom General: I believe she's from a nearby village. She keeps insisting that she needs to join our ranks.
+Rodrigue: And you thought we could use a child on the front lines? Hurry up and take her back to her parents.
+Maiden: My family is gone. I don't have anywhere else to go. Please! I can use magic and I can fight! I can cook, do laundry, anything!
+Rodrigue: I'm sure there are plenty of more suitable places to find work. Why are you so fixated on this army, young lady?
+Maiden: I need...to get revenge. I must strike down the one who murdered my big brother!
+Rodrigue: Your Highness... What should we do?
+Dimitri: Let her do as she pleases.
+Maiden: Thank you...very much.
