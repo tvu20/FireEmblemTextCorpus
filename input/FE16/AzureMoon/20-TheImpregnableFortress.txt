@@ -1,0 +1,331 @@
+@Opening 
+When Claude steps down as its leader, the Leicester Alliance disbands and its lords swear fealty to the Holy Kingdom of Faerghus. The chaos in the Kingdom begins to dissipate as the people unite under Dimitri's rule. Riding this momentum, the Kingdom army prepares to march south for a decisive battle against Imperial forces.
+
+@Dialogue 
+Dimitri: We will finally have our decisive battle with the Empire this month.
+Gilbert: The eastern lords are in the process of consolidating all of the troops within the entire Kingdom.
+Gilbert: In addition, ever since Arianrhod's liberation, the western lords have been declaring their fealty one after another.
+Ashe: Affairs within the Kingdom have calmed down considerably, and we even managed to win over the Alliance.
+Annette: Although it was a rough go at first, I'm starting to feel like we could actually win this!
+Mercedes: That's true! Thinking back on it now, we've really come a long way.
+Seteth: We even have a lead to where Rhea is located. It is as we predicted all along. If we are to rescue Rhea, then we must defeat the emperor...
+Ashe: Um, if we're going to march from the monastery to Enbarr, then we'll have to cross the Great Bridge of Myrddin again, right?
+Dimitri: Yes, I believe so. As we have gained the Alliance's support, we should not have any trouble this time. After the bridge, we can head across Gronder Field and head south. And then we'll take Merceus, the so-called impregnable fortress that towers on the other side.
+Byleth: An impregnable fortress?
+Ashe: Fort Merceus... I know of it. They say it rivals even Arianrhod.
+Gilbert:  Fort Merceus is praised as the strongest defense in the Empire. 
+Gilbert: Count Bergliez, the Empire's minister of military affairs, once had troops stationed there. But according to our spies, a large scale force has entered the stronghold. Perhaps they are gathering soldiers from various regions to compensate for their losses.
+Byleth: Should we try to avoid it?
+Dimitri: If we try to avoid it, those troops will follow us and attack from the rear. It is best for us to handle the situation head-on.
+Byleth: Can we really prevail?
+Dimitri: It is unlike you to worry so. But I feel we have no choice but to strip that place of its impregnable reputation.
+Dimitri: Once we take Fort Merceus, Enbarr will be within reach. This is the Empire's last chance to stop us from arriving at our goal.
+Sylvain: In other words, if we take this fort, then our blades will at the emperor's throat in no time.
+Ashe: If this is the last fort between us and them, then the emperor will likely do everything she can to strengthen its defenses.
+Dimitri: I just received a report on that very subject. The one commanding the troops stationed at Fort Merceus is someone we have crossed blades with many times. It is the Death Knight who awaits us there.
+Mercedes: Oh... So that's who we'll be battling... Emile...
+
+@Conversation 
+Dimitri: From this point onward, we're in all-out war with the Empire. Are you prepared, Professor?
+Byleth: I am.
+Dimitri: I am glad to hear it. That means we can approach the coming battles with peace of mind.
+Byleth: Are you?
+Dimitri: I have already steeled myself as best I can.
+Dimitri: First we capture Fort Merceus. The fighting will be undoubtedly be brutal, but... we must prevail. As far as this army and I are concerned, you're our last ray of hope. We are relying on you.
+
+
+
+Dedue: Claude has stepped down from leadership, and Leicester is now a vassal state of Faerghus. The lords of the western Kingdom are beginning to declare fealty to us in greater numbers also. The Empire is our only remaining enemy.
+
+
+
+Felix: We defeated Lord Arundel. The emperor must have been surprised. If we can keep up that fervor, perhaps we'll capture Fort Merceus, and move on to the Imperial capital. We must not be overconfident though.
+Byleth: We're going to win
+Felix: You're optimistic.
+Byleth: Let's proceed with caution. 
+Felix: Yes, I concur.
+Felix: Human and beasts are ultimately the same. When they're cornered, they lash out however they can. They fight for their lives. Who knows how the emperor will lash out? We have to be careful.
+
+
+
+Ashe: I wonder where Claude will go. From the sound of it, he's leaving Fódlan altogether. He was strangely gallant about the whole thing. Even left his Relic behind. Elusive and mysterious to the end, isn't he?
+
+
+
+Sylvain: Ya know Professor, laying a siege to a keep is like asking a girl out on a date. First, you get past her defenses...then you make your move.
+Byleth: That's not the best analogy.
+Sylvain: Trust me, I know what I'm talking about. I'm a seasoned veteran at this kind of thing. Girls, I mean. I've never actually, you know, captured any keeps...
+Byleth: You might be right. 
+Sylvain: See? You get it. Our fearless leader on the other hand... He's never been good with the ladies.
+Sylvain: Anyway, I figure you go after the main gate. You take that out and I'm sure we can win. Of course, you're making the tactical calls. I'm happier to follow than to lead.
+
+
+
+Mercedes: Death Knight... Going to fight the Death Knight...
+Byleth: You seem concerned. 
+Mercedes: Hmm... To be perfectly honest, I am...
+Byleth: You'll be fine if you prepare yourself.
+Mercedes: You're right. I'll have to face him eventually.
+
+
+
+Annette: Oh, Professor! Good timing. You have to talk some sense into my father! Recently he's been doing nothing but work himself to the bone. Even when he's taking breaks from training and errands, he's apparently listening to reports. Day in and day out. He's getting on in years, you know? I just want him to take care of himself...
+
+
+
+Ingrid: Just as we suspected, Lady Rhea was taken to the Imperial capital. We must get to the capital as quickly as possible. So many people are worried sick about her... I do wonder when Claude managed to learn Lady Rhea's whereabouts. He's pretty shrewd. I can't help but admire him.
+
+
+
+Ferdinand: The majority is with us. This conflict will end soon. I am so moved by the decision that Claude and the Alliance nobles have made. That is true nobility! Acting in accordance with the people's needs and wishes. As war drags on, those living near the front lines inevitably get the worse of it. Still...Edelgard will not give in. She will push to complete her mission, no matter how many people die. Not everyone with noble blood has noble ideals.
+
+
+
+Linhardt: Attacking an impregnable fortress head-on is rather impressive... or suicidal. Depends on the day really. You know Fort Merceus's nickname, I assume. The Stubborn Old General? It may be stubborn, but its age means it's got to be hiding a few weak spots. Makes sense to aim for those areas.
+
+
+
+Caspar: Fort Merceus is next, huh? Ah, the memories. It's a huge stronghold in my father's domain. The town's completely surrounded by high walls. I used to run around there when I was a kid... Way back when the fortress was just a playground for me. Yeah, those were the days.
+
+Bernadetta: I love a good fortress - the perfect place to hide! This one's impregnable too, isn't it? Perfect! As soon as we take it, I'll set up a special spot for Bernie!
+Byleth: If we can take it, it's not impregnable.
+Bernadetta: I guess you have a point. What would you call it, then? A little pregnable?
+Byleth: It's too big to make a good hiding place. 
+Bernadetta: Now that you mention it, I guess it is pretty huge.,,
+
+
+
+Dorothea: The Leicester Alliance is no more. Three hundred years of history...gone and done. They write operas about events like this, you know.
+
+Dorothea: I'm sure they'll have a talented and beautiful songstress playing you. And with Dimitri at your side... Well, they'll probably contrive some kind of romance to keep things interesting.
+
+Dorothea: Dimitri will be played by the most handsome actor of the time. Hearts will pound as he takes the stage. What am I saying? Surely the most handsome man would play you.
+
+
+
+Petra: I have excitement in my heart for secret tactics! I enjoy attacks that are surprising. I thought we could be using attacks like that at this fortress. But I am hearing a different thing. A brute force attack with all of our power, yes? Attacks that are surprising are also safer. Attacking from the front has... is dangerous. But I will give you all of my fighting spirit, Professor.
+
+
+
+Lorenz: It appears that Claude has dissolved the Alliance. He's thrown away the pride of all the Leicester lords who have walked the path of independence from Faerghus for generations! I said from the start that he was not suitable to lead!
+Byleth: Uh-huh... 
+Byleth: But even you...
+Lorenz: ... 
+Lorenz: Well, times have changed, haven't they? I suppose we can trust the Kingdom now.
+
+
+
+Raphael: Wake up, eat, train, eat, train, eat, sleep. We gotta prepare for the assault, but that hasn't changed my routine!
+Byleth: You're doing plenty. 
+Byleth: Can't you do more?
+Raphael: All the training...and eating...I do is for the sake of Fódlan! Gotta stay strong...and fed...to keep it safe!
+
+
+
+Ignatz: My family made it through the conflict unscathed. Thank the goddess! It seems that Derdriu was the only place to really get caught up in the fighting. Did Claude intend to spare the Alliance territories from harm? If so, he's a truly admirable leader. Speaking of Claude, I wonder where he is?
+
+
+
+Lysithea: Something about Lord Arundel rubbed me the wrong way. There was something off about him. Not that I've ever heard anything good about him. Have you ever heard of the Hrym family?
+Byleth: From the Alliance?
+Lysithea: No, they're an Imperial house. Their territory is south of Ordelia's.
+Byleth: From the Empire? 
+Lysithea: Correct. Their lands are due south of the Ordelia territory.
+Byleth: From the Kingdom?
+Lysithea: No, they're an Imperial house. Their territory is south of Ordelia's.
+Lysithea: Since Edelgard's rule, Lord Arundel has been governing the territory. It seems like his reign was particularly cruel. The people there suffered greatly under him. He seemed to be a good and just person at one point. It simply doesn't make sense.
+
+
+
+Marianne: Now that the Alliance has been dissolved, what will become of the nobility?
+Byleth: I'm not sure.
+Byleth: Are you worried? 
+Marianne: No, my adoptive father knows how to get by. I'm sure he'll do well for himself in the Kingdom.
+Marianne: All of Fódlan is going to change... I suppose I'll have to change with it.
+
+
+
+Hilda: The Alliance dissolved so suddenly. Now there's widespread pandemonium! The lords are warring! Mass confusion among the citizens! Or... that's what I expected to happen. None of that seems to be taking place. They had a roundtable meeting and talked it out. Everyone's dealing very calmly with the situation. I guess if Dimitri turns out to be a crazed despot, then there really will be chaos. But he's not going to go crazy again. He's OK now... Right?
+
+
+
+Leonie: The Death Knight is guarding Fort Merceus. The same one who was linked to Monica and to Flayn's abduction five years ago. Anyway, he's one of the monsters responsible for Captain Jeralt's death. We have to defeat him!
+
+
+
+Seteth: Fort Merceus is a keep that was constructed to defend the Imperial Capital, Enbarr. We cannot enter the capital without first capturing that fort. But once we have it, the city should be almost entirely at our mercy. Now that we know Rhea is there, we must move with the utmost urgency.
+
+
+
+Flayn: The Death Knight. I shudder to think of him. Professor, you remember my connection to him, do you not?
+Byleth: Of course. 
+Byleth: Uh, what happened?
+Flayn: What! You have forgotten about when I was kidnapped five years ago?!
+Flayn: I am still working on the trauma from back then, all these years later. If we meet him, I swear I will have my revenge.
+
+
+
+Hanneman: Fort Merceus is the Empire's single most fortified military installation. Utterly impregnable, they say. I wonder, do you happen to know the nickname given to Fort Merceus?
+Byleth: The Silver Maiden
+Hanneman: No, I'm afraid that name refers to the Fortress City of Arianrhod.
+Byleth: Fódlan's Locket
+Hanneman: That one is a fortress that stands at Fódlan's Throat.
+Byleth: The Stubborn Old General 
+Hanneman: Indeed! A very good answer, but of course you'd know that.
+Hanneman: Seems Fódlans give everyone and everything a nickname. Why, you were called the Ashen Demon! Myself, I have been called the Father of Crestology, which is a nickname as well as a title, I suppose...
+
+
+
+Manuela: Each step closer to Enbarr, I'm reminded of another part of my past. Riches and poverty, glory and failure, that city has it all! And if I'm honest... sometimes I miss it. That's how the past works though, isn't it? It's always a different story than what you really lived.
+
+
+
+Gilbert: Even in the Kingdom, only a few people knew about His Higness and Edelgard's relationship. Me? I always knew those two to be like brother and sister. To think that we would come to see this world, where they are at war with one another... I live it, and I can still barely imagine such a truth.
+
+
+
+Alois: So, Lady Rhea was in the Empire all this time. Wish I'd known that five years ago, but there's nothing we can do about it now. What we can do though is topple the Empire! Will you seize victory with us, Professor? For the sake of the late captain!
+
+
+
+Catherine: We took quite the detour. It was time-consuming, but finally we got the information we needed. We crush the Empire, we get Lady Rhea back. Two birds, one stone. First, we take Fort Merceus. I'll put my heart in it. I'll crack 'em like a rusty helmet.
+
+
+
+Shamir: Weren't the Kingdom and Alliance once part of the same country? If you think about it that way, it makes sense for them to unite. I suppose the Kingdom was once part of the Empire as well. Even if Fódlan came together, I wouldn't be surprised if it fell apart again
+
+
+
+Cyril: Is it true Lady Rhea was taken to the Empire? Why'd they take Lady Rhea? Professor... they didn't take her to kill her, did they?
+Byleth: I don't think so.
+Cyril: That's good. We just gotta beat the Imperial army and get her back, right?
+Byleth: They probably haven't killed her. 
+Cyril: Yeah, good point. If they did, we'd have heard about it by now.
+Cyril: You gotta help her Professor. I'm begging ya.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Is it true that we'll be assaulting Fort Merceus next? That doesn't sound like the brightest idea... I've heard that it's built to withstand an attack from even the largest of armies! Not to tell you how to do your job, but don't do it! I'm not ready to say my final good-byes to everyone...
+
+@Opening 
+The Kingdom army crosses the Great Bridge of Myrddin a second time, moving south through Gronder Field. However, in order to reach Enbarr, they must first seize the impregnable Fort Merceus.
+
+@Intro 
+Dimitri: Fort Merceus... said to rival Arianrhod, the Silver Maiden. Perhaps a head-on siege was a foolish plan, after all.
+Gilbert: No, you're right that it's the only way. I don't think the Death Knight would have fallen for any tricks. Even if they are denied supplies, they could hold a fortress like this for months. And we cannot discount the possibility that they will receive more reinforcements if our siege is delayed.
+Dimitri: Yes, my thoughts exactly. Then we have no option but to do the best we can. Say, Professor... In the past, it seemed the Death Knight took some strange satisfaction from his fights with you. He's an unpredictable opponent. A dangerous one. Please proceed with caution.
+Byleth: No need to worry.
+Dimitri: I have not come this far just to lose you here. I'm serious. Do not be reckless out there.
+Byleth: Will you save me if I'm in trouble?
+Dimitri: Of course. You were the heart of the Blue Lions, and the same holds true for the Kingdom Army.
+
+Dimitri: Mercedes...
+Mercedes: So, the Death Knight really is inside that fortress. Dear Emile...
+Dimitri: I want you to know that no one is forcing you to battle with us at the front lines. I support whatever you decide.
+Mercedes: Please, stop. We can't have you saying that. You and I are the same after all. We both have to fight our family for the good of the world... And since that's the way it is, I couldn't live with myself if I was the only running away from this battle. I will bring Emile back to his senses. I must. I'm his big sister, after all.
+Dimitri: Understood. Stay safe out there, Mercedes.
+
+Death Knight:  That man approaches...
+Imperial Solider: Report! The main gate has been breached!
+Linhardt:  Ugh... How did I get tangled up in all of this...
+Death Knight: You are finally here... Will death's scythe claim you... Or will I fall to that sword of yours... And Mercedes... Here you are as well...
+
+@Opening 
+After saving the embattled Alliance, you march south to Empire territory. Fort Merceus, said to be impregnable, stands between you and Enbarr, the Imperial Capital.
+
+@Battle 
+Death Knight: They broke through the main gate... Trample them. All save... that man...
+Dimitri: Even though we smashed the main gate, Fort Merceus is still an ironclad fortress. And the enemy commander is the Death Knight. We must not falter in our assault!
+
+Dimitri: I now see why they call this keep impregnable. Everywhere you turn is defensive weaponry. We must capture all of those locations as we push forward. If even one of them takes a shot at you, we will be in trouble.
+
+Death Knight: Fools. Push forward and surround them...
+
+Gilbert: Worrisome. They have a leader capable of summoning reinforcements. If we find and strike down that person, we can prevent further interruptions.
+
+Gilbert: There will be no further reinforcements from this side. However, the other side is still in action.
+Dimitri: If they call in more reinforcements, we'll be in great danger. We must take down the other commander as well and fast.
+
+Dimitri: Good. Now we should not have to worry about any more reinforcements crashing the party.
+
+@Boss 
+Caspar: Did you have to kill a lot of your friends to get here? Cause I'm gonna give this fight everything I've got!
+
+%Byleth,Caspar
+Caspar: It's way over my head, and I don't really get what's going on between you and Edelgard. I thought for sure you two would come to an understanding, but I guess I was wrong.
+
+%Linhardt,Caspar
+Caspar: Looks like we ended up on opposing sides, Linhardt!
+Linhardt: Certainly seems that way. I could almost weep over how things turned out. Do you realize, Caspar, that this is the first time we've ever fought?
+Caspar: Yeah, I think you're right. The first and probably the last!
+
+@Boss
+Caspar: Don't worry about me... I always knew... losing meant death...
+
+Linhardt: I'd rather not fight, yet avoiding it is more frustrating and fruitless than engaging in the battle itself.
+
+Linhardt: Ever since returning to the Empire, I knew this day would arrive. I just hoped it might take a bit longer. Ugh...
+
+Linhardt: I hope someday there will be no fighting and we can all just... nap the afternoon away...
+
+Death Knight: I have no need of you.
+
+%Byleth,Death Knight
+Death Knight: You're stronger now. Whether I kill you or you kill me, I'm looking forward to this!
+
+%Dimitri,Death Knight
+Death Knight: You dare stand between me and my pleasure?
+Dimitri: Yes. I dare stand against you, Death Knight.
+Death Knight: Death is all that remains...
+
+%Mercedes,Death Knight
+Mercedes: I came here to get you. Let's return together... Emile.
+Death Knight: Leave... The place of your death is not here...
+Mercedes: No! I won't! I... I refuse to run from you anymore!
+
+%Flayn,Death Knight
+Flayn: So it's you, Death Knight! Remember me?!
+Death Knight: You again. Here to lose more blood?
+Flayn: Never! You will not lay a hand on me ever again!
+
+%Seteth,Death Knight
+Seteth: You will not escape, Death Knight. Today you will be unmasked!
+Death Knight: My true identity has no value.
+Seteth: I will be the judge of that, once I've seen your face.
+
+@Boss
+Death Knight: To kill, to die... To know one without the other would be maddening...
+
+@End 
+Dimitri: The enemy general has been vanquished! Everyone,move to gain control of the keep! Victory is ours! Raise the banner of the knights. May it soar proudly over the impregnable fortress!
+Mercedes:  Oh! I have to meet... I have to meet Emile!
+
+^locked
+Mercedes: Emile... I'm so sorry... This is all my fault for leaving you behind when I left House Bartels. I should have gone back for you sooner...
+Jeritza: Argh...
+Mercedes: I'm sorry for not being a better sister to you.
+Jeritza: Mer...cedes...
+Mercedes: Please forgive me, Emile...
+Annette: Mercie, we need to go. Now.
+Mercedes: ...Good-bye...
+^end
+
+Gilbert: Your Highness, our capture of the fortress is complete.
+Dimitri: Now the path to the Imperial Capital is finally opened to us. Once we've finished cleaning up after the battle, let's have another meeting to discuss our next move.
+Byleth: We should have a victory celebration.
+Dimitri: It would be one thing if we were at home or at the monastery, but to waste our resources like that here would be most-
+Byleth: Aren't you overworking yourself?
+Dimitri: Naturally. But it matters not. Consider this... Once this war is over, the mountain of official business on my plate will be even taller. If I can't handle at least this much, how will I-
+Kingdom Soldier: Pardon the interruption! We've just received a letter from Margrave Gautier.
+Dimitri: Very well. I will read it at once.
+Dimitri: I see... It seems the conflict within Faerghus has at last come to an end.
+Kingdom Soldier: Yes, Your Highness! The Margrave and the other eastern lords are at the center of it, and are gathering the Kingdom's military forces even now, They intend to join with the Alliance army and send troops and supplies to the monastery.
+Sylvain: Whaddaya know... My old man is really pulling his weight. Did he seem well?
+Kingdom Soldier: Yes, as well as can be expected. He has taken it upon himself to bring order back to our troubled territory while His Highness is away.
+Dimitri: I am truly in the Margrave's debt. I will be sure to thank him properly at first opportunity. Thank you for the information. Now tell me, did it seem to you that my presence was needed back at the monastery?
+Kingdom Soldier: Well... I do have a verbal message from the Margrave on the subject.
+Dimitri: A verbal message? How strange...
+Kingdom Soldier: The other day, he arrested one of Viscount Kleiman's men. And, well... The prisoner has claimed involvement in the Tragedy of Duscur. He has implicated his lord as well.
+Dimitri: Go on.
+Kingdom Soldier: I was told they would be transporting this man to the monastery along with the troops and supplies. The Margrave said that regardless of the credibility of the man's testimony, how he should be dealt with was your decision alone, Your Highness.
+Dimitri: Very well. All things considered, I will return to the monastery at once. Will you come with me Professor?  Thank you.

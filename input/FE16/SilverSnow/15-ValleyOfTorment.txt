@@ -1,0 +1,278 @@
+@Opening 
+Having repelled the Imperial vanguard, the resistance army, in desperate need of troops, seeks help from Judith, head of House Daphnel - the governing body in the northwestern regions of Alliance territory.
+
+@Dialogue 
+Seteth: Ah, it's you.
+Flayn: We were just talking about Rhea...
+Seteth: We have searched for five long years but have not found a trace of her. It is possible that she is sleeping somewhere... Just as you were sleeping all those years.
+Byleth: Is that what you think?
+Seteth: That is my current theory, yes.
+Byleth: Perhaps. 
+Flayn: Do you think so? I truly hope that is the case.
+Seteth: We have moved against the Empire with the intent of defeating them, but have not given up hope of recovering Rhea. If she is alive, we will find her. Rhea is like family to us...and to you, as well. Please, lend me your strength...
+
+Seteth: The messenger we sent to Daphnel returned with a reply. Please, read it at once.
+
+Judith: I understand your situation. I will help you with whatever strength I have to spare. But there is a problem. Openly marshaling soldiers within my territory could provoke other members of the Alliance. Therefore, I will secretly gather troops in Ailell, the Valley of Torment. Will your group be able to receive the soldiers in this location? From there, it should be safe to return to the monastery by following the border between the Alliance and the Kingdom.
+Byleth: Ailell, the Valley of Torment...
+Seteth: Ailell is a deep valley located on the border of the Kingdom and the Alliance. People stay far away. There, we can meet without anyone finding out. It is decided. Make plans to meet up with our reinforcements at once.
+
+Church Soldier: Ailell, the Valley of Torrment...
+
+@Conversation 
+Ferdinand: Some day we will take the Imperial capital. It is odd to think that I will be invading the very city that I once called home. Ah, that is still a ways off. I will prepare for our journey to Ailell.
+
+
+
+Linhardt: I never do get used to the sight of blood. It always makes me feel as if I might faint. I suppose I've told you that though, yes? I've no idea how you cope with it. I hope this war ends soon. I dislike being lightheaded because other people are bleeding everywhere. Though the thought of working hard for it does sound like quite a pain...
+
+
+
+Caspar: I didn't think we'd end up fighting Randolph... He's my uncle. Well, not by blood, so... I guess I can handle it.
+Byleth: I'm still worried about you.
+Caspar: Don't worry about me. I'm ready for anything.
+Byleth: You're very resolute. 
+Caspar: Don't worry about me. I'm ready for anything.
+
+Bernadetta: Ailell, the Valley of Torment? What kind of a name for a place is that? It sounds scary. Do I really have to go with you? Hey, um, here's an idea... Maybe let the recluse stay home and hold the fort!
+
+
+
+Dorothea: Hey, Professor, thanks for your hard work again! Nothing to report today! Was I convincing? Was it like he was standing right in front of you? Some things are the same as they were five years ago, but I guess a lot more has changed...
+
+
+
+Petra: Since the past, I have learned much of the language of Fódlan. But speaking the Fódlan language still gives me difficulty. I can understand, read, and write with nearly perfection now. But understanding and speaking are...fruits of a different color.
+Byleth: That's part of your charm. 
+Petra: I have gratitude for you, Professor. I hope that I will have fluency one day.
+Byleth: Everyone has a weak spot.
+Petra: Yes. I will keep practicing more.
+
+
+
+Felix: Some in Faerghus believe Dimitri is still alive. My father is one such eccentric. Hmph, they can't accept reality. Dimitri is dead. He's not coming back.
+
+
+
+Sylvain: Ailell, the Valley of Torment. Aw, man... I really do not want to go there.
+Byleth: Pull yourself together.
+Sylvain: Professor, have you ever been to Ailell? If you had, you'd know. That place is crazy hot! For guys like me who grew up somewhere cold? Man... It's gonna be rough. Though, I guess that climate will keep our enemies at bay.
+Byleth: Why not? 
+Sylvain: That place is crazy hot! For guys like me who grew up somewhere cold? Man... It's gonna be rough. Though, I guess that climate will keep our enemies at bay.
+
+
+
+Mercedes: We may not be students anymore, but it's still important to read. We might even learn something that's useful for our next battle.
+Byleth: Studying is important.
+Mercedes: I couldn't agree more! I hope the Officers Academy reopens when the war is over.
+Byleth: Training is important too.
+Mercedes: I suppose that may be true. I always try my best at both.
+Mercedes: It's a shame the monastery was ruined, but... At least the books are still intact!
+
+
+
+Annette: Professor, is it really OK to rely on Judith? I hear there are still quarrels within the Alliance... This generous offer of soldiers and supplies seems a little too good to be true. I mean, it's also really impressive, but I'm just a little worried, I suppose...
+
+
+
+Ingrid: My family, the Galateas, are an offshoot of the Daphnel family. The family split in half when two brothers quarreled over an inheritance. Despite blood relations, the families lived apart from one another, so the relationship has been distant and somewhat estranged. I'm not so much acquainted with Judith, the head of House Daphnel.
+
+
+
+Raphael: Sharing her food with us for nothing in return? Judith really is a great person! She's more like a goddess than the goddess is!
+Byleth: She is very much like a goddess. 
+Raphael: I never met her, so I don't know for sure, but she must be beautiful and kind.
+Byleth: I'm not sure about that.
+Raphael: No? Well, she can be a demon for all I care, so long as she feeds me!
+
+
+
+Ignatz: The Valley of Torment... I'd heard of it, but I never expected to go there. It's exciting! I wonder what the landscape is like.
+Byleth: It sounds dangerous.
+Ignatz: It probably is dangerous, but I still want to get there and see it as soon as I can.
+Byleth: It sounds painful. 
+Ignatz: Hmm, that is an interesting point... The name does seem to suggest that.
+
+
+
+Lysithea: Ailell, the Valley of Torment, lies on the border of three noble territories. The Kingdom's Fraldarius and Galatea families, and the Alliance's Daphnel family. In the Fraldarius lands to the north, the former Kingdom army and new duke's army are fighting.
+
+
+
+Marianne: Valley of Torment... Valley of Torment...
+Byleth: Something wrong? 
+Marianne: I once read a book full of legends surrounding Ailell, but I can't seem to remember...
+Byleth: Are you chanting some sort of curse?
+Marianne: N-no... I'm trying to remember the legends surrounding Ailell...
+
+
+
+Hilda: My big brother told me stories of Judith's bravery. With just one look, she tamed a runaway horse that nobody else had been able to touch. When an Almyran general provoked her, she talked him into a tearful apology. She's spectacular. I wish she'd fight alongside us.
+
+
+
+Leonie: You're not a teacher anymore, and we're not your students, but everyone still calls you Professor. Is there something you'd rather be called?
+Byleth: Professor is fine.
+Leonie: Guess that's what we're used to, huh? All right.
+Byleth: Call me by my name. 
+Leonie: Oh? All right, then. I'll call you--ugh. Nope! Sorry, can't do it. Too weird.
+
+
+
+Seteth: Meeting reinforcements in the Valley of Torment seems like an astute decision to me. In that land of oppressive heat, it is unlikely that we will be disturbed. It also means we will contend with those harsh conditions ourselves, however. Best ensure we are well prepared.
+
+
+
+Flayn: It has been only five years, yet so much has changed. Half of the Kingdom has fallen to the Empire, Skirmishes are rife throughout the Alliance. Despite such tumult, we look upon the same sky, unchanged by the storm happening beneath it.
+Byleth: Do you wish you could return to those days?
+Flayn: Yes, it would be nice, I suppose. Things were... simpler then. Or so they seemed to be, at the time.
+Byleth: It's true--it's just like it was all those years ago. 
+Flayn: Indeed. I gazed up at this same sky with Mother and Father. It does not feel so long ago at all. Wait, but how would you know, Professor?
+
+
+
+Hanneman: The monastery repairs have made solid progress. Most excellent news. When we first returned here, I was unsure what we were going to do with the ruins of this place... But if we can get the cathedral rebuilt, we'll have it looking just like old times soon enough.
+
+
+
+Manuela: Hearing that an old student has died cuts me right to the heart... As this war with the Empire continues, we'll see more of it, Professor. We have a duty to fight alongside our students. We taught them how to fight, after all. Now, let's help them win!
+
+
+
+Alois: Even though we're getting reinforcements, we should still be prepared for the worst. Never shirk your training, no matter what. To practice, I'm going to chop something up with my sword. Unless you'd like to train together! Care to spar?
+
+
+
+Catherine: I've heard people talk about the Hero of Daphnel. If the stories of her courage are true, no one will be able to stand against us. In different circumstances, I'd have wanted to try crossing swords with her. Right now, we have to focus on getting those reinforcements. Let's hope nothing goes wrong.
+
+
+
+Shamir: There are enemy spies around. Remain vigilant. Capture anyone who seems suspicious.
+Byleth: To kill them?
+Shamir: What else would we do with them?
+Byleth: All right, I will. 
+Shamir: I'm glad you understand. I'm counting on you.
+
+
+
+Cyril: Gotta clean out the storerooms, tend the flowers, do the washing, dust the library...
+Byleth: That sounds like a lot of work.
+Cyril: Well, it's my job, ya know? Gotta do your job.
+Byleth: Do you need any help? 
+Cyril: Nah, this is my job. Lady Rhea herself gave it to me. Even if Lady Rhea's not here right now, I still gotta do my duty.
+Cyril: Like you. You gotta have other stuff you oughta be doing, yeah?
+
+
+
+Anna: There's unrest everywhere these days. All of my fellow merchants seem to be endangered. I hope things go back to normal soon. People need more to smile about, aside from my great deals.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Is everyone setting out on a big campaign? Not exactly? Ah, so you're meeting up with the reinforcements. Well, you can leave guarding this place to me! I'll keep an eye out for anything suspicious!
+
+@Opening 
+In response to the resistance army's plea, Judith has agreed to provide soldiers. To meet up with the reinforcements, the resistance army sets out for Ailell, the Valley of Torment. Unbeknownst to them, something else awaits them there...
+
+@Intro 
+Linhardt: I'm overheated and have changed my mind. I'd like to return to my cozy bed now.
+Bernadetta: Who knew somewhere so hot existed in Fódlan. I wonder if it's OK to walk everywhere...
+Ferdinand: Just use the superior emotional fortitude of nobility. And, well...be very careful.
+Seteth: It is said that this land was born of the goddess's wrath. There was an immense battle here long ago. To end it, she set the entire valley aflame. Of course, there is no record of this. Some theorize this was done by another and then blamed on the goddess...
+Petra: My head is being defeated by this heat. I think I am seeing visions... There, within the mountains... A shadow...
+Caspar: That's just the-- Whoa. I see it too.
+Seteth: It appears to be a military force...but in a different location than the one we agreed to.
+Byleth: It's an enemy raid.
+Seteth: They are dressed like Kingdom soldiers... They fooled us!
+Byleth: They might be allies. 
+Seteth: Hold a moment... They are dressed like Kingdom soldiers! Is this an ambush?
+Shamir: Damn... I thought we had disposed of all the spies.
+Catherine: They carry the flag of House Rowe... They've joined the Empire, then. To think they'd travel all this way.
+Seteth: Are you ready to confront them, Professor?
+Byleth: I'm worried about Judith.
+Seteth: As am I. We have no reason to believe she was intercepted en route, but we must act quickly. Let us take them down and locate Judith's army!
+Byleth: We must break through.
+Seteth: Yes, we must defeat them quickly and locate Judith's army.
+Seteth: They have chosen the Valley of Torment for this battle, and so we shall send them to the flames of eternity!
+
+@Opening 
+Your party travels to Ailell, the Valley of Torment, to meet up with allied troops and secure reinforcements. It should have been a safe march...
+
+@Battle 
+Gwendal: The Valley of Torment... Perhaps a good place to finish off my life as a knight. Only if that puny force of children is able to kill me, of course...
+Seteth: That lion banner--it seems Gwendal is the one leading the troops of House Rowe. He is an experienced general, renowned throughout Faerghus. Let us hold nothing back.
+
+Seteth: This is Ailell, the Valley of Torment. Expect this smoke and fire to assail us at every turn. Touching the flames of torment will get you worse than a scorching. Proceed carefully.
+
+Gwendal: The Crest of Flames? Ha! Quite full of themselves, aren't they?
+Ashe: Just as I thought--the professor's army. But it's too late to back out now. In Lonato's place, I have to do my duty.
+
+Kingdom Soldier: Here we go! Attack them from both sides!
+
+Judith: Oh, old Gwendal is here. And he doesn't look to be an ally...
+Gwendal: Oh, the Hero of Daphnel is here! I'll expect more from her than the young ones...
+Defeat Conditions: All of your units fall in battle, or Judith is defeated.
+
+@Battle-Talk 
+%Byleth,Judith
+Judith: You... No, let's leave the pleasantries for later. First, I want you to take this. It's nothing important, but it may prove useful.
+
+@Boss 
+Ashe: Forgive me... But as Lonato's son, I have a duty!
+
+%Byleth,Ashe
+Ashe: I don't want to fight you, Professor... But this is how it has to be. There's no turning back.
+
+@Boss
+Ashe: I know this is it, but... I don't want to die...
+
+Ashe: You want to spare me? Why? I'll... I'll do it. I'll join your side. Let me fight for you.
+
+Gwendal: Does a whelp like you really expect to kill me? I am Gwendal, the Gray Lion, a knight by the hand of Count Rowe! Do your worst!
+
+Gwendal: Ah, so I have found a place to die... Young ones... I thank you...
+Seteth: That was quite a predicament. But now we can see to the objective we had in mind.
+
+@End 
+Judith: To think we'd get into a scrap here of all places. We're lucky we all made it out alive.
+Byleth: I'm sorry for involving you in this.
+Judith: Don't worry about it. In this day and age, it's a miracle I've been unscathed this long.
+Byleth: I see why they call you a hero.
+Judith: Well, that's ancient history.
+Judith: So you're that professor everyone talks about. You're just as Claude described.
+Byleth: Claude?
+Judith: He asked me to help you because you seemed trustworthy.
+Byleth: That professor everyone talks about?
+Judith: You used to teach at the Officers Academy five years back, right? I guess you didn't teach Claude, though. He asked me to help you because you seemed trustworthy.
+Seteth: Claude of the Alliance? How did he learn of our plans? We can't underestimate someone like him... There is a reason they call him the Master Tactician. But I suppose we are both fighting against the Empire now. The enemy of our enemy is our ally.
+Judith: That's right. I have a letter from him as well.
+Judith: It's up to you to decide how to use it.
+Seteth: That is yours, Professor. Please tell me what it says when you see fit.
+Judith: OK, let's wrap up this hand-off of soldiers. Not that I suspect you of anything, but... I must warn you that these are very important soldiers for my territory. Don't treat them like expendable equipment.
+Judith: Oh. By the way, I have some important information. A witness saw Lady Rhea being dragged off by the Imperial Army after the battle five years ago.
+Alois: Are you sure your source is reliable?
+Judith: One of my own saw it happen. I'm certain.
+Alois: It seems we chose wisely when decided to fight against the Empire.
+Seteth: Thank you for the information. We will rescue her at all costs.
+
+Seteth: Now that we have reinforcements, it is time to advance against the Empire. And yet, we do not have enough troops to face our enemy's main army head-on. We have no choice but to use our small numbers wisely by taking over key locations as we blaze our way to the Imperial capital.
+Byleth: It's an easy win. 
+Seteth: Do not indulge in being overly optimistic. It would be our ruin.
+Byleth: It will be a fierce fight.
+Seteth: Yes, it will. We must brace ourselves.
+Seteth: As you know, the Oghma Mountains lie south of Garreg Mach, towards the Empire. In order to enter Empire territory, we must travel around those mountains. There are two possible routes--through the Kingdom to the west, and through the Alliance to the east.
+Byleth: Let's go west.
+Seteth: The western half of the Kingdom is under the Empire's control. It may be too dangerous to pass through there. I suggest we take the eastern route, for safety.
+Byleth: Let's go east.
+Seteth: Yes, that makes sense.
+Seteth: There are lords in the Alliance who support the Empire, but they are, at least, not completely under their control. Furthermore, you hold a key to the Empire within your grasp.
+Byleth: Claude's letter?
+Seteth: Yes, precisely.
+Byleth: The Sword of the Creator?
+Byleth: My charm?
+Seteth: This is no time for tomfoolery. I am referring to the letter from Claude.
+Claude: Hey there, Teach. It's been a while, hasn't it? I never dared to imagine you might still be alive. Wonders never cease! I don't know exactly why, but I feel that I can trust you. So I'm going to do just that. To that end, I propose an exchange. You're intending to invade the Empire. That much is clear. And that means your only option is to pass through the east. You'll have to cross the Airmid River, which runs along the border between the Empire and the Alliance. That means you'll need to gain control of the Great Bridge of Myrddin, the one closest to Garreg Mach. It just so happens that my family, House Riegan, is in conflict with House Gloucester right now. It would be easy enough for us to eliminate them, but I would prefer that we settle things without it coming to that. Do you see where I'm going with this? We'll act as a distraction and draw House Gloucester away from there. That will allow you to cross through their territory and take the Great Bridge of Myrddin. After you take the bridge from the Imperial army, House Gloucester won't be able to receive their aid. You'll get to cross Myrddin without any trouble, and I'll be able to maintain stability in the Alliance. Not a bad deal, eh? I hope to hear from you soon. Be well, Teach.
+Seteth: The Master Tactician, indeed. Somehow he is already aware of our plan. The conditions are not bad... All is he says it is. If we take the Great Bridge of Myrddin, and House Gloucester bows down to House Riegan... The route from the monastery to the Empire will be much safer for our forces.
+Byleth: Let's do it.
+Seteth: It seems you are decided. We will send our answer at once.
+Byleth: I'm suspicious.
+Seteth: I am afraid we have no choice, considering the circumstances...

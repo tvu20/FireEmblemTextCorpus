@@ -1,0 +1,442 @@
+@Opening 
+Now in control of the Great Bridge of Myrddin, the Kingdom army begins to invade Imperial territory. In response, the Imperial army garrisons soldiers at Fort Merceus.
+
+@Dialogue 
+Gilbert: We have received a report from our spy. It would seem the Empire is gathering troops at Fort Merceus. This is undoubtedly in response to us taking the Great Bridge of Myrddin. Their numbers are more than double ours. We believe that the emperor herself may be leading them...
+Dimitri: ...
+Gilbert: If House Riegan can reconcile with House Gloucester sooner than later... Then Claude can proceed with his plan to rally the Alliance lords, gather troops, and invade Empire territory.
+Rodrigue: At this rate, three military forces will be clashing at Gronder Field.
+Byleth: Just like five years ago...
+Byleth: Just like the Battle of the Eagle and Lion...
+Dimitri: If you wish to indulge in nostalgia, do it elsewhere.
+Rodrigue: I'm afraid the difference in military strength is far from negligible. While we are elite soldiers, I am still uneasy about this...
+Gilbert: If possible, I'd like to request reinforcements right away. If we can rely on any of the major Kingdom houses for military support, it would be...House Charon, I'd wager.
+Byleth: Why them?
+Gilbert: House Charon has yet to declare fealty to the Empire.
+Catherine: It is also...my home. I will make the request to my father. With things as they are, I don't think he can refuse. The church has long protected me. I am certain that any request from the church will be answered to the utmost of their ability.
+Rodrigue: Very well. We're counting on you, Catherine.
+Gilbert: I suppose that is all we can do for now.
+Rodrigue: So it would seem. Though, if there are any other avenues worth exploring, I would suggest...
+Byleth: Allying with the Alliance?
+Gilbert: Ah, good point. We have no reason to engage the Alliance directly.
+Rodrigue: Even if we do receive Count Charon's aid, we still won't have the troops we need to face the Empire.
+Gilbert: But if we join forces with the Alliance, then our numbers will rival the Empire's.
+Byleth: Let's join forces.
+Gilbert: Agreed. It's about the only thing we can do.
+Byleth: Let's wait and see.
+Gilbert: If we wait too long, we'll lose the advantage...
+Gilbert: For now, let's send a messenger, and try to figure out what the Alliance hopes to achieve.
+Rodrigue: It's hard to believe this decisive battle will take place at Gronder Field... I image that place is full of memories for all of you.
+Mercedes: We won the Battle of the Eagle and Lion back in the day. It seems like a lifetime ago...
+Ashe: I can't help but remember, even though I wish I didn't.
+Ingrid: Our feast after the battle... I remember it well. We all had so much fun together.
+Annette: No! Please, stop it. I had finally put all of that out of my mind... This isn't right. They're our friends! We used to study together. We shouldn't be fighting them.
+Sylvain: Why not march up to Her Majesty and remind her of that? Oh, that's right...because you want to live to see tomorrow.
+Dedue: No matter who the enemy is, I will fight for His Highness.
+Felix: Tell me, boar prince. Do we stand a chance?
+Dimitri: Who knows...
+Felix: If we lose, we'll have died for you. I hope you know that.
+Dimitri: ...
+Rodrigue: That's enough, Felix. We must focus on the battle ahead.
+Dimitri: Make your peace before we depart. It's kill or be killed out there. We will cross blades with the Empire, but it's possible we will also have to strike down the Alliance.
+Gilbert: Your Highness... Do you feel no hesitation about killing your former friends?
+Dimitri: If they must die, I will kill them. Nothing could be simpler.
+
+@Conversation 
+Dimitri: I can finally kill her... Finally... I can avenge them...
+
+
+
+Dedue: You have my sincerest gratitude. Circumstances, and my wounds, have prevented me from being by His Highness's side these five years. I am grateful that you have found him for me. I am once again in your debt.
+
+
+
+Felix: As powerful as our knights are, we're outnumbered. By a long shot. This won't be easy. It's crazy to attempt this. I guess I'm crazy to go along with it.
+
+
+
+Ashe: If we defeat the Imperial army at Gronder Field, what will our next objective be? I guess we won't have much choice but to try to take Fort Merceus, on the far side of Gronder Field. It's probably too soon for us to be thinking about that, isn't it? The battle just ahead of us is far from certain.
+
+
+
+Sylvain: Say we do manage to take down Edelgard here... What do you think His Highness will do next? As long as there's a plan, I won't complain. I just, you know, wanna know there is a plan.
+Byleth: Continue on to the Imperial capital?
+Sylvain: Yeah, I suppose that's the most likely plan since we're traveling with the church and everything.
+Byleth: Head to the Kingdom capital first?
+Sylvain: Heh, well, I'd be happy if that were the case, but I don't figure that'll actually happen. All this isn't just going to magically end the moment we kill Edelgard. It's gone too far.
+Byleth: I don't know...
+Sylvain: Heh, well, if even you can't say, I guess it's not surprising the rest of us don't know either.
+Sylvain: I suppose we should focus on the battle right in front of us instead of what happens later.
+
+
+
+Mercedes: So, we're finally going to set foot in the Empire... I'm starting to get a little nervous. I guess there's a good chance we'll be fighting more old friends from here on out.
+
+
+
+Annette: The thought of fighting people who were once our friends...it makes my heart heavy. If it was gonna come to this, maybe I should have avoided making friends with people from the Empire and the Alliance to begin with...
+Byleth: You might be right.
+Annette: You think so too, Professor? I'm glad it's not just me.
+Byleth: I don't think that's the right attitude.
+Annette: I just don't know, Professor. I'm having a hard time with it.
+Annette: It did often seem strange to me at the academy that we were studying with all these people from all over the world. But I feel like I've finally started to understand the real reason behind it. The more you get to know people from other places, the harder you'll try to avoid fighting wars with them...
+
+
+
+Ingrid: Yet another grand battle awaits. Many will lose their lives.
+Byleth: There's no way around it.
+Ingrid: I am well aware. This is war, after all.
+Byleth: Let's fight our hardest to stay alive. 
+Ingrid: Yes, let's. We must both make it home in one piece.
+Ingrid: Even considering those we are up against--friends from a time now past--I won't hold back.
+
+
+
+Ferdinand: We captured the Great Bridge of Myrddin, but the fight has only just begun. Enbarr, the Imperial Capital, lies far to the south, beyond Gronder Field. And waiting for us on the way there is the entire Imperial army, with twice as many troops as us. We had better brace ourselves.
+
+
+
+Linhardt: I seem to lack the skills required to grieve for the dead. If someone has passed, even someone dear to me, I could stand about and wail or get on with my life. While I'm at it, that whole idea that we must speak well of the dead? I don't understand that either. If I didn't like them when they were alive, then why pretend to do so when they are no longer here?
+
+
+
+Caspar: After we cross the Great Bridge of Myrddin, we'll be in my father's territory. We actually crossed it five years ago for the Battle of the Eagle and Lion. Remember? Ugh! This is terrifying! What am I gonna do? I gotta get a grip...
+Byleth: Don't worry, I'll arrange for your funeral. 
+Caspar: You think we'll meet him on the battlefield and he'll kill me? The front lines cover a long stretch of land, you know! We might not even run into him!
+Byleth: I'll pray for your safety.
+Caspar: Oh, no no no. You should pray we don't run into him at all! The front lines cover a long stretch of land, you know!
+
+Bernadetta: So the campaign continues, does it? Well, allow me, as a professional recluse with ten years of experience, to volunteer for, um...staying behind. Oh, who am I kidding? The fighting won't stop until we've defeated Edelgard, will it? Or until we lose, I guess. But there's not much use in thinking about that.
+
+
+
+Dorothea: The Great Bridge of Myrddin was considerably better fortified that it was five years ago... The bridge was full of soldiers...and they all died.  And Ferdie was there. We killed Ferdie, Professor, he used to be our friend. Do you remember those days?
+
+
+
+Petra: Nobles who are changing allegiance, again and again. I do not have understanding for that. How can you trust if treason comes with ease? How can you be calling yourself a noble? I do not have understanding of the reasoning...
+Byleth: They're struggling for survival too.
+Petra: Surviving is more difficult without trust. There must be...some other goal.
+Byleth: For personal gain. 
+Petra: Survival has more importance than that. Are they not knowing this?
+
+
+
+Lorenz: So, Claude and my father have made peace. That is to be expected. They both prioritize their own interests above all else. So long as those interests are in alignment, they will continue to cooperate. And based on that reasoning, one might infer that the Alliance should be also willing to work with the Kingdom's military. I highly doubt Claude would refuse to assist us, if we were to ask.
+
+
+
+Raphael: I gotta say, it's tough to keep the fighting spirit alive when you recognize your enemies on the battlefield.
+Byleth: Everyone gets that feeling. 
+Raphael: So you can't avoid it, huh? How did everything get so messed up?
+Byleth: You can run away if you want.
+Raphael: Hey, come on! Even I know we can't do that!
+Raphael: Just because we're fighting someone doesn't mean we gotta hate 'em! That's probably the worst thing about war. Win or lose, I still get a bad taste in my mouth.
+
+
+
+Ignatz: Thanks to our victory, I've been able to study the Great Bridge of Myrddin at my leisure. And you know what? It's an astounding structure. So much history there. Imagine how much time and effort it must have taken to build something that big. Over water, no less! I hope that someday it will be opened up to the people of Fódlan--a historical site, rather than a military checkpoint.
+
+
+
+Lysithea: I'm glad you're the one giving orders on the battlefield, Professor. I don't think we should trust Dimitri with that task... Although it's thanks to his obsession that we're wasting no time, taking the shortest route to defeating the Empire. I just can't see a bright future for this army, fighting as we are under the banner of a prince possessed. Even if we do succeed in defeating the Empire, I wonder what will become of Fódlan. I apologize. Whenever I'm with you, I speak more openly than I should. Please keep this between us.
+
+
+
+Marianne: The situation in the Alliance has changed so much, but I haven't heard a word from my adoptive father... Do you think he's forgotten about me?
+Byleth: I'm sure he's just busy. 
+Marianne: If that's the case, I hope he gets even busier.
+Byleth: I'm sure that's not the case.
+Marianne: I'm not overly concerned about him...
+Marianne: I'd actually be happier if he really did forget about me. Everything would be so much easier...
+
+
+
+Hilda: I heard the next battle might take us to Gronder Field. Is that right? Reminds me of the Battle of the Eagle and Lion. But of course, that was a very different time. When it was over, all three class heads complimented each other on their bravery. And then we had a party. But we can never go back to that, can we?
+
+
+
+Leonie: I heard Edelgard is going to be leading her forces personally in the next battle. Seems pretty reckless to charge right into this one. I'm not sure I like our chances. What do you think?
+Byleth: Don't worry. I can handle it. 
+Leonie: I don't know why you're so confident, but it does somehow make me feel better.
+Byleth: As long as you're here, I'll be fine.
+Leonie: Hey, how come you only ever flatter me in times like these? What am I supposed to make of that?
+Leonie: Anyway, we've come this far. Let's just keep putting one foot in front of the other and see how far we get.
+
+
+
+Seteth: Each time we press forward, our search for Rhea broadens to a wider area. I certainly hope we will find at least some clue, but I do suspect I already know where she is. If I am right, and she is in the Imperial capital, then we cannot save her until we topple the Empire.
+
+
+
+Flayn: The Battle of the Eagle and Lion. Has it truly been five years since then? Can you recall whether it was before or after I joined your class, Professor?
+Byleth: Before.
+Flayn: That is not at all the case, Professor. Your memory serves you poorly.
+Byleth: After. 
+Flayn: I am glad you have not forgotten.
+Flayn: It was shortly after I joined your class--I remember it like it was yesterday.
+
+
+
+Hanneman: When undertaking research, the usual method is to form a hypothesis, then test it with experiments. Those experiments reveal facts and falsehoods, yet sometimes, they also unveil an exception. You seem to be that exception when it comes to my Crest research.
+Byleth: Sorry about that. 
+Byleth: I don't understand.
+Hanneman: Worry not, Professor. Exceptions are what make my work interesting. Why don't the rules apply to you? I will find out, eventually. I feel it is my destiny as a Crest scholar!
+
+
+
+Manuela: I hear the next battle could be a big one, is that true? I miss the old days when, if someone got hurt, we'd rush them to the infirmary and make them well... But on the battlefield, there's not enough time to help. People die. Professor, don't be one of those!
+
+
+
+
+Gilbert: Catherine will surely be able to convince Count Charon. All that remains is to wait for a response from the Alliance side... For now, there are preparations to be made for the coming battle.
+
+
+
+Gilbert: Catherine has successfully convinced Count Charon. However... The knights we sent to the Alliance have yet to return.
+
+
+
+Alois: Word just reached me that the Empire has stationed soldiers in Fort Merceus. If they decide to dig in their heels and defend the fort, we'll be in a difficult situation. I hear it's an impregnable keep, surrounded by high ramparts. Taking it would not be easy.
+
+
+
+
+Catherine: Hey, Professor. It’s been a while... Well, actually not that long. If you’re here about the reinforcements, no need to worry. I’ve sorted everything out with my father. If the Alliance agrees to chip in as well, we might have a real chance at victory.
+
+
+
+Shamir: Reconnaissance is becoming more of a risk the deeper we move into enemy territory. If I don't come back, assume I'm dead.
+Byleth: I know you won't get caught.
+Shamir: I'm glad you think so highly of me, but we have to be realistic.
+Byleth: Understood. 
+Shamir: Good. We have to be realistic.
+Shamir: Don't waste your energy worrying about me.
+
+
+
+Cyril: I gotta keep this place clean, and I mean properly clean, every day. Dust it, sweep it, everything. You never can tell when Lady Rhea might be back.
+
+
+
+Rodrigue: Hm? Oh, it's you, Professor. Sorry, I was a little lost in thought there. About all that has happened, and all that is to come... I'm sure the battles ahead will not be easy, but please take good care of His Highness.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! I hear we're sending troops to Gronder Field next. Is that what's what? That whole area is in the territory of House Bergliez. It's famous as the main granary of Fódlan. If we could capture it, we probably wouldn't have to worry about food anymore! Bread for all!
+
+@Intro 
+Gilbert: There's quite a bit of fog settling in. We won't be able to advance our troops very far in this.
+Rodrigue: We won't be able to move at all until the fog lifts, no matter which path we take. We'll have to be patient and wait it out. ... Gilbert. No... Gustave. I would like to take this opportunity to speak with you about something. It's about the Tragedy of Duscur. There's something about it I just can't wrap my head around.
+Gilbert: I'm listening.
+Rodrigue: I lost a son in Duscur that day. I exhausted every last resource I had to investigate what took place there. I was startled to find that...there wasn't a single shred of evidence to suggest that Lady Patricia's carriage had been attacked.
+Gilbert: Go on...
+Rodrigue: Apart from His Highness, whose injuries left him on the verge of death, everyone else present at the time was slaughtered. Of all the victims, only the corpse of Lady Patricia, His Majesty's second wife, was never found. Isn't that right?
+Gilbert: Hmm... Surely that means she was abducted. There was no evidence of an attack, suggesting they threatened her but did not kill her...
+Rodrigue: But what reason would they have to take her? Would it not have been better to kill her?
+Gilbert: Perhaps she had some value as a diplomatic pawn.
+Rodrigue: Nonsense. In the many years since that day, has Lady Patricia ever been used thus?
+Gilbert: No... Not as far as I know. Then perhaps she was used for some political gain within the Empire.
+Rodrigue: Now that her daughter is the emperor, what reason would she have to keep hiding her existence?
+Gilbert: It is possible she passed away after returning to the Empire...
+Rodrigue: Gustave, I know this is hard for you to hear, but just consider what it would mean if Lady Patricia was involved with that incident...
+Gilbert: Silence, Rodrigue. I will not allow you to tarnish her memory like that.
+Rodrigue: I do not mean to imply that she arranged His Majesty's murder or anything of the like. But Gustave... I cannot shake the feeling that the tragedy was part of a much larger conspiracy. There is more to it than we know, that much is certain...
+
+
+Kingdom Soldier: Rodrigue! Gilbert! Please, hurry!
+
+
+Gilbert: To kill like this...is inhuman.
+Rodrigue: This is one of the knights who was dispatched to the leader of the Alliance. Tell me everything you know.
+Kingdom Soldier: Sir! A soldier on patrol came across this knight a short while ago in a rocky area not far from here. Someone from the Alliance must have disposed of the body there...
+Gilbert: Is this how the Alliance chose to inform us that they have no intention of joining our cause?
+Byleth: Could Claude really have done this?
+Rodrigue: The Alliance lords each have their own motives. It's difficult to say for sure who was behind this.
+Byleth: Maybe it was the Empire...
+Dimitri: Yes. I would not hesitate to believe them capable of this.
+Rodrigue: Whatever the truth is, the other knights we dispatched are in serious danger. It's best to assume that joining with the Alliance is out of the question now.
+Gilbert: Even with Count Charon's support, this makes our situation grim...
+Dimitri: I never expected the Alliance to help us. Anyone who stands in my way will be crushed beneath my feet...
+
+
+Fleche: It is time, dear Brother...
+
+@Opening 
+The Kingdom army departs from the Great Bridge of Myrddin and marches south toward Enbarr, the Imperial Capital. Meanwhile, the Alliance army follows from behind to invade Imperial territory, and the Empire has dispatched forces from Fort Merceus to intercept them. The curtain is rising on a conflict between the three armies, which will come to be known as the Battle at Gronder, held on the same plains that witnessed the Battle of the Eagle and Lion.
+
+At Gronder Field, where the Battle of the Eagle and Lion was once held, the house leaders of five years ago have a fateful reunion...but this time, the contest between the Empire, the Kingdom, and the Alliance is no mock battle.
+
+@Cutscene 
+Dimitri: Know that I will tear your heads from your shoulders. The dead must have their tribute.
+
+Claude: As big class reunions go...this one's gotta be the worst in history.
+
+Edelgard: Years ago, we fought here as classmates. But not today.
+
+Dimitri: Kill every last one of them!
+
+Edelgard: And so we fight on.
+
+@Battle 
+Dimitri: You have finally appeared, Edelgard. Now you are mine.
+Claude: The Kingdom army doesn't look interested in joining forces. Let's take a moment and see how this Unfolds...
+Edelgard: It would not be advantageous to take on both at once. We must stop the Kingdom and the Alliance from joining forces. I will create such chaotic warfare that will not be able to tell who is friend and who is foe.
+
+Edelgard: Mounted units. Advance!
+
+Petra: The center is in danger of being taken. We must be running to protect it! 
+
+Imperial General: There are enemies in the central area... We need to head there immediately to protect it! 
+
+Claude: Hmph. The Empire and Kingdom are mixed up in this battle. It's a struggle to target the right one. Such are the rules of Melee. We'll just have to crush anyone who isn't an ally!
+
+Claude: They wanna crush us before the Imperial Army? Then we'll show them what we'll made of!
+
+Leonie: Great! I may not have a Crest, but I'll give it my all. 
+
+Hilda: I'm not going to hold back. I can't let down my dear old Claude. 
+
+Edelgard: Those fools who went up the central hill will pay with their lives... in the crimson flames! 
+
+Hubert: The central hill is up in smoke. Suppose I'll have to quench the flames - with the enemy's blood. 
+
+@Boss 
+Lysithea: Don't expect me to go easy on you. Because I won't.
+
+Lysithea: I thought I'd be able to live...just a little bit longer than...this.
+Claude: Lysithea... She burned too brightly, and faded too fast... 
+
+Ignatz: I am helping Claude build the future of Fódlan!
+
+Ignatz: It's over for me. I did my best
+Claude: I'm sorry, Ignatz... I wasn't able to save you... 
+
+Leonie: I can't hold back just because I know you. Sorry, but that's war.
+
+Leonie: S-so this is it. I did what I could, Captain Jeralt...
+Claude: Leonie fell? Did I underestimate the enemy? 
+
+Raphael: There's no way you're gonna beat me! You're better off turning tail and running away!
+
+%Byleth,Raphael
+Raphael: Wow, it's sure been a while! You're a tough opponent, Professor!
+
+@Boss
+Raphael: Claude... Take care of my little sis...and the Alliance...
+Claude: Raphael! Don't worry, I promise to look after your sister... 
+
+Hilda: You didn't forget about me, did you? Maybe you should just let me go.
+
+Hilda: I have to get out of here! I'll die if I don't.
+Claude: Hilda, you've done well. Leave the rest to me. 
+
+Claude: So sad that our reunion should take place on the battlefield.
+
+%Byleth,Claude
+Claude: So, you're actually alive, Teach! It's a shame you aren't on our side. Anyway, isn't the Empire your enemy? Us fighting seems like a waste...
+
+%Dimitri,Claude
+Claude: Calm down, Dimitri! What does it achieve, us killing each other here?
+Dimitri: Move, Claude. I have no time to exchange words with you.
+Claude: It doesn't matter what I'm saying, does it? You aren't even listening. But I'm not gonna budge.
+
+@Boss
+Claude: Arrgh... I thought we had a chance, but there was no way to predict the movements of the Kingdom army. I can't afford to die here. I have to retreat.
+
+Bernadetta: Stay back! Stay back or I'll shoot.
+
+%Byleth,Bernadetta
+Bernadetta: Professor? Is that you? You're with the enemy. That means I... I'll have to kill you.
+
+@Boss
+Bernadetta: Wish I could've at least died at home... not in this big, stupid field...
+Edelgard: Bernadetta, thank you. I'll make sure your life was not lost in vain. 
+
+Petra: For Adrestia and for Brigid... I will be defeating all of you!
+
+Petra: I can't be fighting anymore... I must be retreating now...
+Edelgard: Don't worry. You must live on to lead your people. Those fools who went up the hill will pay with their lives... in the crimson flames! 
+
+Hubert: You're interfering with the plan. Looks like I'll just have to get rid of you.
+
+Hubert: Fighting on will endanger my life. Your Majesty, I must withdraw.
+Edelgard: No need to worry. We still have some troops left. So long as I stand, we won't give up.
+
+Edelgard: I will destroy both the Kingdom and the Alliance. Now, with one fell swoop!
+
+%Byleth,Edelgard
+Edelgard: I knew when next we met one of our paths would have to come to an end. Your journey ends here, Professor. Forever...
+
+%Dimitri,Edelgard
+Dimitri: Stab your chest, break your neck, smash your head... I will allow you to choose your own death.
+Edelgard: I'm not interested in methods of dying. All that matters is when death takes place, not how. And I have no intention of dying today.
+Dimitri: I'm sure all of the people you've slaughtered so far thought the same!
+
+@Boss
+Edelgard: I lost?! Just as expected, you aren't making my path an easy one. I must retreat for now. We'll meet again on the battlefield.
+
+@End 
+Dimitri: So, you think you can escape, Edelgard?
+
+Rodrigue: Your Highness! You're alive! We have to retreat to the Great Bridge of Myrddin...
+Dimitri: That woman...we failed to capture her. I'll keep pursuing. The rest of you, keep fighting!
+Rodrigue: I'm so sorry...but we can't do that. I understand how you feel, but the Imperial army is closing in!
+Dimitri: I'll kill all of them! No matter how many hundreds or thousands of them they are!
+
+Fleche: ...
+Rodrigue: You... What are you doing here?! It's too dangerous! Fall back, now!
+Fleche: Heh.
+
+Rodrigue: Your Highness!
+Dimitri: You...are...
+
+Fleche: Have I caught you off guard, Your Highness? Aww, does it hurt? I bet it hurts reaaaal bad, doesn't it? But it's nothing compared to what my brother felt! You will never be forgiven, you know. I will never forgive you!
+Dimitri: You... You must be...
+Fleche: You filthy monster! It's time to DIIIIE!
+
+Rodrigue: Dimitri!
+Rodrigue: Gah... P-Professor... Do it now!
+
+Fleche: Agahhhh! B-Brother... Help... me...
+
+Dimitri: Rodrigue!
+Rodrigue: Your Highness... Are you safe? Please tell me... it wasn't in vain...
+Dimitri: This punishment... it was mine to bear.
+Rodrigue: There are no sins or punishments... on the battlefield...
+Dimitri: NO! Don't die... Please, don't die! Father, Stepmother, Glenn... They all died and left me behind. Rodrigue... Are you to join the ghosts who shadow my every move? This is my fault... I... I'm the one who killed you, as surely as though I had wielded the blade!
+Rodrigue: Heh. Your Highness. You have one thing... terribly wrong. None of them... none of us... died for you. I'm dying for what I believe in... just as they did. Your life is your own. It belongs to no other, living or dead. Live for what you believe in. Dimitri... My boy... You really do look just like His Majesty...
+
+Rodrigue: What are you saying, Lambert?!
+Lambert: I am heading to Duscur. And before you start, nothing you could say would change my mind. You worry too much, my friend. So far relations with Duscur have been going smoothly, wouldn't you say? You of all people should appreciate how critical these negotiations are.
+Rodrigue: Of course I do, but... for the king himself to make the journey... You must admit that it's dangerous. And His Highness is still so young. If the worst should happen...
+Lambert: Even if the worst should happen, he would be OK. He's a smart boy, Rodrigue. Even if he should lose his father, I have no doubt that he will grow to be a good and respectable man.
+Rodrigue: Lambert...
+Lambert: However... If he ever starts down the wrong path and I am not here to set him straight, I am trusting you to do so in my stead, old friend. Promise me.
+
+Rodrigue: Lambert... My promise... I...
+
+@Dialogue 
+Dimitri: What do you want?
+Byleth: Where are you going?
+Dimitri: It doesn't concern you.
+Byleth: It does.
+Dimitri: Get out of my way. Now.
+Byleth: You're going to Enbarr, aren't you?
+Dimitri: ...
+Byleth: Do you really think that will appease the dead?
+Dimitri: Silence. You have no idea what you're talking about. Death is the end. No matter how much lingering regret a person has, after death, they are powerless. They cannot even wish for revenge, much less seek it out. Hatred. Regret. Those burdens fall on the shoulders of those who are left behind. And so I must continue down this path! I already told you as much! It is far too late to stop.
+Byleth: You're wrong.
+Byleth: There must be another way.
+Dimitri: Do not waste your breath with some nonsense about how I should move on with my life for their sake. That is merely the logic of the living. It's meaningless. Those who died with lingering regret... They will not loose their hold on me so easily. 
+Dimitri: But you seem to have all the answers... So tell me, professor. Please, tell me... How do I silence their desperate pleas? How do I... How do I save them? 
+Dimitri: Ever since that day nine years ago... I have lived only to avenge the fallen. Even my time at the Officers Academy was all so that I could secure my revenge and clear away the regret of the dead. It was the only thing that kept me alive... My only reason to keep moving forward...
+Byleth: You must forgive yourself.
+Byleth: You've suffered enough.
+Dimitri: Hmph.
+Dimitri: But then who... or what... should I live for?
+Byleth: Live for what you believe in.
+Dimitri: What I believe in... Rodrigue said the same thing. But is it possible... I am a murderous monster. My hands are stained red. Could one such as I truly hope for such a life? As the sole survivor of that day, do I... Do I have the right to live for myself?
+Dimitri: ...
+Dimitri: Your hands are so warm... Have they always been?

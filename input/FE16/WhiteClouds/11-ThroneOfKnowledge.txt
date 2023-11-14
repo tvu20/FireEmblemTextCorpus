@@ -1,0 +1,527 @@
+@Opening 
+The northern lands are enveloped in a bitter cold, and frigid winds are carried across the sea to the south of Adrestia. When feather-white snow falls on Fódlan's Locket, the fort looks as delicate as a pearl. However....beneath that snowy blanket, her Throat is more treacherous than ever.
+
+@Dialogue
+Seteth: Rhea, please talk to me. What are you hiding? What is the meaning of how that one looks? It is almost as though...
+Rhea: As I said, there is nothing of which to speak. For now. At the end of this month...
+Seteth: I read Jeralt's diary. I happened upon it in his room.
+Rhea: What?
+Seteth: In it, he stated the reason for his departure. The baby thought to have died in the fire...has returned to us. Jeralt realized that you had done something to the child and decided to flee. What did you do to that baby, Rhea? Nothing...questionable, I should hope?
+Rhea: Seteth, enough. They will be here shortly. No more, I beg of you. I will take our dear professor to the Holy Tomb. There...I should be able to see our dearest wishes to fruition. When I was young, I heard her voice there... I'm sure of it.
+Rhea: You may enter.
+Rhea: I have been awaiting your arrival, Professor. Now that you have received sacred power from the goddess, there is somewhere you must pay a visit to at once. You must go to the Holy Tomb so that you may receive a divine revelation from the goddess.
+Byleth: The Holy Tomb?
+Byleth: A revelation?
+Seteth: The Holy Tomb is where the goddess sleeps. This monastery was originally built for the purpose of protecting that hallowed temple.
+Rhea: Only a select few know of it, but there is a legend about Seiros and the Holy Tomb. Saint Seiros, the first soul to be gifted power from the goddess, received her revelation there. She was told it was her sacred duty to save the people of Fódlan, and that she must use her power wisely in order to lead them. The words that were handed down to Seiros from the goddess will likely fall upon your ears as well.
+Seteth: Prepare yourself to go at once. There, may you find out why you were blessed with such power.
+Rhea: There will be a ceremony at the Holy Tomb. It is then that you will receive the goddess's revelation. You may share this mission with your students.
+Byleth: Do you think it wise to bring them into this?
+Byleth: A mission? Now?
+Rhea: It is said that when Seiros received the revelation, she had holy warriors by her side, protecting her. Your students, who have followed you and fought alongside you through the darkest of times, are well suited to stand by you for the ceremony. Of course, as the leader of the Church of Seiros, I will be by your side as well.
+Byleth: Strange...
+Rhea: The occasion is too significant to be missed.
+Byleth: Isn't that too dangerous? 
+Rhea: The Holy Tomb is a sacred temple that is sealed off from the rest of the world. There is nothing to fear.
+Rhea: Even if something were to happen, I am more than capable of protecting myself.
+Seteth: Much has changed, but your duty has not wavered. Steel your mind for the ceremony, and prepare your students well.
+
+Claude: Rhea and Seteth were not their usual selves. What happened to Teach that's questionable, and what really awaits at the Holy Tomb? The way they were acting, I don't think they have any plans of sharing that information.
+
+@Conversation 
+Byleth: (I can't hear Sothis's voice anymore...)
+
+Edelgard: Professor, you should know that I'll be away from the monastery for a few days.
+Byleth: Where are you going?
+Edelgard: It's meant to be a secret, but...I'm going to Enbarr, the Imperial Capital. Don't worry, I'll be back in time for the ceremony at the Holy Tomb.
+
+Dedue: Professor. Please. If he hears it from you that he needs to rest, perhaps His Highness will listen.
+Dimitri: He's exaggerating. He thinks my color is off and that rest will cure all. I have a headache, but that's just from lack of sleep. It's not going to stop me from completing this month's mission.
+Byleth: You should rest. 
+Dedue: The professor agrees. Please rest. At least until the task is at hand.
+Dimitri: I won't. Even if I tried, it's not like I would get any decent sleep. It would only be a waste of time.
+Byleth: Don't overexert yourself.
+Dedue: I must insist—
+Dimitri: Who do you think you are? I can take care of myself, Dedue.
+Dimitri: In any case, we won't let you down this month, Professor. You can rely on us.
+
+
+
+
+Claude: Hey, Teach. Is it OK for you to be out on your own right now? Just…please be careful not to topple over again. You scared us nearly to death. Anyway… Doesn't Rhea want something from you? Sounds important. I'm glad I'll be there to witness the ritual at the Holy Tomb. I want to see whether or not something happens with my own eyes.
+
+
+
+Claude: I always knew there was something special about you, but you've only gotten more and more extraordinary the longer I've know you. That transformation was just the beginning, wasn't it? I have a feeling that things will only grow more dire from here on out.
+
+
+
+
+
+Ferdinand: Edelgard and Hubert have been busier than usual. Constantly coming and going, in and out of Garreg Mach. Perhaps they are doing something in the Empire? As the legitimate heir of the Aegir family, I have not heard anything about it. But if it were significant, I am sure my father would have told me.
+
+
+
+Linhardt: How are you, Professor? Did Hanneman make his, I will do no harm speech or promise this won't hurt a bit when he asked to study you? Both? I've a bit of research I'd like to perform. Nothing so crass as Hanneman's poking, prodding, and drawing of blood. No, I wish to investigate Crest power itself. Crest power must have some kind of limit, right? Lady Rhea says any limits must be the protection of the goddess, but that doesn't quite answer it for me. Hmm...
+
+
+
+Caspar: You're so strong now! I'm starting to understand why you were appointed professor.
+
+Caspar: I thought I was stronger, but I still have such a long way to go.
+Byleth: Try to catch up to me. 
+Caspar: Oh, I will. I still plan on beating you some day!
+Byleth: I'll help you get there.
+Caspar: You'd better not go easy on me. I need your training to be strict if I'm gonna get any better!
+
+Bernadetta: So hungry... Oh, is that you, Professor? Sorry. I'm really not feeling well this month. Even leaving my room for dinner is just too much. It's got nothing to do with your, um...changes. So, um, don't open the door, please!
+
+
+
+Dorothea: Recently, Professor, I feel as though you've been a bit distant. It's like you're sort of floating above the clouds, separate from other people... And like you've got no interest at all in ever coming back down. How can I help?
+Byleth: I'm not being distant, so don't worry.
+Byleth: I don't know what to say to that. 
+Dorothea: Hey, don't worry. I thought maybe I'd ask and see what you'd say.
+
+
+
+Petra: In Brigid, we have legends. Stories containing people who have a spirit living inside of them. Those spirit people have much strength. They are maybe able to fly in the air or race across the ocean. Hair that shines and eyes that glow... They have qualities that are not unlike what you are looking like, Professor.
+Byleth: I can't fly.
+Petra: Are you knowing that for certain? Maybe you will have wings that grow and soar through the sky...
+Byleth: Perhaps. 
+Petra: Do not have doubt, Professor. The powers you have are like the powers of the legends.
+
+
+
+Felix: Hurry up and cage the wild boar. Look, he's losing his grip. Even in his swordplay, he's getting sloppy. If he keeps progressing like this, he's going to get himself killed. Kronya, Solon... They're dead, but we still have a glut of enemies. We still have to take down the Death Knight and the Flame Emperor. Our next battle is fast approaching. I'm ready for it.
+
+
+
+Ashe: I can't even imagine what it must be like inside the Holy Tomb.
+Byleth: I don't know either. 
+Ashe: Well, it's probably a grave, that much is for sure. And it's likely underground. Beyond that, who knows?
+Byleth: It's just a place to bury people.
+Ashe: I guess you're right. Holy or not, all graves are kind of the same, aren't they?
+Ashe: I can't help but wonder though... Just what kind of ritual is this?
+
+
+
+Sylvain: I swear, it's like you're an entirely different person.
+Byleth: I haven't changed on the inside.
+Sylvain: Heh, I guess you're right. If I look hard, I can still tell it's you.
+Byleth: Isn't it weird? 
+Sylvain:  No, not at all! I'm just not used to it. It really suits you though.
+Sylvain:  It's not weird at all. It's... You're somehow even more beautiful than before. I'm joking! I'm joking! Don't get mad.
+
+Ingrid: You've been granted this power by the goddess herself. Truly, you must be a very special individual. Maybe Seiros transformed before receiving her revelation too!
+Mercedes: Hmm. I haven't heard anything about that before... Maybe that part never found its way into the legend?
+Ingrid: It is told that Seiros had a revelation instructing her to use her power for good, and to lead the people of Fódlan to salvation... I wonder what sort of revelation you might have, Professor.
+
+
+
+Annette: Bah! Professor! Sorry, this will take some getting used to... Your hair and eye color are completely different! You just don't look like yourself anymore.
+Byleth: It's only my appearance that has changed. 
+Annette: Of course. You're right. I'm just being silly, as usual.
+Byleth: Maybe I am a different person...
+Annette: Don't scare me like that! You are still you...right? You are, right?
+
+
+
+Lorenz: To be honest, I cannot keep up with all that's been happening recently. Monica was actually Kronya. Tomas was actually Solon. Who were these people? What about you, Professor? You are a true ally, yes?
+Byleth: That's my intention. 
+Lorenz: Not the most convincing answer you could have given. Still, I simply must take you at your word.
+Byleth: I don't know.
+Lorenz: Pull yourself together! It is still your duty to lead us, is it not?
+
+
+
+Raphael: You look so...different. You're still our professor in there, right? Did anything else change besides your hair and eyes? Are your arms bigger? How do your abs look?
+Byleth: I've changed quite a bit. 
+Raphael: Really?! You gotta teach me how to do that!
+Byleth: I haven't changed that much.
+Raphael: That's disappointing. What's even the point?
+
+
+
+
+Ignatz: So, this month's mission is to take part in a ritual at the Holy Tomb, where you will receive a revelation from the goddess herself. What if she really appears? What if I finally get to gaze upon her radiance? I've always imagined the goddess--how beautiful she must be!
+
+Ignatz: You're going to the ritual at the Holy Tomb, right? I hear that a revelation from the goddess is expected. What if she shows herself? I'll be so jealous!
+
+
+
+Lysithea: Your hair! And your eyes! What happened to you?! You didn't lose something as a result of gaining those powers, did you?
+Byleth: Don't worry—I'm fine. 
+Lysithea: I see. Well, that makes me feel better. But still, be careful.
+Byleth: I don't know yet.
+Lysithea: Sometimes our frail bodies don’t do well with excess power… So don’t push yourself too hard.
+
+Marianne: Long ago, Saint Seiros was gifted with a divine revelation from the goddess, as well as incredible power. Is that what happened to you too, Professor?
+Hilda: No way! The professor transformed before receiving any kind of divine revelation, right? Still, I wonder. Does the fact that you've changed really mean you've been granted some kind of power?
+Marianne: If that's the case, then what sort of revelation can be gained from the ritual?
+Hilda: I'm guessing the revelation will just be a gentle reminder to use this new power to save the people of Fódlan. What else is there to say? You don't actually believe we're going to hear the voice of the goddess, do you?
+
+
+
+Leonie: When you changed, even the other professors were taken completely by surprise. There's a ritual at the Holy Tomb this month, isn't there? I wonder what will happen with that. I'm sure you'll be all right. But don't lose sight of who you really are, OK? However you may change, and whatever new power goes along with those changes--you'll still be the same person, deep down. Remember that.
+
+
+
+Rhea: You haven't a thing to worry about. You have been gifted the power of the goddess. Furthermore, you have overcome the death of your father, Jeralt...and you have destroyed countless of our wicked foes. I am proud...so very proud of who you have become.
+Byleth: Thank you. 
+Rhea: Once we finish the ritual at the Holy Mausoleum, all will be well.
+Byleth: I'm uneasy.
+Rhea: That is understandable. Just know that your unease should disappear the moment we conclude the ritual at the Holy Mausoleum.
+
+
+
+Seteth: Hmm... Ah. It is you. I am sorry, but I have a lot on my mind. I would prefer to be alone right now.
+
+
+
+Flayn: Professor, I am so happy. Your new hair and eye color suit you well. We make quite the pair! But...recently I sense that things are a bit strained between Lady Rhea and my brother. She wants to do something at the Holy Tomb. I do not know what, but... Hm. Whenever it has concluded, I hope they will return to their friendship, as it has always been...
+
+
+
+Alois: Captain... Oh, Professor! How long have you been standing there? I didn't see you. I was just sorting through Captain Jeralt's belongings. I... Haven't made much progress. I keep finding things that bring back memories. Clearing out this room of his belongings again, it's... It's not easy.
+
+
+
+Catherine: In our battle last month, we really cut the enemy down to size. But there are other enemies we have yet to hunt down, not the least the Flame Emperor. Once we've crushed them all, we can return to our peaceful lives at the monastery. It will happen soon. I have a feeling something big is coming.
+
+
+
+Shamir: People who live an inordinately long time, people whose hair changes color, and those odd Heroes' Relics... Is Fódlan some mystical land full of inhuman creatures?
+Byleth: It's not like that.
+Shamir: You still look human. For now, at least.
+Byleth: Is the world different outside Fódlan? 
+Shamir: You should see for yourself. I'd recommend exploring west of the Empire.
+
+
+
+Gilbert: Sometimes, I find myself thinking I should leave Garreg Mach and return to my home... Where I should have been all along.
+Byleth: Where you should have been? 
+Gilbert: Ignore me. I'm sorry...it's a silly thing. An old man's ramblings, and nothing more.
+Byleth: I won't stop you...
+Gilbert: I hear that Lady Rhea will accompany you for this month's task. She's the pillar that supports the hearts of Fódlan's people. Her safety is paramount. I hope there are no complications...
+
+
+
+Hanneman: Are you positive? Really? Your appearance is due to the influence of the Crest of Flames? Intriguing. Unfortunately, I have found no record of Nemesis's hair and eye color ever changing. However... If that transformation was brought on, in part, by the power of the Crest, that would be most... Well, I suppose interesting is too small a word. Still, it would be an absolutely exceptional discovery. To know for certain, we must investigate further. So, clothes off!
+Byleth: ...
+Hanneman: What? A full physical is in order, yes? We need to know if this transformation affected you adversely. Don't worry, it won't hurt a bit.
+ Oh! Yes. I...I should call Manuela. My apologies.
+
+
+
+
+Manuela: The Holy Tomb, huh? I've worked here for years, and this is the first I've heard of it. I mean, it does make some sense. Sort of. Something about it is still weird. I understand now why they'd build the monastery in the mountainous center of Fódlan. Although... When the monastery was built, the Kingdom and the Alliance weren't even around yet. But look how cleverly it was placed right in the middle of the Empire, Kingdom, and Alliance. That's weird, right?
+
+
+
+Cyril: When I first saw you, Professor, with that hair color and that eye color? I thought you looked kind of like Lady Rhea. Like maybe you could be related. I like the way it looks! I wonder if I could change my hair color too... Maybe if I tried hard enough. If I thought real hard about it, I mean.
+Byleth: That would be exciting, wouldn't it? 
+Cyril: All I need to do is get trapped up in a strange place and then escape, right? Just like you did.
+Byleth: You don't need to do that, Cyril.
+Cyril: I might not need to, but I still wanna.
+
+
+
+Anna: Hey, Professor. You seem...different. Lots of things seem...different around here lately. I've noticed it. Have you?
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Although I suppose...you are something to report! For a moment, I thought you were someone suspicious! Lucky for you, I am quite perceptive. It took only that single moment for me to recognize you.  The professor went out and got some new power!
+
+@Dialogue 
+^locked 
+Edelgard: Professor, will you join me? There's something I must do. It will take a few days, but I promise we'll be back in time for the ceremony at the Holy Tomb.
+Byleth: Where are we going?
+Edelgard: It's meant to be a secret, but...I'm going to Enbarr, the Imperial Capital. There is something I must do there.
+Byleth: I'll go with you.
+Edelgard: Thank you, my teacher.
+
+Edelgard: Father, forgive me for asking this of you. I know how much pain you're in--how the burden of the throne weighs heavily on you--and so--
+Emperor Ionius IX: There is no need to apologize, Edelgard. You must know...  that I do not have much time left in this world. The time has come. 
+Edelgard: Thank you, Father. Now, to complete the Imperial succession, you must relinquish your crown here in the throne room. The archbishop of the Church of Seiros would normally act as witness, but my professor will fill that role instead.
+Emperor Ionius IX: Edelgard...
+Edelgard: From this day forward, the weight of the Empire's future shall rest upon my shoulders. All that I do will be for the benefit of the people of Fódlan.
+
+Emperor Ionius IX: Edelgard von Hresvelg, the crown is yours. By the covenant between the red blood and the white sword, and by the double-headed eagle upon your head, I hereby pronounce you the new emperor. Are you prepared to take those responsibilities as your own?
+Edelgard: In accordance with the ancient covenant, and in keeping with the Hresvelg legacy... I swear that upon this throne, I shall use my reign to lead Fódlan to a new dawn and achieve peace for all.
+
+Emperor Ionius IX: The Imperial succession is complete.  My daughter, I regret that I could not do more for you. When you were stolen away to the Kingdom, when the prime minister did those horrible things, I could only watch in horror.
+Edelgard: I-- I understand, Father. In those dark times, your eyes and your fists were my salvation. Within your eyes, I saw true care. And upon your fists clenched tight with indignity, I saw the blood that dripped and fell. Even as I bled, I felt that you, too, must also be bleeding.
+
+Duke Aegir: Your Majesty! You must not leave your sleeping chambers in your condition.  Ah, Edelgard. I did not expect to find Your Highness here.
+Edelgard: Prime Minister, you have misspoken. I am no longer Your Highness but rather...Your Majesty.
+Duke Aegir: I-Impossible!
+Emperor Ionius IX: It is true. Edelgard is the new emperor of the Adrestian Empire. We will summon the officials,  and prepare an ordinance at once. And you, Prime Minister--
+Edelgard: --are dismissed. It will be some time before you are allowed to make contact with the outside world again.
+Duke Aegir: No! How can this be?! I- Understood, Your Majesty.
+Emperor Ionius IX: Edelgard... My dear El, I leave the fate of Fódlan...  in your capable hands.
+Edelgard: Father...
+
+Edelgard: Thank you for staying by my side, Professor. Now that I'm the emperor, it's time to grasp my destiny. After the ceremony at the Holy Tomb, I must return to Enbarr. This may be the last we see of each other. We are out of time, my teacher. Everyone is waiting for us. We must go.
+^end
+
+@Intro 
+^start
+Dimitri: A revelation from the goddess... To think we'll have the honor of attending such a historical event.
+Dedue: I hear the archbishop will accompany us to the Holy Tomb.
+Ingrid: If something happens to her, all of Fódlan will suffer. We must protect her at all costs.
+Dimitri: This may sound mad, but perhaps we don't have to worry so much about that. Lady Rhea has said before that she is capable of protecting herself. I have a felling that is true. I thought it was a strange thing for her to say. and beyond that, her movements bring to mind a great warrior with an extensive military background.
+Byleth: Who is Rhea, really?
+Byleth: If so, we have nothing to fear.
+Dimitri: I wonder. Mind it's also possible that I'm way off track. Regardless, perhaps we should brace ourselves for anything.
+Ashe: I never imagined attending a ceremony for real revelation.
+Mercedes: I wonder what the ceremony will be like. I'm so nervous. I'm not ready for this.
+Felix: There's no chance for battle unless something goes terribly wrong, right? How boring.
+Sylvain: If you keep saying things like that, something bad is bound to happen.
+Annette:  What's wrong, Flayn? You look like you have something on your mind.
+Flayn: Who, me? No, it is nothing. May we all see this through to the end.
+Dedue:  Your Highness, I will protect you no matter what.  Your Highness?
+Dimitri: 
+Byleth: Lost in thought?
+Byleth: You haven't seemed like yourself lately...
+Dimitri: Hm? Ah, I suppose you could say that. Nothing to worry about. It's about time for Lady Rhea to arrive. Let's all steel ourselves for whatever may occur at this ceremony.
+
+Claude: You're going to receive the goddess's revelation at the Holy Tomb? That's news to me. I did not see that coming.
+Hilda: Lady Rhea's going too, right? I hear it will be well-guarded, but it is that really okay?
+Ignatz: If Solon's allies are still around, it's certainly true that we don't know when or where they may appear.
+Leonie: I don't know what type of place this Holy Tomb is, but we should be cautious.
+Raphael: If something happens, we'll have to take matters into our own hands.
+Hilda: What do you think, Professor? Is it really okay for Lady Rhea to attend?
+Byleth: I'm worried.
+Claude: It seems to be tightly sealed, I'll give you that. We should be fine as long as nothing goes terribly wrong. Yep… Just as long as nothing goes wrong.
+Byleth: It's encouraging.
+Claude: Leave it to our fearless leader to shrewdly factor in Rhea's fighting ability. You're bold, Teach. I love it.
+Claude: Well, the truth is, we won't know what's going on until it happens. All we can do is stay on our guard and play it by ear.
+Lorenz: That's quite enough babbling, Claude. There is nobody more unfit for a holy ceremony than you.
+Marianne: Um, divine punishment won't strike us for setting foot in the Holy Tomb, right?
+Lysithea: Good grief. Why are you always so negative?
+Lysithea: Hm? Flayn, is something on your mind?
+Flayn: Who, me? No, it is nothing. May we all see this through to the end.
+Claude: It still doesn't make sense to me. A goddess was living inside Teach, right? But now there's a ceremony to receive a revelation or whatever. How could that be necessary anymore? There must be another objective.  It's pointless to speculate about it now. We'll know the answer soon enough. There isn't any danger for us students, but… be careful, Teach.
+^end
+
+@Intro 
+^start 
+Rhea: Are you surprised, Professor? This is the Holy Tomb.
+Edelgard: To think there was such a vast space beneath the monastery all this time. It's hard imagine that any of these enormous contraptions are of this world. 
+Rhea: This is where the goddess who created this world was laid to rest, along with her children.
+Rhea: It is said that our creator, the goddess Sothis, sat upon this very throne. Professor, do you recognize this throne?
+Byleth: I do. 
+Rhea: So long... I have waited so very long for this day. Sit upon the throne. I have no doubt you will be gifted a revelation from the goddess.
+Byleth: I do not. 
+Rhea: There is no need to hide anything from me. You have seen it, haven’t you? In a dream...
+Rhea: Well?  It was supposed to be but a step away. What could possibly be missing?
+Edelgard:  Stop right there.
+Metodey:  Don't move, any of you. If you move, your lives will be forfeit. Thank you ever so much for guiding us this far. The Imperial army will now take possession of everything in the Holy Tomb. 
+Dorothea: What's the Imperial army doing here?
+Ferdinand: Wait! Does he work for the Flame Emperor?
+Linhardt: So the Flame Emperor's connected to the Empire. I never thought that possible.
+Bernadetta: Edelgard, did you know about this?
+Edelgard: Yes. In fact, I gave the order. I am the Flame Emperor.
+Hubert: I guess that's the end of play-at-school, Lady Edelgard. I mean, Your Majesty.
+Metody: Get to work, everyone! The Crest Stones belong to us now! And take those filthy bones, too.
+Rhea: Insolence! You will atone for the sin of tramping on this holy resting place.  Professor, destroy these villainous traitors who dare dishonor our creator!
+Caspar: Wait! What's the meaning of this, Edelgard?
+Petra:  You... made use of us? Why?
+Edelgard: I'm sorry, my teacher. I cut this path, and now I must follow it. My friends, I ask that all of you stay back. It is not my intention to fight you.  By order of the Adrestian emperor, Edelgard von Hresvelg, I command you to collect the Crest Stones! If anyone attempts to stop us, kill them!
+
+Rhea: Are you surprised, Professor? This is the Holy Tomb.
+Dimitri: Incredible. To think such a vast space has been hiding beneath the monastery all this time. I wonder what powers that giant mechanism that descends beneath the ground.
+Rhea: This is where the goddess who created this world was laid to rest, along with her children.
+Rhea: It is said that our creator, the goddess Sothis, sat upon this very throne. Professor, do you recognize this throne?
+Byleth: I do. 
+Rhea: So long... I have waited so very long for this day. Sit upon the throne. I have no doubt you will be gifted a revelation from the goddess.
+Byleth: I do not. 
+Rhea: There is no need to hide anything from me. You have seen it, haven’t you? In a dream...
+Rhea: Well?  It was supposed to be but a step away. What could possibly be missing?
+Dimitri: Halt! Reveal yourself!
+Metodey:  Don't move, any of you. If you move, your lives will be forfeit. Thank you ever so much for guiding us this far. The Imperial army will now take possession of everything in the Holy Tomb. 
+Dedue: Why is the Imperial Army here?
+Ingrid: This can't be. How did they get into Garreg Mach?
+Sylvain: Even the Flame Emperor is here. That can only mean--
+Felix: The Flame Emperor is connected to the Empire. What do you know.
+Dimitri: I never imagined you'd have the nerve to return here. What are you after, Flame Emperor?
+Flame Emperor: Is it not obvious? The Holy Tomb contains great power; the power to rule all of Fódlan.
+Dimitri: And to attain that power, you'll trample anything that stands in your way, just like you did in Duscur!
+Flame Emperor: I had nothing to do with that.  Quickly, retrieve the Crest Stones! Kill for them if you must.
+Rhea: Insolence! You will atone for the sin of tramping on this holy resting place.  Professor, destroy these villainous traitors who dare dishonor our creator!
+
+Rhea: Are you surprised, Professor? This is the Holy Tomb.
+Claude: That mechanism for descending underground back there... What powers it? When I tried to come by myself, it wouldn't even budge.
+Rhea: This is where the goddess who created this world was laid to rest, along with her children.
+Rhea: It is said that our creator, the goddess Sothis, sat upon this very throne. Professor, do you recognize this throne?
+Byleth: I do. 
+Rhea: So long... I have waited so very long for this day. Sit upon the throne. I have no doubt you will be gifted a revelation from the goddess.
+Byleth: I do not. 
+Rhea: There is no need to hide anything from me. You have seen it, haven’t you? In a dream...
+Rhea: Well?  It was supposed to be but a step away. What could possibly be missing?
+Claude: Sorry to disturb you when you're distressed, Archbishop, but it seems some uninvited guests have arrived.
+Metodey:  Don't move, any of you. If you move, your lives will be forfeit. Thank you ever so much for guiding us this far. The Imperial army will now take possession of everything in the Holy Tomb. 
+Ignatz: The Imperial Army? What are they doing here?
+Lysithea: So, they knew we were heading to the Holy Tomb and followed us here.
+Hilda: Hey, who is that standing next to the angry guy? Could that be--
+Claude: The Flame Emperor. I see. So you've been allied with the Empire from the beginning.
+Leonie: What are they doing here? What do they hope to gain?
+Claude: There's only one goal for grave robbers like these, right, Flame Emperor? You're here to steal the treasure that rests within the Holy Tomb.
+Flame Emperor: For a fool, you catch on quickly. Those Crest Stones will be ours. That infernal power, which is masquerading as a medicine but is truly a poison, will plague this world no longer.
+Rhea: Insolence! You will atone for the sin of tramping on this holy resting place.  Professor, destroy these villainous traitors who dare dishonor our creator!
+^end
+
+@Opening 
+Your house ventures into the Holy Tomb to receive a revelation from the goddess. In that hidden place, deep beneath Garreg Mach, a shocking truth is revealed.
+
+@Battle 
+Rhea: I will not allow such violence from the Empire! Strike down the rebels and protect the Holy Tomb!
+Metodey: The Crest Stones are in the caskets! Open every last one of them!
+Rhea: The Holy Tomb must not be desecrated! Protect as many of the Crest Stones as you can!
+
+Dimitri: Heretics! What could be gained from desecrating these tombs and disgracing the dead?!
+
+Claude: I guess we're fighting over who gets those Crest Stones… What in the world do they intend to use them for, anyway?
+
+Edelgard: Take away every last one of those Crest Stones.
+Rhea: That is enough! Do you even know what those stones are?!
+
+Flame Emperor: Take away the Crest Stones. All of them!
+Rhea: That is enough! Do you even know what those stones are?!
+
+@Boss 
+Metodey: I'm told it's fine to kill those who resist. Now then, how shall I cook you?
+
+Metodey: Wait... No! I was just following orders! I just... Graaargh!
+
+Edelgard: Despite what I said, I have no intention of killing you. So why not stand down and get out of my way?
+
+Edelgard: So the end has come...
+
+%Byleth,Edelgard
+Edelgard: Professor, I will make no excuses. Thank you for all that you did for me. In truth-- No. Let's leave it at that.
+
+%Flayn,Edelgard
+Edelgard: You could have had a peaceful life... Why did you have to come to Garreg Mach?
+
+@Boss
+Flame Emperor: You wish to interfere? Then your life is forfeit.
+
+%Byleth,Flame Emperor
+Flame Emperor: You are the one person I did not wish to make an enemy of...
+
+%Dimitri,Flame Emperor
+Dimitri: Do not try to say you have forgotten... Do you know just how many people died in Duscur?
+Flame Emperor: Why bother with this? Stay silent and fight.
+Dimitri: So you want to turn your eyes away from the lives you have trampled? Dastard! You are a monster. The lowliest beast I have ever known.
+
+%Claude,Flame Emperor
+Claude: So, you're the fabled Flame Emperor? Go ahead and enlighten me. What are you planning to do with the Crest Stones? What did you use Flayn's blood for? Who's Kronya? Who's Solon?
+Flame Emperor: Silence. There is no need for you to know.
+Claude: Is it that mask that's to blame for your curtness? If so, maybe I should rip it off and ask again.
+
+@End 
+Flame Emperor: Ugh...
+Dimitri: ... 
+
+Edelgard: So the end has come...
+Claude: Is this some sick joke? The Flame Emperor is actually Edelgard?!
+
+@Cutscene 
+^locked
+Dimitri: Is this some kind of twisted joke?!
+
+Dimitri: I've been looking for you... I will take that head from your shoulders, and hang it from the gates of Enbarr!
+
+Imperial Soldier: Stop right there!
+^end
+
+@End 
+Edelgard: ...
+Dimitri: Before I break your neck, there is one thing I must ask you.
+Edelgard: Stay out of my way.
+Dimitri: I don't recall giving you permission to speak. Answer my question. That is all you have left to do. Flame Emperor...no. Edelgard. Tell me now. Why did you cause such a tragedy?
+Edelgard: 
+Dimitri: You killed your own mother, and yet you haven't even had the decency to stop and consider the reasons behind your actions. Have you?!
+Edelgard: I already told you, I had nothing to do with that.
+Dimitri: Ha! It was foolish to think I could reason with a lowly beast.
+Imperial Soldier: Your Majesty, now!
+Dimitri: You are a monster...
+Edelgard: Come, Hubert!
+Rhea: To flee is futile, wicked girl. The Church of Seiros will raise its entire army against you, until you have been captured and punished! You have defiled the Holy Tomb, dishonored the goddess, and humiliated your brethren. That crime will never be erased, even if you burn in the eternal flames, and spill all of your blood into the goddess's soil!
+Rhea: Come, Professor. Let us return and decide upon our next course of action.
+Dimitri: Ngah...
+Byleth: Are you OK?
+Byleth: I can't believe it. Edelgard...
+Dimitri: We weren't able to defeat her.
+Dedue: Your Highness...
+Dimitri: I will kill Edelgard. With my own hands. I swear it!  Let's return to the monastery, Professor. It is clear what must be done.
+Rhea: You have disappointed me, Edelgard. To think that a descendant of House Hresvelg would dare betray the holy church...  Professor, kill Edelgard at once. She is a danger to all of Fódlan. Such a rebellious heart cannot be allowed to keep beating.
+Edelgard: I have achieved my objective. I will retreat. Farewell, Professor. If we meet again, it will be on the battlefield.
+Edelgard: Come, Hubert!
+Rhea: To flee is futile, wicked girl. The Church of Seiros will raise its entire army against you, until you have been captured and punished! You have defiled the Holy Tomb, dishonored the goddess, and humiliated your brethren. That crime will never be erased, even if you burn in the eternal flames, and spill all of your blood into the goddess's soil!
+
+Rhea: Come, Professor. Let us return and decide upon our next course of action.
+Claude: I'm not exactly on friendly terms with the princess, but I do have a few questions for her. Edelgard said that the Crest Stones represent power. That means she knows how to use them. She almost certainly knows other secrets of Fódlan as well... Once things calm down a bit, there's a lot more that Rhea needs to tell us.
+Claude: I just hope there's still time. I have this strange feeling... that history is being written. That an age of anarchy is upon us. Let's hope I'm mistaken.
+
+Rhea: You have disappointed me, Edelgard. To think that a descendant of House Hresvelg would dare betray the holy church...
+Edelgard: So, it is my teacher who stands in my way. I always knew it would come to this...
+Rhea: Professor, kill Edelgard at once. She is a danger to all of Fódlan. Such a rebellious heart cannot be allowed to keep beating.
+
+^start 
+Edelgard: I will withdraw... for now.
+Edelgard: Come, Hubert!
+Rhea: To flee is futile, wicked girl. The Church of Seiros will raise its entire army against you, until you have been captured and punished! You have defiled the Holy Tomb, dishonored the goddess, and humiliated your brethren. That crime will never be erased, even if you burn in the eternal flames, and spill all of your blood into the goddess's soil!
+Rhea: Come, Professor. Let us return and decide upon our next course of action.
+
+Rhea: You... How dare you!
+Edelgard:  My teacher, I-- Thank you! But are you certain that-- No, now isn't the time for discussion.
+Hubert: Words cannot properly express my gratitude, Professor.
+Rhea: So, this is the choice you have made. You are just another failure. Your presence soils this Holy Tomb, and disgraces my brethren. I will not allow one who would lend our enemies strength... to wield the power of the goddess Sothis. I have passed judgement. And now, I shall rip your chest open... and TAKE BACK YOUR HEART MYSELF!
+Hubert:  That must be the Immaculate One...
+Edelgard: Yes. The monsters that have controlled Fódlan in secret for far too long. Rhea is their leader.
+Hubert: There is no time to waste. Your Majesty, Professor, we must escape while we can.
+^end
+
+@End 
+Seteth: Edelgard and Hubert have disappeared. They will surely return to the Empire. The knights have been dispatched to search and investigate. If there is any movement, we will know. We cannot ignore the possibility that there will soon be open hostilities between us and the Imperial army. When that happens, are you prepared to fight your own? If you wish to return to the Empire, I will not stop you. That is your choice to make.
+Ferdinand: If Edelgard is acting afoul, then we have no choice but to strike her down.
+Caspar: It's up to us to stop them! We have a war on our hands!
+Linhardt: I have no interest in fighting, not even for her. And yet--
+Bernadetta: How are we supposed to decide just like that?
+Dorothea: Edie, Hubie, I'm sorry about this, but... I'm siding with the professor.
+Petra: Her doings are wrong. It is our duty to make everything right.
+Seteth: I am sure you all have much on your mind. I encourage you to confer with your professor and make a decision. You have until the fighting commences.  Professor, I am depending on your strength for the safety of Fódlan.
+
+Edelgard: The leaders of the church have misused its creed to fulfill their true desire - to rule the world. They have fooled the people of Fódlan. Long ago, they divided the Empire to create a Kingdom, and then, divided that Kingdom to create an Alliance. They did all of this to make the masses bicker amongst themselves. They caused instability in order to reinforce their own authority. They gathered gold and lived in extravagance. How? By preying on the devotion of those who wished for the goddess's salvation! Those corrupt hypocrites cannot lead Fódlan to true peace! Their foul belief system must be torn asunder so that true wisdom may finally prevail! And so, I have decided-- by order of the Adrestian Emperor, Edelgard von Hresvelg-- the Empire hereby declares war on the Church of Seiros!
+
+Seteth: I cannot believe it... Let us recount the situation as it stands, Professor. After you returned from the Holy Tomb... the Adrestian Empire declared war upon the Church of Seiros, as well as our allies.
+Byleth: Declared war?
+Seteth: Edelgard demanded her own father relinquish the throne, and then assumed the position of emperor. She has deemed the Church of Seiros to be an evil of this world, and is calling upon the people of Fódlan to help her tear it down. I must discuss our response to this declaration with the archbishop after the knights return from their investigation. Until then, watch over the students. See that they remain calm.
+
+Felix: So... He's finally shown his true face. The same Dimitri I've seen once before–a beast who loves spilling blood.
+Ingrid: You're wrong! I'm sure of it. There has to be an explanation...
+Sylvain: I knew he'd been carrying the burden of that tragedy. I understand his thirst for revenge. His family and closest friends...all massacred right in front of him. But...it still doesn't add up. There must be more that we don't know.
+Mercedes: That's true. Dimitri didn't come unhinged until after the Flame Emperor was unmasked...
+Ashe: You don't think...there's some connection between those two...do you?
+
+Dedue: Professor. The Empire has declared war on the Church of Seiros.
+Sylvain: We knew this day would come, sooner or later.
+Annette: What's going to happen?!
+Byleth: Don't worry.
+Byleth: We need more information.
+Ingrid: We can't afford to be optimistic. It's entirely possible the Kingdom will be invaded.
+Sylvain: Settle yourself, Ingrid. We need to carefully consider our options.
+Ashe: We can't just act rashly. That will only make things worse.
+Dedue: One we've ascertained the situation, we must return to Fhirdiad.  Your Highness...
+Dimitri: ... 
+
+Claude: I heard what happened, Teach. The princess-- well, the emperor now-- she really did it, didn't she? The lords and dukes of both the Kingdom and the Alliance have been called out, and now have to choose between the Church and the Empire. The seed of conflict was always there, and now we find ourselves in the middle of a war that will tear Fódlan in two.
+Lysithea: The Empire is rash, but I never thought it would come to this.
+Leonie: How could something like this happen? I hope everyone back home is safe.
+Hilda: I'm sure it's mass confusion at home right now. My brother must be worried sick about me.
+Byleth: Only time will tell.
+Byleth: Let's calm down.
+Claude: You're absolutely right, Teach. I'm sure a lot of us are worried about our homes, but... all we can do now is prepare for battle... and tread carefully.

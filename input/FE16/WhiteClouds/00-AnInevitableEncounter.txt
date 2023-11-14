@@ -1,0 +1,199 @@
+@Cutscene 
+Mounted Knight: Huh?
+
+Soldier: Lady Seiros!
+
+Seiros: Tell me, Nemesis, do you recall the Red Canyon?
+
+Seiros: You'll die for that! Die, die! You took...everything... that I loved!
+
+Seiros: He's gone now, Mother...
+
+Sothis: Oh my. What could have brought you here?
+
+@Dialogue 
+Sothis: I wonder how you got in here… It is most rude to interrupt a moment of repose. Very rude indeed. Now come to me. I wish to have a look at you.
+
+Sothis: Hmm... I have not seen the likes of you before. Who are you, anyway?
+Byleth: I'm a ghost.
+Sothis: Do not deceive. You would do well to keep your wit in line. 
+
+Byleth: I'm a demon.
+Sothis: Do not deceive. You would do well to keep your wit in line. 
+
+Byleth: I'm a mortal.
+Sothis: I see. Then you must have a name of sorts. Go on.
+
+Sothis: Huh. I shall not ever grow accustomed to the sound of human names. You must possess a day of birth as well. Beneath which moon and on what day were you born to this world?
+
+Sothis: Well, wonders never cease! It seems we share our day of birth. How strange! Hmm. It all feels so...familiar. I think it may be time for yet another nap... It is almost...time to...begin...
+
+@Intro 
+Jeralt: Hey. Time to wake up.
+
+Jeralt: Were you having that dream again?
+Byleth: I was dreaming about a war...
+Jeralt: Massive armies clashing on a vast field, right? There hasn’t been a battle like that in over three centuries…
+
+Byleth: I was dreaming about a young girl...
+Jeralt: You’ve described her to me before. I don’t think I’ve ever met anyone like that.
+
+Jeralt: In any case, just put that out of your mind for now. The battlefield is no place for idle thoughts. Risking your life is part of the job for mercenaries like us. Letting your mind wander is a sure way to get yourself killed.
+
+Jeralt: OK, time to get moving. Our next job is in the Kingdom. I told you before. It’s far from here, so we’ll need to leave at dawn.
+Byleth: Oh, right... 
+
+Byleth: Of course. 
+Jeralt: Hm? Good grief. Everyone is already waiting for us outside.
+
+Mercenary: Jeralt! Sir! Sorry to barge in, but your presence is needed.
+Jeralt: What's happened?
+
+Dimitri: Please forgive our intrusion. We wouldn’t bother you were the situation not dire.
+Jeralt: What do a bunch of kids like you want at this hour?
+Dimitri: We’re being pursued by a group of bandits. I can only hope that you will be so kind as to lend your support.
+Jeralt: Bandits? Here?
+Edelgard: It's true. They attacked us while we were at rest in our camp.
+Claude: We’ve been separated from our companions and we’re outnumbered. They’re after our lives…not to mention our gold.
+Jeralt: I’m impressed you’re staying so calm considering the situation. I… Wait. That uniform…
+Mercenary: Bandits spotted just outside the village! Damn… There are a lot of them.
+Jeralt: I guess they followed you all the way here. We can’t abandon this village now. Come on, let’s move. Hope you’re ready.
+
+@Battle 
+
+Jeralt: Let’s take care of those thieves before they overrun the village. Take down the enemies in front first. That should take the wind out of their sails.
+
+Edelgard: You have a strange aura about you… You say you’re a mercenary, so show me what you can do.
+
+Dimitri: Thank you. We are in your debt. It wouldn’t do for us to fall in a place like this. Please, lend us your strength. Let’s work together to drive out these thieves!
+
+Claude: It’s because of you guys that I’m not dead right now. Thanks for that! I didn’t expect to run into mercenaries like you in some remote village. The gods of fortune must be smiling on me!
+
+Jeralt: We’ll advance while protecting ourselves from the enemy. Take up position inside the forest.
+
+Jeralt: Yes, good. If we’re in the forest, we can sustain their attacks without losing the advantage.
+
+Jeralt: This is a fine opportunity. Use the combat arts I taught you!
+
+Jeralt: Attack when an ally is nearby, and the enemy will be intimidated, making them easier to hit.
+
+@Battle
+Kostas: Damn. Why are there mercenaries in the village? Guess we'll have to deal with them too.
+
+@Boss
+Kostas: I'm gonna kill you where you stand...
+
+%Jeralt,Kostas
+Kostas: What the?! Aren't you Jeralt the Blade Breaker? What's a renowned mercenary like you doing here?
+Jeralt: I'm the one who should be complaining. I'm caught up in the mess you started!
+
+%Byleth,Kostas
+Kostas: Hey, you with the blank stare! Outta my way!
+
+@Cutscene 
+Kostas: You'll die!
+
+Sothis: Honestly! What are you accomplishing with that little stunt?! It’s like you’re trying to get me killed, you fool!
+
+Sothis: Well, it’s fine. After all, if you don’t know the value of your own life, you’re not going to protect it very well, are you? Course not.  Well then, I guess it’s up to me to guide you from now on, right? You can call me Sothis…but I’m also known as “The Beginning”.
+
+@Dialogue 
+Sothis: Hmm… Sothis… Yes, that is it. My name is Sothis. And I am also called…The Beginning. But who once called me that?
+
+Byleth: What are you talking about?
+Byleth: Sothis?
+Sothis: I was not able to recall my name…until just now. And just like that, it came to me. How odd. That look upon your face… Did you think me a child? A mere child who forgot her own name?! Phooey! That “child” just saved your life! And what does that make you?
+
+Byleth: I am no child.
+Sothis: Ha! Such arrogance. You look the part but are you truly an adult?
+Byleth: I'm less than a child? 
+Sothis: Correct! You understand.
+Sothis: You threw yourself before an axe to save just one young girl. Yet all is well, as I have stalled the flow of time for now. You would have died had I not intervened.
+
+Byleth: Thank you.
+Sothis: There now. Is gratitude so much to ask? I did deem you worth saving, after all.
+Byleth: You stopped time?
+Sothis: Hm. I do not hear your gratitude. Perhaps I should force you to leave?  There now. Is gratitude so much to ask? I did deem you worth saving, after all.
+Sothis: Though it is only momentary, time has stopped. However did I manage that...
+
+Byleth: What will happen when time resumes?
+Byleth: What now?
+Sothis: When time begins again, the axe will tear into your flesh, and you will surely meet your end. How rude of you to drag me into this! Now what to do…
+
+Byleth: Turn back the hands of time. 
+Sothis: Of course! I must turn back the hands of time!
+Byleth: Keep time frozen until I'm safe.
+Sothis: That is ridiculous! Oh, but perhaps... Of course! I must turn back the hands of time!
+Byleth: I'll just stay here and wait to die. 
+Sothis: As though I could stand idly by and watch that come to pass! Oh, but perhaps... Of course! I must turn back the hands of time!
+Sothis: Yes... I do believe it can be done. You really are quite troublesome. I cannot wind back time too far, but all is well. You are aware of what’s to come, which means you can protect yourself this time. Now, go… Yes, you who bears the flames within. Drift through the flow of time to find the answers that you seek…
+
+@Cutscene 
+Edelgard: Huh?
+Kostas: You'll die!
+
+Claude: Hey–over here!
+
+@End 
+Jeralt: Hey... Did you just...
+
+Alois: The Knights of Seiros are here! We'll cut you down for terrorizing our students. Hey, the thieves are running away! Go after them! The students seem to be unharmed. And...who's this?
+Jeralt: Ugh... Why him?
+Event: An Unexpected Reunion
+Alois: Captain Jeralt?! It is you! Goodness, it’s been ages. Don’t you recognize me? It’s Alois! Your old right-hand man! Well, that’s how I always thought of myself anyway. It must have been 20 years ago that you went missing without a trace. I always knew you were still alive!
+Jeralt: You haven’t changed a bit, Alois. Just as loud as ever. And drop that “captain” nonsense. I’m not your captain anymore. These days I’m just a wandering mercenary. One who has work to do. Good-bye, old friend.
+Alois: Right... Good-bye, Captain. Wait! That isn't how this ends. I insist that you return to the monastery with me!
+Jeralt: Garreg Mach Monastery... I suppose this was inevitable.
+Alois: And how about you, kid? Are you the captain's child?
+Byleth: He is a stranger to me. 
+Alois: Great sense of humor, this one. Clearly cut from the same cloth as the captain.
+Byleth: I'm a bandit. 
+Alois: Great sense of humor, this one. Clearly cut from the same cloth as the captain.
+Byleth: That is correct.
+Alois: Is that so? Well, physical differences aside, your mannerisms do remind me of the captain.
+Alois: I'd love for you to see the monastery too. You will join me, won't you?
+
+Alois: What's troubling you, Captain? You aren't about to run off again, are you?
+Jeralt: Even I wouldn't dare run from the Knights of Seiros.
+
+Sothis: The Knights of Seiros... They do seem rather skilled.
+
+Sothis: Ah. It seems your presence is required. Get going!
+
+Edelgard: I appreciate your help back there. Your skill is beyond question. You’re clearly an experienced mercenary. And your father...that would be Jeralt, the Blade Breaker? Former captain of the Knights of Seiros. Oft praised as the strongest knight to ever live. Have I missed anything?
+Byleth: The Knights of Seiros?
+Edelgard: You haven’t heard of the Knights of Seiros? The most famous order of knights in all of Fódlan?
+Byleth: I didn't know he was a captain. 
+Edelgard: How curious. I’d wager the explanation for that is fascinating indeed.
+Claude: Hey! You are coming with us to the monastery, right? Of course you are. I’d love to bend your ear as we travel. Oh, I should mention that the three of us are students of the Officers Academy at Garreg Mach Monastery. We were doing some training exercises when those bandits attacked. I definitely got the worst of it.
+Edelgard: That would be because you ran off.
+Claude: Too true! I was the first to make a strategic retreat. Everything would have worked out if these two hadn’t followed me and ruined everything. Because of them, every single one of those bandits chased after us. Utterly ridiculous.
+Dimitri: Ah, so that’s what you were thinking, Claude. And here I thought you were acting as a decoy for the sake of us all.
+Edelgard: His intentions were as clear as day. You will prove a lacking ruler if you cannot see the truth behind a person's words.
+Dimitri: Hm. You will prove a lacking ruler if you look for deceit behind every word and fail to trust those whom you rely on.
+Claude: Oh, joy. A royal debate between Their Highnesses. I wonder how being completely predictable affects one’s ability to wield power. Personally, as the embodiment of distrust, I’d say your little exchange smacks of naiveté.
+Edelgard: Me? Naïve? Tell me, are you actually incapable of keeping quiet, or is your lack of self-awareness a condition of some sort?
+Dimitri: In any case, forgive our digression. I must speak with you, if you can spare a moment. The way you held your ground against the bandits’ leader was captivating! You never lost control of the situation. It showed me I still have much to learn.
+Edelgard: Your skill is precisely why I must ask you to consider lending your services to the Empire. I might as well tell you now. I am no mere student. I am also the Adrestian Empire’s–
+Dimitri: Halt, Edelgard. Please allow me to finish my own proposition. The Holy Kingdom of Faerghus is in dire need of exceptional individuals such as yourself. Please, do consider returning to the Kingdom with me.
+Claude: Whoa, there! You two sure are hasty. Trying to recruit someone you just met. Tactless, really. I was personally planning to develop a deep and lasting friendship on our journey back to the monastery before begging for favors. But it seems there’s no time for niceties in this world. So, capable stranger, let’s get right to it. Where does your allegiance lie?
+Sothis: Hmm. It seems one's place of birth is quite significant to them. Yet they are so impressed by you, that you may take your pick. Well?
+
+Byleth: Adrestian Empire: Land of Ancient History 
+Edelgard: A wise choice. Though the Empire has fallen from its former glory, the other regions are merely offshoots that pale in comparison.
+
+Byleth: Holy Kingdom of Faerghus: Land of Noble Knights 
+Dimitri: Understood. Faerghus is a noble and distinguished kingdom that has always valued chivalry.
+
+Byleth: Leicester Alliance: Burgeoning League of Nobles 
+Claude: Is that right? Well, that’s a win for the Alliance, so I suppose I’m obligated to be happy.
+
+Alois: All right, that's enough with the small talk. It's time to head back to the monastery.
+Claude: Looks like we'll have to pick this up another time.
+
+Sothis: My, my. They are in such a hurry. You know... Each of the three is most unique.
+
+Byleth: Edelgard… 
+Byleth: Dimitri… 
+Byleth: Claude… 
+Sothis: Yes, I thought the same. I am so sleepy once again... I may be sleeping...but I...

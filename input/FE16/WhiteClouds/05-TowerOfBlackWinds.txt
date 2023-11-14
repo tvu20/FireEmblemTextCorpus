@@ -1,0 +1,550 @@
+@Opening 
+The ceaseless rains that satiate the verdant landscape of Fódlan are accompanied the fierce winds and mighty roars of thunder. This abundance of rain, sparkling as it falls against beams of emerging sunlight, is a constant reminder to the people of Fódlan that nature is ever wild and unpredictable. For when the rain finally does pause, the clouds part to give way to a glorious rainbow.
+
+@Intro 
+Rhea: I have a new mission for you, Professor. I would like for you to take your students into Kingdom territory to eliminate some thieves.
+Seteth: They stole a Hero's Relic from House Gautier of the Holy Kingdom of Faerghus–the Lance of Ruin. Their leader's name is Miklan. He is apparently a disowned son of House Gautier.
+Byleth: Why was he disowned?
+Seteth: I believe it had something to do with his lack of a Crest. Such happenings are fairly common within the Kingdom.
+Rhea: The Crestless cannot harness the goddess's power, even if they possess a Relic. Nonetheless, they are still capable of simply wielding those weapons.
+Byleth: Why must the church eliminate him?
+Seteth: This skirmish involves a holy Relic, and is therefore more than a single noble is capable of resolving.
+Seteth: The Heroes' Relics are immensely powerful weapons. We must meet this threat with adequate force. Unfortunately, most of the Knights of Seiros are away from the monastery purging the apostates of the Western Church. So we are entrusting you with this mission. After all, you wield the Sword of the Creator, which is more than capable of opposing any Relic.
+Rhea: The Sword of the Creator is a powerful weapon, well beyond the other Relics. You have nothing to fear. However, to ensure that no harm comes to the students, we will also send the monastery's most skilled individuals to aid you.
+Seteth: I must remind you that you are expected to conduct yourself in a manner befitting the wielder of that holy sword. Also, you should know that Professor Hanneman has been looking for you. That is all.
+
+^start 
+Edelgard: Professor, I heard about our mission for this month. A thief with a Hero's Relic is worrisome, but with you at our side, I'm certain we can handle him. After all, you have the Sword of the Creator. It was allegedly wielded by Nemesis, the King of Liberation. If the legends are true, you hold the power to stand against entire armies. A band of thieves should be nothing. Even the most elite Imperial forces or the Knights of Seiros could not hope to defeat you.
+Byleth: Why does it matter?
+Edelgard: I'm just marveling at the potential. Besides, your power does not lie solely in the Sword of the Creator.
+Byleth: It would never come to that.
+Edelgard: Is that so? Even if those forces were to hurt someone precious to you? Can you say with full confidence that you would not turn your sword on them if that were to happen? You know, your power does not lie solely in the Sword of the Creator.
+Edelgard: You are stronger and more terrifying than you realize. Professor... When we leave the monastery, will you still think of yourself as my teacher?
+Byleth: What do you mean?
+Byleth: If we left the monastery?
+Edelgard: Never mind. I'm being thoughtless with my words. For now, let's just focus on the problem at hand.
+
+Dimitri: I heard about our mission for this month. So... We are to eradicate thieves in Kingdom territory. I'm sorry for dragging into the Kingdom's petty squabbles. This should not be your burden to bear, but my own...
+Byleth: I'm happy to help. 
+Byleth: It's just a job.
+Dimitri: Thank you, Professor. Hearing you say that puts my mind at ease.
+Dimitri: Hm?
+Rodrigue: Your Highness? Ah, it's been ages!
+Dimitri: It's been a long time! Two years, if I'm not mistaken.
+Rodrigue: Indeed, Your Highness. You've grown so much in those years. I hardly recognize you.
+Byleth: Who's this?
+Byleth: A friend of yours?
+Dimitri: This is Rodrigue, an old friend of my father's. I believe I've mentioned him, if you recall. When my father died four years ago, he looked after me as though I were his own son.
+Rodrigue:  You flatter me, Your Highness. It was my honor to care for such a fine, young man. It's nice to finally meet you, Professor. My son, Felix, has mentioned you on occasion.
+Dimitri: What brings you to the monastery, Rodrigue? Is it the thieves plaguing the Kingdom?
+Rodrigue: I'm afraid so. This is not merely a problem for House Gautier, but for everyone. The thieves have set up their headquarters in Fraldarius territory, and are mercilessly pillaging the villages of that area. You have our full support in stopping those dastards. I thank you for your help, both of you.
+
+Claude: Hey, Teach. I gotta say, I never would've guessed you were a descendant of the King of Liberation. You didn't forget, did you? That story I told you about a Relic that could cut a mountain in half? That Relic was the Sword of the Creator! The very same used by Nemesis, the King of Liberation.
+Byleth: What are you talking about?
+Byleth: I'm not his descendant.
+Claude: Don't be coy, Teach. The Sword of the Creator could only be wielded by Nemesis. If you can use it too, that can only mean you have that bloodline's Crest.
+Byleth: I don't understand.
+Claude: Fine, keep your secrets. But just so you know, "I don't understand" isn't gonna cut it here at the monastery. Speaking of, Professor Hanneman has been looking for you. He probably wants to examine your Crest with those crazy instruments of his. Actually...sounds amusing. Maybe I'll tag along.
+Judith: If it isn't my little Claude! What has you so worked up?
+Claude: Judith?! What are you doing here?
+Judith: That's Lady Judith to you, boy. I told you, until you're in charge, I expect you to address me with all due respect. Anyway, I'm here to retrieve you. Duke Riegan's condition has taken a turn for the worse.
+Claude: Are you saying the old man's on his death bed?
+Judith: No, it's not that bad. But in the state he's in, he won't be able to participate in the next roundtable conference. He wants you to go in his stead. I volunteered to play the messenger.
+Claude: Well, thanks for that. Oh, and Teach, this is Judith. Also known as the Hero of House Daphnel.
+Judith: So you're little Claude's teacher, are you? How much trouble has he been giving you?
+Byleth: Plenty.
+Byleth: Not too much.
+Claude: If her nickname didn't give it away, you should know that Judith...er, Lady Judith is the leader of the famous House Daphnel of the Leicester Alliance. She used to be a big deal at the roundtable conferences, but it seems of late she's been reduced to a mere–
+Judith: You had better shut that mouth before I put my boot in it, you tactless nuisance! Now come on. Let's get going. Sorry, Professor, but I need to borrow the boy for a bit.
+Claude: I suppose we'll have to finish our chat later. Sorry, Teach. But don't you worry. I'll be back in time for our next mission. All right, Judith. Let's get going.
+Judith: It's Lady... Ah, I suppose you are the active leader for the time being. Fair enough, boy. Fair enough.
+^end
+
+Hanneman: Good of you to come, Professor. I've heard much about you lately. Specifically, that you were able to awaken the Sword of the Creator's power. Thusly, it seems the true nature of your Crest has been uncovered. I had, of course, seen your Crest before. However, at first, I failed to recognize its true nature. Eventually, it dawned on me that what is visible is perhaps merely a small part of a greater whole. In other words, your Crest is too significant to be detected when using normal instruments. After this discovery, I began researching Crests that might fit that description, which allowed for a temporary hypothesis. However, I could not be certain. The Crest my conclusions led me to was far too unusual. A Crest thought to have disappeared in this world in the millennium since the fall of Nemesis, the King of Liberation. The Crest of Flames. That is what you possess.
+Byleth: The Crest of Flames...
+Hanneman: Your ability to wield the Sword of the Creator has unequivocally proven my hypothesis. A legendary power, dormant since time immemorial, and now resurrected... There can be no doubt that this ancient power resides within you.
+
+@Conversation 
+Sothis: A stone? A stone... I do not understand. Yet as I think of it, the pounding in my chest grows faster still. But is that me...or is it you? Hmm...
+
+Edelgard: For a Hero's Relic to be stolen... It's unheard of.
+Hubert: And just last month, the Sword of the Creator was almost stolen too.
+Edelgard: Also quite unheard of. What imprudence.
+Hubert: For House Gautier to invite us on to their land, they must be desperate. But at least we'll have the stalwart knights ready to stand around and watch us do all the work.
+
+Dimitri: Say, I hear that a Knight of Seiros named Gilbert will be joining us for our mission this moon. He is skilled, which is surely a boon for us. Still... That was not very thoughtful of Lady Rhea.
+Byleth: Do you know him?
+Dimitri: Ahh, well... No, I do not. Not really. All I will say is that we have trained together a few times in the past.
+Byleth: Do you have history with him?
+Dimitri: No... It's nothing. In any case, you should at least introduce yourself to him before we depart.
+Dimitri: House Gautier is Sylvain's home. It would be nice if you could check on him as well.
+
+
+
+Dimitri: I am sorry that the Kingdom's unrest did not stop with Lord Lonato... Professor... The Heroes' Relics are incredibly powerful. Please be on your guard.
+
+
+
+
+Claude: Oof. This wasn't the first time I've taken part in an Alliance roundtable conference, but it was still exhausting. There's not enough cooperation in that group, especially from Lorenz's father. But at least my grandfather was surprisingly alert. Judging by that, I'd say he's got at least five more years in him.
+
+
+
+Claude: Hey, Teach. I hear you were able to use the Sword of the Creator. That means... What does that mean? Could it mean that you're a descendant of Nemesis, the King of Liberation?!
+
+
+Ferdinand: The coffin of Seiros in the Holy Mausoleum should have held her remains. Instead, they say, it held the Sword of the Creator. What could it mean?
+
+
+
+
+Linhardt: Swinging a sword about in the Holy Mausoleum? The potential for damage is too great to imagine. I sincerely hope the saints' coffins were not damaged.
+Byleth: They didn't. 
+Byleth: One might've been scratched.
+Linhardt: Were you using magic? I've heard you weren't, but– Ugh! It's torture not being able to go inside the Holy Mausoleum for an entire year.
+
+
+
+Linhardt: You and your class were at that fight in the Holy Mausoleum, right? I sincerely hope the holy artifacts are unscathed. I admit I wish I could've been there to see it all, even if it does make me queasy. But I was there too early. I'd gone first thing in the morning. At noon, one of the monks chased me out saying I'd been there too long. Who were they to decide when I've been somewhere too long?
+
+
+
+
+Caspar: I heard a relic was stolen. If this had something to do with a family conflict, I don't think I could choose a side.
+Byleth: Even if there's a clear guilty party?
+Byleth: We can't allow a Hero's Relic to be stolen. 
+Caspar:
+Byleth: I think I'd be a pretty good judge of that!
+Byleth: What if it's some kind of powerful weapon? I want one too!
+Caspar:
+
+
+
+
+Caspar: I'm gonna keep training until I can beat you!
+
+Bernadetta:  I'm not secretly eating cake!
+Byleth: I can sense it.
+Bernadetta: Hmm... OK, what's Bernie doing right now? Oh, fine. You got me. But keep it a secret, all right?
+Byleth: I'll take your word for it. 
+Bernadetta: You're getting pretty good at talking through the door, Professor!
+
+
+
+Dorothea: So, you have a Crest too, eh, Professor? Does that mean you're descended from nobility? You've certainly got the look for it... I sure do wish there were more nobles like you, Professor. A teacher, a mercenary, and so very mysterious... How could a girl ever get enough?
+
+
+
+Petra: I have never had goings to the Kingdom's north. I hear the people of north are cold and have much loneliness. Professor, I hear you have had work...have worked as a mercenary in the Kingdom. Did you find joy in this? You cannot remember? Is that having possibility? I have amazement...
+
+
+
+
+Dedue: I know Lord Rodrigue. He paid repeated visits to His Highness after the previous king was killed.
+
+
+
+Dedue: The Western Church. The Central Church. They believe in the same goddess, but oppose one another. Fódlan is a complicated place.
+
+
+
+
+Felix: Have you seen a man who looks like me? He's middle-aged and relatively tall.
+Byleth: I have. 
+Byleth: I have not.
+Felix: If you get the chance, tell him I've gone out. OK?
+
+
+
+Felix: Think of it! The Sword of the Creator, belonging to the ancient King Nemesis. You have to master it as soon as you can. I can't wait to face off against such a legendary weapon!
+
+
+
+
+Ashe: So the whole plan to attack the monastery was some plot devised by the Western Church? That means they used Lonato. What right do they have to drag a good man like that into their schemes?!
+
+Ashe: There's going to be a big investigation into the Western Church soon. I wish I could be a part of it. I want to hear for myself why Lonato had to die.
+
+
+
+
+Sylvain: I'm so sorry my older brother is causing you all this hassle, Professor. Don't misunderstand, I always thought he was a piece of garbage, but I never thought he'd steal the Relic. I can't wait to see his face when he realizes I'm in the group that was sent to take him down.
+
+Sylvain: I can't believe my own brother is the leader of the bandits. House Gautier is my true home…and his. Please, Professor. He really is one of the worst people I've ever known, but we still… We share the same blood. We're still family.
+
+
+
+
+Mercedes: Isn't it strange? Saint Seiros's body was missing from her coffin, but they found a sword in its place... Do you think she moved from her coffin and left the sword behind?
+
+Mercedes: Professor! You looked like a natural wielding the Sword of the Creator! It's strange though, isn't it? The last owner of the sword was Nemesis, but I thought he didn't have any descendants…
+
+
+
+
+Annette: Hey, Professor? Did you happen to see that man I was looking for earlier? I just spotted him by the dining hall, but then he ran away!
+Byleth: Who is he to you?
+Annette: He... To be honest, he's my father. He's using a different name now, but there's no mistaking it. It's him. I know it is!
+Byleth: I might have seen him. 
+Annette: Oh? You saw him by the entrance to the monastery? Thank you, Professor!
+Annette: Father... I've found you at last!
+
+
+
+Annette: Professor! If you're heading to the Kingdom, I would recommend taking a coat. It's chilly, even at this time of year. It also rains a fair bit. Don't get caught out there without protection, or you're sure to catch a cold!
+
+
+
+
+Ingrid: Wow, Lord Rodrigue in the flesh... What is Felix doing? This is such a rare opportunity for him to see his family...
+
+
+
+Ingrid: Professor, please leave Sylvain alone for the time being. The thing is, the bandits' leader who stole the Relic...is Sylvain's disinherited older brother.
+
+
+
+Lorenz: I have heard that someone from House Gautier, one of the Kingdom of Faerghus's noble families, is causing some sort of commotion. What a complete disgrace to the nobility.
+
+
+
+Raphael: Hey, Professor. Don't you think everyone's making too big a fuss over these Crests or Heroes' Relics or whatever they're called? How important can that stuff really be?
+Byleth: It's very important.
+Byleth: I'm not sure. 
+Raphael: Personally, I don't even care that I don't have a Crest. I'll take muscles over Crests any day. Heck, I'll take muscles over a hot meal! Actually...
+
+
+
+Ignatz: Don't you think Professor Hanneman's been acting a bit...strange? Maybe he's made some kind of big discovery.
+
+
+
+
+Lysithea: Is it true that Lady Rhea entrusted the Sword of the Creator to you? I can hardly even fathom you being capable of wielding something of such power. Just who are you, anyway?
+
+
+
+Lysithea: Aristocrats are fools–-allowing their lives to be dictated by their Crests. Though...I suppose I am much the same in that regard...
+
+
+
+Marianne: Some people are unhappy because they don't have the Crest they want... And some are unhappy because they have a Crest they never asked for.
+
+
+
+Hilda: I thought school life would be peaceful and quiet, with a sprinkle of drama to keep things interesting. But since you arrived, it's been one thing after another. Is that just a coincidence, I wonder?
+Byleth: I believe so. 
+Hilda: Oh, I was just kidding! Anyway, as I said before, I do like having a little drama in my life.
+Byleth: Maybe. Maybe not.
+Hilda: What do you mean? I don't like the way you said that. Stop trying to spook me!
+
+
+
+Leonie: Captain Jeralt was all furrowed brow earlier. Do you know what's got him so concerned? If there's a problem, I want to help any way I can.
+Byleth: I don't know. 
+Leonie: OK. I doubt there's anything I can do for him, but I figured I'd ask anyway.
+Byleth: Why don't you ask him yourself?
+Leonie: I did, but he just dodged the question. Still, it's worrying to see him like that.
+
+
+
+Rhea: You must be rather bewildered by the power that was hidden within. However, know that I believe in you. I have no doubt that you will use that power justly. You will most certainly fulfill the grand destiny that the goddess has seen fit to grant you.
+
+
+
+
+Seteth: Ah, Professor. Jeralt was looking for you.
+Byleth: Where is he?
+Seteth: It seems he has gone off somewhere. If he is not in his room, then surely someone has seen him. Ask around.
+
+
+
+Seteth: How are you managing the Sword of the Creator? No problems? I hope you have not left it lying somewhere unattended or anything foolish like that.
+Byleth: No problems. 
+Byleth: I'm not quite used to it yet.
+Seteth: You will need the sword's power on your next mission. I trust you will handle it without much issue.
+
+
+
+Flayn: Why is that fish so...still? Wait-–is it swimming sideways?! Perhaps... Perhaps it is resigned to its woeful fate of being plucked from the water and eaten... Ah, Professor. You are so outgoing with all of the students. I would like to have more opportunities to connect with you, though I am certain my brother would disapprove.
+
+
+
+Catherine: You acquitted yourself honorably last month. To think they'd go into the Holy Mausoleum and assault the Goddess Tower... I cannot imagine the Western Church is acting on its own. Someone must have been helping them. As for the masked knight who escaped, his days are numbered. I hope we find him soon, so I can kill him myself.
+
+
+
+Gilbert: Hail, Professor. If I may introduce myself, I am Gilbert. My life has been spent as a dedicated knight. I am to accompany you on your assignment. I may have slowed a step in recent years, but I pledge to you the full extent of my abilities.
+Byleth: Aren't you too formal?
+Gilbert: I beg your pardon, but such is my nature.
+Byleth: It's a pleasure to meet you. 
+Gilbert: No, Professor. The pleasure is all mine, I assure you.
+
+
+
+Jeritza: Mercedes... Her face looks...familiar...
+
+
+
+
+
+Hanneman: Oh my...the Crest of Flames? Could it really... Yes, the actual Crest of Flames! No, that is quite enough. I should compose myself. I must remain objective in my research. Objective. Professional.
+Byleth: Excitement is understandable.
+Byleth: I respect your self control. 
+Hanneman: The scandal with the Western Church troubles me. We cannot afford to let ourselves be swept along, and yet...
+
+
+
+Manuela: It's awful, just awful what happened with the Rite of Rebirth. The infirmary... Well, it was a mess. Things are finally calm again, and so I've come here to unwind. Let me tell you, I put all of my knowledge to use keeping those kids alive. Still, the truth of it is that when someone faces death for the first time...well, they figure out who they are. They learn if they can do it again. We can't lose them, Professor. Not to battle, or to cowardice. If you can keep them going, then I will too.
+Byleth: I will protect them. 
+Byleth: I will try my best.
+
+
+
+Tomas: The head of the Western Church holds the title of bishop. That's not as distinguished as an archbishop such as Lady Rhea, but it still comes with a fair amount of authority. If someone in that position plotted an assassin, I cannot help but think it must have been instigated by some outside force. There are bishops in the Eastern Church as well, but to speak frankly, they do not have much impact. They are under the influence of both the archbishop and the Leicester Alliance, so their ability to voice grievances is quite limited.
+
+
+
+Cyril: I hear about the things you did. I'm so glad Lady Rhea's safe. I figure you're a great person after all, Professor.
+
+Anna: I've been hearing a lot about you lately. Word on the street is you wield some amazing sword. If you ever want to sell it to me, I'd pay top G! Just kidding. Sorta. It's, uh, not for sale, is it?
+
+Rodrigue: Professor. Have you seen my son, perchance? I have need of him.
+Byleth: He went out.
+Rodrigue: Is that so? That is too bad.
+Byleth: I believe he's in his quarters.
+Rodrigue: Is that so? Thank you, Professor.
+Rodrigue: I must ask him not to distract you, Professor, nor His Highness from the matter at hand.
+
+
+
+Rodrigue: I am Rodrigue Achille Fraldarius. I bear the great honor of serving as a lord in the Kingdom of Faerghus. I have come in Margrave Gautier's stead to retrieve their stolen Relic. However... As I hear it, a group of students is to attend to this matter. I sincerely hope no harm comes to any of them.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Oh! Come to think of it, last month there was something to report, wasn't there? Thanks to you, I hear that everything was resolved. I never realized that bandits had entered... I'm not a great guard after all, am I? I hope you will forgive me one day.
+
+@Intro 
+^start
+Edelgard: This weather is unfortunate. Those villagers were right when they said a storm was brewing. But they were more afraid of an attack than they were of the storm. Let's end this quickly.
+Hubert: The thieves have taken Conand Tower as their base... There it is in the distance.
+Edelgard: Miklan must be more skilled than your average thief to have overtaken a place like that.
+Gilbert: This area was the site of a massive battle several hundred years ago. That's when invasions from the north were at their peak. Back then, this tower was built for both surveillance and defense. It will be difficult to seize it.
+Edelgard: You know your history, Gilbert. If I recall correctly, you're from the Kingdom aren't you?
+Gilbert: I left my home long ago. If you have any questions about the mission, I'd be happy to answer them.
+Byleth: What do you know about House Gautier?
+Byleth: What do you know about the leader of the thieves?
+Gilbert: House Gautier has always placed great importance on whether or not someone bears a Crest. Margrave Gautier has two sons. A Crest never manifested for his eldest. It's not hard to imagine why he left and wound up in this sort of life.
+Edelgard: There's no reason that Crests should have the power to dictate someone's destiny. Don't you agree, Gilbert? He was just another victim of cruel fate. Forsaken by the goddess, who now demands his execution.
+
+Dimitri: It should be in our sights soon, Professor. The abandoned tower those thieves are using as a base... Conand Tower.
+Gilbert: This area was the site of a massive battle several hundred years ago. That's when invasions from the north were at their peak. Back then, this tower was built for both surveillance and defense. It will be difficult to seize it.
+Dimitri: You're very well informed, Gilbert. Please, tell us more.
+Gilbert: Well, I... Ah. You're joking.
+Dimitri: Professor. Did you see the local villages? They were in rough shape, no doubt because of the thief attacks. They're not going to make it through the winter in that condition. If the thieves had taken up pillaging in order to survive, that would be deplorable...but understandable. But this... This is something else entirely. It looks as though they destroyed those villages purely for pleasure. No matter what their reasons may be, that sort of behavior cannot be allowed. Ever.
+Sylvain: Don't bother losing your head over those lowlifes, Your Highness. It's wasted effort.
+Dimitri: Sylvain... The thieves' leader...the one who stole the Relic. Word has it he's your older brother. I know he's been disowned, but...
+Sylvain: He is no longer a member of House Gautier...or my brother. He's nothing more than a common thief.
+Dimitri: Are you sure about that? It would be understandable to find this situation...well, regrettable, to say the least.
+Sylvain: Regrets? Heh, you must be joking. You know we're far past the point of regret. And it always falls on the younger brother to clean up the mistakes of their elders, doesn't it?
+Dimitri: This rain threatens a coming storm. We must hurry and begin our war council before the heavens let loose.
+
+Claude: Say, Teach. This must be the tower, don't you think? Even for a tower, it's pretty.. er, towering.
+Byleth: It's more like a fortress.
+Byleth: It would prove difficult to attack.
+Claude: It's a remnant of ancient wars... These thieves certainly found themselves a great place to nest. I hear their leader, Miklan, is a former noble. It makes sense he would already know about this place.
+Gilbert: Several hundred years ago, this was an important stronghold for diffusing invasions from the north. Back then, this tower was built for both surveillance and defense. It will be difficult to seize it.
+Claude: Gilbert, isn't it? You hail from the Kingdom, right? No wonder you're so knowledgeable. While we're chatting so amicably... Do you mind if I ask some questions?
+Gilbert: I don't mind. If I can answer them, I will.
+Claude: Have you ever seen the Lance of Ruin?
+Gilbert: I have. A long time ago. It was an impressive, if not eerily ominous, weapon to behold. According to Margrave Gautier, Miklan has used the lance to turn the tables on his pursuers.
+Claude: Is that right? Then those without a Crest can use it as well... Interesting. As far as I knew, that wasn't possible. And then we have the mythical Sword of the Creator, which can't be used by anyone except Teach, Crest or no Crest. Maybe you're just that special, Teach. Or maybe there's something you're not telling us. Either way, I expect big things from you in this battle.
+Byleth: Leave it to me.
+Claude: Ha! I love a good show of confidence. I'll do my best too. You can count on it.
+Byleth: I'm relying on you, Claude.
+Claude: Are you now? Then why don't you hand over the Sword of the Creator for a bit? Then again, it would just be a heavy blade in my hands. There's no justice in this world, Teach.
+Claude: Ugh, the rain is really coming down now. Let's finish this quickly.
+^end
+
+@Opening 
+A group of thieves led by a disowned son of House Gautier has stolen a Hero's Relic and begun to run amok. Seeking to neutralize this threat, the church is sending your house there to settle the matter.
+
+@Battle 
+Gilbert: The enemy is close by. We're almost to the top floor.
+
+Edelgard: They have nowhere left to flee, so the situation is in our favor. All we have to do is chase then down.
+
+Dimitri: They are merely thieves, but they have a Hero's Relic. Do not drop your guard.
+
+Claude: Phew, why did we have to climb so high before a battle? At least it's better than fighting in heavy rain.
+
+Sylvain: Don't hold back for my sake. My brother is going to pay for everything he's done.
+
+Rogue: The captain's in trouble! Hurry up, you fools!
+Gilbert: Enemies approach from the lower floor! Watch the rear flank!
+
+Rogue: Here we go! Attack them from both sides!
+Gilbert: It's an ambush!
+
+@Boss 
+Miklan: So, you think you can take the lance from me, huh? I'll kill you... I'll kill every last one of you!
+
+%Sylvain,Miklan
+Miklan: Why have you come, you Crest-bearing fool?
+Sylvain: I'm here for the Lance of Ruin, Miklan. Hand it over. I don't want to humiliate you, but I will.
+Miklan: Hmph! Hurry up and die already. If not for you... If it hadn't been for you...
+Sylvain: Shut up! I'm so tired of hearing that. You've always blamed me for something that isn't my fault.
+
+@Cutscene 
+Miklan: Not bad for your kind... A bunch of spoiled rotten children.
+
+Miklan: What the hell?!
+
+Bandit: Damn! Look at that... I'm outta here!
+Bandit: Hold on!
+
+Bandit: No!
+
+@Battle 
+Black Beast: Graaaargh!
+Sylvain: What the–Miklan?! Is that you?!
+
+Sothis: That form... Oh my. Is this your first time fighting such a thing? Then listen well to what I say.
+
+Edelgard: Such is the fate of one whose life is corrupted by a Crest Stone... How pitiable. The least we can do is put an end to his suffering.
+
+Dimitri: So, this is the power of a Hero's Relic. To create such a sinister beast... It has gone too far. I fear all we can do now is put an end to it.
+
+Claude: How awful...So the Heroes' Relics are hiding such a terrible power within. I can't even tell friend from foe anymore. I feel for him, but...the best we can do now is finish this quickly.
+
+Sothis: An evil power has caused them to grow quite large. Their life force is beyond a mortal like yourself. You cannot win unless you fell them twice or even thrice!
+
+Sothis: Even if you've cornered one, you cannot let your guard down! Those things are even worse when threatened.
+
+Sothis: Can you see that barrier? It is surrounded by great power. You must break through to fight that thing. A strong attack or gambit might help to break through more quickly. If you can break the barrier, that power will have nowhere else to go, and that will likely cause confusions for that thing. It cannot counter while confused, which means that is the best time to attack!
+
+Sothis: If you break down all of their barriers, not only will they be confused, they will not be able to move for a short while. Without the power flowing around them, they will not be able to restore their barriers. You might even be able to get something from them.
+
+Sothis: They have such might that they will not fear you alone. But a battalion could prove useful on that front... Attack them with a gambit to draw their attention and force them to target you.
+
+Sothis: Be on your guard when they have realized their full power! The damaged caused at times like that is not contained to just one spot. Once they have charged some power ups, their barriers will be restored. You really must pay close attention to those things! Distract them with a gambit, or just take them down before they can attack. In any case, think carefully before you act!
+
+Sothis: But you should be conquering that thing instead of talking to me! If you're out of questions, get over there and fight!
+
+@Boss 
+%Sylvain,Black Beast
+Sylvain: What is that? It's like watching a bad dream come to life.
+Black Beast: Graaaargh!
+
+@End 
+Gilbert: Goddess... The beast is gone, yet Miklan and the Lance remain.
+
+Edelgard: It is done. Let's retrieve the lance and depart at once.
+
+Dimitri: It's over... Let's retrieve the lance and leave this place.
+
+Claude: We defeated him, somehow... Let's grab the lance and return to the monastery.
+
+Sylvain: Miklan...my brother...
+
+Sothis: That man... His form was changed. It was as though that lance was swallowing him whole. Upon that sight, it makes sense that your students were upset. I wonder if those Relics truly hide such power? Yet even still, that power seems familiar. That form as well... As one who wields the Sword of the Creator... Does that mean you possess that power too?
+
+Rhea: Professor, you have returned. The goddess is indeed generous with her divine protection. I have already heard Gilbert's report about what happened. See to it that you keep what transpired at the tower to yourself. People would lose faith in the nobles should rumors spread of one using a Relic and transforming into a monster. All regions of Fódlan would fall into chaos. We must avoid that at all costs. Please ensure the students who accompanied you understand that as well. Have I made myself clear?
+Byleth: Yes, of course. 
+Byleth: Hm...
+Rhea: His transformation into a Black Beast was nothing short of divine punishment from the goddess. Punishment for someone arrogant and foolish enough to use a Hero's Relic even though they were unworthy and unqualified.
+Byleth: You knew?
+Rhea: Of course. That is why we rushed to recover it. Sadly, we did not arrive in time.
+Byleth: Will I share the same fate...
+Rhea: If someone without a Crest were to wield the Relic you possess, they would likely meet the same fate as Miklan. You, however, have been chosen. You are worthy of wielding the Sword of the Creator, so there is no need to worry.
+Rhea: The church will formally return the lance to House Gautier. If you would...
+Byleth: As you wish. 
+Rhea: You have my gratitude. I can see that I was right to trust you with this. Please report back. I will tell you of your new mission for the coming moon at that time.
+Byleth: I will not. 
+Rhea: What is the meaning of this?
+Sylvain: Ahem, excuse me.  Lady Rhea, I am overjoyed and beyond grateful to you for recovering the Relic of my family, House Gautier. Now, may I please have that lance? I have received direct approval from my father to take possession of it.
+Rhea: As the next head of House Gautier, do you swear that you will never cause such a deplorable incident to transpire?
+Sylvain: On my family's name...and on my brother's life, I swear it.
+Rhea: Very well. However, I have one condition. You must never allow another to wield this lance. Your brother clearly demonstrated what fate awaits those who break that restriction.
+Sylvain: Yes. I...I will not soon forget.
+
+^start 
+Edelgard: I assume the archbishop was pleased with your performance. Did you return the Lance of Ruin?
+Byleth: I returned it.
+Edelgard:  No need to lie, Professor. I saw Sylvain earlier. It was written all over his face. 
+Byleth: I did not return it.
+Edelgard:  I'm glad. Sylvain must be overjoyed as well. 
+Edelgard:  There's no need to lie, Professor. No one could have expected you to disobey the archbishop.
+Edelgard: I keep thinking about what Gilbert told us...
+Byleth: About Miklan?
+Byleth: About House Gautier?
+Edelgard: Yes, Miklan was discarded by his family because he was born without a Crest. Eventually he became a masterful thief and gathered enough ruffians to capture a fortress. Right or wrong, he was a gifted leader. He could have been a great asset to Fódlan. What a waste. It's true that a Crest can increase your magical abilities and allow you to wield the full might of a Hero's Relic. But one cannot measure a leader's worth based solely on whether or not they bear a Crest. There are plenty of talented people in this world without one.
+Byleth: I completely agree.
+Byleth: Why is everyone obsessed with Crests?
+Edelgard: People believe Crests are blessings from the goddess, that they're necessary to maintain order in Fódlan. But the people are wrong. Crests are to blame for this brutal, irrational world we live in. Their power is granted only to a select few, whom we elevate and allow to rule the world. Have you ever wondered if the only way to create a truly free world is to dispense with the goddess and the Crests? Do that, and people will have no choice but to rise and fall by their own merits.
+Hubert: Lady Edelgard. I question whether you revealed too much to the professor.
+Edelgard: Perhaps I did.
+Hubert: It is true that our teacher possesses a rare talent. Even I cannot deny it. The ability to wield the Sword of the Creator is concerning...
+Edelgard: I've already explained this to you. My power alone is insufficient. That's why I'm borrowing power from those people. If our teacher can wield it in my stead... I believe that would be for the best.
+Hubert: It's a risk. A dangerous one. You leave me no choice but to take matters into my own hands. Please excuse me.
+Edelgard: I can't hide from the truth. I can't do all that I must on my own. If all I can rely on is my own ambition, my path won't be easy. Is it so risky...to reach out my hand? Father... I swear I will not stop until I succeed. My regret. My grief. My whole life. I've thrown it all away...into the darkness...
+
+Dimitri: Is your meeting over, Professor?
+Byleth: You look troubled.
+Byleth: Are you weary?
+Dimitri: I was just thinking about something. Professor... The possession of Relics and Crests has been highly valued in Faerghus since ancient times. It's far from uncommon for someone to lose their ability to lead their house because they don't bear a Crest. Just like Miklan. It happened to my uncle as well. The eldest child of the king, and yet he never ascended to the throne. All families whose bloodlines carry Crests of the 10 Elites are much the same. But House Gautier takes it a step further, and absolutely requires an heir who possesses a Crest.
+Byleth: Why are they so obsessed with it?
+Byleth: Why House Gautier in particular?
+Dimitri: To that house, the power of Crests is a necessity, not a luxury. House Gautier holds the most northern territory in the Kingdom, and they have fought with the people to the north for many years. The head of that house is responsible for protecting that territory from fearsome invaders, whom they keep at bay with the power of Crests and Relics. In exchange for that responsibility, they are granted special privileges within the Kingdom.
+Byleth: Their Crests grant them special privileges?
+Dimitri: In a way. That said, ability cannot be measured by the possession of a Crest alone...
+Byleth: Strength is strength, with or without a Crest.
+Dimitri: I believe the same. Ability cannot be measured by the possession of a Crest alone.
+Dimitri: I believe that Margrave Gautier was wrong to disinherit Miklan because he did not bear a Crest. Still, there is always a reason for why such customs stand the test of time. Imagine what this world would be like if no one placed any stock in Crests... Bloodlines that carry Crests would dwindle. The metaphorical blade used to oppose threats would eventually rest. This same argument has been made time and time again across the years. Both sides are at once right and wrong.
+Byleth: What do you believe, Dimitri?
+Dimitri: I believe those with Crests and those without should acknowledge the others' strengths and learn to respect each other based on personal merits. And that doesn't apply only to Crests. The same holds true for lineage, race, faith, ideologies... If we could just accept each other and make mutual concessions, one step at a time... Perhaps... Who knows if that's even possible. Everyone has something that is unacceptable within them. I certainly do, and I'd wager you do as well. I wonder which is best, Professor... To cut away that which is unacceptable, or to find a way to accept it anyway...
+
+Claude: Nice work, Teach. It's thanks to you that we successfully completed our mission. As for Miklan... I wonder if he really believed he could wield a Relic.
+Byleth: Hard to say.
+Claude: I bet he just wanted to get his hands on it, even though he knew he couldn't use it.
+Byleth: I doubt it.
+Claude: Agreed. He probably just wanted to get his hands on it, even though he knew it was futile.
+Claude: Though I'm sure he wasn't counting on turning into a monster like that... I wonder if that monster represents another aspect of the Heroes' Relics. What a strange and terrifying power.
+Byleth: I don't know.
+Byleth: It seems so.
+Tomas: Stories of misfortune have followed the Heroes' Relics since ancient times.
+Claude: Tomas! You've caught me by surprise. That's not easy to do. Though I suppose I should've expected to see our librarian in his library.
+Tomas: I am sorry to intrude. I simply heard you speaking of the Heroes' Relics. I can tell you more about them, if you'd like. The story goes that Nemesis was corrupted by evil because of the Sword of the Creator. Other Heroes also lost themselves by continuing to use the Relics...transforming into Black Beasts with twisted souls. There used to be a great many records regarding the dark history of the Relics.
+Claude: Used to be?
+Tomas: They have been destroyed, across all of Fódlan. Stripped from their shelves, including those that resided at this very library.
+Claude: You make it sound like the church is covering up the truth. But now that you mention it, Rhea was very specific about not wanting anyone to find out what happened at Conand Tower. Hey Tomas... why are you telling us all this?
+Tomas: It seemed like you were searching for answers about the Relics. What is a librarian if not a guide in the search for knowledge. And not only have you been searching, but you have been doing so through the night. I would suggest you stop before the knights notice. And that is enough meddling for today. Please excuse me.
+Claude: So I've been found out, have I? I suppose I do spend more time at the library than most students. But I won't stop. I can't afford to.
+Byleth: What are you after?
+Claude: Teach... You don't really expect me to tell you something so personal like that, do you? Though, I wouldn't mind sharing if you were to tell me some of your secrets in exchange...
+Edelgard: I can't let this exchange pass without comment... If you're sharing secrets, perhaps I can share one as well?
+Claude: Are you sure you could survive that? I'd say you're the least likely to share secrets out of everyone at the academy.
+Edelgard: Heh heh, coming from you, I'll take that as a compliment. After all, you're easily the student with the most secrets.
+Claude: I'm afraid you overestimate me. My secrets don't amount to much. But back to Teach...
+Edelgard: Don't try to change the subject, Claude. We're talking about secrets. Yours. Who is your father? And why did you appear so suddenly, as if from nowhere? Duke Riegan's eldest son died in an accident. Having tragically lost other family members as well, he was without an heir. The Alliance would undoubtedly have been shaken if House Riegan had lost its position of leadership. But then you showed up. Why did you return to House Riegan? What brought you to the monastery?
+Byleth: I would like to hear this as well. 
+Byleth: He doesn't have have to answer to you. 
+Claude: Alas...to be surrounded by women as lovely as flowers, only to be pricked by their thorns.
+Claude: My dream, in truth, is a selfless dream. But I require power to make it a reality. When I learned about the power of my Crest, I knew I had a chance. So I'm chasing that dream. To the bitter end, if need be. I came to this monastery because I thought I might find someone useful. Someone to help me on my path. So, what do you think? If you promise to help me achieve my dream no matter what, I'll promise to tell you anything.
+Edelgard:  I have my own dream to tend to. I pray that yours does not interfere with mine.
+Claude: What about you, Teach?
+Byleth: If it's a noble dream... 
+Byleth: That may be difficult.
+Claude: I see. Well, now isn't the time to discuss this. You are still my Teach, after all.
+^end
+
+Rhea: Professor, you have done well to complete such a difficult task. You have shown exceptional skill in leading your students. I am forever grateful for the safe return of the Hero's Relic. Just as I expected, you have mastered the Sword of the Creator. Now then, I shall tell you about your mission for the coming month...
+Seteth:  Rhe– Archbishop!
+Rhea: Seteth, what troubles you?
+Seteth: Flayn is missing! I cannot find her anywhere!  Professor, have you seen Flayn recently?
+Byleth: I have not.
+Seteth: I have searched everywhere! Where could she be?!
+Byleth: Have you looked everywhere?
+Seteth: I have searched every corner I can think of! I could not find her anywhere.
+Seteth: She may be in danger! Oh no... No, no! What am I to do?!
+Rhea: Calm yourself, Seteth. Professor, we shall continue our discussion another time.

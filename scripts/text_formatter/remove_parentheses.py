@@ -24,10 +24,22 @@ with open(os.path.join(__location__, "parentheses.txt"), 'r') as f, open(os.path
 
         # remove in-line parentheses
         else:
+
+            split_check = line.split(":")
+            if len(split_check) < 2:
+                fo.write("\n")
+                continue
+
+            if line.strip() == "Byleth:":
+                continue
             # new_text = line.replace("(Name of tactician)", "Mark")
             new_text = re.sub(r"([\(\[]).*?([\)\]])", '', line)
+            
+            new_text = re.sub(r"Choice [A-Za-z0-9]+", "Byleth", new_text)
             # new_text = re.sub(r'\([^)]*\)', '', new_text)
             new_text = new_text.replace(" :", ":")
+
+            new_text = new_text.replace("\"", "")
 
             # # this is just for fe7! will remove later
             # new_text = new_text.replace("In-game message", "Tutorial")

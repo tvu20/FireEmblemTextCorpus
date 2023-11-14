@@ -1,0 +1,485 @@
+@Opening 
+When the warm winds blow from the sea to the south of Adrestia, residents of Fódlan know that the rainy season is upon them. Before the heavy rains take their toll, young women hurry to pick the last of the white roses. The ivory buds are woven into garlands and given as gifts to close friends or potential lovers.
+
+@Intro 
+Rhea: Professor, I have a new mission for your students.
+Seteth: We have received reports that Lord Lonato has rallied troops against the Holy Church of Seiros.
+Byleth: Who is Lord Lonato?
+Byleth: Why would he do that?
+Rhea: Lord Lonato is a minor lord of the Kingdom. He has been showing hostility towards the church for some time now.
+Seteth: A vanguard unit from the Knights of Seiros is already on its way to his stronghold, Castle Gaspard. Lord Lonato's army is nothing compared to the knights. It's quite possible the rebellion has already been suppressed.
+Rhea: Even so, I would like for your class to travel with the knights' rear guard to deal with the aftermath.
+Seteth: War zones are unpredictable. We do not expect you will have cause to battle, but be prepared for the worst.
+
+Catherine: Excuse me. You sent for me, Lady Rhea?
+Rhea: This is Catherine. She will be leading the knights whom you will be accompanying.
+Catherine: Nice to meet you. We've heard a lot about you. If you need anything, just ask.
+Rhea: She is one of our bravest knights, and that is no small feat. Only an exceptional few have what it takes to join the Knights of Seiros. This mission should prove useful in demonstrating to the students how foolish it would be to ever turn their blades on the Church...
+
+@Conversation 
+Sothis: You have spent quite some time in here, engaging in such idle chatter. Do you not know that we do not have a moment left to waste?
+Byleth: I had forgotten.
+Sothis: Forgotten? I don't believe that is the truth. No, it is more likely you were dreaming the whole day away. You must try harder from now on.
+Byleth: I should have listened more intently. 
+Sothis: You must try harder from now on.
+
+
+
+
+Edelgard: Even within the Knights of Seiros, Catherine is the strongest. By a large margin from what I've gathered. Why not seek her out as a sparring partner, professor?
+
+
+
+Edelgard: Lord Lonato must know that his efforts are futile...yet he can't help but fight. If I were in that situation, I would do whatever it took to ensure victory. You can count on that.
+
+
+
+
+Dimitri: Doubtless, there are times when one must take up their blade, even if there's no chance of winning. But this... It's downright senseless. Lord Lonato knows better. If he had enough allies to back his rebellion, it would be a different matter...
+Byleth: Allies?
+Byleth: How so?
+Dimitri: Ah, my apologies. I was just thinking aloud. This whole situation is a bit too strange for my liking. Even with the necessary preparations in place, there is always a chance that something unexpected will occur. Please be ready for anything, Professor.
+
+
+
+Dimitri: After Faerghus lost its king, there were many rebellions. It is likely Lord Lonato's provocations are related. How frustrating that I am too young to take the throne. Rendered powerless by age... If the throne is vacant much longer, the Kingdom will fall to ruin!
+
+
+
+
+Claude: First that bandit business, and now a noble rebellion? Are we ever gonna do anything but find and subdue people? Well, if we're just going to tie up loose ends, at least it'll be pretty safe. I don't mind stretching my legs for this one. And if Catherine's going, too, there's a good chance we'll get a look at her Relic in action.
+
+
+
+Claude: Hey, Teach. There's some minor noble rebelling in Faerghus, right? He has no chance of winning. I wonder what he hopes to achieve... Huh? Are you going along to help? Sounds like an easy victory, but good luck out there.
+
+
+
+Hubert: Something about this situation doesn't feel right. Why would a minor lord raise an army against a foe he cannot possibly hope to defeat?
+
+
+
+
+Ferdinand: My central duty as a noble is to protect the commonfolk. I abhor those like Lord Lonato, who deliberately shatter the peace. Utterly disgraceful.
+Byleth: He must have his reasons.
+Byleth: I hope no one is hurt. 
+Ferdinand: You have a kind soul, Professor. Now I feel a little sheepish for showing anger and not empathy. I apologize for my impetuousness.
+
+
+
+Ferdinand: I heard about your class's assignment, by the way. Good luck subduing those treasonous nobles!
+
+
+
+Linhardt: Professor, I feel I must speak to you about Caspar's eating habits. I've never seen the likes of it. He inhales entire plates of food in mere seconds.
+Byleth: Sounds unhealthy. 
+Linhardt: Hence my mentioning it to you. Good luck with him.
+Byleth: He must have a healthy appetite.
+Linhardt: If that is a polite way of calling him a goat, I'm inclined to agree.
+
+
+
+Caspar: Today's meal was delicious! Linhardt keeps bothering me about eating too fast. Says I'm gonna choke or something.
+Byleth: It's not safe to each so quickly.
+Caspar: You're really gonna agree with that guy? Why is no one here on my side?
+Byleth: When you're busy there's no alternative. 
+Caspar: Absolutely! I knew you'd see things my way.
+
+Bernadetta: ♪Hm hm-hm hm-hm... ♪ H-huh?! Um, is someone there? What do you want?
+
+
+
+
+Dorothea: Professor, about this month's assignment... Raising an army against the church? Really? Though it looks like we won't be fighting, it's still quite unsettling. My understanding is that it will all be subdued rather quickly.
+
+
+
+Dorothea: Are you going to fight alongside the Knights of Seiros? Hmm... Let me know if you meet anyone I might be interested in, OK?
+
+
+
+
+Petra: The plants of Fódlan are different ones than in Brigid. And people here are unknowing of the spirits who watch over the earth and bless it. Only the goddess is known. Is that factual?
+
+
+
+Petra: This flower is one that is eating insects. Is that factual too? I am wondering who watches over the plants in Fódlan...
+
+
+
+
+Dedue: His Highness is strong. But on the front lines, anything can happen. Losing him would be devastating for Faerghus. I hope the church understands that.
+
+
+
+Dedue: Best be on your guard.
+
+
+
+Felix: Catherine, hm? Her skill is impressive, I'll admit. So is her sword. But I think she's hiding something. Nobody knows anything about her past. You should spar with her. She's strong. Stronger than you are, I'd bet.
+
+
+
+
+Ashe: Ngh... Please, Professor, there must be some mistake. Lonato would never raise arms against the church. At least, he never said anything to me about it.
+
+
+
+Ashe: What's going to happen to Lonato? If he's killed, I... I don't know how I'll live with that.
+
+
+
+
+Sylvain: Professor, have you seen Felix around? I swear, as soon as you take your eyes off him–poof–he's gone.
+Byleth: I saw him at the training ground. 
+Sylvain: Ah, of course he's there. Sorry for bothering you, Professor. Thanks!
+Byleth: I saw him at the dining hall.
+Sylvain: Ah, right, it is meal time. Sorry for bothering you, Professor. Thanks!
+
+Sylvain: Don't you love looking after horses? I do. They repay your absolute love and trust with the same. I wish girls were so easy to deal with...
+
+
+
+Mercedes: I've heard whispers about Lord Lonato. They say he is a very kind and gentle lord. Why would such a kind man suddenly raise an army? Oh, Professor. You were working late last night, weren't you? You shouldn't overdo it. A ghost might rise up from the well to get you if you stay you too late! Or so I'm told.
+
+
+
+
+Annette: We're going on a mission with the knights, right? I wonder if... Oh... Sorry! It's nothing. I was just wondering if someone I've been searching for might be among them.
+Byleth: You're looking for a knight?
+Annette: Yes. Well...maybe? If he's here, he's probably a knight. Though it's also possible he became a monk...
+Byleth: I hope you find whomever you're looking for. 
+Annette: Thank you. I'm definitely going to find him one of these days!
+
+Annette: To be honest, I've felt a bit lost here at the monastery. At a loss for what to do. Thankfully, a sweet young girl reached out and offered help. I believe she's Seteth's little sister.
+
+
+
+
+Ingrid: Why does His Highness take the side of the people of Duscur? I just don't understand it. Only four years ago, they murdered our king and slaughtered the soldiers and knights who were with him, all of whom were innocent. Even if he can forgive them, I can't–not ever. What they've done is against all codes of honor and ethics.
+
+
+
+Ingrid: We are truly blessed with how fertile the monastery grounds are. Every day, there's something new to harvest!
+
+
+
+Lorenz: It's a noble's duty to protect the commonfolk, not to endanger them by rallying armies in such a feckless and improper manner. Abuse of that kind is no better than slavery. A proper noble must guard the people from such a fate, wouldn't you say?
+Byleth: I agree. 
+Lorenz: Precisely why true nobility is well respected.
+Byleth: We don't know all the details yet.
+Lorenz: There can be no legitimate cause for a noble to abandon that basic obligation. Let us put an end to this quickly.
+
+
+
+Raphael: Hey, Professor! Do you happen to have any food on you? I'm starving! No matter how much I eat before I train, I'm always so hungry after. My muscles must be going through a growth spurt!
+
+
+
+Ignatz: This place has so many breathtaking works of art. I feel like I'm living in a museum. Each piece can teach us about styles and techniques from a thousand years ago!
+Byleth: Do you know a lot about art?
+Ignatz: I'm from a family of merchants, so I've been able to see a lot of art, but I won't pretend to be an expert.
+Byleth: Do you like art? 
+Ignatz: Oh yes, very much. I'm from a family of merchants, so I've been able to see a lot of art.
+
+
+
+
+Lysithea: Ah, Professor. It would seem that a minor lord in Faerghus is raising an army… This poses a threat, obviously. But not one for the Kingdom—for the church. I mean, Faerghus doesn’t even have a king at present. There’s something…unsettling about this army. You had better ensure we’re fully prepared.
+
+Lysithea: The monastery grounds are far too spread out. Feels like it takes hours to get from one area to another. And, no, that's not because I'm getting lost. I'm a fully capable, mature person! Who never gets lost.
+
+
+
+Marianne: Oh. Hello, Professor... Um. Was there something you needed?
+Byleth: I came to see the horses. 
+Marianne: Oh! You like horses? I like them too. They're such kind creatures.
+Byleth: I'm just looking around.
+Marianne: I see. I won't bother you, then...
+
+
+
+
+Hilda: Professor, your clothes are a bit dirty. If you don't pay attention to your hygiene, the girls won't like you! I hate when my clothes get dirty. That's one of the many reasons I find it best to train as little as possible.
+
+Hilda: Professor, your clothes are a bit dirty. I'd have expected you to be more careful, seeing as how you're a professor and all. I hate when my clothes get dirty. That's one of the many reasons I find it best to train as little as possible.
+
+
+
+Leonie: I'm studying here so I can be the best there is, just like Captain Jeralt. Do you think I've got it in me to be a top tier mercenary, Professor?
+Byleth: That depends on how hard you work.
+Leonie: I'm going to work a lot harder than all the fancy nobles around here, I can tell you that.
+Byleth: You really want to bring the money in, huh? 
+Leonie: I do! Though, it's about so much more than being rich. It's about honor.
+
+
+
+Rhea: Pointing a sword at the Holy Church of Seiros is akin to pointing a sword at the goddess herself. Meting out appropriate punishments to the sinful... It is a sacred duty with which we have been entrusted. As a member of the church yourself, I hope that you will take that to heart.
+
+Seteth: If you have a moment, I would like to have a word. It has been brought to my attention that certain individuals have been making advances towards Flayn. You wouldn't happen to know anything about that, would you?
+Byleth: Not at all. 
+Byleth: Actually...
+Seteth: If you do see anyone getting too close with Flayn, please, inform me of it at once.
+
+Flayn: If the flowers within the greenhouse are removed, they will soon wilt and whither... Is that not so, Professor? I feel I can empathize with them... The flowers. Flowers that thrive–despite their environment–are truly inspiring, are they not?
+
+
+
+Alois: Past here is the Holy Mausoleum, where the saints of the Church of Seiros slumber. Sorry, but only a select few members of the church are allowed entry. It's open to the public on only one day of the year, for the Goddess's Rite of Rebirth.
+
+
+
+Catherine: Here to train? You really are as hardworking as they say.
+Byleth: That's an overstatement. I'm just me.
+Catherine: Spoken like a true hard worker.
+Byleth: That's right. I'm a force of nature.
+Catherine: Huh. Maybe the gossip's wrong. Hardworking people usually don't like to make a big fuss about it.
+
+
+
+Jeritza: What? I desired fresh air.
+Byleth: That's not like you.
+Jeritza: True...
+Byleth: The wind feels nice.
+Jeritza: Hmph.
+
+
+
+Jeralt: Castle Gaspard, eh? I've been there once before. Many years ago... It was by request of the son of that family... Christophe, I think it was.
+
+
+
+Hanneman: I'm sorry, but I must vent to someone, Professor. You're familiar with Manuela's slovenly behavior, yes? That woman! She borrowed a book last week and returned it with stains of unknown origin on the cover, and several pages either folded or torn. Just now, she dropped a sandwich on the floor, picked it up and kept eating. When she saw my shock, she said simply, "Three second rule." Ugh!
+
+
+
+Manuela: Did you hear? There's news of someone in the Kingdom raising an army. The Kingdom, the Empire, the Alliance... They do love a good war, don't they? Spilling the blood of young men and women...and for what? Just to enjoy the horror of it?
+
+
+
+Tomas: Professor, I heard that you may battle alongside Catherine. Even among the knights, she is something special⁠—a holy knight who is able to wield a Hero's Relic. Still...she can be a mite difficult.
+
+
+
+Anna: Hey, Professor. How's it going? Making lots of coin? I'd love to catch up, but I'm super busy right now. Working. For money. You understand.
+
+Gatekeeper: Greetings, Professor! Nothing to report! Have you talked with Catherine yet? If the knights are the cream of the crop, she's the cream of the cream. Oh, and that Relic of hers! I hear it's nothing short of amazing.
+
+
+
+Knight of Seiros: Since we're heading to Castle Gaspard, that means we'll be passing through Magdred Way. The road is well known for its beautiful surroundings. Depending on the time of year, it can be incredibly foggy, though. When it's like that you can't enjoy the lovely scenery... Lucky for us, it shouldn't be too foggy while we're there. Not that we'll have time for sightseeing anyway.
+
+
+
+Knight of Seiros: I hear that Lord Lonato served the king of Faerghus's older brother when he was younger. Or something like that. He already had status and prestige, so why raise a rebellion? Eh, I guess it's none of my business.
+
+
+
+Knight of Seiros: Catherine has invited me to train with her. How much do you think I should train before I'm ready to train with someone that strong?
+
+
+
+Monk: Lord Lonato... He used to stay at the monastery rather frequently. He was such as pious man. A true believer... Such a terrible shame. I wonder what changed him...
+
+
+
+Monk: Next month is when a very important ceremony will be taking place at the monastery. Pilgrims from all corners of Fódlan have already started to gather in anticipation. I pray that you are able to nip this trouble in the bud as soon as possible.
+
+
+
+Shifty Merchant: Things we can't obtain here are likely obtainable by way of the underground. Are you unfamiliar with Garreg Mach's underground? The place is an absolute paradise for those who can't stay above ground.
+
+
+
+Monk: Those Abyssian idiots. All they ever do is cause trouble. We'd best purge the entire underbelly of Garreg Mach.
+
+@Intro 
+^start 
+Hubert: No matter how powerful our enemies may be, there is no need to worry so long as we're with Catherine, the mighty wielder of Thunderbrand.
+Byleth: Thunderbrand?
+Byleth: What are you talking about?
+Catherine: You mean you don't know? My weapon is called Thunderbrand. It's one of the Hero's Relics. A long, long time ago, the goddess bestowed divine weapons upon 10 heroes, which were passed down to their descendants. It's an honor to wield, but I'm afraid there won't be any chance for that today. Our mission is to help clean up the aftermath, not to fight.
+Hubert: One must wonder why Lord Lonato would incite such a reckless rebellion.
+Catherine: It all goes back to the Tragedy of Duscur...
+Byleth: I've heard of it.
+Edelgard: I remember that day well. No one saw it coming.
+Byleth: I don't know much about it.
+Edelgard: Roughly four years ago, the king of Faerghus was murdered by the people of Duscur. I believe that about sums it up, correct?
+Catherine: To put it simply, yes. But there's more to that story. They had accomplices within the Kingdom as well. Lord Lonato's son, Christophe, was one of them, and so he was handed over to the church for execution.
+Byleth: The church executes criminals?
+Catherine: Speaking from the church's perspective, we simply passed judgement according to our doctrine in place of the Kingdom, which was in complete chaos.
+Byleth: Why was the king targeted?
+Catherine: King Lambert was attempting a major political reform. Needless to say, he had many enemies.
+
+Dimitri: I have to say... It's a real honor to accompany such a brave and distinguished knight. None other than Catherine, wielder of Thunderbrand!
+Byleth: Thunderbrand?
+Catherine: You mean you don't know? My weapon is called Thunderbrand. It's one of the Hero's Relics. A long, long time ago, the goddess bestowed divine weapons upon 10 heroes, which were passed down to their descendants. It's an honor to wield, but I'm afraid there won't be any chance for that today. Our mission is to help clean up the aftermath, not to fight.
+Ashe: Why would Lonato incite such a reckless rebellion?
+Catherine: You should know more about that than any of us, Ashe.
+Ashe: Well, I don't. Lonato never mentioned anything of the like to me.
+Dimitri: He probably didn't want you getting caught up in his own personal vendetta.
+Byleth: Is Ashe related to Lord Lonato?
+Ashe: I'm Lonato's adopted son. He raised me as though I were his own blood. He was always so kind. I don't understand... I guess it has to do with Christophe.
+Byleth: What vendetta?
+Catherine: How much do you know about the Tragedy of Duscur, Professor?
+Byleth: I've heard of it.
+Byleth: I don't know much about it.
+Catherine: It's when the king of the Holy Kingdom of Faerghus was...was murdered by the people of Duscur. It happened about four years ago... 
+Dimitri: It's OK, Catherine. Please, go on.
+Catherine: Right. Well, Lord Lonato's son, Christophe, was accused of being involved in that whole awful affair. He was executed by the church.
+Byleth: The church executes prisoners?
+Catherine: Speaking from the church's perspective, we simply passed judgement according to our doctrine in place of the Kingdom, which was in complete chaos.
+Byleth: Why was the king targeted?
+Dimitri: ...
+Catherine: King Lambert was attempting a major political reform. Needless to say, he had many enemies.
+
+Claude: It really is an honor to accompany Catherine, wielder of Thunderbrand. I hear you're intimidating enough to silence the howling winds!
+Byleth: Thunderbrand?
+Catherine: You mean you don't know? My weapon is called Thunderbrand. It's one of the Hero's Relics. A long, long time ago, the goddess bestowed divine weapons upon 10 heroes, which were passed down to their descendants. It's an honor to wield, but I'm afraid there won't be any chance for that today. Our mission is to help clean up the aftermath, not to fight.
+Claude: Why would Lonato incite such a reckless rebellion? He had to have known he had no chance of winning.
+Catherine: It all goes back to the Tragedy of Duscur...
+Byleth: I've heard of it. 
+Byleth: I don't know much about it.
+Claude: You must be joking. Where have you been traveling that news of it didn't reach you?
+Claude: It happened about four years ago. The king of the Holy Kingdom of Faerghus was murdered by the people of Duscur. That about covers it, right?
+Catherine: To put it simply, yes. But there's more to that story. They had accomplices within the Kingdom as well. Lord Lonato's son, Christophe, was one of them, and so he was handed over to the church for execution.
+Byleth: The church executes criminals?
+Catherine: Speaking from the church's perspective, we simply passed judgement according to our doctrine in place of the Kingdom, which was in complete chaos.
+Byleth: Why was the king targeted?
+Catherine: King Lambert was attempting a major political reform. Needless to say, he had many enemies.
+^end
+Catherine: Whatever the truth behind that incident may be, Lord Lonato has harbored resentment to the church ever since. Well... To be more specific, his grudge isn't only against the church. It's also against the one who turned Christophe over to them...
+Church Soldier: Report! The enemy is approaching! They can't be avoided. Their numbers are far greatly than we predicted. They used the fog to slip past the knights' perimeter!
+Catherine: It looks like our mission just changed, Professor. Everyone, prepare for battle!
+
+@Opening 
+Your house must help the Knights of Seiros suppress Lord Lonato's rebellion at Castle Gaspard. Though you are told not to expect combat, the deep fog at Magdred Way sets you ill at ease...
+
+@Battle 
+Catherine: With this fog, it's impossible to tell where the enemy might be...or how many of them there are. The enemy could be trying to surround us, but they shouldn't have enough soldiers to form a tight circle. Take down anyone who breaks through the fog, and let's push through!
+^start
+Edelgard: That smell... It's fresh blood. It seems the battle has already started within the fog.
+
+Dimitri: Shouting from within the fog... It seems the knights are already battling.
+
+Claude: The conditions are the same for both sides... But we're at a disadvantage for not knowing the terrain.
+^end
+Catherine: Proceed with caution! Wait for them to enter your field of view.
+
+Narration: You can earn a reward if your allies do not suffer heavy losses. Be careful not to let your allies flee!
+
+Militia:  Lord Lonato doesn't deserve such sadness and anger... Now it's your turn to suffer!
+Ashe:   Why, Lonato? Why did you drag so many others into this?
+
+Militia: You would think we're just gonna do nothing while you try to kill our lord?!
+
+Narration: The fog is lifting as a result of the Dark Mage being defeated! It seems the fog was being caused by magic.
+
+@Boss
+Gaspard Commander: I won't let you anywhere near Lord Lonato!
+
+@Cutscene 
+Lonato:  It's you. Thunderstrike Cassandra! It was your wretched zealotry that killed my son!
+Catherine:  The only name I answer to is "Catherine". Prepare to taste the blade of one who serves the goddess. Now you face a Knight of Seiros!
+
+@Battle 
+Lonato:  The fog has cleared. There's nothing left to hide you or the filthy Central Church from the judgement of the goddess!
+
+Militia: Lord Lonato... Please, don't die...
+
+Edelgard: I'm sorry, but I don't believe Lord Lonato has the strength to carry on.
+
+Dimitri: I am sorry... But did you really think you would get away with this?
+
+Claude:  The nobles start the war, but it's the commoners who spill their blood first...
+
+@Boss 
+Lonato:  You have been deceived by that witch... I will show you the truth!
+
+%Catherine,Lonato
+Lonato:  You! I will be the one to kill you, no other!
+Catherine:  You have lost all sense of justice.  You want to fight me? So be it. I'll send you to meet your goddess.
+
+%Ashe,Lonato
+Lonato:  Stand down, Ashe. I must destroy these evil-doers by any means necessary!
+Ashe:  Please surrender, Lonato! Whatever your reason for doing this, we can still talk it out!
+Lonato:  Rhea is an infidel who has deceived the people and desecrated the goddess! We have virtue and the goddess herself on our side!
+Ashe:  Even if all that's true, dragging the townsfolk into it like this isn't right!
+Lonato:  Enough. If that is how you feel, prepare yourself! I'm putting an end to this!
+
+%Dimitri,Lonato
+Lonato: I apologize, Your Highness. It is regrettable that we should cross swords like this.
+Dimitri: Lonato, I sympathize with your position. I really do. I have no wish to kill you, but I am afraid you have left me no choice. Please...forgive me.
+Lonato: Your Highness... I cannot stop here. For my child, and for the people of Fódlan. If you will not stand aside, then I have no choice but to cut you down.
+
+@End 
+Lonato:   That vile woman... Christophe... Forgive me...
+Ashe:   Lonato, I...
+Catherine:  I never thought I'd see Lonato meet this fate.  Well done, everyone. Let's gather our troops and go.
+
+^start 
+Caspar: Damn it! It was all so pointless. I've never seen so many people utterly heartbroken...
+Ferdinand: Forcing innocent citizens to risk their lives... That man was not a noble, but a monster.
+Hubert: What could have pushed Lord Lonato to this point?
+Edelgard: Everyone was a bit shaken by the militia fighting alongside our enemies.
+Byleth: No use dwelling on it.
+Byleth: That is the reality of battle.
+Edelgard: If only everyone could face reality so unflinchingly. The commoners who allied themselves with Lord Lonato believed they were fighting for a just cause. It would be disrespectful to consider them simply victims when they died for what they believed in. Still, we have no choice but to eliminate those who cling to unreasonable ideas of justice. Even if our enemies are the gods themselves...we must never lose sight of our goal.
+Byleth: That's taking it a bit far.
+Edelgard: Is it? Such a day may come, whether you expect it or not. You should be ready.
+Byleth: Agreed. 
+Edelgard: I'm surprised to hear you say that.
+Edelgard: Really, I'm just like Lonato. I, too, will be the sort of ruler who's willing to risk the lives of my citizens in service of a higher cause. It's not possible to change the world without sacrifice. Dying for the greater good is not a death in vain.
+Catherine: Professor... I'm afraid this incident is far more serious than anticipated.
+
+Ashe: Why... Why did this happen? Lonato was always such a kind man... Everyone in the village was...was so nice to me. And I...I killed them. I killed them all! I had to, I know I had to... I know that! But still... What does that make me?
+Dimitri: Please, don't beat yourself up, Ashe. We did what had to be done.
+Ashe: I'm...I'm sorry. I shouldn't be bothering you. I'm...I'm going to check on the town. I hope my brother and sister are OK. 
+Dimitri: That...that was my first time killing civilians too... Those who I'm sworn to protect.
+Byleth: It was a necessary sacrifice.
+Byleth: That is the reality of war.
+Dimitri: Are you insane?! Those weren't knights or soldiers, but fathers and sons! We...we shouldn't have killed them. We should have found another way... I...I'm sorry. It's not fair for me to blame you for the circumstance. I know that if we hadn't...done what we did, even more civilian lives would have been lost. At least, my mind understands that. But...my heart... Professor... Those in power, no matter the era, always claim they fight for a just cause. That they take life to protect it. But... Is it truly OK to take any life you please, all in service of some implacable "just cause"? Lord Lonato didn't take up arms out of a lust for power. He simply believed his cause to be just. Who's to say it wasn't? Maybe we didn't have to cut him down like that. Maybe we could have reached a mutual understanding...found a path of peace. I...I have to believe that. Perhaps the notion sounds laughable to you. Mere lip service to naive ideals. But I can't believe otherwise.
+Catherine: Sorry to intrude, but this incident may be more serious than anticipated.
+
+Claude: Nice work, Teach. Still...that fight left a foul taste in my mouth. That aside, did you see how Catherine fought?
+Byleth: She's incredible.
+Claude: Agreed. I thought the power of the Heroes' Relics must be exaggerated, but I was clearly wrong.
+Byleth: I'm stronger.
+Claude: Ha! I love the confidence, Teach. But you're no match for the Heroes' Relics. They're on a whole different level.
+Claude: Makes you wonder about that legend...
+Byleth: What legend?
+Claude: Oh, it's nothing. Just the usual fanciful nonsense. An ancient Relic that once cut a mountain in half with a single swing. That's what they say, anyway. But as amazing as Thunderbrand is, I don't think it fits that description. Apparently, Relics can harness tremendous power for those with a compatible Crest. Though you can technically use one so long as you have any Crest at all. I dunno. Long story short, I'd like to try cutting a mountain in half someday.
+Hilda: Ooh! Are you talking about Relics? You'll be able to wield one soon, Claude! I just know it! After all, you've already been selected as the next head of House Riegan!
+Claude: Easy there, Hilda. I don't know how apt "soon" is. My grandfather is still unbearably healthy. Oh? Is this news to you, Teach? Yours truly was recently recognized as a legitimate child of House Riegan. They possess one of the Heroes' Relics too, though I've yet to see it.
+Byleth: Just recently?
+Claude: I officially joined House Riegan only last year. Before then, I lived with my father.
+Byleth: You haven't seen it?
+Claude: I was raised by my father. House Riegan is on my mother's side of the family.
+Claude: When I learned that my mother was the daughter of an Alliance noble, I was so surprised I thought the whole world was pulling a fast one on me for a week.
+Hilda: So that means your mother is Duke Riegan's daughter, right? Where is she now?
+Claude: I can't say. My mother's currently living in a different world than the one she grew up in and has no desire to return home.
+Hilda: Um, OK. You sure have a lot of secrets, don't you?
+Claude: I'm just keeping a promise to my parents. Make of that whatever you will. In exchange for my so-called secrecy, I'm free to do as I please, which is why I decided to see what the other side of my family was like. That's how I found out about this strange Crest I bear...
+Leonie: Professor, Claude. It sounds like the troops will be withdrawing soon. We should return as well.
+Ignatz: We won. We should be celebrating. Instead, we're heading back with heavy hearts...
+Claude: Whoa there! What's the matter? You look as sad as a kitten without any yarn. If we hadn't done what we did, the rebel army would have followed this road all the way to the monastery. And they would have crushed all the little villages along the way. We stopped that from happening. You should be proud.
+Catherine: Sorry to intrude, but this incident may be more serious than anticipated.
+^end
+Catherine: I found this on Lord Lonato. It's a note that mentions a plan to assassinate Lady Rhea. We can't tell who sent it, so the source is suspect, but the content is too disturbing to ignore. We must report this to Lady Rhea right away. I hope that it's nothing...
+
+Rhea: I am glad to see that you have returned safely. The goddess is gracious with her divine protection. But it was not only her divine protection that shielded you, was it? You are just as skilled as I had hoped.
+Byleth: My students deserve the praise.
+Rhea: I am not so sure.
+Byleth: I still have much to learn.
+Rhea: There is no need for modesty.
+Rhea: I heard some of the students were...hesitant about fighting militia. However, we must punish any sinner who may inflict harm upon believers, even if those sinners are civilians. I pray the students learned a valuable lesson about the fate that awaits all who are foolish enough to point their blades towards the heavens.
+Seteth: Our real concern is what Catherine reported. The secret message that was in Lord Lonato's possession. It contained a deplorable plot to target the archbishop on the day of the Goddess's Rite of Rebirth. The plan seems unrealistic at best, but a threat is a threat. We must maintain constant vigilance. To that end, I would like for you and your students to help with security on the day of the ritual.
+Byleth: You can count on us.
+Rhea: That is most reassuring. You have my gratitude.
+Byleth: We won't let her down. 
+Rhea: That is most reassuring. You have my gratitude.
+Byleth: Won't that endanger the students?
+Rhea: Even if they encounter an enemy whom they cannot best, they should be fine so long as they have you on their side.
+Seteth: The Rite of Rebirth is of paramount importance. It is when the Church of Seiros and its believers unite to pray for the return of the goddess. The archbishop and I will be confined to the Goddess Tower once the ritual begins. Of course, the knights will be on high alert as well, but there aren't enough of them to keep watch on every corner of the monastery. It is far from ideal to be forced to mobilize students, but the gravity of this situation requires that we all bend to avoid breaking.
+Rhea: While there is no need to fear for my safety, we cannot turn a blind eye to those who would blaspheme so heinously.
+Seteth: With any luck, this will all be for naught. Still, be on your guard.

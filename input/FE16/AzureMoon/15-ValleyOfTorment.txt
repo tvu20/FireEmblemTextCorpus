@@ -1,0 +1,319 @@
+@Opening 
+Having repelled the Imperial vanguard, the Kingdom must now supplement its meager forces. And so it requests reinforcements from Rodrigue, who is busy resisting Cornelia's army in Fraldarius territory.
+
+@Dialogue 
+Dimitri: You made it.
+Felix: We received a reply from my father. You should read it too.
+
+Rodrigue's voice: Gilbert has filled me in on the details. He tells me you are in immediate need to additional troops. I would like to say that I will gather reinforcements and send them to the monastery at once... However, I cannot afford to leave the front lines for that long. Would you be willing to meet us south of Fraldarius territory in Ailell, the Valley of Torment? Ailell is halfway between the monastery and our territory. There, I will deliver the soldiers you require.
+
+Byleth: The Valley of Torment...
+Gilbert: Ailell lies on the border between Kingdom territory and Alliance territory. Humans dare not approach that place.
+Dimitri: He's right. In Ailell, we can meet up with them without our enemy ever finding out.
+Felix: Once my old man delivers his soldiers to us, then our war against the Empire can finally begin.
+Gilbert: The path ahead will be a difficult one, Your Highness. Deadly, in all likelihood...
+Dimitri: True. But what's the point in wavering now? Father, Stepmother, Glenn, and even Dedue... I am certain this will bring them great joy. I know if I can just offer them Edelgard's head... I just know it...
+
+Kingdom Solider: Ailell, the Valley of Torment...
+
+@Conversation 
+Dimitri: Go away.
+
+
+
+Felix: Hmph. I am steeling myself to see my father again. I can't stand that old man.
+Byleth: But he's your father.
+Felix: That's just biological circumstance. We may have the same blood, but we've nothing else in common.
+Byleth: You really hate him. 
+Felix: Yes, I do. Above all, I hate the crazed nonsense that comes out of his mouth.
+
+
+
+Ashe: The Kingdom capital or the Imperial capital? I don't know which is the right way. If we tried to take on the Empire like this, would we really stand a chance? With House Fraldarius under attack, they probably can't spare many soldiers. On the other hand, if we did manage to take the Imperial capital, the war would be over. Hmm... I'm no good at thinking through this kind of complicated stuff.
+
+
+
+Sylvain: Ailell, the Valley of Torment. Aw, man... I really do not want to go there.
+Byleth: Pull yourself together.
+Sylvain: Professor, have you ever been to Ailell? If you had, you'd know.
+Byleth: Why not?  
+Sylvain: That place is crazy hot! For guys like me who grew up somewhere cold? Man... It's gonna be rough. Though, I guess that climate will keep our enemies at bay.
+
+
+
+Mercedes: I don't know about everyone else, but heading to the Empire seems like a good idea to me. The search for Lady Rhea will be so much easier if we can just get the Empire out of the way. I suppose Dimitri might still pose a problem though. He seems so fixated on the Imperial capital, but... I get the feeling he's not even sure what he wants anymore.
+
+
+
+Annette: If we can take back the Kingdom, we'll recover our soldiers. And some food and supplies too, I bet. Most importantly of all, there are people in the Kingdom waiting for our help. Even His Highness understands that. I'm sure of it. Yet he wants to take on the Empire despite all that... Do you think...he just doesn't care about anything other than fighting Edelgard anymore?
+Byleth: That's not true.
+Annette: But if not, then why...
+Byleth: You may be right.
+Annette: He wasn't always like this. What happened...
+
+
+
+Ingrid: It is imperative that we regroup with those who continue to resist. Most importantly, we must join up with the Fraldarius family. If we do, our ability to reclaim the Kingdom capital is ensured. We should aim for this outcome rather than focusing our efforts on the Imperial capital. This seems to me the best strategy at present. But I feel what His Highness feels--his hatred, his anger--so keenly, as if it were my own. So I find it difficult to oppose his wishes.
+
+
+
+Ferdinand: Some day we will take the Imperial capital. It is odd to think that I will be invading the very city that I once called home. Ah, that is still a ways off. I will prepare for our journey to Ailell.
+
+
+
+Linhardt: I never do get used to the sight of blood. It always makes me feel as if I might faint. I suppose I've told you that though, yes? I've no idea how you cope with it. I hope this war ends soon. I dislike being lightheaded because other people are bleeding everywhere. Though the thought of working hard for it does sound like quite a pain...
+
+
+
+Caspar: We weren't related by blood, but Randolph was still my uncle... Seeing him end up that way was... Never mind. It's nothing.
+Byleth: That's how it goes with war. 
+Caspar: This wasn't just about war. It was a grudge. Or are you gonna tell me you're on Dimitri's side?
+Byleth: I'm so sorry. 
+Caspar: It's fine. I don't need your sympathy. It's not like I had any real connection with him anyway. But Dimitri's methods... I don't know...
+Caspar: I'm sure he never trusted me, being born in the Empire and all.
+
+Bernadetta: Ailell, the Valley of Torment? What kind of a name for a place is that? It sounds scary. Do I really have to go with you? Hey, um, here's an idea... Maybe let the recluse stay home and hold the fort!
+
+
+
+Dorothea: This is all a bit troubling, isn't it? The people from the Kingdom seem to be of two minds, as well. Can we really plan to fight when we're this unsure of ourselves?
+Byleth: Maybe fighting will actually help... 
+Dorothea: You think once we're face to face with the enemy, it might help us band together? I hope so.
+Byleth: It's hard to say.
+Dorothea: Well, Professor, I hope you can bring everyone together. You might be the only person who can.
+
+
+
+Petra: Since the past, I have learned much of the language of Fódlan. But speaking the Fódlan language still gives me difficulty. I can understand, read, and write with nearly perfection now. But understanding and speaking are...fruits of a different color.
+Byleth: That's part of your charm. 
+Petra: I have gratitude for you, Professor. I hope that I will have fluency one day.
+Byleth: Everyone has a weak spot.
+Petra: Yes. I will keep practicing more.
+
+
+
+Raphael: Ugh...so...hungry... I won't be able to train if I don't get some food in me! I used to eat until I was full, but nowadays I can't even get seconds! Aren't reinforcements supposed to be joining us soon? I hope they bring food along with them... I still want my little sis to live in the town here, but there's no point if we can't even feed her!
+
+
+
+Ignatz: The Valley of Torment... I'd heard of it, but I never expected to go there. It's exciting! I wonder what the landscape is like.
+Byleth: It sounds dangerous.
+Ignatz: It probably is dangerous, but I still want to get there and see it as soon as I can.
+Byleth: It sounds painful. 
+Ignatz: Hm, that is an interesting point... The name does seem to suggest that.
+
+
+
+Lysithea: Ailell, the Valley of Torment, lies on the border of three noble territories. The Kingdom's Fraldarius and Galatea families, and the Alliance's Daphnel family. Incidentally, the Galatea family was originally an offshoot from the Daphnel family.
+
+
+
+Marianne: Valley of Torment... Valley of Torment...
+Byleth: Something wrong? 
+Marianne: I once read a book full of legends surrounding Ailell, but I can't seem to remember...
+Byleth: Are you chanting some sort of curse?
+Marianne: N-no... I'm trying to remember the legends surrounding Ailell...
+Marianne: I feel there is something dreadful I'm forgetting.
+
+
+
+Hilda: I heard we're headed to the Valley of Torment. I'm not exactly thrilled. That place is supposed to be really, really hot. Just the thought of it makes me uncomfortable.
+Byleth: You don't like hot climates? 
+Hilda: I hate them! You get all sweaty and sticky and eugh!
+Byleth: You want to stay here?
+Hilda: Ooh, that's not a bad idea! Though if our enemies attacked while I was here, that would be a pain too...
+Hilda: Ugh! Who names a place Valley of Torment? A more inviting name would have been nice. Valley of Endless Summer, something like that!
+
+
+
+Leonie: You're not a teacher anymore, and we're not your students, but everyone still calls you Professor. Is there something you'd rather be called?
+Byleth: Professor is fine.
+Leonie: Guess that's what we're used to, huh? All right.
+Byleth: Call me by my name. 
+Leonie: Oh? All right, then. I'll call you--ugh. Nope! Sorry, can't do it. Too weird.
+
+
+
+Seteth: Meeting reinforcements in the Valley of Torment seems an astute decision to me. In that land of oppressive heat, it is unlikely that we will be disturbed. It also means we will need to contend with those harsh conditions ourselves, however. Best ensure we are well prepared.
+
+
+
+Flayn: It has been only five years, yet so much has changed. Half of the Kingdom has fallen to the Empire. Skirmishes are rife throughout the Alliance. Despite such tumult, we look upon the same sky, unchanged by the storm happening beneath it.
+Byleth: Do you wish you could return to those days?
+Flayn: Yes, it would be nice, I suppose. Things were...simpler then. Or so they seemed to be, at the time.
+Byleth: It's true--it's just like it was all those years ago. 
+Flayn: Indeed. I gazed up at this same sky with Mother and Father. It does not feel so long ago at all. Wait, but how would you know, Professor?
+
+
+
+Hanneman: The monastery repairs have made solid progress. Most excellent news. When we first returned here, I was unsure what we were going to do with the ruins of this place... But if we can get the cathedral rebuilt, we'll have it looking just like old times soon enough.
+
+
+
+Manuela: Gilbert was a knight to the royal family of Faergus? What was a man like that doing in Garreg Mach, I wonder? Who knows. Whenever I try to ask about it, he'd change the subject and avoid giving a proper answer.
+
+
+
+Gilbert: These past five years, Lord Rodrigue worried for His Highness more than any other. But I wonder what he would say if he saw what has become of Dimitri...
+
+
+
+Alois: The Kingdom doesn't seem to have clear goals holding them together. Different people have different priorities. The situation right now is difficult. But at times like this, you have the opportunity to really shine, eh Professor? You're in charge. Show them what you're made of! I'll do what I can to help.
+
+
+
+Catherine: Strategically speaking, our best move is probably to head for the Kingdom capital. Though, I think it's more likely that Lady Rhea is in the Empire, so I would not object to taking the fight directly to Edelgard. Hm. There are no right or wrong answers in war. What do you think we should do? I hope, with the goddess's guidance, we can make the right choice.
+
+
+
+Shamir: There are enemy spies around. Remain vigilant. Capture anyone who seems suspicious.
+Byleth: To kill them?
+Shamir: What else would we do with them?
+Byleth: All right, I will. 
+Shamir: I'm glad you understand. I'm counting on you.
+
+
+
+Cyril: Gotta clean out the storerooms, tend the flowers, do the washing, dust the library...
+Byleth: That sounds like a lot of work.
+Cyril: Well, it's my job, ya know? Gotta do your job.
+Byleth: Do you need any help? 
+Cyril: Nah, this is my job. Lady Rhea herself gave it to me. Even if Lady Rhea's not here right now, I still gotta do my duty.
+Cyril: Like you. You gotta have other stuff you oughta be doing, yeah?
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Is everyone setting out on a big campaign? Not exactly? Ah, so you're meeting up with the reinforcements. Well, you can leave guarding this place to me! I'll keep an eye out for anything suspicious!
+
+@Intro 
+Gilbert: This valley isn't a place I'd care to return to . . .
+Ingrid: After the chilliness of Faerghus, I can't seem to adjust to this extreme heat.
+Sylvain: Historically, there have been battles whose outcomes were determined in part by the climate. You can't argue that this heat isn't a factor.
+Ingrid: In conditions like these, who knows what will become of our morale . . .
+Gilbert: Professor, be honest. How are you holding up?
+Byleth: I'm at my limit.
+Gilbert: Don't overexert yourself. Perhaps it would be best to take breaks as we proceed.
+Byleth: I never imagined it would be like this...
+Gilbert: Monks once used this area as an ascetic training ground because of the intense environment.
+Gilbert: They say Ailell was born of the goddess's rage...
+Byleth: Her rage?
+Byleth: I hadn't heard that before.
+Gilbert: If you believe the legends, this valley is evidence of the goddess's judgement...passed on humanity for its corruption. The forest that once covered the surrounding area was burnt to ash by a pillar of light that descended from the heavens. That legend fueled belief in a place of torment between our world and the next...where one's sins are purified in the cleansing flames.
+Dimitri: Nonsense. Sins are not so easily washed away.
+Gilbert: Indeed ... And there are no accounts of such a place in scripture. Yet those who cannot face their own sins have no choice but to cling to the idea.
+Dimitri: ...
+Mercedes: Ugh, I just don't think I can take this heat anymore. I think I'm starting to see things... Near those mountains over there.... Is it just me, or is there a group of people gathered there?
+Gilbert: No... It would seem you are not hallucinating after all.
+
+
+Dimitri: That is House Rowe's banner. They curried favor with that witch and sold out Faerghus.
+Gilbert: We messed up. There must have been a spy among us... Will you have us meet them in battle or wait for Rodrigue to arrive?
+Dimitri: There is only one option. How kind of them to save us the trouble of killing them later.
+Byleth: Aren't they your former allies?
+Dimitri: Never call those traitors our allies again.
+Byleth: They sold out the Kingdom, right?
+Dimitri: I will not repeat myself.
+Dimitri: That banner belongs to the Gray Lion. It's a waste of breath to exchange words with one such as him.
+Gilbert: His Highness is correct. He is not an opponent whom we can expect to negotiate with. Everyone! Prepare for the attack!
+
+@Opening 
+Your party travels to Ailell, the Valley of Torment, to meet up with allied troops and secure reinforcements. It should have been a safe march...
+
+@Battle 
+Gwendal: The Valley of Torment . . . Perhaps a good place to finish off my life as a knight. Only if that puny force of children is able to kill me, of course . . .
+Gilbert: That man, who raises the Lion's flag? Lord Gwendal. He is an elder knight who serves House Rowe. Gwendal would, without thought, fight any battle if ordered. There is no chance of negotiating with him.
+
+
+Gilbert: Ailell is a deadly place. Flames burst from the ground with no warning. Sane people usually avoid it.
+Dimitri: So, the flames of torment burn your sins, your life, your everything. If you wish to spare yourself the goddess's wrath, tread lightly.
+
+Kingdom Soldier: Here we go! Attack them from both sides!
+
+Rodrigue: So Cornelia has planted spies even inside Garreg Mach.
+Gwendal: The Shield of Faerghus has appeared! We can expect more out of him than the young ones.
+
+@Battle-Talk 
+%Byleth,Rodrigue 
+Rodrigue: To meet you in a place like this... No, that won't do. I'll leave the talking until after the battle. Here's a small souvenir for you. Put it to good use.
+
+@Boss 
+Gwendel: Does a whelp like you really expect to kill me? I am Gwendel, the Gray Lion, a knight by the hand of Count Rowe! Do your worst!
+
+Gwendel: Ah, so I have found a place to die . . . Young ones . . . I thank you . . .
+
+%Dimitri,Gwendel
+Dimitri: The man praised as a lion is degraded to a mere traitor's underling.
+Gwendel: A traitor's underling? That's upsetting, Your Highness. I am and always have been a knight of House Rowe.
+Dimitri: How dare you? You are nothing but a lowly beast scavenging for scraps. You have forgotten the dignity of knighthood.
+Gwendel: I may be lowly, but this beast is loyal to his master.
+Dimitri: Ha! Then I had better kill a pet and deliver its head to that master . . .
+
+@End 
+Rodrigue: It's been too long, Your Highness. But try to temper your joy, will you? This is a war, after all.
+Dimitri: To say such a thing at a time like this. You have not changed one bit.
+Rodrigue: Don't let looks deceive you. I've had a rough go of it ever since I crossed blades with those traitors in Fhirdiad. When I heard you'd been executed, I rushed there as fast as I could, blind with fury. When I got there, I was fed some garbage about not being able to see your body. The next thing I knew, I was gripping my blade and... Gilbert, you have done well to locate His Highness. I am truly grateful.
+
+Rodrigue: And you... I have you to thank, as well.
+Byleth: As his professor, it was my duty.
+Byleth: We were all fortunate.
+Rodrigue: Well, we are in your debt. I will repay you for this someday, I swear it. And you, Felix... You have also done well to bring His Highness here.
+Felix: Hmph.
+Dimitri: Tell us all you know, Rodrigue.
+Rodrigue: I'm afraid there's not much to tell. You are aware that the western region of the Kingdom was taken by the Empire, correct?
+Dimitri: Yes, so I have heard. They are now calling it the Faerghus Dukedom or some nonsense.
+Rodrigue: If you know that much, then the rest won't take long. Enemy or not, it's undeniable that Cornelia's plan was nothing short of genius. After seizing power, she invited the Imperial army to Fhirdiad. There, she reorganized her troops and then sent soldiers to hunt me down. Because of that, we were forced to act defensively. And now we're being forced into a difficult battle. She's been controlling the situation all along.
+Dimitri: So that's been the witch's plan from the start. I should have killed her ages ago.
+Rodrigue: Your Highness... Fhirdiad is in a terrible state right now. The tyranny is unbearable, and so the rebellions are endless. Refugees starve to death in the streets. If I may speak freely, Your Highness... We should change course for Fhirdiad and take down those traitors before we embark to Enbarr.
+Dimitri: There's no time for that. We must annihilate Enbarr before all else.
+Rodrigue: Think this through. I understand wanting to destroy the Empire and the emperor. I want that so much it hurts. But which is more important, the dead or the living?
+
+Dimitri:  SILENCE.
+Rodrigue: No, Dimitri, you will hear me out.
+Dimitri: Are you asking me...asking the dead...to forgive that woman?
+Rodrigue: No, I would not ask that of you. What I am asking is that you allow us to prioritize the Kingdom capital over the Imperial capital for now. As Lambert's close and trusted friend, I am confident that he would have advised the same.
+Dimitri: Do not dare to put words in the mouth of the dead. They are your words alone, even if you borrowed their lips. Until I offer up that woman's head, Father will remain a slave to his lingering regret and hatred... Even now, he suffers. It is ceaseless. As we waste time with idle chatter, his suffering continues!
+Rodrigue:  You are my king. Our king. Wherever you lead, we will follow. But Your Highness... There are those who take up their sword in the name of revenge, and yet along the way, lose the strength and composure to follow through... You would do well to bear that in mind.
+Dimitri: ...
+Rodrigue: Ah, I nearly forgot. Take this, Your Highness. The time has come for it to be wielded by its true master.
+
+Dimitri: Areadbhar... The Hero's Relic once wielded by my father.
+Rodrigue: The very same. I managed to steal it back from one of Cornelia's underlings in Fhirdiad.
+Felix: Understated as ever, Father. It must have been a true struggle to get it back.
+Dimitri: I... I am grateful, my friend.
+Rodrigue: Gilbert, Professor. May I request something of you? I wish to fight at your side.
+Felix: Senile already, old man? Who will protect our territory?
+Rodrigue: I expected it would come to this, so I left those matters to my younger brother. He has my complete faith. I must keep my promise to our fallen king...to my dear friend.
+Byleth: What promise?
+Rodrigue: A very old one. I swore it nearly 10 years ago. Now then, Your Highness. Let's destroy the Empire together. My men and I will spare no effort. I pray that you are right...and that this will save the Kingdom.
+
+Rodrigue: Our orders are to capture Enbarr by striking the enemy stronghold directly... How familiar are you with the geography of Fódlan?
+Byleth: Very familiar.
+Rodrigue: Then you must be aware that the Kingdom and the Empire are separated by the impassable Oghma Mountains, right?
+Byleth: Not very familiar.
+Rodrigue: The Kingdom and the Empire are separated by the impassable Oghma Mountains.
+Rodrigue: Legend has it that Saint Seiros once crossed over those mountains to fight against the Fell King Nemesis... But don't fool yourself. Leading an army over such steep mountains would be near impossible.
+Gilbert: In order to infiltrate the Empire, we have no choice but to go around the mountains, either to the east or to the west.
+Byleth: Let's go east.
+Rodrigue: Yes, I agree.
+Byleth: Let's go west.
+Gilbert: Hmm. I believe that may be difficult. After all, the western region of the Kingdom is already loyal to the Empire. Perhaps we should consider going east...using the route that passes through Alliance territory.
+Rodrigue: The Alliance is currently split in two. Those who stand with the Empire and those who are against it. Leading the Imperial faction is House Gloucester, while House Riegan leads those who oppose. We should take advantage of their internal conflict and proceed east along the mountains until we reach the Great Bridge of Myrddin in Alliance territory.
+Byleth: Why there?
+Gilbert: The Airmid River divides Alliance and Empire territory. There are many large bridges that cross it. However, the Great Bridge of Myrddin is by far the largest, and it is also the closest to the monastery. I believe you crossed that bridge five years ago on your journey to the Battle of the Eagle and Lion.
+Byleth: It's risky...
+Rodrigue: I'm afraid we have no other option. This is our only hope.
+Byleth: What if the Empire and the Alliance both attack?
+Gilbert: I'm afraid it's a possibility. But it's still more practical than passing through the west.
+Rodrigue: Perhaps our next move should be to contact House Riegan and request their cooperation...
+Byleth: Do you think they'll help us?
+Rodrigue: Claude of House Riegan is the leader of the Alliance and is firmly against the Empire. They are the enemy of our enemy... In other words, hopefully a friend.
+Dimitri: Are you suggesting that we ask House Riegan to engage the Gloucester soldiers?
+Gilbert: I am. If we take the bridge, then House Gloucester will no longer be able to receive help from the Empire. There's no way a man as wise as Claude would refuse our request.
+Rodrigue: And once we manage to capture the Great Bridge and gain a foothold into the Empire...
+Dimitri: Then we cross Gronder Field and head south toward Enbarr.
+Ashe: But if we get attacked from both sides, we'll have to fight people from the Alliance, won't we?
+Mercedes: Speaking of House Gloucester, I wonder how Lorenz is holding up...
+Annette: If we meet him again, it will probably be as enemies. To be honest, I'd rather avoid seeing him altogether.
+Dimitri: If you do not wish to kill familiar faces, do not tarry over the corpses of the dead.
+Felix: Hmph. Good advice.
+Dimitri: Prepare yourselves. It is time to steel your souls for the task at hand.

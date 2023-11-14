@@ -1,0 +1,644 @@
+@Opening 
+From on high, flocks of wyverns roar in chorus and soar the pristine skies, heading south for the winter. Fódlan's children lend their hands to winter preparations by gathering firewood and catching fish from the rivers' cool waters. Yet all the while their gazes are turned skyward, drawn to the magnificent sight above.
+
+@Dialogue 
+^start
+Edelgard: Professor, you already know about the Battle of the Eagle and Lion, correct?
+Byleth: Only the name.
+Byleth: I can't recall. 
+Edelgard: I see. In that case, allow me to fill you in. It's a large-scale mock battle between the rival houses that takes place every year.
+Hubert: Its scale is incomparable to the mock battle we fought during the Great Tree Moon. It will take place in the vast Gronder Field. That is in Empire territory to the southeast of Garreg Mach.
+Edelgard: Whichever house defeats the most opponents wins. Of course, the professors also fight alongside their respective houses.
+Hubert: Well, usually. Professor Manuela is being prudent. She will not be participating this year. Since his long-time rival will be absent, Professor Hanneman has also declined.
+Byleth: In that case, I must sit out too. 
+Byleth: What should I do?
+Manuela: Oh, don't worry about us. You know you wanna see the kids in action.
+Hubert: Are you feeling any better, Professor Manuela?
+Manuela: Thanks to all of you. But I'd only be a burden out there. My students don't need to see me collapsed. Well, not on the battlefield, anyway.
+Hanneman: Correct, we will not be participating. Regardless, do not expect victory to come easily. Or at all.
+Manuela: Well put. We've spent the past few months pushing our students to their limits. You can see me in the infirmary after they destroy you.
+Byleth: If I'm the only professor present... 
+Byleth: This doesn't seem fair... 
+Manuela: Oh my, look at you. If you're as confident as all that, my students will walk all over you.
+Hanneman: We have taught our students well. There is no need to hold back. Challenge them with everything you have!
+
+Dimitri: The Battle of the Eagle and Lion is finally upon us! This is our chance to show off the results of your expert training, Professor.
+Byleth: Battle of the Eagle and Lion?
+Dimitri: Have Lady Rhea and Seteth really not filled you in? Well, if that's the case, I'm happy to explain.
+Byleth: It slipped my mind. 
+Dimitri: Haha, I highly doubt that. If you don't mind, I'd be happy to explain.
+Dimitri: The Battle of the Eagle and Lion takes place every year during the Wyvern Moon. It can best be described as a mock battle between the three houses.
+Dedue: Much like the one we had during the Great Tree Moon. Do you remember, Professor?
+Byleth: Yes, I remember.
+Byleth: I remember our celebration most of all. 
+Dimitri: It was certainly an unforgettable time. I've never seen anyone put away as much victory food as you did that night, Professor!
+Dimitri: This battle will take place in Empire territory, at Gronder Field. In other words, far removed from the monastery. It's a mock battle between the three houses. The house that defeats the most opponents wins.
+Dedue: Your Highness, if the rumors are true, I believe Professor Manuela and Professor Hanneman will not be joining us.
+Dimitri: Ah, yes, right you are. Given recent events, Professor Manuela has opted to sit this one out. Since she won't be present, Professor Hanneman has decided to skip this year as well.
+Byleth: In that case, I must sit out too. 
+Byleth: What should I do?
+Manuela: Oh, don't worry about us. You know you wanna see the kids in action.
+Dimitri: Professor Manuela! Are you feeling better already?
+Manuela: Thanks to all of you. But I'd only be a burden out there. My students don't need to see me collapsed. Well, not on the battlefield, anyway.
+Dedue: In that case, perhaps it is best that you sit this one out.
+Hanneman: Correct, we will not be participating. Regardless, do not expect victory to come easily. Or at all.
+Manuela: Well put. We've spent the past few months pushing our students to their limits. You can see me in the infirmary after they destroy you.
+Byleth: If I'm the only professor present... 
+Byleth: This doesn't seem fair... 
+Manuela: Oh my, look at you. If you're as confident as all that, my students will walk all over you.
+Hanneman: We have taught our students well. There is no need to hold back. Challenge them with everything you have!
+
+Claude: It's finally time! The Battle of the Eagle and Lion at Gronder Field is this month. Don't tell me you forgot, Teach?
+Byleth: It slipped my mind. 
+Claude: You're kidding! Come on, Teach, I need you to keep it together for me. Don't lose focus when it counts.
+Byleth: I know little about it.
+Claude: You're kidding! Didn't Rhea or Seteth fill you in? Guess I have to do everything myself around here.
+Claude: The Battle of the Eagle and Lion is one of the academy's annual traditions. It's a huge mock battle between the three rival houses.
+Hilda: But you know all about rivalry battles, Professor. There was one right after you got here, remember? I hear the Battle of the Eagle and Lion will be held in Gronder Field, far away from Garreg Mach.
+Claude: The house that defeats most opponents wins. It's a three-way battle that relies heavily on strategy. Sounds exciting, doesn't it?
+Hilda: Hey Claude, what about Professor Manuela? Do you think she'll be able to join us despite her injuries?
+Claude: I'm afraid she's sitting this one out, as is Professor Hanneman.  "As my persistent rival will not be present, it only goes to follow that I must also sit out this year's battle. Now leave me be, Claude!"
+Byleth: In that case, I must sit out too. 
+Byleth: What should I do?
+Manuela: Oh, don't worry about us. You know you wanna see the kids in action.
+Claude: If it isn't our own Professor Manuela! All things considered, you're looking well.
+Manuela: Thanks to all of you. But I'd only be a burden out there. My students don't need to see me collapsed. Well, not on the battlefield, anyway.
+Hilda: Does that mean you really won't be joining us for the battle?
+Hanneman: Correct, we will not be participating. Regardless, do not expect victory to come easily. Or at all.
+Manuela: Well put. We've spent the past few months pushing our students to their limits. You can see me in the infirmary after they destroy you.
+Byleth: If I'm the only professor present... 
+Byleth: This doesn't seem fair... 
+Manuela: Oh my, look at you. If you're as confident as all that, my students will walk all over you.
+Hanneman: We have taught our students well. There is no need to hold back. Challenge them with everything you have!
+^end
+
+@Conversation 
+Sothis: Hmph. This monastery is more dangerous than I expected. It's likely that our foes have infiltrated the ranks of the teachers... And there may be others of questionable character about as well! If you ask me, there is something amiss about that old man...Tomas.
+
+Monica: What do you say, Edel? Shall we meet up in the library later to... Oh! Hello, Professor!
+Edelgard: Do you need something? I'm a little busy at the moment.
+Monica: Sorry, Professor! I've got a lot of questions to ask Edel here. Since I couldn't graduate last year, I really want to make sure I can do so this year. Don't worry. I won't participate in any assignments so as not to take any attention away from the younger students. I look forward to learning from you, Professor!
+
+Monica: What do you say, Edel? Shall we meet up in the library later to... Oh! Hello, Professor!
+Edelgard: Do you need something? I'm a little busy at the moment.
+Monica: Sorry, Professor! I've got a lot of questions to ask Edel here. Since I couldn't graduate last year, I really want to make sure I can do so this year.
+
+
+
+
+Dimitri: The Battle of the Eagle and Lion... Its name comes from the war in which the Kingdom won its independence from the Empire. It's imperative that we fight our best. We must live up to the legacy of the King of Lions.
+
+Dimitri: To hold a fishing tournament at a time like this... Participate if you must, but I urge you not to lose sight of our goal. As for me, I won't be joining in. I'm so focused on the battle ahead, I fear I would snap my poor rod right in half.
+
+
+
+Dimitri: Flayn and...Monica, was it? I'm glad they were returned safe and sound.
+
+
+
+
+Claude: Going all the way to the Empire for a mock battle? This is serious business. And there's a reward to be had as well. I'd really like to win this thing. Everyone else seems to be raring to go too. We're all looking to you to guide us, Teach.
+
+Claude: Going all the way to the Empire for a mock battle? This is serious business. And there's a reward to be had as well. I'd really like to win this thing.
+
+Claude: Seteth, that stubborn goat. Holding a fishing tournament now? Just last month he looked like death warmed over.
+
+
+
+Hubert: The Battle of the Eagle and Lion is a free-for-all contest among the three classes. If you are victorious, the archbishop will no doubt present you with a reward.
+Byleth: Consider me motivated.
+Byleth: I'm not interest in rewards. 
+Hubert: Just what I thought you'd say.
+
+
+
+Ferdinand: You know, the Empire used to control all of Fódlan. But after the civil war, the northern region split off and became the Kingdom. Later, the eastern part of the Kingdom seceded to become the Alliance. There are three powers today, but a thousand years ago, we were all united as one. Even now, among the nobles of the Empire, there are some who dream of reunifying Fódlan...
+
+
+
+Linhardt: I'm just absolutely exhausted. I swear to you, Professor, every month we're worked harder than the month before. I had imagined the academy as a chance to possibly relax before our lives began in earnest.
+Byleth: You came to the academy to relax?
+Linhardt: After graduating, we'll enter into noble society, which mean contending with all the intrigues and dramas that entails. I want to just...postpone life for a bit. Fish... Nap under a tree... Skip out on lectures and– Well, not on your lectures of course, Professor.
+Byleth: It is what it is. 
+Linhardt: Agreed. That's the Church of Seiros for you. What is it they say? "Those with power are obliged to use it."
+
+
+
+Caspar: Are you gonna participate in the fishing tournament, Professor?
+
+Bernadetta: Hi, Professor. Want to know something? Gronder is in the territory of House Bergliez, in the Empire. That's right next to my home, the region of House Varley! Oh. Oh no. What if– What if my parents come to watch?! Aaah!
+Byleth: Calm down.
+Bernadetta: I'm calm! Of course I'm calm! Why wouldn't I be calm? Ugggh!
+Byleth: I don't think nobles are allowed to watch. 
+Bernadetta: Really? Are you sure?! You wouldn't say that if you weren't completely sure, right?!
+
+
+
+Dorothea: Fishing? No thanks. I tried it once, and...ugh. Gross. I don't even really like to eat fish, let alone catch and gut them. Besides, who can think about fishing right now? The Battle of the Eagle and Lion is coming up soon. Feeling confident?
+Byleth: Very. 
+Dorothea: That's the spirit!
+Byleth: Not really. 
+Dorothea: Oh, have a little faith in yourself, Professor. You'll do fine, I'm sure of it.
+
+
+
+Petra: I fished with frequency back in Brigid. I will not have losing. Will you be trying to fish too?
+
+
+
+
+Dedue: The Battle of the Eagle and Lion draws near. His Highness insists upon training well into the night. He has said it is nothing to worry about. But how could I not be concerned?
+
+Dedue: Did you want something?
+
+Dedue: Ever since the tournament, the kitchen is completely overtaken with fish. The cooks cannot keep up.
+
+
+
+
+Felix: I'm not interested in glory or prizes. All I want is a formidable enemy to sink my teeth into. As far as I can see, there are only a couple of opponents worth my time.
+
+Felix: Since we were little, Ingrid's always gotten this odd look in her eye when someone brings up food.
+
+
+
+Ashe: You know, I'm pretty good at fishing. My older brother used to take me out. Why don't you give it a try too? They say we can eat whatever we catch!
+
+
+
+Sylvain: A fishing tournament, huh? Sounds fun, but not as fun as reeling in the ladies. Heh! Just kidding, of course. The most important thing right now is preparing for the Battle of the Eagle and Lion. After all, the ladies love nothing more than a winner. And around here, there's no bigger game.
+Byleth: That's the wrong reason to compete.
+Sylvain: Everyone has their own reasons to fight. At least I'm honest about mine.
+Byleth: I'm sure they do. 
+Sylvain: I knew you'd understand, Professor.
+
+
+
+Mercedes: Hmm... Ah! I'm so sorry! I was lost in thought.
+Byleth: You seem a bit down. 
+Mercedes: It's very kind of you to be concerned, but I promise that I'm fine. I was just thinking... The Death Knight's true identity. Could it actually be Professor Jeritza?
+Byleth: What were you thinking about?
+Mercedes: The Death Knight's true identity. Could it actually be Professor Jeritza?
+
+
+
+Annette: Gronder Field is in the Empire, right? I wonder how we'll get there. I thought I heard that there's no path that goes straight from the monastery to the Empire... Oh! Perhaps we'll travel through Alliance territory. Yes, I see, from the east, we would go...hm, there! Ah, yes, that must be it!
+
+
+
+Ingrid: Holding such a frivolous and downright ridiculous event so close to the Battle of the Eagle and Lion... It's absolutely absurd. Although...they did say we could eat whatever we catch. I'm a sucker for a good meal...I just couldn't resist.
+
+
+
+Lorenz: I received a rare letter from my father recently. He said that he is praying for the Golden Deer House to emerge victorious. Insistently praying. My father attended the Officers Academy, and won a glorious victory in the Battle of the Eagle and Lion. I think he is quite proud of that, even to this day. I suppose that shows how great an honor it truly is.
+
+
+
+Raphael: Hey, Professor! Did you hear about the fishing tournament? You get to fish in the pond as much as you want. The more you catch, the more you get to eat!
+
+
+
+Ignatz: Sometimes it's nice to dangle a fishing line and let your mind wander. I'd love to spend some time lounging around by a scenic river or lake.
+
+
+
+Lysithea: Why would we go all the way to Gronder Field? It's idiocy to travel that far. It may be a tradition, but it takes forever to get there and is exhausting. So pointless. I guess there's nothing to be done about it. Even by you, Professor.
+
+
+
+Marianne: Excuse me, Professor. Um, do you think it would reflect poorly on me if I chose not to take part in the Battle of the Eagle and Lion?
+Byleth: Yes, it would.
+Marianne: Oh, I see...
+Byleth: Don't you want to participate? 
+Marianne: Well, I don't really want to leave the monastery...
+Marianne: I'm not very confident, but I'll try my best.
+
+
+
+Hilda: Professor, do you have a second? It's about Monica. Does she seem...off to you? She was imprisoned for a long time, but she seems to have recovered almost instantly, and she's been bizarrely cheerful.
+Byleth: Now that you mention it... 
+Hilda: You see what I mean? I wonder if she's straining to seem happy, just to make people comfortable.
+Byleth: She's moving on. Isn't that a good thing?
+Hilda: I guess you're right. It just seems fast, doesn't it?
+Hilda: Hmm... And why is she so close to Edelgard anyway?
+
+
+
+Leonie: Why are they having a fishing tournament now? Are they just giving up on the battle of the Eagle and Lion?! You're not condoning this, right? Are you?!
+
+Byleth: Yes, I'm taking part.
+Leonie: What?! If you've got all this free time, shouldn't you be spending it on your students?
+Byleth: No, I'm not taking part. 
+Leonie: Good. I'm looking forward to seeing you in action. I hope Captain Jeralt will be watching.
+
+
+
+Rhea: The situation last month was dire indeed. The students endured great hardship. I hope you are able to put all of that behind you so that you may focus on this month's assignment.
+Byleth: Of course.
+Rhea: A most reassuring response. I trust that your class is in good hands.
+Byleth: It will be difficult. 
+Rhea: That is to be expected. I, too, cannot quite shake that feeling of unease. Even so, we must both strive to put that nasty business behind us.
+Rhea: I look forward to seeing your skills on display at the Battle of the Eagle and Lion.
+
+
+
+
+Seteth: I have something to ask of you.
+Byleth: What is it?
+Byleth: Leave it to me. 
+Seteth: I have not even told you what my request is yet! Well, fine.
+Seteth: Flayn has been through an awful lot this past month. To make up for that, I have decided to give her whatever she wants. I asked her what she would like, and she expressed a desire for a feast of fish. Since I'm sure the students would be interested, I have decided to hold a fishing tournament here at the monastery. I have left all of the specifics to Shamir. Please, enter and put in your best effort.
+
+Seteth: I hear that you participated in the fishing tournament. I appreciate you taking the time.
+
+
+
+Flayn: I told my brother I had a craving for some tasty fish. I did not realize when I did that it would turn into...well, this. My apologies.
+
+
+
+Alois: I'm going to catch me some mighty fish, just you wait and see! Er, but they haven't been biting...
+Byleth: Your shouting is scaring the fish. 
+Alois: What shouting? Everyone told me I was too loud, so I've been using my quiet voice.
+Byleth: Maybe the fish are frightened by you. 
+Alois: I didn't think of that. Ah, the truth is right in front of me...  Just kidding. As though a fish is smart enough to be afraid of me.
+
+
+
+Catherine: Can you believe what Seteth said? "Catch some tasty fish for Flayn." I'm her bodyguard!
+
+
+
+
+Shamir: Welcome to the monastery fishing tournament. You look confused. Didn't Seteth tell you about it? Just catch whatever fish Flayn requests. Show any fish you catch to Flayn.
+
+
+
+Shamir: The fishing tournament is over. I heard you did some fishing, and that Flayn is happy.
+
+
+
+Gilbert: Professor, has Seteth told you? We're to have a fishing tournament. Given the events of the last month, I believe this is just the sort of distraction we need, staff and student alike.
+Byleth: Will you take part?
+Gilbert: I'm afraid I am not one for festivities. I do enjoy a spot of fishing, though.
+Byleth: Are you good at fishing? 
+Gilbert: I do enjoy the sport, yet I wouldn't say I'm particularly good at it.
+Gilbert: I believe it best that I stick to quietly fishing by myself.
+
+
+
+Jeralt: The recent happenings at the monastery... There is something going on behind the scenes here. I've been commissioned to investigate as well. As I've already mentioned, this month I'm off to the Kingdom. You be on your guard, OK?
+Byleth: I'm not worried.
+Jeralt: Well, I hope you're right.
+Byleth: I'm more worried about you than myself.
+Jeralt:  Perhaps I've gotten into your head too much! I won't go dying on you. I've stayed alive this long, after all.
+
+Jeralt: How are preparations for the Battle of the Eagle and Lion going? Hm? Fishing? Taking it easy, are you?
+
+
+
+Hanneman: I don' t know if you've heard, but Flayn is very special. Her blood carries a rare Crest... Oh, the lengths to which she could advance my research, if only I was allowed to study her! If only it weren't for Seteth's strict orders! He protects his sister with unusual zeal.
+Byleth: You should give up. 
+Hanneman: I dislike it, but I agree. The time I would spend begging him and accomplishing nothing would be better spent on other research.
+Byleth: Maybe you can convince him.
+Hanneman: Have you ever tried convincing Seteth of anything? I'm not sure I could convince the man the sky is blue if he hadn't already looked up for himself.
+
+
+
+Manuela: I always thought I was pretty good, you know? Then I go and get stabbed. Ugh... But my opponent was the Death Knight, so I figure I did pretty well to only get stabbed. I wonder if it's true that he is actually Jeritza... Whoever he is...I'm going to make him pay. It turns out that when I get stabbed, I get really mad!
+Byleth: He hurt you this time. Next time he may kill you.
+Byleth: I'll help you get revenge. 
+Manuela: I'm not going to let him get the better of me again!
+
+
+
+Tomas: When you feel that first refreshing breeze upon your face, you know it is almost time for the Battle of the Eagle and Lion. Gronder Field is within the Empire, but the path there from the monastery necessitates passing through Alliance territory. Fódlan's biggest river, the Airmid River, flows along the border between the Empire and the Alliance. You will have to cross one of the largest bridges upon that river, the Great Bridge of Myrddin.
+
+
+
+Cyril: Fódlan is big. It's not as big as Almyra is, but it's still pretty big.
+Byleth: Do you want to travel around Fódlan someday? 
+Cyril: Travel? I don't know... Never thought about it, I guess.
+Byleth: Do you want to go home to Almyra?
+Cyril: Why do you think I would want to do that?
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Young Monica disappeared last year. I thought she had simply run along home. But it turns out she was kidnapped! I can't believe it. How awful it must have been for the poor thing. They say her personality is completely changed, but at least she seems more cheerful than before. Grateful to be alive, perhaps?
+
+Monk: Ah, I see. So you are Jeralt's child. You so resemble your mother.
+Byleth: Did you know my mother?
+Monk: I did indeed. I was acquainted with your parents. I've been wanting to speak with you for a while now.
+Byleth: Who might you be?
+Monk: I am nothing more than a common monk. I knew your parents...once upon a time.
+Monk: I've been gone from the monastery for some time now because... Well, it matters not. Might I...ask a favor? Do you mind terribly picking up some fresh flowers to place upon your mother's grave? I am certain she'd be deeply moved to receive a gift from you.
+
+@Intro 
+^start 
+Caspar: Gronder Field is in the Empire. It's actually part of my family's territory - House Bergliez. It is the largest field in all of Fódlan. The grain it produces sustains the whole Empire. Wait... I sure hope we don't destroy all that grain.
+Hubert: It is considered the most suitable place for a large-scale battle.
+Edelgard: Professor, if it were up to you, how would you approach this battle?
+Byleth: I would fight them head-on. 
+Byleth: I would surprise them with clever schemes. 
+Edelgard: That sounds like a certain someone we both know. But as you wish. We'll use whatever strategy you think is best. If the Black Eagle House bands together, we won't lose.
+Hubert: Our strength is superior. So if we do lose, it would be on your shoulders, Professor.
+Ferdinand: If you're not confident you can do this, just sit back and leave it to me.
+Hubert:  The most you will do is make things worse. You'll just get in Lady Edelgard's way.
+Caspar: Are you two about to fight? Haha! Count me in! Wait, no. I think we all need to calm down.
+Petra: We have no lack of opponents. I am ready to go hunting for our enemies!
+Dorothea: Hunting isn't exactly... Well, I guess they're pretty similar, actually.
+Bernadetta: I'm just gonna hide in the fort and cheer everyone on. There, um, is a fort, right?
+Linhardt: Sure, but it's deep in enemy territory. How kind of you to offer to cut through for us.
+Bernadetta: What?! No! That's not what I meant! Ugh, good work Bernie...
+Linhardt: This will be your first battle, won't it, Flayn? You don't seem nervous at all.
+Flayn: Haha, I shall give it my all!
+Edelgard: Our battle will begin shortly. The flag of the Black Eagles will soon grace Gronder Field!
+
+Dimitri: So, this is to be our battlefield...Gronder Field. Are you feeling confident, Professor?
+Byleth: Very. 
+Dimitri: Excellent. That's most reassuring.
+Byleth: I'm not so sure. 
+Dimitri: We've seen your power firsthand, so we know better than anyone what you're capable of. Beyond that, we believe in you. If it's not too big a burden, I ask that you believe in us as well.
+Dimitri: We can win. I'm sure of it. After all, it's not as though we've spent the last half-year sitting idle. And I'm feeling stronger this moon. As though I could conquer a thousand opponents all on my own.
+Byleth: That's reassuring. 
+Dimitri: You can depend on me. I hope you know that.
+Byleth: Don't get carried away...
+Dimitri: I'm only joking, of course... But perhaps it isn't a laughing matter. I beg your forgiveness. I must practice levity so that I can provide a more enjoyable joke when the opportunity next presents itself. After all, I hear that telling jokes is a good way to calm the nerves before heading into battle. Still...I find it quite difficult.
+Dimitri: Well, it's about time for the battle to begin. Everyone, brace yourselves.
+Felix: Hmph. All I'm worried about is finding someone worthy to cross swords with.
+Mercedes: We've prepared and trained a great deal. We should be fine, right?
+Annette: You're always so carefree, Mercie! Don't forget we need to try our hardest out there so we can win!
+Ashe: This is our chance to show how hard we've been working! Let's do our best.
+Sylvain: If I emerge victorious in the lauded Battle of the Eagle and Lion, the ladies are sure to take notice. I'll have to go into hiding.
+Ingrid: Ugh, is that all you think about? Actually, as long as you try your hardest, frame it however you like.
+Flayn: Haha, I shall give it my all!
+Dedue: No matter the battle, I will never falter.
+Dimitri: We're counting on your guidance, Professor. Let's show the world what the Blue Lions are made of!
+
+Claude: So this is Gronder Field... Hey, Teach. Not a bad place to wage war, is it?
+Byleth: How so?
+Byleth: Absolutely. 
+Claude: I knew you'd understand.
+Claude: Plenty of places to hide, and our pick of paths to advance through. It's the perfect battlefield for our tactics. I have my eye on that low hill over there. See it? It's the ideal spot to lure our enemies to, and then surround them with fire.
+Byleth: It's risky.
+Byleth: Fire is unacceptable.
+Claude: Gotcha, Teach! I know, I know. We want all students to make it back to the monastery. With you in command, we can't lose. The Imperial princess and the crown prince don't stand a chance.
+Hilda: Professor! Claude! What are you two talking about?
+Lorenz: What do you expect? It's Claude. I expect he was foisting more of his ill-advised schemes on our poor professor.
+Claude: Oh, you have me all figured out, Lorenz. You know me better than I know myself.
+Ignatz: Win or lose, it's an honor just to participate in the legendary Battle of the Eagle and Lion!
+Leonie: We've got to win so we can show Captain Jeralt what we're made of!
+Raphael: Yes! I'm ready! Let's go!
+Flayn: Haha, I shall give it my all!
+Marianne: I'll just...stay quiet and follow along so I don't get in anyone's way.
+Lysithea: That will not be acceptable, Marianne. The whole point of this exercise is for each house to act as one.
+Hilda: Do your best! I can't wait to see how well everyone does.
+Claude: All right, sounds like Hilda will be taking control of a central hill and watching the battle from there.
+Claude: It's almost time. Come on, Teach! The battle starts now!
+^end
+
+@Cutscene 
+Dimitri: You all should know... I am not about to go easy on you today.
+
+Claude: As long as we can pull off the win, it doesn't matter how.
+
+Edelgard: Our victory must be absolute...no matter what it may take.
+
+Seteth: It is time.
+
+Edelgard: Forward! now!
+
+Dimitri: For honor!
+
+@Opening 
+The Battle of the Eagle and Lion, a traditional contest of strength between the three houses, has arrived. It will take place at Gronder Field, which lies in Imperial territory.
+
+@Battle 
+Dimitri: The Battle of the Eagle and Lion is set to begin at long last. Everyone, show off the results of your dedicated training!
+
+Claude: Remember, we're not just fighting for honor. There's a prize at stake!
+
+Edelgard: It's almost time to begin. Steel yourselves, everyone.
+
+Claude: The Black Eagles and Blue Lions are fighting... Maybe we can sneak right past them.
+Lorenz: A stronghold for me to seize? Splendid!
+Claude: There goes Lorenz, acting on his own... Guess we've got no choice but to capture the central hill and cover him!
+
+Dimitri: This could be our chance! Dedue, cut through the Golden Deer!
+Dimitri: Ingrid, make use of your mobility—circle back behind the Black Eagles!
+Dimitri: Mobile force, you move up as well! Circle around to the rear of the Black Eagles!
+
+Edelgard: If you intend to act, do it now. Hubert! Head toward the Golden Deer!
+Edelgard: Ferdinand, circle around to the back of the Blue Lions.
+Edelgard: Mobile force, you move up as well. Circle around behind the Blue Lions.
+
+Dimitri: The Black Eagles and the Golden Deer are already in battle? We should take this chance to break through the Black Eagle's flank.
+Dedue: I will draw the Black Eagles out, Your Highness.
+Dimitri: Yes, and while you are doing so, we will take control of the central hill.
+
+@Boss 
+%Byleth,Edelgard
+Edelgard: If you stand in my way, I will cut you down until you have no blood left to bleed.
+Byleth: ...
+Edelgard: What? I was just trying to rally your spirits. Now, to victory!
+
+%Claude,Edelgard
+Claude: Hey Princess! Heads up! There's a rat right by your Imperial feet...
+Edelgard: BAH! I—Huh. How dare you make a fool of me. You will not rile me with such childish tactics.
+Claude: Ah, so the sheer terror in your eyes was... something else entirely. My mistake. Anyway, it was only a joke.
+Edelgard: You really hope to unsettle me with childish jokes? It won't work. You must stand and fight!
+
+%Dimitri,Edelgard
+Dimitri: So, it is time to cross blades... I never imagined such a day would come to pass.
+Edelgard: If the Empire and the Kingdom go to war, we'll be able to fight as much as we please.
+Dimitri: I am sorry, but that is not something to joke about. The thought of fighting you is troubling at best.
+Edelgard: In that case, I wonder when you'll be able to stomach facing me in battle... Do you need a few moments?
+
+%Byleth,Claude 
+Claude: This is a great chance for me to find out if the Sword of the Creator really is all it's cracked up to be. On that note, you'd better not surrender too quickly!
+
+%Dimitri,Claude 
+Claude: Hey, Your Royalness! If you promise to let me have the prize, I'll let you take the honor of victory. Do we have a deal?
+Dimitri: Enough of your foolishness! I– Wait a moment. You are trying to anger me, is that it?
+Claude: Saw right through me, did you? Well, if there's no deal, I'll just have to win this thing fair and square!
+Dimitri: I will happily face you, here and now. Do not hold back, Claude!
+
+%Byleth,Dimitri 
+Dimitri: How far can I push myself with you as my foe... This will be a great chance to test our mettle. Do not underestimate me, Professor, or you will fail!
+
+@Character-Falls
+Edelgard: I'm sorry, but I must retreat... You should have no trouble winning. Don't give up!
+
+Edelgard: I hate to admit it...but it seems this is as far as the Black Eagle House goes.
+
+Claude: Sorry, but it's about time I make my exit… The rest of you...please, finish the job!
+
+Claude: I hate to say it, but it seems we're at a stalemate. Looks like the Golden Deer won't be winning this round…
+
+Dimitri: I fear I cannot fight any longer. I'm sorry, everyone… Please continue onward to victory!
+
+Dimitri: I suppose my training wasn't enough… The Blue Lions have no choice but to retreat.
+
+@End
+Seteth: That is the end of this year's Battle of the Eagle and Lion! And the winners are... The Black Eagles!
+Edelgard: Thank you for your hard work, everyone! I daresay that prize is as good as ours.
+
+Seteth: That is the end of this year's Battle of the Eagle and Lion! And the winners are… The Golden Deer!
+Claude: A victory worthy of a feast! We did so well, there's no way we didn't secure that prize.
+
+Seteth: That is the end of this year's Battle of the Eagle and Lion! And the winners are... The Blue Lions!
+Dimitri: We won! And judging by our performance, I'm certain we have earned the prize as well.
+
+^start 
+Dimitri: Edelgard. Professor. That was a spectacular battle. You both fought exceptionally well.
+Claude: Complete and utter defeat... I would hate to make an enemy of you two.
+Edelgard: No need to get carried away with praise. I know you both feel we won by a paper-thin margin. And I won't deny it. If we were to fight again, there's no telling who would prevail. What do you think, Professor?
+Byleth: The Blue Lion House was very strong. 
+Dimitri: I am honored to hear you say that. Still, I must continue to train rigorously.
+Byleth: The Golden Deer House was very strong. 
+Claude: I'm honored! And I'll level with you - I think that margin is at least as wide as two sheets of paper. I mean that.
+Byleth: They were nothing. 
+Edelgard: Professor?! Well, I suppose it's OK to let victory go to your head just this once.
+Claude: In any case, I hope the day never comes when we have to put this experience to use.
+Dimitri: Agreed. I would hate to know a future in which I'm forced to cross swords with you.
+Edelgard: True. Although the Battle of the Eagle and Lion was originally named after a war between the Empire and the Kingdom. But that's all in the past. I'm sure even the name will one day fade from the pages of history.
+Byleth: I hope so.
+Byleth: Let's do our best to get along.
+Claude: How admirable, Teach! On that note, I have a proposition. When we get back to Garreg Mach, let's have a grand feast to bring down the walls between our respective houses. And by a "grand" feast, I mean a fairly regular feast in the dining hall.
+Dimitri: It would be a fine opportunity to know each other better. Count me in.
+Edelgard: So be it. Let's plan to meet up on the night we return. Is that OK with you, Professor?
+Byleth: I'm looking forward to it.
+Byleth: We'll celebrate our victory. 
+Edelgard: What's gotten into you today? I'm not used to seeing you this excited.
+Edelgard:  Seeing such a big smile on your face is a rare gift... It makes me feel like I can maybe relax a little too.
+
+Claude: Well done, Your Princeliness. I'm certainly not in any hurry to get on your bad side.
+Edelgard: I assumed you would attack us head-on. I clearly need to rethink my opinion of you. Well done, Dimitri.
+Dimitri: You both deserve equal praise for a battle well fought. All three houses did extremely well. Don't you agree, Professor?
+Byleth: The Black Eagle House was very strong. 
+Edelgard: Not strong enough, clearly. If there's ever a next time, know that I plan to wipe that smile from your face.
+Byleth: The Golden Deer House was very strong. 
+Claude: It's an honor to hear that from a fighter such as yourself! But there's no getting around it. The Blue Lions were better prepared.
+Byleth: They were nothing. 
+Dimitri: It only seemed that way because of the caliber of your command. Even now, we must not allow ourselves to become complacent.
+Claude: In any case, I hope the day never comes when we have to put this experience to use.
+Edelgard: I wouldn't mind. I'll accept a challenge from either of you at any time. Heh, I'm kidding, of course!
+Dimitri: That is nothing to joke about. The true Battle of the Eagle and Lion is best left in the past. In fact, I wouldn't be surprised if they eventually change the name of this mock battle.
+Byleth: I hope so.
+Byleth: Let's do our best to get along.
+Claude: How admirable, Teach! On that note, I have a proposition. When we get back to Garreg Mach, let's have a grand feast to bring down the walls between our respective houses. And by a "grand" feast, I mean a fairly regular feast in the dining hall.
+Edelgard: You really value that kind of thing, don't you? Well, I suppose no harm can come from it. Count me in.
+Dimitri: I have no objections either. And you, Professor?
+Byleth: I'm looking forward to it.
+Byleth: We'll celebrate our victory.
+Dimitri: Oh! Well, I'm not sure that's the point... Uh, Professor? Was that...a joke?
+Dimitri: You look so...happy. I love seeing you like this. I suppose that look on your face is just another boon from this glorious day. Perhaps the best one of all.
+
+Edelgard: Well done, Claude. I see your schemes are not to be underestimated.
+Dimitri: Yes, I must wholeheartedly agree. As ever, I have proven to be no match for you.
+Claude: It is the utmost honor to receive praise from your royal–  I'm kidding, of course. Really, though, I was lucky to have Teach on my side. In all honesty, you two made me work for it. If I had to face you again, there's no telling which way it would go. What do you think, Teach? How did the other houses fare?
+Byleth: The Blue Lion House was very strong. 
+Dimitri: I appreciate that. Still, it is clear that I must continue to be rigorous in my training.
+Byleth: The Black Eagle House was very strong. 
+Edelgard: Not strong enough, clearly. If there's ever a next time, know that I plan to wipe that smile from your face.
+Byleth: They were nothing. 
+Claude: Too true, Teach! That just about sums it up. Oh, I'm sorry. That's probably too hard for the losers to hear, isn't it?
+Claude: In any case, I hope the day never comes when we have to put this experience to use.
+Dimitri: Agreed. I would hate to know a future in which I'm forced to cross swords with you.
+Edelgard: I wouldn't mind. I'll accept a challenge from either of you at any time. Heh, I'm kidding, of course!
+Claude: Well, now that the three-way battle has ended in an Alliance victory, I daresay it's time for some post-battle reconciliation. The victor has but one request. Hear me out... When we get back to Garreg Mach, let's have a grand feast to bring down the walls between our respective houses. And by a "grand" feast, I mean a fairly regular feast in the dining hall.
+Dimitri: Hmph. I accept your proposition. Please notify me once your preparations are complete.
+Edelgard: It seems I have no choice but to drown my sorrow at losing in overindulgence. I'll help you with the preparations.
+Claude: It's not a feast if you don't eat too much! Leave it to the Imperial princess to say such wonderful things.
+Edelgard: That's not exactly what I said, but... Ugh, forget it. Laugh all you want.
+Claude: Oh, if you insist! Hahahaha! Hey, Teach. Looks like you're having a good time too. Seeing you smile like that means we've got no choice but to have a great time tonight. Let's get going!
+^end
+
+@End 
+^start 
+Bernadetta: It's finally over... There were way too many strangers at that feast.
+Petra: Put your chin high, Bernie. It was a chance for you to have growth.
+Bernadetta: But... but everyone was acting so friendly! It was overwhelming...
+Caspar: Linhardt, I wasn't done talking to you! If those Alliance guys came at it from here and those Kingdom guys came from there-
+Linhardt: I know, I know. We'd have been able to take them all out at once. I heard you. I'm going to bed now.
+Dorothea: Did anyone get the feeling that there were already couples forming? That's not really fair, is it? I wanted to sneak off with someone too...
+Ferdinand: I was hoping for some tea after our meal anyway. Would you care to join me?
+Dorothea: I suppose I can settle for you just this once, Ferdie.
+Edelgard: Until today, I thought it would fall to me to command and guide our ranks all by myself. But with you leading us, I've gotten to experience what it's like to fight alongside everyone... And I've realized... how happy it makes me, fighting under your command. The emperor doesn't take orders from anyone. It's their duty to stand alone and lead the entire Empire. But maybe it's better to have someone to rely on... so that you can support and guide each other through the darkness.
+Byleth: Am I that someone? 
+Byleth: I am unfit to guide an emperor. 
+Edelgard: I may be heir to the Imperial throne, but first and foremost, I'm your grateful student. That will never change, even when I fulfill my destiny and become the emperor. I told you long ago that I wished to enlist you in the service of the Empire. Well, I take it back. Now I wish only for your continued guidance during my eventual reign.
+Linhardt: Don't just hide away in the corner, Professor. You're the reason we're celebrating.
+Bernadetta: It's because of you that I've had the courage to leave my room for a bit each day.  I'm...I'm so grateful, Professor!
+Ferdinand: We were all just discussing how well you led us. Remarkable!
+Petra:  Your guidance is without parallel, Professor.  I have had practicing of that phrase.
+Caspar: Your training's been top notch. Really!
+Dorothea: Whatever would we do without you?
+Flayn: I have had the opportunity to experience much. Please allow me to offer you my gratitude once more, Professor.
+Edelgard: I feel the same... You are something special, my teacher.
+
+Dimitri: I had a wonderful time today, Professor. As usual, I was astonished by how much you ate in the name of celebration! Really, though, I must thank you again. Our victory in the Battle of the Eagle and Lion was thanks, in no small part, to you.
+Byleth: We all did our part. 
+Dimitri: Yes, that is true, but it was your instruction that allowed us to reach our full potential.
+Byleth: I agree.
+Dimitri: That's the spirit! There's nothing wrong with acknowledging your own strengths every now and then.
+Dimitri: I feel silly admitting this now, but when you first came to lead our class...you unnerved me. You never smiled, and you never showed anger either. And yet, you didn't appear to be suppressing your emotions. They just...weren't there. At first I thought perhaps you just didn't care for us, but I soon concluded that wasn't the case at all. For the longest time I just couldn't tell what you were thinking. It was as though you had no humanity whatsoever...
+Byleth: That stings.
+Byleth: And now?
+Dimitri: You're different now. In the half-year we've spent together, I've seen the glow of humanity in your eyes and in your actions countless times. I am truly grateful to have had the chance to spend this time with you, Professor.
+Sylvain: What are you two talking about? How dare you get chummy without us!
+Sylvain: Getting cozy, are we? Mind if I cut in?
+Dedue: That's enough, Sylvain.
+Mercedes: Oh please, I would love to join you as well! I have so many things I wish to talk to you about, Professor.
+Annette: Oh, me too! I have so much to tell you! And I want to thank you too.
+Ashe: Honestly Professor? I was only able to achieve so much because you were with us.
+Ingrid: Ashe is right. You're irreplaceable to us, Professor.
+Annette: Yes, that! Without you, the Blue Lions... Well, we wouldn't even be the Blue Lions at all! Except for the blue part. Because we'd be sad.
+Felix: I suppose...there are worse things than fighting at your side.
+Flayn: I have had the opportunity to experience much. Please allow me to offer you my gratitude once more, Professor.
+Dimitri: Haha, as you can see, you have our trust, as well as our admiration. I look forward to spending the rest of the year with you.
+Byleth: As do I.
+Dimitri: Good. Then let's give it our all this year! Anyhow... It's getting late. We had better return to our quarters and get some rest.
+
+Hilda: Ugh, I can't believe our house leader ate so much he passed out. I guess he should just...sleep it off? Oh, Professor! Great work today!
+Ignatz: As long as we have you and Claude, the Golden Deer House is unstoppable!
+Lorenz: I am sure we did not require Claude for our victory, but it certainly would not have been possible without our professor.
+Lysithea: Haha! I'm so please to be in your class, Professor. You truly bring out the best in us.
+Raphael: Let's keep fighting! And winning!
+Leonie: I knew the tactics you learned from the captain would be something else. I better work harder to catch up!
+Flayn: I have had the opportunity to experience much. Please allow me to offer you my gratitude once more, Professor.
+Marianne: Because of you, I managed to get through the fight without feeling like a burden. Thank you, Professor.
+Hilda: I hear Lady Rhea and Seteth are singing your praises too!
+Byleth: You all worked hard. 
+Hilda: You're always so modest!
+Byleth: Our opponents were strong too.
+Hilda: Well, I certainly can't deny that.
+Byleth: Just wait until you see my true power. 
+Hilda: Oh, wow! I don't doubt it.
+Claude: You really showed them, Teach! I would really hate to be on your bad side.
+Hilda: Oh, look. Claude has been revived.
+Claude: Your tactics were ingenious, and you've somehow mastered the power of the King of Liberation's Relic. You really are incredible. Though you can be a bit absentminded at times. Your mind is like a giant bowl with a tiny crack in it...
+Hilda: Claude, saying that only makes your own mind bowl seem tiny.
+Claude: How dare you! My bowl is much bigger than Teach's! Unfortunately, it doesn't just have a crack. The whole bottom of my bowl is missing.
+Lysithea: In other words, you are the absentminded one, not our professor.
+Ignatz: That's true. He just admitted it.
+Marianne: Hehe!
+Leonie: It's unusual to hear you laughing, Marianne. Your smile is really cute.
+Lorenz: I agree. You really don't know how beauti-- Eh... Never mind.
+Hilda: It feels so great to laugh and joke around like this, doesn't it?  Hm? Well, look at that. Someone's having a secret rendezvous in the courtyard...
+Claude: All joking aside, I'm having trouble sizing you up, Teach. The honest truth is that I'd hate to have you as an enemy. If possible, I wish for you to fight by my side. If I could use the Sword of the Creator, we wouldn't even be having this conversation. I bet if I could use it, you would trust me to... Right? That selflessness may be what I like best about you.
+^end
+
+Rhea: You fought bravely during the Battle of the Eagle and Lion.
+Seteth: Comparing against their performance in the mock battle of the Great Tree Moon, the students have grown significantly. I suppose I should praise your efforts.
+Rhea: I can only call your deeds during the Battle of the Eagle and Lion...quite versatile.
+Seteth: Comparing against their performance in the mock battle of the Great Tree Moon, the students have grown significantly. It is clear that this is a result of your guidance.
+Rhea: In appreciation of your efforts, and to show our high hopes for the future of your students, I award you with this.
+Rhea: Please continue to instruct your students as a model teacher.
+Sothis: So! You've made good use of all my power after all. I would have been upset if you had failed at such an easy task!
+Seteth: It pains me to assign such a disturbing mission to you during such a blessed moment in time... However, next month your assignment will be to journey to Remire Village to investigate an abnormal occurrence there.
+Sothis: Remire Village... If I recall, you've been there with your father many times.
+Byleth: An abnormal occurrence?
+Seteth: I have yet to ascertain the details, but it would seem the villages have been acting strangely. I have already dispatched the knights to verify the authenticity of this information. They should be back shortly. I suggest you begin by finding out what they have discovered.
+
+Rhea: I pray this is not a bad omen... May the goddess protect you all.

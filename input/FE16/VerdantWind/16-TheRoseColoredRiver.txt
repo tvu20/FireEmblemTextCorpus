@@ -1,0 +1,281 @@
+@Opening 
+The Alliance army successfully rendezvous with Judith in Ailell. With the addition of House Daphnel's forces, the time has come to invade Empire territory.
+
+@Intro 
+Claude: Preparations are complete. Now it's a game of patience. As they say, good things come to those who wait.
+Lorenz: Care to elaborate on this plan of yours, Claude? Can we really do this without battling my father?
+Claude: Pretty soon, Count Gloucester will need to gather his troops in the northern part of his territory.
+Byleth: Against the Kingdom?
+Claude: The Kingdom has experience constant infighting since the coup. They're out of the picture for now.
+Byleth: Against Houses Riegan and Daphnel? 
+Claude: You got it, Teach!
+Judith: The combined forces of the Riegan and Daphnel houses will threaten the northern part of the Gloucester territory. Nardel, that retainer I mentioned, is going to draw their attention.
+Claude: We'll take that opportunity to make our way through Gloucester territory and launch a surprise attack on the Great Bridge of Myrddin.
+Lorenz: And...are you not concerned about the possibility that I may tip off my father?
+Claude: The future of the Alliance rests on this battle. I'm certain you won't betray us.
+Lorenz: Hmph. I will ensure our success.
+Claude: I know you will. If we win this fight, then our next goal will be to topple Enbarr, the Imperial Capital. I said before that my plan was to meddle with the Empire, but I'm going to do you one better. We are going to defeat the Empire, once and for all. But to do that, we can't afford to slip up here. Bear that in mind and prepare yourselves for the coming battle.
+
+@Conversation 
+Claude: If our plan succeeds, we'll arrive at the Great Bridge of Myrddin unscathed. The important part is what happens next. We're evenly matched in terms of military power, more or less, so if we can just launch a surprise attack...
+Byleth: We have the advantage.
+Claude: I wouldn't be so sure. That bridge is almost like a fortress. The defense there is rock solid.
+Byleth: It could go either way. 
+Claude: Agreed. The bridge is basically a fortress, so the defense will be rock solid.
+Byleth: We'll still be at a disadvantage.
+Claude: I'll give you that the bridge is basically a fortress. I wouldn't say we're at a loss, but we certainly shouldn't rest easy.
+Claude: But that's why you're here, Teach! No matter the odds, you're the wild card we need to win!
+
+
+
+Lorenz: I would like to believe that I have always made my own decisions. Even so, I cannot deny that some small part of me has always been aware of my father's wishes. Now, here I am. Concealing our plan - Claude's plan - from his sight.
+Byleth: Are you having second thoughts?
+Lorenz: No. The strategy is sound, and I've consented to it.
+Byleth: You're not reluctant, though, are you? 
+Lorenz: Quite the contrary, honestly. I feel as though a fog has finally lifted from my eyes.
+Lorenz: In this fight, I will finally stand upon my own two feet, independent of my father's influence.
+
+
+
+Raphael: Thanks to all that food from Judith, I'm full for once! I've got so much energy! Let me at that Great Bridge of Myrddin! I'll bust it down myself! Oh, but then how do we cross?
+
+
+
+Ignatz: The Great Bride of Myrddin isn't just a bridge. It has the features of a fortress. I believe it was built for military purposes by the first leader of the Adrestian Empire. In other words, it's even older than the monastery. So if we occupy the Great Bridge, we'll have to search it from top to bottom.
+
+
+
+Lysithea: I'm sure you know this already, but House Ordelia is aligned with the Empire. They face the Empire from across a river, similar to the Gloucesters. Even so, I refuse to yield to the Empire a second time. The Empire did unthinkable things to my family. And to me. The only option here is winning. Professor, you must promise we will overcome the Empire.
+
+
+
+Marianne: Legend says that pillars of light fell and ravaged Ailell. I was reminded of that when I saw it... Um, Professor? Do you think those legends are true?
+Byleth: It's likely.
+Marianne: I think so too. I don't know if the goddess really destroyed the valley out of anger, but...
+Byleth: Yes, and it'll likely happen again. 
+Marianne: Oh! I suppose you may be right. There's no way to be sure it won't...
+Marianne: There's still so many things we don't understand in this world.
+
+
+
+Hilda: It looks like people are slowly starting to come back to the town. I guess they feel safe now that you and the Knights of Seiros have returned. Peddlers have become more common too, so there'll be food and supplies available. After being run-down for all those years, it's really becoming livable again!
+
+
+
+Leonie: Things have gotten a lot more interesting since we've joined up with Judith, haven't they? Anyone who casually treats Claude like he's just some kid is not a person to be trifled with. I think Captain Jeralt would have liked her. I hope someday I can be as strong, kind, and levelheaded as her.
+
+
+
+Ferdinand: What used to be Aegir territory lies far to the east of the Great Bridge of Myrddin, downstream of the Airmid River. For the sake of my family, I wish we could invade the Empire from there. But I do not have the power to advocate for that. Strategically, Myrddin is more important.
+Byleth: Someday, we'll take it back. 
+Ferdinand: Thank you, Professor. I will not give in. Not until I have restored my noble pride!
+Byleth: Taking it back would be difficult.
+Ferdinand: Yes, I know it would be difficult, but I will not give in!
+
+
+
+Linhardt: Since I'm originally from the Empire, it seems no one trusts me with any important tasks. Fine by me. Honestly, I'd bet they're watching my every move to make sure I can be trusted.
+Byleth: I'm sure they're not...
+Linhardt: If I were leading the Alliance, it's what I would do.
+Byleth: Probably. 
+Linhardt: I knew it. War makes people crazy, huh?
+
+
+
+Caspar: The Airmid River separates the Empire and Alliance. It's the largest river in Fódlan. Sometimes it'll flood when there's lots of rain, but... At least the land gets some extra water!
+
+
+Bernadetta: War isn't kind to you if you're a recluse. By the time you realize what's going on, you're already under attack. And if you're off by yourself, you can get killed with no one ever even finding out.
+Byleth: Sounds like you're learning.
+Byleth: Isn't that a little pessimistic? 
+Bernadetta: Oh, that'd be awful—just terrible! OK, Professor, I get it. I know I'll have to come out.
+
+
+
+Dorothea: We're going to invade the Empire...which means we'll be fighting people we know, won't we? If we're attacked by someone we know, or used to think of as a friend, it is permitted to run away?
+Byleth: No, it's not OK.
+Dorothea: Makes sense. A commander running away would be terrible for morale.
+Byleth: I wouldn't blame you. 
+Dorothea: Really? If something happens, will you keep me safe?
+
+
+
+Petra: If we can suppress this Myrddin, we can invade into the Empire, right? I was in the Empire. Now I will be an enemy... I am having strange feelings. It is with ease that an ally turns into an enemy...
+
+
+
+Felix: We can predict what the Empire will do. Faerghus is our real problem. The eastern lords have joined forces and are warring with the Dukedom. But I've heard nothing about that conflict as of late. It's strange. I haven't heard much from my father either. I can't help but find this silence unsettling...
+
+
+
+Ashe: It's thanks to you that I'm here now. I owe you, Professor. You saved my life. I swear I'll do all I can to repay that debt.
+
+
+
+Sylvain: I had an encounter with Lord Gwendal... How many years ago was it? Back before the academy, I met this girl who I fell madly in love with...and her dad tried to kill me. I suppose he just tried to scare me, but I was sure I was going to die. Oh yeah, her dad? Lord Gwendal. Crazy, right? I never thought I'd seriously be trying to kill the guy in battle. I kind of don't know how to make sense of it.
+
+
+
+Mercedes: Lady Rhea is in the Empire, isn't she? We should hurry up and find her. So many people in the monastery and nearby towns are worried...I want to ease their minds as soon as possible, Professor. Let's work together to find her!
+
+
+
+Annette: Next we face the Great Bridge of Myrddin... We actually crossed it a long time ago. Do you remember? It was five whole years ago!
+Byleth: During the Battle of the Eagle and Lion? 
+Annette: It seems like so long ago, doesn't it? It's odd how fast time flies...
+Byleth: When we went to Remire Village?
+Annette: What are you talking about, Professor? It was on the way to the Battle of the Eagle and Lion!
+Annette: Everyone was still friends then. After the fighting, we all ate together without splitting into our separate houses. But now we're fighting the same people who were our friends back then... Even Ashe... I often wish we could go back to those peaceful days...
+
+
+
+Ingrid: So, that was Judith. Just as I’d heard of her, she was an upstanding person. The same Daphnel blood runs through my veins, and yet I feel as though I am nothing like her. I am a phantom of what could be…
+Byleth: You're actually quite alike. 
+Ingrid:  You think so? Wow, thank you!
+Byleth: True, you do differ.
+Ingrid: If only I could be half of who she is.
+
+
+
+Seteth: If Rhea really is in the Empire, then we must defeat the Imperial army by any means necessary. The people at large are just as concerned for Rhea's safety as we are. The sooner we can settle all our unease, the better.
+
+
+
+Flayn: Judith is a wonderful person. So strong and confident, as well. Looking upon her, I am sharply reminded of my mother.
+Byleth: Does she look similar?
+Flayn: Not in the slightest. Rather, it is her way of being - her demeanor. Brilliantly bright and positive, like a warm ray of light.
+Byleth: Does she act similar? 
+Flayn: Very much so! Both brilliantly bright and positive, like a warm ray of light.
+Flayn: I... lost my mother, long ago. I miss her desperately.
+
+
+
+Hanneman: The battle at Ailell was a tactical marvel. You grow stronger with each passing day. Where does your talent end and your Crest's power begin? Are they one and the same, I wonder? Most intriguing. Yet it is quite difficult to draw useful conclusions, given the situation. It is quite unfortunate I did not achieve my research goals before the war broke out. So much unknown. Now, I fear I will not have those answers even by conflict's end. So very frustrating.
+
+
+
+Manuela: Oh, hello there, Professor. Did you need something from me? It doesn't look like you're wounded or anything. You just looking for... someone to talk to?
+Byleth: Yes. 
+Manuela: I thought so. Well, I'm here for you! Making you feel better is my top priority.
+Byleth: No.
+Manuela: Come on now, you don't have to be shy. Helping you feel better is important to me.
+Manuela: Whether it's physical pain or worries of the heart, you can come to me for anything, Professor.
+
+
+
+Alois: So, Lady Rhea was in the Empire all this time. Glad as I am that Judith told us, I wish we had known this five years ago. We spent all that time spread out over Fódlan, searching for the archbishop and you. It was a mistake to abandon the monastery, to leave it in ruins. Now we're paying for that mistake.
+
+
+
+Catherine: I'd heard of the Hero of Daphnel, but that was the first time I've met her in person. She's the head of a prestigious noble family? Just like Claude. The Alliance nobility is so... odd.
+Byleth: You don't think she acts like a noble?
+Byleth: Is it different in the Kingdom and Empire? 
+Catherine: Kind of, but I don't mean that in a bad way. You won't find such big-hearted nobles elsewhere. Plus, Judith can drink with the best of 'em! A woman after my own heart.
+
+
+
+Shamir: Five years ago, when the Imperial army attacked Garreg Mach, they moved with incredible speed. But in the middle of all that chaos, she still had operatives watching. The Hero of Daphnel's spy network is impressive. She shouldn't be taken lightly.
+
+
+
+Cyril: Is it true Lady Rhea was dragged off by the Imperial army? I heard that was true. Why'd they take Lady Rhea? Professor... they didn't take her to kill her, did they?
+Byleth: I don't think so.
+Cyril: That's good. We just gotta beat the Imperial army and get her back, right?
+Byleth: They probably haven't killed her.
+Cyril: Yeah, good point. If they did, we'd have heard about it by now.
+Cyril: You gotta help her, Professor. I'm begging ya.
+
+
+
+Judith: I don't know where he recruited that man, but Claude's got an eye for great talent. I'm talking about his retainer, Nardel. I've only spoken with him briefly, but he seems to have a fair amount of both brains and brawn, with the skills to match. But there's something about him I can't quite place... Like I've somehow heard of him before...
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! I was talking to some of the Daphnel soldiers earlier, and it seems that Judith has a weakness. But they wouldn't tell me what it is! I got the feeling they didn't appreciate the question. Pardon me for being curious! That said, maybe keep this to yourself. Not that she terrifies me to my soul, but I'd hate to get on her bad side...
+
+@Intro 
+Lorenz: The Great Bridge of Myrddin is in sight. Beyond it, the Empire.
+
+Cyril: Whaddya know. There aren't bridges that big in Almyra, that's for sure...
+Lysithea: How unsettling. There are bridges in the southern part of Ordelia territory, but nothing like this.
+Claude: It's the most strategic location in that area to move a large army across the Airmid River. The Empire will want to hold on to it at all costs, so expect tough defenses.
+Byleth: Let's finish this quickly. 
+Lysithea: You're right. The enemy's guard should be down, so let's end this quickly before they have a chance to retaliate.
+Byleth: Let's proceed with caution. 
+Ignatz: You're right. The defenses are pretty impenetrable. Let's make our move carefully.
+Claude: You're in command, Teach. Do whatever it takes to win. Well, other than sacrificing the lives of our allies for the sake of victory. Try to avoid that. Let's get moving. We're counting on you, my friend.
+
+@Opening 
+Sights set on the Imperial capital, the Alliance army chooses to march through the territory of House Gloucester - supporters of the Empire. Under the command of Nardel, the retainer of House Riegan, the defensive forces of House Riegan and Daphnel draw out the Gloucester troops. Thus the Alliance army can continue its march towards the Great Bridge of Myrddin and cross the Airmid river, which separates the Alliance and the Empire.
+
+After fending off the Empire, your forces decide it's time to advance. But first, you must capture the Great Bridge of Myrddin, a strategic crossing point over the Airmid River, which borders the Alliance and the Empire.
+
+@Battle 
+Ladislava: That symbol... It's an enemy raid! Stay calm and face them head-on. Send a messenger to Acheron immediately! If we're quick, we might be able to pull off a pincer attack!
+Claude: They say the enemy general, Ladislava, is among Edelgard's most trusted. Let's see what she's got.
+
+Claude: Our goal is to take down Ladislava and gain control of the bridge. Let's go!
+
+Imperial Soldier: You think we'll let you take this bridge from us?
+Claude: Whoa, new enemies from the central fortress? By the looks of it, that might not be all of them.
+
+
+Ladislava: Acheron! Now's the time to show your loyalty to the Empire! Attack the enemy from behind!
+Acheron: I've got to make my name known to her Majesty through distinguished service.
+Claude: Acheron the Weathervane. He's of the Alliance. He's a minor noble who holds territory to the north of Myrddin. If he's gonna support the Empire, no need to hold back. He's nothing but a nuisance, even to the Alliance.
+
+Claude: Looks like we can capture this fortress quickly if we take out the soldiers protecting it.
+Imperial Soldier: Enemies approaching! Get the soldiers standing by to join the fight! We may need to hurry up preparations of the ballista too. Protect the fortress!
+
+Alliance General: We'll ally ourselves with the Imperial soldiers too!
+
+Ferdinand: I will leave this area to the reinforcements, and then I will swing around to provide support from the south.
+
+Claude: I'm glad we defeated them here... I doubt they're an enemy we could win against twice.
+
+@Boss 
+%Claude,Acheron
+Acheron: The declining Alliance will be finished if I kill you. The Empire will herald the new age!
+Claude: Only if you manage to kill me. Hm? What's that to the north? Looks like the home of another opportunistic noble is burning...
+Acheron: That's... that's my castle! NO!
+Claude: That's the declining Alliance at work, right there. Seems like you were facing the wrong way, Weathervane!
+
+@End 
+Claude: Well done, everyone. The Great Bridge of Myrddin is ours.
+Leonie: I was prepared for bloodshed, but that was more than expected... I guess I'm still not used to this.
+Ignatz: Even our enemies were fighting for their own cause. They held out without fleeing until the bitter end...
+Byleth: You don't have to get used to it. 
+Leonie: That is true. I wouldn't want to become the type of person who feels nothing when someone dies.
+Byleth: We must overcome this. 
+Ignatz: Yes... we can't afford to stall here.
+Claude: Now it's on me to return to Alliance territory and convince those lords to join us. Lorenz, would you return home for the time being and lay the groundwork with your father?
+Lorenz: Fine. After all, this is for the Alliance. Or rather, for all of Fódlan.
+Claude: For those of you who live in Alliance territories, I ask that you return to your houses, and spread the word about the current situation. Until we finish our preparations, Judith and the knights will do everything in their power to defend the Great Bridge.
+Judith: That's a casual way to dole out such a deadly mission, boy.
+Claude: Do you object?
+Judith: Just who do you think I am? I won't let the Empire pass this way, even if it costs me my life.
+Claude: Too bad you're not allowed to die. Fight like your life depends on it, but flee if you're ever truly in danger.
+Judith: A tall order, as always. I'll use my best discretion, Claude.
+Seteth: We have no objections either. Go forth and secure us a sufficiently powerful army.
+Raphael: I'll stay here too. The only ones I'd be going home to are my little sis and my grandpa.
+Claude: Are you sure you don't want to see your sister? It may be a while before you can return home again.
+Raphael: But if I see her, I may not want to come back. So I'll wait till I'm done here.
+Byleth: What about me?
+Byleth: I'll stay here too.
+Claude: Actually, I'd like for you to come with me, Teach. To help negotiate with the lords. They're followers of the Church of Seiros, after all. It'll make things easier if we have someone there to speak on Rhea's behalf. All right, everyone. Let's meet back at the monastery next month. Good luck out there.
+
+???: Is that you, kiddo?
+Claude: I have returned, Nardel.
+Nardel: Oh, ah, Master Claude. It's you. I mistook you for one of the local children. My apologies.
+Claude: It seems you have adjusted to your work here. Our recent strategy was successful, thanks to you.
+Nardel: I was a bit concerned when House Goneril's army intervened from the east.
+Claude: Count Gloucester must have requested reinforcements from them.
+Nardel: Yes, and they have that young general who won some acclaim from his battles in Almyra... Regardless, they showed no signs of seriously wishing to attack us, and merely fulfilled their obligations to House Gloucester.
+Nardel: Now then... who is this lovely lady?
+Claude: This is my professor, who I asked to join me at the roundtable conference. Teach, this is Nardel, that retainer Judith was talking about.
+Byleth: Nice to meet you.
+Nardel: Hm, how polite. I've heard good things about you from Master Claude.
+Byleth: ...
+Nardel: You'll make me blush if you keep staring like that. Though I suppose people like me are something of a rarity here.
+Claude: As you can see, he wasn't born in Fódlan. Still, trust me when I say he is highly capable.
+Nardel: True. In fact, my capability is my only redeeming quality. I hope you'll continue to look after Master Claude, Professor.

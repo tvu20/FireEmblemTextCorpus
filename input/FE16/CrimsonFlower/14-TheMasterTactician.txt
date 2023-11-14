@@ -1,0 +1,365 @@
+@Opening 
+Having crushed the Alliance's army and captured the Great Bridge of Myrddin, the Imperial army prepares to attack Derdriu--the Alliance's base of operations.
+
+@Dialogue 
+Edelgard: Professor, what is your opinion of Claude? I can't help but wonder what sort of impression he made on you.
+Byleth: He's a schemer.
+Edelgard: That is inarguable. And his schemes are still going strong. With them, he's managed to keep the Leicester Alliance from the Empire's grasp.
+Byleth: He's a jokester.
+Edelgard: That much is obvious. He acts like a fool, but still manages to make the impossible happen. That's as true now as ever. He's managed to protect the Leicester Alliance with his cunning alone.
+Byleth: He would be a good king.
+Edelgard: Interesting... I've never thought of him like that. However, I know you have a keen eye for potential. After all, as leader of the Leicester Alliance, he has managed to protect his entire territory all this time.
+Byleth: How has he done that?
+Edelgard: Since the beginning, territories within the Alliance have been split between those who support the Empire and those who oppose it. Claude has been acting as an intermediary between the two, essentially keeping the Alliance pacified. As both sides are of equal strength, he's created a situation in which they've all agreed to avoid fighting each other and causing undue bloodshed. By carrying on as though the Alliance is united, he's minimized the Empire's influence there.
+
+Hubert: Heh. It's quite impressive how well his bold scheme has worked out. However, he is walking on thin ice. One wrong move and the Alliance will shatter.  Speaking of Claude... Your Majesty, we should not delay in our invasion of the Alliance. It would seem that Claude has some fresh scheme up his sleeve, to no one's surprise.
+Edelgard: Is that so?
+Hubert: Yes. The people of Derdriu have suddenly found it difficult to leave or enter the city. We can safely assume he is preparing for battle, but I am certain his plans extend beyond that as well. Do you not think we should take Derdriu at once?
+Edelgard: Derdriu, the Aquatic Capital... A city floating on the ocean certainly poses a challenge. Since it's deep within Riegan territory, we haven't had the opportunity to attack it directly. However, now that we have control of the Great Bridge of Myrddin, our situation has changed drastically. They can no longer expand their supply line into the Empire, and so we can finally attack Riegan territory.
+Hubert: House Riegan is not only Claude's house, but also the flagship of those who oppose the Empire within the Alliance. If House Riegan falls, the other Alliance lords will be tripping over themselves to join us. That is why we cannot fail to take Derdriu.
+Byleth: Let's go.
+Hubert: Confidence is one thing, Professor, but see to it that you do not underestimate Claude.
+Byleth: That seems difficult.
+Hubert: Fair enough. Claude will certainly be a difficult opponent.
+Hubert: The leader of the Alliance has had many things said about him... They say he is unbeatable in a battle of intellect. I hear they call him the Master Tactician.
+
+@Conversation 
+Edelgard: I wish we could settle all of this before the fighting begins. Don't you? I wish it dearly. But few others feel that way. They fight in a bloody battle, take countless lives, and then finally come to understand defeat. They refuse to admit when they're beaten, and they keep it up until they've been utterly defeated. Of course, I understand that sacrifice is inevitable... But if they're going to surrender after being defeated anyway, why raise a weapon in the first place?
+
+
+
+Hubert: So, we've somehow managed to take the Great Bridge of Myrddin. That means House Gloucester should now be ready to join the fold more formally. We've blown a major hole in Claude's plans to preserve the Alliance. We should press on to Derdriu before he has the opportunity to adjust his strategy.
+
+
+
+Ferdinand: I have been wondering something... If I had not been your student, where would I be right now? Who would I be? Do you ever think that sort of thing, Professor?
+Byleth: Like what if I had led a different class?
+Ferdinand: Ah, so you do think about such questions. You can never find answers though, right? We cannot turn back time, so there is no way to go back and try a different path.
+Byleth: Like what if I had turned against the Empire? 
+Ferdinand: Ah, so you do think about such questions. You can never find answers though, right? We cannot turn back time, so there is no way to go back and try a different path.
+Byleth: No, I don't.
+Ferdinand: I see... You are so focused and coolheaded. I wish I could be more like you.
+
+
+
+Linhardt: I never do get used to the sight of blood. It always makes me feel as if I might faint. I suppose I've told you that though, yes? I've no idea how you cope with it. I hope this war ends soon. I dislike being lightheaded because other people are bleeding everywhere. It's all a great deal of a bother, but I will do my part of course.
+
+
+
+Caspar: Didn't they used to call Claude the Master Tactician? I want a nickname too! Maybe I'll get one if I can defeat him at Derdriu... I'll come up with a plan that'll beat his and earn me a nickname for sure!
+
+
+
+Bernadetta: Claude... Claude... Which was he again? Oh! Right. Yeah, of course I remember him. It's just... I can't picture his face. Don't remember what he looks like. I'm not sure if I ever knew. Oh well. He's just another enemy now, isn't he? What, am I not supposed to say that?!
+
+
+
+Dorothea: I'm happy when we win battles, and I'm always relieved when our friends make it back safe. On the other hand, it's hard to watch the enemy die. Even worse when it's someone you know. Perhaps it would have been better if I'd just stayed with the opera...
+Byleth: I don't think so. 
+Dorothea: You're right, Professor. I'll never regret the choices I made.
+Byleth: Perhaps... 
+Dorothea: No, Professor. I refuse to regret my past decisions.
+Dorothea: Now you just have to lead us to victory so everyone else can let go of their regrets too.
+
+
+
+Petra: Since the past, I have learned much of the language of Fódlan. But speaking the Fódlan language still gives me difficulty. I can understand, read, and white with nearly perfection now. But understanding and speaking are...fruits of a different color.
+Byleth: That's part of your charm. 
+Petra: I have gratitude for you, Professor. I hope that I will have fluency one day.
+Byleth: Everyone has a weak spot.
+Petra: Yes. I will keep practicing more.
+
+
+
+Felix: I hear Claude's earned himself a rather colorful nickname. He does whatever it takes to win. I like that. It will be especially satisfying to defeat him. I can't wait to see what his next move is.
+
+
+
+Ashe: Food has gotten scarce since the war started. Lately the prices have really been going up. Normally that would mean reducing our own take, but we just can't afford to do that. If we lose this war, we lose everything. Still, the townspeople are the ones who will suffer from this the most. The longer this goes on, the more people will starve.
+
+
+
+Sylvain: Derdriu, the Aquatic Capital... I've heard it's a magnificent city, you know. If we're going, I wish it wasn't to wage war. It'd be more fun to visit with a cute girl on my arm.
+Byleth: Maybe once the war is over... 
+Sylvain:  You're right. That's something to look forward to.
+Sylvain:  Yeah? Maybe you and me? That'd be a good reason to survive the war. Heh heh...
+Byleth: Forget it.
+Sylvain: Aw, come on. Let a guy dream.
+
+
+
+Mercedes: Flowers are so resilient, aren't they? Despite the war going on outside the monastery, here they are, blooming beautifully. I hope we get to see more kinds of flowers when the weather warms up...
+
+
+
+Annette: Derdriu, huh? I've always wanted to go there. In Faerghus, most of the towns are pretty much glorified fortresses. So to hear about a place called the Aquatic capital...it just sounds so elegant! Let's go for a leisurely visit someday, promise? You know...after the war is over.
+
+
+
+Ingrid: Judith of Daphnel. You were a force to be reckoned with. You will not be forgotten. In another life, I might have fought by her side.
+Byleth: What's done is done.
+Ingrid: As harsh as that is, it's the truth of it. It's over now.
+Byleth: I understand the sentiment. 
+Ingrid: It's a harsh truth, but it's the truth nonetheless. We can't change the past.
+
+
+
+Lorenz: Now that we've seized the Great Bridge of Myrddin, House Gloucester is comfortable aligning itself with the Empire. The path to Riegan lands lies straight before us. Our clash with Claude draws nearer by the moment.
+Byleth: Having second thoughts?
+Lorenz: Not at all. On the contrary, I look forward to it. My old rival will be a worthy test for me.
+Byleth: Will he put up a hard fight? 
+Lorenz: I certainly hope so. I would be quite disappointed if my greatest rival were to simply roll over.
+Lorenz: I know Claude better than anyone. He is a schemer. No doubt he has some trap for us in mind. Let us be vigilant, Professor.
+
+
+
+Raphael: We're gonna go up against Claude next? I haven't seen him in forever. Wonder how he's been... I chose this side because I believe in you, Professor. But it's not like I got anything against Claude.
+Byleth: What was he like?
+Raphael: Hmm... Well, he loved parties, and he was full of some pretty good jokes!
+Byleth: Were you close? 
+Raphael: Of course! Claude was the kinda person who would be instantly friends with anyone.
+Raphael: I don't mind so much that we gotta fight him, I just hope he doesn't get killed...
+
+
+
+Ignatz: I thought I was ready for this, but it's not easy to fight against my old schoolmates... I was in the Golden Deer House, so I have a lot of memories with them.
+Byleth: Are you feeling conflicted? 
+Ignatz: No, I'm not. I decided to fight alongside you, and I will not waver.
+Byleth: It's hard for me too.
+Ignatz: Really, it is? I wish that we could resolve this without violence.
+Ignatz: Then again, precisely because they're old friends, I wouldn't leave this to someone else. I have to assume responsibility.
+
+
+
+Lysithea: Without the support of the pro-Imperialist lords, the Alliance is greatly weakened. Even so, I don't feel great about all this. We're gonna be fighting Claude...
+Byleth: We must not let our guard down. 
+Lysithea: We can't--you're right. Claude has such unusual strategies for toying with his enemies.
+Byleth: We can definitely win.
+Lysithea: Even so, we should stay alert. Claude won't be caught off guard. Neither should we.
+Lysithea: Even with you here, this battle will be very challenging.
+
+
+
+Marianne: The tide of war is clearly favoring us, but Claude refuses to surrender. I wonder why that could be...
+Byleth: It's against his principles.
+Marianne: Frankly, it seems to me that his ideals are not that far removed from Edelgard's...
+Byleth: The way he sees it, we can't both exist. 
+Marianne: I think you're probably right...
+Marianne: I suppose even the very powerful can be irrational at times...
+
+
+
+Leonie: I'm from Alliance lands, but I'm only a commoner. The idea of fighting Alliance nobles isn't exactly losing me any sleep. Fighting old friends though? That's something else. Ugh. I'd better clear my head. Captain Jeralt used to say a mercenary has to be thoughtless. Guess I finally get what he meant.
+
+
+
+Alois: Do you ever regret taking the path you did?
+Byleth: Yes.
+Alois: Hm. I guess doubts and regrets just come with being human.
+Byleth: No. 
+Alois: Hah, the very model of a leader! I should take a page out of your book.
+Byleth: All the time.
+Alois: Hm. I guess doubts and regrets just come with being human.
+Alois: Whatever path you choose going forward, I'll follow you without question.
+
+
+
+Shamir: Claude, eh? He always was sharp among his peers. Never let himself get caught up in conventions. He wasn't typical in Fódlan. Then there's Rhea and King Dimitri... I'd stay on their good sides, for different reasons.
+Byleth: You don't have a choice.
+Byleth: I have no desire to kill them, but... 
+Shamir: Yeah, well... If that's the only way forward, it can't be helped.
+
+
+
+Hanneman: Professor, I think you should be made aware of a certain group working with the Imperial army. They are the same lot that invented a technique to turn monsters into war assets. It's quite obvious their trick draws on the power of the Crest Stones, but... There is something more to it than that. Some secret I have yet to decipher. I suppose I need to better understand what kind of people they are. Who are they? What do they want? For her part, Miss Edelgard is cooperating, yet does not hide her hostility towards them. I suspect we should prepare in case the day should come when we must combat these strange people.
+
+
+
+Manuela: Remember the Death Knight who stabbed me five years ago? Of course you do. How could you forget? Well, it turns out he's a general in the Imperial army! He leads the western front against the Kingdom. Once I knew he was at Garreg Mach, I stormed right up to him, told him who I was, and what he did... And he offered me an apology. I'm talking about a sincere, heartfelt, solemn apology. What a letdown. What's going on with that guy, anyway? Who is he under that mask?
+Manuela: Oh, hello there, Professor. Did you need something from me? It doesn't look like you're wounded or anything. You just looking for...someone to talk to?
+Byleth: Yes.
+Manuela: I thought so. Well, I'm here for you! Making you feel better is my top priority.
+Byleth: No.
+Manuela: Come on now, you don't have to be shy. Helping you feel better is important to me.
+Manuela: Whether it's physical pain or worries of the heart, you can come to me for anything, Professor.
+
+
+
+Jeritza: What is it?
+Byleth: I just want to chat a bit.
+Jeritza: I have no words for you. I have blades, and if you wish to cross them, I'll be more than happy to. Although you may not be.
+Byleth: Nothing.
+
+
+Randolph: Lately, the Kingdom and the Knights of Seiros haven't made any significant moves. I don't suppose they're going to stand by and watch while we attack Derdriu though. That's why I've doubled our guard and instructed them to be extra vigilant. I will keep Garreg Mach safe! It is my duty and responsibility.
+
+
+
+Fleche: Big brother always gets me so fired up... Better keep an eye on him. Oh, sorry! I was just talking to myself. I hear you're heading out to Derdriu. Good luck with the battle!
+
+
+
+Ladislava: Five years ago, during the attack on this place, you allowed me to join your side. Since then I've risen through the ranks, and now I'm a general leading my own army. In this invasion of the Alliance, I've been entrusted with maintaining the supply lines and keeping the Goneril territories under control. That's why I won't be accompanying to Derdriu. Please look after Lady Edelgard.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Derdriu is known as the Aquatic capital... It's a beautiful town with streets that seem to float on the water and an impressive harbor. In times of peace, it would be a wonderful place for a holiday... Anyway! Best of luck in the next battle!
+
+@Intro 
+Edelgard: It's almost time to depart. Are you ready?
+Byleth: Leave it to me.
+Edelgard: A promising answer. Whatever happens, never allow your foe to see any weakness.
+Byleth: I don't think we can win.
+Edelgard: I agree that Claude will prove a difficult foe. Still, do not speak such words right before a battle.
+Edelgard: We must pay attention not only to Claude's schemes but to the man himself. He's a master archer who wields the legendary bow Failnaught. He won't fall easily.
+Byleth: Failnaught...
+Edelgard: It's the Relic of House Riegan. That bow once belonged to one of the 10 Elites. Professor... Do you know the true story behind the legend? The Relics were created by the hands of mankind. Seiros collected them after killing the 10 Elites. Seiros manipulated the people of the world and defeated the all-powerful King Nemesis.
+Byleth: I thought he was corrupted by his power?
+Edelgard: That's the history the Church of Seiros maintains. However, it was little more than a simple dispute.
+Byleth: Why would she do that?
+Edelgard: The church maintains the false history that he was corrupted and turned evil. However, it was little more than a simple dispute.
+Edelgard: Should the one leading the people of the world be someone with humanity or a creature that can merely masquerade as a human at will? In the end, Seiros was victorious. The Immaculate One and her family then took control of Fódlan. I know this because that knowledge is passed down from emperor to emperor. And that is the because the first emperor is the human who cooperated with Seiros, allowing humanity to be controlled in secret.
+Byleth: ...
+Edelgard: Perhaps it's fate that you can wield the Sword of the Creator, just like Nemesis, the King of Liberation. And that very fate will lead you to use that sword to stand against those who would distort history.
+
+Claude: It seems they've set out from Garreg Mach... That's sooner than expected. Losing the Great Bridge of Myrddin was a serious blow. So is the fact that Teach is still alive. On top of all that...Judith. I told her to run if things looked grim. Damn it. So many people will die, and by my call.
+Nader: And what of it? Would you rather turn tail and run back home?
+Claude: Nader... You're really getting on my nerves. Do you have any idea how much of the Alliance adores me and believes in me?
+Nader: Well, I suppose it's quite a lot. Does that mean that...
+Claude: Yes. The plan is a go. I'm counting on you, Nader. We'll make a good show taking down those who would assault Derdriu.
+Nader: People say our kind may not always win, but we never lose. Let's teach them the real meaning of those words.
+
+Claude: Now then... Let's see what you're made of, Teach...
+
+@Opening 
+North of the Great Bridge of Myrddin, the Imperial Army passes through the allied territory of House Gloucester and invades the land of House Riegan, which leads the opposition. They move to attack Claude in the capital, Derdriu, where the leader of the Alliance awaits their arrival.
+
+After seizing the Great Bridge of Myrddin, the Black Eagle Strike Force makes its way to Derdriu, the Aquatic Capital, where Claude awaits.
+
+@Battle 
+Claude: Here she comes, at long last... I've done all I can to prepare. Let the cards fall where they may. It'll be a true test of strength.
+Edelgard: It seems Claude has blockaded the city and occupied the naval port.
+Hubert: Heh. If that is the case, he will have no choice but to engage us from there.
+Edelgard: Yes. Though putting myself in Claude's place leaves me with an unpleasant feeling... If we take over the port and close the entry to the city, Derdriu will be under our control. Each soldier should bear that in mind as they advance.
+
+Hubert: There are three gates which connect Derdriu to its naval port. Taking the city will be easy once we secure all three.
+
+Claude: Now it's our turn, Almyra's elite! Strike the flanks of the Imperial army!
+
+Claude: Those fangs and claws the Alliance fears so much will now be their salvation!
+Nader: Leave it to us, kiddo! My undefeated streak will live on. Another chapter in my heroic saga!
+Edelgard: That flag and banner... Is that the Almyran army? Ugh, you really did it, Claude!
+Hubert: This is no ruse. That is Nader, an Almyran general.
+Edelgard: Take care of them quickly! Especially those Almyran wyverns!
+
+Hubert: The Almyran reinforcements keep coming. We should try to eliminate Nader...
+
+Villager: We don't have the guts to resist anymore! Here...you can have this! Just please don't attack the city!
+Edelgard: I never planned to touch the city. Our target is the Alliance and their leader, Claude.
+
+@Boss
+Hilda: You didn't forget about me, did you? Maybe you should just let me go.
+
+%Byleth,Hilda
+Hilda: Professor! It's been too long. But now we're on opposite sides, huh? What a shame. I'm not going to hold back. I can't let down my dear old Claude.
+
+%Marianne,Hilda
+Marianne: I-I'm so sorry, Hilda. I...
+Hilda: It's OK, Marianne. These things happen in war.
+
+@Boss
+Hilda: It's been fun, Claude... Sorry to go so soon...
+Claude: Hilda! Why didn't you retreat?! I counted on you retreating...
+
+Lysithea: Don't expect me to go easy on you. Because I won't.
+
+%Byleth,Lysithea
+Lysithea: You are here as well, Professor? That is a shame...
+
+%Edelgard,Lysithea
+Edelgard: Lysithea. How unfortunate that a talented woman like you should throw her life away on a pointless battle.
+Lysithea: Ha, do not underestimate me. The fight is far from over, Edelgard!
+
+@Boss
+Lysithea: That's the last of my energy. If you're gonna kill me, make it quick. Fair warning though, I'll likely come back to haunt you. It's not like I've had an easy time of it, after all...
+^start
+Lysithea: You...want me to join you? The Alliance is over no matter what. The only thing left is to place faith in you and Edelgard. There's still so much I have to accomplish. Thank you for the second chance, Professor.
+
+Lysithea: Father, Mother... I'm sorry I didn't listen to you...
+^end
+
+@Boss
+Nader: It's been 30-odd years since I set foot on a field of battle. Here's a taste of my undefeated strength!
+
+%Edelgard,Nader
+Nader: The emperor continues fighting at the front line. Is the Empire short on troops?
+Edelgard: Unfortunately, I can't deny it. But then, I've heard the Almyran king does the very same. You have traveled far. I do hope it's for a king who would not only lead his army but fight at their side.
+Nader: Touché... Yes, he is that sort of king!
+
+@Boss
+Nader: Sorry, kiddo. It seems we'll have to withdraw...
+Claude: You've done enough, Nader. Just stay alive. We'll meet again one day!
+Edelgard: We have forced the Almyran forces to flee. I doubt they're expecting more reinforcements.
+
+Claude: Heh... So sad that our reunion should take place on the battlefield.
+
+%Byleth,Claude
+Claude: Teach... You should have chosen me instead of Edelgard. No point in whining about it now, I suppose. Sorry, but I'll be taking the win today.
+
+%Edelgard,Claude
+Claude: We haven't seen each other since Garreg Mach. You've grown lovelier than ever, Edelgard.
+Edelgard: You're not so unfortunate yourself. And as usual, you're here at a most inopportune moment.
+Claude: Well, I'm sure we have much more to talk about... But how about we settle things first?
+Edelgard: No objections here. Prepare yourself, Claude.
+
+%Jeritza,Claude
+Claude: Hey, how long's it been? Five years? Who'd have thought you'd end up as an Imperial general...
+
+@Boss
+Claude: Enough! You've bested me. If I die here, the Alliance becomes part of the Empire.
+Edelgard: Do you yield, then? You've never known when to give up.
+Claude: Well, I can't just surrender so easily. I'm responsible for the others. If you're as smart as you seem, I bet you've figured out why I was able to summon Almyran reinforcements. Wouldn't it be better to let me go and have me in your debt?
+^start
+Claude: Thank you, Professor. And you, Edelgard. I'm truly grateful for your courageous decision. I will return your kindness one day... I promise. 
+
+Claude: I see. Right until the very end, I've read this whole thing terribly wrong... All my hopes have fallen to ash... It's all up to you now, Edelgard... I really hope you do make the world...better... 
+^end
+Edelgard: Everybody! Raise your voices in a victory cheer! Derdriu is ours!
+
+@End 
+^start
+Claude: Hey, Teach.
+Edelgard: Claude?!
+Claude: Settle down, will you? You're the victor, after all. I could have escaped, but I decided to say hi to Teach. Nothing to worry about. Derdriu has fallen and the Alliance has collapsed. There's nothing I could do to turn things around at this point.
+Edelgard: You want me to drop my guard around someone who evaded detection by my soldiers? Impossible. Did you really risk coming here just to say hello?
+Claude: I did. But mostly, I wanted to say good-bye. I'm leaving Fódlan.
+Byleth: Why are you leaving?
+Byleth: Lend us your strength.
+Claude: Lend you my... I knew I liked you, Teach!
+Claude: I daresay Fódlan would be a lot more peaceful without me around. Right, Your Majesty?
+Edelgard: It's as you say. So long as you remain here, the faction of the Alliance that is against the Empire will continue to support you.
+Claude: Too true. It's best if I leave this place altogether. I'll just have to find some other way to pay back my debt to you. All I ask is that you go easy on the Alliance. After all, no one there would dare defy you. And please, treat my former classmates well. I've asked them to cooperate with you if I lost.
+Edelgard: Wait... Did your scheming include a plan for if the Alliance lost?
+Claude: Heh, you think too highly of me. It just seems that way now. Outside of Derdriu, most of the Alliance is unscathed and ready to join your superior strength. In all honesty, I was hoping to become a supreme ruler and lead Fódlan to peace myself. But...that won't be happening now.
+Edelgard: Claude...
+Claude: Good luck to you, Edelgard.
+Edelgard: We crushed him in battle and yet... He really is difficult to understand.
+
+Edelgard: Derdriu is ours. The Alliance has collapsed, and their leader has fallen.
+Byleth: Did we really have to kill him?
+Edelgard: If Claude had lived, the faction of the Alliance that is against the Empire would have never stopped fighting us. To keep the bloodshed to a minimum, he had to be taken out of the equation. However, now that it's over, I can't help but wonder if he was in complete control of that entire situation. What will become of the Alliance without him... He must have taken that into account. Without the rule of House Riegan, and with most of the territory left unscathed, the Alliance will undoubtedly ally itself with the Empire. The citizen's lives will be saved from ruin, and no more blood will be shed. Perhaps that's what he wanted from the start...
+Byleth: That sounds like Claude.
+Edelgard: Of course, if his plan here in Derdriu had worked and I had lost my life...the opposite would have come to pass. The Empire would have rushed to the Alliance without further conflict. No matter how the battle unfolded, Claude secured the shortest, most peaceful possible outcome.
+^end
+Hubert: Lady Edelgard, Derdriu is now completely under our control. As planned, the Alliance's affairs will now be overseen by Count Bergliez.
+Caspar: My father is coming here? First west, than east... You sure keep him busy.
+Hubert: Should the others return to the monastery and prepare to face the Kingdom?
+Edelgard: Yes. Thank you, Hubert. Thanks to all of your efforts, our battle with the Alliance has reached its conclusion. However, we still can't afford to be careless. We must now join the battle against the Kingdom. With the strength of the church on their side, they will prove to be a formidable enemy. More than ever, your support is invaluable. We'll need it in the days to come. But for now, let's enjoy our triumphant return!
+Caspar: Let's get to it!
+Dorothea: I'm so happy that the end of the fighting is near. Too bad there's still more violence to come...
+Petra: The Kingdom and the Church of Seiros are worthy for fighting. I will crush them into very small pieces!
+Linhardt: Crushing wouldn't yield a lot of pieces, but I guess it would get the job done. With the Professor we can't lose...probably.
+Bernadetta: Oh no, are we fighting Lady Rhea? But she's scary! And she'll be really angry! But no way she can stay in her spooky beast form all the time...right?
+Dorothea: If she could, she would have come and attacked the monastery as many times as she wanted.
+Ferdinand: It may be wishful thinking, but perhaps it is a power that she can only access when the situation is dire. But whether she is the archbishop or the Immaculate One, we cannot be stopped! Half remains, but half is finished... We are certainly moving forward.
+Hubert: No one can stop us from pushing forward. No one.

@@ -1,0 +1,361 @@
+@Opening 
+The Kingdom Army has reclaimed the kingdom capital and plans to immediately begin restoring the country and its forces. But an unexpected request arrives from Claude, leader of the Leicester Alliance. Dimitri promptly responds to the request for aid, and he rushes to prepare the kingdom's forces.
+
+Having allowed the Imperial army to invade, the Alliance army makes their last stand at the center of House Riegan territory in Derdriu. The Kingdom army rushes to their aid after amassing more troops.
+
+@Dialogue 
+Dimitri: We have received a request for aid from the Alliance. They are being invaded by the Empire. We have only just taken back Fhirdiad, and yet I am already asking all of you to move out once more. Please accept my apologies for that.
+Ingrid: That's no problem at all. More importantly, how is the Alliance faring?
+Dimitri: House Riegan has rallied the Alliance Lords. They are facing the enemy with all the strength they can muster. But we do not know how far that will get them. It seems the enemy's relentless attacks have forced them into a tough situation. Their defeat at Gronder severely weakened the Alliance. I imagine the Empire now intends to destroy them before they can recover.
+Gilbert: To think they'd watch us chase their soldiers out of the kingdom capital, then immediately go invade the Alliance... Their general is Lord Volkhard von Arundel. He serves as regent to the Emperor. He has presumably taken command after the Emperor was wounded in Gronder.
+Dimitri: He is known for his shrewdness and excels not only in domestic affairs, but tactics as well. He is not an opponent we should take lightly. Lord Arundel...
+Byleth: Are you concerned?
+Dimitri: I always suspected that Lord Arundel was behind the tragedy nine years ago. The timing of his departure from the kingdom, the fact that he abruptly stopped making donations... Too many factors made him suspect. If Lord Arundel conspired with Cornelia... then what Kronya and the others said five years ago...
+Gilbert: Hmm...
+Dimitri: Well, nevermind that for now. The Alliance needs our help. What are your thoughts?
+Gilbert: If we turn our back on the Alliance and then Derdriu falls, it will undoubtedly make our situation difficult further down the road. We would have enemies in two directions... in the Alliance to the northeast and in the Empire to the south.
+Dimitri: That is true. In that scenario, we would not be able to safely march our soldiers to Enbarr.
+Flayn: I'm terribly worried about Lady Rhea... but I believe we must save the Alliance first.
+Annette: Oh! Maybe if we do this, the Alliance will help us out in return! We could ask them to help us attack the Empire. You know, a sneak attack or something!
+Mercedes: Annie! When did you become so devious?
+Gilbert: Heh. What would your mother think.
+Annette: What? It wasn't that devious!
+Gilbert: What do you think, professor?
+Byleth: Let's march for Derdriu.
+Dimitri: Yes, I agree.
+Byleth: I support whatever Dimitri decides.
+Dimitri: We must go to Derdriu.
+Dimitri: I will admit that there is something to be gained for us as well, for when we eventually march south... But far more importantly... they need us. We cannot turn our backs on them.
+
+Dimitri: We will arrange to head out at once. Prepare yourselves, everyone.
+
+@Conversation 
+Dimitri: it was over 20 years ago... There was an illness raging across Fhirdiad. While people were dying left and right...it was Cornelia who saved the Kingdom from that dreadful illness.
+Byleth: I can't imagine it...
+Dimitri: Neither can I. By the time I was old enough to understand, that time had already passed.
+Byleth: Cornelia was a doctor?
+Dimitri: No, I her she was originally an Imperial scholar. She was in the Kingdom by my father's invitation.
+Dimitri: People praised Cornelia as a saint for ending the epidemic. But there came a day when she completely changed. Her behavior, mannerisms, likes, dislikes...everything. Despite all that, Father still appointed her to a high post. After all, she had saved the Kingdom from ruin by that disease... But above all, my stepmother trusted her. That's why what that woman said is... Never mind.
+
+
+
+Dedue: Lord Rodrigue Fraldarius has passed on. Margrave Gautier has assumed his position, and is now gathering the lords of the eastern territories. House Gautier is equal in prestige to House Fraldarius. Sylvain is a Gautier. These lords are reorganizing the Faerghus army, and eradicating any remaining factions that claim allegiance to the Empire. Of course, His Highness is being kept appraised with regular reports. But it falls to me to monitor him, and ensure he does not try to take on too much. I would ask you to do the same. If you take your eyes off that man, even for a moment, he is liable to do something rash.
+
+
+
+
+
+
+
+Ashe: The very same night we liberated the capital, a messenger arrived from Derdriu. Claude must have predicted that we'd retake it.
+Byleth: Definitely.  
+Byleth: Could have been a coincidence.
+Ashe: No, I don't think so. It takes too long to travel to Fhirdiad from Derdriu for it to be chance.
+Ashe: Claude's a hard person to read. It's obvious not much escapes his eye though. Kind of unsettling, honestly.
+
+
+
+Sylvain: Derdriu, the Aquatic Capital... I've heard it's a magnificent city, you know. If we're going, I wish it wasn't to wage war. It'd be more fun to visit with a cute girl on my arm.
+Byleth: Maybe once the war is over... 
+ Sylvain: You're right. That's something to look forward to.
+ Sylvain: Yeah? Maybe you and me? That'd be a good reason to survive the war. Heh heh...
+Byleth: Forget it.
+Sylvain: Aw, come on. let a guy dream.
+
+
+
+Mercedes: I went to visit my adoptive father at his home in the capital. He used to grovel at Cornelia's feet when the city was under her control. But after it was liberated, he started courting the Kingdom instead.
+Byleth: Whatever it takes to get ahead.
+Mercedes: I suppose he was just doing what he needed to survive...
+Byleth: That's despicable. 
+Mercedes: Absolutely. He's hopeless. I suppose when you're a merchant, that's all you know.
+Mercedes: No matter what becomes of the world, it'll always be plagued by people like him.
+
+
+
+Annette: Derdriu, huh? I've always wanted to go there. In Faerghus, most of the towns are pretty much glorified fortresses. So to hear about a place called the Aquatic capital... it just sounds so elegant! When the war's over, I hope I can visit with everyone there!
+
+
+
+Ingrid: So, House Riegan has regained its influence in the Alliance and is gathering forces. Claude always was somewhat inscrutable. It's strange somehow to hear talk of his brilliance as the leader of the Alliance.
+
+
+
+Ferdinand: I have been wondering something... If I had not been your student, where would I be right now? Who would I be? Do you ever think about that sort of thing, Professor?
+Byleth: Like what if I had led a different class?
+Ferdinand: Ah, so you do think about such questions. You can never find answers though, right? We cannot turn back time, so there is no way to back and try a different path.
+Byleth: Like what if I had allied with the Empire? 
+Ferdinand: Ah, so you do think about such questions. You can never find answers though, right? We cannot turn back time, so there is no way to back and try a different path.
+Byleth: No, I don't.
+Ferdinand: I see... You are so focused and coolheaded. I wish I could be more like you.
+
+
+
+Linhardt: Traveling to the Empire, to the Kingdom, and then off to Alliance territory... Everyone certainly is busy. Perhaps it's not a bad thing now that I think about it.
+Byleth: It's all in the pursuit of peace.
+Linhardt: Peace will be lovely. Peace will, one assumes, be considerably less perilous.
+Byleth: Yes, very busy. 
+Linhardt: If only we were only busy, then I think I would be fine. I'd be able to take a nap for one. But If I napped now, I suspect that I soon enough I'd find myself busy dying...
+
+
+
+Caspar: Didn't they used to call Claude the Master Tactician? I want a nickname too! Maybe I'll get one if I can rescue him at Derdriu... I'll come up with a plan that's even better than his and earn a nickname for sure!
+
+Bernadetta: Claude... Claude... Which one was he again? Oh! Right. Yeah, of course I remember him. It's just... I can't picture his face. Don't remember what he looks like. I'm not sure if I ever knew.
+
+
+
+Dorothea: Dimitri is going to Claude's aid. How great is that? It's like we've gone back to how things were five years ago. It's so nice. Just imagine if Edie was there too? I suppose you can't ever really go back to the way things were in the past...
+
+
+
+Petra: I am being told you can see the sea from Derdriu. Not just see...that it is right there in front of you. In Brigid, the sea has great closeness. I would be looking at it every day. But in Garreg Mach, we cannot look at the sea. So I am feeling...drawn to Derdriu.
+Byleth: The ocean is frightening. 
+Petra: That is true. The ghosts of the sea have vengeance in their hearts. If they are wanting to take you, you cannot be saved.
+Byleth: The sea is beautiful.
+Petra: Yes, I think the sea has much beauty. But can also be frightening.
+
+
+
+Lorenz: It seems Dimitri has become downright charitable. But I believe he is operating under a serious misapprehension. It may appear as if Claude is appealing to Dimitri for aid, but that is not what is happening here.
+Byleth: Another one of Claude's tricks?
+Lorenz: That's not it either. I see it got by you as well.
+Byleth: Did he not actually ask for help?
+Lorenz: That's not it either. I see it got by you as well.
+Byleth: Is there another interpretation? 
+Lorenz: Yes. A fine example of how snap decisions based on mere appearances can lead to gross misunderstandings.
+Lorenz: Claude has asked for reinforcements from here because he knows I am here. Simply put, he is not throwing himself on Dimitri's mercy. He is throwing himself on mine. I suppose there is nothing else for it, is there? We cannot turn our backs on those in need. Let us grant him the aid he requires.
+
+
+
+Raphael: We're going to go help Claude? I haven't seen him in forever. Wonder how he's been... I chose this side because I believe in you, Professor. But it's not like I got anything against Claude.
+Byleth: What was he like?
+Raphael: Hmm... Well, he loved parties, and he was full of some pretty good jokes!
+Byleth: Were you close? 
+Raphael: Of course! Claude was the kinda person who would be instantly friends with anyone.
+Raphael: I got no clue what'll happen to the Alliance, but I sure hope Claude doesn't die...
+
+
+
+Ignatz: So, war finally comes to the Alliance territories. I don't mean that there's never been fighting on Alliance soil, of course. There have been countless skirmishes between neighboring lords, as well as conflicts with Almyra. But this is an invasion by an army of the Empire. It's a whole different animal. I don't want to see my family get dragged into this... I hope we can drive back the Empire.
+
+
+
+Lysithea: The pro-Imperialist lords who've let the Empire in have their hands tied. Houses Ordelia and Gloucester are exposed and likely caught off guard. That must mean that Claude's allies are...
+Byleth: Duke Goneril.
+Lysithea: Geographically, it would be hard for him to commit his forces, and logically, it wouldn't make sense for him to offer support.
+Byleth: Margrave Edmund.
+Lysithea: Margrave Edmund does not commit troops as easily as he commits funds, so that's doubtful.
+Byleth: Count Daphnel. 
+Lysithea: Without a doubt she is providing reinforcements. She has always supported Claude.
+Lysithea: Whatever the situation, Claude's military strength is lacking, and what's more, they suffered casualties at Gronder Field. I don't know how long the Alliance forces will be able to hold out against the Empire. We've got to move quickly or we may be too late.
+
+
+
+Marianne: I'm glad Dimitri and Claude don't have to fight one another... I am the daughter of an Alliance lord though, so I suppose that goes without saying. Having to fight with your former classmates is just so terribly sad...
+
+
+
+Hilda: We took Fhirdiad back, but I never found the time to go shopping there! When the war's over and the city is revitalized, I'd like to visit again. Will you come with me, Professor?
+Byleth: All right. 
+Hilda: Really? Oh, I'm so glad! Although I suppose we have bigger things on our plate, like...
+Byleth: Shouldn't we be more worried about... 
+Hilda: Claude! He's in big trouble. I bet my family is too. We have to help them, Professor! I know we can't lose with you on our side!
+
+
+
+Leonie: Guess this doesn't end with liberating the Kingdom capital. Derdriu is next. That prince really works his people hard, doesn't he? Or should I be calling him a king now? Whatever the title is, he'll always be Dimitri to me.
+
+
+
+Seteth: I thought there was a chance that Cornelia had captured Lady Rhea, but it seems that is not the case. Our next foe, Lord Arundel, was once a pious adherent to the Seiros creed. His contributions to the church stopped quite abruptly some time ago. I think it is likely the man knows something.
+
+
+
+Flayn: You plan to aid Claude, do you not? I think that is absolutely marvelous. Being opposing forces at the battle of Gronder was ill fated. It hurts to side against him. I am happy that things have taken a brighter turn now.
+
+
+
+Hanneman: Cornelia Arnim... That's a familiar name, yes. She once studied in the Empire. My understanding is, shortly after I left the Empire, she did as well. Unlike myself, Cornelia traveled to the Kingdom. Apparently she halted a plague, and was rewarded with a quite powerful appointment. That such a an outstanding researcher should fall to such depravity... Sickening, Professor. And quite sad.
+
+
+
+Manuela: Remember the Death Knight who stabbed me five years ago? Of course you do. How could you forget? Well, it turns out he's a general in the Imperial army, claiming victory on dozens of battlefields. But it looks like he's not at Derdriu. Like every man in my life, he's run away from me... And he better run! One day, I'm gonna find that guy and pay him back for what he did to me!
+
+
+
+Gilbert: With the capital recaptured. I desire to call him Your Majesty rather than Your Highness. He would refuse my desire, rightfully pointing out that he has not, as yet, been crowned. However, the day this war has ended, and the church has placed the crown upon his head... Then, he will truly be our king, and I will call him Your Majesty at last. I must go hear the reports from our spies. There is something worrying me and—No. I can wait. I shall tell you more when our information is more concrete.
+
+
+
+Alois: I was getting excited for our big Empire showdown! I spent so much time mentally preparing. Then we shifted focus to Derdriu. I hadn't been expecting that. But, as a knight who's sworn to serve the goddess, I cannot turn a blind ear to those who seek my aid.
+
+
+
+Catherine: We're still searching for Lady Rhea. No news on that, I'm afraid. Lord Arundel, the emperor's uncle, is the regent of the Empire. If we crush them at Derdriu, maybe we'll capture him and wring some clues out of him.
+
+
+
+Shamir: Claude, eh? He always was sharp among his peers. Never let himself get caught up in conventions. He wasn't typical in Fódlan. I'd like to save him if we can.
+Byleth: We'll make it in time.
+Shamir: I know. And I'm sure he's already calculated exactly when that will be.
+Byleth: He's too determined to die. 
+Shamir: Heh. You may be right.
+
+
+
+Cyril: Ugh, even if we do enter Alliance territory, we're not gonna find Lady Rhea there. I wish we could leave Claude be and go attack the Empire. I suppose if we can't beat the Empire forces here, then we can't get into the Empire lands, can we? I guess that means it's just hard work time, huh, Professor?
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Derdriu is known as the Aquatic capital... It's a beautiful town with streets that seem to float on the water and an impressive harbor. In times of peace, it would be a wonderful place for a holiday... Anyway! Best of luck in the next battle!
+
+@Intro 
+Alliance Soldier 1: The citizens of Derdriu have all been evacuated and are now at sea! Are you sure about this? If Derdriu were to fall, those ships don't have enough resources for --
+Claude: Derdriu won't fall. Have some faith in me, will you?
+Alliance Soldier 1: Oh! Yes, sir!
+
+Alliance Soldier 2: Our line of defense has been broken! The Imperial army will be here any moment!
+Claude: Understood. You two join up with the troops in the city.
+Alliance Soldier 2: Yes, sir! 
+Claude: Judith, are you ready?
+Judith: As ready as I'll ever be. It's been years since I last battled in the city streets.
+Claude: Don't go messing up because your vision has weakened with age. Take the defensive for now.
+Judith: Yeah, yeah, I get it. You hang in there, too, boy. Your wounds from Gronder Field haven't fully healed yet, have they?
+Claude: No, but it's not like I can sit this one out. I have to make my daring escape, after all. And for the last time, stop calling me boy! That's an official order from the leader of the Alliance.
+Judith: Understood, Leader Man. I wonder if our little ray of hope will show up... We fought on opposite sides at Gronder, didn't we?
+Claude: They'll come. You can count on it. If anyone can bring him back, it's Teach. Teach will talk, and he'll listen. But more than anything, I've their skill and abilities... I believe in them.
+
+Alliance Soldier 3: Claude! Reinforcements are coming from the west! Their banner is that of the Kingdom...
+Claude: What did I tell you? They're here. And just in time.
+
+
+
+Gilbert: It appears the Imperial army has already marched into Derdriu and engaged the Alliance. It seems the Imperial advance has been stalled by guerrilla skirmishes. The Alliance forces are holding out, but they won't last much longer...
+Ingrid: That must be Judith of House Daphnel who joined up with Claude's troops. To think Judith, a true hero, would find herself backed into a corner like this...
+Dimitri: It is not so. The Alliance has only drawn the enemy so deeply into the city to allow us to attack them from behind. Brilliant.
+Byleth: They're planning a pincer attack?
+Dimitri: I believe so. He put his soldiers into position purely on the belief that we'd come... I can't believe Claude would risk everything on that behalf. He has placed all of his hopes on us. Let's make sure we live up to his expectations, Professor.
+
+Dimitri: Here we go. Let's move!
+
+@Opening 
+Shortly after reclaiming the Kingdom capital, a request for aid arrives from Claude. To save the Alliance from ruin, you head to Derdriu, the Aquatic Capital.
+
+@Battle 
+Lord Arundel: The leader of the Alliance has managed to escape to the harbor, has he? Those rats resist in vain...
+Imperial Soldier: Your Excellency! There's an army closing in on us from outside. The banners...are those of House Blaiddyd.
+Lord Arundel: Blaiddyd? I see... That idiot failed, it seems. Hurry up and kill the leader of the Alliance. With him gone, Derdriu will fall.
+
+Dimitri: I will not let Claude die... Let's hurry to his rescue.
+Claude: Hey, you're late! Hurry up and help!
+
+Gilbert: Look. The Imperial army's supply corps. Attacking them now would be a fine plan.
+
+
+Imperial Soldier: The subjugation of Derdriu is complete. We will be joining the main army now!
+Claude: Ugh... They're showing up one after another... Nothing for it but to blockade the gate leading to the town. I don't want the enemy's numbers to increase any more.
+
+
+Hilda: Claude's nuts. Asking me to protect the bridge! That's so much responsibility. But the guy's so helpless, I feel sorry for him. So, I'll do what I can to protect him.
+
+@Battle-Talk 
+%Byleth,Hilda 
+Hilda: Professor! It's been too long. I was hoping you'd show up. Seeing you puts a spring in my step! Come on, time to 'em the Hilda treatment!
+
+@Battle 
+Hilda: It's been fun, Claude... Sorry to go so soon...
+Claude: Hilda! Why didn't you retreat?! I counted on you retreating...
+
+Judith: It's no good...we're surrounded. But I need to hurry up and rescue the boy... To get to the harbor, first we have to get rid of the enemy mercenaries. There's no other way.
+
+Judith: Thank you. That was a big help. I'll go and cover our leader!
+
+Judith: I guess my vision really is going! I slipped up... Don't you get yourself killed out there, boy.
+Claude: Judith! Stop calling me boy! I'm your leader... And I told you not to die...
+
+Imperial Soldier: Now! Hidden soldiers, attack!
+
+
+Claude: I missed that face! And you're just in time. Thanks for that. 
+
+@Battle-Talk 
+%Dimitri,Claude
+Dimitri: You're OK... Can you still fight, Claude?
+Claude: You barely snatch me from the jaws of death, and now you're recruiting me! You sure know how to inspire loyalty, Your Majesty. Sadly, I'm not free to move here, for many reasons. You'll have to repel the Empire without me...
+
+%Byleth,Dimitri
+Claude: Professor, if you had chosen me instead of Dimitri... No. I shouldn't dwell on it. I'm grateful you came. I'm glad to have your strength, if only for today. 
+
+@Battle
+Claude: My plan failed... Teach. Dimitri. That's enough. Time to retreat. I've crossed one too many bridges... It's a shame, but... It's over now...
+
+@Boss
+Lord Arundel: Clever. I can't believe they pushed through to here. Nothing is more foolish than dying in vain. Let's get to the harbor and finish off the leader of the Alliance! 
+
+Lord Arundel: Nothing bites so hard as a cornered rat, eh?
+
+%Dimitri,Lord Arundel
+Lord Arundel: You would raise a weapon against your uncle? You've grown into a savage of a man, just like your father.
+Dimitri: You are rather calm for one in your position. Or did you forget that this is a battlefield? Perhaps this is no time for words, Uncle. There will be time for that after we have settled things here.
+
+@End 
+Dimitri: Uncle, I need to know. The incident nine years ago ... You were involved, weren't you? You know something. What did Cornelia... No. What did my stepmother do?!
+Arundel: You are not qualified to look into the darkness... You and Edelgard... Do your best to kill each other... You are family, after all. There it is... the light...
+
+Dimitri: He's dead. There goes our chance to gain more information. Then again, even if we had managed to capture him alive, judging by the way he was acting...
+Byleth: For now, let's rejoice in our victory.
+Byleth: We can think about that later.
+Claude: Teach is absolutely right. We should take this rare opportunity to let off some tension.
+Dimitri: It's been a long time, Claude. I am glad to see that you're safe.
+Claude: Same. I haven't seen you since the nightmare that was Gronder. You really did come to help us... You must be a bunch of soft-hearted suckers, eh?
+Dimitri: If you really felt that way, you would not have set up a defensive battle in the hopes that we would come. It worked out, only because we made it in time... Were you really so confident that we would answer the call?
+Claude: Of course. I knew you wouldn't hesitate to put yourself second and come running to our aid.
+Byleth: You know him well.
+Byleth: How insightful.
+Claude: You and I are cut from different cloth. I wouldn't make a move unless I could gain something from it. You've always been just the opposite. And of course, I've always been fond of taking dangerous risks. After all, I sent that express messenger before you had even recaptured the kingdom capital. If all went to plan, I knew you'd recapture it soon, and then respond to our request for aid. It was riskier than usual, I'll give you that. But it was the only card I had to play, so I took the gamble.
+Dimitri: You cross too many dangerous bridges for my liking.
+Claude: I know, I know. But... that ends today.
+Dimitri: What do you mean?
+Claude: Here, take this. Use it however you see fit.
+Dimitri: The legendary bow, Failnaught... Isn't this the hero's relic of house Riegan? Hold, Claude. This must be one of your jokes. You cannot truly intend to part with this...
+Claude: It's not a joke. As of today, the Leicester alliance is no more.
+Dimitri: Just what are you planning, Claude?
+Claude: If you're going to lead Fódlan, then the alliance Lords will follow you. Back in the day, the Alliance split off from the kingdom. I'm just putting us back together again. Oh, and I've already gained the support of the other Lords at the roundtable conference, so you can stop looking at me like I'm crazy. All that's left for me is to officially step down as the leader of the Alliance.
+Byleth: What will you do now? 
+Byleth: Will you join our army?
+Claude: Hold your horses there, Teach.
+Claude: I'm leaving Fódlan. There are things I have to do. Dreams I need to see to fruition. That's why I became the Alliance leader to begin with, actually. But it left me no time for what I was really after. You'd better not take on too many responsibilities yourselves, or else you'll end up in the same boat. And remember... both the living and the dead cling to us without any regard for our own lives. It's up to us to break free of that weight and follow the path that we believe in.
+Dimitri: Claude...
+Claude: Oops! I almost forgot the most important thing. If you're looking for Rhea, apparently she's being held captive in the imperial capital. It doesn't sound like they intend to kill her, but there's no telling what they're planning.
+Dimitri: You have my gratitude, Claude.
+Claude: Gratitude? Thanks but no thanks. As far as I'm concerned, we're even now. I don't know how many years will pass until then, but let's promise to meet again. And when we do... don't be too hard on me, your Kingliness.
+
+Felix: Well, Dimitri? Are you finally going to tell us the damned truth?
+Dimitri: What are you talking about?
+Ashe: Didn't Lord Arundel say something about you and Edelgard being family?
+Ingrid: To claim that the king and the emperor are related... Could it be?
+Dimitri: Ah, I suppose I never told you, though I do recall mentioning it briefly to the professor... Lord Arundel spoke the truth. My stepmother was Edelgard's birth mother. Political turmoil drove my stepmother out of the Empire. Father fell in love with her at first sight and they married. I lost my birth mother before I was old enough to remember her. My stepmother filled that role for me. But she lost her life in Duscur nine years ago, along with Father.
+Felix: Hang on, I didn't even know she was your stepmother. Did my father know about this?
+Dimitri: Yes. All those who were close to my father knew, including Rodrigue. But to speak openly about it would have caused a scandal, and so she was our secret. No one in the general public knew about her. Naturally, the fact that Edelgard and I are stepsiblings was kept a secret as well.
+Mercedes: I'm finally beginning to understand what you went through five years ago. I mean, Edelgard is the only family you have left, isn't she? To find out someone so precious to you is actually your most hated enemy... How heartbreaking.
+Annette: But wait! You two were born and raised in two different territories, right? So you probably never met until you were both at the academy. I mean, don't get me wrong, I think the idea of fighting family is just about the worst thing ever. But hopefully the fact that she's a stepsister you never really knew helps with the pain... I don't know, it was just a thought.
+Dimitri: I am afraid that's not the case. Though it was only for a short time, Edelgard once called Fhirdiad home. It was a long time ago, but she was a cherished friend of mine.
+Sylvain: Wait! I remember now! She was that girl, wasn't she? The one you gave a dagger to! Heh, so your little girlfriend was Edelgard.
+Dimitri: Sylvain. If you have any more foolish things to say, please hold them for later.
+Sylvain: I do have a few more up my sleeve, but they can wait. Go on, Your Highness. This is important for us to hear.
+Felix: She may be a hated enemy now, but the emperor is your old friend and stepsister. Can you bring yourself to kill her?
+Dimitri: I will kill her... if I must. But if there is any chance that the world she seeks to create could be a just one... Then I... I would love to see a future in which I may reach out my hand for her and have her reach back. That said, I have no intention of letting my personal feelings cloud my judgment. Too much is at stake.
+Ashe: Your Highness... I think you should meet with the emperor and at least try to talk to her. If there's any hope of ending this war without more bloodshed, we have to try. Besides, killing your own family... I'm sorry, but it's not right.
+Dimitri: I...I think so too. And you are right that we should at least try.
+
+
+Edelgard: I see. So my uncle's defeat is beyond doubt?
+Hubert: Yes, Your Majesty. I have confirmed it via countless channels. I advise that we accept this as a drop of joy amid a pool of sorrow.
+Edelgard: Pretty words, but I'm afraid we can't rest until the joy outweighs the sorrow. And for that to happen, it now seems we must confront them all at once. Dimitri, who took back Fhirdiad... Claude, who managed to protect the Alliance...And that professor, who is successfully mobilizing the Knights of Seiros...
+Hubert: What will you do, Your Majesty?
+Edelgard: Pull back our forces. In the west, to Arianrhod. In the east, to—
+Hubert: Fort Merceus, I presume? There is no better place for such a confrontation after all.
+Edelgard: Indeed. And dispatch the Death Knight to guard it. He can buy us some time. In the meantime, I will—
+Hubert: Forgive me, but I must speak bluntly. I do not agree with what you intend to do. Though slight, there is a chance that once done, it cannot be undone.
+Edelgard: Even I cannot choose the direction my path leads me. There is no other way. And so, I must walk on.

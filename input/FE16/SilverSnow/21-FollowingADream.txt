@@ -1,0 +1,330 @@
+@Opening 
+The ambitions of those who slither in the dark are forever shattered with Shambhala's destruction. But in the process, Rhea is grievously injured. What fate awaits her, and who will bear the weigh of Fódlan on their shoulders?
+
+@Dialogue
+Rhea: Ugh…
+Cyril: Hang in there, Lady Rhea
+Seteth: She needs help! Hurry!
+If Manuela was recruited:
+
+Manuela: That's a serious injury… It's a miracle that she's even alive right now. I'll do what I can, but…
+Seteth: Five years ago, when this place fell an enormous white creature appeared on the battlefield. It was the Immaculate One... Rhea.
+Byleth: She tried to save me…
+Seteth: What? You already knew Rhea's true identity?
+Byleth: Thinking back, I suppose so.
+Seteth: I see. In the past the children of the goddess were all able to change their appearance, just like the Immaculate One. I lost that power long ago, but it seems Rhea has not.
+Byleth: You're one of the children of the goddess?
+Seteth: Is it not obvious? Flayn and I both are. We have protected Garreg Mach, and all of Fódlan, for a very long time. But now... the light of Rhea's life is on the verge of disappearing from this world. It is flickering... I do not know if she can be saved. Even if she is, I wonder if she will remain unchanged...
+Flayn: Professor. Are you able to carry on Rhea's work. As the protector of Fódlan and as leader of the people who live here... You must defend the people. Guide them and teach them. Join their hearts and spread peace across the whole of the land.
+Seteth: It is not as though you must become the archbishop. But Fódlan needs leadership it is up to you to govern this war-torn land.
+Byleth: I...
+Seteth: You need not reply right this moment. We will strive to heal Rhea as best we can.
+Flayn: Perhaps it would help to seek counsel from our friends at the monastery about this matter.
+Seteth: I agree. When your mind is made up, please speak with me. I would ask that you give me your decision in the presence of Rhea herself.
+
+@Conversation 
+Ferdinand: Well done, Professor. We have brought the war to a magnificent conclusion. The Empire, Alliance, and Kingdom are no more. Nor are there any factions that could blindside us and cause conflict. Now it falls to us to rule Fódlan, and bring about an era of peace and prosperity. You would be a fine choice for the first ruler of this new era. I sincerely believe that.
+Byleth: Thank you. 
+Ferdinand: So, your heart is already set on it! Excellent! In that case, congratulations are in order.
+Byleth: I'm not sure.
+Ferdinand: Well, if you are unsure, what does that say about everybody else's chances?
+Ferdinand: I will follow you, Professor. I aim to be a great and respectable noble.
+
+
+
+Linhardt: Congratulations on a job well done, Professor. I do hope Lady Rhea is well? Is it true what I heard? You will be taking over her post? Would that make you archbishop? Or higher still? Am I in the company of the future ruler of Fódlan?
+Byleth: Either would be a hassle. 
+Linhardt: I agree! Imagine all that responsibility. Until now, you've always fought with all of us by your side. Bring ruler would be a much lonelier job, though I am certain you would excel.
+Byleth: The latter. I will rule over Fódlan.
+Linhardt: So you've already decided... Such proactive thinking is the hallmark of a good ruler.
+Linhardt: Me? I have no interest in a leadership role. I'm happy to spend the rest of my days studying...and napping.
+
+
+
+Caspar: All... RIGHT! We did it, Professor! We really gave it to 'em out there! With all the fighting and hardships, I don't know how we did it... But I'm glad we made it through together!
+Byleth: Me too. 
+Caspar: Now all we gotta do is make you the new ruler! That's gonna be a fun coronation!
+Byleth: It was a lot to push through.
+Caspar: Sorry if I made your life more difficult! None of that matters anymore though, right? Now all we gotta do is make you the new ruler! That's gonna be a fun coronation!
+
+Bernadetta: Phew... It's all over, Professor. Though I am worried about Lady Rhea... But still, Fódlan is united, and those terrible people lurking in the dark have finally been destroyed. Looks like it's the dawn of a wonderful new era...of blissful seclusion for Bernie!
+Byleth: That won't do.
+Bernadetta: Wh-what? Why not?! Hey, that better not be your first official decree! You're going to ask for my help again, aren't you? Oh, why?
+Byleth: Suit yourself. 
+Bernadetta: Woo-hoo! You finally did it, Bernie! Now take your reward of eternal peace and quiet!
+
+
+
+Dorothea: Finally! An end to the fighting. Have you ever felt happier? I've worried that I might not live to see this day, but here we are, and everything is going to be OK, isn't it? Huh, my heart feels like it's ready to burst. I'm so full of happiness, yet I feel a sense of loss too...
+Byleth: We did lose a lot.
+Dorothea: Yes, we certainly did. But we managed to keep a great many things safe, as well.
+Byleth: We protected more than we lost. 
+Dorothea: I agree. I suppose if I think of those who are gone as the people who ensured our freedom...it hurts less.
+Dorothea: Please do what you can to keep the peace, so we never have to face such awful times again.
+
+
+
+Petra: War has been ended. I will now be returning to Brigid. I hope in the new Fódlan, Brigid can be accepted with friendship. When my professor becomes the leader, I think that will have a possibility. Please, choose well.
+Byleth: Same to you. 
+Petra: Yes. Now I must be packing.
+Byleth: I'm not sure yet...
+Petra: Is that the truth? I will be waiting for your decision. I will be packing while you are thinking.
+
+
+
+Felix: It's over. What will you do? I heard you intend to lead.
+Byleth: I'm not sure.
+Felix: You shouldn't need that long to decide. Make up your mind.
+Byleth: I'm more interested in what you'll do. 
+Felix: Well, if you do choose to lead, I might like to work for you. But first, I'll go back to the old Faerghus territory. Where my father and my old friends once lived. I need to pay respects, put flowers on their graves.
+
+
+
+Ashe: Well, it took a long while for us to get here, but we did it. The war is finally over. We've been through a lot together, haven't we? Let me just say, it's truly been an honor.
+Byleth: The same to you.
+Ashe: I'm flattered to hear you say do.
+Byleth: Oh, cut it out.
+Ashe: Hey, come on, I mean it! There's nothing to be embarrassed about!
+Ashe: For whatever it's worth, I think you'd make a great monarch, and I'd support you every step of the way.
+
+
+
+Sylvain: Ah, yow! She didn't have to slap me that hard. Oh, Professor, it's you. What's up? Need something?
+Byleth: Lover's quarrel again?
+Sylvain: I dunno if I'd call us lovers, exactly. Not yet anyway. It's was just a dinner invite.
+Byleth: Don't need anything, but... 
+Sylvain: Heh, you worried I might cause trouble again? Nah, I just invited a girl out to dinner.
+Sylvain: All fighting and no loving makes Sylvain a rusty boy. Well, I can get back in practice now. Peacetime is the best for love--nobody dying, nobody getting hurt...except me, apparently. If you're gonna be the ruler, you need to keep the peace going so I can catch up on my love life.
+
+
+
+Mercedes: I heard a rumor that you're going to take over for Lady Rhea!
+Byleth: It hasn't been decided.
+Mercedes: Oh, so the rumor was really true? I hope you accept. I don't think there's anyone else who could do it.
+Byleth: That's the plan. 
+Mercedes: So it's already been decided? That's very admirable of you, Professor.
+Mercedes: You have nothing to worry about. We're here to help you if you need anything at all! We'll support you no matter what path you choose to follow!
+
+
+
+Annette: Is Lady Rhea OK? She was quite weakened to start, and then she took all those heavy injuries... I don't want to imagine it, but what will happen if Lady Rhea passes away like this?
+Byleth: We'll cross that bridge if we come to it.
+Annette: I suppose you're right.
+Byleth: I'm sure she'll be fine. 
+Annette: Yes. I'm praying every day that she'll get well as soon as possible.
+Annette: Anyhow... You're going to be the ruler, Professor? It's so strange to think of, for some reason!
+
+
+
+Ingrid: Can it really be? Are we truly at peace? To think that my days will not be spent debating war tactics and preparing for battles. It doesn't quite feel real. Now that we are finally at peace, I'm not quite sure what to do with myself.
+Byleth: Just take it easy.
+Ingrid: That sounds...challenging for how easy it must actually be.
+Byleth: Maybe you should think about the future now. 
+Ingrid: Thinking of the future has never been my forte.
+Ingrid: As long as I have a routine in place for myself, I can find contentment.
+
+
+
+Lorenz: The day is ours, Professor. And this victory will ensure our names are immortalized in history. Or perhaps this is but the opening chapter in the tale they will write of our glory. After all, if you are to rule this reunited land, surely there is bound to be a place for me at your side?
+Byleth: Absolutely. 
+Lorenz: I read your mind, didn't I? Fear not! I will not fail to rise to the occasion!
+Byleth: Nothing's decided yet.
+Lorenz: Is that so? It seems to me that everyone has already assumed you would take the position.
+Lorenz: Regardless, your decision will have an impact on my future, so be sure to make it a good one!
+
+
+
+Raphael: Hey, Professor! I was just thinking I might go train. I know the war's over, but that doesn't mean I can stop working my muscles!
+Byleth: That makes sense. 
+Raphael: I'm glad you see it my way! I always knew you were a smart one!
+Byleth: You should work on other things too.
+Raphael: Really? I wouldn't know where to start, but...
+Raphael: There's no harm in keeping up with my training!
+
+
+
+Ignatz: After all that's happened to Lady Rhea, all of the stuff with Solon and the others, and everything that's happened with you, Professor... There's still a lot I don't understand. Please teach me, Professor--everything you know, everything you've learned.
+Byleth: OK. 
+Ignatz: Thank you, oh thank you!
+Byleth: If I get the chance...
+Ignatz: If it's at all possible, I hope you'll speak about it not just to me, but to everyone else as well. I think everyone should know what happened here. If we're going to build a new, united Fódlan...that's absolutely crucial.
+
+
+
+Lysithea: Those who slither in the dark will never harm anyone again. They're finally done for. Thank you, Professor. Finally, I feel some vindication for what I've gone through.
+Byleth: No, thank you, Lysithea. 
+Lysithea: Ah, Professor. Ever the modest one. I do like that aspect of you.
+Byleth: Keep up the good work.
+Lysithea: Uh, sure thing.
+Lysithea: As long as I'm of use here, I'm happy to stick around, Professor.
+
+
+
+Marianne: And with that, we can finally enjoy a time of peace. I'm honored to have fought by your side. Even if you haven't made plans yet, I know you'll do your best, whatever your future may hold.
+Byleth: You've grown much stronger.
+Marianne: If true, that's all thanks to you and our allies.
+Byleth: You've become quite the optimist. 
+Marianne: I never would've dreamed my heart could have grown this way.
+Marianne: Please let me know if there's anything more I can do.
+
+
+
+Hilda: Hey, Professor! The war is finally, really, definitely over now, right? We're not gonna find out there was some evil shadowy figure hiding behind the subterranean guys, are we?
+Byleth: Who knows.
+Hilda: Well, whatever. No matter what comes, I know we can triumph in the end!
+Byleth: I don't think so. 
+Hilda: Ah, that's good! Though to be honest, there's not much that would surprise me at this point...
+Hilda: I feel invincible! A nice perk of being your student, don't you think?
+
+
+
+Leonie: Well, we both made it. And we avenged Jeralt too. Can't say it gets any better than that. You've got a lot of work ahead of you, I hear. People want you to govern, don't they?
+Byleth: It's a hassle.
+Leonie: Yeah. Sadly, this isn't the kind of burden I can take off your hands.
+Byleth: It's a dilemma.
+Leonie: Well, at the end of the day, it's your decision. Just take your time. Think it through.
+Leonie: You've got to consider it carefully, so you don't have any regrets. Whatever you choose, though, just know that I'm here for you.
+
+Alois: We did it, Captain!
+
+Leonie: Make sure you've got no regrets.
+
+Alois: At last, the day is upon us. The captain would be pleased. Don't you think, Leonie?
+Leonie: Definitely. And he'd be proud of the professor too.
+Alois: It seems like our efforts have been rewarded. It was certainly a long, difficult struggle to get here.
+Leonie: It was. Oh, Jeralt... We worked so hard for this.
+Byleth: Uh, hello?
+Alois: Whaaaaaah!
+Leonie: Aaah! How long have you been standing there?!
+Alois: Er, ahem. Whether or not you choose to succeed Lady Rhea, we will forever be by your side.
+Leonie: Yeah. We'll be here no matter what you decide. But make sure you think it through. You don't want to have any regrets.
+
+
+
+Seteth: Well? Is your mind made up?
+Byleth: No.
+Seteth: I understand. Just know that we are applying all our power right now toward healing Rhea. You should take this opportunity to speak with everyone. I am certain it will do you good.
+Byleth: Yes
+
+
+
+Flayn: I have faith in Lady Rhea's convalescence, but even so, what she needs now is rest. And while she is recovering, somebody must watch over Fódlan. There is no one more fit to wear such a mantle than you, Professor. That is what I believe. I do not doubt the others feel the same.
+
+
+
+Hanneman: Shambhala... An underground city with an entirely different lineage than the goddess? Strange phenomena, driven by a source totally alien to the Crests that we understand. Most unsettling! Could it be magic? Some manner of technology? I would like to know the truth of it all. Very much so. I want to know their history, their knowledge. Why do you suppose they chose this place to occupy?
+Byleth: Well, I don't know.
+Hanneman: No, I suppose you wouldn't... It seems we will have to excavate Shambhala to know more. Although, I heard you will be the Ruler here? Should I ask your permission to proceed with the dig?
+
+
+
+Manuela: Life can be tough, you know? But if you've got your friends to help you through, it can be a lot easier. Maybe you butt heads sometimes...but that's OK. That's how you build bonds, right? And I've got friends, Professor. Plenty of those. It's true love that seems to have passed me by.
+Byleth: You should relax.
+Manuela: Relax? I'm relaxed.
+Byleth: There's still hope. 
+Manuela: But where is my true love to be found? Where is my ray of hope?
+Byleth: Time to give up?
+Manuela: Yeah… I'm starting to figure that's the most realistic option.
+If Byleth is male:
+Manuela: At this point, you're the only man who pays attention to me. I guess I'll have to take what I can get.
+If Byleth is female:
+Manuela: At this point, I'm just hoping you stay single too. Then at least we can share each other's misery!
+
+
+
+Alois: Jeralt... We've done it. We've finally brought this creaky old ship ashore. The fight was long and bitter, but finally...I can lay down my burden.
+Byleth: Uh, hello?
+Alois: Whaaaaah! It's you! Don't creep up like a ghost. Next time, announce yourself. Er, ahem. Whether or not you choose to succeed Lady Rhea, I will forever be by your side. You should live your life however you want. That's what the captain would say, I think.
+
+
+
+Catherine: Lady Rhea stopped the forces that threatened to destroy Fódlan. She's trying to realize her own dream of peace. Isn't that enough? Can't you let her rest? If you're the only person who's fit to replace her, you should just do it. I'm sure Lady Rhea wishes for that too, right? I can't think of anyone who's more well suited to the job.
+
+
+
+Shamir:The war's finally over... I have to admit, even I got a little emotional. Rhea's condition doesn't look good. There's nothing to do now but wait. More importantly, are you serious about becoming Fódlan's new ruler?
+Byleth: I'm not sure. 
+Shamir: It's pretty sudden. Either way, do what you think is best.
+Byleth: I am.
+Shamir: You made up your mind pretty quickly. Either way, do what you think is best.
+
+
+
+Cyril: Professor, do you figure Lady Rhea will be OK? She will, won't she? I don't care one bit who'll succeed Lady Rhea, 'cause nobody's gonna need to. She's gonna be happy and healthy again. You'll see.
+
+
+
+Anna: I can tell that things will settle down soon enough. Gotta get back to slinging wares and making moolah! And hopefully no more messes to spoil it after this...
+
+Gatekeeper: Greetings, Professor! Nothing to report! Say, how is the archbishop faring? The soldiers and citizens are all concerned! Just when we thought peace had finally arrived... What's to become of Fódlan?
+
+@Intro 
+Rhea: Sweet child... You have finally come... I am so happy. It does my heart well to see you here, safe and sound.
+Seteth: Have you made your decision, professor? Thankfully, Rhea has survived her trying ordeal. However... There is no telling how much longer her light will continue to shine.
+Flayn: Professor, have you decided? Will you become the next ruler of Fódlan?
+Byleth: ...
+Rhea: Before I hear your answer, I shall fulfill the promise I made to you. You will know the truth about your identity... I will hold nothing back. I... created you. And within you is the crest stone of the progenitor god... I hid the crest stone within your heart in order to revive her. Sweet child... I am sorry. I wanted to see her... see my mother... even if it meant doing that which is forbidden.
+Byleth: What does it all mean?
+Rhea: I thought that I could regain all I had lost, if only I could revive my mother... And so I tried to bring her back by creating a body, and then burying a crest stone within it. A young woman I created... my twelfth try after much heartache... was a failure. She grew up lacking the conscience of the progenitor God and fell in love with the captain of the Knights of Seiros. In time, she became pregnant... but she and the child were not able to survive the birth. The child she bore was not breathing, and she herself was in grave danger. The new mother pleaded with me to take the crest stone of the progenitor god from her own body and place it within the baby. If I had done nothing, both mother and child would have died. And so I granted her final wish. As she had hoped, the baby started breathing again... The new life was saved. Your life, sweet child.
+Byleth: ...
+Rhea: Well before that, I had saved Jeralt's life using the power of my blood. That means you are the child of a mother born of the progenitor God's crest stone and a father who carried my own blood. I knew, deep in my heart, that you would be capable of housing the conscience of the progenitor god. I was right... And yet, she merely gifted her power to you and then disappeared once more. My dearest wish did not come true… but here you are. You alone wield the power of the progenitor God. And now, I must ask you to use that power to save this world. You must...
+
+Rhea: What... No... Arrgh!
+Seteth: Rhea?! Rhea!
+Flayn: What is wrong? Please calm yourself, Rhea!
+Rhea: GRAAARGH!
+Seteth: Is the power of the crest taking over her body? Why is this happening?!
+Knight of Seiros: Seteth! It's terrible! White beasts have appeared all over Garreg Mach! It's hard to believe, but there have been reports that the priests and Knights have been changing form.
+Seteth: White beasts... Are they the ones Rhea shared her blood and stones with?
+Church Soldier: Seteth! Demonic beasts are heading this way!
+Seteth: They are after Rhea... Professor, our situation is dire. If we do nothing, Fódlan will be destroyed by a rampaging Immaculate One and these children of hers. There is only one way to stop this. We... we must... Damn it! We have no choice but to kill the Immaculate One... to kill Rhea!
+
+@Opening 
+Though showing brief signs of recovery, even Rhea's strength has its limits. Having changed form to The Immaculate One, she is unable to control her power. As if in Response, priests and knights who are directly related to Rhea by blood change into White Beasts themselves. Facing this unexpected threat, the resistance army prepares for its final battle to save Fódlan.
+
+With Shambhala in ruins, the five-year war is finally at an end and a new age of peace has arrived. Not long for this world, Rhea wishes to discuss Fódlan's future with you/you. But all is not well...
+
+@Battle 
+Seteth: It is kept secret, but there is a certain rite that all initiates to high office in the church must undergo. In this rite, one pledges to serve the goddess and in return, receives a Crest Stone fragment and blood. The ones who have transformed alongside Rhea just now are the ones who have accepted those gifts. They will shield Rhea--the Immaculate One, I should say--with their very lives. But if we do not strike her down, Fódlan will have no future. To arms!
+
+Seteth: Surrounded already, it seems. The White Beasts are those in whom Rhea's blood flows strongest. Until we get rid of them, we will not be able to so much as touch Rhea.
+Caspar: Damn. After all that's happened...why do we have to kill Lady Rhea?
+
+Bernadetta: Isn't the fighting already over?! Why do we have to do this to Lady Rhea?!
+
+Ferdinand: The Immaculate One. We cannot afford to lose here, whoever our foe may be!
+
+Seteth: Stop! Any damage to the Immaculate One will only be transferred to those beasts.
+Petra: It is seeming that my understanding of Fódlan tradition is...insufficient. What is happening?
+Seteth: It is too dangerous to approach her now. Capture the southern stronghold first to seal the beasts away!
+
+Seteth: They're coming one by one from the southern stronghold. If we do not capture it, there will be more.
+
+Seteth: Let us turn our attention to the Immaculate One.
+Dorothea: This is it. The final battle.
+The Immaculate One: Graaaargh!
+
+Seteth: Rhea?! Not even I have seen this form!
+Linhardt: Well, that's something, isn't it? A shame we must kill her. Consider the research potential...
+
+@Boss 
+%Seteth,The Immaculate One
+Seteth: I will inherit the pride of Nabatea. Rest in peace by Sothis's side!
+
+%Flayn,The Immaculate One
+Flayn: Rhea... How tragic. But there is no time to waste. She must be stopped!
+
+%Catherine,The Immaculate One
+Catherine: Lady Rhea... With my sword, I will put an end to your suffering.
+
+%Cyril,The Immaculate One
+Cyril: This is me, paying ya back. No matter what, I'll stop Lady Rhea!
+
+@End 
+Seteth: Rhea! Please!
+
+@Cutscene 
+Rhea: You're here, Mother...
+
+@Narration 
+A rising flame was alight as the flow of time carved a new history for Fódlan. Rhea's wild rampage was put to an end, averting what could have the greatest crisis in the history of Fódlan After five and a half years of war, a new age was set to begin. The Empire, Kingdom, and Alliance—all political structures that had once shaped the continent—were gone. A unified nation began to take shape under the watchful eye of the Church of Seiros. The church's new leader became a champion of the people, working tirelessly to help them overcome the horrors of war and to carve a path towards reconstruction. Just as Saint Seiros tended to those who suffered in wars of the past, Fódlan's new ruler embraced their role as mother of all life and arbiter of every soul.

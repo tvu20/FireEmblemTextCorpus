@@ -1,0 +1,184 @@
+@Opening 
+It is Imperial Year 1185. Nearly five years have passed since the fall of the monastery at Garreg Mach, and war continues to plague the lands of Fódlan. Fhirdiad has been captured. The Holy Kingdom of Faerghus is in shambles. The Leicester Alliance is on the verge of collapse, fractured by two opposing factions–those who support the Adrestian Empire and its ruler, and those who seek her demise. Meanwhile, under Emperor Edelgard's rule of law, the Adrestian Empire continues to expand its reach. The path to a new Fódlan, unified by Imperial strength, may yet be in sight.
+
+@Dialogue
+???: You… How long do you intend to sleep? Your body is awake. Your eyes must open now, and you must find the strength to stand upon those legs of yours. Like so much rain, a pool of blood has fallen to the ground… As spears and arrows pierce the earth, it weeps. And even now…it weeps. In order to survive, they kill. And so, the people of this world are lost in an abyss of suffering. They weep as well. The only one who truly knows the nature of such things is I… Or rather, you.
+Byleth: I'm still sleepy.
+???: You are a complete and utter fool! Have you not changed one bit?!
+Byleth: Who?
+???: Excuse me?! Are you saying you have forgotten who I am? How dare you!
+???: Get on your feet. Right now! I'll coddle you no more! You are just like a child, always needing me to hold your hand...
+
+
+Villager: Hey! A-are you awake?
+Byleth: Where am I?
+Villager: We’re in a village at the base of the monastery. What are you doing in a place like this?
+Byleth: Who are you?
+Villager: I’m just a villager here. What are you doing in a place like this?
+Villager: I honestly didn’t expect to find someone floating away down the river… Garreg Mach is upstream of here, but that place was abandoned.
+Byleth: What do you mean?
+Villager: Huh? You don’t know? The Church of Seiros isn’t there anymore. Though there have been some folks still living there in the five years since… Well, you know. Anyway, I’ve heard some thieves have been spotted around those parts these days.
+Byleth: Five years.
+Byleth: What year is it?
+Villager: Um, are you feeling all right? You didn’t hit your head or anything did you? It’s the Ethereal Moon of the year 1185. It’s been nearly five years since the monastery fell. Tomorrow was supposed to be the millennium festival, but who’s got time to think about things like that?
+Byleth: The millennium festival...
+Villager: Uh, yeah, that’s what I said. But with the war and the archbishop still missing and all… I doubt there’s a soul to be found who has enough blessings worth counting. Hey! Slow down, will ya? Where do you think you’re going?
+Byleth: The monastery.
+Villager: Are you crazy?! I told ya! They say thieves are running amok up there, and there’s plenty of other dangers too. I heard a rumor that Imperial troops went up there to investigate and got slaughtered. Every last one! Come on, I promise I won’t say you’re a coward. Just forget about going anywhere near the monastery.
+
+Villager: You just remember I tried to stop you, got it? It’s not on my conscience if you wind up dead!
+Byleth: My students are waiting for me.
+Villager: Students? You really are crazy, aren’t you? There aren’t any kids anywhere near that place anymore! Unbelievable…
+Byleth: No need to worry about me.
+Villager: Unbelievable…
+
+@Cutscene 
+Dimitri: I should have known...that one day...you would be haunting me as well.
+
+@Dialogue 
+Dimitri: You... What must I do to be rid of you? I will kill that woman, I swear it. Do not look upon me with scorn in your eyes!
+Byleth: What are you talking about?
+Byleth: Everything will be OK.
+Dimitri: ... You... It can't be! You're alive?! Hmph. If that is the case... That can only mean you are another Imperial spy. Did you come here to kill me? Answer the question.
+Byleth: Of course not.
+Dimitri: Ungh...
+Byleth: I'm glad you're safe.
+Dimitri: Am I?
+
+@Intro 
+Dimitri: ...
+Byleth: What have you been doing the last five years?
+Dimitri: I have been dead, more or less.
+Byleth: Why do you say that?
+Dimitri: What do you hope to gain, asking me that? There are more important matters at hand...
+Byleth: ...
+Dimitri: Do you not smell them? Filthy rats. Everywhere. And traces of those who were here long ago. And thieves, crawling from the woodwork, attracted by the promise of treasure. Heh… Since the monastery fell, order in the area fell right along with it. You must have seen the state of the town near Garreg Mach on your way here. Vile thieves run rampant. They pillage and loot to their heart’s content. I must kill them. Every last one. It’s time to hunt down their nest.
+Byleth: What do you plan to do?
+Dimitri: I told you. I will kill them all.
+Byleth: Even thieves are just trying to survive...
+Dimitri: It doesn't matter what their reasons are.
+Byleth: We don't have to kill them to stop them.
+Dimitri: They must die.
+Dimitri: Someone must put a stop to this cycle of the strong trampling the weak. Or do you condone their actions? Do you believe that the pillaging and slaughtering those rats live for is justified?! It is reprehensible, and they must be put down! I intend to give them a taste of the pain they have inflicted on others. Even if it means becoming a rat myself. I swore to at least do that much… I will not let them down…
+Byleth: How many thieves are there?
+Byleth: Can just the two of us hope to prevail?
+Dimitri: It doesn't matter. All that matters is killing those who deserve to die.
+
+Gilbert: Good work. I should have known to check the monastery. Let's move, quickly!
+Kingdom soldier: Yes, sir!
+Gilbert: Dimitri... I'm on my way.
+
+@Opening 
+In the Holy Kingdom of Faerghus, Imperialist loyalist Cornelia has subdued all regions of the former royal house of Blaiddyd to prevent further revolt. Prince Dimitri has been sentenced. Now, the backbone of the former Kingdom–Houses Gautier and Fraldarius–struggle to continue the resistance. Cornelia–operating out of the royal palace–has accepted the support of the Empire to build an army and plots to wipe out all remaining Kingdom forces.
+
+In the Leicester Alliance, House Riegan leads an anti-Imperial faction, while House Gloucester directs the Empire’s supporters. Despite the undeniable threat of fracture, the Alliance’s adept new leader, Claude, deftly maintains the outward appearance of a unified front.
+
+In Enbarr, the Imperial Capital of the Adrestian Empire, Emperor Edelgard fights to strengthen her regime. She has extended her reach to the Kingdom by inciting a coup and continues to draw its former lords under her influence in pursuit of controlling all of western Fódlan.
+
+In the meantime, the Knights of Seiros have been dispatched to find Archbishop Rhea, who remains missing despite their searching. Left unattended, the monastery at Garreg Mach has fallen to ruin…and become a haven for thieves.
+
+@Battle 
+Dimitri: It smells of blood and sewage. Seems I've found their nest.
+Pallardó: What the... Intruders! Protect the goods!
+
+Dimitri: Shall we go rat hunting? Don't let a single vermin escape!
+
+Gilbert: His Highness! And... Professor? We must speak later.
+Ashe: I know it's been five years, but I never expected the monastery to end up like this.
+Mercedes: Oh! I haven't seen any of you in such a long time! I'm so glad to see you're alive.
+Annette: We'll help out from here! It's over, thieves!
+Dimitri: Why... Why are you here?
+
+Sylvain: The monastery has become a nest of thieves.
+Ingrid: Professor! You're alive after all! But first things first–let's defeat these thieves.
+Felix: I'll lend a hand. We'll catch up later.
+Dimitri: Listen up. We must end this quickly.
+
+Dimitri: There are openings to the north and south. We'll split into two and tear them apart.
+
+
+@Battle-Talk 
+%Byleth,Ashe
+Ashe: We promised five years ago we'd meet here and now!
+
+%Byleth,Mercedes
+Mercedes: Getting to see you and everyone else again makes having to leave my family feel less difficult.
+
+%Byleth,Annette
+Annette: Long time no see, Professor! I always knew in my heart that we'd meet again!
+
+%Byleth,Sylvain 
+#avatar-M
+Sylvain: Where have you been the last five years? I was worried about you, and then I was just sad.
+
+#avatar-F
+Sylvain: Professor! Has it really been five years? You're as pretty as ever, and that's the only thing that matters.
+
+@Battle-Talk 
+%Byleth,Ingrid
+Ingrid: I'm glad we could meet again, Professor. It'll be nice to fight alongside each other. Just like old times.
+
+%Byleth,Felix
+Felix: Fancy meeting you here. A welcome surprise.
+
+@Boss
+Pallardó: No! I'm not the one you want! Gah! I guess I've got no choice.
+
+Pallardó: Ah, you should yield me a tidy profit!
+
+Pallardó: I have no longer any reason to be here. Good-bye and be well!
+Dimitri: Damn it, we failed to kill him...
+
+Pallardó: I thought it would be easy money... Maybe it wasn't...meant to be...
+Dimitri: ...
+
+%Dimitri,Pallardó
+Pallardó: It isn't looking good for us. Should we retreat?
+Dimitri: You didn't plan on letting him get away, did you?
+
+@End 
+Ingrid: Your Highness! Professor! I'm so glad you're both safe...
+Dimitri: Why are you here?
+Ashe: Did you forget? We all made a promise here on this very day five years ago.
+Mercedes: Dimitri, weren't you the one who asked that we all meet up here?
+Annette: Don't be silly! Of course you remember our promise. That's why you and the professor are here, right?
+Gilbert: Your Highness... I have been following news of your whereabouts for a while now. I am relieved to have finally found you.
+Dimitri: Do not call me that. I am not a prince, but a walking corpse.
+Byleth: Why would you say that?
+Gilbert: That is what we all believed, but it is not so. I can see with my own eyes that you are alive, Your Highness. But the jail cells in Fhirdiad are as solid as they come. How did you manage to…
+Dimitri: Dedue.
+Byleth: What happened?
+Dimitri: He's dead. He died in my place.
+Gilbert: I see. We will be sure to honor his loyalty, Your Highness. As for the state of the Kingdom, the lords from the western regions have declared their fealty to the Empire, starting with House Rowe. Cornelia’s band of traitors now refers to Kingdom territory as the Faerghus Dukedom. They’ve made Fhirdiad their stronghold as they continue to invade the eastern region.
+Byleth: Traitors?
+Gilbert: There is much to tell you. I will explain everything in time.
+Byleth: Cornelia?
+Gilbert: She is a mage who has served in the royal family for more than 20 years. There is much to tell you. I will explain everything in time.
+Sylvain: Well, it’s not like all of the Kingdom’s lords have sided with the Empire. There are plenty of houses, like mine and Felix’s, that remain stubbornly opposed.
+Gilbert: Your Highness. Please allow us to take up arms at your side once more. What we need more than anything isn’t soldiers, money or supplies. We need the legitimate heir of Faerghus to overthrow the Empire and reclaim the Kingdom! Such is your duty. It is yours alone to bear and well worth fighting for. Only you can gather our troops and lead us back into the light.
+Byleth: You are still needed, Dimitri.
+Dimitri: I see. So, you all agree that we must fight back. And you see how that woman…how the Empire cannot be forgiven. That we must wipe them all out until not a single one of them remains…
+Annette: Wipe them all out? Umm, I don’t think any of us here are suggesting anything that extreme…
+Gilbert: … Professor… There is something I would like to ask you. Please join me inside the monastery.
+
+Gilbert: To think you survived under all that rubble for the past five years... I suppose stranger things have happened, odd as that is to admit. There is still much I would like to ask you... But I think that's enough for now.
+Byleth: Is Rhea safe?
+Byleth: Where are the Knights of Seiros?
+Gilbert: On that day five years ago, during the battle with the Imperial army, Lady Rhea went missing. Since then, the Knights of Seiros have continued searching for her…and for you. I hear they have yet to find any promising leads. As the Empire has yet to release a statement, it’s hard to imagine that she has perished. And yet… Ah, never mind. Once news of your survival gets out, everyone will flock back to the monastery.
+Byleth: What happened to the Kingdom?
+Gilbert: After that battle, a certain...incident took place in Fhirdiad. Rufus, who was serving as king regent, was murdered. I was once a knight in service of the royal family… I resigned from the Knights of Seiros, and returned to serve the Kingdom. However…
+
+
+Gilbert: This is madness! You truly claim that His Highness is the one who killed Rufus?
+Cornelia: Oh, but it’s true. The only one who could slip past the bodyguards and kill so efficiently is the young prince. You can’t deny it.
+Gilbert: Rufus is Prince Dimitri’s uncle! His Highness is incapable of such an atrocious crime as murdering his own blood!
+Cornelia: Ah, but they were never very close, were they? It’s a well-known fact amongst former retainers. There are even rumors that Rufus was originally involved in the Tragedy of Duscur… Perhaps His Highness believed those rumors and murdered Rufus in a fit of rage. But I’m afraid none of that matters now.
+Gilbert: Cornelia. Do not tell me that you...
+Cornelia: The decision has been made. His Highness will pay for his crime with his head. His sentence will be carried out the day after tomorrow. On that day, the royal bloodline will come to an end. All you have left to do is sit back and watch, you senile old fool. Watch as the Kingdom you love falls to ashes.
+
+Gilbert: It was soon after announced that his sentence had been carried out. With His Highness’s death, the royal bloodline of House Blaiddyd was erased from this world. True to her word, all we could do was watch as she tore the Kingdom apart before our eyes. Since the execution and the prince’s corpse were concealed from the public, there have always been those who believed His Highness was still alive… As for myself, I only began to hope three years ago, when I chanced upon some compelling rumors…
+Byleth: What rumors?
+Gilbert: An Imperial platoon attacked without warning. Incident after incident of Imperial generals being slaughtered in Kingdom territory. It is said that each died in such a brutal, gruesome way that…it is hard to imagine they were killed by human hands. 
+Gilbert: I followed the rumors to location after location. Eventually, I had seen enough. I knew the rumors were true. Finally, after a half decade of torment, it happened. I found him… 
+Gilbert: I fear his deep hatred, and the weight of his solitude, have consumed him for far too long… We must bring him back from the edge on which he stands. 
+Gilbert: To that end, I must speak with His Highness. I imagine it will not be a quick or easy conversation. I pray that he is of a mind to speak of such things. I am certain that my words will… Never mind. What must be done, must be done. I would wager that you are weary after the day’s events. Perhaps you should take this opportunity to get some rest.

@@ -1,0 +1,171 @@
+@Opening 
+It is Imperial Year 1185. Nearly five years have passed since the fall of the monastery at Garreg Mach, and war continues to plague the lands of Fódlan. Fhirdiad has been captured. The Holy Kingdom of Faerghus is in shambles. The Leicester Alliance is on the verge of collapse, fractured by two opposing factions–those who support the Adrestian Empire and its ruler, and those who seek her demise. Meanwhile, under Emperor Edelgard’s rule of law, the Adrestian Empire continues to expand its reach. The path to a new Fódlan, unified by Imperial strength, may yet be in sight.
+
+@Cutscene 
+Claude: Huh?
+
+Claude: You overslept, Teach. Pretty rude to keep a fella waiting like that, wouldn't you say?
+
+Claude: What's with that surprised look, my friend?
+
+Claude: You didn't really think I'd given up — on you coming back, did you?
+
+Claude: Can you feel it? A new dawn is finally here. Not just for us, though. No, for all of Fódlan.
+
+@Dialogue
+Claude: It's been five long years. Where have you been, Teach? You don't really expect me to believe that you've been napping this whole time, do you?
+Byleth: I was sleeping.
+Byleth: I don't remember.
+Claude: That's a good one! Except… That's not your lying face. I guess I've got no choice but to believe you. You're not exactly normal to begin with, so it's not a huge stretch to imagine you sleeping for that long. Aaand this is where you say, just kidding. Right? If this is a rib, now's the time to fess up.
+Byleth: It's the truth.
+Claude: You must be insane. And yet… Fine. I believe you, OK? But that means you don't know anything that happened after your last battle, right?
+
+Claude: I guess it's on me to catch you up. As you can see, Garreg Mach was crushed by the Empire and was never restored. The monastery is in ruins, and the town is in pretty bad shape too. Can you guess why?
+Byleth: Rhea has been sleeping too?
+Claude: Huh. It would seem that's one possible explanation, since you insist that's what you've been up to.
+Byleth: Rhea has died?
+Claude: Her body was never found, and the Empire never declared that she had been killed. So… No telling.
+Claude: All we know for sure is that Rhea suddenly vanished during that battle five years ago. The Knights of Seiros have apparently been searching all over Fódlan for her… But the fact that this place is still in ruins tells me they still haven't found her.
+Byleth: We must find her.
+Claude: True. I've got a mountain of questions I'd like to ask her, after all.
+Byleth: I'm worried.
+Claude: Worried, huh? Well, for better or worse, Rhea was clearly fond of you.
+Claude: But I'm not so sure whether it would be good for her to return as the archbishop… Rather, with her gone… Eh, never mind. This could be a dangerous conversation. Before we discuss the state of affairs in each territory… Are you hungry? You must be. It's not much, but I did bring some food with me. Let's eat up and go from there.
+
+@Intro 
+Claude: Phew! I. Am. Stuffed. Even the most humble of meals tastes great with the right company. By the way, Teach, do you remember the night before the ball? I know it was five years ago… But we promised that the Golden Deer House would reunite during the millennium festival. Today's the day we promised to meet up… but no one's here.
+Byleth: It's still early.
+Claude: True… There's still some daylight left.
+Byleth: They must not like us.
+Claude: Heh, you know everyone looked up to you, right? Or is this your way of telling me I was a lousy house leader?
+Claude: Let's just wait a little longer. You never know… Maybe someone will show up after all. Hey, Teach… Just waiting around sounds boring, so why don't we get in some exercise. You know, help with digestion and stuff. You must be in bad shape if you've been sleeping for five years. It'll do you good to get your body moving again.
+Byleth: You want to work out?
+Byleth: You want to play a game?
+Claude: Something like that. Look, if you come with me, you'll understand. Oh, and don't forget your weapons, OK? I want to make sure neither your leadership nor your skill with a blade have dulled.
+
+@Opening 
+In the Holy Kingdom of Faerghus, Imperialist loyalist Cornelia has subdued all regions of the former royal house of Blaiddyd to prevent further revolt. Prince Dimitri has been sentenced. Now, the backbone of the former Kingdom–Houses Gautier and Fraldarius–struggle to continue the resistance. Cornelia–operating out of the royal palace–has accepted the support of the Empire to build an army and plots to wipe out all remaining Kingdom forces.
+
+In the Leicester Alliance, House Riegan leads an anti-Imperial faction, while House Gloucester directs the Empire’s supporters. Despite the undeniable threat of fracture, the Alliance’s adept new leader, Claude, deftly maintains the outward appearance of a unified front.
+
+In Enbarr, the Imperial Capital of the Adrestian Empire, Emperor Edelgard fights to strengthen her regime. She has extended her reach to the Kingdom by inciting a coup and continues to draw its former lords under her influence in pursuit of controlling all of western Fódlan.
+
+In the meantime, the Knights of Seiros have been dispatched to find Archbishop Rhea, who remains missing despite their searching. Left unattended, the monastery at Garreg Mach has fallen to ruin…and become a haven for thieves.
+
+@Battle 
+Claude: The thieves are here. Apparently they're trying to run off with treasures from the monastery.
+Pallardó: What the… Intruders! Protect the goods!
+
+Claude: This is gonna get expensive. Collect everything the thieves carried out!
+
+Lorenz: The barbarity is even worse than the rumors. On my honor as a noble, I will expel these ruffians!
+Ignatz: Today was supposed to be a happy day, but the monastery is in disrepair...
+Hilda: Over there… Is that the professor? And the others?!
+Leonie: Professor! You're alive! Guess we'd better handle this before I celebrate though, huh?
+Claude: You finally made it! I guess virtue still exists in this crazy world after all.
+
+Raphael: Is that the professor and everyone else? If they're fighting, I gotta go help!
+Lysithea: Wow, it's you! Here I thought you were dead all this time.
+Marianne: Could that be the Professor's…ghost?
+Claude: Hey, you're late! Hurry up and help!
+
+Claude: Hm, we could split into two groups. If we hit them from the north and south, we can trap their leader in a pincer attack.
+
+@Battle-Talk 
+%Byleth,Hilda
+Hilda: Professor! Boy am I glad to see you. How did we end up in this situation?
+
+%Byleth,Ignatz
+Ignatz: Professor, it's been too long! I do want to chat, but first let's handle these criminals.
+
+%Byleth,Leonie
+Leonie: You've been alive all this time?! Where have you been hiding?! Never mind - talk later!
+
+%Byleth,Lorenz
+Lorenz: We have much to discuss. But first, let us dispense with the riffraff. It is a noble's duty, after all!
+
+%Byleth,Lysithea
+Lysithea: Ugh. The instant we arrive, we're neck deep in battle. We should've arrived late.
+
+%Byleth,Marianne
+Marianne: P-Professor? Is it really you?
+
+%Byleth,Raphael
+Raphael: Is that really you, Professor? It's been so long! I thought I'd never see you again!
+
+@End 
+Hilda: Ugh, I'm exhausted! What gives, Professor?
+Lysithea: I was so excited to see everyone again, and then this happens…
+Leonie: I'm still tired from the long journey. How did it come to this?
+Ignatz: Let's all take a moment to catch our breath…
+Hilda: If you've got the time to play with those guys, the least you could do is prepare some tea.
+Byleth: Thanks for your help.
+Claude: We were hoping someone would come to back us up when we started routing the bandits.
+Byleth: Blame Claude.
+Claude: Come on, those guys were thieves! We couldn't just let them get away.
+Claude: It seems they've been taking advantage of the church's absence and doing whatever they please here.
+Marianne: In any case, um… I'm glad that all of you are well.
+Ignatz: That's the spirit, Marianne!
+Raphael: That was fun! In fact, I wouldn't mind romping around some more!
+Lorenz: So, you were alive this whole time, Professor. I am not surprised. In fact, that is why I came here.
+Leonie: And it doesn't look like time has rusted your skills. That's a relief!
+Claude: I'm just glad everyone's alive and well. On that note, let's move this reunion party somewhere else.
+
+
+
+Claude: Now that we've dealt with those violent bandits, we could potentially use this place as our base of operations again.
+Hilda: What could you possibly mean by that?
+Claude: I'm talking about the Leicester Alliance taking over Garreg Mach Monastery. After all, it's right in the middle of Fódlan. It's a critical strategic location.
+Lysithea: Are you suggesting that we fight back against the Empire?
+Lorenz: Aren't you getting a bit ahead of yourself? The Alliance is in complete discord at present.
+Claude: And as leader of the Imperial faction of the Alliance, isn't Count Gloucester, your father, the main cause of that discord?
+Lorenz: I… Yes, that is true. It was inevitable. Our house's territory is close to Imperial land, after all. Had we not consented to vassalage under the Empire, they would have invaded immediately.
+Claude: Naturally. And to be clear, I have no problem with your house maintaining its Imperial ties until we're sufficiently prepared to revolt. The Empire is the cause of the infighting. If we rid ourselves of them, the situation should resolve itself. That's why I'm thinking we should make this our base, raise up an army, and stir up some trouble for the Empire.
+Raphael: Now you're talking! Sounds like fun!
+Hilda: So then, Mr. Leader Man. Does this mean you intend to rope us into your little scheme?
+Byleth: Leader Man?
+Claude: Hm? Ah. My grandfather passed away. That means yours truly is officially the leader of the Alliance.
+Lorenz: If we had a more reliable leader, perhaps the Alliance would not have been divided…
+Claude: Think what you will. All I need to know is if you're in or you're out.
+Leonie: I'm happy to lend a hand. I won't let those Imperial dogs set foot in Alliance territory! I couldn't bear it if my village got caught up in the chaos of war.
+Raphael: I'll fight too! I've gotta protect my little sis!
+Lysithea: I will join as well. After all, House Ordelia was once dragged into an Imperial revolt. It ruined us.
+Lorenz: Ah, of course. I understand your motivation.
+Ignatz: I'll fight too… It's time to take responsibility for my own future!
+Marianne: I… I don't want to run anymore. I hope I'll be of use to everyone…
+Ignatz: We can do anything if we work together, Marianne!
+Hilda: What about you, Lorenz? Are you going to go back home to your scary father or what?
+Lorenz: We cannot rely on Claude's scheming to lead us to victory. Therefore, I will remain. It is my duty to ensure Claude does not worsen the situation in the Alliance.
+Claude: All of us are fighting for a different reason, but we share a common enemy. If we don't act, the Empire will crush us eventually. I say we stop them before they have the chance! So, Teach… Will you help as well?
+Byleth: I'd rather search for Rhea than fight.
+Claude: All the more reason to join us. Admit it. You're not going to be able to do much on your own.
+Byleth: I'll give it some thought.
+Claude: Please do. I'm counting on you. Even if your ultimate goal is to find Rhea, it would be better to stick with us as you search.
+Claude: With you on our side, the church will join us as well. That makes fighting the Empire a moral cause, which means it will be easier to rally support. Above all, your knowledge and strength are indispensable if we hope to stand a chance against the Imperial army. Without you, my schemes are nothing. Just words. Please… Take all of that into consideration as you decide.
+Hilda: You're really laying it all on the table, aren't you, Claude? Well, all that aside, this place is a mess. We can't very well make our base in a ruin! And repairing it sounds like a lot of work… I wonder if anyone would be willing to help us out with that?
+
+Seteth: Can it be?! You were alive all this time?!
+Flayn: Professor! It is so good to see you again. My brother and I were worried about you.
+Alois: Ah, thank the goddess… I couldn't bear the thought of letting Jeralt down by not finding you.
+Shamir: Guess you lucked out.
+Catherine: We've been looking everywhere for you! But…I see Lady Rhea isn't with you. Damn.
+Cyril: Everyone was real worried about you, Professor.
+Claude: Cyril? Is that you? You've grown up, kid. Have you been looking for Rhea with the knights?
+Cyril: Of course. Without Lady Rhea, I don't belong anywhere.
+Claude: Cyril, that's not… Never mind. We'll figure it all out.
+Manuela: Oh my, the Golden Deer House is together again at last. And all grown up! Well, for the most part.
+Hanneman: I do regret that we were never able to hold a proper graduation for all of you students.
+Byleth: Why are you here?
+Byleth: How is the search for Rhea progressing?
+Seteth: It has been five years since Lady Rhea disappeared. We have devoted all of our energies to finding her. However, without being able to set foot in Empire territory, we are at a standstill. We had hoped that perhaps the archbishop would return here on this day…that of the long-awaited millennium festival.
+Claude: Unfortunately, that doesn't seem to be the case. Though, I don't suppose you had very high hopes in that regard. Even if she were able to return here, with the monastery in ruins, I don't think she would have felt safe enough to do so. Right, Hilda?
+Hilda: Yeah. This is an important location for the church. To think you've left it in such a state!
+Byleth: The believers are mourning this destruction.
+Byleth: It's a danger to the locals too.
+Alois: That's true… Perhaps we've left it alone for too long. We've got to make things right!
+Cyril: I can clean this place up like new! It's not fit for Lady Rhea like this.
+Catherine: And leaving this place in ruins affects the safety of this area too.
+Hanneman: Agreed. There is also a great deal of valuable literature here.
+Ignatz: Then let's do it! If we all work together, we can restore the monastery to its original beauty!
+Seteth: We will require the aid of skilled craftsmen too. I shall seek out any such individuals who are willing to return to Garreg Mach.
+Hilda: Fantastic! I'll figure out how to split up the work and then we can get started!

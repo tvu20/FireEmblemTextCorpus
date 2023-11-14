@@ -1,0 +1,354 @@
+@Opening 
+With the destruction of Shambhala, the ambitions of those who slither in the dark are forever shattered. However, Rhea has suffered grievous injuries in the aftermath. Yet certain mysteries remain unsolved, so Claude and the others approach Rhea, who is now confined to her room due to her wounds.
+
+@Dialogue 
+Rhea: I am happy to see you two…
+Claude: Sorry to interrupt your rest. But there are some things that we absolutely must ask you.
+Rhea: It seems I do not have much time left. I do not intend to hide anything any longer.
+Byleth: …
+Claude: Rhea… I have to ask. You're the Immaculate One, aren't you? If what I'm thinking is correct, that's what the children of the goddess is referring to. In other words, you—
+Rhea: I am the last child of the progenitor god. A long time ago, the progenitor god came from somewhere far away and descended upon this continent. She changed her form to resemble that of a human, and gave her own blood to birth her children. The progenitor god and her children shared knowledge and skills with the people of the land. Together, they built a prosperous civilization. But the humans turned their backs on the teachings of the progenitor god and engaged in senseless wars. Eventually people began to think of themselves as gods and challenged the progenitor god herself to battle. The land was scorched in the war that ensured and the majority of humans were annihilated. I believe that those who slither in the dark are the descendants of those who retreated beneath the ground during that time.
+Claude: So they had been waiting all that time for their chance at revenge…
+Rhea: It took the progenitor god an astonishing amount of time to revive the ravaged world. But eventually, the continent found peace again, and the progenitor god, having fulfilled her duty, fell into a long slumber in the Holy Tomb. The children who stayed behind built a settlement in Zanado to protect the Holy Tomb as they quietly lived out their lives. But then…Nemesis appeared, bringing tragedy along with him. Even now I cannot forget the sight…of that massive canyon, painted red with blood… I was never able to forgive those who proudly wielded weapons crafted from the corpses of my brethren. I was the only survivor of Zanado, and all I could do was wander across Fódlan clinging to my desperate desire for revenge. I called myself Seiros, fostered the founding of the Empire, and prepared to oppose Nemesis and his followers.
+Claude: Unbelievable…
+Rhea: I put Zanado behind me to gather the remaining children who were scattered across Fódlan… Finally, we killed Nemesis on the Tailtean Plains, and I took back the Sword of the Creator.
+Claude: Let me get this straight… Saint Seiros…is you?! You're kidding me, right?
+
+Knight of Seiros: Professor. Claude. There's something you need to hear right away…
+Rhea: If you have something to report, do so at once. There is no need to let my presence worry you.
+Knight of Seiros: As you wish… We're receiving a constant stream of express messengers from cities to the east. They claim that an unidentified military force is attacking and that there have already been a large number of casualties.
+Claude: What?!
+Knight of Seiros: The reports indicate that the cities and towns along the East Gronder Thoroughfare in the old Hrym territory have already been destroyed. Some villages were razed completely, leaving no survivors…
+Claude: Damn it! Did they come from Shambhala? Could it be that there were some remnants of that wicked group hiding there?
+Rhea: …
+
+Knight of Seiros: I have a report! The unidentified military force has crossed the Great Bridge of Myrddin! Alliance forces met them in battle, but it seems they have already broken through!
+Claude: They've already made it so far. Is Count Gloucester unharmed?
+Hilda: The count is fine, but apparently my brother joined with reinforcements and was gravely injured…
+Claude: You mean to tell me they easily got past a general as skilled as Holst?
+Hilda: They say the enemy general has a weapon that resembles the Sword of the Creator. Even my brother was powerless to stop him…
+Byleth: The Sword of the Creator?
+Claude: That's not possible…
+Knight of Seiros: The enemy forces are flying a banner bearing the Crest of Flames as they continue their march west along the Airmid River.
+Rhea: …
+Knight of Seiros: We believe they're marching toward Garreg Mach. We are preparing to meet them in battle.
+
+Rhea: A weapon that resembles the Sword of the Creator… and banner bearing the Crest of Flames… There is only one explanation. The one leading the enemy force…is Nemesis himself.
+Claude: Nemesis? That Nemesis? Do you really think the ancient King of Liberation has been brought back to life?
+Rhea: Perhaps the seal was broken when Shambhala fell… An incredible power that we children cannot hope to match dwells within the blood of the progenitor god. Nemesis obtained that blood, so it would not surprise me if that were the case.
+Claude: The blood of the progenitor god… That's right, he did take the remains from the Holy Tomb, didn't he…
+Rhea: From the blood of the progenitor god, Sothis, he acquired the Crest of Flames. From her bones and heart, he crafted the Sword of the Creator.
+Claude: The Sword of the Creator is made from her bones and heart?
+Rhea: The heart of Sothis is the Crest Stone that was placed in the Sword of the Creator. The same is true of the Crests of the 10 Elites and the other Crest Stones… They were born of the blood and hearts of the progenitor god's children. Those who slither in the dark created them. Stole them. Sothis never gifted that power to the humans.
+Claude: The Crests of the 10 Elites, the Crest Stones, and the Heroes' Relics… I can't believe those who slither in the dark made them all. And after that, Nemesis used the Sword of the Creator to massacre all of the progenitor god's children in Zanado… In other words, the citizens of Zanado were killed by weapons made from the remains of their brethren… How atrocious. But I don't get it… The Sword of the Creator that Teach wields doesn't have a Crest Stone. So how is Teach able to wield its full power?
+Rhea: The Crest Stone of the progenitor god…dwells within your professor.
+Claude: … 
+Rhea: After I battled with Nemesis as Saint Seiros, I reclaimed the heart of Sothis. I wanted to use that heart to…resurrect her. Even though I had to do some…questionable things to achieve that goal, I wished to see Sothis…my mother…once more.
+Byleth: You placed her heart in me?
+Rhea: Yes. I believed that if I could resurrect my mother, I could regain all that had been lost…
+Claude: So…that's the truth of it.
+Rhea: I suspected that your body housed the consciousness of Sothis. Those suspicions were correct. And yet, she merely gave you her power and vanished… My dearest wish did not come true… But you did inherit the power of the progenitor god. Now, you must use that power to defeat Nemesis once and for all. Fódlan's blood-stained history…must end.
+
+@Conversation 
+Claude: Huh… What a magnificent tale! It's enough to make your head spin. Rhea's real identity is Saint Seiros, and the one who attacked us was Nemesis, the King of Liberation! On top of that, you've got the heart of the goddess in you! My flabber is completely gasted right now. But now isn't the time for standing around in disbelief. Nemesis has made it this far for a reason. If we aren't victorious, that's it for Fódlan's new dawn. The world will forever be shrouded in darkness… This is the final, FINAL battle. Finally. My friend… Please give it your all out there!
+
+
+
+Lorenz: A sudden invasion from Nemesis has plunged the Alliance territories into complete disarray. Against such overwhelming strength, my father and his forces had no choice but to retreat.
+Byleth: Wise decision. 
+Byleth: I'm glad he's survived.
+Lorenz: It was certainly prudent for him to avoid a fruitless death. But as things stand, he will not leave much of an impression on history. So that falls to me. I will do all that I can—for the future of Fódlan, and the glory of House Gloucester!
+
+
+
+Raphael: Hey, Professor! Have you heard from Claude? He says he's gonna throw a feast if we win the next battle! Enough food to clean out the stores!
+Byleth: That sounds great! 
+Byleth: So what?
+Raphael: So I'm super motivated to win! I'm gonna train every muscle I got! I'm coming for you, Nemesis! I'm coming for you, feast!
+
+
+
+Ignatz: I got the gist of it from Claude. Those who slither in the dark… They seem to be descended from humans who were forced deep underground after the goddess defeated them.
+Byleth: That's what I heard. 
+Byleth: Is that right?
+Ignatz: They were trying to wipe out the goddess and her followers in hopes of taking back the surface. That's why they called themselves saviors. To their mind, they were.
+
+
+
+Lysithea: It seems there are some Shambhala loyalists in Nemesis's forces. As long as they're around, we can expect them to continue with their cruel experiments.
+Byleth: We must win.
+Byleth: Let's wipe them out, then. 
+Lysithea: Yes. We have to. It's the only way to ensure nobody else will go through what I went through. We must obliterate them in the next battle. It's the only recompense for Edelgard's death.
+
+
+
+Marianne: Just when we thought we'd made it to the end, another enemy approaches… Can we be sure this battle is the last one?
+Byleth: I don't know.
+Marianne: Of course, there's no way to really know what will happen.
+Byleth: This is it, I think. 
+Marianne: I think you're right.
+Marianne: Just a little further to the end. Come on, Professor. We have to win!
+
+
+
+Hilda: My big brother challenged Nemesis. He knew he couldn't win. He just did it so that his friends could escape. He emerged from the battle with a terrible injury. It's a miracle he didn't die.
+Byleth: I'm glad he made it. 
+Hilda: Yeah. Me too.
+Byleth: That was so noble of him.
+Hilda: Well, maybe he should have been a little less noble. When you're dead, you're dead.
+Hilda: Dying to save someone else…seems to defeat the purpose. I wouldn't do it. He's alive, and in spite of myself, I'm really proud of him.
+
+
+
+Leonie: So, we're defending Fódlan's future, huh? Kind of makes my mercenary ambitions feel pretty small. So I'll think about my promise to Captain Jeralt to protect you instead. That'll be my reason to fight.
+Byleth: Thank you. 
+Byleth: That works.
+Leonie: If I can get you through this in one piece, that's just as good as defending Fódlan's future, isn't it? I just hope he's watching.
+
+
+
+Ferdinand: The javelins of light that destroyed Fort Merceus… They are what destroyed Shambhala. They were trying to shroud the city in darkness. Perhaps they were planning to swallow us up in that same darkness. Maybe the javelins of light were a signal to Nemesis. To awaken him from his long slumber. What do you think, Professor?
+Byleth: I think you're exactly right. 
+Ferdinand: Yes, indeed. I have done some good pondering here.
+Byleth: I think you're way off the mark.
+Ferdinand: Oh! Really? Hm. Maybe I got a couple of things wrong, but I thought I was pretty close…
+Ferdinand: If we keep up this momentum, we will be able to take down Nemesis and restore peace in Fódlan.
+
+
+
+Linhardt: When you think of it, as one approaches the end of a war, the sacrifices only grow larger, don't they? The winning side musters their forces and attempts to strike a decisive blow... While those of the losing side make desperate attempts to turn the war in their favor. Neither side will give. I only wish we'd consider those who lose their lives in that struggle.
+Byleth: We're far from being safe ourselves. 
+Linhardt: Yes, exactly my point. Let's be careful to ensure we don't lose our lives, Professor.
+Byleth: It's a necessary sacrifice.
+Linhardt: Perhaps, but that doesn't make it any easier to accept your own survival depends on a throw of the dice.
+Byleth: It's better than dragging the war out.
+Linhardt: I can appreciate that, but just because a choice is better does not mean that it's good.
+
+
+
+Caspar: Everyone in Fódlan's united, but the Whatstheirfaces in the Dark or whatever won't let up! Let's get rid of 'em right away!
+Byleth: Let's do it. 
+Caspar: We gotta get some training in so we can crush 'em!
+Byleth: We can't let our guard down.
+Caspar: I know that! Come on, let's go train so we can crush 'em!
+Caspar: There's not a lot of time, but I'm afraid we won't win if we don't train!
+
+Bernadetta: The King of Liberation? The Fell King? His name is Nemesis, right? And he was hidden away for over a thousand years. Wow, that's a really long time all to himself… But that doesn't make him worth admiring, no matter how much I envy him!
+Byleth: You really envy him?
+Byleth: You'd like to be shut away for a thousand years? 
+Bernadetta: Um. Maybe. Is that a trick question?
+
+
+
+Dorothea: I keep thinking the war is near its end, then it isn't... When can we finally put this dreadful war behind us?
+Byleth: Let's end it with the next battle.
+Dorothea: That would be wonderful. Imagine, the last moment of combat...then peace. It sounds like a fairy tale. I want to make this a world a place where there is no fighting, where children can grow up happy and safe.
+Byleth: There can be no end to war. 
+Dorothea: I suppose you're right... But we should still try our best to make the world a place where children can grow up happy and safe.
+
+
+
+Petra: I can feel a weight in the air. It is different from before. I do not know this Nemesis person, except what I have been reading. But I am not of Fódlan. My knowledge of this person is very little. Even so, I feel that...I can understand it. I know that our enemy has great strength. I am...feeling great fear for this battle.
+Byleth: Don't worry.
+Petra: I have belief in you, Professor. Together, we will not be losing.
+Byleth: I'm scared too. 
+Petra: You have fear too? You do not look like you do... I have gratitude... I mean, I am grateful that you told me.
+
+
+
+Felix: The Fell King Nemesis. Hmph. I imagine he'll be a worthy opponent. How many foes have tasted my blade? He will be an excellent finale. We will be victorious, Professor.
+Byleth: Yes, we will!
+Felix: Splendid. Let's do it.
+Byleth: Calm down.
+Felix: I'm perfectly calm, thank you.
+
+
+
+Ashe: The King of Liberation wakes after a thousand-year slumber. Feels like I'm living a nightmare.
+Byleth: I feel the same way. 
+Ashe: You too? I hope you're not following my lead on this one, Professor!
+Byleth: We must accept it.
+Ashe: I know you're right, but it still doesn't feel real.
+Ashe: Maybe this Nemesis who's attacking us isn't even the real thing. Either way, the damage and death he's causing are real enough. I will fight to protect those who need it.
+
+
+
+Sylvain: Just when we think we're in the clear, the legendary Fell King resurrects. Who'd have thought it? Can you handle this getting any weirder? I don't know if I can.
+Byleth: I can sympathize with you. 
+Sylvain: I don't know how much of this Nemesis guy is a legend and how much is true, but I know this...
+Byleth: No time for complaining.
+Sylvain: I want to− I'm going to survive. I've spent this whole war afraid I'd die. Not anymore. I'm going to live.
+Sylvain: I mean, I'll still fight like I want to die because that's worked so far, and why change at this late date, right?
+
+Sylvain: And if I'm right and I don't die, would you go have dinner with me sometime?
+
+
+
+Mercedes: We went through all that trouble to finish the war, and now we have to fight again? What does this Nemesis fellow have against Garreg Mach anyway?
+Byleth: A vendetta... 
+Mercedes: A vendetta against Garreg Mach? That doesn't make much sense at all.
+Byleth: I have no idea...
+Mercedes: Well, it doesn't make much sense to me either.
+Mercedes: At any rate, I'll do what I can to defend the monastery and Lady Rhea.
+
+
+
+Annette: Is Lady Rhea OK? She was quite weakened to start, and then she took all those heavy injuries… I don't want to imagine it, but what will happen if Lady Rhea passes away like this?
+Byleth: We'll cross that bridge if we come to it.
+Annette: I suppose you're right.
+Byleth: I'm sure she'll be fine. 
+Annette: Yes. I'm praying every day that she'll get as well as soon as possible.
+Annette: Come what may, we should all combine our talents and defend the peace of Fódlan!
+
+
+
+Ingrid: Shambhala is destroyed. But are they vanquished entirely, I wonder… Just as Kronya took Monica's form, perhaps there are some others living above ground.
+Byleth: I don't know.
+Byleth: Quite possibly. 
+Ingrid: Once this battle is over, I still have much to see to. But right now, I should focus on the task at hand. On Nemesis. As long as Nemesis stands, both my future and the future of Fódlan hang in the balance.
+
+
+
+Seteth: Before the monastery was completed, there was a massive battle on the Tailtean Plains. In that battle, the warrior Seiros defeated the Fell King Nemesis and reclaimed the bones and heart of Sothis. Those make up the divine sword that you wield, and the Crest that you bear. Now, Rhea…Seiros…lies helpless. The only one who can defeat this so-called King of Liberation is the inheritor of divine power. You have our full and unwavering support. Only you can do this. Please, save this world.
+
+
+
+Flayn: Please keep quiet. Rhea is sleeping right now. She does not appear to be very well. I beg of you, please do everything you can to prevent an assault from Nemesis.
+
+
+
+Hanneman: Shambhala… An underground city with an entirely different lineage than the goddess? Shame phenomena, driven by a source totally alien to the Crests that we understand. Most unsettling! Could it be magic? Some manner of technology? I would like to know the truth of it all. Very much so. I want to know their history, their knowledge. Why do you suppose they chose this place to occupy?
+Byleth: Well, I don't know.
+Hanneman: I intend to carry out multiple excavations around the city. There is so much to learn! Yet first we face battle with a king who has defied time. Hmm, yes. The excavations can wait, I think.
+
+
+
+Manuela: Life can be tough, you know? But if you've got your friends to help you through, it can be a lot easier. Maybe you butt heads sometimes…but that's OK. That's how you build bonds, right? And I've got friends, Professor. Plenty of those. It's true love that seems to have passed me by.
+Byleth: You should relax.
+Manuela: Relax? I'm relaxed.
+Byleth: There's still hope. 
+Manuela: But where is my true love to be found? Where is my ray of hope?
+Byleth: Time to give up?
+Manuela: Yeah… I'm starting to figure that's the most realistic option.
+If Byleth is male:
+
+Manuela: At this point, you're the only man who pays attention to me. I guess I'll have to take what I can get.
+If Byleth is female:
+
+Manuela: At this point, I'm just hoping you stay single too. Then at least we can share each other's misery!
+
+
+
+Alois: We thought we'd taken down the mastermind of this war, and then the Fell King Nemesis shows up! Well, no matter what evil creatures we have to face, this old soul will keep defending Garreg Mach. Not only Garreg Mach. Also Lady Rhea. Also you. I think Jeralt would be saying the same kind of thing if he were here right now.
+
+
+
+Catherine: I try not to think about what would happen if Lady Rhea were harmed. I can't bear the thought of it. I'm not sure why the Fell King Nemesis picked right now to come back to life. But it makes me angry, that's for sure! Let's kick him back down into the dirt, where he belongs.
+
+
+
+Shamir: Ghosts rising up from the ancient ruins… Heh… No matter how hard we push back, they don't stop coming. They're persistent. I'll give them that.
+
+
+
+Cyril: I hear some super strong and evil fellas are after Lady Rhea. She just barely made it back to Garreg Mach, and then this has to go and happen? I'll protect Lady Rhea as best I can, and you're gonna do the same thing, aren't ya, Professor? Yeah, I know you will! Cut 'em down, Professor! Get every last one of those guys!
+
+
+
+Judith: Did you hear? Our enemy is Nemesis. Unbelievable. It sounds so crazy, but there's no laughing it off. We must make our move before they reach the monastery.
+
+
+
+Gatekeeper: Professor! I just have to say thanks! For everything! I'm on high alert today, so don't you worry about a thing. This mysterious military force approaching Garreg Mach… Is it true that Nemesis is with them?! It was Nemesis who led the 10 Elites against Saint Seiros. It's the stuff of legend. But this time, he won't have the 10 Elites on his side. Right? He won't, right?!
+
+@Opening 
+A military force bearing the Crest of Flames on its banner marches west to Garreg Mach from Shambhala, attacking nearby cities along the way. Rhea informs the Alliance that the enemy's general is none other than the ancient Fell King Nemesis. And so the Alliance army prepares for their final battle, hoping to put an end to Fódlan's blood-stained history.
+
+Shambhala has fallen, but a mysterious army has emerged from its ruins, bearing the Crest of Flames on its banner. Leading this force is Nemesis, the King of Liberation, presumed dead for a thousand years.
+
+@Intro 
+Claude: What's the plan, my friend?
+Byleth: We will defeat Nemesis.
+Claude: I thought you'd say that. And of course, I'll be joining you. What about the rest of you? Our enemy is a monster of legend. As always, there's not a shred of proof that we can win.
+Lorenz: A foolish inquiry, Claude. I must finish what my father started…
+Hilda: Started? Your father ran away before the battle even began.
+Lorenz: I…well. All the more reason why I, as his heir, cannot flee now!
+Hilda: I'm in. I need to get back at him for hurting my brother. I'm not going to let him get away with it!
+Ignatz: Wow… Hilda's serious about this!
+Lysithea: I too will fight until the end. I wish to protect Fódlan's future.
+Leonie: I feel the same as Lysithea. It would hardly be fitting for Captain Jeralt's apprentice to bow out now. I'll show them everything he taught me.
+Marianne: I…I will give it my all as well! For the professor, for Claude, and for all of you who helped make me as strong as I am now!
+Raphael: I'm in too! And when we're done, I'm gonna eat tons of steak to celebrate!
+Ignatz: This truly is the final battle… At this point, you shouldn't have to ask, Claude. You know we're with you.
+Claude: I do know that, Ignatz. But I had to ask just to make sure.
+Judith: Heh. Look at how reliable you kids have become. You've trained them well, Professor. This Nemesis guy should be arriving soon. Is everyone ready?
+Claude: It's finally time.
+Byleth: I won't let us lose.
+Byleth: I won't let any of you die.
+Byleth: Let's win this… Together!
+Claude: I'm on board with that. Let's all make it through this alive. Let's defeat this dusty old King of Liberation and put an end to this history of lies. Once we've done that, there'll be nothing holding us back. A new and brighter age will begin. Let's go, my friend! Fódlan's new dawn awaits!
+
+@Battle 
+Claude: Nemesis is here…and with more soldiers than expected.
+Hilda: A swamp, huh? But there’s something about it… It looks odd somehow.
+Agarthan Soldier: Agh! Can’t…breathe…
+Odesse: He should not have done that… Be careful. The water is poisonous to the living.
+Claude: It looks like we’d better not get near that swamp… Try to avoid it during the fight!
+
+Claude: Huh?! I think they’ve got some sort of magical link with Nemesis…
+Marianne: Could the magic be protecting him?
+Claude: Not sure, but we’d better take out his 10 commanders before taking him on.
+
+Nemesis: Seiros! I will kill you! Do not get in my way!
+Claude: So, that's Nemesis… You're a crusty old bastard, you know that?
+Nemesis: All those who stand in my way…will be destroyed!
+Raphael: Wah! Watch out, Claude! They're coming for us!
+
+
+Claude: No effect!? So Nemesis is... invincible...
+
+Claude: Nine more commanders remaining… We just killed number 10. These can’t be the 10 Elites, can they? Nah, not likely.
+Hilda: Look! The swampland cleared! 
+
+Lorenz: Professor! Claude! All the subordinates to Nemesis have been eliminated!
+Claude: It took some doing, but now’s our chance to face off against Nemesis!
+
+Claude: Agh! Demonic Beasts flying in from the south… Someone here must be able to summon them!
+Lysithea: I sense an unusual presence. Someone may be hiding there.
+
+Odesse: Argh... Thales!
+
+Claude: Now he can’t call any more Demonic Beasts. Time to see off his allies.
+
+Claude: Now he can’t call any more Demonic Beasts. And the remaining forces of Shambhala have been defeated too.
+
+Ignatz: Whoa. The swampland vanished.
+
+Hilda: Look! The swampland cleared!
+
+@Boss 
+%Claude,Riegan 
+Claude: Hey… Can you speak?
+Riegan: …
+Claude: Just puppets controlled by Nemesis… Well, they’re the strongest puppets I’ve ever known.
+
+@Boss
+Nemesis: Feeble creature… Prepare to die!
+
+%Byleth,Nemesis
+Nemesis: That sword… You bear the Crest of Flames, just as I do!
+
+@End 
+Claude: That one seemed to work… We’re almost done! Let’s go, my friend.
+
+@Cutscene 
+Nemesis: You are a foolish child.
+Claude: Tough talk from a guy who's lived too long. Allow me to fix that!
+Nemesis: You are all pathetic weaklings! You lack the courage to challenge me in lone combat.
+Claude: Yet we have the strength to scale the walls between us, to reach our hands in friendship, so we can open our true hearts to one another! 
+Claude: That's how we win!
+Claude: Future historians will refer to this day as the new dawn of Fódlan. Of that, I have no doubt.
+Claude: It's up to you now Teach. As for my path...
+
+@Narration 
+A rising flame was alight as the flow of time carved a new history for Fódlan. The ambitions of the Fell King Nemesis were crushed, averting what could have been the greatest crisis in the history of Fódlan. After 5 and a half years of war, a new age was set to begin. Country, faith, history...All that had once formed the order of the world was wiped clean. The heroes whose very hands saved Fódlan from a dark fate commenced with the building of a new society. The leaders of this new unified Fódlan began their walk down a seemly endless path-one toward a world that would cherish differences in race and belief, one where all life would be valued equally. Those clung to the hope that their path would not end with Fódlan—that it would someday span the seas to Dagda and beyond the Throat to Almyra...

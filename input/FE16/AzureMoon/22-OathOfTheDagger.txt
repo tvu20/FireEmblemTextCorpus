@@ -1,0 +1,66 @@
+@Opening 
+After storming the streets of Enbarr and bringing Imperial forces to their knees, the Kingdom army surrounds the Imperial palace. But the enemy that awaits them is not the Edelgard they once knew...
+
+@Intro 
+Dimitri: We have annihilated Enbarr's army. If we strike her down now, this war will finally be over. I imagine she intends to keep fighting until the bitter end...If this is the end she has chosen, it is my responsibility to see it through with her. Isn't that so...emperor of Adrestia? We have no choice but to destroy each other...Such is the destiny we were born to. That is why...I will now rise up to answer her iron will with the bite of my lance.
+Dedue: I will protect you at all costs. We will both live to see tomorrow...Your Majesty.
+Felix: Hmph. If the king falls here, that would mean my father's and brother's deaths were in vain.
+Ashe: For Lonato, Christophe, everyone...I will not lose!
+Sylvain: Well, if I were to die now, I'd have a lot to explain to my brother.
+Mercedes: All will be OK. I know we can win!
+Annette: I won't falter, no matter who we're facing!
+Ingrid: For all those who have lost their lives in this war...We cannot lose!
+Byleth: Let's win this!
+Dimitri: It is time. Onward, to our final battle!
+
+Hegemon Edelgard: They are here...But my progress cannot be stopped, no matter how many people try. The war's end will spell destruction for one of us. There can only be one ruler of the world...
+
+@Battle 
+Dimitri: Edelgard must be in the throne room...I would love nothing more than charge in and settle this once and for all, but we must be mindful of the surrounding forces.
+Ingrid: Strange...The mages don't seem to be wearing their usual imperial uniforms.
+Gilbert: Look at the mages. They are not wearing their standard Imperial uniforms...
+Myson: We cannot allow our grand ambition to be stopped by these beasts...
+
+Dimitri: Gah! Where did that attack come from?! If we do not find out, we have no chance of avoiding it!
+Mercedes: We're in danger! Advance with caution!
+Dimitri: Everyone, stay on your guard!
+
+Dimitri: I can hear voices from the lower levels...Could it be enemy reinforcements?
+Ashe: Maybe if we take control of those stairwells now, we can prevent reinforcements.
+Gilbert: Avoid losses by taking control of the stairwells! Block the enemy reinforcements!
+
+Dimitri: So...that grotesque creature was Edelgard...If she is prepared to transform her very body to fight for this future of hers... Then I have no choice but to defeat her, even if it costs me my life! We must defend the present... After all, it is all that we truly have.
+
+Dimitri: Reinforcements from the lower levels... Will they ever stop coming?
+Sylvain: General, calm down! Get control of the stairwells. Cut off the enemy's entry point.
+
+@Boss 
+Myson: We will return this world to mortal hands...May that filthy race of beasts wither and die...
+
+Myson: A curse upon those damned beasts...
+Mysterious Soldier: Myson! Everyone, retreat! We cannot sacrifice our goal!
+Dimitri: The mages are retreating! So, those weren't Imperial mages after all!
+Felix: Stop yammering! We must advance, boar!
+
+Hegemon Edelgard: These fools are caught up in the sacrifices at hand and can't see the future ramifications at stake. We must bury them! We must trample the past underfoot and move on to a brighter tomorrow!
+
+Hegemon Edelgard: You shall be obliterated! I will take you out so fast you will not have a chance to lament.
+
+%Byleth,Myson
+Myson: I'll take you down, here and now...For the sake of the new dawn...
+
+%Byleth,Hegemon Edelgard
+Hegemon Edelgard: Facing you... I grow weak...
+
+%Dimitri,Hegemon Edelgard
+Dimitri: To be changed beyond all recognition.. That is what lies at the end of the ideals you served so diligently. I have no pity for one such as you. If that is the future you hoped for, then you deserve no compassion.
+
+@End 
+Hegemon Edelgard: Graghhhhh!
+Dimitri: Edelgard...It is over.
+
+@Cutscene 
+Dimitri: El...
+
+@Narration 
+A rising flame was alight as the flow of time carved a new history for Fódlan. The long reign of the Adrestian Empire finally met its end when the Imperial Capital, the city of Enbarr collapsed. After five and a half years of war, a new age was set to begin. With Fódlan united as the Holy Kingdom of Faerghus, Archbishop Rhea, still weak from her imprisonment, stepped down from her position, and the Church of Seiros began to take the needed steps to reorganize. Prince Dimitri formally ascended the throne, beginning his reign as the king of the Holy Kingdom of Faerghus, which now included former Alliance and Imperial territories. Texts from the time claimed that the one who guided the king as he sought to create a world free from oppression became the new archbishop of the Church of Seiros.

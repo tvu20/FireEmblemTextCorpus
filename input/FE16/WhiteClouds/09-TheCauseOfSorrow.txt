@@ -1,0 +1,1335 @@
+@Opening 
+Though most stars will still glimmer in the crisp winter air, the blue sea star has gone back into hiding. Legend states that the goddess prays for peace from her home in the heavens. In the town of Garreg Mach, the anniversary of the monastery's completion nears, and the people's prayers intensify ahead of the millennium festival, still five years hence.
+
+@Intro 
+Rhea: We are planning a grand ball for this month. I am sure the students will be most pleased.
+Seteth: Yes, certainly. However, we must not devote all of our time to frivolity. We have a new mission for you. We have found evidence of someone sneaking into an unused chapel.
+Byleth: A chapel?
+Rhea: It is a building that was once a temporary sanctuary at a time when the monastery was under renovation.
+Byleth: Was something stolen?
+Rhea: No, there is nothing of value in that building. We do not yet know what the intruders' objectives are.
+Seteth: This month, your class is tasked with guarding the chapel and investigating these intruders. With the recent state of affairs surrounding the holy church, we cannot afford to overlook any abnormality, no matter how seemingly trivial.
+Rhea: I am ordering a seasoned knight to assist you to ensure the safety of the students. In times like these, I am afraid we must always expect the worst.
+Byleth: That's reassuring.
+Byleth: Which knight?
+
+Jeralt: Reporting for duty, Lady Rhea.
+Rhea: I thought you two could use the time to bond. And to speak of important matters...
+Jeralt: Appreciate the thought.
+Seteth: Bear in mind that Jeralt has a separate mission of his own. He will join you once he has finished it.
+Jeralt: It's true. I'll be away from the monastery for a while. But when I return... I'll come and watch you work. I'll be looking forward to it.
+
+@Conversation 
+Sothis: Tomas... No, Solon, was it not? And the Flame Emperor... It is most clear that something has transpired. And it relates to you somehow. Or is the fault my own, and you're just caught inside the wave... Sothis, the goddess of this world... I bear her name... Hmm... How confusing. I feel as though my head has turned to mush!
+
+
+
+Edelgard: Everyone's in such a festive mood. I feel a bit out of my element here. I can't help but worry something might happen while we're all distracted... After all, our enemies are always plotting. Still, this air of levity is much more agreeable than the grim atmosphere of late.
+
+
+
+Dimitri: It seems the dastards who set Remire Village aflame have yet to be apprehended. Monsters. Trampling mercilessly over innocent lives. They deserve a gruesome end...
+
+
+
+Claude: Someone entered the old chapel... I think the townsfolk used it for feasts and such in the past. With that whole Tomas business, you can't blame the church for being on edge.
+
+
+
+Hubert: Another month full of chaos. I've barely had time to catch my breath. What is the objective of Tomas and his ilk? And what makes Flayn so special–does that not bother you?
+
+
+
+Ferdinand: Ah, the ball. It reminds me of my first such event, back in the Imperial capital. It was held by my father, the prime minister. I really showed off my dancing skills! Everyone was quite impressed with me.
+
+
+
+Linhardt: You know, Professor, I used to think I would be comfortable with all manner of experiments, so long as they provided usable results. But when I heard of Solon's work, well, I realized I'd not consider the moral and philosophical limits of what "all manner of experiments" might mean. Urk... Sorry. I'm not great with blood, even when I'm just thinking about it. I feel a bit ill now.
+
+
+
+Caspar: I can't believe this... I'm so angry right now! First it's the Death Knight, and now Tomas, and neither of them are in custody! I can't stand the thought of such evil lurking in the world. We have to do something about this! I have to do something about this!
+
+Bernadetta: The ball. A grim reminder of my sad reality. The other nobles will be fine, I'm sure. They've all been to events like this before. But me? I'm a noble, and I've never even been close to one of these things!
+
+
+
+Dorothea: I wonder if Remire Village will ever be the same again. How do you recover from such a terrible event? So many dead, so much destroyed... I can't see how the whole village doesn't just end up abandoned.
+
+Dorothea: Our class was also sent to help put the village in order. But then…
+
+
+
+Petra: Dancing of Fódlan is not the same as dancing of Brigid. The reason is maybe that the music has many differences. In Brigid, dancing is different for each person. Our dancing has vigor and ferocity. There is no speech of technique for our dancing.
+
+
+
+Dedue: Even though there is to be a ball, we still have a mission. It would be nice if this month passed by in peace.
+
+
+
+Felix: Argh... Too much merriment. The librarian betrayed us. The Death Knight is back. Is this the time to be throwing a ball?
+
+
+
+Ashe: Last month was– Well, you know even better than I do. I hope this one will be more cheerful. This ball though... I don't know. It's all new to me.
+
+
+
+Sylvain: Great work in Remire Village, Professor. Who would have ever guessed it was Tomas? Ah, but no. Now isn't the time to get lost in gloomy thoughts.
+
+
+
+Mercedes: Oh, now, where did that Ingrid run off to? The ball is soon and she hadn't even put on any makeup! I was trying to help her out.
+
+
+
+Annette: So, Tomas the librarian was a bad guy? But he always seemed so nice! C'mon, self. You're better than this. You promised you'd be on top of things this month.
+
+
+
+Ingrid: Mercedes locked me in her room for hours earlier... She was slathering pounds of makeup onto my face. Saying something or other about the ball. It really wore me out...
+
+
+
+Lorenz: Ah. The long-awaited ball. Finally, an opportunity to showcase my exquisite skills on the dance floor. These skills were ingrained in me when I was a boy. My hands and feet move on pure instinct.
+
+
+
+Raphael: The ball is coming up soon! I am so excited! I can't wait to fill up on food while everyone's dancing. I even heard there'll be some prime cuts of meat!
+
+
+
+Ignatz: Some scary things have been happening lately. I hope that this month, of all months, is peaceful. The ball is coming up and everything... Although I'm not much of a dancer actually.
+
+
+
+Lysithea: It's true that Tomas was employed here under the recommendation of House Ordelia. But that's all I know of the topic. I'd never even seen him prior to enrolling here. Even when he was supposedly in Ordelia territory, I never once saw him there. I'm still feeling bothered by all of this, but...there's not much else I can say about it right now.
+
+
+
+Marianne: A ball? Um, I don't think I'll partake.
+
+
+
+Hilda: It's almost time for the ball! Oooh my, am I excited! This being a school, we don't have many chances to get dressy.
+
+
+
+Leonie: I'm glad the Remire Village situation got sorted out. But it's not over yet, is it? And I can't believe old Tomas turned out to be an enemy. Who can you trust anymore?
+
+
+
+
+Rhea: Before the ball, it is customary that we host a competition of dance known as the White Heron Cup. The students are quite fond of this tradition. Each house must select representatives to compete. Their dance shall be judged by its beauty, grace, and technique. The student who is deemed the winner will be given the opportunity to train as a dancer, should they so please. It is a very precious thing, the gift of dance. I hope that you and your students will choose to participate.
+
+
+
+Rhea: I have been told that your house won the White Heron Cup. This can only be a result of the students' talent and effort, not to mention your steadfast instruction.
+
+
+Rhea: It would appear your house was defeated in the White Heron Cup. With the White Heron Cup concluded, all that is left is to wait for the ball. I hope you will find it enjoyable.
+
+
+Rhea: It has come to my attention that you did not participate in the White Heron Cup. Were none of your students skilled in dance? With the White Heron Cup concluded, all that is left is to wait for the ball. I hope you will find it enjoyable.
+
+
+
+Seteth: I have looked into Tomas, but I just cannot make sense of this at all. From his behavior up until now, I never would have suspected that a man like him could turn on us. I have also discovered that his appearance has changed... It is almost as if he is not even human! What in the world is going on?
+
+
+
+Flayn: Hello Professor! The ball will soon be upon us. Ah, I can feel my heart fluttering already! I... I have never danced in front of people before. Not even once in all my life. I am very much looking forward to it!
+
+
+
+Alois: Ah, the ball... It reminds me of how I met my wife. I was at a village's harvest festival. There was a full moon bathing everything in its cool glow. She appeared out of nowhere, dancing gracefully in the moonlight–a lovely fairy!
+Byleth: That story sounds fake.
+Alois: Hah! The "full moon" was an embellishment, I admit. But you can forgive a man for waxing poetic, can't you? Anyway...
+Byleth: That's a wonderful story. 
+Alois: We soon fell in love and tied the knot. Now we have a daughter, who's as bright and beautiful as a sunny morning. So, whenever I see people dancing, I think of my wife, and my heart does a little waltz.
+
+
+
+Catherine: The area with the old chapel was supposed to be off-limits. It was at risk of collapse, so they didn't even post guards. It's not too strange. Does that surprise you? Eh, Garreg Mach has lots of places that are blocked off for one reason or another. That's true of the underground Holy Mausoleum as well as the northern woods. People call it the sealed forest, but as far as I can tell, it's nothing special. Just a forest.
+
+
+
+Shamir: What's this about? The ball? Knights don't participate. It's an event for students, but it does pique the interest of some knights in particular.
+ Alois can't dance, but I hear he likes to watch. He volunteered to judge the White Heron Cup. Not that I care.
+
+
+
+Gilbert: It cannot be true that our siblings-in-arms could turn against us. However, I will continue investigating members of the church. To think even someone as senior as Tomas would fall under suspicion... I know not how far to take my search.
+Byleth: Even the knights...
+Gilbert: Unlike the monks, the Knights of Seiros are Lady Rhea's direct subordinates. Some are in quite unique circumstances, but I cannot think any of them would betray us.
+Byleth: Even the students... 
+Gilbert: Yes, a great many strange and terrible things have come to pass this year... I must not dismiss the possibility that someone among the students is behind it all.
+
+
+
+Hanneman: Garreg Mach Monastery is said to have been completed during the Ethereal Moon. Why, 995 years ago as a matter of fact. That's rather a long time ago, don't you think? Every year, a ball is held to celebrate the founding. And every one hundred years, a very special celebration takes place. It's a grand festival, involving all of Garreg Mach. It is thrilling to read of past festivals, and I'm rather excited to experience one for myself. Once in a lifetime, eh? The next one, in five years, will make a millennium. Should be quite an event. Do you imagine you'll still be here teaching then?
+
+
+
+Manuela: Great. Just...great. It's that time when all the students get all lovey-dovey. You're new, but you know about the ball, yeah? I can't bear it. Young love is wasted on the young. They can't appreciate it to its fullest! Ugh, I wish I could fall in love too...
+
+Manuela: Oh! Speaking of the ball, Professor, have you selected your representative for the dance contest yet? If you don't, the contest will go on without your house. And that would be...embarrassing.
+
+
+
+Cyril: Nah, Tomas wouldn't betray the church. I don't believe it. I won't believe it! There's some people in the church who hate people like me who are from Almyra, but Tomas was always real kind. But if he really was Lady Rhea's enemy... Well, I'd defend her against anybody. No matter how kind they'd been in the past.
+
+Anna: Hey, Professor. How's it going? Making lots of coin? I'd love to catch up, but I'm super busy right now. Working. For money. You understand.
+Gatekeeper
+
+Gatekeeper: Greetings, Professor! Nothing to report! Ah, other than the legend of the Goddess Tower, of course. Have you heard the students talking about it? On the last night of the Ethereal Moon, on the same night as the ball... If a man and a woman go to the Goddess Tower and make a wish, it's sure to come true! I have a wish, but I can't find anybody to make it with me...
+Byleth: (Is there someone I feel that way about?)
+
+Rhea: The White Heron Cup is a competition of skill and grace in dance. Please encourage your house to participate. That said, if you are serious about winning, be sure to choose your representative carefully.
+
+Edelgard: By the way, have you chosen our house's representative for the White Heron Cup? If nobody else comes to mind, I'm willing to take up the challenge, Professor.
+
+Edelgard: Understood. Just leave this to me and victory is assured. 
+
+Edelgard: I see... If you believe there's someone more qualified, I certainly won't object. 
+
+Hubert: On a lighter note. I've heard you've yet to choose a class representative for the White Heron Cup. It's not something I'm interested in, but if no one else wants to do it, then I will shoulder the burden.
+
+Hubert: How very whimsical of you. I suppose I'll have to do what I can. 
+
+Hubert: Wise. Better to choose someone with more charm. 
+
+Ferdinand: Do you see what I am trying to say here? Do not make me beg you... Please, choose me as our representative for the White Heron Cup!
+
+Ferdinand: Wonderful! You will have a chance to see the legendary footwork of House Aegir! 
+
+Ferdinand: Hmph. If you really think someone is better suited for it, I will not argue. 
+
+Linhardt: Let us change the subject and settle my stomach. I assume you've heard about the dance competition? Have you chosen a representative yet? Or... Oh my. You haven't, have you? Have you come to tell me I'm to be it?
+
+Linhardt: I see... I can dance, in theory, but I dare say in practice things may go very differently. 
+
+Linhardt: I think that's wise. I simply can't really be bothe-- What I mean to say is I lack the confidence. 
+
+Caspar: Ugh. Sorry about that, Professor. I'm just so frustrated right now. I need something to take my mind off things. That reminds me! If you're looking for a volunteer, I'd be happy to represent our class in the White Heron Cup. I'm an excellent Dancer.
+
+Caspar: Great! We both know I'm our class's best chance at winning this thing. 
+
+Caspar: You really think you can find a better dancer than me? 
+
+Bernadetta: What is a White Heron Cup, anyway? Wh-what?! A dance competition?! That's terrifying! W-we need a representative for our class?! Please, anyone but Bernie!
+
+Bernadetta: You're just trying to humiliate me, aren't you? 
+
+Bernadetta: Oh, what a relief! Thank you so much, Professor! 
+
+Dorothea: I'm sorry, Professor. I'm talking about such grim and terrible things when we could be talking about the White Heron Cup. It's a big dance contest between the classes, and I simply adore dancing. I'm quite good at it, since I was a diva in an opera company, you know.
+
+Dorothea: I think my heart just skipped a beat. You want me to represent the class? I'm not sure when I last experienced such flattery, Professor. 
+
+Dorothea: What? Why not me? Oh, whatever. So long as you remember to chose someone, hm? 
+
+Petra: Are you choosing me to represent at the White Heron Cup? Or are you not?
+
+Petra: I will display all that I have learned. I will grab the victory! 
+
+Petra: I have understanding. You believe that I cannot grab the victory, I am guessing? 
+
+Dimitri: I... I'm sorry. Please ignore my troubled ramblings. Was something the matter? Something to do with the White Heron Cup? Professor, I beg of you. Please do not chose me as our house representative. I am utterly serious.
+
+Dimitri: What?! Curse you, Professor. I will of course accept, but know that you have damned us all. 
+
+Dimitri: Oh, thank the goddess. Please be sure to select someone with the confidence to win for us. 
+
+Dedue: Incidentally, I have heard there will be a dance competition prior to the ball. Have you chosen a representative yet?
+
+Dedue: I will take part, if you insist. 
+
+Dedue: Someone must want to participate. You would do well to find that person. 
+
+Felix: Ah, whatever. You look like you're about to say something. Are you considering me as our representative for the White Heron Cup? Heh.
+
+Felix: I was joking. You really couldn't find anyone else? 
+
+Felix: I see. That's a relief. 
+
+Ashe: But speaking of the ball, isn't there something happening just before it? The White...Heron...something? It sounds like every class needs a representative. Have you picked ours yet?
+
+Ashe: Are you sure you want m-me to do this? I guess I'll just have to do the best I can, then. 
+
+Ashe: You should pick one of the nobles. They all have experience with this sort of thing. 
+
+Sylvain: The ball is almost here...and the White Heron Cup dance contest. So, Professor, who will be representing our class?
+
+Sylvain: Me? Uh, sure! Why not? I'll get out there, show off my moves, and drive the ladies wild. 
+
+Sylvain: I get it. No worries, really. I'd rather see a beautiful person dancing instead of some goof like me. 
+
+Mercedes: While we're on the subject of the ball, what's this I hear about a dance competition? Physical activity isn't my forte, but dancing can be fun! If there's no one else you'd rather select, I'm happy to represent our class.
+
+Mercedes: Thanks for having faith in me, Professor! I'll try my best to win! 
+
+Mercedes: Are you sure? Please let me know if you change your mind! 
+
+Annette: After all, we have the ball to look forward to, and the White Heron Cup before that! Oh, speaking of have you chosen our house representative yet? If not, I'd like to volunteer!
+
+Annette: Really? That's fantastic! I'll try as hard as anyone's ever tried, you can count on it! 
+
+Annette: Aw, that's too bad. But if you reconsider, you know where to find me! 
+
+Ingrid: Speaking of, I heard that there's going to be a dance competition. Have you sorted out who will represent our class, Professor? It's not me, is it? Please don't say it's me...
+
+Ingrid: Oh dear... Well, I'll see what I can do, then. On my honor. 
+
+Ingrid: Thank goodness. I don't know the first thing about dancing. 
+
+Claude: Considering this recent rash of strange incidents, I wonder if having a ball is really the best idea... And then there's the White Heron Cup. Sheesh. What poor sap are you enlisting to represent our house, Teach?
+
+Claude: Claude: Me?! Don't be unreasonable, Teach! Ugh... I mean, if I have to make a miracle happen, I guess I'll figure it out... 
+
+
+
+Hilda: Oh, but first, the White Heron Cup! Who will appear onstage, I wonder? You're choosing a representative for the dance contest, isn't that right? Choose me! I'm a pro!
+
+Hilda: Great! Now that I'm in the spotlight, I'll do anything to win! 
+
+Hilda: Aww, I was really getting excited for it. Let me know if you change your mind, huh? 
+
+Lorenz: From what I hear, the White Heron Cup will be held just prior to the ball. Say no more, Professor. I would consider it an honor to represent our class!
+
+Lorenz: You will not regret this choice! 
+
+Lorenz: By all means, take your time and think it over. But I do assure you, there is no candidate better suited to the task than yours truly. 
+
+Raphael: Apparently there's supposed to be a dance contest too. I think it's called the White Heron Cup. Who's gonna represent our class? I can do it if you haven't picked someone else!
+
+Raphael: You made the right choice, Professor! Everyone's gonna think my moves are hilarious! 
+
+Raphael: Aww, really? I may not look it, but I'm actually a pretty good dancer. 
+
+Ignatz: Watching other people dance can be fun though. I've heard people talking about the White Heron Cup. Do you know who will be representing us?
+
+Ignatz: Me?! What? No, please! You can't! 
+
+Ignatz: I think a noble would make for a better choice. Bound to know their way around a ballroom. 
+
+Lysithea: Right... It's the dance this month, isn't it? I can't see how anyone would be much in the mood for dancing, considering... Although I suppose the White Heron Cup does sound pretty fun.
+
+Lysithea: Uh, you want me to be our representative? I've certainly got a few moves... 
+
+Lysithea: It would probably be more logical to ask someone who likes dancing in the first place, so I certainly understand. 
+
+Marianne: There's a dance contest as well? I see. I'll cheer for our class, of course. So, um... Who will represent our house in the contest?
+
+Marianne: I see, well... Um, I'm sorry. What did you say? 
+
+Marianne: I'm sure whoever represents our class will do a fine job. Much better than I could do. 
+
+Leonie: The ball? Doesn't matter. I don't dance. I might show up for the food though. Not that it's got anything to do with me, but have you picked someone to represent us for the White Heron Cup yet?
+
+Leonie: What? You're asking a peasant to dance? You've got some pretty weird ideas! 
+
+Leonie: Well, someone's bound to want to do it. I'm sure we've got a few people with the talent to win too. 
+
+Flayn: Have you heard yet about the White Heron Cup? If you have yet to choose a representative, do you mind terribly if I volunteer?
+
+Flayn: Ah, thank you, Professor! I am overcome with joy! Just you wait until my feet touch the ballroom floor! 
+
+Flayn: Understood. Ah, well. Either way, I am still so excited about the ball! 
+
+Edelgard: Well, I suppose we should practice, then. Shall we?
+
+Edelgard: How was that? I believe I've improved my technique. 
+
+Edelgard: Huh... Well, let's practice whenever you can spare the time. Agreed? 
+
+Hubert: To think I'd be rehearsing my dance moves, of all things. Give me some advice, Professor.
+
+Hubert: A little less grotesque now? Maybe. 
+
+Hubert: All right. But if we want to avoid a tragic accident during the contest, I will need more practice. 
+
+Ferdinand: Professor, uh... Do you know how to dance? I could really use some guidance.
+
+Ferdinand: You really can do everything! I am envious of you, if you will pardon my frankness. 
+
+Ferdinand: Fair enough. You do not think I need guidance. You are probably right. 
+
+Linhardt: Professor? Are you here to practice with me for the dance contest?
+
+Linhardt: I don't enjoy a bit of this, you know. Entirely too much standing up and moving around for my taste. But if I'm going to do it, I may as well be in it to win. 
+
+Linhardt: I see... Well, that's just fine by me. There's a book on fishing that I'd like to finish. 
+
+Caspar: Hey, Professor! Did you want to practice dancing with me?
+
+Caspar: What did you think? Pretty perfect, right? 
+
+Caspar: You're probably right. I don't need any more practice. I'm a natural! 
+
+Bernadetta: Professor! Will you give me some dancing lessons?
+
+Bernadetta: Was that okay? A little reassuring at least? Maybe? 
+
+Bernadetta: Is this your idea of an education? Clip my wings and toss me off a cliff?! 
+
+Dorothea: Hey, Professor. You're here to help me practice for the dance contest?
+
+Dorothea: How was that? Was my dancing everything you hoped for and more? I certainly enjoyed it. We simply must do it again. Soon. 
+
+Dorothea: Well, I am terribly talented, agreed. Still, I think I'll practice on my own if you're too busy. 
+
+Petra: I have much to be learned. We will now practice the dancing, OK?
+
+Petra: I have much more knowledge of Fódlan lance. How is my dancing, Professor? 
+
+Petra: That is not fortunate. I will have patience. 
+
+
+
+Dimitri: I am in the thick of battle, so battle I must. Will you help me prepare, Professor?
+
+Dimitri: How...was that? I perhaps did not offend as much as usual, but...I do not like our chances. 
+
+Dimitri: I suppose I must practice diligently while I can. On my own. Away from prying eyes. 
+
+Dedue: Will you teach me to dance?
+
+Dedue: Was that satisfactory? 
+
+Dedue: That makes things difficult. 
+
+Felix: Here, help me practice my dancing. You forced me into this, so you're going to help me.
+
+Felix: How did I get roped into this? 
+
+Felix: Hmph! You irresponsible fiend. 
+
+Ashe: I've been practicing as best as I can, Professor, but do you think you could give me a little help?
+
+Ashe: Was that all right? I'm completely self-taught, so I really have no idea. 
+
+Ashe: You really want to leave this all up to me? 
+
+Sylvain: Oh, Professor! I'm glad you're here. I need help figuring out this whole...dancing thing. Mind helping me?
+
+Sylvain: One and two and three and four... Got it! I'm pretty good at this.  
+
+Sylvain: Aw, don't be like that, Professor. You chose me... You should help me win. 
+
+Mercedes: Oh, Professor? Do you mind watching my dance routine? I would appreciate your honest opinion.
+
+Mercedes: How was that? I hope it's good enough to win... 
+
+Mercedes: I'm so sorry, I didn't realize you were busy. I didn't mean to distract you. 
+
+Annette: Professor! Would you watch me dance really quick? I've been practicing a ton!
+
+Annette: Mwahaha! Well? What do you think? I'd say I'm pretty great. Wouldn't you?  
+
+Annette: Oh, do you have really important professor things to do? Well, let me know when you have the time! 
+
+Ingrid: Professor, I admit--I have two left feet when it comes to dancing. Do you have time to give me any pointers?
+
+Ingrid: How did I do? Was I awkward? I felt awkward. 
+
+Ingrid: Perhaps some other time, then. Since you chose me, I'll need your guidance in all this. 
+
+
+
+Claude: Teach, this is all your doing. Step up and take responsibility. You've got to help me practice my dance moves.
+
+Claude: My legs aren't as unwieldy as before, I think... If I keep this up, I might do not terribly. 
+
+Claude: You're too busy? Too busy to take responsibility for your actions? Wow. Well, you'd better make time for me before it's too late. 
+
+Hilda: Hey, Professor! Care to join me for dance practice?
+
+Hilda: Phew! I don't think we can possibly lose. Just you wait and see. 
+
+Hilda: What, you've got something better to do than watch me practice? 
+
+Lorenz: Rehearsals will not be necessary. But, if you insist, I can give you a small taste of what is to come.
+
+Lorenz: Well, Professor? Are those not the most exquisitely refined moved you have ever witnessed? 
+
+Lorenz: I assure you, dancing is fully ingrained in my being. Any further practice would be redundant. 
+
+Raphael: Hey, Professor! You want to teach me some winning dance moves?
+
+Raphael: That looked pretty good, right? I think I can win this thing! 
+
+Raphael: If you think my moves are good enough, then I don't need dance lessons. 
+
+Ignatz: Professor, can you watch me practice?
+
+Ignatz: Is this how you do it? I'm feeling a little unsteady... 
+
+Ignatz: Professor, don't abandon me in my time of need! Why'd you pick me in the first place?! 
+
+Lysithea: Professor, can you supervise my dance rehearsal? If I'm going to do this, I want to win it.
+
+Lysithea: Well? How was I? I figure if I dance with passion and fervor, I'll appear even more mature. 
+
+Lysithea: You've chosen me, but you won't even bother to help me prepare? That's rather rude, Professor! 
+
+Marianne: Did you need something, Professor? I suppose I should p-practice, right?
+
+Marianne: No, no. That's no good. I can't seem to get a feel for it... 
+
+Marianne: Oh. Very well. 
+
+Leonie: Professor! Come join me for dance practice!
+
+Leonie: I'm going to have to do this in front of a crowd? I can feel myself going pale already. 
+
+Leonie: Hey, you're the one who put me up to this! The least you can do is give me a hand! 
+
+Flayn: Yes? Do you need me for anything, Professor? I would be happy for some dancing guidance, should you have any!
+
+Flayn: Thank you so much. I am eager to improve my dancing. 
+
+Flayn: I see. Perhaps soon! 
+
+@Dialogue 
+Alois: Ladies and gentlemen! My sincerest apologies for the wait! Thank you for gathering here on the eve of the highly anticipated ball to bear witness to... The academy-wide dance competition! Welcome to the White Heron Cup!
+
+Alois: The competition will be judged by...me! Your humble servant, Alois Rangeld! And also... The acclaimed former songstress of the Mittelfrank Opera Company, Manuela Casagranda!
+Manuela: Yes, yes, thank you. Oh, and it should go without saying, but I swear to show no bias to my own house. Got it? Good.
+Alois: Last but not least, the glamorous assassin who does all of her dancing in the dead of night...Shamir Nevrand!
+Shamir: Hmph.
+Alois: The three of us swear on our honor to judge the following proceedings with utmost impartiality and fairness! And with that, will the representatives of each house please make their way to the stage!
+
+Alois: Contestants! Are you ready to dance? And is the band prepared to play? Very well... BEGIN!
+
+Alois: TIME! That's all, folks! Splendid! All three of you were fantastic! Now, let's hear what the judges have to say...
+
+Manuela: Oh my, let's see. I suppose I have no choice but to vote for...
+
+Manuela: Oh my, let's see. I suppose I have no choice but to vote for...
+
+Alois: Great feedback, both of you! Well then, let's see... Factoring my own humble opinion... Yes! We have a winner! And I will announce who it is...right now! Without any delay! The winner of this year's White Heron Cup is...
+
+Edelgard: Well, a victory is a victory.
+
+Hubert: I am not sure the judges are in their right minds...
+
+Ferdinand: Haha! As expected of someone as accomplished as myself.
+
+Linhardt: Oh? Well, just so long as nothing else is expected from me.
+
+Caspar: I won? I won! How did I win?!
+
+Bernadetta: Bernie? Are you sure? Heh...heh...
+
+Dorothea: I wonder if I can use this to bolster my singing career...
+
+Petra: Everywhere, dancing is dancing. This is the proof.
+
+Dimitri: I won? There must be some mistake...
+
+Dedue: Is this a joke?
+
+Felix: Nonsense.
+
+Ashe: Are you sure this is OK?
+
+Sylvain: Heh heh heh! I knew I had it in me!
+
+Mercedes: Oh, really? How lovely!
+
+Annette: I did it! Go me!
+
+Ingrid: Oh. Um. Sorry. I really didn't see this coming.
+
+Claude: Ah, what a burden to be great at everything!
+
+Hilda: Perfect! Where's the prize? There is a prize, right?
+
+Lorenz: Haha! As expected!
+
+Raphael: Me? Uh, really?
+
+Ignatz: Can't say I had much confidence going in, but this is great!
+
+Lysithea: Yes, it was the logical choice. My dancing was superior.
+
+Marianne: Oh dear... This is a bit embarrassing.
+
+Leonie: I can dance? Huh!
+
+Flayn: Have I prevailed? Oh, most glorious! My practice was not in vain!
+
+@Dialogue 
+^start
+Edelgard: The ball is tomorrow. I have no worthwhile memories of such events, yet I'm still looking forward to this one.
+Hubert: As am I, in the sense that I look forward to destroying all of the unworthy suitors who will inevitably swarm Lady Edelgard.
+Ferdinand: I will admit, Edelgard is adorable. However, when it comes to elegance on the dance floor, I am superior!
+Dorothea: You're not a bad dancer, Ferdie. But you do have some moves that are...hard to watch.
+Ferdinand: You honor me with your kind words! I understand that I am sometimes too dazzling to behold directly.
+Linhardt: I'm envious of your positive attitude. I also know how to dance...in theory. Maybe I should participate as well.
+Bernadetta: Not me! You wouldn't catch me dancing at a ball any sooner than you'd catch a fish swimming through the sky!
+Caspar:  You do tend to flop around like a fish on the land, after all.
+Bernadetta: Wh-why would you say that?! Now I feel like a fish on a skillet...
+Linhardt: On a skillet... Hahaha! Ahem, never mind.
+Caspar: Speaking of the ball, do we get to pick who we dance with? I wonder who I should ask...
+Hubert: A bold subject change. Should Lady Edelgard wish it, I would be honored to...
+Petra: I will fight with all that I have in me!
+Dorothea: Fighting? No, that's not really the point...
+Petra: I will not be as a fish upon the flame!
+Dorothea:  Um... OK...
+Edelgard: I have a proposition. Let's all agree to meet back at the monastery exactly five years from today.
+Caspar: Like a class reunion? That's a great idea!
+Hubert: Five years from today will be the millennium festival for Garreg Mach Monastery. I've heard the magnitude of the festivities will exceed all prior years.
+Dorothea: Ooh, how exciting! Sounds like a great excuse to come visit our dear professor.
+Petra: You will be seeing how much growing I have done. You will be pleased, Professor. This idea is good!
+Edelgard: Who knows where each of us will be in five years' time...or who we will become. Still, I have faith that all of us will gather and celebrate our reunion.
+Linhardt: That's assuming the professor is still here in five years...and not enjoying a cozy early retirement.
+Edelgard: Even if that's the case, you will come, won't you? Whether or not you're still teaching here...
+Byleth: Of course. 
+Byleth: I will try.
+Edelgard: Don't forget, my teacher. Even if the millennium festival should be canceled, I promise to return here...
+
+Dimitri: This is the only ball of the year, and I see why. Everyone is absurdly excited...
+Dedue: Your Highness, you sound so detached. We are all encouraged to enjoy the ball tomorrow.
+Dimitri: Right you are, What a burden...
+Felix: Huh. I never thought we'd see eye to eye, but I agree. I'd rather be swinging my blade than wasting my time with some girl at a ball.
+Sylvain: Felix! Your Highness! You must be joking, right? This is our chance to dance with all of the ladies of the academy to our heart's content. You wish to throw away the best day of the whole year for sword practice? Insanity, I tell you!
+Ashe: I'm pretty excited about the ball, myself. It's not like we get to do things like this very often.
+Sylvain: Too true, Ashe. In fact, I'm gonna do you a favor and give you a crash course in chatting up girls. By tomorrow, you'll be an expert!
+Ashe: Actually I'd much prefer if someone could just teach us how to dance...
+Annette: Don't worry about the dancing part. I can teach you that, easy!
+Mercedes: It's time for the ball! That warrants at least a tiny bit of makeup, don't you think, Ingrid? Just a smidge?
+Ingrid: I...hmm. Maybe. I'll think about it.
+Annette: It's settled! Tomorrow morning we'll meet up in Ingrid's room. Ooh, I can't wait!
+Dimitri: Hahaha. You know... There's no telling where life will take us after we leave here. If only we could find a way to come together again, just like this...
+Dedue: A fine notion, Your Highness. Perhaps five years from now?
+Dimitri: Five years from now? Ah! That's when Garreg Mach Monastery will be holding the millennium festival.
+Ingrid: By then we'll be addressing Your Highness as Your Majesty instead!
+Sylvain: That's right. I suppose we all know it's coming, but by then you'll be far removed from us.
+Dimitri: Come now. You know me better than that. My title may change, but I won't. And it won't just be me, you know. Five years from now, you'll all have your own stuffy positions to contend with. But as I understand it, the festivities at the millennium festival will be of a scale far beyond anything we've yet seen... In other words, the perfect excuse for us all to return here.
+Annette: Ooh, a reunion? That sounds fun! I wouldn't miss it for the world!
+Dimitri: I'd love for you to be there as well, Professor. After all, you're the heart of the Blue Lion House.
+Byleth: I'll be there. 
+Byleth: I'll try.
+Dimitri: Good. Then it's settled. Of course...if something happens and I'm not able to attend, I'm leaving all of the logistics of organizing this reunion to you, Professor.
+Byleth: You have to attend.
+Mercedes: It's true! I'm sure being a king will keep you busy, but it's a bit early to be backing out of your own plans, don't you think?
+Dimitri: Yes... I suppose you're right. I'm sorry. You have my word. I will return as well. Count on it.
+
+Claude: The time has come for the annual ball. But first, an eve of merriment! OK, I'll admit it. The Officers Academy isn't as uptight as I thought.
+Hilda: Ooh, I adore such things! Dancing is the only thing I'm really good at anyway.
+Raphael: There's a feast tomorrow, isn't there? Isn't there?! Ah, I can't want a moment longer!
+Leonie: Dancing, singing... I'm not good at either of those things.
+Hilda: So? Dancing is fun! Oh! And remember, you can't dance with the same partner multiple times. It's tradition! That means you have to dance with all of the gentlemen in all of the houses, swapping dance partners as you please...
+Lysithea: How scandalous. I, for one, plan to simply behold the pure essence of dance.
+Marianne: I'll, um.... watch. From a distance.
+Hilda: You can't just watch, Marianne! If a boy asks you to dance, you simply must accept. It's only polite.
+Ignatz: You can ask...anyone? To dance? Gah, whatever should I do?
+Lorenz: Hahaha! Lucky you, Ignatz! Tomorrow, if only for a day, you may live out your dearest dreams of an exalted existence! As for me, I am surely to be overwhelmed with the propositions of desperate ladies. I will doubtless have little time for partners of my own choosing.
+Leonie: Which one of you is dreaming now, Lorenz?
+Claude: Everyone! Listen up. To no one's surprise, I have a brilliant idea. Teach, you'll want in on this too.
+Byleth: What's your idea?
+Claude: This may sound impetuous. Perhaps irresponsible. Almost certainly impossible. But we're gonna do it anyway. In exactly five years' time, let's promise to meet again, right here at the monastery.
+Raphael: A reunion? There's usually food at reunions. Count me in, Claude!
+Marianne: Five years from now... will be the monastery's millennium festival, celebrating 1,000 years since the founding of Garreg Mach.
+Ignatz: I hear the millennium festival will be the largest celebration in the monastery's history.
+Hilda: Oh, I get it! It'll be easier for us to all get back here with the millennium festival as an excuse.
+Lorenz: How true. As the new leader of the Alliance, I will certainly have the occasion to attend and pay my respects to Lady Rhea.
+Lysithea: That almost certainly will not transpire.
+Claude: And you, Teach? I guess it's hard to imagine that you'll still be teaching here five years from now... But I'm sure no matter where you end up, you'll come running at the chance to see your adorable little Golden Deer again, right?
+Byleth: I don't know.
+Claude: Who knew Teach had a heart of ice? Too bad I can see from a mile away that you're joking. How you really feel is written all over your face.
+Byleth: Probably so.
+Claude: Ahem... That was your cue to promise everyone you'll return. Go on, set a good example, Teach. If you promise, everyone else will, too.
+Lysithea: Hahaha! I'm already excited! After five years, we'll all be whoever we're going to become!
+Leonie: Please, Professor! Invite Captain Jeralt too! I want to show him how well his apprentice turns out.
+Hilda: It's settled, then. What do you say, Claude? Is it official?
+Claude: The promise is sealed! That means we're all obligated to keep it. Five years from today, all of us will meet again at the monastery. Don't forget it, Teach. You and I will meet here again...
+^end
+
+@Dialogue 
+Sothis: Running away? I understand. You hardly had the time to breathe in there. It must be hard to be the favorite teacher at the ball! Poor, poor Professor!
+Byleth: I am not everyone's favorite...
+Sothis: Was that a joke? I find it hard to tell with you. Just think of all the students begging you to dance!
+Byleth: It is difficult. 
+Sothis: So you do think you're the favorite! I might have known.
+Sothis: But where is there to run? This place is filled with joyful students looking for a dance.
+
+Sothis: Ah... I see. The Goddess Tower waits for you...
+
+Edelgard: Ah, here you are. Are you waiting for someone?
+Byleth: I'm not waiting for anyone.
+Edelgard: Good. I would not wish to interrupt anything.
+Byleth: I was waiting for you.
+Edelgard:  For me? Well, you should have summoned me earlier. Regardless, here I am.
+Byleth: Has something happened?
+Edelgard: No, nothing in particular. In fact, that's why I came here. This place, the Goddess Tower... It was special to my parents. My father attended the Officers Academy himself. A few years after graduating, he was crowned emperor. One day, during a visit to the monastery, he snuck into the Goddess Tower on a nostalgic whim. And there she was, my mother. She had just enrolled in the academy that very year. They were instantly drawn to each other. Love at first sight, you could say. It was the first time either had truly been in love... or so the story goes.
+Byleth: Their first love?
+Edelgard: Yes. Of course, as emperor, my father had already married for political reasons. As the Empire demands many heirs, he also had numerous other lovers. In the end, my mother settled for becoming one of his many consorts. But I choose to believe there was genuine love between them. Heh, I suppose it's a silly story to cling to.
+Byleth: It's a lovely story.
+Edelgard: Isn't it? It's a shame that the lovely stories ended after I was born. For as long as I can remember, my mother had already been exiled from the capital. It's strange. Something about you makes me reveal all of the things I so carefully keep concealed.
+Byleth: Who was your first true love?
+Edelgard: Hmmm. For some reason, I feel compelled to tell you all of these things I have kept hidden. I can't say the name, but it was a noble who I met in the Kingdom, a lifetime ago.
+Edelgard: Anyway... What about you? It's your turn to reveal some long-held secret! You can share a story about your past...or perhaps tell me about your first love.
+Byleth: I have no such stories
+Edelgard: You're telling the truth. I can tell. Hm... I wasn't even able to make you blush.
+Byleth: Please don't ask that of me.
+Edelgard: You realize that just makes me more curious than ever!
+Byleth: Sorry...
+Edelgard: Heh... No, I'm the one who should apologize. It wasn't my intention to pry. I'm just intrigued by you and your mysterious past. You have supposedly always been a mercenary, but I believe there is more to your story than that... Let's leave it there for today and return to the ball. There must be plenty of students hoping to talk with you...and to dance with you. I would not wish to prevent you from mingling. I cannot keep you all to myself, after all.
+
+Hubert: Here for a tryst, Professor? I won’t interfere. I shall take my leave at once. Farewell.
+Byleth: Just a moment.
+Hubert: Yes, what is it? I assume you are waiting on someone.
+Byleth: What do you mean, a tryst?
+Hubert: You have arranged to meet someone here at the Goddess Tower, have you not?
+Byleth: No, not at all.
+Hubert: I see. Apologies for the misunderstanding. Then I take it you are unfamiliar with the rumors about this place?
+Byleth: What rumors?
+Hubert: There is an old legend that says promises made between lovers here are sure to be fulfilled. If you believe in that sort of thing. I would have expected you to be familiar with the story already, considering how popular you are. I was certain that someone had asked you here.
+Byleth: I am not that popular.
+Hubert: On the contrary, I suspect those who wished to ask were simply too daunted to try.
+Byleth: That is not the case.
+Hubert: No need to sound so dejected. I suspect those who wished to ask were simply too daunted to try.
+Hubert: But thanks to their cowardice, I am gifted with this opportunity to speak with you. It’s clear you have never felt at ease around me, as a result of how little trust there is between us. I should get back to the ball, regardless. I imagine there would be quite a scene if you turned out to be lying.
+Byleth: You don’t believe me?
+Hubert: Trust is not in my nature. Good night.
+
+
+Ferdinand: Hello, Professor. I just needed a quick break from the festivities. Fancy running into you here.
+Byleth: You followed me, didn't you?
+Ferdinand: I beg your pardon?! Absolutely not! It is simply a coincidence. The heir to the great house of Aegir, chasing after a woman in the dead of night! The very thought of it!
+Byleth: What a nice coincidence.
+Ferdinand: Yes, a coincidence...
+Ferdinand: Anyway, seeing you here, I cannot help but recall the legend of the Goddess Tower. It is said that when a man and a woman meet here by chance on the night of the ball, their paths become one. The goddess blesses them and ensures a harmonious union.
+Byleth: I heard it differently.
+Ferdinand: Oh, you heard the legend too? How was it different? That the goddess is sure to grant any promises made here? Ah, perhaps that is how it goes, come to think of it.
+Byleth: Are you sure that's the legend?
+Ferdinand: Indeed, that is how it goes. Or at least, that is the version I heard.
+Ferdinand: How long have we known each other now? About nine months, by my count. The passage of time is swift indeed. Listen. I need to tell you something. After I graduate, I must pass stern judgement on my father. His greed got the better of him. He has strayed far from the righteous path. As the next Duke Aegir, I will succeed him as prime minister, and it will fall to me to hold him accountable. Only then can I justly guide the Empire's subjects and work to create a better world. That is my dream, my will, and my future. I pray that I will have the courage to fulfill my solemn duty and that I will have your support.
+Byleth: Of course. I'm with you.
+Byleth: I'm always happy to listen.
+Ferdinand: Thank you. Knowing that you are on my side, I feel unstoppable. Well, shall we head back? Plenty of people must be wonder where you went. Specifically the legions of men who would like to dance with you! To be honest, I count myself among them.
+
+Linhardt: Professor, you're late.
+Byleth: What do you mean?
+Linhardt: To tell the truth, it was an act of sheer hope that I might find you here.
+Byleth: We didn't have plans to meet.
+Linhardt: True, but a young man can hope to accidentally bump into someone.
+Byleth: Oh, sorry! 
+Linhardt: My apologies, Professor. It was a bit of a joke. I’ve been waiting here because I thought you might come by.
+Linhardt: I'm glad to find I was right. I hoped to find you so I might ask... Well, I would very much like to research your Crest.
+Byleth: Not right now. 
+Linhardt: Does that mean you might be interested eventually? Let's decide the place and time right now, then. What? Is that not acceptable?
+Byleth: Why would I let you do that?
+Linhardt: Because it would be terribly interesting?
+Linhardt: Anyway... Have you heard the legend of this place, Professor? It's a sentimental one to be sure. The story goes that if two people share a vow at the Goddess Tower, they'll be bound together forever. Hm, or was it that they'll be cursed forever? One or the other for certain. All the same, I think it's a rather lovely legend.
+Byleth: It doesn't sound that lovely to me.
+Byleth: Tell me more.
+Linhardt: Well, I suppose it does depend on your enjoyment of potentially mistranslated myths. Professor, be warned. This may seem forward of me… However, let's vow that one day I will be allowed to research your Crest as much as I please.
+Byleth: I think not.
+Byleth: Excuse me?
+Linhardt: I've overstepped my bounds again, haven't I? It's just that today is such a special day and, well, I suppose I got caught up in all the excitement. How about this instead? Let's agree to meet here again one day, just the two of us.
+Byleth: If the opportunity arises.
+Linhardt: Such an opportunity won't just arise, we have to make it happen for ourselves. I look forward to that day.
+Byleth: I agree. 
+Linhardt: I look forward to that day. I really do…
+
+Caspar: Hey, Professor! I was looking all over for you. What are you doing up here? I think this place is supposed to be off-limits...
+Byleth: I didn't know.
+Caspar: Well, that's the official rule. I don't think anyone follows it though.
+Byleth: If it's only supposed to be...
+Caspar: Heh! Good point. No one follows that rule anyway, and I heard no one from the monastery really cares.
+Byleth: Where did you hear that?
+Caspar: Huh. I can't remember her name. It was just some girl who started talking to me last night. She was trying to get me to leave the ball tonight and go to the Goddess Tower with her. She wouldn't say what she wanted to do here though. Said it was a secret or something. I told her I'd be too busy dancing and stuffing my face with food, so she left. Don't know why, but she didn't seem too happy about it. I guess I was curious though, so I came to check it out. That's when I saw you walking this way, so I followed you in.
+Byleth: That's just awful.
+Caspar: Isn't it? She wouldn't explain herself and she got angry!
+Byleth: I was referring to you.
+Byleth: I can't help but feel sympathetic.
+Caspar: I appreciate that, but I'm not really looking for sympathy. I just wish she would've explained herself before getting all angry.
+Byleth: My sympathy was not for you.
+Caspar: Huh? Why? Well, it's all over now. Can't change what's in the past.
+Byleth: I like your positive attitude.
+Caspar: Thanks! I had a feeling you'd get it.
+Byleth: Maybe you should worry about the past a little.
+Caspar: Ugh. Really? I just don't like to dwell... But if you say so, I could keep it in mind.
+Caspar: Anyway, I'm going to head back to the ball. You coming? Doesn't look like there's anything too exciting going on here.
+Byleth: Let's head back.
+Caspar: Maybe coming to the tower wasn't a total waste of time. I got to talk to you at least, right?
+Byleth: I'm going to stay.
+Caspar: All right. Don't stay too long though. You might catch cold.
+Caspar: Welp, I'm starting to get hungry again. Time to fill up on some more food!
+
+Bernadetta:  Ah! Wh-what's that?! Ghost?! Is it a ghost?! Don't eat me!
+Byleth: Calm down, it's OK.
+Bernadetta: It'll eat the skin right off my bones and no one will ever— Huh? Oh, it's you, Professor. What a relief.
+Byleth: It's just your professor.
+Bernadetta: I knew it! I said, Bernie, this place is haunted, you'll just get eaten by the ghost of some dusty old professor or— Oh. Oh, it's you.
+Byleth: You can relax now.
+Bernadetta: Right. I'm better now. Thanks. But try not to scare me like that again, please... With the ball happening tonight, I was sure there wouldn't be anyone here. And from far off, you look... Well, you kinda have a spooky silhouette. I guess you haven't heard the legend?
+Byleth: Legend?
+Bernadetta: Oh, so if a couple swears a vow on the night of the ball, the goddess grants their wish? That's amazing! Is it true? I guess that's the sort of thing you miss when you spend all your time avoiding people. But wouldn't it be nice to spend some time alone with a nice guy in this lonely tower, cut off from all the rest of the world? Anyway… Oh, Professor! Since you're here and all, could I ask you for a favor? As you probably know by now, it's my lifelong dream to live in solitude forever… So could you help me to swear that vow?
+Byleth: Nice try.
+Bernadetta: Saw right through me, huh?
+Byleth: I can't promise that.
+Bernadetta: Guess you're right. It probably wouldn't work out so well for me, would it?
+Bernadetta: Ah, well. No use complaining. Actually, I'm happy I got to see you here tonight. Even if it was just by coincidence. Would you mind staying a little longer? It's nice and quiet, and the sky's really pretty. I quite like the atmosphere. On a night like this, being out in the open doesn't seem so bad…
+
+Dorothea: Ah, Professor! You showed up!
+Byleth: Why are you here?
+Dorothea: Um, I'm the one who called you here, remember?
+Byleth: Why do you look so happy?
+Dorothea: Well, because you're here, of course!
+Dorothea: You came here because you read the letter I sent you, right?
+Byleth: Not that I recall…
+Byleth: What letter?
+Dorothea: Are you saying this is...a coincidence? How disappointing to think you didn't come here specifically to see me. Still, if we're meeting by complete chance... that has a certain appeal too. It's as if destiny brought us together! And tonight is the night of the ball... Lucky me.
+Byleth: What are you plotting?
+Dorothea: Plotting? That's a bit rude, don't you think?
+Byleth: I thought you weren't comfortable around me...
+Dorothea: Oh, that's just when you're looking through me in front of others. When it's just us...I kind of like it.
+Dorothea: Originally, I wanted to see what you'd do when you read my letter. I just wanted to see if you'd come here like I asked. I had a feeling that you would. Though, I suppose you didn't even read the letter to begin with… I should just be thankful I wasn't left here waiting. All alone. Forever. Do you know it's been almost nine whole moons since you arrived at Garreg Mach? You must have found a special someone by now, haven't you, Professor?
+Byleth: I have.
+Dorothea: Ooh? Who could it be? You've made me so curious. Oh, don't worry. I'm not going to pry if you don't want to share. Your private life is private, after all.
+Byleth: I have not.
+Dorothea: Uh-huh, right. I bet you're just hiding it. There's someone you're sweet on… Don't you worry, I won't pry if you don't want to share. These things are private, after all.
+Byleth: Is that what you wanted to talk about?
+Dorothea: Are you changing the subject? Don't do that. Ohh, I bet that means you do have someone, don't you? Don't you worry, I won't pry if you don't want to share. These things are private, after all.
+Dorothea: Well, I oughta get going… I wouldn't want to be in the way if your special someone shows up. Either way, I do hope you'll share a dance with me later.
+
+Petra: Professor, what is bringing you here? Is the ball not enjoyable?
+Byleth: I had to escape.
+Petra: Escape? I thought the ball was for dancing, not fighting... Oh! Escape! Meaning...to leave. I have understanding.
+Byleth: I wanted to see you. 
+Petra: But you are seeing me every day. Why would you be wanting to see me now? Maybe you and I share a reason for being here...
+Byleth: I'm lost.
+Petra: Lost? But this monastery is where our home is... I am not understanding.
+Petra: I have been hearing about a legend. About the Goddess Tower. People have a belief that the goddess watches this place on this night. If you share a promise, the goddess will make that promise become true. That makes men and women who are close come to this place. On this night. I am wanting to see that, and so I came to observe. With secrecy. But no one is here. I have much disappointment.
+Byleth: I wanted to see that too. 
+Petra: Someone might arrive still. We could go find a hiding spot for both of us. We may have to be squished with each other, but I will not be worried if you are not.
+Byleth: You shouldn't spy on people.
+Petra: Yes, that has truth. I will be thinking about that from now on.
+Petra: Oh! I have a realization! If someone sees us here with each other, they will think that we are with each other! That is not accepting...acceptable for people to misunderstand!
+Byleth: That could be a problem.
+Petra: We should be returning to the ball, separately.
+Byleth: I wouldn't mind. 
+Petra: Is that OK, Professor? I think we are agreeing on that. Maybe we should be returning to the ball... with each other.
+
+Dimitri: It's quiet here, isn't it, Professor? That reminds me. Do you know the legend associated with the Goddess Tower?
+Byleth: I've heard it.
+Dimitri: Is that right? You don't strike me as the sort to enjoy stories like that.
+Byleth: I'm not concerned with such things.
+Dimitri: Just as expected.
+Dimitri: They say that wishes made in this tower will come true. I wonder who came up with such a silly notion.
+Byleth: You don't believe it?
+Dimitri: Legends are legends, nothing more. I doubt there are many who really believe that wishes can be granted. The goddess just watches over us from above... That is all. No matter how hard someone begs to be saved, she would never so much as offer her hand. And even if she did, we lack the means to reach out and grasp it. That's how I feel about her. In any case... I suppose there's no harm in passing the time with silly legends. What do you say, Professor? Care to make a wish? We are here on the night of the ball. Why don't you try wishing for something?
+Byleth: After you.
+Byleth: I can't think of anything, so go ahead.
+Dimitri: A wish of my own... I suppose my wish...is for a world in which no one would ever be unjustly taken from us. Or...something along those lines.
+Byleth: That's a great wish.
+Byleth: I'll wish for the same.
+Dimitri: Thank you, Professor. Although, at a time like this... Perhaps it would make more sense for me to wish that we'll be together forever. What do you think?
+Byleth: …
+Dimitri: … Haha! Well now, Professor! You must admit I've improved in the art of joke telling.
+Byleth: That's cruel.
+Byleth: It didn't sound like a joke.
+Dimitri: I'm sorry... I guess that was rather thoughtless of me. … Honestly... I do regret saying such a thing. Please think nothing of it. I've blurted out irresponsible things like that to my classmates. Promises that we'll see each other again and the like. I have no business making such promises for the future. There are certain things that I must accomplish, even if it means risking my life. I may not even have a future to promise to someone.
+Byleth: …
+Dimitri: We should head back soon. It's rude of me to keep you all to myself. Shall we, Professor?
+
+Dedue: What are you doing here?
+Byleth: I could ask you the same.
+Byleth: I needed some quiet.
+Dedue: I felt similarly.
+Dedue: Though I elected to attend this ball, I did not know what to do with myself once there. I do not wish to be a nuisance to His Highness or to my classmates. Thus, I have sought solitude. I noticed a number of people looking for you, however. Should you not return to the festivities?
+Byleth: I’d like to stay here a bit longer.
+Byleth: Not just yet.
+Dedue: As you wish.
+Dedue: …
+Byleth: …
+Dedue: The stars seem brighter here, somehow. I have heard the goddess of Fódlan grants a special blessing at this tower. The blessing ensures that any oath sworn between man and woman here shall be fulfilled. That is what I have heard. We had similar legends in Duscur. Some elements of human culture are universal, I suppose. Is there an oath you would like to swear?
+Byleth: Not that I can think of.
+Dedue: I understand.
+Byleth: I swear to work toward peace for Fódlan.
+Dedue: I am not sure that a full and lasting peace is possible.
+Dedue: But while I have this opportunity, permit me to swear an oath to you. I swear that we will look upon these same stars again, when His Highness has led us to a more tranquil age.
+Byleth: That is a worthy oath.
+Byleth: I look forward to it.
+Dedue: Good. There is a chill in the air, is there not? I am accustomed to cold weather. But you should go back indoors.
+Byleth: Let’s go back together.
+Dedue: If you wish. I suppose the damage to your reputation for being seen with me has already been done.
+Byleth: Will you share a dance with me?
+Dedue: I do not know how to dance. If you wish to teach me, then I will endeavor to learn.
+Dedue: Let us return. If the cold is too much, I will lend you my coat.
+
+Felix: Oh, look who it is.
+Byleth: What are you doing here?
+Felix: I just wanted some quiet. It's so loud, I needed a little respite.
+Byleth: Are you waiting for someone?
+Felix: No. I just wanted a bit of quiet.
+Felix: Besides, what are you doing here?
+Byleth: I thought I might find you here.
+Felix: Huh? You must be joking.
+Byleth: I'm here for the same reason as you.
+Felix: Ah. Well, I guess it figures.
+Felix: Hm. Have you heard the legend of the Goddess Tower? That if you make a pledge, it will be fulfilled? Childish, I know. But if it were true... Let's make a pledge to the goddess. I pledge that someday, I will surpass you. I'll surpass your technique, your skill with the sword, and your cunning as a warrior. Then I will make you taste defeat!
+Byleth: That seems extreme.
+Byleth: That's your pledge to the goddess?
+Felix: What a disappointment. If you're looking for a passionate affair, you've got the wrong man. Go find someone else. I've spent my life avoiding love and romance. They're distractions. Blades, blood, and battle. That's what I'm made of and nothing else. If someone saw us, however, this may look like an amorous meeting. You'll have to settle for being mistaken as my lover.
+Byleth: That's mean.
+Byleth: What nonsense.
+Felix: It's time I went back to training. I'll always be more comfortable holding a sword than a woman's hand. Try not to catch a cold up here. I'd hate for such a good sparring partner to be out of commission. Good-bye.
+
+Ashe: Professor! Did you come up here for a rest too?
+Byleth: That’s right.
+Ashe: I guess we think along the same lines. I was feeling kind of worn out.
+Byleth: Actually, I was looking for you.
+Ashe: For me? Oh! I’m so sorry to put you out of your way! I was just kind of worn out from all of the excitement. I am enjoying the ball, but it’s a bit much, you know?
+Ashe: Everyone else seems used to this kind of thing, but I’ve never been to anything like it before. My friends did teach me a bit about proper manners and how to dance, but I still feel out of place. Stepping on girls’ feet, messing up the pretty floral decorations… Haha, I’ve been a bit of a disaster. Sometimes I wonder if it’s even right for someone like me to be in a place like this.
+Byleth: I feel that way sometimes too.
+Ashe: Really? You do? That’s kind of reassuring!
+Byleth: You have every right to be here.
+Ashe: You're right, of course. I'm a student at the Officers Academy, just like everyone else. Lonato was kind enough to send me here. I need to live up to his expectations.
+Ashe: By the way, have you heard the stories about the Goddess Tower? They say that if a man and a woman make a wish together here, the goddess will make it come true.
+Byleth: What would you wish for?
+Ashe: Oh, never mind me. I'd like to know what you'd wish for!
+Byleth: Let’s make a wish together, then.
+Ashe: My thoughts exactly! Do you have anything in particular you’d like to wish for?
+Byleth: My wish is…
+Ashe: Your wish is?
+Byleth: For your wish to come true, Ashe.
+Ashe: What? My wish? W-well, um...let me think.
+Byleth: I can’t think of anything.
+Ashe: Well, if you can't come up with anything, maybe I should think of a wish instead?
+Ashe: All right, I’ve got it. I wish for my brother and sister back home to be able to live out their lives in peace.
+Byleth: That’s just like you.
+Byleth: That’s a lovely wish.
+Ashe: This kind of thing is pretty embarrassing, huh? Maybe I should be heading back. I’ll never get better at fancy social events like this if I keep running away from them, right? I guess I should ask another girl to dance. Oh, but I’d better make sure I go over the steps again first.
+Byleth: You could dance with me.
+Ashe: Really? You’d do that? Wow, that’d be great! Just promise not to laugh if I mess it up, OK? Come on. Let’s head back.
+
+Sylvain: Evening, Professor. Lovely night, isn’t it? Just look at those stars… I heard you were headed over to the Goddess Tower, and I got curious about who you might be meeting. But here you are all by yourself. This isn’t a lover’s tryst at all! Heh heh…
+Byleth: Tryst?
+Sylvain: Oh, yeah. The Goddess Tower is where lovers meet. Didn’t anybody tell you? They say that if you exchange vows here, they always come true. It’s a sacred place for lovers.
+Byleth: Why are you here alone?
+Byleth: Where is your lover?
+Sylvain: Well, the person I’m interested in...is already here. You’re here alone. I’m here alone. I was thinking maybe…
+Byleth: Wait. Me?
+Sylvain: Well, of course! We’re the only two people here, aren’t we? I keep thinking about it, and it just makes sense. My Crest and yours…
+Byleth: That’s too much, too soon.
+Byleth: Marry you? I can’t even trust you.
+Sylvain: Heh, OK. True, true. You know, I’ve never regretted any of my past behavior...until you turned me down just now. I can’t be who I’ve been my whole life. I gotta get it together and become a man you can trust. I know that sounds like another one of my games, but it’s true. I’ll prove it to you. Anyway, I’m going to head back to the ball. Since we’re both here, would you accompany me?
+Byleth: I’ll go back with you.
+Sylvain: Well then, my lady, I do hope you’ll give me the honor of a dance. It will be good practice for our first dance at our wedding reception. Heh heh—I’m kidding!
+Byleth: I’m going to stay here for awhile.
+Sylvain: It's chilly out tonight, so take care not to catch cold. And if you do get cold, you know where to find me. Sorry. Old habits die hard, I guess... OK. Well, I'm headed inside.
+Sylvain: Anyway… Let’s get going before you change your mind.
+
+Mercedes: Why, Professor! I was wondering where you ran off to. I searched the entire floor but couldn't find you anywhere. Tired, are we? I can tell by that look on your face. It must be exhausting being so popular, huh?
+Byleth: I'm exhausted...
+Mercedes: I can imagine. Shall we take a break here, then? Say, Professor. Have you heard the legend of the Goddess Tower? They say that if two people exchange a vow here, the goddess herself will fulfill it.
+Byleth: I've never heard that before.
+Mercedes: Well, that simply won't do. You'll fall behind if you can't keep up with your students!
+Byleth: I think I recall such a story.
+Mercedes: Ah, so even you have heard that one. The stories must travel far.
+Mercedes: Many young couples come here in private, all thanks to that legend. They make promises to stay together forever. Things like that. I actually saw a man invite a lady to join him at the tower while on my way here. It's rather romantic, don't you think?
+Byleth: I think so.
+Mercedes: Indeed.
+Byleth: I disagree.
+Mercedes: Really? You're a strange one, Professor.
+Mercedes: Though, just because two people share a promise, that doesn't guarantee they'll be together forever. You've noticed many nobles at the academy, right? They very rarely have the freedom to choose their own partners. Yet still they wish to stay together. Maybe that's why they pray to the goddess. Are you waiting on anyone, Professor?
+Byleth: No, there's no one.
+Mercedes: What a relief. I was afraid that I was keeping you.
+Byleth: I was waiting for you.
+Mercedes: Oh my. Even though we didn't make plans to meet? You're a charmer, aren't you?
+Mercedes: Ah! I almost forgot why I came looking for you! I was wondering if you'd like to dance with me. It's just so loud in the reception hall though. I think I'd rather stay here with you... If that's all right with you, Professor. Thank you. I appreciate it.
+
+Annette: Professor! I'm happy to see you here. Everybody's been asking about you. You're really popular with the students.
+Byleth: I had to escape.
+Byleth: I'm worn out.
+Annette: Oh, really? Huh. Uh, actually, I've been trying to find you too. But if you're not interested in dancing, that's OK. We are supposed to be at a ball thought... If you're not going to dance tonight, when and where will you get another chance?
+Byleth: Here.
+Byleth: Now.
+Annette: Wait...really? There isn't any music... But this is too special to pass up! Maybe...I could sing a little something. I may not look like it, but I'm a practiced singer. Though...people do tend to think my lyrics are a little odd. ♪ Fry the food, it tastes so good... It fills up our hungry tummies... ♪
+Byleth: Now I'm hungry.
+Byleth: What an interesting song.
+Annette: It's about this yummy stew one of the monks taught me to make a while back. Oh, I know! I'll make it for you! It really is just about the tastiest thing in the world. Um... If I'm bothering you, please tell me now and I'll leave you alone.
+Byleth: …
+Annette: Say, Professor... Did you know that if you make a wish here at the Goddess Tower, it will for sure come true? That's why people usually meet up with someone they like here. For a rendezvous! And they make a wish that they'll stay together forever. So... Uh, I thought you might be waiting for a girl here. And that I'm messing it up.
+Byleth: I've never heard about that tradition.
+Byleth: Nothing of the sort.
+Annette: Hehe, that's just what I'd expect you to say! But since we're already here, let's go ahead and made a wish together.
+Byleth: What kind of wish?
+Byleth: Sure.
+Annette: I've already decided what it will be. Dearest Goddess... I wish for the professor and I to always be the best of friends! How's that sound? Can we wish for that?
+Byleth: I'd be happy to.
+Annette: Really? That makes me so happy!
+Byleth: It's a little embarrassing...
+Annette: Oh no! Actually, when I said it aloud, I could tell it was an embarrassing wish... Oops!
+Annette: Well, I'd better be going now, and you should think about returning to the ball too. But make sure you save me a dance!
+
+Ingrid: Whew, I can't manage one more bite. So full... So full!
+Ingrid: Oh! Professor! What do you think you're doing here?! I came here to stuff my fa—I mean to have some ME time.
+Byleth: I sort of followed you...
+Ingrid: You mean you saw that just now? All the food? Everything?! Ugh, so embarrassing... Maybe there's a nearby rock I can crawl under.
+Byleth: No reason, really.
+Ingrid: Oh, so we're just running into one another by chance, then. Phew. If you had followed me here, I'd be a little...bothered. And probably embarrassed.
+Byleth: Were you waiting for someone?
+Ingrid: Who, me? No, no, of course not. I was just about to walk off all that food I just ate. Really, I came here to have some privacy. But you're here now, so I suppose that makes it a bit less private.
+Byleth: Are you worried people may get the wrong idea?
+Ingrid: I suppose there's that possibility, now that you mention it.
+Byleth: Just the two of us...
+Ingrid: Uh...well, yes. I suppose it's just us here...
+Ingrid: Does that concern you too, Professor? I'm happy to return to the reception hall.
+Byleth: It's not terribly concerning, really.
+Ingrid: Of course. Nothing to see here! I'm happy to keep walking off this food, in that case. Ah, the stars certainly are beautiful tonight, hm? It's peaceful, looking up at them together, don't you think? Maybe we can do it again sometime.
+Byleth: I'd love to come along.
+Ingrid: If we return from here together, I worry that people would start unsavory rumors about us. I don't concern myself with gossip, but I'd hate for it to mar your reputation in any way. Are you certain? Fair enough. Let's head back, then.
+
+Claude: Oh. Hey, Teach. What brings you to the Goddess Tower? You know what, never mind. The answer is as clear as day. You couldn't bear the ball anymore and simply had to escape.
+Byleth: I wouldn't say that...
+Byleth: I just needed a break.
+Claude: There's nothing wrong with admitting you're not comfortable in a noisy crowd. Really, I get it. I'm the same way.
+Byleth: I don't believe it.
+Claude: Ha! See right through me, do you? But I really do mean it. Parties aren't for me. Music and fun are all well and good, but those dances the nobles do are...something else. I was never really taught to do that sort of thing. My upbringing was...lacking in certain ways.
+Byleth: Even though you're from a noble family?
+Byleth: Even though you're heir to the Alliance?
+Claude: Even so. I may have secured a fancy new title, but who I am on the inside... Well, status alone can't change that. That's a bit of an aside, though. Say, Teach... have you heard the legends about this tower? They say if a man and a woman pray for the same thing here, on this night, the goddess will grant their wish without fail.
+Byleth: Why tonight?
+Claude: Who knows? Maybe it has something to do with celebrating the anniversary of the monastery's completion. Maybe the goddess comes down from above on this night and this night alone to celebrate with us. Even goddesses like to party, right? The truth is that it's just a legend the students here like to tell. It's not based on any real facts. But I suppose it would be a waste to pass up a chance of having our wish granted. What do you say, Teach? Care to try?
+Byleth: What would we pray for?
+Claude: Hm... Let's see... How about we pray for our ambitions to come true? You don't exactly seem like the selfish type, but even you must have an ambition or two.
+Byleth: I do.
+Byleth: I do not.
+Byleth: More of a hope...
+Claude: That's what I thought. It's the same for everyone.
+Claude: Even if you're not aware of it, I'm sure there's something your heart of hearts wishes for.
+Claude: That's what I thought. It's the same for everyone.
+Claude: No one is ever completely satisfied. Everyone has something they long for. Otherwise, what's the point of it all? Of course, same goes for me. Without even realizing it, I found myself holding tight to some pretty big ambitions. If you would... I would love for you to share in those ambitions with me, Teach.
+Claude: But all that aside, let's get started. Let's pray to the goddess before she tuckers out for the evening. OK... Here goes. Oh, divine Goddess! Hear our prayers! We beseech you and your radiance! Please, grant us that which we seek!
+Claude: Huh. I think that should do it. The goddess'll make our dreams come true now, yeah?
+Byleth: I wonder.
+Claude: At any rate, we've done all we can. Whether we actually believe our dreams will come true or not is up to us.
+Claude: I suppose we should head back soon. I'm sure everyone is looking for you. Just promise to spare a dance for me. OK, Teach? I swear, so long as it's not one of those goofy noble dances, I am a treasure on the dance floor!
+
+Lorenz: Ah. There you are, Professor. I didn’t see you at the ball. I was wondering where you’d slipped off to. Everyone is waiting for you. Shouldn’t you be heading back?
+Byleth: Momentarily.
+Byleth: No, I’d like to stay here.
+Lorenz: Well, there’s no need to hurry. The ball will continue a while longer. Was the noise becoming too much? It must be difficult, if you are unaccustomed to high society. I say that, but I’m actually the same. After a while of excitement, I yearn for peace and quiet.
+Byleth: Did someone turn you down?
+Lorenz: Professor! Rude! Just what do you think of me? There are definitely students in there making the most of things. Flirting as if their very lives depended on it. But for a catch such as myself, every day is an opportunity. There’s no need to appear desperate. Still, it’s unexpected that the two of us would be here together, isn’t it?
+Byleth: Why is that?
+Lorenz: Do you not know the legend of this place? The goddess is said to grant a special kind of blessing, unique to the day of this ball. It is said that on this day she will honor any vow sworn between man and woman here at this tower. It’s a famous legend amongst the students, which may be why I expected to find more of them here.
+Byleth: So, you came here to spy on people?
+Lorenz: Of course not! I would never stoop to such despicable behavior! Honestly, I forgot all about the legend until now. I’m not interested in that sort of foolishness. Though I suppose it couldn’t hurt to test it. Even if it is only a legend. What do you say, Professor? Shall we swear some sort of vow together? Something that will benefit the both of us. What dream should we promise to make a reality?
+Byleth: Peace for all.
+Byleth: Happiness for the two of us.
+Lorenz: That’s very fitting. I will remember that we made this vow here today. Well, I should head back. Lest, by my absence, the festivities lose their luster.
+
+Raphael:  Omm… Mmm… Mmm… Huh? Who’s there?!
+Raphael: P-Professor! Is the ball over already? What, uh… What are you doing here?
+Byleth: Just taking a break.
+Raphael: Ah, a break. Sure, sure. That's uh... That's what I'm doing too.
+Byleth: I heard a strange noise.
+Raphael: Strange noise? No need to worry! I’ll, uh… I’ll look into it for you!
+Raphael: Huh. I suddenly have the energy to dance! Maybe I’ll head back to the ball.
+Byleth: What were you eating?
+Raphael: Ah! You noticed. It was just some meat. It was a much nicer cut than I’m used to. We all got one helping, but some people didn’t want theirs! Can you believe it? I hate to see good food go to waste. I’m sorry, Professor.
+Byleth: You should be.
+Byleth: You need to follow the rules.
+Raphael: You’re right. I know… Oh! By the way! I heard something on my way here. I heard that if two people make a wish together in this tower, on this night, the goddess will grant it!
+Byleth: Two people?
+Raphael: I don’t know the specifics, just that you can’t do it alone. There has to be two of you. Since we’re both here now, let’s make a wish together! What should we wish for? More delicious cuts of meat?
+Raphael: No? Then how about bigger muscles?
+Raphael: What else is there to wish for? Hm! Me becoming a proper knight? But that’s just for me, not you…
+Byleth: We can wish for that. 
+Raphael: We can? Professor! That’s so generous of you!
+Raphael: Now that we wished for it, I’m sure I’ll become a proper knight!
+Byleth: Let’s wish for peace in Fódlan.
+Raphael: Peace in Fódlan? That's a good wish too!
+Raphael: I really hope our wish comes true.
+
+Ignatz: …
+Ignatz: Gah! Is that you, Goddess?! Professor! Ah. I’m sorry, I thought you were the goddess.
+Byleth: That’s ridiculous.
+Ignatz: You’re right, you’re right. Imagine, if she just appeared out of nowhere! Do you know of that old legend, Professor?
+Byleth: Old legend?
+Ignatz: Yes. It’s said that if a man and a woman make a vow tonight at the Goddess Tower… She will appear before them and bless them, ensuring that vow’s fulfillment.
+Byleth: Ridiculous.
+Ignatz: I know, but can you imagine if she just appeared out of nowhere? Still… Maybe, even if we can’t see her, we can sense her presence. I envision the goddess as the most beautiful creature in the world… More beautiful than any landscape, any artwork. Utterly beyond compare. That’s what I think anyway. Or perhaps, what I hope. Since I first heard that legend, I’ve wanted to try it and perhaps meet the goddess.
+Byleth: But if the legend’s true…
+Ignatz: Yes, I know what you’re getting at. She would never appear before a single person. Frankly, I didn’t know any girls well enough to invite them here. So I was hoping a couple would come along, and I could sneak a peek… Wait! That came out wrong! I take that back. I have absolutely no intention of peeking!
+Byleth: Shall we make a vow?
+Ignatz: What? You and...me? I suppose we do fit the criteria, but are you certain you would want to do that?
+Ignatz: In that case, let’s try it! What should our vow be? Please, pick whatever sounds best to you!
+Byleth: Peace for Fódlan.
+Ignatz: Of course. Might be a little ambitious, but let’s give it a try!
+Byleth: Happiness for all.
+Ignatz: Of course. Might be a little ambitious, but let’s give it a try!
+Byleth: May you live your life honestly. 
+Ignatz: Oh? Oh! I see! Yes, that's a wonderful vow.
+Ignatz: Now, let us pray.
+Ignatz: …
+Ignatz: Did you feel that?! I think the goddess is near!
+Byleth: Still ridiculous.
+Ignatz: You’re right, of course.
+
+Lysithea: Professor?
+Byleth: Yes? 
+Lysithea: I saw you wandering off to this tower. I thought you might be lost or something, so I followed you inside.
+Byleth: Actually, I'm a ghost.
+Lysithea: Don't toy with me like that, Professor! I know it's you. I figured you might be lost or something, so I followed you inside.
+Lysithea: Everyone seems to be looking for you. You're surprisingly popular.
+Byleth: That surprises you, does it? 
+Lysithea: I do find it surprising, yes. Particularly your popularity with the ladies.
+Byleth: Naturally.
+Lysithea: Despite your confidence, I'm still surprised by your popularity with the ladies.
+Lysithea: It isn't like you're very sociable, after all. Not to be rude, mind you.
+Byleth: How do you fare in such matters?
+Lysithea: Er, I wouldn't know, to be honest. I have no interest in such things. The academy is for honing one's skills. Not for frivolous romances, despite what the other students may think. I overheard them gossiping about a place where a man and a woman can make a vow, and it is certain it will come to pass. Seems to be some folktale they enjoy. I wonder where this place is...
+Byleth: The Goddess Tower?
+Lysithea: Oh, of course! I recall now. It's— Wait. That's... That's here, isn't it?! Uh, just to be clear, this is pure coincidence. I didn't follow you for...for that. But we are here alone, so people may wonder what our aim is. Let's get out of here before someone sees us and gets the wrong idea!
+Byleth: There's no need for panic.
+Lysithea: Are you saying you don't mind if someone sees us and thinks… Oh, I suppose you believe there's no danger of that, since it's just me. You're treating me like a child, aren't you? Well, I don't mind either, then. Obviously there's nothing going on here. If you're going stick to around until we collect dust, then so will I!
+Lysithea: …
+Lysithea: Actually, I'm gonna go now. Don't you stay too long either! You'll catch your death of cold out here.
+
+Marianne: Please be patient! I'll be done with my prayer in a moment... Dear Goddess, I beg thee… Oh! Professor?
+Byleth: Is someone else here?
+Marianne: No... I'm the only one here. Umm… Well, more accurately, I'm the only human present. My bird friend is here as well.
+Byleth: You're talking to a bird?
+Marianne: No! Well. It's more like the bird is...doing me a favor. They say if a man and a woman pray here, on this night, their wish will come true. At least, that's how the legend goes.
+Byleth: And the bird?
+Marianne: It's a pigeon. A...male pigeon. At least, I think so. I thought he might count as a man.
+Marianne: …
+Byleth: …
+Marianne: Well, I'd better be leaving. It seems my pigeon friend got impatient and flew away.
+Byleth: I'm sorry...
+Marianne: No, it's fine. The goddess probably wouldn't accept a male pigeon anyway.
+Byleth: I'll take his place.
+Marianne: Oh? Um. Are you saying you'll pray with me, Professor?
+Byleth: …
+Marianne: Thank you! If you have a wish for the future, let's pray for it, OK?
+Byleth: What is your wish?
+Marianne: Who, me? Oh, nothing in particular. Let's pray for your wish. There must be something you want. Well?
+Byleth: Peace in Fódlan.
+Marianne: Very well. Let us pray.
+Byleth: Only to see you smile.
+Marianne: Hey, no need to tease me...
+Marianne: Professor? I must be going now, but...I'm glad I ran into you.
+
+Hilda: Professor! You're not waiting for anyone, right? Thought so! I bet you've never heard the legend about this tower then.
+Byleth: I haven't...
+Byleth: What legend?
+Hilda: Something special happens here during the Ethereal Moon, on the night of the ball. First, an unmarried boy and girl need to meet at the Goddess Tower and make a vow. Then, the goddess will grant them divine protection, and ensure that their vow comes true. Or so they say! It's a well-known story among the students. A couple guys invited me up here, but...
+Byleth: You turned them down?
+Hilda: Yes, I did.
+Byleth: They stood you up?
+Hilda: No! How rude. I turned them down.
+Hilda: If I accepted their invitations, then our vow would come true. It's just a legend, sure...but I prefer to be cautious about such things. One of the guys was pretty handsome, and he came from a good family... But that doesn't really tell you what a person's like on the inside. I want a life partner who's good-hearted and good-looking. Anyway, I went for a walk and happened upon you, and I thought... The professor's perfect. Why don't I just make a vow with him? Hah! I'm just kidding, Professor. To be honest, I wanted to spy on you. See if you had someone else up here. Although, if you did want to make a vow with me, I wouldn't object. Need some time to consider?
+Byleth: Yes. Let's revisit this tomorrow morning.
+Hilda: Hang on! It won't mean anything tomorrow! Oh, I get it! Everyone's looking for you down there, girls included. You don't want to keep them waiting. You're pretty smooth, you know that? Well, I'm off, then. I'll see you at the ball. Ah... Did the goddess hear that conversation?
+
+Leonie: Hey, Professor. You all alone here? I mean, you're not waiting for anyone or anything, are you?
+Byleth: Actually, I'm meeting the archbishop.
+Leonie: Liar. I saw Lady Rhea just moments ago. She was in the reception hall.
+Byleth: Manuela should be here any moment.
+Leonie: Yeah, right! I just passed her flirting with some guy on my way up.
+Leonie: Anyway, I saw you heading to the tower, so I thought I'd drop by. I figured you might be lonely.
+Byleth: You figured that, did you?
+Leonie: Hey, don't make it weird! By the way... Have you heard the legend about this place? They say if a guy and a girl make a promise here together, the goddess will make sure it's kept.
+Byleth: I've heard.
+Leonie: It's a pretty well-known legend.
+Byleth: I had not heard that.
+Leonie: Really? It's a pretty well-known legend.
+Leonie: Thing is, the way the story goes, it doesn't work all the time. It has to be the night of the ball. Tonight. So, since it's just you and me here, what do you say we give it a go? I mean, I don't know if the goddess will really take the time for a pair like us, but it's worth a try.
+Byleth: What are you suggesting?
+Leonie: Well—you know! Let's make some kind of promise! We've got the chance, it'd be a shame to waste it. I mean, not something romantic or anything. That'd be weird. We could promise I'll become a top-tier mercenary! Though I guess that's more of a wish… Let's see... OK, I've got it. I solemnly swear to meet you once more, on this very ground, as a mercenary beyond compare! Oh, but that was all about me. No fair. You probably have something you want to promise too.
+Byleth: No, I think that covers it.
+Leonie: Hah. You really do take after Captain Jeralt—always putting others first. All right, then, Goddess. You heard the promise. It's a done deal. Say, Professor...why did you come out here, anyway?
+Byleth: I just wanted some time alone.
+Leonie: Ah. Well, it is pretty crowded down there. I guess I shouldn't have interrupted. I'll leave you to it. But don't stay out here too long, all right? You'll catch a cold!
+
+Flayn: Professor? Is that you over there? It seems both of us were curious about this place.
+Byleth: What are you talking about?
+Flayn: Oh, perhaps I was mistaken. I figured you had come to this tower after having heard the legend.
+Byleth: What legend?
+Flayn: You've not heard of it, then? I suppose I only recently learned of it myself, from a friend. Legend tells that on the night of a ball, when a man and woman pledge vows at this very tower… The goddess will bestow her blessing, ensuring those vows come to pass. Of course, such things do not really come to pass. But there are many who place stock in this legend. I wondered what sort of vows youths tend to pledge... So here I am, hoping to gain deeper understanding. Only to bump into you! Are you meeting someone here, perchance?
+Byleth: No, I'm not.
+Flayn: That's unfortunate. I wonder if anyone else will be coming… Professor? If the legend were true, what type of vow might you pledge?
+Byleth: It's hard to say…
+Flayn: No ideas? Perhaps your imagination is lacking due to the lack of a partner. What say you to being my partner? How about sharing a vow with me? I'll give you until the count of three to come up with something heartfelt and honorable. One...two...three! Go ahead!
+Byleth: May we always be together.
+Byleth: May we both find joy.
+Flayn: Oh! You made my heart flutter! I see. This is the type of vow one would make to another. You've taught me well, as a professor should. I'm most certainly wiser and more mature than I was, even just moments ago. Oh dear. What if the goddess really did hear your vow? Although...I suppose I would not mind if that turned out to be the case. I bid you good evening.
+
+@Dialogue 
+Sothis: Running away? I understand. You hardly had the time to breathe in there. It must be hard to be the favourite teacher at the ball! Poor, poor Professor!
+Byleth: I am not everyone's favorite...
+Sothis: Was that a joke? I find it hard to tell with you. Just think of all the students begging you to dance!
+Byleth: It is difficult. 
+Sothis: So you do think you're the favorite! I might have known.
+
+Dimitri: Professor? What are you doing here?
+Byleth: Aren't you going to dance with Edelgard?
+Dimitri: No, I should think not.
+Byleth: Aren't you going to dance with Claude?
+Dimitri: Haha, good one, Professor. I could see saving a dance for Edelgard, but Claude is another story. In any case, I have no intention of dancing with anyone.
+Dimitri: As a child, Edelgard taught me how to dance. It was...a bit awkward, honestly.
+Byleth: Edelgard?
+Byleth: As a child?
+Dimitri: I've told you before we're siblings by marriage, haven't I? Her birth mother was my stepmother, although I didn't know that at the time. My stepmother treated me with such kindness...just as though I were her own flesh and blood. And yet she never so much as hinted that she had her own child...Edelgard. We were born and raised in different territories, without ever knowing the other even existed. Yet, against all odds, for just over a year, we became childhood friends.
+Byleth: Friends?
+Byleth: Not siblings?
+Dimitri: Indeed. Unaware of each other's stations or backgrounds, we met and became incredibly close. This was when she and Lord Arundel were living in the Kingdom.
+Byleth: Why were they in the Kingdom?
+Dimitri: They were in exile... This was a time of great turmoil within the Empire. I ran into her when visiting Lord Arundel's residence with my father. She seemed...quite bored. With everything. At first I found her to be difficult and stubborn, but that facade quickly fell away, revealing her true self beneath... That's around the time when she taught me how to dance. Her instruction was... Oh, let's call it strict. To put it nicely.
+
+@Flashback
+Edelgard: Wrong foot, Dimitri! You're supposed to lead with your right!
+Dimitri: El, the sun's going down! I really oughta be heading home...
+
+@Dialogue
+Dimitri: That one year before she had to return to the Empire was...so much fun. The time of my life, in many ways.
+Dimitri: It's kind of pathetic to think about it all these years later, but can you guess what I gave her as a parting gift?
+Byleth: Flowers?
+Byleth: A book?
+Dimitri: No, that makes too much sense. Actually, I gave her a dagger! You should have seen the look on her face!
+Byleth: A dagger? 
+Dimitri: Huh. Good guess, Professor. But I swear, it came from the heart.
+Dimitri: In Faerghus, we've long considered blades as tools of destiny. As a way to cut a path to a better future. She was being dragged all over, unable to live the life she wanted. I thought the dagger could help her cut out a path to the future she dreamed of. However...that was many years ago. I'm sure she's forgotten all about the boy I was back then.
+Dimitri: I'm afraid it's far too late for that. Things are different now. She's different. I'm different.  Anyway... I'm feeling a bit out of place here. Festivities like this don't suit me.
+Dimitri: Professor... Will you join me for a bit? You must be getting a bit tired of the ball by now.
+
+Sothis: But where is there to run? This place is filled with joyful students looking for a dance.
+
+@Dialogue 
+Sothis: It seems that everyone is having a delightful time. Will you not dance some more?
+Byleth: I'm tired.
+Byleth: I'd rather not.
+Sothis: How dull of you! Had I a body of my own... Oh, I would sing and dance until I fell upon the ground! But you... Hmph. Do as you will.
+Sothis: Ah, you're not the only one who feels that way. Look over there.
+Rhea: ...
+Sothis: Hmph. I'm bored beyond compare. Will you not follow her?
+Byleth: Why would I?
+Byleth: I have no reason to. 
+Sothis: Oh, come on! Hurry up! I know that you are curious to see what she is up to... I hear...someone singing. From other there...
+
+Rhea:  ♪ In time's flow...see the glow of flames ever burning bright... On the swift river's drift, broken memories alight... ♪
+
+Sothis: That song... I feel I have heard it in the past... Actually... It is not that I have heard it. I... Did I once sing that song to someone? No. There's more. I wrote this song... Oh, but how could that be so? If that were true, then how could she be singing it? Unless... No, no. I am suddenly so exhausted... As are you, no doubt? Quickly then. To bed with you.
+
+@Intro
+Alois: Captain? Captain! Where are you? Hey, Professor. Have you seen your old man?
+Alois: Too bad. I guess it will have to be you, then...
+Jeralt: I'm back. Sorry for the delay, my last mission took longer than expected.
+Alois: Captain! Thank goodness you're here. There are reports of Demonic Beasts near the chapel!
+Jeralt: Nonsense. I haven't heard anything about the monastery's walls being breached.
+Alois: That's why I'm heading there now, to see what's really going on. You'll join as well, won't you?
+Jeralt: Of course. We're both sworn to protect this place.
+Byleth: Where did they come from?
+Byleth: Demonic Beasts?
+Alois: It's odd. Just before they appeared, someone saw a number of students heading toward the chapel. They were apparently acting strange, as though they weren't in their right minds. Shortly after, Demonic Beasts started to appear, one after the other.
+Byleth: Are the students safe?
+Byleth: Were the students killed?
+Jeralt: Hm... The students... There's no way those Demonic Beasts got in from the outside... But none of that matters right now. We need to act. Go summon your students.
+Jeralt: Damn it... I wanted to talk to you about something important, but there's no time. There's never any damn time. But this is much more urgent, so it can hold for now. I'll meet you there.
+
+@Opening 
+Things take a turn for the worse as you and Jeralt investigate an abandoned chapel in Garreg Mach.
+
+@Battle 
+Jeralt: There really are Demonic Beasts here... They're emerging from the chapel! I'll head that way. The rest of you, protect the students who weren't able to get away.
+Student: Help me! These beasts... They're...
+Student: Argh! Somebody help me!
+
+Jeralt: That beast... There's a stone or something on its forehead...
+Monica: ...
+
+@Battle-Talk
+%Byleth,Jeralt
+Jeralt: Do you really think you can keep going? Don't push yourself too hard. Thinking about what happened in Remire village, it's clear you've gotten the hang of being a leader. Maybe you should have taken command of me too!
+
+@Battle
+Student: ...
+
+Jeralt: The Demonic Beasts were actually students? How can this be...
+
+Student: Thank you! But my friends who couldn't get away... Are they OK?
+
+Student: I was so scared... I'll find a way to repay you, I promise!
+
+Student: Sorry. That was a close one...
+Student: Phew... You saved me. Thank you!
+
+@End 
+Jeralt: There isn't a trace of evidence to be found in the chapel. This must have been something to do with Remire. Perhaps...
+Monica: Wait!
+Jeralt: Huh? Another student?
+
+@Cutscene
+Jeralt: Run along now.
+Monica: Thanks for all your help, sir.
+Monica: You're just a pathetic old man. How dare you get in the way of my brilliant plan...you dog.
+Jeralt: Run along now.
+Monica: Thanks for all your help, sir.
+Monica: Huh? What are you doing here?
+Thales: You must survive. Merely because there is a role that I require you to fulfill.
+
+Jeralt: Sorry. It looks like...I'm going to have to leave you now.
+
+Jeralt: To think that the first time I saw you cry...your tears would be for me. It's sad, and yet...I'm happy for it. Thank you...kid.
+
+@End 
+Sothis: So this is where your father lived... Hm? Are you still crying? If turning back the hands of time was not enough to save his life, you must accept what came to pass was fate.
+Byleth: It wasn't fate.
+Sothis: Control yourself. Though Jeralt's death was at the hands of wicked ones, a fate is still a fate.
+Byleth: Our enemies will pay.
+Sothis: Agreed. We cannot let the wicked ones run free. 
+Sothis: Oh! Your father said to look for something here. He must be referring to whatever is behind that bookcase there...
+Sothis: Your father's diary... Huh, his handwriting is prettier than his face would suggest. Well, well! These entries here are from before your birth. He seems to have been writing this for quite some time. Hm? Ah... Read that part there. Horsebow Moon, Year 1159...
+
+Jeralt: Day 20 of the Horsebow Moon. All is cloudy. I can't believe she's dead. Lady Rhea said she died during childbirth. But is that the truth? And still, the child she traded her life for doesn't make a sound. Didn't even cry at birth.
+
+Sothis: Well now! That baby must be you! That means... Hm? Someone is approaching us.
+
+@End 
+^start 
+Dimitri: There you are. Lady Rhea is looking for you, Professor. And after your audience, why don't you join me at the dining hall? You haven't eaten since...since it happened. Have you?
+Byleth: ...
+Dimitri: Forgive me... I suppose it's too soon to try and coax you back into the normal swing of things. As for what happened to Jeralt... I'm so sorry. I'm sorry I couldn't do anything to stop it. Stay here until you've found some peace. I'll cover for you with Lady Rhea and everyone else.
+Byleth: Thank you.
+Dimitri: We'll be waiting for you whenever you're ready to return to us.
+Byleth: If only.
+Dimitri: No need to put on a brave face. No one would blame you for taking time for yourself.
+Dimitri: I don't believe it's a sign of strength to just keep going forward no matter what. Taking the time to grieve for those we've lost...there's strength in that too. That's what I think, anyway. That said... It's also important to remember that no matter how sad you are, eventually your tears will dry up. That's when you have to figure out what it is you're living for. Then you can cling to that, with all your might, and start moving forward again.
+Byleth: What I'm living for?
+Dimitri: Four years ago, in Duscur, I experienced the same pain you're feeling now. My father...was the strongest man I knew. Someone I loved and admired deeply. That day, he was killed before my eyes. His head severed clean off. My stepmother, the kindest person I had ever known, left me behind and disappeared into the infernal flames. 
+Dimitri: Everyone who I considered precious...my family and my closest friends...I couldn't save any of them. Not a single one. Now, the burden of the work they left behind falls on me. I must ensure they have no regrets. That's my duty, as the sole survivor of the tragedy. It's a heavy burden, but accepting it gave me the strength to pick myself up off the ground and start moving again. Start living again. 
+Dimitri: Jeralt is gone... So, what will you do now, Professor? What must you do? Look deep in your heart and I'm certain you'll find the answer there...indelible and inescapable. 
+Dimitri: I've probably bothered you enough for today, but I have just one more thought to leave you with. Even now, Seteth is gathering the knights to begin a full scale search for the enemy. It may not be right away, but before long they will find their trail. 
+Dimitri: No matter what happens or what anyone may say, know that I plan to stand by you, Professor. Through anything. Until the bitter end.
+Sothis: Well? Did you search deep within yourself as he suggested? And did you find yourself some answers? This book is filled with secrets yet unknown. We must return another time to read the rest. Oh, but I have at least figured one thing out. I know now why our fates are intertwined...
+
+Alois: Ah... Here you are. To think that Captain... that Jeralt would meet his end like that. I hope you know that you were the most important thing in the world to him.
+Byleth: I was? 
+Byleth: What do you want?
+Alois: He wasn't the most emotional guy. I'm sure expressing his affection wouldn't have come naturally to him. After what's happened, it's up to me now. I, Alois, swear to protect you in the captain's stead.  Sorry. This isn't the time for my blathering. Lady Rhea is looking for you. I came to tell you that. I'll take my leave now.
+Sothis: This book is filled with secrets yet unknown. We must return another time to read the rest. Oh, but I have at least figured one thing out. I know now why our fates are intertwined...
+^end
+
+@Dialogue 
+Rhea: Professor. I have been waiting for you. I am filled with grief at the loss of our most celebrated knight. Jeralt was an ally of many years...and also a dear friend.
+Byleth: Many years?
+Byleth: When did you meet?
+Rhea: It was a long while back. At the time, Jeralt was a soldier of the Kingdom. He was injured in battle, and I saved him just as he was about to perish. That was our first meeting. After that, he became a Knight of Seiros. He gave his all to the service of the church.
+Byleth: Why did he leave the knights?
+Byleth: But it had been so long since you last saw him...
+Rhea: He...fell in love with one of the nuns here at Garreg Mach. Their love produced a child...whom she died giving birth to. It was her decision. She weighed her own life against that of her child's and, in the end, implored me to save the child. Your father...never truly accepted that decision. He took the child–took you–and disappeared without warning.
+Byleth: Who was my mother?
+Byleth: Did I inherit my Crest from my mother?
+Rhea: Your mother...she was my...
+Alois: Sorry for the interruption, Lady Rhea. There's something you must hear immediately. A report from the knights patrolling the area...
+Rhea: Very well. Professor, you are dismissed for the day. Please rest and focus only on mending your heart. Understood?

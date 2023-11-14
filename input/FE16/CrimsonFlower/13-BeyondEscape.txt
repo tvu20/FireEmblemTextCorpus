@@ -1,0 +1,334 @@
+@Opening 
+It is Imperial Year 1185. Half a decade has passed since Emperor Edelgard ascended the Imperial throne, yet the continent of Fódlan still remains lost in a tempest of turmoil and bloodshed. In the Holy Kingdom of Faerghus, King Dimitri has welcomed Archbishop Rhea and her knights, who were driven out of Garreg Mach, to the Kingdom capital. As they work to build a unified front, the war with the Empire rages on to the west. Meanwhile, Claude, leader of the Alliance, staves off Imperial intervention by strategically stirring up conflicts between Leicester lords in an effort to feign neutrality. As events unfold, Edelgard and her Black Eagle Strike Force begin to take action in an attempt to break the war's current state of deadlock.
+
+@Dialogue 
+???: You... How long do you intend to sleep? Your body is awake. Your eyes must open now, and you must find the strength to stand upon those legs of yours. Like so much rain, a pool of blood has fallen to the ground... As spears and arrows pierce the earth, it weeps. And even now...it weeps. In order to survive, they kill. And so, the people of this world are lost in an abyss of suffering. They weep as well. The only one who truly knows the nature of such things is I... Or rather, you.
+Byleth: I'm still sleepy.
+???: You are a complete and utter fool! Have you not changed one bit?!
+Byleth: Who?
+???: Excuse me?! Are you saying you have forgotten who I am? How dare you!
+???: Get on your feet. Right now! I'll coddle you no more! You are just like a child, always needing me to hold your hand...
+
+Villager: Hey! A-are you awake?
+Byleth: Where am I?
+Villager: We’re in a village at the base of the monastery. What are you doing in a place like this?
+Byleth: Who are you?
+Villager: I’m just a villager here. What are you doing in a place like this?
+Villager: I honestly didn’t expect to find someone floating away down the river... Garreg Mach is upstream of here, but that place was abandoned.
+Byleth: What do you mean?
+Villager: Huh? You don’t know? The Church of Seiros isn’t there anymore. Though there have been some folks still living there in the five years since... Well, you know. Regardless, the Imperial Army has taken over now.
+Byleth: Five years?
+Byleth: What year is it?
+Villager: Um, are you feeling all right? You didn’t hit your head or anything did you? It’s the Ethereal Moon of the year 1185. It’s been nearly five years since the monastery fell. Tomorrow was supposed to be the Millennium Festival, but who’s got time to think about things like that?
+Byleth: The millennium festival...
+Villager: Uh, yeah, that’s what I said. But with the war and the archbishop still missing and all, I doubt there’s a soul to be found who has enough blessings worth counting.
+
+Villager: Hey! Slow down, will ya? Where do you think you’re going?
+Byleth: The monastery.
+Villager: Are you crazy?! The Imperial Army is there! Come on, I promise I won’t say you’re a coward. Just forget about going anywhere near the monastery.
+
+Villager: You just remember I tried to stop you, got it? It’s not on my conscience if you wind up dead.
+Byleth: My students are waiting for me.
+Villager: Students? You really are crazy, aren’t you? There aren’t any kids anywhere near that place anymore.
+Byleth: No need to worry about me.
+
+Villager: Unbelievable...
+
+@Dialogue 
+Edelgard: Five years ago to the day... If things had continued on as they were, today would have been the Millennium Festival.
+
+Edelgard: Halt! Who's there?!
+
+Edelgard: It can't be! Professor? Is it really you? But I searched everywhere and never found a trace! My teacher... what have you been doing all this time? Where have you been?
+Byleth: I was sleeping.
+Byleth: I was dead.
+Edelgard: Joking?! At a time like this?! You do realize it's been five years since you disappeared!  Do you have any idea how guilty I felt? How broken my heart was? I searched high and low after you vanished! Although there was no proof, I somehow knew you were still alive. All this time, I led everyone as best I could, and fought with all my heart. It's been a difficult path to walk alone.
+
+Edelgard:  Welcome back, my teacher. I'm so happy that you're safe. Five years... Such a short time, but it fells like an eternity ago. Do you... still feel the way you did all those years ago? You said that you would fight at my side no matter how many enemies we should amass. As for me, my resolve has not faltered. I'm determined as ever to see this through to the end. I will defeat the false goddess. I will save this world from those creatures and give humanity its freedom back.
+
+Edelgard: So, my teacher, are you prepared to stand with me?
+Byleth: I am. 
+Edelgard: I...I thank you. Truly. Now then, I assume you understand the situation at hand, yes?
+Byleth: I really was asleep all this time...
+Edelgard: Another joke. Or...are you telling the truth? I suppose you must be. In that case, I'll tell you all that has transpired as you slumbered these past five years.
+
+Edelgard: ...And that is where we are now. The war is at a stalemate. Dimitri is the new King of Faerghus. It's clear that his territory will continue to support the Church. Meanwhile, Claude's leadership has thrown the Alliance into chaos. He maintains neutrality in their internal conflict. The situation has created a deadlock. We've been awaiting an opportunity for our squadron to return to the monastery. With you in the fray, I believe the state of the war will shift immediately. The Church, as well as the Kingdom and the Alliance... The time has come to eliminate them all.
+Byleth: The Kingdom and the Alliance...
+Edelgard: Although we were of different houses, we were companions who lived and learned together. Some of our ranks are hesitant to battle against them. However, knowing that you're alive is sure to raise their spirits.
+Byleth: The Church of Seiros...
+Edelgard: Rhea, Seteth, the knights, and the others are in prime condition. They've set up their base within the Kingdom capital. The Immaculate One and her family have yet to fight on the front lines. However, we must eventually face and defeat them. It would mean a great deal to have you with us when the time comes.
+
+Edelgard: Good. Well then, I believe it's time for a little reunion. The Black Eagle Strike Force never lost faith. They knew you were alive and have been awaiting your return. Let's not keep them waiting any longer.
+
+Hubert: Well now. That face is certainly familiar. I am glad to see you alive and well, Professor.
+Bernadetta: Professor, it's me, Bernie! Do you remember me? I can't believe you're here!
+Caspar: I can't believe it! Is this a dream? Can we really be this lucky?!
+Petra: This is not dreaming. Our professor is with us again!  Welcome to the back! I mean, welcome back!
+Ferdinand: Our group isn't the same without you. I am overjoyed to see you again!
+Dorothea: It's been so long. Seeing you again fills my heart with hope.
+Linhardt: Great, now everything will be easy.  Um, that's great you're safe, Professor. I'm deeply, deeply moved.
+Edelgard: Quite the reunion, isn't it, Professor? Everyone's happy to see you.
+Caspar: Come on, Edelgard. You must be happier than all of us combined!
+
+Caspar: She took it really hard when you disappeared, Professor.
+Ferdinand: Of course, we did our very best in your absence. And there was never a day that we doubted you would return to us.
+Dorothea: Edelgard has been leading us as emperor. But...after you disappeared, it became apparent that you were her anchor.
+Petra: It gives me regret to be admitting this, but...our power is not enough. The only one who can be meeting Edelgard's expectations...is you, Professor.
+Linhardt: Most impressive of all is your uncanny ability to bring a smile to everyone's face.
+Hubert: In the years since you vanished, we have not lost anyone from our ranks.
+Edelgard: We all longed for your presence and your leadership. Myself included.
+Hubert: It seems fitting to view this as a new beginning for the Black Eagle Strike Force. We already have our target.
+Edelgard: Yes. We must eliminate the Alliance before moving on to fight the Kingdom and the Church. However, that doesn't necessarily mean we must occupy the entirety of the Alliance. House Riegan stands against the Empire... Therefore, our target is Derdriu, the Aquatic Capital.
+Hubert: We must cross the Airmid River, which separates the Empire and the Alliance. To do that, we must take the largest bridge across it. The Great Bridge of Myrddin. Myrddin connects the monastery and the Imperial capital to the east. It is the shortest route there.
+Edelgard: An Alliance stronghold has been built at the Great Bridge. We'll take that and then head north. At the same time, we must defeat the one who defends it, Judith von Daphnel. If we can also take control of Daphnel territory, it would be greatly beneficial to us. Prepare yourselves. The next battle will be a momentous one. Join me, my friends, as we begin our journey to bring peace and solace to this war-ravaged world.
+
+@Conversation 
+Edelgard: Professor... I'm sorry to have dragged you into the fight again so soon after our reunion. But you appeared at a most opportune time. I'm truly humbled by your support, my teacher. Thank you.
+Byleth: You can count on me.
+Edelgard: And so I will. I'm hoping your ability from five years prior are still intact.
+Byleth: I hope I'm not rusty...
+Edelgard: You may be worried, but you shouldn't be. You always manage to pull through.
+Edelgard: Make sure you're ready to head out, OK?
+
+
+
+Hubert: Allow me to brief you on the details of our situation. The Empire firmly controls the western portion of Faerghus. However, the central and eastern regions continue to put up heavy resistance. The strongholds in these regions are Arianrhod, the Fortress City, and Fhirdiad, the Kingdom Capital. We cannot control Faerghus until we have taken both of these cities. As for the Alliance, Houses Gloucester and Ordelia seem predisposed to to capitulate to us. However, due to interference from Houses Riegan and Goneril, we have yet to secure their cooperation. Claude obviously hopes to keep the Alliance whole through diplomacy. But because we have had to focus our efforts against the church until now, our forces have yet to meet his. We have only recently begun to take the fight to Alliance territory.
+
+
+
+Ferdinand: The last five years have been difficult at times. My relationship with Edelgard is rather contentious, due to the incident with my father. Nevertheless, I cannot abandon my family's duties. As Duke Aegir, I must play my part in the Imperial army. Edelgard intends to abolish the nobility, but I know I can dissuade her from doing so.
+
+
+
+Linhardt: Professor! Do you know how happy I was to hear you were still alive? I'll tell you how happy--for the past two days, I haven't had my morning or my afternoon naps.
+Byleth: Morning...nap? 
+Linhardt: Yes?
+Byleth: You were taking those naps every day?
+Linhardt: Well, as long as we weren't marching. Can't sleep much then...but it's not for want of trying...
+Linhardt: By the way, with Professor Hanneman not around... I've occupied his room. So I am well equipped to perform research on you. Isn't that exciting? 
+
+
+
+Caspar: All right, I'm ready to fight! Let's do this!
+Byleth: Whoa, slow down.
+Caspar: You're right! I gotta keep it under control or I'm gonna wear myself out too quickly. Maybe I'll just get rid of a few monsters...or is that too risky right before a mission?
+Byleth: I'm counting on you. 
+Caspar: Leave it to me! I can take on the whole...most of the enemy's army!
+Caspar: I know my limits now, Professor!
+
+
+
+Bernadetta: Are we leaving for battle? I heard it's a long march. But it's fine! I've had plenty of time to stay inside lately, so I think it's time I...went out. Yeah! I can do this. No more Bernie-bear!
+Byleth: Bernie-bear?
+Bernadetta: Oh yeah. People call me Bernie-bear since I hole up in my den all the time. Not anymore though!
+Byleth: That's the spirit. 
+Bernadetta: Yes! But, um. Please don't put me up front, OK?
+
+
+
+Dorothea: Laaa-la-laaa-la-laaa... Professor! Oh my! It's so good to see you. These days, so many old friends seem to be disappearing. But you... You're here! It's incredible to see you again after five years! I have a feeling your name will go down in history.
+
+
+
+Petra: Edelgard is controlling the Empire. She is putting the pressure on the Kingdom and Alliance. Empire and religion are at open war. It will be...difficult for us at first. But corrupt nobles are many. That means the common people will rebel and be joining our side. With you, Professor, the battle tides will...ah, will turn. I have certainty.
+
+
+
+Felix: For five years, I've fought for the Empire. I've cut down hordes of enemies. Now I have the same look in my eyes that the boar used to have in his. The look of a savage beast who loves nothing but destruction and violence.
+Byleth: I don't see that look in your eyes.
+Felix: I hope not.
+Byleth: You're right. 
+Felix: Hmph. I can hardly hold it against him anymore.
+Felix: You and Edelgard must not disappoint me. Mark my words. The future you're building had better be worth all this bloodshed.
+
+
+
+Ashe: Since you came back, everyone's been smiling. Just you being here makes an incredible difference. I can't express how reassuring it is to see you.
+
+
+
+Sylvain: Hey, Professor. It's been a really long time, hasn't it? The last five years have been full of heartbreak-not from girls...but friends and family becoming enemies. One of the things that kept me going was the hope you'd return, and now here you are. A lot has changed, but you're back, and it's the first time I can remember being happy in a while.
+
+
+
+Mercedes: I have good friends in both the Alliance and Faerghus, so this fighting weighs heavily on me... I can't bear the thought of battling the Knights of Seiros to the death! I have to keep my chin up though, right? Let's press on together, Professor.
+
+
+
+Annette: My father used to be a knight in service of the royal family of Faerghus. For a time he was at the monastery, but apparently, he's back in Faerghus serving as a knight again. Which means if I fight with this family, I'll eventually have to face my own father...
+Byleth: If you want to leave, now is the time.
+Annette: Don't say that! I know what I'm doing and I'm ready for anything.
+Byleth: Does that frighten you? 
+Annette: Terribly. But...I've accepted my fate. I'm ready for anything.
+Annette: Of course, if at all possible, I would prefer not to fight my father. This is the path I chose. I have no regrets.
+
+
+
+Ingrid: His Highness, the new king, is in process of unifying the Kingdom under his command. His powerful army has joined forces with the Knights of Seiros, who moved their seat to Faerghus. And now they're presenting a unified front against the Imperial army. They're our greatest enemy, absolutely.
+Byleth: I wonder if we can win.
+Ingrid: Presently, it's doubtful. That's why I'm in favor of first capturing Alliance lands.
+Byleth: Can you fight against your homeland? 
+Ingrid: I don't relish the idea, but there's no turning back now. For now, we should focus our efforts on the Alliance. The Kingdom and church can come afterwards.
+Ingrid: Judith, who defends the Great Bridge of Myrddin, is a formidable opponent. We can't afford to drop our guard.
+
+
+
+Lorenz: House Gloucester will remain staunchly neutral in this war. Even if we press into Alliance territory. My father is no threat to the Empire. Lady Edelgard surely understands that. The Great Bridge of Myrddin, however, is another story. I hear it is held by Judith of House Daphnel. She is renowned for her military prowess. We would do well not to underestimate her.
+
+
+
+Raphael: Hey, Professor! What have you been up to for five years? Hope you haven't gone soft! I got myself into perfect shape. Took all five years of pushing my muscles to the limit, but look!
+Byleth: You look very strong. 
+Raphael: You bet I do! You gotta get training if you want to catch up!
+Byleth: I don't really see a difference...
+Raphael: What?! Can't you see my muscles? Do I gotta undress so you can get a better look?
+
+
+
+Ignatz: I thought you might be at the monastery. That's why I made my way here. I decided to follow your path, because I believed in you. But then you vanished. Now that you've returned, I have my guiding light once again. Welcome back, Professor!
+
+
+
+Lysithea: I'm relieved you're here, Professor. It seems we've reached a stalemate on the war front. I admit I'm feeling apprehensive about fighting the Alliance...
+Byleth: You have to cast aside your doubts. 
+Lysithea: I agree. It's time to shelve my personal feelings and focus on the bigger picture.
+Byleth: You don't have to do anything if you don't want to.
+Lysithea: No. I have to shelve my personal feelings. There are bigger things at play here.
+Lysithea: I'll fight at full force. I'm counting on you to lead us to victory, Professor.
+
+
+
+Marianne: My adoptive father sent me here so our family name would be known. He doesn't care which side wins, the Empire or the Alliance. However, even if he tells me to come home, I intend to stay. I want to see this new world Edelgard dreams of.
+
+
+
+Leonie: I'm so glad to see you're all right. I really regretted not being able to keep the promise I made to my mentor.
+Byleth: Mentor?
+Leonie: Captain Jeralt, obviously! I'm still his first and greatest apprentice, you know!
+Byleth: Promise? 
+Leonie: Captain Jeralt told me that if anything should happen to him, then I should stick by you.
+Leonie: I'm going to do just what he asked. I'll be right here to support you from now on.
+
+
+
+Alois: Ah!
+Byleth: Ah?
+Alois: At long last, we meet again! I knew you were alive. I knew you could survive. And five years on, you arrive! We're reunited! I'm glad I kept watch for you in the downstream villages all that time. I was so devoted to finding you that I left the Knights of Seiros. Now I serve no one... Other than you! I'll protect you, just as I promised Captain Jeralt I would all those years ago.
+
+
+
+Shamir: What's that look on your face? Surprised to see me? I'm a mercenary. Always have been. Even when I was with the Knights of Seiros. I never was too attached to Fódlan. I was considering leaving soon. But I might change my mind if you're around.
+
+
+
+Hanneman: You've finally joined us, haven't you? I attached myself to the Imperial army as well. Seemed the thing to do. I feel I owe it to Edelgard to set my past feelings about the Empire aside. I am happy to help her. It's strange, isn't it? After five years, the three Professors are together once more. I am most curious though. You say you were asleep for five whole years? Incredible. Perhaps this is another effect of your Crest. I do look forward to investigating you in greater detail.
+Byleth: We can talk about that. 
+Hanneman: Wonderful news! I am most excited to begin. We must find the time, of course.
+Byleth: Uh, maybe later...
+Hanneman: I'll have to be content with observing you wherever you go, then. I cannot waste any opportunity!
+
+
+
+Manuela: After the battle five years ago, the Imperial army occupied Garreg Mach. The cathedral and several other buildings were destroyed, but... We've done some repair work here and there, and we're using the buildings as a base of operations. As for me? Well, the church moved its headquarters to Faerghus, and I've seen no reason to follow. When I returned to Enbarr, I received a summons from Her Majesty, and I chose to answer.
+
+
+
+Jeritza: You survived. How very fortunate... Were you dead, I wouldn't be able to fight you. But you are very much alive—now I've a chance to kill you.
+
+
+
+Anna: There's unrest everywhere these days. All of my fellow merchants seem to be endangered. I hope things go back to normal soon. People need more to smile about, aside from my great deals.
+
+Randolph: Ah, a new face. I am Randolph von Bergliez. I'm the guardian of this place. Wait a moment... I'm sure I've seen you somewhere before.
+Byleth: Five years ago...
+Byleth: I'm a professor.
+Randolph: Ah yes! You're Her Majesty's professor. You're alive?! Um... Oh, this is my little sister, Fleche. She's just a rookie, but she's helping me as my assistant.
+Fleche: H-Hello. I'm Fleche von Bergliez. It's nice to meet you. I know I'm inexperienced, but I'm going to do my best. You can count on me to look after my big brother!
+Randolph: I heard you're planning to march into Alliance territory. I'll be here to guard the fort.
+
+Gatekeeper: Greetings, Professor! Nothing to report! What's that? Do I have brothers in the church? You really are well informed! My older twin works for the Knights of Seiros, but I think he's just a grunt. Not a noble gate keeper like yours truly. Unlike me, he's very devout. He left the Empire a long time ago.
+
+@Opening 
+The newly crowned king of the Holy Kingdom of Faerghus, Dimitri, has declared fealty to the Church of Seiros and is raising an army in preparation for all-out war with the Empire. As the leader of the Alliance, Claude maintains a facade of neutrality amidst infighting between those who support and those who oppose the Empire. Meanwhile, the Black Eagle Strike Force plans to capture Alliance territory before Edelgard takes the war to the Kingdom and Church of Seiros. With sights set on capturing Derdriu at the center of House Riegan's territory, she leads a march across the Great Bridge of Myrddin to establish a bridgehead.
+
+The Black Eagle Strike Force has an unexpected encounter with someone thought to have died years prior. Amidst the joy, your forces prepare to invade Alliance territory.
+
+@Intro 
+Hubert: We are about to commence the attack on the Great Bridge of Myrddin. But first, allow me a moment of your time.
+Byleth: What do you need?
+Hubert: It is something I can only ask of you. Listen well... It concerns Lady Edelgard's uncle. The regent of the Empire, Lord Arundel. Although he is currently cooperating with Her Majesty, he maintains his own sizable military troops. It seems to me that his plans differ from our own. I assume you recall a certain group's scheming from five years ago. Solon and Kronya... They both served Lord Arundel.
+Byleth: Why must we cooperate?
+Byleth: He must be dealt with.
+Hubert: Professor, I understand how you must be feeling, considering what they did to your father. I know it must be foul to even consider cooperating with their kind. However, their power is essential for us at present. Edelgard also strongly opposed the idea at first. Our enemy is the Church of Seiros itself. It cannot be toppled with the Empire's might alone. Those working under Lord Arundel are extremely hostile toward the church. And the enemy of our enemy is... Well, I think you sufficiently understand by now.
+Byleth: Are you sure that's a good idea?
+Hubert: Until all of Fódlan is united, it is a necessary evil. As for how we deal with them afterward...time will tell. Regardless, Her Majesty and I wish to join our power with yours. 
+Hubert: You should know that in her heart, Her Majesty regards that group as enemies of herself and her family. They used her father, the former emperor, as a puppet and murdered her siblings with their vile experimentation. I believe Her Majesty may have told you some of this herself. That is why this was a...very painful decision for her to make. 
+Hubert: I will do all I can to ensure her suffering is not in vain, and I hope I can count on you to do the same. As for all I have told you, please keep it in mind as we march forward. More importantly, I implore you to fight as best you can for Edelgard... From the bottom of my heart, I beg this of you.
+
+@Battle 
+Edelgard: We'll be capturing the Great Bridge of Myrddin, a key strategic location of the Leicester Alliance. Claude will surely be sending reinforcements, so we must prevail before they arrive.
+Hubert: Our opponent is Judith, the so-called Hero of Daphnel. We can handle her. So long as we don't get careless.
+Judith: The boy said to run if I was in danger, but... I could never do that. I'll hold out until reinforcements arrive!
+
+Leonie: Judith! I'm so glad you're safe! Claude sent me here with reinforcements! 
+Alliance General: Sorry to keep you waiting, Judith! We're the reinforcements! 
+Acheron: Why do I have to put up with orders from that false leader...
+Leonie: Because you're from the smallest noble house in all the Alliance, you whiner! 
+Edelgard: Enemy reinforcements... We didn't finish in time. Don't let them secure the ballista!
+
+@Boss 
+Ignatz: I am helping Claude build the future of Fódlan!
+
+Ignatz: Ungh... I should have known this would happen...
+Judith: Ignatz! Damn it... Such a good kid. He died too young...
+
+Leonie: Judith, I'm sorry... I leave the rest to you...
+Judith: Leonie! You had such a full life ahead of you... I wish I could take your place...
+
+Leonie: Doesn't matter who you are. I won't hold back, and I won't fall to the Empire!
+
+Leonie: You're all Captain Jeralt's enemies! And I will avenge him here!
+
+Judith: This is it... Claude, I'm sorry. I couldn't defend the bridge. All who are able, retreat!
+Edelgard: Don't let her escape! If we take her out now, the Daphnel territory will be ours! That will allow us to march safely through the Alliance.
+
+Judith: Avoided death yet again, huh? I'll join Claude and prepare for a counter attack!
+Hubert: Judith's escape will widen the battlefront. Our strategy's failed...
+
+Judith: Guh, it looks like I'm done for. Claude... I'm sorry...
+Leonie: Judith! No! 
+
+Acheron: The knights on the other side of this bridge are mine. I can't just let you cross!
+
+Acheron: Guh... If only I had joined the Empire...sooner...
+
+%Byleth,Ignatz
+Ignatz: We can't place the future of Fódlan in Edelgard's hands. If you're allied with the Empire, I have no choice but to fight you.
+
+%Raphael,Ignatz
+Raphael: Outta my way, Ignatz! I don't wanna have to fight you!
+Ignatz: Stop deluding yourself. You joined the Empire. Didn't you consider the consequences? I don't want to fight you either, Raphael! But this is war.
+Raphael: Ignatz...
+
+%Byleth,Leonie
+Leonie: Professor! You know Captain Jeralt's killer was connected to the Empire! Why did you side with them?! Answer me, traitor!
+
+%Lorenz,Acheron 
+Lorenz: Acheron! What a pleasant surprise! I was concerned I might have to kill someone decent.
+Acheron: Ha! House Gloucester is already finished. I've already taken control of your land!
+Lorenz: That's quite enough of your spinning, Weathervane. Time for you to die.
+
+@End 
+Edelgard: Alliance soldiers, Judith has fallen! Further conflict is futile! If you surrender, your lives will be spared. Lay down your weapons immediately.
+
+Edelgard: You have all fought well. With this victory, we now have a foothold in the Alliance. The Imperial Army will cross the Airmid River and push the front lines forward. The fight will continue, but do not allow that to stop you from taking pride in our hard-won victory.
+Ferdinand: Ah, this should put a stop to one of Edelgard's choice phrases. Well done, Professor. I believe it was "if only the professor were here, we could forge ahead and change the tides of this war."
+Edelgard: Ferdinand. It is not necessary to tell the professor such things.
+Caspar: We're not the only ones benefiting! The whole Imperial Army is stronger now!
+Linhardt: Yes, it seems the Empire finally has both of its legs to stand on. Don't you agree?
+Edelgard: You make it sound as though I can't run the Empire on my own. Perhaps it's more apt to say that the pegasus has recovered its horn.
+Dorothea: Judith of Daphnel... What a magnificent warrior. I'm happy to have the professor back just like old times, but I don't think I'll ever get used to this cruel exchange of lives...
+Petra: When there is something you must not be conceding, you must keep fighting! The fighting has been continuing for five years, but now I am again witnessing the professor's power.
+Bernadetta: I hate fighting! But...with the professor here...maybe it's slightly less terrible? Oh, but everyone is working so hard! Stop it, Bernie, you can't be the only one complaining!
+Hubert: I'm glad to see everyone so inspired. It seems the reappearance of the professor has done much to raise your morale.
+Edelgard: Do you not feel the same, Hubert? Come now, be honest with yourself. Now, we must take advantage of the situation and blaze ahead. Our path is still a long one.

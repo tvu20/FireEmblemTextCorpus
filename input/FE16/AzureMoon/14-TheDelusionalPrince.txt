@@ -1,0 +1,341 @@
+@Opening 
+Prince Dimitri and the remnants of the royal family join with the remaining Knights of Seiros to form a revitalized Kingdom army. Using Garreg Mach as their base of operations, they rise to action against the Empire.
+
+@Dialogue 
+Seteth: You! So, you were alive after all.
+Flayn: Professor! It is so good to see you again. My brother and I were worried about you.
+Alois: Ah, thank the goddess... I couldn't bear the thought of letting Jeralt down by not finding you.
+Shamir: Guess you lucked out.
+Catherine: We've been looking everywhere for you! But...I see Lady Rhea isn't with you. Damn.
+Cyril: Everyone was real worried about you, Professor.
+Hanneman: Gilbert has told us everything. From here on, our strength is yours as well.
+ Manuela: Gilbert told us everything. We'll help you out however we can, of course.
+ Knight of Seiros: Gilbert told us everything. We are at your disposal!
+Gilbert: It does my heart well to see that all of you are safe. Now that we have all gathered, let's discuss our next course of action.
+
+
+Seteth: We have two objectives...to overthrow the Empire and to rescue Rhea. I have no objections to joining forces with you. After all, our interests are aligned.
+Gilbert: Nothing could be more reassuring than securing the cooperation of the Knights of Seiros.
+Byleth: Thank you.
+Byleth: Let's fight together.
+Seteth: The archbishop entrusted all of her affairs to you. From now on, I shall comply with your wishes.
+Gilbert: We'll make Garreg Mach our base, and prepare to make our stand against the Empire. There is a fair amount of damage, but we will at least have shelter from the wind and rain.
+Catherine: Surely those Imperial jerks have this place staked out, right? It's a highly strategic location.
+Gilbert: While it may be a strategic location, it's too far from the front lines to be worthy of notice at the moment. This area is inconvenient as far as transport time is concerned, so it's of little importance to their war effort.
+Seteth: Even so, nothing slips past the emperor. It is safe to assume she at least has this place under surveillance.
+Gilbert: Professor... What do you think about making this place our base?
+Byleth: I have no objections.
+Byleth: Gathering resources would be difficult.
+Gilbert: Yes, that is a valid concern...
+Gilbert: Fortunately, there are still villages and hamlets nearby. And though I wouldn't call them abundant, we have war funds, as well. What do you think, Your Highness?
+Dimitri: Do as you please.
+Annette: Hey! Don't act like this doesn't concern you! We finally reunited after all this time... We've got to work together!
+Sylvain: She's right. In fact, why don't we all join forces and clean this place up a bit?
+Annette: Ooh, yeah! That's a great idea! And it'll give us time to reminisce about all the good old days at the academy. I can't wait!
+Dimitri: How carefree of you.
+Ashe: It may sound trivial, but... Well, I think it's a good idea...
+Gilbert: I understand feeling impatient, Your Highness. But patience is key at a time like this. If we fix up our base, it will improve morale, which will be sorely needed as we–
+Dimitri: Fools.
+Byleth: Let's all settle down.
+Byleth: Let's all get along.
+Dimitri: Stay out of this.
+Gilbert: Please calm yourself, Your Highness. We are not your enemies.
+Dimitri: My enemies say the same.
+
+Felix: What happened to him? It's like he's a completely different person.
+Mercedes: I feel so bad for him... Would it help if I brewed him a nice pot of tea?
+Gilbert: I cannot claim to understand how he feels. However... The way he's behaving–it's as though he's being haunted by some unseen force.
+Byleth: I'm worried.
+Gilbert: As am I.
+Byleth: He wasn't always like this.
+Gilbert: Perhaps...
+
+@Conversation 
+Dimitri: ...
+
+
+
+Felix: Hello. I have a request concerning that...creature. I can hardly look at the thing in the state it's in. Do something about it.
+Byleth: I'll see what I can do. 
+Felix: Please do.
+Byleth: I don't think I can.
+Felix: Don't just give up like that.
+Byleth: Better to just leave him alone.
+Felix: Don't just give up like that.
+Felix: We tracked the boar for five years. I thought he was dead. In the state he's in, he might as well be. He's gotten better at killing people, and in exchange, surrendered what little humanity he had.
+
+
+
+Ashe: Is...is Dedue really gone? There's so much more I wanted to say to him. He was always so tender with the flowers in the greenhouse. I wonder how they're doing...
+
+
+
+
+Sylvain: Hey, Professor. It's been a while. It's really good to see you again. Gorgeous as ever, might I add. An awful lot has happened in these past five years. There were so many times I wished you were around. I'm glad you're back. Your skills are worth more than a whole army.
+
+Mercedes: I finally managed to meet up with everyone again, but they're all so gloomy. Hey, Professor. Care to join me for a cup of tea? We could invite the others, and the soldiers.
+Byleth: That sounds nice. 
+Mercedes: Doesn't it? There probably isn't enough time to bake any treats though...
+Byleth: Um, I don't know...
+Mercedes: Don't be like that, Professor. When things are tough, that's exactly when we need to keep our spirits up and smile!
+Mercedes: Oh! I should invite Dimitri to come along as well. Though I don't suppose he'll want to join in...
+
+
+
+Annette: Now that I think about it, His Highness was right. We probably don't have time to waste on cleaning... Maybe I wasn't taking the situation seriously enough. After all, the Imperial army could be showing up at any time! I was just so happy to see you again. And everyone else too. Maybe I got carried away.
+Byleth: I'm happy to see you too. 
+Annette: Oh really? That's so nice to hear!
+Byleth: Cleaning is important.
+Annette: Well, I suppose Lady Rhea would be pretty shocked if she came back to find the place filthy!
+
+
+
+Ingrid: These past five years, many Kingdom houses have become vassals of the Empire. The major houses of Fraldarius, Gautier, Charon, and my own family, Galatea, remain loyal... But the lords of the minor domains in the west have almost entirely defected. After all the royal family has done for them, they respond with betrayal. And to think they have the gall to call themselves nobles. But we still have His Highness, and you, Professor. I'm sure we can take back the Kingdom's lands.
+
+
+
+Ferdinand: I have lost my dominion. My nobility may seem like nothing more than a title. But I will never lose my noble heart. I will stop Edelgard, even if it costs me my life. I have turned my blade against her now. I cannot go back on that decision. Professor... Do you think I chose the wrong path?
+Byleth: Not at all.
+Byleth: We'll find out soon enough. 
+Ferdinand: You are right...
+
+
+
+Linhardt: The promise was made five years ago, but I must say I'm rather impressed by how many of us managed to make it. Personally, I only showed up because I hoped to see you again, Professor. I've been with my family in the Empire until recently. I admit to feeling a little guilty betraying Her Majesty...but only a little. Now that we're all together again, I suppose the fighting will begin soon.
+
+
+
+Caspar: Hey, Professor! You won't believe what happened! I figured I couldn't go back to the Empire after Garreg Mach fell, so I started drifting across the Kingdom and the Alliance. Then I just happened to run into our old class, so we came back to the monastery together!
+
+Bernadetta: Ah, at last, I return to my domain! My lonely paradise! My realm of exquisite solitude! Huh? Professor? Is that, um. Is that you? You, um. You didn't hear that just now, did you?
+Byleth: Sorry.
+Bernadetta: Oh! Forget you heard anything!
+Byleth: Hear what? 
+Bernadetta: Right. You didn't? Well, um. Good.
+
+
+
+Dorothea: Laaa-la-laaa-la-laaa... Professor! Oh my! It's so good to see you. These days, so many old friends seem to be disappearing. But you... You're here! It's incredible to see you again after five years! I have a feeling your name will go down in history.
+
+
+
+Petra: Edelgard is controlling the Empire. She is putting the pressure on the Kingdom and Alliance. Empire and religion are at open war. It will be...difficult for us at first. But corrupt nobles are many. That means that common people will rebel and be joining our side. With you, Professor, the battle tides will...ah, will turn. I have certainty.
+
+
+
+Raphael: The Alliance is such a mess. How are we supposed to know where's safe and where's not? I should probably just move my little sis and grandpa to Garreg Mach. At least I could keep working on becoming a proper knight without having to worry about them! I gotta find them a house once things calm down a bit!
+
+
+
+Ignatz: Oh, Professor! Seeing everyone together again, it's like I'm in a dream. I feel like it's time for me to forge my own path and find my own place in this world.
+Byleth: What about your family? Are they OK?
+Ignatz: Yes. They're in the Alliance, but they're merchants, so they have the means to escape if need be.
+Byleth: How does your father feel about all this? 
+Ignatz: I sent him a letter. I'm still waiting on a reply, but I don't think he'd object to my being here. It'll be valuable for him, having someone outside the Alliance to keep him abreast of new information.
+
+
+
+Lysithea: I should probably keep things to myself, but in all honesty... What matters to me, more than anything, is ensuring a peaceful, quiet future for my parents. I don't care about the Kingdom. I simply want to remove the threat of the Empire. Because of this, Dimitri's fixation on Edelgard is convenient to me. I fight for my own reasons and no others.
+
+
+
+Marianne: Professor... Is there any reason for me to remain here? I want to be useful, of course, but I'm not sure anyone needs me.
+Byleth: Then why did you stay?
+Marianne: That was my adoptive father's decision. He has decided there is no future in the Alliance...
+Byleth: I need you here. 
+Marianne: If you really mean that, I will stay and do my best to help.
+
+
+
+Hilda: Garreg Mach is a mess. So is Dimitri, honestly. If not for you arriving, Professor, I'd be heading home about now. Though staying here is still more appealing than living with my big brother.
+
+
+
+Leonie: I'm so glad I found you here, Professor. Now I don't have to worry about what to do with myself. Captain Jeralt told me to look out for you, after all. So now my purpose is clear. I'll do everything I can to protect you!
+
+
+
+Seteth: Five long years, I've searched for you and the archbishop. It is a pleasure to see you again. The Church of Seiros will follow you from now on, but please do not abandon the search for Lady Rhea.
+Byleth: We'll do whatever it takes to find her. 
+Seteth: Thank you. I know the battles ahead will be dire, but we will support you with all our strength.
+Byleth: We don't know what the future will bring.
+Seteth: Wherever she is, Rhea is doubtlessly waiting for you. Please do not let her down.
+
+
+
+Flayn: Professor, I am so glad you are unharmed! No matter the path you walk, I will be with you every step of the way. Anything you ask of me, I shall see it through. You saved my life, and I am in your debt.
+
+
+
+Hanneman: Thankfully, it appears the records and equipment I need for my research have not been damaged. I am most curious though. You say you were asleep for five whole years? Incredible. Perhaps this is another effect of your Crest. I do look forward to investigating you in greater detail.
+Byleth: We can talk about that. 
+Hanneman: Wonderful news! I am most excited to begin. We must find the time, of course.
+Byleth: Uh, maybe later...
+Hanneman: I'll have to be content with observing you wherever you go, then. I cannot waste any opportunity!
+
+
+
+Manuela: My, Professor. You haven't changed a bit! At your age, I'd expect your whole demeanor to have changed greatly over five years... Though I suppose I haven't changed either, right? Thank you for noticing, by the way. Ah, just the two of us, forever young.  Oh, let me have my fun.
+
+
+
+Gilbert: We have given a proper burial to the Imperial soldiers kills in the monastery. The ones who were sent to investigate the thieves. Already, rumors spread that they were utterly annihilated. So regardless of whether there are spies observing us, the Imperial army will know of this soon enough. Your Highness...Dimitri... How could you be so reckless?
+
+
+
+Alois: I'd given up on seeing you again. Where have you been hiding? Anyway, now that we're reunited in the land of the living, I must fulfill my promise!
+Byleth: What promise?
+Alois: The promise I made to the captain, to keep you safe! I can't believe you've forgotten. How cold...
+Byleth: Right, the promise. 
+Alois: That's right. I promised the captain I'd protect you in his stead, and now I'll make good on my word!
+
+
+
+Catherine: In Lady Rhea's absence, I will follow you. That's what she would want me to do. Know that wherever you might lead us, I'll continue searching for Lady Rhea.
+Byleth: That's fine. 
+Catherine: Good, because I will not budge on that point. Welcome back, Professor.
+Byleth: Sounds like a lot of trouble.
+Catherine: I don't care how much trouble it is! I will rescue Lady Rhea, at all costs.
+
+
+
+Shamir: I'm more of a mercenary than a knight these days. I work to get paid. I never was too attached to Fódlan. I was considering leaving soon... But I might change my mind if you're around.
+
+
+
+Cyril: I don't know anything about rebuilding, but I can sure do my best to clean up the mess. I'm gonna keep Lady Rhea's room spotless, so she can use it right away whenever she gets back.
+
+
+
+Anna: There's unrest everywhere these days. All of my fellow merchants seem to be endangered. I hope things go back to normal soon. People need more to smile about, aside from my great deals.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! You know, it's such a thrill to be able to greet you like this again! I almost died as well in the battle five years ago, but I won't allow any enemies to get into this place again. I promise you that! Even if the Death Knight shows up, I'll be sure to... Well, for now I'll keep training so I can eventually feel confident that I can stop him!
+
+@Intro 
+Dimitri: You're wrong.
+Byleth: ...
+Dimitri: It's not like that, Glenn. I swear it. Any love I once had for my stepsister...has been tossed aside. Only hatred remains. If I could tear that woman to shreds right this very moment, I would. I don't care if she's the emperor. It's no different than killing anyone else. So I beg you...all of you... Do not worry about my resolve. Please, Father... And you too, Stepmother... Do not gaze at me with that look in your eyes... I will bring you her head soon. And when I do, you may finally rest in peace. I know it... Yes, I know it...
+Byleth: Snap out of it, Dimitri.
+Byleth: What is troubling you?
+Dimitri: What do you want?
+Byleth: I came to check on you.
+Byleth: Everyone is worried about you.
+Dimitri: I see. We should make haste and prepare to move out at once. I must kill her as soon as possible...
+Byleth: That would be rash.
+Dimitri:  I don't have time to leisurely set up camp like the rest of you fools!
+Byleth: We must first prepare.
+Dimitri:  We have no time to leisurely set up camp. If I must, I will go by myself.
+Gilbert: Pardon the interruption. We must prepare a counterattack at once. The Imperial army has caught wind of our position. It would seem they were patrolling this place, after all.
+Dimitri: The Imperial army, is it? Well, well. Hehehe...
+Gilbert: Your Highness... I ask that you please refrain from reckless behavior in battle.
+
+Randolph: It would seem the report that the Knights of Seiros have returned was accurate. This is going to take some effort.
+Fleche: Brother... I heard a rumor that there is a vicious murderer among our enemies.
+Randolph: Who knows if there's any truth to it. Thought I admit we have lost some soldiers recently. Whether he's among them or not, taking on the Knights of Seiros is extremely dangerous. You're not ready for the front lines, Fleche. Stay in the back and support us from there. Understood?
+Fleche: No! I want to stay with you! I have to–
+Randolph: I need you to understand, Fleche. I will come back. I promise.
+Fleche: Fine. I trust you, Brother. Please...be safe.
+Randolph: All units, prepare to attack!
+
+@Opening 
+At the monastery at Garreg Mach, the Kingdom army proceeds to bolster its forces, but the Empire is already one step ahead. An Imperial vanguard, led by General Randolph, has deduced the location of the Kingdom army and now advances with the aim of toppling Garreg Mach for a second time.
+
+Fulfilling a promise made five years ago, your former students gather once more at the monastery, as do the knights. However, your joyful reunion is cut short...
+
+@Battle 
+Randolph: The Knights of Seiros are a powerful enemy, but we have more soldiers. We'll take them down all at once!
+Gilbert: There are more enemies than expected. Attacking with fire would prove most useful here.
+
+Knight of Seiros: Report! The enemy has entered the periphery of Garreg Mach!
+Gilbert: If they reach the interior, we won't be able to protect the monastery. Drive them back!
+
+
+Gilbert: It is our duty to give these soldiers to their destination. Stay alert. An attack may come at any time.
+
+Gilbert: Damn! We couldn't protect the monastery. We must accept defeat.
+
+Randolph: A total loss... But we can't just return home like this...
+Dimitri: Professor! Get down!
+Victory Conditions: Defeat the enemy commander.
+
+
+Gilbert: The fire attack unit has been destroyed. Our plan has failed.
+Randolph: It looks like they were planning something, but it failed!
+
+Gilbert: Fire attack is ready. Now to draw the enemy's attention. So many units, and you still can't defeat us... The Empire's generals are not as formidable as I'd heard.
+Randolph: Quiet! Don't think you'll get away with mocking me! Attack! Make sure they never speak again!
+Gilbert: Now!
+
+Imperial soldier: Fire! Gyaaaaaah!
+Randolph: Argh, a fire attack... The damage is too great. We can't fight anymore! All units, retreat! I'll take on our pursuers! Carry away the injured soldiers!
+
+
+Gilbert: Chase them down! Leave none standing. Eliminate them before they can regroup.
+
+@Boss 
+Randolph: For my house! For justice! I will not be defeated!
+
+Randolph: No... This can't end here...
+Dimitri: Capture him.
+
+%Dimitri,Randolph
+Randolph: A one-eyed demon... So, it's you. You're the one who's been going around killing the Imperial troops!
+Dimitri: What is it to you?
+Randolph: You bastard! Life is worthless to you, isn't it?!
+Dimitri: Ha! You took the words from my mouth, general!
+
+%Caspar,Randolph
+Caspar: You must be Randolph... My uncle.
+Randolph: Caspar?! Yes, indeed... So, I see you have chosen to oppose the Empire. If so, be warned that I won't hesitate. I'll strike you down, even if we're of the same house!
+Caspar: You took the words right outta my mouth! Graaagh!
+
+@End 
+Gilbert: A terrible battle, yet Garreg Mach still stands. Your Highness?
+
+Randolph: I have family waiting for me... Please. I can't die here...
+Dimitri: A beast of your depravity, prattling on about family? How amusing.
+Randolph: As though you could understand...such a thing as love... You heartless monster!
+Dimitri: You are a monster too, General. You have just yet to realize it. A monster who thinks he's a man...despicable. As a general, you must have killed countless souls without a shred of mercy. Do you still remember the sound of them begging, just as you're begging now? Or, now that your life is at its end, will you hold to the lie that your hands are not stained red with blood?
+Randolph: This...this is war. I did what I had to for the Empire...for the people...for my family!
+Dimitri: So, you are piling up corpses for the people and for your family. And I am doing the same for the salvation of the dead... After all is said and done, we are both murderers. Both stained. Both monsters.
+Randolph: You're wrong!
+Dimitri: Am I? I can smell the rotting flesh upon your hands even now, General.
+Randolph: Enough! That's enough!
+Dimitri: I won't kill you right away, my fellow monster. Unless you object to watching your friends die. One...by...one. If so, I will do you the service of removing your eyes first so that–
+
+Randolph: Gaaah! Fleche... Please, forgive me...
+
+Dimitri: ... What is the meaning of this?
+Byleth: I couldn't bear to watch.
+Dimitri: Hah...hahahaha! A grievous error, Professor!
+Byleth: I miss the Dimitri I once knew.
+Dimitri: The Dimitri you once knew is dead. All that remains is the repulsive, blood-stained monster you see before you.
+Dimitri: If you do not approve of what I have become, then kill me. If you insist that you cannot...then I will continue to use you and your friends until the flesh falls from your bones.
+
+Gilbert: We managed to repel the Imperial army, but we remain divided on our next course of action. I anticipate a second and third wave of attack... With our current forces, we'll have our hands full just defending.
+Sylvain: It's a miracle we managed to repel the Imperial army with the few units and resources we do have.
+Annette: We should probably contact Rodrigue right away to request backup.
+Gilbert: Rodrigue is in a difficult position, as he has suffered invasions by the Dukedom. But there are troops who share in our cause gathering the heart of Fraldarius territory. If we can arrange for them to join us, our forces will grow considerably.
+Dimitri: Fraldarius... So, Rodrigue is still alive, is he?
+Byleth: We met five years ago.
+Dimitri: So you did.
+Byleth: That name sounds familiar.
+Dimitri: You met Rodrigue when he visited the monastery during Miklan's rebellion.
+Felix: I wonder what my old man will say when he sees you now. That spectacle alone will be worth the trip.
+Dimitri: Hmph.
+Gilbert: I've already sent word with our fastest messenger informing Rodrigue that His Highness is alive. But we'd do well to send another in case anything happens to the first. With the current state of things, we'll be completely helpless without his support. Your Highness, may I ask what your next plan of attack is? Should we dispatch our troops to the Kingdom capital or to the Imperial capital?
+Dimitri: We will take the Imperial capital. There, I will kill her. We end the war and chase away the lingering regrets of the dead. Nothing could be more to the point.
+Annette: Uh, that may be true, but don't forget that your people need our help right now...
+Ingrid: Your Highness... I hate them too. But the citizens of Fhirdiad have long awaited your return.
+Sylvain: Just give it up already. Wasting time thinking about stuff like that will only dull your blade.
+Ashe: Defeating Edelgard would put an end to the war. That would benefit the Kingdom as well...
+Mercedes: We still need to look for Lady Rhea, so I agree that we should get to Enbarr as fast as possible.
+Seteth: Professor... Whatever you decide, we shall follow.
+Byleth: Let's take back Fhirdiad, the Kingdom Capital.
+Dimitri: You were entrusted with leading the church. One would think the logical step is to march to Enbarr. If Lady Rhea is being held prisoner in the Empire, we don't have time to waste taking back Fhirdiad. Can you deny it?
+Byleth: ...
+Byleth: Let's take down Enbarr, the Imperial Capital.
+Dimitri: Yes... It is the only way.
+Gilbert: Either way, we are in need of numbers. It is essential that we secure backup.

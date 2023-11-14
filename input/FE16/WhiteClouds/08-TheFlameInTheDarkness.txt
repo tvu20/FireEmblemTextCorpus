@@ -1,0 +1,586 @@
+@Opening 
+Hoarfroast now graces treetops and open fields alike, and an icy chill blown in from the north of Faerghus blankets the land. All of Fódlan's creatures begin to settle in for a long winter. The setting sun bathes the full winter coat of every wolf in a foreboding scarlet glow. Hunters can now spread the word that the red wolves are back on the prowl.
+
+@Dialogue 
+Shamir: That's what we're dealing with. Is there no chance it's an infectious disease?
+Manuela: There are no absolutes in medicine, but the chances are extremely slim. Restless movements, fits of violence, becoming bedridden or even impossible to wake... With symptoms that varied, there are only a few possibilities. It's either a mixture of poisons or magic. And dark magic, at that.
+
+Jeralt: You're talking about Remire Village, aren't you, Manuela?
+Manuela: Oh my, if it isn't Jeralt. Tell me, what was the first thing you heard?
+Jeralt: Everything after you mentioned that it's not likely it's an infectious disease. My child and I owe the people of Remire Village. If something's happening there, we must help them.
+Shamir: We scouted the area ourselves. Speak with the knights. Hear what they have to say. I must go. Thank you for your help, Manuela.
+
+Manuela: You know, I'm more than willing to go with you to Remire Village... After all, I owe you my life. If you'd like, I bet we could even manage the mission all by ourselves. Just the two of us...
+Byleth: That's nice of you. 
+Manuela: Professor! A bit of a tease, are we? A girl could get used to this side of you.
+Byleth: I'm afraid not. 
+Manuela: You're saying no? Well, aren't you just a great, big bore.
+Jeralt: Nice try, but I'll be going to the village as well. Enough nonsense. It's time to move out.
+Manuela: As you like. Good-bye, Jeralt. Good-bye, Professor.
+
+Jeralt: I'll be in my office making preparations. What about you? If you have the time, it would be helpful if you could go ahead and talk to the knights.
+Byleth: ... 
+Jeralt: Hey! What's wrong?
+Byleth: I'm OK.
+Byleth: I just got a little dizzy. 
+Jeralt: If anything feels off, return to the infirmary. No need to just grin and bear it. Got it?
+
+Sothis: Ugh... What could have caused such dizziness? I felt it too. Actually... I've felt that way before...
+
+@Dialogue 
+^start 
+Hubert: You look unwell. It's because of what happened, isn't it?
+Edelgard: Don't speak of it aloud.
+Hubert: You can't change the past. For now, all we can do is use it to our advantage.
+Edelgard: I know that. I also know that I must steel myself to ascend the Imperial throne.
+Hubert: Those preparations are going well. We... Someone is coming.
+Edelgard: Professor, I heard about our mission for this month. Something terrible is happening in Remire Village. That's where you were when fate sent you our way. This feels...preordained.
+Hubert: Are the knights making progress with their investigation?
+Byleth: I don't know.
+Byleth: They are. 
+Hubert: If what is happening there is by design, there must be someone pulling the strings. There is the Death Knight, of course. And the mysterious mages who were implicated with the Western Church. They showed up when Flayn was kidnapped as well. And now there is another strange occurrence near the monastery... It seems an unknown organization hopes to make the monastery its stage for something.
+Edelgard: Do you believe that all of these incidents are connected, Professor?
+Byleth: I do. 
+Edelgard: That is the logical conclusion, but I'm not so sure.
+Byleth: I do not. 
+Edelgard: Oh? I'm surprised to hear you say that, but actually, I agree.
+Edelgard: It certainly appears that all of the events surrounding the monastery are connected by a single thread. However... I think it's possible that it may just be a result of different motives overlapping. Remember, Professor... If you think of people as simply enemies or allies, it may be impossible to grasp the truth.
+
+Dimitri: I see. So you'll be staying here for some time, then. Honestly, I'm surprised. I've heard it's been a few years since you last donated to the church.
+Lord Arundel: That was merely because of the financial situation of my territory. I assure you, it has nothing to do with my dedication to the church. By the way, Dimitri... Isn't Edelgard currently enrolled at the Officers Academy as well?
+Dimitri: Yes. She's in the Black Eagle House. I don't believe she has any plans to leave anytime soon. Why not pay her a visit?
+Lord Arundel: I may do just that. It's nice to stay in touch with my dear niece every now and then. Of course I'm also delighted that I was able to speak with my nephew, as well. Whether through marriage or otherwise, family is family, after all.
+Dimitri: Of course. The feeling is mutual.
+Dimitri: Professor... If you were watching, you should have made your presence known.
+Byleth: Who was that?
+Dimitri: That was Lord Arundel, the Regent for the Empire. He is also Edelgard's uncle.
+Byleth: An acquaintance of yours?
+Byleth: He called you his nephew...
+Dimitri: My stepmother was his younger sister. We are not related by blood, but he is technically my uncle.
+Byleth: In other words...
+Byleth: So, you and Edelgard... 
+Dimitri: Yes. My stepmother was Edelgard's birth mother. Edelgard and I are siblings by marriage. We can delve into that topic another time. For now, let's make preparations to investigate what's happening in that village.
+Sothis: Oh dear. The princess of the Empire and the Kingdom's prince are kin! How very odd.
+Byleth: So that's why he was worried about her... 
+Sothis: All beings are attached somehow to those who are their family. Yes...even I. I must have had a family too... I wish I could remember them. My family... I wonder who and where they are, and what they're doing now.
+Byleth: I find it odd as well...
+Sothis: They likely harbor knowledge they do not wish to share. Oh yes, I'm sure of it. But I suppose we must wait until the time of truth arrives...
+Sothis: In any case... About this Arundel. You've heard that name before, correct?
+Byleth: In the library. 
+Sothis: Quite true! We came across that name within the library, right where the prince had been.
+Byleth: In the office. 
+Sothis: Your memory is worse than mine! The library! We came across that name within the library, right where the prince had been. Don't you recall?
+Sothis: I thought that Arundel had died... And yet, not so. He seems alive and well. I wonder what the prince had hoped to learn from reading of his uncle's charity... So many things the prince has yet to tell... How bothersome...
+
+Claude: Tomas doesn't seem to be here... Oh well, that's fine. I've been researching the Heroes' Relics a lot since we last spoke to him. I found out something interesting.
+Byleth: Why have you been researching them?
+Claude: Why? Do you have to ask? Trust me, what really matters is what I found out.
+Byleth: Something interesting? 
+Claude: It's about the connection between Crests and the Heroes' Relics. The Crest Stone of each Relic is carved with a specific Crest-the one that has the ability to wield it properly. The Crests are the keys. You need the right one to safely use a Hero's Relic. The only thing I can't figure out is...why doesn't the Sword of the Creator have a Crest Stone bearing a Crest?
+Byleth: It's by the whim of the goddess. 
+Claude: Hey, now! No need to write off my findings by saying it's a mere whim of the goddess.
+Byleth: It had one in the past. 
+Claude: Precisely. At least, that's my current guess.
+Claude: There's more. I believe the Crest Stones might be the source of the Relics' inhuman power. When Miklan transformed into a Black Beast, he was taken over by something that originated from the Crest Stone. And the Crest Stone was on his body. It all seems to add up. Now, look at this picture I found in the library.
+Claude: That creature is called the Immaculate One, who was supposedly sent by the goddess to save the followers of Seiros. See the pattern on its brow, and the faint circular boundary? Isn't it possible that's a Crest Stone? If all this is true, then Crest Stones are what power the ability to assume massive forms like that of the Immaculate One. And maybe the Heroes' Relics can harness that transformative power...
+Seteth: Oh. It is you. Have you seen Tomas recently?
+Claude: No such luck. I was hoping to speak with him myself, but he seems to be out on the town.
+Seteth: I see. Well... Hm?! Where did you find that picture?
+Claude: It was in the library. Why do you ask? Is it something my youthful eyes shouldn't be seeing?
+Seteth: No, of course not. However, that is not part of this library's collection. It must belong to Tomas. It would be problematic if it got mixed in with the other books. I will take possession of it for now.
+Claude:  Take it away where no one can see it, you mean...
+Seteth: What was that?
+Claude: That's what Tomas said. He said records that the monastery doesn't approve of tend to disappear.
+Seteth: Tomas said that? Preposterous. I have far too much to accomplish to waste time with this foolishness.
+Claude: He was certainly in a hurry. I wonder if he's off to confront Tomas. Well, he took the picture, so I guess that's that for now. I'll see you later, Teach.
+Claude: So, the church is hiding something after all. Some massive secret about Relics and Crests. A secret that must have something to do with the professor's true identity...
+^end
+
+@Conversation 
+Sothis: I do not know why it is so, but being here makes me feel quite...unwell. I am so sleepy...and a bit... It is a struggle merely to stay conscious... Are you feeling the same?
+Byleth: I am. 
+Sothis: And yet, it feels familiar... As though pulled from a corner of my memory, from a time long ago... I simply cannot fathom it.
+Byleth: I am not.
+Sothis: Why must you be so difficult! I know the entire contents of your heart and soul, so you should know there is no fooling me!
+
+
+
+
+Edelgard: They say that things rarely if ever go according to plan. Still, plan we must. After all, if we don't effectively force things to go our way, nothing will be achieved. How about you, Professor? Are you leading the life you envisioned for yourself?
+Byleth: I am. 
+Edelgard: Your character must be stronger than most.
+Byleth: I am not.
+Edelgard: That's surprising... but I suppose it's possible you're telling the truth.
+
+Edelgard: They say that things rarely if ever go according to plan. Still, plan we must. After all, if we don't effectively force things to go our way, nothing will be achieved. How about you, Professor? Are you leading the life you envisioned for yourself?
+
+
+
+
+Dimitri: I'm sorry to ask this of you...but I would deeply appreciate it if you would promise to keep my association with Edelgard to yourself. It is a...complicated history, what she and I share.
+
+Dimitri: Professor, you seem unwell. How are you faring? If you're not feeling well, I'd strongly recommend some rest.
+
+
+
+
+Claude: Even if I spend all my time rummaging through this library, there's a limit to the knowledge that can be gained. Apparently, it only contains books whose contents have been deemed appropriate by the church. If only Tomas were around. I bet he has some interesting stories he could regale us with…
+
+
+
+Claude: What in the world is happening in Remire Village? I hear even the knights have been dispatched. I hope it's nothing too serious… After all, that's where we first met. I have valued memories of that place.
+
+Hubert: Need something, Professor? I was just asking Monica here to be less demanding of Lady Edelgard's time.
+Monica: Hey, it's not like I'm bothering her! Sorry for the ruckus, Professor. Please don't worry about it too much. Nooothing to worry about here!
+Hubert: Ugh. I wish you would worry about it a little more.
+
+Ferdinand: Remire Village... Is that not where you met Edelgard? If you had not been there, something terrible could have happened. Did one of the house leaders know that mercenaries were staying in Remire Village? I wonder... It will remain a mystery for now. All we can do at this point is speculate.
+
+
+
+
+Linhardt: I fear I may become a social recluse soon... My life consists of wearing a groove in the floor between the library and the dining hall. Although, I guess a real recluse wouldn't leave their room, eh? That would be me if you weren't my teacher, locked away in my room, reading napping, never to be seen. You know I never see Bernadetta outside of class. I wonder what it is that she does in her room all day.
+
+
+
+Linhardt: I fear I may become a social recluse soon... My life consists of wearing a groove in the floor between the library and the dining hall. Although, I guess a real recluse wouldn't leave their room, eh?
+
+
+
+Caspar: Hey, Professor. Did you see that my father came by during the Battle of the Eagle and Lion? He left soon after, but I saw him talking to Edelgard first. I wonder what they could have to talk about.
+Byleth: Your father?
+Caspar: Yeah, he's pretty important in the Empire. I thought I mentioned it to you before? He's the Minister of Military Affairs.
+Byleth: Empire business, perhaps?
+Caspar: I guess that would make sense. He is the Minister of Military Affairs, after all.
+Caspar: Still though... I could've sworn those two didn't get along.
+
+Bernadetta: What is it? Sorry, I've, um... I've got a cold.
+Byleth: Get well soon.
+Bernadetta: Um. Thanks. 
+Byleth: No, you don't. 
+Bernadetta: How did you know? My act was perfect. Alas, 'tis no mere illness of the body, but a malign affliction of mine soul! So, um, back to bed.
+Byleth: ...
+
+
+
+Dorothea: Congratulations on winning the Battle of the Eagle and Lion. Did you get a special reward? I certainly feel like I earned a special reward. Don't you, Professor?
+
+Byleth: No. Winning is its own reward.
+Dorothea: I was afraid you might say that. I do wish you'd dote on me just a bit more...
+Dorothea: Aww... Disappointing.
+
+
+
+Petra: This is a place of mysteriousness. I have awareness of how much difference every part of the world is. In a place alike to this place, you can imagine the goddess of Fódlan truly existing. At times, I miss those places in Brigid. At times... I am missing those places so painfully.
+
+
+
+
+Dedue: All this month, His Highness has been going out late into the night. He will not speak of it to me. Professor, do you happen to know anything?
+Byleth: As I recall... 
+Dedue: Lord Arundel is here? That may well explain it.
+Byleth: I don't know.
+Dedue: I see. I am sorry to trouble you with questions.
+Dedue: His Highness's headaches have been growing steadily worse. I would prefer that he retire to bed early.
+
+
+
+Dedue: Investigating Remire village? Be on your guard.
+
+Ingrid: You know, Professor–the tournament fish, and the meal we indulged in after the Battle of the Eagle and Lion... Why, all of the food I've eaten in this monastery has been absolutely delectable. Every last bite of it.
+Felix: Food really is the only thing you think about, huh?
+Ingrid: Hardly! I think about all sorts of things.
+Felix: Oh! Like tomorrow's menu, for instance?
+
+Ashe: I'm worried about Remire. That affliction is a little too mysterious for my liking. I'm pretty sure it's not normal.
+Byleth: I've heard it's not an ordinary disease. 
+Ashe: Then what could it be?
+Byleth: I've heard it's the work of a cursed specter.
+Ashe: Wh-what?! Ah! Come on, don't tease me. But what if it really was something like that? How could we hope to stop it?
+
+
+
+Sylvain: I wonder how Remire Village is faring. Hopefully we're not dealing with some new epidemic. It wouldn't be unheard of. Almost 20 years ago, a terrible plague blazed through Faerghus. It even hit the capital city, taking the queen consort's life...or so I heard. The whole Kingdom was in an uproar over that loss. The person who saved the Kingdom wasn't a doctor but a holy woman–the fair Lady Cornelia. After that, she was awarded the honor of being a mage in the service of the royal family. She sounds like an amazing woman, but... She must be pretty old by now. But hey, maybe she's aged like a fine wine.
+
+
+
+Mercedes: Oh, goodness. Is something the matter, Professor? You look a little pale... Please be careful. It's so easy to catch a cold this time of year.
+
+
+
+Annette: Hmm... The librarian is always out and about these days. And just when I had some questions about a book I'd borrowed... Ugh, now I'm so curious about where he's gone off to! He'd better come back soon...
+
+
+
+Lorenz: How are you feeling, Professor? You look rather ill, if you don't mind my saying so. Are you sick? If so, I would urge you not to push yourself too hard. Take some rest.
+Byleth: Nothing gets by you. 
+Lorenz: Just my natural talent. Nothing out of the ordinary. Enough wit, now. You should lie down.
+Byleth: What an unexpected kindness.
+Lorenz: What is that supposed to mean? Never mind. If you're not feeling well, you should stop trying to walk it off and simply lie down.
+
+
+
+Raphael: Hey, Professor. Can I get your advice on something? I just don't know what to do anymore. I used to think they were the best, but now I can't even stand looking at them!
+Byleth: It's OK to be worried.
+Raphael: But worrying about it won't solve my problems! What if I can never eat fish again?
+Byleth: Time heals all wounds. 
+Raphael: Good point, Professor. I think I need to see other meats right now. Then I can come back to fish when I'm good and ready!
+
+Ignatz: Ah, Professor! The Battle of the Eagle and Lion was such good fun, don't you think?
+Hilda: Ignatz, how long are you going to keep harping on about the Battle of the Eagle and Lion?
+Ignatz: Aw, come on, let me gush! Did you see how the house leaders came together after the battle? What an incredible thing to witness! Harmony, even after something so hard-fought.
+Hilda: True. If they can keep playing nice, perhaps there will be peace in Fódlan after all.
+
+Lysithea: I heard about Remire Village from some of the knights. It's certainly troubling. If it's a contagion, we at Garreg Mach should be on the lookout as well.
+Byleth: I don't believe it is.
+Lysithea: Oh? Well, that's better, but I wonder what the real cause could be... Your words are oddly persuasive, Professor. Even if they're not exactly based on anything.
+Byleth: I'll handle it. 
+Lysithea: Your words are oddly persuasive, Professor. Even if they're not exactly based on anything.
+
+
+
+Marianne: Good day, Professor. Well then, I should go.
+
+Leonie: Professor! Captain Jeralt just told me. Remire Village is in a bad way, right?
+Jeralt: The situation there is worrying, yes... But tell me, how is your vertigo?
+Byleth: I'm all right now.
+Leonie: Were you not feeling OK? You seem fine to me.
+Jeralt: I hope you're not just saying that. We can't have you putting on a brave face only to fall in battle.
+Byleth: Still a little unsteady. 
+Leonie: Are you not feeling OK? You should get some rest!
+Jeralt: Hm. If you must go to the village, make sure you're in good health before we depart.
+
+
+
+Rhea: Professor... Do you ever wish you could return to your life as a mercenary?
+Byleth: I do.
+Rhea: I thought you might. Traveling the world, just you and Jeralt... How lovely it must have been.
+Byleth: I do not. 
+Rhea: Is that so? I suppose you have become accustomed to your new line of work. This month's assignment will again take you outside of Garreg Mach...to Remire Village.
+Rhea: It was in Remire that you first met Alois and the rest of his order, was it not? Half a year has come and gone since then. How quickly time passes...
+
+
+
+Seteth: What is it? I am in the middle of my daily duties. I assume you know by now that the Four Saints are all important figures in the teachings of Seiros... Still, I have a particular fondness for Saint Cethleann.
+
+
+
+Flayn: I am so happy to be part of your class, Professor. I honestly cannot recall the last time I interacted with others on a daily basis like this... It reminds me of when I was a child. Ha, that was so very long ago now...
+Byleth: How long ago? 
+Flayn: Oh, I mean, very. Very, very, very long ago.
+Byleth: You're still a child.
+Flayn: Despite how young I may appear to you, I'm quite mature. You may be surprised, you know.
+
+
+
+Alois: I'm going to catch me some mighty fish, just you wait and see! I didn't catch a single fish last month. But this month! This month!
+Byleth: Time to give up. 
+Alois: That's exactly what Captain Jeralt said!
+Byleth: Maybe you're doing something wrong?
+Alois: I'm casting my line just as the captain taught me all those years ago...
+Alois: You're going with the captain to investigate Remire Village, aren't you? It feels like so long ago that you two came here...
+
+Catherine: Of the four or five years since I started here, this is certainly the busiest.
+Shamir: It was four. I've been here five.
+Catherine: Oh, what's a year here or there? Don' t be petty now, Shamir.
+Shamir: You count your enemies the same way.
+Catherine: If I take care of them quickly, what does it matter how many there are? Oh, sorry! We didn't mean to ignore you, Professor.
+Shamir: As you were saying, it's been a busy year. There never seem to be enough hands for the work.
+Catherine: That reminds me, do you have that thing? If you do, we want it.
+Shamir: Want? No. We need it. Give it to me, not her.
+Catherine: Hey now, I'm the one who brought it up. We may be friends, but that's just rude.
+
+
+
+
+
+Gilbert: Professor? Tell me, is this about Remire? There are more villagers acting strangely today than yesterday. Knights have been dispatched, yet... The underlying cause is as yet unclear, and the most anyone can do is stand back and watch. It is most distressing. Professor, what do you think about all this?
+Byleth: Some kind of illness.
+Gilbert: If it were indeed a disease, why would it only affect the villagers, and not infect the knights stationed there?
+Byleth: Some kind of conspiracy.
+Gilbert: In that case, we should strengthen the guards. If you visit the village, Professor, please...take care.
+Byleth: Punishment from the goddess. 
+Gilbert: The goddess?! You have spoken near blasphemy, and I would suggest a hasty apology!
+
+
+
+Hanneman: I thought we might make it through last month in peace, but no. Another incident just had to arise, didn't it? If only this debacle had to do with Crests. Why, I'd have gone and dealt with it in an instant.
+
+
+
+Manuela: I know you figure medicine and magical healing are two ways to do the same thing, but it's way deeper than that. Medicine is all about preventing infection and suppressing symptoms with, well, medicine... That's probably obvious. But magical healing is focused on closing up wounds faster, raising a body's vital energy, stuff like that.
+
+
+
+Cyril: The knights go out from Garreg Mach to take on all kinds of other duties. I'd sure like a job like that one day. Then again, I don't know... Serving Lady Rhea here is pretty good.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! Oh, except that Tomas departed the monastery and is yet to return. Consider that reported. He's been gone for periods of time before and has always returned, so I'm not too worried. Still... I wonder what in the world he's doing out there!
+
+@Intro 
+Jeralt: We've got to go. Now.
+Byleth: What's going on?
+Byleth: OK.
+Jeralt: The situation in Remire Village has changed drastically. We don't know much more than that. We're hearing reports that the villagers are killing each other. Some say houses are burning. Regardless, we need to move.
+
+Rampaging Villager: Kill! Kill! Ahhhh!
+Rampaging Villager: Haha... Hahaha... Hrngyarhh!
+Village Child: Help! Somebody, please help!
+Jeralt: What's going on here...
+
+^start
+Edelgard: This is horrific. It's even more revolting...more terrible than I expected.
+Byleth: I'm revolted too. 
+Byleth: It really is horrifying.
+Hubert: True, but if we are not careful how we proceed, we will only increase the death toll.
+Caspar: The villagers are all attacking each other! Let's knock them all out, one by one!
+Linhardt:  Always so reckless. You do know that if we mess up, we will either kill or be killed, right?
+Ferdinand: Still, we cannot just stand here twiddling our thumbs and doing nothing!
+Bernadetta: I'd r-really like to go home now...but there's no time for thoughts like that.
+Dorothea: We have to help them!
+Petra: I am waiting for your orders with full readiness.
+Edelgard: Wait. Those people over there... They seem to be observing the chaos. They must be behind this. Eliminate them and rescue all of the unafflicted villagers.
+
+Dimitri:  Ungh...
+Byleth: What's wrong with you?
+Byleth: Are you OK? 
+Dimitri: I... Don't worry about me. I'm fine.
+Dimitri: Don't waste your time on me. Saving the village is far more important. We haven't a moment to lose!
+Dedue: What can we do amidst such confusion?
+Felix: We'll have to take up arms against the villagers who are rampaging. If we strike carefully, it should be possible to spare their lives.
+Mercedes: Oh dear... Isn't there a more peaceful way to deal with this?
+Ingrid: No matter how long it takes, we'll need to check and rescue them all, one at a time.
+Ashe: Those who have gone made may be victims themselves. Is it possible to save them?
+Annette: Well, saving the poor people who aren't crazy is definitely our top priority! Let's get on with it!
+Sylvain: Slow down, Annette. It won't do anyone any good if we panic and get injured ourselves.
+Dedue: Isn't that... Your Highness. Suspicious figures spotted in the village. They seem to be...watching the chaos.
+Dimitri: Are they the ones responsible for this madness? If so...it's clear what must be done. Kill them all. Don't let a single one of them escape. Sever their limbs and crush their wicked skulls!
+
+Claude: This is unbelievable... There's no way to tell who's lost their mind from who's mad with fear...
+Hilda: If we don't act quickly, things are just going to keep getting worse!
+Byleth: It's horrifying. 
+Hilda: I really don't want to get involved here...but we can't leave these people on their own, right?
+Byleth: What can we do?
+Raphael: How about we hit them hard enough to knock them out, but not hard enough to kill them?
+Ignatz: That's too reckless! But... I'll admit, I can't think of a better option.
+Marianne: If some must die, just know it was by the will of the goddess...
+Leonie: Stop that, Marianne! We have to save all of them. There's no way this madness is by the will of the goddess!
+Lorenz: Nobles are responsible for the safety of commoners. By the honor of House Gloucester, I swear that I will save them all.
+Lysithea: Claude. There are some strange-looking people here.
+Claude: So you noticed too. Look. There's a suspicious group hiding amongst the villagers. Could they be the culprits? If so...
+Byleth: They will not be forgiven.
+Byleth: I won't let them escape.
+Claude: There you have it. Our objective is clear. Take down that suspicious group and rescue the villagers.
+^end
+
+@Opening 
+A pattern of strange occurrences in Remire Village has suddenly erupted into something far more serious.
+
+@Battle 
+Jeralt: There are some suspicious looking ruffians out there, but our top priority is to rescue the villagers! Got it? I'll rein in the villagers who've turned violent. You focus on rescuing the others.
+
+Edelgard: The one giving commands in the back... I'm certain that's Tomas, the librarian.
+
+Dimitri: The one giving orders to the others...isn't that Tomas, the librarian?
+
+Claude: It can't be… The one giving orders to the weird ruffians… Isn't that Tomas?
+
+
+Edelgard: Tomas, what are you doing here? Dare I even ask?
+
+Dimitri: Tomas. What are you doing here?
+
+Claude: Tomas! What in the world are you doing here?
+
+Tomas: I'm not Tomas. My name is Solon, the savior of all!
+
+Solon: What's the matter? So shocked you can't even speak? You were so easily fooled by my disguise… I was hiding away in Garreg Mach to get the blood of that little girl called Flayn. With her blood, we'll be one step closer to realizing our goal.
+
+Death Knight: I'll have a bit of fun here too…
+Jeralt: That's the Death Knight! He must be an ally of Tomas...or Solon, or whoever he is.
+
+Solon: They charge in without any plan whatsoever. Beasts, all of them... The experiment is over. Kill them!
+
+
+Edelgard: Solon, what have you done?! You will not escape punishment!
+
+Dimitri: ... I will cut you to shreds!
+
+Claude: You monster! We could have saved them!
+
+Rampaging Villager: Kill! Kill!
+
+
+Villager: Th-thank you!
+
+Jeralt: We've rescued as many as we can. Now it's time to capture Solon.
+
+@Boss 
+Solon: Ah, the cursed Fell Star... This will be a fine opportunity to measure your power.
+
+Solon: You are but a savage, insignificant beast... Yet you think you can kill me?
+
+%Edelgard,Solon
+Edelgard: Tomas! No... Solon, I will stop you.
+Solon: What?! If you insist on turning your blade against me, then expect no mercy.
+
+@Boss
+Death Knight: My pleasure... Do your best to kill me with that blade...
+
+Death Knight: You are not the one I crave...
+
+Death Knight: My blade craves their flesh... The weak will eventually die...
+
+%Edelgard,Death Knight
+Death Knight: What are you trying to do here?
+Edelgard: You're the one who should be answering that question. Stay out of my way!
+
+@Battle 
+Edelgard: The Death Knight was just a distraction. Let's concentrate on killing Solon.
+
+Dimitri: We let him get away... That doesn't matter now. Our top priority is to kill Solon!
+
+Claude: What does he want, anyway? In any case, we need to take care of Solon!
+
+@End 
+Jeralt: Why have you gone after this village? What are you planning?
+Solon: Heh, I could have conducted this experiment on any test subjects. Now that I have what I came for, I must bid you farewell.
+
+Jeralt: Wait! Damn it, he's gone...
+
+Edelgard: We let him get away... I'll survey the village. There may still be enemies in hiding.
+
+Dimitri: I...will survey the village. There may still be some survivors.
+
+Claude: It's over… All we can do now is focus on our next move. I'll have a look around the village. There may still be people who need our help.
+
+Jeralt: It looks like we somehow managed to sort things out. And casualties were...kept to a minimum. They said they weren't picky about who they used as their "test subjects." Because of them, the people of Remire Village...
+Flame Emperor: There you are.
+
+Jeralt: That armor. So, you're the Flame Emperor.
+Flame Emperor: Yes. I believe you have met my subordinate, the Death Knight.
+Jeralt: Oh, we've met him all right. But back to you. You're the one responsible for the destruction of this village.
+Flame Emperor: Do not get the wrong idea.
+Jeralt: What in blazes does that mean?
+Flame Emperor: It is true that I am working with Solon. But that does not mean our objectives are the same. Had I known they planned to do this, I would have stopped it. You have my word.
+Jeralt: Your words are meaningless. Now, I'll have to insist you accompany us back to the monastery.
+Flame Emperor: I cannot abide that. However, if you wish to join forces, I will hear your plea.
+Jeralt: What?!
+Flame Emperor: If left to their own devices, they will commit countless more violent acts like this one. Do you not wish to prevent that? With the Sword of the Creator on our side, Solon would not be a threat...
+Byleth: I will join your cause.
+Flame Emperor: You are lying. I can see that you cannot contain your fury toward me. Pity.
+Byleth: I must refuse.
+Flame Emperor: Pity. Though not unexpected.
+Flame Emperor: Pray that you do not live to regret your choice.
+
+Hubert: Jeralt, Professor! Have you seen Lady Edelgard?!
+
+Dedue: Jeralt. Professor. Have you seen His Highness?
+
+Hilda: Jeralt! Professor! Have you seen Claude?
+
+Jeralt: What's wrong, kid? Huh? Damn it! He's gone...
+
+Jeralt: Hey. I've been meaning to talk to you. Since coming to the monastery...you've changed.
+Byleth: Changed?
+Byleth: How so?
+Jeralt: You've been angry since we first arrived in Remire Village. And you look so happy when you're instructing the brats. Before the monastery, I'd never seen you bear your emotions like that. Not once.
+Byleth: You might be right.
+Byleth: It's thanks to the students.
+Jeralt: Then perhaps it's a good thing we came to the monastery, if only so I could see your face lit up like that. Or maybe there was never any reason for us to leave the monastery in the first place...
+Byleth: A reason to leave?
+Byleth: Wasn't I born after you left the monastery?
+Jeralt: Ah... I've put my foot in my mouth, haven't I? Though I suppose it may be nearly that time... Come to my office when you next have a moment to spare. There's something I need to tell you.
+
+Sothis: Just what was that about? I can't recall a time of old when you were at the monastery... I wonder what is hiding in the mist that is your past...
+
+@End 
+^start
+Edelgard: Professor, I don't know if this is appropriate to say, but...admirable work out there. I really believe we did all that we could.
+Byleth: I wish that were true.
+Edelgard: Jeralt said the same thing. We must try to stay positive, even through the horror.
+Byleth: I wasn't strong enough.
+Edelgard: No mortal is all powerful. We must try to stay positive, even through the horror.
+Edelgard: I hear the so-called "Flame Emperor" appeared in Remire Village as well. Hubert told me that you spoke with him.
+Byleth: He said he wasn't involved in this incident.
+Edelgard: And do you believe him, Professor?
+Byleth: I believe him.
+Edelgard: Oh? But how can you trust someone without even knowing who they are?
+Byleth: I don't believe him.
+Edelgard: That makes sense. It's hard to trust someone without knowing who they are or how they're connected to all this.
+Edelgard: Even if his words are true, his objectives are still unclear. But if the Flame Emperor should someday reveal his true intentions... Maybe then he will appear before you without his mask, and you can look in his eyes and decide what you believe.
+Byleth: He asked me to join forces with him.
+Edelgard: Really? Is that what you want, Professor?
+Byleth: I do.
+Edelgard: Oh? But how can you trust someone without even knowing who they are?
+Byleth: I do not.
+Edelgard: That makes sense. It's hard to trust someone without knowing who they are or how they're connected to all this.
+Edelgard: Even if he wants you as an ally, his objectives are still unclear. If the Flame Emperor truly wishes to make use of your power... Perhaps someday he will appear before you without his mask, and you can look in his eyes and decide what you believe.
+Monica: Edel! I need to ask you something! Oh, I'm so sorry. Did I interrupt?
+Edelgard: No, not at all. If you'll excuse me, Professor.
+
+Dimitri: Professor... I...I'm sorry you saw that side of me in the village. It must have been quite a shock to you and the others. I'm mortified by my behavior. When I saw the chaos and violence there...my mind just went completely dark.
+Byleth: I felt the same. 
+Dimitri: I see... So that happens to you as well, then.
+Byleth: You weren't yourself.
+Dimitri: I see why you would say that. I always strive to keep my emotions at bay, but... Sometimes the darkness takes hold and...it's impossible to suppress. It just shows you how lacking I am... I have much to learn.
+Dimitri: I've told you before...that some day we may find ourselves facing something we simply cannot accept. That's what the chaos in Remire Village was to me. Solon and the Flame Emperor are both beasts who must be eliminated. Demons who kill the innocent. They aren't even human at this point.
+Byleth: The Flame Emperor said he wasn't involved. 
+Dimitri: And you believed him?! He doesn't deserve our forgiveness. He became an accomplice when he refused to turn himself in and return with us to the monastery.
+Byleth: Where is this anger coming from?
+Dimitri: It must be hard to fathom. It's true that I don't have any strong connection to those villagers. And yet...
+Dimitri: You see, Professor... I saw the same flames of torment just four years ago...in Duscur.
+@Flashback
+Kingdom General: Please! Have mercy!
+Kingdom Soldier: Gah, the pain! Make the burning stop! Help me... Somebody...
+Lambert: Avenge us! Those who killed us... Tear them apart! Destroy them all!
+@End
+Dimitri: Ugh... Gah... My father...my stepmother... Four years ago, they lost their lives to those flames. I'll never forget... I still remember their faces. Their screams. The tortured last moments of every person who died that day... But right now...all that matters is that we do whatever we can to help the surviving villagers get back to their normal lives.
+Dimitri: Thank you. For everything.  There's a reason that I came to the Officers Academy. Just one reason. I came here for revenge. And one day, I will have it.
+
+Claude: Hey, Teach. That assignment wasn't my favorite, I've got to admit. I suppose pretending to be unaffected doesn't do anyone any good. That was terrible to behold. It's always hard to see innocents die.
+Byleth: It is.
+Byleth: I wasn't strong enough.
+Claude: Hey, all you can do is keep smiling. Keep marching. That's part of a leader's job. You can't give in to despair. Not just for me or for you, but for all of us in the Golden Deer House. We have to keep smiling so the others can move forward too. As long as we don't show that we're disheartened, they'll know they can make it too. That's what matters.
+Claude: Sorry for getting ahead of myself, Teach. That's how I feel, but how you handle it is really up to you. By the way... I hear that guy who calls himself the Flame Emperor showed up in Remire Village. I couldn't believe it when Hilda told me the news. What could he be after?
+Byleth: The Heroes' Relics.
+Claude: Maybe. After all, he was after the Sword of the Creator in the Holy Mausoleum... But then they kidnapped Flayn and used her blood for their recent attack. Based on that, we should probably assume that their true objective is something other than the Relics. Don't you think?
+Byleth: You have a point.
+Byleth: What do they want with Flayn's blood?
+Claude: They called this incident "an experiment." And they said they got what they came for. That means they might take this success and attempt something even bigger next time. Sadly, that's all we can assume. There are far too many things we still don't know.
+Byleth: World domination. 
+Claude: Ha! I know I just laughed, but that really isn't funny, Teach. World domination... Hm. OK, actually... I wonder. They called this incident "an experiment." And they said they got what they came for. That means they might take this success and attempt something even bigger next time. I hate to even consider it, but if they can replicate the incident at Remire Village on an even larger scale... If we're not careful, we'll have a full-scale war on our hands. Then world domination wouldn't be a joke anymore.
+Byleth: I don't know. 
+Claude: I was afraid you'd say that. Frankly, there's way too much that we still don't know. They called this incident "an experiment." And they said they got what they came for. That means they might take this success and attempt something even bigger next time. Sadly, that's all we can assume.
+Claude: Flayn! Your timing is impeccable. Would you care to join us for a while, fair lady?
+Flayn: Wha--? Why?! Oh my!
+Claude: Damn. She gave us the slip. In any case, I doubt she knows the full story. It seems more like she has something on her mind that she can't divulge.
+Byleth: You're pushing too hard.
+Byleth: We can't go easy on her. 
+Claude: Whoa, there. Settle yourself, Teach.
+Claude: Seems like it would be better to push Seteth for an explanation. Or, best of all, to go above his head and ask Rhea... Now that we know Tomas was an enemy, we can't be sure that exposing the church's secrets would be to our benefit. Where are the answers I seek? Where are they...
+^end
+
+@End 
+Rhea: You did well handling that awful business in Remire Village. I am certain the goddess shares in our grief at the senselessness of that calamity. More importantly, I was shocked to hear that our own Tomas was actually a dark mage. I must reflect on our blindness.
+Sothis: You surely must! You failed to notice that a rat was hiding in your home. Pathetic! Who are these wicked foes? How did Tomas escape your gaze?
+Byleth: Who are these villains?
+Byleth: Why did Tomas come to the monastery?
+Seteth: Tomas came to the monastery 40 years ago, by recommendation of House Ordelia of the Alliance. Around eight years ago he went back to House Ordelia before returning to the monastery once again just last year. After having worked at Garreg Mach for decades, why would he betray us now? Just what did he hope to accomplish? Jeritza became a professor at the Officers Academy because of a recommendation from the Imperial nobility. Supposing that he is the Death Knight, that means that our enemy is an organization that has taken root in at least two territories.
+Rhea: In the long history of the Church of Seiros... No, long before even that... There have been an endless number of threats to the peace of Fódlan. Yet, those who oppose us still operate in the shadows, their identities a mystery. I believe that Solon and the Death Knight are merely one part of a much larger whole.
+Sothis: A threat to Fódlan's peace? That means we have no choice. We have to stop them all!
+Byleth: What now?
+Seteth: Without knowing what their objective is, we cannot afford to act recklessly. The knights will investigate. For now, you and your class should focus on your training.
+Byleth: They must be stopped. 
+Rhea: I have truly come to rely on you. I believe that the monastery will remain safe so long as we have you. We do not yet know the enemy's objective or whereabouts. For now, please devote yourself to preparing for whatever comes next.
+Seteth: That is all for today.
+
+Rhea: Professor. Please wait. I know there is much that you still do not understand. However, one thing is clear. You possess great power. I believe that you are destined to be a source of great hope for all. In any case, I expect great things from you. Walk this world proudly, dear Professor. May the goddess Sothis protect you.
+Sothis: The goddess Sothis?! Is that what she just said?
+Rhea: Is something the matter?
+Byleth: It's nothing.
+Rhea: I see. In that case, farewell.
+Byleth: I had never heard the name of the goddess. 
+Rhea: I see. Sothis is the goddess's true name. Please do not use it carelessly. Farewell.
+Sothis: Do not say something that we may regret! She... I... What exactly am I? For now, let's leave this place. Please... Go!

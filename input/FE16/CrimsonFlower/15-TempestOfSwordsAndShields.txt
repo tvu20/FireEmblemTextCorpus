@@ -1,0 +1,384 @@
+@Opening 
+With Derdriu now under Imperial control, the Leicester Alliance ceases to exist, and its remaining lords ally with the Empire. The Black Eagle Strike Force, now having conquered all of eastern Fódlan, confidently moves to invade the Kingdom.
+
+@Dialogue 
+Hubert: ...And that concludes Count Bergliez's report.
+Hubert: Just as Claude said, the old Alliance has willingly fallen under Imperial rule. However, knowing him, there is no telling what manner of poison could be waiting within. 
+Hubert: Just as Your Majesty predicted, the old Alliance has willingly fallen under Imperial rule. However, even with Claude dead, there is no telling what manner of poison he left in his wake. 
+Hubert: We must be careful not to expose any weakness.
+Edelgard: Of course. Though it seems we can now attack the Kingdom without issue.
+Hubert: True. However, you should know that Lord Arundel has entered Derdriu. It would seem he has already started collecting the Relics of the old Alliance...
+Edelgard: Let him do as he pleases for now. It's not yet the time to chide him.
+Hubert: Understood. As for the Kingdom... As we theorized, it is not entirely united. If we defeat the royal family of House Blaiddyd and a handful of other notable houses, it should fall under our control quite readily. Those we must target include the houses Fraldarius, Galatea, Gautier, and Charon.
+Hubert: We have allies who are close to some of those lords. Perhaps that can be used to our advantage. Persuasion by tears or threats...Perhaps one would consent to act as an hostage? We must make good use of the tools given to us.
+Edelgard: What about House Rowe in Arianrhod, the Fortress City? Will they not side with us?
+Hubert: The head of House Fraldarius, Lord Rodrigue, has entered the city. It is possible that he has seized it.
+Edelgard: I see. Then it might prove too difficult to strike Fhirdiad right away.
+Hubert: Either way, when preparations are complete, we can begin our deployment into the Kingdom.
+Edelgard: That part of the plan remains unchanged. Professor? Is something wrong?
+Byleth: No, it's nothing.
+Byleth: Many of those names are new to me.
+Edelgard: Yes, I don't imagine you have much interest in a running list of noble names. But it matters not. The nobility and the weight of it all those names will be gone once the war is over.
+Edelgard: This month, we must put all of our effort into preparing for battle. I'm counting on you, my teacher.
+
+Edelgard: Aaah!
+Byleth: ... 
+Edelgard: Professor! You didn't hear anything just now, did you?
+Byleth: Are you OK?
+Edelgard: Of course I am! It's nothing...nothing at all.
+Byleth: That was a cute shriek.
+Edelgard: Cute?! Huh! Well, be that as it may, it is not your concern. It was nothing.
+Byleth: Are you sure about that?
+Edelgard: I told you it was nothing and I meant it.
+Byleth: Really, very cute...
+Edelgard: You seem to be trying your hardest to infuriate me. Don't you dare say that again! 
+Edelgard: Cute?! Huh! Well, be that as it may, it is not your concern. It was nothing. 
+Edelgard: It's just... Well, there was a rat. I don't enjoy the company of rats. I believe I've told you about this before...about when I was held captive beneath the palace. There were a lot of rats there. To this day, I just...
+Byleth: What's that?
+Edelgard: What?! Oh! Professor! Leave here at once! I recall now that Hubert needs to speak with me. I must change my clothes. Now. Whatever you do, don't look this way.
+Byleth: I already saw it...
+Edelgard: Aah! Then forget what you saw! That's an order!
+Byleth: ...
+
+@Conversation 
+Edelgard: If the Alliance falls, then the Kingdom will... There's no time to waste. If we hesitate, we risk losing the initiative. I do think we should let the troops rest, though... We must maintain morale, Professor. And let's make sure this matter stays between us. If it gets out, I'll struggle to forgive even you.
+Byleth: What matter?
+Edelgard: Hmm... It seems you don't comprehend the consequences of angering the emperor.
+Byleth: Understood. 
+Edelgard: Thank you.
+
+
+
+Hubert: Claude von Riegan. What an interesting character. Underneath that compassionate exterior, he was always cold and calculating. Ordinary fools run headlong into combat, without even considering the possibility of defeat. But to consider one's chances, and to prepare for plans to go awry--that takes real intelligence. I have to say, I am impressed beyond words.
+
+
+
+Ferdinand: The majority is with us. This conflict will end soon. I am so moved by the Alliance nobles' decision. That is true nobility! Acting in accordance with the people's needs and wishes. As war drags on, those living near the front lines inevitably get the worst of it. We will not see such a peaceful resolution in Faerghus, I am afraid, as it is ruled by the royal family, not a council of nobles.
+
+
+
+Linhardt: I've been exploring the Holy Mausoleum. It's quite interesting in there. There is a mechanism I believe would allow us passage into the Holy Tomb, but I'm unclear on how to activate it. My research hasn't turned up much. It may come down to asking the archbishop for details.
+Byleth: Your research will find something. 
+Byleth: That's a puzzler.
+Linhardt: Indeed. We'll see if it's worth the trouble.
+
+
+
+Caspar: Did you meet my father in Derdriu? I guess he'll be responsible for controlling the Riegan territory and maintaining popular support. Not really sure what all that means though...
+Byleth: You should study more. 
+Caspar: You're probably right. I'll do my best!
+Byleth: It doesn't matter.
+Caspar: Are you sure? I figured you'd say something about me having to study more. Oh, I get it. This is a test! I'm definitely gonna have to brush up.
+
+
+
+Bernadetta: War isn't kind to you if you're a recluse. By the time you realize what's going on, you're already under attack. And if you're off by yourself, you can get killed with no one ever even finding out.
+Byleth: Sounds like you're learning.
+Byleth: Isn't that a little pessimistic? 
+Bernadetta: Got me out of my room, at least! That's good, right?
+
+
+
+
+Dorothea: The Leicester Alliance is no more. Three hundred years of history...gone and done. They write operas about events like this, you know. I'm sure they'll have a talent and beautiful songstress playing you. Probably for Edie as well. I wonder if there'll be romantic tension between your two characters, even if it's not historically accurate?
+
+Dorothea: The Leicester Alliance is no more. Three hundred years of history...gone and done. They write operas about events like this, you know. I'm sure you'll be played by the most handsome actor of the time. Hearts will pound as he takes the stage. A diva will play Edie! You'll fall madly in love, even if it isn't historically accurate.
+
+
+
+Petra: The Kingdom always is cold. I have hatred for the cold. Brigid is not cold. We have no Cold Spirit. Does the goddess of Fódlan give protection from the cold? I am wishing I knew how to ask her...
+
+
+
+Felix: Hmph. My father is holding Arianrhod secure. Our next battle will be there, against him, or in Fhirdiad, which the king is protecting.
+Byleth: Can you fight them?
+Felix: Ha! Don't underestimate me. I've been preparing for this for a long time.
+Byleth: I'm counting on you. 
+Felix: Hah. You just worry about yourself.
+
+
+
+Ashe: Derdriu's fallen. The Alliance nobles have surrendered to the Empire. We made it through with as few losses as possible. Not bad, all things considered... But I doubt it'll be so easy to deal with Faerghus.
+
+
+
+Sylvain: First Leicester and next Faerghus? Ah, that'll be really tough. Look, Professor... Fighting Faerghus? Isn't there some way we can come to an understanding?
+Byleth: Maybe there is. 
+Sylvain: Yeah, but Edelgard and her idiot sidekick haven't shown much desire to compromise, have they?
+Byleth: No.
+Sylvain: Harsh...but true. I don't see how we can avoid what's coming.
+Sylvain: Truthfully, I hate the idea of planning to kill people I used to be so close with. I guess everybody feels that way though.
+
+
+
+Mercedes: Oh, Claude. I'm so relieved that he managed to make it out alive. You'll be fighting the Kingdom next, right? Then the church? Isn't there some way we can do this without fighting Dimitri and Lady Rhea? I suppose not...
+Mercedes: Oh, Claude. It's too late now, but it's such a shame... You'll be fighting the Kingdom next, right? Then the church? I guess Edelgard won't hesitate to cut Dimitri and Lady Rhea down...
+
+
+
+Annette: We may be witnessing a key moment in history. Hundreds of years from now, your name and Edelgard's will be written in the history books, Professor!
+Byleth: Perhaps. 
+Byleth: That's a little embarrassing.
+Annette: What, how? I think it's just amazing!
+Annette: I wonder who will decide whether we did the right thing or not... Well, it won't be us, anyway. Probably the people of a future era.
+
+
+
+Ingrid: While the battle with the Alliance is over, we still need to stay vigilant. Both the church and the Kingdom are not to be taken lightly. I have the feeling we'll draw their attention soon. Weapon prep and training are of the utmost importance now more than ever.
+
+
+
+Lorenz: It seems all that praise of Claude's ingenuity was largely unfounded. A truly clever man would have realized defeat was inevitable and surrendered. Or, failing that, he could have rallied the Alliance nobles to secure a real fighting chance.
+
+
+
+
+
+Raphael: I'm no noble, so it won't make much difference to me... But it hasn't really hit me yet that the Alliance is finished.
+
+
+
+
+
+Ignatz: To think, I saw the end of the Leicester Alliance with my own eyes. I witnessed a turning point in the history of my homeland. I'm not sure how to express my feelings right now.
+Byleth: Why not write about it?
+Ignatz: No, I don't have a gift for words. But perhaps I'll tell my children someday, if I have any.
+Byleth: Why not paint a picture? 
+Ignatz: That's right, I'll paint it! The Fall of Derdriu.
+Ignatz: So that posterity can remember our triumph.
+
+
+
+
+Lysithea: The battle ended without House Ordelia getting involved. Although...I've no desire to continue on with my family, so from here on out, it's up to Edelgard. I have Claude to thank. Ultimately, this ended without the Alliance being entirely consumed by war. It's all thanks to Claude.
+
+
+
+Lysithea: I have Claude to thank. Before the battle, he considered my precarious position and told me it wouldn't matter if we fell to the Empire. So when you invited me, I accepted without hesitation. Ultimately, this ended without the Alliance being entirely consumed by war. It's all thanks to Claude.
+
+
+
+Marianne: I wonder... Was there really no way to end it without fighting Claude?
+Byleth: It couldn't be helped. 
+Marianne: You're probably right...
+Byleth: It's better this way.
+Marianne: I hope you're right...
+Marianne: I suppose the only thing I can do for him now is pray...
+Marianne: That he may live the rest of his life in happiness. 
+Marianne: That he may rest in peace. 
+
+
+
+Leonie: The worst part about going to battle is knowing you might have a friend fighting for the other side. You were a mercenary, Professor. Were you always prepared for that?
+Byleth: Absolutely.
+Leonie: Guess I need to learn. Won't make a very good mercenary otherwise, will I?
+Byleth: I still hesitate. 
+Leonie: That's reassuring. I don't think I'll ever get used to it.
+Leonie: Fighting old friends--there's nothing worse. My hands shake just thinking about it.
+Leonie: I'm glad Claude didn't die. Does that make me soft? 
+Leonie: I didn't want Claude to die. Does that make me soft? 
+
+
+
+Alois: I've lived at Garreg Mach Monastery for a few decades now. Still, the other day I got myself all turned around! There are so many secret rooms and hidden passages. Maybe I'll take the time to properly search the place. Care to join me? I expect it'd take a whole day.
+
+
+
+Shamir: You're too soft. I'm talking about Claude. Our emperor mercilessly cuts down all those who stand in her way... But perhaps she is more tolerant of those who know their place.
+Shamir: Our emperor mercilessly cuts down all those who stand in her way... Even the Master Tactician.
+
+
+
+Hanneman: It seems Claude has disappeared...
+Hanneman: Claude...lost in battle. My goodness.
+Hanneman: Do you suppose this means the end of House Riegan? While the Crest of von Riegan is not terribly rare... The long linage of the von Riegan family will be broken.
+Byleth:  It's just another consequence of war. 
+Byleth:  We should mourn his death. 
+Hanneman: Agreed. The poor boy...
+Byleth: Does this pose an obstacle to your research?
+Hanneman: No... At the very least, I think not. There are other, lesser Crests to research. Yet I am a human first and a scholar second. For now, I grieve the fallen and pray for those still living.
+
+
+
+Manuela: You know as well as I do, the day's coming that we'll have to fight the archbishop and her knights. We've got some strong fighters here, sure. But even with all our training, I don't know if we can win. I just don't see how any of us can compete with the archbishop, say, turning into a monster.
+Byleth: If we must fight, we will. 
+Manuela: Yeah? What if that fight's to the death--yours and mine in particular?
+Byleth: Sometimes it can be better to retreat. 
+Manuela: That's exactly what I was saying. I've always appreciated how you listen to me.
+
+
+
+Jeritza: Neither the emperor nor the Empire have my allegiance. It is all simply part of the agreement. There is no other reason for me to be here.
+
+
+
+Anna: The Alliance is just...gone. It's hard to believe. The merchants of Derdriu all have nerves of steel. I'm sure they'll be up and running again in no time.
+
+
+
+Randolph: Finally, the Kingdom... After that, we'll battle the church. I volunteered for monastery guard duty. It was more for my family than anything. But now, from the bottom of my heart, I want to see Her Majesty ruling this land. Even if it costs me my life, I will protect Garreg Mach!
+
+
+
+Fleche: I just wanted to help out my brother, Randolph, so I aspired to be a soldier. My brother puts his life on the line to fight, so I'll put everything I have into it too. Eventually the enemy will attack, and when they do, we'll defend this place to the bitter end!
+
+
+
+Ladislava: Your next opponents will be the Kingdom's army and the Knights of Seiros. Both fearsome foes. Put the mobility of my troops to good use, and let us protect the Kngdom's western battle front. When this month has ended, I'll depart. I pray that you have good luck in battle.
+
+
+
+Gatekeeper: Greetings, Professor! Nothing to report! You may already know this, but the Kingdom and the Alliance were once a single entity. The leaders of the Alliance, House Riegan, are actually a branch of the Blaiddyd royal family. In a way, it's just a battle of the part of Blaiddyd family tree that rose in rebellion against the Empire...
+
+@Opening 
+Following the Alliance's defeat, the Black Eagle Strike Force prepares to invade the Kingdom, but the Kingdom's new allies--the Knights of Seiros--begin to make an advance of their own. After appearing in Ailell, the Valley of Torment, and following the border south, the Knights of Seiros openly march to recapture the monastery at Garreg Mach.
+
+Absorbing the Alliance brings the Empire one step closer to a unified Fódlan. The Black Eagle Strike Force returns to Garreg Mach to plan its invasion of the Kingdom, unaware of the enemy lurking in the shadows.
+
+@Intro 
+Imperial Soldier: Raid from the north! Their flag bears the symbol of the Knights of Seiros! One of our troops has already intercepted them! Your Majesty, please give us your orders!
+Edelgard: From the north? Interesting... Could it be they journeyed through Ailell, the Valley of Torment? Is the archbishop among the enemy ranks? If so, focus our attacks on her first.
+Imperial Soldier: Understood!
+
+Edelgard: Our enemy knows Garreg Mach from inside and out. They can come and go as they please. It would have been best if we had detected them sooner, but that can't be helped. Professor. We must hurry and intercept them ourselves. I'll leave the preparations to you.
+
+Hubert: Heh. The battle looks to be rather cumbersome. We are still guarding all of Garreg Mach, but there are undoubtedly numerous secret passages and magic traps... There is still much about this place that we do not know. It is quite possible that they will attack from a location we cannot anticipate.
+Edelgard: I must head out first to give my orders. I'll meet up with you soon. Call for General Randolph and General Ladislava! Hurry!
+
+
+
+Seteth: It feels like only yesterday we called this place our home... We must show these fools the error of their ways. They shall pay for the sin of invading Garreg Mach...
+Flayn: Oh, but the professor is fighting alongside our foe! The same one who saved my life...
+Seteth: That is true... Though I find forgiveness difficult, we do owe that wayward soul a debt. However, the fact remains that because of the professor, Rhea has long been tormented. To think that the vessel of the goddess, entrusted with the Sword of the Creator, could go on to... Ah, it angers me to even think of it! All that has happened has changed Rhea. I imagine it has changed the professor as well. Even if we prevail, I doubt the church can ever fully return to the way it once was...
+Flayn: Umm... Brother?
+Seteth: Dear Flayn. I only brought you with me because you were so insistent. Still, no matter what happens, you must not go near the front lines. If something were to happen to you, it would utterly destroy me. You are my reason for breathing. Do you understand?
+Flayn: I...I understand. If something were to happen to you, it would break my heart. I could not go on either. I cannot help but wonder...if there is a way to end this without fighting the professor...
+
+@Battle 
+Shamir: Our surprise attack on Garreg Mach was a success. Now we just need to break through past this point. 
+Knight of Seiros: We were successful sneaking up on Garreg Mach. All that's left is to break through past this point. 
+Alois: Lady Rhea and Catherine are holding back most of the Empire's army. Thereby leaving us, the expeditionary force, free to recapture the monastery! 
+Knight of Seiros: The archbishop and Catherine are handling the bulk of the Imperial army. That gives us the chance to infiltrate the monastery! 
+Edelgard: Our enemies have followed us even here. How unfortunate.
+Hubert: Your Majesty, the enemy's movement is suspicious. They may have some tactic in mind.
+Edelgard: If so, then let's face them without delay. Form defensive lines and hold them to the death! Strike down all who approach!
+Hubert: Their troop composition is also strange. I would bet that they are concealing additional soldiers.
+
+Hubert: The enemy is transporting large quantities of flammable material into the woods. They clearly intend to attack us with fire. We should do all we can to prevent it.
+Edelgard: Troops waiting in the woods to ambush? We must avoid any suspicious areas as we advance.
+
+Seteth: Now!
+Edelgard: Come at me, so that I may put you out of your misery! (Flayn and several Church Soldiers appear on the right side of the map.
+Flayn: The time is now! As long as we stand here, you shall not pass!
+
+Alois: Now! Light it up! Like the goddess's fiery wrath, these flames will engulf our enemies. 
+Knight of Seiros: Start the fire! 
+
+Shamir: Great. A path has opened for us. 
+Knight of Seiros: All right, a second route is open! Well done on this one too! 
+
+Edelgard: If they break through here, the monastery will be — ...If that happens, all will be lost.
+
+@Boss 
+Shamir: How much of this can you take? It doesn't matter. We will be reclaiming Garreg Mach.
+
+Shamir: I knew it... Shouldn't have let emotion get in the way...
+Alois: Shamir, no! I will avenge you! 
+
+Alois: You fiend, bearing ill will against the goddess. This place will be your grave!
+
+Alois: Jeralt, I did it... I protected the monastery...
+Shamir: Alois! How dare you die before me! 
+
+Edelgard: Our enemy's plans is in ruins. Still, we must tread carefully.
+
+%Byleth,Shamir
+Shamir: You still align yourself with the emperor? What a shame. Let's make this quick. I don't want the loser to suffer.
+
+%Alois,Shamir
+Alois: Why, if it isn't Shamir! You're still with the knights. What a surprise.
+Shamir: You're the surprise, Alois. I never thought I'd see the day you'd choose anyone over Rhea. Don't worry, I won't hold back. I owe an old ally the courtesy.
+Alois: I won't either. I hope you're ready.
+
+%Petra,Shamir
+Shamir: I cannot bring myself to kill you... You're a princess of Brigid. A hostage of the Empire.
+Petra: That was the truth in the past, but it is a different truth now, Shamir... I am...the will of the emperor!
+Shamir: In that case, I won't hold back.
+
+%Byleth,Alois
+Alois: I can't believe you would try to kill lady Rhea. Jeralt must be turning in his grave. I can't protect you like I promised. I have to kill you and bury you with my own hands.
+
+%Shamir,Alois
+Shamir: So, you're the leader of the Knights of Seiros now? Good for you, Alois.
+Alois: Indeed. You seem to be doing well for yourself too. The other knights are always cursing you.
+Shamir: Don't worry, I won't hold back. I owe an old ally the courtesy.
+Alois: I won't either. I hope you're ready.
+
+@Boss
+Flayn: This makes me terribly sad, but this is my duty, to which I must be true!
+
+Flayn: Farewell, Professor. I do not imagine we shall ever meet again.
+
+Flayn: Father, please forgive me... I am returning to Mother now...before you do...
+Seteth: Flayn! Please, no! No! 
+
+%Byleth,Flayn
+Flayn: When I heard you were alive, Professor, I was so happy. But now... Now this? How can it be that you fight on that side? I cannot take your life, for I owe you mine, even now. And yet I cannot back away from this fight. When this is over, my brother and I will go into hiding. It is the only way.
+
+@Boss
+Seteth: Trespassing on holy ground is a grave sin indeed. You must atone for it with your life!
+
+Seteth: I'm sorry, Rhea... For Flayn's sake, I must take my leave to retreat...
+
+Seteth: I'm sorry, Flayn... I couldn't protect you...
+Flayn: Father! Father, why?! Why?! 
+
+%Byleth,Seteth
+Seteth: It saddens me to face you on the field of battle, after all you've done for Flayn. I cannot approve of your actions. But I also cannot follow Rhea on her current course. It may not change anything, but allow me to make a promise to you. If Flayn and I survive this battle, we will withdraw from the world and leave you to do as you please.
+
+@End
+Edelgard: We fought them off. Good work, everyone. We've repelled the principle force of the knights and defended Garreg Mach! Hubert, I require a damage report at once.
+Hubert: Yes, Your Majesty. We will have to make inquiries about the status of the main army.
+Edelgard: Indeed. After all, it seems they had Rhea and Catherine fighting on their side.
+
+^start 
+Catherine: Lady Rhea. The unit that invaded the monastery has been completely driven away. We were able to make a clean sweep of those who came to attack us. However, I fear we can do nothing but retreat for now.
+Rhea: What of Seteth and Flayn?
+Catherine: Seteth and Flayn were able to escape in another direction. I have a message from them.
+Seteth: I am sorry, Rhea. I fear we must return to a life in hiding. I detest that person with all my heart. However, Flayn's life is more important to me than all else. I pray that you will one day be free from the burden of your work...
+Rhea: I see. As expected, I am the only one left. Mother, please wait for me. I promise that I will save you...The filthy thief who stole you from the Holy Tomb...I will crush them with my bare hands!
+
+Catherine: Lady Rhea! I am afraid I must report...we lost Seteth and Flayn. We were able to make a clean sweep of those who came to attack us. The unit that invaded the monastery has been completely driven away...a bitter disappointment. I fear we can do nothing but retreat for you.
+Rhea: Seteth... Flayn... First my mother, and now those two have been stolen away as well? Must you take everything from me?!
+Catherine: Lady Rhea...
+Rhea: No amount of repentance will bring your wretched soul salvation. You will be chained to the Valley of Torment...eternally walk the desert until the skin rots from your bones... I will ensure that you pay for your sins, Professor! In the name of the Nabateans, I swear it!
+^end
+
+@End 
+Randolph: Edelgard... Your Majesty... I am so sorry...
+Edelgard: Silence. We must tend to your wounds.
+Randolph: It will do no good. I can't be saved... You must know that. Ladislava has also passed... The enemy has withdrawn... You are safe now...
+Edelgard: Understood. Good work. Another loss on my watch... As more blood wets my feet, they grow heavier with each step. Remorse, resentment, despair... I have dispensed with all such things to come this far.
+Hubert: And we must keep moving forward...
+Edelgard: Hubert. Tell me the status of the enemy.
+Hubert: The battle has ended in a draw with severe injuries on both sides. Some known commanders have been slain.
+Hubert: The most worthy of mention among the dead was the second in command to Rhea herself, Seteth.
+Hubert: With the death of Alois, the Knights of Seiros have taken a huge blow as well.
+Hubert: Garreg Mach has not taken much damage, and so it would not be out of line to claim it as a victory for us.
+Edelgard: Yes... We'll call that a victory. Although, I'm sure they will say the same.
+Hubert: Yes, Your Majesty.
+
+
+
+Bernadetta: Ugh, what a terrible opponent that was! Why is the church always like this?! How am I supposed to train for that?! It was way too scary!
+Linhardt: When I saw the enemy enter Garreg Mach, I prepared myself mentally for death. I thought it would be a fine time to die, but I suppose it wasn't quite the time after all...
+Petra: Our luck was good to have grabbed victory. The church has great strength. We must not have grief, but must keep fighting. Can we be fighting now?
+Ferdinand: This was certainly a momentous victory. We lost a lot, but we also gained a lot. Certain lords in the Kingdom have examined the situation again and decided to join our cause. Changing their fealty based on just one battle... They are all a disgrace to the nobility!
+Dorothea: Today, our enemy held many faces I knew well... If we must fight to the death with that kind of opponent, what will become of this world?
+Caspar: There's no stopping me! I'm ready go strike the Kingdom here and now! Everyone must see that we can easily unite Fódlan! Don't you think?
+
+Edelgard: Excellent job, everyone. The battle is over now.
+Edelgard: Professor, the battle is over now. 
+Edelgard: While we have sustained heavy losses, our foe has suffered far more.
+Hubert: Although not exactly as planned, a win is a win. It may be safe to say that there will be no more obstacles on our way to the next battle.
+Edelgard: We will break through the Tailtean Plains and then set course for Fhirdiad, the Kingdom Capital. The final chapter of our fight with the Kingdom and the church is close at hand.
