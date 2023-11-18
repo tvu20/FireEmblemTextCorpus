@@ -84,6 +84,12 @@ const Inputs = () => {
       <h3>Notes about transcripts</h3>
       <ul>
         <li>
+          As of now I do not intend to use data from FE17: Engage as part of
+          this dataset, since the game came out very recently and has not been
+          fully transcribed yet. I may include it as a bonus thing once I finish
+          working with the rest of the scripts.
+        </li>
+        <li>
           FE1-6 and FE12 are not localized, so I have compiled translations of
           their scripts. Characters are referred to by their localized names in{" "}
           <i>Fire Emblem Heroes</i> if possible.

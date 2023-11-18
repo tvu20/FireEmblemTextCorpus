@@ -15,4 +15,5 @@ export const GAMES_SO_FAR = [
   "FE13",
   "FE14",
   "FE15",
+  "FE16",
 ];
