@@ -1,0 +1,733 @@
+FE9|09-Gallia|Ike|Even though I was aware of the numbers, hearing it in a report like this is...hard.|sadness
+FE9|07-ShadesOfEvil|Greil|That was my name once, but I threw it away. The only weapon I need is right here.|neutral
+FE9|21-WithoutAKing|Begnion Soldier|We're trapped in this castle! Run! Ruuuun!|fear
+FE9|23-TheGreatBridge|Ranulf|We're going to establish communications with them and create a united front. That being said, Gallia is here to support you. The Crimean army will always be at the center of the effort. Don't forget that.|neutral
+FE9|13-AGuidingWind|Titania|Gatrie? Is that you? Well, I'll be. It IS you!|surprise
+FE9|18-CrimeaMarches|Naesala|General Petrine commands the next front. She's a very...temperamental woman... But go if you like! Tell her that the Kilvas ravens have been defeated... She'll roast you like a chicken and use your bones for stock!|anger
+FE9|19-Entrusted|Janaff|Oh, my...such sincerity. This is unexpected. It looks like someone taught you manners.|surpriseFE9|23-TheGreatBridge|Ike|Huh? I know that voice...|surprise
+FE9|05-Flight|Greil|You say you are the princess of Crimea?|surprise
+FE9|19-Entrusted|Naesala|Reyson is here? HERE?! Why?!|surprise
+FE9|25-StrangeLands|Ranulf|She's right. And besides, the dark god could be released no matter where the medallion is. So it's nothing to worry about.|neutral
+FE9|07-ShadesOfEvil|Ike|Get yourself to safety, then, and wait until this is all over.|neutral
+FE9|23-TheGreatBridge|Shinon|What do you care, you snotty whelp?! It's none of yer business! AND another thing! About the command of the company. If you refuse to give it up...at least change the name! Yer NOT...Commander Greil! Just because you're his son...That doesn't...give you the right...to use his name...|anger
+FE9|03-PiratesAground|Greil|Rules exist for a reason, Mist. Men won’t survive on a battlefield if they do as the, wish without so much as a by-your-leave.|neutral
+FE9|17-DayBreaks|Nealuchi|Your assessment of this old bird is correct. I am a worm, nothing more. But please, I beg of you... Temper your outrage. Let it cool.|fear
+FE9|03-PiratesAground|Marcia|Hey! You! Boat monkey! You tricked me, didn’t you?|anger
+FE9|11-BloodRunsRed|Mordecai|You will betray your friends?|surprise
+FE9|23-TheGreatBridge|Shinon|Screw you! You always get everything! Don't you ever want to give up anything? Nooooo! Not big important mister Ike! You've always been like this! You act like you're not interested in something, then you swoop in and...STEAL IT AWAY!|anger
+FE9|27-MomentOfFate|Mist|I... I will fight you! I'll never let you kill my brother!|anger
+FE9|27-MomentOfFate|Mist|That's right! Dad was great...and so was Mom...And so are you, Brother. I love you all! I'm so proud of my fantastic, wonderful family!|joy
+FE9|12-AStrangeLand|Kurthnaga|Do not worry about payment.|neutral
+FE9|13-AGuidingWind|Titania|Hey, Ike! Watch your words. You're being rude.|anger
+FE9|10-PrisonerRelease|Brom|STOP IT! I can't bear torture! I'm not a professional soldier! I'm just part of the militia! I can't believe I left my family behind for this...Will I ever see them again? Oh, I want to go home.|fear
+FE9|11-BloodRunsRed|Mordecai|Hmm...? I am confused. But...you do not smell like an enemy. Our group must get on that ship. We are taking it to Begnion.|surprise
+FE9|10-PrisonerRelease|Kieran|As always, your manner is listless and inappropriate. It befits one who would call me foe! You were discharged three years ago...What are you doing here now? Aha! Could it be...You dastard! You've turned your coat and gone over to Daein, haven't you? Rarrrrr! What despicable, contemptible behavior! Unforgivable! Have you no shame? You were my one true rival! Where has your pride gone?|anger
+FE9|10-PrisonerRelease|Ranulf|You accept the king's gift. Then, as payment for conducting you safely to Gallia,you hand it over to Ike...|neutral
+FE9|11-BloodRunsRed|Brom|Don't worry about my feelings. You can laugh. Acting like this at my age, what a silly man I am!|joy
+FE9|02-Rescue|Ikanau|This...This can’t be...I don’t deserve to lose to sellswords like you...|sadness
+FE9|00-Mercenaries|Boyd|Yaaaawn... You know, I’m getting sleepy.|neutral
+FE9|11-BloodRunsRed|Lady|Eww! It's so hairy! Go on! Scat!|fear
+FE9|09-Gallia|Rolf|Nothing. But if I’m close to you, I can protect you. So you have no need to worry.|neutral
+FE6|10A-TheResistanceForces|Gonzalez|Me afraid? I never afraid! Everyone afraid of ME! I not afraid!|fear
+FE9|00-Mercenaries|Greil|Your swordsmanship was decent enough, Ike. Don’t forget how it felt. It won’t always be this easy.|neutral
+FE9|08-DespairAndHope|Soren|But–I only... I’m sorry...|sadness
+FE9|18-CrimeaMarches|Naesala|What's that? The border's been breached?|surprise
+FE9|13-AGuidingWind|Norris|Leave my sight! I wouldn't seek your aid if the world were burning down around me!|anger
+FE9|10-PrisonerRelease|Soren|You're sorely lacking in social etiquette, aren't you? State your business.|neutral
+FE9|07-ShadesOfEvil|Soren|I’m sorry, Ike. I don’t think I can fight anymore.|sadness
+FE9|15-TheFeralFrontier|Ike|All right, I know there's something going on!|neutral
+FE9|09-Gallia|Ike|We take them with us. We’re too pressed for time to sit around here bickering. And at least if they’re nearby, they’ll be easier to protect.|neutral
+FE9|21-WithoutAKing|Elincia|What? What happened to the Crimean people? Surely only the soldiers were imprisoned or killed...|surprise
+FE9|09-Gallia|Ike|Hmm. Now that I think about it, my father knew where that old castle was...He sure acted like someone who’d been to Gallia before. Was he here with you?|neutral
+FE9|27-MomentOfFate|Titania|...Thank you, Ike. It must have been so hard for you.|sadness
+FE9|10-PrisonerRelease|Ike|Oh, for the love of--Come on! This way!|anger
+FE9|20-DefendingTalrega|Jill|I'm sorry... I've chosen the path that's right for me.|sadness
+FE9|29-Endgame|Nasir|I knew how much the medallion meant to you, and I stole it nevertheless. No matter the words I use to apologize, I did something unforgivable. I gained your trust--and Ike's--and betrayed it. Then I compounded my dishonor by fleeing. ...I am so very sorry...|sadness
+FE6|14-Arcadia|Randy|I am glad…that I could meet one as strong as you…before my death.|joy
+FE9|06-ABriefDiversion|Emil|Oooh...My life ends here...But...though you flee to Gallia...you will...fall to Daein...|anger
+FE9|08-DespairAndHope|Ike|I was at his side, but...I couldn’t save him. I’m sorry.|sadness
+FE9|18-CrimeaMarches|Ike|Who's that?|surprise
+FE9|17-DayBreaks|Tibarn|You can't mean... Are you thinking of using the forbidden magic?|surprise
+FE9|25-StrangeLands|Mist|Um... No...I'm all right. I'm all right...I'm just a little confused.|sadness
+FE9|24-BattleReunion|Geoffrey|I see... Thank goodness...Thank you for that regard!|joy
+FE9|22-Solo|Elincia|Elincia Ridell Crimea. I'm the sole survivor of the Crimean royal family.|neutral
+FE9|18-CrimeaMarches|Ashnard|Hmph. Disappointing.|anger
+FE9|22-Solo|Tomenami|Oh...mercy... Please help me...|fear
+FE9|05-Flight|Daein Soldier|Reporting in, sir! The mercenaries have taken up arms and formed up in the bailey!|neutral
+FE9|XX-Epilogue|Jill|...General Ike. I, I will never, ever forget you. Thank you for showing me the error of my ways.|joy
+FE9|21-WithoutAKing|Petrine|According to all reports, she escaped. Her current location is unknown. However... This is Ena we're speaking of. She will return to Your Majesty, will she not?|neutral
+FE9|11-BloodRunsRed|Sephiran|Listen to me, Daein general. You will withdraw from this place. I will not allow you to pursue that ship.|neutral
+FE9|11-BloodRunsRed|Woman|Ah! Eeeeeeek! Su-sub-human!!|fear
+FE9|17-DayBreaks|Leanne|(Everyone is...gone, aren't they?)|sadness
+FE9|15-TheFeralFrontier|Reyson|Naesala... It appears that I have misjudged you. I called you a groveling toady to humans and labeled you traitor. I was overly harsh. I apologize.|sadness
+FE9|XX-Epilogue|Ike|You’ve done such an amazing job. And I think you always will.|joy
+FE9|07-ShadesOfEvil|Black Knight|Tell me, is the son as stupid as the father?|anger
+FE9|03-PiratesAground|Mayor|Oh, no. Don’t apologize. There’s no need. After all, you got rid of those brigands, and you did it impeccably well!|neutral
+FE9|12-AStrangeLand|Sothe|Hm? Ow...oouuuch!|fear
+FE9|14-Training|Maid|...Aye? ...Oy? ...Eh wot? Oh, crickey! Princess Crimea's escort...? A guest of the apostle...?!? Oh, ohnoohmygosh! Please...Please forgive me!|fear
+FE9|05-Flight|Petrine|Honor? I care nothing for your pathetic honor. Have you forgotten the Daein army’s motto? Success or failure, life or death. Hey, you! Get this trash out of here!|anger
+FE9|12-AStrangeLand|Sothe|Stop scowling at me like that! You're making me uncomfortable.|fear
+FE9|09-Gallia|Lethe|Are you going to sit here and argue about a war that hasn’t started? You beorc are all so timid! It’s pathetic.|anger
+FE9|27-MomentOfFate|Mist|Yeah... I'm sorry. When you told us that story...I was so shocked...That's why.|sadness
+FE9|12-AStrangeLand|Sothe|...That hurt! I thought you were gonna break my face...|fear
+FE9|18-CrimeaMarches|Mist|Shi-Shinon? Ohmigosh...Why are you with the Daein army?!|surprise
+FE9|21-WithoutAKing|Kasatai|Pah! If the king wished to rule the world, he would want as much military strength as possible! To forsake even a portion of the strength he currently possesses willingly, why, it would be sheer folly...|anger
+FE9|03-PiratesAground|Greil|I’m pleased to see that you are willing to shield one another. However...|joy
+FE9|17-DayBreaks|Janaff|You're unbelievable. What is it with you crows, anyway? Everything you do is so dirty and deceptive. We will never understand your ways. Do you hear me, greywings?|anger
+FE9|18-CrimeaMarches|Elincia|My lord Ike. Are preparations complete?|neutral
+FE9|13-AGuidingWind|Gatrie|He is the son of a man under whom I had the honor of serving. He's not a bad person, by any means. But he has no manners whatsoever...|neutral
+FE9|28-TwistedTower|Elincia|I want...to grow stronger. To reach that goal, I will do whatever it takes.|neutral
+FE9|23-TheGreatBridge|Ike|What are you so darned chipper about?|anger
+
+FE6|17B-ThePathThroughTheOcean|Arcard|W-Why! Why is this happening to me!?|surprise
+FE9|14-Training|Ike|Madness!|anger
+FE9|21-WithoutAKing|Kasatai|Aaaaaaah!|fear
+FE9|23-TheGreatBridge|Ranulf|Don't say things like that! I'm shocked that you would understand such subtleties. Who are you, and what have you done with Ike?|surprise
+FE9|XX-Epilogue|Oscar|What a long road we’ve traveled! And yet, in many ways, it seemed to pass so quickly. I’m proud to have fought beside you, Ike.|joy
+FE9|22-Solo|Ike|Now it's time to search this place.|neutral
+FE6|11B-EscapeToFreedom|Morgan|What are you doing?! Hurry and kill the ones who escaped! Wait, you're not one of my men... Wh-who are you?!|surprise
+FE9|11-BloodRunsRed|Jill|Commander Haar! Let us pursue the enemy ship! They're friends of the sub-humans! We cannot allow them to escape!|anger
+FE9|14-Training|Sanaki|Oh, really? And tell me, what gives you this strength of conviction? If we believe her story, this woman has not engaged with the outside world since the day she was born. So how is it that you, a lowly mercenary, dare to assert her authenticity?|surprise
+FE9|25-StrangeLands|Tibarn|What about those two children? Surely they weren't involved.|surprise
+FE9|17-DayBreaks|Tibarn|If Reyson hadn't escaped on his own, perhaps the crow king would have rescued him when things cooled down. Regardless, Reyson trusted in his friend and followed him into the trap... And Naesala spit on that friendship. That, I cannot forgive!|anger
+FE9|19-Entrusted|Naesala|N-no... This cannot be...Is this...my...fate? What of Kilvas--|surprise
+FE9|13-AGuidingWind|Begnion Soldier|I-I'm sorry, ma'am! If I can offer up my life in repentance for--|sadness
+FE9|05-Flight|Ike|I make no promises, but we may be able to help you. Will you share your story with us?|neutral
+FE9|10-PrisonerRelease|Titania|Are you sure, Commander? We have no way of knowing if he's telling the truth.|surprise
+FE9|17-DayBreaks|Reyson|Tibarn! (Please....) Allow me to go with you.|neutral
+FE9|14-Training|Gashilama|...Idiot...|anger
+FE9|08-DespairAndHope|Ilyana|You’re awfully kind, aren’t you?|surprise
+FE9|21-WithoutAKing|Kasatai|What are you talking about? Do you...Do you understand exactly what it is you are saying?|surprise
+FE9|24-BattleReunion|Makalov|Hey! Ouch! Come on, you gotta let me go!|fear
+FE9|02-Rescue|Rolf|Oh...I’m scared.|fear
+FE6|24-TheTruthOfTheLegend|Roy|Created...? So it wasn’t the Dark Dragon that was making more Dragons...|surprise
+FE9|04-RoadsideBattle|Shinon|What? You judgmental little–|anger
+FE9|20-DefendingTalrega|Ike|How can this be? Father...forgive me.|sadness
+FE9|27-MomentOfFate|Daein Soldier|Oh! Then...uh... Hey, get that girl! Kill her before she flees!|anger
+FE9|17-DayBreaks|Reyson|Cursed humans... How dare they defile this forest again! I will brook their savagery no more! The forest whispered earlier, but I must drive these wretches out before I can speak to it further. I will go to the altar...I will give voice to the forbidden magic and destroy the humans utterly!|anger
+FE9|11-BloodRunsRed|Daein Soldier|The Gallian sub-human! After him! Don't let him get away!|anger
+FE9|13-AGuidingWind|Norris|Blast! All my plans are falling apart. I'll cut you all down!|anger
+FE9|08-DespairAndHope|Daein Soldier|Aaah! Noooo!!!|fear
+FE9|20-DefendingTalrega|Soren|...Idiocy...|anger
+FE9|11-BloodRunsRed|Ranulf|...Ugh...why? Why do my attacks do nothing?|surprise
+FE9|18-CrimeaMarches|Black Knight|It appears that two members of the royal family survived.|neutral
+FE9|26-Clash|Ashnard|Heh heh heh. Heeee heeee heee! Perfect!! Nothing raises my spirits like war! Come, Crimea! Let me be the one to consume your noble hearts!|joy
+FE9|14-Training|Ike|What is the meaning of this? You knew Elincia was Princess Crimea? And you continued to humiliate her for your own entertainment? For some stupid game of wits and words? This is no joke!|anger
+FE9|16-TheAtonement|Muarim|I am sorry. Lord Ike...If a former slave like myself is present, all of you will be judged, scorned, and looked down upon. I came here...to ask if you would... take care of something for me. I would have you take care of the little one.|sadness
+FE9|22-Solo|Ike|...Is this about that stupid game again?|anger
+FE9|12-AStrangeLand|Ike|Well then, I beg your leave. Prince Kurthnaga, I won't forget your kindness. Thank you!|joy
+FE9|16-TheAtonement|Ike|Rest easy, Muarim. Everyone in this room is with me. The apostle has no ears here.|neutral
+FE6|25-BeyondTheDarkness|Roy|What’s happening... The temple is starting to collapse! Everyone! Hurry outside!|fear
+FE9|22-Solo|Titania|Begnion reinforcements... That was unexpected, wasn't it?|surprise
+FE9|27-MomentOfFate|Soren|Idiocy! I'll hear no more of this naive nonsense! What if something happens to him? What then?|fear
+FE6|16-RetakingTheCapital|Narcian|Shut up! All you must do is follow my orders! Now bring him here!|anger
+FE9|18-CrimeaMarches|Shinon|You always did have what it takes. It's just like I told you--you train the right way, and you'll surpass both your brothers.|neutral
+FE9|14-Training|Bandit|Not again! You're employed as a bodyguard! Why don't you have enough gold to pay me back?! Grr! When we get back to the base, I'll get what's mine. Try to run, and you'll pay in pain!|anger
+FE9|18-CrimeaMarches|Daein Soldier|What could His Majesty be thinking? Why does Daein ally herself with some backwater sub-human nation?|surprise
+FE9|15-TheFeralFrontier|Tormod|No more useless words! Come, my brothers! Take them!|anger
+FE9|07-ShadesOfEvil|Ike|Really? So he’s safe...|surprise
+FE6|23-TheGhostsOfBern|Bartre|Yes... I tried my hardest, but...|sadness
+FE9|09-Gallia|Caineghis|You have been raised well, young pup. I didn’t recognize you.|neutral
+FE9|13-AGuidingWind|Mist|Oh, no... Is she really...?|surprise
+FE9|15-TheFeralFrontier|Lethe|...What sort of lunatic have I found now?|surprise
+FE9|26-Clash|Ike|What's going on? Why are you dressed like that?|surprise
+FE9|XX-Epilogue|Rhys|Finally...it’s finally over. At long last, we can return to a life without war. Praise the goddess.|joy
+FE9|08-DespairAndHope|Titania|So many of them...and so few of us...It doesn’t look good, does it|fear
+FE9|11-BloodRunsRed|Mist|Brother, you stupid fool! Fighting a knight as strong as that...You idiot! I was...so scared...|fear
+FE9|20-DefendingTalrega|Elincia|What? Is such a thing possible?|surprise
+FE9|09-Gallia|Mordecai|If you persist in this way, you will shame the king. You sound like a fool.|anger
+FE9|18-CrimeaMarches|Daein Soldier|Yes, sir! He's a new recruit who was only assigned to me today. Please accept my apologies for his lack of any training or manners whatsoever.|neutral
+FE9|02-Rescue|Rhys|Well, I’ve been in bed for almost a week. I doubt anyone would be in top form–even you, my friend!|neutral
+FE9|28-TwistedTower|Tibarn|Regardless, we must hurry. It's going to be dark soon. It's rather embarrassing, but we of the bird tribes don't move well in the dark.|neutral
+FE9|28-TwistedTower|Ike|That's Gritnea Tower, right?|neutral
+FE9|25-StrangeLands|Mist|F-Father...he... Is that how...Mom? That's...not true, is it?|surprise
+FE9|08-DespairAndHope|Ilyana|I was traveling with some merchants, but we got separated. I came here to escape this rain, but some soldiers in black found me. They thought I was a Crimean refugee.|neutral
+FE9|29-Endgame|Elincia|I stand before you made of flesh and bone, alive because you risked your lives for me. A word cannot my thanks express in kind...|joy
+FE9|07-ShadesOfEvil|Ike|Princess Elincia is going on to the palace with Ranulf. We’re going into Galliaand setting up camp at an old castle. Which way to this castle, Ranulf?|neutral
+FE6|21-TheBindingBlade|Melady|Wait...! Galle! Don’t go! Gaaaaaaaaaale!|sadness
+FE9|24-BattleReunion|Ike|Straighten up and don't trouble your sister anymore.|neutral
+FE9|11-BloodRunsRed|Elincia|Oh, no, I'm just happy to see you well. So very...happy.|joy
+FE9|13-AGuidingWind|Soren|No, not really. I'm just waiting to find out which side you're working for. If you're on our side, fine...Please fight till you drop. It will only improve our chances of winning.|neutral
+FE9|11-BloodRunsRed|Zihark|Hold on! Please!...I am not an enemy to laguz.|fear
+FE9|18-CrimeaMarches|Shinon|I won't work for him. Get it? We used to be friends, so I'm going to let you go. Now get your naive little butt out of here!|anger
+FE6|06-TheTrap|Roy|We must hurry to Ostia! Lilina... Please be safe!|fearFE6|25-BeyondTheDarkness|Roy|...You’re wrong. You were only told that the world would become a better place. The person who ordered you is already dead. So stop! You no longer have any reason to fight!|anger
+FE9|01-TheBattleBegins|Titania|Is that so, Boyd? That’s a surprise.|surprise
+FE9|21-WithoutAKing|Titania|She's fine. She's with the supply convoy. They're all under very close guard.|neutral
+FE9|15-TheFeralFrontier|Stefan|Mordecai, listen here. I'm interested in the beast tribes of Gallia. Would you mind talking with me? I'll buy dinner!|neutral
+FE9|12-AStrangeLand|Ike|No, of course not. We will be happy to accept your gift. We appreciate it.|joy
+FE9|07-ShadesOfEvil|Ike|Sorry to tell you this, but the princess isn’t here. She’s been in Gallia for quite some time now.|neutral
+FE9|27-MomentOfFate|Titania|Ike! Mist! Both of you...You did so well...|joy
+FE9|16-TheAtonement|Ike|I understand. If you can help me perfect my technique, I will gladly accept an invitation to learn from you.|joy
+FE9|25-StrangeLands|Leanne|(Ah! Aaaaahhhh!!!)|fear
+FE9|09-Gallia|Rolf|Well, let’s see...Um...I guess I just...sorta...picked it up naturally?|neutral
+FE9|28-TwistedTower|Reyson|No good reason? And what about your fellow Kilvans? King Daein has taken their natural identity and warped it beyond repair!|anger
+FE9|18-CrimeaMarches|Ike|I understand. Thank you. That's good news, isn't it, Princess Elincia?|joy
+FE9|09-Gallia|Female Cat Laguz|Urk! Urk! Ahhh...Oh, come on! You are so rude! If you can’t tell, I’m playing dead. So go away! Huh? Why? Because my mother told me, If you ever meet a beorc, play dead, and it will leave you be. It’s not true, is it? Hsss! I knew it wasn’t true! I knew it! Well then, take this, and get out of here! Quickly! I HATE humans! I don’t want to talk to you!Hsss! SHOO!!|anger
+FE9|28-TwistedTower|Leanne|(I hate this!)|anger
+FE9|03-PiratesAground|Pirate|Horrid? Did ye say horrid? Yer scurvy brother was the horrid one! He lost a game o’ chance, he did. If ye lose, ye must pay...And the scallywag tried to cheat me! By Shanty Pete he did!|anger
+FE9|26-Clash|Reyson|My apologies, Ike. Though I knew this was coming... It's still...difficult.|sadness
+FE9|28-TwistedTower|Izuka|...Feh feh feh! Wheeeeeeee!!! What fortuitous timing. Now then, I will take this moment and prepare to make my escape.|joy
+FE9|28-TwistedTower|Ike|It was barbaric beyond description... There were more laguz corpses than we could count...They had been tortured. Twisted and warped beyond all recognition.|anger
+FE6|18B-TheLawOfSacae|Guinevere|I...I’m sorry. Please...give me some time.|sadness
+FE9|09-Gallia|Female Cat Laguz|Eeeek! Hu-hu-humans! Yaaaaah!|fear
+FE9|18-CrimeaMarches|Elincia|Empress Sanaki, your vision surpasses even my own... My father would be so pleased to hear your words.|joy
+FE9|18-CrimeaMarches|Sanaki|Hold! I am most definitely NOT through with you.|anger
+FE9|24-BattleReunion|Elincia|Because the two of you think to put me above all else, you say you will sacrifice your lives for me. Yet... Even if I'm able to borrow of Ike's strength and win back Crimea... If the cost of that victory is the lives of the two of you, I shall never smile again. And joy? Never again would that emotion fill my heart...|sadness
+FE9|28-TwistedTower|Tanith|I do not know how to lie or offer false praise. I am deputy commander of the apostle's bodyguards. If you were not destined for greater things, I would petition the apostle herself for your enlistment.|neutral
+FE9|13-AGuidingWind|Unknown|The apostle is missing!? What do you mean!?|surprise
+FE6|16-RetakingTheCapital|Narcian|You...! You’re that girl that was...!|surprise
+FE9|09-Gallia|Soren|Our expenses, our ability to fight...The current status of our troops...These are all things that you must know.|neutral
+FE9|XX-Epilogue|Elincia|Thank you, my lord Ike. I am… I am so blessed to have met you.|joy
+FE9|17-DayBreaks|Lethe|That sound you heard, was it high-pitched, like the chiming of a bell?|neutral
+FE9|03-PiratesAground|Marcia|What say I run you through with my lance and call it a day?!|anger
+FE9|16-TheAtonement|Ike|He is a friend of mine. Nasir, if you know something, I would hear it. When you are done, the apostle can clarify. Agreed?|neutral
+FE9|23-TheGreatBridge|Elincia|My lord Ike, may I have a moment?|neutral
+FE9|23-TheGreatBridge|Aimee|Well, yes I do. I found a special something that I'd like to give to him. Do you know where he is?|neutral
+FE9|25-StrangeLands|Mist|I'm so sorry! It's because of my carelessness that the medallion was lost in the first place!|sadness
+FE9|11-BloodRunsRed|Elincia|Yes, very much so. Tee hee hee!|joy
+FE9|17-DayBreaks|Nealuchi|S-set up? Set up? Oh, no, no! Well...not exactly. Um...Please don't hurt me!|fear
+FE9|03-PiratesAground|Titania|It’s just that I...Look, we do good work, and we help people. I want you to be proud of that. I felt like you were saying work that doesn’t bring fame and fortune isn’t worth doing, that’s all. Sorry.|sadness
+FE9|19-Entrusted|Daein Soldier|Um, General P-Petrine? P-please, General! I'm just a...m-messenger! H-however...I have to tell you--|fear
+FE9|03-PiratesAground|Marcia|Oh, hey, that would be fantastic! Thanks so much! I don’t know what to say.|joy
+FE9|03-PiratesAground|Shinon|Pah. I’m surrounded by idealistic fools. What’s so wrong with fame? What’s wrong with having money to live well?|anger
+FE9|12-AStrangeLand|Mist|Hey! Ike! Where are you going? Should you be leaving the ship!?|surprise
+FE9|22-Solo|Ike|I bet this is the same language that Leanne was speaking.|neutral
+FE9|09-Gallia|Boyd|This is ridiculous!|anger
+FE9|11-BloodRunsRed|Elincia|It's like nothing has happened. All the death and destruction we've seen feels like horrible dream...|sadness
+FE9|22-Solo|Ike|Instead of playing that game, why don't you try some real combat?|neutral
+FE9|18-CrimeaMarches|Janaff|Hey, hey! What are those stupid crows doing here?|anger
+FE6|02-ThePrincessOfBern|Rude|What?! You lout, why didn't you say so earlier? Find her this instant! Don't let her get away!|anger
+FE9|07-ShadesOfEvil|Greil|S-stop...You will not touch my son!|anger
+FE9|15-TheFeralFrontier|Stefan|Why are you standing there staring at me? I'm interested in Gallia's beast tribes. Fascinating, really. I have an idea! Can we go somewhere and talk?|neutral
+FE9|15-TheFeralFrontier|Reyson|Thank you. I appreciate your kind sentiment.|joy
+FE9|15-TheFeralFrontier|Reyson|This...is Serenes? Is this what you're trying to tell me?! This colorless vista, these cracked and withered branches, these lifeless trees... This is my forest?|surprise
+FE9|08-DespairAndHope|Greil|Ike. Grow up big and strong. I believe you’ve got the makings of a great warrior.|neutral
+FE9|10-PrisonerRelease|Brom|S-seriously? I'm not dreaming again, am I?|surprise
+FE9|27-MomentOfFate|Mist|When he returned to himself, he found Mother...When, when Father died, it hurt so much...I thought I was going to die. Father must have felt the same. No, he must have felt even worse.|sadness
+FE9|13-AGuidingWind|Sanaki|Hold! Do not approach me! Hey, I told you not to--Oooouch! You're hurting me! You fool!!|anger
+FE9|07-ShadesOfEvil|Greil|You can learn it all at once. It’ll all fall into place as soon as you start to get some experience.|neutral
+FE9|11-BloodRunsRed|Mackoya|Strengthen the watch on this ship. That man is up to something...I can feel it...No matter what happens, that ship must not be allowed to set sail. Burn her and sink her first!|anger
+FE9|10-PrisonerRelease|Elincia|Geoffrey...He is alive? Ah...How those words drive off the shadows across my heart...Thank you, Kieran. Thank you...for surviving.|joy
+FE9|16-TheAtonement|Ike|For a laguz, you seem to know more about the court etiquette here than my fellow beorc, Tormod.|neutral
+FE9|23-TheGreatBridge|Soren|Ah, good! He will be very pleased! Um...what about the staff?|joy
+FE9|18-CrimeaMarches|Rolf|...Sniff...sniff...|sadness
+FE9|19-Entrusted|Ike|Daein must be filthy rich! There's so much, it doesn't even seem real. What do we do with it?|surprise
+FE9|16-TheAtonement|Sanaki|Well done, Ike. I shall see that you are well rewarded.|joy
+FE9|17-DayBreaks|Janaff|What are those humans thinking? Why would they be trying to lop each others' heads off?|surprise
+FE6|11B-EscapeToFreedom|Geese|You're with Etruria?! Then you're the enemy. Get ready to die!|anger
+FE9|18-CrimeaMarches|Ike|Go ahead and have them stand down. I'll call them when I'm ready.|neutral
+FE9|24-BattleReunion|Ike|All right, all right. I think that's enough.|neutral
+FE9|29-Endgame|Ena|...Sniff......sniff...Ah, Rajaion...|sadness
+FE9|13-AGuidingWind|Tanith|What!? They've kidnapped the apostle!?|surprise
+FE9|22-Solo|Tomenami|B-but...you can't......Crimeans, please... Forgive us...We cannot allow our brothers to die.|sadness
+FE9|11-BloodRunsRed|Elincia|Hee hee! That's delightful.|joy
+FE9|13-AGuidingWind|Norris|What?!? That's...a Begnion ship? It was your featherbrained lackey who told us that Princess Crimea was aboard that vessel!|surprise
+FE9|22-Solo|Schaeferr|Crud! This ain't good. I don't know what they're after, but if they find us mercenaries who sided with Daein, they'll wipe us out!|fear
+FE9|13-AGuidingWind|Gatrie|Tee hee! You know me too well! But I do love the work she gives me. I'm so happy, I don't know what to do! Well, it is nice seeing you again!|joy
+FE9|18-CrimeaMarches|Rhys|Shinon... What are you saying? You've always been gruff, but...Are you serious?|surprise
+FE9|09-Gallia|Mordecai|Very well. Let us fight together. If you choose not to Direct us, we shall do as we please. Do you find this acceptable?|neutral
+FE9|25-StrangeLands|Ike|Huh? All of this sounds vaguely familiar...But at least you're confident.|neutral
+FE9|04-RoadsideBattle|Titania|Any wounded or dead? No? Excellent! Well done!|joy
+FE9|09-Gallia|Boyd|Stop lying, you booger-eating brat! You can’t just pick up a weapon and start firing away! Someone has to teach you the basics!|anger
+FE9|11-BloodRunsRed|Ike|What's that supposed to mean?|surprise
+FE9|11-BloodRunsRed|Kieran|You rescued and cared for Princes Elincia. You have my heartfelt thanks. She...For us, she is our one solitary hope.|joy
+FE9|11-BloodRunsRed|Man|What the? Hey! Wait! Come back! What about my low, low prices?! Now what was that all about?|surprise
+FE9|21-WithoutAKing|Woman|Don't be stupid! Throw that away right now! We'll starve to death before we take charity from Crimean killers!|anger
+FE9|02-Rescue|Boyd|You think you can make me? Come on!|anger
+FE9|07-ShadesOfEvil|Elincia|I...also heard this news from my lord Ranulf...After...after I fled the capital...My lord uncle Renning...He...I...I am...all alone.|sadness
+FE9|14-Training|Elincia|To see you so angry on my behalf...Your words filled my heart.|joy
+FE9|12-AStrangeLand|Kurthnaga|Cease this at once! What do you think you're doing?|anger
+FE9|16-TheAtonement|Tormod|No, it was nothing. And the apostle? I thought she'd be some mean old hag, but she's just a kid. Really, she's even shorter than I am.|neutral
+FE9|07-ShadesOfEvil|Black Knight|As for your king, you have nothing to fear. I’ll explain things to him. Take your men and go.|neutral
+FE9|29-Endgame|Ranulf|...Where did that come from?! That was magnificent! It seems the princess, too, has grown stronger.|joy
+FE9|16-TheAtonement|Ike|Twenty years ago, something happened in Serenes Forest. Something terrible. I want to know.|neutral
+FE9|09-Gallia|Oscar|Huh Why are you apologizing?|surprise
+FE9|18-CrimeaMarches|Shinon|Pah! It's enough you beat me, now you gotta talk me to death?|anger
+FE9|28-TwistedTower|Izuka|Hmmm? Wheee! What's that now? Who said that?! Oh, it's you. Important, eh? Why's that?|surprise
+FE9|07-ShadesOfEvil|Ranulf|Huh? You show manners? How odd.I like that. Now, you are...Who, exactly?|surprise
+FE9|07-ShadesOfEvil|Petrine|Me? I am General Petrine, and my arrival marks your doom. Lament your fortune,dear children, for all hope is lost. You will not leave this place alive.|neutral
+FE9|05-Flight|Elincia|...Yes. We believed that King Caineghis would grant me sanctuary. So that’s where I was going...But we were discovered by Daein troops, and I lost my escort of knights...My life–the life I have now–was purchased...with the blood of those brave knights...|sadness
+FE9|27-MomentOfFate|Ike|There's little doubt of it.|neutral
+FE9|20-DefendingTalrega|Mist|What am I going to do, Ike? My medallion's gone!|fear
+FE9|19-Entrusted|Elincia|My lord Ike! I'm pleased to see you well. You haven't been injured, have you?|joy
+FE9|17-DayBreaks|Mist|Wow! I'm surprised!|surprise
+FE9|15-TheFeralFrontier|Stefan|I was wrong. It's nothing. I've no use for you.|neutral
+FE9|16-TheAtonement|Sanaki|Oh, I see. And have you solved this puzzle of yours?|neutral
+FE9|09-Gallia|Soren|However you wish to proceed is fine. I will do all in my power to ensure that our road leads to success.|neutral
+FE9|16-TheAtonement|Stefan|Luckily, your foundation is quite strong. Which is why I can be of service. Your technique... How powerful will it be when perfected? I would like to know.|neutral
+FE9|23-TheGreatBridge|Aimee|What? Really? Oh, dear... I was so hoping he would like it.|sadness
+FE9|11-BloodRunsRed|Norris|Get these two worms out of here. Find the hardest physical labor in this town and get these fools started. Work 'em from dusk to dawn without stopping. Work 'em until they can no longer move! You got that!|anger
+FE9|09-Gallia|Lethe|Daein worms...They strut about the Gallian forests as though they own them. I won’t stand for it!|anger
+FE9|17-DayBreaks|Reyson|I know. This thing I intend to do brings dishonor to my house. And yet...I cannot forgive. And their past actions weren't enough; now, they violate the sanctity of the forest without a trace of regret! Accursed humans...I will never forgive them!|anger
+FE9|24-BattleReunion|Marcia|AAAHHH!!!|fear
+FE9|20-DefendingTalrega|Begnion Soldier|Perhaps a local river has flooded. The whole region is soaking wet.|neutral
+FE9|03-PiratesAground|Titania|Thank you very much. And if you find yourself in need again, do not hesitate to send word.|neutral
+FE9|11-BloodRunsRed|Ike|Ranulf has no intention of defending himself! Look, he's not even changing forms! I can't just stand by and watch as he gets murdered!|anger
+FE9|24-BattleReunion|Marcia|Stop whining you little baby! Get over here!|anger
+FE9|18-CrimeaMarches|Ike|What an odd feeling.|neutral
+FE9|02-Rescue|Ike|Shut your mouth, Boyd!|anger
+FE9|18-CrimeaMarches|Ike|If you say so. You're a fairly knowledgable fellow, so it's nice having you around.|joy
+FE9|05-Flight|Greil|Titania! Take Shinon and Gatrie and make sure we have a secure road from here to the great forest. We’ll make our way to Gallia through the sea of trees.|neutral
+FE9|09-Gallia|Titania|Mm-hm. And we weren’t the only ones. You’ve been here, too, Ike.|neutral
+FE9|13-AGuidingWind|Begnion Soldier|Where on earth is the holy guard? Between those crows and the pirates, we're outnumbered! It's only a matter of time before we're overwhelmed.|fear
+FE9|04-RoadsideBattle|Titania|Soren! Shinon! Stop this at once! This is no place for us to waste time bickering amongst ourselves!|anger
+FE9|18-CrimeaMarches|Nasir|It sounds like you don't think that's the case anymore.|neutral
+FE9|16-TheAtonement|Muarim|From where I stand, I think you've been blessed. You were born a beorc and raised in a country with a lenient social structure. That's an enviable life.|neutral
+FE9|15-TheFeralFrontier|Ike|Tell me, Soren, are you all right?|neutral
+FE9|20-DefendingTalrega|Ike|You're so pale that it's hard to tell, but I think your face looks more wan than usual.|neutral
+FE9|28-TwistedTower|Naesala|Well then, I take my leave of you.|neutral
+FE9|22-Solo|Titania|Oh, look. Soren is upset again. Who knew?! What is it this time?|anger
+FE9|07-ShadesOfEvil|Ike|Don’t… Don’t leave…|sadness
+FE9|07-ShadesOfEvil|Gatrie|Hey, is that you, Ike? I heard you got the princess to Gallia. Nice work! You’re quite the hero. ...But wait! So what in blazes are you doing back here?|surprise
+FE9|27-MomentOfFate|Ike|Our Father was the best in the world...A great man.|joy
+FE9|10-PrisonerRelease|Kieran|You are too kind, Your Highness. The opportunity to serve you again is the greatest reward I could ask for. For as long as I draw breath, I will stand ready at your side! This, I swear.|joy
+FE9|13-AGuidingWind|Naesala|What? Aren't you happy to see me?|surprise
+FE9|11-BloodRunsRed|Haar|Uwaaaaaahhh...That was a good nap. Well, looks like the fighting's over. Form up.It's time to withdraw.|neutral
+FE6|10B-CaughtInTheMiddle|Melady|Then let's get to the matter we discussed earlier...|neutral
+FE9|18-CrimeaMarches|Ike|And yet Ashnard survived.|neutral
+FE9|02-Rescue|Ikanau|Graaw! We won’t lose, not to the likes of you!|anger
+FE9|01-TheBattleBegins|Titania|Despite my own warnings, I let my guard down, and I got beaten. Ha ha...urgh...|sadness
+FE6|13-RescueMission|Percival|...I sort of recall seeing you at Lord Douglas’ manor...|neutral
+FE9|13-AGuidingWind|Ike|Don't take it personally. I'm no better, you know. Your ability to speak plainly the things others won't is part of what makes you brilliant. Others are too bound by courtesy...With you, I trust that what you say is exactly what you think.|neutral
+FE9|22-Solo|Mist|He's been like this from the moment he set foot in this room. He's just staring at the walls.|neutral
+FE9|08-DespairAndHope|Mordecai|Lethe! You are being bad. The king forbids this. We cannot fight with beorc!|anger
+FE9|24-BattleReunion|Makalov|M-Marcia! Ow! Ow! My foot! You're crushing it! I heard something crunch! Help! I'm being crippled!|fear
+FE6|10A-TheResistanceForces|Geese|The lord of that castle killed my mates. I won't let their deaths be unavenged.|anger
+FE9|20-DefendingTalrega|Soren|If we can get them closed, the water will recede in about twelve hours or so.|neutral
+FE9|20-DefendingTalrega|Elincia|It's heartless... What will happen to those who've lost their homes? Can we do anything to help them?|sadness
+FE9|17-DayBreaks|Nealuchi|Tear me limb from limb if you wish...But please! Go to Prince Reyson! I beg of you!|fear
+FE9|11-BloodRunsRed|Soren|When the Daein army darkens their doorsteps, perhaps they will understand. When the peace they take for granted is shattered, and their sons and daughters slaughtered in the streets...Perhaps then will they comprehend the misfortunes they so long pretended not to see. I have no sympathy for them.|anger
+FE6|21-TheBindingBlade|Roy|Divine Weapons, too!?|surprise
+FE9|03-PiratesAground|Marcia|Are you...Are you going to help me?|surprise
+FE9|11-BloodRunsRed|Lady|AAAAAAHHH! S-s-sub-human! Noooooooo!!! H-h-heeeeelp!|fear
+FE9|25-StrangeLands|Soren|...Could it be...? I think I may finally know Ashnard's intentions.|surprise
+FE9|11-BloodRunsRed|Ike|What's with this place? The people are going about their business. Why aren't they worried about Daein? About the war?|surprise
+FE9|05-Flight|Ike|Why’s that?|surprise
+FE9|09-Gallia|Ike|I see. Having a grasp of that is part of the commander’s job, too, right? Understood. Let me hear it.|neutral
+FE9|28-TwistedTower|Ranulf|...What, what is this? Oh, by the goddess...|surprise
+FE9|16-TheAtonement|Oliver|Guards! Kill them all! Don't let a single one escape!|anger
+FE9|15-TheFeralFrontier|Reyson|...Unforgivable. How...how can they do things like this. Cursed humans... What did this forest do? What did my clan do...|anger
+FE9|12-AStrangeLand|Sothe|Owowow! Quit it! I'll talk!!|fear
+FE9|27-MomentOfFate|Ike|It's supposed to. It was made to contest Alondite, which is the sword wielded by the Black Knight.|neutral
+FE9|11-BloodRunsRed|Lady|Yeah! That's right! If we need allies, I'll take flesh-and-blood Daein humans over some fanged sub-human freak!|anger
+FE9|21-WithoutAKing|Kasatai|For us there is no tomorrow. We cannot be beaten, nor can we withdraw! We must defeat the Crimean army and bring His Majesty back to us.|anger
+FE9|17-DayBreaks|Tanith|You've no need to worry. We will protect her with our lives.|neutral
+FE9|17-DayBreaks|Mist|You... You pig! You're the worst!|anger
+FE9|02-Rescue|Mist|You jerk! I...My nose does not run!|anger
+FE9|08-DespairAndHope|Ike|I know I’ve been a burden on the both of you. Titania, Soren, I just need to thank you both for staying here with me.|neutral
+FE9|12-AStrangeLand|Zihark|I'm happy to hear it. Of all the beorc I've ever met, you're the only one who shares my conviction.|joy
+FE9|15-TheFeralFrontier|Reyson|You would sleep in a human building?|surprise
+FE9|09-Gallia|Ike|Understood. I would have Titania and Soren stay with me, as well.|neutral
+FE9|19-Entrusted|Ike|My father...killed my mother? No. That can't be...|surprise
+FE9|23-TheGreatBridge|Soren|... Well, she's unexpectedly generous. I received something quite nice from your admirer, Ikey-poo! Thank you so much!|joy
+FE9|16-TheAtonement|Tormod|Muarim! That's enough!|anger
+FE9|19-Entrusted|Naesala|Leanne...is alive?|surprise
+FE9|11-BloodRunsRed|Vigilante|Oh, really? That's too bad. Heading out to sea?|surprise
+FE9|20-DefendingTalrega|Shiharam|...Jill, you must leave. Please! If you can't do that, then slay me! There's no more time!|sadness
+FE9|28-TwistedTower|Leanne|(Yes..I am also pleased.)|joy
+FE9|29-Endgame|Ashnard|...Do you think you can defeat me? Ggrrraaahh haarr haaarr haaaarrrhhh... GGGRRAAAAAGGGGHHHH!!! It's not over yet. I haven't seen all you are capable of.|anger
+FE9|15-TheFeralFrontier|Sigrun|Well, of course. Beorc and laguz are both living things. Every precious life was created to be equal by the blessed goddess. The fact that there are still those who persecute laguz in the land of the goddess... It is deplorable.|anger
+FE9|08-DespairAndHope|Soren|Don’t worry. I’ll be here, watching over you.|neutral
+Mark my words.|
+FE9|20-DefendingTalrega|Mist|No! I always carry it with me! I would never lose it! I had it before I went to bed last night... It vanished while I was sleeping! Sniff...waaaa...|sadness
+FE9|20-DefendingTalrega|Titania|Really? I never thought I'd hear that. Ike didn't sleep because he was thinking. I wonder if Soren will start being polite...|surprise
+FE9|07-ShadesOfEvil|Ike|Don’t leave me! Father!|sadness
+FE6|11A-TheHeroOfTheWesternIsles|Saul|You disgrace God... You shall pay for that!|anger
+FE9|11-BloodRunsRed|Ranulf|My goodness, the nastier the truth, the blunter he gets...Quite a delightful staff officer you have there.|anger
+FE9|03-PiratesAground|Ike|Of course. Let me and my companions take it from here. You can escape while the pirates are distracted.|neutral
+FE9|22-Solo|Mist|I'm sorry...I just feel...so sad for Lillia...and for...for Reyson, too...|sadness
+FE9|04-RoadsideBattle|Rhys|Are you feeling all right, Ike? You haven’t said a word in quite some time.|neutral
+FE9|18-CrimeaMarches|Ike|Hmm... I suppose. Not that it matters to me.|neutral
+FE9|21-WithoutAKing|Mist|...What are we going to do, Brother? I'm...frightened... The medallion was my protection. Now that it's gone, my confidence has vanished.|fear
+FE9|15-TheFeralFrontier|Naesala|You came all this way for that? Are you serious?|surprise
+FE9|16-TheAtonement|Reyson|Naesala, you wretch... Curse your eyes! How dare you do this to me...|anger
+FE9|17-DayBreaks|Tibarn|This begging is unseemly and unwanted. We would rescue Reyson regardless of this pathetic show of tears. Return to Kilvas and report these events to your accursed king. Tell him that when this is over, King Tibarn of Phoenicis will be paying him a visit.|anger
+FE9|11-BloodRunsRed|Woman|Get out of here! Monster!|fear
+FE9|28-TwistedTower|Ike|Are you talking about the laguz that can't change forms? Like the ones we fought in Begnion?|neutral
+FE9|22-Solo|Mist|Oh, that's awf...sniff.........sniff...|sadness
+FE9|13-AGuidingWind|Oscar|Impatient? You're calling me impatient? You're so impatient you can barely be bothered to put your armor on!|anger
+FE9|18-CrimeaMarches|Ike|King Phoenicis, I will guard Reyson well. When Crimea is retaken, I will see him safely returned to you.|neutral
+FE9|25-StrangeLands|Leanne|(What good news! So he's doing well, isn't he?)|joy
+FE9|04-RoadsideBattle|Soren|Leave her. We shouldn’t get involved in matters that don’t concern us.|neutral
+FE9|11-BloodRunsRed|Woman|Yaaaaaaah! S-stay back! Sub-human beast! Aaaaiiieeeeee!|fear
+FE9|10-PrisonerRelease|Ike|Um...really? Why? Is there something special about this place?|surprise
+FE9|24-BattleReunion|Ike|Why do my attacks have no effect?|surprise
+FE9|05-Flight|Dakova|What’s going on? Weren’t they supposed to be completely surrounded?|surprise
+FE9|26-Clash|Titania|Tell us, Soren, do you have any more information on General Bertram?|neutral
+FE6|20A-TheLiberationOfIlia|Shanna|Yes! I became a Pegasus Knight because I wanted to be like you. Fighting alongside you is like a dream.|joy
+FE9|13-AGuidingWind|Naesala|Those humans take themselves far too seriously. It's almost as though being obstinate is a way of life to them. They let their foolish pride stand in the way, and what do they get in the end? A swift and stupid death. Now I'm getting terribly bored merely watching their foolishness.|anger
+FE9|15-TheFeralFrontier|Naesala|Here we are. This is what I wanted to show you. Look below you, Reyson. What do you see?|neutral
+FE9|18-CrimeaMarches|Shinon|No! There's nothing! Nothing but the right price, at least... You're overestimating me. Get going, pretty boy. Stick around any longer, and I'll start earning my pay with you!|anger
+FE9|11-BloodRunsRed|Norris|It's true! Princess Elincia...Ha ha!  My luck has changed.|joy
+FE9|13-AGuidingWind|Aimee|Oh, you're so rude! And after you were so sweet the other day!|anger
+FE9|22-Solo|Ike|You filthy dogs! Those are innocent people! You can't...|anger
+FE9|15-TheFeralFrontier|Reyson|The voice of the forest is still. Why... How did this...|sadness
+FE9|19-Entrusted|Ike|I... I don't know what to say...|neutral
+FE6|12-TheTrueEnemy|Cath|Hm? ...You again? You always come and mess up my plans. Do you have it out for me or something?|anger
+FE9|17-DayBreaks|Tibarn|I understand how you feel, but we're completely outnumbered. Let us wait for another day--|neutral
+FE6|21-TheBindingBlade|Galle|...Goodbye, Melady... I always wish we had met in a more peaceful time.|sadness
+FE6|24-TheTruthOfTheLegend|Jahn|Hate? Only humans have such ridiculous emotions. We battled to maintain our species, and we lost. That is all.|anger
+FE9|22-Solo|Soren|Yes! We must! Have you forgotten Nasir?! It's that sort of naive attitude that allowed him to remain undetected for so long! You people don't seem to get it. We are at WAR! All doubts, no matter how small, must be extinguished. If they aren't, we could well be ignoring something that will lead to our defeat. Or to our death.|anger
+FE9|28-TwistedTower|Naesala|Listen, and listen good. I don't want there to be any misunderstandings here. It was Tibarn! He forced me to do this. It wasn't any sense of charity or anything. It was a sort of...payment for the debt I had incurred.|neutral
+FE9|02-Rescue|Rolf|Oh...sniff...|sadness
+FE9|24-BattleReunion|Bastian|We've been attacked! Castle Delbray is surrounded by enemy troops!|fear
+FE9|25-StrangeLands|Elincia|That is a true story? I thought it nothing more than a fable...|surprise
+FE6|06-TheTrap|Roy|Don't worry, I shall tell Lord Orun myself that you are not to blame. I ought to at least offer him a greeting anyway. Please show us to his room.|neutral
+FE9|16-TheAtonement|Ike|That's enough! I told you to keep a cool head.|anger
+FE9|XX-Epilogue|Reyson|And I’d also like to give our heartfelt thanks to your parents as well. For fulfilling the hopes of our sister... Thank you.|joy
+FE9|13-AGuidingWind|Ike|On her own? Now why would anyone called the apostle do something as stupid as that?|anger
+FE9|04-RoadsideBattle|Soren|Bad news. Something big is happening, and we need to formulate a plan of action.|neutral
+FE9|12-AStrangeLand|Ike|Are those...birds? If they are, they must be huge...|surprise
+FE9|18-CrimeaMarches|Ulki|They're siding with Daein? Unbelievable!|surprise
+FE9|05-Flight|Soren|We are mercenaries. Our actions are dictated only by self-interest. If we want to ensure our future, we need Daein in our debt. They will win this war, after all, and nothing else serves us better.|neutral
+FE9|XX-Epilogue|Naesala|Pah! Keep your foolish tongue inside your foolish head! ...And don’t tell anyone! I have a reputation to think of.|anger
+FE9|17-DayBreaks|Ike|It's about time you showed your bloated face, Duke Tanas!|anger
+FE9|24-BattleReunion|Bastian|Well done! Get ready! We are going to be very, very busy! Ha ha! What a fantastic day this will be!|joy
+FE6|10B-CaughtInTheMiddle|Melady|Galle... I'm sorry. King Zephiel wanted to keep the matter of Princess Guinivere a secret, so only I was assigned to search for her. I'm sorry to get you mixed up in this...|sadness
+FE9|25-StrangeLands|Soren|At the very least, it is one of his ambitions. There can be no mistaking that.|neutral
+FE9|21-WithoutAKing|Kasatai|We will win this battle! A legendary dragon of Goldoa is on our side! It is a powerful omen! Daein cannot lose! The Daein army is indestructible! We will crush the dogs of Crimea and use their skulls as goblets!|anger
+FE9|28-TwistedTower|Heddwyn|This is not good... They're closing in. There are not enough Feral Ones. Someone! Anyone? Haaaalp! Go find Master Izuka at once!|fear
+FE9|XX-Epilogue|Ike|Ah, King Kilvas... Despite all of your posturing, you came to our aid in the end! You turned out to be a better ally than I dared hope for.|joy
+FE9|12-AStrangeLand|Ike|That's ridiculous! You're a complete--|anger
+FE9|15-TheFeralFrontier|Soren|Is...is that so? How odd. Well, I can think of nothing specific that's bothering me.|surprise
+FE9|16-TheAtonement|Reyson|Though the price may be my life, I will never cooperate with you!|anger
+FE9|22-Solo|Soren|I wasn't able to read enough of the writing, but... I found this under the bed.|neutral
+FE9|15-TheFeralFrontier|Tormod|Stop lying! I'm here because I want to be! Who's the leader of the laguz emancipation army? I am! You're a big jerk, Muarim! Trying to cover for everyone and get yourself killed? I won't allow it!|anger
+FE6|14-Arcadia|Roy|The sandstorm...it stopped.|neutral
+FE9|15-TheFeralFrontier|Ike|Those peddlers you were with...You were in debt to them, right?|neutral
+FE9|04-RoadsideBattle|Soren|That’s a sound strategy, Ike. I can attack from behind your defenses. Good thinking.|neutral
+FE9|14-Training|Makalov|With you... Where are we going? What am I going to do?|surprise
+FE9|25-StrangeLands|Largo|Wah? Bwaa ha ha ha ha ha haaaaa! That's good! You're a funny little guy! Bwaa ha ha ha haaaa!! So, seriously. Where's the general's tent? Must be that big one there.|joy
+FE9|16-TheAtonement|Reyson|What is this? Who are you? What have you done with Naesala?|surprise
+FE9|18-CrimeaMarches|Rolf|...But...it's...not...It's not...fair... Sniff...|sadness
+FE9|16-TheAtonement|Ike|What the...? Um...who are you? How long have you been a member of my troop?|surprise
+FE9|11-BloodRunsRed|Vigilante|Well, there is one condition...Once you've finished your job, you come back and see me. I'd like you to reconsider that vigilante position.|neutral
+FE9|21-WithoutAKing|Elincia|Sniff... Ah, by the goddess, I am a fool......Sniff...|sadness
+FE9|21-WithoutAKing|Tauroneo|Ah ha ha! I will cut you down with ease and leave your corpse for the rats!|anger
+FE9|22-Solo|Daein Bishop|Thank you very much. I never imagined that we would be rescued by soldiers of an enemy nation.|joy
+FE9|26-Clash|Ike|Reyson, is this mysterious power that you use to sense Leanne something only herons possess?|neutral
+FE9|13-AGuidingWind|Daniel|Now then, soldiers from one ship are about to attack the other one. Imagine that the defending side has fewer soldiers. If they want to mount a solid defense, what should they do?|neutral
+FE9|24-BattleReunion|Marcia|And no one cares!|anger
+FE9|05-Flight|Boyd|I’m in favor of helping her. That’s what heroes are supposed to do.|neutral
+FE6|15-TheDragonGirl|Douglas|That man, worrying about traitors? Ha! He shouldn’t be the one to talk. Why, he was first to betray his loyalty to the king! The bastard.|anger
+FE9|19-Entrusted|Ike|Huh? That old bronze thing? I thought it was just a keepsake of my mother's... Are you telling me that it's something more?|surprise
+FE9|14-Training|Sigrun|Well done. The news of your victory is welcome, as is the cargo you seized. Now, about your payment...|joy
+FE9|01-TheBattleBegins|Zawanar|I...I’m meant for better than this...I don’t want to die here...|sadness
+FE9|14-Training|Gashilama|Shut up, fool! Stop your daydreaming, and look over there!|anger
+FE9|16-TheAtonement|Mist|Um, he had long hair! It was...sparkling, like gold. And his skin...it was so pale--almost translucent. Oh! And his wings! They were pure white!|neutral
+FE9|12-AStrangeLand|Nasir|I see no other option. I'll take you on as a junior member of my crew.|neutral
+FE9|20-DefendingTalrega|Ike|Soren, what's the damage to the surrounding area?|neutral
+FE6|16-RetakingTheCapital|Douglas|Larum... I’m sorry I put you through this. I had to send you off along to protect the prince.|sadness
+FE9|07-ShadesOfEvil|Ike|What? Where did that come from?|surprise
+FE9|12-AStrangeLand|Soren|Ravens from Kilvas. Their black wings are an ill omen for all who see them.|neutral
+FE9|08-DespairAndHope|Mist|Dad’s gone... He’s gone, Ike. Sniff...And...I...don’t...I don’t know what to do...|sadness
+FE9|22-Solo|Daein Bishop|Peace, my lord. We were expecting to be killed at once. Yet somehow you rescued so many of us...I'm sure that even our departed Bishop Tomenami is grateful for your aid.|joy
+FE9|XX-Epilogue|Mist|We did well, didn’t we? I’m sure Mom and Dad would be proud of us.|joy
+FE9|15-TheFeralFrontier|Reyson|Thank you. For everything you've done. I...I appreciate it.|joy
+FE9|XX-Epilogue|Titania|You’ve grown so much... I would like nothing better than if Commander Greil and Elena could see you now...|joy
+FE6|20Bx-TheBowOfTheWinds|Guinevere|...But now, my brother is in a place where my words cannot reach him. Roy, please... Please stop him. Please stop him from inflicting pain and suffering to the people of Bern...and the rest of Elibe.|sadness
+FE9|29-Endgame|Unknown|Attack! We're being attacked!|fear
+FE9|16-TheAtonement|Oliver|Oh? Slavery? Me? The apostle would honestly accuse me of such an unfashionable thing as slaveholding? Oh ho ho ho!|surprise
+FE6|14-Arcadia|Elder|What are you saying? Of course you may not. There is no telling what could happen if your existence were exposed to the world!|anger
+FE9|20-DefendingTalrega|Calill|What? Are you allowed to make decisions like that on your own? Perhaps I should speak to the general!|surprise
+FE9|09-Gallia|Ike|Forgive me. I got carried away.|sadness
+FE9|17-DayBreaks|Jill|You don't get it! That's just how things are in Daein! No one taught me the word laguz! No one taught me that sub-humans could be... could be like this. No one cared.|anger
+FE9|10-PrisonerRelease|Lethe|Look at who I'm trapped with! Of course I am depressed... And keep your worthless observations to yourself. All of you are so slow...I can't believe you're still not ready.|anger
+FE9|07-ShadesOfEvil|Ranulf|Sub-human? Ha! What arrogance it takes to coin such a name! You think yourselves the only onesworthy of the name human, and so we laguz must be beneath you? And thus you call us sub-human. We are less than human to you, is that it?|anger
+FE9|25-StrangeLands|Leanne|(...Big meanie!!)|anger
+FE9|03-PiratesAground|Titania|It’s a fine compliment you pay, sir, but it was our pleasure.|joy
+FE9|24-BattleReunion|Ike|That...that sword? The one you threw to my father like an act of charity? The one he refused? That's Ragnell?|surprise
+FE6|11A-TheHeroOfTheWesternIsles|Elffin|You have my thanks for saving our village here.|joy
+FE9|11-BloodRunsRed|Man|Oh, but if we were invaded by Gallia, well, that's a different story altogether. If our country were overrun by those savage beasts, who knows what could happen? Now THAT scares me!|fear
+FE9|11-BloodRunsRed|Youth|I-it's true! A sub-human! How dare you come prowling around here!|anger
+FE9|XX-Epilogue|Marcia|Ike! Hey, handsome! I’ve decided to return to service in the Begnion pegasus knights! Cool beans, huh?! Oh, I owe so much to you, Ike. Thank you so very much! I’ll see ‘ya around!|joy
+FE9|20-DefendingTalrega|Daein Soldier|My lady Jill... No...Why does this have to be...|sadness
+FE9|16-TheAtonement|Reyson|Stay away from me, you filthy fat man!|anger
+FE9|27-MomentOfFate|Ike|Your granddaughter? That can't be.You're not old enough to...|surprise
+FE6|15-TheDragonGirl|Fa|...Sniff, sniff...|sadness
+FE9|00-Mercenaries|Boyd|Come on! What are you doing? Are you sure you really want to learn how to fight?|surprise
+FE9|11-BloodRunsRed|Jill|Ooh! You're such a--|anger
+FE9|12-AStrangeLand|Mist|What? No, you're not a laguz! I don't see any tail or anything!|surprise
+FE9|11-BloodRunsRed|Youth|Our own...princess? That's not...It can't be. It can't!|fear
+FE9|07-ShadesOfEvil|Ranulf|Hey! Are you planning on taking us all on by yourself?|surprise
+FE9|13-AGuidingWind|Gatrie|Boyd? Why, Boyd! Long time, no see! How have you been?|surprise
+FE9|13-AGuidingWind|Ike|They may not like to admit it, but they certainly are close.|neutral
+FE9|10-PrisonerRelease|Kieran|Curses...If only I had a weapon of some sort.|anger
+FE6|17A-ThePathThroughTheOcean|Arcard|Klein! You would betray me?|anger
+FE9|04-RoadsideBattle|Mist|War?! It...It can’t be!|surprise
+FE9|07-ShadesOfEvil|Shinon|There’s rumor that King Daein gathers strong men from around the continent and sets them to fight one another. Those who live, regardless of their birth, are given influential positions. Don’t know if it’s true, though.|neutral
+FE9|09-Gallia|Ike|Don’t worry. We’re all right. We’re getting by...somehow.|neutral
+FE9|08-DespairAndHope|Mordecai|Grrr, grraa, sub-human...Enemy...He is enemy...|anger
+FE9|04-RoadsideBattle|Ike|Really? That’s odd. He wasn’t supposed to return for a while yet.|surprise
+FE9|13-AGuidingWind|Tanith|Oh, stop it. If you want to repent, go do something useful and find the apostle.|anger
+FE9|24-BattleReunion|Black Knight|Is that the Crimean army?...Where is Gawain's son?...Ah... He's much improved...He is his father's son after all. Contrary to my initial estimation, he may prove to be worthy.|surprise
+FE9|08-DespairAndHope|Mordecai|Ranulf told me Ike is not a bad stranger. Mordecai and Ike...We will become friends.|neutral
+FE9|14-Training|Lekain|How dare you! Who are you to address the apostle so crudely! Guards! Guards! Seize this man! For his abuse of the apostle, the penalty can be only death!|anger
+FE9|11-BloodRunsRed|Black Knight|...Oh? You avoided my blow. Will you be so lucky next time?|surprise
+FE9|17-DayBreaks|Ike|Oh, not the duke's soldiers again...I think it's about time we put an end to these fools. Listen up, everyone! Let's end this here!|anger
+FE9|26-Clash|Lucia|Will you two please shut up? Please? Sheesh!|anger
+FE9|10-PrisonerRelease|Brom|Master Sephiran! You live!|joy
+FE9|29-Endgame|Ike|Elincia, what are you doing?! Get back!|surprise
+FE9|19-Entrusted|Ike|There's an antagonism between the tribes that we don't understand. I'd rather not force the issue. Trying to coerce them into it would be...unfair. I will let them do as they please.|neutral
+FE9|03-PiratesAground|Titania|What? You too, Gatrie? What’s gotten into you?|surprise
+FE9|14-Training|Makalov|Marcia! Hold on! Please... Don't die on me...MARCIA!!!|sadness
+FE6|11A-TheHeroOfTheWesternIsles|Larum|I’m sorry... If I hadn’t been caught, I could have told you about this earlier...|sadness
+FE9|09-Gallia|Ike|Mist and I were born here? Is that so? I don’t remember any of this at all.|surprise
+FE9|22-Solo|Reyson|She was kidnapped twenty years ago, on the night of the Serenes Massacre. I...I thought that Lillia had been murdered along with my other brothers and sisters. I believed that until today...|sadness
+FE9|21-WithoutAKing|Ena|I...I think you are exactly right.|neutral
+FE9|09-Gallia|Mordecai|That smell on the wind...It’s iron. The smell of beorc. Heavily armored. Well armed.|neutral
+FE9|16-TheAtonement|Begnion Soldier|Halt! Who goes there? What are you doing? This villa is the property of Duke Tanas, senator of the empire! No trespassing!|anger
+FE9|24-BattleReunion|Geoffrey|Eh? Who are you?|surprise
+FE9|18-CrimeaMarches|Ike|No, I have to do what's necessary. What am I supposed to do now?  Put on a funny hat or something?|anger
+FE9|18-CrimeaMarches|Rhys|What? You can't... You're not serious, are you?|surprise
+FE9|18-CrimeaMarches|Ike|Nobles, you say? So the royal family fell victim to this plague as well?|surprise
+FE9|25-StrangeLands|Tibarn|Who did this? Who was the craven dastard that did this to you?|anger
+FE9|06-ABriefDiversion|Rhys|Thank you very much! This will help greatly. I will use it to aid the others in your name.|joy
+FE6|22-TheNeverendingDream|Roy|What do you mean?|surprise
+FE9|25-StrangeLands|Tibarn|...What is going on? What's happened here?|surprise
+FE9|01-TheBattleBegins|Titania|This is the village of Caldea. The bandits are few, but we mustn’t get careless. Our goal is to take out the bandit leader in front of the large building, and then secure that building.|neutral
+FE9|27-MomentOfFate|Mist|B-Brother! Thank goodness...I'm so happy you're alive!|joy
+FE9|27-MomentOfFate|Ike|It's his armor. It's apparently blessed by the goddess. Ordinary weapons, natural or no, can't damage it.|neutral
+FE9|11-BloodRunsRed|Ranulf|Perhaps you're right...At any rate, the princess and the others are now safely at sea.|neutral
+FE9|17-DayBreaks|Leanne|(Brother... My loving brother, Reyson. The pain and sadness is in you, Brother. It clouds your very soul. To see you like this, to watch you. It hurts me. Please...do not lose yourself to hate.)|sadness
+FE9|18-CrimeaMarches|Rolf|Shinon! Uncle Shinon!...Sniff...N-no...|sadness
+FE9|23-TheGreatBridge|Aimee|Why...that's right. You're quite knowledgeable, aren't you?|surprise
+FE9|10-PrisonerRelease|Sephiran|I am a monk on pilgrimage. My name is Sephiran. Thanks to your efforts, I have been freed from my imprisonment.|neutral
+FE9|27-MomentOfFate|Elincia|I witnessed the death of both my father and mother...Soldiers fell one after the other...And then I...I was separated from Geoffrey...It was Ike and his friends who rescued me. If not for them, I...I'm sure I would be dead now. My lord Ike and Mist, too, know the pain that I carry with me. The pain of losing one's parents in war. That may account for why the two of them, right from the beginning, were so warm and friendly. They gave me the support I needed to survive. Mist and I have continuously encouraged each other to go on. So...|sadness
+FE9|04-RoadsideBattle|Titania|Daein has invaded Crimea...We may be mercenaries, but this still affects us.|neutral
+FE6|23-TheGhostsOfBern|Karel|Bartre? What are you doing here?|surprise
+FE9|16-TheAtonement|Ike|So this is how you want to play it, eh? I thought it might come to this.|neutral
+FE9|11-BloodRunsRed|Man|H-h-heavens! Please don't kill me! I'll give you whatever you want...Here, have some yarn! Uh... Dried fish?|fear
+FE9|10-PrisonerRelease|Kieran|Blast you! Curse your name! Curse the name of Oscar and all who call him kin! I will never let you surpass me! Princess! I'm coming! Kieran will be forever at your side!|anger
+FE9|25-StrangeLands|Elincia|Thank you. And allow me to express my gratitude for having the kingdom of Gallia fighting at our side. Your presence fills me with strength.|joy
+FE9|09-Gallia|Cat Laguz|The king has arrived.|neutral
+FE9|05-Flight|Elincia|Ha ha! I wasn’t raised at court, so my life was a bit different than other princesses. I cooked,cleaned, sewed...Why, I did all manner of things.|neutral
+FE9|28-TwistedTower|Ike|Why would Ashnard do such things? What could be his purpose here?|surprise
+FE9|14-Training|Ike|Elincia's homeland is lost to her! Her family has been hunted down and killed by the monsters of Daein! And with nowhere else to turn, she endures mortal danger and terrible heartbreak to reach your door. And then you...you laugh at her?! Where is the humor in that? Where is your decency? You're horrible! You are all horrid people! You disgust me beyond words! And you owe Elincia a proper apology.|anger
+FE9|12-AStrangeLand|Jill|You! Why are you lollygagging about?|anger
+FE9|XX-Epilogue|Ena|Thanks to you, Rajaion was saved. And...so was I... Thank you.|joy
+FE9|18-CrimeaMarches|Tanith|I have no way of judging the ones we see here, but I know another unit, one that was attached to Begnion's temple guard. They had their reasons for leaving... But the important thing to remember is that they are exceedingly powerful.|neutral
+FE9|16-TheAtonement|Oliver|Wha-what? What is this...this child babbling about?|surprise
+FE9|04-RoadsideBattle|Soren|Hello, Ike. Long time, no see.|neutral
+FE9|20-DefendingTalrega|Daein Soldier|Sniff... Ah, gods. Eighteen long years...What does any of it mean now?|sadness
+FE9|11-BloodRunsRed|Giffca|Nothing to be done about that. Every one of the older retainers has memories of laguz subordination. Even the king. If Princess Elincia were not King Ramon's orphan, I doubt he would be willing to aid her.|neutral
+FE9|02-Rescue|Oscar|I’m just glad to see you both alive and well...You’re both so brave.|joy
+FE9|05-Flight|Soren|There’s nothing to think about. We must deliver the princess to Daein immediately.|neutral
+FE9|08-DespairAndHope|Titania|Forgive me, Ike. I wasn’t able to stop any of this...|sadness
+FE9|15-TheFeralFrontier|Ike|Would he play a joke like that?|surprise
+FE9|09-Gallia|Kotaff|Ha! They’re trapped! Call every last man. Ready for battle! We stop the enemy here!|anger
+FE6|05-TheEmblemOfFire|Villager|You will help us?! Thank you! Please use the gate to the west. It'll take you right to the castle.|joy
+FE9|28-TwistedTower|Naesala|Yeah, I haven't changed much, eh? And you knew it was me back there right away, didn't you? Ah, I'm glad you survived. It's very good to see you again.|anger
+FE9|18-CrimeaMarches|Nasir|He was a magnificent man, wasn't he?|joy
+FE9|25-StrangeLands|Ike|So you believe King Daein's goal is to awaken the dark god after all?|surprise
+FE9|13-AGuidingWind|Aimee|Well, well! If it isn't our commander! What brings you down here?|surprise
+FE9|20-DefendingTalrega|Petrine|You tell me, migrant! Why is it that your unit, which was trained to be an elite royal guard, is here patrolling this hick-infested backwater? The answer's clear to me! How about you?|anger
+FE6|01-DawnOfDestiny|Eliwood|No, Lilina. You must return to Ostia.|neutral
+FE9|18-CrimeaMarches|Ike|That's really not necessary.|neutral
+FE6|16-RetakingTheCapital|Narcian|No…No…! I will not be defeated…! Not by you…worthless… Gaaaaaaahhhhh!|anger
+FE9|09-Gallia|Boyd|Rolf, stay by my side.|neutral
+FE9|11-BloodRunsRed|Nasir|Pardon me, are you the commander of these forces?|neutral
+FE9|00-Mercenaries|Greil|You came at just the right time, Boyd. You can be Ike’s sparring partner.|neutral
+FE9|22-Solo|Tomenami|Oh, Goddess... Please...forgive me...|sadness
+FE9|14-Training|Tibarn|Naesala, you lying crow! You've been sneaking about in my territory again, have you?|anger
+FE6|07-TheRebellionOfOstia|Zelots|Is she not with you?|surprise
+FE6|20A-TheLiberationOfIlia|Thea|Yes! I never thought I could fight alongside you again.|joy
+FE9|18-CrimeaMarches|Ike|History will be made...Could Daein truly fall at our hands? Can I make that happen? Me?|surprise
+FE9|08-DespairAndHope|Ilyana|That’s them! Oh, that’s incredible! Are they all unharmed? Where are they?|joy
+FE9|16-TheAtonement|Sanaki|I would like once more to make use of your escorts. Would you grant me this boon?|neutral
+FE9|17-DayBreaks|Titania|Wait, Soren! What in the world is wrong with him?|surprise
+FE9|17-DayBreaks|Titania|A white feather? So we were right. The heron is around here somewhere.|neutral
+FE9|17-DayBreaks|Ike|...Um... That's a girl. Nasir, you said that the male heron we met was the only surviving member of the race.|neutral
+FE9|10-PrisonerRelease|Volke|You are Sir Greil's son, correct? You'll do. Sir Greil hired me to investigate something. You pay my price, and I'll give you my report. Deal?|neutral
+FE9|10-PrisonerRelease|Ike|Sorry about that. If we were like you and didn't need to carry anything, it would be easier, but...We have weapons and things to get ready.|neutral
+FE9|05-Flight|Titania|...Ike...It’s too bad, but...We’ve been defeated.|sadness
+FE9|16-TheAtonement|Ike|The assassination of the apostle was not the work of the Serenes clan?|surprise
+FE9|02-Rescue|Ike|Blast!|anger
+FE9|25-StrangeLands|Tibarn|The Black Dragon King is a living fossil, and as stubborn as anything alive. He's been trying to control the rest of us for years, and he always says the same thing. Do not fan the flames of strife. As long as Lehran's medallion exists, you must never begin a war that engulfs the entire continent.|anger
+FE9|13-AGuidingWind|Sanaki|I kept silent, blaming these antics on your ignorance, but I can no longer tolerate your manners!|anger
+FE9|10-PrisonerRelease|Brom|We're fine, but what about you? You were jailed for helping us...I'm so sorry! Oh, I hope they didn't hurt you!|sadness
+FE9|24-BattleReunion|Ike|I don't understand the feelings of knights. But, I do understand how important your former retainers are to you. And I also understand the strong support with which they provide you. I'm happy we were able to save them.|joy
+FE9|24-BattleReunion|Elincia|No!! We will not!! Geoffrey and the others have survived so much already... I will not abandon them!|anger
+FE9|17-DayBreaks|Mist|Wow... That sounds incredible, doesn't it, Ike!|joy
+FE9|17-DayBreaks|Ulki|The tragedy of the herons...The horror and pain of that night...lives on in all of us.|sadness
+FE9|12-AStrangeLand|Ike|When everyone discovered Ranulf was a laguz, all those people--they changed, just like that. Up until that instant, they'd seemed like such kind and decent people. I just...I had no idea beorc prejudice against the laguz was so strong. Why do they hate them so much? How are we so different, Ranulf and I?|sadness
+FE9|19-Entrusted|Daein Soldier|N-no, ma'am! No! Never! N-not at all! I beg your pardon! So sorry... I'll be...going...now...|fear
+FE9|20-DefendingTalrega|Titania|Ike... We must retreat! I'm sorry, but...we lose.|sadness
+FE9|28-TwistedTower|Ike|I figured as much. I've already decided to trust you, so all that's left to do is move out.|neutral
+FE9|12-AStrangeLand|Nasir|Ike, the crows are coming!|neutral
+FE9|04-RoadsideBattle|Shinon|Bah. Useless! We’d be better led with Mist than this soft, untested whelp.|anger
+FE9|21-WithoutAKing|Unknown|My, my lady! Is that you? Lady Fizzart?|surprise
+FE9|08-DespairAndHope|Ike|I’ve lost... I’ve lost Mist. Father, forgive me...|sadness
+FE9|12-AStrangeLand|Sothe|I'm just happy I don't have to hide anymore!|joy
+FE9|01-TheBattleBegins|Ike|Huh? What about my father?|surprise
+FE9|25-StrangeLands|Elincia|King Caineghis! It's an honor to see you again.|joy
+FE9|20-DefendingTalrega|Grandpa|You! You filthy Crimean! Get out! Get out now! There's nothing in this shack that would make you happy!|anger
+FE9|09-Gallia|Soren|Good morning, Ike. May I have a moment of your time?|neutral
+FE9|08-DespairAndHope|Titania|Commander...Greil...Why is this happening? Why is any of this happening? Why now? First, Crimea...And now you...|sadness
+FE9|05-Flight|Petrine|What? What did you just say? I think I must be hearing things. I thought you said, They got away.|surprise
+FE9|19-Entrusted|Ike|The crow king himself is cooperating with Daein?|surprise
+FE9|08-DespairAndHope|Ike|All right, everyone, are you ready? Greil Mercenaries, move out!|neutral
+FE9|21-WithoutAKing|Ike|What are you saying? The king's abandoned the capital?|surprise
+FE9|20-DefendingTalrega|Soren|Nothing. I was just giving you the standard update. Shall I put it off till later?|neutral
+FE9|18-CrimeaMarches|Mist|Shinon... Sniff...sniff...Wh-wh-why...? Sniff... Whaaaaaaaaa!|sadness
+FE9|08-DespairAndHope|Lethe|You don’t know that. You don’t know if we can trust him. It’s too soon to tell. He’s a beorc. A human. You know all humans have two faces.|neutral
+FE9|22-Solo|Reyson|Shortly after she was brought here, Lillia fell ill and collapsed. I'm not surprised...it was a terrible time... She was imprisoned in that tiny room with no view of earth or sky...|sadness
+FE9|18-CrimeaMarches|Kayachey|You there! Halt! Mmm...you're an unfamiliar face.|neutral
+FE9|22-Solo|Daein Bishop|I beg your pardon. May I have the favor of your name?|neutral
+FE9|17-DayBreaks|Sigrun|You spoke so well earlier, Empress Sanaki. You fill my heart with pride... Sniff...|joy
+FE9|21-WithoutAKing|Kasatai|The Crimean army is on our doorstep...What is His Highness thinking? If we want to protect the capital, we need a leader equal to one of the Four Riders. Just in case...|surprise
+FE9|21-WithoutAKing|Woman|Those dirty Crimeans are to blame! If they'd never come to Daein, that battle wouldn't have happened. And Lord Shiharam would still be with us.|anger
+FE9|03-PiratesAground|Mayor|Oh! That is joyful news! Here is your pay, as promised.|joy
+FE9|09-Gallia|Rolf|Well, maybe I’m just a prodigy, cause I learned it all myself!|neutral
+FE9|12-AStrangeLand|Nasir|Much of what seems good and evil is simply a matter of perspective, Ike. Many conditions affect our judgment. Drawing a definitive line is nigh impossible.|neutral
+FE9|02-Rescue|Rolf|But...I’m so scared...Aren’t you even a bit scared, Mist?|fear
+FE6|13-RescueMission|Guinevere|If we don’t do something, Elibe will be overrun by Bern’s forces... No matter what kind of reasoning my brother gives, what he is doing is obvious. He is forcing others into submission through power. I cannot agree that that will lead to anything good...|sadness
+FE9|21-WithoutAKing|Woman|Oh, it is you! Lord Shiharam's lovely daughter! Thank heavens you're still alive!|joy
+FE9|29-Endgame|Ike|It's said we grow into the roles we're given, isn't it? Elincia will make a splendid queen.|joy
+FE9|14-Training|Astrid|Oh...thank you! Thank you very much!|joy
+FE9|08-DespairAndHope|Mist|I won’t allow it... I can’t lose you. Don’t you see? If you go, then I’ll be all alone...I won’t allow it.|sadness
+FE9|17-DayBreaks|Mist|Wow! Did you hear that? Neat!|joy
+FE6|16-RetakingTheCapital|Larum|What about you? You’re not coming with us?|surprise
+FE9|19-Entrusted|Petrine|What was that? Do you dare to insult Daein, crow? Men have forfeited their lives for less.|anger
+FE9|20-DefendingTalrega|Reyson|...I see.I came to repay my debt, but I'm really just being a burden.|sadness
+FE6|07-TheRebellionOfOstia|Zelots|Doesn't really matter... We've just started fighting. I haven't talked to the Lycia Alliance army yet.|neutral
+FE9|11-BloodRunsRed|Brom|...Sniff...S-s-sniff...Mm. Thank you, Ike. Sniff... Thank you.|sadness
+FE9|28-TwistedTower|Tibarn|Hold on, my brothers. Just a little longer. Soon, I will grant you all release.|neutral
+FE9|10-PrisonerRelease|Lethe|What? If you've got something to say, spit it out!|anger
+FE9|25-StrangeLands|Gromell|Grr! So you've made it this far, have you? Then prepare to be sent down screaming!|anger
+FE9|18-CrimeaMarches|Tibarn|These past twenty years... I know what it's been like for you living in Phoenicis. I'm only sorry I can't do more.|sadness
+FE9|02-Rescue|Ike|You! Harm either of them, and I’ll see you dead!|anger
+FE9|XX-Epilogue|Shinon|...Bah. I suppose you want some kind of congratulations now, right? Well, too bad. You’re a snot-nosed whelp, and I’m still better than you. Don’t ever forget that.|anger
+FE9|18-CrimeaMarches|Elincia|Thank you for that, but...Do be careful, my lord Ike.|fear
+FE9|09-Gallia|Soren|No, not at all... Um, perhaps I should...|neutral
+FE9|21-WithoutAKing|Jill|...S-sorry....Oh, I'm so sorry...|sadness
+FE9|29-Endgame|Mist|... Thanks for coming back, Nasir. I... I wanted to see you again. And I'm glad I did. Welcome back.|joy
+FE9|03-PiratesAground|Titania|We–and Commander Greil–are quite satisfied with the work we do now.|neutral
+FE9|07-ShadesOfEvil|Balmer|Hmph. You wretches...You’re not worthy of General Petrine’s attention. I will roast your bones and present them to her as a trophy!|anger
+FE9|25-StrangeLands|Caineghis|First, let me offer you my congratulations. You've made quite the triumphant return, Princess Elincia.|joy
+FE9|21-WithoutAKing|Elincia|That's... Why would they...That's horrible...|sadness
+FE9|18-CrimeaMarches|Reyson|Ravens! They betray not only me, but all laguz! Naesala, you dastard...|anger
+FE6|16-RetakingTheCapital|Narcian|M-My lord! Please wait! One more chance, please! Just give me one more chance!|fear
+FE9|12-AStrangeLand|Titania|Goldoa is the land of the dragons. More than any other laguz tribe, they are known for their longevity. I've heard tales of Goldoans still living who flew the skies when the goddess herself still walked the land.|neutral
+FE9|12-AStrangeLand|Ike|We're out of our element here at sea, so you're all we have to depend on. Thank you for your help.|neutral
+FE9|18-CrimeaMarches|Ike|What? No, wait! This is absurd...Blast! Of all the foolish...|anger
+FE9|07-ShadesOfEvil|Petrine|All right, men. I’m leaving you in charge here. Don’t let even one of these Crimean vermin escape! Understood? I want them exterminated by the time I return.|anger
+FE9|18-CrimeaMarches|Ike|When I was younger, I wanted nothing more than to be as strong as my father. And then I wanted to surpass him...Now, that is a goal I'll never achieve.|sadness
+FE9|24-BattleReunion|Lucia|Geoffrey! I'm so glad we made it in time!|joy
+FE9|17-DayBreaks|Nealuchi|Please, this is not the time to yell at a tired old man. You must hurry to Prince Reyson's side! Once he is safe, you can punish me in any way that you see fit...|fear
+FE9|15-TheFeralFrontier|Ike|What on earth are you talking about?|surprise
+FE9|08-DespairAndHope|Boyd|I can’t believe it! They just left, and they didn’t take one look back! Heartless scum! I’ll never forgive them!|anger
+FE9|15-TheFeralFrontier|Reyson|I left no word with Tibarn. If I had known we were coming this far, I would have left a message...|neutral
+FE9|11-BloodRunsRed|Lethe|...Idiot human...|anger
+FE6|10B-CaughtInTheMiddle|Zinc|The Lycian Army? They would betray Etruria?!|anger
+FE9|11-BloodRunsRed|Ike|Are you mad?! Your king was murdered by Daein! And now you're going to cooperate with them?|anger
+FE9|07-ShadesOfEvil|Petrine|All troops, attack! Kill them! Kill them all!|anger
+FE9|05-Flight|Elincia|You took me in and cared for me. I will...place my trust in you. Elincia Ridell Crimea. I am the daughter of King Ramon of Crimea.|neutral
+FE9|12-AStrangeLand|Ilyana|Aren't they, though? Hee hee! I'm always happy when people notice...Whew...Wow! I feel so much better now. I'm actually starting to get hungry.|joy
+FE9|17-DayBreaks|Oliver|Blast! Those wretches... They're here to steal my bird! Their souls are black with greed and jealousy! I have found beauty incarnate, and I will not relinquish it! Only I, Duke Tanas, can appreciate its worth!|anger
+FE9|12-AStrangeLand|Kurthnaga|Farewell, beorc! May your journey be safe!|neutral
+FE9|07-ShadesOfEvil|Balmer|And you’re having a rough time, eh? Bah! What an embarrassment.|anger
+FE9|15-TheFeralFrontier|Mist|But, Ike, the other nobles we know are different! There's Princess Elincia, and King Gallia, and the dragon prince, too! All of them have been so nice and friendly and easy to talk to.|neutral
+FE9|21-WithoutAKing|Petrine|Yes, Your Highness... B-by your leave...|fear
+FE9|10-PrisonerRelease|Lethe|This is a ridiculous conversation! I'm leaving now.|anger
+FE9|XX-Epilogue|Kieran|General, you are Crimea’s savior! For your meritorious service, I salute you! Huzzah! Nay, a thousand huzzahs!|joy
+FE9|14-Training|Maid|Wha-what should I do? Ooo, he looked right angry, he did! I might get sacked!|fear
+FE9|20-DefendingTalrega|Ena|Forget about me. That is my final request. Farewell...Nasir.|sadness
+FE9|05-Flight|Dakova|I...don’t believe it...What went wrong...|surprise
+FE9|29-Endgame|Elincia|What? Y-y-you want me to...address the troops?|surprise
+FE9|12-AStrangeLand|Ike|Aye, that it is. The beast tribes of Gallia and the dragons of Goldoa seem sohonorable...and the birds of Kilvas and Phoenicis seem so cruel. It seems so easy to reduce them all to good or evil.|neutral
+FE9|21-WithoutAKing|Ike|Soren! Enough!|anger
+FE9|19-Entrusted|Haar|So be it. Then there's nothing left to be said. Farewell. The next time we meet, it will be as enemies. Prepare yourself... And get some rest! You know how important it is.|neutral
+FE9|11-BloodRunsRed|Black Knight|It appears that our worm has been accepted as a trusted member of the company.|neutral
+FE9|17-DayBreaks|Boyd|Oh, nothing... I'm just amazed...Did you know you're two times heavier than she is!? I'm glad I don't have to carry you around! It'd be like wearing an extra suit of armor!|joy
+FE9|11-BloodRunsRed|Ike|You really were frightened...I'm sorry, I truly am.|sadness
+FE9|XX-Epilogue|Leanne|(Thank you, our kind-hearted Beorc friends.)|joy
+FE9|19-Entrusted|Volke|That's a wise decision....And in that case, I no longer need to conceal my true identity.|neutral
+FE9|12-AStrangeLand|Jill|I am Jill Fizzart, wyvern rider of Daein, attached to Commander Haar's battalion. I offer a truce! I cannot sit by  and allow a human vessel to be attacked by sub-human degenerates! I will fight with you!|anger
+FE6|06-TheTrap|Cath|Hey, cut it out! Let go of my arm! Ow! That hurts!|anger
+FE9|13-AGuidingWind|Boyd|Nag, nag, nag. Listen, I think we should come up with an unstoppable killer attack, something only we can do!|anger
+FE9|22-Solo|Ike|Yeah, thanks. Sorry for being so irritable.|neutral
+FE9|21-WithoutAKing|Ike|So they're absolutely sure they'll win, is that it? King Ashnard of Daein...You'll regret underestimating us.|anger
+E9|11-BloodRunsRed|Soren|Humans are shameless creatures that carelessly ignore any misfortune which does not befall them directly. They can--and often do--turn a blind eye to all manner of wickedness so long as it does not touch them or their kin.|anger
+FE9|20-DefendingTalrega|Soren|...This can only mean one thing: the enemy knows exactly how we are going to move. With your permission, I'll begin an investigation to see if there's anyone suspicious among the troops......Ike?|neutral
+FE9|09-Gallia|Caineghis|A prudent course of action. You look as one who would be more impulsive, but you are Greil’s son after all.|neutral
+FE9|20-DefendingTalrega|Calill|Whaaaaaat?!|surprise
+FE9|07-ShadesOfEvil|Greil|Stay with the king of Gallia...Live here. Live in peace...|neutral
+FE9|14-Training|Ike|Princess Elincia...I... I'm sorry. My ignorance does not excuse my stupidity. ...I truly am sorry.|sadness
+FE9|21-WithoutAKing|Soren|...You truly have no idea how to rule a nation. Do you know what happens to a country that loses a war? Everything is destroyed. Homes, land, crops...everything. And the citizens... They're not even treated as human.|anger
+FE6|11A-TheHeroOfTheWesternIsles|Clarine|Of course! I love you, Klein.|joy
+FE9|09-Gallia|Ike|Death and destruction are all part of war. My father said that a lot. The first casualties of war are those without strength and those without luck. And there’s nothing you can do about it. Live with bravery, be daring and fearless. Live for those who have died. And yet...I can’t help but think f I were more powerful...I could save more people. Couldn’t I?|sadness
+FE9|22-Solo|Tomenami|What, what are you doing?|surprise
+FE9|19-Entrusted|Petrine|Work with King Kilvas and put a stop to Crimea's army. No screw ups! Or else!|anger
+FE6|15-TheDragonGirl|Garret|Lilina? Well, then, I’m pleased to make your acquaintance, milady.|joy
+FE9|27-MomentOfFate|Nasir|You did that for a dirty traitor? Under the guise of providing information to Gallia, I gave the same information to Daein. I also took Mist's medallion and gave it to King Ashnard... And even so, you...|surprise
+FE9|09-Gallia|Kotaff|Death to the rogues who defy Daein! Defend our brethren! Erase their shame!|anger
+FE9|10-PrisonerRelease|Brom|What? The princess? Oh, happy day!|joy
+FE9|15-TheFeralFrontier|Soren|What are YOU doing here? Are you with the sub-humans? ...Wait, did you just pop out of the sand?|surprise
+FE9|11-BloodRunsRed|Norris|Stop your whining. How else am I to reward worms vile enough to sell their own princess to the enemy? Enjoy your payment, you greedy dastards! Ha ha ha ha ha ha!|anger
+FE9|20-DefendingTalrega|Daein Soldier|You...traitor!|anger
+FE9|27-MomentOfFate|Mist|I know that. Even so... Please? It'll only take a moment.|neutral
+FE9|XX-Epilogue|Ike|Unbelievable. Despite all appearances, you’re really quite rude.|anger
+FE9|XX-Epilogue|Elincia|I’m nervous. I’ve spent my whole life in hiding. No one ever taught me how to rule a kingdom. I don’t think I’m ready to be their queen. I don’t think I’m ever really going to be ready.|fear
+FE9|18-CrimeaMarches|Ike|Tanith, do you have a moment?|neutral
+FE9|13-AGuidingWind|Sanaki|Uh...Wh-who might you be? You don't look like a laguz. Perhaps a new recruit?|surprise
+FE9|04-RoadsideBattle|Ike|It’s probably nothing to worry about. I’ll go and talk to him. Where is he?|neutral
+FE9|20-DefendingTalrega|Black Knight|They are proof of the trust His Majesty has placed in me. Ena, go to the east gate. You have a visitor.|neutral
+FE9|28-TwistedTower|Reyson|Tibarn is not the only one who is filled with rage. To warp the gift that the goddess has granted us...This crime shall not go unpunished! Yaaaaa!!|anger
+FE9|25-StrangeLands|Calill|Oh... He's such a clown. But you made a good hire. After all, he's a world-class--|neutral
+FE9|25-StrangeLands|Largo|Hey! I thought I'd find you here, Calill! You're looking hot! Almost as hot as me! Bwaaa ha ha ha haaaaaa!|joy
+FE9|01-TheBattleBegins|Boyd|Oscar! Dang it! You didn’t have to bring that up!|anger
+FE6|16x-ThePinnacleOfLight|Soldier|B-But Bishop Windham! If we use those, they may hit our allies as well!|fear
+FE9|17-DayBreaks|Tibarn|It doesn't matter! Claiming ignorance does not grant you innocence. You treated Reyson like a trinket in a public market!|anger
+FE9|17-DayBreaks|Janaff|What's going on, you old buzzard? King Kilvas is the White Prince's friend, isn't he?|surprise
+FE9|14-Training|Naesala|Ha! Is that not always the way of Phoenicis, to cling to those last tattered remnants of pride? Instead of proclaiming that you will attack none but Begnion ships, just admit that you don't have the power to do more!|anger
+FE9|12-AStrangeLand|Mist|I have to say, at first, I was scared, too. When I saw how they could change...They can do things that we hu--I mean, we beorc can't do. They're not like us...|fear
+FE9|22-Solo|Elincia|Soren, you're being so rude! Surely the apostle, of all people, would never do such a thing!|anger
+FE9|17-DayBreaks|Ike|Curses! They just keep coming! How many soldiers does he have?|anger
+FE9|24-BattleReunion|Elincia|No... No! They've survived this long! They're alive! NO!!!|anger
+FE9|02-Rescue|Rhys|Not more than a little while ago, I went out for a walk around the yard and...A man I’ve never seen before came up to me and said...Give this to the red-tressed knight.|neutral
+FE9|08-DespairAndHope|Ike|They’re fine, they’re fine! In fact, we’ve all come to an agreement, and they’re traveling with us now. I don’t see any reason we should go on fighting. If you’re with them, we can protect you from Daein.|neutral
+FE9|19-Entrusted|Soren|No matter what we decide, sitting here like this is giving the enemy more time to prepare.|neutral
+FE9|09-Gallia|Lethe|This is a beorc fight. If you don’t Direct us, then we have no reason for being here. So spoke our king.|neutral
+FE9|11-BloodRunsRed|Ashnard|Pah. Nonsense. Our only concern is the princess of Crimea and the medallion. We must wait and watch until such time as we can strike.|anger
+FE9|XX-Epilogue|Bastian|Oh, glorious day of sweet victory! Praises upon the day the goddess did see fit to send Sir Ike to save our land.|joy
+FE9|13-AGuidingWind|Rolf|I told you, don't call me that!|anger
+FE9|04-RoadsideBattle|Soren|I would. Daein’s troops are superior in both numbers and morale. The chances of a Crimean victory are slim indeed.|neutral
+FE9|27-MomentOfFate|Mist|It was all I could think about. But...But I didn't want to think about it anymore. It made my head hurt. I didn't know what to do. I couldn't even sleep. I would just lie awake at night and stare at the tent walls.|sadness
+FE9|06-ABriefDiversion|Titania|Right. So enough of your griping. You’re merely wasting energy. Still, this heat is appalling.|anger
+FE9|14-Training|Elincia|No. I...What you said, you said in my defense and in my honor. It made me very pleased.|joy
+FE9|17-DayBreaks|Begnion Soldier|But, Your Grace, they serve at the pleasure of the apostle herself! Striking them would be--|fear
+FE9|22-Solo|Schaeferr|Gahar har har! Gahar har har har! See? You ain't so useless after all!|anger
+FE9|05-Flight|Elincia|Master Greil, my lord Ike, you said that you were mercenaries, did you not? Please...Would you help me to gain Gallia? I beg of you! I have...no one...no one else to turn to.|sadness
+FE9|09-Gallia|Elincia|My lord Ike, King Caineghis has advised me to turn to the Begnion Theocracy for aid in Crimea’s restoration. He says we should make of Begnion a formal request and gain the support of their shields.|neutral
+FE9|14-Training|Sigrun|It appears that the apostle will handle your payment on the morrow. Perhaps you can speak with her then.I beg your leave. I must be going.|neutral
+FE9|23-TheGreatBridge|Petrine|Y-Your... Your Majesty...Forgive me...please... Oh, I don't want to die... So...scared...|fear
+FE9|14-Training|Ike|That's madness! They would sacrifice a whole country to satisfy their own egos?|anger
+FE9|28-TwistedTower|Ena|...Hm? Yes, of course. That is why I provide accurate information.|neutral
+FE9|17-DayBreaks|Oliver|Oh! Oh! Oh! I've found you at last! My beautiful treasure!|joy
+FE9|29-Endgame|Rajaion|You were made...to suffer...because of me... I'm sorry.|sadness
+FE9|17-DayBreaks|Sigrun|I'm sorry... I'm just so happy...|joy
+FE9|21-WithoutAKing|Ena|Let's return to the topic at hand. The king has gained himself a new castle, and I believe he considers whatever land he occupies to be his kingdom. Daein and its people are already behind him. He need not look back.|neutral
+FE9|19-Entrusted|Naesala|So, we're friends again? Come to Kilvas for a visit, will you? Nealuchi will be so pleased.|joy
+FE9|16-TheAtonement|Sanaki|It's all right, Princess Elincia. He speaks the truth, be it with a sharpened tongue or no.|neutral
+FE9|02-Rescue|Mist|Eeek!|fear
+FE9|13-AGuidingWind|Soren|I...I ought to apologize for that.|sadness
+FE6|16-RetakingTheCapital|Narcian|Rubbish! Me, demoted!? And my replacement is that Galle...! Never! I will never allow that to happen! B-But what can I do... No...! My honor, my status... It’s all collapsing!|sadness
+FE9|18-CrimeaMarches|Sanaki|You have done excellent work, Ike. Thanks to you, the wound that has scarred Begnion for many long years can finally begin to heal.|joy
+FE9|09-Gallia|Ike|Are you serious?|surprise
+FE9|09-Gallia|Soren|Thank you, Commander. I will do my best. But if I have your leave, I must be going.|neutral
+FE9|16-TheAtonement|Sanaki|What? You! What are you doing? How dare you approach me unannounced! This is most inappropriate, and I will not--|anger
+FE9|16-TheAtonement|Sanaki|I am. However, whether I succeed or fail depends largely on what you do next.|neutral
+FE9|28-TwistedTower|Nealuchi|Oh! What a glorious sight...You look so much like your dear, departed mother...Sniff...|sadness
+FE9|11-BloodRunsRed|Haar|Yawn. Go entertain yourself, will you? Fight a soldier or lance a peasant or...what you will. But for the love of flying, stop interrupting my sleep!|anger
+FE9|13-AGuidingWind|Ike|And yet you soldiers sneer at mercenaries. At least we fight for something real. There are some dumb soldiers in this world.|anger
+FE9|10-PrisonerRelease|Sephiran|Pardon me...May I have a moment of your time?|neutral
+FE9|18-CrimeaMarches|Kayachey|Those sub-human freaks! Let's use them as bait. We can sacrifice them and reduce our own human casualties.|anger
+FE9|15-TheFeralFrontier|Ike|We're mercenaries. We were hired to take care of a group of bandits operating in this area.|neutral
+FE9|17-DayBreaks|Mist|Really? I guess it was just me then.|neutral
+FE6|13-RescueMission|Narcian|Cecilia...! That bitch again! Always interfering with my plans...!|anger
+FE9|19-Entrusted|Volke|He didn't want you to lose yourself and go hunting for revenge, I suppose. He was killed much, much sooner than he ever expected to be.|neutral
+FE9|23-TheGreatBridge|Soren|Ike is...in a war meeting. If you have something for him, I can hold on to it for you.|neutral
+FE9|02-Rescue|Bandit|Heh heh heh...All right, so now you’re all unarmed. Which means...all you can do is watch while I gut this whiny brat like a fatling pig!|anger
+FE9|10-PrisonerRelease|Marcia|And so we put this guy right here, and this dealy-bobber goes there...and we're finished!|neutral
+FE9|07-ShadesOfEvil|Black Knight|I won’t check my hand again. Give me what I am after. If you offer no more resistance, I will leave your child alive.|neutral
