@@ -2,11 +2,11 @@ import os
 import json
 import glob
 
-speakers_file_path = os.path.join(os.getcwd(), "data", "FE16", "speakers_cleaned.json")
+speakers_file_path = os.path.join(os.getcwd(), "data", "FE9", "speakers_cleaned.json")
 
-output_path = os.path.join(os.getcwd(), "data", "FE16", "cooccurence.json")
+output_path = os.path.join(os.getcwd(), "data", "FE9", "cooccurence.json")
 
-books = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
+books = ["FE9"]
 
 file_content = {
     "nodes": [],
