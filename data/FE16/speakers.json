@@ -121,8 +121,7 @@
     { "name": "Western Church Soldier", "gender": "" },
     { "name": "Emperor Ionius Ix", "gender": "" },
     { "name": "Duke Aegir", "gender": "" },
-    { "name": "Metodey", "gender": "" },
-    { "name": "Metody", "gender": "" }
+    { "name": "Metodey", "gender": "" }
   ],
   "counts": {
     "Byleth": 2344,
@@ -198,10 +197,10 @@
     "Nemesis": 7,
     "Nardel": 7,
     "Priest": 7,
+    "Metodey": 7,
     "Kingdom General": 6,
     "Mysterious Mage": 6,
     "Emperor Ionius Ix": 6,
-    "Metodey": 6,
     "Prisoner": 5,
     "Maiden": 5,
     "Hegemon Edelgard": 5,
@@ -246,7 +245,6 @@
     "Gaspard Commander": 1,
     "Village Child": 1,
     "Squire": 1,
-    "Western Church Soldier": 1,
-    "Metody": 1
+    "Western Church Soldier": 1
   }
 }
