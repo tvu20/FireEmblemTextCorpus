@@ -1,0 +1,14 @@
+Game: FE9
+Number of chapters: 31
+Words per chapter: [4127, 5104, 3502, 3395, 4596, 3186, 4066, 719, 3539, 1559, 3034, 3400, 3730, 2473, 2094, 4396, 3366, 1605, 2805, 3406, 3439, 1048, 4841, 2959, 2821, 2492, 5776, 1482, 1961, 2279, 5001]
+Average number of words per chapter: 3167.7741935483873
+Number of words: 98201
+Number of unique words: 6448
+Number of words that only appear once: 2929
+Sample of words used only once: ['conceal', 'assassin', 'slippery', 'whooooa', 'landed', 'righty', 'cheerful', 'chasing', 'spending', 'experiences', 'forming', 'values', 'technical', 'summarize', 'polished', 'blabbering', 'eeep', 'messing', 'huddled', 'shh', 'yaaaaaaaaa', 'mandolin', 'manicotti', 'manifesto', 'brrr', 'icing', 'animal', 'hibernate', 'rolls', 'comic', 'sincerity', 'weaklings', 'hatch', 'figuratively', 'metaphor', 'hatched', 'ol', 'considerate', 'pertain', 'generosity', 'misinterpreting', 'kingship', 'tied', 'eliminate', 'wields', 'bloodlines', 'competency', 'uneven', 'individuals', 'management']
+Longest word: misunderstandings
+Longest word length: 17
+Average word length: 4.057117544627855
+
+Number of words (excluding stopwords): 49070
+Most common words (excluding stopwords): [('im', 546), ('well', 448), ('ike', 424), ('dont', 418), ('right', 411), ('youre', 369), ('us', 355), ('would', 342), ('thats', 331), ('one', 329), ('know', 319), ('like', 313), ('oh', 288), ('see', 283), ('daein', 268), ('time', 252), ('princess', 251), ('yes', 249), ('king', 248), ('going', 241), ('think', 239), ('go', 216), ('ill', 207), ('must', 204), ('get', 196), ('want', 191), ('good', 185), ('take', 185), ('crimea', 177), ('come', 177), ('ive', 175), ('father', 171), ('general', 164), ('way', 163), ('something', 157), ('please', 156), ('nothing', 154), ('cant', 154), ('much', 153), ('ha', 151), ('say', 148), ('theres', 147), ('let', 145), ('back', 143), ('never', 143), ('could', 142), ('army', 138), ('tell', 138), ('even', 137), ('fight', 135)]

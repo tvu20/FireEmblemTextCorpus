@@ -1,0 +1,14 @@
+Game: FE1
+Number of chapters: 26
+Words per chapter: [444, 425, 388, 563, 256, 152, 471, 411, 594, 325, 247, 196, 176, 214, 132, 176, 503, 360, 459, 292, 154, 365, 351, 378, 133, 244]
+Average number of words per chapter: 323.4230769230769
+Number of words: 8409
+Number of unique words: 1555
+Number of words that only appear once: 784
+Sample of words used only once: ['throwing', 'lead', 'allegiance', 'steadfast', 'moreover', 'destiny', 'entrust', 'treasure', 'given', 'containing', 'invaluable', 'battles', 'test', 'crawling', 'lord', 'formidable', 'servant', 'morzas', 'liza', 'already', 'breathed', 'angers', 'psst', 'vip', 'access', 'membersonly', 'shop', 'arrogant', 'cheering', 'longdeparted', 'disgrace', 'bantu', 'abandoned', 'nno', 'everywhere', 'controlling', 'nowwake', 'senses', 'scary', 'nightmare', 'alone', 'intended', 'utterly', 'knowing', 'elite', 'sanctuary', 'victories', 'hated', 'considerably', 'swords']
+Longest word: reinforcements
+Longest word length: 14
+Average word length: 4.106433583065763
+
+Number of words (excluding stopwords): 4153
+Most common words (excluding stopwords): [('prince', 63), ('marth', 58), ('dolhr', 34), ('must', 34), ('princess', 31), ('one', 29), ('dont', 29), ('fight', 27), ('us', 25), ('would', 25), ('please', 25), ('gharnef', 23), ('well', 22), ('army', 21), ('castle', 21), ('altea', 20), ('join', 20), ('come', 19), ('land', 17), ('see', 17), ('use', 17), ('many', 17), ('cannot', 17), ('nyna', 17), ('medeus', 17), ('archanea', 17), ('find', 16), ('grust', 16), ('long', 16), ('yes', 15), ('macedon', 15), ('defeat', 15), ('let', 14), ('knights', 14), ('much', 14), ('take', 13), ('though', 13), ('people', 13), ('like', 13), ('want', 13), ('fighting', 13), ('good', 13), ('know', 13), ('sister', 12), ('help', 12), ('time', 12), ('back', 12), ('tell', 12), ('man', 12), ('hear', 12)]
