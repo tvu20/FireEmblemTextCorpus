@@ -45,6 +45,16 @@ const Data = () => {
           [gameid].csv: tagged csv file of all speaker dialogue lines, used for
           nlp
         </li>
+        <li>full_transcript.txt: raw transcript of every chapter script</li>
+        <li>
+          full_transcript_cleaned.txt: removes tagged lines, punctuation,
+          speakers
+        </li>
+        <li>words_summary.txt: words information (manually edited)</li>
+        <li>words.txt: array of all words in game script</li>
+        <li>
+          phrases.txt: top 50 most commonly used phrases in the game script
+        </li>
       </ul>
       {listGames()}
       {/* {url("FE1")} */}

@@ -23,6 +23,10 @@ const Scripts = () => {
       <li>
         <i>transitions.py</i>: for each game, creates transitions file
       </li>
+      <li>
+        <i>collect_chapters.py</i>: generate txt file with transcript for the
+        entire game by collating information from each chapter transcript
+      </li>
       <p>Other scripts:</p>
       <li>
         <i>randomizer.py</i>: randomize the lines in a text file
@@ -36,7 +40,10 @@ const Scripts = () => {
         with multiple books
       </li>
       <li>
-        <i>create_cooccurence</i> generates cooccurence file
+        <i>create_cooccurence.py</i> generates cooccurence file
+      </li>
+      <li>
+        <i>words.py</i>: generates words data
       </li>
       <h3>Prerequisites:</h3>
       <p>
