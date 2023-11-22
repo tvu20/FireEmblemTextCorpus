@@ -48,3 +48,13 @@ transitions = os.path.join(os.getcwd(), "scripts", "transitions.py")
 for game in games:
     command = transitions + " " + game
     subprocess.call([sys.executable, transitions, game])
+
+# ----------------------------------
+# FULL TRANSCRIPT
+# ----------------------------------
+
+collect_chapters = os.path.join(os.getcwd(), "scripts", "collect_chapters.py")
+
+for game in games:
+    command = collect_chapters + " " + game
+    subprocess.call([sys.executable, collect_chapters, game])

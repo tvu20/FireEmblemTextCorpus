@@ -10,7 +10,8 @@ books = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/Verdan
 
 file_content = {
     "nodes": [],
-    "links": []
+    "links": [],
+    "colormap": {}
 }
 
 labels = {
@@ -23,6 +24,8 @@ with open(speakers_file_path) as f:
     content = json.load(f)
 
     file_content["nodes"] = content["descriptions"]
+
+    file_content["colormap"] = content["colormap"]
 
     for i in range(len(content["descriptions"])):
         item = content["descriptions"][i]

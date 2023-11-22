@@ -66,5 +66,39 @@
     { "name": "Deghinsea", "gender": "M", "group": 5 },
     { "name": "Kurthnaga", "gender": "M", "group": 5 },
     { "name": "Aimee", "gender": "F", "group": 8 }
-  ]
+  ],
+  "colormap": {
+    "1": {
+      "name": "Greil's Mercenaries",
+      "color": "#cca20a"
+    },
+    "2": {
+      "name": "Crimea",
+      "color": "#f58f2a"
+    },
+    "3": {
+      "name": "Gallia",
+      "color": "#0fa32c"
+    },
+    "4": {
+      "name": "Daein",
+      "color": "#b00904"
+    },
+    "5": {
+      "name": "Goldoa",
+      "color": "#664049"
+    },
+    "6": {
+      "name": "Bird Kingdoms",
+      "color": "#2d4985"
+    },
+    "7": {
+      "name": "Begnion",
+      "color": "#09929c"
+    },
+    "8": {
+      "name": "Merchants",
+      "color": "#910988"
+    }
+  }
 }

@@ -23,6 +23,21 @@ const Scripts = () => {
       <li>
         <i>transitions.py</i>: for each game, creates transitions file
       </li>
+      <p>Other scripts:</p>
+      <li>
+        <i>randomizer.py</i>: randomize the lines in a text file
+      </li>
+      <li>
+        <i>text_formatter</i> contains many formatting files for input
+        collection
+      </li>
+      <li>
+        <i>collect_multiple_speakers</i> generates full speaker file for games
+        with multiple books
+      </li>
+      <li>
+        <i>create_cooccurence</i> generates cooccurence file
+      </li>
       <h3>Prerequisites:</h3>
       <p>
         Every game must have a pre-made directory. In this directory must be a
