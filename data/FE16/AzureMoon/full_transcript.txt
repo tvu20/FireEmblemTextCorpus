@@ -320,7 +320,9 @@ Rodrigue: I'm sure there are plenty of more suitable places to find work. Why ar
 Maiden: I need...to get revenge. I must strike down the one who murdered my big brother!
 Rodrigue: Your Highness... What should we do?
 Dimitri: Let her do as she pleases.
-Maiden: Thank you...very much.@Opening 
+Maiden: Thank you...very much.
+/***EOF***/
+@Opening 
 The Kingdom army has captured Fort Merceus. Managing troops from the now-stable western Kingdom and former Alliance territory, the Kingdom army returns to Garreg Mach to regroup and reorganize its forces. With sufficient might to challenge the Empire, the Kingdom army finalizes their plans to march on Enbarr, the Imperial Capital.
 
 @Dialogue 
@@ -728,7 +730,9 @@ Imperial General: Yes, the anomaly should present itself shortly. However...
 Edelgard: There's no reason to fret. Besides, it's far too late to second guess. Now, assume your position. I can't promise your safety if you remain here.
 Imperial General: Very well. 
 
-Edelgard: Ugh... This pain is nothing...compared to what I have already suffered...@Opening 
+Edelgard: Ugh... This pain is nothing...compared to what I have already suffered...
+/***EOF***/
+@Opening 
 It is Imperial Year 1185. Nearly five years have passed since the fall of the monastery at Garreg Mach, and war continues to plague the lands of Fódlan. Fhirdiad has been captured. The Holy Kingdom of Faerghus is in shambles. The Leicester Alliance is on the verge of collapse, fractured by two opposing factions–those who support the Adrestian Empire and its ruler, and those who seek her demise. Meanwhile, under Emperor Edelgard's rule of law, the Adrestian Empire continues to expand its reach. The path to a new Fódlan, unified by Imperial strength, may yet be in sight.
 
 @Dialogue
@@ -911,7 +915,9 @@ Byleth: What rumors?
 Gilbert: An Imperial platoon attacked without warning. Incident after incident of Imperial generals being slaughtered in Kingdom territory. It is said that each died in such a brutal, gruesome way that…it is hard to imagine they were killed by human hands. 
 Gilbert: I followed the rumors to location after location. Eventually, I had seen enough. I knew the rumors were true. Finally, after a half decade of torment, it happened. I found him… 
 Gilbert: I fear his deep hatred, and the weight of his solitude, have consumed him for far too long… We must bring him back from the edge on which he stands. 
-Gilbert: To that end, I must speak with His Highness. I imagine it will not be a quick or easy conversation. I pray that he is of a mind to speak of such things. I am certain that my words will… Never mind. What must be done, must be done. I would wager that you are weary after the day’s events. Perhaps you should take this opportunity to get some rest.@Opening 
+Gilbert: To that end, I must speak with His Highness. I imagine it will not be a quick or easy conversation. I pray that he is of a mind to speak of such things. I am certain that my words will… Never mind. What must be done, must be done. I would wager that you are weary after the day’s events. Perhaps you should take this opportunity to get some rest.
+/***EOF***/
+@Opening 
 When Claude steps down as its leader, the Leicester Alliance disbands and its lords swear fealty to the Holy Kingdom of Faerghus. The chaos in the Kingdom begins to dissipate as the people unite under Dimitri's rule. Riding this momentum, the Kingdom army prepares to march south for a decisive battle against Imperial forces.
 
 @Dialogue 
@@ -1241,7 +1247,9 @@ Dimitri: A verbal message? How strange...
 Kingdom Soldier: The other day, he arrested one of Viscount Kleiman's men. And, well... The prisoner has claimed involvement in the Tragedy of Duscur. He has implicated his lord as well.
 Dimitri: Go on.
 Kingdom Soldier: I was told they would be transporting this man to the monastery along with the troops and supplies. The Margrave said that regardless of the credibility of the man's testimony, how he should be dealt with was your decision alone, Your Highness.
-Dimitri: Very well. All things considered, I will return to the monastery at once. Will you come with me Professor?  Thank you.@Opening 
+Dimitri: Very well. All things considered, I will return to the monastery at once. Will you come with me Professor?  Thank you.
+/***EOF***/
+@Opening 
 After storming the streets of Enbarr and bringing Imperial forces to their knees, the Kingdom army surrounds the Imperial palace. But the enemy that awaits them is not the Edelgard they once knew...
 
 @Intro 
@@ -1306,7 +1314,9 @@ Dimitri: Edelgard...It is over.
 Dimitri: El...
 
 @Narration 
-A rising flame was alight as the flow of time carved a new history for Fódlan. The long reign of the Adrestian Empire finally met its end when the Imperial Capital, the city of Enbarr collapsed. After five and a half years of war, a new age was set to begin. With Fódlan united as the Holy Kingdom of Faerghus, Archbishop Rhea, still weak from her imprisonment, stepped down from her position, and the Church of Seiros began to take the needed steps to reorganize. Prince Dimitri formally ascended the throne, beginning his reign as the king of the Holy Kingdom of Faerghus, which now included former Alliance and Imperial territories. Texts from the time claimed that the one who guided the king as he sought to create a world free from oppression became the new archbishop of the Church of Seiros.@Opening 
+A rising flame was alight as the flow of time carved a new history for Fódlan. The long reign of the Adrestian Empire finally met its end when the Imperial Capital, the city of Enbarr collapsed. After five and a half years of war, a new age was set to begin. With Fódlan united as the Holy Kingdom of Faerghus, Archbishop Rhea, still weak from her imprisonment, stepped down from her position, and the Church of Seiros began to take the needed steps to reorganize. Prince Dimitri formally ascended the throne, beginning his reign as the king of the Holy Kingdom of Faerghus, which now included former Alliance and Imperial territories. Texts from the time claimed that the one who guided the king as he sought to create a world free from oppression became the new archbishop of the Church of Seiros.
+/***EOF***/
+@Opening 
 Having repelled the Imperial vanguard, the Kingdom must now supplement its meager forces. And so it requests reinforcements from Rodrigue, who is busy resisting Cornelia's army in Fraldarius territory.
 
 @Dialogue 
@@ -1624,7 +1634,9 @@ Mercedes: Speaking of House Gloucester, I wonder how Lorenz is holding up...
 Annette: If we meet him again, it will probably be as enemies. To be honest, I'd rather avoid seeing him altogether.
 Dimitri: If you do not wish to kill familiar faces, do not tarry over the corpses of the dead.
 Felix: Hmph. Good advice.
-Dimitri: Prepare yourselves. It is time to steel your souls for the task at hand.@Opening 
+Dimitri: Prepare yourselves. It is time to steel your souls for the task at hand.
+/***EOF***/
+@Opening 
 Following the death of Rodrigue, Dimitri begins to question his desire for revenge. His troubled mind turns to the kingdom capital and how he might end the chaos plaguing Faerghus, once and for all.
 
 @Dialogue 
@@ -1936,7 +1948,9 @@ Dimitri: I believe we have spoken of this before... Everyone has something they 
 Kingdom Soldier: Your Highness! I finally found you!
 Dimitri: Ah, I am sorry for slipping away. Has something happened?
 Kingdom Soldier: An express messenger just arrived from the leader of the Alliance. Please return to the castle at once.
-Dimitri: An express messengers? What in the world could Claude be after? I am on my way. Professor, please join me.@Opening 
+Dimitri: An express messengers? What in the world could Claude be after? I am on my way. Professor, please join me.
+/***EOF***/
+@Opening 
 Now in control of the Great Bridge of Myrddin, the Kingdom army begins to invade Imperial territory. In response, the Imperial army garrisons soldiers at Fort Merceus.
 
 @Dialogue 
@@ -2377,7 +2391,9 @@ Dimitri: But then who... or what... should I live for?
 Byleth: Live for what you believe in.
 Dimitri: What I believe in... Rodrigue said the same thing. But is it possible... I am a murderous monster. My hands are stained red. Could one such as I truly hope for such a life? As the sole survivor of that day, do I... Do I have the right to live for myself?
 Dimitri: ...
-Dimitri: Your hands are so warm... Have they always been?@Opening 
+Dimitri: Your hands are so warm... Have they always been?
+/***EOF***/
+@Opening 
 Prince Dimitri and the remnants of the royal family join with the remaining Knights of Seiros to form a revitalized Kingdom army. Using Garreg Mach as their base of operations, they rise to action against the Empire.
 
 @Dialogue 
@@ -2716,7 +2732,9 @@ Dimitri: You were entrusted with leading the church. One would think the logical
 Byleth: ...
 Byleth: Let's take down Enbarr, the Imperial Capital.
 Dimitri: Yes... It is the only way.
-Gilbert: Either way, we are in need of numbers. It is essential that we secure backup.@Opening 
+Gilbert: Either way, we are in need of numbers. It is essential that we secure backup.
+/***EOF***/
+@Opening 
 The Kingdom Army has reclaimed the kingdom capital and plans to immediately begin restoring the country and its forces. But an unexpected request arrives from Claude, leader of the Leicester Alliance. Dimitri promptly responds to the request for aid, and he rushes to prepare the kingdom's forces.
 
 Having allowed the Imperial army to invade, the Alliance army makes their last stand at the center of House Riegan territory in Derdriu. The Kingdom army rushes to their aid after amassing more troops.
@@ -3077,3 +3095,4 @@ Hubert: Fort Merceus, I presume? There is no better place for such a confrontati
 Edelgard: Indeed. And dispatch the Death Knight to guard it. He can buy us some time. In the meantime, I will—
 Hubert: Forgive me, but I must speak bluntly. I do not agree with what you intend to do. Though slight, there is a chance that once done, it cannot be undone.
 Edelgard: Even I cannot choose the direction my path leads me. There is no other way. And so, I must walk on.
+/***EOF***/

@@ -69,7 +69,9 @@ Karin: Are you really trusting me with something so valuable? I... This is most 
 Ced: Karin... I did wrong by my mother, and I'm sorry. I owe you much for helping Fee in my absence, and this is a token of my gratitude. I want you to have it.
 Karin: ...OK, but I'm only keeping it safe for you. You'll get it back the second you return to Silesse!
 Ced: Then the snowy banks of Silesse shall be witness to our next meeting. Be well, Karin.
-Karin: You said it! Gods be with you, Lord Ced!@Intro 
+Karin: You said it! Gods be with you, Lord Ced!
+/***EOF***/
+@Intro 
 Eyvel: Little Lady! You're a sight for sore eyes!
 Nanna: Eyvel…
 Eyvel: I can't tell you how glad I am that you're safe, Little Nan. Did that maggot Raydrik hurt you?
@@ -165,7 +167,9 @@ Raydrik: A-And now I have a perfect statue of the proud warrior of Fiana—an et
 Nanna: Eyvel... I'm sorry. I'll always honor your sacrifice...
 
 @End
-Leif: I'll come back for you, Commander! I'll... I'll grow strong enough to storm this whole city if I have to! No force in all the heavens can stop me! So just... just... ......@Opening
+Leif: I'll come back for you, Commander! I'll... I'll grow strong enough to storm this whole city if I have to! No force in all the heavens can stop me! So just... just... ......
+/***EOF***/
+@Opening
 Reuniting with the remnants of the Freeblades of Fiana, Leif made his way west. Carrion, the knight entrusted to him by General Hannibal, served as his guide through the treacherous mountain range. They now approached the foot of Mount Violdrake, home to Dagdar and his familiar group of brigands...
 
 @Intro 
@@ -282,7 +286,9 @@ Tanya: No, it's OK... Papa did what he thought was right. If he died for somethi
 Leif: What will you do now, Tanya? If you don't have any other plans, perhaps... perhaps you could come with us.
 Tanya: Is... Is that really all right with you, having me tag along?
 Leif: Of course! You're always welcome with us!
-Tanya: Yeah... Yeah, this is just what I need! You bet your Light Brand I'll come with you! Th-Thank you!@Opening 
+Tanya: Yeah... Yeah, this is just what I need! You bet your Light Brand I'll come with you! Th-Thank you!
+/***EOF***/
+@Opening 
 Having seized the infamous Fort Dandrum, Leif's Liberation Army was keenly aware just how little time remained before the Empire launched its assault on Tarrah. Scarcely taking a moment to catch their breath, the Liberation Army kept marching well into the evening, determined to come to the city's defense before it was too late. When they finally arrived at the edges of Dakia Forest, which extends around Tarrah's eastern border, it was the dead of night. The thick foliage obscured what little moonlight had been illuminating their path, and the forest was now blanketed in a deep, foreboding darkness...
 
 @Intro 
@@ -362,7 +368,9 @@ Mareeta: If what happened is anyone's fault, it's mine. I was... I was inexperie
 Leif: ...Mareeta, this I swear to you: I'll get the Commander back, whatever it takes!
 Mareeta: You mean WE! We'll get Mother back together! Please, Leif, I want to be a part of this! I'll be stronger than I was before! You must let me join you!
 Leif: Of course I'll have you! Though as much as it pains me, it's not feasible for our army to return to Manster with things the way they are right now... But someday, we'll be able to go back for the Commander. You can count on that. And when that day comes, there's no force in all the heavens that can keep the two of us from getting her back!
-Mareeta: Couldn't have said it better myself, Little Lord!@Opening 
+Mareeta: Couldn't have said it better myself, Little Lord!
+/***EOF***/
+@Opening 
 His mind consumed by regret, Leif managed to escape Munster. He was joined by several members of the Magi, who pledged themselves to his service. Yet there was no time to celebrate: an enormous price had been placed on Leif's head, and countless bounty hunters were determined to claim it. What's more, the Knights of Munster had doggedly pursued Leif, and their forces were growing dangerously close...
 
 @Intro 
@@ -498,7 +506,9 @@ Leif: Oh, you were one of the children imprisoned at Kelves' Gate... What are yo
 Coirpre: General Hannibal is my lord father, you see. On the off chance we met again, I prepared you a token of my gratitude. Here you are. It's a very powerful staff imbued with Warp magic.
 Leif: Thank you! This is most generous...!
 Hannibal: Sir Lugh, you'd best be setting out. It'll be dark before long.
-Leif: Of course. Many thanks for your help, General Hannibal. I won't forget the kindness you've done us!@Opening 
+Leif: Of course. Many thanks for your help, General Hannibal. I won't forget the kindness you've done us!
+/***EOF***/
+@Opening 
 Putting down the bandit uprising at Mount Violdrake, Leif's army now sought to join forces with the remnants of Leonster's nobility. Leif set a course for General Hannibal's mountain villa, where the deposed nobles now lived in hiding...
 
 @Intro 
@@ -608,7 +618,9 @@ August: Regarding that... the Thracian troops seem to have ceased attacking. Mos
 Leif: Outright suspicious, even.
 Dryas: I'll start coming up with a plan. Give me a moment to get a better look at this strange state of affairs, Prince Leif.
 Dryas: Hmm... Leif's man was right. They have indeed called off their attack... But why? ...Who in blazes is that? That Dracoknight—a woman, by the look of it—what's she saying to the Thracian troops? Some kind of declaration?
-Altena: All soldiers of Thracia, heed me! This is your princess, Altena! I bring word from General Hannibal himself! The men in that villa are not bandits—they're a mercenary unit the General has stationed here to PROTECT this area from bandits! Sheathe your swords! Withdraw at once!@Opening 
+Altena: All soldiers of Thracia, heed me! This is your princess, Altena! I bring word from General Hannibal himself! The men in that villa are not bandits—they're a mercenary unit the General has stationed here to PROTECT this area from bandits! Sheathe your swords! Withdraw at once!
+/***EOF***/
+@Opening 
 Barely escaping the burning of Castle Leonster with his life, the young Prince Leif was looked after by Finn, his knight and retainer. Together with Nanna, a young noblewoman under Finn's care, the trio fled pursuers sent by the conquerors of North Thracia: the Grannvale Empire, which lay to the west.
 
 Yet Finn proved stronger than those who hunted them, and the three made their way to the cities of Ulster and Tarrah, posing as common vagrants. Eventually, they drifted into Fiana, a small village on Thracia's eastern coast. Fiana was an independent community with its own militia, the Freeblades of Fiana, led by the swordswoman Eyvel. Eyvel welcomed Leif's group as if they were her own kin. Under her watchful eye, the deposed prince spent his childhood in Fiana, growing into maturity alongside youths of common birth. Now, in year 776 of the Grannvale calendar...
@@ -717,7 +729,9 @@ Leif: Nanna? What happened to Nanna?
 Man: The Empire took 'er, sure as you're standin' here. Mareeta tried to break her loose, but only got captured 'erself. They both wore chains, last I saw.
 Leif: Where were they taken?
 Man: Don't rightfully know, Lord Leif. One of them soldiers said somethin' about headin' back to Munster, but nuthin' more specific'n that.
-Leif: Munster... Then that's where I'm headed, too. I'll bring everyone home: Nanna, Mareeta, and the Commander!@Opening 
+Leif: Munster... Then that's where I'm headed, too. I'll bring everyone home: Nanna, Mareeta, and the Commander!
+/***EOF***/
+@Opening 
 Leaving the forest behind them, the Liberation Army finally reached the southern gates of Leonster. Yet an arduous task awaited them: the gates stood atop high cliffs, and were defended by vast numbers of ballistae. It was painfully clear that seizing the gates would be anything but simple...
 
 @Intro 
@@ -791,7 +805,9 @@ Dorias: Is this true?! No, it can't be! The prince has returned, yet he still se
 Elder: Bah, would that things were that simple... You see, the general has eight adjutants—they're as close as kin, and they've shouldered life's burdens together. The wives and children of these eight adjutants are being held hostage inside the castle. And despite being their superior, the general hasn't the heart to act without the consent of his men. Say what you will, but he cares deeply for their well-being...
 Leif: Then our plan is obvious! If we rescue the hostages, the general and his men will be freed of their servitude!
 Elder: You... think it will be that easy?
-Leif: He deserves an apology for everything he's been through... As the last living heir to House Leonster, I owe him that much!@Intro 
+Leif: He deserves an apology for everything he's been through... As the last living heir to House Leonster, I owe him that much!
+/***EOF***/
+@Intro 
 Kempf: Bishop Oltof, listen closely: these attackers are none other than the motley survivors of House Leonster. They seem to be led by Leif, the rebel prince who caused a stir when he escaped from the dungeons of Castle Munster. This has escalated beyond a mere border skirmish. I must ride for Belhalla at once and alert the Imperial Army's high command. Not to imply that this relieves you of your duties, of course. I still have orders for you and your men. Your platoon is to barricade itself inside this wing of the fortress, and stall the rebels for as long as possible. Buy me time.
 Oltof: B-But General, the enemy has already breached the fort's interior! My men and I cannot possibly withstand a prolonged siege!
 Kempf: Nonsense! You still have one final means of defense: the balistrariae.
@@ -869,7 +885,9 @@ Olwen: It's not like that at all! My brother... My lord brother, Reinhardt, is n
 August: ...And who might you be?
 Olwen: Olwen, sister of Sir Reinhardt.
 Leif: For her own reasons, she wishes to accompany our army. I gave her leave to do so, unless you have objections.
-August: ...I see. If that's the case, Olwen, take a good, hard look at what the Empire has done here. See them for what they truly are.@Opening 
+August: ...I see. If that's the case, Olwen, take a good, hard look at what the Empire has done here. See them for what they truly are.
+/***EOF***/
+@Opening 
 Now in Raydrik's clutches, Leif was detained and taken to Munster by Imperial soldiers. His imprisonment bore a certain irony: Munster was once the sovereign land of House Leonster. It was now governed by House Friege, who had personally been installed as rulers by the Emperor of Grannvale after his conquest of North Thracia. Raydrik himself had once been a general of the Kingdom of Conote, but colluded with the Empire during the war. For that service, he was made Baron of Munster. While still subordinate to Lord Bloom, head of House Friege, Raydrik was entrusted with the day-to-day management of Munster. Leif would now see firsthand what life was like in his family's former home...
 
 @Intro 
@@ -982,7 +1000,9 @@ Ishtar: My father has been placed in a difficult position. Many of our own, as w
 Julius: Ishtar, my beloved, there's been a terrible misunderstanding. Never would I condone the slaughter of children! Do you truly believe me capable of such a thing? I merely want them to be trained and educated— sculpted into adults worthy to inhabit the Empire. The ones who survive our rigorous training will become a new kind of ruling class—one that will govern over all others of common birth. Consider it: these children of peasants are given a chance to earn nobility, even happiness, for themselves!
 Ishtar: At what cost? They compete against each other, learn to hate each other, struggle to survive without their families... You dare call that happiness?
 Julius: ...Ah, my dear, you'll understand my wisdom—your betrothed's wisdom—one day, I'm sure. Say, there's a beautiful bed of flowers just out back. Let's take in the view together, Ishtar.
-Ishtar: ...Lord Julius...@Opening 
+Ishtar: ...Lord Julius...
+/***EOF***/
+@Opening 
 Breaking through the enemy's lines, the Liberation Army finally set foot on Imperial soil. Their invasion could now begin in full. However, there was no time to celebrate: Fort Dandrum, widely regarded as an impregnable defense against Thracian incursions, now stood before them. If they could not capture Fort Dandrum, the army would never reach Tarrah in time...
 
 @Intro 
@@ -1049,7 +1069,9 @@ Kempf: Ugh... What a joke...! I must flee this place, at least for the time bein
 August: Simply superb work, my prince! With Fort Dandrum captured this quickly, it will be all but impossible for the enemy to escape! We cannot afford to rest on our laurels, however. This being an Imperial fort, I expect there are children imprisoned here as well. We've bought ourselves some time with our swift victory. Let's make the most of it, and conduct a sweep of the interior! If indeed there are children locked up here, we must help them at once!
 
 Dryas: Fort Dandrum has fallen, and not a moment too soon. We've little time to spare. Still, better to seize a fort slowly than to incur massive casualties doing so quickly. There's nothing left for us here—Fort Dandrum no longer has any strategic value. Ignore any enemies already in retreat. We must make for Tarrah on the double!
-^end@Opening 
+^end
+/***EOF***/
+@Opening 
 Abiding by the armistice brokered by Arion and Linoan, the Liberation Army withdrew from Tarrah. Their next goal was a matter of some debate: the Freeblades of Fiana and the Magi wished to make for Castle Munster and liberate it first, while the nobles of Leonster and the sellswords of Tarrah favored liberating Castle Leonster first. Ultimately, pragmatism prevailed, as it was agreed that seizing Leonster first was more advantageous to the army's mobility. However, as they neared Solwood Pass, Leif would soon have to make another strategic decision...
 
 @Intro 
@@ -1159,7 +1181,9 @@ Zile: Ugh! D-Damned... fools...
 Dryas: This way leads to Nordrhein, which will take us east along the coast to Leonster. Seasoned Imperial troops will be on the lookout for us. I anticipate the battle will be a difficult one indeed. Is this your will, sire?
 
 August: This path shall take us through the deep woodlands of Millefeuille Forest, better known as the infamous "Mirage Forest." We would encounter little resistance, but there may well be unforeseen hazards we have yet to discover. Shall we proceed, my prince?
-^end@Opening 
+^end
+/***EOF***/
+@Opening 
 Acting on the advice of Dorias, Leif made for Leonster by way of the coast. However, traveling along such an exposed, public road had its price: the army would have to breach Fort Nordrhein, an Imperial base. There, House Friege had deployed an elite battalion of soldiers, determined to stop the Liberation Army in its path...
 
 @Intro 
@@ -1285,7 +1309,9 @@ Dryas: The disorder in their vanguard is what saved us, frankly. But still, to s
 Leif: Hm? Count Conomor?
 Dryas: Indeed. He's a brave general of Ulster, a man of honorable heart and unshakable loyalty. And as the saying goes, "There are no cowardly soldiers under a brave general."
 Leif: Then why is such a man serving the Empire? Does their tyranny not concern him?
-Dryas: It's most puzzling, but there must be something we're unaware of... Regardless, he isn't someone I'm eager to fight again.@Intro 
+Dryas: It's most puzzling, but there must be something we're unaware of... Regardless, he isn't someone I'm eager to fight again.
+/***EOF***/
+@Intro 
 Dryas: Escaping Tarrah may be difficult with all these civilians in tow...
 Leif: Civilians? You mean townsfolk from Tarrah are following us?
 Linoan: I'm deeply sorry, Lord Leif... I tried to convince them that accompanying us was too dangerous, but nothing I said could sway them.
@@ -1329,7 +1355,9 @@ August: It... seems I was not up to the task. I'm sorry for disappointing you, Y
 Lewyn: Oh, don't kid yourself. Tarrah's capitulation was inevitable—we both knew this. You've been doing a fine job.
 August: If you say so, Your Highness...
 Lewyn: Now, if there's no other matters of import, I must be going. I still have to check in on the Orgahil region before returning to Isaach. It will likely be another year before we're able to meet like this again. Until then, I leave things in your capable hands, August.
-August: Another whole year... There's still so much left to be done...@Opening 
+August: Another whole year... There's still so much left to be done...
+/***EOF***/
+@Opening 
 Ridding Iz of the pirates who had infested it, Leif hurriedly resumed his course to Munster. It was not long until he arrived at Kerberos' Gate, a small fortress that guarded the entrance to the province of Munster...
 
 @Intro 
@@ -1391,7 +1419,9 @@ Finn: I suppose this was inevitable... We... have no choice but to retreat... Ho
 Orsin: Dammit, Leif... Nothing to be done about it now, I guess. We're comin' after you, so don't you dare go dying first, you hear?!
 Halvan: Well... We lasted until now. No one can say we didn't give it our all...
 Safy: Gods above, watch over the prince...
-Dagdar: Damn it all, the prince let 'imself be captured? Can't much stand it meself, but fer now, I've no choice but to head back to Mount Violdrake. This ain't the end, though: I'll round up me whole crew and we'll storm Munster!@Opening 
+Dagdar: Damn it all, the prince let 'imself be captured? Can't much stand it meself, but fer now, I've no choice but to head back to Mount Violdrake. This ain't the end, though: I'll round up me whole crew and we'll storm Munster!
+/***EOF***/
+@Opening 
 Acting without pause or reprieve, the Liberation Army had broken through to Castle Leonster. They now stormed the gates with renewed fury. They fought for only one thing: the throne of Leonster. The kingdom's rebirth—Leif's greatest desire—was tantalizingly close to becoming reality...
 
 @Intro 
@@ -1504,7 +1534,9 @@ Dryas: Mm... I've tarried long enough. I must be off. May the gods bless and kee
 
 August: A few of the enemy soldiers have requested an audience with you, my prince. They claim to have been pressed into service against their will, and that we saved them from that fate.
 Leif: Very well. Show them in.
-Soldier: I suppose congratulations are in order, what with you takin' back the throne an' all. But you didn't just save Leonster, you saved her soldiers too! Even though we ain't nobles or anything! So, uh... We'd like you to have this. You've earned it.@Opening 
+Soldier: I suppose congratulations are in order, what with you takin' back the throne an' all. But you didn't just save Leonster, you saved her soldiers too! Even though we ain't nobles or anything! So, uh... We'd like you to have this. You've earned it.
+/***EOF***/
+@Opening 
 Having breached Fort Nordrhein, the Liberation Army finally stood before the gates of Leonster. Yet their fight was far from over: a battalion of Imperial troops, even larger in number than the one at Fort Nordrhein, awaited them...
 
 @Intro 
@@ -1634,7 +1666,9 @@ Misha: ……
 August: Lady Misha, don't you see the irony? It's almost funny, in a macabre way. By helping the Empire, you're sacrificing the children of another country to save the children of your own country. The Empire is conducting child hunts in Thracia—and it won't be long until they do the same in Silesse. Who will protect Silesse's children then?
 Misha: Child hunts...? What in blazes are you talking about?
 Leif: So you don't know... Then I want you to live a little longer and see the truth for yourself. I sentence you to live—to bear witness to our pain and suffering!
-Misha: ...I'm sorry, I'm a little overwhelmed, here. Just give me some time. I need to think...@Opening 
+Misha: ...I'm sorry, I'm a little overwhelmed, here. Just give me some time. I need to think...
+/***EOF***/
+@Opening 
 ...Half a year has passed. The army of House Friege, led by Barat, has waged a relentless onslaught against Leonster, seeking to recapture the castle. Leif's Liberation Army has fought well, but has been gradually worn down and forced into a small corner of the castle—with no way out. Everyone could see it was only a matter of time until Castle Leonster fell...
 
 @Intro 
@@ -1698,7 +1732,9 @@ Nanna: Ah! She's... not with you? I... I see... I had resigned myself to the fac
 Diarmuid: I'm sorry, Nanna. Mother was traveling all that way for me...
 Nanna: No, don't think like that. I used to resent her for leaving, but now that I'm older, I understand how Mother felt... All women feel the same deep love for their children. I've seen as much...
 Diarmuid: I haven't given up, Nanna. Lord Lewyn said Mother was still alive. We can search for her together when the war is finally over. So... don't cry anymore, OK? Prince Leif, I have a request, if I may. Would you permit me to transfer into your army? I'll ask Lord Seliph for his leave to do so once we rejoin him.
-Leif: Of course! I'd be glad to have you along to support Nanna. I'll explain the situation to Lord Seliph.@Intro 
+Leif: Of course! I'd be glad to have you along to support Nanna. I'll explain the situation to Lord Seliph.
+/***EOF***/
+@Intro 
 Zaom: Hmm... The fort is in terrible danger, and it only seems to be getting worse...
 Soldier: ...We have word that the rebels have already gained control of the gates, sir.
 Zaom: Hmph! I suppose it was only a matter of time until the rebels came to free the prisoners. Well, we're ready for it. If worse comes to worst, go ahead with our... last resort. Do I make myself clear?
@@ -1733,7 +1769,9 @@ Julius: Ishtar... That man, Reinhardt... I don't want him near us anymore.
 Ishtar: Reinhardt?! He's watched over me since I was a child! I rely on him every day!
 Julius: I don't care! I hate the way he looks at you! If I see him, I'll pluck out his eyes myself!
 Ishtar: Ah...! I... I understand... Forgive me, but I must ask this of you: let Reinhardt go home. Please.
-Julius: Heh, heh... Very well, we'll leave him be. Let's be off! Oh, Ishtar... how I love you!@Opening
+Julius: Heh, heh... Very well, we'll leave him be. Let's be off! Oh, Ishtar... how I love you!
+/***EOF***/
+@Opening
 Giving chase to Raydrik, Leif set out for Munster to rescue his companions. But while making his way along the shore, he passed near a small settlement: a coastal village by the name of Iz...
 
 @Intro 
@@ -1786,7 +1824,9 @@ August: Neither do I. I take it you're headed to the Corsair Isles to nip this p
 Leif: Indeed. If we leave them be, it's only a matter of time until the scum attack Iz again. Besides, I hear they're also keeping a cleric captive there.
 August: I see. In that case, allow me to be your navigator. I can guide you to the isles.
 Leif: What? Why would a priest know the way to the Corsair Isles?
-August: This old man has many surprises left in him yet, I'll tell you that much. Still, the decision is yours.@Opening 
+August: This old man has many surprises left in him yet, I'll tell you that much. Still, the decision is yours.
+/***EOF***/
+@Opening 
 Years ago, it was Raydrik's betrayal at the River Thracia that doomed Manster. Mere months later, Raydrik would betray Thracia to the Empire, allowing them to wrest control of North Thracia from Travant. For betraying Manster to Thracia, and then betraying Thracia to the Empire, Raydrik was dubbed the "Twofold Traitor." Now, having crossed the same river where his grandfather had met his end, Leif approached Raydrik's stronghold, Castle Manster. There, emboldened by news of Leif's victory, the citizens seized the opportunity to flee. However, they were caught in the crossfire of two forces: the Magi, led by Ced, who were trying to defend the civilians, and the Knights of Manster, who were determined to stop them. The region had become a war zone, and the fighting grew worse with each day...
 
 @Intro 
@@ -1916,6 +1956,8 @@ Leif: ...Can you tell me nothing more of your circumstances? How exactly did you
 Saias: I can't say. Not now.
 Leif: I see. I don't suppose there's any chance you could stay with us a little longer? We could use your help liberating Manster.
 Saias: I've seen enough of battle for one lifetime. I already fear that my heart may have grown too accustomed to warfare... But know that I'll be praying for your good fortune from the Tower of Bragi. Be well, Lord Leif.
+
+/***EOF***/
 @Opening
 Dagdar: ...Tanya, it's time fer you to go. Make a break fer it on yer own—I'll keep any of 'em from followin' ya.
 Tanya: No way, Papa! I leave when you leave!
@@ -1969,7 +2011,9 @@ August: Ah, but the whole of North Thracia—the old coalition of Munster—reso
 Leif: ...Wh-Why would the North do such a thing?!
 August: Historically? Recall the war between Njörun and Dáinn's children, 100 years ago, that led to the province of Munster declaring independence from the rest of Thracia. The two have considered each other enemies ever since, and this hostility persists because they are mutually unwilling to communicate. The noble houses of Munster, in particular, remained stubborn and selfish for a century afterward.
 Leif: I... had been told that Thracia was all but a military state, that it was an infamously belligerent kingdom. But if they are merely the product of such wretched conditions... How did things all go so wrong? The North and South were a single kingdom once...
-August: It all returns to the Tragedy of the Gáe Bolg, to the misfortune that seems to befall all those who wield either of the holy lances. North Thracia has been plagued by selfish and short-sighted rulers. You must learn from their example—learn how not to govern. If nothing else, you must learn enough to not repeat your father's mistake...@Intro
+August: It all returns to the Tragedy of the Gáe Bolg, to the misfortune that seems to befall all those who wield either of the holy lances. North Thracia has been plagued by selfish and short-sighted rulers. You must learn from their example—learn how not to govern. If nothing else, you must learn enough to not repeat your father's mistake...
+/***EOF***/
+@Intro
 Leif: Is this the place...?
 August: Indeed. We're already inside the Loptians' secret temple. Stay alert, Prince Leif!
 Leif: It certainly looks how you'd expect a hidden Loptian enclave to. Everything is so dark, I can barely see past my own nose. Where could Eyvel be?
@@ -2055,7 +2099,9 @@ Eyvel: Just like me...? Are you sure you're not just confused, Finn?
 Finn: No, I'm certain. When Lord Quan fought in Lord Sigurd's army—gods rest their souls—there was a woman, a soldier, who served alongside us. She was an unmistakable sight on the battlefield... With her long, blonde hair waving in the wind, you could mistake her for a goddess. She was the eldest lady of House Yngvi, and inheritor of the holy bow Yewfelle... Her name was Brigid.
 Eyvel: Brigid...? Finn, are you saying that woman... was me?
 Finn: Yes... Well, probably.
-Eyvel: Heh... I never took you for a romantic, Finn. If I had holy blood, I'd have a Brand somewhere on my body, but I don't. You've got the wrong person, Finn. I'm just an ordinary sellsword, making my way from place to place... I'm Eyvel of Fiana.@Opening 
+Eyvel: Heh... I never took you for a romantic, Finn. If I had holy blood, I'd have a Brand somewhere on my body, but I don't. You've got the wrong person, Finn. I'm just an ordinary sellsword, making my way from place to place... I'm Eyvel of Fiana.
+/***EOF***/
+@Opening 
 The forces of the Freeblades of Fiana, the Magi, and the remnants of Leonster's nobility, though but strangers to one another, had rallied behind their common cause. They quickly cohered into a formidable fighting unit, and became a new army all their own: the Liberation Army. The time was finally right to head for Tarrah and break the siege upon the city. The Liberation Army made their way to the Imperial-Thracian border, which they would cross by passing through Noel Canyon, a small gap in the otherwise impassible mountain range...
 
 @Intro 
@@ -2122,7 +2168,9 @@ August: Just so. And Fort Dandrum is no common encampment—it's regarded as imp
 Leif: I see... Still, there's no other route that would allow us to cross the mountains.
 August: That seems to be the hand we've been dealt, my prince. If we're to arrive at Tarrah in time to act, we must take Fort Dandrum.
 Leif: Then there's little point standing around and complaining about it. The longer we wait, the stronger the fort's defenses will be. This is our only chance, and we'll make the most of it!
-^end@Intro 
+^end
+/***EOF***/
+@Intro 
 August: Prince Leif, over here!
 Leif: August?! What are you doing here?
 August: Planning your rescue, but it seems that was unnecessary. Clearly, you're safe and sound, but... you look as if your mind is in great turmoil.
@@ -2208,7 +2256,9 @@ Raydrik: Mm, it's nothing you need concern yourself with. We can't do anything a
 @Boss 
 Galzus: Fate must really have it out for you, makin' your path cross mine...
 
-Galzus: Hah! So this is it... You're a... real fascinating sort... I was even... able... to... see...@Opening 
+Galzus: Hah! So this is it... You're a... real fascinating sort... I was even... able... to... see...
+/***EOF***/
+@Opening 
 Leading his men out of the bandit-infested Dakia Forest, Leif found a most welcome sight awaiting him and his Liberation Army: The walled city of Tarrah, its shape tall and imposing, stood before them on the horizon. Under the leadership of Duchess Linoan, daughter of the late Duke of Tarrah, the city had rebelled against the Empire, refusing to be complicit in their many crimes. This rebellion had not gone unpunished: the city had already been under siege by the Imperial Army, led by Colonel Paulus, for some time. Already in dire straits before the Empire's attack had even begun, it would now be exceptionally difficult for Tarrah to recover. Initially, Tarrah had brokered its freedom by agreeing to not interfere with the Grannvale Empire's conquest of North Thracia. In exchange, Tarrah had been allowed to keep its autonomy, but even at the time, the city's freedom was thought to be as precarious and fleeting as a candle flickering in the wind...
 
 @Intro 
@@ -2305,7 +2355,9 @@ Leif: Linoan! Good, I made it in time... just barely...
 Linoan: Lord Leif! I... I can scarcely believe my eyes! You've returned! Gods above, I give thanks for your mercy...
 Leif: ...Linoan, you have my apologies. I should have come here sooner. Despite all I'd heard, I just couldn't fathom how the city I'd been raised in could be in such dire straits. I share the blame for this... Because of me, your father...
 Linoan: No, you have it all wrong! From the moment he met you, my father knew what sheltering you in Tarrah would mean... He was prepared for the consequences. If he could open the way to a new world with his death, no one could have convinced him to do otherwise. I am proud of my father, and I stand by his decision—despite the grief it brought me personally. Long have I endured the Empire's tyranny, comforted by the belief that we would meet again—and now that day has come. And yet... To endanger myself is one thing, but now I've imperiled the tens of thousands of people that call Tarrah home. I... I don't know what to do in the face of this crisis...
-Leif: Dry your eyes, Linoan. Fear not. I swear upon my sword that I'll protect both you and the city of Tarrah!@Opening 
+Leif: Dry your eyes, Linoan. Fear not. I swear upon my sword that I'll protect both you and the city of Tarrah!
+/***EOF***/
+@Opening 
 Heeding August's advice, Leif approached Leonster from the south. However, this meant crossing through Millefeuille—the so-called "Mirage Forest." Leif would soon learn first-hand how the area earned such an infamous nickname, and why people went out of their way to avoid it...
 
 @Intro 
@@ -2418,7 +2470,9 @@ Dorias: Hrm... I went too far, I admit. Please accept my apologies...
 Leif: You have my apologies as well, Princess Miranda. I must beg your forgiveness... Had I known you were being held captive here, I would've come to your aid as fast as my legs could carry me. I can't imagine how difficult it was for you, being imprisoned here for so long...
 Miranda: ...Well, admittedly, I haven't been imprisoned in this dreary monastery the whole time. Until last year, I was being kept in Alster. Count Conomor watched over me from afar, and I was comfortable enough. But then came the insurrections in Tahra and Leonster... That stoked the fires of revolution, and even in Alster, a contingent of the people plotted rebellion. Evidently, the Empire feared their position was becoming too vulnerable, and so I was moved to this dreadful place.
 Leif: Ah... Well, even one year is far too long to spend in a place like this.
-Miranda: Prince Leif, if you weren't lying about wanting my forgiveness, you must lend me your strength! I must reclaim Alster... I must undo my father's regrets, and give meaning to his meaningless death!@Opening 
+Miranda: Prince Leif, if you weren't lying about wanting my forgiveness, you must lend me your strength! I must reclaim Alster... I must undo my father's regrets, and give meaning to his meaningless death!
+/***EOF***/
+@Opening 
 Paulus: Where's Rist? I don't see him anywhere...
 Baldack: I bring word of his fate. He charged into battle early, and was defeated by the rebels. Right now, he's either dead or in chains.
 Paulus: The poor sod... I almost pity him.
@@ -2527,7 +2581,9 @@ Paulus: You have my gratitude. Yet our defeat is my responsibility...
 
 Baldack: Funny. You little rats think you can actually beat me!
 
-Baldack: Wh-What tomfoolery... How... could... this...@Opening 
+Baldack: Wh-What tomfoolery... How... could... this...
+/***EOF***/
+@Opening 
 By the time Leif had finished the last of the fighting in Leonster and departed for Ulster, the city had already fallen to the Isaachian Liberation Army led by Lord Seliph. However, the head of House Friege, King Bloom, had escaped to Conote. In the now-liberated Ulster, Leif finally met his cousin, a man who would be his friend and ally for the rest of his days: the "Scion of Light" and Lord of House Chalphy, Seliph...
 
 @Intro 
@@ -2598,7 +2654,9 @@ Leif: Anything of import inside the fort, August?
 August: Hmm... The fort is completely vacant. Seems to be deserted. By the look of it, this place was once a prison camp, but it's not in use anymore.
 Leif: I see. Then if there's nothing requiring our attention, we should hurry ahead to the River Thracia. Once we cross it, we'll be at Munster's doorstep.
 August: Hah... Easier said than done, my prince. I've no doubt the enemy is waiting for us—they likely have established a defensive line at the river. We still have some way to go before our goal. See that you don't let your guard down.
-^end@Intro 
+^end
+/***EOF***/
+@Intro 
 Veld: Raydrik proved to be even more useless than I thought... Well, if you want something done right, best do it yourself.
 Manfroy: Veld... Explain yourself!
 Veld: Archbishop Manfroy! Wh-When did you get here, Your Eminence?
@@ -2703,7 +2761,9 @@ Seliph: Then let us swear it upon this sword! We may have been born apart, but w
 Leif: And I vow just the same to you—an undying oath, and may the stars themselves perish before it is broken!
 
 @Narration 
-Thus, Leif's battle, which started in the remote village of Fiana and ended with the liberation of North Thracia, came to a close. Yet although Leif's battle had ended, the war for Jugdral has just begun. In South Thracia, Travant's kingdom has already amassed great power. In the Grannvale Empire, Crown Prince Julius, the Scion of Darkness and incarnation of Loptous, is still alive and well. Now, in year 777 of the Grannvale calendar, the world stands on the brink of a new era...@Intro 
+Thus, Leif's battle, which started in the remote village of Fiana and ended with the liberation of North Thracia, came to a close. Yet although Leif's battle had ended, the war for Jugdral has just begun. In South Thracia, Travant's kingdom has already amassed great power. In the Grannvale Empire, Crown Prince Julius, the Scion of Darkness and incarnation of Loptous, is still alive and well. Now, in year 777 of the Grannvale calendar, the world stands on the brink of a new era...
+/***EOF***/
+@Intro 
 Perne: Something's fishy... What's goin' on outside?
 Troude: Bad news, Perne. Somebody's broken into the manor. Soldiers, by the look of it.
 Perne: Imperial guardsmen, maybe...? Damn... What's happened to Salem?
@@ -2841,7 +2901,9 @@ Dryas: Dawn is breaking, and this battle has allowed the rest of the men a much-
 Perne: Well, I'll be damned! You actually got the better of ol' Troude, eh? Listen, cut him loose. Troude's had my back for a long time, now. No question in my mind he'll come along an' help the Liberation Army, too.
 
 Leif: Well, Perne proved to be a thoughtful man—and a friend of the Liberation Army as well.
-Lifis: Prince, you've got no idea who that snake really is... Ah, dammit all...@Opening 
+Lifis: Prince, you've got no idea who that snake really is... Ah, dammit all...
+/***EOF***/
+@Opening 
 Having overcome countless obstacles, Leif finally stood before the gates of Castle Munster. Better known today as "the Twofold Traitor's Lair," the castle towered above the city, intimidating the Liberation Army with its sheer size. Once, Leif had fled these very walls as a mere fugitive, but now he returned as a conqueror. He stood ready to rescue a lost loved one—and in so doing, usher in a new era...
 
 @Intro 
@@ -2935,7 +2997,9 @@ Sara: Nothing's been wasted, silly. I'm right here. I'll use the staff.
 Leif: Sara...?! You don't mean... How can you use the staff?!
 Sara: Because I know how the seal works. I mean, it was Grandfather that sealed it up in the first place, so...
 Leif: Grandfather...? It can't be... Sara, you're Manfroy's granddaughter?!
-Sara: Don't make me talk about Grandfather... I never liked him. He was such a weird man. Let's just hurry up and save your friend. Don't forget the staff, Lord Leif!@Intro
+Sara: Don't make me talk about Grandfather... I never liked him. He was such a weird man. Let's just hurry up and save your friend. Don't forget the staff, Lord Leif!
+/***EOF***/
+@Intro
 Shiva: I shouldn't have to say this, Lifis, but don't you dare lay a hand on the cleric.
 Lifis: Oh, uh... R-Right. Got it.
 
@@ -3003,7 +3067,9 @@ Lifis: We both know what'll happen! You handin' me over to them is as good as ki
 Safy: ...Lord Leif, Lifis is not an evil man. He's committed many foul acts as a pirate, yes, but he seemed genuinely repentant when we spoke earlier. Give him a chance to redeem himself in the eyes of the gods.
 Leif: ...All right. If Safy believes in you, I can give you a chance for the time being.
 
-Lifis: Hah, I've cheated death once again! Just gotta wait for the right opening, then I'll book it. But come to think of it... If that boy's really the missing Leonster heir, the Empire'd pay mighty well to hear of it... It's worth mulling over, at least. Either way, it'll have to wait until after Safy has given in to my many charms!@Opening 
+Lifis: Hah, I've cheated death once again! Just gotta wait for the right opening, then I'll book it. But come to think of it... If that boy's really the missing Leonster heir, the Empire'd pay mighty well to hear of it... It's worth mulling over, at least. Either way, it'll have to wait until after Safy has given in to my many charms!
+/***EOF***/
+@Opening 
 Already a day behind Dryas, Leif's forces were finally rested and ready. He was just about to march for Ulster when a most unexpected message was delivered to him. It was this moment that marked Leif's beginning down a long road of hardship...
 
 @Intro 
@@ -3085,7 +3151,9 @@ August: Mm... You'll have to come to your own conclusions on the matter. Though 
 August: The prince has ordered that he not be disturbed, for the time being. You may state your business to me instead.
 Man: Oh, well, uh... We fled from Alster, y'see. The Imperials were hot on our trail when your army showed up to help us! We just wanted to give the prince this Master Seal, as a way of sayin' thanks.
 August: Leave it with me. I'll deliver it to the prince, and convey your gratitude.
-Man: All right. Thank you.@Opening 
+Man: All right. Thank you.
+/***EOF***/
+@Opening 
 Leif's Liberation Army made its way to Munster through the pass formerly guarded by Fort Danzig. Before them stood the vast River Thracia, the largest river in the Thracian Peninsula. It was this river's water that blessed much of North Thracia with rich, fertile land. Just beyond its rapid waves, the city of Munster awaited...
 
 @Intro 
@@ -3158,3 +3226,4 @@ Saias: Lay down your weapons. You'll only get hurt.
 August: We've made it across the river at last.
 Leif: "A river stained red with blood." Now I understand what you meant by that. Somehow, I can feel that taint upon the river...
 August: ...Blood that has been spilled can never be returned. Wise men accept this, and see to it that blood is only spilled for a worthy cause. Bah, enough of my ruminations. Come along, Prince Leif—we must hurry to Munster.
+/***EOF***/

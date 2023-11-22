@@ -159,7 +159,9 @@ Edelgard: I'm ending this once and for all!
 Edelgard: Is it...is it over?
 
 @Narration 
-A rising flame was alight as the flow of time carved a new history for Fódlan. With the fall of Fhirdiad, the Holy Kingdom of Faerghus and the Church of Seiros both vanished into the people's memories. Fódlan was finally one unified nation, under the rule of Emperor Edelgard and the Adrestian Empire. Embracing her newfound power, Edelgard could at last set about destroying Fódlan's entrenched system of nobility and rebuild a world free from the tyranny of Crests and status. Yet beneath the surface, an unseen and silent struggle began to take shape. From her seat of power, Edelgard could at last wage war on those who slither in the dark.@Opening 
+A rising flame was alight as the flow of time carved a new history for Fódlan. With the fall of Fhirdiad, the Holy Kingdom of Faerghus and the Church of Seiros both vanished into the people's memories. Fódlan was finally one unified nation, under the rule of Emperor Edelgard and the Adrestian Empire. Embracing her newfound power, Edelgard could at last set about destroying Fódlan's entrenched system of nobility and rebuild a world free from the tyranny of Crests and status. Yet beneath the surface, an unseen and silent struggle began to take shape. From her seat of power, Edelgard could at last wage war on those who slither in the dark.
+/***EOF***/
+@Opening 
 After a narrow victory over the Knights of Seiros at Garreg Mach, the Black Eagle Strike Force hopes to secure a route to Fhirdiad, the Kingdom capital.
 
 @Dialogue 
@@ -495,7 +497,9 @@ Petra: This is the only path for the goal we are reaching for, and so we must ke
 Linhardt: A cornered church... Hmm, well, count me out from any forbidden sorcery that can destroy whole cities. If only there was an easier way to get more information on Crests and Relics...
 Ferdinand: You are as negative as usual, Linhardt. We have but one order. To emerge victorious!
 Bernadetta: We're going to win this! We really are! After all, if we lose, everything will be terrible forever! Oh, no way! We can't let that happen!
-Caspar: There's a lot to worry about, but...I'm sure it will all work out! We'll win no matter what!@Opening 
+Caspar: There's a lot to worry about, but...I'm sure it will all work out! We'll win no matter what!
+/***EOF***/
+@Opening 
 Having crushed the Alliance's army and captured the Great Bridge of Myrddin, the Imperial army prepares to attack Derdriu--the Alliance's base of operations.
 
 @Dialogue 
@@ -859,7 +863,9 @@ Linhardt: Crushing wouldn't yield a lot of pieces, but I guess it would get the 
 Bernadetta: Oh no, are we fighting Lady Rhea? But she's scary! And she'll be really angry! But no way she can stay in her spooky beast form all the time...right?
 Dorothea: If she could, she would have come and attacked the monastery as many times as she wanted.
 Ferdinand: It may be wishful thinking, but perhaps it is a power that she can only access when the situation is dire. But whether she is the archbishop or the Immaculate One, we cannot be stopped! Half remains, but half is finished... We are certainly moving forward.
-Hubert: No one can stop us from pushing forward. No one.@Opening 
+Hubert: No one can stop us from pushing forward. No one.
+/***EOF***/
+@Opening 
 With Derdriu now under Imperial control, the Leicester Alliance ceases to exist, and its remaining lords ally with the Empire. The Black Eagle Strike Force, now having conquered all of eastern Fódlan, confidently moves to invade the Kingdom.
 
 @Dialogue 
@@ -1242,7 +1248,9 @@ Edelgard: Excellent job, everyone. The battle is over now.
 Edelgard: Professor, the battle is over now. 
 Edelgard: While we have sustained heavy losses, our foe has suffered far more.
 Hubert: Although not exactly as planned, a win is a win. It may be safe to say that there will be no more obstacles on our way to the next battle.
-Edelgard: We will break through the Tailtean Plains and then set course for Fhirdiad, the Kingdom Capital. The final chapter of our fight with the Kingdom and the church is close at hand.@Opening 
+Edelgard: We will break through the Tailtean Plains and then set course for Fhirdiad, the Kingdom Capital. The final chapter of our fight with the Kingdom and the church is close at hand.
+/***EOF***/
+@Opening 
 It is Imperial Year 1185. Half a decade has passed since Emperor Edelgard ascended the Imperial throne, yet the continent of Fódlan still remains lost in a tempest of turmoil and bloodshed. In the Holy Kingdom of Faerghus, King Dimitri has welcomed Archbishop Rhea and her knights, who were driven out of Garreg Mach, to the Kingdom capital. As they work to build a unified front, the war with the Empire rages on to the west. Meanwhile, Claude, leader of the Alliance, staves off Imperial intervention by strategically stirring up conflicts between Leicester lords in an effort to feign neutrality. As events unfold, Edelgard and her Black Eagle Strike Force begin to take action in an attempt to break the war's current state of deadlock.
 
 @Dialogue 
@@ -1575,7 +1583,9 @@ Dorothea: Judith of Daphnel... What a magnificent warrior. I'm happy to have the
 Petra: When there is something you must not be conceding, you must keep fighting! The fighting has been continuing for five years, but now I am again witnessing the professor's power.
 Bernadetta: I hate fighting! But...with the professor here...maybe it's slightly less terrible? Oh, but everyone is working so hard! Stop it, Bernie, you can't be the only one complaining!
 Hubert: I'm glad to see everyone so inspired. It seems the reappearance of the professor has done much to raise your morale.
-Edelgard: Do you not feel the same, Hubert? Come now, be honest with yourself. Now, we must take advantage of the situation and blaze ahead. Our path is still a long one.@Opening 
+Edelgard: Do you not feel the same, Hubert? Come now, be honest with yourself. Now, we must take advantage of the situation and blaze ahead. Our path is still a long one.
+/***EOF***/
+@Opening 
 Together, the people of Fódlan relish the beauty of the brilliant moon overhead as another year ends. They recall sad partings and new acquaintances alike, but each person must still walk their chosen path alone. With each day, the presence of spring grows stronger and yet a lone moon still haunts the sky. A silent reminder, perhaps, of some inescapable truth...
 
 @Dialogue 
@@ -1837,7 +1847,9 @@ Hubert: Professor, take cover!
 Edelgard: Professor!
 
 @Narration 
-In Imperial Year 1181, the new Adrestian emperor, Edelgard von Hresvelg, led a strategic assault against the monastery at Garreg Mach. Though her own losses were great, her foes had no choice but to surrender. Archbishop Rhea commanded the Knights of Seiros, leading from the front lines against the Imperial army. After a hard fought battle, she was forced to retreat to Fhirdiad, the capital of Faerghus, where she must now plan her next move. With this single attack, the Adrestian Empire officially launched its offensive against the Holy Kingdom of Faerghus and the Leicester Alliance. The unification of Fódlan has begun.@Opening 
+In Imperial Year 1181, the new Adrestian emperor, Edelgard von Hresvelg, led a strategic assault against the monastery at Garreg Mach. Though her own losses were great, her foes had no choice but to surrender. Archbishop Rhea commanded the Knights of Seiros, leading from the front lines against the Imperial army. After a hard fought battle, she was forced to retreat to Fhirdiad, the capital of Faerghus, where she must now plan her next move. With this single attack, the Adrestian Empire officially launched its offensive against the Holy Kingdom of Faerghus and the Leicester Alliance. The unification of Fódlan has begun.
+/***EOF***/
+@Opening 
 With the capture of Arianrhod complete, the Imperial army moves to invade the Kingdom capital. They plot to send troops toward now vulnerable Fraldarius territory and plan to attack Fhirdiad from two sides.
 
 @Dialogue 
@@ -2290,3 +2302,4 @@ Byleth: For Dimitri?
 Edelgard: Yes. The thirst for revenge that imprisoned him was the result of my uncle's strategy. He believed that I was the cause of everything...and he lost sight of his path as king. There was nothing I could do to save him. And so, the very least I could do was--
 Byleth: Are you crying?
 Edelgard: No. The Edelgard who shed tears died many years ago. Everything that's happened...it's all just part of the ebb and flow of history. The Tragedy of Duscur, our days at the academy, Father's death, and the five years you were gone... After all of that, at long last, we're here at this point in time. I hope you'll stay by my side until the very end. It's time for humanity to take this world back.
+/***EOF***/

@@ -317,7 +317,9 @@ Boey: Huh?!
 Mae: *screams*
 Celica: NO!
 Jedah: Calm yourself, Your Highness. I've merely sent them below. As for your preparations, I fear they will take some time yet. You can while away the hours here watching the boy suffer.
-Celica: Alm? No!@Dialogue 
+Celica: Alm? No!
+/***EOF***/
+@Dialogue 
 Alm: ......
 Clive: A word, Alm?
 Alm: Clive! Did we receive a reply to our petition?
@@ -789,7 +791,9 @@ Alm: Oh, gods! Celica! She set out in search of Duma in order to save Mila.
 Mycen: A passage beneath this castle leads to the Temple of Duma. Go, Alm. Go and finish this. Return the mad god Duma to the darkness... from whence he came.
 
 @Narration 
-His whole story was a lie. Alm’s youth... His days of training with Mycen... All were but calculations in a far-reaching plot by his lord father, Emperor Rudolf. Alm had taken his father’s life, and that sadness would stay with him always. But destiny would not permit this son of the Brand to simply walk away. Valentia lay yet in the grip of Duma— the wicked god, the War Father—as well as Alm’s dear Celica, who would become Duma’s willing servant...@Intro 
+His whole story was a lie. Alm’s youth... His days of training with Mycen... All were but calculations in a far-reaching plot by his lord father, Emperor Rudolf. Alm had taken his father’s life, and that sadness would stay with him always. But destiny would not permit this son of the Brand to simply walk away. Valentia lay yet in the grip of Duma— the wicked god, the War Father—as well as Alm’s dear Celica, who would become Duma’s willing servant...
+/***EOF***/
+@Intro 
 Celica: Ah... Quiet, everyone!
 Garth: Heh heh...
 Celica: That must be Garth and his men. Probably best to avoid them. Let’s go around that way.
@@ -1223,7 +1227,9 @@ Old Timer: By the Mother! That circlet! Symbol of the Zofian throne, it is! Then
 Old Timer: Er, one small issue, Your Highness. Openin’ this here gate isn’t enough what to let water flow freely. You also have to open the western gate.
 Celica: The western sluice gate, you say? That won’t be a problem.
 Old Timer: Oh? Then you’ve news from the west?
-Celica: Not exactly—but I can’t imagine Alm would let this situation continue. He’ll see the gate opened. I’m sure of it. ...Won’t you, Alm?@Dialogue
+Celica: Not exactly—but I can’t imagine Alm would let this situation continue. He’ll see the gate opened. I’m sure of it. ...Won’t you, Alm?
+/***EOF***/
+@Dialogue
 Berkut: It’s not possible... Alm is the emperor’s true son? Which makes him the rightful successor to the imperial throne. All this time... All the effort! What has it all been for?! ...No. It isn’t true. It can’t be. I refuse to believe it. Nothing but lies... Lies, lies, lies, lies, LIES! [notices an erupting flame] Is that...an altar? How did I get here? What’s happening?
 Duma's voice: Heed me...
 Berkut: Who are y—
@@ -1629,7 +1635,9 @@ Alm: We can...and we will. I think Mila and Duma gave us one last gift... The st
 Celica: Gladly.
 
 @Narration
-And so the long war drew to a close. After countless sacrifices, at last, a new peace dawned in Valentia. Was it inexorable fate that saw this conflict erupt? No man or woman alive can say. Only one truth is clear: War will come again, when man grows proud and slothful once more, and its flames will devour one and all, raging until the very earth itself lies scorched and bare of life. For whatever madness lay in the hearts of gods... a darkness deeper still beats wild in the hearts of man...@Cutscene 
+And so the long war drew to a close. After countless sacrifices, at last, a new peace dawned in Valentia. Was it inexorable fate that saw this conflict erupt? No man or woman alive can say. Only one truth is clear: War will come again, when man grows proud and slothful once more, and its flames will devour one and all, raging until the very earth itself lies scorched and bare of life. For whatever madness lay in the hearts of gods... a darkness deeper still beats wild in the hearts of man...
+/***EOF***/
+@Cutscene 
 Alm: "Once upon a time, there was a god named Duma and a goddess named Mila who fought each other bitterly for an age."
 Celica: Hey, why did Mila and Duma have to fight so much? Couldn't they just say they were sorry?
 Alm: Let’s promise we'll never end up like that, okay?
@@ -1825,7 +1833,9 @@ Celica: Destiny... So be it.
 Once, the gods themselves walked these lands. Our continent of Valentia was home to two of them: sibling gods named Duma and Mila. The elder god, Duma, believed mankind must be ruled by strength, lest we become corrupt, while his sister, Mila, believed we should be free to pursue lives of pleasure and comfort. The two clashed ceaselessly. It was a long, dark age before the bitter conflict was resolved with the binding of a divine accord. Valentia would be divided in twain—with Duma ruling the north and Mila ruling the south—and in order to secure a lasting peace, each pledged never to violate the other’s dominion.
 For millennia, this accord was honored, and peace did indeed reign. In time, the Kingdom of Zofia, which Mila founded in the south, prospered with the goddess’s love and blessings. Hers were a happy people who knew no toil and lived free of hardship, but Mila's gifts spoiled the Zofians, and it was only a matter of time before they sank into depravity.
 Meanwhile, in the north, Duma had built his own empire. Tempered by harsh lands and the even harsher teachings of their fierce god, the people of Rigel had grown strong. But in their quest for power, the Rigelians had let their hearts grow cold and numb to all kindness.
-Both halves of the continent were in a fragile state, and the cracks had begun to show. And now, Valentia lies on the cusp of a terrible war that could forever alter its history...@Conversation 
+Both halves of the continent were in a fragile state, and the cracks had begun to show. And now, Valentia lies on the cusp of a terrible war that could forever alter its history...
+/***EOF***/
+@Conversation 
 Scholarly Man: I am a researcher unearthing shocking new truths from Zofia’s history. ...Or I very well might be, if I had any of the resources I needed. Might I ask your help in this matter? You are familiar with the underground cemetery at the Deliverance hideout? Well, at one corner of that site lies the royal grave where Zofia’s kings sleep. At the risk of sounding grave-robby, I desire the Lima Armlet from it. But the place is crawling with Terrors, and I...am not the Terror type. Yet those Terrors are drawn to riches. It’s said they raid the graves for gold. One may drop the armlet I require. Bring it to me and I’ll pay you well!
 
 Scholarly Man: Ah! The Lima Armlet! Precisely as the records describe it... It bears the royal emblem of the late king himself. If I can translate this inscription, it may even offer up new insights. Er, pardon me for getting so excited. I’m only eager to return to work. This isn’t a huge sum, but please, take it. You’ve done me a great service.
@@ -2262,6 +2272,8 @@ Jedah: So, they’ve opened the sluice. This is a fortuitous and most welcome tu
 
 @Narration 
 Through the combined efforts of Alm and Celica, the empire’s plans to flood Zofia were thwarted. The arc of her destiny now clear, Celica embraced her identity and set forth. Meanwhile, Alm, having learned his friend was in truth Zofia’s Princess Anthiese, renewed his own oath to defend Zofia from the Rigelian Empire. However, a dark creature had his own plans for these fated children who bore the Brand...
+
+/***EOF***/
 @Dialogue 
 Mycen: Well done, Alm. We’ll end today’s training here. Your swordsmanship has come a long way. I’ve always known you had talent.
 Alm: You really think so? You’re not just saying that, are you, Grandfather?
@@ -2906,7 +2918,9 @@ Massena: Hold your tongue, Master Jedah.
 Jedah: Why should I? I merely speak the truth.
 Rudolf: You said the leader of this “Deliverance” is named Alm, correct?
 Soldier: Yes, Emperor. He assumed command after Sir Clive of the Knights of Zofia stepped down.
-Rudolf: Did he now...@Cutscene
+Rudolf: Did he now...
+/***EOF***/
+@Cutscene
 Alm: Rudolf! DIEEE!
 Celica: Alm!
 Alm: You took...everything!  Everything that I ever loved! You took Zofia! You took my friends! And now...Celica too!
@@ -3304,7 +3318,9 @@ Celica: Enough! Just...enough. Go fight your war if it makes you happy! I’m go
 Alm: Celica... You’re one to talk about stubbornness, geez... Ah, damn it all. I didn’t even get the chance to ask her about the village... About why she had to leave. Oh, Celica... I had so much I wanted to say to you. How did it end up like this?
 
 @Narration 
-Narrator: Alm and Celica’s heartfelt reunion was dashed by heated words, and once again, the two were parted. One chose the battlefield... the other, the Mother’s succor. And while they both sought to attain peace in their own way, their chances of finding it together seemed to grow increasingly slim.@Dialogue 
+Narrator: Alm and Celica’s heartfelt reunion was dashed by heated words, and once again, the two were parted. One chose the battlefield... the other, the Mother’s succor. And while they both sought to attain peace in their own way, their chances of finding it together seemed to grow increasingly slim.
+/***EOF***/
+@Dialogue 
 Alm: Good. You’re all here. Let’s be on our way.
 Tobin: Uhm... Are you sure about this, Alm?
 Alm: Am I sure about what?
@@ -3387,3 +3403,4 @@ Mercenary: A report, sir. A cliff has given way along the eastern ridge. The rou
 Alm: The eastern ridge? That’s the direction Celica was heading. Oh, Celica, please be all right.
 
 Peddler: S’cuse me, sir! You’re Alm, yes? I’m a traveling peddler of sorts. Bit’o this and a scrap’a that. Occasionally, I even do deliveries! ...Here. This is from a lady of the cloth. “Mila's Turnwheel,” she called it. Looks mighty fancy, so it does! That’s all I know, so you’ll have to figure out the rest on your lonesome. And with that...another job well done! Safe travels now, eh?
+/***EOF***/

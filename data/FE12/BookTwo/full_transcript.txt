@@ -48,7 +48,9 @@ Katarina: ...Very well.
 Clarisse: ...... Reese... Wait... Don't go... I changed my mind... stay with me. I don't want... to be alone...
 Katarina: Clarisse... I'm right here. I'll always be by your side. After all, I'm your big sister.
 Clarisse: Bah! You have to be annoying, till the end... ...Sis... ter... ... ... ...
-Katarina: ...Clarisse...@Opening 
+Katarina: ...Clarisse...
+/***EOF***/
+@Opening 
 Marth and the others once again moved out from Altea, and headed towards the imperial capital of Millennium Court. But, along their way, they passed through the Kingdom of Gra, a land allied to Archanea. In the previous war Gra sided with the Dolhr Empire, which resulted in their king, Jiol, dying in battle and the destruction of the kingdom. The country was once a part of Altea, but they sided with Archanea after listening to Hardin's orders. Hardin found King Jiol's daughter, Princess Sheena, and allowed her to ascend the throne, and he then ordered reinforcements from Gra. Sheena received wild support from the citizens of Gra. To them, Sheena was their only hope. The youths all volunteered to become soldiers. They were happy to move out and have the chance to defeat their bitter enemy, Altea. But their dreams were shattered in an instant... Before the fast approaching Altean elites, Gra's soldiers lost all morale, and fled for their lives.
 
 @Intro 
@@ -127,7 +129,9 @@ Frost: Oof... Seems I've finally caught up.
 Kris: Hmm, and you are?
 Frost: My name is Frost. I am a priest of Macedon. When Macedon was taken over by those warmonging rebels... You came and saved our country. Thanks to you, my family's now safe. I have come to return the favor.
 Kris: I see. But hasn't it been some time since Prince Marth freed Macedon...?
-Frost: Your army marched at speed and this old geezer just couldn't keep up. Eventually I lost sight of you... But then I heard that Marth had freed Altea as well, and I finally managed to catch up with you here, in Gra. I am old now, but I can still fight. Please, allow me to to join you.@Opening 
+Frost: Your army marched at speed and this old geezer just couldn't keep up. Eventually I lost sight of you... But then I heard that Marth had freed Altea as well, and I finally managed to catch up with you here, in Gra. I am old now, but I can still fight. Please, allow me to to join you.
+/***EOF***/
+@Opening 
 Soon after reclaiming the Fane of Raman, Marth's army fears pursuit from the Archanean army and escapes towards Chiasmir Bridge. However, a new enemy attacks the Altean army upon reaching the central islet.
 
 "The Archanean army is coming from the north; we'll be surrounded like this."
@@ -263,7 +267,9 @@ Kris: Erm... Yes, hurry up and escape!
 Kris: No... If it's all right with you, I'd like to hold on to it a little longer.
 Wendell: Yes, that would be splendid. ...By the way, should I be hurrying too?
 Kris: Erm... Yes, hurry up and escape!
-^end@Dialogue
+^end
+/***EOF***/
+@Dialogue
 Marth: The war is, at long last, over. Thank you, my friends. My words cannot express my thanks...
 Kris: Sire, you did it...
 Luke: I did it! And thus marks the end of the Legend of the Knight Luke!
@@ -467,7 +473,9 @@ Kris: Even if the world doesn't know, you do, sire, and that's enough for me. I 
 Marth: Kris... You're... ...Why, I wonder? Ever since we met, I felt a special connection with you. Fate sent you to me... I can't help but think that. Thank you, Kris. Please stay with me. Kris, you're my other half, my true friend...
 
 @Narration 
-Thus, the long, tragic battle that would later be called the 'War of Heroes' finally came to an end. The seven kingdoms were unified under Prince Marth of Altea, and as the United Kingdom of Archanea was established, an era of peace began. The tales of the heroes who took part in this war brought excitement and tears to the later generations. Chronicles of the Archanean War of Heroes.. This is a story of love and courage, about the young warriors who fought with the continent's fate at stake...@Intro 
+Thus, the long, tragic battle that would later be called the 'War of Heroes' finally came to an end. The seven kingdoms were unified under Prince Marth of Altea, and as the United Kingdom of Archanea was established, an era of peace began. The tales of the heroes who took part in this war brought excitement and tears to the later generations. Chronicles of the Archanean War of Heroes.. This is a story of love and courage, about the young warriors who fought with the continent's fate at stake...
+/***EOF***/
+@Intro 
 Marth: Kris, just ahead is the Dark Pontifex, Gharnef--possibly the strongest sorcerer alive... or dead. Kris...
 Marth: Your resistance to magic is impeccable. You might just be our strongest hope of defeating Gharnef. Yes. If you are there, then... we stand to win.
 Kris: Sire... I'm honored. I'll give it my all!
@@ -496,7 +504,9 @@ Gharnef: Heh heh heh... Allow me demonstrate Imhullu's might...
 Kris: I will not let Prince Marth die. I won't let the likes of you lay even a finger on him...!
 
 @End 
-Kris: Sire, this way. More stairs!@Opening 
+Kris: Sire, this way. More stairs!
+/***EOF***/
+@Opening 
 Marth and his friends follow Xane, marching towards the northern lands. Before their eyes are walls of towering mountains, sheer cliffs, and deep valleys... After passing countless mountains, they are assaulted by scorching heat. Magma flowing like a river and rumbling like thunder blocks their way. Truly a dreadful scene, as if straight out of a nightmare.
 
 @Intro 
@@ -555,7 +565,9 @@ Robert: We were once knights of the Sable Order of Grust, but we have now separa
 Leiden: We threw away our ranks as knights, and now live to protect those who are powerless.
 Marth: The Sable Order of Grust... But in the previous war, we fought against the Sable Order as enemies. Despite that, you're willing to join our army?
 Belf: Our general wished for us to protect the weak, regardless of nationality. He is gone now, so we would like to fulfill his final wish.
-Marth: ............ I see. You seem to speak truly. Very well. I'd like you to fight alongside us.@Opening 
+Marth: ............ I see. You seem to speak truly. Very well. I'd like you to fight alongside us.
+/***EOF***/
+@Opening 
 Marth was unable to reunite with Princess Minerva, and so, in order to help Ogma and the Grustian royal children, he decided to visit Wendell, who was once the children's guardian.
 
 However, the "Holm Beach" where Wendell resides is dominion of the infamous Macedonian Vikings. Countless pirates await in Marth's path. Will Marth be able to safely rescue the children...?
@@ -648,7 +660,9 @@ Jagen: Yes. I do believe that would be a good idea.
 
 Kris: No, it's alright. I'm quite fond of my new hair... Or lack of it, rather.
 Jagen: I-is that so? Well, if that's your wish, then I can hardly complain.
-^end@Opening 
+^end
+/***EOF***/
+@Opening 
 Once upon a time, the region of Macedon was a territory under Dolhrian rule. A century ago, the dragonkin rulers sent many slaves to these wild forests, to excavate ruins and build a country. Many slaves were forced to work to their limits, barely fed, and then slaughtered.
 A young man stood up against such tragic conditions. Iote was his name. He and his companions fled to the forests and fought, astride wyverns, to free the slaves. After Dolhr's demise, the slaves established their own country in these now abundant lands. And the hero Iote was chosen as their first king. And so was born the Kingdom of Macedon, later feared as the domain of dracoknights.
 However, the might Macedon was stripped of Prince Michalis, said to be the second coming of Iote, and is now on the brink of losing Princess Minerva, the so-called "Red Dragon."
@@ -760,7 +774,9 @@ Jagen: We're not certain, but we've received information that might lead us to t
 Marth: The northern mountains? What could they be after up there?
 Jagen: Rumors say they are pursuing our former allies in the War of Shadows... And I don't believe they're after a friendly chat with them either.
 Marth: I see. Then we cannot ignore this lead, especially if lives are at stake. Jagen, Kris, we shall pursue the enemy.
-Jagen: Agreed. Let us prepare to march, with haste.@Opening 
+Jagen: Agreed. Let us prepare to march, with haste.
+/***EOF***/
+@Opening 
 A stone bridge leading up the tall rocky mountain. This stone bridge seems to stretch to the heavens, as it spirals around. From the rocks fearful roaring and breathing sounds can be heard, as if the mountain was alive. The Dragon's Table... It is asn ancient ruin of the dragon tribe, and the place where the Divine Dragon King, Naga, sealed away the Earth Dragons. Now, after a period of 600 years, the Earth Dragons are currently awakening, and countless evil demons are being born...
 
 @Intro 
@@ -788,7 +804,9 @@ Kris: Yes, I think I will remove it for this battle.
 Marth: Excellent choice. Well, let's hurry!
 
 Kris: No, I rather like it. It's so toasty.
-Marth: I-I see. Well then, let's go!@Opening 
+Marth: I-I see. Well then, let's go!
+/***EOF***/
+@Opening 
 It is the second month of the third year in the history of the empire... Archanea's holy city of Pales is in the midst of a time of mysterious silence. Archanea, because of a civil war begun by the paladin Midia, has arrested many capable knights. However, Archanea still has twice the military power of Altea to fill the streets of Pales with. It has already been nearly a whole year since the expedition to Grust. And now, at long last, the final battle, which would decide the fate of both countries, was about to begin...
 
 @Intro 
@@ -875,7 +893,9 @@ Boah: Mmm... Of course we kept that a secret, and we also persuaded Nyna to hide
 Marth: I can't believe all that happened. ..... Where is Nyna now?
 Boah: When Hardin discovered that she had taken the Fire Emblem, he had her confined in her room. After that, she would still communicate in secret with me. However, Hardin found out and then wounded me. He also handed Nyna over to Gharnef.
 Marth: Gharnef...!?
-Boah: Mmm... Gharnef had always wanted to take Nyna. He said that the resurrection of the dark dragon required the blood of noble clerics... And so... He took Nyna... To use her as a live sacrifice... Lord Marth, I'm already done for. I will give my Thoron and Physic to you. I beg of you, please rescue Nyna. Even if Archanea is destroyed it no longer matters... I only wish for Nyna to be safe...@Opening 
+Boah: Mmm... Gharnef had always wanted to take Nyna. He said that the resurrection of the dark dragon required the blood of noble clerics... And so... He took Nyna... To use her as a live sacrifice... Lord Marth, I'm already done for. I will give my Thoron and Physic to you. I beg of you, please rescue Nyna. Even if Archanea is destroyed it no longer matters... I only wish for Nyna to be safe...
+/***EOF***/
+@Opening 
 Seeking the Lightsphere, Marth and his friends headed for the Tower of Thabes.
 
 Thabes is an ancient city buried under the sands, along with many treasures. The legend of Thabes, city of illusion, lured many adventurous men to the desert. However, in the end... not one of them ever returned. As the sages once said... stay clear of Mamorthod, the desert of death. There lies the cursed Dark City.
@@ -944,7 +964,9 @@ Marth: Yes, that's probably a good idea.
 Kris: No. I'll keep fighting with it on.
 Marth: I-is that so...? Does it not bother you in any way?
 Kris: Not at all. I can fight just fine with it on.
-Marth: I-I see. Well, if that's what you've decided then I have no problems with it.@Intro 
+Marth: I-I see. Well, if that's what you've decided then I have no problems with it.
+/***EOF***/
+@Intro 
 Jagen: Sire, Lord Horace should be inside this fort.
 Kris: It seems the enemy has already infiltrated the building. Please be careful, sire.
 Marth: All right. Let us fight with caution.
@@ -1009,7 +1031,9 @@ Katarina: ...
 Clarisse: Reese, you sure are useless, aren't you? Don't worry, Lady Eremiya. I'll get rid of them.
 Eremiya: My, Clarisse is such a good little girl. Completely different from a certain failure.
 Clarisse: Ah, Lady Eremiya... Your praise makes me happy.
-Katarina: ...@Intro 
+Katarina: ...
+/***EOF***/
+@Intro 
 Jagen: Sire! We've been ambushed by the enemy! Enemy troops are waiting for us ahead.
 Marth: Alright. Jagen, Kris, make preparation for battle.
 
@@ -1097,7 +1121,9 @@ Marth: Thank you, Jagen, Kris. It's only because you're with me that I can walk 
 Clarisse: Oh dear. Legion, it seems your clone died.
 Legion: Legion was no clone. Legion was our brotherses. We are allses brotherses.
 Clarisse: Ugh, whatever. So, are you the real Legion? Or just another clone?
-Legion: Who knows? Legion doesn't knowses. Uwee hee hee! The Alteans are strong-strong. Next times, we'll bring ALL our brotherses. Real Legion and brotherses, together we'll kills Marth. Uwee hee!@Opening 
+Legion: Who knows? Legion doesn't knowses. Uwee hee hee! The Alteans are strong-strong. Next times, we'll bring ALL our brotherses. Real Legion and brotherses, together we'll kills Marth. Uwee hee!
+/***EOF***/
+@Opening 
 Having liberated Grust, Marth and his companions accepted Wendell's request and stopped by the Fane of Raman in search of the missing orbs. However, the ancient temple built to worship Naga had been wrecked by constant warring, and was now nothing more than a den of thieves.
 
 "They're escaping with the temple's valuable treasures. We must catch them! Stay clear of the free company guarding Chiasmir Bridge. We cannot defeat them. It seems a dancer is lost inside the forest. We must find her before the bandits do!"
@@ -1193,7 +1219,9 @@ Wendell: No, no, don't be shy. Here you go. And do remember to watch your health
 Kris: You're a good person, Lord Wendell. I want to be more like you... Oh yeah, if I wear this hat for a while, I wonder if my hair will start to look like his? And then, maybe I'll be a bit more like Lord Wendell!
 
 Kris: No thank you, but I appreciate the gesture. I'll be just fine.
-Wendell: I understand. But, do remember to watch your health.@Intro 
+Wendell: I understand. But, do remember to watch your health.
+/***EOF***/
+@Intro 
 Jagen: Sire, we have detected an enemy presence in the mountains. It seems there is a battle ongoing.
 Marth: Alright. Jagen, Kris, let us hurry with our preparations!
 
@@ -1249,7 +1277,9 @@ Wrys: Then, please sit down. Now, close your eyes...
 
 Kris: I-I think I'll pass.
 Wrys: I see. It's a pity, but perhaps it's for the best. In any case, Kris, I'm counting on you from now on.
-^end@Opening 
+^end
+/***EOF***/
+@Opening 
 Saint Archanea is the largest country on the continent. Its golden capital of Millennium Court has bathed in 600 years of proud history. Under the attack of Altea's allied army, it fell in just one day. The citizens of Archanea welcomed them as liberators, and supported them to their fullest. They also mentioned of their hatred towards Hardin and his personal guards. Everybody now calls Hardin the Dark Emperor. This was in hatred of Hardin, the murderer of countless people. If possible fighting would be avoided, but it as already reached this stage... Marth ra
 
 @Intro 
@@ -1332,7 +1362,9 @@ Marth: ......
 Katarina: Please, allow me to go. I'll be fine. I don't believe for a moment that this will atone for everything I've done... But while I live I want to help in any way that I can.
 
 Kris: ......Sire. Please, let me go. I'll crush them-- I won't allow such a travesty to stand.
-Marth: I understand, Kris. I, too, cannot allow a situation like this to carry on. Let's go to the orphanage then.@Opening 
+Marth: I understand, Kris. I, too, cannot allow a situation like this to carry on. Let's go to the orphanage then.
+/***EOF***/
+@Opening 
 This truly is an unimaginably treacherous journey. 5000 meters... No, higher than that. Looking down, a sea of clouds can be seen. They have reached the summit of the cold mountain peak. Breathing is difficult... Dizziness is felt... Their vitality is fast approaching its limits.
 
 @Intro
@@ -1391,7 +1423,9 @@ Marth: Out here? Could it be the barbarians? Or perhaps it's the assassins...
 Jagen: In any case, this area is almost entirely uninhabited. So it can't be any old people... To make matters worse, the snow is becoming heavier... Fighting will be difficult in this weather.
 Marth: But if there are allies...
 Kris: Indeed. We cannot abandon them. If there are allies that is...
-Marth: Then we'll just have to find out for ourselves, before the battle is over. Let's go!@Intro 
+Marth: Then we'll just have to find out for ourselves, before the battle is over. Let's go!
+/***EOF***/
+@Intro 
 Luke: Ahh... This forest sure is nice and peaceful.
 Kris: Yeah.
 Luke: Just walking around here makes me feel rejuvenated, in a way.
@@ -1465,7 +1499,9 @@ Marth: I've seen your skill, and I agree wholeheartedly with him. Why, the both 
 Kris: Royal Guards, sire?
 Marth: Though the stories tell of me as a great hero, it is not so. There is only so much that I can do by myself. That much, I know to be true. The War of Shadows was won with the aid of comrades who wished for the same future as I. 'Twas not a lone romp across the land. I realized, whether in peace or war, I need people I can trust--young, dynamic soldiers who can support and guide me.
 Kris: B-but the Royal Guard exists to protect the king... It is a role of immense importance... Are we even fit for such an esteemed duty?
-Marth: Yes, I believe so. I want you to be my Royal Guard. Jagen feels the same as I. But... don't feel obliged to promise me; I won't think ill of you if you decline. And so, I ask this of you once more. You need not answer right away. It's quite alright. Please think it over carefully.@Opening
+Marth: Yes, I believe so. I want you to be my Royal Guard. Jagen feels the same as I. But... don't feel obliged to promise me; I won't think ill of you if you decline. And so, I ask this of you once more. You need not answer right away. It's quite alright. Please think it over carefully.
+/***EOF***/
+@Opening
 Khadein is an independent city-state, taking orders from no foreign nation. The Archmage has many pontifices under him, governing according to their counsel. In the previous war, Pontifex Gharnef allied with Dolhr and dragged Khadein into war, and the city suffered great damage as result. As Khadein had lost all its pontifices, Wendell became its Archmage and started rebuilding the city. However, Wendell left on a journey to fulfill a mission given to him by Gotoh. He then left Khadein in the care of two young men. They were two skilled and promising young mages... Merric and Arlen.
 
 @Intro 
@@ -1562,7 +1598,9 @@ Jagen: Sire, we've just received new information. It concerns the assassins' mov
 Marth: Lord Horace...! Kris, Lord Horace is an Archanean knight in Princess Nyna's service. He was our ally.
 Marth: Lord Horace! I am Marth of Altea. I ask that you lay down your arms...
 Horace: ...... Is Princess Nyna... safe?
-Marth: We cannot abandon Lord Horace. Jagen, Kris, let's hurry!@Intro 
+Marth: We cannot abandon Lord Horace. Jagen, Kris, let's hurry!
+/***EOF***/
+@Intro 
 Luke: Sigh.
 Ryan: What's wrong, Luke?
 Luke: Don't you think it's a crying shame that there aren't any cute and caring clerics around?
@@ -1659,7 +1697,9 @@ Elice: Even as we speak, somewhere unknown to us, our people's lives are being l
 Kris: Yes, that's true... Even the most excellent of kings is not an omnipotent god. A king is no more than human, and there are limits to what he can do.
 Elice: Yes. Precisely. Most people realize this and can come to terms with that reality. But Marth cannot do that... He truly thinks that he can save everyone. In war, losing just one companion is unbearable for him... He suppresses his feelings with all his willpower, but I know that inside, his heart breaks and bleeds...
 Kris: ......
-Elice: In this cruel world, it will become increasingly difficult for him to continue to hold these ideals... Kris, if some day you should achieve knighthood... Please, protect him somehow and keep his ideals safe...@Opening 
+Elice: In this cruel world, it will become increasingly difficult for him to continue to hold these ideals... Kris, if some day you should achieve knighthood... Please, protect him somehow and keep his ideals safe...
+/***EOF***/
+@Opening 
 Leaving painful memories behind, Marth and his companions left Grust. They landed in Macedon; their new mission to rescue Princess Minerva. After the War of Shadows, Macedon was led by Minerva, who exiled the oppressive generals and attempted to reform the military. However, the influential General Rucke opposed Minerva's peace-seeking ways. He assembled the exiled officers to instigate a coup d'etat. Caught unprepared, Minerva was captured by Rucke's followers, and his rebel army seized control of Macedon. Then, they dispatched powerful dracoknights to guard the country's forested borders.
 
 @Intro 
@@ -1739,7 +1779,9 @@ Kris: The Fire Emblem... I heard that in the last war, Princess Nyna entrusted y
 Marth: Indeed. I looked after this as Archanea's representative in the last war. But why give this to me now? Especially at a time when Archanea has so much influence under Emperor Hardin's reign? In this peaceful age, why is Princess Nyna giving me the "Champion's Proof"...?
 Linde: I don't understand either. Princess Nyna didn't explain why, just that I had to give it to you... I remember her eyes seemed so sad... I think she may have been crying...
 Marth: Princess Nyna crying?! What on earth has been happening...? Linde, after this battle ends, I will go see Princess Nyna. Until then, I want you to remain with us.
-Linde: Yes, Prince Marth!!@Intro 
+Linde: Yes, Prince Marth!!
+/***EOF***/
+@Intro 
 Luke: Hmmm...
 Ryan: What's the matter now, Luke?
 Luke: Guys, guys, guys, I need an opinion! How's my hair look?
@@ -1851,7 +1893,9 @@ Kris: Yes, of course.
 ^end 
 
 @End 
-Katarina: R-really? I'm so glad... Well, this is a little awkward... I should get to bed. Good night, Kris. Good luck for tomorrow.@Opening 
+Katarina: R-really? I'm so glad... Well, this is a little awkward... I should get to bed. Good night, Kris. Good luck for tomorrow.
+/***EOF***/
+@Opening 
 Marth barely succeeded in escaping, disembarking in the desert of Khadein. He elected to await his subordinates' safe arrival.
 
 Khadein, the city of magic, is a sanctuary for mages. Many prospecting mages come here and undergo rigorous training. Magic relies on containing nature's energies in "tomes" and "staves", freely manipulating these energies to harness great power. A few centuries ago, a lone sage founded an academy here, teaching magic's secrets. However, instead of bringing happiness, magic was soon used as a tool of war and a thing to be traded. The sage was disappointed, and vanished from the pages of history. Though there is no confirmation, some say that was the Archsage Gotoh. Currently, advanced magic like Aura cannot be made without the orbs' power, and their use is restricted to a few chosen ones. Those conditions are set by their creator, and they can only be inherited by those who qualify.
@@ -1944,7 +1988,9 @@ Yoder: Arlen... Was this really what you wanted...?
 Jagen: The atmosphere inside the building seems somewhat strange.
 Marth: Indeed, something seems to be happening. Kris, Merric's inside there. You met him during your training, right?
 Kris: Yes. Sir Merric really helped us with his magical prowess. So Sir Merric is here... We must hurry, sire.
-Marth: Yes, let's go!@Opening 
+Marth: Yes, let's go!
+/***EOF***/
+@Opening 
 The shocking news brought by Caeda was a terrible blow to Marth. Hardin was once not only a comrade-in-arms, but a trusted confidant and irreplaceable friend.
 
 "Yet... why attack Altea? What have I done wrong?"
@@ -2033,7 +2079,9 @@ Toras: General Lang... Altea is too strong...
 Jagen: Sire, we've finally seized control of Grust. However, a number of enemies are concealed within the castle. Our job here is far from over.
 Marth: Yes, I know. Lang must be stopped here and now. Or else we forsake the people of Grust.
 Kris: Sire. I, too, do not intend to let him go. Say the word and with these very hands...
-Jagen: This is Lang we are talking about. We don't know what he's planning. Kris, we must take extra caution when fighting inside the castle!@Opening 
+Jagen: This is Lang we are talking about. We don't know what he's planning. Kris, we must take extra caution when fighting inside the castle!
+/***EOF***/
+@Opening 
 The surprising truth from Xane was a shock to Marth. Tiki was created as the daughter of the Divine Dragon King, Naga, and slept in the temple because of the king's will. The king's fear of Tiki's power was that of a loving mother's. If Tiki was to awaken, her tremendous power would eventually cause the destruction of the world... That is what the Divine Dragon King feared. However, Bantu, the king's servant, became attached to Tiki after watching over her for a period of hundreds of years became(sic). He awoke her from her sleep, and took her away. So Tiki only had 10 human years' worth of memory... "That is so sad, Tiki..." Marth was too bewildered to think.
 
 @Intro 
@@ -2117,7 +2165,9 @@ Kris: No, that's quite alright. I want to protect Prince Marth with my own stren
 Xane: Hmm, that so? Boring.
 Kris: Huh? What do you mean "boring"?
 Xane: Ah, no, it's nothin'. Catch you later!
-^end@Intro 
+^end
+/***EOF***/
+@Intro 
 Cain: Kris's 7th Platoon! You have fought valiantly thus far. It has been a joy being your instructor!
 Jagen: Frey, Cain; I have heard reports from both of them. Though your individual strengths vary, there exists no doubt of your excellence. Thus, today we will hold your final practical exam. Make sure that you are thoroughly prepared.
 Cain: The final preparations have been made! We are now ready to begin! Your opponent in the final exam shall be...
@@ -2209,7 +2259,9 @@ Katarina: Wonderful! Cecil is sure to be happy with your decision. I look forwar
 
 Kris: No, I think I'm alright. My hairstyle is fine as it is.
 Katarina: Oh, is that so? That's too bad. I was looking forward to see your new look, too... Ah, I'll go return this then. See you tomorrow, Kris.
-^end @Intro 
+^end 
+/***EOF***/
+@Intro 
 Eremiya: So the Altean army has reclaimed Altea Castle. Master Gharnef is rightfully livid...
 Katarina: Lady Eremiya...
 Eremiya: And yet, Eine. All you can do is stand there, doing nothing. Are you not ashamed of being alive? To die for my sake-- is that not the natural recourse?
@@ -2277,7 +2329,9 @@ Marth: I cannot give you that answer. Until now, you've only followed orders, ne
 Katarina: Prince Marth...
 
 Kris: ...
-Marth: Kris... I've forced you to play a painful role. I won't forgive the villain who led her to this path. Let's go, Kris.@Intro 
+Marth: Kris... I've forced you to play a painful role. I won't forgive the villain who led her to this path. Let's go, Kris.
+/***EOF***/
+@Intro 
 Jagen: The 7th Platoon and its commander, Kris, are all present and accounted for, yes? From today forth, you will train together as a team in your bid to become fully-fledged knights. The first half of your training will focus on developing your practical skills. Without further ado, I will introduce the senior knight who is to be your instructor.
 Cain: I am Cain, the knight in charge of your practical training! To hone your practical skills, we will have a contest in the form of combat. If you let your guard down, it won't be just an injury you'll be walking home with!
 Jagen: Even amongst the Altean knights, Cain is one of our strongest men. You must all become strong enough to earn his approval.
@@ -2337,7 +2391,9 @@ Kris: No, this I know. The League led by Prince Marth didn't just consist of Alt
 Jagen: Yes. Our victory was not just the accomplishment of us Altean knights. Overcoming status and position; being able to fight together as equals... That is how Prince Marth fights. No matter when an ally came to our side, they could instantly join the battle with us. That is also a necessary skill for an Altean knight.
 Kris: I see... That will be important to our training. I understand now.
 Katarina: If we can combine our strengths when we fight, I'm sure we can achieve anything. Right, Kris?
-Kris: Yes, you're right.@Opening 
+Kris: Yes, you're right.
+/***EOF***/
+@Opening 
 In the past, there was a war known as the War of Shadows. It began when the fearsome Shadow Dragon, Medeus, launched a sudden invasion. The Kingdom of Archanea, protector of the lands, clashed with Medeus's forces. But against such superior might, Archanea was overwhelmed and trembled in defeat. Nyna, princess of Archanea, had no choice but to flee from her beloved homeland. To rescue Archanea, the Kingdom of Altea, its allied nation, sallied forth. However, it too was defeated by Medeus. With its king lost to war, Altea fell to ruins...
 
 From his exiled shores Marth, young prince of Altea, swore he would retake his homeland. Marth never forgot his oath. Years later, he rallied an army at Talys to defeat Medeus. Starting with Caeda, Talys's princess, Marth gathered together many allies. Duke Hardin, Nyna's guardian, also became one of his trusted comrades. With Archanea's treasured "Fire Emblem" awarded to him by Nyna, Marth led the Archanean League, as its commander.
@@ -2431,7 +2487,9 @@ Luke: Alright then, Kris! Now that you're the commander, how about I give you a 
 Kris: A title?
 Luke: Yeah. All the legendary heroes have their own awesome title! Hm, let's see... Looking at your eyes... It's got to be Kris the Ordinary!
 Kris: I don't really understand... Nor do I think it's something worth celebrating.
-Luke: Aw, don't worry about it! Kris the Ordinary!@Opening 
+Luke: Aw, don't worry about it! Kris the Ordinary!
+/***EOF***/
+@Opening 
 Under the guidance of Archsage Gotoh, Marth and the others headed to Macedon's north, to the "Wyvern's Dale". It is an undeveloped region populated with wyverns, and ruled by barbarians. But, there is no time to stop, because the fate of the world is in Marth's hands!
 
 @Intro 
@@ -2512,7 +2570,9 @@ Minerva: What...? M-Michalis?! Are you...?
 Michalis: I don't plan on dying in front of you, Minerva. I'd be an endless laughing stock. The Michalis you knew... would never die in a place like this. Am I right?
 Minerva: Brother...! Oh, Brother!
 Michalis: Hmph, don't get the wrong idea. You and I are still enemies... That will not change. The incompetence of your army sickens me, so you leave me with no choice but to help.
-Minerva: Thank goodness... You've finally returned to your old self. I understand. Until the Shadow Dragon breathes his last, let us borrow your strength.@Intro 
+Minerva: Thank goodness... You've finally returned to your old self. I understand. Until the Shadow Dragon breathes his last, let us borrow your strength.
+/***EOF***/
+@Intro 
 ^start
 Katarina: Kris, Prince Marth, this is it. Please watch your footing.
 Kris: It's pitch black. Visiblity's practically non-existent... We'll be in trouble if we have to fight.
@@ -2566,6 +2626,8 @@ Gharnef: Heh heh... Worry not, Eremiya. The despair you feel now is nothing. Thi
 
 
 
+
+/***EOF***/
 @Opening
 Grust has been liberated.
 
@@ -2674,7 +2736,9 @@ Marth: Mercenaries, is it...? Do we continue as we are or take a longer, safer r
 Jagen: Hmph, if you would allow me to speak as your tactician... I think we ought to stay here and fight. We will be facing mercenaries. The Altean knights would never lose to mere mercenaries.
 Marth: Kris, your thoughts?
 Kris: I agree with Sir Jagen.
-Marth: I see, thank you. Jagen, Kris! The whole army shall move on as they were. We'll hit the mercenaries head-on!@Dialogue 
+Marth: I see, thank you. Jagen, Kris! The whole army shall move on as they were. We'll hit the mercenaries head-on!
+/***EOF***/
+@Dialogue 
 Anna: Welcome! Today, another hero will be born. One who will help decide the world's fate... What's your name, hero?
 
 Anna: Are you a boy, or a girl?
@@ -2740,7 +2804,9 @@ Katarina: Eep!
 Marth: Everyone. I'm truly happy that so many came to help shoulder Altea's future. With the war over, peace has returned. However, peace isn't something we can simply take for granted: It is my duty, as ruler, to risk my life to protect it. Alone, I am powerless. So, everyone. From now on, I want you to lend me your power, as my knights.
 Katarina: Hear hear, Prince Marth! It was wonderful hearing Prince Marth speak, wasn't it, Kris?
 Kris: Yes, it was. We have to do our best so he can rely on us.
-Katarina: Let's keep at it together!@Narration
+Katarina: Let's keep at it together!
+/***EOF***/
+@Narration
 Once, there was a war known as the "War of Shadows," An epic battle between Prince Marth’s heroes and the Dolhrian Empire, which ended with the defeat of the Earth Dragon King, Medeus. The warriors who had united under the Fire Emblem returned to their own lands, devoting themselves to the reconstruction of their homelands. Among the nations that made up the "Seven Kingdoms of Archanea", Gra and Grust were devastated. Altea, Aurelis, Macedon, and Talys were left deeply scarred, and even the mighty Kingdom of Archanea was undergoing restoration.
 
 However, in the palace still shaken by war, one important event took place. Hardin, the younger brother of King Aurelis, was married to Princess Nyna, becoming the twenty-fourth king of House Archanea. After ascending the throne, Hardin aggressively restored the country in the twinkling of an eye, and formed a powerful army by gathering many soldiers. He then proclaimed the restoration of the Holy Archanean Empire, and himself Emperor.
@@ -2849,7 +2915,9 @@ Marth: Wait!! Lang! Release them at once!
 Kris: Sire! Give me the order, and I'll get them safely back at once!
 Jagen: Sire, don't do it!! You too, Kris! If we oppose Lang right here, right now, we run the risk of being branded traitors by Archanea.
 Marth: But Jagen, are you telling me to simply allow Lang to take them?! I cannot stand for that...
-Jagen: I understand how you feel, sire... But please remain patient for a little longer. If we head to Macedon... then rescue Princess Minerva, Macedon will surely lend us its strength.@Opening 
+Jagen: I understand how you feel, sire... But please remain patient for a little longer. If we head to Macedon... then rescue Princess Minerva, Macedon will surely lend us its strength.
+/***EOF***/
+@Opening 
 To avoid needless battle, the Altean army decided to cross the central mountain range, said to be impassable for a large army. Going through Adria Pass, one will soon reach the city of Pales. Hurry, we can't let the enemy spot us! We must charge straight through!! Marth and the others were anxious, but they carried on advancing across the narrow mountain road. But they didn't expect, in the middle of the cliff, to be ambushed by an unfathomable enemy. They were the northern Kingdom of Aurelis' elite squad, the "Wolfguard", who had headed south to aid Archanea.
 
 @Intro 
@@ -2918,7 +2986,9 @@ Jagen: Sire, we've just received urgent news. Apparently a coup d'etat broke out
 Marth: What in the blazes?! What has happened to them now?
 Jagen: Unfortunately, the instigators were all defeated and captured... Rumor has it that the rebels are being executed by the day.
 Marth: Damn it, Hardin... I can't believe it. It's decided. We will head for the palace at once and end this. Kris, let's go!!
-Kris: Yes, sire!@Intro 
+Kris: Yes, sire!
+/***EOF***/
+@Intro 
 Marth: Kris... The final battle is nigh. Medeus awaits us up ahead. It won't be an easy battle... I dare not imagine how many of us will be left standing at the end... Either way, the fate of this world rests on our hands...
 Kris: Sire... Worry not, sire. We will emerge victorious. That's what the fortune-teller said.
 Marth: Fortune-teller?
@@ -3034,7 +3104,9 @@ Nyna: Camus... Save me...
 
 Elice: Ah, Merric...
 
-Lena: Ah, Julian...@Opening 
+Lena: Ah, Julian...
+/***EOF***/
+@Opening 
 Marth and the others were transported to Altea's outskirts by Gotoh's magic. They were ready to begin the battle to reclaim their homeland. The commander of Archanea's army, General Eibel, had ordered the Gra Knights to charge, to buy time. At the same time he prepared many dishonorable tactics, and waited for the chance to defeat Altea's army in one swift blow. Before his fond homeland, Marth's battles were about to begin once again. "We will reclaim our captical of Anri!! We will reclaim our homeland!!" Prince Marth's voice resounded through Altea's skies. They had travelled a difficult journey, but their destination was finally reached.
 
 @Intro 
@@ -3131,7 +3203,9 @@ Marth: As I suspected... Kris, I believe Xane pulled a fast one on you.
 Kris: I-is that so...?
 Marth: In light of this, would you like to return your hair to the way it was before?
 Kris: Yes, thank you.
-Marth: Good, I'm glad we've sorted that out.@Opening 
+Marth: Good, I'm glad we've sorted that out.
+/***EOF***/
+@Opening 
 This was a fierce battle like no other. But, their homeland of Altea has been liberated. All that remains is the castle... If I could regain Altea castle, where I was born... Everybody, thank you... I really must thank you all for placing your trust in me... Before Marth's face flowed shimmering tears... Even the girl, who gently wiped his tears away, couldn't prevent her own tears...
 
 @Intro 
@@ -3230,3 +3304,4 @@ Marth: Kris?
 Kris: I sense the same enemy presence... as that time. They may already be close...
 Jagen: Sire! We're under attack! It's the assassins!
 Marth: Begin preparations for a counterattack on the double!
+/***EOF***/

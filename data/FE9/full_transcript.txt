@@ -325,6 +325,8 @@ Muarim: It is our right to join you in this. Just as it is your right to refuse 
 Ike: To be perfectly frank, I would be willing to beg to get you to join us. Both of you, all right?
 Muarim: All right.
 Tormod: Ha ha! You can count on us!
+
+/***EOF***/
 @Intro
 Ranulf: Well, we're here! Welcome to Toha, Crimea's westernmost port city.
 Ike: What's with this place? The people are going about their business. Why aren't they worried about Daein? About the war?
@@ -748,7 +750,9 @@ Nephenee: Not a problem
 Ike: It's easy for you to say, but you sound like you're about to fall over.
 Nephenee: That? Aw, no! That's a habit...It's just the way I talk. Just talkin'!...Sorry.
 Ike: No need to apologize. As long as you're not feeling ill, everything's fine. All right, I'll see you later.
-Nephenee: Right then...@Opening 
+Nephenee: Right then...
+/***EOF***/
+@Opening 
 During the battle for Talrega, Ike and the rest of his company come to a bleak realization. Wherever the Crimean army marches, the land becomes a battlefield. The damage is immense. Warfare and floodwaters claim homes, crops, and hope. Villagers seeking shelter and safety stumble blindly through the snow. To them, there is no doubt that the Crimeans are an invasion force.
 However, the Crimeans have their own homeland to save. Focused as they are on that overriding goal, they cannot stop even to help the innocent victims of war. The only way they can help the people of Daein is to keep marching. The faster they reach Daein's capital of Nevassa and put an end to the war, the better for everyone.
 
@@ -1002,7 +1006,9 @@ Ike: You're right. I do feel a bit cold. Shall we go back to the tent?
 Mist: Uh-huh! Let's go, Ike!  You, too, Nasir!
 Nasir: ...Forgive me.
 Mist: Nasir? What's wrong? Hurry up!
-Nasir: Oh... Of course.@Opening
+Nasir: Oh... Of course.
+/***EOF***/
+@Opening
 Overcoming many hardhsips,  Ike and company finally arrive in theDaein capital of Nevassa. However, much to their dismay, King Ashnard is nowhere to be found. According to intellegence reports,  the king is in Crimea's capital of Melior, preparing to wage war against Gallia. In addition, at least half of the Daein army, including its most elite forces, remain unharmed and at his side. The Crimean army is again forced to march. This time, however, the battlefield will be their own homeland. Eagerly awaiting their arrival is a Daein army more powerful than anything they have faced so far. This fact, coupled with Nasir's act of betrayal, has filled Ike with apprehension and disappointment. Yet, it is then, when all hope seems faint, that unexpected good news arrives.
 
 @Intro
@@ -1254,6 +1260,8 @@ Sothe: You know, Ashnard wasn't such a bad king. At least, as far as we could se
 Ike: ...
 Sothe: Don't get me wrong. I don't mind fighting with all of you. But still, seeing your homeland scarred and trampled like this is tough. I'm sorry. I know Crimea is suffering in the same way, but... I can't change how I feel.
 Ike: ...
+
+/***EOF***/
 @Intro
 Tibarn: Is that it?
 Nealuchi: Wait, there's more! It seems that Prince Reyson was able to escape Duke Tanas's villa and make his way safely to Serenes Forest. However...we have word that Tanas's men have entered the forest in hopes of recapturing the prince. We've not a moment to waste! Please, O king of hawks! Reach out your mighty talons, strike down these wretched humans, and rescue Prince Reyson. I implore you, Your Majesty, take wing at once!
@@ -1618,7 +1626,9 @@ Ike: ...You may be on to something. In Crimea, when my father was still alive, I
 Devdan: ...If you talk like that, you will never defeat Daein.
 Ike: What did you say?
 Devdan: The war is new. If you are already so focused on preparations, you'll wear out before the fighting begins.
-Ike: Hold on a minute!...@Opening
+Ike: Hold on a minute!...
+/***EOF***/
+@Opening
 Having narrowly escaped Daein's grasp the Greil Mercenaries are pleased to feel the ocean beneath their feet as they set sail. According to Captain Nasir, the voyage to Begnion will take roughly two months.
 
 Blessed with temperate weather the ship's journey southward is smooth and steady. As it passes the midpoint of its trip, the  ship sets a course along the coastline and begins to head east.
@@ -1879,7 +1889,9 @@ Ike: Hm...You seem to have led quite an adventurous life. It's a bit surprising.
 Ilyana: I get that a lot.
 Ike: I find it hard to imagine that you couldn't find work, though. Your magic skills are amazing.
 Ilyana: Aren't they, though? Hee hee! I'm always happy when people notice...Whew...Wow! I feel so much better now. I'm actually starting to get hungry.
-Ike: I'm glad to hear it. Just stay above deck, and when you start to feel sick, look off at the horizon, all right?@Opening
+Ike: I'm glad to hear it. Just stay above deck, and when you start to feel sick, look off at the horizon, all right?
+/***EOF***/
+@Opening
 Of all the battles in the war so far, the contest for Fort Pinell is the fiercest to date. And from this horrific clash of weapons and wills, the Crimean army emerges bloodied and exhausted, yet victorious. The prize of Fort Pinell is no small thing, but it is the promise of additional reinforcements from Gallia-- and the large Begnion army encamped in Castle Daein--that keeps the breath of hope alive in the soldiers' hearts. There is one other pivotal piece in Daein's defense of the former Crimean capital--the severely undermanned Castle Nados. As the day's end draws near, Tibarn's small force of hawks and Gallians cease their attacks and return to camp headquarters.
 
 @Intro
@@ -2183,7 +2195,9 @@ Ena: I...I can't tell you now.
 Ike: That's not the answer I was hoping for.
 Ena: However, in payment of my debt to you, I can provide information. I will tell you where the heron princess is being held.
 Ike: Ah. That's a good start.
-@end@Intro
+@end
+/***EOF***/
+@Intro
 Mist: Are you all right?
 Ike: Nn... Yeah, I’ll be fine.
 Greil: So, the sleeping prince awakens!
@@ -2282,7 +2296,9 @@ Greil: You’ve got a point, Ike... All right. Tomorrow will be your first day a
 Ike: Really?
 Greil: But! If I think it’s too much, you’re back to trainee status. You’d better work hard.
 Ike: No problem. Watch– I’ll catch up to everyone in no time.
-Greil: We’ll see. We’d better be heading back to the fort. Everyone’s waiting.@Dialogue
+Greil: We’ll see. We’d better be heading back to the fort. Everyone’s waiting.
+/***EOF***/
+@Dialogue
 Ike: For the past year, I’ve been focused on winning this war. I stand here today as a testament to your fortitude and commitment. I understand this will never suffice, but I wanted to take a moment to say something to you all. Thank you. I hope I may continue to rely on you.
 
 Soren: Of course. I hope that I may continue to be of service.
@@ -2545,7 +2561,9 @@ Ike: All right, come on. We’ll do this together.
 Elincia: Thank you, my lord Ike. I am… I am so blessed to have met you.
 
 @Narration
-And so it was that, in the spring of the year 646, Elincia Ridell Crimea saw peace return to her homeland. In the years to follow, the story of Queen Elincia and her noble hero, Ike, spread across the land and inspired the songs of many a wandering troubadour.@Opening 
+And so it was that, in the spring of the year 646, Elincia Ridell Crimea saw peace return to her homeland. In the years to follow, the story of Queen Elincia and her noble hero, Ike, spread across the land and inspired the songs of many a wandering troubadour.
+/***EOF***/
+@Opening 
 The continent of Tellius, blessed by the goddess. To the northwest lies the land of Crimea, home of the Greil Mercenaries.
 
 Without warning, Crimea’s eastern neighbor, the kingdom of Daein, launches an attack on Crimea’s capital city of Melior.
@@ -2682,6 +2700,8 @@ Ike: Good luck. Watch your step, and be careful.
 Elincia: We’ll see all of you again...I’m sure of it! I know you will all be safe.
 Ike: Let’s get moving! Where to, Soren?
 Soren: We go east on the road we used before. Let’s find the commander before the enemy reinforcements show up.
+
+/***EOF***/
 @Opening
 The Crimean army defeats General Petrine, one of King Ashnard's feared Four Riders, and finally arrives home. The princess's return  is met with the jubilation and tears of the retainers who have managed to survive. As long as we have Princess Elincia, Crimea will be liberated. These are the words that gave the people hope as they endured the harsh rule of a conquering country. The silent masses, who long for the restoration of their homeland, slowly begin to give voice to their dream. Surely, they think, this chance to see Crimea freed will not be wasted.
 
@@ -2922,6 +2942,8 @@ Makalov: Say, Marcia?
 Marcia: What is it, Makalov?
 Makalov: You want to bet on how long I can keep my promise? I'll give you four-to-one odds!
 Marcia: AAAHHH!!!
+
+/***EOF***/
 @Intro
 Soren: Good morning, Ike. May I have a moment of your time?
 Ike: What is it? I’m listening.
@@ -3214,7 +3236,9 @@ Titania: It’s what you want, right, Commander? Well then, it’s our job to fo
 Soren: However you wish to proceed is fine. I will do all in my power to ensure that our road leads to success.
 Ike: Understood. As of now, the Greil Mercenaries shall assume the honor of serving as escort to the princess of Crimea.
 Ike: Princess Elincia, our journey together will undoubtedly be a long one. May we serve you well.
-Elincia: Oh, thank you very much! I only pray that I, in turn, may be worthy of your service!@Intro
+Elincia: Oh, thank you very much! I only pray that I, in turn, may be worthy of your service!
+/***EOF***/
+@Intro
 Ike: I got it.
 Soren: Ike, just a bit more...Would you mind hearing my report on our last battle?
 Ike: Uh, sure. Go ahead, please.
@@ -3513,7 +3537,9 @@ Reyson: I cannot engage in combat, so I'm nothing more than an obstacle in the f
 Ike: Reyson, no! That's absurd! Don't you understand how useful your abilities are?No one else can do the things that you can. You're irreplaceable.So if you're not feeling well and try to do too much, you may not be there when we really need you.
 Reyson: I'm of use to you, then?
 Ike: That's what I've been trying to tell you. We depend on you, and that's why I need to make sure you stay healthy.
-Reyson: In that case... I wouldn't mind taking a short break. But you can call me anytime. I'll come right away.@Opening 
+Reyson: In that case... I wouldn't mind taking a short break. But you can call me anytime. I'll come right away.
+/***EOF***/
+@Opening 
 Ike has avenged his father by defeating the Black Knight in single combat. That night, he sleeps until well past dawn. It is the first time since Greil's death that he has done so. The crimean army and its laguz allies have passed the trial of Nados Castle. At last, they've arrived at their final destination: the Crimean capital. Yet the opponent that awaits them is none other than Ashnard, king of Daein. If they lose here, all of their hardships will have been for naught. Preparations for the attack proceed with the utmost care. The final battle is approaching. An air of exaltation pervades the camp, but Ike remains focused on the road ahead, readying himself for what is to come.
 
 @Intro
@@ -3721,6 +3747,8 @@ Tanith: Come, we have little time for niceties. Both of you, follow me! Now!!! C
 Elincia: Y-yes, ma'am!
 Marcia: Ugh... She really is a demon.
 Ike: Hmm... The three of them look...busy...I think I'll wait until later to talk to them.
+
+/***EOF***/
 @Intro
 Mist: Father! Brother! It’s that lady Ike rescued...She’s awake!
 Ike: Really?
@@ -3884,6 +3912,8 @@ Ena: If she gains sanctuary in Gallia, capturing the princess will become that m
 Petrine: It’s not necessary. I will head up the pursuit of our wandering princess.
 Ena: General Petrine, you will go...yourself?
 Petrine: If we know where the princess and her band are headed, there’s no need for subtlety. I’ll just hunt them down and kill them. Mercenaries? Hah! What’re they to me? Remember, I am General Petrine! No matter who I face, I have never failed, nor will I ever! Ha ha ha...
+
+/***EOF***/
 @Opening 
 After his father's death places the mantle of leadership on his young shoulders, Ike agrees to continue as Elincia's escort.
 
@@ -4206,6 +4236,8 @@ Ike: Pardon me, may I have a moment?
 Sephiran: And you are?
 Ike: I'm Ike. I'm the commander of this mercenary company.
 Sephiran: That must mean you're the one responsible for giving me back my freedom. I am Sephiran, a monk on pilgrimage. Please allow me to express my gratitude. Thank you.
+
+/***EOF***/
 @Opening
 Ike and company break the siege of Delbray Castle and join ranks with the Crimean retainers therein. The army grows to its largest size yet, and with the addition of the retainers, truly becomes the armed force of its name. In addition, their recent heroic acts finally move the conservative Gallians to dispatch much-needed reinforcements.
 The long-waited warriors of Gallia march through the treacherous Marhaut mountain range, a series of jagged peaks that spread across  southern Crimea. They then slip through the gaps in the Daein forces and move toward Crimea's army. Gallia rises. This information emboldens Ike, and he marches the army at top speed to join their new allies.
@@ -4443,7 +4475,9 @@ Calill: Oh... He's such a clown. But you made a good hire. After all, he's a wor
 Ike: Berserker. Yeah, I heard.
 Calill: He pinned a tiger with his bare hands! Two of them, actually. At the same time.
 Largo: Bwa ha ha ha haaaaa! Yeah, that was awesome!
-Ike: ...Definitely dubious...@Intro 
+Ike: ...Definitely dubious...
+/***EOF***/
+@Intro 
 Rhys: Oh, Titania. So this is where you’ve been, is it?
 Titania: Rhys! Are you sure you’re well enough to be up?
 Rhys: Yes. My fever’s completely gone.
@@ -4609,7 +4643,9 @@ Ike: Mist...You did well, Sis. You must have been frightened.
 Mist: Uh-huh...Uh-unh! I never stopped believing. I knew that you and the others would come and rescue us. I knew you’d come! So, I was fine!
 Ike: Really? That’s an improvement on your usual sobbing and nose-running.
 Mist: You jerk! I...My nose does not run!
-Titania: All right, come on! Let’s head for home. My goodness...What a day this has been.@Intro
+Titania: All right, come on! Let’s head for home. My goodness...What a day this has been.
+/***EOF***/
+@Intro
 Ike: They’re not here either...
 Soren: Ike, pursuing them any farther may be dangerous. I think it would be best if we returned to Gallia for now. It’s possible the commander may have followed another road into Gallia. It’s something we should consider.
 Ike: ...You’re right. Getting killed looking for them would waste everything they accomplished by breaking away. I guess all we can do is trust that they’re well and withdraw.
@@ -4875,6 +4911,8 @@ Ike: Father, stop talking. You’re wasting your strength. Please...
 Greil: I need you to take care of everything...The company...Mist...
 Ike: Wait...You mustn’t say such things! It’ll be light soon. You’ll be fine...
 Ike: A little longer...Stay a little longer...
+
+/***EOF***/
 @Intro 
 Nealuchi: Oh my! If it isn't young Prince Serenes! Welcome, welcome, welcome.
 Reyson: Nealuchi, you're looking well.
@@ -5107,7 +5145,9 @@ Makalov: Ah! But! Aaah!
 Ike: Payment will be deducted from your wages. For...quite some time. It seems you're working for free, friend.
 Makalov: Oh! I--! Oooh!
 Ike: Until your debts are completely repaid, don't even think about leaving the company. Or getting sick. Right then! I trust you'll do your best.
-Makalov: ...What a mess...Awww... Nuts!@Intro
+Makalov: ...What a mess...Awww... Nuts!
+/***EOF***/
+@Intro
 Reyson: What is this? Who are you? What have you done with Naesala?
 Oliver: Oh... Ooooo...This is something everyone should see. There can be no doubt--I gaze upon the last living wonder of the Serenes royalty. Those golden locks! Witness how they gather in the morning sun and multiply its brilliance. The gentle lustre of those argent wings! Manifest proof of royalty, as sure as I am alive. Magnificent... Absolutely magnificent. A true work of art wrought in flesh and feather. All this beauty... Mine... The fortune I paid the raven king seems like a pittance compared to this treasure!
 Reyson: What? Naesala...sold me? To YOU?!
@@ -5309,6 +5349,8 @@ Ike: Wh-who are you?
 Stefan: You can learn the dance of blades from me without knowing my history, can you not? What say you? Let your heart decide.
 Ike: I understand. If you can help me perfect my technique, I will gladly accept an invitation to learn from you.
 Stefan: Then prepare yourself. Come! Attack me with all your strength.
+
+/***EOF***/
 @Intro 
 Greil: Good morning, Ike. Today’s your first day as a professional soldier, isn’t it?
 Ike: Yeah, and I’m ready to go.
@@ -5393,7 +5435,9 @@ Boyd: Hey, Ike! that wasn’t bad for your first battle. Not as flashy as my fir
 Oscar: Yeah, you were a real standout. I’ll never forget the sight of you so keyed up you broke your own axe.
 Boyd: Oscar! Dang it! You didn’t have to bring that up!
 Oscar: Anyway, Ike. Congrats on finishing your first mission.Welcome to the group.
-Titania: Everyone’s all right? Then let’s get going. I’m sure Mist has a nice, hot meal waiting for us.@Opening
+Titania: Everyone’s all right? Then let’s get going. I’m sure Mist has a nice, hot meal waiting for us.
+/***EOF***/
+@Opening
 The Begnion Empire, the largest nation on the continent, is a theocracy dedicated to the goddess Ashera.
 Reigning from the summit of the empire and guiding the world with the voice of the goddess, the apostle Sanaki rules Begnion. As Ashera's chosen vessel, the apostle is showered with love and respect from the entire nation. Seven imperial senators aid the apostle in the governance of her realm. This system of government has been the backbone of Begnion for many long centuries. After Ike and his company aid the apostle, her holy guard takes them to the imperial capital, Sienne.
 The upper class of Begnion society live lives of pampered comfort and luxury. Known as the Sainted, these elite power brokers reside in massive temple-like homes whose spires dominate the skyline. The Guiding Tower overlooks all from the heart of the city. Here, Ashera holds her vigil, watching over the world. Surrounding the tower is a series of temples, both large and small, placed in an orderly, systematic fashion.One temple, however, is conspicuously larger than the others. It is the grand temple Mainal, home to the apostle. Ike and his company, used to the freedoms of Crimea, find the differences in culture and custom to be very confusing.
@@ -5672,7 +5716,9 @@ Ike: Um...maybe we should just drop it.
 Marcia: ...Huh? Oh, no it's--Don't worry. I'm fine.
 Ike: Don't let it get to you too much. I don't want you distracted in a fight, all right?
 Marcia: Got it. Thanks.
-Marcia: Ike's a brother, too... So why is he so different from my brother? Grrr! Lazy do-nothing!@Intro
+Marcia: Ike's a brother, too... So why is he so different from my brother? Grrr! Lazy do-nothing!
+/***EOF***/
+@Intro
 Narration: The Crimean royal palac, located in the center of Melior, is famed for its beautiful  gardens where the world seems at peace. But times have changed. Countless battles have raged in these idyllic confines, and a new dark lord now sits upon the throne. The palace itself has not suffered--it remains a study in dignity and elegance. Yet there is no peace on this day. A grim tension fills the air, engulfing all it touches in deafening silence. Within the heart of the palace sits the author of this war: Ashnard, king of Daein.
 Narration: Ike, supreme commander of the Crimean army, and Elincia, princess of Crimea, have completed their battle preparations. Now, they spend a tense morning waiting for the decisive battle that will conclude their yearlong odyssey. They wait for the beginning of the end.
 
@@ -5922,6 +5968,8 @@ Giffca: That's right. He said to be sure you make it home alive. And then he sai
 Lethe: ...That's...such an honor!
 Mordecai: We have fought hard. But...it wasn't a bother. Ike and the others are good beorc... We are happy to fight with them.
 Giffca: I see.
+
+/***EOF***/
 @Opening
 The information gathered at Palmeni Temple leads Ike ever closer to the hidden truths behind the war. The assassination of Begnion's former apostle led to the massacre of Serenes. A Serenes princess was kidnapped. The medallion is stolen. A complex skein seemed to connect these events, and now those threads have become clearer and cleaner. Ashnard's motives are still a mystery, but his silhouette lurks in the shadows of all that happens. Ike returns from the temple and renounces all rights to the rule of Daein. Those rights are then passed through General Zelgius of Begnion to the apostle herself. The Crimean army absorbs another troop from Begnion, and with its might increased, marches on the Daein/Crimean border. Its next goal is the Riven Bridge, a massive structure that connects the two countries.
 
@@ -6129,6 +6177,8 @@ Shinon: What do you care, you snotty whelp?! It's none of yer business! AND anot
 Ike: Shinon, are you sure you're all right?
 Shinon: ...YEAH! I'm fine! I'll be fine... Fine, fine... Ugh...I don't feel so good. Ooh...BLAARRRGGGHHHH!
 Ike: It was never about the commandership...It was about my father....
+
+/***EOF***/
 @Opening
 In a valley amidst the Marhaut Range,  Ike and company are reunited with King Caineghis of Gallia. King Tibarn of Phoenicis also arrives, and brings with him a disturbing tale... His words serve notice: There is no time to waste. The final showdown with Ashnard is coming. Between the forces King Caineghis grants them before returning home and the soldiers King Tibarn brings, the Crimean army possesses three times the fighting power that it did when it left Begnion. Even so, the Daein forces encamped in the capital are strong, rested, and comparable in number. In addition, the road to the final confrontation is blocked by two formidable obstacles--Fort Pinell and Nados Castle. How these two tests are faced will mightily affect the course of the war.
 
@@ -6284,6 +6334,8 @@ Reyson: My apologies, Ike. Though I knew this was coming... It's still...difficu
 Ike: Don't apologize. You've nothing left to prove to me.
 Reyson: ...Ah......
 Ike: ...
+
+/***EOF***/
 @Intro
 Nasir: Ike, there's someone here claiming to be an envoy from the theocracy of Begnion. She's been asking if the princess of Crimea is aboard...What do you want to do?
 Ike: A Begnion envoy? How did she know about this ship?
@@ -6717,7 +6769,9 @@ Oscar: Boyd, this plan sounds...Oh, dear... How do I put it?
 Rolf: Let me do it! I'll think up a great one!
 Boyd: No way. Forget that. It's too much for your little peewee brain.
 Rolf: I told you, don't call me that!
-Ike: They may not like to admit it, but they certainly are close.@Intro
+Ike: They may not like to admit it, but they certainly are close.
+/***EOF***/
+@Intro
 Boyd: No fair playing the martyr! Nobody made me go with you. I left of my own free will! I’m ready to accept my punishment, too! Wait, what am I saying?
 Rhys: Please, Commander Greil! Titania entrusted me with her orders. If anyone’s to blame for this mess, it’s me. I’m the one who should be punished...
 Oscar: I set a poor example, Commander Greil. Any punishment should be mine alone.
@@ -6836,6 +6890,8 @@ Titania: Hm?
 Ike: You and my father have kept this mercenary group together. And I’m...just...proud to be a part of it. That’s all.
 Titania: Ike...
 Shinon: Pah. I’m surrounded by idealistic fools. What’s so wrong with fame? What’s wrong with having money to live well?
+
+/***EOF***/
 @Intro
 Mist: Ike! Ike! I’ve got to tell you something! Listen to this!
 Ike: Settle down, Mist. It’s too early for you to be yelling like that. Now, what’s going on?
@@ -7003,6 +7059,8 @@ Rhys: Thank goodness...It looks like she’s merely fainted.
 Ike: Right. We’d better take her with us for now and make sure she’s all right. Give me a hand, will you, Rhys?
 Rhys: Of course.
 Soren: ...I don’t like this...
+
+/***EOF***/
 @Intro 
 Greil: What’s wrong, Ike? Done already? Come on, Son! You’ll never beat me with that attitude!
 Greil: Ha ha ha! Think you’re as stubborn as your mule-headed father?
@@ -7218,6 +7276,8 @@ Mordecai: Ike forgave Mordecai. So now I forgive Soren. No one need be angry.
 Lethe: I apologize as well. My behavior has been unkind. I forgot our mission, and I have blundered terribly.
 Ike: Mission?
 Lethe: The king wants to see you. We are here to guide you to the royal palace.
+
+/***EOF***/
 @Opening 
 Princess Elincia's newly-formed Crimean army, with Ike as its commander, marches to Tor Garen and claims its first victory. Tor Garen is a vast wall guarding Daein's border. Manned by battalions of well-trained soldiers, it was long thought impenetrable. Yet the strength of the Crimean army under General Ike's leadership far outstrips Daein's expectations, and Tor Garen falls. Learning of Gallia's increasing interest in the war, Ike wastes no time ordering his troops further into the heart of Daein. The gears of history, which had come to a halt with the fall of Crimea, slowly creak to life once more...
 
@@ -7582,3 +7642,5 @@ Ike: No, I agree with you. Choosing a ruler by strength instead of birth makes m
 Ulki: When we face Begnion troops, we target the units with weak leadership and eliminate them first. Beorc weapons can be very powerful, but not everyone wields them well. Since beorc also choose generals by bloodlines, their competency is uneven...and that is a weakness of beorc armies. As for you, General Ike, the time to prove yourself is approaching.
 Ike: It's true. No matter how strong the individuals are, that strength is worthless if they're weak as a unit. An army's power comes from leadership and management... That's good to remember. Thanks.
 Ulki: Mmm.
+
+/***EOF***/

@@ -133,6 +133,8 @@ Elffin: What we may think of as being coincidental... Even that might be part of
 Roy: ......
 Merlinus: Anyway, now that we have the Binding Blade, all we need to do is head for the castle. We must hurry!
 Roy: ...Right! We have to defeat Zephiel!
+
+/***EOF***/
 @Opening 
 After defeating Bern’s remaining troops, Roy entered the Dragon Temple.
 
@@ -301,6 +303,8 @@ Roy: The Dark Dragon is not acting on her own will...she had her soul destroyed.
 Fa: ...Fa doesn’t get it.
 Roy: You’ll understand when you’re little older.
 Roy: Hartmut posed a question. And I’ll give an answer to it!
+
+/***EOF***/
 @Opening 
 Lord Erik, Marquess of Laus, had been working with Bern against his allies of Lycia. This gave Roy further shock. Lycia, where Roy had grown up in, was no longer a safe place to be either. Heading for Ostia, Roy decided to move through the mountains, where people seldom want to avoid unnecessary trouble.
 
@@ -405,7 +409,9 @@ Saul: I see. In that case, I will accompany you on your journey.
 Guinevere: If Roy allows it.
 Roy: I have no objections.
 Guinevere: Thank you, Roy.
-Roy: Of course, Princess.@Opening 
+Roy: Of course, Princess.
+/***EOF***/
+@Opening 
 Roy headed towards the ruins in Sacae, after the Divine Weapon.
 
 However, the remaining forces of the Djute clan were waiting for Roy in the
@@ -466,6 +472,8 @@ Guinevere: ...But now, my brother is in a place where my words cannot reach him.
 Roy: Even if it may resolve to the blade?
 Guinevere: ...I have made my resolve when I entrusted this task to you.
 Roy: I see. You have my word and loyalty, Princess Guinevere. I swear to the Fire Emblem that I will stop King Zephiel!
+
+/***EOF***/
 @Opening 
 After defeating Arcard, Roy crossed the border and entered the land of Sacae.
 
@@ -548,6 +556,8 @@ Roy: Bulgar...I’ve heard of it.
 Merlinus: It is the largest city in Sacae. Of course, it is now under Bern’s control.
 Roy: I see... All right, we’ll be heading there soon.
 Roy: ...Why did the former king try to murder his own son...?
+
+/***EOF***/
 @Opening 
 After taking back Castle Edessa, Roy turned his troops towards the ancient ruins located on the outskirts of the land. There was a high chance that a Divine Weapon was hidden there.
 
@@ -607,6 +617,8 @@ Guinevere: ...But now, my brother is in a place where my words cannot reach him.
 Roy: Even if it may resolve to the blade?
 Guinevere: ...I have made my resolve when I entrusted this task to you.
 Roy: I see. You have my word and loyalty, Princess Guinevere. I swear to the Fire Emblem that I will stop King Zephiel!
+
+/***EOF***/
 @Opening 
 After obtaining the Binding Blade, Roy led the Etrurian Army to Castle Bern, where King Zephiel was waiting.
 
@@ -747,7 +759,9 @@ With Roy’s help, Guinevere took the throne and the New Kingdom of Bern was est
 
 While the Dark Priestess was never found, peace was restored, and Elibe was set for a new age of prosperity led by Etruria.
 
-Elibe regained its former peace and balance. Centuries after Roy’s time, the nations in Elibe were united under a single flag, but that is another story for another time…@Opening 
+Elibe regained its former peace and balance. Centuries after Roy’s time, the nations in Elibe were united under a single flag, but that is another story for another time…
+/***EOF***/
+@Opening 
 To liberate the people of the Western Isles once and for all, Roy headed for Jutes, the Isles' largest city. The Etrurian capital was located there. Lord Arcard, the supervisor of the mining operation on the Isles, resided in Jutes. According to Elffin, Arcard was of high birth, but he held no importance in the Etrurian court. Roy was still worried about Etruria's response to his attacking the capital, but he had no choice if he was going to rescue the people.
 
 @Intro 
@@ -916,7 +930,9 @@ Chad: ...So that's it. Fine. Just don't get in my way.
 @Boss 
 Ain: ...Burn.
 
-Ain: ...What...?!@Opening 
+Ain: ...What...?!
+/***EOF***/
+@Opening 
 After driving off General Narcian from Ostia, Roy and company braced themselves for further attacks from Bern. However, Bern's belligerent movement towards Lycia suddenly stopped altogether, as if to mock Roy and his caution. Bern was also maintaining a neutral position regarding the truce offer from Etruria. Bern's sudden silence and lack of activity could only be described as eerie.
 
 With Hector gone, Eliwood was now the only lasting power in Lycia. Eliwood summoned the various marquesses to Pherae to discuss their further actions. It was decided that Eliwood was to become the next leader of the Lycia Alliance and that a new Lycia Alliance Army would be established. The new army's purpose was not to take the offense against Bern, but rather take a defensive stance for Lycia. For his victory against Bern in Ostia, Roy was chosen to be the leader of the new Lycia Alliance army. Slowly but surely, the people of Lycia were starting to brighten up. Business was improving, and people's attitudes started to get more optimistic.
@@ -1096,7 +1112,9 @@ House: The resistance is doing quite well. In the north, and in the west-- they 
 
 House: The nearby villages... Everyone in them are leaving the islands. It's very sad, really. If you want to visit, you'd better do it quickly. You don't have time to go to both, so you'll have to decide.
 
-House: Geez, there's so much mist here... In these conditions, you have NO idea if anyone is lurking around! The Torch Staff is useful, even for those hard-eyed thieves.@Opening 
+House: Geez, there's so much mist here... In these conditions, you have NO idea if anyone is lurking around! The Torch Staff is useful, even for those hard-eyed thieves.
+/***EOF***/
+@Opening 
 Bern surrendered with King Zephiel’s death. The great war that shook the lands of Elibe was over.
 
 However, Roy’s battle was not.
@@ -1220,6 +1238,8 @@ Roy: So... Our tactics against the Dragons until now might not work?
 Elffin: Perhaps... However, if those worthy of using the Divine Weapons use them to their fullest potential, then we may have a chance.
 Roy: ...We have no other good ideas. All right. Then we’ll choose those who have the best skill to enter the temple.
 Elffin: Be careful who you choose. We might not be able to leave once we’re inside...
+
+/***EOF***/
 @Opening 
 After defeating Martel and finding their way out of the forest, The Etrurian Army faced the blizzards common of Ilia’s winters.
 
@@ -1306,6 +1326,8 @@ Roy: No, it’s okay. Did you send the letter?
 Merlinus: Yes. I read through it, then sealed it and had it sent.
 Roy: Oh... All right, thanks.
 Roy: ...Why did the former king try to murder his own son...?
+
+/***EOF***/
 @Opening 
 The coup d’etat at Aquleia quickly spread out to the rest of Etruria. Calling themselves the Revolutionaries, the coup d’etat forces sought to ally with Bern and divide rulership of Elibe.
 
@@ -1542,6 +1564,8 @@ Percival: Good.
 Soldier: Here, we found this in the castle. Please take it. General Percival, please take care...of Etruria.
 Percival: I know. Leave it to me.
 Soldier: Yes!
+
+/***EOF***/
 @Opening 
 Following Elffin's lead, Roy headed for the cave near Jutes to find the Divine Weapon hidden there. Little did they know that they weren't the only ones who knew about the cave...
 
@@ -1579,7 +1603,9 @@ Soldier: We don't have any current information... But the three Etrurian General
 Roy: And the other Generals?
 Soldier: They're with the revolutionaries against their will because the king was taken hostage.
 Merlinus: Lord Roy...
-Roy: We need to contact General Cecilia... Princess Guinivere… Please be safe...@Opening 
+Roy: We need to contact General Cecilia... Princess Guinivere… Please be safe...
+/***EOF***/
+@Opening 
 Three seperate islands: Fibernia, Caldonia, and Dia. All of these islands are rich in minerals, and mining is the economic backbone. The largest mine located in Eburacum, in north of Fibernia. Roy leads his forces toward Eburacum hoping to learn more about the bandits. To get to Eburacum, one must pass a castle located nearby. Roy sends a messenger to Sir Nord, lord of the castle, to resuqest permission to pass through his lands. Because Roy and company are in Isles on Etruria's request, they don't anticipate trouble in gaining Nord's support. But not everything is as simple as it appears...
 
 @Intro 
@@ -1716,7 +1742,9 @@ Roy: Whoa! L-Larum!
 Merlinus: Hey! I said get off of him!
 Larum: Here, Roy. Use this sword.
 Roy: What is it?
-Larum: It's called a wyrmslayer. It's effective against wyvern riders, and it's said it was used against dragons, too. Who can say, though? It might come in handy. It belongs to Echidna, the leader of the resistance. You're helping us though, so you can have it for now.@Opening 
+Larum: It's called a wyrmslayer. It's effective against wyvern riders, and it's said it was used against dragons, too. Who can say, though? It might come in handy. It belongs to Echidna, the leader of the resistance. You're helping us though, so you can have it for now.
+/***EOF***/
+@Opening 
 Hearing of the rebellion, Roy hurried his pace towards Ostia. According to the information he had gathered on the way, General Leygance, one of Lord Hector's advisors, had started a rebellion with Liutenant Devias to sell Ostia to Bern. Lilina had been captured and taken hostage by Leygance. She was then imprisoned inside Castle Ostia, because Leygance thought that he could use her for something later on.
 
 Hearing that report, Roy and company entered Ostia in an effort to rescure Lilina. Ostia, the largest and most active city in Lycia, was to become a battlefield, stained with blood...
@@ -1899,7 +1927,9 @@ House: This town used to belong to Lycia! But now, look at it... You guys are ou
 
 House: Social Knights, Paladins, Nomads... All those guys riding on horses... This spear, the Knight Killer, is effective against them. There's a lot of horsemen in the rebel army, so use this against them! 
 
-House: Medicine! Medicine! This cures anything! No matter what kind of wounds you have, this will restore you completely! The contents are a secret, though... Can't tell you, or I'll get in trouble. Hmm? You don't want the medicine? Aww, I'll give you some for free, if you buy it next time! @Opening 
+House: Medicine! Medicine! This cures anything! No matter what kind of wounds you have, this will restore you completely! The contents are a secret, though... Can't tell you, or I'll get in trouble. Hmm? You don't want the medicine? Aww, I'll give you some for free, if you buy it next time! 
+/***EOF***/
+@Opening 
 Just to the north of Pherae territory stands Castle Araphen. The Lycia Alliance had gathered here to discuss the matters of going up against Bern. However, Roy and Guinevere were only half a day away from Castle Araphen, when a messenger brought them news that they could not believe. The message was this: "Bern has a trio of elite generals called the Three Dragon Lords. Two of these three, General Brunnya and General Narcian, have attacked Castle Araphen and nearly decimated the Lycia Alliance Army."
 
 Although the morale of the Pherae Army went down severely, Roy led his group towards Castle Araphen to find survivors and check the damage.
@@ -2044,7 +2074,9 @@ Roy: Weapons?
 Hector: I have already told this to Lilina... Please take care of her too... She... may seem strong... But she is still a child... Please... give... her support...
 Roy: ... Yes, I will.
 Hector: ... Lilina... Just... one... more...... time...!!!
-Roy: Lord Hector!@Opening 
+Roy: Lord Hector!
+/***EOF***/
+@Opening 
 After Roy captured Aquleia, other Etrurian powers slowly began to change their
 views and express their anti Coup d'etat opinions.  Driven away from their
 palace, Roartz and Arcard fled to Sacae, which was still under Bern's control.
@@ -2130,7 +2162,9 @@ Merlinus: Didn’t you know, Master Roy? Zephiel took the throne because the for
 Roy: And one of them is...
 Merlinus: ...That King Zephiel assassinated him.
 Roy: ...Does Princess Guinevere know about this?
-Merlinus: She must know something about it, if not all.@Opening
+Merlinus: She must know something about it, if not all.
+/***EOF***/
+@Opening
 At the request of King Mordred, Roy headed for the Tower of the Saint on the
 outskirts of Aquleia.
 
@@ -2191,6 +2225,8 @@ Roy: No...
 Guinevere: I shall be hated all my life as a traitor. Roy, promise me one thing. When we invade Bern, promise me that you will not harm the civilians...
 Roy: I promise. Please trust me.
 Guinevere: ...Thank you.
+
+/***EOF***/
 @Opening 
 Roy vowed to protect Lilina forever. However, with Bern coming full force at them, Roy's army wouldn't stand a chance. Therefore, they decided to try and take the Divine Weapons before Bern got their hands on them.
 
@@ -2278,7 +2314,9 @@ Cecilia: Right. We just did what would be best for us. You don't need to feel th
 Roy: Yes.
 Cecilia: So you shouldn't thank us.
 Roy: Understood. I won't. Well anyway, come in and meet the rest of our army.
-Cecilia: ... He's gotten so bold in the short time that I haven't seen him. Well, he is a boy, after all.@Opening
+Cecilia: ... He's gotten so bold in the short time that I haven't seen him. Well, he is a boy, after all.
+/***EOF***/
+@Opening
 In the hidden village Arcadia stands an ancient temple.  One of the Divine
 Weapons is said to be hidden in it.
 
@@ -2350,6 +2388,8 @@ Fa: ......
 Roy: Well then, let’s go.
 Igrene: Yes.
 Fa: ...Fine... Fa will just follow them anyway!
+
+/***EOF***/
 @Opening 
 Roy ventured deep inside the Temple of Seals. Apparently, there was something else hidden there other than the Binding Blade.
 
@@ -2401,7 +2441,9 @@ Guinevere: ...Perhaps it is to warn people that their power is too great to be d
 Roy: But still... The traps are so carefully set. There must be other reasons.
 Guinevere: ......
 Elffin: ...I wondered about the same thing. Perhaps I shall look into it.
-Roy: Yes... Please.@Opening 
+Roy: Yes... Please.
+/***EOF***/
+@Opening 
 Roy couldn't believe Larum's story.  He quickly penned off a letter to Cecilia
 letting her know of the horrors happening on the Western Isles.  He also let
 her know of the actions that he planned to take from now.
@@ -2656,6 +2698,8 @@ Soldier: Captain! We will return to Ilia to make our report.
 Thea: Thanks.
 Soldier: Oh, and this... Your sister gave it to me before we left. Please be careful...
 Thea: Thank you. You be careful too.
+
+/***EOF***/
 @Opening 
 In order to speak to the resistance force about the bandits on the Western Isles, Roy and company move west along the coastline. Along the way, they come across a small village caught in conflict. The local lord oppresses the resistance and does anything he can to get rid of them...
 
@@ -3061,7 +3105,9 @@ Klein: Thank you. Good luck to you as well.
 Soldier: Captain! We will return to Ilia to make our report.
 Thea: Very good. Thank you for your service.
 Soldier: Oh, and take this... Your sister gave it to me before we left. Please be careful...
-Thea: Thank you. You too.@Opening 
+Thea: Thank you. You too.
+/***EOF***/
+@Opening 
 Man and dragon once coexisted in harmony. However, man shattered that harmony with a sudden onslaught. A great war now known as The Scouring was fought for dominion of the land. Losses were tremendous for both sides, and in this war the very laws of nature itself were twisted and distorted, bringing chaos and unease..."
 
 Defeated and humbled, the dragons disappeared from the realm. Mankind then began to rebuild and repopulate their newly won land.
@@ -3156,7 +3202,9 @@ Roy: Yes!
 Lilina: Bors, I have something to ask of you.
 Bors: I know, my lady. I will accompany Roy in his travels and swear to protect him with my life.
 Lilina: Thank you, Bors. Roy, be careful.
-Roy: I know. You too, Lilina.@Opening 
+Roy: I know. You too, Lilina.
+/***EOF***/
+@Opening 
 Ostia's military primarily consists of soldiers in heavy defense gear, such as Armor Knights and Generals. With them, Castle Ostia's defenses have always been incredibly strong. For a long time now, the castle has been rumored to be "unconquerable."
 
 However, that rumor was about to be proven wrong. By Roy, who, ironically, wanted to protect the castle.
@@ -3353,7 +3401,9 @@ Leygance: Ah, Bors' sister, is it? It's nice to be brave and all, but can you re
 %Barth,Leygance 
 Barth: Leygance, you fool! Are you not ashamed that you betrayed Lord Hector?!
 Leygance: Barth... Shut up. Lord Hector stupidly caused his death. I do not plan on falling with him.
-Barth: Why, you...!@Opening 
+Barth: Why, you...!
+/***EOF***/
+@Opening 
 There is a small village on the border of Pherae and Bern. This is where Roy is to meet the mercenary band that Eliwood hired.
 
 Just east of the village is a small castle occupied by Bern's forces. At the time Roy reaches the village, the castle is in an outright panic. Roy has yet to realize that this confusion going on in the castle will spread, engulfing the entire continent of Elibe in chaos...
@@ -3482,7 +3532,9 @@ Guinevere: At the very least, I wish to do everything I can. No, I MUST do every
 Roy: ...I see. For the time being, come with us to meet the Lycian League armies. I want to see what Lord Hector thinks of this affair.
 Guinevere: You will allow me to accompany you?
 Roy: Yes. If there is any possibility to avoid further bloodshed, we must try. It matters not how small the chance.
-Guinevere: Thank you! I truly am in your debt.@Opening 
+Guinevere: Thank you! I truly am in your debt.
+/***EOF***/
+@Opening 
 After defeating Arcard, Roy moved east deep into the frozen lands of Ilia.
 
 Soon, they entered the thick forests that characterize Ilia’s central land. However, a general of Bern, Bishop Martel, was waiting for them with an ancient spell that was said to have been lost centuries ago…
@@ -3579,6 +3631,8 @@ Niime: The Dark Dragon can create more of its kind. That would explain where Ber
 Roy: That is possible.
 Niime: Now, that being said... I want to learn more about the Dragons. Let me accompany your travels. I wield Dark Magic...I’m sure I can be of some assistance.
 Roy: Of course. We want to learn about the Dragons as well. It may be dangerous, but it that’s okay with you, you’re welcome to join us.
+
+/***EOF***/
 @Opening 
 The Lycia Alliance Army took in Elffin as a tactician. Following his advice, Roy led his forces south toward the isle of Caldonia. Caldonia was one of the three largest islands of the Western Isles. The other two were Fibernia and Dia. Located on Caldonia was Castle Edina. Here, men from all over the Isles were rounded up and locked in prison cells to be sent to Mt. Eburacum, the Mines of Death. When Roy arrived at Castle Edina, the situation was already looking grim...
 
@@ -3702,7 +3756,9 @@ Morgan: What are you doing?! Hurry and kill the ones who escaped! Wait, you're n
 Morgan: The resistance force has been eliminated in this area... Who... are you people...?
 
 @Visit 
-Villager: Are you the guys helping us out? Then please, take this. I grabbed it as I escaped from the castle. I hope everyone else made it out... @Opening 
+Villager: Are you the guys helping us out? Then please, take this. I grabbed it as I escaped from the castle. I hope everyone else made it out... 
+/***EOF***/
+@Opening 
 After defeating the Djute tribe, Roy moved toward Bulgar, the largest city in
 Sacae.
 
@@ -3802,6 +3858,8 @@ Niime: The Dark Dragon can create more of its kind. That would explain where Ber
 Roy: That is possible.
 Niime: Now, that being said... I want to learn more about the Dragons. Let me accompany your travels. I wield Dark Magic...I’m sure I can be of some assistance.
 Roy: Of course. We want to learn about the Dragons as well. It may be dangerous, but it that’s okay with you, you’re welcome to join us.
+
+/***EOF***/
 @Intro 
 Roy: You’re the Dark Priestess... No, the Dark Dragon.
 Idunn: ...Why do you hinder my path?
@@ -3946,6 +4004,8 @@ Merlinus: It is over a thousand years old, and a lot of energy was released in t
 Roy: I see...
 Merlinus: So, times are changing again. And... Who is that you are carrying on your back?
 Roy: Her? Oh, right. Merlinus, I need to ask you something...
+
+/***EOF***/
 @Opening
 After rescuing Guinevere and Cecilia, Roy headed towards the Nabata Desert, following Sophia’s lead. According to her, the village of Arcadia was located in an oasis hidden in the desert.
 
@@ -4059,6 +4119,8 @@ Fa: ......
 Roy: Well then, let’s go.
 Igrene: Yes.
 Fa: ...Fine... Fa will just follow them anyway!
+
+/***EOF***/
 @Opening 
 After Roy captured Aquleia, other Etrurian powers gradually began to change their views and express their discontent for the Revolutionaries. Driven away from their palace, Roartz and Arcard fled to Ilia, which was still under Bern’s control.
 
@@ -4149,7 +4211,9 @@ Merlinus: Didn’t you know, Master Roy? Zephiel took the throne because the for
 Roy: And one of them is...
 Merlinus: ...That King Zephiel assassinated him.
 Roy: ...Does Princess Guinevere know about this?
-Merlinus: She must know something about it, if not all.@Opening
+Merlinus: She must know something about it, if not all.
+/***EOF***/
+@Opening
 Respecting Hector's dying request, Roy made his way west. Intent on reaching Lilina, Roy keeps a steady pace toward Ostia. On his way there, Roy passes through the territory of Laus, governed by Lord Erik. At a glance, Laus is a peaceful territory with vast meadows and clear streams. Beneath this beauty, however, lies treachery and great skullduggery...
 
 @Intro 
@@ -4287,7 +4351,9 @@ Roy: Free the world?
 Guinevere: Yes, he has always been obsessed with "liberating the world." He said that's the purpose of this war.
 Roy: What does that mean?
 Guinevere: I do not know... My brother is not so power-hungry that he would attempt to conquer the world. I'm sure he believes strongly in what he's done to Elibe. Regardless, that doesn't excuse the violence he has caused...
-Roy: Princess Guinivere...@Opening 
+Roy: Princess Guinivere...
+/***EOF***/
+@Opening 
 After meeting Niime, the "Hermit on the Mountain," the mysteries of Bern's
 Dragons were slowly beginning to unfold.
 
@@ -4399,6 +4465,8 @@ Guinevere: ...But now, my brother is in a place where my words cannot reach him.
 Roy: Even if it may resolve to the blade?
 Guinevere: ...I have made my resolve when I entrusted this task to you.
 Roy: I see. You have my word and loyalty, Princess Guinevere. I swear to the Fire Emblem that I will stop King Zephiel!
+
+/***EOF***/
 @Opening 
 After defeating Sigune, Roy headed for Edessa, located in the southeast of Ilia. Castle Edessa, owned by Zelot, leader of the Ilian mercenary knights, once served as the headquarters of the Pegasus Knight squads as well. However, with Zelot gone, Bern saw its chance and attacked the castle, seizing it and forcing the mercenaries and Pegasus Knights into submission.
 
@@ -4543,6 +4611,8 @@ Girl: Thank you! Thanks to you, we can now stand here safely. Please accept this
 Old Woman: Thank you!
  
 Guinevere: ...... I shall hand this to Roy...
+
+/***EOF***/
 @Opening 
 After rescuing Fa, Roy headed for Aquleia.
 
@@ -4822,7 +4892,9 @@ Guinevere: ...My name shall be stained in history, as the woman who betrayed her
 Roy: No...
 Guinevere: I shall be hated all my life as a traitor. Roy, promise me one thing. When we invade Bern, promise me that you will not harm the civilians...
 Roy: I promise. Please trust me.
-Guinevere: ...Thank you.@Opening 
+Guinevere: ...Thank you.
+/***EOF***/
+@Opening 
 After saving the hidden village of Arcadia, Roy's army found their way out of
 the desert, following Igrene's lead.
 
@@ -4958,6 +5030,8 @@ Percival: Good.
 Soldier: Here, we found this in the castle. Please take it. General Percival, please take care...of Etruria.
 Percival: I know. Leave it to me.
 Soldier: Yes!
+
+/***EOF***/
 @Opening 
 After taking Saul, a priest of St.Elimine, and Dorothy, his bodyguard, into their ranks, Roy and company enter Thria, southeast of Ostia.
 
@@ -5079,3 +5153,4 @@ Merlinus: There's been a rebellion among those who want to surrrender to Bern.
 Roy: Is Lilina safe?
 Merlinus: The spy says that she has been taken hostage. The rebels already took over Castle Ostia and are fighting the loyalist soldiers.
 Roy: We must hurry to Ostia! Lilina... Please be safe!
+/***EOF***/

@@ -316,7 +316,9 @@ Byleth: We must search for a new ruler.
 Claude: A new ruler, huh? I think I've got someone in mind.
 Byleth: I should be that ruler.
 Claude:  My friend... Do you really mean that?
-Claude: My dreams await in a future where Fódlan is no longer ravaged by war. There are things I want to see with you some day. I'll keep thinking about the best way to achieve that goal. Whatever we decide to do, we can't do it until we defeat the Empire. Fódlan can't welcome a new dawn until we win the war. Let's prepare as best we can.@Opening 
+Claude: My dreams await in a future where Fódlan is no longer ravaged by war. There are things I want to see with you some day. I'll keep thinking about the best way to achieve that goal. Whatever we decide to do, we can't do it until we defeat the Empire. Fódlan can't welcome a new dawn until we win the war. Let's prepare as best we can.
+/***EOF***/
+@Opening 
 Claiming the monastery at Garreg Mach as its home base, the Alliance army joins forces with the Knights of Seiros. Together, they begin to take up arms against the Adrestian Empire.
 
 @Dialogue 
@@ -596,7 +598,9 @@ Byleth: Do you hope she's dead?
 Claude: That's a dangerous question, Teach. To be honest, I've given it a lot of thought. All I know is that I still have a lot of questions I need to ask her.
 Claude: About the true history of Crest Stones and Heroes' Relics... and the truth behind the legend of Seiros and Nemesis. She has secrets. Too many of them for my comfort. Considering the state of the world... it's suspicious. You must be curious about what was done to you and what her plans were for you, right? And you never did learn about your mother, did you? None of our doubts will ever be clear unless we hear these answers from Rhea herself. In that sense, I absolutely hope Rhea is still alive. But as far as Fódlan goes, I do wonder what a world without Rhea would look like.
 Byleth: A world without Rhea?
-Claude: The majority of people in Fódlan believe in the Seiros faith that Rhea preaches. That's why they accept the noble system as if it were the only option, and refuse to associate with those who believe in anything else. That closed-minded philosophy is the reason why Fódlan's Throat is locked tight. But if you remove the archbishop who strictly advocates that doctrine, that world view is no longer absolute. There's room for free thought. The leadership of the church would undoubtedly fall to you, and you would hold the power to change the shape of the faith. Of the world. Then, for the first time, people would truly be free to think for themselves. To decide what's right, and what's wrong. Honestly, I believe Edelgard is probably hoping to achieve something very similar. But her methods require too much bloodshed. That's not something the world can get behind. Anyway... The best thing we can do is find Rhea and hear what she has to say. Heh, oops... I guess I've been going on for a while now. Sorry about that. You should get some rest.@Opening 
+Claude: The majority of people in Fódlan believe in the Seiros faith that Rhea preaches. That's why they accept the noble system as if it were the only option, and refuse to associate with those who believe in anything else. That closed-minded philosophy is the reason why Fódlan's Throat is locked tight. But if you remove the archbishop who strictly advocates that doctrine, that world view is no longer absolute. There's room for free thought. The leadership of the church would undoubtedly fall to you, and you would hold the power to change the shape of the faith. Of the world. Then, for the first time, people would truly be free to think for themselves. To decide what's right, and what's wrong. Honestly, I believe Edelgard is probably hoping to achieve something very similar. But her methods require too much bloodshed. That's not something the world can get behind. Anyway... The best thing we can do is find Rhea and hear what she has to say. Heh, oops... I guess I've been going on for a while now. Sorry about that. You should get some rest.
+/***EOF***/
+@Opening 
 The Alliance army successfully rendezvous with Judith in Ailell. With the addition of House Daphnel's forces, the time has come to invade Empire territory.
 
 @Intro 
@@ -876,7 +880,9 @@ Nardel: Hm, how polite. I've heard good things about you from Master Claude.
 Byleth: ...
 Nardel: You'll make me blush if you keep staring like that. Though I suppose people like me are something of a rarity here.
 Claude: As you can see, he wasn't born in Fódlan. Still, trust me when I say he is highly capable.
-Nardel: True. In fact, my capability is my only redeeming quality. I hope you'll continue to look after Master Claude, Professor.@Opening 
+Nardel: True. In fact, my capability is my only redeeming quality. I hope you'll continue to look after Master Claude, Professor.
+/***EOF***/
+@Opening 
 It is Imperial Year 1185. Nearly five years have passed since the fall of the monastery at Garreg Mach, and war continues to plague the lands of Fódlan. Fhirdiad has been captured. The Holy Kingdom of Faerghus is in shambles. The Leicester Alliance is on the verge of collapse, fractured by two opposing factions–those who support the Adrestian Empire and its ruler, and those who seek her demise. Meanwhile, under Emperor Edelgard’s rule of law, the Adrestian Empire continues to expand its reach. The path to a new Fódlan, unified by Imperial strength, may yet be in sight.
 
 @Cutscene 
@@ -1046,7 +1052,9 @@ Catherine: And leaving this place in ruins affects the safety of this area too.
 Hanneman: Agreed. There is also a great deal of valuable literature here.
 Ignatz: Then let's do it! If we all work together, we can restore the monastery to its original beauty!
 Seteth: We will require the aid of skilled craftsmen too. I shall seek out any such individuals who are willing to return to Garreg Mach.
-Hilda: Fantastic! I'll figure out how to split up the work and then we can get started!@Opening 
+Hilda: Fantastic! I'll figure out how to split up the work and then we can get started!
+/***EOF***/
+@Opening 
 On the streets of the Imperial capital, Alliance forces crush Edelgard's army and take up the perimeter of the Imperial palace. The time has come to face Emperor Edelgard and to free Rhea from her clutches.
 
 @Intro 
@@ -1217,7 +1225,9 @@ Hilda: We've really taken on something big. I wonder if our names will go down i
 Lorenz: My heroic name? Passed down to future generations? Haha! A worthy cause indeed.
 Byleth: It's our responsibility as the victors.
 Hilda: Since Edelgard can't do it, I guess it falls to us.
-Claude: They were trying to use the Imperial army to plunge Fódlan into war, but we nipped that in the bud. Now we just need to tear our their roots. And I know we have what it takes to do it.@Opening 
+Claude: They were trying to use the Imperial army to plunge Fódlan into war, but we nipped that in the bud. Now we just need to tear our their roots. And I know we have what it takes to do it.
+/***EOF***/
+@Opening 
 Claude leverages his victory at the Battle of Gronder to secure reinforcements from Alliance lords. Meanwhile, the Imperial army continues to tighten its defenses at Fort Merceus in anticipation of an attack on the Imperial capital.
 
 @Dialogue 
@@ -1584,7 +1594,9 @@ Lorenz: But, if-
 Judith: Save your objections for another day, Gloucester boy.
 Lorenz: Ugh...
 Judith: That said, there are more pressing matters to discuss. Our next step is to invade the Imperial capital, right?
-Claude: That's right. I'm sure Edelgard is eagerly awaiting our arrival in Enbarr. Reinforcements from the Alliance lords should arrive soon. Let's make sure we're ready to greet them.@Opening 
+Claude: That's right. I'm sure Edelgard is eagerly awaiting our arrival in Enbarr. Reinforcements from the Alliance lords should arrive soon. Let's make sure we're ready to greet them.
+/***EOF***/
+@Opening 
 With the destruction of Shambhala, the ambitions of those who slither in the dark are forever shattered. However, Rhea has suffered grievous injuries in the aftermath. Yet certain mysteries remain unsolved, so Claude and the others approach Rhea, who is now confined to her room due to her wounds.
 
 @Dialogue 
@@ -1932,7 +1944,9 @@ Claude: Future historians will refer to this day as the new dawn of Fódlan. Of 
 Claude: It's up to you now Teach. As for my path...
 
 @Narration 
-A rising flame was alight as the flow of time carved a new history for Fódlan. The ambitions of the Fell King Nemesis were crushed, averting what could have been the greatest crisis in the history of Fódlan. After 5 and a half years of war, a new age was set to begin. Country, faith, history...All that had once formed the order of the world was wiped clean. The heroes whose very hands saved Fódlan from a dark fate commenced with the building of a new society. The leaders of this new unified Fódlan began their walk down a seemly endless path-one toward a world that would cherish differences in race and belief, one where all life would be valued equally. Those clung to the hope that their path would not end with Fódlan—that it would someday span the seas to Dagda and beyond the Throat to Almyra...@Opening 
+A rising flame was alight as the flow of time carved a new history for Fódlan. The ambitions of the Fell King Nemesis were crushed, averting what could have been the greatest crisis in the history of Fódlan. After 5 and a half years of war, a new age was set to begin. Country, faith, history...All that had once formed the order of the world was wiped clean. The heroes whose very hands saved Fódlan from a dark fate commenced with the building of a new society. The leaders of this new unified Fódlan began their walk down a seemly endless path-one toward a world that would cherish differences in race and belief, one where all life would be valued equally. Those clung to the hope that their path would not end with Fódlan—that it would someday span the seas to Dagda and beyond the Throat to Almyra...
+/***EOF***/
+@Opening 
 Having repelled the Imperial vanguard, the Alliance army requests reinforcements from Judith, head of House Daphnel - the governing body in the northwestern regions of Alliance territory.
 
 @Dialogue 
@@ -2232,7 +2246,9 @@ Claude: Who do you think you're taking to, Teach? Preparations are in the works 
 Byleth: So, we'll be sneaking through?
 Claude: We can't be stealthy with so many people. But I have a scheme. Preparations are already in the works.
 Judith: So the Master Tactician is finally going to show us his true power. I'm looking forward to it!
-Claude: I'll do my best to live up to that name by making my scheme as impressive as possible.@Opening 
+Claude: I'll do my best to live up to that name by making my scheme as impressive as possible.
+/***EOF***/
+@Opening 
 Immediately following Edelgard's defeat, the Alliance army discovers the existence of another adversary - a group operating behind the scenes within the Empire. Claude suspects that if the true enemy is left unchecked, disaster will befall Fódlan. And so he cuts short the celebration, and the troops head for Shambhala, where this foe resides.
 
 @Dialogue 
@@ -2504,7 +2520,9 @@ Claude: Did you know Rhea's true identity?
 Byleth: Looking back on it now, I suppose I did.
 Claude: I once showed you a picture of a creature known as the Immaculate One. Seteth confiscated it, saying it must have been one of Tomas' personal possessions. The beast that appeared back then looked just like it. So Rhea is the Immaculate One. The book said it was a servant of the goddess, but wouldn't it make sense if beasts like that are actually children of the goddess?
 Byleth: …
-Claude: Rhea is in a grim state right now. It's possible she may not make it. But we have things we must ask her about. Once things calm down a little, let's go and see Rhea. Together. The truth can't be delayed any longer.@Opening 
+Claude: Rhea is in a grim state right now. It's possible she may not make it. But we have things we must ask her about. Once things calm down a little, let's go and see Rhea. Together. The truth can't be delayed any longer.
+/***EOF***/
+@Opening 
 Now in control of the Great Bridge of Myrddin, the Alliance army invades the Imperial territories. In response, the Imperial army garrisons soldiers at Fort Merceus.
 
 @Dialogue 
@@ -2855,3 +2873,4 @@ Lorenz: Their logic is sound. Though it is vexing that the Alliance's greatest g
 Claude: We should be glad that Holst is staying behind. Almyra aside, there's also no guarantee that the Imperial forces won't try to launch a surprise attack from the old Kingdom territory.
 Hilda: Um... If you have something you need to talk to my brother about, I'd be happy to send a letter.
 Claude: No, that's OK. I'm just glad to hear he's doing well. Please send him my regards.
+/***EOF***/

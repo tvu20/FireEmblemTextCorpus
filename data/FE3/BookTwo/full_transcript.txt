@@ -10,7 +10,9 @@ Jagen: Mmm... There's no avoiding that. But how many people will survive? I bet 
 Gotoh: Prince Marth. The altar is probably full of crazed barbarians and Mage Dragons that have lost their mind. They are being controlled by Gharnef's magic, and will definitely attack you. The dark priests that serve Gharnef also have fearful power. As this battle lengthens it will become fiercer, but don't stop and keep charging forwards! You must defeat Gharnef, and recover from him the divine Falchion sword that was stolen from Altea. Without the Falchion, you won't be able to defeat Medeus...
 
 @End
-Jagen: Your highness, the wall in front of us has collapsed!@Opening 
+Jagen: Your highness, the wall in front of us has collapsed!
+/***EOF***/
+@Opening 
 Marth and the others once again moved out from Altea, and headed towards the imperial capital of Millennium Court. But, along their way, they passed through the Kingdom of Gra, a land allied to Archanea. In the previous war Gra sided with the Dolhr Empire, which resulted in their king, Jiol, dying in battle and the destruction of the kingdom. The country was once a part of Altea, but they sided with Archanea after listening to Hardin's orders. Hardin found King Jiol's daughter, Princess Sheena, and allowed her to ascend the throne, and he then ordered reinforcements from Gra. Sheena received wild support from the citizens of Gra. To them, Sheena was their only hope. The youths all volunteered to become soldiers. They were happy to move out and have the chance to defeat their bitter enemy, Altea. But their dreams were shattered in an instant... Before the fast approaching Altean elites, Gra's soldiers lost all morale, and fled for their lives.
 
 @Intro 
@@ -62,7 +64,9 @@ Jagen: Lord Marth, if this battle continues it will become meaningless, and will
 Marth: Mmm, I was thinking the same. If we keep heading east, more needless blood will be spilt. So I have decided a different route for us to go. How about we go directly south from Menedi, and enter Millennium Court from Adria Pass?
 Jagen: You want the troops to cross that dangerous mountain path? It's too dangerous...
 Marth: I am already prepared for danger. Besides, we were able to conquer the dangerous Anri's Way, so this should be easy in comparison...
-Jagen: ...That's a fair point. If we can cross it, we can attack the enemy from the rear. Understood, we'll try that.@Intro 
+Jagen: ...That's a fair point. If we can cross it, we can attack the enemy from the rear. Understood, we'll try that.
+/***EOF***/
+@Intro 
 Gharnef: Come, boy, you want to stop me again? This time I won't spare you!!
 Marth: Gharnef, give my sister and the others back!! Where have you taken them!?
 Gharnef: Hahahaha... Those clerics are going to become sacrifices for the resurrection of the Shadow Dragon. They are lost forever. Soon the Earth Dragon King, Medeus, will be reborn in his true form, and we require the clerics as live sacrifices. However their souls shattered because they couldn't stand the pain. Not even I can help them now. Thanks to them, the Shadow Dragon will awaken. He no longer fears even the power of the Binding Shield. It's a shame that everything's already over. Marth... You will die here!!!
@@ -73,7 +77,9 @@ Gharnef: Hahahaha... Let me show you the might of my Imhullu spell...
 Gharnef: Haha... It's already too late... This world is done for... Urgh.
 
 @End 
-Jagen: Your highness, there's a stairway leading up!!@Intro 
+Jagen: Your highness, there's a stairway leading up!!
+/***EOF***/
+@Intro 
 Marth: ...! Isn't that my sister and the others!? Who are they protecting...? Damn... That's... Is that Medeus...?
 Jagen: Wait, if the princesses are in the way, your highness' sword will be unable to strike. We must think of something fast, otherwise the Earth Dragons will awaken, and then they will be in even more pain.
 Marth: What should I do...? How can I save them? Please tell me Jagen.
@@ -163,6 +169,8 @@ Caeda: I... When I left Talys island, I already swore an oath. No matter where y
 @Narration 
 And so the tragic War of Heroes finally came to an end. The seven kingdoms were unified by Prince Marth. The united Kingdom of Archanea was established and peace reigned. The tales of the heroes were remembered by future generations. Archanea’s hero saga… This is the story of the brave warriors who saved Archanea…
 
+
+/***EOF***/
 @Opening 
 Soon after reclaiming the Fane of Raman, Marth's army fears pursuit from the Archanean army and escapes towards Chiasmir Bridge. However, a new enemy attacks the Altean army upon reaching the central islet.
 
@@ -224,7 +232,9 @@ Hardin: Rebel soldiers... Come to die, have you? I'll show you the terror of Gra
 @End 
 Jagen: Please hurry, sire. The enemy is closing in on us.
 Marth: But everyone is still fighting. I can't just leave them behind.
-Jagen: Don't worry, everyone will escape safely and reunite with you at Khadein. Now sire, to the boat!@Opening 
+Jagen: Don't worry, everyone will escape safely and reunite with you at Khadein. Now sire, to the boat!
+/***EOF***/
+@Opening 
 Marth followed Xane and continued heading directly north. There he faced walls of towering mountains... As well as sheer cliffs and deep valleys... Then, after passing countless mountains... Suddenly, a scorching heat surrounds everyone. Magma flowing like rivers, and sounds of roaring, block their passage. This is truly a fearful sight.
 
 @Intro 
@@ -248,7 +258,9 @@ Xane: Naga took pity on you humans, with no way of protecting yourselves, so she
 Marth: Wait, Xane... Are you telling me...!?
 Xane: Yes: Gotoh is a divine dragon. What, you thought it was just me?
 Marth: Wa-wait, Xane. I still don’t understand. What exactly did you mean?
-Xane: Phew, my throat is really dry. I can’t stand the heat anymore. Marth, let’s hurry along.@Opening 
+Xane: Phew, my throat is really dry. I can’t stand the heat anymore. Marth, let’s hurry along.
+/***EOF***/
+@Opening 
 Marth was unable to reunite with Princess Minerva, and so, in order to help Ogma and the Grustian royal children, he decided to visit Wendell, who was once the children's guardian.
 
 However, the "Holm Beach" where Wendell resides is dominion of the infamous Macedonian Vikings. Countless pirates await in Marth's path. Will Marth be able to safely rescue the children...?
@@ -317,7 +329,9 @@ Jagen: No, I agree with you, sire. This attack was too soon. It happened far too
 Marth: That's preposterous! Are you implying that Hardin--with no provocation whatsoever--decided to attack his fellow nation? Are you seriously suggesting this was all an elaborate trap? No! I won't accept it... Hardin... why?
 Jagen: Sire... Princess Caeda, what of the others? Is Princess Elice safe?
 Caeda: Elice, she... She gave herself up in order to let me escape with this message. Marth... I'm so sorry. She wanted me to warn you, no matter what... Sniff...
-Marth: Caeda... Don't cry. I understand. Just knowing you're safe makes me happy. I should be the one apologizing. I shouldn't have left... You needn't have to go through this. We will take back Altea. Even if we have to fight Hardin, we WILL reclaim our homeland!@Opening 
+Marth: Caeda... Don't cry. I understand. Just knowing you're safe makes me happy. I should be the one apologizing. I shouldn't have left... You needn't have to go through this. We will take back Altea. Even if we have to fight Hardin, we WILL reclaim our homeland!
+/***EOF***/
+@Opening 
 Once upon a time, the region of Macedon was a territory under Dolhrian rule. A century ago, the dragonkin rulers sent many slaves to these wild forests, to excavate ruins and build a country. Many slaves were forced to work to their limits, barely fed, and then slaughtered.
 A young man stood up against such tragic conditions. Iote was his name. He and his companions fled to the forests and fought, astride wyverns, to free the slaves. After Dolhr's demise, the slaves established their own country in these now abundant lands. And the hero Iote was chosen as their first king. And so was born the Kingdom of Macedon, later feared as the domain of dracoknights.
 However, the might Macedon was stripped of Prince Michalis, said to be the second coming of Iote, and is now on the brink of losing Princess Minerva, the so-called "Red Dragon."
@@ -389,7 +403,9 @@ Marth: Jagen... you're a bag of surprises. To think you'd stand up against Lang 
 Jagen: Sire, are you underestimating me in my old age? Bwahaha... I'm not about to let youngsters like Kris hog all the glory just yet. Still, I'll admit it was somewhat foolish to contest with Lang, even if he did push my lord at every turn.
 Kris: Sire, Sir Jagen. What is our next plan of action?
 Marth: According to Lang, Ogma is on his way to Macedon. He probably intends to visit the village where Lord Wendell resides.
-Jagen: Understood. But, I worry about Lang... I pray that nothing bad shall happen...@Opening 
+Jagen: Understood. But, I worry about Lang... I pray that nothing bad shall happen...
+/***EOF***/
+@Opening 
 It is the second month of the third year in the history of the empire... Archanea's holy city of Pales is in the midst of a time of mysterious silence. Archanea, because of a civil war begun by the paladin Midia, has arrested many capable knights. However, Archanea still has twice the military power of Altea to fill the streets of Pales with. It has already been nearly a whole year since the expedition to Grust. And now, at long last, the final battle, which would decide the fate of both countries, was about to begin...
 
 @Intro 
@@ -429,7 +445,9 @@ Boah: Mmm... Of course we kept that a secret, and we also persuaded Nyna to hide
 Marth: I can't believe all that happened. ..... Where is Nyna now?
 Boah: When Hardin discovered that she had taken the Fire Emblem, he had her confined in her room. After that, she would still communicate in secret with me. However, Hardin found out and then wounded me. He also handed Nyna over to Gharnef.
 Marth: Gharnef...!?
-Boah: Mmm... Gharnef had always wanted to take Nyna. He said that the resurrection of the dark dragon required the blood of noble clerics... And so... He took Nyna... To use her as a live sacrifice... Lord Marth, I'm already done for. I will give my Thoron and Physic to you. I beg of you, please rescue Nyna. Even if Archanea is destroyed it no longer matters... I only wish for Nyna to be safe...@Opening 
+Boah: Mmm... Gharnef had always wanted to take Nyna. He said that the resurrection of the dark dragon required the blood of noble clerics... And so... He took Nyna... To use her as a live sacrifice... Lord Marth, I'm already done for. I will give my Thoron and Physic to you. I beg of you, please rescue Nyna. Even if Archanea is destroyed it no longer matters... I only wish for Nyna to be safe...
+/***EOF***/
+@Opening 
 Seeking the Lightsphere, Marth and his friends headed for the Tower of Thabes.
 
 Thabes is an ancient city buried under the sands, along with many treasures. The legend of Thabes, city of illusion, lured many adventurous men to the desert. However, in the end... not one of them ever returned. As the sages once said... stay clear of Mamorthod, the desert of death. There lies the cursed Dark City.
@@ -453,7 +471,9 @@ Xane: ...Gotcha!
 Marth: Xa... Xane!!!
 Xane: I’m really sorry. I couldn’t help it after seeing that serious expression on your face… Sorry, don’t be angry. I was ordered, by Gato, to wait here for you. While I was waiting I got more and more angry, wondering why I had to do something so boring. So I thought I’d think of a prank to pull on you. But, my Tiki impression was pretty good wasn’t it? Huh, what’s with the anxious face? Well, shall we get goin'? You wanted to see Lord Gotoh, right?
 Marth: Xane, how do you know Lord Gotoh? Just who are you?
-Xane: Well, lemme see. I don't think that really matters right now. Hey, put that jaw back in place and follow me.@Opening 
+Xane: Well, lemme see. I don't think that really matters right now. Hey, put that jaw back in place and follow me.
+/***EOF***/
+@Opening 
 Having liberated Grust, Marth and his companions accepted Wendell's request and stopped by the Fane of Raman in search of the missing orbs. However, the ancient temple built to worship Naga had been wrecked by constant warring, and was now nothing more than a den of thieves.
 
 "They're escaping with the temple's valuable treasures. We must catch them! Stay clear of the free company guarding Chiasmir Bridge. We cannot defeat them. It seems a dancer is lost inside the forest. We must find her before the bandits do!"
@@ -500,7 +520,9 @@ Marth: Jagen, do you know the legend of Naga?
 Jagen: Yes; only vaguely, however. It's said that a thousand years ago... when there was not one king in the lands, people lived in small villages. One day, terrible monsters descended and the humans were massacred, pushed to the brink of extinction. The few who survived prayed to the gods for salvation. The gods heard their prayers, and a gigantic warrior was sent down to earth. The warrior carried a gleaming blade of light in his right hand, and in his left hand, a shield embedded with five orbs. Then, after a fierce battle, he eradicated the monsters and returned to the heavens. He was our guardian deity, Naga, and this temple is dedicated to him. "He was the avatar of the gods: our guardian deity..." Your highness, you should know that line from the first chapter of the Raman Bible.
 Marth: With the blade of light and the five orbs... That is the legend of Naga...
 Jagen: Well then, sire. We have to cross the Chiasmir Bridge soon. We must hurry; if the enemy takes it, getting across will be nigh impossible.
-Marth: Alright then, inform the whole army: We cross Chiasmir Bridge at once. Make sure no one falls behind!@Opening 
+Marth: Alright then, inform the whole army: We cross Chiasmir Bridge at once. Make sure no one falls behind!
+/***EOF***/
+@Opening 
 Saint Archanea is the largest country on the continent. Its golden capital of Millennium Court has bathed in 600 years of proud history. Under the attack of Altea's allied army, it fell in just one day. The citizens of Archanea welcomed them as liberators, and supported them to their fullest. They also mentioned of their hatred towards Hardin and his personal guards. Everybody now calls Hardin the Dark Emperor. This was in hatred of Hardin, the murderer of countless people. If possible fighting would be avoided, but it as already reached this stage... Marth ra
 
 @Intro 
@@ -548,7 +570,9 @@ Marth: Really? It's good to see everybody well. But you all don't look too good.
 Nyna: Everybody is tired from battling Gharnef. But it doesn't matter now, so please don't worry.
 Marth: Really...? Nyna, I am sorry about Hardin. I couldn't save him.
 Nyna: It's fine. He was devoured by his own ambitions, so it is not unexpected that he was lost. Well, Marth, you should hurry back to your homeland. Everybody is probably worried about you. With your remaining time, you must live well. As long as there are still people in this world, your name will never be forgotten.
-^end@Opening 
+^end
+/***EOF***/
+@Opening 
 This truly is an unimaginably treacherous journey. 5000 meters... No, higher than that. Looking down, a sea of clouds can be seen. They have reached the summit of the cold mountain peak. Breathing is difficult... Dizziness is felt... Their vitality is fast approaching its limits.
 
 @Intro 
@@ -571,7 +595,9 @@ Xane: Around 600 years ago. To recover the shield, Gotoh spend many years search
 Marth: Really? ...So that was why Gotoh was looking for the lost jewels... the orbs?
 Xane: Yep, the Starsphere, Lightsphere and Geosphere... as well as the Darksphere and Lifesphere. The Lightsphere is in Gotoh's possession, that Starsphere was shattered and the Darksphere was given to Hardin by Gharnef.
 Marth: The Geosphere is in Altea and all that remains is the Lifesphere.
-Xane: Ah... Anyway, let's enter the temple. From now on I will also help you fight. Well, let's go!@Opening
+Xane: Ah... Anyway, let's enter the temple. From now on I will also help you fight. Well, let's go!
+/***EOF***/
+@Opening
 Khadein is an independent city-state, taking orders from no foreign nation. The Archmage has many pontifices under him, governing according to their counsel. In the previous war, Pontifex Gharnef allied with Dolhr and dragged Khadein into war, and the city suffered great damage as result. As Khadein had lost all its pontifices, Wendell became its Archmage and started rebuilding the city. However, Wendell left on a journey to fulfill a mission given to him by Gotoh. He then left Khadein in the care of two young men. They were two skilled and promising young mages... Merric and Arlen.
 
 @Intro 
@@ -607,12 +633,16 @@ Marth: Huh? Really, Lord Gotoh? If we have the Lightsphere, then we can save Har
 Gotoh: Well... If his heart is not completely consumed, then perhaps.
 Marth: Lord Gotoh! Please, lend the Lightsphere to me.
 Gotoh: If you come in person to the Ice Dragon's Temple where I reside, then you shall have it. But that will be no easy task. So, Marth. Do you have the courage to walk the path that Anri walked?
-Marth: Yes, I do! I will go!! Please, allow me to go! I must have the Lightsphere!@Opening
+Marth: Yes, I do! I will go!! Please, allow me to go! I must have the Lightsphere!
+/***EOF***/
+@Opening
 Once, there was a war known as the "War of Shadows," An epic battle between Prince Marth’s heroes and the Dolhrian Empire, which ended with the defeat of the Earth Dragon King, Medeus. The warriors who had united under the Fire Emblem returned to their own lands, devoting themselves to the reconstruction of their homelands. Among the nations that made up the "Seven Kingdoms of Archanea", Gra and Grust were devastated. Altea, Aurelis, Macedon, and Talys were left deeply scarred, and even the mighty Kingdom of Archanea was undergoing restoration.
 
 However, in the palace still shaken by war, one important event took place. Hardin, the younger brother of King Aurelis, was married to Princess Nyna, becoming the twenty-fourth king of House Archanea. After ascending the throne, Hardin aggressively restored the country in the twinkling of an eye, and formed a powerful army by gathering many soldiers. He then proclaimed the restoration of the Holy Archanean Empire, and himself Emperor.
 
-One year has passed since the war with Dolhr. The world seemed to be moving towards an era of peace. However, unbeknownst to man, the cogs of destiny had started spiraling out of order.@Opening 
+One year has passed since the war with Dolhr. The world seemed to be moving towards an era of peace. However, unbeknownst to man, the cogs of destiny had started spiraling out of order.
+/***EOF***/
+@Opening 
 Leaving painful memories behind, Marth and his companions left Grust. They landed in Macedon; their new mission to rescue Princess Minerva. After the War of Shadows, Macedon was led by Minerva, who exiled the oppressive generals and attempted to reform the military. However, the influential General Rucke opposed Minerva's peace-seeking ways. He assembled the exiled officers to instigate a coup d'etat. Caught unprepared, Minerva was captured by Rucke's followers, and his rebel army seized control of Macedon. Then, they dispatched powerful dracoknights to guard the country's forested borders.
 
 @Intro 
@@ -664,7 +694,9 @@ Kris: The Fire Emblem... I heard that in the last war, Princess Nyna entrusted y
 Marth: Indeed. I looked after this as Archanea's representative in the last war. But why give this to me now? Especially at a time when Archanea has so much influence under Emperor Hardin's reign? In this peaceful age, why is Princess Nyna giving me the "Champion's Proof"...?
 Linde: I don't understand either. Princess Nyna didn't explain why, just that I had to give it to you... I remember her eyes seemed so sad... I think she may have been crying...
 Marth: Princess Nyna crying?! What on earth has been happening...? Linde, after this battle ends, I will go see Princess Nyna. Until then, I want you to remain with us.
-Linde: Yes, Prince Marth!!@Opening 
+Linde: Yes, Prince Marth!!
+/***EOF***/
+@Opening 
 Marth barely succeeded in escaping, disembarking in the desert of Khadein. He elected to await his subordinates' safe arrival.
 
 Khadein, the city of magic, is a sanctuary for mages. Many prospecting mages come here and undergo rigorous training. Magic relies on containing nature's energies in "tomes" and "staves", freely manipulating these energies to harness great power. A few centuries ago, a lone sage founded an academy here, teaching magic's secrets. However, instead of bringing happiness, magic was soon used as a tool of war and a thing to be traded. The sage was disappointed, and vanished from the pages of history. Though there is no confirmation, some say that was the Archsage Gotoh. Currently, advanced magic like Aura cannot be made without the orbs' power, and their use is restricted to a few chosen ones. Those conditions are set by their creator, and they can only be inherited by those who qualify.
@@ -714,7 +746,9 @@ Yoder: Arlen... Was this really what you wanted...?
 
 @End 
 Jagen: The atmosphere inside the building seems somewhat strange.
-Marth: Indeed, something seems to be happening. Let's go, Jagen. I'm worried about Merric!@Opening 
+Marth: Indeed, something seems to be happening. Let's go, Jagen. I'm worried about Merric!
+/***EOF***/
+@Opening 
 The shocking news brought by Caeda was a terrible blow to Marth. Hardin was once not only a comrade-in-arms, but a trusted confidant and irreplaceable friend.
 
 "Yet... why attack Altea? What have I done wrong?"
@@ -766,7 +800,9 @@ Toras: General Lang... Altea is too strong...
 @End 
 Jagen: Sire, we've finally seized control of Grust. However, a number of enemies are concealed within the castle. Our job here is far from over.
 Marth: Yes, I know. Lang must be stopped here and now. Or else we forsake the people of Grust.
-Jagen: That’s right. He must be defeated at all costs… But we don’t know what dastardly plans he has prepared for us. We must take extra caution when fighting inside the castle!@Opening 
+Jagen: That’s right. He must be defeated at all costs… But we don’t know what dastardly plans he has prepared for us. We must take extra caution when fighting inside the castle!
+/***EOF***/
+@Opening 
 The surprising truth from Xane was a shock to Marth. Tiki was created as the daughter of the Divine Dragon King, Naga, and slept in the temple because of the king's will. The king's fear of Tiki's power was that of a loving mother's. If Tiki was to awaken, her tremendous power would eventually cause the destruction of the world... That is what the Divine Dragon King feared. However, Bantu, the king's servant, became attached to Tiki after watching over her for a period of hundreds of years became(sic). He awoke her from her sleep, and took her away. So Tiki only had 10 human years' worth of memory... "That is so sad, Tiki..." Marth was too bewildered to think.
 
 @Intro 
@@ -827,7 +863,9 @@ Gotoh: Oh… I have something to investigate right now. You see, Gharnef has alr
 Marth: Gharnef…!? But isn’t he dead?
 Gotoh: Yes, his body was destroyed, but his vile spirit lives on in the Dark Orb. He has also awakened the evil priests that served him, and they appear to be planning something terrible.
 Marth: Really…? I see, Gotoh. Well, we’ll move out then.
-Gotoh: Mmm… Once I find anything, I will contact you immediately. Good luck, Marth. Everything is in your hands. Please rescue dragons and humans from the path to ruin.@Opening 
+Gotoh: Mmm… Once I find anything, I will contact you immediately. Good luck, Marth. Everything is in your hands. Please rescue dragons and humans from the path to ruin.
+/***EOF***/
+@Opening 
 Under the guidance of Archsage Gotoh, Marth and the others headed to Macedon's north, to the "Wyvern's Dale". It is an undeveloped region populated with wyverns, and ruled by barbarians. But, there is no time to stop, because the fate of the world is in Marth's hands!
 
 @Intro 
@@ -857,7 +895,9 @@ Gotoh: Medeus could not tolerate the humans' actions against the Manaketes. So h
 Marth: He's going to resurrect again!?
 Gotoh: No, even an Earth Dragon shouldn't wake within a hundred years. Medeus is now changing his form. When he next awakens, he will become a fearful Shadow Dragon... No... Could it be... So that's why... Why Gharnef...
 Marth: Huh, what is it Gotoh!?
-Gotoh: Prince Marth, I finally understand why the clerics have been taken. Gharnef plans to use them to resurrect Medeus. To awaken a dragon requires the life force of females with pure and noble blood. Gharnef knew about this, so he went to capture the clerics. Mmm... Marth, we must hurry. The clerics are in grave danger. Medeus... He is going to resurrect once again!!@Opening
+Gotoh: Prince Marth, I finally understand why the clerics have been taken. Gharnef plans to use them to resurrect Medeus. To awaken a dragon requires the life force of females with pure and noble blood. Gharnef knew about this, so he went to capture the clerics. Mmm... Marth, we must hurry. The clerics are in grave danger. Medeus... He is going to resurrect once again!!
+/***EOF***/
+@Opening
 Grust has been liberated.
 
 All that remains is Olbern Keep, where General Lang remains barricaded. Lang used his influence to steal belongings, daughters, and lives from the people of Grust. Was there ever a man as cruel as he is?
@@ -909,7 +949,9 @@ Wendell: That's correct... You have seen the "Starsphere"--the holy orb with the
 Wendell: Unfortunately, the strain on the Starsphere was so severe that it shattered into twelve shards, which scattered into the sky. Lord Gotoh told me that this world has long been guarded by five orbs of mysterious arcane power, and that if even one of them is lost, the world will fall into irreparable ruin. By any means possible, we must gather the twelve star shards and restore the Starsphere.
 Marth: Is... Is this a joke? That the world could just end... This is all very hard to take in. But aren't these the star shards? If so, we already have a few. After we retake Altea, we'd be glad to help you find the remaining shards and orbs.
 Wendell: Of course... Your country was only just invaded by the Empire... I understand, Prince... I too shall fight to restore Altea, then. Thinking about it, my meeting with you is like a sign from Lord Gotoh himself. In that case, I shall surrender myself to fate. But, please, let's stop by the Fane of Raman. We may be able to find some star shards in the ancient temple.
-Marth: Understood. If it's the Fane of Raman, we can go there on our way to Altea!@Opening 
+Marth: Understood. If it's the Fane of Raman, we can go there on our way to Altea!
+/***EOF***/
+@Opening 
 One year has passed since the War of Darkness ended. Thanks to the efforts of Prince Marth, the Kingdom of Altea, devastated by war, finally begins to stabilize. The knight Jagen, who succeeded the ill Morodof, became the prince's tactician and helped him rule the country, by his side. Afterwards, Princess Caeda was welcomed to Altea, and her marriage with Prince Marth was announced. The citizens were happy for the pair's fortune and Caeda was passionately welcomed to the country. However... Nearing the day of the wedding, a letter suddenly comes from the imperial palace, containing an imperial order. 
 "Dear Prince Marth of Altea, At the Kingdom of Grust, occupied by Archanea, a huge rebellion has broken out. I request for your country to subdue Grust. Your highness, please send Altea's full army immediately, to quell Grust's rebellion." -Emperor Hardin. 
 The Kingdom of Archanea is the sovereign state to Altea, and its orders must be followed. The helpless Marth orders the knight Cain to protect his kingdom. And he leaves, along with Jagen and the others, to an expedition to Grust.
@@ -1006,7 +1048,9 @@ Marth: Wait!! Lang! Release them at once!
 Kris: Sire! Give me the order, and I'll get them safely back at once!
 Jagen: Sire, don't do it!! You too, Kris! If we oppose Lang right here, right now, we run the risk of being branded traitors by Archanea.
 Marth: But Jagen, are you telling me to simply allow Lang to take them?! I cannot stand for that...
-Jagen: I understand how you feel, sire... But please remain patient for a little longer. If we head to Macedon... then rescue Princess Minerva, Macedon will surely lend us its strength.@Opening 
+Jagen: I understand how you feel, sire... But please remain patient for a little longer. If we head to Macedon... then rescue Princess Minerva, Macedon will surely lend us its strength.
+/***EOF***/
+@Opening 
 To avoid needless battle, the Altean army decided to cross the central mountain range, said to be impassable for a large army. Going through Adria Pass, one will soon reach the city of Pales. Hurry, we can't let the enemy spot us! We must charge straight through!! Marth and the others were anxious, but they carried on advancing across the narrow mountain road. But they didn't expect, in the middle of the cliff, to be ambushed by an unfathomable enemy. They were the northern Kingdom of Aurelis' elite squad, the "Wolfguard", who had headed south to aid Archanea.
 
 @Intro 
@@ -1041,7 +1085,9 @@ Marth: Jagen, it seems we've finally crossed the peak. Millennium Court isn't fa
 Jagen: Yes, if we go down from here, we will reach the capital of Millennium Court in an instant. Also, your highness, I just received news of an attempted coup in Millennium Court. The knights and civilians who opposed Hardin's actions rebelled against him. It seems their leader was Lady Midia.
 Marth: What! Midia...? What happened?
 Jagen: Unfortunately Lady Midia was defeated and was captured... Each day many people are executed. It is only a matter of time before Lady Midia shares the same fate.
-Marth: Damn, Hardin... I can't believe that he would do that. Alright, let's go and rescue Midia! We must hurry to Millennium Court and end this once and for all. Jagen, let's go!!@Opening 
+Marth: Damn, Hardin... I can't believe that he would do that. Alright, let's go and rescue Midia! We must hurry to Millennium Court and end this once and for all. Jagen, let's go!!
+/***EOF***/
+@Opening 
 Marth and the others were transported to Altea's outskirts by Gotoh's magic. They were ready to begin the battle to reclaim their homeland. The commander of Archanea's army, General Eibel, had ordered the Gra Knights to charge, to buy time. At the same time he prepared many dishonorable tactics, and waited for the chance to defeat Altea's army in one swift blow. Before his fond homeland, Marth's battles were about to begin once again. "We will reclaim our captical of Anri!! We will reclaim our homeland!!" Prince Marth's voice resounded through Altea's skies. They had travelled a difficult journey, but their destination was finally reached.
 
 @Intro 
@@ -1095,7 +1141,9 @@ Eibel: My Archanea army could be defeated...?
 Marth: That was a fierce battle. Is everybody alright?
 Jagen: Don't worry, they have been awaiting this day for a long time.
 Marth: Archanea's actions were too cold-hearted. They even had innocent citizens killed. How can I apologise to the citizens...? I only bring trouble to everybody... Perhaps I'm not fit to protect this country.
-Jagen: No, your highness, you're wrong! Your highness, you have a gentle heart, so that is why no matter what hardships, we can endure them. We believe in your highness, so that is why we follow you. Your highness, please raise your spirit!! We still haven't reclaimed Altea castle. There are probably many enemies awaiting us, but this is our castle. We already know how to fight this battle. Well, Lord Marth! Let's go!!@Opening 
+Jagen: No, your highness, you're wrong! Your highness, you have a gentle heart, so that is why no matter what hardships, we can endure them. We believe in your highness, so that is why we follow you. Your highness, please raise your spirit!! We still haven't reclaimed Altea castle. There are probably many enemies awaiting us, but this is our castle. We already know how to fight this battle. Well, Lord Marth! Let's go!!
+/***EOF***/
+@Opening 
 This was a fierce battle like no other. But, their homeland of Altea has been liberated. All that remains is the castle... If I could regain Altea castle, where I was born... Everybody, thank you... I really must thank you all for placing your trust in me... Before Marth's face flowed shimmering tears... Even the girl, who gently wiped his tears away, couldn't prevent her own tears...
 
 @Intro 
@@ -1139,3 +1187,4 @@ Gotoh: That I don't know, but I bet it's not anything good. The chain of events 
 Marth: Gotoh! Where is he now?
 Gotoh: I don't know, but I bet Gharnef's next target will be Princess Nyna. So he is probably at Millennium Court...
 Marth: I see. We will go to Millennium Court. I will rescue Hardin from the Darksphere's influence. I will defeat Gharnef and the dark priests... And I will rescue the captured clerics!!
+/***EOF***/

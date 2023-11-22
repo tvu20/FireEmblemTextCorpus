@@ -44,6 +44,8 @@ Nyna: Bravo, Marth. On behalf of House Archanea, I wish to extend my heartfelt c
 Marth: Thank you, Nyna. But it's still too soon to celebrate. We haven't freed the castle yet.
 Malledus: Sire, your soldiers have assembled for the castle raid. Perhaps you could say a few words first...
 Marth: Altean warriors... Brave comrades. The road has been long, but at last we have driven Dolhr from my homeland. There are not words to express my gratitude to you all. You gave Altea back to me. Thank you... Thank you. ...An army of foes still haunt my castle. I mean to kick them out. Ready, my friends? Let's send these varlets scurrying!
+
+/***EOF***/
 @Opening
 One thing could always be said about Galder Harbor, the mainland port nearest Talys: it never had much in the way of riches, but neither did it have much trouble. All that changed when a pirate crew fell upon the town and made it their hideout. Here, in Galder, history records Marth’s first steps toward freeing his homeland.
 
@@ -98,6 +100,8 @@ Gomer: Augh... Fiends, ye be...
 
 @End 
 Villager: You have our gratitude, sire, for finally chasin’ those pirates away. Now, as I hear it, you plan to march on to Aurelis…That’ll take you right up through the Ghoul’s Teeth. With all due respect, sire, you’re taking a great risk crossin’ those mountains that’s Soothsire territory. The Soothsires are fearsome bandits, always raidin’ the villages and harryin’ what travelers dare pass by. And the swordsman with ’em- goes by the name o’ Navarre- he’s a terror with a blade, so they say. If you go up there, keep your wits about you- or you won’t come back down.
+
+/***EOF***/
 @Opening
 Marth, prince of Altea was lucky. Though Dolhr took from him his kingdom and all but a handful of knights, they could not take his life. Marth lived and made it to the eastern isle of Talys. Talys was a small border kingdom, with no grand order of knights to boast of, but its king selflessly gave Marth use of the isle's eastern fortress. And as he saw the boy shake with anger and grief, he also gave wise counsel: "Prince Marth," he said, "I do not doubt you love your sister something great. But you must be patient... Time is on your side. If you stay here, and grow stronger, a time will come when you can help her." So Marth stayed in Talys, protected by its kind people, and the years went by...
 
@@ -129,7 +133,9 @@ Gazzak: The might of Altea, ye say, now? Har! Ye sprogs look t’be a mite short
 Gazzak: Rrgh... Ye'll pay, dog...
 
 @End
-Talys King: Ah, Prince Marth! You have saved us in our hour of need. Please accept my thanks. Lad, I believe you are ready. If you wish to seek out allies in Aurelis, I will give you what soldiers I can to see you arrive there safely. Captain Ogma is a fine swordsman, brave and true. I know he and his fighters will serve you well. Another thing...During your travels, you are certain to meet many who despise Dolhr. Some may be hiding in villages; other may have been captured or forced to fight against their will or better judgment. It falls upon you to find these individuals and win them over your cause. Understood, lad? Then go! The time has come! Be patient, steady, strong: I know you will do great things.@Opening 
+Talys King: Ah, Prince Marth! You have saved us in our hour of need. Please accept my thanks. Lad, I believe you are ready. If you wish to seek out allies in Aurelis, I will give you what soldiers I can to see you arrive there safely. Captain Ogma is a fine swordsman, brave and true. I know he and his fighters will serve you well. Another thing...During your travels, you are certain to meet many who despise Dolhr. Some may be hiding in villages; other may have been captured or forced to fight against their will or better judgment. It falls upon you to find these individuals and win them over your cause. Understood, lad? Then go! The time has come! Be patient, steady, strong: I know you will do great things.
+/***EOF***/
+@Opening 
 Having won the day and putting Camus and his Sable Order to rout, Marth and the League moved on to the mountains in eastern Grust, to crush the last of the opposition. The surviving Grustian soldiers, in a mad attempt to hang on to their lives, took all the residents of a nearby village hostage to keep Marth from striking. However, they could not have picked a worse village to harass...
 
 @Intro 
@@ -174,7 +180,9 @@ Ymir: Since you came to the villagers’ rescue, how ’bout I help you out as a
 Marth: You mean... join our army?
 Ymir: I’m strongest in the land! Well, second strongest, at least. I can hold my own in battle. But if you don’t want a monster in your ranks, I understand...
 Marth: Monster? You’re a giant among men, to be sure, but a hero as well! Any warrior who can fend of an entire army is welcome among us!
-Ymir: Then count me in! Let’s see how many more armies break themselves against me, eh!@Opening
+Ymir: Then count me in! Let’s see how many more armies break themselves against me, eh!
+/***EOF***/
+@Opening
 After a hard battle, Marth’s Altean Army- for it had grown to be called such- set foot at last in the kingdom of Aurelis. However, joining his might to that of the Aurelians would have to wait. As Marth descended into the vast green lea separating his troops from theirs, he heard a terrible sound: the galloping of enemy destriers, far away…then closer… Then far too close.
 
 @Intro 
@@ -242,7 +250,9 @@ Bentheon: You can defy us, yes... But you will never defeat us.
 Bentheon: W...what...
 
 @End 
-Elder: Prince Marth, you have our thanks for liberating the south castle. You’ll find Captain Hardin protecting the king and the lady Nyna at the Northern Fortress, located in Aurelis. When you find him, please be sure to give him this silver sword.@Opening 
+Elder: Prince Marth, you have our thanks for liberating the south castle. You’ll find Captain Hardin protecting the king and the lady Nyna at the Northern Fortress, located in Aurelis. When you find him, please be sure to give him this silver sword.
+/***EOF***/
+@Opening 
 After Medeus's demise, Dolhr would relax its shadowy grip on the land and fade into obscurity: the Empire was finished. The fires of war that had raged across Archanea would die, and light would come to take darkness's place. But before any of that came to pass, there were a few final moments of Marth's tale that need telling...
 
 @Dialogue 
@@ -277,7 +287,9 @@ Nyna: Marth, do not blame yourself. ...Remember Anri and Artemis. We are their d
 ^end
 
 @Narration 
-So concludes the tale of Falchion, blade of light; Marth, its wielder; and his battle with the Shadow Dragon. Herein its events have been chronicled, that none may ever forget.@Opening 
+So concludes the tale of Falchion, blade of light; Marth, its wielder; and his battle with the Shadow Dragon. Herein its events have been chronicled, that none may ever forget.
+/***EOF***/
+@Opening 
 The long war had been fought, Archanea’s many lands freed, and now the League had cornered their archenemy within his castle. They broke into four groups and stormed the four gates of Dolhr Keep- unaware that this was exactly what Medeus was expecting. Bravely, these warriors fate had chosen steeled themselves for one last struggle.
 
 @Intro 
@@ -300,7 +312,9 @@ Medeus: Foolish humans! You dare disturb me while I slumber? Oh, how you will re
 Medeus: Nngh... Defeated again... by humans! Know this, Altean prince... That light which surrounds you is only a temporary respite. So long as the darkness in your hearts continues to sustain me... I cannot be... destroyed...... Rrraaahhh!!!
 
 %Nagi,Medeus 
-Medeus: Hmm? So... I am not the only dragon revived. I had heard you perished the last time. No matter; you've recovered even less of your power than me. This time, you have no chance!@Opening 
+Medeus: Hmm? So... I am not the only dragon revived. I had heard you perished the last time. No matter; you've recovered even less of your power than me. This time, you have no chance!
+/***EOF***/
+@Opening 
 Aurelis was free, but Marth and his army- now known as the Archanean League still had much work ahead of them. They followed the Middleroad south, bound for Archanea Palace- a perilous route, for it took them right into Lefcandith Valley and the jaws of trouble. The countless fortresses lining the valley made it a veritable gauntlet and compounding the danger was the presence of the Whitewings, a knightly order led by Princess Minerva of Macedon. It would be a fierce battle.
 
 @Intro 
@@ -337,7 +351,9 @@ Marth: Manaketes? You mean the dragonkin?
 Malledus: Yes, sire. I was not sure how much knowledge you had of the Manaketes. The Manaketes inhabited our continent long before the dawn of humanity. However, ordinarily their draconic disposition stayed suppressed; their power sealed within special stones. Thus rather than terrorizing humankind, they chose to live simple, peaceful lives in the quieter reaches of the world. However, a century ago, something changed. Medeus, the Shadow Dragon, surfaced in the Dolhr region and created what would be a great empire there. His forces invaded the human realm, and in the blink of an eye, he had subjected all of the land. It was then, in that darkest hour, that a young man named Anri appeared, and rose against the Shadow Dragon. In his head was a shining blade of light- Falchion- which he plunged into Medeus- and the tyrant was no more. Anri went on to found Altea- and the rest, I believe, you know.
 Marth: Yes, Malledus… Is that what this was about? I do know my own kingdom’s history. And I know what I must do, now that Medeus has revived and restored Dolhr to its former might.
 Malledus: You are Anri’s last male descendant, the only one who can wield Falchion. You must find the blade that was taken, and put an end to Doluna and its misguided Manakete rulers.
-Marth: I will finish what my father started. I will avenge him, and bring light back into our world.@Opening 
+Marth: I will finish what my father started. I will avenge him, and bring light back into our world.
+/***EOF***/
+@Opening 
 The League had reached Archanean soil, so Marth gave himself leave to recuperate in Port Warren, a harbor town known for commerce. Coin alone kept the town free and they paid Dolhr dearly in taxes to preserve their autonomy. Naturally, then, theirs was a warm welcome when the Archanean League arrived. Marth's soldiers were glad to rest there, nestled between mountain and sea, but their joy was spoiled by news that the enemy was fast approaching- as harsh an awakening as a rock beneath the pillow.
 
 @Intro 
@@ -387,7 +403,9 @@ Kannival: W-what are you doing all the way out here? Blast, I'm finished...!
 Kannival: Long...live...Grust! Nngff...
 
 @End 
-Malledus: Sire, it's too dangerous to stay here. We must flee to Pyrathi. There are risks there, too- the Pyrathi king Mannu is said to be a descendant of the dragonkin, a Manakete. Still, we've no other recourse. We'll just have to take our chances... Keep your wits about you, sire.@Opening 
+Malledus: Sire, it's too dangerous to stay here. We must flee to Pyrathi. There are risks there, too- the Pyrathi king Mannu is said to be a descendant of the dragonkin, a Manakete. Still, we've no other recourse. We'll just have to take our chances... Keep your wits about you, sire.
+/***EOF***/
+@Opening 
 Tired from so many long battles, Marth and the League arrive at last in Archanea, Princess Nyna's mother kingdom. Past the mountains lay the royal palace, known to some as Millennium Court; and within its walls awaited many treasures and captives the enemy had taken. With each step, Marth draw nearer to one of the great waypoints on his journey.
 
 @Intro 
@@ -479,7 +497,9 @@ Nyna: Then...we've won!
 Marth: Not quite yet. We can enter the palace, but Dolhr still holds strong inside her walls. Also, a number of knights are being held captive inside.
 Nyna: Loyal soldiers who fought for their kingdom and their people...Marth, I wish to free them as soon as possible.
 Marth: I understand. We should strike now, then, before enemy reinforcements can arrive. I believe we have a good chance.
-Nyna: Thank you, Marth. As always, I am counting on you. Worry no more.@Opening
+Nyna: Thank you, Marth. As always, I am counting on you. Worry no more.
+/***EOF***/
+@Opening
 The Macedon that Minerva and Maria remembered best was one of peace: a quiet, prosperous kingdom famed for the flying beasts favored by dracoknights. But then their brother, Prince Michalis, succumbed to his lust for power. Despite his sisters’ adamant opposition, he swore allegiance to Dolhr; and when Macedon’s Dragoons took flight, the world suffered. Even now that the tides had turned, Michalis took position for one last stand. Dracoknights filled the sky end to end, eager to pluck Marth from the Earth.
 
 @Intro
@@ -537,7 +557,9 @@ Malledus: Then shall we go to Thabes? Lord Gotoh said the city lies someplace fa
 Marth: Yes, in the heart of the desert...
 Malledus: Thabes is an old city... None in recent memory have gone there and returned alive. Within its walls remain many powerful apparatus crafted of long-forgotten magic. Lord Gotoh believes Gharnef is harnessing their power, and that is why he wields such influence over the continent.
 Marth: And he has Imhullu as well... This will be a struggle.
-Marth: Still, Gharnef’s reign must end. The world was so much more beautiful before he painted it red...@Opening 
+Marth: Still, Gharnef’s reign must end. The world was so much more beautiful before he painted it red...
+/***EOF***/
+@Opening 
 Khadein, city of magic. Ever since Gharnef named himself ruler of this mecca for the magically inclined, the sands surrounding it had run red. Many knights had tried to oust Gharnef, but what defense did they have against the mages the fiend had bent to his purpose? One by one the heroes fell to blades unseen and fires within their armor; and it was not long at all before Khadein's wickedness outstripped its wisdom.
 
 @Intro 
@@ -566,6 +588,8 @@ Gotoh: Yes. The mage who wields it cannot be killed; cannot be so much as scratc
 Marth: Which is...?
 Gotoh: It is called Starlight. One blast is enough to break through Imhullu's shadowy protection. But to cast the magic, you need two orbs: the Lightsphere and the Starsphere. Heed me, Marth. When you find the Lightsphere and Starsphere, bring them to me. Then I will give you the magic you seek. Then you will have Starlight, and with it, Gharnef's reign will end.
 
+
+/***EOF***/
 @Opening 
 After taking back the palace, the League rode across Akaneia, freeing the greater part of the kingdom as they went- all except the west. A landed knight there named Horace, who had betrayed Akaneia, to join Doluna, continued to stubbornly hold out against Marth’s forces. Nyna could not fathom why such a fiercely loyal knight would turn to treachery, but with her other knights calling for Horace’s blood, she had no choice but to give in and ask Marth to bring the traitor to justice.
 
@@ -626,7 +650,9 @@ Nyna: And Horace?
 Marth:I am sorry...
 Nyna: Poor Horace. Marth, in his heart, I do not think he truly wished to betray Akaneia.
 Marth: Nor I. Doluna must have threatened to do harm to his people.
-Marth: So Horace capitulated, to keep them safe... He acted to save lives, yet the world will brand him a traitor. That one word will come to define him... and none will ever know the traitor’s worth.@Opening 
+Marth: So Horace capitulated, to keep them safe... He acted to save lives, yet the world will brand him a traitor. That one word will come to define him... and none will ever know the traitor’s worth.
+/***EOF***/
+@Opening 
 The holy kingdom of Archanea had come into being six centuries earlier, when the region's numerous city-states were unified under one monarch. The first king, Adrah, had fought valiantly to accomplish this, wielding the three weapons he came to call his regalia- gifts from the gods, some said. The kingdom Adrah forged was pronounced holy; its kings were esteemed. With Archanea's aid, six more independent kingdoms sprang up in their own time. But Archanea was always the greatest - and now, Marth was about to take his first walk through its historic palace's halls.
 
 @Intro 
@@ -648,7 +674,9 @@ Volzhin: Do not think...you have won... Dolhr...is undying... Nngh!
 Nyna: Marth, thank you. Were it not for you, I may never have seen the halls of my house again.
 Marth: I could not have done it alone, Nyna. The whole Archanean League fought tooth and nail this day.
 Nyna: True, and yet all the same... I have little doubt your exploits are the ones that will live on in song. I have a gift for you, to celebrate your achievements here. This bow is called Parthia. It is one of the three regalia that have been passed down through House Archanea. The other two regalia- the sword Mercurius and the lance Gradivus are not here. The enemy took them when they fled. I am sorry. I had hoped to give you all three, and thus aid you in the battles to come....
-Marth: Your concern for me is more than enough, Nyna. One day, I will get your family's treasures back and use them to crush Dolhr. I swear it on this emblem of fire!@Opening 
+Marth: Your concern for me is more than enough, Nyna. One day, I will get your family's treasures back and use them to crush Dolhr. I swear it on this emblem of fire!
+/***EOF***/
+@Opening 
 For Gotoh to create the magic that could defeat Gharnef, he needed two orbs: the Lightsphere and the Starsphere. Marth and company set off to Chiasmir and the Fane of Raman to find them, but in their path stood a cohort of Grustian knights known as the Sable Order. The bridges across the strait would soon be choked with the brave and the dead…
 
 @Intro 
@@ -706,7 +734,9 @@ Malledus: Yes, sire; but unfortunately, they may not be all we find. The fane is
 Nyna: Perhaps we should reconsider, Marth...
 Marth: Perhaps... But if none are spared from the blaze, where do the rumors come from? Besides, we need those two orbs.
 Malledus: Well, might I suggest you take in just a few able companions, and let the sleeping dragons lie?
-Marth: Sage advice. I’ve no desire to tear apart a holy place, whether the goddess is home or not... I’ll choose a handful of elite to search for the orbs with me.@Opening 
+Marth: Sage advice. I’ve no desire to tear apart a holy place, whether the goddess is home or not... I’ll choose a handful of elite to search for the orbs with me.
+/***EOF***/
+@Opening 
 With the aid of the White Sage Gotoh’s powerful Warp magic, Marth and company were transported to the faraway city of Thabes. Once, Thabes was an advanced civilization; but only its decay advanced now. The League traced the lifeless streets to the temple at the city’s heart, somewhere within its walls Gharnef was waiting, and now, Marth must wrest Falchion and his sister, Elice, from the fiend’s grip.
 
 @Intro 
@@ -755,7 +785,9 @@ Elice: Yes, but Gharnef found it... in the Resurrectory.
 Marth: The Resurrectory? What was it doing in a temple in the middle of Dolhr?
 Elice: I could not say. But that was why Gharnef kept me alive: he wished me to wield it. The staff of Aum’s power can only be channeled by women of royal blood. Marth, you are going to Dolhr, are you not?
 Marth: Yes. I must settle things with Medeus.
-Elice: Then take me to the Resurrectory along the way to claim the staff. Aum works but once, but I will use it to revive a lost comrade.@Opening 
+Elice: Then take me to the Resurrectory along the way to claim the staff. Aum works but once, but I will use it to revive a lost comrade.
+/***EOF***/
+@Opening 
 Grust would harry the League no more. Marth led his forces on to Macedon. However, Macedon’s Dragoons were ready to waylay them at the border; countless reinforcements hovered within the fortresses, waiting to strike…Would Marth be able to lead the League safely through the gauntlet?
 
 @Intro
@@ -779,7 +811,9 @@ Gotoh: I see you have made it to Macedon. You will find me in a village north of
 Marth: What?! You are certain? Where is she now?
 Gotoh: Thabes, city of illusion. Gharnef took her with him when he fled. I pray you rescue her soon.
 Marth: I will!
-Gotoh: But first, bring me the two orbs. Without Starlight’s mighty blast, Gharnef will only add your life to the list of things he has taken from you.@Opening
+Gotoh: But first, bring me the two orbs. Without Starlight’s mighty blast, Gharnef will only add your life to the list of things he has taken from you.
+/***EOF***/
+@Opening
 Marth and his knights took refuge in a forest near Altea's borders, lying low while they waiting for the right chance to escape the kingdom. Before long, the enemy grew less watchful: the time to slip away had come. Still, the prince could not quell the sadness in his heart for his sister Elice.
 
 @Intro 
@@ -900,7 +934,9 @@ Marth: I am a craven. Powerless to save my sister, to staunch my kingdom's wound
 Jagen: This...was your only recourse, sire. But surely, one day, you will be able to set things right...
 Marth: "Surely"? Why do words of such conviction smack so much of uncertainty when spoken? Not surely, Jagen. Assuredly. Gra will pay for their acts. Today, though, allow me to wallow in this pain, to feel every awful twist of it. I never want to forget.
 Jagen: Sire...
-Marth: I will return, Altea! Your prince will return to you one day!@Opening
+Marth: I will return, Altea! Your prince will return to you one day!
+/***EOF***/
+@Opening
 Long ago, Medeus, king of the dragonkin, conquered the continent of Archanea, beginning an age of fear and despair for all its people. That tyranny was broken, however, when an unlikely hero intervened. A young man hailing from the Altea region appeared with a divine blade in hand. He stood against the Shadow Dragon, and struck him down. For some time after, the land enjoyed an age of peace. However, after a century's passing, the Shadow Dragon returned. He forged an alliance with a fiendish sorcerer who sought to rule the world, and their combined might toppled kingdom upon unsuspecting kingdom.
 Again, darkness threatened to engulf the continent. It fell upon the king of Altea, sole descendant of the dragon-slayer hero, to 'sally forth with the divine blade and fulfill his blood destiny.
 His son, Prince Marth, remained at home with the boy's mother, his elder sister, and a garrison manned by Altea's neighbor and ally, Gra. Thus the boy applied himself to the ways of both pen and sword, until one day...
@@ -940,7 +976,9 @@ Elice: Marth, I need you to listen to me. You must flee the castle. Go on withou
 Marth: What?
 Elice: We've not many soldiers left...This is hard to bear, I know, but the castle is lost. We must face that. I will look for Mother and join you as soon as I can. You find Jagen and get away from here- far away. Understand?
 Marth: ...All right. But promise you won't be long.
-Elice: "Goodbye, Marth. May you live long...@Opening 
+Elice: "Goodbye, Marth. May you live long...
+/***EOF***/
+@Opening 
 Grust had caught the League unawares, forcing them to flee to Pyrathi. But the kingdom of Pyrathi seldom made contact with the outside world, and their king, Mannu, was wroth when he heard of the League's unexpected visit. There were whispers Mannu was a dragonkin- rumors soon to be proved true.
 
 @Intro 
@@ -958,7 +996,9 @@ Mannu: Foolhardy humans, defying a Manakete king! Tremble now, and feel the last
 Mannu: What...? Slain, by this fangless coward and his minions?
 
 @End 
-Catria: Prince Marth. I am Catria, of the Whitewinged Order of Macedon. I have come with a request from our mistress, the princess Minerva. She is planning to lead us against Dolhr in rebellion; however, her hands are tied so long as the enemy holds her younger sister, the princess Maria, captive. Will you rescue Princess Maria from their clutches, that my Whitewing sisters and I might join in your fight?@Opening 
+Catria: Prince Marth. I am Catria, of the Whitewinged Order of Macedon. I have come with a request from our mistress, the princess Minerva. She is planning to lead us against Dolhr in rebellion; however, her hands are tied so long as the enemy holds her younger sister, the princess Maria, captive. Will you rescue Princess Maria from their clutches, that my Whitewing sisters and I might join in your fight?
+/***EOF***/
+@Opening 
 Trace a line around the continent’s north-eastern plains, and you have Aurelis. This kingdom alone had somehow resisted Dolhr’s attempts to conquer it, but only by some miracle. By the time Marth arrived in Aurelis, much of its territory had already been carved up by Dolhr’s ally Macedon. Still, the king’s younger brother, Hardin, refused to give up without a fight. The people called him Coyote, and he intended to live up to the name. Since its founding, Aurelis and the holy kingdom of Archanea shared close ties and months ago Princess Nyna of Archanea had come to Hardin’s aid. By his side, she had called on the people to fight- but few remained to answer. Macedon’s finest soldiers were closing in. Nyna knew they were out of time…
 
 @Intro 
@@ -1009,7 +1049,9 @@ Merach: Princess Minerva bade me guard this castle in her absence. You shall not
 Merach: Heh… You think you’ve won, wretch? Far from it…
 
 @End 
-Aurelis King: Prince Marth, your arrival could not have been better timed. Please accept our gratitude. Princess Nyna of Archanea is en route from the fortress. I am sure she will wish to meet you. The battle is not won yet, though: many of the enemy continue to hold out within the castle’s halls. Stay wary.@Opening
+Aurelis King: Prince Marth, your arrival could not have been better timed. Please accept our gratitude. Princess Nyna of Archanea is en route from the fortress. I am sure she will wish to meet you. The battle is not won yet, though: many of the enemy continue to hold out within the castle’s halls. Stay wary.
+/***EOF***/
+@Opening
 When journeying in from the borderlands, one particular peril would spring to mind: the Samsooth Mountains, whose gashing peaks rose up and divided the peninsula. Since before anyone could remember, the mountains had belonged to bandits, blights on the land whose acts of plunder, kidnapping, and arson knew no bounds. Out of fear, their victims gave these peaks another name: the Ghoul’s Teeth; while the bandits who ruled atop the Teeth’s craggy crowns took a name as well: the Samsooth Sires, or Soothsires...
 
 @Intro
@@ -1074,7 +1116,9 @@ Reynard: Har. You must really want to die, comin’ into the Soothsires’ palac
 Reynard: Arrgh... One day it’ll be you!
 
 @End 
-Malledus: Sire! Would you look at this! Those rogues left 15,000 gold here when they fled! This money will buy plenty of new equipment for your army. Tomorrow is the day, sire, when we finally arrive in Aurelis. Be sure to rest up tonight.@Opening 
+Malledus: Sire! Would you look at this! Those rogues left 15,000 gold here when they fled! This money will buy plenty of new equipment for your army. Tomorrow is the day, sire, when we finally arrive in Aurelis. Be sure to rest up tonight.
+/***EOF***/
+@Opening 
 It was General Ordwin, one of the Three Heroes of the War of Liberation, who put Grust on the map. His peerless knights tamed their neighbors the barbarians in the kingdom’s infancy, securing its place as one of the greatest of the Seven Kingdoms. However, the current king, Ludwik, was weak-willed and easily cowed: Dolhr had little trouble forcing him into an alliance. Now he had taken ill, even as Grust suffered its string of defeats at the hand of the League. The once mighty kingdom was poised to fall...
 
 @Intro
@@ -1172,7 +1216,9 @@ Nyna: Thank you, Marth...
 Nyna: Ahh...! Camus, Camus... Ahh... no... Oh, why...
 
 Marth: Nyna- Princess.
-Nyna: I am told Camus has not been found. Perhaps he still lives. I know how selfish it is to wish it... But if he cannot be with me, then I must cling to the hope his life has not been cut short. It is all I have left.@Opening 
+Nyna: I am told Camus has not been found. Perhaps he still lives. I know how selfish it is to wish it... But if he cannot be with me, then I must cling to the hope his life has not been cut short. It is all I have left.
+/***EOF***/
+@Opening 
 The Archanean heroes hurried to Altea, but they would not go unchallenged. Waiting for them at Fort Menedy were Grust's artillery regiment, the dreaded “Wooden Cavalry”. Missiles crashed down, rocking the earth as the enemy ballistae rumbled forward. Had Marth and the League any hope of triumphing over such firepower?
 
 @Intro 
@@ -1220,7 +1266,9 @@ Marth: Today, there was this commoner... She mentioned Grust was divided about t
 Nyna: And now you find your hate for them has been lessened?
 Marth: No... the hate remains. I will never forget the pain they inflicted upon me, the rage I felt. Yet now, at least, I can tell you it's not just hate...Not anymore.
 Nyna: Not all evils are wrought of evil purposes. Perhaps this sounds naive, but...A true leader needs to look at his opponent and see more than just an enemy.
-Marth: ....@Opening
+Marth: ....
+/***EOF***/
+@Opening
 Thus Prince Marth escaped Altea Castle with Sir Jagen and company at his side. However, this success would mean little to him once he learned the cost. The boy's woes were just beginning.
 
 @Intro
@@ -1269,6 +1317,8 @@ Marth: ......
 @Flashback
 Cain: His last words were as follows: Tell my son that I leave the future of Altea and our continent in his hands. He must rise now where I have fallen. As Falchion's rightful heir, he has been born into greatness... Now...he must be great.
 
+
+/***EOF***/
 @Intro 
 Frey: Sire!
 Marth: ...Frey! Abel! You're alive!
@@ -1299,7 +1349,9 @@ Elice: Too many people have died to keep Altea and its castle safe. I cannot aba
 Malledus: Nonsense. Just gather your things, and-
 Elice: Malledus. I am not suggesting. I am commanding. If something befalls Father, Marth will become the last person in the entire world worthy of wielding the Falchion. I want you to guide him, Malledus- even when the rest of us no longer can.
 Malledus: Princess...I will try my best.
-Elice: There's not much time. Go, Malledus. ...Go!@Opening 
+Elice: There's not much time. Go, Malledus. ...Go!
+/***EOF***/
+@Opening 
 Dolhr... Land of the Manaketes. Before Medeus, the dragonkin had few dealings with the human realm, but when the Shadow Dragon came, everything changed. He sunk all Archanea into a cycle of war, in which heroes rose and heroes fell- always claiming his cause was just and the humans' deaths deserved. But now Medeus’s empire was crumbling... He was nearing the end of his reign... even as Marth was nearing the end of his long quest.
 
 @Intro 
@@ -1343,7 +1395,9 @@ Gotoh: You also failed to save the divine-dragon girl.
 Marth: I... did not mean for anything to happen to her-
 Gotoh: You can put your heart at ease. Tiki is not dead. She has merely returned to her slumber. Still, without her powers... We must take other steps. ...Select a handful of your best warriors. I must send you into an unseen dimension.
 Marth: An... unseen dimension, my lord?
-Gotoh: A place outside the confines of our world. There you will find a tower; and once in the tower, you must pass its Keepers’ test. If your strength and your need are great enough, the tower’s master will answer... and then, perhaps, your fortunes will be changed for the better.@Opening 
+Gotoh: A place outside the confines of our world. There you will find a tower; and once in the tower, you must pass its Keepers’ test. If your strength and your need are great enough, the tower’s master will answer... and then, perhaps, your fortunes will be changed for the better.
+/***EOF***/
+@Opening 
 Gra's betrayal of Altea years earlier had come as a shock, of course, until that day they attacked Marth's kingdom in the name of Dolhr, Gra had been a trustworthy neighbor and ally. While the Altean army was out on an expedition, Gra struck from the rearm annihilating the Altean soldiers, killing Marth's father, King Cornelius and stealing Falchion, the blade of light. It was a crushing blow. Much time had passed since that sad day, and much had changed. Now it was Marth's turn to descend on Gra Bastion, and face King Jiol, the man who had robbed him of his father.
 
 @Intro 
@@ -1384,7 +1438,9 @@ Malledus: Prince Marth!
 Marth: Did you find it, Malledus?
 Malledus: No...it seems Gharnef made off with it.
 Nyna: Gharnef? Then, to find Falchion-
-Marth: That's right. We'll need to go to Khadein, the kingdom of magic, where he resides. It pains me to turn astray when Altea is so close, but it must be done.@Opening 
+Marth: That's right. We'll need to go to Khadein, the kingdom of magic, where he resides. It pains me to turn astray when Altea is so close, but it must be done.
+/***EOF***/
+@Opening 
 Not all of the League's soldiers took Catria of the Whitewings at her word. Some insisted her plea was a ruse, a trap concocted by Princess Minerva herself. Marth doubted that, though; he had seen the woman in Lefcandith Valley, and she did not strike him as a sort of conniving menace his followers feared. As the brunt of Grust's might drew closer, Marth led the League to Castle Deil, determined to attack the citadel and rescue the young Macedonian princess, Maria.
 
 @Intro 
@@ -1427,7 +1483,9 @@ Zharov: They're a force... to be reckoned... with... Rrgh...
 @End 
 Nyna: Marth, have you ever heard of Pontifex Miloah?
 Marth: The one who defended Archanea with the power of Aura? Of course; he and his magic are famous! But...I read Miloah died in a battle with Gharnef, soon after the fiend sold his soul to Dolhr...
-Nyna: Alas, Miloah did die... But his daughter, Linde, yet lives. I am told she inherited her father's skill with Aura magic- but since the battle with Gharnef none have seen her. Wherever she is, it cannot be pleasant. ...Marth, please. Find Linde. With her father gone, we are the only family the girl has left.@Opening 
+Nyna: Alas, Miloah did die... But his daughter, Linde, yet lives. I am told she inherited her father's skill with Aura magic- but since the battle with Gharnef none have seen her. Wherever she is, it cannot be pleasant. ...Marth, please. Find Linde. With her father gone, we are the only family the girl has left.
+/***EOF***/
+@Opening 
 After shattering Macedon’s main force outside Aurelis Castle, Marth next led his army into the castle’s halls to liberate the kingdom. A number of treasures slept in Aurelis Castle’s nooks and crannies but how to extract them before they could fall into enemy hands? “Only a thief could open chests locked that tight,” grumbled one of Marth’s men. But we don’t have any thieves with us. …Do we?
 
 @Intro
@@ -1457,7 +1515,9 @@ Emereus: Rrgh... Why... ?
 @End 
 Nyna: Prince Marth… At long last. I am Nyna of House Archanea. ‘Tis Archanea’s burden to protect the world of crisis- a duty I have striven to fulfill. But Dolhr has laid waste to my kingdom, and now I find myself powerless to stop the world from falling into ruin. Marth… Please, pick up the banner where I have let it fall. Lead your might against Dolhr, and free us all.
 Marth: Of course, Princess Nyna. Altea swore fealty to Archanea long ago, a vow we have always kept. And, as you know, it is in my blood – House Altea’s blood – to destroy Medeus just as Anri did before me.
-Nyna: Thank you, Marth. Then let me give you this. This crest is called the Fire Emblem. House Archanea bestows it only upon a true champion, one we believe has the power to save the world. With it, you gain the right to open treasure chests across the land and wield the precious items within. I know you will use them well. Never give up, Marth. Fight, until the day you restore light to our world.@Opening 
+Nyna: Thank you, Marth. Then let me give you this. This crest is called the Fire Emblem. House Archanea bestows it only upon a true champion, one we believe has the power to save the world. With it, you gain the right to open treasure chests across the land and wield the precious items within. I know you will use them well. Never give up, Marth. Fight, until the day you restore light to our world.
+/***EOF***/
+@Opening 
 The League had routed Hollstadt's knights and recaptured most of the kingdom, but there was still the castle to deal with before Altea would be free; the mage-dragon Morzas remained entrenched within its walls. Unlike General Camus who preceded him, Morzas had been a cruel warden, slaughtering many innocent Alteans at the slightest provocation. Marth roiled to think such a monster still sat upon his noble father's throne.
 
 @Intro 
@@ -1482,7 +1542,9 @@ Nyna: Marth...perhaps you should let that wait, just until you are able to share
 Marth: No, that would not do. Today is a momentous day for my kingdom and my people. I must celebrate with them now, not later. Anything else would be a disservice to those who died to save Altea. I am a prince before I am a son or a brother. Come, Malledus. Let us go greet my people.
 
 @Narration 
-Thus Altea was liberated. Its people, ragged from years of Dolhrian tyranny, scrambled to the castle and flocked beneath its walls, eager to celebrate what, for many, would be remembered as the happiest days of their lives. They clapped each other on the back, laughed; and when Marth, their prince, appeared up above, they saluted their hero with a thunderous cheer: “Glory to Marth, our prince of light! Glory to our star and savior!” Marth smiled down at his people and waved. The great commander's last victory of the day was commanding his tears not to flow.@Opening 
+Thus Altea was liberated. Its people, ragged from years of Dolhrian tyranny, scrambled to the castle and flocked beneath its walls, eager to celebrate what, for many, would be remembered as the happiest days of their lives. They clapped each other on the back, laughed; and when Marth, their prince, appeared up above, they saluted their hero with a thunderous cheer: “Glory to Marth, our prince of light! Glory to our star and savior!” Marth smiled down at his people and waved. The great commander's last victory of the day was commanding his tears not to flow.
+/***EOF***/
+@Opening 
 Marth did as Gotoh instructed and chose soldiers for his journey into the unseen. What lay within the tower in this alternate world to test him? Marth’s heart wavered. But with neither the divine blade Falchion nor the divine dragon girl to aid him, the tower’s master was his last hope of defeating Medeus. Gotoh had told Marth to find a coffin. So while most of his companions remained in the material world to battle Doluna, Marth and his chosen few scoured the tower to search of a mysterious savior.
 
 @Intro 
@@ -1513,7 +1575,9 @@ Nagi: Your soul... called out to me...begging for my help. For this blade...
 Marth: That...that’s Falchion! How did you get it?!
 Nagi: I cannot remember... But you need it, I know that. And you need my powers.
 Marth: Your... powers, my lady?
-Nagi: Take me with you. I must... finish what I started... I think. I must fight with you.@Opening 
+Nagi: Take me with you. I must... finish what I started... I think. I must fight with you.
+/***EOF***/
+@Opening 
 At long last, Altea was free again. Marth took the League to Helena Castle in the north, an old fortress and key supply point during Dolhr and Grust’s occupation. There he meant to seize the last of the enemy’s gold and provisions but Grust would not give up the castle without a fight...
 
 @Intro 
@@ -1561,7 +1625,9 @@ Etzel: It’s all I have to remember my wife by. She got caught in the fighting 
 Marth: Those were dark days. You have my deepest sympathies; I lost my father in the same battle.
 Etzel: Will there be no end to this bloodshed?
 Marth: There will, Etzel. I have sworn to end it; that’s the very reason all of us fight.
-Etzel: And you think you can end it, just like that? From anyone else’s lips that would sound absurdly naive. But I can tell you are sincere. Tell me, Prince, have you any need for an extra... spell slinger? I’ve no taste for war, but I do have a fierce hunger for ending it. Let’s usher in a new era, you and I.@Opening 
+Etzel: And you think you can end it, just like that? From anyone else’s lips that would sound absurdly naive. But I can tell you are sincere. Tell me, Prince, have you any need for an extra... spell slinger? I’ve no taste for war, but I do have a fierce hunger for ending it. Let’s usher in a new era, you and I.
+/***EOF***/
+@Opening 
 The Sable Order fought valiantly to keep Marth’s army from reaching Chiasmir, but in the end Grust’s knights buckled: the world’s mightiest only in song. The League marched on to the Fane of Raman, a holy sanctuary built by the divine dragoons to house their most priceless treasures. Here another story was set to begin...
 
 @Intro 
@@ -1631,3 +1697,4 @@ Marth: Yes. And this time, General Camus will be there to meet us. I am sure of 
 Nyna: You are certain we must face him?
 Marth: We have crippled Grust, but they will regroup and stand in our way again. No, we need to stamp this fire out before the wind catches it and starts spreading it anew.
 Nyna: Very well. But before you attack, there is something I must tell you. Later, though... Not yet. I must sort my feelings out first...
+/***EOF***/

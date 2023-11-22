@@ -519,7 +519,9 @@ Ike: You did a lot for us back then. I didn’t even get a chance to thank you.
 Volke: It was a job. There’s no need to thank me.
 Ike: I know. But if you hadn’t told me the story of my father, I would never have known about his past. So thanks, Volke.
 Volke: Uh, yeah, so, anyhow... You have your money back. See you later.
-Ike: Did he really just get embarrassed because I thanked him? What a weird guy.@Intro
+Ike: Did he really just get embarrassed because I thanked him? What a weird guy.
+/***EOF***/
+@Intro
 Izuka: Ahem! As general staff officer of Daein's Liberation Army, allow me to outline my latest strategy.
 Micaiah: Excuse me, but shouldn't Prince Pelleas be here?
 Izuka: There's no need to distract the prince with the war's petty details. He won't be coming to any more meetings. From now on, consider my words the prince's own.
@@ -780,6 +782,8 @@ Micaiah: Oh... Oh no...
 @Narration
 Laguz warriors led by Tormod join the escaped prisoners, and Daein's army grows ever larger. Its victories at Talrega and other locations have strengthened its position. The army rides across the land, liberating prisoners from Begnion encampments. The Daein ranks swell with the influx of veteran soldiers, and the men begin to dream of the day when they may retake the capital.
 Like a fever, conflict grips the nation. The night will be long before this fever breaks. All eyes turn towards Daein's capital as the liberation begins what all believe will be a long and bloody march.
+
+/***EOF***/
 @Intro
 Sothe: What's going on, Micaiah?
 Micaiah: I'm not sure. I sense...something. There's a presence here that calls out to me.
@@ -941,6 +945,8 @@ Micaiah: Right. Lord Ike, "hero" of the Crimean Liberation, leader of the Greil 
 @Narration
 The history of Tellius is a history of warfare, or so the troubadours sing. It is a history of unending conflict between the beorc and the laguz, a history penned in blood and scarred by mistrust. The beorc fight with the weapons of man--the sword, the axe, the lance, and the magic arts, while the laguz, able to transform into beast, bird, and dragon, are weapons unto themselves. Both were created equally by the goddess, but neither race has ever accepted the other.
 The heron prince Rafiel, the wolf queen of Hatari, Nailah, and her vassal, Volug. Is the Dawn Brigade's meeting with these three chance...or a sign of things to come? Micaiah can only wonder.
+
+/***EOF***/
 @Intro
 Ranulf: Now, our next target is Mugill. Its gate is already sealed, and it looks like they intend to keep it that way. This won't go as easily as our battle in Felirae.
 Skrimir: Yaawwwwn... Beorc are all the same. We will run them down, just as before.
@@ -1159,7 +1165,9 @@ Rhys: That’s true, but… I think it’s better that I know how the injury hap
 Ike: Well, as long as you’re all right with it, I guess it’s fine with me, too.
 Mia: That settles it! The scene is set, the arena ready… Prepare yourself, Commander!
 Ike: Oh, I already have. Get ready!
-Rhys: Just… Please go easy on each other. All right? Did you hear me? Hello?@Opening 
+Rhys: Just… Please go easy on each other. All right? Did you hear me? Hello?
+/***EOF***/
+@Opening 
 Daein has been reborn. Word of King Pelleas's coronation reaches neighboring
 Crimea within days. Crimea itself has spent the past three years rebuilding
 from the damage it suffered during the Mad King's War. News that Ashnard's son
@@ -1320,6 +1328,8 @@ Elincia: Yes. I trust, however, my protection will be enough to keep you from ha
 @Narration
 Queen Elincia encounters and defeats a wing of Begnion dracoknights trespassing in Crimean skies. After rescuing Chamberlain Nealuchi and Princess Leanne, she invites them to be her guests at the royal court. While Elincia's show of loyalty to her laguz allies causes an uproar among the nobles at court, they are aware that the heron princess is under the mutual protection of the mighty laguz hawk king and raven king. Because of this, there is no public show of distaste.
 However, dissatisfaction with Elincia's rule now spreads from a single faction to a larger group. Crimea's unity is slowly rotting from within. This discord begins to be felt even in country hamlets like the farming village of Ohma.
+
+/***EOF***/
 @Dialogue 
 Sothe: Well, I guess this is over. We'd better be on our way.
 Ike: Are you going back to Daein?
@@ -1438,7 +1448,9 @@ Lehran: ...Yes.
 @Narration 
 In days long past, a young man strode the lands of Tellius.
 
-He was simple yet true, his deeds brave and noble. He reunited two races long at war, and healed the heart of a goddess long gone mad. Ask any you meet be they young or old, beorc or laguz, of a hero named Ike and you'll receive a warm smile and a tale or two of faith, courage, and honesty.@Dialogue
+He was simple yet true, his deeds brave and noble. He reunited two races long at war, and healed the heart of a goddess long gone mad. Ask any you meet be they young or old, beorc or laguz, of a hero named Ike and you'll receive a warm smile and a tale or two of faith, courage, and honesty.
+/***EOF***/
+@Dialogue
 Nailah: A blood pact? A piece of parchment forced you into this hopeless war?
 Rafiel: How terrible... I'm sorry for what you've been put through, Micaiah.
 Tauroneo: The uprising in the empire continues. The apostle's people await her return as they fight against the senate. Casualties mount each day... We know how urgently the apostle's army needs to reach the empire. However, if we let their army pass through Daein, the senate will surely invoke the blood pact and destroy us.
@@ -2101,7 +2113,9 @@ Shinon: If you want to pay me back, then be better than me! Doesn’t matter if 
 Rolf: Shinon...
 Shinon: I look after you because you have talent. I like watching you, kid. I like watching you shoot better every single day, you know? But if someone sticks an arrow in your eye, I ain’t gonna have any way to pass the time. So stay sharp! You hear?
 Rolf: ...Fine. Thanks, master. I’ll do my best to surpass you. I swear!
-Shinon: "Master"? I think I like the sound of that. Keep listening to me and you’ll be all right.@Intro
+Shinon: "Master"? I think I like the sound of that. Keep listening to me and you’ll be all right.
+/***EOF***/
+@Intro
 Begnion: Assembling is forbidden! All violators will be punished immediately!
 Man: Assembling? We were just talking around the well...
 Begnion: Silence! No excuses!
@@ -2319,7 +2333,9 @@ Micaiah: What? So suddenly?
 Kurth: I’m sorry, Micaiah. Being so close to battle frightens me, to tell the truth. Thank you for rescuing me. And thank you for the short time we spent together. I enjoyed it immensely.
 Micaiah: Will I ever see you again?
 Kurth: Who knows? Why don’t we… Yes. Let us leave it up to the goddess.
-Micaiah: I suppose we must.@Intro
+Micaiah: I suppose we must.
+/***EOF***/
+@Intro
 Micaiah: How should we explain yesterday to Sothe and Nolan?
 Leonardo: It's like you said. We didn't have a choice. We had to save Nico and the townsfolk. But I admit, getting spotted by those Begnion soldiers was unfortunate. Still, I'd do it all over again. The worst part is they know we're near. They could find this hideout as easily as they found our last one.
 Edward: I just don't get it. This is our country... Why do we have to live in hiding, like prisoners in our own land?
@@ -2432,6 +2448,8 @@ Edward: We sure showed them in Nevassa, huh? I guess we can't go back there... n
 Micaiah: I'm so fond of Nevassa. It's where we all met. It feels like my only real home. We will return...someday.
 Sothe: We will, Micaiah. I know you, and you have a way of getting what you want.
 Micaiah: Because you're always there to help me get it, Sothe.
+
+/***EOF***/
 @Intro 
 Brom: Mornin', Jacob!
 Jacob: Look atcha, always sowin' yer seeds! It's lookin' like it'll be a fine crop this year--a real dandy!
@@ -2573,6 +2591,8 @@ Brom: That's why we've got to get to Queen Elincia right away. It's all gonna be
 @Narration
 In a rural Crimean town, a band of rebels sow the seeds of discontent. They are stopped by Brom and Nephenee, two former Crimean soldiers. However, more uprisings are sure to follow.
 Brom and Nephenee decide to travel to Melior, the capital of Crimea, and inform Queen Elincia as to the gravity of the situation.
+
+/***EOF***/
 @Intro
 Sanaki: Thank you for coming today, everyone. I am in your debt...all of you. The king of Gallia, Caineghis. The king of Phoenicis, Tibarn. The Serenes Royal Family, Rafiel and Reyson. And the queen of Crimea, Elincia, who worked tirelessly to arrange this meeting and generously extended her hospitality. She gave me hope when I was driven out of my country, and offered aid when all seemed lost. You have my sincere gratitude.
 Sanaki: Before we begin, allow me to make a few things clear about the recent war between Begnion and the Laguz Alliance. When we received your letter stating that the senate had made scapegoats of the herons for the previous apostle's assassination, Prime Minister Sephiran and I decided to investigate the senate and prosecute them if needed. Then the senators made their move.
@@ -2753,7 +2773,9 @@ Oscar: That's what I like about you, Sir Simpleton.
 Kieran: You insult me!?
 Oscar: No, that was a compliment. You're a very...simple...knight. Living only for battle and whatnot.
 Kieran: Great! Thanks!
-Oscar: Life is boring without you, Kieran.@Cutscene
+Oscar: Life is boring without you, Kieran.
+/***EOF***/
+@Cutscene
 Begnion Soldier: Find anything?
 Begnion Soldier: Not yet, sir, no.
 Begnion Soldier: Someone's gotta be here. Keep looking.
@@ -2874,6 +2896,8 @@ The northeastern nation of Daein lost a bloody war with neighboring Crimea three
 Begnion's occupations forces have gathered all of Daein's men of fighting age and put them to work in labor camps. Their work is brutal and void of purpose, designed to break both body and spirit. The remaining population faces poverty and starvation as the fields lie fallow. A band of young heroes has escaped the Begnion army to form a group called the Dawn Brigade. Fighting for a free Daein, they alone have stood against Begnion's forces. They alone have shouldered the hopes of their nation.
 Among the company is a young girl named Micaiah, who is said to possess mystical powers. The people of Daein have come to know her as the "Silver- Haired Maiden." They have come to think of her as the savior for whom they had been waiting.
 Begnion's forces have tried time and time again to capture and silence the Dawn Brigade. However, Micaiah's ability to sense impending danger has thus far allowed the Dawn Brigade to evade the empire's grasp.
+
+/***EOF***/
 @Intro 
 Tormod: Listen and be amazed! BIG news afoot! The apostle is sending an inspection team to investigate the occupation army's abuses!
 Micaiah: Really?
@@ -3035,7 +3059,9 @@ Jill: All right. I’ll let you relax alone, then. Oh, but here... Please take t
 Micaiah: What is it?
 Jill: It’s a Pass scroll. It might come in handy. Please keep it, if you’d like.
 Micaiah: Thank you, Jill. I will.
-Jill: Good night, Lady Micaiah.@Intro
+Jill: Good night, Lady Micaiah.
+/***EOF***/
+@Intro
 Ranulf: This might be the end of our war. The Northern and Central Armies have merged. A force of that size is too powerful for us. If Tibarn and Naesala can't help us, it might be a good idea to go back to Gallia and regroup. Convincing Skrimir won't be easy, but I can't let our people get killed in a hopeless battle.
 Ike: Understood. Ranulf, this is your war, so I'll follow your orders. I have to say, though, retreating won't be easy. According to Soren, the Central Army has mobilized and begun marching on our position during the last few days.
 Ranulf: They finally brought in a competent commander, huh? Hmmm... Our path is blocked both ways.  Hey!
@@ -3201,7 +3227,9 @@ Ranulf: Yeah, I think so. He still doesn’t say much, but he’s a lot more at 
 Ike: We all lost and gained something during the Mad King’s War. Maybe it wasn’t a complete waste, after all.
 Ranulf: Do you think we’ll feel the same way about this war when it’s over?
 Ike: Who knows? We’ll have to survive it first.
-Ranulf: Fair enough.@Opening
+Ranulf: Fair enough.
+/***EOF***/
+@Opening
 Three years ago, Crimea freed itself from Daein tyranny. Its nobles used that freedom to berate the queen and scrabble for power. Disgusted with their greed and arrogance, Ike and the Greil Mercenaries left the court behind and returned to work. Thanks to their efforts and to Queen Elincia's even-handed rule, Crimea has avoided a bloody civil war.
 Before departing the capital once again, Ike receives disquieting news from Queen Elincia. The Black Knight, the man who murdered Ike's father, has once again been seen in Daein. The queen's words hang heavy over Ike as he leads the mercenary group back to their headquarters.
 
@@ -3381,7 +3409,9 @@ Oscar: Yeah. Especially the ribs and steaks.
 Lethe: Mordecai. How about we go hunt for more game?
 Mordecai: Right!
 Oscar: There probably aren’t enough herbs to flavor everything. I’ll go get more.
-Titania: My. We might need to harvest an entire mountain.@Intro
+Titania: My. We might need to harvest an entire mountain.
+/***EOF***/
+@Intro
 Sothe: Are you sure about this, Micaiah? This makes absolutely no sense.
 Micaiah: The Daein Royal Army will answer Begnion's request and attack the Laguz Alliance at the Ribahn River. Those are our orders from King Pelleas. As his subjects, we will obey him.
 Sothe: Without even asking why? Daein is finally on its own. Why are we even speaking to Begnion, let alone fighting for them?!
@@ -3578,7 +3608,9 @@ Micaiah: I know you will, Nolan. King Pelleas does too. That’s why he’s chos
 Nolan: Micaiah, look... I know how hard it is to be a commander, especially with all of this confusion and doubt flying around. Fighting a war you don’t believe in is a bitter pill to swallow.
 Micaiah: Nolan, I--
 Nolan: Just remember something, will you? We’re still the Dawn Brigade. Lots of us aren’t your "comrades," we’re your family. If you need anything, we’re with you, no matter what. Nothing’s going to change that.
-Micaiah: Oh, Nolan... Thank you so much.@Intro
+Micaiah: Oh, Nolan... Thank you so much.
+/***EOF***/
+@Intro
 Nolan: Just a quick half-mark, and we'll be in Kisca. I'd like to stock up there, but...
 Sothe: Begnion will be on the lookout for us. Let's steer clear of towns for now, unless we want more trouble.
 Edward: Don't tell me... This means another night sleeping on the cold ground with nothing but bugs to keep us warm!
@@ -3641,6 +3673,8 @@ Micaiah: No! Yune, fly away!
 Jarod: Argh, dratted bird! Yes, get that mangy flying bag of bones out of here before I squash it like a fly! Tch. How annoying. Enough of this! Back to the castle. As long as we have these two, the others don't matter.
 Alder: Sir. All hands, withdraw!
 Micaiah: I've got a bad feeling about this...
+
+/***EOF***/
 @Intro
 Mist: This is great! I can't remember the last time we got to sleep indoors! We can be thankful for the rain, I guess.
 Ike: Yeah, the decorations are a little...overdone, but the beds will be warm and dry. I'm glad I remembered this mansion was here.
@@ -3825,7 +3859,9 @@ Ike: I think I understood that. You were happy that I understood what you just s
 Volug: (I guess you could say that.)
 Nailah: Good. As long as you have the desire to learn, words will soon follow.
 Ike: I see. I’ll try to learn a little ancient speech from now on, too. Volug, you be my teacher and I’ll be your teacher.
-Volug: (All right. It’s a deal.)@Intro
+Volug: (All right. It’s a deal.)
+/***EOF***/
+@Intro
 Ike: How are we doing for time, Janaff?
 Janaff: They're gaining on us. Their lead force is about...let's say...one day off.
 Ranulf: You've got to be kidding! How did they cover so much ground since yesterday?!
@@ -3973,7 +4009,9 @@ Lethe: What is it?
 Lyre: It’s a Daunt scroll. I thought it’d be perfect for someone as scary as you!
 Lethe: What!? Say that again, I dare you!
 Lyre: Aaahh! Lethe’s mad at me again! Stop being mean to me!
-Lethe: I’m the mean one!?@Intro
+Lethe: I’m the mean one!?
+/***EOF***/
+@Intro
 Ike: Amazing. We've been traveling for miles now, and there hasn't been a single moving person.
 Nailah: And yet the other plants and animals seem completely unaffected. The only creatures turned to stone were laguz and beorc... A miracle of the goddess, indeed.
 Rafiel: My sister just sent a warning about some "Disciples of Order." Ashera has freed them from stone to fight for her. She's also blessed their weapons and armor. They'll only get stronger as we approach the tower. They nearly beat Leanne's team.
@@ -4105,7 +4143,9 @@ Ike: Uh...
 Aimee: But someday, you’ll be ready to settle down. When you are, maybe you’ll think of me. That’s why I’m starting work on you now! Don’t worry about it...for now.
 Ike: But it DOES worry me!
 Aimee: See? You’re already under my spell! Well, good night! Sleep well, my hero.
-Ike: That woman has issues with reality.@Intro
+Ike: That woman has issues with reality.
+/***EOF***/
+@Intro
 Tauroneo: A rebellion in the empire?! Is that true?
 Sothe: Yes. The empire has been thrown into chaos since General Zelgius freed Prime Minister Sephiran. They've incited the peasants by asking, "Who should you believe in? The senate, or the apostle?"
 Tauroneo: And the people have chosen the apostle, correct?
@@ -4479,7 +4519,9 @@ Aran: Wuh!
 Laura: What did you say, Aran?
 Aran: Zzz... Zzz...
 Laura: Oh, Aran. You’re such a clown. How do you fall asleep on your feet? I guess you must be really tired. Why don’t I just leave you be? Let me just take my things back.
-Aran: Zzz... Zzz... Zzz...@Intro
+Aran: Zzz... Zzz... Zzz...
+/***EOF***/
+@Intro
 Elincia: I hope Lady Almedha is all right. How is she doing?
 Tibarn: Reyson's song seems to have calmed her for now.
 Elincia: I see...
@@ -4797,7 +4839,9 @@ Janaff: ...Sorry, Ulki.
 Ulki: I... I apologize, too.
 Janaff: I’ve been with you and Tibarn since our feathers hadn’t even grown in yet. I guess we know each other a little too well. Well, the White Prince certainly reminded me of who I am. I’m an aide to the king of Phoenicis!
 Ulki: Me, too. Here, Janaff. This is for you.
-Janaff: ...Hey, wait a minute! You think you pulled a fast one on me, don’t you?! Get back here, Ulki!@Intro
+Janaff: ...Hey, wait a minute! You think you pulled a fast one on me, don’t you?! Get back here, Ulki!
+/***EOF***/
+@Intro
 Micaiah: I hope the others escaped...
 Laura: I'm sure they are safe and secure, just as I'm sure the abbot got his medicine. I believe in them.
 Aimee: Pardon... Excuse me. Not to pry, but did you know you're bleeding? You've got some blood on your sleeve there.
@@ -4909,6 +4953,8 @@ Jorge: According to rumor, he's in the east, near the Desert of Death, trying to
 Sothe: Micaiah, what do you think?
 Micaiah: ...In the desert...an important encounter awaits us. It shall be one that changes the shape of our future.
 Sothe: Well, that's it then. We must go to the desert to meet our destiny.
+
+/***EOF***/
 @Intro
 Ike: The Daein army is working with Begnion? That's unexpected, to say the least...
 Tibarn: Why would Daein join the war? I thought all their resources would be tied up in reconstruction.
@@ -5419,7 +5465,9 @@ Kyza: Forget it, Lyre. The captain knows who slaves day and night to keep the ar
 Lyre: No, no, no! The captain’s love is mine! All mine! Give it to me!
 Kyza: If you want it, you’ll have to take it!
 Lyre: Oh, you’re dead!
-Ranulf: What is it with you two? Sigh...@Intro
+Ranulf: What is it with you two? Sigh...
+/***EOF***/
+@Intro
 Elincia: I see... So, that's what's going on. Thank you for bringing it to my attention. I'm very sorry your village was affected by this. You have my sincere apologies.
 Brom: Oh, no, Your Majesty. We don't need no apology. We're just happy we could help.
 Geoffrey: Lucia... Brom's story confirms what we've suspected all along.
@@ -5580,7 +5628,9 @@ Geoffrey: If you don't use it, so much the better. But just hold on to it. For m
 Lucia: All right.
 Geoffrey: Promise me you won't do anything stupid. Promise for Elincia and me. And for Bastian.
 Lucia: For you to even mention his name at a time like this... I give up. Sure, I promise. Keep Queen Elincia safe, got it?
-Geoffrey: Of course. On my life.@Intro
+Geoffrey: Of course. On my life.
+/***EOF***/
+@Intro
 Jarod: You summoned me, Your Grace?
 Numida: Jarod, there is trouble. The apostle has formed an inspection team. She's dispatching it to Daein.
 Jarod: Oh-ho...
@@ -5802,6 +5852,8 @@ The once-hopeless citizens of Daein dub her the Priestess of Dawn and find their
 General Jarod redeploys his men to key locations to better defend the capital city. Jarod's forces still outnumber those of the Daein liberators, and he has hardened his defenses in hopes of holding off Micaiah's army.
 The liberation forces fight with a fury not to be denied, however, and the occupation army begins to lose its will to fight. Breaking through enemy lines again and again, Micaiah's forces gain vital ground and momentum.
 Despite the anger Micaiah feels toward Izuka for his treatment of their laguz allies, she continues to lead the army in its lightning-quick advance. Nevassa is now mere days away.
+
+/***EOF***/
 @Intro
 Haar: So... We're guessing that flare sent up from Geoffrey's troops means Ludveck plans to come for Your Majesty. He's probably marching his troops toward this fortress as we speak. Since it's come to this, I'd like to stick around and help. Let me know if you need me.
 Elincia: ...I see. Thank you ever so much. Sir Haar... I have one more question. What about Lucia? Have you heard from her? Is she safe?
@@ -5991,6 +6043,8 @@ Elincia: The day after you fought, Bastian ordered some men to search the remain
 Elincia: If the Black Knight that was seen in Daein was indeed the same Black Knight... He might prove to be a threat to Crimea.
 Ike: Hmm. If he's still alive... I have no doubt I'll see him again. Elincia, this is very important information to me. Thank you.
 Elincia: Of course.
+
+/***EOF***/
 @Intro
 Crimea: Your Majesty, the Begnion army has crossed the border. They are seizing food and supplies and calling it tribute to the empire. There are no casualties yet, but they are acting like bandits!
 Elincia: I see... So, they simply ignored me.
@@ -6130,6 +6184,8 @@ Elincia: General...
 After Elincia's meeting with Valtome, the Crimean Royal Knights return to the capital of Melior, leaving the border villages between Crimea and Gallia completely undefended.
 The Begnion Central Army crosses the border once more, but Crimea makes no move to march against it. Valtome sees this inaction as a sign of Crimea's capitulation to Begnion's demands. The Begnion forces occupy the Crimean castles and forts on the border with Gallia and prepare to launch their attack.
 The Laguz Alliance finally makes its way back to Gallia, but word of Begnion's approach allows them no time for rest. The news that Gallia's ally, Crimea, has allowed Begnion to travel through its lands comes as a great blow to the Laguz Alliance.
+
+/***EOF***/
 @Intro
 Ranulf: Felirae, Mugill, and Telgam are ours. But this war has just started. The enemy's main force is in Sienne, the capital. The real fight starts now.
 Skrimir: Ah, now we fight the big battle! My claws itch for beorc flesh. Hey, Ranulf! Are there strong enemies in the capital?
@@ -6349,7 +6405,9 @@ Soren: A touch less than three-quarters, then. What do you say, rose of Tellius?
 Aimee: All right, you win! Just this time, mind you. Take this.
 Soren: Ah, a Silver Card. I can buy everything for half price at all of the shops?
 Aimee: That’s right. Remember what I said, though. It’s a limited-time deal. I’ll have to take it away soon. Oh, and while you own this card, you won’t be able to sell your weapons as raw material. Got that?
-Soren: Understood, Miss Aimee. Stay beautiful.@Dialogue 
+Soren: Understood, Miss Aimee. Stay beautiful.
+/***EOF***/
+@Dialogue 
 Janaff: As far as I can see and Ulki can hear, it seems we're the only ones left.
 Tibarn: Strange. I guess only the strongest of us didn't wind up as statues.
 Ike: Anyone who was in the building with us was safe, too. But everyone else was petrified...
@@ -6654,7 +6712,9 @@ Micaiah: Oh, so that’s it...
 Skrimir: You buried it?
 Micaiah: No, but I saw a vision in a dream. Rays of light fell from the sky, wriggling into the ground and burying themselves.
 Skrimir: Ah. So maybe there are more?
-Micaiah: Yes... I think so. Somewhere...@Intro
+Micaiah: Yes... I think so. Somewhere...
+/***EOF***/
+@Intro
 Micaiah: We have to go back to the desert. We still have something we need to do.
 Sothe: It'd be great if it were to find Ashnard's son. I'm burning up out here.
 Micaiah: I'm not sure what it is. I see a lot of images, stacked on top of each other. It's hard to see what they all are. There's danger, battles, and terrible sadness, but also...hope. Whatever our destiny is, I know we'll find it in the desert. Let's go.
@@ -6867,7 +6927,9 @@ Nolan: Listen, there’s no way we can free Daein by ourselves. But we CAN find 
 Edward: That’s great! Thanks, Nolan. You’re pretty smart for an old man!
 Nolan: Hey, now… None of that, or I’ll show you what an old man can do! Leonardo, are you feeling better?
 Leonardo: Yes, sir. Thank you, Nolan. I guess age does make you wiser.
-Nolan: How old do you think I am, anyway? Now I’m getting depressed…@Intro
+Nolan: How old do you think I am, anyway? Now I’m getting depressed…
+/***EOF***/
+@Intro
 Daein: Begnion is attacking Nevassa!
 Daein: No! My parents live there! They're far too old and frail to defend themselves!
 Daein: My wife and kids are there, too! It's that heartless murderer, Jarod... He just wants us to suffer to the bitter end.
@@ -7066,7 +7128,9 @@ Micaiah: No? Then... how? When?
 Volug: (You should keep it.)
 Micaiah: What? It’s for me?
 Volug: (I will catch up to you later.)
-Micaiah: Wait! Volug? Did he go back to the desert just to get this...?@Intro
+Micaiah: Wait! Volug? Did he go back to the desert just to get this...?
+/***EOF***/
+@Intro
 Ike: Are we going the right way?
 Yune: Yes. Ashera is at the top. We're going up. This is definitely the right way.
 Ike: I'm a little disoriented because this is much bigger than it looks from outside. It's not my imagination, is it?
@@ -7316,7 +7380,9 @@ Zelgius: I am a soldier in the Daein army. I serve under the command of General 
 ???: My name? Of course...
 
 @End
-Yune: Whose... Whose memory was that? It's just one of many... They're swirling everywhere... The tower resonates with their strength. But...who is it? Who do they belong to? ...There is such sadness... Zelgius met someone. One lonely soul calling out to another... But he's no longer with us. Zelgius is gone... And now the soul that remains is once more alone...@Intro
+Yune: Whose... Whose memory was that? It's just one of many... They're swirling everywhere... The tower resonates with their strength. But...who is it? Who do they belong to? ...There is such sadness... Zelgius met someone. One lonely soul calling out to another... But he's no longer with us. Zelgius is gone... And now the soul that remains is once more alone...
+/***EOF***/
+@Intro
 Lekain: The dark god's tainted minions have defeated our forces at every turn. Now they have set foot on the holy ground of the empire itself! We have no choice but to lead the army ourselves and destroy them once and for all! We are the chosen ones! Our will is the will of the goddess! With us at its head, our army is invincible!
 Hetzel: Y-yes. Quite. As you say, Vice-Minister.
 Lekain: When I've beaten that brat, Sanaki, I'll make her kneel before me and plead for her life! Heh heh heh! 
@@ -7598,6 +7664,8 @@ Sigrun: Be strong, Empress Sanaki. Even if you are not an apostle, you are still
 @Narration
 Prince Kurthnaga tells of the connection between Daein and the dragon tribes. Ranulf reveals the identity of the Black Knight. These revelations send Ike's mind spinning in a whirlpool of confusion and doubt.
 Ike becomes convinced that the answers to all of his question lie within the Tower of Guidance, and he is determined to reach the tower at any cost. His group arrives in the duchy of Tanas, near the imperial capital. Caught in a sudden downpour, they take shelter in the duke's deserted villa.
+
+/***EOF***/
 @Intro
 Ranulf: According to our scouts, the enemy has split into two forces. One is east of the Ertz Mountains. The other is approaching from the north, by crossing through Crimea.
 Tibarn: So, they plan on flanking Gallia from the north and east. If we don't stop them, this is gonna hurt.
@@ -7797,7 +7865,9 @@ Giffca: Very well. Ranulf. This is yours to keep.
 Ranulf: A-all right. Thank you, sir.
 Giffca: Skrimir, you reply to his thanks.
 Skrimir: Um, yes. You’re welcome. I am grateful for your continued support.
-Ranulf: Of course, General.@Flashback
+Ranulf: Of course, General.
+/***EOF***/
+@Flashback
 Male Voice 1: Oh goddess... Will you please stop? Is this not enough? Your...sister...regrets all she has done. If you look closely at any of Yune's actions, and their unintended consequences, you will see they were all born of fear. Fear that you would expunge her from yourself. If you would but allow her back within you, this would surely never happen again.
 Female Voice 1: Yune is chaos. She is an imperfection in my being. It is because of her that I...I have done this thing that cannot be undone.
 
@@ -8164,6 +8234,8 @@ Yune: But...Ike!
 Sephiran: ...
 Yune: I'll be waiting for you, Lehran.
 ^end
+
+/***EOF***/
 @Intro
 Senator: General Zelgius! Why did you retreat so quickly?! Order an all-out attack!
 Zelgius: The Laguz Alliance is inching closer after successfully crossing the river. It would be unwise to attack them head-on at this time.
@@ -8317,6 +8389,8 @@ Ike: Shinon likes our little group. I know that much. This is probably his way o
 Aimee: You think so? Why wouldn't he just come out and say so? He's so strange like that.
 Ike: I'll keep this conversation a secret. I don't want to risk losing Shinon by putting him on the defensive about all this.
 Aimee: Right. It's a secret between you and me, Ike!
+
+/***EOF***/
 @Intro
 Ranulf: King Tibarn! Queen Elincia! We may need to halt for a bit.
 Tibarn: Why? What's the problem?
@@ -8503,7 +8577,9 @@ Jorge: Daniel and I happened to be in that building when there was the big flash
 Daniel: But we still want to help you. We can collect weapons to help you in battle!
 Jorge: Please, save the people who were turned to stone.
 Daniel: Please give us the world we used to have.
-Elincia: I promise you I will do my utmost. I’ll work toward it with everything I have. Together, we can accomplish anything.@Intro
+Elincia: I promise you I will do my utmost. I’ll work toward it with everything I have. Together, we can accomplish anything.
+/***EOF***/
+@Intro
 Yune: How dull. I don't sense any enemies nearby. I know! Would you all like me to tell you a story as we climb?
 Ike: What kind of story?
 Yune: One from long ago, long before the grandparents of anyone here were born.
@@ -8847,7 +8923,9 @@ Micaiah: Um... I don’t think so, Leanne. But you can try if you like...
 Leanne: (...I’m only kidding. Here, you can have it.)
 Micaiah: Oh, for me? Thank you very much. It’s a very precious item. I’ll make good use of it.
 Leanne: (Please do!)
-^end@Intro
+^end
+/***EOF***/
+@Intro
 Begnion: Hey, have you heard? The sub-humans are retreating!
 Begnion: General Zelgius is amazing! As long as we have him, Begnion has nothing to fear.
 Levail: Ahem! Gentlemen. This is no time for idle chatter. However...if you wish to praise General Zelgius, I suppose that is all right. He is the glory of our forces, after all.
@@ -8968,7 +9046,9 @@ Ike: Hmm?
 Haar: See that bag on my wyvern? There’s a souvenir in there for you. Feel free to take it.
 Ike: A souvenir?
 Haar: It’s a small thing. You don’t need to thank me. …Yaaawn… Zzz… Zzz…
-Ike: Asleep already? What a strange guy.@Intro
+Ike: Asleep already? What a strange guy.
+/***EOF***/
+@Intro
 Lucia: Good luck! I'll be sure to keep the palace safe. I'm sorry we couldn't allocate more troops for you. You'll be OK, though, right?
 Geoffrey: Of course. We might even have too many. Actually, I'm more worried about the queen's safety. Make sure the guards stay sharp.
 Lucia: Count on it. I'll maintain a tight watch on the area, and there is the backup plan, just in case.
@@ -9130,7 +9210,9 @@ Geoffrey: Kieran, that's an axe, not a painting. Paintings are for mantels. Axes
 Kieran: What!? I couldn't!
 Geoffrey: You can't refuse. It's an order.
 Kieran: Sigh... Understood, sir! I promise to keep it well protected and free from scratches!
-Geoffrey: Sigh. You're hopeless.@Flashback
+Geoffrey: Sigh. You're hopeless.
+/***EOF***/
+@Flashback
 Ashera: Lehran... I will not...countenance this plan.
 Lehran: Hear me, Goddess Ashera... Yune's imprisonment within the medallion has begun to change you. Order and chaos, you are one being, comprising both parts. The one must naturally affect the other.
 Ashera: Even so, I will not return Yune to this body. She is unstable, and I must be perfect in order to protect this world. It is as I have said, Yune must be destroyed.
@@ -9344,7 +9426,9 @@ Yune: Can you forgive me for the pain I've caused?
 Ike: I don't know. But you have already forgiven us. How could we not?
 
 Ike: We are all family. We will try to understand one another, even when we disagree.
-Yune: You're right. I will try. One more time.@Intro
+Yune: You're right. I will try. One more time.
+/***EOF***/
+@Intro
 Pelleas: Micaiah, what's going on? I heard that you took ill on the field. Are you all right? What happened?
 Sothe: What do you think, genius? Micaiah fainted because you've been pushing her too hard! She's terrified that she won't live up to your expectations.
 Pelleas: I didn't realize... I am so sorry, Micaiah.
@@ -9732,3 +9816,4 @@ Sothe: I know how you feel, Micaiah. That’s why we started all this. We’ve a
 Micaiah: I know. I don’t want to see anyone die. It’s ironic... I’m killing with no malice, because I don’t want anyone to be killed. I... What am I supposed to do? Am I supposed to stand back and let all of Daein perish? Is that the "just" thing to do?
 Sothe: ...
 Micaiah: If that’s what it takes to be just, then I want nothing to do with justice. I’d rather be hated and feared like Mad King Ashnard. I’d rather the dark god take my soul. I’m going to save my people, Sothe. If the rest of the world paints me as a beast to be reviled and hated, so be it.
+/***EOF***/

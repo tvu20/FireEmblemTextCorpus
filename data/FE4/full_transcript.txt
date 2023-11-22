@@ -365,7 +365,9 @@ Lachesis: I'd sooner bow to a festering pig than call you my king! Return my bro
 
 %Erinys,Chagall
 Chagall: Heh heh... So, it's you again. You've finally realized, have you? Ignorant wench.
-Erinys: How dare you, Chagall! You'll pay dearly for deceiving me! Prepare yourself!!@Dialogue 
+Erinys: How dare you, Chagall! You'll pay dearly for deceiving me! Prepare yourself!!
+/***EOF***/
+@Dialogue 
 Lewyn: Congratulations, Seliph! You’ve endured so much so well to make it this far.
 Seliph: Thank you, Lewyn, but our victory means precious little while our world still lies in ruins. Where do we begin from there?
 Lewyn: There’s only one way to rebuild all the sacred lands. Everyone needs to come together and share the work among you. And for that, you’ll need a good leader. The crusaders’ heirs will be returning home to assume their rightful thrones. And with the proper leadership, they can pool their strengths again to build a new world, one where all can live in happiness. 
@@ -1148,7 +1150,9 @@ Even at its peak, the Empire had shunned and ignored Verdane. Uninterested in se
 Silesse had long dwelt under the empire’s cruel hand, and so (Lewyn’s son/daughter/Ced/Hawke/Fee/Femina) devoted their life to rebuilding the ruined land. A breathtaking land… A peaceful people… Lewyn had devoted his life to protecting the Kingdom of Silesse, and at long last, his decades of work had come to fruition.
 
 In the royal capital of Belhalla itself, with overwhelming support from the public, Seliph was officially hailed as their king. The newly anointed King Seliph devoted himself to rebuilding his land and bringing peace to all, his goal nothing short of a prosperous world free of oppression and bigotry. And by his side, one would always find his loving, ever-smiling wife, Queen Seliph’s lover… his sister, Princess Julia, regarding his toil with the warmest of eyes… 
-In ages to come, the people of Jugdral tell legends of a divine king of ages past. None shall ever forget his name: Seliph. @Opening 
+In ages to come, the people of Jugdral tell legends of a divine king of ages past. None shall ever forget his name: Seliph. 
+/***EOF***/
+@Opening 
 King Chagall has fled Agusty's fall and moved his royal court to Madino Castle in the north. Honoring his promise to Eldigan, Sigurd allows Chagall his freedom and does not interfere. 
 
 Sigurd adopts Agusty as his headquarters, and while his troops there recuperate, he persists in negotiating Agustria's return to governance by its own king. Despite his determination to restore Chagall's rule, his orders from Belhalla never change: to remain in Agusty and to govern its citizens. 
@@ -1476,7 +1480,9 @@ Duvall: N-no... Damn it all...
 
 %Brigid,Duvall
 Duvall: Geh! Yer still clingin' t'life, wench?! Damn yer stubbornness!
-Brigid: Duvall! You'll pay through the nose for your treachery!@Opening 
+Brigid: Duvall! You'll pay through the nose for your treachery!
+/***EOF***/
+@Opening 
 Word of the first victory of Prince Seliph and his liberation army quickly spreads far and wide, inspiring courage anew in the Empire's victims. Still more uprisings erupt across Jugdral, but once again, precious few are properly organized and are easily crushed, and the death toll climbs ever higher... 
 
 Leonster, a kingdom in the Thracian Peninsula... Prince Leif, the son of Quan, had raised an army with the aid of the knight Finn, but they have suffered a devastating loss before King Blume's vast hordes and are stranded in hostile ground. 
@@ -1949,7 +1955,9 @@ Blume: W-wait... Tine?! How dare you betray my many kindnesses...
 Tine: I-I'm sorry, Uncle…
 
 @Boss
-Blume: Nngh... How? How could I lose... I've no choice... For now, I must retreat to Connaught…@Opening 
+Blume: Nngh... How? How could I lose... I've no choice... For now, I must retreat to Connaught…
+/***EOF***/
+@Opening 
 The unthinkable has come to pass. Sigurd is now a traitor in the eyes of his beloved Grannvale. In desperation, his army flees to find refuge in the northern Kingdom of Silesse. 
 
 Silesse was founded by the Wind Crusader, Ced. It lies under the watchful guard of the valiant pegasus knights and wind mages, and so for over a century since its foundation, Silesse has maintained itself as a neutral nation and persistent all invaders. 
@@ -2334,7 +2342,9 @@ Donovan: Gah... You're... You're too strong…
 
 Annand: I'm sorry. I know you're not to blame, but this must be done…
 
-Annand: Aah... Erinys... Prince... Lewyn...@Opening 
+Annand: Aah... Erinys... Prince... Lewyn...
+/***EOF***/
+@Opening 
 The two faces of the Thracian Peninsula are as distinct as night and day. The peninsula's north, once ruled by several small kingdoms, is graced with rich pastures, while the south, the Kingdom of Thracia, is a harsh wasteland dominated by vast mountains. In ages past, seeking to claim the life-giving northern land as their own, Thracia's infamous wyvern knights have led countless brash attempts to conquer the north, only to be repelled at every turn by the might of House Leonster. 
 
 Thracia looked to have won at last following their slaughter of Leonster's army in the Yied Desert, only to be defeated in turn by Blume of Freege, who claimed the land as his own. And so, the so-called Kingdom of North Thracia was born as yet another servant of the Empire. Over a decade has passed since then. Not even Thracia's King Travant, an ambitious man with a thirst for power and glory, dares to challenge the will of the Empire, and so a strange peace looms over the region. 
@@ -2711,7 +2721,9 @@ Coulter: Gaaah! May Thracia... rise in glory…
 
 Maykov: This land is the rightful land of the Kingdom of Thracia! You will never take it from us!
 
-Maykov: Guh... Glory... to Thracia...@Opening 
+Maykov: Guh... Glory... to Thracia...
+/***EOF***/
+@Opening 
 At the heart of the continent of Jugdral lies Grannvale, a kingdom founded by Saint Heim of the Twelve Crusaders. 
 
 Supporting the royal family, the heirs of Heim, are six noble houses, each also descended from a Crusader of old. The six states, while still subservient to the royal family, each occupy vast swaths of Grannvale's land and maintain mighty militaries of their own. 
@@ -2914,6 +2926,8 @@ Gerrard: Oi, wait a sec! No bows, you coward! That ain't a fair fight!
 Midir: Oh, shut up! Let Lady Aideen go! NOW!
 
 Gerrard: Ahahaha... Too bad for you... Killing me ain't gonna free your dame... Prince Gandolf's already... Urgh...
+
+/***EOF***/
 @Opening 
 The final battle for control of Grannvale sent its most powerful figures to the grave. Just as he had planned, this left Arvis as the sole ruling power of the kingdom. 
 
@@ -3299,7 +3313,9 @@ Dannan: Y-you useless little…
 @Boss 
 Schmidt: Hold, rebel scum! King Dannan has decreed that you shall go no further!
 
-Schmidt: King Dannan... my lord... Forgive me!@Opening 
+Schmidt: King Dannan... my lord... Forgive me!
+/***EOF***/
+@Opening 
 Seliph's long journey is drawing to a close. His army's victories are a beacon of hope to the Empire's victims, and a wave of further rebellions sweeps across Jugdral. First, Silesse was wrestled back from imperial control by its citizens, and soon after Agustria's people flocked to arms, burning to fight for their country. 
 
 But Grannvale itself yet stands. Duke Brian of Dozel and the axe knights of the Grau Ritter; Duke Scorpio of Jungby and his elite archers, the Beige Ritter; and Freege's Queen Hilda and the war-mages of the Gelb Ritter stand between Seliph and the capital. Belhalla itself lurks under an eerie silence, as Ishtar and the enigmatic twelve Deadlords lie in wait to defend Prince Julius himself. 
@@ -3821,6 +3837,8 @@ Julius: GWAAAAAAAAAAaaaaaaaa....
 Julius: GHARRGH... SELIPH... HEAR ME WELL... SO LONG AS AVARICE LURKS STILL IN THE HEARTS OF MEN... I WILL RETURN... COUNT ON IT... THE HEARTS OF... GAAAAHHhhh…
 
 Julius: GHARRGH... NAGA! YET AGAIN... YOU HAVE BROUGHT RUIN... TO ME…
+
+/***EOF***/
 @Opening 
 With the liberation of the peninsula's north, Seliph's liberation army aoccupies Meath Castle as their headquarters, uncertain of how to next act. Beyond Meath and the engulfing maw of its peaks lies the wyvern knights' kingdom, Thracia. This rural nation is ruled by King Travant, who remains bound in coalition to Emperor Arvis. Thracia is the only state anywhere in Jugdral regarded as an ally by the Grannvale Empire. 
 
@@ -4238,7 +4256,9 @@ Altena: Oh... Arion…
 
 @Boss
 Arion: How... How could this be?! I've... I've brought shame on myself... Altena…
-Julius: Arion. This place will not be your grave. I forbid it. Heh heh... Join me.@Opening 
+Julius: Arion. This place will not be your grave. I forbid it. Heh heh... Join me.
+/***EOF***/
+@Opening 
 With Thracia's downfall, Seliph sets his sights on his final destination: Grannvale. His route to the Empire takes him through the Miletos District, a collective of free cities which was once a vibrant and wealthy hub of commerce for all of Jugdral. 
 
 Now, though, only a dying land choked by the Empire and Loptyrian Order lies before Seliph. At Chronos Castle, the seemingly mad rule of Queen Hilda has condemned countless citizens to savage, merciless deaths. And in the Rados region, Bishop Morrigan, under the command of Archbishop Manfroy, conducts child hunt after child hunt. Wealth. Liberty. Hope. Even life itself... All crumbled through the people's fingers. 
@@ -4630,7 +4650,9 @@ Arvis: Deirdre... ...Julia...
 
 %Seliph,Arvis
 Seliph: You... Emperor Arvis! Why... Why did you betray my father...
-Arvis: At long last... Seliph. I must commend your courage, boy. But courage cannot save you now. Not since your dear departed father have I seen such a pathetic worm... My flames shall purge you from this world!@Opening
+Arvis: At long last... Seliph. I must commend your courage, boy. But courage cannot save you now. Not since your dear departed father have I seen such a pathetic worm... My flames shall purge you from this world!
+/***EOF***/
+@Opening
 Sigurd's capture of Evans Castle comes too late. Aideen is not there, instead already well within Verdane's borders. 
 
 Verdane's territory is blanketed in a thick sweep of forest. The nation is widely dubbed a "barbarian kingdom" by Grannvale's people, owing to their constant raids on Grannvalian soil. 
@@ -4946,7 +4968,9 @@ Ayra: Shannan... I've failed you…
 
 Jamke: I don't want to hurt you! Begone from this land at once!
 
-Jamke: No... Father…@Opening 
+Jamke: No... Father…
+/***EOF***/
+@Opening 
 The Silessian civil war is over, and the Grannvale army awaits Sigurd. Zaxon Castle has barely fallen, yet before Sigurd can so much as rest, the hordes of Grannvale stand before him at the captured Lubeck Castle. 
 
 The Grannvale commander, Duke Langbalt, is a longtime enemy of Sigurd's father. For Sigurd, to challenge Langbalt is an opportunity to avenge his father, Byron, framed by Langbalt for his crimes. 
@@ -5515,3 +5539,5 @@ Aida: Hah! You're as sore a loser as I expected, Reptor. You'd do well to surren
 
 
 
+
+/***EOF***/

@@ -322,7 +322,9 @@ Seteth: Rhea! Please!
 Rhea: You're here, Mother...
 
 @Narration 
-A rising flame was alight as the flow of time carved a new history for Fódlan. Rhea's wild rampage was put to an end, averting what could have the greatest crisis in the history of Fódlan After five and a half years of war, a new age was set to begin. The Empire, Kingdom, and Alliance—all political structures that had once shaped the continent—were gone. A unified nation began to take shape under the watchful eye of the Church of Seiros. The church's new leader became a champion of the people, working tirelessly to help them overcome the horrors of war and to carve a path towards reconstruction. Just as Saint Seiros tended to those who suffered in wars of the past, Fódlan's new ruler embraced their role as mother of all life and arbiter of every soul.@Opening 
+A rising flame was alight as the flow of time carved a new history for Fódlan. Rhea's wild rampage was put to an end, averting what could have the greatest crisis in the history of Fódlan After five and a half years of war, a new age was set to begin. The Empire, Kingdom, and Alliance—all political structures that had once shaped the continent—were gone. A unified nation began to take shape under the watchful eye of the Church of Seiros. The church's new leader became a champion of the people, working tirelessly to help them overcome the horrors of war and to carve a path towards reconstruction. Just as Saint Seiros tended to those who suffered in wars of the past, Fódlan's new ruler embraced their role as mother of all life and arbiter of every soul.
+/***EOF***/
+@Opening 
 The resistance army successfully takes Fort Merceus. Their victory celebrations are cut short, however, when javelins of light pierce the sky and destroy much of the fort. With nowhere else to go, the resistance army withdraws to Garreg Mach. Under the guise of surrender, they secretly prepare for a surprise attack on the Imperial capital.
 
 @Dialogue 
@@ -557,7 +559,9 @@ Alois: It seems we chose wisely when we decided to fight against the Empire!
 Dedue: I've done what I came here to do. Farewell.
 Flayn: Wait a moment!
 
-Flayn: He is gone. I believe we should make our way there as well!@Opening 
+Flayn: He is gone. I believe we should make our way there as well!
+/***EOF***/
+@Opening 
 The resistance army, having received reinforcements from House Daphnel in Ailell, is finally ready to unleash its invasion on the Imperial territories.
 
 @Dialogue 
@@ -782,7 +786,9 @@ Seteth: To march straight for the main body of the Imperial army and challenge t
 Gilbert: I am afraid His Highness is not able to stop his advance...
 Seteth: If that is the case, I am afraid we cannot join you. Please, send our regards to Dimitri.
 Gilbert: I understand. It's unfortunate that we were not able to secure the help of the Knights of Seiros. Still, I'm grateful that we can cross the Great Bridge of Myrddin safely. Thank you for that. This will be a fight to the death. It is highly likely that we will meet our end. I wish you both the best of luck in the battles ahead.
-Seteth: And may the goddess protect you as well.@Opening 
+Seteth: And may the goddess protect you as well.
+/***EOF***/
+@Opening 
 Following Edelgard's defeat and Rhea's rescue, the resistance army discovers the existence of another adversary-a group operating behind the scenes within the Empire.To prevent disaster from befalling Fódlan, the resistance army heads for Shambhala, the enemy's stronghold.
 
 @Dialogue 
@@ -994,7 +1000,9 @@ Rhea: Those awful weapons have been stopped. They were being controlled from tha
 Seteth: Finally, they've stopped! That should make things easier.
 
 Thales: You!
-Rhea: That is the leader of those who slither in the dark. We must go after him with all our might!@Opening 
+Rhea: That is the leader of those who slither in the dark. We must go after him with all our might!
+/***EOF***/
+@Opening 
 It is Imperial Year 1185. Nearly five years have passed since the fall of the monastery at Garreg Mach, and war continues to plague the lands of Fódlan. Fhirdiad has been captured. The Holy Kingdom of Faerghus is in shambles. The Leicester Alliance is on the verge of collapse, fractured by two opposing factions–those who support the Adrestian Empire and its ruler, and those who seek her demise. Meanwhile, under Emperor Edelgard’s rule of law, the Adrestian Empire continues to expand its reach. The path to a new Fódlan, unified by Imperial strength, may yet be in sight.
 
 @Dialogue 
@@ -1122,7 +1130,9 @@ Seteth: Flayn, look! The professor has returned to us!
 Flayn: Hm? What do you mean... Oh! Goodness! It really IS you, Professor! I cannot believe you are still of this world! We were so worried we would never see you again.
 Byleth: What are you doing here?
 Flayn: I forgot something important at the Holy Mausoleum... I told my brother I had to go back for it no matter what, and so here I am...
-Seteth: After we finished here, we were going to continue our search for Rhea. But now that you are here, things have changed. We must not waste this opportunity. We shall send word to the knights scattered all across the land. The time has come for the Knights of Seiros to return to action. We are counting on you, Professor!@Opening 
+Seteth: After we finished here, we were going to continue our search for Rhea. But now that you are here, things have changed. We must not waste this opportunity. We shall send word to the knights scattered all across the land. The time has come for the Knights of Seiros to return to action. We are counting on you, Professor!
+/***EOF***/
+@Opening 
 After seizing the Great Bridge of Myrddin, the resistance army starts making preparations to invade Imperial territory, when a surprising piece of information comes to light.
 
 @Dialogue 
@@ -1440,7 +1450,9 @@ Petra: I will be embracing the nearness of death if I am needing to. With each o
 Bernadetta: That sounds dangerous...really, incredibly dangerous!
 Seteth: Make no mistake...if we fail in this plan, there will be no coming back from it. Are you sure about this, Professor?
 Byleth: It's our only hope.
-Seteth: I see. If you are resolved, then I will follow suit. We may be weaker and the terrain may be against us, but all we can do is use our resources the best we can. That, and pray for the blessings of the goddess.@Opening
+Seteth: I see. If you are resolved, then I will follow suit. We may be weaker and the terrain may be against us, but all we can do is use our resources the best we can. That, and pray for the blessings of the goddess.
+/***EOF***/
+@Opening
 Having parted ways with Edelgard, former students of the Black Eagle House now work alongside the Knights of Seiros at Garreg Mach. They begin to create a resistance army strong enough to take on her Imperial forces.
 
 @Dialogue 
@@ -1717,7 +1729,9 @@ Shamir: Who are you planning to ask?
 Catherine: Sadly, House Charon is out. We can trust them, but they have no help to offer.
 Alois: Hm, how about House Daphnel of the Alliance? Their leader is sure to at least respond.
 Flayn: Oh, how about House Daphnel of the Alliance? I recall that their leader was quite exceptional.
-Seteth: Judith, the Hero of Daphnel... Yes, that is a fine suggestion. That territory is on the border of the Kingdom and the Alliance. It has not yet been claimed by the fires of war. If they agree to lend us their troops, out forces will be greatly strengthened. We shall send along a secret messenger at once.@Opening 
+Seteth: Judith, the Hero of Daphnel... Yes, that is a fine suggestion. That territory is on the border of the Kingdom and the Alliance. It has not yet been claimed by the fires of war. If they agree to lend us their troops, out forces will be greatly strengthened. We shall send along a secret messenger at once.
+/***EOF***/
+@Opening 
 After storming the streets of Enbarr and bringing imperial forces to their knees, the resistance army surrounds the Imperial palace. To topple the Empire and save Rhea from its clutches, the resistance army steels itself for battle against Emperor Edelgard.
 
 @Intro 
@@ -1787,7 +1801,9 @@ Rhea: I do not know how Nemesis obtained the sword, or why he appeared in Zanado
 Seteth: It was surmised that someone was collaborating with Nemesis, and there was a massive investigation to uncover who it was. But the truth was never discovered. I am now certain that his accomplices were Those who slither in the dark. And this time, they have utilized the imperial army to send Fódlan back into the flames of war...
 Flayn: So, Edelgard has made a temporary alliance with them in order to achieve her own aims... Professor, we must journey to Shambhala and stop them!
 
-Rhea: You must not allow Fódlan's bloody history... the Red Canyon Tragedy... to repeat itself...@Opening 
+Rhea: You must not allow Fódlan's bloody history... the Red Canyon Tragedy... to repeat itself...
+/***EOF***/
+@Opening 
 Having repelled the Imperial vanguard, the resistance army, in desperate need of troops, seeks help from Judith, head of House Daphnel - the governing body in the northwestern regions of Alliance territory.
 
 @Dialogue 
@@ -2065,3 +2081,4 @@ Byleth: Let's do it.
 Seteth: It seems you are decided. We will send our answer at once.
 Byleth: I'm suspicious.
 Seteth: I am afraid we have no choice, considering the circumstances...
+/***EOF***/

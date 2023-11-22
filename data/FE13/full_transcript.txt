@@ -75,7 +75,9 @@ Frederick: The dragonkin are said to be more resilient than men. Nowi would make
 Robin: Beg pardon, but who are the Grimleal?
 Frederick: Followers of the fell dragon, Grima. The selfsame dragon the first exalt defeated a thousand years ago. Even today there are some who yearn for the fiend's return.
 Robin: I...see.
-Flavia: Well, shall we get some rest? We're almost to the Plegian capital. We'll need all our strength, soon enough…@Intro
+Flavia: Well, shall we get some rest? We're almost to the Plegian capital. We'll need all our strength, soon enough…
+/***EOF***/
+@Intro
 Chrom: Origin Peak...
 Naga: The fell dragon is indeed here. Remember, Awakener! The power I gave you cannot destroy Grima.
 Robin: It can only put him back to sleep...
@@ -129,7 +131,9 @@ Lucina: Grima!
 Chrom: We can defeat him!
 Frederick: Milord, how does a man challenge a mountain?! Where would one even strike?!
 Naga: The fell dragon has a weakness on the nape of his neck. But that weakness will be guarded by his servants. I can send you onto the dragon's back, but the rest is in your hands.
-Chrom: Then please, milady, and quickly! We would ask no more of you. Everyone, gird yourselves! One way or another this ends here!@Intro 
+Chrom: Then please, milady, and quickly! We would ask no more of you. Everyone, gird yourselves! One way or another this ends here!
+/***EOF***/
+@Intro 
 Lissa: Brrr! F-F-Frebberick! I'm f-f-freebing!
 Frederick: Stand beside my horse, milady. She'll shelter you from the wind.
 Robin: So this is the fortress?
@@ -216,7 +220,9 @@ Chrom: That would be most appreciated, thank you.
 Robin: Amazing. Her whole demeanor changed.
 Frederick: In Ferox, strength speaks louder than words. I should have known better than to overestimate the value of diplomacy here…
 Lissa: So can we get going, Chrom?
-Chrom: Yes, it's not getting any warmer.@Intro
+Chrom: Yes, it's not getting any warmer.
+/***EOF***/
+@Intro
 Flavia: Damn! Look at those walls... This isn't going to be easy.
 Basilio: It's not the walls I'm worried about—it's the hordes of Valmese inside them.
 Say'ri: Our best bet is a swift, surgical strike, right at their heart. If we can strike down their commander, the fortress will be ours. So—Khan Flavia, your men will take on the forces surrounded the castle. That should create an opening for a smaller team led by Chrom and I. ...I regret to say this will put you at the forefront of the battle, Sir Chrom.
@@ -353,7 +359,9 @@ Flavia: Is this...the Gemstone?!
 Basilio: You have to...survive... G-give it to him...
 Flavia: Give it to him yourself, you one-eyed clod of a man! I'm not going anywhere and neither are you!
 Basilio: Fool woman! I'm f-finished... Don't let it...be for nothing... For once in your life...just do what I say... Go! Go, gods damn you! GOOOOOO!
-Flavia: BASILIO!@Intro 
+Flavia: BASILIO!
+/***EOF***/
+@Intro 
 Lissa: It's beautiful...
 Lucina: The divine dragon's power flows through every blade of grass here.
 Chrom: Wait... Something doesn't feel right.
@@ -387,7 +395,9 @@ Naga: There is, perchance, a power that could end Grima. However... 'Twould be h
 Frederick: ...He has to kill himself?
 Naga: Yes. And never would he do so of his own volition. He seeks only to add to his power, and set ruin upon the world. Now come. There is little time...
 Chrom: Where is Grima now?
-Naga: To the west lies a volcano known as Origin Peak. You shall find the fell dragon there.@Battle 
+Naga: To the west lies a volcano known as Origin Peak. You shall find the fell dragon there.
+/***EOF***/
+@Battle 
 Dalton: You dare board our ship, worm? I'll not discuss terms with a peasant; I will issue demands to all! Citizens! Soldiers! Hear my words! The Conqueror himself, Emperor Walhart, claims dominion over these lands! You will grant your new emperor your ships! You will grant him all your provender! You will grant him your loyalty and your every possession! And you will surrender this land's greatest treasure, the Fire Emblem! Do this, and your lives will be spared. Resist, and your lives are forfeit! Now, kneel! And swear fealty to the mighty Valmese Empire!
 Villager: B-but if you take all that we have, how are we to make our living? Without food and ships, people will starve! Would you have us all die?
 Dalton: ...You'll do for now.
@@ -427,7 +437,9 @@ Robin: Indeed.
 Flavia: You know, Robin... For your first time against Valmese forces, that was an impressive victory. You and Chrom have both grown quite adept. You should be proud.
 
 Frederick: Milord, we have word from Plegia. They have agreed to meet with us at their outpost on Carrion Isle. A poor venue should things go sour, as the island's name makes plain. But then I don't see we have much of a choice.
-Chrom: Cautious as ever, Frederick the Wary. Don't worry. We'll get our ships. This threat hangs over all of us—Plegia as well. They must see that.@Intro 
+Chrom: Cautious as ever, Frederick the Wary. Don't worry. We'll get our ships. This threat hangs over all of us—Plegia as well. They must see that.
+/***EOF***/
+@Intro 
 Chrom: *Sigh*
 Robin: Chrom? What are you doing out so late?
 Chrom: Oh, hi, Robin. Just... dueling with some unpleasant thoughts... Tomorrow we march to Regna Ferox to request additional soldiers. But there's something you should know first. ...Not everything Gangrel said was a lie. The last exalt, my father, waged war on Plegia for many years. The violence... It was a brutal compaign, ending only with his death 15 years ago. Plegia rightfully remembers their suffering, but his war was no kinder to his own people. As the fighting dragged on, out army became more and more diminished. Farmers who could barely wield a pitchfork were conscripted and sent to their deaths. Soon there was no food at all, and the kingdom began to collapse. I was young, but I remember those dark times. ...I know how they affected Emmeryn.
@@ -596,7 +608,9 @@ Chrom: But if something happens to you? What then?
 Frederick: Your Grace, perhaps you might relocate to the eastern palace for the time being? The other kingdoms would know nothing of it. You would be safer.
 Chrom: Yes, please. At least that. I can't leave for Ferox with you right in harm's way.
 Emmeryn: ...Hmm. Very well.
-Chrom: Thanks, Emm. I mean it. We'll escort you to the palace before we head north to the border.@Intro 
+Chrom: Thanks, Emm. I mean it. We'll escort you to the palace before we head north to the border.
+/***EOF***/
+@Intro 
 Grima: WRETCHED SON OF NAGA... YOU WILL BE DESTROYED.
 Chrom: Are you ready, Robin?
 Robin: As ready as I will ever be, Chrom. Let's finish this!
@@ -1005,7 +1019,9 @@ Lissa: Hey there!
 Chrom: There are better places to take a nap than on the ground, you know.  Give me your hand.
 
 Chrom: Welcome back. It's over now.
-^end@Intro 
+^end
+/***EOF***/
+@Intro 
 Chrom: At last, Valm Harbor. Hmm... It appears well fortified... Prepare the troops. We'll— Huh? What's that?
 Frederick: An altercation? That woman—the Valmese dogs are running her down.
 Chrom: Any enemy of theirs is a friend of ours. Come on!
@@ -1064,7 +1080,9 @@ Say'ri: Well, I do have one idea...
 Say'ri: Since ancient times, many of our people have worshipped Naga. More precisely, we worship the divine dragon's oracle, Lady Tiki. Though most know her only as the Voice. The Voice is trapped in her temple as Walhart's prisoner. But if she were freed...
 Robin: The Resistance could unite around her. Where is the Voice being held?
 Say'ri: There is a shrine built in the branches of the divine Mila Tree. She is confined there.
-Chrom: Then we have our plan. Let's get to it!@Dialogue 
+Chrom: Then we have our plan. Let's get to it!
+/***EOF***/
+@Dialogue 
 Aversa: Greetings, Prince Chrom. Plegia welcomes you.
 Chrom: Aversa!
 Aversa: What can I say? It seems fate has designs for me yet.
@@ -1410,7 +1428,9 @@ Chrom: I wish I could introduce you to Lu— er, yourself, back at the castle. I
 Lucina: Yes, and Mother! I would love to see Mother as well.
 Chrom: Yes! She would be so happy! ...Er, after the initial shock.
 Lucina: I've missed you both so much, Father. ...So very much.
-^end@Intro 
+^end
+/***EOF***/
+@Intro 
 Chrom: ...Where is his army?
 Frederick: No sign of them yet, milord.
 Robin: Hmm...
@@ -1498,7 +1518,9 @@ Flavia: Well, their allegiance seems clear enough now.
 Say'ri: I can hardly believe it... Theirs are the lands my brother commanded. Finally, now, they come to answer the call?
 Flavia: Finally is right. It's taken a lot of hard work to get here, Say'ri. A lot of sacrifice. From you, from Basilio, from your brother. Don't forget this moment.
 Say'ri: Aye, my lady. Aye.
-Chrom: Now, let us finish what we began. To the capital, friends!@Intro 
+Chrom: Now, let us finish what we began. To the capital, friends!
+/***EOF***/
+@Intro 
 Gangrel: What's this, then? The exalt herself, in all her radiance? I fear I must shield my eyes! Bwa ha ha ha!
 Emmeryn: King Gangrel, I've come for the truth of this unfortunate incident between us.
 Aversa: The truth? I can give you the truth.
@@ -1573,7 +1595,9 @@ Maribelle: Oh, it's not a question of fondness. I am simply protective of Lissa.
 Chrom: Forgive me, Emm. I acted rashly.
 Emmeryn: It's all right, Chrom. King Gangrel is the one at fault here. You were only protecting me.
 Frederick: The Mad King will be rallying his forces, if they have not mobilized already. I suggest we make haste back to Ylisstol and discuss our strategy.
-Emmeryn: Of course, Frederick. It seems war is upon us. We must protect the Ylissean people at all costs.@Intro
+Emmeryn: Of course, Frederick. It seems war is upon us. We must protect the Ylissean people at all costs.
+/***EOF***/
+@Intro
 Lissa: Ugh, my poor feet. I've got blisters the size of eggs!
 Chrom: Oh, it's not so bad, Lissa. Just a healthy little stroll! How are you holding up, Robin?
 Robin: My legs feel like pudding... Your endurance astounds me, Chrom.
@@ -1700,7 +1724,9 @@ Chrom: ...All right, Robin. I leave it to you to formulate our strategy.
 Flavia: Are you certain you're up to the task, Robin? It won't be easy. You hold the exalt's life in one hand, and all of ours in the other.
 Robin: A responsibility I do not take lightly. But I am equal to the challenge.
 Flavia: Ha ha! You've got stones, at least. I like that!
-Basilio: No hesitation, no mincing words... He's/She's either a genius or a fool! I suppose we'll find out once we march. Hold on to your tassets, Ylisseans. We've an exalt to save!@Intro 
+Basilio: No hesitation, no mincing words... He's/She's either a genius or a fool! I suppose we'll find out once we march. Hold on to your tassets, Ylisseans. We've an exalt to save!
+/***EOF***/
+@Intro 
 Excellus: Th-they... There must be several hundred thousand soldiers out there! Would they dare...?! Is it... Is it possible... Is it possible it was Yen'fay they feared all along, and not me?!
 Walhart: Without him to back it up, your threat was only the grand shadow of a tiny spider.
 Excellus: Tiny spider, is it? Well this spider has woven other webs in secret you could not even—
@@ -1788,7 +1814,9 @@ Chrom: Neither do I, Frederick the Wary. Neither do I. At best, it's selfish pol
 Frederick: Milord, are you...certain that's wise?
 Chrom: No, but we haven't time to be certain. ...And my sister never refused a diplomatic gesture, no matter how foul smelling. If he doesn't give us the stone, he may at least reveal where it is. ...Don't worry, Frederick. I'm not walking into this blindly. We will make certain everyone is armed to the teeth.
 Frederick: Then the Fire Emblem, milord—you ought at least leave it behind.
-Chrom: Unless that's what Validar expects, and he comes to steal it with my best men away... No, it's safest with me, for now. We'll learn the truth of Validar's motive soon enough...@Intro 
+Chrom: Unless that's what Validar expects, and he comes to steal it with my best men away... No, it's safest with me, for now. We'll learn the truth of Validar's motive soon enough...
+/***EOF***/
+@Intro 
 Robin: ......
 Chrom: Are you ready, Robin?
 Robin: Chrom, first I have a favor to ask...
@@ -1944,7 +1972,9 @@ Chrom: Robin, you old dastard/sly cat. You never cease to amaze! Quickly now! We
 Frederick: It's said the first exalt paid tribute to Naga at a site on Mount Prism.
 Chrom: Do you know where, exactly?
 Frederick: Yes. There is an altar at the peak of the mountain. If milord would perform the Awakening, it must be done there.
-Chrom: A small hope is better than no hope at all. Hurry, everyone!@Intro 
+Chrom: A small hope is better than no hope at all. Hurry, everyone!
+/***EOF***/
+@Intro 
 Lissa: Here we are! The Shepherds' garrison. Go on, Make yourself at home.
 
 Maribelle: Lissa, my treasure! Are you all right? I've been on pins and needles!
@@ -2060,7 +2090,9 @@ Sumia: You all go ahead. I'll dress her wounds and catch up as soon as we're abl
 Chrom: We can make time to wait for you.
 Sumia: thank you, Captain. But I can manage. Every moment is precious when all of Ylisse is in danger.
 Chrom: Right, then. Be safe, Sumia.
-Sumia: As you command, sir.@Intro 
+Sumia: As you command, sir.
+/***EOF***/
+@Intro 
 Lissa: Whoaaa... I don't think I've ever felt so small...
 Basilio: I can't even see the top of it!
 Frederick: Most impressive indeed... So the shrine hides all the way up in its branches?
@@ -2167,7 +2199,9 @@ Chrom: Say'ri—the third division, stationed between the other two...
 Say'ri: Aye, sir, at Fort Steiger, halfway along the highroad. In fact, not so far from where we stand now. We might stand a chance against them... But it would take speed, and luck. I wager Walhart and Yen'fay will hear of our exploits soon, if they haven't already. I suggest sending the bulk of our army to the north and south to mask our plan. An elite force, led by Sir Chrom, might then quietly slip through to Fort Steiger. What say you?
 Chrom: I say, "aye."
 Flavia: Aye.
-Say'ri: Fie! We could all be dead before nightfall, yet not one of you so much as hesitates. Your courage is...an inspiration... Aye, we will win this war yet, by gods!@Cutscene 
+Say'ri: Fie! We could all be dead before nightfall, yet not one of you so much as hesitates. Your courage is...an inspiration... Aye, we will win this war yet, by gods!
+/***EOF***/
+@Cutscene 
 Lissa: Chrom, we have to do SOMETHING.
 Chrom: Well, what do you propose we do?
 Lissa: Uh... I don't know!... 
@@ -2290,7 +2324,9 @@ Frederick: *Ahem* You do realize I AM still present?
 Chrom: Oh, we realize.
 Robin: Heh heh.
 Frederick: Milord remains as amusing as ever. Now then, shall we be going?
-Chrom: All right, all right. Ready to go, Robin? The capital isn't far.@Intro
+Chrom: All right, all right. Ready to go, Robin? The capital isn't far.
+/***EOF***/
+@Intro
 Say'ri: Just as I thought: the turncloaks only made a show of opposing us. We're clear of them. But Yen'fay's forces approach swiftly. It won't be long now...
 Robin: We should hasten south to meet them, and distance ourselves from Walhart. This battle will be challenge enough without the Conqueror breathing down our backs.
 Say'ri: ...Another concern: the dynasts who betrayed us. They attacked us and let us go both, because it suited their purpose. Should they attack us from behind as we battle Yen'fay, it would be an easy victory. They would curry favor with the empire without risk of injury. This is how they think.
@@ -2410,7 +2446,9 @@ Lucina: Possibly, if they can see an advantage in it for themselves. With them o
 Say'ri: To think, how quickly our fortunes have shifted...
 Robin: We have Basilio to thank for it. For all of it. His sacrifice made it all possible... If only there had been some other way...
 Flavia: No second guessing! Basilio would have hated that. You did your duty as best you were able, same as he. Now clear the doubts out of that clever head of yours—we're going to need it. The fate of Valm—and all our homelands—hangs on this next battle. For the sake of history and all our fallen comrades... We will bring this empire crashing down!
-Chrom: Shepherds! Comrades! Soldiers! We make for the capital! This "Conqueror's" reign ends now!@Intro 
+Chrom: Shepherds! Comrades! Soldiers! We make for the capital! This "Conqueror's" reign ends now!
+/***EOF***/
+@Intro 
 Lissa: I told you—it's getting dark already! ...Ech! And now the bugs are out! Noisy, disgusting bugs that buzz around and crawl all over and bite you when—Agh! Won goph in mah mouph! Blech! Ptooey!
 Chrom: Aw, come on now, Lissa. Hardship builds character. Want to help me gather firewood?
 Lissa: Tpht! Tpht! Yeeeeeuck! ...I think I swallowed it... I'll pass on finding firewood, thanks. I think I've built QUITE enough character for one day!
@@ -2558,7 +2596,9 @@ Frederick: They occasionally express something akin to gratitude, Your Grace. Ph
 Phila: Yes, milord. They've been sighted all across Ylisse.
 Emmeryn: Chrom, we are about to hold council. I was hoping you could join us.
 Chrom: Of course.
-Lissa: I think that's our cue, Robin! C'mon, there's a place I want to show you.@Intro 
+Lissa: I think that's our cue, Robin! C'mon, there's a place I want to show you.
+/***EOF***/
+@Intro 
 Robin: Ah, take it all in! Breathtaking... Somehow our troubles feel a lifetime away out here.
 Chrom: Yet in truth, we're headed straight toward them... I should be grateful the Plegians delivered us this fleet, as promised. But it's my first time on a vessel, and my legs... I never fancied myself a sea captain.
 Lucina: This is my first voyage as well. In my time, all ships were destroyed. Smashed to pieces, along with their ports.
@@ -2629,7 +2669,9 @@ Frederick: It worked! It worked!
 Flavia: Only you could hatch such a brilliant scheme, Robin. Who else would desert half our vessels and turn them into flaming cannonballs? And there was still enough room on the remaining ships for all our troops. It was so simple, and yet the Valmese never saw it coming. They never considered anyone might be willing to sacrifice half a fleet...
 Chrom: We may have won the day, but the war still looms. We must continue on and seize control of their main harbour.
 Basilio: Aye, boy! I've had enough of the smoke and smell here for one lifetime, besides.
-Chrom: Full speed for Valm!@Intro 
+Chrom: Full speed for Valm!
+/***EOF***/
+@Intro 
 Lucina: There it sits...
 Lissa: What's wrong, Lucina?
 Lucina: That great skull. I saw it once before, when Emmeryn was sentenced to die. Even then it reminded me of...him...
@@ -2822,7 +2864,9 @@ Chrom: There's no need. You're not the only one who can eavesdrop. I heard every
 Lucina: That is easier to say when you haven't seen it yourself...
 Chrom: Lucina, aren't our ties stronger here now than they were in your future? You said so yourself. In this flow of time we are bound tigher than ever, you and I. Not just as father and daughter... But as friends. We can change things—we already have...and we will again.
 Lucina: ...Very well, Father. I would ask your forgiveness, Robin, with all my heart. And I pray... That is, I trust the both of you will prove me wrong. ...That this future will fall to pieces before your bond ever will.
-^end@Intro 
+^end
+/***EOF***/
+@Intro 
 Chrom: All these strange travelers... What's happening here?
 Lissa: Let's ask 'em! Um, excuse me, sir? ...Sir?
 Villager: ...the appointed...time... ...to the Dragon's...Table... ...our prayers...Grima...
@@ -2901,7 +2945,9 @@ Aversa: No, I suppose there isn't.
 @End 
 Chrom: Damn! She escaped! Aversa wouldn't leave Validar before he was ready, even with her wounds. His preparations must be complete...
 Lucina: We have to stop him! My future is upon us!
-Chrom: We will, Lucina. I swear to you—we will.@Intro
+Chrom: We will, Lucina. I swear to you—we will.
+/***EOF***/
+@Intro
 Chrom: Up there! 
 
 Validar: '  You fool!
@@ -2938,7 +2984,9 @@ Chrom: At long last...
 
 Chrom: ...What's wrong? Hey, hang on—
 
-Chrom: This is not your— your fault... Promise me you'll escape from this place... Please, go...@Intro 
+Chrom: This is not your— your fault... Promise me you'll escape from this place... Please, go...
+/***EOF***/
+@Intro 
 Aversa: The enemy has taken the field, milord.
 Gangrel: Back already? Ha! It feels as though we just said our good-byes...
 Aversa: Our scouts report they are in surprisingly good spirits.
@@ -3256,7 +3304,9 @@ Cherche: I speak only what I know for true, good people. As does my lord. ...At 
 Virion: There's that wit of yours again! Aha! That wonderful...needling, chafing wit.
 Chrom: I believe you both. Basilio, we must secure your ports as soon as possible.
 Virion: You should know that Valm has the strongest cavalry in the world. You will want to station troops with experience fighting mounted troops.
-Chrom: Why, Virion, are you volunteering?Aversa: So, Captain, let me be certain I understand your report... Not only did you NOT confirm that the Ylissean party carries the Fire Emblem... But you can't be certain Prince Chrom is even among them? ...Is that the gist of it?
+Chrom: Why, Virion, are you volunteering?
+/***EOF***/
+Aversa: So, Captain, let me be certain I understand your report... Not only did you NOT confirm that the Ylissean party carries the Fire Emblem... But you can't be certain Prince Chrom is even among them? ...Is that the gist of it?
 Soldier: Y-yes, milady! The air was thick with sand—even their number was difficult to ascertain.
 Aversa: Perhaps if you had gotten closer, Captain. Here, let me show you...
 
@@ -3425,7 +3475,9 @@ Chrom: Gangrel! You die today!
 Basilio: No, boy! I secured an escape route! We have to flee!
 Chrom: B-But...her body... I have to...
 Basilio: You have to RUN! Now do it! Robin! Don't let him do anything stupid!
-Marth: No! No... I'm too late... Our bleak future is written once more... And darkness awaits us all. @Intro 
+Marth: No! No... I'm too late... Our bleak future is written once more... And darkness awaits us all. 
+/***EOF***/
+@Intro 
 Raimi: Prince Chrom, please wait here while I summon the khan.
 Chrom: Of course.
 Robin: The khan is away?
@@ -3539,7 +3591,9 @@ Chrom: Ricken? How did you... Go back inside. You're not old enough for this mis
 Ricken: But, Captain! You know my skill with magic! You know I can handle myself! 
 Chrom: I'd feel safer with your magic here, protecting the garrison. All right? We're off, then. Be good. 
 
-Ricken: "Be good"? Gods, how old does he think I am? ...Well, I'll show him just how good I can be! @Intro 
+Ricken: "Be good"? Gods, how old does he think I am? ...Well, I'll show him just how good I can be! 
+/***EOF***/
+@Intro 
 Basilio: Hurry! There should be carriages waiting just through the ravine!
 Chrom: ......
 Robin: Chrom, please!
@@ -3632,3 +3686,4 @@ Basilio: All right, enough talk. It's time to raise some hell!
 Chrom: Right.
 Basilio: Let's get to it, then! Gangrel may try to hit us while we're still licking our wounds.
 Chrom: Let him try. This time, I'm ready to dethrone the Mad King, once and for all.
+/***EOF***/

@@ -87,7 +87,9 @@ Corrin: ...
 Azura: I'm sorry, but we don't have time to figure this out right now. We need to get back to our troops. If we don't have the wall under our control when King Garon's forces arrive... There's no telling how many innocent lives will be lost.
 Corrin: Dammit... You're right. OK. Let's go.
 Azura: We must hurry, Corrin. There's no time to lose.
-Corrin: Takumi... Where are you...?@Intro 
+Corrin: Takumi... Where are you...?
+/***EOF***/
+@Intro 
 Elise: All right, Corrin. Let’s go in there together. I’ll help as much as possible. This is our father we’re talking about. He has to forgive you, right?
 Corrin: Thanks, Elise. I hope you’re right.
 Elise: All right. Deep breath, and… here we go. Father! We have something we need to talk you about!
@@ -269,7 +271,9 @@ Lilith: Very well. Then I will open the gate.
 
 Corrin: Ah, I’m back. But… where is everyone?
 ???: You’re mine, Nohrian!
-Corrin: Hmm?!@Intro 
+Corrin: Hmm?!
+/***EOF***/
+@Intro 
 Garon: I see you made it here safely, Corrin.
 Corrin: Yes, Father. Long have I wished to see you and visit Castle Krakenburg again. I feel like I’m dreaming…
 Garon: It is only thanks to your diligence that you are here. I am told you are now a warrior almost on par with Xander. You finally possess the strength to be an instrument of Nohr’s power in the world.
@@ -399,7 +403,9 @@ Rinkah: Tch. I am not a hostage to be freed. You said your name is Corrin? When 
 Corrin: I was hoping the next time we met, it could be as friends.
 Rinkah: Softhearted fool! I am a Hoshidan warrior. You do not understand what you suggest.
 Corrin: I understand that right now Hoshido and Nohr are at war. But I’m trying to plan ahead for the day the war is over and we can live in peace.
-Rinkah: I’ve heard rumors of a sheltered Nohrian prince/princess who knows nothing of the world. I see those rumors are true. If we do meet again, the world will have no doubt taught you the error your ways.@Intro 
+Rinkah: I’ve heard rumors of a sheltered Nohrian prince/princess who knows nothing of the world. I see those rumors are true. If we do meet again, the world will have no doubt taught you the error your ways.
+/***EOF***/
+@Intro 
 Corrin: Wow. Leo wasn't kidding. This is the only way to travel. Did everyone make it through?
 Ryoma: Yes, we're all here. I'm almost certain Nohrian forces haven't laid claim to this area yet. We should be safe, for the time being.
 Takumi: Heh, they're probably still looking for us in the forest.
@@ -477,7 +483,9 @@ Corrin: What? Should...should I not do that?
 Rainbow Sage: Oh! Pardon me. Now you would be welcome to visit me anytime. Farewell, Corrin.
 Corrin: Farewell, Rainbow Sage. Thank you.
 
-Rainbow Sage: Ah...I hope he/she can live up to the destiny that's been laid before him/her... I'll be long dead before I find out, I suppose... But still...it would be nice for him/her. Hoo hoo!@Intro 
+Rainbow Sage: Ah...I hope he/she can live up to the destiny that's been laid before him/her... I'll be long dead before I find out, I suppose... But still...it would be nice for him/her. Hoo hoo!
+/***EOF***/
+@Intro 
 Corrin: This place is so beautiful...so calming.
 Azura: Isn't it? This is Izumo. It is known as the kingdom of the gods. Even as outside kingdoms quarrel, it remains neutral and peaceful.
 Corrin: So this is the beauty that peace allows for... How inspiring. If this place is neutral, perhaps we should rest here for a while. Everyone must be exhausted after all our many travels and battles.
@@ -674,7 +682,9 @@ Corrin: I'm with you all the way, Xander. You really are my hero. I hope you kno
 Xander: Was that a guffaw I heard? Out with it, little prince/princess. What's so funny?
 Corrin: Heh, sorry... It's just that you and Ryoma really are so much alike. If you weren't on opposite sides of a war, I think you could have been great friends.
 Xander: Yeesh... Do me a favor and keep that nonsense in your head where it belongs. Now, to the task at hand. Gather our troops and prepare for battle. Zola isn't one to postpone violence. We haven't much time.
-Corrin: I'm on it!@Intro 
+Corrin: I'm on it!
+/***EOF***/
+@Intro 
 Garon: So Iago has failed yet again. Pitiful. I'll have to dispose of him one of these days... No matter. Plan B will spring into action anytime now. Oh...and to see the look on Corrin's face when it does... Bwahahaha!
 
 Elise: No, Father... How could you?
@@ -748,7 +758,9 @@ Takumi: Yeah, yeah. I know. Maybe he didn't tell us directly becaus he knew we s
 Corrin: Takumi...do you truly believe there is still a spy among us?
 Takumi: I'd like to believe not, but...we haven't exactly had the best luck so far.
 Ryoma: There's no time to debate this. Not when we're about to enter Nohr proper. Now is a time for unity, not division.
-Corrin: That's right. We're probably going to have to face off against Xander and Camilla soon... But I'm prepared to fight even them, if I have to. Hear me, King Garon—we're coming for you!@Intro 
+Corrin: That's right. We're probably going to have to face off against Xander and Camilla soon... But I'm prepared to fight even them, if I have to. Hear me, King Garon—we're coming for you!
+/***EOF***/
+@Intro 
 Corrin: Well, this should be interesting. I've never sailed before. And we made it just in time to catch the last boat leaving the harbor. How lucky!
 Sakura: I know. It's been such a long march—I'm really looking forward to r-resting a bit.
 Azura: I wouldn't get too comfortable. Remember, we are on our way to Nohr. Some of the passengers on this ship could be our enemies.
@@ -853,7 +865,9 @@ Corrin: Ha! No, Takumi. It wasn't exactly like that. I merely asked Leo to spare
 Zola: Yes. And that kindness was enough to sway Lord Leo. He merely exiled me instead of taking my life.
 Takumi: I see. Well, I just hope we can put all of this behind us.
 Zola: Of course, milord!
-Corrin: Yes. It's time to focus on what's next. Who knows what's waiting for us in Nohr...@Intro 
+Corrin: Yes. It's time to focus on what's next. Who knows what's waiting for us in Nohr...
+/***EOF***/
+@Intro 
 Corrin: Is everyone ready? This will be our most trying battle yet, but it should hopefully be our last. I urge you to stay on your guard.
 Elise: Corrin... Are you really, completely, absolutely sure about all this? About Father being a m-monster?
 Corrin: I wish it weren't so, Elise. But it's true. King Garon is no longer of this world. I know it's not easy to hear, but that is what Azura and I have discovered.
@@ -978,7 +992,9 @@ Azura: Corrin!!
 Elise: NOOOOO!! Corrin?! Corrin!!
 Xander: How could one arrow be so powerful?!
 Corrin: Don't worry... I'm...fine... After all I've...been through... That's not enough...to stop me... Ryoma is...counting on me... Takumi! Th-that wasn't enough...was it? To quell your hatred of me... Hit me again...my brother... Do what you need...to do...
-Xander: Corrin?! Corrin!!@Intro 
+Xander: Corrin?! Corrin!!
+/***EOF***/
+@Intro 
 Silas: We've finally made it to the port. So far, so good. From here we can catch a ferry to Notre Sagesse. Felicia/Jakob's off making the arrangements as we speak.
 Corrin: Wonderful. We should all take this rare opportunity to relax for a bit. Azura in particular looks exhausted.
 Silas: I noticed too. Well, it hasn't been an easy journey here. But there's also... Well, let's just say Lady Elise has grown awfully found of her. In fact, Lady Elise has been talking to her almost nonstop since they met. Lady Azura is very polite, but I worry all that chatter is wearing her out.
@@ -1109,7 +1125,9 @@ Corrin: Takumi! Wait! ...
 Camilla: Let him go, Corrin. He's clearly got issues. And not to brag, but Xander received the Rainbow Sage's power ages ago. If we stick together, there's no way we'll lose to the Hoshidan army.
 Corrin: I hope you're right...
 Elise: Erm, sorry to interrupt, but it looks like the ferries are up and running again. Let's get out of this dump and head to Notre Sagesse. I'll even tell you a fun story I made up about two caterpillars on a little leaf boat.
-Corrin: Thanks, Elise. You've got yourself a deal. In any case, I need to put this all behind me and focus on the task at hand. If what Father said is true, we'll be facing Hoshidan forces in Notre Sagesse as well. There's no time to overthink things... No time for guilt or regret. Well, what are we waiting for? Let's get going!@Intro 
+Corrin: Thanks, Elise. You've got yourself a deal. In any case, I need to put this all behind me and focus on the task at hand. If what Father said is true, we'll be facing Hoshidan forces in Notre Sagesse as well. There's no time to overthink things... No time for guilt or regret. Well, what are we waiting for? Let's get going!
+/***EOF***/
+@Intro 
 Corrin: Gods...these stairs seem to go on forever.
 Azura: Indeed. But what did you expect? This is the Eternal Stairway. Not to worry—we've almost reached the halfway point.
 Corrin: Right. I suppose there is no Five-Minute Stairway we could have taken instead.
@@ -1256,7 +1274,9 @@ Hayato: Chief! Must I remind you again that I am no longer a child?
 Fuga: You're right, you're right. I must admit that I still feel a bit protective at times...
 Hayato: Dad! I mean...Chief! Lord/Lady Corrin, he's not my dad. He's just looked after me since I was a child.
 Corrin: It's OK. I understand. Anyway...we should get going. Welcome aboard, Hayato. And thank you for everything, Chief Fuga.
-Fuga: No need to thank me. Please feel free to come back here anytime you'd like. I'm proud to have met the one whom the sacred Yato chose. We shall meet again.@Intro 
+Fuga: No need to thank me. Please feel free to come back here anytime you'd like. I'm proud to have met the one whom the sacred Yato chose. We shall meet again.
+/***EOF***/
+@Intro 
 Corrin: Here we are... The Hoshidan capital. What a long journey it's been.
 Azura: Yes, but soon this long ordeal will finally be over. If we can take control of the capital and seize the throne room, victory will be ours.
 Corrin: Azura... Are you OK with that?
@@ -1402,7 +1422,9 @@ Corrin: I'm sorry. Perhaps I should not have spoken. Feel free to cry and scream
 Hinoka: ... Good-bye, Corrin.
 Azama: Lady Hinoka! I am truly grateful that you escaped that ordeal with your life.
 Setsuna: It's time to go, milady. If we stay here, they'll catch us for sure.
-Hinoka: Yes. Let's get going. Brother/Sister... You're right about one thing. I cannot forgive the Nohrian army. They started this war, and they're winning it like cowards. They're all barbarians! Yet Corrin's dream of us all uniting as siblings in a world without war... His/her wish is so earnest, so pure, I can't help but believe in it too. Ryoma... Please don't hurt Corrin. Don't kill that lovely dream...@Intro 
+Hinoka: Yes. Let's get going. Brother/Sister... You're right about one thing. I cannot forgive the Nohrian army. They started this war, and they're winning it like cowards. They're all barbarians! Yet Corrin's dream of us all uniting as siblings in a world without war... His/her wish is so earnest, so pure, I can't help but believe in it too. Ryoma... Please don't hurt Corrin. Don't kill that lovely dream...
+/***EOF***/
+@Intro 
 Iago: Ah, Lord/Lady Corrin, I see you've returned to us safe and sound.
 Corrin: Yes, Iago. We've just now made it back. It's good to be home. I haven't any time to waste, though. I'd like to report to Father right away.
 Iago: Yes, of course. I'm sure you have much to discuss.
@@ -1563,7 +1585,9 @@ Corrin: I don't understand. I can never understand. How could Father do this? Wh
 Camilla: Corrin... I know you're upset, but we need to report back to Father. He'll be angry if we keep him waiting. I'll summon a messenger. 
 Corrin: Camilla! How can you be so calm at a time like this? 
 Camilla: I'm sorry, Corrin. I don't have the answers you're looking for. I don't know why Father makes some of the decisions he makes. I never have. I do know that even as his blood kin, he wouldn't hesitate to kill me if I disobeyed. If you value your life, as I do... bury your feelings, at least for now. I know it's hard to do that while looking around at what's happening here... But I'm afraid it's your only option. If you'll excuse me, I must hurry. 
-Corrin: Camilla... I'm sorry, but I can't do that. I can't accept that this is the Nohrian way. Something must be done...@Intro 
+Corrin: Camilla... I'm sorry, but I can't do that. I can't accept that this is the Nohrian way. Something must be done...
+/***EOF***/
+@Intro 
 Ryoma: So this is Windmire...
 Corrin: Yes. I'm finally back... It feels like it's been a lifetime. I never got to spend much time out here. I was always locked away. Still, being so close to the castle. It feels like...returning home. *sigh* It's strange, though. I haven't seen a soul since we arrived. It's so empty and quiet here. It's like the complete opposite of Hoshido.
 Ryoma: Yes, it's hard to believe that this is the capital city of a major kingdom.
@@ -1682,7 +1706,9 @@ Azura: I'm sorry, but we really must be going. Thank you very much for the tea a
 Cassita: Oh, that's too bad. I wish you could stay longer.
 Elise: I...I still can't believe I have another sister! I wish I'd known earlier... Big sister! I'm so glad I met you!
 Azura: Yes... It was nice meeting you as well.
-Corrin: Hmm...@Intro
+Corrin: Hmm...
+/***EOF***/
+@Intro
 Corrin: Brrr... It's much colder here than in the forest. The Ice Tribe lives up to its name.
 #avatar-M
 Felicia: Too true! The colder it gets, the closer we are. It won't be long now. My word, isn't this cold air marvelous? It really puts a spring in your step!
@@ -1887,7 +1913,9 @@ Kilma: Are you leaving already? Can I not persuade you to stay and rest a while?
 Corrin: I'm afraid time is of the essence, Lord Kilma. Next time we meet...I dearly hope the world will be a better place.
 Kilma: I have every confidence it will be, Lord/Lady Corrin. May the gods protect you on your perilous journey toward peace.
 
-Old Man: Lord/Lady Corrin, please wait! Us villagers wish to thank you. You went out of your way to prevent us from engaging in a futile battle. Though our soldiers tried to defeat you, you still protected and even healed us. Take this as a token of our appreciation. Please, I insist!@Intro 
+Old Man: Lord/Lady Corrin, please wait! Us villagers wish to thank you. You went out of your way to prevent us from engaging in a futile battle. Though our soldiers tried to defeat you, you still protected and even healed us. Take this as a token of our appreciation. Please, I insist!
+/***EOF***/
+@Intro 
 Corrin: Ugh, this forest is so dark and dismal... The trees are blocking the whole sky. I can't even see the moon from here. It feels as though we've been walking in darkness forever.
 Ryoma: They say this is the darkest region in the kingdom of Nohr. Which is precisely why we're here. Most Nohrians would have a hard time tracking us through this area. Once we make our way through the forest, we'll be just outside the capital.
 Corrin: Are you sure we're on the right track? I'd hate to get lost in here.
@@ -2065,7 +2093,9 @@ Leo: It's time for me to go now. We'll see each other again, I'm sure of it.
 
 Corrin: He smiled! It's been so long... since I saw that smile. How bittersweet.
 Ryoma: I can imagine. Thank you for keeping a steady head throughout all of this. You're a natural-born leader, Corrin.
-Corrin: Thank you, Ryoma. I'm just glad I didn't have to kill my own brother. As for you, Leo... I know you can't hear me, but I wish you safe travels. My kind and precocious little brother, who was ever at my side... I hope you find the answers you're looking for... And one day, I hope we'll be together again, as we should be.@Intro 
+Corrin: Thank you, Ryoma. I'm just glad I didn't have to kill my own brother. As for you, Leo... I know you can't hear me, but I wish you safe travels. My kind and precocious little brother, who was ever at my side... I hope you find the answers you're looking for... And one day, I hope we'll be together again, as we should be.
+/***EOF***/
+@Intro 
 Mikoto: You look as if you’re feeling better after a few days to yourself, Corrin.
 Corrin: I am, yes. I still have many questions, but at least now I have a few answers. Thank you for giving me the space I needed to think.
 Mikoto: Of course. I’m glad to hear you’re feeling better. If you wouldn’t mind, I have a small favor to ask. Would you try sitting on the throne for a moment?
@@ -2236,7 +2266,9 @@ Azura: … There. You should be OK now. This Dragonstone is now attuned to you. 
 Corrin: Thank you, Azura. I don’t know what I’d do without you.
 Azura: Oh! Um…
 Corrin: I’m sorry. Did I make you uncomfortable? I know we’ve known each other only a short while, but I feel close to you. You already risked your life to help calm my dragon form. I only hope I can repay the favor someday.
-Azura: Thank you, Corrin. I feel close to you as well. I feel…safe when I’m with you. I wish to keep you safe too. That’s why I’m coming with you to face Nohr.@Intro 
+Azura: Thank you, Corrin. I feel close to you as well. I feel…safe when I’m with you. I wish to keep you safe too. That’s why I’m coming with you to face Nohr.
+/***EOF***/
+@Intro 
 Azura: This is it... Fort Jinya. This is essentially Hoshido's front line. It's rumored to be impregnable. Seizing it is tantamount to conquering Hoshido. We must not fail.
 Corrin: *sigh* Of course it's impregnable. Why is it never easy?
 Azura: We should brace ourselves. We will likely be battling people we know in there.
@@ -2368,7 +2400,9 @@ Garon: Good. Let that be the end of it.
 Yukimura: Liars! Cowards! Filthy Nohrian scum! I will never forgive you for this! NEVER! You're all monsters! Demons! DEVILS!!
 Sakura: *sob* H-how could this...happen... They were supposed to be safe... This is... It's just too cruel!
 Garon: You've done well, my children. Hoshido is as good as conquered. I am proud of you.
-Corrin: ... ...@Intro 
+Corrin: ... ...
+/***EOF***/
+@Intro 
 Ryoma: This is quite a passage. It's more like a catacomb than a tunnel.
 Elise: Yeah, there's some spooky stuff down here for sure!
 Ryoma: Heh. Thank you for the warning. But I think we'll be all right.
@@ -2527,7 +2561,9 @@ Selena: Did you not hear me? I'm tired! That's why you!
 Beruka: I see.
 Selena: All right, Corrin. Get out of here before we change our minds! You just gave Lady Camilla hope... Don't go breaking her heart again!
 Beruka: Go ahead, Corrin. Hurry.
-Corrin: Right. Thank you. And thank you, Camilla, for finally understanding my aim. This war is coming to an end...I promise!@Intro 
+Corrin: Right. Thank you. And thank you, Camilla, for finally understanding my aim. This war is coming to an end...I promise!
+/***EOF***/
+@Intro 
 Leo: Corrin, we've got trouble up ahead.
 Xander: Yes, it would seem our path is blocked by thousands of Hoshidan soldiers. If they engage us, we don't stand a chance.
 Corrin: Dammit! This is bad...
@@ -2598,7 +2634,9 @@ Corrin: Azura... Thank you.
 Azura: A smile? How refreshing. That's Corrin I'm used to seeing.
 Corrin: If you were trying to cheer me up, you did an amazing job.
 Azura: It was for the team. After all, I'm supposed to be the melancholy one! Now let's get down this mountain before the Hoshidans catch wind of our location.
-Corrin: I wonder... Is she right?@Cutscene 
+Corrin: I wonder... Is she right?
+/***EOF***/
+@Cutscene 
 Azura: You are the ocean's gray waves, destined to seek ♪ Life beyond the shore, just out of reach.
 
 Azura: Yet the waters ever change, flowing like time ♪ The path is yours to climb.
@@ -2666,7 +2704,9 @@ Camilla: You are mistaken. Corrin is my sweet little brother/sister. You may not
 Ryoma: Don't be fool by their words. You belong with your true family in Hoshido!
 Xander: We have loved you and raised you since you were a child. Come home, little prince/princess. We can live as a family once more!
 Ryoma: Come home to Hoshido, Corrin!
-Xander: No, Corrin! Nohr is your home!@Intro 
+Xander: No, Corrin! Nohr is your home!
+/***EOF***/
+@Intro 
 Corrin: Wow. This is Cheve? If Ryoma is here, he's probably not in dire need of our help.
 Hinoka: Actually, Corrin, Cheve is still inland from here. This place is called Cyrkensia. It belongs to the kingdom of Nestra. Nestra is another neutral kingdom, Like Izumo. As you can see, this city is known for leisure. People from both Nohr and Hoshido vacation here, even in times of war.
 Corrin: Ah. Well, it certainly seems lively!
@@ -2853,7 +2893,9 @@ Corrin: All right…
 Azura: Come on, we should get going. Ryoma is still out there somewhere.
 Corrin: Wait, Azura—
 
-Corrin: Damn.@Intro 
+Corrin: Damn.
+/***EOF***/
+@Intro 
 Corrin: … … …Hm? Where…am I? It’s so dark… I can’t see a thing… And I’m…so very…tired…
 
 Mikoto: Rise and shine, sweet Corrin…
@@ -3193,7 +3235,9 @@ Xander:  There was no sense in this war, only madness and greed.
 
 Xander: War is monstrous. We are told to make war to support our country. But…it’s a lie.  Told by those who profit from bloodshed. In my reign as Nohr’s new king, I vow to seek peace and understanding.
 
-Xander:  With you to guide my hand. @Intro 
+Xander:  With you to guide my hand. 
+/***EOF***/
+@Intro 
 Iago: King Garon, it appears as though the Hoshidans have crossed Mount Garou.
 Garon: I am aware of that. It seems your trick with the explosives may be growing stale. Running out of ideas, are we?
 Iago: My apologies, Your Majesty. I take full responsibility for this misstep. However, I assure you that I have more tricks up my sleeve. I'll redeem myself—you'll see!
@@ -3360,7 +3404,9 @@ Corrin: He's delirious! Did that make sense to anyone else?
 Takumi: Zzz... Zzz...
 Corrin: That must be some fever dream he's having...
 Sakura: I-I don't know, Corrin. He sounded lucid for a second there...
-Corrin: Yes. I suppose he did...@Intro 
+Corrin: Yes. I suppose he did...
+/***EOF***/
+@Intro 
 Azura: This way, Corrin.
 Corrin: What is this place?
 Azura: This is Fort Jinya. Sakura is already here, tending to the wounded soldiers and citizens. Let's go and help her.
@@ -3476,7 +3522,9 @@ Saizo: Oh, please. A five-year-old wouldn't be fooled by such an obvious setup.
 Corrin: I appreciate your skepticism, Saizo. I hope you'll give me a chance to prove you wrong.
 Saizo: Words mean little. Actions are what count. We'll see what happens.
 Azura: Corrin, we really must press on. Every second counts!
-Corrin: Right, let's get moving.@Intro 
+Corrin: Right, let's get moving.
+/***EOF***/
+@Intro 
 Corrin: Ah, we're finally here. Can't say I'm completely used to sea travel yet.
 Kotaro: Welcome, Lord/Lady Corrin! We have been waiting for you.
 Corrin: You have?
@@ -3608,7 +3656,9 @@ Kaze: One cannot escape heartache, milord/milady. No matter the path we choose t
 Corrin: But if it weren't for me... If I had chosen a different path... You might have been fighting alongside your brother instead of against him.
 Kaze: Perhaps. There's no telling what might have come to pass. But who's to say that path would have been the right one? Life is not black or white. Both Nohr and Hoshido are fighting for what they believe in. I truly believe that both sides know that. Even my brother.
 Corrin: Thank you, Kaze. I hope you're right.
-Kaze: Ah, that reminds me. This is for you... Saizo knows that it's thanks to you he was able to survive Kotaro's attack. I believe he left this as a token of thanks. ...And as a sign that our battle with him is not yet over.@Intro 
+Kaze: Ah, that reminds me. This is for you... Saizo knows that it's thanks to you he was able to survive Kotaro's attack. I believe he left this as a token of thanks. ...And as a sign that our battle with him is not yet over.
+/***EOF***/
+@Intro 
 Xander: Laslow, Peri... I must speak with you two.
 Laslow: Yes, Lord Xander! I assume this is about Lord/Lady Corrin and his/her allies. Where will we be engaging the enemy?
 Peri: Ooh, I can't wait for them to get here! When does the stabby party begin?!
@@ -3761,7 +3811,9 @@ Corrin: No... Xander? XANDER! *sob*
 Azura: Corrin...
 Corrin: ... I...I suppose we have to keep going. It's what they would have wanted. If I stayed here crying, Xander would have g-gently scolded me... To honor their sacrifices, I must carry on their honorable legacy. I must be a light in the dark, just like Elise was... And I must be a kind and determined leader... *sob* Just like Xander. If we can't stop King Garon, then all this death will have been in vain... Come on, everyone. It's time.
 Azura: You can do this, Corrin.
-Corrin: Thank you, Azura. Everyone...we're almost at the end. King Garon awaits. Xander... Elise... I hope you both know how much I love you. I promise to make you proud...and to end this senseless war for good!@Intro 
+Corrin: Thank you, Azura. Everyone...we're almost at the end. King Garon awaits. Xander... Elise... I hope you both know how much I love you. I promise to make you proud...and to end this senseless war for good!
+/***EOF***/
+@Intro 
 Xander: I have returned, Father.
 Garon: So you have. Word of your work in Hoshido precedes you, son. What I've heard pleases me. Your efforts to vanquish our enemies will not go unrewarded.
 Xander: Thank you, Father. There's something else. I bring good tidings. it's about Corrin... He/she has already safely returned to us. Our family is whole again.
@@ -3930,7 +3982,9 @@ Felicia: OK! Everyone, stay close!
 
 Jakob: It would be my pleasure. Please, follow me.
 
-Iago: Drat! So our false prince/princess made it through that battle in one piece... And after I went through all that trouble to summon a Faceless army! This is Prince Xander's fault, the traitor. Though King Garon is not without blame... I don't see why he would allow that child to live after being tainted by the Hoshidans. It is truly beyond my understanding. Luckily he has me to set things right. That's right, Corrin. Enjoy this brief respite, heh heh heh. Hell is waiting for you as soon as you leave this forest. Prepare to suffer and die!@Intro 
+Iago: Drat! So our false prince/princess made it through that battle in one piece... And after I went through all that trouble to summon a Faceless army! This is Prince Xander's fault, the traitor. Though King Garon is not without blame... I don't see why he would allow that child to live after being tainted by the Hoshidans. It is truly beyond my understanding. Luckily he has me to set things right. That's right, Corrin. Enjoy this brief respite, heh heh heh. Hell is waiting for you as soon as you leave this forest. Prepare to suffer and die!
+/***EOF***/
+@Intro 
 Corrin: Whew...this passage just keeps on going, doesn't it? I'm beginning to worry that we made a wrong turn somewhere...
 Azura: Believe it or not, I actually remember this part of the tunnel. So I think we're getting close.
 Corrin: That's reassuring. Thank you, Azura. Although...this looks an awful lot like a dead end.
@@ -4033,7 +4087,9 @@ Ryoma: There will be a time for rest. But that time is not now. Rise up! The sac
 Corrin: ... You're right. I know you're right. I will not stop until King Garon's reign of terror is over. Let's go, everyone.
 Ryoma: That's the spirit.
 Elise: Father's room is this way, Corrin. Please promise you'll try talking first.
-Corrin: I will. ... Thank you, Lilith. And good-bye for now.@Intro 
+Corrin: I will. ... Thank you, Lilith. And good-bye for now.
+/***EOF***/
+@Intro 
 Corrin: *pant...pant...* This is taking too long. Where is he?! If we don't find Ryoma soon, Iago's troops might get to him first. If that happens...
 Azura: I wonder if he went...there. No, that would be too awful...
 Corrin: Azura, if you have any idea where he might be, now's the time to fill me in.
@@ -4199,7 +4255,9 @@ Azura: That's right. Remember his last words? He said, "I'm counting on you." Th
 Corrin: Ryoma... *sob*
 Azura: My brother... He smiled as he died. He smiled just for you. He was proud of you, Corrin. Don't waste his sacrifice. You will fulfill his promise, won't you? His...his dying wish?
 Corrin: *sniffle* Y-you're right. I did make him a promise. And as long as I'm alive, I will keep it. I won't let you down, Ryoma...
-Azura: You've been so strong, Corrin. We're almost at the end. Once King Garon sits on the throne, everyone will learn the truth. We're so close... But for just...just a brief moment... May I...cry with you? *sniffle*@Intro 
+Azura: You've been so strong, Corrin. We're almost at the end. Once King Garon sits on the throne, everyone will learn the truth. We're so close... But for just...just a brief moment... May I...cry with you? *sniffle*
+/***EOF***/
+@Intro 
 Iago: King Garon, I have come to report on Lord/Lady Corrin's progress. It would seem he/she successfully captured Notre Sagesse for the glory of Nohr. As for the Rainbow Sage, he/she didn't kill him with his/her own hands... However, as ordered, the Sage is dead.
 Garon: So the ancient one has finally passed on... Once more, Corrin has dutifully fulfilled my wishes. Heh heh heh... Ha ha ha ha... MWA HA HA HAA HAAAA!!!
 Iago: King Garon? Milord?
@@ -4340,7 +4398,9 @@ Azura: ...
 Elise: No... it was really Gunter... He was worried about you... He looked so lonely... Don't worry... Gunter... Soon we'll... we'll... Zzz... zzz... zzz...
 Azura: Elise? ... She's fallen back asleep.
 Corrin: Hmm, I wonder why she saw Gunter in her dream. Well, I suppose it was just a dream. Gunter died in the Bottomless Canyon. No matter how much we wish we could see him again, it can never be. And yet, I can't help feeling bothered by it. Gunter... Are you trying to tell us something?
-Azura: ...@Intro 
+Azura: ...
+/***EOF***/
+@Intro 
 Garon: Iago! Is that the throne room up ahead?
 Iago: Yes, my liege. Nothing stand in our way. The kingdom of Hoshido is all yours!
 Garon: Mwahaha, the time has finally come! I have awaited this moment for decades upon decades...
@@ -4448,7 +4508,9 @@ Xander: That's impossible... You must be joking!
 Corrin: I'm sorry, Xander, but I'm dead serious. I had a hard time believing it myself, but I swear it's the truth. I can prove it to you, too. The truth about our Father...lies behind those doors.
 Xander: ...
 Corrin: Please, follow me. Let's go, Azura. We've waited long enough.
-Azura: As you wish, Corrin.@Intro 
+Azura: As you wish, Corrin.
+/***EOF***/
+@Intro 
 Flora: Time to wake up, Lord/Lady Corrin!
 
 Felicia: Hey, wake up, Lord/Lady Corrin! Up and at 'em!
@@ -4556,7 +4618,9 @@ Gunter: Flora, you and Felicia/Jakob will remain here to watch over the fortress
 Flora: Of course! You may rely on us.
 Felicia:  Safe travels, Lady Corrin!
 Jakob:  I wish you safe travels, Lord Corrin.
-Corrin: Thank you. I hope to see both of you again soon...just not here!@Intro 
+Corrin: Thank you. I hope to see both of you again soon...just not here!
+/***EOF***/
+@Intro 
 Corrin: Camilla, are you sure we shouldn't go straight home?
 Camilla: Yes, silly Brother/Sister. Father wishes to meet with us here in Cyrkensia. It's his favorite town in all of Nestra.
 Corrin: But isn't it dangerous for Father to travel to a place like this?
@@ -4711,7 +4775,9 @@ Corrin: In Notre Sagesse, I sought out the Rainbow Sage as Xander suggested. The
 Leo: The Sage said that? Incredible. Does that mean...I'm that Nohrian hero?
 Corrin: That's the only explanation. There's some sort of otherworldly connection between our weapons. The sage also said my sword is fated to become the true Seal of Flames. That's all he was able to tell me.
 Leo: The Seal of Flames... I wish I had time to digest all this, but time is a luxury we don't have. Iago and Hans might have already captured some of the singers. I'll leave you here. Promise not to challenge Father while I'm gone. I mean that, Brother/Sister. Your life depends on it.
-Corrin: ...@Intro 
+Corrin: ...
+/***EOF***/
+@Intro 
 Elise: *SIGH* It's no use, Corrin! The Wind Tribe refuses to let us pass through their territory. They said if we even set one foot on their land, they'll attack. Big meanies!
 Corrin: Don't worry, Elise. We'll figure something out.
 Camilla: It's quite bothersome, darling. The Wind Tribe is supposed to be neutral. What's more, cutting through their village is the only safe option we have left.
@@ -4795,7 +4861,9 @@ Hayato: Hmph, you speak the truth. I look forward to our rematch. Good luck, Cor
 Fuga: Come, Corrin. I will show your people the way through our village.
 
 Azura: Are you ready for this, Corrin? We'll arrive at the Hoshidan capital soon. The battles ahead will be our most difficult yet. Prepare yourself.
-Corrin: I'm ready. As ready as I'll ever be...@Intro 
+Corrin: I'm ready. As ready as I'll ever be...
+/***EOF***/
+@Intro 
 Corrin: Well, it took some doing, but we've finally arrived at Notre Sagesse. The ferry ride over was rather smooth too. Perhaps our luck is improving.
 Silas: Perhaps. Although, I must admit, I can't shake this strange feeling I have...
 Corrin: Oh? Is something the matter?
@@ -4967,7 +5035,9 @@ Corrin: Please, no! You don't have to do this! I'll find a way to convince Fathe
 Rainbow Sage: Thank you for your kindness, Corrin. That kindness may just save this world. Never forget that life is the most precious gift of all. Protect it. Cherish it. And weather your path is bathed in light... or in the gentle veil of darkness... Allow yourself to be happy. This is such a lovely world... Don't take it for granted. Do this, and your soul shall give hope to the future, brave prince/princess... Do this, and it will shine brightly with all the colors... of the... ... ... 
 Corrin: Sage? SAGE!!! Please don't do this... Don't die... Gods, no... NOOO!!!
 Iago: Hmph. You and your loopholes. Well, I suppose dead is dead. You technically fulfilled King Garon’s order. You sneaky little rat…
-Corrin: I'm so sorry, Sage... I should have found a way to stop this. I chose this path to bring peace to the world. To stop the senseless death... Yet here I am again, powerless to save an innocent life. I failed you, Rainbow Sage... Forgive me...@Intro 
+Corrin: I'm so sorry, Sage... I should have found a way to stop this. I chose this path to bring peace to the world. To stop the senseless death... Yet here I am again, powerless to save an innocent life. I failed you, Rainbow Sage... Forgive me...
+/***EOF***/
+@Intro 
 Corrin: The road ahead seems heavily forested. Is that where we're going?
 Azura: Yes. It is dense, but there's a path that leads to the Bottomless Canyon. This whole area is the domain of Mokushu, another independent nation. If we encounter any of its citizens, they should be friendly, but... We would be wise to remember how Nohr compromised Izumo before we arrived.
 Kaze: I wouldn't worry about Nohr strong-arming Mokushu, milady. The locals are well known for their proficiency in the martial arts. Many great ninja have sharpened their craft here. No, it's likely that Nohr's strategists would have tried to avoid this area. Even if it meant taking the long route.
@@ -5151,7 +5221,9 @@ Azura: Yes. But we should depart quickly if we hope to catch up to him. Corrin, 
 Corrin: Yes, of course.
 Kaze: If we travel by sea, it will be faster. We should head to the nearest port town. And even though Kotaro is defeated we should take care. There will surely be other ninja who share his ambition, lying in wait...
 Kagero: Yes, that sounds wise. I've also dispatched another ally back to Hoshido. He will warn everyone to avoid this area for the time being. I expect he'll reach Hoshido and inform Yukimura within half a day or so. Lord/Lady Corrin, would you permit me to join you? I feel I must make up for my previous shortcomings.
-Corrin: You owe nothing, but we would be more than happy to have you. Everyone—the sooner we find Ryoma, the sooner we can end this war.  @Intro 
+Corrin: You owe nothing, but we would be more than happy to have you. Everyone—the sooner we find Ryoma, the sooner we can end this war.  
+/***EOF***/
+@Intro 
 Rinkah: Ah, you’re awake. Sorry about that bump on your head.
 Corrin: It’s you! From the Flame Tribe, right? Where are we?
 Rinkah: Yes, I am Rinkah. This is a Flame Tribe village within Hoshido’s territory. I’m going to hand you over to the Hoshidan authorities.
@@ -5322,7 +5394,9 @@ Corrin: Do you think you could start over there? Live a new life among strangers
 Azura: No. Given a choice, I would prefer to stay here in Hoshido. Queen Mikoto is a peace-loving ruler. King Garon is not.
 Corrin: …
 Azura: So, Corrin…what are you going to do?
-Corrin: I don’t know. For now, I’m just going to spend some time thinking.@Intro 
+Corrin: I don’t know. For now, I’m just going to spend some time thinking.
+/***EOF***/
+@Intro 
 Elise: All right...the throne room is just upstairs from here.
 Corrin: Understood. Wait. Someone's coming down.
 Elise: Oh!
@@ -5454,7 +5528,9 @@ Niles: Ooh. That good, huh?
 Leo: No, it's just... Father... He's no longer... Ugh. Let's just say, big changes are on the horizon, for all of us. There's going to be a major battle, and anything could happen.
 Niles: Understood, milord.
 Odin: Yes. I have prophesied this from the very beginning...
-Leo: Heh. You're hopeless, Odin. ... *sigh* Good luck, Corrin...@Intro 
+Leo: Heh. You're hopeless, Odin. ... *sigh* Good luck, Corrin...
+/***EOF***/
+@Intro 
 Ryoma: Welcome to the Cheve Underground. This is where the resistance meets. We should be safe here for the time being.
 Corrin: Thank you, Ryoma. I think I speak for everyone when I say this... We're so glad to have you back in command.
 Sakura: We all missed you so much!
@@ -5583,7 +5659,9 @@ Azura: Please don't worry. Although it is excruciating, the pain always subsides
 Corrin: OK. But you must promise that you won't ever put yourself in danger. I don't know how you can willingly inflict such suffering upon yourself...
 Azura: I promise. If only everyone were as kindhearted as you, we'd have no war at all, Corrin.
 Corrin: Thank you, Azura.
-Azura: I'm sorry for no telling you about this before, but... I didn't want you to worry. Remember, you mustn't hesitate to have me use the song if it becomes necessary.@Intro 
+Azura: I'm sorry for no telling you about this before, but... I didn't want you to worry. Remember, you mustn't hesitate to have me use the song if it becomes necessary.
+/***EOF***/
+@Intro 
 Garon: Hmmm, so clever little Corrin has returned home. And he/she has carried out my order in an alarmingly competent fashion, no less. Heh heh heh... well done, child. Mwahahahaha. HA HA HA HA! Well, I'll just have to give my dear son/daughter a truly agonizing mission now, won't I?
 
 Garon: ... You may enter.
@@ -5709,7 +5787,9 @@ Elise: I have a sister named Azura! And she's SO PRETTY! It's nice to meet you, 
 Azura: Yes, it's a p-pleasure to meet you as well. Thank you for the warm welcome, Elise.
 Elise: Tee hee hee, no problem! Oh my goodness! I'm all shy now because of my new big sis! Come on already! Follow me! I wanna be the one to introduce you to everyone!
 Azura: Huh? Oh, my...
-Corrin: Elise, Azura is a bit shy. Please don't overwhelm her. ELISE?! Azura... what a mystery you are. It was almost like she was about to say she and Elise weren't really sisters. Perhaps it was just my imagination...@Intro 
+Corrin: Elise, Azura is a bit shy. Please don't overwhelm her. ELISE?! Azura... what a mystery you are. It was almost like she was about to say she and Elise weren't really sisters. Perhaps it was just my imagination...
+/***EOF***/
+@Intro 
 Corrin: And just like that...we're back in Nohr. Amazing...
 Takumi: Yeah. Did all that stuff with the Rainbow Sage actually happen? Or was it a dream?
 Ryoma: It was no dream, Brother. The wisdom he imparted to us was real. I've never been more ready to take on King Garon!
@@ -5819,7 +5899,9 @@ Azura: Please, don't worry. It doesn't mean that I'm destined to die. It only me
 Corrin: ...
 Azura: Trust me, Corrin. I know I lied to you before, but... I won't ever disappear.
 Corrin: I suppose I don't have a choice but to believe you. It's not like I can stop you from using your power anyway. But I expect you to honor your promise. Be mindful of your own well-being!
-Azura: Yes. I promise, Corrin.@Intro 
+Azura: Yes. I promise, Corrin.
+/***EOF***/
+@Intro 
 Iago: Hmph. So the little snake has slithered out of our grasp once more... How did that ragtag team manage to make it through the Wind Tribe village?! One of their ranks should have lost a leg or at least an arm by now! Yet they are all in perfect health and high spirits. How utterly disappointing. King Garon must be furious. As his advisor, it is my duty to set things right. Luckily, their next stop is a fitting location for Corrin's fall from grace. The Eternal Stairway, rumored to lead straight to hell. Heh, it's too perfect! I wonder how many friends and loved ones our little prince/princess will lose there... Prepare to drown in your despair, Lord/Lady Corrin. Your king and I look forward to feasting upon your cries of agony!
 
 Corrin: Ugh, so many stairs. Just a shot in the dark here, but is this the Eternal Stairway?
@@ -5925,7 +6007,9 @@ Corrin: Lilith... You're right, Xander. As always. Before she died, Lilith told 
 Xander: There's that smile Lilith was so keen to see. I'm proud of you, little brother/sister. Now, back to the task at hand. We cannot afford to stall here forever.
 Corrin: Right. ... Lilith... We're going to lay you to rest now, but then we must keep pressing forward. I'll see you on the other side, my friend. We'll ride horses and chat about the good times we've had since we last met. I'm sorry to leave you in this place, but the path to peace is finally within reach. From here, we're a stone's throw away from the Hoshidan castle. It won't be long now. Please keep watching over me, old friend. Just like you always did. I hope you know how much I loved you, and that I always will. ...Good-bye, Lilith.
 
-Iago: So the little flying rat died, did she? I always did despise Lilith. What an annoying way to go, protecting her master from her rightful torment. If it weren't for her intervention, I could have made Corrin suffer even more! Ah well, at least that's one less shield for her to hide behind. Poor Corrin. I have only just begun digging your pit of despair. Soon you will find yourself lost in its infinite darkness for all eternity... Your time is nearly up, false prince/princess... Enjoy your last moments of joy...@Intro 
+Iago: So the little flying rat died, did she? I always did despise Lilith. What an annoying way to go, protecting her master from her rightful torment. If it weren't for her intervention, I could have made Corrin suffer even more! Ah well, at least that's one less shield for her to hide behind. Poor Corrin. I have only just begun digging your pit of despair. Soon you will find yourself lost in its infinite darkness for all eternity... Your time is nearly up, false prince/princess... Enjoy your last moments of joy...
+/***EOF***/
+@Intro 
 Garon: You have done well to return to us, Gunter. Welcome back.
 Gunter: Thank you, King Garon.
 Garon: To think you fell into the depths of the Bottomless Canyon... It must have been quite the ordeal. I am pleased to see you alive and well.
@@ -6083,7 +6167,9 @@ Camilla: That's part of why we love you so much, dear Brother/Sister, but... I h
 Xander: If that is your decision, then we shall respect it. I will make sure word of this never reaches Father. If he knew you intended to make an ally out of one of Azura's kidnappers... He would never trust you again.
 Corrin: I know... Thank you, Xander. I don't know what I'd do without you.
 Xander: You'll never have to find out, little prince/princess.
-^end@Intro 
+^end
+/***EOF***/
+@Intro 
 Azura: Finally. This is Cheve.
 Sakura: Oh, I hope Ryoma is here...
 Takumi: He's the toughest person I've ever met, but... I'm still worried.
@@ -6222,7 +6308,9 @@ Corrin: Oh, and you're the brave soldier who was first on the scene. You weren't
 ???: You still don't know who I am, do you?
 Corrin: No. Should I? Wait...it can't be...
 Ryoma: Haha! Thanks for coming all the way here to my aid, Corrin.
-Corrin: Ryoma! Boy, are we glad to see you!@Intro 
+Corrin: Ryoma! Boy, are we glad to see you!
+/***EOF***/
+@Intro 
 Corrin: At last. King Garon...
 Garon: I'm so glad you made it home.
 
@@ -6309,7 +6397,9 @@ Ryoma: Why did you do that?!
 Corrin: Ryoma...are you hurt?
 Ryoma: What were you thinking, moving in front of his attack like that? You could have been killed!
 Corrin: You worry too much, Brother... I'm fine. I can keep fighting. I can stop him. I can... Urgh...
-Ryoma: Corrin!@Intro 
+Ryoma: Corrin!
+/***EOF***/
+@Intro 
 Corrin: ... Ugh...where am I? It's so dark... And I'm so tired...
 
 Flora: Rise and shine, Lord/Lady Corrin!
@@ -6616,7 +6706,9 @@ Ryoma: But no matter how hard it may be...
 
 Ryoma: We will succeed...with you at our side.
 
-Ryoma:  All of us...hand in hand.@Intro 
+Ryoma:  All of us...hand in hand.
+/***EOF***/
+@Intro 
 Corrin: I'm guessing we're on the right track... It's absolutely freezing out here.
 Flora: Heehee. It feels great to me, but I know it's not for everyone. Just hang tight. There's a warm cabin waiting for you at the end.
 Corrin: Thank you, Flora. I have to commend your navigating skills as well. We've somehow managed to avoid running afoul of any Nohrian troops the whole way.
@@ -6747,7 +6839,9 @@ Felicia: Sister, NO! NOOOOOO! SISTER!
 Corrin: Gods...why... Flora...
 Jakob: What a foolish and terrible waste of life. I think I am going to be sick.
 Felicia: *sob* *sob* Sister...please wake up! Tell me that this is just a bad dream...
-Corrin: ... King Garon claims another beautiful life. He...will...PAY! I swear on my own life. We're coming for you, Garon.@Intro 
+Corrin: ... King Garon claims another beautiful life. He...will...PAY! I swear on my own life. We're coming for you, Garon.
+/***EOF***/
+@Intro 
 Azura: We're finally here. Izumo.
 Corrin: It's beautiful. I had no idea...
 Azura: Yes. Some call this place the kingdom of the gods. Even when other kingdom are at war. Izumo has remained neutral. It almost seems...too good to be true.
@@ -6940,7 +7034,9 @@ Corrin: All right, I'll drop it for now. But don't hesitate to come speak with m
 Azura: Thank you, Corrin. All right, let's get going, shall we?
 Corrin: Azura?
 
-Corrin: What was she trying to tell me?@Intro 
+Corrin: What was she trying to tell me?
+/***EOF***/
+@Intro 
 Kaze: Pardon me, milord/milady. I've finished scouting the surrounding area.
 Corrin: Thank you Kaze. How does it look?
 Kaze: I'm afraid it's not good. I don't believe the Nohrian army is aware of our precise location, but... They have moved to block all possible routes to the castle. Even the back roads and trails. They are being quite thorough. There are thousands of troops massing.
@@ -7095,7 +7191,9 @@ Lilith: Lady Corrin, could I have a moment of your time? There's a familiar face
 
 Felicia: Lady Corrin! I'm so glad you're safe! When I'd heard you'd gone missing I couldn't think about anything else! I've been tracking you down ever since, through the astral whosits! It wasn't easy, but I made it here and I want to fight!
 
-Jakob: Lord Corrin, it's truly splendid to see you are doing well! When word reached us that you had gone missing, I could not rest. Tracking nobles across dimensional barriers was a new item for my résumé... But I am undoubtedly richer for it. Now that I am here, I would like to fight at your side.@Intro 
+Jakob: Lord Corrin, it's truly splendid to see you are doing well! When word reached us that you had gone missing, I could not rest. Tracking nobles across dimensional barriers was a new item for my résumé... But I am undoubtedly richer for it. Now that I am here, I would like to fight at your side.
+/***EOF***/
+@Intro 
 Corrin: Xander. Withdraw your troops.
 Xander: Corrin... Don't tell me you're siding with Hoshido.
 Corrin: I'm afraid so. I've made up my mind---I stand with Hoshido.
@@ -7188,7 +7286,9 @@ Corrin: Is this really our future? A lifetime of conflict with Nohr?
 Azura: Corrin... I can understand why you are reluctant to fight. If it would make you feel better, you can leave the fighting to me and Ryoma.
 Corrin: No. Burying my head in the sand won't change the reality of the situation. I will stand with you, and the rest of Hoshido.
 Azura: Very well.
-Corrin: I know this is the right choice. Even if it's the hardest one I've ever had to make. I have to believe this is the path that will eventually lead to peace.@Intro 
+Corrin: I know this is the right choice. Even if it's the hardest one I've ever had to make. I have to believe this is the path that will eventually lead to peace.
+/***EOF***/
+@Intro 
 Corrin: *sigh* It's no use. I just can't fall asleep. First the incident in Cheve, now the hunt for those singers... The thought of attacking innocent people hurts my heart. I wonder if I did the right thing. Is it even possible to change things from the inside? Sometimes I wonder if siding with Nohr...was a mistake. Should I have sided with Hoshido? Helped them take down Father? But no, Xander and the rest... I love them so much. I could never betray them. *SIGH* I feel like I don't know anything anymore. Hm? Is that...Azura?
 Azura: ...
 Corrin: That's Azura all right... I wonder where she's going. Maybe I'll feel better if I talk to her about our decision to side with Nohr. She's the only one in the world who's going through something similar. Fighting the Hoshidan siblings she grew up with... It can't be easy. I bet it would benefit both of us to talk all this through.
@@ -7284,7 +7384,9 @@ Corrin: ... My happiness is a small price to pay for the good of the whole world
 Azura: If that's the path you choose to walk, I shall walk it with you. I am ever at your service, Corrin. Together we will claim victory for Nohr.
 Gunter: Lord/Lady Corrin! Lady Azura!
 Corrin: Welcome back, Gunter.
-Azura: I'm so glad you made it back safely. Well, no time to spare. Let's hurry back and rejoin the others. King Garon will grow suspicious if we're gone too long...@Intro 
+Azura: I'm so glad you made it back safely. Well, no time to spare. Let's hurry back and rejoin the others. King Garon will grow suspicious if we're gone too long...
+/***EOF***/
+@Intro 
 Corrin: ...I know what I must do. Ryoma! Withdraw your troops.
 Ryoma: You don't mean that, Corrin. You cannot possibly!
 Corrin: I'm sorry, Ryoma, but I will not fight for Hoshido.
@@ -7385,7 +7487,9 @@ Corrin: Azura, I...
 Azura: Are you sure about this, Corrin? Once done, it cannot be undone.
 Corrin: Yes, I know. But it's the only way. These people, I've loved them for as long as I can remember. They are my family.
 Azura: I see. If that is the path you have chosen, I will not try to stop you. I am certain we will meet again. But for now... I suppose this is good-bye.
-Corrin: Azura...@Dialogue
+Corrin: Azura...
+/***EOF***/
+@Dialogue
 Xander: Corrin, you're alive! They haven't harmed you, have they?
 Corrin: Xander! I'm fine. But... why are you invading Hoshido?!
 Xander: Father say's it's time to show our true strength. Join us, and we'll end this quickly. If we conquer Hoshido here and now, we can avoid unnecessary bloodshed.
@@ -7412,3 +7516,4 @@ Xander: We're your family.
 
 @Dialogue 
 Corrin: My family...
+/***EOF***/

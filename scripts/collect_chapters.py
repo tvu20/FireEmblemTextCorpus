@@ -12,3 +12,6 @@ with open(os.path.join(output_path, "full_transcript.txt"), 'w+') as file:
         with open(filename, 'r') as f:
             for line in f:
                 file.write(line)
+
+        file.write("\n")
+        file.write("/***EOF***/\n")

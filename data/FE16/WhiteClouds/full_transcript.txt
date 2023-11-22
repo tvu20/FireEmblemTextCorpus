@@ -780,7 +780,9 @@ Flame Emperor: You die.
 Kostas: Wh– What?
 Flame Emperor: Underestimating the Knights was an amateur mistake. One you will pay for. The road to eternal torment awaits you all. Now I must locate your replacements...
 
-Kostas: Wait! Get back here! Damn you!@Opening 
+Kostas: Wait! Get back here! Damn you!
+/***EOF***/
+@Opening 
 Though most stars will still glimmer in the crisp winter air, the blue sea star has gone back into hiding. Legend states that the goddess prays for peace from her home in the heavens. In the town of Garreg Mach, the anniversary of the monastery's completion nears, and the people's prayers intensify ahead of the millennium festival, still five years hence.
 
 @Intro 
@@ -2113,7 +2115,9 @@ Byleth: Who was my mother?
 Byleth: Did I inherit my Crest from my mother?
 Rhea: Your mother...she was my...
 Alois: Sorry for the interruption, Lady Rhea. There's something you must hear immediately. A report from the knights patrolling the area...
-Rhea: Very well. Professor, you are dismissed for the day. Please rest and focus only on mending your heart. Understood?@Cutscene 
+Rhea: Very well. Professor, you are dismissed for the day. Please rest and focus only on mending your heart. Understood?
+/***EOF***/
+@Cutscene 
 Mounted Knight: Huh?
 
 Soldier: Lady Seiros!
@@ -2311,7 +2315,9 @@ Sothis: My, my. They are in such a hurry. You know... Each of the three is most 
 Byleth: Edelgard… 
 Byleth: Dimitri… 
 Byleth: Claude… 
-Sothis: Yes, I thought the same. I am so sleepy once again... I may be sleeping...but I...@Opening 
+Sothis: Yes, I thought the same. I am so sleepy once again... I may be sleeping...but I...
+/***EOF***/
+@Opening 
 As cold air begins to creep in from the north of Faerghus, Fódlan welcomes the riches of fall. The women spend their days reaping the golden fields, gratefully embracing the bounty the goddess has once again provided. The men venture into the wild with horsebows and empty sacks ready to be filled with game.
 
 @Dialogue 
@@ -2880,7 +2886,9 @@ Jeralt: What I'm more concerned about is finding out who among us is pulling the
 Byleth: Don't say things like that. 
 Jeralt: Don't get me wrong. I have no intention of dying. I know it would be too much to ask you to cheer up, but can you at least drop the serious...  Well, I'll be. Was that a smile just now?
 Byleth: I promise.
-Jeralt: Don't just nod solemnly. There's nothing to worry about. I'm just being cautious. Then again, I guess you're always solemn. @Opening 
+Jeralt: Don't just nod solemnly. There's nothing to worry about. I'm just being cautious. Then again, I guess you're always solemn. 
+/***EOF***/
+@Opening 
 Together, the people of Fódlan relish the beauty of the brilliant moon overhead as another year ends. They recall sad partings and new acquaintances alike, but each person must still walk their chosen path alone. With each day, the presence of spring grows stronger and yet a lone moon still haunts the sky. A silent reminder, perhaps, of some inescapable truth...
 
 @Dialogue 
@@ -3249,7 +3257,9 @@ Empire Soldier: What now?
 Rhea: Why did you come?!
 
 @Narration 
-In Imperial Year 1181, the New Adrestian Emperor, Edelgard von Hresvelg, led a strategic assault against the monastery at Garreg Mach. Though her own losses were great, her foes had no choice but to surrender. Archbishop Rhea commanded the Knights of Seiros, leading from the front lines against the Imperial Army. But amidst the chaos of battle, she vanished, and her whereabouts remain unknown. With this single attack, the Adrestian Empire officially launched its offensive against the Holy Kingdom of Faerghus and the Leicester Alliance. The unification of Fódlan has begun.@Opening 
+In Imperial Year 1181, the New Adrestian Emperor, Edelgard von Hresvelg, led a strategic assault against the monastery at Garreg Mach. Though her own losses were great, her foes had no choice but to surrender. Archbishop Rhea commanded the Knights of Seiros, leading from the front lines against the Imperial Army. But amidst the chaos of battle, she vanished, and her whereabouts remain unknown. With this single attack, the Adrestian Empire officially launched its offensive against the Holy Kingdom of Faerghus and the Leicester Alliance. The unification of Fódlan has begun.
+/***EOF***/
+@Opening 
 The northern lands are enveloped in a bitter cold, and frigid winds are carried across the sea to the south of Adrestia. When feather-white snow falls on Fódlan's Locket, the fort looks as delicate as a pearl. However....beneath that snowy blanket, her Throat is more treacherous than ever.
 
 @Dialogue
@@ -3774,7 +3784,9 @@ Leonie: How could something like this happen? I hope everyone back home is safe.
 Hilda: I'm sure it's mass confusion at home right now. My brother must be worried sick about me.
 Byleth: Only time will tell.
 Byleth: Let's calm down.
-Claude: You're absolutely right, Teach. I'm sure a lot of us are worried about our homes, but... all we can do now is prepare for battle... and tread carefully.@Opening 
+Claude: You're absolutely right, Teach. I'm sure a lot of us are worried about our homes, but... all we can do now is prepare for battle... and tread carefully.
+/***EOF***/
+@Opening 
 Hoarfroast now graces treetops and open fields alike, and an icy chill blown in from the north of Faerghus blankets the land. All of Fódlan's creatures begin to settle in for a long winter. The setting sun bathes the full winter coat of every wolf in a foreboding scarlet glow. Hunters can now spread the word that the red wolves are back on the prowl.
 
 @Dialogue 
@@ -4359,7 +4371,9 @@ Byleth: It's nothing.
 Rhea: I see. In that case, farewell.
 Byleth: I had never heard the name of the goddess. 
 Rhea: I see. Sothis is the goddess's true name. Please do not use it carelessly. Farewell.
-Sothis: Do not say something that we may regret! She... I... What exactly am I? For now, let's leave this place. Please... Go!@Opening 
+Sothis: Do not say something that we may regret! She... I... What exactly am I? For now, let's leave this place. Please... Go!
+/***EOF***/
+@Opening 
 From on high, flocks of wyverns roar in chorus and soar the pristine skies, heading south for the winter. Fódlan's children lend their hands to winter preparations by gathering firewood and catching fish from the rivers' cool waters. Yet all the while their gazes are turned skyward, drawn to the magnificent sight above.
 
 @Dialogue 
@@ -5002,7 +5016,9 @@ Sothis: Remire Village... If I recall, you've been there with your father many t
 Byleth: An abnormal occurrence?
 Seteth: I have yet to ascertain the details, but it would seem the villages have been acting strangely. I have already dispatched the knights to verify the authenticity of this information. They should be back shortly. I suggest you begin by finding out what they have discovered.
 
-Rhea: I pray this is not a bad omen... May the goddess protect you all.@Opening 
+Rhea: I pray this is not a bad omen... May the goddess protect you all.
+/***EOF***/
+@Opening 
 When the warm winds blow from the sea to the south of Adrestia, residents of Fódlan know that the rainy season is upon them. Before the heavy rains take their toll, young women hurry to pick the last of the white roses. The ivory buds are woven into garlands and given as gifts to close friends or potential lovers.
 
 @Intro 
@@ -5486,7 +5502,9 @@ Byleth: Won't that endanger the students?
 Rhea: Even if they encounter an enemy whom they cannot best, they should be fine so long as they have you on their side.
 Seteth: The Rite of Rebirth is of paramount importance. It is when the Church of Seiros and its believers unite to pray for the return of the goddess. The archbishop and I will be confined to the Goddess Tower once the ritual begins. Of course, the knights will be on high alert as well, but there aren't enough of them to keep watch on every corner of the monastery. It is far from ideal to be forced to mobilize students, but the gravity of this situation requires that we all bend to avoid breaking.
 Rhea: While there is no need to fear for my safety, we cannot turn a blind eye to those who would blaspheme so heinously.
-Seteth: With any luck, this will all be for naught. Still, be on your guard.@Opening 
+Seteth: With any luck, this will all be for naught. Still, be on your guard.
+/***EOF***/
+@Opening 
 Long ago, the guardian Seiros made an appearance during this moon. She had been summoned by the goddess, whose soul was suffering as the flames of war raged across Fódlan. Some believe that high in the sky above Seiros, the Immaculate One's mighty wings are what powered the strong winds carrying the guardian and her forces into battle.
 
 @Dialogue 
@@ -6004,7 +6022,9 @@ Rhea: Everything is all right. There is no need to worry. Those who are trying t
 
 Rhea: ... How lovely...it would be for this moment to last forever... I wish I could hold on to this time we have stolen... that you and I could create a world without end... I have heard whispers of what happened to you. Your appearance... You have received power from the goddess. From the moment you took hold of the Sword of the Creator... I prayed that one day the radiant power of Sothis, which bathes Fódlan in its celestial light, might reside within you. But you are so much more than the light. You are my... Close your eyes, dear one. Sleep, just a while longer.
 
-Rhea: I will be watching over you, always. Always and forever...@Opening 
+Rhea: I will be watching over you, always. Always and forever...
+/***EOF***/
+@Opening 
 In honor of the saints whose births or deaths took place under this moon, the people perform music once beloved by those divine beings. Whether by harp, by flute, or voice alone, joyous melodies are shared between farmers as they sew their seeds across the vast plains of Tailtean and Gronder.
 
 @Dialogue 
@@ -6477,7 +6497,9 @@ Byleth: That must be it.
 Sothis: Are you simple?! That's impossible! I am most certainly alive.
 Byleth: I don't know.
 Sothis: Hmm... No. That cannot be. I am most certainly alive.
-Sothis: Of course, we also have the mystery of why I'm here with you. Is it somehow connected? Perhaps some past regret is stopping me from moving on, and now I'm forced to stay with you instead... No, that's not it! I can't believe in such a meaningless existence! I... I... @Opening 
+Sothis: Of course, we also have the mystery of why I'm here with you. Is it somehow connected? Perhaps some past regret is stopping me from moving on, and now I'm forced to stay with you instead... No, that's not it! I can't believe in such a meaningless existence! I... I... 
+/***EOF***/
+@Opening 
 The ceaseless rains that satiate the verdant landscape of Fódlan are accompanied the fierce winds and mighty roars of thunder. This abundance of rain, sparkling as it falls against beams of emerging sunlight, is a constant reminder to the people of Fódlan that nature is ever wild and unpredictable. For when the rain finally does pause, the clouds part to give way to a glorious rainbow.
 
 @Intro 
@@ -7025,7 +7047,9 @@ Seteth: I have searched everywhere! Where could she be?!
 Byleth: Have you looked everywhere?
 Seteth: I have searched every corner I can think of! I could not find her anywhere.
 Seteth: She may be in danger! Oh no... No, no! What am I to do?!
-Rhea: Calm yourself, Seteth. Professor, we shall continue our discussion another time.@Opening 
+Rhea: Calm yourself, Seteth. Professor, we shall continue our discussion another time.
+/***EOF***/
+@Opening 
 As the sun grows stronger and the nights grow ever shorter, the Blue Sea Star returns to the sky once more. Believed to be the goddess's home, her followers look to the star and commence celebrations of her rebirth. On the grounds of Garreg Mach Monastery, a grand ceremony is held in honor of this much anticipated event. Every true follower of the Church of Seiros is sure to be in attendance.
 
 @Dialogue
@@ -7602,3 +7626,4 @@ Sothis: What is wrong with that head of yours? Of course it's not a cat! Her nam
 Sothis: The Sword of the Creator differs from her Thunderbrand in one key way. It bears a hole...where something should have been, but is no more. I despise not knowing what is going on! It...it frightens me. And yet... I place my trust in you. I must. Whatever comes to pass...please swear to cut a path that is your own.
 
 Claude: The Sword of the Creator… Pulled right from the legends. I finally found it, and yet it ended up in Teach's hands. Could I even use it anyway? Damn it. There's no telling what's to come…
+/***EOF***/

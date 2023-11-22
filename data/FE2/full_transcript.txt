@@ -111,7 +111,9 @@ Tatarrah: May Duma's blessings--
 
 Grieth: Grr, is this already the end of my kingodm? Then I'll drag you all down with me to hell!
 
-Grieth: I hope you're proud! How could I-- ugh...@Conversation
+Grieth: I hope you're proud! How could I-- ugh...
+/***EOF***/
+@Conversation
 Unnamed sage: If you go down these stairs you should get to Duma's Altar. It's said that there's no return once you've entered. Your Highness, please take care!
 
 @Battle 
@@ -134,7 +136,9 @@ Hestia: May Duma's blessings--
 Duma: That's enough... Hero Alm. Inherit our will and rule this land fairly... Carry both Duma's power and Mila's love... You must never repeat these events... Never again disturb our slumber...
 
 @Narration 
-Thus, the war ended. Many have died, but now Valentia sees peace. Why did this war occur? No one knows. There is but one thing said: If mankind again grows too arrogant... The flames of war shall rekindle. All will be lost... A most dire end. That, perhaps, will remain in our hearts.@Dialogue 
+Thus, the war ended. Many have died, but now Valentia sees peace. Why did this war occur? No one knows. There is but one thing said: If mankind again grows too arrogant... The flames of war shall rekindle. All will be lost... A most dire end. That, perhaps, will remain in our hearts.
+/***EOF***/
+@Dialogue 
 Mycen: Alm, rest. Your sword training is over. Go and play, but don't leave the village. Bandits have been about.
 Gray: Yo Alm! Listen to this guy!
 Lukas: The infamous General Desaix has initiated a coup. Zofia's castle was captured and the king has been killed. We formed a liberation force to fight agains Desaix, but it's not good enough. So, I cam to ask General Mycen to help.
@@ -199,7 +203,9 @@ Slayde: Die, rebels!
 @Boss 
 Desaix: What?! Slayde's been downed?! Shit! I'll remember this. I'm leaving this to you, men!
 
-Slayde: Heh... Fools! What you just beat was a double. Lord Desaix left for his own lands already. I'll pay you back for this someday.@Dialogue 
+Slayde: Heh... Fools! What you just beat was a double. Lord Desaix left for his own lands already. I'll pay you back for this someday.
+/***EOF***/
+@Dialogue 
 Celica: Well, Bishop Nomah, I'll be off.
 Nomah: Celica... Must you go? The road to Mila's Temple is long. Between Geyse's pirates and the evil fiends rising, you'll surely be attacked. It's too risky...
 Celica: But Father, it's been three years since we last grew crops. What in the world befell the Earth Goddess Mila? I want to find out for myself.
@@ -278,7 +284,9 @@ Valbar: Kamui, Leon, don't slip up! If Barth is defeated, his goons should flee.
 @Boss 
 Barth: You've got nerve attackin' me, the pirate lord Barth! I'll dice ya!
 
-Unnamed enemy: Boss died! Run!@Narration 
+Unnamed enemy: Boss died! Run!
+/***EOF***/
+@Narration 
 A ghastly face looms from the shadows. It's the ruler of Fear Mountain, whom all fear: the legendary necromancer Nuibaba... If that dark spell he traded his soul for leaves his lips just once... All living beings will surely have a quick death. Oh, Alm-- why do you go? On this fearful mountain, what in the world could exist?
 
 @Dialogue 
@@ -362,3 +370,4 @@ Jamil: May Duma's blessings--
 Magnus: As expected, even I fell...
 
 Rudolf: Alm... You've grown up well... Was it no mistake entrusting you to Sir Mycen after all? You figured it out by now, right? Your full name is Albein Alm Rudolf. My... only son... Guh... I have a last request... Use 'Falchion', the holy sword that sealed Mila... Defeat... the evil god... Duma...
+/***EOF***/
