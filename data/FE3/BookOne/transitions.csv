@@ -6,9 +6,9 @@ FM,female,male,40
 MM,male,male,37
 MF,male,female,37
 F-,female,-,34
--N,-,neutral,6
-N-,neutral,-,5
+-N,-,neutral,8
+N-,neutral,-,6
 MN,male,neutral,4
 NM,neutral,male,4
---,-,-,2
+--,-,-,1
 FF,female,female,1

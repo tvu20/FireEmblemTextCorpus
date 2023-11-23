@@ -12,3 +12,7 @@ Average word length: 4.106433583065763
 
 Number of words (excluding stopwords): 4153
 Most common words (excluding stopwords): [('prince', 63), ('marth', 58), ('dolhr', 34), ('must', 34), ('princess', 31), ('one', 29), ('dont', 29), ('fight', 27), ('us', 25), ('would', 25), ('please', 25), ('gharnef', 23), ('well', 22), ('army', 21), ('castle', 21), ('altea', 20), ('join', 20), ('come', 19), ('land', 17), ('see', 17), ('use', 17), ('many', 17), ('cannot', 17), ('nyna', 17), ('medeus', 17), ('archanea', 17), ('find', 16), ('grust', 16), ('long', 16), ('yes', 15), ('macedon', 15), ('defeat', 15), ('let', 14), ('knights', 14), ('much', 14), ('take', 13), ('though', 13), ('people', 13), ('like', 13), ('want', 13), ('fighting', 13), ('good', 13), ('know', 13), ('sister', 12), ('help', 12), ('time', 12), ('back', 12), ('tell', 12), ('man', 12), ('hear', 12)]
+
+Longest sentence length: 23
+Average sentence length: 7.301215277777778
+Longest sentence: I'm so old that I don't have much fight left in me, but without my stone, I can't become a dragon at all.

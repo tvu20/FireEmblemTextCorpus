@@ -26,11 +26,11 @@ Jeralt: As you know, the majority of folks in Fódlan are devout followers of th
 
 Seteth: Thank you for your patience, Jeralt. My name is Seteth. I am an advisor to the archbishop.
 Jeralt: Right. Hello.
-Rhea: It has been a long time, Jeralt. I wonder…was it the will of the goddess that we have another chance meeting like this?
+Rhea: It has been a long time, Jeralt. I wonder...was it the will of the goddess that we have another chance meeting like this?
 Jeralt: Forgive my silence all these years. Much has happened since we last spoke.
 Rhea: So I see. The miracle of fatherhood has blessed you. That is your child, is it not?
 Jeralt: Yes...born many years after I left this place. I wish I could introduce you to the mother of my child...but I’m afraid we lost her to illness.
-Rhea: I see. My condolences. As for you…I heard of your valiant efforts from Alois. What is your name?
+Rhea: I see. My condolences. As for you...I heard of your valiant efforts from Alois. What is your name?
 
 Byleth: My name is... 
 Rhea: A fine name indeed.
@@ -40,18 +40,18 @@ Rhea: It is all right, Seteth. My dear, I am called Rhea. I am the archbishop of
 Rhea: From the bottom of my heart, I thank you for saving those students of the Officers Academy.
 Jeralt: Hmph.
 Rhea: Jeralt. You already know what it is I wish to say, do you not?
-Jeralt: You want me to rejoin the Knights of Seiros, don’t you. I won’t say no, but…
-Rhea: Your apprehension stings. I had expected that Alois would have already asked this of you. I must step away for now, but I expect they will desire a word with you soon. Please listen carefully to what they have to say. Until tomorrow… Farewell.
+Jeralt: You want me to rejoin the Knights of Seiros, don’t you. I won’t say no, but...
+Rhea: Your apprehension stings. I had expected that Alois would have already asked this of you. I must step away for now, but I expect they will desire a word with you soon. Please listen carefully to what they have to say. Until tomorrow... Farewell.
 
 @Dialogue 
-Jeralt: I can’t believe it. Forced back into the Knights of Seiros. I’m sorry I dragged you into this. Looks like I’ll be stuck here for a while…and I’m afraid your services are requested as well.
+Jeralt: I can’t believe it. Forced back into the Knights of Seiros. I’m sorry I dragged you into this. Looks like I’ll be stuck here for a while...and I’m afraid your services are requested as well.
  
 Byleth: As a mercenary?
 Byleth: As a servant?
 Jeralt: Nothing like that. They want you to teach, by the sound of it. You heard those brats earlier talking about the Officers Academy, right? Well, the academy just happens to be short a professor. And apparently that damned Alois went and recommended you to Lady Rhea.
 
 Manuela: So. You must be the new professor. My, how stern and handsome you are!
-Jeralt: Er, no. I’m not the one you’re looking for. You can handle things from here. Good luck.  And…watch out for Lady Rhea. I don’t know what she’s thinking, making you a professor like this. She may be up to something. Stay on your guard.
+Jeralt: Er, no. I’m not the one you’re looking for. You can handle things from here. Good luck.  And...watch out for Lady Rhea. I don’t know what she’s thinking, making you a professor like this. She may be up to something. Stay on your guard.
 
 Manuela: Oh. It's you, then? So young...
 Hanneman: Competence and age are not necessarily correlated, as you well know. I am Hanneman, a Crest scholar and professor at the Officers Academy. I wonder if you bear a Crest of your own. When next you have a moment to spare, I insist that you pay me a visit so we can delve into the subject further.
@@ -72,9 +72,9 @@ Manuela: The old man has a point. Oh, and keep in mind that I’ve only notified
 
 Seteth: Have you no intention of changing your mind, Rhea? Appointing a stranger–a child no less!–as a professor at our esteemed academy is–
 Rhea: I have made my decision, Seteth. I know worrying comes naturally to you, but there is truly no need. That “stranger” is Jeralt’s flesh and blood, after all.
-Seteth: I can’t say that’s all too comforting. How trustworthy is this Jeralt character? Is he not the man who went missing after the great fire 21 years ago? I would remind you that Flayn is now here with us as well. I beg of you…please consider whether this is an unnecessary risk.
+Seteth: I can’t say that’s all too comforting. How trustworthy is this Jeralt character? Is he not the man who went missing after the great fire 21 years ago? I would remind you that Flayn is now here with us as well. I beg of you...please consider whether this is an unnecessary risk.
 Rhea: Seteth. They have my trust. Let that be enough for you as well. More importantly, I have received a report from Shamir. I am increasingly concerned about a matter regarding our suspicious individual. We cannot ignore those who harbor ill will towards the church, especially if they are frequenting Garreg Mach.
-Seteth: Yes, that matter is of great importance as well. I shall continue my investigation. Rhea… For now, I will have faith that you are placing your trust with the utmost care. I pray that nothing occurs to shake that confidence.
+Seteth: Yes, that matter is of great importance as well. I shall continue my investigation. Rhea... For now, I will have faith that you are placing your trust with the utmost care. I pray that nothing occurs to shake that confidence.
 
 @Conversation
 Rhea: I assume you are already aware that you will be teaching here at the Officers Academy. Correct? To start, please speak with the three house leaders. You should also take a look around the academy and acquaint yourself with your new home. That is your first task here at the monastery. Please let me know if you accept it. Once you have finished, come and speak with me.
@@ -186,7 +186,7 @@ Tomas:  Welcome to the library. Here you may find literature from the far reache
 @Dialogue 
 Rhea: How are you enjoying your time at the academy thus far? I hope you have found our halls brimming with the vitality of well-intentioned souls.
 Seteth: Hm. I suppose it is time for you to take charge of one of our three houses of students. I must note that I am personally against entrusting someone as lacking in trackable history as yourself with such a task, but it is as the archbishop desires.
-Manuela: The Black Eagles, the Blue Lions, and the Golden Deer… All so different. I hope you’ve made it a point to get to know each of them.
+Manuela: The Black Eagles, the Blue Lions, and the Golden Deer... All so different. I hope you’ve made it a point to get to know each of them.
 Hanneman: Since you are new here, we have decided to allow you first pick. Manuela and I will take charge of the remaining two houses.
 Byleth: (Which house will I choose...)
 Rhea: Are you having trouble deciding? Please, open your heart to the will of the goddess and choose carefully.
@@ -231,7 +231,7 @@ Ferdinand: I know we all agreed to treat each other as equals, but there is a li
 Hubert:  Looks like your first job will be to quiet down this racket. I don't envy you.
 Edelgard: Ugh, they're not normally this...rowdy. I do hope you can manage, Professor.
 
-Annette: Wait, does this mean our new professor is-- No! I really can't believe it! But I was speaking to you so casually, as though we were companions! Oh, I am so sorry, Professor; you just look the same age as the rest of us, and-- Oh, and I’m sorry I just said that too! I really must watch my tongue…
+Annette: Wait, does this mean our new professor is-- No! I really can't believe it! But I was speaking to you so casually, as though we were companions! Oh, I am so sorry, Professor; you just look the same age as the rest of us, and-- Oh, and I’m sorry I just said that too! I really must watch my tongue...
 Byleth: I don't mind if you treat me as a friend.
 Annette: You say that, but...I just don't know about all of this.
 Dimitri: I'll admit, it doesn't sit well with me either. After all, we wish to show you due respect.
@@ -291,7 +291,7 @@ Byleth: There's no need to look into it.
 Hanneman: I most strongly disagree! There absolutely is a need. My Crest research is of critical importance to the church, I'll have you know. Since you are now a professor here, I must insist that you aid in my research. Of course...there are those who lack the foresight to aid in my endeavors, such as that stubborn Seteth. But such individuals are the rare exception.
 Hanneman: Now then, please go ahead and hold out your arm over this device here.
 
-Hanneman: What is this?! A pattern I’ve never seen before…Is it possible an as-yet undiscovered Crest has been detected? To think there are still Crests out there that even I am unaware of! How thrilling! Ahem… Pardon my unrestrained jubilation. I have much to consider. You may leave now. I have more research to do in regard to this Crest. Yes, so very much more research. But for now, your work here is done.  Hmm… What could this line here be indicating? Perhaps it represents a lack of symmetry… or perhaps… What in the world? Oh, I see… It may be connected to that, but to a greater degree than usual…
+Hanneman: What is this?! A pattern I’ve never seen before...Is it possible an as-yet undiscovered Crest has been detected? To think there are still Crests out there that even I am unaware of! How thrilling! Ahem... Pardon my unrestrained jubilation. I have much to consider. You may leave now. I have more research to do in regard to this Crest. Yes, so very much more research. But for now, your work here is done.  Hmm... What could this line here be indicating? Perhaps it represents a lack of symmetry... or perhaps... What in the world? Oh, I see... It may be connected to that, but to a greater degree than usual...
 Byleth: ...
 
 Rhea: With each moon, professors of the Officers Academy receive a schedule for the month ahead. It notes the days on which events and missions will take place that month. Pay careful attention to your schedule so that you may thoughtfully plan what you intend to do each month, and when.
@@ -760,7 +760,7 @@ Byleth: Bandits?
 Seteth: Those affiliated with Garreg Mach Monastery have a moral obligation to help those in need, regardless of social standing. Students are no exception. Each month, before the newly birthed moon departs, each house of students must complete their assigned mission. You shall work to complete the task at hand alongside your students and report back to the archbishop before the deadline. Understood? I will soon provide you with the necessary details for your first mission. If I told you now, I expect you would only forget, and I despise repeating myself.
 Rhea: I can sense something special within your heart... I have high hopes for you.
 
-Sothis: Bandits, they say…
+Sothis: Bandits, they say...
 Byleth: ?!
 Sothis: Do you recall when we first met? You shall not fall so shamelessly again, correct?
 Byleth: ...
@@ -840,7 +840,7 @@ Bernadetta: The ball. A grim reminder of my sad reality. The other nobles will b
 
 Dorothea: I wonder if Remire Village will ever be the same again. How do you recover from such a terrible event? So many dead, so much destroyed... I can't see how the whole village doesn't just end up abandoned.
 
-Dorothea: Our class was also sent to help put the village in order. But then…
+Dorothea: Our class was also sent to help put the village in order. But then...
 
 
 
@@ -1511,14 +1511,14 @@ Linhardt: Because it would be terribly interesting?
 Linhardt: Anyway... Have you heard the legend of this place, Professor? It's a sentimental one to be sure. The story goes that if two people share a vow at the Goddess Tower, they'll be bound together forever. Hm, or was it that they'll be cursed forever? One or the other for certain. All the same, I think it's a rather lovely legend.
 Byleth: It doesn't sound that lovely to me.
 Byleth: Tell me more.
-Linhardt: Well, I suppose it does depend on your enjoyment of potentially mistranslated myths. Professor, be warned. This may seem forward of me… However, let's vow that one day I will be allowed to research your Crest as much as I please.
+Linhardt: Well, I suppose it does depend on your enjoyment of potentially mistranslated myths. Professor, be warned. This may seem forward of me... However, let's vow that one day I will be allowed to research your Crest as much as I please.
 Byleth: I think not.
 Byleth: Excuse me?
 Linhardt: I've overstepped my bounds again, haven't I? It's just that today is such a special day and, well, I suppose I got caught up in all the excitement. How about this instead? Let's agree to meet here again one day, just the two of us.
 Byleth: If the opportunity arises.
 Linhardt: Such an opportunity won't just arise, we have to make it happen for ourselves. I look forward to that day.
 Byleth: I agree. 
-Linhardt: I look forward to that day. I really do…
+Linhardt: I look forward to that day. I really do...
 
 Caspar: Hey, Professor! I was looking all over for you. What are you doing up here? I think this place is supposed to be off-limits...
 Byleth: I didn't know.
@@ -1553,12 +1553,12 @@ Bernadetta: I knew it! I said, Bernie, this place is haunted, you'll just get ea
 Byleth: You can relax now.
 Bernadetta: Right. I'm better now. Thanks. But try not to scare me like that again, please... With the ball happening tonight, I was sure there wouldn't be anyone here. And from far off, you look... Well, you kinda have a spooky silhouette. I guess you haven't heard the legend?
 Byleth: Legend?
-Bernadetta: Oh, so if a couple swears a vow on the night of the ball, the goddess grants their wish? That's amazing! Is it true? I guess that's the sort of thing you miss when you spend all your time avoiding people. But wouldn't it be nice to spend some time alone with a nice guy in this lonely tower, cut off from all the rest of the world? Anyway… Oh, Professor! Since you're here and all, could I ask you for a favor? As you probably know by now, it's my lifelong dream to live in solitude forever… So could you help me to swear that vow?
+Bernadetta: Oh, so if a couple swears a vow on the night of the ball, the goddess grants their wish? That's amazing! Is it true? I guess that's the sort of thing you miss when you spend all your time avoiding people. But wouldn't it be nice to spend some time alone with a nice guy in this lonely tower, cut off from all the rest of the world? Anyway... Oh, Professor! Since you're here and all, could I ask you for a favor? As you probably know by now, it's my lifelong dream to live in solitude forever... So could you help me to swear that vow?
 Byleth: Nice try.
 Bernadetta: Saw right through me, huh?
 Byleth: I can't promise that.
 Bernadetta: Guess you're right. It probably wouldn't work out so well for me, would it?
-Bernadetta: Ah, well. No use complaining. Actually, I'm happy I got to see you here tonight. Even if it was just by coincidence. Would you mind staying a little longer? It's nice and quiet, and the sky's really pretty. I quite like the atmosphere. On a night like this, being out in the open doesn't seem so bad…
+Bernadetta: Ah, well. No use complaining. Actually, I'm happy I got to see you here tonight. Even if it was just by coincidence. Would you mind staying a little longer? It's nice and quiet, and the sky's really pretty. I quite like the atmosphere. On a night like this, being out in the open doesn't seem so bad...
 
 Dorothea: Ah, Professor! You showed up!
 Byleth: Why are you here?
@@ -1566,21 +1566,21 @@ Dorothea: Um, I'm the one who called you here, remember?
 Byleth: Why do you look so happy?
 Dorothea: Well, because you're here, of course!
 Dorothea: You came here because you read the letter I sent you, right?
-Byleth: Not that I recall…
+Byleth: Not that I recall...
 Byleth: What letter?
 Dorothea: Are you saying this is...a coincidence? How disappointing to think you didn't come here specifically to see me. Still, if we're meeting by complete chance... that has a certain appeal too. It's as if destiny brought us together! And tonight is the night of the ball... Lucky me.
 Byleth: What are you plotting?
 Dorothea: Plotting? That's a bit rude, don't you think?
 Byleth: I thought you weren't comfortable around me...
 Dorothea: Oh, that's just when you're looking through me in front of others. When it's just us...I kind of like it.
-Dorothea: Originally, I wanted to see what you'd do when you read my letter. I just wanted to see if you'd come here like I asked. I had a feeling that you would. Though, I suppose you didn't even read the letter to begin with… I should just be thankful I wasn't left here waiting. All alone. Forever. Do you know it's been almost nine whole moons since you arrived at Garreg Mach? You must have found a special someone by now, haven't you, Professor?
+Dorothea: Originally, I wanted to see what you'd do when you read my letter. I just wanted to see if you'd come here like I asked. I had a feeling that you would. Though, I suppose you didn't even read the letter to begin with... I should just be thankful I wasn't left here waiting. All alone. Forever. Do you know it's been almost nine whole moons since you arrived at Garreg Mach? You must have found a special someone by now, haven't you, Professor?
 Byleth: I have.
 Dorothea: Ooh? Who could it be? You've made me so curious. Oh, don't worry. I'm not going to pry if you don't want to share. Your private life is private, after all.
 Byleth: I have not.
-Dorothea: Uh-huh, right. I bet you're just hiding it. There's someone you're sweet on… Don't you worry, I won't pry if you don't want to share. These things are private, after all.
+Dorothea: Uh-huh, right. I bet you're just hiding it. There's someone you're sweet on... Don't you worry, I won't pry if you don't want to share. These things are private, after all.
 Byleth: Is that what you wanted to talk about?
 Dorothea: Are you changing the subject? Don't do that. Ohh, I bet that means you do have someone, don't you? Don't you worry, I won't pry if you don't want to share. These things are private, after all.
-Dorothea: Well, I oughta get going… I wouldn't want to be in the way if your special someone shows up. Either way, I do hope you'll share a dance with me later.
+Dorothea: Well, I oughta get going... I wouldn't want to be in the way if your special someone shows up. Either way, I do hope you'll share a dance with me later.
 
 Petra: Professor, what is bringing you here? Is the ball not enjoyable?
 Byleth: I had to escape.
@@ -1614,12 +1614,12 @@ Dimitri: A wish of my own... I suppose my wish...is for a world in which no one 
 Byleth: That's a great wish.
 Byleth: I'll wish for the same.
 Dimitri: Thank you, Professor. Although, at a time like this... Perhaps it would make more sense for me to wish that we'll be together forever. What do you think?
-Byleth: …
-Dimitri: … Haha! Well now, Professor! You must admit I've improved in the art of joke telling.
+Byleth: ...
+Dimitri: ... Haha! Well now, Professor! You must admit I've improved in the art of joke telling.
 Byleth: That's cruel.
 Byleth: It didn't sound like a joke.
-Dimitri: I'm sorry... I guess that was rather thoughtless of me. … Honestly... I do regret saying such a thing. Please think nothing of it. I've blurted out irresponsible things like that to my classmates. Promises that we'll see each other again and the like. I have no business making such promises for the future. There are certain things that I must accomplish, even if it means risking my life. I may not even have a future to promise to someone.
-Byleth: …
+Dimitri: I'm sorry... I guess that was rather thoughtless of me. ... Honestly... I do regret saying such a thing. Please think nothing of it. I've blurted out irresponsible things like that to my classmates. Promises that we'll see each other again and the like. I have no business making such promises for the future. There are certain things that I must accomplish, even if it means risking my life. I may not even have a future to promise to someone.
+Byleth: ...
 Dimitri: We should head back soon. It's rude of me to keep you all to myself. Shall we, Professor?
 
 Dedue: What are you doing here?
@@ -1630,8 +1630,8 @@ Dedue: Though I elected to attend this ball, I did not know what to do with myse
 Byleth: I’d like to stay here a bit longer.
 Byleth: Not just yet.
 Dedue: As you wish.
-Dedue: …
-Byleth: …
+Dedue: ...
+Byleth: ...
 Dedue: The stars seem brighter here, somehow. I have heard the goddess of Fódlan grants a special blessing at this tower. The blessing ensures that any oath sworn between man and woman here shall be fulfilled. That is what I have heard. We had similar legends in Duscur. Some elements of human culture are universal, I suppose. Is there an oath you would like to swear?
 Byleth: Not that I can think of.
 Dedue: I understand.
@@ -1670,7 +1670,7 @@ Byleth: That’s right.
 Ashe: I guess we think along the same lines. I was feeling kind of worn out.
 Byleth: Actually, I was looking for you.
 Ashe: For me? Oh! I’m so sorry to put you out of your way! I was just kind of worn out from all of the excitement. I am enjoying the ball, but it’s a bit much, you know?
-Ashe: Everyone else seems used to this kind of thing, but I’ve never been to anything like it before. My friends did teach me a bit about proper manners and how to dance, but I still feel out of place. Stepping on girls’ feet, messing up the pretty floral decorations… Haha, I’ve been a bit of a disaster. Sometimes I wonder if it’s even right for someone like me to be in a place like this.
+Ashe: Everyone else seems used to this kind of thing, but I’ve never been to anything like it before. My friends did teach me a bit about proper manners and how to dance, but I still feel out of place. Stepping on girls’ feet, messing up the pretty floral decorations... Haha, I’ve been a bit of a disaster. Sometimes I wonder if it’s even right for someone like me to be in a place like this.
 Byleth: I feel that way sometimes too.
 Ashe: Really? You do? That’s kind of reassuring!
 Byleth: You have every right to be here.
@@ -1680,7 +1680,7 @@ Byleth: What would you wish for?
 Ashe: Oh, never mind me. I'd like to know what you'd wish for!
 Byleth: Let’s make a wish together, then.
 Ashe: My thoughts exactly! Do you have anything in particular you’d like to wish for?
-Byleth: My wish is…
+Byleth: My wish is...
 Ashe: Your wish is?
 Byleth: For your wish to come true, Ashe.
 Ashe: What? My wish? W-well, um...let me think.
@@ -1693,14 +1693,14 @@ Ashe: This kind of thing is pretty embarrassing, huh? Maybe I should be heading 
 Byleth: You could dance with me.
 Ashe: Really? You’d do that? Wow, that’d be great! Just promise not to laugh if I mess it up, OK? Come on. Let’s head back.
 
-Sylvain: Evening, Professor. Lovely night, isn’t it? Just look at those stars… I heard you were headed over to the Goddess Tower, and I got curious about who you might be meeting. But here you are all by yourself. This isn’t a lover’s tryst at all! Heh heh…
+Sylvain: Evening, Professor. Lovely night, isn’t it? Just look at those stars... I heard you were headed over to the Goddess Tower, and I got curious about who you might be meeting. But here you are all by yourself. This isn’t a lover’s tryst at all! Heh heh...
 Byleth: Tryst?
 Sylvain: Oh, yeah. The Goddess Tower is where lovers meet. Didn’t anybody tell you? They say that if you exchange vows here, they always come true. It’s a sacred place for lovers.
 Byleth: Why are you here alone?
 Byleth: Where is your lover?
-Sylvain: Well, the person I’m interested in...is already here. You’re here alone. I’m here alone. I was thinking maybe…
+Sylvain: Well, the person I’m interested in...is already here. You’re here alone. I’m here alone. I was thinking maybe...
 Byleth: Wait. Me?
-Sylvain: Well, of course! We’re the only two people here, aren’t we? I keep thinking about it, and it just makes sense. My Crest and yours…
+Sylvain: Well, of course! We’re the only two people here, aren’t we? I keep thinking about it, and it just makes sense. My Crest and yours...
 Byleth: That’s too much, too soon.
 Byleth: Marry you? I can’t even trust you.
 Sylvain: Heh, OK. True, true. You know, I’ve never regretted any of my past behavior...until you turned me down just now. I can’t be who I’ve been my whole life. I gotta get it together and become a man you can trust. I know that sounds like another one of my games, but it’s true. I’ll prove it to you. Anyway, I’m going to head back to the ball. Since we’re both here, would you accompany me?
@@ -1708,7 +1708,7 @@ Byleth: I’ll go back with you.
 Sylvain: Well then, my lady, I do hope you’ll give me the honor of a dance. It will be good practice for our first dance at our wedding reception. Heh heh—I’m kidding!
 Byleth: I’m going to stay here for awhile.
 Sylvain: It's chilly out tonight, so take care not to catch cold. And if you do get cold, you know where to find me. Sorry. Old habits die hard, I guess... OK. Well, I'm headed inside.
-Sylvain: Anyway… Let’s get going before you change your mind.
+Sylvain: Anyway... Let’s get going before you change your mind.
 
 Mercedes: Why, Professor! I was wondering where you ran off to. I searched the entire floor but couldn't find you anywhere. Tired, are we? I can tell by that look on your face. It must be exhausting being so popular, huh?
 Byleth: I'm exhausted...
@@ -1739,7 +1739,7 @@ Annette: Wait...really? There isn't any music... But this is too special to pass
 Byleth: Now I'm hungry.
 Byleth: What an interesting song.
 Annette: It's about this yummy stew one of the monks taught me to make a while back. Oh, I know! I'll make it for you! It really is just about the tastiest thing in the world. Um... If I'm bothering you, please tell me now and I'll leave you alone.
-Byleth: …
+Byleth: ...
 Annette: Say, Professor... Did you know that if you make a wish here at the Goddess Tower, it will for sure come true? That's why people usually meet up with someone they like here. For a rendezvous! And they make a wish that they'll stay together forever. So... Uh, I thought you might be waiting for a girl here. And that I'm messing it up.
 Byleth: I've never heard about that tradition.
 Byleth: Nothing of the sort.
@@ -1811,22 +1811,22 @@ Byleth: Peace for all.
 Byleth: Happiness for the two of us.
 Lorenz: That’s very fitting. I will remember that we made this vow here today. Well, I should head back. Lest, by my absence, the festivities lose their luster.
 
-Raphael:  Omm… Mmm… Mmm… Huh? Who’s there?!
-Raphael: P-Professor! Is the ball over already? What, uh… What are you doing here?
+Raphael:  Omm... Mmm... Mmm... Huh? Who’s there?!
+Raphael: P-Professor! Is the ball over already? What, uh... What are you doing here?
 Byleth: Just taking a break.
 Raphael: Ah, a break. Sure, sure. That's uh... That's what I'm doing too.
 Byleth: I heard a strange noise.
-Raphael: Strange noise? No need to worry! I’ll, uh… I’ll look into it for you!
+Raphael: Strange noise? No need to worry! I’ll, uh... I’ll look into it for you!
 Raphael: Huh. I suddenly have the energy to dance! Maybe I’ll head back to the ball.
 Byleth: What were you eating?
 Raphael: Ah! You noticed. It was just some meat. It was a much nicer cut than I’m used to. We all got one helping, but some people didn’t want theirs! Can you believe it? I hate to see good food go to waste. I’m sorry, Professor.
 Byleth: You should be.
 Byleth: You need to follow the rules.
-Raphael: You’re right. I know… Oh! By the way! I heard something on my way here. I heard that if two people make a wish together in this tower, on this night, the goddess will grant it!
+Raphael: You’re right. I know... Oh! By the way! I heard something on my way here. I heard that if two people make a wish together in this tower, on this night, the goddess will grant it!
 Byleth: Two people?
 Raphael: I don’t know the specifics, just that you can’t do it alone. There has to be two of you. Since we’re both here now, let’s make a wish together! What should we wish for? More delicious cuts of meat?
 Raphael: No? Then how about bigger muscles?
-Raphael: What else is there to wish for? Hm! Me becoming a proper knight? But that’s just for me, not you…
+Raphael: What else is there to wish for? Hm! Me becoming a proper knight? But that’s just for me, not you...
 Byleth: We can wish for that. 
 Raphael: We can? Professor! That’s so generous of you!
 Raphael: Now that we wished for it, I’m sure I’ll become a proper knight!
@@ -1834,16 +1834,16 @@ Byleth: Let’s wish for peace in Fódlan.
 Raphael: Peace in Fódlan? That's a good wish too!
 Raphael: I really hope our wish comes true.
 
-Ignatz: …
+Ignatz: ...
 Ignatz: Gah! Is that you, Goddess?! Professor! Ah. I’m sorry, I thought you were the goddess.
 Byleth: That’s ridiculous.
 Ignatz: You’re right, you’re right. Imagine, if she just appeared out of nowhere! Do you know of that old legend, Professor?
 Byleth: Old legend?
-Ignatz: Yes. It’s said that if a man and a woman make a vow tonight at the Goddess Tower… She will appear before them and bless them, ensuring that vow’s fulfillment.
+Ignatz: Yes. It’s said that if a man and a woman make a vow tonight at the Goddess Tower... She will appear before them and bless them, ensuring that vow’s fulfillment.
 Byleth: Ridiculous.
-Ignatz: I know, but can you imagine if she just appeared out of nowhere? Still… Maybe, even if we can’t see her, we can sense her presence. I envision the goddess as the most beautiful creature in the world… More beautiful than any landscape, any artwork. Utterly beyond compare. That’s what I think anyway. Or perhaps, what I hope. Since I first heard that legend, I’ve wanted to try it and perhaps meet the goddess.
-Byleth: But if the legend’s true…
-Ignatz: Yes, I know what you’re getting at. She would never appear before a single person. Frankly, I didn’t know any girls well enough to invite them here. So I was hoping a couple would come along, and I could sneak a peek… Wait! That came out wrong! I take that back. I have absolutely no intention of peeking!
+Ignatz: I know, but can you imagine if she just appeared out of nowhere? Still... Maybe, even if we can’t see her, we can sense her presence. I envision the goddess as the most beautiful creature in the world... More beautiful than any landscape, any artwork. Utterly beyond compare. That’s what I think anyway. Or perhaps, what I hope. Since I first heard that legend, I’ve wanted to try it and perhaps meet the goddess.
+Byleth: But if the legend’s true...
+Ignatz: Yes, I know what you’re getting at. She would never appear before a single person. Frankly, I didn’t know any girls well enough to invite them here. So I was hoping a couple would come along, and I could sneak a peek... Wait! That came out wrong! I take that back. I have absolutely no intention of peeking!
 Byleth: Shall we make a vow?
 Ignatz: What? You and...me? I suppose we do fit the criteria, but are you certain you would want to do that?
 Ignatz: In that case, let’s try it! What should our vow be? Please, pick whatever sounds best to you!
@@ -1854,7 +1854,7 @@ Ignatz: Of course. Might be a little ambitious, but let’s give it a try!
 Byleth: May you live your life honestly. 
 Ignatz: Oh? Oh! I see! Yes, that's a wonderful vow.
 Ignatz: Now, let us pray.
-Ignatz: …
+Ignatz: ...
 Ignatz: Did you feel that?! I think the goddess is near!
 Byleth: Still ridiculous.
 Ignatz: You’re right, of course.
@@ -1875,25 +1875,25 @@ Lysithea: Er, I wouldn't know, to be honest. I have no interest in such things. 
 Byleth: The Goddess Tower?
 Lysithea: Oh, of course! I recall now. It's— Wait. That's... That's here, isn't it?! Uh, just to be clear, this is pure coincidence. I didn't follow you for...for that. But we are here alone, so people may wonder what our aim is. Let's get out of here before someone sees us and gets the wrong idea!
 Byleth: There's no need for panic.
-Lysithea: Are you saying you don't mind if someone sees us and thinks… Oh, I suppose you believe there's no danger of that, since it's just me. You're treating me like a child, aren't you? Well, I don't mind either, then. Obviously there's nothing going on here. If you're going stick to around until we collect dust, then so will I!
-Lysithea: …
+Lysithea: Are you saying you don't mind if someone sees us and thinks... Oh, I suppose you believe there's no danger of that, since it's just me. You're treating me like a child, aren't you? Well, I don't mind either, then. Obviously there's nothing going on here. If you're going stick to around until we collect dust, then so will I!
+Lysithea: ...
 Lysithea: Actually, I'm gonna go now. Don't you stay too long either! You'll catch your death of cold out here.
 
-Marianne: Please be patient! I'll be done with my prayer in a moment... Dear Goddess, I beg thee… Oh! Professor?
+Marianne: Please be patient! I'll be done with my prayer in a moment... Dear Goddess, I beg thee... Oh! Professor?
 Byleth: Is someone else here?
-Marianne: No... I'm the only one here. Umm… Well, more accurately, I'm the only human present. My bird friend is here as well.
+Marianne: No... I'm the only one here. Umm... Well, more accurately, I'm the only human present. My bird friend is here as well.
 Byleth: You're talking to a bird?
 Marianne: No! Well. It's more like the bird is...doing me a favor. They say if a man and a woman pray here, on this night, their wish will come true. At least, that's how the legend goes.
 Byleth: And the bird?
 Marianne: It's a pigeon. A...male pigeon. At least, I think so. I thought he might count as a man.
-Marianne: …
-Byleth: …
+Marianne: ...
+Byleth: ...
 Marianne: Well, I'd better be leaving. It seems my pigeon friend got impatient and flew away.
 Byleth: I'm sorry...
 Marianne: No, it's fine. The goddess probably wouldn't accept a male pigeon anyway.
 Byleth: I'll take his place.
 Marianne: Oh? Um. Are you saying you'll pray with me, Professor?
-Byleth: …
+Byleth: ...
 Marianne: Thank you! If you have a wish for the future, let's pray for it, OK?
 Byleth: What is your wish?
 Marianne: Who, me? Oh, nothing in particular. Let's pray for your wish. There must be something you want. Well?
@@ -1929,7 +1929,7 @@ Byleth: I had not heard that.
 Leonie: Really? It's a pretty well-known legend.
 Leonie: Thing is, the way the story goes, it doesn't work all the time. It has to be the night of the ball. Tonight. So, since it's just you and me here, what do you say we give it a go? I mean, I don't know if the goddess will really take the time for a pair like us, but it's worth a try.
 Byleth: What are you suggesting?
-Leonie: Well—you know! Let's make some kind of promise! We've got the chance, it'd be a shame to waste it. I mean, not something romantic or anything. That'd be weird. We could promise I'll become a top-tier mercenary! Though I guess that's more of a wish… Let's see... OK, I've got it. I solemnly swear to meet you once more, on this very ground, as a mercenary beyond compare! Oh, but that was all about me. No fair. You probably have something you want to promise too.
+Leonie: Well—you know! Let's make some kind of promise! We've got the chance, it'd be a shame to waste it. I mean, not something romantic or anything. That'd be weird. We could promise I'll become a top-tier mercenary! Though I guess that's more of a wish... Let's see... OK, I've got it. I solemnly swear to meet you once more, on this very ground, as a mercenary beyond compare! Oh, but that was all about me. No fair. You probably have something you want to promise too.
 Byleth: No, I think that covers it.
 Leonie: Hah. You really do take after Captain Jeralt—always putting others first. All right, then, Goddess. You heard the promise. It's a done deal. Say, Professor...why did you come out here, anyway?
 Byleth: I just wanted some time alone.
@@ -1939,10 +1939,10 @@ Flayn: Professor? Is that you over there? It seems both of us were curious about
 Byleth: What are you talking about?
 Flayn: Oh, perhaps I was mistaken. I figured you had come to this tower after having heard the legend.
 Byleth: What legend?
-Flayn: You've not heard of it, then? I suppose I only recently learned of it myself, from a friend. Legend tells that on the night of a ball, when a man and woman pledge vows at this very tower… The goddess will bestow her blessing, ensuring those vows come to pass. Of course, such things do not really come to pass. But there are many who place stock in this legend. I wondered what sort of vows youths tend to pledge... So here I am, hoping to gain deeper understanding. Only to bump into you! Are you meeting someone here, perchance?
+Flayn: You've not heard of it, then? I suppose I only recently learned of it myself, from a friend. Legend tells that on the night of a ball, when a man and woman pledge vows at this very tower... The goddess will bestow her blessing, ensuring those vows come to pass. Of course, such things do not really come to pass. But there are many who place stock in this legend. I wondered what sort of vows youths tend to pledge... So here I am, hoping to gain deeper understanding. Only to bump into you! Are you meeting someone here, perchance?
 Byleth: No, I'm not.
-Flayn: That's unfortunate. I wonder if anyone else will be coming… Professor? If the legend were true, what type of vow might you pledge?
-Byleth: It's hard to say…
+Flayn: That's unfortunate. I wonder if anyone else will be coming... Professor? If the legend were true, what type of vow might you pledge?
+Byleth: It's hard to say...
 Flayn: No ideas? Perhaps your imagination is lacking due to the lack of a partner. What say you to being my partner? How about sharing a vow with me? I'll give you until the count of three to come up with something heartfelt and honorable. One...two...three! Go ahead!
 Byleth: May we always be together.
 Byleth: May we both find joy.
@@ -2131,7 +2131,7 @@ Seiros: He's gone now, Mother...
 Sothis: Oh my. What could have brought you here?
 
 @Dialogue 
-Sothis: I wonder how you got in here… It is most rude to interrupt a moment of repose. Very rude indeed. Now come to me. I wish to have a look at you.
+Sothis: I wonder how you got in here... It is most rude to interrupt a moment of repose. Very rude indeed. Now come to me. I wish to have a look at you.
 
 Sothis: Hmm... I have not seen the likes of you before. Who are you, anyway?
 Byleth: I'm a ghost.
@@ -2152,7 +2152,7 @@ Jeralt: Hey. Time to wake up.
 
 Jeralt: Were you having that dream again?
 Byleth: I was dreaming about a war...
-Jeralt: Massive armies clashing on a vast field, right? There hasn’t been a battle like that in over three centuries…
+Jeralt: Massive armies clashing on a vast field, right? There hasn’t been a battle like that in over three centuries...
 
 Byleth: I was dreaming about a young girl...
 Jeralt: You’ve described her to me before. I don’t think I’ve ever met anyone like that.
@@ -2173,16 +2173,16 @@ Jeralt: What do a bunch of kids like you want at this hour?
 Dimitri: We’re being pursued by a group of bandits. I can only hope that you will be so kind as to lend your support.
 Jeralt: Bandits? Here?
 Edelgard: It's true. They attacked us while we were at rest in our camp.
-Claude: We’ve been separated from our companions and we’re outnumbered. They’re after our lives…not to mention our gold.
-Jeralt: I’m impressed you’re staying so calm considering the situation. I… Wait. That uniform…
-Mercenary: Bandits spotted just outside the village! Damn… There are a lot of them.
+Claude: We’ve been separated from our companions and we’re outnumbered. They’re after our lives...not to mention our gold.
+Jeralt: I’m impressed you’re staying so calm considering the situation. I... Wait. That uniform...
+Mercenary: Bandits spotted just outside the village! Damn... There are a lot of them.
 Jeralt: I guess they followed you all the way here. We can’t abandon this village now. Come on, let’s move. Hope you’re ready.
 
 @Battle 
 
 Jeralt: Let’s take care of those thieves before they overrun the village. Take down the enemies in front first. That should take the wind out of their sails.
 
-Edelgard: You have a strange aura about you… You say you’re a mercenary, so show me what you can do.
+Edelgard: You have a strange aura about you... You say you’re a mercenary, so show me what you can do.
 
 Dimitri: Thank you. We are in your debt. It wouldn’t do for us to fall in a place like this. Please, lend us your strength. Let’s work together to drive out these thieves!
 
@@ -2214,14 +2214,14 @@ Kostas: You'll die!
 
 Sothis: Honestly! What are you accomplishing with that little stunt?! It’s like you’re trying to get me killed, you fool!
 
-Sothis: Well, it’s fine. After all, if you don’t know the value of your own life, you’re not going to protect it very well, are you? Course not.  Well then, I guess it’s up to me to guide you from now on, right? You can call me Sothis…but I’m also known as “The Beginning”.
+Sothis: Well, it’s fine. After all, if you don’t know the value of your own life, you’re not going to protect it very well, are you? Course not.  Well then, I guess it’s up to me to guide you from now on, right? You can call me Sothis...but I’m also known as “The Beginning”.
 
 @Dialogue 
-Sothis: Hmm… Sothis… Yes, that is it. My name is Sothis. And I am also called…The Beginning. But who once called me that?
+Sothis: Hmm... Sothis... Yes, that is it. My name is Sothis. And I am also called...The Beginning. But who once called me that?
 
 Byleth: What are you talking about?
 Byleth: Sothis?
-Sothis: I was not able to recall my name…until just now. And just like that, it came to me. How odd. That look upon your face… Did you think me a child? A mere child who forgot her own name?! Phooey! That “child” just saved your life! And what does that make you?
+Sothis: I was not able to recall my name...until just now. And just like that, it came to me. How odd. That look upon your face... Did you think me a child? A mere child who forgot her own name?! Phooey! That “child” just saved your life! And what does that make you?
 
 Byleth: I am no child.
 Sothis: Ha! Such arrogance. You look the part but are you truly an adult?
@@ -2237,7 +2237,7 @@ Sothis: Though it is only momentary, time has stopped. However did I manage that
 
 Byleth: What will happen when time resumes?
 Byleth: What now?
-Sothis: When time begins again, the axe will tear into your flesh, and you will surely meet your end. How rude of you to drag me into this! Now what to do…
+Sothis: When time begins again, the axe will tear into your flesh, and you will surely meet your end. How rude of you to drag me into this! Now what to do...
 
 Byleth: Turn back the hands of time. 
 Sothis: Of course! I must turn back the hands of time!
@@ -2245,7 +2245,7 @@ Byleth: Keep time frozen until I'm safe.
 Sothis: That is ridiculous! Oh, but perhaps... Of course! I must turn back the hands of time!
 Byleth: I'll just stay here and wait to die. 
 Sothis: As though I could stand idly by and watch that come to pass! Oh, but perhaps... Of course! I must turn back the hands of time!
-Sothis: Yes... I do believe it can be done. You really are quite troublesome. I cannot wind back time too far, but all is well. You are aware of what’s to come, which means you can protect yourself this time. Now, go… Yes, you who bears the flames within. Drift through the flow of time to find the answers that you seek…
+Sothis: Yes... I do believe it can be done. You really are quite troublesome. I cannot wind back time too far, but all is well. You are aware of what’s to come, which means you can protect yourself this time. Now, go... Yes, you who bears the flames within. Drift through the flow of time to find the answers that you seek...
 
 @Cutscene 
 Edelgard: Huh?
@@ -2312,9 +2312,9 @@ Claude: Looks like we'll have to pick this up another time.
 
 Sothis: My, my. They are in such a hurry. You know... Each of the three is most unique.
 
-Byleth: Edelgard… 
-Byleth: Dimitri… 
-Byleth: Claude… 
+Byleth: Edelgard... 
+Byleth: Dimitri... 
+Byleth: Claude... 
 Sothis: Yes, I thought the same. I am so sleepy once again... I may be sleeping...but I...
 /***EOF***/
 @Opening 
@@ -3145,17 +3145,17 @@ Claude: If we don't stop them, the academy will be destroyed. Prepare for battle
 Lysithea: We will stop Edelgard's rampage!
 Ignatz: Our opponent is formidable, but if we work together, we will not fail.
 Raphael: Enough talking! Let's go!
-Marianne: Dear Goddess… Please, protect us all…
+Marianne: Dear Goddess... Please, protect us all...
 Flayn: I shall fight with all that I have. It is an honor to fight alongside each of you!
-Hilda: Professor, Claude… You'll lead the way, won't you? You won't let any of us fall, right?
-Claude: I wanted to talk to Rhea first, but as expected, that won't be possible. What did she hope to accomplish at the Holy Tomb? What happened to you as a baby? There are still so many things I need to know. The same goes for the real origin of the Crest Stones and the Heroes' Relics. As for Seiros and Nemesis…just how much of their mythology is true?
-Claude: It's true. But lucky for me, I refuse to die with so much still unknown. Hey, Teach… All joking aside. Can we possibly survive this battle?
+Hilda: Professor, Claude... You'll lead the way, won't you? You won't let any of us fall, right?
+Claude: I wanted to talk to Rhea first, but as expected, that won't be possible. What did she hope to accomplish at the Holy Tomb? What happened to you as a baby? There are still so many things I need to know. The same goes for the real origin of the Crest Stones and the Heroes' Relics. As for Seiros and Nemesis...just how much of their mythology is true?
+Claude: It's true. But lucky for me, I refuse to die with so much still unknown. Hey, Teach... All joking aside. Can we possibly survive this battle?
 Byleth: We'll find a way.
 Claude: That's all we can do, right? If we gave up, the god of fate wouldn't be happy.
 Byleth: I don't know.
 Claude: Hey, now! I wasn't really looking for an honest answer. Honesty is bad for morale, Teach. You'd better cut that out.
-Claude: I'm a lot of things, but I'm not the kind of man to just roll over and die in a place like this. I have my own ambitions to see to. There are things…dreams…that I must see come to fruition. And I've been thinking. I want you to see those dreams realized as well. On top of all that, there are still so many secrets out there, just waiting to be uncovered. We can't let that stand, can we? 
-Claude: So, Teach… No, scratch that. You're so much more. You're my ally and my friend. Teach… Friend… None of those words quite capture what you've come to mean to me. We may not be connected by blood, but I believe our bond goes deeper than that. Now that we know each other, our hearts are connected. Even if our paths diverge and we're forced to say good-bye… I know that we'll meet again. 
+Claude: I'm a lot of things, but I'm not the kind of man to just roll over and die in a place like this. I have my own ambitions to see to. There are things...dreams...that I must see come to fruition. And I've been thinking. I want you to see those dreams realized as well. On top of all that, there are still so many secrets out there, just waiting to be uncovered. We can't let that stand, can we? 
+Claude: So, Teach... No, scratch that. You're so much more. You're my ally and my friend. Teach... Friend... None of those words quite capture what you've come to mean to me. We may not be connected by blood, but I believe our bond goes deeper than that. Now that we know each other, our hearts are connected. Even if our paths diverge and we're forced to say good-bye... I know that we'll meet again. 
 Claude: And so, for lack of a better word, I gratefully call you my friend, and I hold fast to the belief that this isn't it for us. No matter who or what you really are, I'll always be on your side. You can't count on much in this world, but you can count on that.
 ^end
 
@@ -3185,7 +3185,7 @@ Shamir: I brought reinforcements. I'll send them to the front line.
 
 Dedue: They have taken the monastery. We have lost...
 
-Claude: We took back one of the strongholds. On to the next…
+Claude: We took back one of the strongholds. On to the next...
 
 Claude: All right, we took back both of the strongholds. Let's keep up the momentum!
 
@@ -3309,7 +3309,7 @@ Dimitri: In any case, we won't let you down this month, Professor. You can rely 
 
 
 
-Claude: Hey, Teach. Is it OK for you to be out on your own right now? Just…please be careful not to topple over again. You scared us nearly to death. Anyway… Doesn't Rhea want something from you? Sounds important. I'm glad I'll be there to witness the ritual at the Holy Tomb. I want to see whether or not something happens with my own eyes.
+Claude: Hey, Teach. Is it OK for you to be out on your own right now? Just...please be careful not to topple over again. You scared us nearly to death. Anyway... Doesn't Rhea want something from you? Sounds important. I'm glad I'll be there to witness the ritual at the Holy Tomb. I want to see whether or not something happens with my own eyes.
 
 
 
@@ -3415,7 +3415,7 @@ Lysithea: Your hair! And your eyes! What happened to you?! You didn't lose somet
 Byleth: Don't worry—I'm fine. 
 Lysithea: I see. Well, that makes me feel better. But still, be careful.
 Byleth: I don't know yet.
-Lysithea: Sometimes our frail bodies don’t do well with excess power… So don’t push yourself too hard.
+Lysithea: Sometimes our frail bodies don’t do well with excess power... So don’t push yourself too hard.
 
 Marianne: Long ago, Saint Seiros was gifted with a divine revelation from the goddess, as well as incredible power. Is that what happened to you too, Professor?
 Hilda: No way! The professor transformed before receiving any kind of divine revelation, right? Still, I wonder. Does the fact that you've changed really mean you've been granted some kind of power?
@@ -3553,7 +3553,7 @@ Leonie: I don't know what type of place this Holy Tomb is, but we should be caut
 Raphael: If something happens, we'll have to take matters into our own hands.
 Hilda: What do you think, Professor? Is it really okay for Lady Rhea to attend?
 Byleth: I'm worried.
-Claude: It seems to be tightly sealed, I'll give you that. We should be fine as long as nothing goes terribly wrong. Yep… Just as long as nothing goes wrong.
+Claude: It seems to be tightly sealed, I'll give you that. We should be fine as long as nothing goes terribly wrong. Yep... Just as long as nothing goes wrong.
 Byleth: It's encouraging.
 Claude: Leave it to our fearless leader to shrewdly factor in Rhea's fighting ability. You're bold, Teach. I love it.
 Claude: Well, the truth is, we won't know what's going on until it happens. All we can do is stay on our guard and play it by ear.
@@ -3562,7 +3562,7 @@ Marianne: Um, divine punishment won't strike us for setting foot in the Holy Tom
 Lysithea: Good grief. Why are you always so negative?
 Lysithea: Hm? Flayn, is something on your mind?
 Flayn: Who, me? No, it is nothing. May we all see this through to the end.
-Claude: It still doesn't make sense to me. A goddess was living inside Teach, right? But now there's a ceremony to receive a revelation or whatever. How could that be necessary anymore? There must be another objective.  It's pointless to speculate about it now. We'll know the answer soon enough. There isn't any danger for us students, but… be careful, Teach.
+Claude: It still doesn't make sense to me. A goddess was living inside Teach, right? But now there's a ceremony to receive a revelation or whatever. How could that be necessary anymore? There must be another objective.  It's pointless to speculate about it now. We'll know the answer soon enough. There isn't any danger for us students, but... be careful, Teach.
 ^end
 
 @Intro 
@@ -3642,7 +3642,7 @@ Rhea: The Holy Tomb must not be desecrated! Protect as many of the Crest Stones 
 
 Dimitri: Heretics! What could be gained from desecrating these tombs and disgracing the dead?!
 
-Claude: I guess we're fighting over who gets those Crest Stones… What in the world do they intend to use them for, anyway?
+Claude: I guess we're fighting over who gets those Crest Stones... What in the world do they intend to use them for, anyway?
 
 Edelgard: Take away every last one of those Crest Stones.
 Rhea: That is enough! Do you even know what those stones are?!
@@ -3912,11 +3912,11 @@ Dimitri: Professor, you seem unwell. How are you faring? If you're not feeling w
 
 
 
-Claude: Even if I spend all my time rummaging through this library, there's a limit to the knowledge that can be gained. Apparently, it only contains books whose contents have been deemed appropriate by the church. If only Tomas were around. I bet he has some interesting stories he could regale us with…
+Claude: Even if I spend all my time rummaging through this library, there's a limit to the knowledge that can be gained. Apparently, it only contains books whose contents have been deemed appropriate by the church. If only Tomas were around. I bet he has some interesting stories he could regale us with...
 
 
 
-Claude: What in the world is happening in Remire Village? I hear even the knights have been dispatched. I hope it's nothing too serious… After all, that's where we first met. I have valued memories of that place.
+Claude: What in the world is happening in Remire Village? I hear even the knights have been dispatched. I hope it's nothing too serious... After all, that's where we first met. I have valued memories of that place.
 
 Hubert: Need something, Professor? I was just asking Monica here to be less demanding of Lady Edelgard's time.
 Monica: Hey, it's not like I'm bothering her! Sorry for the ruckus, Professor. Please don't worry about it too much. Nooothing to worry about here!
@@ -4172,7 +4172,7 @@ Edelgard: The one giving commands in the back... I'm certain that's Tomas, the l
 
 Dimitri: The one giving orders to the others...isn't that Tomas, the librarian?
 
-Claude: It can't be… The one giving orders to the weird ruffians… Isn't that Tomas?
+Claude: It can't be... The one giving orders to the weird ruffians... Isn't that Tomas?
 
 
 Edelgard: Tomas, what are you doing here? Dare I even ask?
@@ -4183,9 +4183,9 @@ Claude: Tomas! What in the world are you doing here?
 
 Tomas: I'm not Tomas. My name is Solon, the savior of all!
 
-Solon: What's the matter? So shocked you can't even speak? You were so easily fooled by my disguise… I was hiding away in Garreg Mach to get the blood of that little girl called Flayn. With her blood, we'll be one step closer to realizing our goal.
+Solon: What's the matter? So shocked you can't even speak? You were so easily fooled by my disguise... I was hiding away in Garreg Mach to get the blood of that little girl called Flayn. With her blood, we'll be one step closer to realizing our goal.
 
-Death Knight: I'll have a bit of fun here too…
+Death Knight: I'll have a bit of fun here too...
 Jeralt: That's the Death Knight! He must be an ally of Tomas...or Solon, or whoever he is.
 
 Solon: They charge in without any plan whatsoever. Beasts, all of them... The experiment is over. Kill them!
@@ -4241,7 +4241,7 @@ Edelgard: We let him get away... I'll survey the village. There may still be ene
 
 Dimitri: I...will survey the village. There may still be some survivors.
 
-Claude: It's over… All we can do now is focus on our next move. I'll have a look around the village. There may still be people who need our help.
+Claude: It's over... All we can do now is focus on our next move. I'll have a look around the village. There may still be people who need our help.
 
 Jeralt: It looks like we somehow managed to sort things out. And casualties were...kept to a minimum. They said they weren't picky about who they used as their "test subjects." Because of them, the people of Remire Village...
 Flame Emperor: There you are.
@@ -4846,19 +4846,19 @@ Edelgard: I'm sorry, but I must retreat... You should have no trouble winning. D
 
 Edelgard: I hate to admit it...but it seems this is as far as the Black Eagle House goes.
 
-Claude: Sorry, but it's about time I make my exit… The rest of you...please, finish the job!
+Claude: Sorry, but it's about time I make my exit... The rest of you...please, finish the job!
 
-Claude: I hate to say it, but it seems we're at a stalemate. Looks like the Golden Deer won't be winning this round…
+Claude: I hate to say it, but it seems we're at a stalemate. Looks like the Golden Deer won't be winning this round...
 
-Dimitri: I fear I cannot fight any longer. I'm sorry, everyone… Please continue onward to victory!
+Dimitri: I fear I cannot fight any longer. I'm sorry, everyone... Please continue onward to victory!
 
-Dimitri: I suppose my training wasn't enough… The Blue Lions have no choice but to retreat.
+Dimitri: I suppose my training wasn't enough... The Blue Lions have no choice but to retreat.
 
 @End
 Seteth: That is the end of this year's Battle of the Eagle and Lion! And the winners are... The Black Eagles!
 Edelgard: Thank you for your hard work, everyone! I daresay that prize is as good as ours.
 
-Seteth: That is the end of this year's Battle of the Eagle and Lion! And the winners are… The Golden Deer!
+Seteth: That is the end of this year's Battle of the Eagle and Lion! And the winners are... The Golden Deer!
 Claude: A victory worthy of a feast! We did so well, there's no way we didn't secure that prize.
 
 Seteth: That is the end of this year's Battle of the Eagle and Lion! And the winners are... The Blue Lions!
@@ -5205,7 +5205,7 @@ Ignatz: Oh yes, very much. I'm from a family of merchants, so I've been able to 
 
 
 
-Lysithea: Ah, Professor. It would seem that a minor lord in Faerghus is raising an army… This poses a threat, obviously. But not one for the Kingdom—for the church. I mean, Faerghus doesn’t even have a king at present. There’s something…unsettling about this army. You had better ensure we’re fully prepared.
+Lysithea: Ah, Professor. It would seem that a minor lord in Faerghus is raising an army... This poses a threat, obviously. But not one for the Kingdom—for the church. I mean, Faerghus doesn’t even have a king at present. There’s something...unsettling about this army. You had better ensure we’re fully prepared.
 
 Lysithea: The monastery grounds are far too spread out. Feels like it takes hours to get from one area to another. And, no, that's not because I'm getting lost. I'm a fully capable, mature person! Who never gets lost.
 
@@ -5563,20 +5563,20 @@ Byleth: What's wrong?
 Byleth: What about the dagger?
 Dimitri: It...no. Never mind. It couldn't possibly be so. Professor, those are the ones we must destroy. They're the bastards who killed my family and Jeralt. For now, let's return to the monastery and regroup. As for the Flame Emperor's dagger...I'll hold on to it for the time being.
 
-Sothis: Day 5 of the Garland Moon. I picked some flowers for her and returned home. The look of joy on her face at the sight of these flowers will be even more beautiful than the flowers themselves… Yeesh! That is enough. His entries from before your birth are full of such romantic blatherings as that. Oh… It must be deeply moving you to hear such things, but now is not the time for whimsy. Someone is here. You do not wish for them to see you in this state. So pull yourself together!
+Sothis: Day 5 of the Garland Moon. I picked some flowers for her and returned home. The look of joy on her face at the sight of these flowers will be even more beautiful than the flowers themselves... Yeesh! That is enough. His entries from before your birth are full of such romantic blatherings as that. Oh... It must be deeply moving you to hear such things, but now is not the time for whimsy. Someone is here. You do not wish for them to see you in this state. So pull yourself together!
 
-Claude: I thought I might find you here, Teach. Not the type to wallow in solitude, eh? That's a relief, let me tell you. So… What were you reading? Is that Jeralt's…
+Claude: I thought I might find you here, Teach. Not the type to wallow in solitude, eh? That's a relief, let me tell you. So... What were you reading? Is that Jeralt's...
 Byleth: Diary.
 Claude: So it is.
 Byleth: Love letter.
-Claude: The contents are certainly bittersweet… But I think it's Jeralt's diary.
+Claude: The contents are certainly bittersweet... But I think it's Jeralt's diary.
 Claude: Hey, maybe this has some entries from when Jeralt left the monastery.
-Claude: Is that so… He was the captain of the knights, but something made him leave the monastery in a hurry. If it has something to do with your birth, knowing what happened may get us closer to knowing what secrets the church is hiding… Teach… Would you mind letting me read that diary? I know how important it is to you, but I'm not asking lightly. Please, allow me to borrow it.
+Claude: Is that so... He was the captain of the knights, but something made him leave the monastery in a hurry. If it has something to do with your birth, knowing what happened may get us closer to knowing what secrets the church is hiding... Teach... Would you mind letting me read that diary? I know how important it is to you, but I'm not asking lightly. Please, allow me to borrow it.
 Byleth: You may borrow it.
 Claude: I'm forever in your debt, Teach. If you'd refused, I would've had to sneak in here in the dead of night. I wasn't looking forward to that prospect. Anyway, let me fill you in on what's been going on lately, and not just as thanks for pointing me to that diary.
 Byleth: I can't allow it.
 Claude: Wait, are you really saying I'm going to have to sneak in here in the dead of night to read it? I know how important it is to you, but I'm not asking lightly. Please, allow me to borrow it. 
-Claude: Rhea dispatched the knights to various locations in a frantic search for the enemy. There's a rumor that she's already secured some information. Something big is gonna happen soon. That has me wondering… If you find out where the enemy is, what will you do about it? If you ask, I… No, scratch that. All of us students would gladly lend a hand. Even if it means going against Rhea's wishes. Don't forget it. Now go. Everyone's worried about you. You'd better show them you're in good spirits.
+Claude: Rhea dispatched the knights to various locations in a frantic search for the enemy. There's a rumor that she's already secured some information. Something big is gonna happen soon. That has me wondering... If you find out where the enemy is, what will you do about it? If you ask, I... No, scratch that. All of us students would gladly lend a hand. Even if it means going against Rhea's wishes. Don't forget it. Now go. Everyone's worried about you. You'd better show them you're in good spirits.
 
 @Conversation 
 Sothis: If you must weep, then weep. I shall be here for you.
@@ -5603,7 +5603,7 @@ Dimitri: I'm so sorry about what happened to Jeralt... No...of course my sorrow 
 
 
 
-Claude: Hi, Teach. I see the storm in your eyes has passed… You're looking much better. I've been reading Jeralt's diary. The baby he mentions… That's you, isn't it? I can't understand about half of what's written on here… But Jeralt really cherished you. That much is clear.
+Claude: Hi, Teach. I see the storm in your eyes has passed... You're looking much better. I've been reading Jeralt's diary. The baby he mentions... That's you, isn't it? I can't understand about half of what's written on here... But Jeralt really cherished you. That much is clear.
 
 
 
@@ -5692,12 +5692,12 @@ Ignatz: I suppose, but... Please, take care, Professor! We can't afford to lose 
 
 
 Lysithea: I'm sure you will pull through this because you're so strong, Professor. Best to stay calm during such tumultuous and upsetting times. We don't know the nature of our enemies. If we underestimate them, anything could happen.
-Byleth: But if we don't defeat them…
+Byleth: But if we don't defeat them...
 Lysithea: I agree they must be defeated, but I also feel we must approach this with prudence.
 Byleth: We should be careful. 
-Lysithea: Yes, I agree. I…don't want to lose you too, Professor.
+Lysithea: Yes, I agree. I...don't want to lose you too, Professor.
 
-Hilda: Professor! People are saying horrible things about Marianne. They're saying she's friends with the bad guys. If I hear someone say that, I'll…
+Hilda: Professor! People are saying horrible things about Marianne. They're saying she's friends with the bad guys. If I hear someone say that, I'll...
 Marianne: Leave it alone, Hilda. It doesn't matter.
 Byleth: Just ignore it. 
 Marianne: Of course. Thank you, Professor.
@@ -5707,12 +5707,12 @@ Hilda: That would be the quickest way to resolve this. Come on Marianne, let's g
 
 
 
-Marianne: I'll say a prayer for Jeralt's soul. There's not much else I can do…
+Marianne: I'll say a prayer for Jeralt's soul. There's not much else I can do...
 
 
 
 
-Hilda: Professor, it seems like you're holding up OK, but… I'm worried about Leonie. She really loved Jeralt. I hope she can bounce back…
+Hilda: Professor, it seems like you're holding up OK, but... I'm worried about Leonie. She really loved Jeralt. I hope she can bounce back...
 
 
 
@@ -5761,36 +5761,36 @@ Edelgard: Professor! I know where the enemy is... Where Solon is. They're in a p
 Byleth: Why in secret?
 Edelgard: She must be afraid that a thirst for revenge will compel you to seek them out. Now that you know, will you give us the order?
 Rhea: No. I will not allow it.
-Seteth: This discovery comes just when the knights are at their busiest. It is all too likely that our foes revealed themselves to lure you out there. They are the ones who took Jeralt from you… I know how you must despise them, but I must ask you to rein in your personal feelings for now.
+Seteth: This discovery comes just when the knights are at their busiest. It is all too likely that our foes revealed themselves to lure you out there. They are the ones who took Jeralt from you... I know how you must despise them, but I must ask you to rein in your personal feelings for now.
 Byleth: You can't stop me.
 Rhea: Please, Professor. Do not act carelessly. I ask that you leave this to us. Losing you so soon after losing Jeralt would be unbearable.
 Edelgard: Lady Rhea, our professor is not acting out of revenge. Sending us out there is the most strategic move we can make. You can't deny it. Most of the knights are still far away. Not only does our professor wield a Hero's Relic, but there is no one here who is more powerful. Seteth and the few remaining knights can't leave the monastery unattended. We have fought under our teacher's command countless times. We are the most effective army here, and we are already prepared for battle. We have no idea what the enemy is plotting. We must act now!
-Rhea: Professor… Do you agree with this strategy?
-Rhea: Understood. I will give you the order. Destroy the enemy that is hiding in the Sealed Forest… You have the protection of the goddess on your side. Whatever happens, you shall overcome.
+Rhea: Professor... Do you agree with this strategy?
+Rhea: Understood. I will give you the order. Destroy the enemy that is hiding in the Sealed Forest... You have the protection of the goddess on your side. Whatever happens, you shall overcome.
 Edelgard: Let's go, my teacher. Whatever happens, do not lose your conviction out there.
 
 Dimitri: Professor, have you heard? They say we've finally located the enemy. It seems they're hiding in the sealed forest, right near the monastery. Lady Rhea has summoned all of the knights to return and take them down. And all of this is being done in secret. Why? To keep us...no, to keep you in the dark.
 Byleth: Why the secrecy?
 Dimitri: Lady Rhea likely assumed you wouldn't be able to stop yourself from confronting the enemy if you knew their location. But that is not how this story ends, is it? Professor... We're at the ready. Order us to depart, and we'll fight at your side.
 Rhea: No. I will not allow it.
-Seteth: This discovery comes just when the knights are at their busiest. It is all too likely that our foes revealed themselves to lure you out there. They are the ones who took Jeralt from you… I know how you must despise them, but I must ask you to rein in your personal feelings for now.
+Seteth: This discovery comes just when the knights are at their busiest. It is all too likely that our foes revealed themselves to lure you out there. They are the ones who took Jeralt from you... I know how you must despise them, but I must ask you to rein in your personal feelings for now.
 Byleth: You can't stop me.
 Rhea: Please, Professor. Do not act carelessly. I ask that you leave this to us. Losing you so soon after losing Jeralt would be unbearable.
 Dimitri: Lady Rhea, Seteth. Please, try to understand our reasoning before you refuse. With most of the knights still far away, we cannot afford for you two to leave the monastery undefended. The enemy's strength is yet unknown. The only warriors who likely stand a chance are those who wield Relics. With all that in mind, it's obvious who should be dispatched, is it not? If the professor leaves, we will go as well. We've already made preparations and are ready to depart at a moment's notice. Surely you must see that we cannot wait any longer for the knights to gather. Please... Do what must be done and give us the order.
-Rhea: Professor… Do you agree with this strategy?
-Rhea: Understood. I will give you the order. Destroy the enemy that is hiding in the Sealed Forest… You have the protection of the goddess on your side. Whatever happens, you shall overcome.
+Rhea: Professor... Do you agree with this strategy?
+Rhea: Understood. I will give you the order. Destroy the enemy that is hiding in the Sealed Forest... You have the protection of the goddess on your side. Whatever happens, you shall overcome.
 Dimitri: No matter what enemy we face, we will not fail. I promise you that.
 
-Claude: Teach! Tomas… I mean…Solon and his lackeys. Their whereabouts have been discovered. Apparently they're lurking in the Sealed Forest, not too far from the monastery. Rhea has called back all of the knights who were out searching to round them up. Seems like it could take some time for them to make it back here…but she didn't ask for our help.
+Claude: Teach! Tomas... I mean...Solon and his lackeys. Their whereabouts have been discovered. Apparently they're lurking in the Sealed Forest, not too far from the monastery. Rhea has called back all of the knights who were out searching to round them up. Seems like it could take some time for them to make it back here...but she didn't ask for our help.
 Byleth: Why keep it a secret?
 Claude: Perhaps to prevent you from running headfirst toward revenge? It's only natural that you would leap at the chance for it. Anyone would.
 Rhea: No. I will not allow it.
-Seteth: This discovery comes just when the knights are at their busiest. It is all too likely that our foes revealed themselves to lure you out there. They are the ones who took Jeralt from you… I know how you must despise them, but I must ask you to rein in your personal feelings for now.
+Seteth: This discovery comes just when the knights are at their busiest. It is all too likely that our foes revealed themselves to lure you out there. They are the ones who took Jeralt from you... I know how you must despise them, but I must ask you to rein in your personal feelings for now.
 Byleth: You can't stop me.
 Rhea: Please, Professor. Do not act carelessly. I ask that you leave this to us. Losing you so soon after losing Jeralt would be unbearable.
 Claude: Listen, Rhea. Erm, Lady Rhea. This move is the most strategic. The military strategy I'm devising will soon echo across Fódlan's history. I'm sure of it. Just think about it. Most of the knights are still far away, and we can't afford to have Seteth and friends abandon the monastery. So the only person who can take action now also happens to be our best commander. It's Teach, and wherever Teach leads, we'll follow. And since you've taught us that this sort of thing is always a possibility, we're already prepared for battle. We can buy the knights more time. Not for revenge, but for a defensive attack on behalf of the monastery.
-Rhea: Professor… Do you agree with this strategy?
-Rhea: Understood. I will give you the order. Destroy the enemy that is hiding in the Sealed Forest… You have the protection of the goddess on your side. Whatever happens, you shall overcome.
+Rhea: Professor... Do you agree with this strategy?
+Rhea: Understood. I will give you the order. Destroy the enemy that is hiding in the Sealed Forest... You have the protection of the goddess on your side. Whatever happens, you shall overcome.
 Claude: We have our orders, Teach. Now all that's left is to pull out a miracle.
 ^end
 
@@ -5825,14 +5825,14 @@ Dimitri: Yes... No matter who they may be...
 
 Claude: The Sealed Forest is up ahead. Visibility is awful there, so everyone needs to be extra cautious.
 Hilda: You seem to know a lot about it. It is just a forest, isn't it?
-Claude: Have you been there too? Oh… Never mind. Listen, just like I told the archbishop, this is not a war of vengeance. It's a riddle, so to speak. Those guys are undoubtedly planning something terrible. We need some kind of clue as to what. The attack on the Holy Mausoleum. That foul business in Remire. The Demonic Beasts at the chapel… It can't go on. We need to figure out their objective and stop them from achieving it. That's our mission.
+Claude: Have you been there too? Oh... Never mind. Listen, just like I told the archbishop, this is not a war of vengeance. It's a riddle, so to speak. Those guys are undoubtedly planning something terrible. We need some kind of clue as to what. The attack on the Holy Mausoleum. That foul business in Remire. The Demonic Beasts at the chapel... It can't go on. We need to figure out their objective and stop them from achieving it. That's our mission.
 Lorenz: So, we have our mission now. We had better not fail.
 Lysithea: It is a difficult task, but we will succeed.
 Flayn: It is time to repay the kindness of the professor who saved my life!
 Ignatz: An enemy whose objective you don't understand is a frightening prospect.
 Raphael: We're gonna destroy 'em! It's our mission!
 Leonie: I will have my revenge, whatever it takes. On that, I will never budge.
-Marianne: Leonie… You will have what you seek.
+Marianne: Leonie... You will have what you seek.
 Claude: I'll admit, vengeance sounds pretty nice. But don't forget that we're here for information. Luckily, we can easily find what we're looking for while getting revenge for Jeralt. Right, Teach?
 ^end
 
@@ -5894,21 +5894,21 @@ Ferdinand: I cannot help but agree with her this once. Even if our professor is 
 Solon: I will not forgive such arrogance. If you prefer it so, you shall also be added to the ranks of the dead!
 
 Dimitri: What was that sorcery? What happened to our professor?!
-Solon: They were swallowed by the mystical darkness of the forbidden spell. An eternity wandering in a void of darkness, never to return to this world… To think we almost had the Sword of the Creator…
+Solon: They were swallowed by the mystical darkness of the forbidden spell. An eternity wandering in a void of darkness, never to return to this world... To think we almost had the Sword of the Creator...
 Annette: That's a lie! There's no way the professor is really dead!
 Flayn: That's right! Our professor is no ordinary human!
 Dedue: I do not believe our professor has fallen.
-Solon: It is possible that death has yet to find your friend. But there are worse things than death. Drifting through the darkness with no chance to escape…Overwhelmed with hopelessness… It must be torturous.
+Solon: It is possible that death has yet to find your friend. But there are worse things than death. Drifting through the darkness with no chance to escape...Overwhelmed with hopelessness... It must be torturous.
 Dedue: We cannot abandon hope, Your Highness. Our professor lives. I know it.
 Dimitri: You're right. We will save the professor. But first, let's destroy this fiend! I'll slice you into a thousand pieces as we watch with horror... You will know true pain before I finally allow you to die!
 Solon: How trite. But if you wish for pain, I shall oblige. If you prefer it so, you shall also be added to the ranks of the dead!
 
 Hilda: Wh-what was that? Where did you go, Professor?!
-Solon: They were swallowed by the mystical darkness of the forbidden spell. An eternity wandering in a void of darkness, never to return to this world… To think we almost had the Sword of the Creator…
+Solon: They were swallowed by the mystical darkness of the forbidden spell. An eternity wandering in a void of darkness, never to return to this world... To think we almost had the Sword of the Creator...
 Lysithea: I don't believe anything you say! Our professor is still alive!
 Flayn: That's right! Our professor is no ordinary human!
 Claude: I refuse to believe that Teach would die in a place like this!
-Solon: It is possible that death has yet to find your friend. But there are worse things than death. Drifting through the darkness with no chance to escape…Overwhelmed with hopelessness… It must be torturous.
+Solon: It is possible that death has yet to find your friend. But there are worse things than death. Drifting through the darkness with no chance to escape...Overwhelmed with hopelessness... It must be torturous.
 Claude: Hey, all I hear is good news. Teach is still alive. And if that's true, then there's only one thing to do. Defeat you while we wait for Teach's triumphant return!
 Leonie: Prepare yourself. We will avenge our leader here and now!
 Solon: How trite. But if you wish for pain, I shall oblige. If you prefer it so, you shall also be added to the ranks of the dead!
@@ -6004,13 +6004,13 @@ Dimitri: Sorry, Professor, but I have no choice but to carry you back.
 
 Claude: Teach! We won! I'll be honest—when I lost sight of you, I broke into a cold sweat. But Jeralt's killer is dead. All's well that ends well.
 Byleth: That's true.
-Byleth: True…
+Byleth: True...
 Claude: You're kidding, right? I understood putting it off while we were in battle, but now that it's over, just go ahead and spit it out. That hair. Those eyes. That unfathomable power. What happened out there?
-Byleth: I will tell you…
-Claude: You mean to tell me…that an entity who claims to be the goddess was living inside your mind? And it's been that way since you were a baby? And this goddess entrusted all of her goddess-like power to you and then vanished…
-Claude: It's a difficult story to swallow, Teach. But the way you look now… I guess I've got no choice but to believe it. How could something like that happen? There must be a clue in Jeralt's diary. If you believe the diary, there's a high possibility that Rhea did something to you when you were born. That's likely when all this began. What in the world happened to you as a baby? And what was Rhea after?
-Claude: Teach! What's the matter?! Did you trip or… Wait. Are you sleeping? This must be an effect of the goddess's power. I wonder if Teach's body can handle the strain…
-Claude: Think, Claude. What now? Should I carry him on my back? Easier said than done…
+Byleth: I will tell you...
+Claude: You mean to tell me...that an entity who claims to be the goddess was living inside your mind? And it's been that way since you were a baby? And this goddess entrusted all of her goddess-like power to you and then vanished...
+Claude: It's a difficult story to swallow, Teach. But the way you look now... I guess I've got no choice but to believe it. How could something like that happen? There must be a clue in Jeralt's diary. If you believe the diary, there's a high possibility that Rhea did something to you when you were born. That's likely when all this began. What in the world happened to you as a baby? And what was Rhea after?
+Claude: Teach! What's the matter?! Did you trip or... Wait. Are you sleeping? This must be an effect of the goddess's power. I wonder if Teach's body can handle the strain...
+Claude: Think, Claude. What now? Should I carry him on my back? Easier said than done...
 ^end
 
 Rhea:  In time's flow...see the glow of flames ever burning bright... On the swift river's drift, broken memories alight...
@@ -6351,11 +6351,11 @@ Edelgard: Thank you for leading us, Professor. Though I suppose there was no way
 
 Dimitri: According to our information, there is a back road to the west. Let's split up and approach from the west and the front. If we advance cleverly, we attack from both sides and gain the advantage. I'll leave the rest to you, Professor. But before all else, we'll need to cross the bridge.
 
-Dimitri: I know they are just thieves, but this never gets easier for me…
+Dimitri: I know they are just thieves, but this never gets easier for me...
 
 Felix: Finished already? I was hoping for more of a challenge.
 
-Ashe: If I’d hesitated… that would’ve been me.
+Ashe: If I’d hesitated... that would’ve been me.
 
 Sylvain: I had to do it. Don’t hate me, please.
 
@@ -6363,9 +6363,9 @@ Ingrid: I can’t relax here. We need to prepare for our next battle!
 
 Annette: I did it! See? I’m a great fighter!
 
-Mercedes: I hope the goddess blesses them to rest in peace…
+Mercedes: I hope the goddess blesses them to rest in peace...
 
-Dedue: Still whole and sound, I hope…
+Dedue: Still whole and sound, I hope...
 
 Dimitri: We have defeated the thieves. We'll follow the knights' instructions for what to do next. You led us well, Professor.
 
@@ -6670,14 +6670,14 @@ Ashe: There's going to be a big investigation into the Western Church soon. I wi
 
 Sylvain: I'm so sorry my older brother is causing you all this hassle, Professor. Don't misunderstand, I always thought he was a piece of garbage, but I never thought he'd steal the Relic. I can't wait to see his face when he realizes I'm in the group that was sent to take him down.
 
-Sylvain: I can't believe my own brother is the leader of the bandits. House Gautier is my true home…and his. Please, Professor. He really is one of the worst people I've ever known, but we still… We share the same blood. We're still family.
+Sylvain: I can't believe my own brother is the leader of the bandits. House Gautier is my true home...and his. Please, Professor. He really is one of the worst people I've ever known, but we still... We share the same blood. We're still family.
 
 
 
 
 Mercedes: Isn't it strange? Saint Seiros's body was missing from her coffin, but they found a sword in its place... Do you think she moved from her coffin and left the sword behind?
 
-Mercedes: Professor! You looked like a natural wielding the Sword of the Creator! It's strange though, isn't it? The last owner of the sword was Nemesis, but I thought he didn't have any descendants…
+Mercedes: Professor! You looked like a natural wielding the Sword of the Creator! It's strange though, isn't it? The last owner of the sword was Nemesis, but I thought he didn't have any descendants...
 
 
 
@@ -7248,7 +7248,7 @@ Annette: I just thought I'd be more alert if I had something sweet in my tummy. 
 
 
 
-Annette: Have you heard? Rumor has it that death himself has been appearing in Garreg Mach. They say he appears every night and kidnaps folks. I wonder what happens to them…
+Annette: Have you heard? Rumor has it that death himself has been appearing in Garreg Mach. They say he appears every night and kidnaps folks. I wonder what happens to them...
 
 
 
@@ -7270,11 +7270,11 @@ Byleth: I don't think so.
 Raphael: You don't think so? Then dinner's on you if it turns out I was right!
 
 
-Ignatz: The monastery's so big. How can we narrow down the list of possible targets? The only places I can think of are the vault and the library, and… I guess that's it.
+Ignatz: The monastery's so big. How can we narrow down the list of possible targets? The only places I can think of are the vault and the library, and... I guess that's it.
 
 
 
-Ignatz: With the whole monastery preparing for the Goddess's Rite of Rebirth this month, it feels like everyone's a little on edge…
+Ignatz: With the whole monastery preparing for the Goddess's Rite of Rebirth this month, it feels like everyone's a little on edge...
 
 
 
@@ -7625,5 +7625,5 @@ Byleth: Cat?
 Sothis: What is wrong with that head of yours? Of course it's not a cat! Her name is Catherine.
 Sothis: The Sword of the Creator differs from her Thunderbrand in one key way. It bears a hole...where something should have been, but is no more. I despise not knowing what is going on! It...it frightens me. And yet... I place my trust in you. I must. Whatever comes to pass...please swear to cut a path that is your own.
 
-Claude: The Sword of the Creator… Pulled right from the legends. I finally found it, and yet it ended up in Teach's hands. Could I even use it anyway? Damn it. There's no telling what's to come…
+Claude: The Sword of the Creator... Pulled right from the legends. I finally found it, and yet it ended up in Teach's hands. Could I even use it anyway? Damn it. There's no telling what's to come...
 /***EOF***/

@@ -23,7 +23,7 @@ Samson: I'm Samson. I used to be famous as a gladiator. That's behind me now. I'
 Xane: Hey there, Prince! Thanks for saving me. The name's Xane. I come from a faraway land. My people can transform into anybody. Dolhr found out and demanded I join them! I refused. I'd never help those villains! I'd be happy to help you fight them though!
 
 @End 
-Marth: Soldiers of Altea, and everyone who has lent us your strength…you have my gratitude. Thanks to you, we have finally taken our country back from Dolhr. Many enemies still remain inside the castle, however! Do not drop your guard!
+Marth: Soldiers of Altea, and everyone who has lent us your strength...you have my gratitude. Thanks to you, we have finally taken our country back from Dolhr. Many enemies still remain inside the castle, however! Do not drop your guard!
 
 /***EOF***/
 @Intro 
@@ -245,7 +245,7 @@ Nyna: I am overjoyed to see it! Finally, I have made it home. Many of our warrio
 Marth: Of course. We will storm the palace before enemy reinforcements arrive!
 /***EOF***/
 @Opening
-Maria and Minerva's home, Macedon, is the birthplace of wyverns. It was known as a bountiful land of peace. That changed when Prince Michalis aligned his goals with those of Dolhr… against Minerva's wishes. He turned Macedon's wyvern knights to war, striking fear into hearts across many lands… As Marth and his allies approach, the amassed wyverns blot out the sun.
+Maria and Minerva's home, Macedon, is the birthplace of wyverns. It was known as a bountiful land of peace. That changed when Prince Michalis aligned his goals with those of Dolhr... against Minerva's wishes. He turned Macedon's wyvern knights to war, striking fear into hearts across many lands... As Marth and his allies approach, the amassed wyverns blot out the sun.
 
 @Visit 
 Man: A great sage lives in the village to the north. He keeps to himself though! I've never met him. Nobody has!
@@ -265,18 +265,18 @@ Marth: Malledus...in order to retrieve Falchion and save my sister, we must step
 Khadein, city of magic... This hallowed place is now under Gharnef's control. No warrior, no matter how brave, can stand up to the spells of Khadein. Though they may try, one by one...they will inevitably fall. Has this place truly sunk into shadow?
 
 @Visit 
-Man: You can't hope to fight Gharnef! His evil magic Imhullu protects him. Only Gotoh's Starlight can break his evil spell… But you didn't hear this from me! Get out of here!
+Man: You can't hope to fight Gharnef! His evil magic Imhullu protects him. Only Gotoh's Starlight can break his evil spell... But you didn't hear this from me! Get out of here!
 
 Young man: Strong armor is no use against magic. Have a curate use the spell Barrier instead!
 
 @Boss 
-Gharnef: You must not value your life very much… I will show you the true terror of the darkest of magic, Imhullu!
+Gharnef: You must not value your life very much... I will show you the true terror of the darkest of magic, Imhullu!
 
 @Battle 
 Gharnef: I don't have time to play with you, little prince! If you want Falchion, you'll have to come to Thabes!
 
 @End 
-Gotoh: Can you hear me, Prince Marth? I am the sage Gotoh. Through magic, I have reached out to you. Gharnef is too much for you. Listen to me if you want to defeat him! Gharnef and Miloah were both my students. But Gharnef stole Imhullu from me and disappeared. I believe he has Falchion as well… With both Falchion and Imhullu, he fears nothing, not even Dolhr. He aims to rule the world! As long as he wields Imhullu, he cannot be challenged. However, there is one way to defeat him. Bring me the Lightsphere and the Starsphere. If you can do this, I will grant you the one and only spell that can defeat him, Starlight!
+Gotoh: Can you hear me, Prince Marth? I am the sage Gotoh. Through magic, I have reached out to you. Gharnef is too much for you. Listen to me if you want to defeat him! Gharnef and Miloah were both my students. But Gharnef stole Imhullu from me and disappeared. I believe he has Falchion as well... With both Falchion and Imhullu, he fears nothing, not even Dolhr. He aims to rule the world! As long as he wields Imhullu, he cannot be challenged. However, there is one way to defeat him. Bring me the Lightsphere and the Starsphere. If you can do this, I will grant you the one and only spell that can defeat him, Starlight!
 
 
 /***EOF***/
@@ -297,7 +297,7 @@ Nyna: You have my gratitude, Prince. It is all thanks to you that I was able to 
 To obtain the Lightsphere and Starsphere for Gotoh, Marth and his army must enter Raman. But waiting for them at the Chiasmir Bridge is Grust's fearless Sable Order of Knights. These powerful knights block Marth's path forward. The stage is set for battle!
 
 @Visit 
-Old man: There are three orbs of great power secreted with the Fane of Raman. Light, star, and earth… Only the one who comes to hold these orbs can understand their true power!
+Old man: There are three orbs of great power secreted with the Fane of Raman. Light, star, and earth... Only the one who comes to hold these orbs can understand their true power!
 
 @Recruit-Talk 
 %Marth,Est
@@ -311,7 +311,7 @@ Marth: I do not wish to provoke her wrath... but we are in need of those orbs! P
 Gharnef: So you've finally arrived, young prince... I have been waiting for you! Yes, I have waited...and I am ready to strike! Once you are dead...this world is mine! Hee hee hee! And I need not fear Medeus at all! With Falchion and Imhullu in my grasp, none can oppose me! Not even that dragon! You have journeyed far to meet me in combat... But can you find the real me? If you cannot... Falchion will never be yours!
 
 @Boss 
-Gharnef: You must not value your life very much… I will show you the true terror of the darkest of magic, Imhullu!
+Gharnef: You must not value your life very much... I will show you the true terror of the darkest of magic, Imhullu!
 
 Gharnef: Gah! Starlight... Too powerful... I am undone! Know this, young prince... You may have the strength to best me... But Medeus? Ha! I will await you in hell!
 
@@ -364,9 +364,9 @@ Wendell: Prince! I am Wendell, a bishop of Khadein. We are a peaceful people. Bu
 Merric: Oh! Master Wendell? Yes, it's you!
 Wendell: Ah, Merric! How have you been, lad? You certainly look well.
 Merric: I was able to find Prince Marth of Altea! And I have joined his army as well. We are fighting the tyranny of Dolhr! Why are you here, Master?
-Wendell: How can I say this… Sadly, Khadein has fallen into darkness. A fiend called Gharnef has seized control. He has turned the city toward the shadow… I could not bear to serve him, so I fled on my own.
-Merric: What awful news! Master, please… Consider lending us your strength. If Gharnef serves Dolhr, he is our enemy! We will find a way to take Khadein back. I know the prince would be overjoyed to have so great a bishop as you as an ally, Master.
-Wendell: Hmm… Though I deplore violence, I cannot see another path… Very well, Merric. I will join your fight. Please let the prince know I am at his service.
+Wendell: How can I say this... Sadly, Khadein has fallen into darkness. A fiend called Gharnef has seized control. He has turned the city toward the shadow... I could not bear to serve him, so I fled on my own.
+Merric: What awful news! Master, please... Consider lending us your strength. If Gharnef serves Dolhr, he is our enemy! We will find a way to take Khadein back. I know the prince would be overjoyed to have so great a bishop as you as an ally, Master.
+Wendell: Hmm... Though I deplore violence, I cannot see another path... Very well, Merric. I will join your fight. Please let the prince know I am at his service.
 
 @End 
 Aurelis King: Well met, Prince Marth! Princess Nyna has taken refuge in a fortress, but you will see her soon. Many enemies await you in the castle. You face many dangers. Do be careful.
@@ -429,10 +429,10 @@ Marth: Princess Nyna... I am sorry. I could not do what you asked.
 Nyna: Marth... It is I who should apologize for putting you through this. In truth, since the moment I entrusted the Fire Emblem to you, I knew this would happen. I saw that once the royal family was restored by the Fire Emblem, I would lose something precious to me. Our land has a legend of the emblem, Artemis's Curse, that foretold this...
 /***EOF***/
 @Opening 
-Marth and his companions hurry to Altea but are met by Grust's mighty regiment of ballisticians. This fearsome mechanical force is known as the Wooden Cavalry. Huge metal-clad boxes stalk the battlefield, clicking and clanking… Can Marth rise to meet this challenge?
+Marth and his companions hurry to Altea but are met by Grust's mighty regiment of ballisticians. This fearsome mechanical force is known as the Wooden Cavalry. Huge metal-clad boxes stalk the battlefield, clicking and clanking... Can Marth rise to meet this challenge?
 
 @Visit
-Man: We were part of Archanea's fighting forces. We were defeated by General Camus, however… Grust has taken control. I hope we can be free of them now!
+Man: We were part of Archanea's fighting forces. We were defeated by General Camus, however... Grust has taken control. I hope we can be free of them now!
 Man: Thunderbolt is the only weapon effective against ballistae. If you want to attack, you will have to draw close.
 
 @Recruit-Visit
@@ -453,7 +453,7 @@ Astram: I can't help but notice how you've matured while we were apart...
 Grigas: So you dare to show your face! You will soon see the power of my pachyderm!
 
 @End 
-Grigas: To think you could defeat Grust's ballisticians so easily. You fought well, Prince Marth. But beware! You will soon face General Camus and his Sable Knights! They are the strongest warriors in the world… You will be reduced to a whimpering child!
+Grigas: To think you could defeat Grust's ballisticians so easily. You fought well, Prince Marth. But beware! You will soon face General Camus and his Sable Knights! They are the strongest warriors in the world... You will be reduced to a whimpering child!
 /***EOF***/
 @Opening 
 Dolhr... A land veiled in mystery, the kingdom of manaketes. Our story began with the revival of Medeus, the Earth Dragon, here in this realm... The land of Archanea has a long history of war, of tragic tales that are born and then fade... As time passes on, Medeus's ambition for a world controlled by manaketes is threatened. Marth and his army at last draw near to the end of their long march...
@@ -465,14 +465,14 @@ Old man: A temple sits atop the mountain to the south. Deep inside, a central pi
 Medeus: Princeling! Do not think you have yet won! Though you dare approach me, I will not surrender! You will bear witness to the true power of the Earth Dragons... Yes... Come to me! I will cast you into the deepest pit of hell!
 /***EOF***/
 @Opening 
-Gra had always been a staunch ally to Altea. But as Altea fought Grust, Gra backstabbed Altea. Altea's army was taken by surprise. King Cornelius and Falchion disappeared in the ensuing chaos. Two years have elapsed since that tragedy… Marth has finally arrived at Gra Bastion to confront the treacherous King Jiol, who has barricaded himself in.
+Gra had always been a staunch ally to Altea. But as Altea fought Grust, Gra backstabbed Altea. Altea's army was taken by surprise. King Cornelius and Falchion disappeared in the ensuing chaos. Two years have elapsed since that tragedy... Marth has finally arrived at Gra Bastion to confront the treacherous King Jiol, who has barricaded himself in.
 
 @Visit 
-Young man: They say that shops will all give you half off if you have a silver card… Sounds too good to be true if you ask me!
+Young man: They say that shops will all give you half off if you have a silver card... Sounds too good to be true if you ask me!
 
-Young man: I heard that once you reach LV.10, you can change jobs! Cavaliers can become paladins, mercenaries can become heroes… There's more but I forgot!
+Young man: I heard that once you reach LV.10, you can change jobs! Cavaliers can become paladins, mercenaries can become heroes... There's more but I forgot!
 
-???: Are you Prince Marth of Altea? I have a request of you. This tome belongs to one Bishop Boah of Archanea. Heimler of Grust got hold of it. It has come to be in my possession. Please return it to the bishop for me. One more thing… Watch over Princess Nyna. Your attention to this would put my mind at ease. I shall take my leave of you. We will meet again…
+???: Are you Prince Marth of Altea? I have a request of you. This tome belongs to one Bishop Boah of Archanea. Heimler of Grust got hold of it. It has come to be in my possession. Please return it to the bishop for me. One more thing... Watch over Princess Nyna. Your attention to this would put my mind at ease. I shall take my leave of you. We will meet again...
 
 @Recruit-Talk 
 %Marth,Palla 
@@ -485,8 +485,8 @@ Catria: Hello, Prince Marth. It has been a while. Do you remember me? I am Catri
 Jiol: You Altean rabble! I should have ground you into the dust when I had the chance!
 
 @End 
-Malledus: We searched every inch of the castle but could not find the blade of light… As the rumors suggest, Gharnef must have taken it to Khadein.
-Marth: I see... Without Falchion, we cannot hope to defeat Medeus. Altea is so close…but we must go to Khadein instead. Disappointing, but I have to tell the troops.
+Malledus: We searched every inch of the castle but could not find the blade of light... As the rumors suggest, Gharnef must have taken it to Khadein.
+Marth: I see... Without Falchion, we cannot hope to defeat Medeus. Altea is so close...but we must go to Khadein instead. Disappointing, but I have to tell the troops.
 /***EOF***/
 @Opening 
 Heeding Catria's request, Marth draws close to Castle Deil in order to save Maria. However, a large force from Grust appears before him. Hurry, Marth! Do not waste a moment. Maria is waiting! Take the castle now!
@@ -513,7 +513,7 @@ Emereus: The rebels have made it into the castle? Impossible! Grr... Well, we wi
 
 @Recruit-Talk
 %Marth,Rickard
-Rickard: Thanks for saving me! Hey, wait a second… Aren't you the prince of Altea? My name is Rickard. I am but a humble thief. I came to loot this castle but ended up getting caught. Since you helped me out, I'll return the favor!
+Rickard: Thanks for saving me! Hey, wait a second... Aren't you the prince of Altea? My name is Rickard. I am but a humble thief. I came to loot this castle but ended up getting caught. Since you helped me out, I'll return the favor!
 
 %Julian,Rickard
 Julian: Rickard? It can't be! What are you doing here?
@@ -529,16 +529,16 @@ Marth: Of course, Princess Nyna. Altea's allegiance to Archanea is steadfast. Mo
 Nyna: I thank you, Marth. I will now entrust you with this treasure... The Fire Emblem is given to one with the strength to save the world when my royal family cannot. With this, you will be able to open chests containing invaluable treasures. The battles you face will test your every skill. But fight as hard as you can. Return light to this world!
 /***EOF***/
 @Intro 
-Morzas: Kee hee hee… So, Marth! You've come crawling back to your homeland… just to die! I am Lord Medeus's most formidable servant… Morzas of Basilisk! You're too late! TOO LATE! Your mother, Liza, has already breathed her last! And your sister, Elice, is in Gharnef's hands now! It's all my doing! If that angers you, why don't you see if you can defeat me? Kee hee hee!
+Morzas: Kee hee hee... So, Marth! You've come crawling back to your homeland... just to die! I am Lord Medeus's most formidable servant... Morzas of Basilisk! You're too late! TOO LATE! Your mother, Liza, has already breathed her last! And your sister, Elice, is in Gharnef's hands now! It's all my doing! If that angers you, why don't you see if you can defeat me? Kee hee hee!
 
 @Visit 
-Young man: Psst… If you have a VIP card, you can access a members-only shop. Its location is a secret. Even I don't know it!
+Young man: Psst... If you have a VIP card, you can access a members-only shop. Its location is a secret. Even I don't know it!
 
 @Boss 
 Morzas: Basilisk! I call upon your power! Burn these arrogant humans to ash!
 
 @End 
-Malledus: Well done, Prince! With this, Altea has been liberated. The people are so happy… Just listen to all that cheering! Do you hear them? "Glory to Marth, the prince of light!"
+Malledus: Well done, Prince! With this, Altea has been liberated. The people are so happy... Just listen to all that cheering! Do you hear them? "Glory to Marth, the prince of light!"
 /***EOF***/
 @Intro 
 Gharnef: Tiki... princess of the long-departed Naga clan... Incinerate all those who would disgrace the Fane of Raman! Don't forget that I saved you from Medeus after Bantu abandoned you!

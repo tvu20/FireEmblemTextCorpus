@@ -53,13 +53,13 @@ One thing could always be said about Galder Harbor, the mainland port nearest Ta
 Ogma: Prince Marth, I am Ogma, a mercenary of Talys. The king has bid me and my three men join your army. Cavalry has arrived from the west, flying Grust’s standard. They mean to take your life, sire. Be careful.
 
 @Visit 
-Young Man: A pirate callin’ himself Darros wants to talk to your prince. Says he’s washed his hands of pillagin’ and plunderin’ and wants to fight for the good of all. Hah! Right… And I’m a farmer who’s been sworn off rain…
+Young Man: A pirate callin’ himself Darros wants to talk to your prince. Says he’s washed his hands of pillagin’ and plunderin’ and wants to fight for the good of all. Hah! Right... And I’m a farmer who’s been sworn off rain...
 
 Young Man: Curates gain experience whenever they use their staves.
 
 Middle-Aged Man: Hammers smash right through heavy armor. You should pick one up, when you get the chance.
 
-Old Man: Oh! Mighty prince of Altea! Please, will you save Sister Lena? She’s gone up into the Ghoul’s Teeth to tend to the sick there. We warned her, I swear we did… Lena is our angel. If something befell her, I- No, I won’t think of it. Take this gold: we’ve 5000 pieces. Just promise you’ll use it to bring her home to us unharmed.
+Old Man: Oh! Mighty prince of Altea! Please, will you save Sister Lena? She’s gone up into the Ghoul’s Teeth to tend to the sick there. We warned her, I swear we did... Lena is our angel. If something befell her, I- No, I won’t think of it. Take this gold: we’ve 5000 pieces. Just promise you’ll use it to bring her home to us unharmed.
 
 @Recruit-Visit
 Darros: Ahoy, Prince Marth, I be Darros, a simple man o’ the sea. I’ve had me fill o’ the piratin’ life, and now I be lookin’ t’start anew. What say ye? Make me yer matey, and I swear t’pull me load.
@@ -67,9 +67,9 @@ Darros: Ahoy, Prince Marth, I be Darros, a simple man o’ the sea. I’ve had m
 @Recruit-Talk
 %Caeda,Castor
 Caeda: Castor?! It is you, isn’t it? Must even good men like you betray Talys now?
-Castor: Princess Caeda? Oh…I’m sorry, but me mother’s sick, and the medicine don’t buy itself, see…
-Caeda: So you agreed to fight for the pirates in exchange for coin…All right then. If it’s gold you need, take mine. Here, this is all I have. Take it, and go to your mother’s side.
-Castor: But Princess…I betrayed you! …Ach, I’ve been a fool! Forgive me, Princess. Let me fight for you now. Me life is yours.
+Castor: Princess Caeda? Oh...I’m sorry, but me mother’s sick, and the medicine don’t buy itself, see...
+Caeda: So you agreed to fight for the pirates in exchange for coin...All right then. If it’s gold you need, take mine. Here, this is all I have. Take it, and go to your mother’s side.
+Castor: But Princess...I betrayed you! ...Ach, I’ve been a fool! Forgive me, Princess. Let me fight for you now. Me life is yours.
 
 @Battle-Talk
 %Caeda,Ogma
@@ -90,7 +90,7 @@ Caeda: Fair enough. Thank you, Ogma. You're very kind.
 %Castor,Marth
 Castor: Prince Marth, I am Castor of Talys. I wish to add my bow to your strength.
 Marth: Of course. Caeda told me about you.
-Castor: You know, she’s always been very kind to me, sire, even before I left Talys. And look how I’ve repaid her…
+Castor: You know, she’s always been very kind to me, sire, even before I left Talys. And look how I’ve repaid her...
 Marth: Castor, you can still show her your heart is true. Let the battles to come be what defines you!
 
 @Boss
@@ -99,7 +99,7 @@ Gomer: The gall of ye, defyin' me crew! I'll put an axe square between yer eyes!
 Gomer: Augh... Fiends, ye be...
 
 @End 
-Villager: You have our gratitude, sire, for finally chasin’ those pirates away. Now, as I hear it, you plan to march on to Aurelis…That’ll take you right up through the Ghoul’s Teeth. With all due respect, sire, you’re taking a great risk crossin’ those mountains that’s Soothsire territory. The Soothsires are fearsome bandits, always raidin’ the villages and harryin’ what travelers dare pass by. And the swordsman with ’em- goes by the name o’ Navarre- he’s a terror with a blade, so they say. If you go up there, keep your wits about you- or you won’t come back down.
+Villager: You have our gratitude, sire, for finally chasin’ those pirates away. Now, as I hear it, you plan to march on to Aurelis...That’ll take you right up through the Ghoul’s Teeth. With all due respect, sire, you’re taking a great risk crossin’ those mountains that’s Soothsire territory. The Soothsires are fearsome bandits, always raidin’ the villages and harryin’ what travelers dare pass by. And the swordsman with ’em- goes by the name o’ Navarre- he’s a terror with a blade, so they say. If you go up there, keep your wits about you- or you won’t come back down.
 
 /***EOF***/
 @Opening
@@ -183,10 +183,10 @@ Marth: Monster? You’re a giant among men, to be sure, but a hero as well! Any 
 Ymir: Then count me in! Let’s see how many more armies break themselves against me, eh!
 /***EOF***/
 @Opening
-After a hard battle, Marth’s Altean Army- for it had grown to be called such- set foot at last in the kingdom of Aurelis. However, joining his might to that of the Aurelians would have to wait. As Marth descended into the vast green lea separating his troops from theirs, he heard a terrible sound: the galloping of enemy destriers, far away…then closer… Then far too close.
+After a hard battle, Marth’s Altean Army- for it had grown to be called such- set foot at last in the kingdom of Aurelis. However, joining his might to that of the Aurelians would have to wait. As Marth descended into the vast green lea separating his troops from theirs, he heard a terrible sound: the galloping of enemy destriers, far away...then closer... Then far too close.
 
 @Intro 
-Malledus: Aurelis, at last…The enemy will have sent their forces to meet us.
+Malledus: Aurelis, at last...The enemy will have sent their forces to meet us.
 Marth: Grust, Dolhr, Gra..We’re up against their standing armies, and we must brace ourselves for it.
 Malledus: Sire, I believe it prudent that we start taking time to prepare our troops before each battle. We should select the warriors best suited for the situation and outfit them with the right weapons and items accordingly.
 Marth: All right, that’s sound advice- I believe I’ll take it.
@@ -200,7 +200,7 @@ Middle-aged Man:“When facing armored knights or generals, you’ll want to arm
 
 Young Man: General Bentheon who guards the castle was carrying a ridersbane last I saw. Keep your cavaliers away, or that weapon could spell the end of ‘em.
 
-Old Man: Did you know you can use keys to unlock doors and lower bridges? …You did? Ahem! Right, of course you did.
+Old Man: Did you know you can use keys to unlock doors and lower bridges? ...You did? Ahem! Right, of course you did.
 
 Middle-aged Man: There’s no terror like the dracoknight. One false move when they’re flyin’ about, and you can kiss your life goodbye.
 
@@ -208,15 +208,15 @@ Old Woman: Kind Altean, this kingdom is in dire need of a savior. We’ve saved 
 
 @Recruit-Visit
 Merric: Aha! Prince Marth. We meet again.
-Marth: …Huh? Merric?! Merric, is that you?
+Marth: ...Huh? Merric?! Merric, is that you?
 Merric: Well, yes, sire, last I looked. Whilst studying magic in Khadein, I caught wind of a war brewing and decided to seek you out.
-Marth: I see… Thank you, then. I need friends like you on the battlefield. You will fight with us, of course?
+Marth: I see... Thank you, then. I need friends like you on the battlefield. You will fight with us, of course?
 Merric: Of course! ‘Twould be a passing shame if you didn’t get to see me flex a little magic muscle. Wait till I show you my latest: Excalibur!
 
 @Recruit-Battle
-Matthis: Lena… Where are you? What I would give to hear your voice just once before I die…
+Matthis: Lena... Where are you? What I would give to hear your voice just once before I die...
 
-Matthis: Lena… Forgive your…fool of a brother…
+Matthis: Lena... Forgive your...fool of a brother...
 
 @Recruit-Talk
 %Lena,Matthis
@@ -224,24 +224,24 @@ Lena: Matthis? Is that you?
 Matthis: Lena?! What are you doing on a battlefield?
 Lena: I was attacked by bandits in the Teeth while tending to the sick there, and these people saved me. The real question is, what are YOU doing on a battlefield- least of all this one!
 Matthis: I’m not here by choice, sister of mine. Since you left, Macedon has only gotten worse and worse. They forced me to enlist- you know I hate warfare, but it was into the army or onto the chopping block.
-Lena: Shame on you, Matthis. If you’re going to fight, then at least fight for something you believe in. Medon has done terrible things: marrying their might to Doluna, helping them torment people…Brother, it’s not too late. You could join Altea’s forces. They’re good people you know. Prince Marth would welcome you. They all would.
-Matthis: …All right, then. If I’m gonna to die, I’d rather die as one of the dashing than one of the dastardly. You know, Lena, you always were the reliable one and now you’re all grown up…I thought for sure you’d have already settled down with your one true love.
-Lena: T-true love? I’ve…I’ve met no such man, Matthis.
-Matthis: Hmm, is that so? I’ll bet you haven’t… Well, you just be careful. There are plenty of thieves out there who would steal a girl’s heart.
+Lena: Shame on you, Matthis. If you’re going to fight, then at least fight for something you believe in. Medon has done terrible things: marrying their might to Doluna, helping them torment people...Brother, it’s not too late. You could join Altea’s forces. They’re good people you know. Prince Marth would welcome you. They all would.
+Matthis: ...All right, then. If I’m gonna to die, I’d rather die as one of the dashing than one of the dastardly. You know, Lena, you always were the reliable one and now you’re all grown up...I thought for sure you’d have already settled down with your one true love.
+Lena: T-true love? I’ve...I’ve met no such man, Matthis.
+Matthis: Hmm, is that so? I’ll bet you haven’t... Well, you just be careful. There are plenty of thieves out there who would steal a girl’s heart.
 
 @Battle-Talk 
 %Marth,Matthis
 Marth: You must be Matthis, Sister Lena’s-
 Matthis: ACK! Y-you’re Prince Marth! Aieee! S-s-stay your rapier, I beg you!
-Marth: …What has gotten into you?
-Matthis: You mean…you haven’t come to stick me like a pig for fighting under the Macedonian standard?
-Marth: Er, no…
+Marth: ...What has gotten into you?
+Matthis: You mean...you haven’t come to stick me like a pig for fighting under the Macedonian standard?
+Marth: Er, no...
 Matthis:“Really?
 Marth: Really and truly.
-Matthis: Oh! Uh, right then… Sorry about that little display. I guess Lena was right. Just goes to show not all princes are cut from the same cloth!
+Matthis: Oh! Uh, right then... Sorry about that little display. I guess Lena was right. Just goes to show not all princes are cut from the same cloth!
 Marth:“What do you mean?
-Matthis: Oh, well, our prince- Prince Michalis of Macedon, that is- he’s strong, and proud…and an utter tyrant. They say he put the soldiers who look the most scared in the front lines on purpose.
-Marth: Hmm… Prince Michalis of Medon…
+Matthis: Oh, well, our prince- Prince Michalis of Macedon, that is- he’s strong, and proud...and an utter tyrant. They say he put the soldiers who look the most scared in the front lines on purpose.
+Marth: Hmm... Prince Michalis of Medon...
 Matthis: Don’t worry, sire, I won’t mistake you for him again! Altean princes I can trust!
 
 @Boss 
@@ -319,20 +319,20 @@ Aurelis was free, but Marth and his army- now known as the Archanean League stil
 
 @Intro 
 Minerva: General Harmein, I cannot abide by these tactics of yours. Let me attack the rebels head-on, and keep my pride as a knight of Macedon.
-Harmein: Ah, you mean the same pride that cost us all those soldiers back in Aurelis? I think not, Princess. If we’re to regroup, we need to buy time. My tactics are necessary. The emperor himself has named me commander of this post. Either obey, or accept the consequences. Your little sister Maria is still under our word, is she not? What a shame it would be, if we decided we could no longer care for her…
-Minerva: Enough! …I will obey. But the Altean knights are smarter than you give them credit for. They will prevail here, and you will regret having acting so rashly, General.
+Harmein: Ah, you mean the same pride that cost us all those soldiers back in Aurelis? I think not, Princess. If we’re to regroup, we need to buy time. My tactics are necessary. The emperor himself has named me commander of this post. Either obey, or accept the consequences. Your little sister Maria is still under our word, is she not? What a shame it would be, if we decided we could no longer care for her...
+Minerva: Enough! ...I will obey. But the Altean knights are smarter than you give them credit for. They will prevail here, and you will regret having acting so rashly, General.
 
 @Visit 
 Middle-aged Man: Say, did you happen to get a look at the axe wrapped in Minerva’s princessly fingers? No, I suppose not, otherwise you’d not be standing here. That axe is Hauteclere, the strongest axe of ‘em all. Nobody knows who made it or where, but it’s said to rival even the three regalia, Archanea’s mightiest weapons. Why, if she got her hands on Iote’s Shield (that’un being Macedon’s treasure, see) she’d be nigh unstoppable!
 
 @Recruit-Visit
-Bantu: You there. Have you come across a young girl, one by the name of Tiki? She must be found, boy! Tiki is the last of the Naga, the divine-dragon clan. Without her powers, we cannot challenge the Manaketes who serve Medeus… Me? I haven’t the power. I am a fire dragon, yes… But in the name alone, in name alone. I lost my firestone in Pyrathi. Without it, I cannot do battle. …You will be traveling much, yes? I wish to go with you. Perhaps together we can find Tiki.
+Bantu: You there. Have you come across a young girl, one by the name of Tiki? She must be found, boy! Tiki is the last of the Naga, the divine-dragon clan. Without her powers, we cannot challenge the Manaketes who serve Medeus... Me? I haven’t the power. I am a fire dragon, yes... But in the name alone, in name alone. I lost my firestone in Pyrathi. Without it, I cannot do battle. ...You will be traveling much, yes? I wish to go with you. Perhaps together we can find Tiki.
 
 @Battle 
 Minerva: Fie, enough! I’ve no stomach for these cat-and-mouse tactics. Come, Whitewings, we fly! Hyah!
 
 @Character-Falls
-Minerva: Rrgh… I can’t keep up the fight with these wounds… I must withdraw.
+Minerva: Rrgh... I can’t keep up the fight with these wounds... I must withdraw.
 
 Palla: I serve Princess Minerva, not Grust. This battle is over.
 
@@ -349,7 +349,7 @@ Harmein: Aaargh...Traitors...every...where...
 Malledus: Prince Marth, I was wondering if we might talk about the Manaketes.
 Marth: Manaketes? You mean the dragonkin?
 Malledus: Yes, sire. I was not sure how much knowledge you had of the Manaketes. The Manaketes inhabited our continent long before the dawn of humanity. However, ordinarily their draconic disposition stayed suppressed; their power sealed within special stones. Thus rather than terrorizing humankind, they chose to live simple, peaceful lives in the quieter reaches of the world. However, a century ago, something changed. Medeus, the Shadow Dragon, surfaced in the Dolhr region and created what would be a great empire there. His forces invaded the human realm, and in the blink of an eye, he had subjected all of the land. It was then, in that darkest hour, that a young man named Anri appeared, and rose against the Shadow Dragon. In his head was a shining blade of light- Falchion- which he plunged into Medeus- and the tyrant was no more. Anri went on to found Altea- and the rest, I believe, you know.
-Marth: Yes, Malledus… Is that what this was about? I do know my own kingdom’s history. And I know what I must do, now that Medeus has revived and restored Dolhr to its former might.
+Marth: Yes, Malledus... Is that what this was about? I do know my own kingdom’s history. And I know what I must do, now that Medeus has revived and restored Dolhr to its former might.
 Malledus: You are Anri’s last male descendant, the only one who can wield Falchion. You must find the blade that was taken, and put an end to Doluna and its misguided Manakete rulers.
 Marth: I will finish what my father started. I will avenge him, and bring light back into our world.
 /***EOF***/
@@ -594,7 +594,7 @@ Gotoh: It is called Starlight. One blast is enough to break through Imhullu's sh
 After taking back the palace, the League rode across Akaneia, freeing the greater part of the kingdom as they went- all except the west. A landed knight there named Horace, who had betrayed Akaneia, to join Doluna, continued to stubbornly hold out against Marth’s forces. Nyna could not fathom why such a fiercely loyal knight would turn to treachery, but with her other knights calling for Horace’s blood, she had no choice but to give in and ask Marth to bring the traitor to justice.
 
 @Intro 
-Dejanira: Have you heard, Horace? I am told the rebels just recaptured the palace. That accursed Akaneian wench! Never mind Camus’s pleas. We should have put her to the sword with the rest of them…
+Dejanira: Have you heard, Horace? I am told the rebels just recaptured the palace. That accursed Akaneian wench! Never mind Camus’s pleas. We should have put her to the sword with the rest of them...
 Horace: ...
 Dejanira: Hm, something bothering you, now? Don’t tell me you are toying with the idea of rejoining your motherland? Because if you do, I think you know exactly what will befall your people.
 Horace: Yes, you’ve made it quite clear! I am an Akaneian knight no longer. I knew this day would come when I gave me lance to Doluna. I will not flinch.
@@ -616,7 +616,7 @@ Marth: What? But...Lord Horace!
 Horace:I chose to betray Akaneia, and now I must abide by that choice. Princess Nyna has returned to the palace, and Akaneia is restored. I have no regrets.
 
 @Visit 
-Old Man: Lord Horace, who rules this land, used to be a knight of Akaneia. After the palace fell, though, he bent his knee to the Dolunian emperor and has been servin’ him ever since. For that, folks call him a traitor and say he tarnished his knightly brethren’s reputation. Well, that’s a load of hogwash. He broke his knightly oaths to protect us! Not ’cause he’s some traitor. Please, sire, you have to help clear his name. Here…Lord Horace’s father, bless him, gave me this weapon as a gift long ago. I know he’d be glad to see it used to restore his son’s honor.
+Old Man: Lord Horace, who rules this land, used to be a knight of Akaneia. After the palace fell, though, he bent his knee to the Dolunian emperor and has been servin’ him ever since. For that, folks call him a traitor and say he tarnished his knightly brethren’s reputation. Well, that’s a load of hogwash. He broke his knightly oaths to protect us! Not ’cause he’s some traitor. Please, sire, you have to help clear his name. Here...Lord Horace’s father, bless him, gave me this weapon as a gift long ago. I know he’d be glad to see it used to restore his son’s honor.
 
 Young Woman:  Are you with the League? Please, sir, I’m beggin’ ya...You have to help Lord Horace. He’s always looked out for us small folk, before and after he inherited the land. He’s a pillar of strength, he is. We’d be dead if he hadn’t made the tough choices he did. The least we can do is rescue him from his plight now. Here, I’ve got this magic tome one of our villagers found after the last battle on our soil. You take it, and find some way to save him. Promise!
 
@@ -677,7 +677,7 @@ Nyna: True, and yet all the same... I have little doubt your exploits are the on
 Marth: Your concern for me is more than enough, Nyna. One day, I will get your family's treasures back and use them to crush Dolhr. I swear it on this emblem of fire!
 /***EOF***/
 @Opening 
-For Gotoh to create the magic that could defeat Gharnef, he needed two orbs: the Lightsphere and the Starsphere. Marth and company set off to Chiasmir and the Fane of Raman to find them, but in their path stood a cohort of Grustian knights known as the Sable Order. The bridges across the strait would soon be choked with the brave and the dead…
+For Gotoh to create the magic that could defeat Gharnef, he needed two orbs: the Lightsphere and the Starsphere. Marth and company set off to Chiasmir and the Fane of Raman to find them, but in their path stood a cohort of Grustian knights known as the Sable Order. The bridges across the strait would soon be choked with the brave and the dead...
 
 @Intro 
 Malledus: Prince Marth, I see them: a cohort of Grustian knights, out on the far side of the bridge. That must be the Sable Order...
@@ -788,7 +788,7 @@ Marth: Yes. I must settle things with Medeus.
 Elice: Then take me to the Resurrectory along the way to claim the staff. Aum works but once, but I will use it to revive a lost comrade.
 /***EOF***/
 @Opening 
-Grust would harry the League no more. Marth led his forces on to Macedon. However, Macedon’s Dragoons were ready to waylay them at the border; countless reinforcements hovered within the fortresses, waiting to strike…Would Marth be able to lead the League safely through the gauntlet?
+Grust would harry the League no more. Marth led his forces on to Macedon. However, Macedon’s Dragoons were ready to waylay them at the border; countless reinforcements hovered within the fortresses, waiting to strike...Would Marth be able to lead the League safely through the gauntlet?
 
 @Intro
 Marth: Princess Minerva, we will soon reach the Macedonian border. Are you certain you wish to join the battle? If you’ve any reservations about fighting your own countrymen-
@@ -999,7 +999,7 @@ Mannu: What...? Slain, by this fangless coward and his minions?
 Catria: Prince Marth. I am Catria, of the Whitewinged Order of Macedon. I have come with a request from our mistress, the princess Minerva. She is planning to lead us against Dolhr in rebellion; however, her hands are tied so long as the enemy holds her younger sister, the princess Maria, captive. Will you rescue Princess Maria from their clutches, that my Whitewing sisters and I might join in your fight?
 /***EOF***/
 @Opening 
-Trace a line around the continent’s north-eastern plains, and you have Aurelis. This kingdom alone had somehow resisted Dolhr’s attempts to conquer it, but only by some miracle. By the time Marth arrived in Aurelis, much of its territory had already been carved up by Dolhr’s ally Macedon. Still, the king’s younger brother, Hardin, refused to give up without a fight. The people called him Coyote, and he intended to live up to the name. Since its founding, Aurelis and the holy kingdom of Archanea shared close ties and months ago Princess Nyna of Archanea had come to Hardin’s aid. By his side, she had called on the people to fight- but few remained to answer. Macedon’s finest soldiers were closing in. Nyna knew they were out of time…
+Trace a line around the continent’s north-eastern plains, and you have Aurelis. This kingdom alone had somehow resisted Dolhr’s attempts to conquer it, but only by some miracle. By the time Marth arrived in Aurelis, much of its territory had already been carved up by Dolhr’s ally Macedon. Still, the king’s younger brother, Hardin, refused to give up without a fight. The people called him Coyote, and he intended to live up to the name. Since its founding, Aurelis and the holy kingdom of Archanea shared close ties and months ago Princess Nyna of Archanea had come to Hardin’s aid. By his side, she had called on the people to fight- but few remained to answer. Macedon’s finest soldiers were closing in. Nyna knew they were out of time...
 
 @Intro 
 Hardin: Princess Nyna, I’ve spotted them! The Altean army is on the far side of the river.
@@ -1007,21 +1007,21 @@ Nyna: They’re here? At last! Prince Marth has come for us!
 Hardin: So it seems. Now, what say you we turn this battle around? I’m going to take my men east to join our might with Marth’s. Together we will retake the castle. Stay here, my lady, and wait for the good news.
 
 @Visit
-Old man: A castle like ours must be chock full o’ royal treasure! Ah, but only a thief could get inside chests locked that tight…
+Old man: A castle like ours must be chock full o’ royal treasure! Ah, but only a thief could get inside chests locked that tight...
 
 Old Woman: The shops in Port Warren feature wares both rare and beautiful. Be thrifty with your gold now if you’ve any plans to venture that way later! Also keep in mind that shops keep only a limited stock of some items; once they’re sold out, you can’t buy any more.
 
 Young man: Word has it that the enemy is mustering its forces in the fortresses nearby. You’d better hurry and send units to bar their exits.
 
-Young man: Well g’day, there, son! …Why the wide-eyed stare? Ain’cha never seen a country village before? You know, speakin’ o’ rare sights, I once went to Pyrathi, where I saw me a real live Manakete! Cripes, let me tell you what a shock THAT was! In a blink, this regular old feller turned into an enormous dragon! I mean, I ain’t stupid. I’d heard of the dragonkin before. I’d just always assumed Manaketes looked somethin’ like parakeets. Sheesh… …What? Oh, this? I picked this stone up while I was there. Dunno what it is, but how often do you spy a glowin’ red rock, ya know what I’m sayin’ But honestly, it’s been kinda creepin’ me out lately. You want it? Go on ‘n’ take it. Sheesh…
+Young man: Well g’day, there, son! ...Why the wide-eyed stare? Ain’cha never seen a country village before? You know, speakin’ o’ rare sights, I once went to Pyrathi, where I saw me a real live Manakete! Cripes, let me tell you what a shock THAT was! In a blink, this regular old feller turned into an enormous dragon! I mean, I ain’t stupid. I’d heard of the dragonkin before. I’d just always assumed Manaketes looked somethin’ like parakeets. Sheesh... ...What? Oh, this? I picked this stone up while I was there. Dunno what it is, but how often do you spy a glowin’ red rock, ya know what I’m sayin’ But honestly, it’s been kinda creepin’ me out lately. You want it? Go on ‘n’ take it. Sheesh...
 
 @Recruit-Talk 
 %Merric,Wendell
-Merric: Oh… Master Wendell! Teacher!
+Merric: Oh... Master Wendell! Teacher!
 Wendell: Well, hello, Merric! What a surprise! Good to see you haven’s blown yourself up yet.
-Merric: Not yet, sir. But I did find Prince Marth, just like I said I would. I’ve joined the Altean army in the fight against Dolhr. …Why are you here, Teacher?
-Wendell: Hmm… It’s Khadein, lad. The land is not as you remember it. That fiend Gharnef seized power, and now he’s draped the city in darkness. I fear Khadein is doomed… I could not stay and serve him. So, I snuck out alone.
-Merric: Very brave of you, sir. Hmm… Why don’t you join us, then? If Gharnef is helping Dolhr, then he’s a bitter enemy of ours as much as he is to yours and Khadein’s. We couldn’t possibly leave the city in his clutches. And I’m sure the prince would be pleased as pie to have magic as robust as yours in his arsenal.
+Merric: Not yet, sir. But I did find Prince Marth, just like I said I would. I’ve joined the Altean army in the fight against Dolhr. ...Why are you here, Teacher?
+Wendell: Hmm... It’s Khadein, lad. The land is not as you remember it. That fiend Gharnef seized power, and now he’s draped the city in darkness. I fear Khadein is doomed... I could not stay and serve him. So, I snuck out alone.
+Merric: Very brave of you, sir. Hmm... Why don’t you join us, then? If Gharnef is helping Dolhr, then he’s a bitter enemy of ours as much as he is to yours and Khadein’s. We couldn’t possibly leave the city in his clutches. And I’m sure the prince would be pleased as pie to have magic as robust as yours in his arsenal.
 Wendell: Hmm, you do know how to argue a point. I’ve no taste for war, but war is what I’ve been served. Come, Merric. We’ll fight together. Tell your prince of Altea that Wendell is at his service.
 
 %Marth,Wendell
@@ -1040,13 +1040,13 @@ Marth: Me? But, Sir Hardin, you are far more qualified-
 Hardin: Tsk, Princess Nyna would not be pleased to hear us nitpicking over who will be listed in the history books. Take command, so we can oust this Macedonian scum and be done with it.
 Marth: You are sure?
 Hardin: Make no mistake. Lord Marth. I consider myself an exceptionally good judge of character. If I thought you acted out of selfishness or ambition, I would not extend the offer I have. You have my trust.
-Marth: Lord Hardin, thank you. That is an honor. If you don’t mind me saying so… I feel as though I’ve made a good friend. We share the same ideals, I think.
+Marth: Lord Hardin, thank you. That is an honor. If you don’t mind me saying so... I feel as though I’ve made a good friend. We share the same ideals, I think.
 Hardin: That we do. May our friendship be a long one.
 
 @Boss 
 Merach: Princess Minerva bade me guard this castle in her absence. You shall not take it so long as I stand!
 
-Merach: Heh… You think you’ve won, wretch? Far from it…
+Merach: Heh... You think you’ve won, wretch? Far from it...
 
 @End 
 Aurelis King: Prince Marth, your arrival could not have been better timed. Please accept our gratitude. Princess Nyna of Archanea is en route from the fortress. I am sure she will wish to meet you. The battle is not won yet, though: many of the enemy continue to hold out within the castle’s halls. Stay wary.
@@ -1184,7 +1184,7 @@ Marth: ...
 Lorenz: I know yours is the just cause. Still, I wish to remain a Grustian general, right to the end. I am fighting here because that is the way for me to honor my kingdom.
 Marth: Forgive me, General, but... is it, really?
 Lorenz: Pardon?
-Marth: Since you are a Grustian General, then surely you fight for Grust’s future first and foremost. But tell me…from where you are standing now, do you see any future for your country?
+Marth: Since you are a Grustian General, then surely you fight for Grust’s future first and foremost. But tell me...from where you are standing now, do you see any future for your country?
 Lorenz: ...I shall have to learn to mask my misgivings better, if you can pluck them from my heart so easily. You are quite correct. If I care what becomes of Grust, then I cannot continue to stand by Dolhr. So, I will stand by you instead, Prince- and hope the future is a bit easier to spot from there.
 
 @Battle-Talk 
@@ -1486,22 +1486,22 @@ Marth: The one who defended Archanea with the power of Aura? Of course; he and h
 Nyna: Alas, Miloah did die... But his daughter, Linde, yet lives. I am told she inherited her father's skill with Aura magic- but since the battle with Gharnef none have seen her. Wherever she is, it cannot be pleasant. ...Marth, please. Find Linde. With her father gone, we are the only family the girl has left.
 /***EOF***/
 @Opening 
-After shattering Macedon’s main force outside Aurelis Castle, Marth next led his army into the castle’s halls to liberate the kingdom. A number of treasures slept in Aurelis Castle’s nooks and crannies but how to extract them before they could fall into enemy hands? “Only a thief could open chests locked that tight,” grumbled one of Marth’s men. But we don’t have any thieves with us. …Do we?
+After shattering Macedon’s main force outside Aurelis Castle, Marth next led his army into the castle’s halls to liberate the kingdom. A number of treasures slept in Aurelis Castle’s nooks and crannies but how to extract them before they could fall into enemy hands? “Only a thief could open chests locked that tight,” grumbled one of Marth’s men. But we don’t have any thieves with us. ...Do we?
 
 @Intro
-Emereus: What?! The rebels are inside the castle? Grrr…Very well! Armored units: intercept the intruders! Archers: defend the throne! Thieves, you go gather up the treasure while I make preparations to withdraw. You have your orders! Don’t let those rebels anywhere near this chamber!
+Emereus: What?! The rebels are inside the castle? Grrr...Very well! Armored units: intercept the intruders! Archers: defend the throne! Thieves, you go gather up the treasure while I make preparations to withdraw. You have your orders! Don’t let those rebels anywhere near this chamber!
 
 @Recruit-Talk
 %Julian,Rickard
 Julian: What the- Rickard? What are you doin’ in here?
-Rickard: Oh, uh… Hey there, Chief! Been a long time, huh? So, funny story: I decided to break in here and clean the place out- and then I got caught. Hilarious, right? Comedy gold. OK, your turn What are YOU doin’ here?
+Rickard: Oh, uh... Hey there, Chief! Been a long time, huh? So, funny story: I decided to break in here and clean the place out- and then I got caught. Hilarious, right? Comedy gold. OK, your turn What are YOU doin’ here?
 Julian: Me? I’ve washed my hands of thievery and joined the forces of justice.
 Rickard: Ohhh really? Justice? So then this wouldn’t have nothin’ to do with some new lady friend? You always did have a soft spot for a pretty face and the right features-
-Julian: Wha- Can it, you little fink! I said it’s about justice! I’m entitled to have moral crisis now and then! …You know what? Just for that, YOU are gonna work for me, startin’ right now.
-Rickard: What? Do I have to…? Well, all right. You drive a hard bargain, but what can I say? I missed ya, Chief. Just make sure I get a cut out of the haul!
+Julian: Wha- Can it, you little fink! I said it’s about justice! I’m entitled to have moral crisis now and then! ...You know what? Just for that, YOU are gonna work for me, startin’ right now.
+Rickard: What? Do I have to...? Well, all right. You drive a hard bargain, but what can I say? I missed ya, Chief. Just make sure I get a cut out of the haul!
 
 %Marth,Rickard
-Rickard: …Wow! Really? A prince, you say? Thanks for springin’ me! I’m Rickard, just a small-time thief, mind you, but I’ve got big aspirations! I broke in here to clean the place out, and instead it was me that got my cloak cleaned… Since you saved my hide, I guess the least I can do is lend my services in return.
+Rickard: ...Wow! Really? A prince, you say? Thanks for springin’ me! I’m Rickard, just a small-time thief, mind you, but I’ve got big aspirations! I broke in here to clean the place out, and instead it was me that got my cloak cleaned... Since you saved my hide, I guess the least I can do is lend my services in return.
 
 @Battle-Talk 
 %Rickard,Marth
@@ -1513,7 +1513,7 @@ Emereus: Blast! They're upon me! Why didn't those idiot soldiers stop them?!
 Emereus: Rrgh... Why... ?
 
 @End 
-Nyna: Prince Marth… At long last. I am Nyna of House Archanea. ‘Tis Archanea’s burden to protect the world of crisis- a duty I have striven to fulfill. But Dolhr has laid waste to my kingdom, and now I find myself powerless to stop the world from falling into ruin. Marth… Please, pick up the banner where I have let it fall. Lead your might against Dolhr, and free us all.
+Nyna: Prince Marth... At long last. I am Nyna of House Archanea. ‘Tis Archanea’s burden to protect the world of crisis- a duty I have striven to fulfill. But Dolhr has laid waste to my kingdom, and now I find myself powerless to stop the world from falling into ruin. Marth... Please, pick up the banner where I have let it fall. Lead your might against Dolhr, and free us all.
 Marth: Of course, Princess Nyna. Altea swore fealty to Archanea long ago, a vow we have always kept. And, as you know, it is in my blood – House Altea’s blood – to destroy Medeus just as Anri did before me.
 Nyna: Thank you, Marth. Then let me give you this. This crest is called the Fire Emblem. House Archanea bestows it only upon a true champion, one we believe has the power to save the world. With it, you gain the right to open treasure chests across the land and wield the precious items within. I know you will use them well. Never give up, Marth. Fight, until the day you restore light to our world.
 /***EOF***/

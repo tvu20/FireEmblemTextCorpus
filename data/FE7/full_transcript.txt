@@ -269,7 +269,7 @@ Harken: ...You are right, Sir Oswin. Forgive my weakness. My life for my dead lo
 @Boss 
 Kenneth: You’re doing much better than I had anticipated. But it’s about time to put an end to this.
 
-Kenneth: Does this…mean… that I…lose…
+Kenneth: Does this...mean... that I...lose...
 
 Jerme: Hyaaa! I’ll chop you all up into tiny, little pieces!
 
@@ -330,7 +330,7 @@ Lyn and her friends have been branded as traitors, pretenders to the throne. Lun
 
 @Intro 
 Eliwood: I’ve received word from Caelin’s neighbors, Laus, Tuscana, Kathelet, Tania, and Santaruz. They will not interfere in Caelin’s affairs. This they have promised.
-Lyn: Eliwood, I don’t know how to thank you…
+Lyn: Eliwood, I don’t know how to thank you...
 Eliwood: All I’ve done is convince them to remain neutral in this dispute. However, this means I cannot aid you in any way either. Will you be all right?
 Lyn: I will win. I have to. It’s the only way that I can help my grandfather.
 Eliwood: I understand. Although I cannot help you directly, as a friend, I pray for your success.
@@ -339,14 +339,14 @@ Lyn: Thank you. I won’t waste the opportunity you’ve given me.
 Lyn: All right, everyone! Let’s get going!! This weather is turning foul. It looks like a fog is rolling in.
 Kent: This is no good. If the fog thickens, we’ll be blind in battle. It will be difficult to fight what we cannot see.
 Lyn: We can’t let it delay us, though. Let us press on. We must get closer to the castle. What’s the best route?
-Kent: Let me think… Our best path is to the south… However, that runs through General Eagler’s estate. It looks like we still have one final obstacle to pass.
+Kent: Let me think... Our best path is to the south... However, that runs through General Eagler’s estate. It looks like we still have one final obstacle to pass.
 
 @Battle 
-Matthew: Mark, put me in the lead, please. Surely you know that we…er…thieves, if you must, can see through fog. Follow me, everyone!
+Matthew: Mark, put me in the lead, please. Surely you know that we...er...thieves, if you must, can see through fog. Follow me, everyone!
 
-???: So you’ve come…
+???: So you’ve come...
 Sain: Aah!
-Kent: You! You’re… Lord Wallace!
+Kent: You! You’re... Lord Wallace!
 Lyn: Kent, who is this?
 Kent: He used to be the commander of the knights of Caelin.
 Sain: Aren’t you supposed to be retired? I heard you were sowing fields now.
@@ -358,20 +358,20 @@ Wallace: If I don’t like what I see, I will take her.
 Kent: We will prevent you.
 Wallace: You? Prevent me? You must be–
 Lyn: Enough! I’m right here! I am Lyndis.
-Wallace: Ah…
+Wallace: Ah...
 Lyn: I’ll understand if you don’t believe me. But I’ve had enough of you and your foolish posturing!
-Wallace: Hmm… Such beautiful eyes…
+Wallace: Hmm... Such beautiful eyes...
 Lyn: Pardon?
 Wallace: I’ve been a knight for 30 years, and here is one thing I learned. A person with eyes as bright and true as yours is no deceiver. Ha ha ha ha ha ha! Ah, yes! I like you, girl! Why, I believe I’ll even join your little band of mercenaries!
-Sain: Are you… Are you serious?
+Sain: Are you... Are you serious?
 Wallace: This old bull’s pledged his loyalty to Caelin. I would never allow an usurper on the throne. Let’s march!
-Kent: Lord Wallace! He… He hasn’t changed at all.
-Lyn: I like him. He’s…honest.
+Kent: Lord Wallace! He... He hasn’t changed at all.
+Lyn: I like him. He’s...honest.
 Kent: That he is. He deserves our respect.
 
-Wallace: I’d planned on living out my days in peace on my farm… Ah, well… It looks as though it’s time to take up arms once more. Mark! You’re the tactician of this group, correct? What are my orders?
+Wallace: I’d planned on living out my days in peace on my farm... Ah, well... It looks as though it’s time to take up arms once more. Mark! You’re the tactician of this group, correct? What are my orders?
 
-Tutorial: Wallace is a level 12 knight. He can rise as high as level 20. Most units can change classes once they reach level 10. By changing classes, units can improve all of their abilities. Movement range, constitution, usable weapons… Everything. There are many benefits. With a single action, you can make your units significantly more powerful. In order to change classes, units need to be of a certain level. However, you also need a special item. For example, Wallace is carrying a knight crest. With this, cavaliers and knights can change classes. Each character class has its own unique item that allows units of that class to switch to a different class. Well then, why don’t we try changing class now? Select Wallace, then choose knight crest from his items and use it.
+Tutorial: Wallace is a level 12 knight. He can rise as high as level 20. Most units can change classes once they reach level 10. By changing classes, units can improve all of their abilities. Movement range, constitution, usable weapons... Everything. There are many benefits. With a single action, you can make your units significantly more powerful. In order to change classes, units need to be of a certain level. However, you also need a special item. For example, Wallace is carrying a knight crest. With this, cavaliers and knights can change classes. Each character class has its own unique item that allows units of that class to switch to a different class. Well then, why don’t we try changing class now? Select Wallace, then choose knight crest from his items and use it.
 
 Wallace: Mark! Let Wallace show you his might! Give me an order!
 
@@ -381,26 +381,26 @@ Wallace: Let them stare in awe at my might! Their knees shall quake! Order me to
 
 Wallace: Ha ha ha haaaa! Look! A giant walks among you!! My defense is impenetrable! Come! Break your weapons against me!
 
-Lyn: Mark… The fog’s rolling in. We can’t hit an enemy we can’t see. Keep your eyes open, everyone!
+Lyn: Mark... The fog’s rolling in. We can’t hit an enemy we can’t see. Keep your eyes open, everyone!
 
 @Visit
-Man: Hey, you… Do you have any torches? What? You don’t? There’s a thick fog rolling in, and you have NO torches? Wandering about without a torch is… Well, it’s ridiculous! Here. Take one of mine. Use this when it’s foggy, and you can see a bit better. Hm? No, no need for thanks. I know all about you and your comrades. We all, well… Not one of us believes what Lord Lundgren is saying about you. We all want to help the marquess… and his rightful heir. Good luck!
+Man: Hey, you... Do you have any torches? What? You don’t? There’s a thick fog rolling in, and you have NO torches? Wandering about without a torch is... Well, it’s ridiculous! Here. Take one of mine. Use this when it’s foggy, and you can see a bit better. Hm? No, no need for thanks. I know all about you and your comrades. We all, well... Not one of us believes what Lord Lundgren is saying about you. We all want to help the marquess... and his rightful heir. Good luck!
 
 Lady: The forces of Caelin are led by General Eagler. He’s an honest man who has always treated us well. A good general. He must be aware of Lundgren’s evil plans to seize control of Caelin. I can only believe Lundgren’s holding someone dear to him as hostage. It’s so sad, but there’s nothing anyone can do. Why must so many innocents get hurt in the foolish games of nobles?
 
 @Boss 
 Eagler: Imposters to the throne, you shall not pass! No quarter for traitors!
 
-Eagler: Nnng… Go… Go quickly. The marquess… He knows nothing of this… His life is… There’s no illness. Only…poison… Please…for the marquess…for all of Caelin…
+Eagler: Nnng... Go... Go quickly. The marquess... He knows nothing of this... His life is... There’s no illness. Only...poison... Please...for the marquess...for all of Caelin...
 
 %Lyn,Eagler
 Eagler: Bring forth the imposter who calls herself “Lyndis”! She shall not pass beyond this place!
 Lyn: I am Lyndis. I’m no pretender. I’d ask you to believe me, but your heart and mind seem set.
-Eagler: Enough talk… Draw your sword!
+Eagler: Enough talk... Draw your sword!
 
 %Sain,Eagler
-Sain: General Eagler…
-Eagler: Sain… I never imagined you could turn traitor…
+Sain: General Eagler...
+Eagler: Sain... I never imagined you could turn traitor...
 Sain: Who’s the traitor here? I am following the orders of my sworn liege lord. Not Lundgren, but my true liege, the marquess himself!
 Eagler: You speak with conviction. I think it’s time to test the bounds of loyalty!
 
@@ -408,32 +408,32 @@ Eagler: You speak with conviction. I think it’s time to test the bounds of loy
 Eagler: Kent! Is that you?
 Kent: General Eagler! We found Lady Lyndis on the orders of the marquess. We’ve worked so very hard to return her safely to Caelin.
 Eagler: And yet you have no proof of the girl’s identity. Is that not true?
-Kent: Yes, but…
+Kent: Yes, but...
 Eagler: Then our talk is finished! Draw your weapon and come!
 
 %Wallace,Eagler
 Wallace: Eagler!
-Eagler: General Wallace… So you’ve sided with the girl, too, have you?
+Eagler: General Wallace... So you’ve sided with the girl, too, have you?
 Wallace: I fight for Caelin’s honor, not for Lundgren’s lies!
-Eagler: Ah… Is that so? You are– Enough! There’s nothing more to be said. I name you traitors all! Come! Do your worst!
-Wallace: Fool… At the very least, let mine be the blow that finishes you!
+Eagler: Ah... Is that so? You are– Enough! There’s nothing more to be said. I name you traitors all! Come! Do your worst!
+Wallace: Fool... At the very least, let mine be the blow that finishes you!
 
 @End 
 Lyn: What kind of man was General Eagler?
-Kent: When Sain and I first became knights, he was our captain. Our teacher…
+Kent: When Sain and I first became knights, he was our captain. Our teacher...
 Lyn: I think he must have known we were telling the truth. Why did he force the fight?
-Sain: Something must have… Lord Lundgren was exerting some hold on him… Eagler was trying to protect someone. A friend perhaps, or family.
-Kent: ……
+Sain: Something must have... Lord Lundgren was exerting some hold on him... Eagler was trying to protect someone. A friend perhaps, or family.
+Kent: ......
 Lyn: May Lundgren never know the peaceful embrace of Mother Earth! I care not what others do. I WILL stop that man! Mark! The final battle is approaching!
 
 Lundgren: How are you feeling today, my dear brother?
-Lord Hausen (off screen): Lundgren… You… You fiend…
+Lord Hausen (off screen): Lundgren... You... You fiend...
 Lundgren: Your granddaughter is dead by now. And soon, you will join her.
-Lord Hausen (off screen): Lyndis… Why did this happen? I… I only wanted to see her once.
+Lord Hausen (off screen): Lyndis... Why did this happen? I... I only wanted to see her once.
 Lundgren: Have you lost all hope? Has your life lost all meaning? Then hurry up and die, you miserable old dotard! You and your precious granddaughter are in my way!!! I curse your name! I despise you! My worthless wretch of a brother!
 /***EOF***/
 @Opening 
-The dying words of Lord Helman stun Eliwood beyond belief. “Darin, the marquess of Laus, knows all…” Despite the pain it brings, Eliwood takes this newfound knowledge to heart and sets out for Laus once again. On the way to Laus, he travels through a Caelin village. Eliwood and his party decide to rest there for a night.
+The dying words of Lord Helman stun Eliwood beyond belief. “Darin, the marquess of Laus, knows all...” Despite the pain it brings, Eliwood takes this newfound knowledge to heart and sets out for Laus once again. On the way to Laus, he travels through a Caelin village. Eliwood and his party decide to rest there for a night.
 
 @Intro 
 Hector: Bah! Dark already.
@@ -486,14 +486,14 @@ Puzon: We'll not let our profit be snatched away so easily! Come! To me now! Hol
 Merlinus: Aaaiiieeee!!! You! They call you Mark, am I right? I am Merlinus, a humble and lowly merchant. I know nothing of combat. Please! You must protect me!
 
 @End 
-Bandit: Oof… Blast! I won’t forget this!
+Bandit: Oof... Blast! I won’t forget this!
 Hector: Then you’re smarter than you look! Get out of here!!
 Eliwood: Are you all right?
-Merlinus: Hm? Oho!! I… I’ve been saved!
+Merlinus: Hm? Oho!! I... I’ve been saved!
 Eliwood: We’ve driven them off. Are you injured?
 Merlinus: No, not at all. As you can see, I’m as fine as fine can be.
 Eliwood: I’m glad to see that. Good day, sir. Hector.
-Merlinus: Wait a moment, please! A token of my thanks…
+Merlinus: Wait a moment, please! A token of my thanks...
 Eliwood: Do not worry yourself. We did nothing to merit reward.
 Hector: That’s right. We’ve no need of a peddler’s junk.
 Merlinus: P-P-Peddler?
@@ -501,37 +501,37 @@ Eliwood: Hector!
 Hector: Oops!
 Merlinus: Ahem! I am Merlinus. You’ll find no other traveling merchant whose goods compare. Don’t let your eyes fool you: I’m quite prosperous.
 Hector: Huh? You’re a merchant? Books and knives and all that, eh?
-Eliwood: Hector, your manners are terrible. Merlinus, please… Pay no mind to what this oaf has to say.
-Merlinus: No, of course not. I wasn’t concerned at… Ahem! By the way, you two obviously come from highborn houses. Would you grant me the honor of your names?
+Eliwood: Hector, your manners are terrible. Merlinus, please... Pay no mind to what this oaf has to say.
+Merlinus: No, of course not. I wasn’t concerned at... Ahem! By the way, you two obviously come from highborn houses. Would you grant me the honor of your names?
 Eliwood: I am Eliwood, son of the marquess of Pherae.
 Hector: I’m Hector. Marquess Ostia’s brother.
-Merlinus: Goodness! Ostia! Pherae! The greatest houses in all of Lycia!! Ahh… To be saved by noblemen such as yourselves… It is an honor beyond words!
+Merlinus: Goodness! Ostia! Pherae! The greatest houses in all of Lycia!! Ahh... To be saved by noblemen such as yourselves... It is an honor beyond words!
 Hector: It’s nice to be appreciated for a change. Lately, people just seem to want us dead. Tell me, Merlinus, what are your plans?
-Merlinus: Pardon? My plans, my lord? I had planned to travel Lycia selling my merchandise, but… It may not be possible in such dangerous times.
+Merlinus: Pardon? My plans, my lord? I had planned to travel Lycia selling my merchandise, but... It may not be possible in such dangerous times.
 Hector: If that’s the case, why don’t you come along with us?
 Eliwood: Hector?
 Hector: Our travels will not be ending anytime soon. We’ve gained more people and more items, right? It might be good to have help managing our things.
 Merlinus: Oho! Now THAT is a splendid idea! Managing merchandise is my specialty, after all!
 Eliwood: Are you sure?
-Merlinus: Quite sure, my lord. To be honest, I’ve dreamt of working for a noble house. To have my fondest wish granted in such a way… I cannot stem these tears of joy! Lord Hector! Lord Eliwood!!! Take me into your bosoms and keep me safe forever!
-Eliwood: Uh… Thank you. Well met, Merlinus.
-Hector: We’re counting on you! Now, I’ve got some things I want you to carry…
+Merlinus: Quite sure, my lord. To be honest, I’ve dreamt of working for a noble house. To have my fondest wish granted in such a way... I cannot stem these tears of joy! Lord Hector! Lord Eliwood!!! Take me into your bosoms and keep me safe forever!
+Eliwood: Uh... Thank you. Well met, Merlinus.
+Hector: We’re counting on you! Now, I’ve got some things I want you to carry...
 Merlinus: Yes, of course. Whatever you have, Merlinus will keep!
 /***EOF***/
 @Opening 
 In Laus, Erik tells Eliwood of a plan. A plot to use Laus as starting ground in a rebellion against Ostia. Eliwood needs proof to believe these accusations, and so he and his allies pursue Darin, the fleeing marquess of Laus. Where that chase would lead, Eliwood could not have known.
 
-After repelling the mercenary forces of Eubans, Hector prepares to mount a pursuit of Marquess Laus. Lord Darin and his knights are with the instigator of the rebellion, the enigmatic Ephidel. Hector learns where the fugitives were traveling from Ostia’s network of spies. However, their final destination still remains unknown…
+After repelling the mercenary forces of Eubans, Hector prepares to mount a pursuit of Marquess Laus. Lord Darin and his knights are with the instigator of the rebellion, the enigmatic Ephidel. Hector learns where the fugitives were traveling from Ostia’s network of spies. However, their final destination still remains unknown...
 
 @Intro 
 Hector: Blast! Where on earth has that snake Darin gone?
-Eliwood: I doubt he’s left Lycia yet, but… Hector…it’s been five days. The death of Marquess Santaruz… Our attack on Laus Castle… Word of these things must have reached Lord Uther by now. And yet he shows no sign of action… Why?
+Eliwood: I doubt he’s left Lycia yet, but... Hector...it’s been five days. The death of Marquess Santaruz... Our attack on Laus Castle... Word of these things must have reached Lord Uther by now. And yet he shows no sign of action... Why?
 Hector: I’m sure he has his reasons. My brother has other concerns tying his hands right now.
 Eliwood: What do you mean?
 Hector: It’s Bern. We’ve received disturbing reports over the past few months. King Desmond is behaving oddly. If he sees even the slightest crack in Lycia’s defenses, we believe he’ll invade with all of Bern’s might behind him. My brother has only recently become marquess, as well as head of the Lycian League. He can’t allow another country to see weakness or discord.
 Eliwood: He has to present the face of stability and strength, is that it?
 Hector: Yes. It seems every country has a spy working in Ostia right now. They all want to assess the new marquess’s temperament and skill. If they sense anything wrong, word will spread like wildfire.
-Eliwood: Hector, you’re the marquess’s brother… Would not being at his side be seen as something “wrong”?
+Eliwood: Hector, you’re the marquess’s brother... Would not being at his side be seen as something “wrong”?
 Hector: The marquess’s brother is a well-known lout. If I WERE at court, they’d sense something wrong.
 Eliwood: You’re not too proud of that reputation, are you?
 Hector: Not in the least.
@@ -540,31 +540,31 @@ Hector: What is it, Oswin? Have you heard something?
 Oswin: Yes, my lord. A messenger from the east! Castle Caelin has fallen to a surprise attack from Marquess Laus!
 Eliwood: Castle Caelin!?
 Hector: They’ve struck again.
-Eliwood: Lord Hausen… Is he unharmed?
-Oswin: My apologies, my lord… We’ve no word on Lord Hausen or his granddaughter, the lady Lyndis.
-Eliwood: I never imagined they would attack Caelin… Lord Hausen… Lyndis…
-Oswin: Lord Hector… What should we do?
+Eliwood: Lord Hausen... Is he unharmed?
+Oswin: My apologies, my lord... We’ve no word on Lord Hausen or his granddaughter, the lady Lyndis.
+Eliwood: I never imagined they would attack Caelin... Lord Hausen... Lyndis...
+Oswin: Lord Hector... What should we do?
 Hector: They might still be alive, right? There’s only one thing we can do!
 Eliwood: Hector!
 Hector: Come on! We’ve got to hurry!
 
 Kent: Milady, I’ve returned, and I have brought news. Laus soldiers are scattered from the castle to the edge of this forest. There must be at least 50 soldiers!
-Sain: Are you sure about this, milady? We barely escaped… Going back to the castle would mean almost certain death.
-Lyn: My grandfather is in the castle. I left the castle on his orders, but… I can’t leave him in there alone!
-Wil: The numbers we face… Rescuing Lord Hausen will be no easy task.
+Sain: Are you sure about this, milady? We barely escaped... Going back to the castle would mean almost certain death.
+Lyn: My grandfather is in the castle. I left the castle on his orders, but... I can’t leave him in there alone!
+Wil: The numbers we face... Rescuing Lord Hausen will be no easy task.
 Sain: I wonder if we can expect any reinforcements.
 Kent: I overheard some of the Laus soldiers talking. They claim that Lord Eliwood invaded Laus and drove them out.
 Lyn: Eliwood? Why would he attack Laus?
-Kent: It gets even more interesting… Not only did Marquess Laus abandon his castle, but he also left his son, Erik, behind when he fled here to Caelin.
+Kent: It gets even more interesting... Not only did Marquess Laus abandon his castle, but he also left his son, Erik, behind when he fled here to Caelin.
 Sain: That’s despicable! He abandoned his own son?
-Lyn: But at least we know Eliwood is in Laus. We might be able to ask him for help. …Assuming there were a way to contact him.
+Lyn: But at least we know Eliwood is in Laus. We might be able to ask him for help. ...Assuming there were a way to contact him.
 Wil: If we are to avoid being caught, the best path would be through the forest. Shall I go?
-Lyn: I suspect you’re right. Horses cannot move well in woods… It’ll take you a while, but you can travel lightly…
+Lyn: I suspect you’re right. Horses cannot move well in woods... It’ll take you a while, but you can travel lightly...
 Florina: Lady Lyndis! I’ll go! I can fly above the forest. I can be in Laus faster than anyone else.
 Lyn: Florina? You can’t do this on your own! It’s not possible!
 Florina: Thanks to my time here, I’m no longer as timid around men as I used to be. And I’ve met Lord Eliwood before. I’m sure I can do this on my own.
-Lyn: It will be terribly dangerous… You understand, don’t you?
-Florina: Yes. But… I promised myself I would become braver for you. I’m not the weak little Florina I used to be. I’ll be fine. Trust me.
+Lyn: It will be terribly dangerous... You understand, don’t you?
+Florina: Yes. But... I promised myself I would become braver for you. I’m not the weak little Florina I used to be. I’ll be fine. Trust me.
 Lyn: You’ve convinced me. The job’s yours, Florina. But you must promise me that you won’t try anything impossible!
 Florina: Yes, my lady. Farewell!
 
@@ -572,38 +572,38 @@ Sain: Did you hear our meek Florina? She sounded most forceful! Beautiful!
 Kent: She’s become a full-fledged pegasus knight.
 Lyn: Yes, she has.
 Wil: All for you, Lady Lyndis. That’s quite gallant.
-Lyn: When we lived on the plains, I was always her protector. I know I shouldn’t feel sad, and yet…
+Lyn: When we lived on the plains, I was always her protector. I know I shouldn’t feel sad, and yet...
 
 Soldier: Commander Bauker! There’s something in the southern skies.
-Bauker: Is that…a pegasus knight? Where do you suppose she’s going? It doesn’t matter. We’ve been told not to let anyone out of Caelin. Archers! Advance! Bring her down!
+Bauker: Is that...a pegasus knight? Where do you suppose she’s going? It doesn’t matter. We’ve been told not to let anyone out of Caelin. Archers! Advance! Bring her down!
 
-Florina: To reach Laus, I must go over the forest…and fly north. Then, I’ll have to… Wait! Who are those people? They fly no banner, and yet… Ah! That man in the lead! It’s Lord Eliwood! He’s come to Caelin’s aid! That’s wonderful. I have to tell him where Lady Lyndis is waiting!
+Florina: To reach Laus, I must go over the forest...and fly north. Then, I’ll have to... Wait! Who are those people? They fly no banner, and yet... Ah! That man in the lead! It’s Lord Eliwood! He’s come to Caelin’s aid! That’s wonderful. I have to tell him where Lady Lyndis is waiting!
 
-Hector: I’ve spotted the enemy… Why are their archers advancing? They’re aiming at something up high.”
+Hector: I’ve spotted the enemy... Why are their archers advancing? They’re aiming at something up high.”
 Marcus: Lord Eliwood, look! Up there! A pegasus knight!
 Florina: Lord Eliwood!
-Eliwood: Could it really be… Florina, is that you?
-Florina: Yes! I’m Lady Lyndis’s…
+Eliwood: Could it really be... Florina, is that you?
+Florina: Yes! I’m Lady Lyndis’s...
 Eliwood: Florina! Fly lower!
 Florina: Wha–Oh! Aaaaaaah!!!
 Eliwood: Florina!!!
 Hector: Oooh!
-Florina: …… Ah…
+Florina: ...... Ah...
 Eliwood: Can you hear me? Florina?
-Florina: Lord Eliwood?… I…
+Florina: Lord Eliwood?... I...
 Eliwood: Those archers almost hit you. You avoided the arrows, but you lost your balance and fell.
-Florina: And yet… I’m not hurt. I fell from such a height. What–
+Florina: And yet... I’m not hurt. I fell from such a height. What–
 Hector: You got lucky. I didn’t. You landed right on top of me!
 Florina: Oh!
 Eliwood: Hector saved you.
 Hector: I saved no one! I simply gave her someplace soft to land! A bale of hay could have done more than I did.
-Florina: Eeek! Oh… Oh, I’m so sorry!
+Florina: Eeek! Oh... Oh, I’m so sorry!
 Eliwood: You were lucky, Florina. If you had fallen on me, I couldn’t have caught you. Or your pegasus either!
 Hector: They fell one after the other! I couldn’t get out of the way!
-Florina: M-M-My pegasus, too? I am so… I’m truly… I don’t know what to say! I…um… I……
+Florina: M-M-My pegasus, too? I am so... I’m truly... I don’t know what to say! I...um... I......
 Hector: No apology needed. You do need to tell us why you’re here, however.
-Florina: Yes, of… of course! Lord Eliwood, Lady Lyndis is beyond that forest. She’s waiting for a chance to assault the castle.
-Eliwood: She’s what!? Ah… Still, it’s good to hear she’s safe.
+Florina: Yes, of... of course! Lord Eliwood, Lady Lyndis is beyond that forest. She’s waiting for a chance to assault the castle.
+Eliwood: She’s what!? Ah... Still, it’s good to hear she’s safe.
 Florina: She’s fine. However, Lord Hausen’s been captured. He’s still in the castle.
 Eliwood: I see. Let’s go then!
 
@@ -631,13 +631,13 @@ Hector: We're a bit busy now. Save it for later.
 Lyn: What? Hold on! Wait just a minute!
 
 %Florina,Hector
-Florina: Whew…I’m sorry, Makar. You must be all tired out from all the flying we’ve done. You need some water. That’s a good boy.
+Florina: Whew...I’m sorry, Makar. You must be all tired out from all the flying we’ve done. You need some water. That’s a good boy.
 Hector: Hey, you! You’re in the way! Move!!!
 Florina: Kyaaaa!
 Hector: This is a battlefield! It’s not a stable! I’m not picking you up if you get shot down again!
-Florina: Oh…uhm… Excuse me…it’s… Lord Hector, isn’t it? I…well…it’s…
-Hector: Oh, hey! Eliwood! It’s the…
-Florina: Ah…
+Florina: Oh...uhm... Excuse me...it’s... Lord Hector, isn’t it? I...well...it’s...
+Hector: Oh, hey! Eliwood! It’s the...
+Florina: Ah...
 
 %Lyn,Matthew
 Lyn: Hey you! You're ...
@@ -699,7 +699,7 @@ Dorcas: She feels the same way about you. Someday... When you've free time, will
 Lyn: Yes, of course! Once the fighting's done, I'll definitely come see you.
 
 @End 
-Eliwood: Command Bauker… He was a fierce enemy. Lyndis, once we’ve defeated the remaining foe, the castle’s yours.
+Eliwood: Command Bauker... He was a fierce enemy. Lyndis, once we’ve defeated the remaining foe, the castle’s yours.
 Lyn: Thank you, Eliwood. If not for your help, I don’t know where I’d be right now.
 Eliwood: All of this happened because we routed Lord Darin at Laus. It’s only right that we help.
 Lyn: You explained your motives to me, Eliwood. This is about your father. I would do the same thing in your position. What happened in Caelin is not your fault.
@@ -713,14 +713,14 @@ Hector: What?
 Eliwood: This is Lyndis. She’s Lord Hausen’s granddaughter. Lyndis, this is Hector. He’s Lord Uther’s brother.
 Lyn: His brother? Really?
 Hector: Yes.
-Lyn: I was watching the way he fights… He’s not like you, Eliwood. He’s somewhat like my own knights, but different still. He relies so much on power. It’s like he’s never been…
+Lyn: I was watching the way he fights... He’s not like you, Eliwood. He’s somewhat like my own knights, but different still. He relies so much on power. It’s like he’s never been...
 Hector: I haven’t. I taught myself how to fight.
-Lyn: I’ve no issue with that, but the way you swing that axe around… You’re a threat to your allies! You should be more watchful.
+Lyn: I’ve no issue with that, but the way you swing that axe around... You’re a threat to your allies! You should be more watchful.
 Hector: What did you say?
 Eliwood: Lyndis? What’s come over you?
-Lyn: Hm? Oh…I… My apologies. I didn’t intend to seem so critical.
-Hector: ……
-Eliwood: Granted, Hector’s style may be a tad dangerous, but… There’s no one I depend on more. You may think him careless, but he’s always aware of his surroundings.
+Lyn: Hm? Oh...I... My apologies. I didn’t intend to seem so critical.
+Hector: ......
+Eliwood: Granted, Hector’s style may be a tad dangerous, but... There’s no one I depend on more. You may think him careless, but he’s always aware of his surroundings.
 Hector: The more you praise me, the less worthy I sound.
 Eliwood: Lyndis, once you fight alongside Hector, I’m sure you’ll understand.
 Lyn: I’m sure you’re right. I apologize, Hector. I’m honored to have your help.
@@ -732,34 +732,34 @@ Kent: Well met, Mark. Good to see you again.
 Sain: Well! This really is a pleasant surprise!
 Wil: Hello, Mark! Has it really been a year?
 Lyn: What’s wrong, Florina? You needn’t hide back there.
-Florina: Um… Nice to see you again. I don’t suppose you… Do you…remember me?
-Lyn: Everyone who remained in Caelin speaks of you fondly. We’re always saying “I wonder where Mark is…” Yes…you’re right. This isn’t the best time to catch up. We’re here to rescue my grandfather. Mark, will you help me again?
+Florina: Um... Nice to see you again. I don’t suppose you... Do you...remember me?
+Lyn: Everyone who remained in Caelin speaks of you fondly. We’re always saying “I wonder where Mark is...” Yes...you’re right. This isn’t the best time to catch up. We’re here to rescue my grandfather. Mark, will you help me again?
 
-Darin: Ri…Ridiculous… Even Bauker?
-Hausen: Lord Darin, it’s time to give up this madness. Further resistance is meaningless. For what you’ve done, you may never be forgiven, but it’s not too late to try. Tell Eliwood everything. He’ll intervene with Marquess Ostia on your behalf…
-Darin: I…I’ve…lost…
-Hausen: Hurry! Eliwood will be here in no time. Let me speak for you. Gurr… Guaaaa!!
+Darin: Ri...Ridiculous... Even Bauker?
+Hausen: Lord Darin, it’s time to give up this madness. Further resistance is meaningless. For what you’ve done, you may never be forgiven, but it’s not too late to try. Tell Eliwood everything. He’ll intervene with Marquess Ostia on your behalf...
+Darin: I...I’ve...lost...
+Hausen: Hurry! Eliwood will be here in no time. Let me speak for you. Gurr... Guaaaa!!
 Ephidel: None of that now. Marquess Laus needs no troublesome advice.
 Darin: L-Lord Ephidel?
-Ephidel: There is no turning back for you now. You should know that. First, Marquess Santaruz… and now Marquess Caelin. Both deaths are on your head.
+Ephidel: There is no turning back for you now. You should know that. First, Marquess Santaruz... and now Marquess Caelin. Both deaths are on your head.
 Darin: What? It was by your hand that they both died! I-I never asked for this.
-Ephidel: Yes, I killed them… for you.
-Darin: To…trap me?
-Ephidel: Don’t be absurd. I follow my master’s orders. My only wish is to deliver your dreams to you. The crown of a united Lycia…. And once that is done, dominion over the entire continent. Is that not what you desire?
-Darin: … … …Yes…Yes, of course. That dream IS still worth a few sacrifices, isn’t it?
+Ephidel: Yes, I killed them... for you.
+Darin: To...trap me?
+Ephidel: Don’t be absurd. I follow my master’s orders. My only wish is to deliver your dreams to you. The crown of a united Lycia.... And once that is done, dominion over the entire continent. Is that not what you desire?
+Darin: ... ... ...Yes...Yes, of course. That dream IS still worth a few sacrifices, isn’t it?
 Ephidel: You’re exactly right. Our plans may have gone drastically awry, but as long as we have the master’s power behind us, we cannot be defeated. We’d do well to leave now, before those meddlesome worms arrive. You will leave everyone from Laus behind. We will use them to delay our foe.
-Darin: Everyone… My soldiers? But…who will protect me?
+Darin: Everyone... My soldiers? But...who will protect me?
 Ephidel: The Black Fang and I will more than suffice for that task. There is nothing else you need, I assure you.
-Darin: Yes…I…I see that now. Where do we go from here?
-Ephidel: To the Dragon’s Gate… Our master awaits us there. The master has informed me our hostage may be all we need. If all goes well, we may be able to perform the ceremony with him alone.
+Darin: Yes...I...I see that now. Where do we go from here?
+Ephidel: To the Dragon’s Gate... Our master awaits us there. The master has informed me our hostage may be all we need. If all goes well, we may be able to perform the ceremony with him alone.
 Darin: Oh! Is that so? I suppose we’ve nothing to worry about.
 Ephidel: That is correct. Now please, begin your retreat. I have two or three orders to give, then I will be right behind you.
 
-Ephidel: Pathetic imbecile… Leila? Where are you?
+Ephidel: Pathetic imbecile... Leila? Where are you?
 Leila: I’m here.
 Ephidel: While Eliwood is occupied, finish off Marquess Caelin and hide the body. The enemy will waste precious time searching for him.
-Leila: As you command…
-Ephidel: You know, you’ve only been with the Black Fang a short while. However, you are quite skilled… I look forward to watching you.
+Leila: As you command...
+Ephidel: You know, you’ve only been with the Black Fang a short while. However, you are quite skilled... I look forward to watching you.
 Leila: Yes, sir.
 
 @Visit 
@@ -803,9 +803,9 @@ Athos: That's correct. The weapons we wielded contained great strength. Power fe
 Hector: Listen, Mark. You know how Eliwood is. Never wants to burden anyone else... Takes all responsibility on himself... Now, more than ever, we have to support him. Let's go, Mark!
 
 @Boss 
-Georg: …I am one of… Sir Roland’s… warriors…Georg……You trespass here… I will…cut…you down…
+Georg: ...I am one of... Sir Roland’s... warriors...Georg......You trespass here... I will...cut...you down...
 
-Georg: …… …I don’t understand… you seem…familiar… …Who…are…you…? …You and …Sir Roland are as one…
+Georg: ...... ...I don’t understand... you seem...familiar... ...Who...are...you...? ...You and ...Sir Roland are as one...
 
 @End 
 Eliwood: ...You have stood your guard for so, so long. I'm sorry...
@@ -931,50 +931,50 @@ Matthew: Say, Mark. Not sure how to say this... You're a full-blown tactician no
 Matthew: Hold on! You! I know you! Isn’t your name Guy?
 Guy: It’s–Is that you, Matthew?
 Matthew: What a pleasant surprise! How’s your swordwork coming?
-Guy: You are aware this isn’t the best place to be catching up, aren’t you? You and I…We’re on opposite sides here.
+Guy: You are aware this isn’t the best place to be catching up, aren’t you? You and I...We’re on opposite sides here.
 Matthew: What? Are you saying you’re going to fight me?
-Guy: I…Well, yeah. I’m much improved. You can’t beat me.
-Matthew: You’re quite a terror, Guy. Well then… Hold on! I’d prefer it if you repaid what you owe me.
+Guy: I...Well, yeah. I’m much improved. You can’t beat me.
+Matthew: You’re quite a terror, Guy. Well then... Hold on! I’d prefer it if you repaid what you owe me.
 Guy: Huh?
 Matthew: Last time I saw you, I gave you food.  If I remember correctly, you said you owed me your life.
-Guy: I only said that ’cause you said you’d feed me if I did! I hadn’t eaten in ten days, and you were cooking meat! You… This… This isn’t fair!
+Guy: I only said that ’cause you said you’d feed me if I did! I hadn’t eaten in ten days, and you were cooking meat! You... This... This isn’t fair!
 Matthew: The people of Sacae never lie. Isn’t that right, Guy?
-Guy: Grrr… Fine! I finally find work, and now I have to throw it away! This is all your fault!
+Guy: Grrr... Fine! I finally find work, and now I have to throw it away! This is all your fault!
 
 @Boss 
 Boies: What’s this? You’ve made it this far? Ah, I paid too much for that worthless pack of sellswords!
 
-Boies: You’ve beaten me…but you’re too late to save him… Too…too bad, eh, laddie? Geha ha…geha!
+Boies: You’ve beaten me...but you’re too late to save him... Too...too bad, eh, laddie? Geha ha...geha!
 
 @End 
 Eliwood: Lord Helman!!
-Helman: … Is that you…Eliwood?
+Helman: ... Is that you...Eliwood?
 Eliwood: Hold on, my lord!
-Helman: I… I must apologize… Your father… He…
+Helman: I... I must apologize... Your father... He...
 Eliwood: Do you know something, sir?
-Helman: I… … If I hadn’t told Elbert…about…Darin’s plans…This would…never…have…Cough cough…
+Helman: I... ... If I hadn’t told Elbert...about...Darin’s plans...This would...never...have...Cough cough...
 Eliwood: Lord Helman!
-Helman: …..Go to Laus…Darin…the marquess of Laus…knows all.
+Helman: .....Go to Laus...Darin...the marquess of Laus...knows all.
 Eliwood: Marquess Laus?
-Helman: I’m sorry, Eliwood…I…I can’t…
+Helman: I’m sorry, Eliwood...I...I can’t...
 Eliwood: Hold on!
-Helman: Beware…the Black…Fang………
+Helman: Beware...the Black...Fang.........
 Eliwood: Lord Helman!
-Hector: He’s gone…
-Eliwood: It can’t be…Lord Helman…Why……Why did this happen?
+Hector: He’s gone...
+Eliwood: It can’t be...Lord Helman...Why......Why did this happen?
 Hector: Blast! What is going on?!?
-Eliwood: …..We go to Laus. We must speak to the marquess of Laus, Lord Darin.
-Hector: You’re right. We should leave quickly. I’m not sure how far we can get today, but…I can’t sit still.
-Servant: Pardon me…
+Eliwood: .....We go to Laus. We must speak to the marquess of Laus, Lord Darin.
+Hector: You’re right. We should leave quickly. I’m not sure how far we can get today, but...I can’t sit still.
+Servant: Pardon me...
 Hector: Hm?
 Servant: If I may?
 Eliwood: Who are you?
 Servant: I’m the steward of Santaruz. With our lord gone, what are we to do?
-Hector: First, you give Lord Helman a proper burial. After that…I’m sure the Lycian Council will have to meet. Stay here and defend the castle until you hear more.
+Hector: First, you give Lord Helman a proper burial. After that...I’m sure the Lycian Council will have to meet. Stay here and defend the castle until you hear more.
 Servant: I understand.
 Eliwood: Let’s go. We must keep moving.
-Hector: Yes…and now we seek answers for Marquess Santaruz, too.
-Eliwood: …Lord Helman…May you find peace.
+Hector: Yes...and now we seek answers for Marquess Santaruz, too.
+Eliwood: ...Lord Helman...May you find peace.
 /***EOF***/
 @Opening 
 Following Uhai's last words, Eliwood ventures toward the heart of the forest. He is greeted by an extraordinary sight. A building unlike any he's ever seen. It was clearly not wrought by human hands. It is waiting...waiting for the masters who abandoned it centuries past. Massive beyond belief, these ancient ruins have nothing to do with humankind. Eliwood has arrived. He has found the Dragon's Gate.
@@ -1000,7 +1000,7 @@ Ephidel: We meet at last. I am Ephidel. Pleased to make your acquaintance.
 Hector: You’re Ephidel? I’ve been looking forward to this.
 Ephidel: ...Gallantly spoken. Of course, I know who you are. Marquess Ostia’s younger brother, Lord Hector. And here we have Caelin’s beloved princess, Lady Lyndis.
 Lyn: ......
-Ephidel: By the way, the gift I left for you in the forest… Was is to your liking? The corpse of that filthy red-haired traitor?
+Ephidel: By the way, the gift I left for you in the forest... Was is to your liking? The corpse of that filthy red-haired traitor?
 Hector: Monster! Stay right there! I’m going to crush the life from you with my bare hands.
 Ephidel: Now I see! She was an Ostian spy, wasn’t she? Don’t worry, she did not suffer. It only took one blow.
 Hector: Die‼
@@ -1018,11 +1018,11 @@ Hector: Blast!!
 Darin: Lord Ephidel! Is the girl with you?
 Ephidel: As you can see...
 Darin: Oho! The ritual can take place at last!
-Ephidel: Yes. However, we have an infestation of mice to deal with… They should be scurrying in here momentarily. They must be dealt with before the ritual takes place. May I entrust this task to you?
+Ephidel: Yes. However, we have an infestation of mice to deal with... They should be scurrying in here momentarily. They must be dealt with before the ritual takes place. May I entrust this task to you?
 Darin: Of course. Who do you think I am?! I am Darin, Marquess Laus! Ruler of this world!
 Ephidel: Very well, I leave it to you.
 Darin: Ruler of the world... Ha ha ha ha ha ha ha!
-Ephidel: Humans… They are so very fragile.
+Ephidel: Humans... They are so very fragile.
 
 Nergal: Ah... you’ve done well. Precious Ephidel. Shall we prepare for the ritual?
 Elbert: Nergal!!
@@ -1041,10 +1041,10 @@ Jaffar: Thy will be done.
 
 Cameron: I’ve been waiting for you, son of Pherae.
 Eliwood: Where is my father?
-Cameron: Inside… He’s farther inside. You will never see him, though. Even if you break through here, the path you seek is guarded my Marquess Laus. Will you not withdraw? It’s too late for that, isn’t it? You’ll never leave here alive. Ha ha ha ha ha!
+Cameron: Inside... He’s farther inside. You will never see him, though. Even if you break through here, the path you seek is guarded my Marquess Laus. Will you not withdraw? It’s too late for that, isn’t it? You’ll never leave here alive. Ha ha ha ha ha!
 
 @Battle 
-Sain: Tactician! The final battle is approaching. That traitor, Laus… He harmed Lord Hausen, caused grief to Lady Lyndis… As a true knight of Caelin, I will make him pay! Leave him to me!!
+Sain: Tactician! The final battle is approaching. That traitor, Laus... He harmed Lord Hausen, caused grief to Lady Lyndis... As a true knight of Caelin, I will make him pay! Leave him to me!!
 
 Kent: Mark, let me take the point. I will break through, even though it may cost me my life. If something does happen to me, Mark... Lady Lyndis... Please watch over her. Now, Mark, give me my orders!
 
@@ -1137,14 +1137,14 @@ Darin: Ha ha ha ha. I will never fall to the likes of you!!
 %Hector,Darin
 Darin: Oh... You’re Marquess Ostia’s younger brother...
 Hector: I couldn’t care less if you’ve a grudge against Ostia. I’ll put up with your treachery no longer!
-Darin: Heh heh heh… Ostia is no longer my main concern... Nor is the whole of Lycia... The only goal worthy of my attention is the entire world!
+Darin: Heh heh heh... Ostia is no longer my main concern... Nor is the whole of Lycia... The only goal worthy of my attention is the entire world!
 Hector: You’re mad!!
 
 %Lyn,Darin
-Lyn: Are you Darin? My grandfather… You tried to…
+Lyn: Are you Darin? My grandfather... You tried to...
 Darin: What? Who are you?
 Lyn: I am Marquess Caelin’s granddaughter, Lyndis!
-Darin: Oh… that senile fool? …That doddering wreck dared disagree with me… I was so happy to be rid of him.
+Darin: Oh... that senile fool? ...That doddering wreck dared disagree with me... I was so happy to be rid of him.
 Lyn: You’re a dead man!
 
 @End 
@@ -1438,9 +1438,9 @@ Lyn: You’ll come? Are you sure? Thank you! Let me ask once again for your frie
 
 /***EOF***/
 @Opening 
-Once, dragon fought man in a war called the Scouring… Mankind vanquished the dragons thanks to the efforts of eight heroes. These eight mighty generals brought peace to Elibe. The continent was divided into nations, and the people enjoyed an easy prosperity. The hero Hartmut settled in the east and founded Bern, famed for its military might. St. Elimine moved west, and her sacred name flourished among the artisans of Etruria. The horseman Hanon’s legacy lived on with the nomads of his beloved plains of Sacae. The birthplace of the knight Barigan is now home to the renowned Knights of Ilia. The berserker Durban’s final glory was to create a warrior’s clan in the Western Isles. The archsage Athos is said to have retired to the barren wasteland of Nabata. The heirs of the champion Roland themselves became the lords of the Lycian League. Elibe has enjoyed a peace that spans 980 years…
+Once, dragon fought man in a war called the Scouring... Mankind vanquished the dragons thanks to the efforts of eight heroes. These eight mighty generals brought peace to Elibe. The continent was divided into nations, and the people enjoyed an easy prosperity. The hero Hartmut settled in the east and founded Bern, famed for its military might. St. Elimine moved west, and her sacred name flourished among the artisans of Etruria. The horseman Hanon’s legacy lived on with the nomads of his beloved plains of Sacae. The birthplace of the knight Barigan is now home to the renowned Knights of Ilia. The berserker Durban’s final glory was to create a warrior’s clan in the Western Isles. The archsage Athos is said to have retired to the barren wasteland of Nabata. The heirs of the champion Roland themselves became the lords of the Lycian League. Elibe has enjoyed a peace that spans 980 years...
 
-How much longer can this peace stand before its foundations begin to crumble? Deep within the Lycian League lies Pherae, a land that has known no conflict for many generations, but which now finds itself touched by a shadow of unease. Its beloved and benevolent ruler, Lord Elbert, has mysteriously vanished… as have a number of his sworn men, loyal knights who serve at his side. A month has passed without word from the marquess. Rumors of his death abound. However, the marquess’s son believes his father lives, and he has vowed to find him. Marquess Pherae’s son, Eliwood: A red-haired youth who will one day become the finest knight in all of Lycia. His long journey begins here.
+How much longer can this peace stand before its foundations begin to crumble? Deep within the Lycian League lies Pherae, a land that has known no conflict for many generations, but which now finds itself touched by a shadow of unease. Its beloved and benevolent ruler, Lord Elbert, has mysteriously vanished... as have a number of his sworn men, loyal knights who serve at his side. A month has passed without word from the marquess. Rumors of his death abound. However, the marquess’s son believes his father lives, and he has vowed to find him. Marquess Pherae’s son, Eliwood: A red-haired youth who will one day become the finest knight in all of Lycia. His long journey begins here.
 
 @Intro 
 Marcus: Lord Eliwood, we leave on your word.
@@ -1697,7 +1697,7 @@ Zephiel: Who are you?
 Enigmatic Man: ...Dragon.
 /***EOF***/
 @Opening 
-Ninian is dead. Now, only Nergal's echoing laughter remains… On Hector's advice, the group heads toward Ostia. They are weary to the bone, and they need time to regroup. Ostia is the most heavily guarded fortress city in all of Lycia. No enemy should have been able to breach its walls.
+Ninian is dead. Now, only Nergal's echoing laughter remains... On Hector's advice, the group heads toward Ostia. They are weary to the bone, and they need time to regroup. Ostia is the most heavily guarded fortress city in all of Lycia. No enemy should have been able to breach its walls.
 
 @Battle 
 Vaida: Look at that! Bowmen as far as the eye can see! Mark! Do you have something against me? Heh, you know better than that. Let me tell you, Vaida is not your average wyvern rider! Mark! Sit back and watch me perform!
@@ -1946,29 +1946,29 @@ Near Laus, Hector defeats General Bauker. Hector and his allies now march toward
 @Intro 
 Hector: Looks like there are still a lot of Laus soldiers in the castle.
 Eliwood: Lyndis, where are the Caelin guards?
-Lyn: I think about half of them were killed in the surprise attack. The survivors must be here somewhere…
+Lyn: I think about half of them were killed in the surprise attack. The survivors must be here somewhere...
 Hector: They’re probably locked away as prisoners. Right. Well, let’s find and rescue them too!
 Eliwood: I wish we had more power to make up for our poor numbers.
-Lyn: Hold on, Grandfather… We’ll be there shortly.
+Lyn: Hold on, Grandfather... We’ll be there shortly.
 Hector: Time to get inside! Let’s reclaim the castle! The key to victory is seizing the throne! That’s where we’ll find their commander I’m sure.
 
 Merlinus: Um, hellooooo!
 Eliwood: Hm?
 Merlinus: Are you from Castle Caelin?
 Lyn: I am. May I ask your business in the castle?
-Merlinus: I am Merlinus. I am a traveling merchant with goods beyond compare. If you would be so kind to hire me, I…
+Merlinus: I am Merlinus. I am a traveling merchant with goods beyond compare. If you would be so kind to hire me, I...
 Lyn: My apologies. Now is not the time.
-Merlinus: Please, my lady… I’ve dreamt of working for a noble house for so long. By all means, please call on my services!
+Merlinus: Please, my lady... I’ve dreamt of working for a noble house for so long. By all means, please call on my services!
 Hector: Old man! Are you truly a merchant?
-Merlinus: Old… Old man?
+Merlinus: Old... Old man?
 Eliwood: You’re being rude, Hector!
-Hector: Right, right. Old…gentleman. Is it true you aspire to work for a noble house?
+Hector: Right, right. Old...gentleman. Is it true you aspire to work for a noble house?
 Merlinus: Yes, my boy. Yes, I do.
 Hector: In that case, we’d like to hire you.
 Merlinus: Really?
 Eliwood: Hector?
 Hector: This journey could last a while, and we’ve acquired many items. It would be quite convenient if we had someone to manage our things.
-Merlinus: Leave it to me! Managing…things is my specialty!
+Merlinus: Leave it to me! Managing...things is my specialty!
 Eliwood: Our journey is dangerous, and has no end in sight. Is that acceptable?
 Merlinus: Did you say da-dangerous?
 Hector: I’m brother to Marquess Ostia. He’s Marquess Pherae’s son. You can come with us if you so desire.
@@ -1983,68 +1983,68 @@ Raven: Hey, you. Let me out of here.
 Laus Soldier: What?
 Raven: Marquess Ostia’s brother is among your enemy, right? Let me out, and I’ll help you. But I must have the brother. I’ve a score to settle with House Ostia.
 Laus Soldier: Do you think me a fool? You work for house Caelin! I cannot trust your word!
-Raven: Then I’ll have to break down this door and go through you. You were using Lucius as a hostage, but now he’s here with me…
-Laus Soldier: Uh…
+Raven: Then I’ll have to break down this door and go through you. You were using Lucius as a hostage, but now he’s here with me...
+Laus Soldier: Uh...
 Lucius: No, Lord Raven! You mustn’t! You cannot betray your debt to Marquess Caelin.
-Raven: Shut up, Lucius. You think me foolish, but you don’t understand… How about it?
+Raven: Shut up, Lucius. You think me foolish, but you don’t understand... How about it?
 Laus Soldier: Very well. You! Get out! Remember, if you betray us, your companion dies.
 Raven: I see. Just remember, if that happens, you die next.
-Laus Soldier: Urr…
+Laus Soldier: Urr...
 Lucius: Wait! You can’t go alone! It’s too dangerous!
 Raven: Lucius, stay here and be quiet. I’ll be back for you.
 Lucius: Lord Raven!
 
 Caelin Soldier: What in blazes!? It’s getting even noisier than before.
 Lucius: Isn’t that the sound of combat?
-Caelin Soldier: It must be Lady Lyndis! She’s found reinforcements! It’s time…
-Lucius: Hm? What… What are you doing?
+Caelin Soldier: It must be Lady Lyndis! She’s found reinforcements! It’s time...
+Lucius: Hm? What... What are you doing?
 Caelin Soldier: I thought aid might come, so I hid keys and weapons here.
 Lucius: Oh, I see.
 Caelin Soldier: What are you going to do?
-Lucius: Uh…
-Caelin Soldier: Your master… He’s betrayed us. Lucius, I must ask. What will you do?
-Lucius: I… I want to stop Lord Raven. However… In his current state, I…doubt he will lend me his ear. And so…I will…wait. I will wait for Lord Raven here. I’m sorry… I cannot fight. …Please understand.
+Lucius: Uh...
+Caelin Soldier: Your master... He’s betrayed us. Lucius, I must ask. What will you do?
+Lucius: I... I want to stop Lord Raven. However... In his current state, I...doubt he will lend me his ear. And so...I will...wait. I will wait for Lord Raven here. I’m sorry... I cannot fight. ...Please understand.
 Caelin Soldier: I do. Here, these are for you.
 Lucius: For me? Vulnerary and a book of light magic?
 Caelin Soldier: You don’t have to fight, just protect yourself. I’ve known you only a short time, but you’re a friend. I don’t want to see you die.
-Lucius: Thank you… Thank you.
+Lucius: Thank you... Thank you.
 Caelin Soldier: All right, lads! Open that door!! On our honor as Caelin knights, we will save the marquess!
 
 @Recruit-Talk 
 %Priscilla,Raven
-Raven: You…
+Raven: You...
 Priscilla: Hm?
 Raven: Can it be?
-Priscilla: I…
-Raven: You don’t… recognize me. That’s not surprising. You were so young when we were separated.
-Priscilla: What? Are you… Raymond? My brother, Raymond?
-Raven: You’ve grown, Priscilla…
+Priscilla: I...
+Raven: You don’t... recognize me. That’s not surprising. You were so young when we were separated.
+Priscilla: What? Are you... Raymond? My brother, Raymond?
+Raven: You’ve grown, Priscilla...
 Priscilla: Brother! My brother!!
-Raven: What are you doing here? It’s been ten years since Count Caerleon of Etruria took you in as his foster daughter…
+Raven: What are you doing here? It’s been ten years since Count Caerleon of Etruria took you in as his foster daughter...
 Priscilla: That’s right. My adopted father has treated me with much kindness. But I am of Caelin’s House Cornwell by birth. I still remember Father and Mother.  I’ve never forgotten them. Or you, Raymond.
-Raven: …Priscilla.
-Priscilla: ……When I heard that House Cornwell was lost…I… I was so worried about you.
+Raven: ...Priscilla.
+Priscilla: ......When I heard that House Cornwell was lost...I... I was so worried about you.
 Raven: So that’s why you left Etruria? You’ve come quite a way.
-Priscilla: Dear friends of mine in Etruria helped me. They provided a young mage to be my escort. Then we passed through Laus… The marquess learned of my lineage and refused to let me leave. I would be there still if not for Lord Eliwood and his companions.
-Raven: His…companions?
-Priscilla: Lord Hector, Lady Lyndis… They’re all such kind people. I’m so glad I came to Lycia. And now I’ve found you…
-Raven: You’ve become friends with…him?
+Priscilla: Dear friends of mine in Etruria helped me. They provided a young mage to be my escort. Then we passed through Laus... The marquess learned of my lineage and refused to let me leave. I would be there still if not for Lord Eliwood and his companions.
+Raven: His...companions?
+Priscilla: Lord Hector, Lady Lyndis... They’re all such kind people. I’m so glad I came to Lycia. And now I’ve found you...
+Raven: You’ve become friends with...him?
 Priscilla: Raymond?
-Raven: ……I see. Then I will join you.
+Raven: ......I see. Then I will join you.
 Priscilla: Dear Brother! Will you truly come with us?
-Raven: I could not refuse my little sister. And besides…
+Raven: I could not refuse my little sister. And besides...
 Priscilla: What is it?
-Raven: It’s nothing. You’re better off not knowing. Tell me, your lineage… Do Eliwood and his friends know of your heredity?
+Raven: It’s nothing. You’re better off not knowing. Tell me, your lineage... Do Eliwood and his friends know of your heredity?
 Priscilla: No, we’ve never spoken of it.
-Raven: I see… That is best.
+Raven: I see... That is best.
 Priscilla: Brother?
 Raven: Priscilla, we must keep our relationship secret. OK?
-Priscilla: All right… If you say we must…
-Raven: Another thing, my name is Raven now. Raymond is…a name I’ve discarded.
-Priscilla: Brother… You have your reasons, don’t you? I understand. As long as we can travel together, I’m happy.
-Raven: ……
+Priscilla: All right... If you say we must...
+Raven: Another thing, my name is Raven now. Raymond is...a name I’ve discarded.
+Priscilla: Brother... You have your reasons, don’t you? I understand. As long as we can travel together, I’m happy.
+Raven: ......
 Priscilla: If we continue on, we’ll be able to see Father and Mother, too!
-Raven: …Priscilla… That’s……
+Raven: ...Priscilla... That’s......
 
 @Battle 
 Lyn: Are you all well?
@@ -2071,11 +2071,11 @@ Soldier: Absolutely, sir!
 Sain: All right! Direct your energy on your foes and drive them out!
 Soldier: Yes, sir!
 
-Florina: Everyone… Are you well?
+Florina: Everyone... Are you well?
 Soldier: Oh! Florina! You’re unharmed!
-Florina: Yes, uhm… I’m with Lady Lyndis.
+Florina: Yes, uhm... I’m with Lady Lyndis.
 Soldier: Nice work! Leave the rest to us!
-Florina: Now, I’ll…uh…take you to Lord Eliwood. ……Huh? Wa-Wait for me!
+Florina: Now, I’ll...uh...take you to Lord Eliwood. ......Huh? Wa-Wait for me!
 
 @Battle-Talk 
 %Lyn,Lucius
@@ -2083,23 +2083,23 @@ Lucius: Lyn! Are you well?
 Lyn: Lucius?! Why are you here?
 Lucius: Actually, I’ve been here for a few days as a mercenary.
 Lyn: I didn’t know. Why didn’t you send word?
-Lucius: Well…I’m… I’m traveling with someone, and… More importantly, I apologize for not being able to protect Castle Caelin. My lack of… strength… is truly shameful.
-Lyn: It’s no one’s fault. The attack came so quickly. I was forced to flee myself. Now I simply want to rescue my grandfather as soon as possible. That is all I wish…
-Lucius: May…I offer… my assistance?
+Lucius: Well...I’m... I’m traveling with someone, and... More importantly, I apologize for not being able to protect Castle Caelin. My lack of... strength... is truly shameful.
+Lyn: It’s no one’s fault. The attack came so quickly. I was forced to flee myself. Now I simply want to rescue my grandfather as soon as possible. That is all I wish...
+Lucius: May...I offer... my assistance?
 Lyn: It’s not necessary.
 Lucius: Pardon?
 Lyn: Your hands are shaking terribly. I thank you for your offer, but you cannot fight in this condition.
-Lucius: I… I’m sorry.
+Lucius: I... I’m sorry.
 Lyn: It’s all right. I do ask that you help me when you’re able.
-Lucius: Yes… Of course.
+Lucius: Yes... Of course.
 
 %Lyn,Lucius
 Lucius: Lyn! Are you well?
 Lyn: Lucius?! Why are you here?
 Lucius: Actually, I’ve been here for a few days as a mercenary.
 Lyn: I didn’t know. Why didn’t you send word?
-Lucius: Well…I’m… I’m traveling with someone, and… More importantly, I apologize for not being able to protect Castle Caelin. My lack of …strength… is truly shameful.
-Lyn: It’s no one’s fault. The attack came so quickly. I was forced to flee myself. Now I simply want to rescue my grandfather as soon as possible. That is all I wish…
+Lucius: Well...I’m... I’m traveling with someone, and... More importantly, I apologize for not being able to protect Castle Caelin. My lack of ...strength... is truly shameful.
+Lyn: It’s no one’s fault. The attack came so quickly. I was forced to flee myself. Now I simply want to rescue my grandfather as soon as possible. That is all I wish...
 Lucius: I truly hope I can be of service.
 Lyn: You can, Lucius. I’m counting on you.
 
@@ -2108,73 +2108,73 @@ Lyn: You can, Lucius. I’m counting on you.
 Raven: Lucius.
 Lucius: Lord Raven! I’m so pleased to see you well!
 Raven: Things have changed. For the time being, we side with Caelin.
-Lucius: That is good… So you’ve had a change of heart?
+Lucius: That is good... So you’ve had a change of heart?
 Raven: No, I will still have my revenge against House Ostia. The closer you are to your enemy, the easier it is to strike, right?
-Lucius: Lo-Lord Raven…
+Lucius: Lo-Lord Raven...
 Raven: Let’s go, Lucius.
-Lucius: Yes…
+Lucius: Yes...
 
 @Boss 
 Bernard: I am Bernard, Knight Commander of Laus! I would test the might of those who bested Bauker!
 
-Bernard: This is a just reward… for Laus’s brutality…
+Bernard: This is a just reward... for Laus’s brutality...
 
 @End 
-Lyn: Grandfather! Grandfather! Where…
+Lyn: Grandfather! Grandfather! Where...
 Eliwood: Lord Hausen? Where are you?
-Hector: Eliwood. Here, on the throne… It’s blood.
+Hector: Eliwood. Here, on the throne... It’s blood.
 Lyn: Blood? No! It can’t be!!
 Eliwood: Lyndis! Calm down. He might only be injured. Come, let us find him.
-Lyn: Yes, you’re right. I must be calm. There! Over there! There’s someone…
+Lyn: Yes, you’re right. I must be calm. There! Over there! There’s someone...
 Eliwood: Who’s there? Show yourself!
-Leila: ……
-Hector: You… Leila!
+Leila: ......
+Hector: You... Leila!
 Leila: Yes, it’s me, Lord Hector. It’s been a long time.
 Eliwood: You know her?
-Hector: Yes, her name’s Leila. She…works for Ostia… All right, she’s a spy.
+Hector: Yes, her name’s Leila. She...works for Ostia... All right, she’s a spy.
 Leila: Lord Eliwood of Pherae and Lady Lyndis of Caelin, correct? I am Leila. Pleased to make your acquaintance. Lady Lyndis, Marquess Caelin is back there receiving treatment.
 Lyn: My grandfather is safe?!
-Leila: …His life is yet his own.
+Leila: ...His life is yet his own.
 Lyn: Ah! Father Sky and Mother Earth! I thank you for your mercy!!
 Hector: Leila, what are you doing here?
-Leila: I… I’m following Lord Uther’s orders. I’m investigating Marquess Pherae’s disappearance.
+Leila: I... I’m following Lord Uther’s orders. I’m investigating Marquess Pherae’s disappearance.
 Eliwood: My father? What have you learned?
 Leila: Come with me. We should talk in private.
-Eliwood: ……
+Eliwood: ......
 Hector: Huh? Come on, Eliwood.
-Eliwood: Ah…
+Eliwood: Ah...
 Hector: Worrying about things won’t change them.
 Eliwood: I know. I’m fine. Let’s go!
 Leila: Let me start with my conclusion.
-Eliwood: ……
-Leila: Marquess Pherae… is alive.
+Eliwood: ......
+Leila: Marquess Pherae... is alive.
 Hector: Whooooo! Eliwood!
 Lyn: That’s wonderful!
 Eliwood: Are you sure?
 Leila: I’ve been posing as a member of the Black Fang for several months. That’s where I got this information. I believe it is true.
-Eliwood: Black Fang… They’re the assassins guild that Erik spoke of.
+Eliwood: Black Fang... They’re the assassins guild that Erik spoke of.
 Leila: Yes, we’ve known of their existence for quite some time.
 Hector: Explain.
 Leila: The Black Fang is a guild of assassins founded about ten years ago by Brendan Reed. They’re based in Bern. Their arms reached quickly in several other countries. Originally, they targeted only nobles who abused their positions. The masses saw them as chivalrous, defenders of the common man. Their activities found wide support.
-Hector: Chivalrous…
+Hector: Chivalrous...
 Leila: Then about a year ago, Brendan got married again. Black Fang’s operations have slowly changed since then. Now, they’ll take on any target, no matter how difficult, as long as they’re paid. And they’re no longer killing only criminals; anyone is a fair target.
 Lyn: Is this Black Fang responsible for what’s happened to my grandfather?
-Leila: Yes. We’ve learned of a mystery man named Nergal, behind Reed’s wife. It seems the Black Fang is performing secret tasks across Lycia for Nergal. Nergal’s trusted retainer Ephidel is with Marquess Laus. He manipulated Laus into hatching the rebellion plot against Ostia. The first to answer Laus’s call for rebellion was… Marquess Santaruz.
-Eliwood: Lord Helman… Why would you…
-Hector: ……
+Leila: Yes. We’ve learned of a mystery man named Nergal, behind Reed’s wife. It seems the Black Fang is performing secret tasks across Lycia for Nergal. Nergal’s trusted retainer Ephidel is with Marquess Laus. He manipulated Laus into hatching the rebellion plot against Ostia. The first to answer Laus’s call for rebellion was... Marquess Santaruz.
+Eliwood: Lord Helman... Why would you...
+Hector: ......
 Leila: Next was Lord Elbert, Marquess Pherae.
 Eliwood: You’re telling me that my father endorsed this plan?
-Leila: I cannot say. I do know that he is with Marquess Laus currently. In a place called… the Dragon’s Gate.
+Leila: I cannot say. I do know that he is with Marquess Laus currently. In a place called... the Dragon’s Gate.
 Eliwood: Dragon’s Gate? Where is that?
 Leila: On an isle called Valor, off the southern coast of Lycia. I apologize, but that is all the information I have.
-Hector: Of all places to be, Valor… Blast!
+Hector: Of all places to be, Valor... Blast!
 Lyn: What kind of place is it?
 Eliwood: It’s said that those who step onto the island never return. The common folk call it the Dread Isle. If that’s where my father is, however,  I will go and find him.  And this “Dragon’s Gate,” too!
 Hector: I’m going with you. I’ll tell you right now, you can’t stop me.
 Lyn: I’m also going.
-Eliwood: Lyndis, I appreciate your kindness, but… Shouldn’t you stay with Marquess Caelin?
-Lyn: Laus must be stopped. Otherwise, they might target my grandfather again. I also wish to help Eliwood’s father. Losing a parent… It’s an unbearable pain. It’s something I’d rather you didn’t have to feel yet.
-Eliwood: Lyndis… Hector… Thank you. You give me strength.
+Eliwood: Lyndis, I appreciate your kindness, but... Shouldn’t you stay with Marquess Caelin?
+Lyn: Laus must be stopped. Otherwise, they might target my grandfather again. I also wish to help Eliwood’s father. Losing a parent... It’s an unbearable pain. It’s something I’d rather you didn’t have to feel yet.
+Eliwood: Lyndis... Hector... Thank you. You give me strength.
 Hector: Don’t mention it.
 Lyn: We’re friends. It’s what friends do, Eliwood.
 Leila: I’m also going to continue searching. Lady Lyndis, I think it would be prudent to let the world think Marquess Caelin is dead.
@@ -2182,11 +2182,11 @@ Lyn: I understand. I’ll do that. Thank you.
 Leila: No thanks necessary. If you’ll excuse me.
 Hector: Leila!
 Leila: Yes?
-Hector: Nergal and this…Ephidel? What are they like?
-Leila: I’ve yet to lay eyes on Nergal. I’ve spoken to Ephidel on several occasions, however. He’s…eerie. He always wears a cloak that covers his face. And yet…
+Hector: Nergal and this...Ephidel? What are they like?
+Leila: I’ve yet to lay eyes on Nergal. I’ve spoken to Ephidel on several occasions, however. He’s...eerie. He always wears a cloak that covers his face. And yet...
 Hector: What is it?
-Leila: His eyes glow golden… You can’t miss them. They seem…inhuman.
-Eliwood: ……
+Leila: His eyes glow golden... You can’t miss them. They seem...inhuman.
+Eliwood: ......
 
 Matthew: Is that you, Leila?
 Leila: Matthew. It’s been a long time.
@@ -2196,13 +2196,13 @@ Matthew: That’s true. So how long do you think this mission’s going to last?
 Leila: My objective is the same as yours: to rescue Marquess Pherae. If things go well, I’ll be in Ostia at the same time as you are.
 Matthew: Is that so? You need to visit my hometown.
 Leila: Is this where you were born? Why?
-Matthew: …To meet my parents.
-Leila: Hm? Matthew…
+Matthew: ...To meet my parents.
+Leila: Hm? Matthew...
 Matthew: Ha ha. Well, that’s that! See you.
-Leila: As slippery as ever… Didn’t even wait for my reply.
+Leila: As slippery as ever... Didn’t even wait for my reply.
 
 Soldier: Lady Lyndis!
-Lyn: Everyone… I’m happy to see you all well. I’m going after Marquess Laus. Protect my grandfather.
+Lyn: Everyone... I’m happy to see you all well. I’m going after Marquess Laus. Protect my grandfather.
 Soldier: One moment, Lady Lyndis. Please take this jewel before you leave.
 Lyn: Jewel?
 Soldier: We were able to move it before Laus’s men ransacked our vaults.
@@ -2629,12 +2629,12 @@ Sealen: Our goal is the throne. We’ll attack from the front and send another u
 @Boss
 Sealen: I’ll meet any challengers here. Someone else go after the throne.
 
-Sealen: So this is a mercenary’s death…
+Sealen: So this is a mercenary’s death...
 
 @End 
 Hector: Yes! We survived!
 Oswin: The rest of the enemy units have begun to retreat. It must be part of their plan. Half of them are already gone.
-Hector: Blast! You have to admire their efficiency, though. Eubans’s mercenaries… I won’t forget this. We’ll likely cross paths again someday. And there’s the assassins I fought in Ostia…..
+Hector: Blast! You have to admire their efficiency, though. Eubans’s mercenaries... I won’t forget this. We’ll likely cross paths again someday. And there’s the assassins I fought in Ostia.....
 Oswin: Hector? Is something wrong?
 Hector: No, nothing special. We simply have to tighten our belts and prepare. It appears we have more than one enemy. Oswin!
 Oswin: We’ll see to the castle defenses at once...
@@ -2894,7 +2894,7 @@ Serra: Eeeeeeee! Mark! Is it really you? It’s been far, far too long! You miss
 
 /***EOF***/
 @Opening 
-After receiving aid from Queen Hellene, Eliwood/Hector rushes to the sealed shrine. The secret road they follow is known only to the royal family… They pass Bern's soldiers unnoticed and unhindered. They approach the castle…
+After receiving aid from Queen Hellene, Eliwood/Hector rushes to the sealed shrine. The secret road they follow is known only to the royal family... They pass Bern's soldiers unnoticed and unhindered. They approach the castle...
 
 @Intro 
 Linus: Wait for the opportunity, and bring them down... That's the way, right, Brother? And now the time has finally arrived.
@@ -2934,14 +2934,14 @@ Nino: Mark! Let me go! I can talk to my brother! I know it might not work, but..
 Jaffar: Do you need something, Mark? That's right. They're Black Fang. The man he named, like me, is one of the Four Fangs. He is an assassin, my equal... Or better... .....
 
 @Visit 
-Murdock: Ah! You…
+Murdock: Ah! You...
 
 Eliwood: Huh!?
 
-Murdock: Go. I saw nothing. I met with no one. Wait. Take this staff. Thank you…for Prince Zephiel.
+Murdock: Go. I saw nothing. I met with no one. Wait. Take this staff. Thank you...for Prince Zephiel.
 
 @Battle 
-Vaida: Here they come again, those little Lycian nobles. I’d love to take them on, but… Prince Zephiel insists it was they who saved him… Pah… What’s this world coming to?
+Vaida: Here they come again, those little Lycian nobles. I’d love to take them on, but... Prince Zephiel insists it was they who saved him... Pah... What’s this world coming to?
 
 @Recruit-Talk 
 %Hector,Vaida
@@ -2979,11 +2979,11 @@ Vaida: Really... Then look for me. I’ll be joining you shortly.
 @Boss 
 Linus: Was it you? It was you, wasn't it?! You're the one who killed my brother!! 
 
-Linus: Wha… I’ve lost… At least…I can see my brother again...
+Linus: Wha... I’ve lost... At least...I can see my brother again...
 
 %Eliwood,Linus
 Linus: You’re Eliwood, right?! I’ve been looking for you!
-Eliwood: Hey!! Hold on! We need to talk about things…
+Eliwood: Hey!! Hold on! We need to talk about things...
 Linus: I am Linus Reed, son of Brendan Reed. I am the vengeance of Lloyd, whose life you stole! Prepare yourself! I’m coming for you!!!
 Eliwood: Wait!!!
 
@@ -2996,21 +2996,21 @@ Hector: I am Marquess Ostia’s brother, Hector!! And I don’t know about Lloyd
 %Nino,Linus
 Nino: Linus! Stop!! Please listen to me!!
 Linus: I will kill anyone who aids my brother’s killers! Nino, that includes you!!!
-Nino: No!! …My…brother…
+Nino: No!! ...My...brother...
 
 %Jaffar,Linus
 Linus: Jaffar!! You traitorous scum!
-Jaffar: ……
+Jaffar: ......
 Linus: Repent your sins, Jaffar! I bring you the Fang’s justice!
 
 %Legault,Linus
-Legault: Hello… Linus.
-Linus: Legault!? You… You disloyal filth! You of all people…siding with them!?
-Legault: Calm down. Your brother’s murder… It wasn’t by our hands… Hey!!
+Legault: Hello... Linus.
+Linus: Legault!? You... You disloyal filth! You of all people...siding with them!?
+Legault: Calm down. Your brother’s murder... It wasn’t by our hands... Hey!!
 Linus: Draw your sword. I won’t miss again.
 Legault: Remember how good the old days were? Your father, old Jan, Uhai, you, and me and your brother. When did the Black Fang lose its honor?
 Linus: Be quiet!!! Stop your pathetic whimpering and fight!!
-Legault: I knew this would happen. Nothing’s going to change. I knew it, and yet here I am. I couldn’t leave well enough alone… I’m a fool.
+Legault: I knew this would happen. Nothing’s going to change. I knew it, and yet here I am. I couldn’t leave well enough alone... I’m a fool.
 
 @Boss 
 Lloyd: It matters not who you are. It's too late... I will avenge my brother's death. One by one... 
@@ -3019,48 +3019,48 @@ Lloyd: ......No more waiting, Linus. I'm...coming...
 
 %Eliwood,Lloyd
 Lloyd: We meet at last, Eliwood.
-Eliwood: Ah! Hold on! Let’s talk! We…
-Lloyd: I’m Lloyd Reed, son of Brendan Reed. My brother, Linus, whom you killed, longs for you to join him…….Prepare to die.
+Eliwood: Ah! Hold on! Let’s talk! We...
+Lloyd: I’m Lloyd Reed, son of Brendan Reed. My brother, Linus, whom you killed, longs for you to join him.......Prepare to die.
 Eliwood: Wait!!!
 
 %Hector,Llyod
 Lloyd: You there, who are you?
 Hector: Marquess Ostia’s brother, Hector! And you, lout?
-Lloyd: The Black Fang commander’s son, Lloyd Reed… You remind me of my brother. Something about you…
+Lloyd: The Black Fang commander’s son, Lloyd Reed... You remind me of my brother. Something about you...
 Hector: Huh? What are you talking about?
-Lloyd: My brother, whom you killed. My brother, Linus….It’s none of your business……
-Hector: I have a brother, too. If someone killed him, I would make sure his killer paid dearly and suffered long…
-Lloyd: ……Well spoken. If you don’t want to give your brother cause to mourn, you’d best fight well…….Prepare yourself.
+Lloyd: My brother, whom you killed. My brother, Linus....It’s none of your business......
+Hector: I have a brother, too. If someone killed him, I would make sure his killer paid dearly and suffered long...
+Lloyd: ......Well spoken. If you don’t want to give your brother cause to mourn, you’d best fight well.......Prepare yourself.
 Hector: Ah!!
 
 %Nino,Lloyd
 Nino: Lloyd!
-Lloyd: Nino…
-Nino: Listen to me, please. This is all a mistake…
-Lloyd: Do not speak. We are enemies now… I can show you no mercy.
+Lloyd: Nino...
+Nino: Listen to me, please. This is all a mistake...
+Lloyd: Do not speak. We are enemies now... I can show you no mercy.
 Nino: Lord Eliwood is not a bad man! You’ll fight knowing that?
-Lloyd: They were Linus’s enemies… That is why I fight.
-Nino: Lloyd, please…
+Lloyd: They were Linus’s enemies... That is why I fight.
+Nino: Lloyd, please...
 Lloyd: Don’t cry, Nino. You must live for the future. I am bound to this course. Kill me, and don’t look back.
 Nino: No! I don’t want to! Lloyd!!!
 
 %Jaffar,Lloyd
-Lloyd: The “Angel of Death." Since the day I met you, I’ve always wondered… If we met in straight combat, who of us would win?
-Jaffar: ……
+Lloyd: The “Angel of Death." Since the day I met you, I’ve always wondered... If we met in straight combat, who of us would win?
+Jaffar: ......
 Lloyd: I think it’s time that question was answered.
 
 %Legault,Lloyd
-Legault: Hey… Long time, no see.
-Lloyd: The Hurricane… I heard you’d quit the Fang, but… Seeing you with them is…
+Legault: Hey... Long time, no see.
+Lloyd: The Hurricane... I heard you’d quit the Fang, but... Seeing you with them is...
 Legault: Unexpected? Shouldn’t be. As soon as that skulking shadow Nergal showed up, I knew the Fang was as good as finished.
-Lloyd: ...…
-Legault: You know… You’re the one thing I can’t figure out. Lloyd, what are you doing here? Why this?
-Lloyd: Who knows… But my brother’s dead. And at the hands of your newfound friends…
+Lloyd: ......
+Legault: You know... You’re the one thing I can’t figure out. Lloyd, what are you doing here? Why this?
+Lloyd: Who knows... But my brother’s dead. And at the hands of your newfound friends...
 Legault: We’re not responsible for Linus’s death.
 Lloyd: It does not matter. I believe you are, and that is enough.
-Legault: ……All right. I see. Nothing’s going to change. I knew that, and yet… I had to try. It’s a bad habit of mine.
+Legault: ......All right. I see. Nothing’s going to change. I knew that, and yet... I had to try. It’s a bad habit of mine.
 Lloyd: Farewell, Legault. My old friend.
-Legault: I’ll see you again, Lloyd. With Linus…and Uhai… Even if it won’t be in this world.
+Legault: I’ll see you again, Lloyd. With Linus...and Uhai... Even if it won’t be in this world.
 
 @End 
 Nino: ...Brother... ... ... ...
@@ -3298,7 +3298,7 @@ Hector: Here they come!
 Zoldam: All we want is the girl. Kill the rest.
 
 @Battle 
-Jake: Ahoooy! Can you hold the deck until reinforcements arrive? Who? Me? I’m Jake. Hm? Aye, I’m new to the Davros’s crew. Huh? You heard about me from Anna? Oh… So she’s worried about me? That warms my heart, my friend! Let me give you some information. We’ve got merchants aboard. Buy what you need from them. This is the armory. This is the shop. You won’t be able to stock up once we reach the Dread Isle. Buy as much as you can carry while you’ve got the chance!
+Jake: Ahoooy! Can you hold the deck until reinforcements arrive? Who? Me? I’m Jake. Hm? Aye, I’m new to the Davros’s crew. Huh? You heard about me from Anna? Oh... So she’s worried about me? That warms my heart, my friend! Let me give you some information. We’ve got merchants aboard. Buy what you need from them. This is the armory. This is the shop. You won’t be able to stock up once we reach the Dread Isle. Buy as much as you can carry while you’ve got the chance!
 
 Dart: Ahoy! We’ll leave the fighting to you. Hold on until we can help! Oh, and we’ve merchants aboard. This is the armory. This is the shop. You won’t be able to stock up once we reach the Dread Isle. I suggest you buy as much as possible while you’ve the chance!
 
@@ -3306,7 +3306,7 @@ Guy: Ohhh... I'm going to be sick. Doesn't this bother you, Mark? This ship move
 
 Priscilla: Mark? What is it? No, I'm fine. I'm not seasick at all. Thank you for your concern.
 
-Zoldam: Move ’round to the enemy ship’s stern. That’s where they should be waiting… That’s where they’ll die.
+Zoldam: Move ’round to the enemy ship’s stern. That’s where they should be waiting... That’s where they’ll die.
 
 @Boss 
 Zoldam: Don’t worry about any ambush. Board their ship. You don’t know how to fight? Go now, or die here...
@@ -3316,42 +3316,42 @@ Zoldam: You possess...this much...power...? Must warn... Must –
 @End
 Fargus: Ahoy! I’m back! Now, who wants to die first? What’s this? You’ve routed ’em already? Nicely done, whelps!
 Hector: Those sea dogs were no match for us!!
-Eliwood: ……
+Eliwood: ......
 Lyn: Ah! Ninian! You can’t come out yet! There’s blood everywhere!
-Ninian: …Blood?
+Ninian: ...Blood?
 Eliwood: Look out!
-Ninian: …Ah! I’m sorry.
+Ninian: ...Ah! I’m sorry.
 Eliwood: Are you OK? Ninian?
-Ninian: Ninian? Is that…me? Is that…my name?
-Lyn: Ninian! What’s happened to you…
-Ninian: …I… My head…is so foggy. Am I…at sea?
+Ninian: Ninian? Is that...me? Is that...my name?
+Lyn: Ninian! What’s happened to you...
+Ninian: ...I... My head...is so foggy. Am I...at sea?
 Lyn: Yes. We found you adrift in a small boat.
 Fargus: Those scum were after the girl, it seems. Will you take her with you? The men are afraid she, well, she might be cursed, you know?
-Hector: Cursed…?
+Hector: Cursed...?
 Lyn: Are you suggesting we leave Ninian behind?
 Hector: We can’t take her with us, can we? We’re heading for the Dread Isle. It’s dread for a reason, you know!
-Lyn: Regardless…she goes with us!
+Lyn: Regardless...she goes with us!
 Eliwood: Lyndis?
-Lyn: When I saw her, I remembered something. The last time I saw Ninian… She and her brother were being hunted by some dark-robed men.
+Lyn: When I saw her, I remembered something. The last time I saw Ninian... She and her brother were being hunted by some dark-robed men.
 Hector: Dark-robed? Are you sure?
 Lyn: Yes, I think it must be the Black Fang. It didn’t occur to me before, but now I’m certain.
 Eliwood: How can you be sure?
-Lyn: I can’t explain… There’s something in the air that hints at their involvement.
+Lyn: I can’t explain... There’s something in the air that hints at their involvement.
 Eliwood: If it’s true, then she’s likely to be attacked again.
-Lyn: Almost certainly. We can’t leave her behind. I will watch over her. Please…
+Lyn: Almost certainly. We can’t leave her behind. I will watch over her. Please...
 Eliwood: I understand. We should be by her side to protect her.
 Lyn: Thank you.
 Eliwood: We’re all going to that island. Will you come with us?
-Ninian: Yes… Please…take me with you.
+Ninian: Yes... Please...take me with you.
 
-Hector: “Something in the air”… Are you some sort of hound?
+Hector: “Something in the air”... Are you some sort of hound?
 Lyn: Ah! Are you mocking me?
-Hector: No, the opposite. I’m in utter admiration. …Say, Eliwood. When I left Ostia, I was attacked by a dark-robed group.
+Hector: No, the opposite. I’m in utter admiration. ...Say, Eliwood. When I left Ostia, I was attacked by a dark-robed group.
 Eliwood: What? Why didn’t you tell me this before?
-Hector: Many people hold a grudge against Ostia. I didn’t think it had anything to do with this. Until now…
-Eliwood: Hector, do you think…
-Hector: They were all wearing very distinct black robes. I don’t know about “something in the air,” but… I’m convinced they were related.
-Eliwood: What in the world is happening in Lycia? …Father……
+Hector: Many people hold a grudge against Ostia. I didn’t think it had anything to do with this. Until now...
+Eliwood: Hector, do you think...
+Hector: They were all wearing very distinct black robes. I don’t know about “something in the air,” but... I’m convinced they were related.
+Eliwood: What in the world is happening in Lycia? ...Father......
 
 Fargus: We’ve arrived.
 Eliwood: Thank you very much.
@@ -3362,20 +3362,20 @@ Dart: I’m here, Captain! Ready to serve!
 Eliwood: We’re pleased to have you.
 Fargus: His only redeeming feature is his sturdiness. Maybe he’ll come in handy.
 Dart: Come on, Captain! I’m better’n that!
-Eliwood: You’ve done so much… I can’t thank you enough…
+Eliwood: You’ve done so much... I can’t thank you enough...
 Fargus: Come back alive! That’s all the thanks I need.
 Eliwood: All right. Farewell!
 Hector: We’ll be back before you know it!
-Lyn: …There are good people, even among pirates.
+Lyn: ...There are good people, even among pirates.
 Hector: I don’t think the old man and his group are your average pirates.
 Eliwood: Somewhere within that forest is the Dragon’s Gate.
 Hector: Eliwood! No matter what it takes, we’re coming back with your father!
-Lyn: …We’ll surely find him. We’ll all do our best to make it so.
+Lyn: ...We’ll surely find him. We’ll all do our best to make it so.
 Eliwood: You’re right. Let’s make preparations to enter the forest.
 Hector: Oh!
-Ninian: Dragon’s Gate…
+Ninian: Dragon’s Gate...
 Lyn: Ninian? What is it?
-Ninian: It’s…nothing……
+Ninian: It’s...nothing......
 /***EOF***/
 @Opening 
 A small altar lies on the outskirts of Bulgar. This ancient temple, sacred to the people of Sacae, has long been known for its powerful bond to the world of spirits. Before starting their journey, our travelers come here to pray for their well-being. At this altar, Lyn’s hand is directed to a grand inheritance.
@@ -3561,11 +3561,11 @@ Eliwood: Nils... Ah! Tactician, you, too?
 
 Marcus: I’ll show you the strength of a knight of Pherae.
 
-Lowen: Knights should fight, not speak! …Was that right?
+Lowen: Knights should fight, not speak! ...Was that right?
 
 Rebecca: I'll do whatever I can to help!
 
-Dorcas: …Winning this battle means protecting my family.
+Dorcas: ...Winning this battle means protecting my family.
 
 Bartre: Whooooooooooa! I’m burning up!
 
@@ -3589,7 +3589,7 @@ Sain: I won’t hold back! This is for all the lovely ladies I’ve yet to meet!
 
 Wil: We’ve made it this far. Let’s get out there and win!
 
-Raven: If I die here… so be it.
+Raven: If I die here... so be it.
 
 Lucius: Blessed Saint Elimine, please grant us a miracle...
 
@@ -3599,15 +3599,15 @@ Dart: I’m Dart, brave crewman of Fargus’s pirates, and I fear nothing!
 
 Fiora: For the honor of the Pegasus knights of Ilia, I will annihilate the foe!
 
-Legault: My oh my… Fools aplenty. That includes me, too.
+Legault: My oh my... Fools aplenty. That includes me, too.
 
-Heath: For Bern, land of my birth… May I return to it soon!
+Heath: For Bern, land of my birth... May I return to it soon!
 
 Rath: For those whose reasoning is bent. I will straighten it with my bow.
 
 Isadora: My pride shall not be broken! My strength holds true!
 
-Hawkeye: …I, too, will join you in this final glory.
+Hawkeye: ...I, too, will join you in this final glory.
 
 Farina: Hey! There’s no doubt we’ll win! Just don’t forget my bonus!
 
@@ -3615,7 +3615,7 @@ Pent: If he has power to rival Athos, then I must test that power myself.
 
 Louise: No matter what happens, I’ll be at Lord Pent’s side.
 
-Harken: Lord Elbert… I will protect your son.
+Harken: Lord Elbert... I will protect your son.
 
 Karel: As long as there’s someone to cut, you will have my aid.
 
@@ -3625,17 +3625,17 @@ Geitz: This looks like fun! This is what I’ve been waiting for!!
 
 Nino: ...Father... Brothers...... For all that I've lost... I won't let him get away!
 
-Jaffar: ……
+Jaffar: ......
 
-Karla: I’ve lived long enough. I’ve no regrets…
+Karla: I’ve lived long enough. I’ve no regrets...
 
 Vaida: What are you worried about? With me here, we can’t lose!
 
-Renault: It is for this moment that I have lived…
+Renault: It is for this moment that I have lived...
 
 Eliwood: Everyone... Let's go! We've got to stop Nergal!
 
-Hector: Everyone… Here we go! Give it your all, and beat this knave!
+Hector: Everyone... Here we go! Give it your all, and beat this knave!
 
 @Battle-Talk 
 %Lyn,Eliwood
@@ -3680,32 +3680,32 @@ Hector: ...I know.
 @Boss 
 
 %Legault,Lloyd
-Lloyd: ……………
-Legault: …Huh, even as a monster, you are a handsome one, Lloyd. But you know something? I can’t let this continue!!
+Lloyd: ...............
+Legault: ...Huh, even as a monster, you are a handsome one, Lloyd. But you know something? I can’t let this continue!!
 
 %Nino,Lloyd
-Lloyd: ……………
-Nino: Ah…Lloyd… …Sniff…oh…… Why does this have to happen again?
+Lloyd: ...............
+Nino: Ah...Lloyd... ...Sniff...oh...... Why does this have to happen again?
 
 %Legault,Linus
-Linus: ……………
-Legault: Oh… We meet again. …Linus… This stinks!!
+Linus: ...............
+Legault: Oh... We meet again. ...Linus... This stinks!!
 
 %Nino,Linus
-Linus: ……………
-Nino: Linus… I’ll…see you again… I’m sure you’re angry, but… Please be my friend…again…
+Linus: ...............
+Nino: Linus... I’ll...see you again... I’m sure you’re angry, but... Please be my friend...again...
 
 %Legault,Uhai
-Uhai: ……………
-Legault: …Uhai…why did this blasphemy occur? …I’ll put an end to it right away!
+Uhai: ...............
+Legault: ...Uhai...why did this blasphemy occur? ...I’ll put an end to it right away!
 
 %Legault,Brendan
-Brendan: ……………
-Legault: …Commander… I really didn’t want to see you like this. …All I can give you is one last act of rebellion.
+Brendan: ...............
+Legault: ...Commander... I really didn’t want to see you like this. ...All I can give you is one last act of rebellion.
 
 %Nino,Brendan
-Brendan: ……………
-Nino: Father… Fa-Father… I… I’ll…end this……I’m sorry…
+Brendan: ...............
+Nino: Father... Fa-Father... I... I’ll...end this......I’m sorry...
 
 @Boss 
 Nergal: Be prepared. You are to be witness to a power that overwhelms all!
@@ -3754,7 +3754,7 @@ Hector: Do your worst!!
 %Hector,Nergal
 Hector: Nergal!
 Nergal: I cannot understand you, Hector of Ostia. Why would you do all this for Eliwood? Is this miserable thing called friendship worth dying for?
-Hector: I don't expect you to understand. You've forgotten what it means to be human! Nergal! My connection to you… it's over! I'm finishing everything up right here!!
+Hector: I don't expect you to understand. You've forgotten what it means to be human! Nergal! My connection to you... it's over! I'm finishing everything up right here!!
 
 %Athos,Nergal
 Athos: Nergal...
@@ -3762,7 +3762,7 @@ Nergal: Heh heh... Athos... Take a good look at me! At my tremendous power!
 Athos: Already...words are useless. As an old friend... I will fulfill my duty.
 
 @Boss 
-Nergal: Why? Why must I lose? More power… I must be… stronger… I… Why? Why did I… want power? ……Quintessence? …Don’t…under…stand… but… Gaa… Not like this… I will not die…like this. With my last breath… tremble…and…despair. Hwah ha ha… Ha…ha ha ha…
+Nergal: Why? Why must I lose? More power... I must be... stronger... I... Why? Why did I... want power? ......Quintessence? ...Don’t...under...stand... but... Gaa... Not like this... I will not die...like this. With my last breath... tremble...and...despair. Hwah ha ha... Ha...ha ha ha...
 
 @Battle
 Lyn: ...Nils? What is it?
@@ -3771,46 +3771,46 @@ Hector: Don’t worry. You’ve been through a lot.
 Eliwood: It’s just relief. You’ve done well, haven’t you?
 Lyn: Everything’s OK. The world’s been saved. And I know that Ninian is happy, too.
 
-Hector: It’s…finished.
-Lyn: Yes… At long last…
-Eliwood: …Father…
+Hector: It’s...finished.
+Lyn: Yes... At long last...
+Eliwood: ...Father...
 
 Hector: What was that!?
-Lyn: What on earth… What happened?
-Eliwood: It can’t be…
+Lyn: What on earth... What happened?
+Eliwood: It can’t be...
 Hector: Ah!
-Lyn: Th… Are those… Dragons?
-Eliwood: Nergal’s final warning… This is what he meant!
-Athos: What a calamity! If dragons return to this world… The continent will be ash in less than a month!!
+Lyn: Th... Are those... Dragons?
+Eliwood: Nergal’s final warning... This is what he meant!
+Athos: What a calamity! If dragons return to this world... The continent will be ash in less than a month!!
 Eliwood: This must end at any cost! I will stop it!!
 
 Eliwood: So these are dragons.
-Hector: Look at the size of them. I’ve got a bad feeling about this. My… My legs are trembling just standing here.
-Lyn: There are three of them… I don’t know if we can do this. I… We need some kind of help.
+Hector: Look at the size of them. I’ve got a bad feeling about this. My... My legs are trembling just standing here.
+Lyn: There are three of them... I don’t know if we can do this. I... We need some kind of help.
 Athos: I’ll do what I can. I’ll halt the dragons. Strike there!!
-Athos: Ahh… So powerful. Can they be stopped?
+Athos: Ahh... So powerful. Can they be stopped?
 Eliwood: Lord Athos! Flee! The dragons are getting closer!!
-Athos: …If we can’t stop them here, we are…lost.
+Athos: ...If we can’t stop them here, we are...lost.
 Athos: Bramimond!
-Bramimond: … Preparations…took time… …OK. I require everyone’s strength. Gather here the legendary power!
-Eliwood: Ah!! This light…
-Hector: Uwaa! What… What is it!?
-Lyn: Look! There…!
+Bramimond: ... Preparations...took time... ...OK. I require everyone’s strength. Gather here the legendary power!
+Eliwood: Ah!! This light...
+Hector: Uwaa! What... What is it!?
+Lyn: Look! There...!
 
-Bramimond: Bring her back… Let the dragon girl’s soul be restored.
+Bramimond: Bring her back... Let the dragon girl’s soul be restored.
 Eliwood: Ninian!!
-Nils: …Ah! Ninian…
-Ninian: Where… Where am I?
+Nils: ...Ah! Ninian...
+Ninian: Where... Where am I?
 Bramimond: Girl with the exalted blood of dragons. Use that power to appease them.
-Ninian: …Ah…it’s not …possible. Use my power… in this world……
+Ninian: ...Ah...it’s not ...possible. Use my power... in this world......
 Bramimond: Do you not feel it? Your power returning?
-Ninian: …What? ……Ah…… …Yes… … … … …I will try.
+Ninian: ...What? ......Ah...... ...Yes... ... ... ... ...I will try.
 
-Ninian: That’s enough. I’m sorry… This is not your fault… …I’m sorry.
+Ninian: That’s enough. I’m sorry... This is not your fault... ...I’m sorry.
 
-Ninian: No… no more……
+Ninian: No... no more......
 Eliwood: Ninian!!
-Nils: It’s OK. She only fainted. Thank goodness… Ninian……
+Nils: It’s OK. She only fainted. Thank goodness... Ninian......
 Bramimond: One dragon still remains. Leave the girl to me. I shall tend to her.
 Athos: Chosen ones! You must stop the final dragon! You must save us all!!
 
@@ -3825,83 +3825,83 @@ Hector: Eliwood!!
 Lyn: Eliwood!
 Nils: Lord Eliwood!
 Eliwood: I’m here! I’m right here!
-Athos: Well done, brave successor to Roland. It’s finally over. Finally, everything is…
+Athos: Well done, brave successor to Roland. It’s finally over. Finally, everything is...
 Eliwood: Lord Athos!?
 
-Athos: Ha… Looks like I’ve exhausted my strength. I… I’ll die before you, friend.
-Bramimond: …I may well follow you soon. For now…I will sleep again.
-Athos: Eliwood…Hector, Lyn…I’ve lived a long, long time, but now…I’m done. Do not grieve. Soon, I will be with long-absent friends. … I have no regrets.
+Athos: Ha... Looks like I’ve exhausted my strength. I... I’ll die before you, friend.
+Bramimond: ...I may well follow you soon. For now...I will sleep again.
+Athos: Eliwood...Hector, Lyn...I’ve lived a long, long time, but now...I’m done. Do not grieve. Soon, I will be with long-absent friends. ... I have no regrets.
 Eliwood: Lord Athos!!
-Athos: Now…my friends, my family. Let me give you a parting gift… As I lay dying… I see many things. I see the future… Oh… Why? Why… is this not now? Neither Bramimond nor I… will be…here… to help a land…in need…
-Lyn: What…do you see?
-Athos: An evil star…rises in Bern…All of Elibe will be once again awash in blood… But do not fear. Once again, Lycia brings hope. Children of fire… …Everything… …
-Eliwood: Lord Athos… Even at the end…he thought of us…
-Hector: …Graybeard…
-Lyn: …Look, both of you. Lord Athos… It’s almost as though he’s smiling.
-Ninian: …This world will once again be enveloped by darkness…But… at the end… a saving light shall rise.
+Athos: Now...my friends, my family. Let me give you a parting gift... As I lay dying... I see many things. I see the future... Oh... Why? Why... is this not now? Neither Bramimond nor I... will be...here... to help a land...in need...
+Lyn: What...do you see?
+Athos: An evil star...rises in Bern...All of Elibe will be once again awash in blood... But do not fear. Once again, Lycia brings hope. Children of fire... ...Everything... ...
+Eliwood: Lord Athos... Even at the end...he thought of us...
+Hector: ...Graybeard...
+Lyn: ...Look, both of you. Lord Athos... It’s almost as though he’s smiling.
+Ninian: ...This world will once again be enveloped by darkness...But... at the end... a saving light shall rise.
 Eliwood: Ninian!
-Ninian: Lord Eliwood…
-Eliwood: I’m so happy…I can’t believe you’re back. I feel like this is all a dream. Once I lost you… I knew for sure. I need you. I want you by my side forever.
-Ninian: Lord Eliwood…I… …I must go home…
+Ninian: Lord Eliwood...
+Eliwood: I’m so happy...I can’t believe you’re back. I feel like this is all a dream. Once I lost you... I knew for sure. I need you. I want you by my side forever.
+Ninian: Lord Eliwood...I... ...I must go home...
 Eliwood: What do you mean?!
-Ninian: I’m…the cause of all of this. It was my weakness that invited this tragedy…
+Ninian: I’m...the cause of all of this. It was my weakness that invited this tragedy...
 Eliwood: Ninian?
-Ninian: Here on Elibe… …we were nurtured for ages in the land of our birth. Even after humans invaded and drove us out….. Not a day passed that I did not think of it…..I yearned to see it once again… Our homeland… Those children… the fire dragons…They were like me…..
-Nils: …..
-Ninian: We knew that it was forbidden. And yet we answered Nergal’s call and opened the gate… We didn’t intend to stay long… Just to see home one last time. But Nergal captured us and… it led to this.
-Eliwood: We humans, we took control of the continent like it was our right. We never considered who or what we drove away… …Ninian, Nils, the blame for this was never yours alone. While we can claim ignorance, we still bear some responsibility.
-Nils: …Lord Eliwood, do you truly believe that?
-Eliwood: I do. If my father were here, he would say the same thing. Let’s work together and think about the future. If the entire continent were made a place where dragons and humans could live together like the hidden city Lord Athos spoke of, Arcadia…
-Ninian: What a wonderful world that would be…But that’s certainly something that won’t happen for a long, long time. So we… we can’t stay here. The gate is still open. If it remains so, other dragons will certainly pass through. Before that happens, we must return to our world. We must regain our power and seal the gate…from that side.
+Ninian: Here on Elibe... ...we were nurtured for ages in the land of our birth. Even after humans invaded and drove us out..... Not a day passed that I did not think of it.....I yearned to see it once again... Our homeland... Those children... the fire dragons...They were like me.....
+Nils: .....
+Ninian: We knew that it was forbidden. And yet we answered Nergal’s call and opened the gate... We didn’t intend to stay long... Just to see home one last time. But Nergal captured us and... it led to this.
+Eliwood: We humans, we took control of the continent like it was our right. We never considered who or what we drove away... ...Ninian, Nils, the blame for this was never yours alone. While we can claim ignorance, we still bear some responsibility.
+Nils: ...Lord Eliwood, do you truly believe that?
+Eliwood: I do. If my father were here, he would say the same thing. Let’s work together and think about the future. If the entire continent were made a place where dragons and humans could live together like the hidden city Lord Athos spoke of, Arcadia...
+Ninian: What a wonderful world that would be...But that’s certainly something that won’t happen for a long, long time. So we... we can’t stay here. The gate is still open. If it remains so, other dragons will certainly pass through. Before that happens, we must return to our world. We must regain our power and seal the gate...from that side.
 Eliwood: Are you saying I’ll never see you again? That can’t be!
-Ninian: Lord Eliwood…I am truly blessed that I have had the chance to meet you. Please… Please… Don’t forget me!
+Ninian: Lord Eliwood...I am truly blessed that I have had the chance to meet you. Please... Please... Don’t forget me!
 Eliwood: Ninian!!
-Ninian: ….. Come, Nils. Let us go. We must return to our world…
-Nils: Ninian… The air of this world, it’s changed so much from what we knew. No matter how much time passes, our strength will never return. If we stay here, we will not survive long.
-Ninian: Nils? Why do you…
-Nils: But even knowing that your life will be short…Ninian…You truly wish to remain here, don’t you? I understand… Stay here. Stay with Lord Eliwood.
+Ninian: ..... Come, Nils. Let us go. We must return to our world...
+Nils: Ninian... The air of this world, it’s changed so much from what we knew. No matter how much time passes, our strength will never return. If we stay here, we will not survive long.
+Ninian: Nils? Why do you...
+Nils: But even knowing that your life will be short...Ninian...You truly wish to remain here, don’t you? I understand... Stay here. Stay with Lord Eliwood.
 Ninian: Nils?
-Nils: Lord Eliwood… Ninian… No…My sister… Please cherish her.
-Eliwood: I will. I will make her happy. …I swear it.
-Ninian: Nils! You… Are you…
+Nils: Lord Eliwood... Ninian... No...My sister... Please cherish her.
+Eliwood: I will. I will make her happy. ...I swear it.
+Ninian: Nils! You... Are you...
 Nils: Mm. I’m going alone. I want to live a long time. I don’t have your curiosity.
-Ninian: …Nils…..
-Nils: …Ok then, I’m going.
+Ninian: ...Nils.....
+Nils: ...Ok then, I’m going.
 Hector: Be well, Nils!
-Lyn: I’ll miss you…
+Lyn: I’ll miss you...
 Eliwood: I’ll never forget you.
-Ninian: … …..Nils…
+Ninian: ... .....Nils...
 
-Nils: Don’t cry, Ninian… Even if we’re apart, if we never see each other again, our bond will never, ever be cut… More importantly, Sister…Live as long… and be as happy as you can, for as long as you can.
+Nils: Don’t cry, Ninian... Even if we’re apart, if we never see each other again, our bond will never, ever be cut... More importantly, Sister...Live as long... and be as happy as you can, for as long as you can.
 Ninian: Nils!!
 Eliwood: Thank you, Nils.
 
 Hector: Oh, daybreak!
 Lyn: Beautiful, isn’t it. The start of another day.
-Eliwood: Ninian… You’ll come with me, won’t you?
+Eliwood: Ninian... You’ll come with me, won’t you?
 Ninian: Yes!
 
 Eliwood: Good to see you, Ninian.
-Ninian: Lord Eliwood…I worried you…Uhm…I…I…wish to apologize…..
+Ninian: Lord Eliwood...I worried you...Uhm...I...I...wish to apologize.....
 Eliwood: What? What do you mean?
-Ninian: I was…the cause for all of this. It was my weakness that invited this tragedy…
+Ninian: I was...the cause for all of this. It was my weakness that invited this tragedy...
 Eliwood: Ninian?
-Ninian: Here on Elibe… …we were nurtured for ages in the land of our birth. Even after humans invaded and drove us out….. Not a day passed that I did not think of it…..I yearned to see it once again… Our homeland… Those children… the fire dragons…They were like me…..
-Nils: …..
-Ninian: We knew that it was forbidden. And yet we answered Nergal’s call and opened the gate… We didn’t intend to stay long… Just to see home one last time. But Nergal captured us and… it led to this.
-Eliwood: We humans, we took control of the continent like it was our right. We never considered who or what we drove away… …Ninian, Nils, the blame for this was never yours alone. While we can claim ignorance, we still bear some responsibility.
-Nils: …Lord Eliwood, do you truly believe that?
-Eliwood: I do. If my father were here, he would say the same thing. Let’s work together and think about the future. If the entire continent were made a place where dragons and humans could live together like the hidden city Lord Athos spoke of, Arcadia…
-Ninian: What a wonderful world that would be…But that’s certainly something that won’t happen for a long, long time. So we… we can’t stay here. The gate is still open. If it remains so, other dragons will certainly pass through. Before that happens, we must return to our world. We must regain our power and seal the gate…from that side.
+Ninian: Here on Elibe... ...we were nurtured for ages in the land of our birth. Even after humans invaded and drove us out..... Not a day passed that I did not think of it.....I yearned to see it once again... Our homeland... Those children... the fire dragons...They were like me.....
+Nils: .....
+Ninian: We knew that it was forbidden. And yet we answered Nergal’s call and opened the gate... We didn’t intend to stay long... Just to see home one last time. But Nergal captured us and... it led to this.
+Eliwood: We humans, we took control of the continent like it was our right. We never considered who or what we drove away... ...Ninian, Nils, the blame for this was never yours alone. While we can claim ignorance, we still bear some responsibility.
+Nils: ...Lord Eliwood, do you truly believe that?
+Eliwood: I do. If my father were here, he would say the same thing. Let’s work together and think about the future. If the entire continent were made a place where dragons and humans could live together like the hidden city Lord Athos spoke of, Arcadia...
+Ninian: What a wonderful world that would be...But that’s certainly something that won’t happen for a long, long time. So we... we can’t stay here. The gate is still open. If it remains so, other dragons will certainly pass through. Before that happens, we must return to our world. We must regain our power and seal the gate...from that side.
 Eliwood: Are you saying I’ll never see you again? That can’t be!
-Ninian: Lord Eliwood…I am truly blessed that I have had the chance to meet you. Please… Please… Don’t forget me!
+Ninian: Lord Eliwood...I am truly blessed that I have had the chance to meet you. Please... Please... Don’t forget me!
 Eliwood: Ninian!!
-Ninian: ….. Come, Nils. Let us go. We must return to our world…
-Nils: Lord Eliwood! Lord Hector! Lady Lyn! …Thank you! My opinion of humans has changed since meeting all of you. There are humans in the world we’re returning to, too. Finding a way to live together may be hard… but we’re going to try.
+Ninian: ..... Come, Nils. Let us go. We must return to our world...
+Nils: Lord Eliwood! Lord Hector! Lady Lyn! ...Thank you! My opinion of humans has changed since meeting all of you. There are humans in the world we’re returning to, too. Finding a way to live together may be hard... but we’re going to try.
 Hector: Ok! Good luck!
-Lyn: I’ll miss you…
+Lyn: I’ll miss you...
 Eliwood: Take care! Both of you!
-Ninian: Thank you. Be well, everyone…
+Ninian: Thank you. Be well, everyone...
 
 Hector: Oh, daybreak!
 Lyn: Beautiful, isn’t it. The start of another day.
@@ -3914,7 +3914,7 @@ They find the man for whom they've been searching, Marquess Pherae. He breathes 
 
 @Intro 
 Lyn: ...Ninian, are you feeling better?
-Ninian: Yes…
+Ninian: Yes...
 Lyn: That’s good. ...Long time, no see, Nils. You’ve grown, haven’t you?
 Nils: ...Is it really you, Lyndis? It seems like it’s been so long.
 Lyn: Even though it’s only been a year since I saw you last?
@@ -3923,14 +3923,14 @@ Hector: Hey, care to talk about things the rest of us can follow?
 Nils: Hmph. Who’s he?
 Lyn: This is Hector. He’s Marquess Ostia’s brother. Don’t let his attitude fool you. He acts mean, but he’s decent enough.
 Hector: Acts mean seems pretty mean to me!
-Lyn: Heehee… And you might remember this one. He’s...
+Lyn: Heehee... And you might remember this one. He’s...
 Nils: Yep, I remember. He’s the man who helped Ninian. You’re Elbert’s son, aren’t you? Your red hair, gentle eyes, and even voice. You’re just like him.
 Eliwood: Where did you meet my father?
 Nils: At the Dragon’s Gate. He set us free after we’d been captured. We escaped in a small boat, but I was thrown out in a storm. When I woke up, I was back on Valor. For a time, I hid in the ruins by myself. Then... I sensed something really dangerous. When I raced to the Dragon’s Gate, I... I saw everything.
 Ninian: ...Nils.
 Lyn: When we pulled Ninian from the boat, she’d lost her memory. I can’t believe we brought her right back to her captors. What a horrible thing to do. ...I’m sorry.
 Ninian: Lady Lyn... Lady Lyn, you did nothing wrong...... When Nils fell overboard, I didn’t know what to do. ...I became lost within myself. If only I’d been stronger... ......All of this could have been avoided... I am... truly... sorry.
-Nils: …Ninian’s power is greater than mine, but it costs her physical and emotional strength. ......Nergal exploited that... weakness...
+Nils: ...Ninian’s power is greater than mine, but it costs her physical and emotional strength. ......Nergal exploited that... weakness...
 Lyn: ...Ninian... Nils...
 Eliwood: ...Was he after you because you have the power to call dragons?
 Nils: ...I think it’s because we can open the Dragon’s Gate. Just calling them? Nergal can do that on his own.
@@ -3958,9 +3958,9 @@ Nils: When we’d lost all hope at the Dragon’s Gate, your father always spoke
 Eliwood: Oh, Fa-- ...Father... ......
 Hector: ...
 Lyn: ...Hector?
-Hector: We should let him be alone for a while…
+Hector: We should let him be alone for a while...
 Lyn: ...Sure. Come on, Ninian, Nils.
-Nils: …As you say.
+Nils: ...As you say.
 
 Ninian: ...Lord Eliwood...
 Eliwood: Hm? Ninian... I didn’t see you. I’m sorry about before. I just... needed some time to think.
@@ -3970,7 +3970,7 @@ Ninian: ...
 Eliwood: ...Look at you, all scratches and bruises... You need to be properly taken care of...
 Ninian: ...Why?
 Eliwood: Hm?
-Ninian: Why was Lord Elbert so… Lord Eliwood, why were you both... so kind to us? It's... This is… This is all my fault… These nightmares... All these terrible things...
+Ninian: Why was Lord Elbert so... Lord Eliwood, why were you both... so kind to us? It's... This is... This is all my fault... These nightmares... All these terrible things...
 Eliwood: Ninian, crying ill suits a girl of your beauty. I’m fine... Please don’t cry.
 Ninian: I’m sorry... So... sorry...
 Eliwood: There’s something you must hear. You’re not responsible for what happened to my father. You suffered as much as he did. Please don’t punish yourself further.
@@ -3984,7 +3984,7 @@ Hector: So, what do we do now?
 Lyn: I wonder what happened to Nergal. Lord Elbert gave him a grievous wound when he stabbed him.
 Nils: His wounds will not kill him.
 Hector: That’s what Lord Elbert said, too. Do you know what he meant?
-Nils: Nergal uses quintessence on himself as well. His wounds heal quickly. …His body does not age.
+Nils: Nergal uses quintessence on himself as well. His wounds heal quickly. ...His body does not age.
 Lyn: So he isn’t... human?
 Nils: ...If nothing else, he’s... Ah!!
 Hector: What is it?
@@ -4005,7 +4005,7 @@ Eliwood: Let’s go!
 Nils: Ninian! Stop! Where are you going?
 Ninian: I... I’m going to help!
 Nils: Oh, no, you’re not! You’re still too weak!
-Ninian: But... I merely wish to help Lord Eliwood… Even if just a little. I... I stole his father’s life from him... ...I know this... this will never make up for it... Nils! Please...
+Ninian: But... I merely wish to help Lord Eliwood... Even if just a little. I... I stole his father’s life from him... ...I know this... this will never make up for it... Nils! Please...
 Nils: ...I understand. Give me your hands.
 Ninian: Nils?
 Nils: I’ll give you some of my power. You’ll just get in the way if you go out like this.
@@ -4027,7 +4027,7 @@ Ninian: Mark, please tell me what you want me to do. I cannot fight, but... I ca
 @Visit 
 Man: Can’t believe Badon’s under attack. If only Fargus were here... Say, I’ve got something here you can use to buy some time. Set this Light Rune, and it’ll block the enemies’ advance. Only thing is, it’ll stop allies, too. So... watch your step!
 
-Man: Ah... Those emerald eyes, that lustrous blue hair... She was... so beautiful, beautiful beyond words… If only I could see her again... A lovely knight of Pherae, searching for her lord... ...I wonder why she’s a knight. A famed knight and me, that’s a dream of a dream... Wah! You... I... I was just thinking out loud... You... didn’t hear anything, did you? Waaaaaaaaa! You mustn’t tell anyone! Promise me! You mustn’t!!
+Man: Ah... Those emerald eyes, that lustrous blue hair... She was... so beautiful, beautiful beyond words... If only I could see her again... A lovely knight of Pherae, searching for her lord... ...I wonder why she’s a knight. A famed knight and me, that’s a dream of a dream... Wah! You... I... I was just thinking out loud... You... didn’t hear anything, did you? Waaaaaaaaa! You mustn’t tell anyone! Promise me! You mustn’t!!
 
 Woman: Why all the noise? It’s the middle of the night!! What? A fight? Are you going to do something? Really? Then... here, take this. It should aid you. It’s a Restore staff. It’ll wake you from sleep and cure poison. Basically, it’ll cure what’s wrong and bring you back to normal. Now I’m tired... Why can’t you people fight at a decent hour?
 
@@ -4163,7 +4163,7 @@ The next morning comes too quickly. Lyn has fought back the bandits’ attack. N
 Kent: We’ve almost reached the Lycian border.
 Lyn: Once we cross, we’ll be safe from the bandits, right?
 Wil: We should be. I doubt they’ll be willing to pursue us across the border.
-Sain: Lycia at last! It’s been a long time. Tomorrow, we’ll dine on a feast of Lycia’s finest foods! And the mistress of the inn at the crossing is said to be a beauty. Ah, yes… Food and love. No better way to restore a man’s soul! This is going to be a fine evening, eh, Kent?
+Sain: Lycia at last! It’s been a long time. Tomorrow, we’ll dine on a feast of Lycia’s finest foods! And the mistress of the inn at the crossing is said to be a beauty. Ah, yes... Food and love. No better way to restore a man’s soul! This is going to be a fine evening, eh, Kent?
 Kent: If your behavior is as deplorable as ever, we’d best stay elsewhere. We’re not here for sightseeing!
 Sain: Oh, come now! That’s not fair!
 Lyn: Kent, the inn will be fine.
@@ -4171,7 +4171,7 @@ Kent: As you say, milady.
 Sain: Lyndis! You are truly an angel from on high!
 Lyn: It’s nothing. Forget it.
 Florina: Ah! We’ll finally be able to get a good night’s sleep.
-Lyn: Oh, no… Those bandits are persistent, I’ll give them that much.
+Lyn: Oh, no... Those bandits are persistent, I’ll give them that much.
 
 Bug: Ah! Here they are! I’ve found ’em!!
 Wil: What? Not again! They’re still after us?
@@ -4180,31 +4180,31 @@ Bandit: You leave alive, and everyone’ll think the Ganelon Bandits have gone s
 Lyn: So? We care nothing for you or your reputations! We must get to Lycia! Get in our way, and you’ll pay!
 Bug: Cheeky little thing, aren’t you? Let’s get ’em, lads! And no holding back just ’cause there’s women with ’em! Wipe ’em out!
 
-Serra: Oooh… We’re lost. This makes me so mad!
+Serra: Oooh... We’re lost. This makes me so mad!
 Erk: You told me you were certain this was the correct path.
 Serra: What’s your point, Erk? What are you trying to say?
-Erk: …I swear, you are NOT the woman I agreed to escort…
+Erk: ...I swear, you are NOT the woman I agreed to escort...
 Serra: What? What’s that supposed to mean?
-Erk: I heard someone was needed to escort a frail Lycian priestess to Ostia…
+Erk: I heard someone was needed to escort a frail Lycian priestess to Ostia...
 Serra: Yes, and I’m that priestess.
 Erk: Frail? You? Serra, you have no need of any escort to protect you. Even the most hardened criminal would flee in terror after five minutes in your company. I’ll return your money. Gladly. Now, will you please go on to Ostia alone?
 Serra: NO! You’re MY escort, Erk! MINE! You’re so clean and tidy. A noblewoman like myself can’t be seen without a proper escort. Your personality’s nothing special, but you’re not bad to look at.
 Erk: I believe that’s my line. And I have to take you all the way to Ostia? I only hope my nerves can endure the journey.
 Serra: What are you mumbling about? You’re so gloomy! Hm? Something’s happening over there. Let’s take a look!
 
-Erk: Ah. Of course. The first opportunity to get involved in trouble, and she jumps right in. No amount of money is worth this. Hoo…
+Erk: Ah. Of course. The first opportunity to get involved in trouble, and she jumps right in. No amount of money is worth this. Hoo...
 
 @Battle 
-Serra: Wow! A fight! A fight! Erk! Take a look! Fighting those bandits… It’s a young girl!
+Serra: Wow! A fight! A fight! Erk! Take a look! Fighting those bandits... It’s a young girl!
 Erk: Fool! Keep your voice down!
 
 Bandit: Eh? What’s this? You in league with that she-devil?
 Serra: Hm?
-Erk: Ah… This is so wrong…
+Erk: Ah... This is so wrong...
 Bandit: Gyaaa! I’ll take care of you with one swift stroke!
 Serra: Eeeeeek! Eeeeeek! Eeeeeeeeeeeek! Erk! Help me!!!
-Erk: So…loud… Serra! Behind me! You there! See if you can match me! 
-Lyn: That scream… Look! Tactician, someone’s over there!
+Erk: So...loud... Serra! Behind me! You there! See if you can match me! 
+Lyn: That scream... Look! Tactician, someone’s over there!
 Tutorial: Sometimes, you can talk to different NPCs . The process is the same as talking to enemies. Give it a try. Please select Lyn.
 
 Lyn: You want me to talk to that person? Understood.
@@ -4213,22 +4213,22 @@ Lyn: I’m supposed to talk to that person, right? Give the order.
 
 @Recruit-Talk 
 %Lyn,Serra
-Lyn: Um, excuse me… Hello?
+Lyn: Um, excuse me... Hello?
 Serra: Hm?
 Lyn: Why are you fighting these bandits?
-Erk: … It just happened.
+Erk: ... It just happened.
 Serra: That’s not true! Those ruffians thought that we were with you!!! You got us into a terrible situation! Now, how are you going to get us out?
 Erk: Serra, if you’d not been so meddlesome, this all could have been avoided. My apologies. Please trouble yourself with us no more.
-Lyn: But…if you’re going to have to fight anyway, shouldn’t we team up? It will end things faster, right?
+Lyn: But...if you’re going to have to fight anyway, shouldn’t we team up? It will end things faster, right?
 Serra: That’s true. Yes! That’s a good idea. Erk! Go and help these ladies.
-Erk: But I… Fine!
+Erk: But I... Fine!
 Lyn: Very good. My name’s Lyn. SO tell me, will you join arms with us?
 Serra: Yes, we’d be glad to. My name is Serra. This is my escort, Erk. Be a good boy, and go fight now, Erk.
 
 @Battle 
-Erk: …Sigh…
+Erk: ...Sigh...
 Tutorial: Erk, a mage, and Serra, a cleric, have joined your group. Mages use the magic of truth to attack and damage their enemies. Clerics use staves to restore HP to their allies. Let’s try them both. First, select Serra.
-Serra: Hello. You’re Tactician, right? I’m Serra. Nice to meet you. By the way, see this contrary mage here with me? His name is Erk. I think he’s been hurt. I am Erk’s employer. “Master,” I suppose you could say. What I’m getting at is… I was thinking of healing him free of charge. I know, I know. I’m generous to a fault. Hm? Why are you looking at me like that? Praise my generosity! Anyway, that’s the deal. Please direct me to him.
+Serra: Hello. You’re Tactician, right? I’m Serra. Nice to meet you. By the way, see this contrary mage here with me? His name is Erk. I think he’s been hurt. I am Erk’s employer. “Master,” I suppose you could say. What I’m getting at is... I was thinking of healing him free of charge. I know, I know. I’m generous to a fault. Hm? Why are you looking at me like that? Praise my generosity! Anyway, that’s the deal. Please direct me to him.
 
 Serra: Please direct me.
 Tutorial: Press the A button, and select the staff from the menu.
@@ -4242,14 +4242,14 @@ Erk: I will show you the true power of magic!
 Tutorial: Magic, like Dorcas’s throwing axes, can strike enemies in adjacent squares as well as those at a distance. It’s very useful. Magic can penetrate even the strongest defenses, so it can be used in many situations. However, mages have few HP and low defensive abilities. To avoid counter-attacks, move in close to archers, and attack other fighters from 1 space away. Try and formulate combat strategies like this to be successful on the field of combat.
 
 @Visit 
-Old man: Magic can be used to attack enemies both near and far. Plus, you might find that magic can hit an enemy that normal weapons do not harm. However… Mages are notoriously susceptible to physical attacks. Just because they’re versatile doesn’t mean you should put them in harm’s way. It does you no good if they are lost because of your carelessness.
+Old man: Magic can be used to attack enemies both near and far. Plus, you might find that magic can hit an enemy that normal weapons do not harm. However... Mages are notoriously susceptible to physical attacks. Just because they’re versatile doesn’t mean you should put them in harm’s way. It does you no good if they are lost because of your carelessness.
 
 Man: Tell me, are you using the R Button? If there’s something you don’t understand, use the R Button to investigate. It’s essential. Place the cursor on a unit and press the R Button. This displays detailed information on the unit. You knew that, right? While that information is displayed, press the R Button again. That will get you even more detailed information. Did you know that? The R Button can be used in many other places, too. Anyway, when you come across something unfamiliar, try pressing the R Button! Won’t hurt to remember that!  Ah, so you’re a traveler? Listen to my advice: handle your money wisely. If you spend too much too soon, you’ll run out early and suffer later. There are other shops, so save about, oh, half of your money.
 
 @Boss 
 Bug: You’re gonna learn why people fear the Ganelon Bandits!
 
-Bug: Blaaaaah… Scum… You’re all scum…
+Bug: Blaaaaah... Scum... You’re all scum...
 
 @End 
 Lyn: Nicely done, Tactician. That should just about do it.
@@ -4268,29 +4268,29 @@ Sain: What an absolutely delectable creature!
 Serra: Oh my! Are you one of Lyn’s companions?
 Sain: Please, call me Sain.
 Serra: I’m Serra. I serve House Ostia.
-Sain: Serra… What a lyrical name. I am in service to Castle Caelin.
+Sain: Serra... What a lyrical name. I am in service to Castle Caelin.
 Serra: Oh! So is Lyn a member of the marquess’s family?
 Sain: She is the granddaughter of our lord, the marquess.
-Serra: Hmmm… Such an important person.
-Erk: Serra…what deviousness are you contemplating now?
+Serra: Hmmm... Such an important person.
+Erk: Serra...what deviousness are you contemplating now?
 Serra: Tee hee! Having a person of power in your debt is never a bad thing!
-Erk: You can’t be serious…
+Erk: You can’t be serious...
 Serra: Oh, Sain! Do you think we could join the lady Lyndis’s company? She seems like such a nice person, and I would ever so much like to help her.
 Sain: Of course! We couldn’t be happier!! Why, we were only just saying how we need some more fighting power!
 Serra: Are you being hunted or something?
 Sain: Yes, it’s an inheritance dispute. Assassins everywhere.
 Serra: Oh my! In that case, my healing staff and Erk’s magic should come in handy.
-Erk: Well, I, er… It sounds…dangerous…
+Erk: Well, I, er... It sounds...dangerous...
 Sain: Your staff and magic would be extremely helpful! Please wait here! I will go and speak with Lady Lyndis on your behalf.
 
-Erk: Unbelievable…
+Erk: Unbelievable...
 Serra: This is fantastic, Erk! Our good deeds will earn us gratitude beyond imagining!
 
-Erk: I… I… I think I’m going to be ill.
+Erk: I... I... I think I’m going to be ill.
 
 Lundgren: That little girl crossed the border!?
-Soldier: Yes, Lord Lundgren. She’s en route to Araphen…
-Lundgren: Fool! Send out soldiers to meet her! Hold nothing back! Do anything to finish this now! First the old man, and now the girl… They cling to life like a drowning man to a rock! Double the poison’s strength! If he struggles, hold him down and pour it down his throat! Once the girl is gone, Caelin is mine. I will let no one stand in my way!
+Soldier: Yes, Lord Lundgren. She’s en route to Araphen...
+Lundgren: Fool! Send out soldiers to meet her! Hold nothing back! Do anything to finish this now! First the old man, and now the girl... They cling to life like a drowning man to a rock! Double the poison’s strength! If he struggles, hold him down and pour it down his throat! Once the girl is gone, Caelin is mine. I will let no one stand in my way!
 /***EOF***/
 @Opening 
 To the west of Elibe lies an archipelago known as the Western Isles. Here, a sacred weapon lies waiting, the seal guarding it broken. However, to retrieve the weapon, one must pass a trial. Armads, a sacred axe filled with the destructive force of thunder. To wield it, one must prove one's worth. Hector faces a test unlike any he's ever experienced.
@@ -4316,7 +4316,7 @@ Kaim: I am Kaim. You who search for power... You...must prove your worth to me..
 
 Kaim: Tremendous...strength... Truly...like...his...
 
-Kaim: …Seal… ….. could not… …protect …Such regret…..
+Kaim: ...Seal... ..... could not... ...protect ...Such regret.....
 
 @End 
 Hector: All right! This is the throne. Athos Graybeard! I made it!
@@ -4814,7 +4814,7 @@ Eliwood: We have to get inside! We have to protect the prince!!
 @Battle 
 Harken: Are you our tactician, Mark? I am Harken. I beg your forbearance. Lord Eliwood has ordered me to follow your commands in combat. I care not where I meet death. Just guide me wisely.
 
-Karel: Your name is Mark, correct? A tactician? I see. You use wisdom as your blade… Interesting… Mark… I will remember your name.
+Karel: Your name is Mark, correct? A tactician? I see. You use wisdom as your blade... Interesting... Mark... I will remember your name.
 
 Zephiel: Ahh... Ow... What's... My room... That man... He's gone. What's going on? Ah! We're under attack! Coming this way... 10...20... I have to get away... No... That's wrong. That's not the way. If I run, they'll simply follow and surround me... Rather than run, I should wait and face them here.
 
@@ -4876,12 +4876,12 @@ Ursula: ...Uww...gaa... ......This can't...Lady...Son...ia...
 
 %Jaffar,Ursula
 Ursula: I cannot understand you. You serve perfection in the form of our masters. Yet you abandon such happiness?
-Jaffar: ……I ensure that Nino lives. That’s all.
+Jaffar: ......I ensure that Nino lives. That’s all.
 
 %Nino,Ursula
 Ursula: Why won’t you die as Lady Sonia wishes? You, born of garbage. This was your one chance to be useful.
-Nino: My mother… She would not say such things. I…don’t believe it.  I don’t believe anything you have to say!
-Ursula: Stupid child… I’ll see that you don’t suffer at least.
+Nino: My mother... She would not say such things. I...don’t believe it.  I don’t believe anything you have to say!
+Ursula: Stupid child... I’ll see that you don’t suffer at least.
 
 @End 
 Zephiel: Ah! The lights are back. ...The rebels...What's happened? I have to make sure Mother is well! Hello! Is anyone there!?
@@ -5121,10 +5121,10 @@ Ninian: Wait... Why?
 Heath: I've no wish to harm women and children.
 
 @Boss 
-Eubans: …I didn’t imagine they were this capable… Heh! Still, I won’t lose! I live and breathe the air of war! I can’t be beaten!
+Eubans: ...I didn’t imagine they were this capable... Heh! Still, I won’t lose! I live and breathe the air of war! I can’t be beaten!
 
 Eubans: No regrets... My life...and death...are my own!
-Enemy Soldier: Commander Eubans has gone down… Uh… Sound the retreat!! We’ve no more reason to fight!!
+Enemy Soldier: Commander Eubans has gone down... Uh... Sound the retreat!! We’ve no more reason to fight!!
 
 %Heath,Eubans
 Eubans: You are a traitor, Heath. You know nothing of honor!
@@ -5193,9 +5193,9 @@ Hector: Mm. I’ll bring you a tale you won’t believe. Mark my words, Brother.
 
 /***EOF***/
 @Opening 
-Eliwood struggles to recover from Ninian’s death and moves onward. His destination is the Dread Isle. An enemy waits there, one who must be defeated. Nergal surrounds himself with his morphs and waits for Eliwood’s arrival. The final battle draws near…
+Eliwood struggles to recover from Ninian’s death and moves onward. His destination is the Dread Isle. An enemy waits there, one who must be defeated. Nergal surrounds himself with his morphs and waits for Eliwood’s arrival. The final battle draws near...
 
-Hector moves ahead, and his brother Uther’s dying wish goes with him. His destination is the Dread Isle. An enemy waits there, one who must be defeated. Nergal surrounds himself with his morphs and waits for Hector’s arrival. The final battle draws near…
+Hector moves ahead, and his brother Uther’s dying wish goes with him. His destination is the Dread Isle. An enemy waits there, one who must be defeated. Nergal surrounds himself with his morphs and waits for Hector’s arrival. The final battle draws near...
 
 @Intro 
 Fargus: Well, we’ve arrived!
@@ -5288,7 +5288,7 @@ Hector: Yeah! It’s as valuable as a Heaven seal. Doesn’t matter where we use
 Nils: Uh-huh!
 
 @Recruit-Visit 
-Renault: …So noisy. I thought I could escape battle here on the Dread Isle. No… I’m not interested in why you’re fighting. I am only looking for tranquility. If helping you will bring it to me, then I will lend you my power. Not that I will be that much help…
+Renault: ...So noisy. I thought I could escape battle here on the Dread Isle. No... I’m not interested in why you’re fighting. I am only looking for tranquility. If helping you will bring it to me, then I will lend you my power. Not that I will be that much help...
 
 @Visit 
 Hector: ...It’s just an old ruin.
@@ -5679,7 +5679,7 @@ Matthew: What in the world is that woman doing here? I cannot let HER find the p
 @Boss 
 Bool: Bah. Lyndis and her cadre. When did you arrive? No matter. I shall deal with you.
 
-Bool: Gah! Lord Lundgren…
+Bool: Gah! Lord Lundgren...
 
 @Battle 
 Lyn: So this is the final one. We should be good to go.
@@ -5756,35 +5756,35 @@ Lyn: Rath... I thank you.
 
 /***EOF***/
 @Opening 
-General Eagler has been defeated. Lyn and her band draw ever nearer to Castle Caelin. Within the castle walls, Lyn’s bitter enemy, Lundgren, awaits… A man who would kill his own kin for a throne. He is the source of all her troubles. He must be stopped.
+General Eagler has been defeated. Lyn and her band draw ever nearer to Castle Caelin. Within the castle walls, Lyn’s bitter enemy, Lundgren, awaits... A man who would kill his own kin for a throne. He is the source of all her troubles. He must be stopped.
 
 @Intro 
 Kent: Lady Lyndis, you should be able to see Castle Caelin once we pass these mountains.
-Lyn: Grandfather… I’ll be with you soon.
+Lyn: Grandfather... I’ll be with you soon.
 Kent: Everything rests on this next battle.
 Sain: Lundgren will not be receiving the reinforcements he expected. He’ll move against us with everything he has soon.
-Lyn: Let him come! Let them all come! I will not be turned away! I will see my grandfather… I’ve come too far to let anyone stand in my way. This is it, Mark. This is our final test. My friends, for one last time, lend me your strength!
+Lyn: Let him come! Let them all come! I will not be turned away! I will see my grandfather... I’ve come too far to let anyone stand in my way. This is it, Mark. This is our final test. My friends, for one last time, lend me your strength!
 
 @Battle 
 Lyn: Those clouds look bad. It’s going to rain soon. Let’s go, Mark. We should press on while we’re still able.
 
-Lyn: Look! The clouds are breaking. This rain should stop soon…
+Lyn: Look! The clouds are breaking. This rain should stop soon...
 
-Lyn: It’s begun to rain, but… the sky looks mostly clear. The rain won’t last long.
+Lyn: It’s begun to rain, but... the sky looks mostly clear. The rain won’t last long.
 
 @Visit 
-Young Lady: Oh, no! If I don’t bring in the laundry now… Oh, hello. Are you a soldier? Sounds like a hard life… Especially when it rains. Rain must make it difficult for you to move around. I used to ride horses when I was little. Oh, I remember how those horses disliked the rain. It’s better to be on foot when it’s wet. Nomadic horses are trained on the plains, so they’re better with rain, but… Well, rain just seems to make it hard for everyone to get around. The weather around here can change in no time at all. I recommend just staying in one place until the rain clears up.
+Young Lady: Oh, no! If I don’t bring in the laundry now... Oh, hello. Are you a soldier? Sounds like a hard life... Especially when it rains. Rain must make it difficult for you to move around. I used to ride horses when I was little. Oh, I remember how those horses disliked the rain. It’s better to be on foot when it’s wet. Nomadic horses are trained on the plains, so they’re better with rain, but... Well, rain just seems to make it hard for everyone to get around. The weather around here can change in no time at all. I recommend just staying in one place until the rain clears up.
 
-Young Man: You’re here to fight Lundgren, aren’t you? Do you have enough weapons? Lundgren’s no ordinary knight: he’s a general. Iron weapons lack the edge to penetrate his armor. If you need something, visit my father’s armory. You should go to the shop next door to his, too. They’ve many powerful weapons and items you can use against Lundgren. Head south and cross the river. You’ll see them. Lundgren’s a tricky one. He’s destroyed the bridge. There’s an old snag next to the river, though… If you knocked it over, you should be able to cross. Travel well. You fight for us all.
+Young Man: You’re here to fight Lundgren, aren’t you? Do you have enough weapons? Lundgren’s no ordinary knight: he’s a general. Iron weapons lack the edge to penetrate his armor. If you need something, visit my father’s armory. You should go to the shop next door to his, too. They’ve many powerful weapons and items you can use against Lundgren. Head south and cross the river. You’ll see them. Lundgren’s a tricky one. He’s destroyed the bridge. There’s an old snag next to the river, though... If you knocked it over, you should be able to cross. Travel well. You fight for us all.
 
 Man: You know, you really should visit the armory next door. They’ve got all you need if you’re fighting knights and generals. You need something to defeat Lundgren, right? Once he’s been beaten, maybe peace will return to Caelin. Good luck to you!
 
-Old lady: You’ve finally made it here, have you? Such a long way… We’re all behind Lady Lyndis. All of us. Here, take this. Use it in your battle against Lundgren, please. It’s an energy ring. It’ll increase your strength and magic power a bit. There are lots of items that augment your abilities. These are hard to come by, so think carefully before you use them. Of course, not using them at all would be a terrible waste as well, right? Items like this might vanish once you’ve used them. Bear that in mind, and use them wisely.
+Old lady: You’ve finally made it here, have you? Such a long way... We’re all behind Lady Lyndis. All of us. Here, take this. Use it in your battle against Lundgren, please. It’s an energy ring. It’ll increase your strength and magic power a bit. There are lots of items that augment your abilities. These are hard to come by, so think carefully before you use them. Of course, not using them at all would be a terrible waste as well, right? Items like this might vanish once you’ve used them. Bear that in mind, and use them wisely.
 
 @Boss 
 Lundgren: This is my realm, and you’ve entered without my permission. You will not leave these lands alive!
 
-Lundgren: That annoying little girl… Nothing but a savage from Sacae… The Caelin throne…should be…mine…
+Lundgren: That annoying little girl... Nothing but a savage from Sacae... The Caelin throne...should be...mine...
 
 %Lyn,Lundgren
 Lundgren: So you’re the girl claiming kinship with my brother!
@@ -5794,52 +5794,52 @@ Lyn: To further your own black ambitions, you’ve harmed my grandfather and the
 Lundgren: Whelp!
 
 %Kent,Lundgren
-Lundgren: Ah. One of the traitors. You must be…Kent, yes?
+Lundgren: Ah. One of the traitors. You must be...Kent, yes?
 Kent: Lundgren, your treachery precedes you. I will not listen to any of your poisoned words!
 Lundgren: You’re a fool! You’ll wish you’d never turned your coat!
 
 %Sain,Lundgren
-Lundgren: Ah, Sain… You’re not like that stubborn fool, Kent. You’re reasonable. Leave this child, Lyndis, and stand at my side. You will go far in my service.
-Sain: That is a gracious offer, my lord…
-Lundgren: Quite…
+Lundgren: Ah, Sain... You’re not like that stubborn fool, Kent. You’re reasonable. Leave this child, Lyndis, and stand at my side. You will go far in my service.
+Sain: That is a gracious offer, my lord...
+Lundgren: Quite...
 Sain: However, I am rather fond of my friend the stubborn fool. And if I am to pledge my service to any liege, I would choose lovely Lady Lyndis over Foul Lundgren, regardless of the risk!
 Lundgren: Fool! I will make you regret your decision!
 
 @End 
-Lyn: We’ve won… At last, I can see my grandfather.
+Lyn: We’ve won... At last, I can see my grandfather.
 Reissmann: You are Lady Lyndis, are you not?
 Lyn: Who are you?
 Reissmann: I am Reissmann, the chancellor of the Caelin royal family. I had receive word from Kent and Sain when you first met, but then Lundgren discovered the message and imprisoned me. It is my great pleasure to welcome you to your true home.
 Lyn: Thank you. May I see my grandfather now?
-Reissmann: Yes, of course. Do not be shocked by what you see. Lundgren has been poisoning the marquess’s meals for some time. His body has been ravaged… He’s been bedridden for months.
+Reissmann: Yes, of course. Do not be shocked by what you see. Lundgren has been poisoning the marquess’s meals for some time. His body has been ravaged... He’s been bedridden for months.
 
 Lord Hausen: Who is there? I said no visitors. I will see no one.
-Lyn: ……
-Lord Hausen: What are you doing? Leave me…to die…
-Lyn: Um… Pardon me… My name is… I’m Lyndis.
-Lord Hausen: Eh? Did you say Lyndis? Is that…
-Lyn: My father’s name was Hassar, chieftain of the Lorca. My mother was…Madelyn. I was raised on the plains.
-Lord Hausen: … Could it be? Come, come here. Let me see your face.
+Lyn: ......
+Lord Hausen: What are you doing? Leave me...to die...
+Lyn: Um... Pardon me... My name is... I’m Lyndis.
+Lord Hausen: Eh? Did you say Lyndis? Is that...
+Lyn: My father’s name was Hassar, chieftain of the Lorca. My mother was...Madelyn. I was raised on the plains.
+Lord Hausen: ... Could it be? Come, come here. Let me see your face.
 
-Lord Hausen: Oh… Yes… There is no doubt… You are Madelyn’s trueborn child… Uhhh…ahhhh…
+Lord Hausen: Oh... Yes... There is no doubt... You are Madelyn’s trueborn child... Uhhh...ahhhh...
 Lyn: Grandfather!
 
-Lord Hausen: Lundgren told me that my daughter had died. My heir…and you, too. He told me you were dead. Thank you… Thank you for living. Ahhhh… I am blessed…
-Lyn: Mother and Father were slain last year by brigands. I… I was the only survivor. I lived on, but…
-Lord Hausen: Lyndis, please forgive a prideful old man. If I had but accepted your parents’ love… There would have been no bandits. We would have lived here together in perfect peace.
+Lord Hausen: Lundgren told me that my daughter had died. My heir...and you, too. He told me you were dead. Thank you... Thank you for living. Ahhhh... I am blessed...
+Lyn: Mother and Father were slain last year by brigands. I... I was the only survivor. I lived on, but...
+Lord Hausen: Lyndis, please forgive a prideful old man. If I had but accepted your parents’ love... There would have been no bandits. We would have lived here together in perfect peace.
 
-Lyn: Grandfather. My parents… My tribe… Our life was one of love and peace. The end was tragic, but… up until the attack, we were truly happy.
-Lord Hausen: Truly? Madelyn had a life of happiness? Knowing that gives me so much joy. Thank you, Lyndis. I can die in peace now…
+Lyn: Grandfather. My parents... My tribe... Our life was one of love and peace. The end was tragic, but... up until the attack, we were truly happy.
+Lord Hausen: Truly? Madelyn had a life of happiness? Knowing that gives me so much joy. Thank you, Lyndis. I can die in peace now...
 Lyn: No! Grandfather! You mustn’t say that!
-Lord Hausen: There’s no avoiding it, Lyndis. I’ve taken too much poison for far too long. It’s too late…
+Lord Hausen: There’s no avoiding it, Lyndis. I’ve taken too much poison for far too long. It’s too late...
 Lyn: Be brave, Grandfather! You will recover! Believe me! On the plains, we say that illness fails in the face of a strong heart! I am with you now! You mustn’t give up!
-Lord Hausen: You’re…with me…
+Lord Hausen: You’re...with me...
 Lyn: Yes. We have so much to talk about. Walks to take, music to listen to. There’s so much I want to do with you, so much lost time we can recover!
-Lord Hausen: That does sound… nice.
-Lyn: Doesn’t it? And once you’re well, I’ll take you to the plains. I’ll show you the endless sky, the oceans of grass… I want you to know the lands my mother loved so much!
-Lord Hausen: The lands Madelyn loved… You’re right. I still have… quite a bit of living to do.
+Lord Hausen: That does sound... nice.
+Lyn: Doesn’t it? And once you’re well, I’ll take you to the plains. I’ll show you the endless sky, the oceans of grass... I want you to know the lands my mother loved so much!
+Lord Hausen: The lands Madelyn loved... You’re right. I still have... quite a bit of living to do.
 Lyn: You can do it, Grandfather!
-Lord Hausen: Lyndis…
+Lord Hausen: Lyndis...
 
 Sain: Lady Lyndis! Do you honestly plan on remaining here? Tell me truly!
 Lyn: Yes, until my grandfather is well. I can’t leave him now. I won’t.
@@ -5848,25 +5848,25 @@ Lyn: He’s the only family I have left. I want him to have a long life.
 
 Florina: Lady Lyndis!
 Lyn: What is it, Florina?
-Florina: I’ve been taken into service by House Caelin! From here on, Lyn… I mean, Lady Lyndis… We’ll be together always!
-Lyn: Really? Oh, that pleases me so…but… Please don’t call me Lady Lyndis. For you, I’m still just Lyn.
+Florina: I’ve been taken into service by House Caelin! From here on, Lyn... I mean, Lady Lyndis... We’ll be together always!
+Lyn: Really? Oh, that pleases me so...but... Please don’t call me Lady Lyndis. For you, I’m still just Lyn.
 Florina: My pegasus and I fly for your house now. I am your servant. There are rules to follow.
 Lyn: Florina!
-Florina: I’m happiest when I’m with you. That’s more important than how I address you… Please…
+Florina: I’m happiest when I’m with you. That’s more important than how I address you... Please...
 Lyn: I suppose I’ll just have to get used to it, right? Very well. I understand.
 Florina: Oh, thank you! I do love you, Lyn!
-Florina: Oops! I mean… Lady Lyndis!
-Lyn: Ha ha ha… Oh, Florina!
+Florina: Oops! I mean... Lady Lyndis!
+Lyn: Ha ha ha... Oh, Florina!
 
 Wil: Lady Lyndis! I’ve decided to stay, too!
 Lyn: Wil? Weren’t you planning on returning home?
-Wil: Well, I was but… I’ve grown quite fond of Lyndis’s Legions, you know… I couldn’t possibly leave everyone behind. I’ll send word to my family regarding my decision.
+Wil: Well, I was but... I’ve grown quite fond of Lyndis’s Legions, you know... I couldn’t possibly leave everyone behind. I’ll send word to my family regarding my decision.
 Lyn: I’m pleased to have you, Wil. Thank you.
 Wil: Thank you, milady.
 
-Lyn: Mark… you’re leaving, aren’t you? No, I’m not asking you to stay. It’s just… I’ll miss you. When I found you unconscious on the plains… I had no idea we would be together for so long. You’ve helped us so much, and I’m sure you’ve learned all you can from us. You’ll do just fine on your own. I have the utmost faith that you’ll be a master tactician, Mark. That’s from someone who’s seen you at work!
+Lyn: Mark... you’re leaving, aren’t you? No, I’m not asking you to stay. It’s just... I’ll miss you. When I found you unconscious on the plains... I had no idea we would be together for so long. You’ve helped us so much, and I’m sure you’ve learned all you can from us. You’ll do just fine on your own. I have the utmost faith that you’ll be a master tactician, Mark. That’s from someone who’s seen you at work!
 
-Lyn: Well then, take care… I… I hope I see you again. I’m sure that I will someday…
+Lyn: Well then, take care... I... I hope I see you again. I’m sure that I will someday...
 
 Tutorial: As of Chapter 11, Eliwood becomes the story’s main character. Mark’s role will be to act as tactician, aiding his group. Help Eliwood to fulfill the chapter goals and fight his way to the end of the game. You’ll start your first campaign with Eliwood, then meet his friend, Hector, in chapter 12. And who knows? You might even meet Lyn again. If any of these three is defeated, your game will be over. The game will continue if any other allied units are defeated. However, a defeated unit can never take part in combat again, so be careful!
 /***EOF***/
@@ -6062,7 +6062,7 @@ Lyn: "Lyndis's Legion"? This is getting stranger with every day, Tactician.
 @Opening 
 Eliwood arrives on the shores of Valor with a new companion in his numbers, an enigmatic young girl named Ninian. The majority of the island is covered in dense forest. Legend has it that no one has ever returned from those dark woods. A dense fog crawls over the party, engulfing them one by one... Cautiously, they move deeper into the trees.
 
-Hector arrives on the shores of Valor with a new companion in his numbers, an enigmatic young girl named Ninian. The majority of the island is covered in dense forest. Legend has it that no one has ever returned from those dark woods. A dense fog crawls over the party, engulfing them one by one… Cautiously, they move deeper into the trees.
+Hector arrives on the shores of Valor with a new companion in his numbers, an enigmatic young girl named Ninian. The majority of the island is covered in dense forest. Legend has it that no one has ever returned from those dark woods. A dense fog crawls over the party, engulfing them one by one... Cautiously, they move deeper into the trees.
 
 @Intro 
 Nergal: Shame on you, Marquess Pherae. You freed the boy AND the girl?
@@ -6316,8 +6316,8 @@ Sonia: Lord Nergal will have your quintessence! Only the chosen few will live to
 Sonia: It can't be... I'm...perfect... Lord Nergal said...so...
 
 %Nino,Sonia
-Nino: I thought for so long that you were my true mother…
-Sonia: Ha ha ha! Your mother and father looked so much like you. They were so naive it made me want to vomit. I dressed in rags and entered their house with a child in my arms. They were sincerely concerned. Ha ha… Trusting a stranger is so utterly foolish. Oh, they came to regret their trust, but it was too late.
+Nino: I thought for so long that you were my true mother...
+Sonia: Ha ha ha! Your mother and father looked so much like you. They were so naive it made me want to vomit. I dressed in rags and entered their house with a child in my arms. They were sincerely concerned. Ha ha... Trusting a stranger is so utterly foolish. Oh, they came to regret their trust, but it was too late.
 Nino: Aaahhh!!! You’re no perfect being! You’re a monster in human form! No mercy! No forgiveness!!!
 
 %Jaffar,Sonia
@@ -6365,10 +6365,10 @@ Erik: Yes, Father. We’ve just received word from our lookouts. He’s still be
 Darin: Lord Ephidel, what is the meaning of this?
 Ephidel: Perhaps when they reached Santaruz Castle, Lord Helman was still clinging to life.
 Darin: You can’t be serious!
-Ephidel: He couldn’t have lasted too long, but…maybe he told them something.
+Ephidel: He couldn’t have lasted too long, but...maybe he told them something.
 Darin: That’s terrible! Our plan! It’s all for naught, isn’t it?
 Ephidel: No need to be so alarmed, my lord. Even if he told young Eliwood something of our schemes, Pherae no longer has any power. All Eliwood could do is perhaps inform Marquess Ostia.
-Darin: Ostia?! That would be ruinous! Lord Uther may be young and new to the throne, but he’s dangerous. That addlepated Helman! He was a coward to the end! To betray us now, when we’re so close…We only need a little more time to complete our plans for rebellion!
+Darin: Ostia?! That would be ruinous! Lord Uther may be young and new to the throne, but he’s dangerous. That addlepated Helman! He was a coward to the end! To betray us now, when we’re so close...We only need a little more time to complete our plans for rebellion!
 Ephidel: Then before Marquess Ostia becomes aware of any of this, you would do well to stop them here.
 Darin: Yes, you’re right, of course. We do have a chance! They have to pass through Laus to get to Ostia. We can still silence them!
 Ephidel: They must not pass. No matter the cost.
@@ -6377,17 +6377,17 @@ Erik: Father! Please, let me take the command.
 Darin: Erik! Tell me, Son, can you succeed?
 Erik: That clod Eliwood and I studied together in Ostia. He’s a trusting fool. If he sees me, he’ll lower his guard. And when he does, we strike!
 Darin: I see.
-Ephidel: I beg your pardon… Is this not too much for him? If, by strange chance, he fell, things could turn for the worse.
+Ephidel: I beg your pardon... Is this not too much for him? If, by strange chance, he fell, things could turn for the worse.
 Darin: No, I know I’m the lad’s father, but Erik’s quite clever, I tell you. Snuffing Pherae’s whelp will be no trouble at all. It’s settled! It’s up to you now, Erik. Bring me the head of Pherae’s darling son!
 Erik: Yes, Father! I will not fail you!
 
-Hector: Look around… They truly are preparing for battle. Marquess Laus! What is he scheming?
-Eliwood: ….
+Hector: Look around... They truly are preparing for battle. Marquess Laus! What is he scheming?
+Eliwood: ....
 Hector: You don’t much look like you want to go to the castle.
 Eliwood: If we go and learn the truth, we may have to go to war.
 Hector: That’s fine with me!
-Eliwood: I… I’ve no love for war. If I concentrate on the foe before me, I’m fine. If I picture families, innocents caught up in our foolish politics? If I imagine them… All I can do is pray for a way to solve things peacefully.
-Hector: Eliwood….
+Eliwood: I... I’ve no love for war. If I concentrate on the foe before me, I’m fine. If I picture families, innocents caught up in our foolish politics? If I imagine them... All I can do is pray for a way to solve things peacefully.
+Hector: Eliwood....
 Marcus: Lord Eliwood! A knight has ridden forth from the castle.
 Eliwood: A lone knight?
 Marcus: Yes, my lord. Our scouts say it’s Marquess Laus’s son, Erik. He is asking to see you.
@@ -6408,23 +6408,23 @@ Oswin: Do not let yourself be distracted. Keep your guard up.
 Hector: Ha ha ha. Yes, Mother. I will.
 
 Erik: Hello! It’s been a long time, Eliwood!
-Eliwood: Erik… What is your business?
+Eliwood: Erik... What is your business?
 Erik: My business? What do you mean? I heard my old friend was here in Laus. I merely thought I’d ride out to greet you!
-Eliwood: ……
-Erik: So tell me, friend, what brings you to Laus? Are you…on your way to Ostia?
+Eliwood: ......
+Erik: So tell me, friend, what brings you to Laus? Are you...on your way to Ostia?
 Eliwood: Hm? Why would you think that?
-Erik: Well, you were always such good friends with Hector. He and I never… got along very well. For a noble, his behavior was crude, and his manner of speech… You would have thought him a peasant at first glance. You’re still friends with Hector, aren’t you? When did you see him last? How do you communicate?
-Eliwood: Erik… You’re after something. What is it?
+Erik: Well, you were always such good friends with Hector. He and I never... got along very well. For a noble, his behavior was crude, and his manner of speech... You would have thought him a peasant at first glance. You’re still friends with Hector, aren’t you? When did you see him last? How do you communicate?
+Eliwood: Erik... You’re after something. What is it?
 Erik: Pardon?
 Eliwood: Everywhere I look, Laus prepares for battle. What are you and your father planning? I will know the truth!
-Erik: Hm… I’d hoped to wait until you’d told me of Ostia. Of whether you’ve spoken with the marquess or not.
+Erik: Hm... I’d hoped to wait until you’d told me of Ostia. Of whether you’ve spoken with the marquess or not.
 Eliwood: What are you talking about?
-Erik: Hm heh heh… Eliwood, I have always despised you. How I’ve longed to smash you and your pathetic morality into pieces! I’ve dreamed of this day, and here it is at last!
+Erik: Hm heh heh... Eliwood, I have always despised you. How I’ve longed to smash you and your pathetic morality into pieces! I’ve dreamed of this day, and here it is at last!
 Hector: Too bad you’ll not live to see the end of it.
 Eliwood: Hector!
-Erik: Y-You! Hector! You couldn’t… Have you spoken with Ostia already?
+Erik: Y-You! Hector! You couldn’t... Have you spoken with Ostia already?
 Hector: Maybe we have, maybe we haven’t. Eliwood, this mongrel has troops lying in ambush all around us. Laus regulars, every one. We’re in for a rough time.
-Erik: Heh heh… There’s little point in fighting. You’re trapped! My forces will overwhelm you, an unending torrent of soldiers! Laus’s elite knights are at the ready as well. Heh heh… How long do you think you can survive?
+Erik: Heh heh... There’s little point in fighting. You’re trapped! My forces will overwhelm you, an unending torrent of soldiers! Laus’s elite knights are at the ready as well. Heh heh... How long do you think you can survive?
 Eliwood: Craven cur!
 
 Hannah: Hee hee hee... A world of trouble you've landed yourself in, yes?
@@ -6450,7 +6450,7 @@ Tutorial: Merlinus’s merchant tent can be deployed on this map. If you deploy 
 
 Marcus: Mark! Let me take the point. There may be many of them, but numbers are meaningless! We are knights of Pherae. These mice of Laus will never defeat us!
 
-Erk: Hm. We certainly could stand some assistance…
+Erk: Hm. We certainly could stand some assistance...
 Man: I’m sorry, but it’s just not possible. If we disobey Marquess Laus, who knows what might happen to us?
 Erk: I understand. We’ll seek our aid elsewhere.
 Man: You’ll find the same answer everywhere you go. Eventually, you’ll have to do as the marquess orders. You would do well to tell your employer the same thing.
@@ -6459,8 +6459,8 @@ Erk: Hm. Good day to you.
 Bandit: Eh? What’s all this? Looks like a war’s broken out. Aha ha ha! Perfect! Time for a raid! Up and at ’em, mates! That village is ripe for plunder!
 
 Man: Priscilla. Has your escort returned yet?
-Priscilla: No. He left yesterday in search of a way out of here… I just hope the soldiers of Laus haven’t captured him.
-Man: His search for help must have been fruitless. Marquess Laus has ordered that no aid be given to you. There’s really nothing that any of us can do. I apologize, but…
+Priscilla: No. He left yesterday in search of a way out of here... I just hope the soldiers of Laus haven’t captured him.
+Man: His search for help must have been fruitless. Marquess Laus has ordered that no aid be given to you. There’s really nothing that any of us can do. I apologize, but...
 Priscilla: No, no. You could turn me over to the marquess, and yet you continue to grant me asylum. I’m grateful for that. Of course, if I simply went to the castle, this would all be over.
 Man: Don’t fret over that. None of us are overly fond of the marquess. He’s always threatening us. He treats us like slaves. All of these war preparations? We want nothing to do with them. We may be divided into territories, but we’re Lycians one and all. We may be invaded by another country one day, but why does he want to start a war here at home? None of us understand what he is doing.
 
@@ -6468,18 +6468,18 @@ Erik: Blast! They’re stronger than I had supposed! To the castle! I want all t
 
 Soldier: Lord Erik is struggling! He requests reinforcements!
 Darin: What? Ready the men.
-Ephidel: Unbelievable… These numbers cannot stop them.
+Ephidel: Unbelievable... These numbers cannot stop them.
 Darin: Ephidel? W-Where are you going?
 Ephidel: It seems that conquering Lycia might have been too much to ask of you after all. I must inform my master. The Black Fang will be leaving at once.
-Darin: No! You… You can’t abandon us! Not at this stage!
+Darin: No! You... You can’t abandon us! Not at this stage!
 Ephidel: Who was it that said Ostia mustn’t learn of our plans? Wasn’t it you, Lord Darin? The marquess of Laus himself?
-Darin: Y-Yes, it was. There’s no turning back for me. Not now! P-P-Please! One more… Give me one more chance. I assure you, I will not disappoint Lord Nergal!
-Ephidel: Very well… Assemble your men. We will regroup elsewhere.
-Darin: Eh? You can’t mean… My son…my home… Am I to abandon them?
-Ephidel: Would you fall in disgrace along with your son? Our master, Lord Nergal, is offering you the throne of all Lycia…Surely a few sacrifices are not too much to ask?
-Darin: Yes… You’re right. My destiny is greater than this. I was born to be king of Lycia.
+Darin: Y-Yes, it was. There’s no turning back for me. Not now! P-P-Please! One more... Give me one more chance. I assure you, I will not disappoint Lord Nergal!
+Ephidel: Very well... Assemble your men. We will regroup elsewhere.
+Darin: Eh? You can’t mean... My son...my home... Am I to abandon them?
+Ephidel: Would you fall in disgrace along with your son? Our master, Lord Nergal, is offering you the throne of all Lycia...Surely a few sacrifices are not too much to ask?
+Darin: Yes... You’re right. My destiny is greater than this. I was born to be king of Lycia.
 Ephidel: And as for an heir? You’re still young, my lord. You will have time. You must not let a moment’s sentimentality cloud your judgment.
-Darin: ……
+Darin: ......
 
 Erik: Where are my reinforcements? Why haven’t they come? I’ve no choice. I must attack! You! To the castle! Find more men!
 Soldier: Yes, my lord!
@@ -6487,13 +6487,13 @@ Soldier: Yes, my lord!
 @Recruit-Talk 
 %Serra,Erk
 Serra: Ohmigosh! It’s Erk! It’s been SO long! What are you doing here?
-Erk: Oh… Serra. You’re the last person I wanted to see…
+Erk: Oh... Serra. You’re the last person I wanted to see...
 Serra:: Oh, that’s so sweet! You wanted to see me again!
-Erk: ……
+Erk: ......
 Serra: Hey, I know! This is perfect. Come with us and lend a hand, Erk.
 Erk: I beg your pardon?
 Serra: Come on! I’ll even introduce you to Lords Hector and Eliwood! I know you. You’re probably just wandering about without work.
-Erk: No, Serra. I’m afraid I am gainfully employed. However… If you’re fighting Laus… This might work out after all.
+Erk: No, Serra. I’m afraid I am gainfully employed. However... If you’re fighting Laus... This might work out after all.
 Serra: What are you babbling about? Make up your mind, will you?
 Erk: My employer is hiding in a village south of here. If you’ll help me protect her, I’ll join up with you.
 
@@ -6508,10 +6508,10 @@ Erk: Lady Priscilla, my teacher entrusted you to my care. Until you have reached
 Priscilla: Thank you, Erk.
 
 @Visit 
-Man: You’re battling Erik and his men, right? Let me tell you, I’m on your side! My granddaughter… Marquess Laus took her away. He found her pretty, and forced her to the castle. It’s not much, but please take this. It’s a large sword, so you have to be strong to use it. It’s a bit unwieldy, but it is a mighty weapon nonetheless. I hope you can defeat the marquess’s son, Erik. It would make our lives more pleasant. Good luck to you.
+Man: You’re battling Erik and his men, right? Let me tell you, I’m on your side! My granddaughter... Marquess Laus took her away. He found her pretty, and forced her to the castle. It’s not much, but please take this. It’s a large sword, so you have to be strong to use it. It’s a bit unwieldy, but it is a mighty weapon nonetheless. I hope you can defeat the marquess’s son, Erik. It would make our lives more pleasant. Good luck to you.
 
 @Recruit-Visit 
-Priscilla: Again? Are you another messenger from the marquess? Please, do not waste your time. I will not change my decision. Pardon? Marquess Laus did not send you? I… I beg your forgiveness. It was my mistake. Say… If it’s not too much trouble, might I leave with you? I’m on a journey. Marquess Laus is barring my way, and…I’m trapped. I am trained in the use of staves. Please, help me.
+Priscilla: Again? Are you another messenger from the marquess? Please, do not waste your time. I will not change my decision. Pardon? Marquess Laus did not send you? I... I beg your forgiveness. It was my mistake. Say... If it’s not too much trouble, might I leave with you? I’m on a journey. Marquess Laus is barring my way, and...I’m trapped. I am trained in the use of staves. Please, help me.
 
 Erk: Lady Priscilla! Are you well?
 Priscilla: I should be asking you that, Erk. Have you been wounded?
@@ -6520,7 +6520,7 @@ Priscilla: Truly?
 Erk: We’ll be joining up with Marquess Pherae’s son. Traveling with them seems to be the safest way for us to continue your search for your family.
 Priscilla: Erk!
 Erk: Oh, my apologies. This isn’t the place to discuss such things.
-Priscilla: I’m sorry, but…
+Priscilla: I’m sorry, but...
 Erk: Lady Priscilla, my teacher entrusted you to my care. Until you have reached your goal, I will not leave your side.
 Priscilla: Thank you, Erk.
 
@@ -6531,27 +6531,27 @@ Erik: I am no one’s prisoner! Unhand me! Gwaaa!
 
 @End 
 Hector: Come on, Erik! Get up!
-Erik: You… You peasants… You can’t treat a proper noble like this!
+Erik: You... You peasants... You can’t treat a proper noble like this!
 Hector: It’s too late for niceties! Be thankful you’re still breathing!
 Eliwood: Erik, you must tell me. Where is your father? We’ve searched the entire castle, and there’s no one here.
-Erik: D-Don’t be ridiculous! My father would not abandon… No! He’d never… Ephidel…
+Erik: D-Don’t be ridiculous! My father would not abandon... No! He’d never... Ephidel...
 Eliwood: Ephidel? Who’s that?
-Erik: ……
+Erik: ......
 Hector: Speak, cur!! Do you want to die here?
 Erik: Ah!
-Eliwood: Hector! Erik…please. You must tell us everything you know. I… I just want to know where my father is.
-Erik: ………Ephidel… He appeared at the castle one year ago. He came…and my father changed. Ostia’s position had always bothered my father… He felt Laus deserved to rule all of Lycia. But he’d never gone so far as to speak of rebellion.
-Hector: Did you say…rebellion?
-Erik: Ephidel had something… With it, he convinced my father to set this plan in motion. My father then sent envoys to several other marquesses. Marquess Pherae, he had approved of the idea.
+Eliwood: Hector! Erik...please. You must tell us everything you know. I... I just want to know where my father is.
+Erik: .........Ephidel... He appeared at the castle one year ago. He came...and my father changed. Ostia’s position had always bothered my father... He felt Laus deserved to rule all of Lycia. But he’d never gone so far as to speak of rebellion.
+Hector: Did you say...rebellion?
+Erik: Ephidel had something... With it, he convinced my father to set this plan in motion. My father then sent envoys to several other marquesses. Marquess Pherae, he had approved of the idea.
 Hector: What?
 Eliwood: Never! My father would never agree to such a thing!
 Erik: Believe or disbelieve. That is your choice. First was Marquess Santaruz. Then Marquess Pherae’s reply arrived. Marquess Pherae visited here six months ago to seal his approval.
-Eliwood: That’s not… possible…
+Eliwood: That’s not... possible...
 Erik: My father and yours argued vehemently that day. Marquess Pherae always distrusted Ephidel. He tried to convince my father to send Ephidel and the Black Fang assassins out of Lycia. My father would not be persuaded, and Marquess Pherae left the castle. As you know, he then disappeared. I doubt he’s still alive.
 Eliwood: No!
 Hector: Shut your mouth!
-Erik: Eliwood said he wanted to hear everything. My father… He is but Ephidel’s puppet. He’ll listen to anything that villain says. Even watch his own son…die…… Those are the sort of people you’re dealing with. Marquess Pherae betrayed them. They would not let him live! Ha ha…ha ha ha ha ha ha…
-Eliwood: Ah…
+Erik: Eliwood said he wanted to hear everything. My father... He is but Ephidel’s puppet. He’ll listen to anything that villain says. Even watch his own son...die...... Those are the sort of people you’re dealing with. Marquess Pherae betrayed them. They would not let him live! Ha ha...ha ha ha ha ha ha...
+Eliwood: Ah...
 Hector: Wait! Eliwood!
 
 Oswin: Lord Hector.
@@ -6577,12 +6577,12 @@ Hector: Oswin, you--
 Oswin: I am a knight in service to Castle Ostia. Until now, I have only offered my lance to Lord Uther. Yet... I now wish to offer you that same service. Please grant me that honor.
 Hector: Oswin...
 
-Hector: Eliwood…
-Eliwood: My father is alive… And… I cannot believe he supports…rebellion. There must be… There has to be a reason…
+Hector: Eliwood...
+Eliwood: My father is alive... And... I cannot believe he supports...rebellion. There must be... There has to be a reason...
 Hector: I know. I don’t believe any of this for an instant. My brother trusted Marquess Pherae more than anyone. First, we’ll find your father and uncover the truth. We’ll talk to my brother after that.
-Eliwood: Hector, I’m sorry…
+Eliwood: Hector, I’m sorry...
 Hector: Don’t look like that. Your father is surely alive. Right?
-Eliwood: Yes, of course… Marquess Laus… Black Fang assassins… Now this mysterious Ephidel… I’ll find them all and prove my father’s innocence!
+Eliwood: Yes, of course... Marquess Laus... Black Fang assassins... Now this mysterious Ephidel... I’ll find them all and prove my father’s innocence!
 /***EOF***/
 @Intro 
 ???: Are you awake?
@@ -6634,7 +6634,7 @@ Tutorial: Open the Item menu and select a vulnerary. Next, choose Use.
 
 Lyn: Thank you, Mark! Now, let’s go get that brigand over by the ger!
 
-Lyn: Whew! He’s tough… It all comes down to this next blow. Mark, if I fall, I want you to flee. You must escape!
+Lyn: Whew! He’s tough... It all comes down to this next blow. Mark, if I fall, I want you to flee. You must escape!
 
 @Boss 
 Batta: Who do you think you are? You think you can stand up to Batta the Beast?
@@ -6665,16 +6665,16 @@ The Bern royal family is a pageant of power, love, and hate. Eliwood finds himse
 
 @Intro 
 Sonia: You there, open the cell.
-Black Fang: Lady Sonia? Bu-But… the prisoner… My orders are that none may see him.
-Sonia: Open the cell. …Did you hear me?
-Black Fang: Yes… Yes!
-Pascal: Oho… Aren’t you a lovely one? I pray you’ll forgive the cramped quarters.
-Sonia: Pascal Grentzer, once and former count of Bern’s Landskron. A man whose battlefield prowess was feared far and wide… Until you invited your citizens to your castle and slaughtered them. Stripped of your title, you fled the king and joined the Black Fang. Is that an accurate summary?
-Pascal: Hmmm… You know me well, it would seem.
+Black Fang: Lady Sonia? Bu-But... the prisoner... My orders are that none may see him.
+Sonia: Open the cell. ...Did you hear me?
+Black Fang: Yes... Yes!
+Pascal: Oho... Aren’t you a lovely one? I pray you’ll forgive the cramped quarters.
+Sonia: Pascal Grentzer, once and former count of Bern’s Landskron. A man whose battlefield prowess was feared far and wide... Until you invited your citizens to your castle and slaughtered them. Stripped of your title, you fled the king and joined the Black Fang. Is that an accurate summary?
+Pascal: Hmmm... You know me well, it would seem.
 Sonia: You were even made one of the Four Fangs. Spending the rest of your days in this place seems so wasteful. I’ve heard that Brendan calls you “the Beast.” A monster who would massacre an entire village to kill one person.
-Pascal: He doesn’t know how to enjoy his work. “Never harm any innocents.” Bah. “The Black Fang brings justice to those above the law.” Ha ha ha… Quite droll jokes, don’t you think?
+Pascal: He doesn’t know how to enjoy his work. “Never harm any innocents.” Bah. “The Black Fang brings justice to those above the law.” Ha ha ha... Quite droll jokes, don’t you think?
 Sonia: I’m going to release you, Count. I’ve a job for you. Something you’ll love. What do you say? Are you interested?
-Pascal: Hmmm… Why not? It can’t be worse than rotting here. And I must say, I do love my work… Now, tell me. What is the name of my target?
+Pascal: Hmmm... Why not? It can’t be worse than rotting here. And I must say, I do love my work... Now, tell me. What is the name of my target?
 
 Hector: This is a really remote area, isn’t it?
 Eliwood: Yeah. Few people call this area home.
@@ -6683,20 +6683,20 @@ Hector: Yes, I paid a small ransom for this information. There’s no mistake. L
 Lyn: Thieves. Wonder if it’s true.
 Eliwood: We’ll simply have to go and confirm it for ourselves.
 Hector: Come on. Let’s go!
-Lyn: Oh! Wait, you two! This looks… It’s them!
+Lyn: Oh! Wait, you two! This looks... It’s them!
 
 Pascal: It’s about time. Shall we get started?
-Black Fang: Lo…Lord Pascal, are you sure? Shouldn’t we tell the chief we’ve found them?
+Black Fang: Lo...Lord Pascal, are you sure? Shouldn’t we tell the chief we’ve found them?
 Pascal: You don’t understand, do you? If we tell anyone, the Four Fangs will take over. I will not let my prey be snatched away by those spoiled children.
-Black Fang: But… But…
+Black Fang: But... But...
 Pascal: If you wish to be executed for desertion, I’ll not stop you from fleeing. I think it would be more fun to fight though, don’t you? Shall we proceed, gentlemen?
-Lyn: …Looks like we’re completely surrounded.
-Hector: Bah, I don’t think we’ll lose if we fight, but… These are not the most favorable conditions. OK! I don’t care who, but someone needs to break out and seize those fortresses. Got that!? We seize all three of them!
+Lyn: ...Looks like we’re completely surrounded.
+Hector: Bah, I don’t think we’ll lose if we fight, but... These are not the most favorable conditions. OK! I don’t care who, but someone needs to break out and seize those fortresses. Got that!? We seize all three of them!
 
 @Battle 
 Florina: Oh, Mark.
 Fiora: We’re moving out, too, right, Mark? Let’s go, Florina.
-Florina: OK… But there are so many of them. If only Farina were here with us…
+Florina: OK... But there are so many of them. If only Farina were here with us...
 Fiora: Florina, it’s not helping us to talk about her now. Now, Mark. Give us our orders.
 
 Farina: Wow! It’s started! I must negotiate quickly, or all the fighting will be done! Who looks to be in charge on this side? Aha! There! That must be the leader!
@@ -6707,7 +6707,7 @@ Pascal: I am Count Pascal Grentzer of Landskron... The man who will cut short yo
 Pascal: Gahaa... Urrg...gaa... Is this...death? Is this...what I have... wrought so oft before?
 
 @Visit 
-Karla: Hmmm… I heard there was a fighter whose swordwork was a terror to behold. I traveled a long way to see him myself, but it wasn’t my brother. My brother’s strokes are far more lovely. I would lend you my sword, but I’m looking for someone. Take this. It is a poor substitute, but perhaps it will help you.
+Karla: Hmmm... I heard there was a fighter whose swordwork was a terror to behold. I traveled a long way to see him myself, but it wasn’t my brother. My brother’s strokes are far more lovely. I would lend you my sword, but I’m looking for someone. Take this. It is a poor substitute, but perhaps it will help you.
 
 @Recruit-Talk 
 %Hector,Farina
@@ -6855,9 +6855,9 @@ Eliwood: Hmm. Let’s make haste to the Dragon’s Gate.
 
 /***EOF***/
 @Opening 
-The Nabata Desert. A wasteland of scorching sun and frigid nights. It rejects human life. Any careless enough to enter its embrace is doomed to wander lost. Uther, the marquess of Ostia, spoke of a living legend… Guided by his words, Eliwood heads straight into the desert.
+The Nabata Desert. A wasteland of scorching sun and frigid nights. It rejects human life. Any careless enough to enter its embrace is doomed to wander lost. Uther, the marquess of Ostia, spoke of a living legend... Guided by his words, Eliwood heads straight into the desert.
 
-The Nabata Desert. A wasteland of scorching sun and frigid nights. It rejects human life. Any careless enough to enter its embrace is doomed to wander lost. Uther, the marquess of Ostia, spoke of a living legend… Guided by his words, Hector heads straight into the desert.
+The Nabata Desert. A wasteland of scorching sun and frigid nights. It rejects human life. Any careless enough to enter its embrace is doomed to wander lost. Uther, the marquess of Ostia, spoke of a living legend... Guided by his words, Hector heads straight into the desert.
 
 @Intro 
 Nils: ...So hot. I'm...going to die.
@@ -6936,7 +6936,7 @@ Pent: ...I've no wish to hurt you...
 @Battle 
 Canas: Actually, this is quite fascinating. Mark, the Nabata wasteland is a bit of a paradise to magic adepts. Stories tell of the many magical artifacts lost in these sands. I'll keep my eyes open. Of course, I'll be fighting as well.
 
-Rath: Mark… It’s been a long time. No… I have no other business. Command me as you’ve done in the past.
+Rath: Mark... It’s been a long time. No... I have no other business. Command me as you’ve done in the past.
 
 @Boss 
 Paul: I can't believe we lost, Brother... Aaah... It's a tragedy, Jasmine.
@@ -6955,13 +6955,13 @@ Hawkeye: I will drive out the bandits. Guests need not fight.
 Eliwood: Please wait! Guests!?
 
 %Hector,Hawkeye
-Hector: Ahh…shade. Whew…that’s nice. …Huh? Shade…
-Hawkeye: ……
-Hector: Hm! Waaa! Who… Who are you?!?
+Hector: Ahh...shade. Whew...that’s nice. ...Huh? Shade...
+Hawkeye: ......
+Hector: Hm! Waaa! Who... Who are you?!?
 Hawkeye: I’m Hawkeye, defender of this desert.
 Hector: You’re with them? You’ve got some nerve threatening me!
 Hawkeye: I will drive the bandits away. Guests need not fight.
-Hector: …Huh? He-Hey! What’s going on?
+Hector: ...Huh? He-Hey! What’s going on?
 
 @Battle-Talk 
 %Eliwood,Pent
@@ -7049,7 +7049,7 @@ Soldier: Lord Hector! I have brought the 30,000 gold that was requested from the
 
 Bartre: Will you look at that! It's an arena! That is a battleground for men to test their strength! Come on, Mark! We can fight to our heart's content!!
 
-Karla: No leads here either… Where in the world could he have gotten to? Ah…brother of mine…
+Karla: No leads here either... Where in the world could he have gotten to? Ah...brother of mine...
 
 @Recruit-Talk 
 %Bartre,Karla
@@ -7164,7 +7164,7 @@ Limstella: ...I see. Eliwood and friends.
 Nergal: That's right. I will crush them, steal their essences, and call forth my dragons!! Heh heh heh... Haaa haa haha haha hah!!!
 /***EOF***/
 @Opening 
-After defeating the bandits, Lyn continues westward. She and her colleagues stop for the night at a ruined fortress. The Ganelon bandits are in a rage after their brethren fell to Lyn’s swords. They race in pursuit of the companions. Their angry footsteps sound closer and closer…
+After defeating the bandits, Lyn continues westward. She and her colleagues stop for the night at a ruined fortress. The Ganelon bandits are in a rage after their brethren fell to Lyn’s swords. They race in pursuit of the companions. Their angry footsteps sound closer and closer...
 
 @Intro 
 Wil: Ah, this should suffice! Tonight’s bed!
@@ -7301,7 +7301,7 @@ Kent: Let's go.
 Sain: Ha ha... No one trusts me...
 /***EOF***/
 @Flashback 
-Nergal: …I name you Kishuna. You are the only morph to whom I’ve given emotions. It won’t suffice simply to refer to you as a number. It is said man was sculpted by the hands of the gods. If so, then you, who were sculpted by these, my hands… And I, whose labors gave you breath and life… What are we, then? What does that make us? In your fabricated heart, which I gave unto you, what is it that you believe, Kishuna?
+Nergal: ...I name you Kishuna. You are the only morph to whom I’ve given emotions. It won’t suffice simply to refer to you as a number. It is said man was sculpted by the hands of the gods. If so, then you, who were sculpted by these, my hands... And I, whose labors gave you breath and life... What are we, then? What does that make us? In your fabricated heart, which I gave unto you, what is it that you believe, Kishuna?
 
 @Opening 
 ^start 
@@ -7488,7 +7488,7 @@ Eliwood: Hector, Lyn... Thank you.
 Eliwood: Hello, Tactician. So you're still awake. Tactician, do you know Bern well? No, nor do I... Nothing more than I've heard at court. I'm sure that, with all of your travels, you know more than I. By the way, Tactician, where were you born? Before you met Lyndis in Sacae, where were you? If it's difficult to speak about, you needn't worry. It's just that we've been together for so long, and I really know almost nothing about you. If you don't mind, won't you tell me about yourself? I would like to learn more about you and your life.
 /***EOF***/
 @Opening 
-Hector gains the upper hand in the battle of Valor. Taking the lead, Hector moves straight toward the Dragon’s Gate. Before his eyes, eerie ruins appear. What could they be? Are they connected to Nergal? If they overlook any enemy lurking within, they could be attacked from the rear. Without pause, they open the rusty steel door and step inside…
+Hector gains the upper hand in the battle of Valor. Taking the lead, Hector moves straight toward the Dragon’s Gate. Before his eyes, eerie ruins appear. What could they be? Are they connected to Nergal? If they overlook any enemy lurking within, they could be attacked from the rear. Without pause, they open the rusty steel door and step inside...
 
 @Intro 
 Kishuna: ............

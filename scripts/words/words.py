@@ -1,8 +1,3 @@
-# speaker counts
-# average sentence length
-# longest sentence by number of words
-
-
 # IN THIS FILE:
 # count number of words in a file
 # count number of unique words in a file
@@ -16,6 +11,8 @@
 # https://colab.research.google.com/drive/1hiv4QeqS6U7t9cye2jwDMuXvi7f3cDVv?usp=sharing
 # most common words (without stopwords)
 # most common phrases (3-6 grams)
+# average sentence length
+# longest sentence by number of words
 
 import os
 import string

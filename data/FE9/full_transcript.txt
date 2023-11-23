@@ -2553,12 +2553,12 @@ Elincia: Ike, stop it! How can I–
 Ike: Did anyone teach you how to hire mercenaries?
 Elincia: No, but that’s not the same–
 Ike: How to win back lost allies? How to win back your lost kingdom?
-Elincia: But that’s… That’s different.
+Elincia: But that’s... That’s different.
 Ike: No, it’s not.
 Ike: You’ve done such an amazing job. And I think you always will.
 Elincia: I see.
 Ike: All right, come on. We’ll do this together.
-Elincia: Thank you, my lord Ike. I am… I am so blessed to have met you.
+Elincia: Thank you, my lord Ike. I am... I am so blessed to have met you.
 
 @Narration
 And so it was that, in the spring of the year 646, Elincia Ridell Crimea saw peace return to her homeland. In the years to follow, the story of Queen Elincia and her noble hero, Ike, spread across the land and inspired the songs of many a wandering troubadour.
@@ -4853,21 +4853,21 @@ Ike: I... Fine...
 Greil: ...
 
 @Cutscene 
-Ike: Father… What’s going on? Where are you?
+Ike: Father... What’s going on? Where are you?
 Greil: Ike? Stay back!
 Black Knight: Here. Use this blade.
 Greil: What are you doing?
 Black Knight: I’ve been waiting for this for a long time.
-Black Knight: I would prefer it if you used your proper weapon, so that I might see you at your full strength…
+Black Knight: I would prefer it if you used your proper weapon, so that I might see you at your full strength...
 Black Knight: General Gawain, Rider of Daein.
 Greil: That was my name once, but I threw it away. The only weapon I need is right here.
 Black Knight: Do you want to die?
-Greil: Your voice… I remember you.
+Greil: Your voice... I remember you.
 Greil: You think you can defeat me? The man who taught you how to fight? What a fool.
 Greil: Come on, boy! Come try me!
 Black Knight: Is that all there is? No challenge? No resistance?
 Ike: Father!!!
-Ike: Don’t… Don’t leave…
+Ike: Don’t... Don’t leave...
 Ike: Don’t leave me! Father!
 
 @Dialogue 
@@ -7200,7 +7200,7 @@ Kamura: What? They still resist? Impossible! Fight, dogs! ! Focus and press forw
 Kamura: Urgh...aaa...Glory to...to...Daein...
 
 @Recruit-Battle
-Ilyana: Forgive me…
+Ilyana: Forgive me...
 
 @Battle 
 Soren: Ike! The enemy has taken the castle!

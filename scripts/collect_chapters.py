@@ -7,11 +7,14 @@ game_path = os.path.join(os.getcwd(), "input", sys.argv[1])
 
 output_path = os.path.join(os.getcwd(), "data", sys.argv[1])
 
+print("Running collect chapters on " + sys.argv[1])
+
 with open(os.path.join(output_path, "full_transcript.txt"), 'w+') as file:
     for filename in glob.glob(os.path.join(game_path, "transcripts", "*.txt")):
 
         with open(filename, 'r') as f:
             for line in f:
+                line = line.replace("…", "...")
                 file.write(line)
 
         file.write("\n")
@@ -33,7 +36,7 @@ with open(os.path.join(output_path, "full_transcript.txt"), 'r') as file, open(o
 
         split_speaker = text.split(": ")
         if len(split_speaker) < 2:
-            removed_punctuation = new_line.replace("...", " ").replace("-", " ").replace("’", "").translate(str.maketrans('', '',string.punctuation)).lower().replace("…", "")
+            removed_punctuation = text.replace("...", " ").replace("-", " ").replace("’", "").translate(str.maketrans('', '',string.punctuation)).lower()
             fo.write(removed_punctuation)
             fo.write("\n")
             continue

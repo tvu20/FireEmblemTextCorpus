@@ -23,9 +23,9 @@ Chalard: Gotcha, you slippery scamp! Prepare for a dose of Grima's wrath.
 Gregor: Oy, this is most terrible! Do you see now? They make with the catching of us!
 Chrom: Why are you all after the girl?
 Gregor: All? What is this "all"? Gregor is not one of "all"! Look close! Maybe you not see from so far? Gregor have innocent-baby face!
-Chrom: Hmm…
-Lissa: Well…
-Robin: Yeah... Not sure "innocent baby" is how I'd describe it…
+Chrom: Hmm...
+Lissa: Well...
+Robin: Yeah... Not sure "innocent baby" is how I'd describe it...
 Gregor: Gah! Never be minding! Gregor is not enemy! You must believe!
 Chrom: ...This is making my head hurt. We'll sort him out later. Right now, we need to protect the girl.
 Nowi: Y-you're going to help me?
@@ -66,8 +66,8 @@ Gregor: Yes! Very swell sword! Cost performance very high. You have Gregor's wor
 Chrom: Sure, why not? You're hired.
 Nowi: But! But what about me?! I WON'T go back on the auction block!
 Lissa: Wait. You've been sold? Like a...like a slave?!
-Nowi: To men more despicable than you can possibly imagine. They made me transform for them... They drank and laughed and called out tricks…
-Lissa: What kind of scumbags buy and sell a little girl?! Even if she CAN turn into a dragon…
+Nowi: To men more despicable than you can possibly imagine. They made me transform for them... They drank and laughed and called out tricks...
+Lissa: What kind of scumbags buy and sell a little girl?! Even if she CAN turn into a dragon...
 Frederick: She may be little, milady, but not nearly so young as you might think. Manaketes live a very long time.
 Lissa: Really? ...How old are you?
 Nowi: Oh, I dunno. ...A thousand...something? But look! No wrinkles!
@@ -75,7 +75,7 @@ Frederick: The dragonkin are said to be more resilient than men. Nowi would make
 Robin: Beg pardon, but who are the Grimleal?
 Frederick: Followers of the fell dragon, Grima. The selfsame dragon the first exalt defeated a thousand years ago. Even today there are some who yearn for the fiend's return.
 Robin: I...see.
-Flavia: Well, shall we get some rest? We're almost to the Plegian capital. We'll need all our strength, soon enough…
+Flavia: Well, shall we get some rest? We're almost to the Plegian capital. We'll need all our strength, soon enough...
 /***EOF***/
 @Intro
 Chrom: Origin Peak...
@@ -143,7 +143,7 @@ Chrom: Negotiation's not my strong suit, but I'll do my best. Remember, everyone
 
 Frederick: Trouble in the wind, milord: the Feroxi Guard are mobilizing.
 Chrom: What?! Why?
-Frederick: Who can say? But they look ready to let fly at a moment's notice. We'd best prepare for combat, just to be safe. Perhaps we ought pool our supplies and select which Shepherds to deploy? Loath as I am to trust him/her, Robin might offer some valuable insight in this…
+Frederick: Who can say? But they look ready to let fly at a moment's notice. We'd best prepare for combat, just to be safe. Perhaps we ought pool our supplies and select which Shepherds to deploy? Loath as I am to trust him/her, Robin might offer some valuable insight in this...
 Chrom: Indeed, he/she IS our tactician, after all. So, Robin? What do you suggest?
 
 @Battle 
@@ -170,7 +170,7 @@ Sumia: Right!
 
 Sumia: Oh, Captain, I'm so relieved I made it in time.
 Chrom: That goes double for me, Sumia! And this—is this the same ornery pegasus we met on the road?!
-Sumia: Oh, she's a sweetheart, isn't she? ...Once you really get to know her…
+Sumia: Oh, she's a sweetheart, isn't she? ...Once you really get to know her...
 Chrom: Well, many thanks to you both.
 Lissa: I think the pegasus is blushing!
 Frederick: And I think we had all best focus on the situation at hand!
@@ -196,7 +196,7 @@ Chrom: You almost sound disappointed.
 Kellam: Well, I just... I'm glad you finally saw me! Just try to keep an eye out from now on?
 
 @Battle 
-Robin: Hmm…
+Robin: Hmm...
 Chrom: What is it, Robin?
 Robin: I've been thinking about how you rode with Sumia earlier... Do our unit always have to fight one-on-one?
 Chrom: Are you suggesting we pair up? That's an interesting thought... I admit, I'd resemble a pincushion right now if it weren't for Sumia and her mount.
@@ -218,7 +218,7 @@ Raimi: A thousand apologies, Prince Chrom. I truly took you for brigand impostor
 Chrom: That would be most appreciated, thank you.
 
 Robin: Amazing. Her whole demeanor changed.
-Frederick: In Ferox, strength speaks louder than words. I should have known better than to overestimate the value of diplomacy here…
+Frederick: In Ferox, strength speaks louder than words. I should have known better than to overestimate the value of diplomacy here...
 Lissa: So can we get going, Chrom?
 Chrom: Yes, it's not getting any warmer.
 /***EOF***/
@@ -541,7 +541,7 @@ Marth: Nngh, no! I must keep fighting...or what purpose have I served?
 Chrom: Marth, no! Stand down! You'll die if you don't! We'll keep Emmeryn safe, I swear!
 Marth: All right...nngh... A-as you wish...
 
-Emmeryn: Ah... I... Forgive me…
+Emmeryn: Ah... I... Forgive me...
 Chrom: Emm? ...EMM?! No, no, no, no, no! Oh gods, nooo! 
 
 @Boss 
@@ -1544,10 +1544,10 @@ Emmeryn: Peace, Maribelle. I believe you. King Gangrel, I request that you relea
 Gangrel: Without so much as an apology? Why should I even bother with parley? I'm within my rights to have her head this instant and be home in time for supper.
 Chrom: You black-hearted devil!
 Gangrel: Control your dog, my dear, before he gets someone hurt.
-Chrom: Rrgh…
+Chrom: Rrgh...
 Gangrel: Now then, Your Graceliness. Perhaps we can arrange a trade? You give me the Fire Emblem, and I return Mari Contrary here in one piece.
 Emmeryn: You would ask for Ylisse's royal treasure? But why?
-Gangrel: Because I know the legend! The Fire Emblem is the key to having all one's wishes realized. I have desired it for years. YEARS! ...Yet my birthday comes and goes each year, and nothing from Ylisse. Heheh…
+Gangrel: Because I know the legend! The Fire Emblem is the key to having all one's wishes realized. I have desired it for years. YEARS! ...Yet my birthday comes and goes each year, and nothing from Ylisse. Heheh...
 Emmeryn: The Emblem's power is meant for a single purpose, King Gangrel: to save the world and its people at their hour of most desperate need. Would you claim a more noble wish?
 Gangrel: I want what every Plegian wants—a grisly end for every last Ylissean! What could be more noble than that?
 Emmeryn: What?
@@ -1555,14 +1555,14 @@ Gangrel: Surely you have not forgotten what the last exalt did to my people? You
 Emmeryn: ...I have never denied Ylisse's past wrongdoings. But I have sworn to never repeat those mistakes. Ours is now a realm of peace.
 Gangrel: Yours is now a haven of hypocrisy! Now give me the Fire Emblem!
 Maribelle: No, Your Grace! I'd sooner die than act as a bargaining chip for this filthy reprobate!
-Emmeryn: No, Maribelle…
+Emmeryn: No, Maribelle...
 Gangrel: Ugh... Taaaaaalk talk-talk-talk-talk. It's time to speak louder than words! This negotiation is over, Your Luminosity! I shall have the Emblem if I have to pry it from your shiny dead hands!
 
 Chrom: Stay back! Or you'll all suffer the same fate!
 Gangrel: Now that's a declaration of war if I've ever heard one... A big, messy war that will bleed you Ylisseans dry. Bwa ha ha!
 
 Aversa: Poor, stupid girl... Are you really worth fighting a war over? Years from now, you'll be remembered only as she who destroyed House Ylisse.
-Maribelle: No... That's not... Oh, Lissa... Please, no…
+Maribelle: No... That's not... Oh, Lissa... Please, no...
 
 Aversa: ...?!
 Ricken: Maribelle! Go! You're free!
@@ -1603,12 +1603,12 @@ Chrom: Oh, it's not so bad, Lissa. Just a healthy little stroll! How are you hol
 Robin: My legs feel like pudding... Your endurance astounds me, Chrom.
 Chrom: Hah! Should I carry you?
 Lissa: You can carry me! ...No, seriously. I would really be okay with you carrying me.
-Hierarch: Hmm…
+Hierarch: Hmm...
 Frederick: Is something troubling you, Hierarch? You keep glancing up at the peaks.
 Hierarch: Hmm? Oh, I'm just a b-bit nervous I'm afraid. Gh-ghastly times, these!
 Robin: Chrom, who is that?
 Chrom: The hierarch? He's been a friend of House Ylisse for many years. He guided Emmeryn during the early years of her rule. Why do you ask?
-Robin: I can't quite put my finger on it, but something feels…
+Robin: I can't quite put my finger on it, but something feels...
 
 Plegian: Grah ha hah! Time to die, princey!
 Chrom: Plegian soldiers? Damn! How did they know we were here? Everyone! Prepare for battle!
@@ -1643,11 +1643,11 @@ Vasto: You doves think...killing me will change anything? Heh... Even now, my br
 Chrom: ...They're gone.
 Cordelia: Your Grace! My prince! Run! As far and fast as you can! More Plegians are coming, not a half day's march behind you!
 Phila: Cordelia, what are you doing here? ...Tell me the border remains secure!
-Cordelia: That I could, milady! But it would be false... Gangrel himself led his might against us! The end was upon us when my knight-sisters begged me fly and warn the exalt... I should have stayed... I should have stayed! Ah, gods, I can still hear the screams…
+Cordelia: That I could, milady! But it would be false... Gangrel himself led his might against us! The end was upon us when my knight-sisters begged me fly and warn the exalt... I should have stayed... I should have stayed! Ah, gods, I can still hear the screams...
 Phila: Peace, Cordelia. You did your duty. The sisters rightly prized your youth. You've many years yet to keep their legacy alive.
 Cordelia: But I abandoned them! I'm weak... Their legacy deserves better.
 Phila: Sometimes fleeing takes the most courage. They knew that. Now pull yourself together. Let the faith they showed in you give you strength.
-Cordelia: Captain Phila, I... How can I go on like this? They were my...my family... *sob* Gods... Oh, gods… 
+Cordelia: Captain Phila, I... How can I go on like this? They were my...my family... *sob* Gods... Oh, gods... 
 Chrom: Damn those monsters!
 Emmeryn: I must return to the capital.
 Phila: Your Grace, I cannot advise—
@@ -1656,7 +1656,7 @@ Chrom: The Fire Emblem?
 Emmeryn: Take it to Ferox—to safety.
 Chrom: And leave you? No, Emm.
 Emmeryn: No part of House Ylisse matters more than the Emblem. It possesses tremendous power. But too much blood has been shed over it already. I hope it finds a better guardian in you than it did me.
-Chrom: Emm, come on. You can't... Don't talk like that! You sound like you're ready to give up…
+Chrom: Emm, come on. You can't... Don't talk like that! You sound like you're ready to give up...
 Emmeryn: I am not giving up, Chrom. I am only giving what I can.
 Chrom: Emm, please! This is madness!
 Lissa: Sis, wait! Let me go with you!
@@ -1696,7 +1696,7 @@ Chrom: OW! ...What the hell was that for?!
 Sumia: Oh no! ...Did I do it wrong? Captain Phila said sometimes a good slap will break someone out of their doldrums.
 Lissa: Sumia, when you slap someone, you do it with an open palm. You just punched Chrom in the face!
 Sumia: Um... It's the thought that counts?
-Chrom: Gods, that seriously hurt…
+Chrom: Gods, that seriously hurt...
 Flavia: Ha ha! What's wrong, my dear prince? Sometimes love hurts! You're lucky to have strong women like these, and not just dainty flowers about. In any case, I bring good news. The Feroxi army has finally mobilized. Every last man is itching to fight. I must say, I'm looking forward to savoring a skirmish or two myself.
 Chrom: ...Wait. You're coming along?
 Flavia: Of course! A khan must have her fun. I'm even bringing my insignificant other.
@@ -1709,7 +1709,7 @@ Basilio: Our scouts have reported back. Dark news, I'm afraid... Ylisstol...has 
 Chrom: What?!
 Basilio: The Plegians captured your exalt and retreated back across their lines. Gangrel has declared she's to be publicly executed within the moon.
 Chrom: E-executed?!
-Lissa: Ooooh…
+Lissa: Ooooh...
 
 Robin: Lissa? Lissa!
 Flavia: The dastard's not even trying to be subtle anymore.
@@ -2231,15 +2231,15 @@ Chrom: Peace, friend—I promise we'll hear all you have to say back in town. No
 Robin: What will you do with me? Am I to be your prisoner?
 Chrom: Hah! You'll be free to go once we establish that you're no enemy of Ylisse.
 Robin: Is that where we are? Ylisse?
-Frederick: You've never heard of the halidom? Ha! Someone pay this actor/actress. He/She plays quite the fool! The furrowed brow is especially convincing…
+Frederick: You've never heard of the halidom? Ha! Someone pay this actor/actress. He/She plays quite the fool! The furrowed brow is especially convincing...
 Chrom: Frederick, please.  This land is known as the Halidom of Ylisse. Our ruler, Emmeryn, is called the exalt. I suppose proper introductions are in order... My name is Chrom—but then, you already knew that.  The delicate one here is my little sister, Lissa.
-Lissa: I am NOT delicate! …Hmph!  Ignore my brother, please. He can be a bit thick sometimes. But you're lucky the Shepherds found you. Brigands would've been a rude awakening!
+Lissa: I am NOT delicate! ...Hmph!  Ignore my brother, please. He can be a bit thick sometimes. But you're lucky the Shepherds found you. Brigands would've been a rude awakening!
 Robin: Shepherds? You tend sheep? ...In full armor?
 Chrom: Heh, it's a dangerous job. Just ask Frederick the Wary here.
 
 Frederick: A title I shall wear with pride. Gods forbid one of us keeps an appropriate level of caution. I have every wish to trust you, stranger, but my station mandates otherwise.
-Robin: I understand, sir. I would do no less myself. My name is Robin. …I just remembered that. How odd. I suppose that's one mystery solved.
-Chrom: Robin? Is that foreign? …Ah, well. We can discuss it later. We're almost to town. Once we—
+Robin: I understand, sir. I would do no less myself. My name is Robin. ...I just remembered that. How odd. I suppose that's one mystery solved.
+Chrom: Robin? Is that foreign? ...Ah, well. We can discuss it later. We're almost to town. Once we—
 Lissa: Chrom, look! The town!
 
 Chrom: Damn it! The town is ablaze! Those blasted brigands, no doubt... Frederick, Lissa! Quickly!
@@ -2255,19 +2255,19 @@ Garrick: Gwa ha ha! Get to it, lads! Grab anything shiny, and put the rest to th
 Maiden: S-stay away from me! Please! Someone! HEEEEEELP!
 
 Lissa: Chrom, we have to stop them!
-Chrom: Don't worry—after today, these bandits won't be bothering anyone ever again…
+Chrom: Don't worry—after today, these bandits won't be bothering anyone ever again...
 
 Robin: Wait!
 Chrom: Robin! You followed us! Why?
-Robin: I… I'm not certain myself. But I'm armed, and I know my way around a fight if you'll have me.
+Robin: I... I'm not certain myself. But I'm armed, and I know my way around a fight if you'll have me.
 Chrom: Of course—strength in numbers. Just stay close!
 
 Frederick: Remember, Robin, we face practiced thieves and murderers. They will grant us no quarter. It's kill or be killed.
 
-Chrom: So, Robin, I see you wear a sword. Is it— Wait, is that a tome? …You know magic?
-Robin: I…believe so? I suppose I should check.
-Chrom: You "believe so"? Perhaps I'll just keep a few paces behind you for the time being…
-Robin: No, I can control it. I'm sure. Now, how did this work again? Ah, yes…
+Chrom: So, Robin, I see you wear a sword. Is it— Wait, is that a tome? ...You know magic?
+Robin: I...believe so? I suppose I should check.
+Chrom: You "believe so"? Perhaps I'll just keep a few paces behind you for the time being...
+Robin: No, I can control it. I'm sure. Now, how did this work again? Ah, yes...
 
 Lissa: We'll see who's delicate! I may not be able to attack like Chrom, but when you get injured? I'll be the one stitching your bones back together, care of my trusty staff! You just tell me where to go, Robin.
 
@@ -2275,18 +2275,18 @@ Chrom: Is anyone hurt? It would be foolish to leave a wound untreated.
 Robin: Indeed. Timely use of a staff or a vulnerary should prevent the worst.
 
 Chrom: Still with us, Robin?
-Robin: Hmm… It's strange. Here on the battlefield, I can… Well, I can "see" things.
+Robin: Hmm... It's strange. Here on the battlefield, I can... Well, I can "see" things.
 Chrom: See things? Like what?
-Robin: The enemy's strength, their weaponry, the flow of battle… I must have studied this somewhere.
+Robin: The enemy's strength, their weaponry, the flow of battle... I must have studied this somewhere.
 Chrom: So, you're saying you can size up the enemy at a glance?
-Robin: Yes, it would seem so. And perhaps more, if I apply myself…
+Robin: Yes, it would seem so. And perhaps more, if I apply myself...
 
 Chrom: Are you all right, Robin? Don't rush into danger.
 Robin: I'm fine, Chrom. Don't worry.
 Chrom: You've lent us your strength, and that makes you a friend. Having an ally by my side gives me courage.
-Robin: Thank you, but…I think there's more to it than that.
+Robin: Thank you, but...I think there's more to it than that.
 Chrom: What do you mean?
-Robin: I believe there's a tactical advantage to fighting side by side… It's fuzzy… Wait, yes: working in pairs improves strength, defense, speed… Yes, yes, I'm sure of it!
+Robin: I believe there's a tactical advantage to fighting side by side... It's fuzzy... Wait, yes: working in pairs improves strength, defense, speed... Yes, yes, I'm sure of it!
 
 @Boss
 Garrick: Here, sheepy sheepy! Come to the slaughter! 
@@ -3235,25 +3235,25 @@ Chrom: A lot can happen in two years, Lissa. One day you'll understand.
 ^locked
 Olivia: G-good day, milord.
 Chrom: Oh, hello, Olivia. What a pleasant surprise.
-Olivia: Oh! Is it strange? ...Or untoward? I don't mean to be so! I just thought, since you're always so nice to me, I should…
-Chrom: I'm happy you're here. I've always like talking to you. Especially since you've become less... Well, terrified of me than before, heh heh…
+Olivia: Oh! Is it strange? ...Or untoward? I don't mean to be so! I just thought, since you're always so nice to me, I should...
+Chrom: I'm happy you're here. I've always like talking to you. Especially since you've become less... Well, terrified of me than before, heh heh...
 Olivia: Heh ha, I know! It is so very strange. I've always been painfully shy around strangers, and even some acquaintances. Even a nod sends me running! But...not with you.
 Chrom: Basilio deserves my thanks. Were it not for his introduction, we may never have met.
 Olivia: I...I suppose not.
 Chrom: You're smiling! ...Heh. It suits you.
 Olivia: Really? I'm still so new at it. ...Smiling, I mean. ...At you. Until recently, the very thought of you had me weeping in despair!
 Chrom: What? But why?
-Olivia: No! Not in a bad way! It's just... Well, you're our leader, and such an important man, and we could never…
+Olivia: No! Not in a bad way! It's just... Well, you're our leader, and such an important man, and we could never...
 Chrom: ...Be together?
 Olivia: But it's all right! I've made my peace with it. It's just... I've never felt this way about a man. It's strange. In a good way. ...I think.
 Chrom: You're smiling again.
 Olivia: So are you! And I never get to see THAT on the battlefield!
-Chrom: I'm never this happy on a battlefield. And rarely this happy off it…
-Olivia: Milord…
+Chrom: I'm never this happy on a battlefield. And rarely this happy off it...
+Olivia: Milord...
 Chrom: Olivia, I'm going to say something, and you're likely going to think me mad. I know that we barely know each other, but I feel something...extraordinary for you.
 Olivia: Y-you do?
 Chrom: And not just when you dance! I feel it all the time. You're all I think about.
-Olivia: Are you saying…
+Olivia: Are you saying...
 Chrom: I think I love you. And I know that's madness! I KNOW it! But you know what? It doesn't matter. My sister always followed her heart, so now I'm going to follow mine... Olivia, will you marry me?
 Olivia: Holy gods! I mean... Yes... Yes, Chrom! Yes, oh yes! I will marry you!
 Chrom: I can't promise it will be easy, but I can promise you my heart.
@@ -3482,7 +3482,7 @@ Raimi: Prince Chrom, please wait here while I summon the khan.
 Chrom: Of course.
 Robin: The khan is away?
 Chrom: Out training, I'd wager. The khans of Ferox prefer battle to politics. Or rather, battle IS their politics.
-Robin: A warrior ruler, eh? I can picture him now… A giant of a man of unparalleled thew, his broad chest covered in hair, heheh…
+Robin: A warrior ruler, eh? I can picture him now... A giant of a man of unparalleled thew, his broad chest covered in hair, heheh...
 Flavia: Am I now? ...Please, do go on!
 Robin: Huh? 
 Chrom: You're the—?! Er, that is to say... The khan, I presume?
@@ -3491,12 +3491,12 @@ Chrom: Thank you, but I'm confident we can put that misunderstanding behind us. 
 Flavia: Yes. Those Plegian dogs! We found documents proving as much on the corpse of one of their captains. Plegia must see some benefit in raising tensions between your kingdom and ours.
 Chrom: Damn them! I... Forgive me, Your Grace. That was...indelicately put.
 Flavia: Ha! Damn them and damn delicacy! Here in Ferox, we appreciate plain speech.
-Chrom: In that case, you should have a word with your damn border guards…
+Chrom: In that case, you should have a word with your damn border guards...
 Flavia: ...Ha ha! Now that's Feroxi diplomacy! Yes, I like you already. I know why you have come, Prince. But regrettably, I cannot provide any Feroxi troops for Ylisse.
 Lissa: What?! Why not?!
 Flavia: I lack the authority.
 Chrom: Forgive me, but I don't understand. Aren't you the khan?
-Flavia: As I said, I am ONE of the khans. In Ferox, the khans of east and west hold a tournament every few years. The victor acquires total sovereignty over both kingdoms. And that means they have the final say when it comes to forging alliances. The West-Khan won the last tournament, you see, and so…
+Flavia: As I said, I am ONE of the khans. In Ferox, the khans of east and west hold a tournament every few years. The victor acquires total sovereignty over both kingdoms. And that means they have the final say when it comes to forging alliances. The West-Khan won the last tournament, you see, and so...
 Chrom: So we are to receive no aid at all?
 Flavia: Not if you always give up so easily! The next tournament is nigh, you see, and I am in need of champions.
 Chrom: What does that have to do with us?
@@ -3510,7 +3510,7 @@ Flavia: Well spoken again—I look forward to seeing if you're equally skilled w
 
 @Battle 
 Lissa: Chrom! Look!
-Chrom: I see him…
+Chrom: I see him...
 Marth: ......
 Chrom: Marth! One question, before we begin?
 Marth: ......
@@ -3537,13 +3537,13 @@ Marth: Heh, never expected such youthful arrogance... We shall see who shames wh
 Flavia: Well fought! You have my respect. And, perhaps more to the point, you have your alliance. I will provide Ylisse with the soldiers she needs.
 Chrom: Truly? Thank you, East-Khan.
 Flavia: I should thank you! It feels like ages since I've held full power. Come, my new friends! Tonight, we celebrate! 
-Basilio: Bah! Any excuse for a party and Flavia jumps on it…
+Basilio: Bah! Any excuse for a party and Flavia jumps on it...
 Chrom: I'm sorry, have we met?
 Basilio: I'm the West-Khan you so rudely removed from power! You're handy with a sword, boy. I thought for sure I'd picked the stronger man.
 Chrom: What do you know about him?
 Basilio: You mean that "Marth"? Bah! He's just some sellsword with delusions of grandeur. All I know is that he turned up one eve and knocked my old champion flat. It was love at first sight, and I'm generally too old for such things! Baha! Anyway, he's gone now. Up and fled the moment the tournament ended.
 Lissa: He's so dark and mysterious... *siiigh*
-Robin: Sounds like Marth's got at least one fan…
+Robin: Sounds like Marth's got at least one fan...
 Lissa: Well, I mean, c'mon... He IS sort of dreamy, isn't he?
 Chrom: And YOU'RE sort of dreaming!
 Lissa: Yowch! Lighten up, Big Brother. I was just kidding.
@@ -3552,7 +3552,7 @@ Chrom: Right as always Frederick.
 Basilio: Hold, boy. Before you go, I have a little present for you. 
 Lon'qu: ......
 Basilio: This is Lon'qu, my former champion. Not much for talking, mind you, but he's peerless with a sword. As good as Marth, in my mind. To be honest, I can't figure out how Marth bested him so quickly.
-Lissa: Marth beat him? But he looks so big and strong… 
+Lissa: Marth beat him? But he looks so big and strong... 
 Lon'qu: Away, woman!
 Lissa: Hey! Wh-what did I say?!
 Basilio: Ba ha ha! Let's just say that ladies tend to put Lon'qu on edge. Nonetheless, he is capable. Perhaps he even has the makings of a khan. Consider him West Ferox's contribution to the Ylissean cause.
