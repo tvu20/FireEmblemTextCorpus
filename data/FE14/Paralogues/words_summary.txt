@@ -1,0 +1,35 @@
+Game: FE14/Paralogues
+Number of chapters: 22
+Words per chapter: [733, 885, 535, 553, 832, 1159, 905, 356, 813, 869, 917, 1076, 1111, 792, 630, 922, 800, 1041, 946, 776, 655, 901]
+Average number of words per chapter: 827.5909090909091
+Number of words: 18207
+Number of unique words: 2421
+Number of words that only appear once: 1281
+Sample of words used only once: ['actual', 'volunteer', 'harms', 'excellent', 'approach', 'perfection', 'buts', 'jiffy', 'area', 'disobey', 'opportunity', 'tired', 'sitting', 'prefect', 'rigorously', 'disciplines', 'alongside', 'overconfident', 'observed', 'short', 'clothing', 'paragons', 'patch', 'needle', 'assessment', 'locals', 'each', 'recuperation', 'mobilized', 'tried', 'basically', 'yep', 'scout', 'thorough', 'outdoing', 'rate', 'boring', 'train', 'someday', 'push', 'pushing', 'novice', 'startled', 'recall', 'alike', 'spitting', 'image', 'voice', 'memory', 'overreact']
+Longest dictionary word: wrongheadedness
+Longest dictionary word length: 15
+Average word length: 3.9248091393420115
+
+Number of words (excluding stopwords): 9248
+Most common words (excluding stopwords): [('im', 154), ('father', 123), ('youre', 105), ('ill', 92), ('dont', 82), ('like', 72), ('right', 66), ('well', 66), ('get', 64), ('son', 64), ('know', 63), ('oh', 61), ('come', 57), ('thats', 56), ('ive', 55), ('one', 55), ('yes', 54), ('time', 51), ('got', 50), ('cant', 49), ('back', 48), ('way', 48), ('see', 47), ('mean', 45), ('hmm', 45), ('going', 43), ('must', 43), ('daughter', 43), ('us', 42), ('whats', 41), ('say', 41), ('make', 40), ('really', 40), ('good', 39), ('never', 37), ('friends', 37), ('need', 36), ('even', 36), ('sorry', 35), ('help', 34), ('take', 34), ('go', 33), ('want', 33), ('huh', 33), ('could', 31), ('think', 30), ('didnt', 30), ('wait', 30), ('let', 29), ('dad', 29)]
+
+Longest sentence length: 18
+Average sentence length: 5.007444168734492
+Longest sentence: When he hired me, he failed to say my job was to sneak in and off the owner.
+
+length,words,unique words
+1,1017,8
+2,3295,48
+3,3934,171
+4,4510,438
+5,2260,477
+6,1402,424
+7,834,345
+8,488,220
+9,259,147
+10,121,74
+11,45,38
+12,30,19
+13,9,9
+14,2,2
+15,1,1

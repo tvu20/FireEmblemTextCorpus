@@ -1,0 +1,35 @@
+Game: FE13/Paralogues
+Number of chapters: 17
+Words per chapter: [351, 1607, 983, 495, 955, 337, 890, 1025, 619, 630, 1481, 1263, 291, 1041, 912, 1270, 1225]
+Average number of words per chapter: 904.4117647058823
+Number of words: 15375
+Number of unique words: 2361
+Number of words that only appear once: 1204
+Sample of words used only once: ['countered', 'stare', 'shy', 'grateful', 'planning', 'crush', 'rascals', 'naturally', 'kettle', 'snookums', 'introduced', 'crown', 'prince', 'opposite', 'eye', 'fray', 'raised', 'philanderer', 'purged', 'flames', 'destruction', 'rain', 'reclaimed', 'sleep', 'works', 'lifting', 'wishes', 'flatters', 'rebuilding', 'bird', 'tweeted', 'harder', 'chatting', 'girls', 'quickest', 'wearing', 'brought', 'dancer', 'scouring', 'finally', 'male', 'shake', 'hips', 'ladies', 'sometime', 'shyer', 'arrived', 'therell', 'buttercups', 'blooming']
+Longest dictionary word: identification
+Longest dictionary word length: 14
+Average word length: 3.9380813008130082
+
+Number of words (excluding stopwords): 7921
+Most common words (excluding stopwords): [('im', 103), ('well', 85), ('youre', 81), ('oh', 75), ('know', 67), ('dont', 67), ('right', 60), ('like', 57), ('mother', 51), ('yes', 50), ('thank', 47), ('ill', 47), ('see', 47), ('one', 46), ('come', 46), ('us', 45), ('sir', 45), ('thats', 43), ('chrom', 42), ('wait', 40), ('would', 39), ('look', 38), ('future', 38), ('time', 37), ('take', 37), ('sorry', 34), ('village', 34), ('fight', 33), ('think', 33), ('back', 33), ('please', 32), ('still', 32), ('name', 32), ('get', 31), ('ive', 30), ('cant', 30), ('ha', 30), ('er', 28), ('make', 27), ('help', 26), ('want', 26), ('way', 25), ('could', 25), ('must', 25), ('good', 25), ('never', 24), ('ring', 24), ('sure', 23), ('place', 23), ('milord', 23)]
+
+Longest sentence length: 18
+Average sentence length: 5.196842458851193
+Longest sentence: Do I look like I'm of an age where I could have a child as old as you?
+
+length,words,unique words
+1,935,17
+2,2742,44
+3,3379,185
+4,3593,405
+5,1928,450
+6,1231,423
+7,727,334
+8,401,219
+9,245,139
+10,92,70
+11,69,47
+12,20,19
+13,11,7
+14,1,1
+16,1,1
