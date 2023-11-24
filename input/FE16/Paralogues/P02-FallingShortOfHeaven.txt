@@ -1,0 +1,82 @@
+@Opening 
+When Catherine and the Knights of Seiros ride out to seek retribution against the Western Church for their attack on the archbishop, Ashe is eager to accompany them.
+
+@Intro 
+Catherine: There you are. I have a request for you.
+Byleth: A request?
+Catherine: It has to do with that plot to assassinate Lady Rhea. The bishop leading the Western Church was somehow involved.
+Catherine: And speaking of the Western Church, there was also that incident in which one of the more extreme factions tried to occupy sacred land.
+Catherine: Enough is enough, so now the Knights of Seiros have been tasked with putting the bishop down. I thought you and your students could come with us.
+Byleth: Why would you want us to help?
+Byleth: Why for such an important mission?
+Catherine: Because you wield the Sword of the Creator. Lady Rhea is going to personally execute the bishop. I have been appointed as her guard. I want your help protecting her. So what do you say? Will you come?
+
+Ashe: Um, excuse me! I’d like to come along.
+Catherine: Ashe! You were listening in? It’s not up to you whether you can “come along.”
+Ashe: Please, this is important to me.
+Catherine: Your adoptive father, Lord Lonato, had connections to the Western Church. I understand that you want answers. But our objective is to punish, not to investigate. We can’t let you jeopardize the mission.
+Ashe: I won’t get in the way, I promise!
+Catherine: Hm... What do you say, Professor? Keep in mind we would be bringing the whole class, not just Ashe.
+Byleth: We’ll go. 
+Ashe: Thank you so much.
+Catherine: OK. I guess it’s fine. Get ready, then.
+Byleth: I’m not sure. 
+Catherine: Hm. Well, can’t hurt to wait a bit, I suppose. Do let me know when you finish your preparations. This is an important mission.
+
+@Battle 
+Bishop: There she is -- The sneaky little witch trying to pass herself off as the goddess’s envoy... Archbishop Rhea! I’ll bring judgment upon you in the goddess’s stead!
+Catherine: They’re using the fog as cover to ambush us. What a cheap ploy.
+Rhea: It won’t do any good to get annoyed, Catherine. That voice... We’re up against a faction of bishops.
+Catherine: They’ve shown themselves, at least, so we won’t have to go to the trouble of finding them. All right. You got a death wish? Come at me! You really want to fight against Thunder Catherine?
+
+Catherine: Please, Professor. Don’t let Lady Rhea get hurt. Our mission isn’t just to wipe out all the enemies, but also to protect Lady Rhea. Ready?
+
+Ashe: Lady Rhea!
+Catherine: Hold the line! Don't let them attack Lady Rhea again.
+
+Rhea: They have received reinforcements, and it seems the priests are calling them over.
+Ashe: Then we'll just have to take them out!
+
+Rhea: It seems that taking out the priest has stopped the reinforcements coming over here. We should be able to stop the reinforcements coming from the other side by taking care of the other priest.
+
+Rhea: They will not be able to send any more troops now. Let us sweep up the stragglers.
+Catherine: Good work, Lady Rhea! Let's round 'em up and cut 'em down.
+
+@Boss 
+Bishop: Apostates will suffer the punishment of the goddess!
+
+%Ashe,Bishop
+Ashe: Lonato’s blood is on your hands…
+Bishop: Were you Lord Lonato’s page or something? Indeed, he was a devout believer. All we did was provide Lord Lonato salvation from his misery!
+Ashe: Salvation?! You used him and threw him away!
+
+@End 
+Bishop: Apostates! You sully the name of the goddess!
+Rhea: You are the apostates! The goddess is with me!
+
+Rhea: Goddess, have mercy. Forgive them their sins, and save their souls...
+Catherine: It would have been better if we’d captured the bishop. But they didn’t make it easy for us. What now, Lady Rhea?
+Rhea: We must go to the headquarters of the Western Church. Perhaps there is still someone there who knows what has transpired.
+Ashe: Let us help too. It may not be much, but we’ll do whatever we can!
+Rhea: I am sure you will be a great help. I am glad to have you by my side.
+
+Catherine: Thanks, Professor. I really appreciated your help with the investigation. That’s it for today. Head back to Garreg Mach. The church will have to choose a new bishop, and do whatever else is necessary to rebuild the Western Church. Lady Rhea is grateful to all of you. She said she would send along a reward. You should feel very proud. Receiving a gift directly from Lady Rhea is exceedingly rare. Still. That was a real mess, huh? For them to come out and charge us so boldly...
+Byleth: I’m glad we made it out.
+Catherine: As am I. We kept Lady Rhea safe, thanks to you.
+Byleth: I thought we were doomed.
+Catherine: I did too. But we made it out somehow, thanks to you.
+Catherine: Hey, where did Ashe go? I haven’t seen him for a while.
+Byleth: No idea.
+Catherine: Could he still be back there? I’m glad he’s so dedicated to his work, but...
+Byleth: He couldn’t still be back there, could he?
+Catherine: That may be it. I hope he’s not getting in the way...
+
+Catherine: There you are, Ashe. We were just talking about...
+Ashe: ...
+Catherine: Why the brooding expression? Hey, what’s that bundle of papers in your hand?
+Ashe: This was given to me. It has to do with my family.
+Byleth: Given to you?
+Byleth: Is this about Lord Lonato?
+Ashe: I haven’t finished reading it all yet. But I think it might offer some clues about something I need to know. Professor, Catherine. Thank you for letting me come with you on this mission. I’d better get ready to go.
+
+Catherine: It’s a little painful to watch... I do hope that those papers, whatever they are, will help him get over his past. I suppose it’s time for us to start heading back to the monastery.

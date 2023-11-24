@@ -1,0 +1,109 @@
+@Opening 
+Amid riots in Hrym territory, Ferdinand learns that his missing father, Duke Aegir, has been found. Lysithea, who knows the area well, goes with him to investigate.
+
+@Intro 
+Duke Aegir: Can't...stop...running...
+
+Duke Aegir: Wha--?!
+
+Rogue A: We got you! You're the prime minister, aren't you?
+Rogue B: Not anymore. He lost his power and his fancy title. Now he's just a man.
+Duke Aegir: I...
+Rogue C: Shut up!
+Rogue A: Yeah! Do you know what you've done to regular folks like us? Since you villains took over the Hrym territory, our lives have been nothing but pain and misery! Heavy taxes, forced labor. It's brutal!
+Rogue D: Now we're gonna make you pay!
+Duke Aegir: Agh! Argh! Aaaaaaaargh!
+
+
+
+Ferdinand: Hm, such a nice selection of tea leaves in the pantry here.
+Lysithea: Tea is nice and all, but it's not much good when you don't have sweets to go with it.
+Ferdinand: Sweet treats are less common, yes, but perhaps that makes sense. War is not sugar-coated.
+Lysithea: If you've got time to be cheeky, you've got time to find me some sweets.
+Ferdinand: But Lysithea, your smile is so sweet--
+
+Knight of Seiros: Lord Ferdinand! Excuse the interruption. Our scouts happened upon the information you were looking for. I thought it would be best to let you know as soon as possible.
+Ferdinand: They know where my father is?!
+Knight of Seiros: Yes, sir.
+Ferdinand: Tell me, now.
+Knight of Seiros: After losing his position as prime minister, your father was held in Enbarr for a very long time. He escaped. For a while, no one knew where he was. The other day, however, he was sighted alone in the Hrym territory. Seemed he was heading for an allied region.
+Lysithea: Hrym...
+Ferdinand: Alone, you say. Was he safe?
+Knight of Seiros: I'm afraid not... There is a major insurrection happening in the Hrym territory. It's been five years since Duke Aegir lost his control of the area... The military seems to have finally lost control, and the people's violence is unleashed.
+Ferdinand: I do not understand. Why are they rioting?
+Lysithea: It's obvious, isn't it? Ferdinand, do you really know nothing about Hrym? Your own father was ruling it -- you don't know what became of the area once he fell from power?
+Ferdinand: If it was truly a House Aegir territory, I would have been trained in governing the area. But my father insisted that I have nothing to do with Hrym. But now is not the time to talk about this. We have to help him before he gets caught up in the violence.
+Lysithea: You're right. Now isn't the time for chitchat. Let's get over there quickly. Professor, will you be coming?
+Byleth: I'll go with you. 
+Lysithea: We'd better depart as soon as possible. I know a bit about the situation. I'll fill you in later.
+Byleth: I want you to wait. 
+Ferdinand: I understand. If you cannot help us, the Knights of Seiros will, so it is not a problem.
+Lysithea: Professor, time is of the essence. If you're going to come with us, prepare as quickly as you can.
+
+@Battle 
+Ferdinand: This is where my father was sighted? The citizens are rioting everywhere.
+Lysithea: Over there! Quick -- we need to help them!
+Ferdinand: There seem to be some people inciting the violence. If we take them out, perhaps the violence will subside.
+Lysithea: It might be best to spread out...
+
+Ferdinand: The north side of the town is in chaos. I do not think we can advance.
+Lysithea: It seems better to simply hold the line against the enemies to the north, and focus our efforts on saving the citizens in the east and south.
+
+Villager: Th-thank you! Looks like I won't be robbed this time!
+
+Villager: Thank you ever so much for helping us! I don't know what would have happened if it weren't for you...
+
+Villager: We owe you our lives! We're saved! Saved, I say!
+
+Villager: I get to live another day, and it's all because you came to the rescue!
+Lysithea: I think that's all of them. I'm so glad we were able to help everyone.
+
+Rogue: All right! Let's ransack this place!
+Lysithea: Ugh, we weren't fast enough! But there's still time to save the others. Hurry!
+
+Rogue: Oh yeah, keep going! Hahaha!
+Ferdinand: They got past us...again. We have to save the next one!
+
+Rogue: I'll take whatever I want, and there ain't nothing you can do to stop me!
+Lysithea: Ugh, they ransacked another house! But there may be others yet who need our help.
+
+Rogue: All right, boys! Smash and grab whatever's left!
+Ferdinand: We could not save anyone?! It infuriates me to feel so helpless...
+
+Rogue: Oh, looky there, some houses are still untouched! Let's give 'em a good plundering, boys!
+Lysithea: Professor, let's make haste and go help them! Their lives may be forfeit if we don't get to them quickly.
+
+Rogue Grappler:  Hyaah! Go on, boys! Riot to your heart's content!
+Rogue Grappler:  Argh! I'm not the only...bad guy here...
+Rogue Thief: What?! W-we give up! Have mercy! That guy made us do it!
+
+Rogue Swordmaster:  Hahaha! If we cause enough chaos, we can do whatever we want!
+Rogue Swordmaster:  My ambition...unfulfilled...
+Rogue Thief: We yield! Yield! We were just following orders! It's not like we love a good riot, really!
+
+Rogue Sniper:  What do you want?! You'd better not stand in our way!
+Rogue Sniper:  And after I went to all the trouble of killing that noble and stealing his treasure...
+Ferdinand: Father, no! So, we were too late after all...
+
+@End 
+Lysithea: Ferdinand... Hey.
+Ferdinand: Yes?
+Lysithea: I... I don't know what to say. About your father, I mean.
+Ferdinand: No, it is all right. Some part of me was expecting this. I do not know what happened in Hrym territory, but I'm sure he got what he deserved. You knew more about it, you said? Maybe you can tell me everything later.
+
+Lysithea: I can tell you what I know.
+Ferdinand: Please do.
+Lysithea: You know about the Hrym rebellion, right?
+Ferdinand: Of course. The rebellion started when Emperor Ionius IX tried to consolidate power. The Hrym family tried to split off from the Empire and join the Alliance. Working with House Ordelia, they raised an insurrection. The Empire suppressed it. And then a puppet leader was installed in the Hrym territory. House Aegir was tasked with handling the actual governance of the region. Seeing this, the nobles feared that the Empire would assume total control. That's when the six great noble families chose to wrest power from Ionius IX.
+Lysithea: That's right. The Insurrection of the Seven. I've always wondered why it was called seven when there were only six noble families.
+Ferdinand: It was the six great noble families, plus Hrym.
+Lysithea: How vexing. Either way, events unfolded shortly thereafter. Are you aware of how Duke Aegir was ruling the Hrym territory? He imposed harsh taxes upon the people -- much harsher than on his own -- making their lives very challenging. People fled their homes in droves to the neighboring Ordelia territory. But they were sent back from where they came. The Empire was occupying Ordelia territory as well, as it turned out. Issues were further complicated when Duke Aegir fell from power. Aegir was dismissed from his position, only to be replaced by Lord Arundel.
+Ferdinand: Edelgard's uncle, the regent of the Empire...
+Lysithea: Correct. And he imposed even heavier taxes on the people, squeezing them painfully dry. The people were conscripted for duty. Any who opposed were killed on the spot. Lord Arundel did this in the name of Duke Aegir.
+Ferdinand: What?!
+Lysithea: Your father was by no means a great ruler. But it was Lord Arundel who stoked the fury of the people and directed that fury at your father. Duke Aegir is not perfect, but he's not the villain in this.
+Ferdinand: Lysithea, thank you for telling me all this. I am embarrassed to say, I had no idea. I see now that it was not his fault. But he did go along the wrong path, and place a burden on his people. He can no longer atone for what he did, so I will have to. I need to go think about what I will do after the war. How I will make up for my father's mistakes.
+Lysithea: Nothing helps deep thought like sweets.
+Ferdinand: Hm?
+Lysithea: Sweets. They help you think. Perhaps you should find some for us.
+Ferdinand: I see. If I find some, I will be sure to let you know.

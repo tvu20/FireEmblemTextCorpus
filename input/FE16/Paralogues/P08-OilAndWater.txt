@@ -1,0 +1,84 @@
+@Opening 
+Manuela and Hanneman have predictably opposite reactions to a disturbing rumor going around the monastery.
+
+@Intro 
+Manuela: It's raining, Professor. On rainy days, the wound I got from the Death Knight hurts like fire. Every time it aches, I get angry. You understand, yeah? I'm sure they had their reasons to kidnap Flayn, but still... Did they really need to stab me? What'd I have to do with it?! They ruined my beautiful, porcelain skin. Worse, they took off before I could stab them back. So rude.
+
+Hanneman: That's rather enough, Manuela. Cease your moaning and give the professor a break.
+Manuela: Oh, stuff it, Hanneman. Unlike you, the professor has a big heart and listens to me talk about any problem I have.
+Hanneman: More likely, your incessant ramblings offer no chance to interrupt.
+Manuela: Is that true, Professor?
+Byleth: Manuela isn't bothering me. 
+Manuela: I knew it. You listen to me because you care about me, don't you?
+Byleth: Professor Hanneman is right. 
+Hanneman: You heard that, didn't you, Manuela? You are bothering the professor.
+Manuela: Go away, Hanneman! Leave us alone. And stop making me shout! it causes the old wound to hurt again.
+Hanneman: Then perhaps you'd best stay quiet. Keep your emotions in check, I'd say.
+Byleth: Let's stop this now.
+Byleth: Let's all get along.
+Manuela: Don't worry, Professor. We do this all the time.
+Hanneman: Indeed, Manuela and I do not mix well. Been true for years. That said, if it were up to me, I would prefer speaking to her in a calmer manner.
+Manuela: It's not like I enjoy bickering with you. So maybe keep your mouth shut more often.
+Hanneman: I state that which needs to be heard! For example--
+Byleth: Let's stop this now.
+Byleth: Let's all get along.
+Manuela: I'm sorry. I couldn't help it...
+Hanneman: Same, same. Apologies. I am here because I have new information on the Death Knight's hiding place.
+Manuela: What? Really?! You could have started with that.
+Hanneman: Several students have reported possible sightings on the western edge of the Sealed Forest. While the authenticity of these reports has yet to be verified, it is still a very real possibility. I was thinking I would report this to Seteth as a precaution.
+Manuela: What? Why? We can't be slow! He's going to get away!
+Hanneman: Protocol on this matter requires reporting to Seteth, then Lady Rhea, then...
+Manuela: Professor, let's leave this old geezer behind and get going!
+Hanneman: Old geezer? I am barely 15 years your senior! I will not hear such--
+Manuela: Stop talking! Let's gather a team and get going!
+Byleth: I agree. 
+Manuela: I'll go scout ahead. I'm coming for you, Death Knight!
+Hanneman: Manuela, wait! It would not do to get yourself killed without someone to avenge you!
+Byleth: Not yet... 
+Manuela: Well, I'm going ahead anyway. You can't stop me.
+Hanneman: Manuela, take a moment. You must prepare before heading out! Professor, please let me know as soon as you can if you could join us.
+
+@Battle 
+Hanneman: Manuela's in a tough spot, Professor. Even if she's only got herself to blame, we cannot abandon her.
+Bandit Leader: Heh... We have plenty of visitors today. Let's stop their annoying rescue attempt!
+
+Bandit: Now that is a woman...
+Manuela: Uh-oh. They've noticed me. Here they come!
+
+Thief: Just when I decide to disguise myself as a mountain bandit and sneak in, we get attacked. Just my luck!
+
+@Boss 
+Bandit Leader: We are the Death God Gang! We're all unstoppable!
+
+%Manuela,Bandit Leader
+Manuela: Hey! You're not the Death Knight! What gives?
+Bandit Leader: Death Knight? What nonsense are you talking now? Do we look like knights to you, lady?
+Manuela: You're just lousy hill bandits. Well, I'll teach you to waste my time!
+
+%Hanneman,Bandit Leader
+Hanneman: Why, there is no Death Knight here. That student's testimony was, well, it was utter bunk!
+Bandit Leader: Hey, you! The weird old dude with the beard! What kinda crap are you mumbling to yourself there?
+Hanneman: I beg your pardon?! Do not image you can insult me without some form of retribution!
+
+@End 
+Hanneman: Manuela, are you uninjured?
+Manuela: A few scrapes and bruises. But, yes, I'm well enough.
+
+Manuela: How could anyone think that was the Death Knight? It was obviously just an ordinary bandit. Oh well, I may not have found my revenge, but at least we got to retrieve stolen goods.
+Hanneman: Manuela! You unthinking fool!
+Manuela: Hanneman, I've heard enough already.
+Hanneman: How bloody stupid are you?! If that were the real Death Knight, you'd have new--likely fatal--wounds to match your first! Do you know how much you worried all of us? You should be ashamed!
+Manuela: Oh no...
+Byleth: Relax. She's OK.
+Hanneman: This is a matter of life and death! It should not and must not be taken lightly!
+Byleth: Hanneman's right.
+Hanneman: Exactly! You are supposed to set an example for our students. Yet you let emotion get the better of you?
+Manuela: You're right... So there, I said that. It's true, but, ugh. I'm sorry. I'll apologize to everyone later.
+Hanneman: I should say I'm sorry as well. I lost my temper just now. I see you act so irrationally, and I lose my wits. I care about you a great deal, and wish to see you safe. Will you believe me?
+Manuela: Yes, of course. I'm the same way, after all. I let my emotions get the best of me. We're both too old to be shouting all the time.
+Byleth: So, everyone is friends again?
+Manuela: You're awfully quick to but a bow on this. Are you sick of us already, Professor?
+Hanneman: You're part of this, Professor. We are the only teachers this academy has. No need for bickering!
+Manuela: Well said, Hanneman. Would you care to join me for a celebratory drink?
+Hanneman: That sounds lovely. Perhaps a nice cup of tea is in order.
+Byleth: ...

@@ -1,0 +1,88 @@
+@Opening 
+Western Church extremists have taken over land sacred to Cichol, one of the Four Saints. Seteth heads out the rid the area of them, and Flayn insists on going along.
+
+@Intro 
+Flayn: Brother, please wait!
+Seteth: For the last time, Flayn, the answer is no.
+Flayn: You are departing for the Rhodos Coast, are you not? I must come!
+Seteth: You will do no such thing. I am not going there to pay respects at the cemetery, but to do battle. With you there, I will be beside myself with worry. It will be easier for me to fight if I know you are safe.
+Flayn: But...I must!
+
+Flayn: Professor! You have come at just the right time.
+Byleth: What's going on?
+Flayn: Surely it must be fate that you have appeared at a time of my greatest need!
+Byleth: I don't like the sound of that...
+Flayn: I only wish to make a small request.
+Flayn: My dear brother is about to set forth on a most dangerous mission.
+Byleth: A mission?
+Seteth: Indeed. The Western Church is attempting to seize sacred ground by force. Though they now have a new bishop, it seems that a radical faction has emerged to resist the new order. We cannot allow the holy artifacts enshrined there to fall into their hands.
+Flayn: I, too, wish to be of use to the church! And I do admit I am terribly worried about my brother. No matter my protests, he will not allow me to come. Professor, this is where you can help. Will you accompany us both on this expedition?
+Byleth: Why me?
+Flayn: If you are there to protect me, my brother's fears will be allayed. Isn't that right, Brother?
+Seteth: I suppose your aid would indeed be useful, yes.
+Flayn: I knew it! Please, Professor, will you join us?
+Byleth: Very well. 
+Flayn: Wonderful. Let us depart at once!
+Byleth: Not right now. 
+Flayn: Please tend to your errands promptly. Then you will come along with us, yes?
+Seteth: There is still time before we must depart. If you are able to accompany us, let me know.
+
+@Battle
+Priest: You heretics, who defile our goddess! The sacred coast belongs to us, the Western Church!
+Seteth: You are the heretics! Begone from here at once!
+Priest: Silence, dog of the apostate! Prepare to receive our righteous blades!
+
+Seteth: I will recapture the monument. Everyone else should focus on removing the surrounding enemies.
+Flayn: Wait, Brother! I shall accompany you!
+
+Flayn: Leave! Let Mother rest in peace!
+
+Priest: It is our duty to worship Saint Cichol! We will not allow heretics to come near!
+
+Priest: It's like the goddess herself commanded me to live... I must offer her my thanks.
+Seteth: The goddess doesn't want your thanks!
+
+Priest: But it was...for the sake of the goddess...
+
+Priest: The goddess protects us! We will never yield to the likes of you!
+
+Priest: I got away, thanks to the protection of the goddess!
+Seteth: Insufferable arrogance! We'll have to send someone after them...
+
+Priest: Goddess... Have you abandoned us?
+
+Priest: Heretics! Prepare to taste the power of the true servants of the goddess!
+
+Priest: We're no match for them... Brothers... Retreat...
+Seteth: Do you dare compound your crimes further? There will be no escape for you!
+
+Seteth: That is the last of them. Flayn...will you place some flowers at the monument?
+Flayn: Of course, Brother. That is what I came here to do.
+
+@Character-Falls 
+Flayn: This place... is very precious to me... please... protected it... for me...
+
+Seteth: I must pull back... I leave the rest to you. Do not let them take this position.
+
+@End 
+Seteth: Your assistance is most appreciated. I can only hope that the Western Church will now see reason and abandon this place. But just to be safe, I have retrieved the holy artifacts. We cannot risk them falling into their hands. I will entrust them to you. I must confess, despite the situation, it was a pleasure to return here. This coast has a certain sentimental significance to my sister and me.
+Byleth: Sentimental significance?
+Seteth: Yes. This stone monument is not merely here to commemorate Saint Cichol. It is also the grave of my wife.
+Flayn: You are safe now, Mother. Finally, you may find peace.
+Byleth: Your mother is also buried here?
+Seteth: I suppose you have earned the right to know. But this must remain between us. Flayn is actually my daughter. My late wife and her mother are the same person.
+Byleth: I had no idea.
+Seteth: Due to certain...circumstances, it is more convenient for us to masquerade as siblings for the time being.
+Byleth: I suspected as much.
+Seteth: And here I thought we had hidden it skillfully.
+Seteth: There are many who would seek to harm Flayn due to the unique blood she bears. Falsifying her identity is necessary to conceal her from such individuals. Mercifully, I happen to look quite young for my age. We make rather convincing siblings, do we not?
+Byleth: That's true enough.
+Byleth: If you say so.
+Seteth: Hm. I was certain our cover was adequate.
+Flayn: Mother loved the coast so much. She and I came here together often. Fishing was her favorite pastime. I used to sit and watch while she cast her line.
+Seteth: I remember it fondly. You did so love to eat the fish she caught, as well.
+Flayn: Fish is my favorite food, it is true. Due in no small part to Mother.
+Seteth: I still come here to fish, from time to time, using the skills my wife taught me. It reminds me how deeply I appreciate those years... and how I wish I could return to them.
+Flayn: We cannot turn back the clock, Father. We must live our lives fully, in the present moment.
+Seteth: You're right. That is what she always said, isn't it? Dwell too much on the past, and you may be unable to move forward. Come, then. Let us return home.
+Flayn: Good-bye, Mother. I love you. I shall bring flowers again for you next time.

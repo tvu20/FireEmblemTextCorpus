@@ -1,0 +1,112 @@
+@Opening 
+Dedue receives a concerning missive about his people, who continue to bear the burden of oppression based on blame for the Tragedy of Duscur.
+
+@Intro 
+Dedue: ...
+
+Byleth: Has something happened?
+Byleth: What's on your mind?
+Dedue: Oh–it's you, Professor. Since you are here, I have a favor to ask.
+
+Dedue: Your Highness. You've returned.
+Dimitri: Sorry to keep you waiting, Dedue. I'm glad you're here as well, Professor. I want you both to hear this. Dedue is already aware, but you should know there's been an uprising in the Duscur region, in the western part of the Kingdom.
+Byleth: An uprising in Duscur? Why?
+Dimitri: Dedue... Would you like me to explain?
+Dedue: No. It should be me.  I am from Duscur. It lies just beyond the mountains on the northwestern border of Faerghus. But the people of Duscur no longer live there. The land was burned to ashes by the army of Faerghus. All of the people were slaughtered.  This was our punishment for the crime of regicide.
+Dimitri: 
+Dedue: The barren expanse that was once Duscur is now controlled by a Kingdom noble. But Duscur survivors, such as myself, still exist outside the region. This uprising is most likely the work of such survivors, seeking to reclaim their homeland.
+Dimitri: A request for aid was sent from Viscount Kleiman to the Kingdom capital and the church. He is the one who rules over that region at present. For now, the lords surrounding the Duscur region have sent their armies to help suppress the uprising. However...
+Byleth: Is there a problem?
+Byleth: Are they short on troops?
+Dimitri: They have sufficient troops, and strong ones at that. My worry is that there will be more unwarranted death. There have always been many in the Kingdom's army who believe the people of Duscur our foes, and hate them because of it. You would think they'd refrain from squashing the rebels out of political expediency...but I doubt that will be the case. If the Kingdom's army and the rebel forces of Duscur collide, there is no doubt that the rebel forces will be annihilated. I'm afraid...that's the best case scenario. It could also turn into complete and bloody chaos for both sides.
+Dedue:  Indeed.
+Dimitri: Which brings me to my news. I have just now received the permission I requested from the church.
+Byleth: Permission for what?
+Dimitri: I asked the church to deploy our class to help handle the situation.
+Dedue: So we may go?
+Dimitri: Not so fast. We still have a responsibility as students of the academy, after all. The only one who can truly make the decision as to whether or not we go is our professor. So... What do you say?
+Byleth: Very well. 
+Dedue: You have my most sincere gratitude.
+Dimitri: And mine as well. But we must move fast. I will go and alert the others.
+Byleth: Let me think about it. 
+Dimitri: I know this was sudden, but given the situation, I'm afraid there isn't much time to ponder. When you've decided, please speak with me right away.
+Dedue: Please, decide quickly.
+
+@Battle 
+Dedue: The Kingdom's vanguard has already arrived. Just as we'd feared, they far outclass the Duscur forces. We cannot stand by and allow another massacre. But we cannot obstruct the Faerghus army, either. Our best hope is to force the troops of Duscur to withdraw before the Kingdom soldiers get to them.
+Dimitri: The main body of the Kingdom's army is bound to arrive soon. Until then, let's aim to quell this uprising ourselves. Once the main force arrives, we'll be out of options. We must move fast.
+
+Dimitri: It seems the church and the Kingdom troops are not working together. My head hurts just thinking about it, but we may be able to use that. First, let's push Duscur to retreat. The Kingdom might then also withdraw without a fight.
+Dedue: Let us be quick about it.
+
+Duscur Soldier: Our grudge will not be settled...until all of you are dead and buried!
+
+Kingdom General: Split up between the east and the west, and advance! That'll put the squeeze on those Duscur animals in a hurry!
+Dedue: They are moving out. Time is of the essence, now.
+
+Kingdom General: Seems this area's done already. All right, men! Fall back!
+
+Kingdom General: OK, looks like they're already under control. Let's head back now.
+
+Kingdom Soldier: We're here to quell this rebellion, starting now. Hunt down those filthy beasts, and give no quarter!
+Dedue: The main army has arrived. We stand no chance against those numbers. We took too long. It is all over...
+
+Duscur Soldier: I give my all for our goal! You will die here!
+
+Dedue: Go now if you value your life.
+Duscur Soldier: But aren't you with Faerghus? In any case... Thank you.
+
+Dedue: You can still get out of here. Run.
+
+Duscur Soldier: You're not going to kill us?! Well, I won't wait here to find out. I'm leaving!
+Dedue: Safely away.
+
+Duscur Soldier: I won't allow it... If only you dastards weren't here...
+Kingdom Soldier: I'll have your life for atonement, king slayer!
+
+Duscur Soldier: Heretics... What is it you think...we have done?
+Kingdom Soldier: Filthy Duscur demons...
+
+Duscur Soldier: Revenge for my brothers...even at the cost of death...
+Kingdom Soldier: Not content with slaying His Majesty, you thought to revolt?! Pathetic!
+
+@Boss 
+%Dedue,Duscur General
+Duscur General: You...are a man of Duscur. How can you make friends with our hated foes? Is it possible that you've lost your Duscur spirit?
+Dedue: Are you finished?
+
+%Dimitri,Duscur General
+Duscur General: Now, this is a windfall... Who knew we'd meet our sworn enemy here!
+Dimitri: Sworn enemy? Well, I cannot disagree.
+Duscur General: We will slay you and topple Faerghus! That way, for the first time in ages...Duscur can be reborn!
+Dimitri: Hmph.
+
+@End 
+Duscur General: Is this...how our dream ends...
+Dimitri: I will check the status of the Kingdom troops. Dedue, I leave the Duscur army to you.
+Dedue: Yes, Your Highness. Please be careful.
+
+Duscur General: Why save us?
+Dedue: I will not abide the needless death of my own people.
+Duscur General: You must know that as long as there is breath in me, I will fight.
+Dedue: Then fight, and be defeated. But so long as you pose no threat to His Highness, I will not end your life.
+Duscur General: Idealistic fool. We will not relent. Not until we've taken back the homeland you monsters stole from us!
+Dedue: I share the same sentiment.
+Duscur General: You? Who sold his soul for Faerghus?
+Dedue: His Highness has promised the people of Duscur a home. His will be a kingdom that is proud to harbor the blood of both Faerghus and Duscur.
+Duscur General: That's impossible. Don't be naive.
+Dedue: Believe what you will. But Faerghus will change under his reign. That is my firm belief.
+Duscur General: ...
+
+Dimitri: The Kingdom army has retreated to the fortress. There should be no further danger.
+Duscur General: Prince of Faerghus! You monster!
+Dimitri: Can you still run? Then I suggest you do so now.
+
+
+Duscur General: ...
+Dedue: May our paths cross again.
+Duscur General:  I certainly hope not. But remember this one thing. The people of Duscur never forget their grudges. Nor do they fail to honor favors.
+
+Dedue: Thank you, Your Highness, for accommodating my selfish request.
+Dimitri: Think nothing of it. This was something I wished for, as well. If you must give thanks, direct it at the church for allowing us to join the battle, and to our professor for leading the charge. It's about time we headed back. The professor and the others are waiting.
+Dedue: I am right behind you.

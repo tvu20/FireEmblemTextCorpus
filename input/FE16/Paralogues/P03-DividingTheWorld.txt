@@ -1,0 +1,77 @@
+@Opening 
+Almyran forces are attacking Fódlan's Locket. With her brother suddenly fallen ill, it is up to Hilda to take over the defense. Cyril volunteers to accompany her.
+
+@Intro 
+Hilda: Hey, Professor. I might have to go back home for a little while.
+Byleth: Is someone in your family sick?
+Hilda: Oh no, nothing like that.
+Byleth: Is there some kind of emergency?
+Hilda: Well, that's one way of putting it...
+Hilda: The Almyran forces are causing trouble at Fódlan's Locket. Oh, do you know where that is? Well, the mountain range that separates the Alliance from Almyra is called Fódlan's Throat. There's a fortress right on top of the throat, and they call that Fódlan's Locket.
+Byleth: So, you're going to help defend it?
+Hilda: Well, yeah, you could say that. I'm sure my brother would be able to handle them on his own. But he said he really wants me to help out. I guess he's a bit tired out from all his hard work. Anyway, our dad's not as sprightly as he used to be. He's not up for a fight. Apparently it would look bad if we left it to the retainers. I really, really don't want to go, but I guess I have to.
+
+Cyril: Heya, Hilda. I...well, I wasn't trying to eavesdrop, but I heard ya talking...
+Hilda: Hm? Oh, what's up, Cyril?
+Cyril: You're gonna fight the Almyrans, yeah?
+Hilda: Yes. But it's nothing you need to worry about, Cyril.
+Cyril: It's not that. I was just wondering if...if maybe I could maybe go along with ya?
+Hilda: But--you'd be fighting people from your homeland. Do you really want to do that?
+Cyril: None of 'em would remember me anyway... It's just that...I got captured in the battle at the Locket, and that's how I ended up here. So I'm kinda worried that other kids who lose their folks might not be so lucky.
+Byleth: What do you mean?
+Cyril: Before Lady Rhea took me in, I had a real hard time as a servant of House Goneril.
+Hilda: I'm sorry to hear that. But it's not like I'll go around snapping up Almyran children.
+Cyril: That's good, but I just... I want to see things for myself, so I know...that everything's OK.
+Hilda: Hm. Well then, let's go together! Oh, would you want to join us, Professor? My brother will be there, but I'm a little scared about fighting all those fierce Almyrans...
+Cyril: If you could come too, it would be really great. We'd all feel way safer if you did.
+Byleth: I'll come with you. 
+Hilda: Great! I know we'll be OK if you're there! Let's head out right away.
+Cyril: I'll go and get ready too.
+Byleth: I'll think it over. 
+Hilda: You're a real tease, Professor. I know you're going to come along in the end. But we can't wait long, so hurry up on deciding.
+
+@Battle 
+Hilda: Most of our allies have fallen. My big brother and I can probably handle this though...
+Goneril Soldier: Hilda! Glad you made it! Lord Holst has been afflicted with a sudden illness and couldn't come...
+Hilda: He's not here?! Oh... I'm sorry. You must have been absolutely terrified. It's OK though! I brought along someone who can definitely help us! That's you, Professor. Please help us save our allies and protect Fódlan's Locket.
+
+Cyril: Good thing I knew about this back road, huh? We oughta be able to help our friends from here.
+
+Goneril Soldier: Support! We're saved!
+
+Goneril Soldier: Argh... No help came...
+Hilda: Oh no! They got one...but we can still rescue the others!
+
+Goneril Soldier: We must defend here, or else... Our house... The Alliance...
+Hilda: All our allied troops were wiped out. We won't be able to defend this place.
+
+Hilda: Ah, things are looking up. Let's keep going, and save the others!
+
+Hilda: We did it somehow. Cyril, Professor--thank you.
+Cyril: You bet.
+Hilda: I'm gonna drop by my family's estate and complain to my brother a bit. You two should head back.
+
+@End 
+Cyril: They aren't really trying to cross Fódlan's Throat. I'm not saying they're not serious, but fights like this one aren't really invasions.
+Byleth: Then what are they doing?
+Cyril: They just start fights like this sometimes. It's so they can show off how strong they are. I think it's pretty dumb. I mean, people are getting killed! And why? So some guy can think he's tough? After every fight, they do a big feast, and everybody eats and dances and there's music... It's supposed to honor the dead, but I figure they just like to make noise. I think they're all idiots, but if I'm real honest, it wasn't the worst way to live life.
+Byleth: Feeling homesick?
+Cyril: Nah, I'm where I belong now, and I don't really like Almyra. If they wanna show how tough they are, then they oughta look after kids who've lost their parents.
+
+Hilda: Whew, I'm tired. Professor, Cyril, thanks for all your help.
+Cyril: You get a chance to see your brother?
+Hilda: I did. Though I think I'd be better off otherwise. He was horribly ill, for one thing. He looked so pale and haggard. Apparently he'd eaten a bad mushroom before the battle and it made him horribly sick. What an idiot. Anyway, when I told him we'd handled the Almyran situation, he was just gushing with praise. I tried telling him that it wasn't all me, but he didn't even listen.
+Byleth: Weren't you glad to get praise from your brother?
+Hilda: That did feel pretty good, I'll admit. But then things got awkward. He started trying to pawn off his whole inheritance. I told him I wanted none of it! Eventually he settled for foisting this thing on me. Do you know what it is?
+
+Cyril: One heck of an axe. He gave it to ya?
+Hilda: Yes. It's a magic axe called Freikugel. It's the Hero's Relic of House Goneril. He said that I should have it, since the Crest I bear will allow me to wield it. He was so insistent, I eventually relented. But I don't think I can be responsible for something so precious. Hey, Professor... Why don't you take it instead?
+Byleth: You should keep it.
+Byleth: Why me?
+Hilda: Heroes' Relics contain terrifying power. They're beyond the capabilities of a novice like me. You're the only person I trust to take care of it. Please, help me out here!
+Byleth: If you're sure...
+Byleth: If you really think it's necessary...
+Hilda: Thank you so much! I honestly didn't know what I was going to do with this thing! A big scary axe is not my style. Plus, look closely--parts of the axe are pulsating, like it's alive! How gross is that? But I'll use it if you tell me to, Professor. Or you can get somebody else to wield it, if you like. It's all up to you now!
+
+Byleth: ...
+Cyril: That Hilda... She really is something.

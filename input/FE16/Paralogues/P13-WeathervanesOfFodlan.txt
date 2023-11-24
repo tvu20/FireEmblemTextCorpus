@@ -1,0 +1,95 @@
+@Opening 
+Annette and Gilbert hope to acquire the Hero's Relic of House Dominic from Annette's uncle, Baron Dominic.
+
+@Intro 
+Gilbert: Professor, do you have a moment?
+Byleth: Of course.
+Gilbert: I would hear your opinion on our situation. Given our current fighting power, what sort of challenge do you expect we pose to the Empire? Do we have any hope of victory?
+Byleth: Our preparations are lacking.
+Byleth: The probability of victory is low.
+Gilbert: So, we agree. However, in order to strengthen our forces, we--
+
+Annette: Aaaargh! Ugh, why would anyone put a barrel here?!
+
+Annette: Ow, that really smarts... Oh. Hello, Father.
+Byleth: Father?
+Gilbert: ... Another stupendous fall.
+Annette: As though you care about my well-being. Anyway... Professor, I'm heading out for a bit.
+Byleth: Where are you going?
+Annette: I was thinking of going to visit my uncle.
+Gilbert: To see my brother? Why is that, Annette?
+Annette: I wanna ask him to entrust me with the Hero's Relic of House Dominic. The fight from here on out is gonna be tough. I need to do whatever I can to get stronger. The best thing we can do, as far as I can tell, is to have another Hero's Relic at our disposal.
+Gilbert: You are not wrong, yet it will not be easy.
+Byleth: Why's that?
+Gilbert: Under pressure from Cornelia, House Dominic is maintaining a pro-Imperial stance. That makes us his enemy. Brother or no, he will not hand over a Hero's Relic to us.
+Annette: But he's not a bad person... And we'll never know unless we ask, right? And Mother might be there too...
+Gilbert: The Dominic region is, at present, enemy territory. There is no guarantee you can see them safely.
+Annette: Fine. Be that way. It's not like I was planning to ask for your help, anyway. Professor, don't worry about me. I'll be back soon, and with a Relic, no less!
+Gilbert: Annette! Wait! She never listens. So frustrating. However, if she were able to retrieve the Hero's Relic, it would prove a great boon to our forces. Perhaps I should prepare myself for the worst. I shall travel with Annette to see my brother. Professor, might I ask you to take on a task for me? It is entirely possible that we shall be captured in the Dominic region. In anticipation of that... I would ask that you wait outside the region, with an army at your command.
+Byleth: Of course. 
+Gilbert: I cannot say with confidence that we will be able to bring back the Hero's Relic without issue. While it pains me to ask this favor of you, I must also thank you for accepting.
+Byleth: I need some time... 
+Gilbert: I should be able to slow Annette's departure for a short while, at the least. Please join us when you can.
+
+@Battle 
+Annette: Uncle, I beg you! Please give me the Hero's Relic!
+Baron Dominic: Even in this land, the Empire's eye shines bright. To hand over such a weapon to you, our enemy, is unthinkable...
+Gilbert: We are well aware. Brother, I beg you. For the sake of the Kingdom's revival...
+Baron Dominic: I cannot. If it becomes known that I gave you aid, my lands will be annexed in a bitter instant.
+Gilbert: Then we must relent. Annette, there is nothing for us here. We should go.
+Baron Dominic: No. Letting you simply leave will invite accusations of collusion. I must take you as my hostages.
+Gilbert: So... It has come to pass after all.
+Baron Dominic: Annette, live here with me. You needn't return to that helpless band of rebels without a glimmer of hope for victory.
+Annette: You're wrong! That will never happen, Uncle!
+Baron Dominic: Your mother is also here in this land. Do not dismiss my proposition so readily...
+
+Annette: We can't afford to stay here. Father, we have to run!
+Gilbert: Be calm, Annette. I assumed something like this would happen. If we do not come back, the professor will come to get us. We need but wait and keep faith...
+
+Kingdom Soldier: Our allies are being held in that stronghold in the southeast! Please, rescue them quickly! 
+
+Baron Dominic: Ha! Right to the last, you hope to strike me down. In that case, I will also lay my cards on the table and commit all my resources to this fight!
+Gilbert: Reinforcements?! That will make life more difficult. 
+
+Annette: Oh, thank goodness! Let's run, Father!
+Gilbert: Annette, go. I will acquire the Hero's Relic, even if it means crossing blades with my brother.
+Annette: I couldn't possibly leave you to do it alone! Father, please let me go with you!
+Baron Dominic: Even if you must do it by force, bring me Annette! 
+
+@Character-Falls 
+Annette: Gah... Leave me be!
+Baron Dominic: It's for your own good. You must understand, Annette.
+
+Gilbert: I am soldier enough to admit I have lost this battle. Brother, I will lay down arms...
+
+@Boss 
+Baron Dominic: I have my own reason for not giving up. And the less I speak of it, the better...
+
+%Gilbert,Baron Dominic
+Gilbert: My brother, I beg you...the Relic!
+Baron Dominic: I do not wish to repeat myself! If you want it that badly, slay me and claim it for your own
+
+%Annette,Baron Dominic
+Baron Dominic: I have no wish to enact violence on you, Annette. Listen to me and do as I say.
+Annette: I will not listen! I can't and I won't! There is somewhere I must return to!
+
+@End 
+Baron Dominic: So...this is it. I fought well, in the end. I doubt Cornelia will think I cooperated with you. Take the Hero's Relic and go. And in return...promise to restore the Kingdom.
+Gilbert: Brother... I thank you.
+Baron Dominic: And don't worry about your wife. Whatever happens, I swear I will protect her. When all of this is over, you had better return to her. Make sure victory is yours...Gustave.
+Gilbert: You have my word.
+
+Gilbert: I cannot tell you how grateful we are for your assistance.
+Annette: I don't know what would have happened if not for you... And thanks to you, I got this!
+Gilbert: The Magic hammer, Crusher... The Hero's Relic of House Dominic. My brother would not surrender such a Relic without a fight... I hope you understand.
+Byleth: I understand.
+Byleth: Of course.
+Gilbert: House Dominic is one of the ten great bloodlines. Yet within the Kingdom, we are mere feudal lords. With the Empire growing in strength, Dominic must kneel. To do otherwise would be suicide. The western lords, and other rulers, are in the same situation. They all comply, albeit reluctantly. If we defeat the Empire, I hope the Kingdom will rise once more, under the banner of a legitimate king.
+Annette: I hope so too. That's why we can't give up!
+Gilbert: To that end, Professor, we will require your help. I hope we can continue depending on you.
+Byleth: I'll do what I can.
+Byleth: You can count on me.
+Annette: Don't worry! We won't make you do all the hard work by yourself. I'll give it my all too! Speaking of... I'm gonna get straight to training!
+
+Annette: Gaaaaaah! Why would someone put a dumb wooden box here?!
+Gilbert: And please, look after my daughter as well.

@@ -1,0 +1,91 @@
+@Opening 
+Something is attacking people in the forests of Margrave Edmund's territory, and a Crest scholar blames Marianne.
+
+@Intro 
+???: There’s no reason to feign ignorance. I know all about you!
+Marianne: Wh-what are you talking about?
+???: Just come here!
+
+Marianne: Professor! Help!
+???: Don’t interfere. Just hand the girl over to me.
+Byleth: Never.
+???: I’m telling you this for your own good. You’re putting yourself in danger by associating with her.
+Marianne: ...
+???: Do you know of the Wandering Beast stalking in the wood in the Edmund territory? It is said that it attacks people every night and drags them off to feast. The true identity of the Wandering Beast... Is that girl right there!
+Marianne: No! I would never...
+Byleth: Get out of here!
+???: No matter. I’ll get the evidence I need...
+
+Marianne: My apologies for you getting involved in that...
+Byleth: What happened?
+Marianne: In truth, that man has been following me ever since my father disappeared... He’s a Crest scholar.
+Byleth: Why is he following you?
+Marianne: The Crest that my father bore and was passed down to me... It was... Maurice’s Crest.
+Byleth: Maurice’s Crest?
+Marianne: Yes. It’s also known as...the Crest of the Beast... It’s said there were once 12 heroes who saved Fódlan. There was the King of Liberation, Nemesis...the 10 Elites, and finally...Maurice. One day, Maurice suddenly transformed into a hideous beast and slaughtered innocent people. It was like when Miklan of House Gautier turned into a Black Beast. The negative energy dwelling within his Crest turned Maurice into a monster. The people of Fódlan grew to despise him, and he was stripped of his honor. His whole clan was conquered, and it was believed that his bloodline had vanished... But even now, there exist a few descendants who have inherited Maurice’s Crest, and his curse. My family line...is one of them. Maurice’s Crest is a symbol of disaster. Anyone who comes in contact with it is met with great misfortune. Those who carry the Crest became beasts at night and slaughter innocent people.
+Byleth: What that man mentioned earlier...
+Marianne: Yes, the rumor about the Wandering Beast in the woods... People are saying the creature is similar in appearance to Maurice’s bestial form.
+Byleth: If it’s defeated, wouldn’t the rumor be dispelled?
+Marianne: That may be true but...I doubt I could do it on my own. If you and some of the other students came with me though...
+Byleth: Let's go. 
+Marianne: Thank you! But, um... Promise you won't tell anyone about my Crest?
+Marianne: I'm sorry to have to ask...but thank you!
+Byleth: I'll think about it. 
+Marianne: It is my personal matter, so I can't expect you to get involved. But if you change your mind...I'll be waiting.
+
+@Battle 
+Marianne: A-are you really the Wandering Beast that people talk about?
+Wandering Beast: You... Do you bear our Crest? For what purpose did you come here?
+Marianne: Our Crest? Does that mean...
+Wandering Beast: It appears that your presence has been detected by bloodthirsty Demonic Beasts...
+
+Marianne: Demonic Beasts? Everyone... Please move carefully!
+Wandering Beast: This forest is the den of Demonic Beasts. You will be lucky to make it out alive.
+
+Marianne: You saved me, Professor... Thank you. The Wandering Beast's true form... Could it be... Oh! Sorry! I need to focus on the fight! 
+
+Marianne: Argh! I'm...not strong enough...
+
+@Character-Falls
+Marianne: Dear Goddess... My soul is yours to take...
+
+@Battle
+Wandering Beast: My beastly blood is roused... You will not be able to stop me!
+
+@Boss
+Wandering Beast: Nothing will stop me...from feasting upon your flesh and blood!
+
+%Byleth,Wandering Beast
+Wandering Beast: That sword... It's the sword of the king! Are you the one who can liberate me?!
+
+%Marianne,Wandering Beast
+Wandering Beast: Nothing will stop me...from feasting upon your flesh and blood!
+Marianne: No! I won't let you!
+
+%Claude,Wandering Beast
+Claude: That looks just like Miklan's Black Beast... Could a Hero's Relic be at fault?
+Wandering Beast: Hero... That is a word that takes me back.
+Claude: Takes you back? You... Are you...
+Wandering Beast: After so long, I cannot speak of it.
+
+@End 
+Wandering Beast: Well done... Finally, this nightmare of a thousand years is at its end. Oh, inheritor of my Crest...if this body is to decay, then the sword... I leave it to you...
+Marianne: ...
+
+Marianne: I still can’t believe what we saw in that forest... The Wandering Beast’s eviscerated body... Only human bones and this sword remaining.
+
+Marianne: Surely the creature’s true identity was...
+Crest Scholar: I’m sorry...
+Marianne: You again?
+Crest Scholar: I heard rumor that the Wandering Beast was slain, but do you really believe that frees you of suspicion? Without proof that it was slain, the argument that you are not a beast does not stand. Furthermore, I... Huh? Oh! That sword!
+Marianne: When the Wandering Beast was defeated, this sword...
+Crest Scholar: It’s unmistakable! Carved into that sword’s Crest stone is Maurice’s Crest! But how would the lost Magic Blade end up with the Wandering Beast? According to what I know of Maurice’s story, he didn’t let go of the sword until the very end. That must mean... I see. So that’s what happened... My apologies, it seems I was mistaken. I must be going.
+Marianne: So the Wandering Beast was...
+Byleth: Maurice himself.
+Marianne: He was roaming the dark woods for over a thousand years, suffering for his murderous past.
+Byleth: Someone who bears the Crest of the Beast.
+Marianne: No, I’m sure that was Maurice himself. He was roaming the dark woods for over a thousand years, suffering for his murderous past.
+Byleth: Good thing you were able to put an end to it.
+Marianne: It’s true... And because of that, I feel as though...my curse has been lifted. The blood of a beast no longer flows through me. I feel human for once.
+
+Marianne: Thank you, Professor. I couldn’t have done it on my own. Without your help, I would never have found peace. I’ll do anything I can to repay my debt to you!

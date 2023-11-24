@@ -1,0 +1,115 @@
+@Opening 
+Without a Crest or a family fortune, Leonie has a difficult time getting her hands on quality gear. Linhardt offers her a hint about a sacred weapon anyone can wield.
+
+@Intro 
+Leonie: Not bad at all, if I do say so myself.
+
+Linhardt: I see needles and thread. What has you engaging in the textile arts, Leonie?
+Leonie: Patching up a hole in my equipment bag. Take a look. What do you think?
+
+Linhardt: If your objective is merely to block up the hole, then I believe you've performed quite adequate work.
+Byleth: You might need a new one.
+Leonie: I'm not going to throw away something I can still use. I can't afford to be wasteful.
+Byleth: Maybe you should ask for help next time.
+Leonie: Blocking the hole was all I cared about, so this suits me just fine.
+Linhardt: Yes, but your bag is less bag and more a collection of dirty, smelly patches.
+Leonie: Smelly, huh? I don't smell anything.
+Linhardt: That aside, don't you have an allowance from your house to make purchases?
+Leonie: No, nothing. Worse than that, actually. I'm in debt. I could only afford the Officers Academy because everyone in my village donated.
+Byleth: The tuition is that expensive?
+Leonie: It's not just that. In the Alliance, you have to pay the nobles as well in order to secure recommendations. Commoners can only get an education by borrowing money. It's pretty stupid. Not sure what makes the nobles think they've got the right to– Oh, sorry, Linhardt. Forgot you're a noble.
+Linhardt: If one is in a family that bears a Crest, then you're going to stand atop the social pecking order. I'd raise the topic with the goddess. She handed out Crests to the nobles after all.
+Leonie: Just handed them out, huh? You make it sound pretty casual.
+Linhardt: By the way, I have a weapon to recommend. It should suit a commoner such as yourself.
+Leonie: That so? I just told you I don't have a lot of money.
+Linhardt: You're not going to buy it from a merchant. If you find it, you can keep it for free.
+Leonie: Now you've got my attention.
+Linhardt: There's a legend I read recently about Saint Indech, one of the Four Saints of the Church of Seiros. 
+Leonie: Uh-huh? Keep talking.
+Linhardt: Sorry... Suddenly very sleepy. Nap time calls.
+Leonie: Hey, come on! You can't just doze off in the middle of a story!
+Linhardt: Long story short, there's a holy weapon hidden in Lake Teutates that you can use even without a Crest... 
+Leonie: Lake Teutates? Right. Let's go, Professor!
+Byleth: Me?
+Leonie: What's with that look? Don't you want to help your lovely students?
+Byleth: Lovely?
+Leonie: Yeah. Me and Linhardt. Aren't we just the cutest?
+Linhardt: Leave me be. I'm off to nap.
+Leonie: We'll never find it unless you're there. If you're really that tired, we'll just have to carry you.
+Byleth: I'm not sure I want to carry him.
+Leonie: We'll bring more people. We'll take turns. Come on, Professor. You're coming, right?
+Byleth: I will. 
+Linhardt: If we're going now, I do suggest leaving Edelgard and Hubert innocent of our quest. Lake Teutates is a place that concerns the saints of the Church of Seiros. It may become bothersome should the two of them find out...
+Leonie: I'm not fond of keeping secrets from friends, but I guess we can tell them when we get back.
+Leonie: All right, let's go find this thing!
+Byleth: Maybe later. 
+Leonie: Ah, well. Guess it's just you and me, Linhardt.
+Linhardt: Zzz...
+Leonie: Let me know if you change your mind, Professor. Looks like I might be waiting here a bit.
+
+@Battle 
+Leonie: Linhardt! Wake up! We've reached Lake Teutates!
+Linhardt: Huh? What? Oh, um. Yes. So we have.
+Leonie: A temple on a lake, huh? Looks fancy. And that's a cute...uh...guard dog?
+The Immovable: Guard dog? Is it I to whom you are referring?
+Leonie: Whoa! A magic beast! And it talks!
+The Immovable: Nuisance... You weaklings should turn tail and run!
+
+Leonie: Uh, hi! We're actually, um, looking for something...
+The Immovable: I know well what it is that you desire. If you want it, you must first complete my trial.
+Linhardt: Of course we do. This is as awful as I expected. Perhaps we could go home now?
+Leonie: Are you kidding? It's just a little fog! Come on, let's go talk to Mr. Magic Beast!
+
+Linhardt: I suspect our opponent is an illusion. If we cut off the source of this magic, they should stop attacking.
+
+@Boss 
+The Immovable: Fine. Defeat me, and show me what you are capable of!
+
+%Byleth,The Immovable
+The Immovable: Could you be the incarnation of Sothis? Interesting... Let's test your mettle!
+
+%Linhardt,The Immovable
+Linhardt: We'll fight, but your form and mannerisms suggest that you might be...
+The Immovable: If you want your wish to be granted, it is better that you fight me in ignorance.
+
+%Leonie,The Immovable
+Leonie: Hey, Mr. Magic Beast! If we defeat you, will you grant our wish?
+The Immovable: Indeed, I will.
+Leonie: Great! I may not have a Crest, but I'll give it my all!
+The Immovable: You are an interesting young girl... I accept your challenge.
+
+%Seteth,The Immovable
+Seteth: You seem to be holding back. Thank you for that.
+The Immovable: Hmph. Do not flatter me. My power is not what it once was. The best I can do nowadays is to have fun meddling with humans who wander in here.
+Seteth: I see. We were hoping you might help us, but is seems that may be too difficult.
+
+%Flayn,The Immovable
+The Immovable: Oh! You're here too! I've always wanted to meet you, Ceth–
+Flayn: I ask that you keep quiet, Uncle!
+The Immovable: What's that? Ceth–
+Flayn: Shh! Please keep quiet, Uncle!
+
+@End 
+The Immovable: You did well. The trial ends here... What sublime children of men... Go ahead. Name your desire.
+Leonie: So, uh, we heard you're giving away free weapons?
+Linhardt: Do be quiet, Leonie. Somewhere in this temple is said to rest the holy bow of Saint Indech. It is called "the Inexhaustible." Could you find it in your heart to let my friend here have it?
+The Immovable: You have shown might deserving of my sacred bow. I will grant your wish.
+Leonie: Yes! Thanks, Mr. Magic Beast!
+
+Linhardt: Aren't you happy, Leonie? That's quite a bow, and it was completely free.
+Leonie: I'll say. I've never seen anything like it. But is it really OK for me to take this?
+Linhardt: I would say so, wouldn't you? After all, you went through an awful lot to get it.
+Leonie: I know, but... Professor, maybe you should hold on to it for me. At least for a while.
+Byleth: Why me?
+Byleth: It's yours, Leonie.
+Leonie: It's not a weapon just anyone can use. I can see that. I want to be more confident in my strength before I really call it my own. Even holding it right now makes me feel unworthy. I'd really appreciate you looking after it for me.
+Byleth: I understand.
+Leonie: Thanks, Professor. And everyone else who helped me too. I'm really grateful. Linhardt, I'm sorry I forced you to come along. But seeing such a kind-hearted person like you... Well, let's just say my opinion of the nobility's shifted a bit.
+Linhardt: I'm not sure I completely understand, Leonie, but it sounds like praise, so I will take it as such.
+Leonie: Now, let's get back to work! I need all the training I can get!
+
+Linhardt: She already possessed the strength to use that bow... She went through the trouble of fighting a saint so she could claim that weapon as her own.
+Byleth: A saint?
+Linhardt: Or maybe you'd call it a saintly beast. In any case...
+Linhardt: When the time is right, can you fill in Edelgard about what happened?
+Linhardt: Oh, and please do let me use that bow. It's not exactly a Hero's Relic, but it is still rather fascinating, isn't it? I would love to learn to what extent the bow's connection to the Crest influences the weapon and perhaps even... Oh, it's been too much of a day, hasn't it? I'm feeling tired, so let's talk about this later. Good night.

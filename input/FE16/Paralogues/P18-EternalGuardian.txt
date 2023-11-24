@@ -1,0 +1,108 @@
+@Opening 
+Five years after Rhea's disappearance, a letter that she wrote prior to that battle has surfaced. The mysterious message raises more questions than it answers...
+
+@Intro 
+Seteth: Here you are. There is something we need to discuss. I found this letter in Rhea's quarters. I believe it is intended for you.
+Byleth: How do you know that?
+Seteth: Simple. Your name appears at the top. Once I saw that, I decided not to read any further. I will admit, however, that I am quite curious. Will you permit me to read it along with you?
+
+Rhea: Dear child... I have little time, and so I will keep this brief. I asked you to take care of things should something happen, but I wished to make myself useful as well. I left a treasure at the Holy Tomb. Please take it. However, note that I set a bit of a trap to prevent thieves from stealing it. Please take ample precautions so that you are not harmed when you retrieve it. May Sothis protect you... -Rhea
+
+Seteth: Judging by the rushed handwriting, she must have written this just prior to the battle five years ago. I know nothing of this treasure, but it must be quite valuable. If you intend to recover it, then I will accompany you. Shall we go?
+Byleth: Let's go. 
+Seteth: The letter does indicate that Rhea laid some sort of trap in the Holy Tomb. We should bring some allies along, just to be safe.
+Byleth: Not now. 
+Seteth: This was clearly important to Rhea. It certainly warrants a closer look in my opinion. Let me know if you change your mind.
+
+
+
+Gilbert: Professor. So this is where you were. I have something I would like to show you.
+Gilbert: I found this in Lady Rhea's room. It seems to be a letter...addressed to you.
+Byleth: Did you enter the room on your own?
+Byleth: Did you check out the room on your own?
+Gilbert: I admit some guilt to the action. However, I hoped Lady Rhea had left something behind. I have not read the contents of the letter. If you do not object, could we read it together?
+
+Gilbert: Her handwriting is a mess. It is likely she wrote this letter five years ago, just before the battle. If Lady Rhea says it's a treasure, then I've no doubt it would be useful to us. If you plan to retrieve it, I will accompany you. What is your plan, Professor?
+Byleth: Let's go. 
+Gilbert: However, it says Lady Rhea laid some manner of trap in the Holy Tomb. Just to be safe, I'd like to request somebody to accompany us. We don't know what dangers await.
+Byleth: Not now. 
+Gilbert: I defer to your judgment, Professor. But are you sure? Please let me know if you change your mind.
+
+Claude: Here you are, Teach. Take a look at this.
+
+Claude: I found it in Rhea's room. It's addressed to you.
+Byleth: Did you enter her room on your own?
+Byleth: Did you look through her room on your own?
+Claude: Well, I know it's not necessarily fair to Rhea, but there's no way I wasn't going to take a look. I thought I might find some valuable information. Or even some treasures that could be useful for the coming war! In the end...all I found was that letter. I obviously couldn't read it before you did. Go ahead. I'm sick with curiosity.
+
+Claude: Her handwriting is messy. She must have written it right before that battle five years ago. That treasure... If it belongs to Rhea, there's no doubt that it has great value. It would be bad if some thief managed to sneak off with it. Let's go and get it, Teach!
+Byleth: Let's go. 
+Claude: Great! But...there's a trap there that might injure us? Huh. Just to be safe, there's a friend I'd like to invite as well. After all, who knows what lies ahead.
+Byleth: Not now. 
+Claude: Wow. Even though Rhea left that special treasure behind just for you... Let me know if you change your mind, OK? I'll be around.
+
+@Battle 
+Seteth: These are the guardians of the Holy Tomb. They will attack any intruders. We had better take care.
+
+Seteth: Rather excessive merely to deter thieves, isn't it? We should target those commanding phantoms.
+
+Seteth: These phantoms are strengthening the golems. We must defeat the phantoms first.
+
+Seteth: That's one, but there are others. We need to handle all of these commanders.
+
+Seteth: That's reduced the golems' strength. Now's our chance to take them out.
+
+Seteth: We have subdued the Holy Tomb's guardians. Let us get what Rhea left behind so we can leave this place.
+
+Seteth: Got it! Ah--this seems important.
+
+Gilbert: Something is wrong. Do not let your guard down.
+
+Gilbert: Phantoms? And some are giving commands. Remove them from the battlefield immediately.
+
+Gilbert: Mechanical beasts... Locate their puppet masters, and eliminate them!
+
+Gilbert: One down! Target the remaining commanders!
+
+Gilbert: The puppets still move, but they appear weaker. Destroying them should be easier now.
+
+Gilbert: It seems all is safe. Let's find Lady Rhea's treasure, quickly.
+
+Gilbert: Here! So this is Lady Rhea's treasure...
+
+Claude: There's something there. Are those the devices that Rhea warned us about?
+
+Claude: Those are the phantoms... And some of them are giving orders. Let's target those first.
+
+Claude: Giant monsters... It would be best to take care of whoever's controlling them straight away.
+
+Claude: They may be phantoms, but they can still be harmed. Let's take out the other commanders!
+
+Claude: Those giant monsters can still move, but they seem much weaker now. We should be able to finish them.
+
+Claude: Looks like we made it through the madhouse. So where's this treasure that Rhea mentioned?
+
+Claude: We finally found it. This must be...the treasure? Let's get out of here and take a look.
+
+@End 
+Seteth: Allow me to apologize, on Rhea's behalf, for putting you so squarely in harm's way. That much force should not have been necessary to deter mere thieves. Perhaps, in her haste, Rhea made a miscalculation.
+Byleth: What kind of trap was that?
+Byleth: Did Rhea really build all that?
+Seteth: It is a little-known legend that the Holy Tomb was constructed by the goddess herself. That mirage, those guardians--I believe that trap was there from the beginning. It must have been disabled for the sake of the ceremony the last time you were there. Now, as to this treasure we've uncovered... This is an ancient Relic, blessed by the goddess and kept sacred by the Church. It is both a priceless piece of history and a holy artifact of extraordinary power. Rhea has entrusted it to you, and you may do with it as you wish. But please treat it with the utmost care.
+Seteth: Well, I suppose that concludes this bit of business. I shall take my leave.
+
+
+
+Gilbert: I never thought a Holy Tomb would have a trap such as that. Had we not been prepared... Yet, if Lady Rhea set that trap, then what kind of person is she?
+Byleth: A goddess, maybe?
+Byleth: A genius, maybe?
+Gilbert: Perhaps you could go save Lady Rhea and ask her directly. Whatever the truth, still this treasure has been recovered. I do not know how much history is attached to this item, but it is an amazing artifact. It is possible this weapon once engraved its name in the history of the Church of Seiros. This is your responsibility, emparted to you by Lady Rhea. You must decide how best to make use of it.
+Gilbert: I will be going now. I must prepare for our next battle.
+
+
+
+Claude: Good grief! Rhea's trap was more extensive than I expected. Could something like that really be a result of sorcery alone? I don't understand the structure at all... It certainly wasn't made quickly.
+Byleth: Was it made earlier?
+Byleth: What it there from the beginning?
+Claude: I think so. That trap may have been built into the Holy Tomb when it was first constructed. In which case, there might have been another purpose for building it, other than just as a saint's tomb... Now I have even more questions for Rhea. I hope we reunite with her soon. However, we now have a salvaged treasure... It might be something incredible... The church kept some of the legendary weapons that were blessed by the goddess. This isn't something one just stumbles across. Anyway, it was entrusted to you, Teach. Do what you will with it.
+Claude: My curiosity has been satisfied for the time being, so maybe I'll return to my responsibilities...

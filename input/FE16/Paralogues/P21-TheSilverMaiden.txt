@@ -1,0 +1,93 @@
+@Opening 
+Arianrhod, the Fortress City, lies on what was once the border between the Kingdom and the Empire and is a valuable strategic asset. Dimitri intends to reclaim it.
+
+@Intro 
+Dimitri: Thank you. you may leave now.
+Byleth: Did something happen?
+Byleth: Was the report worrying?
+Dimitri: Not really... There is just a problem I must now clean up. Do you know of Arianrhod? It is a fortress that also goes by the name of the Silver Maiden.
+Byleth: I've heard of it.
+Dimitri: Yes, I had thought I might have mentioned it before. It is a fortress city that is lauded as the strongest in the Kingdom.
+Byleth: This is the first I'm hearing of it.
+Dimitri: Is that so? Arianrhod is a fortress city, lauded as the strongest in the Kingdom.
+Dimitri: The land around Arianrhod was once entrusted to Count Rowe... When he turned to the Empire, the Silver Maiden went with him. Now, one after another the lords of each region are leaving the Empire at the call of the eastern lords... But I am sure the Empire has no plans to relinquish the Fortress City, given its strategic position on the front lines of their war with the Kingdom. Unless we can take back Arianrhod, the Kingdom will continually be attacked at its weakest points. I was thinking that we need to deal with it soon, and that we need to investigate the status of the enemy's force, but...
+Byleth: Is there a problem?
+Dimitri: I am afraid so. We confirmed that troops departed the Imperial capital, headed for Arianrhod. If they are followed by a second and third batch of reinforcements, then the difficulty of taking back Arianrhod will increase exponentially. But, that does not mean we are entirely without recourse. I am just at a loss as to when the soldiers will arrive.
+Byleth: Let's go. 
+Dimitri: Right away? You never cease to amaze. Your answers always bring me joy. OK. Let's gather everyone immediately. We'll begin the war council for the departing troops.
+Byleth: Not yet. 
+Dimitri: Indeed, I realized that was out of the blue. You have your own worries. Please accept my apologies. Though I do hope to deal with this sooner than later... If possible, I would like to ask you to take the lead. Speak with me again if you change your mind.
+
+@Battle 
+Hubert: It seems we are just in time. Any later, and Arianrhod may have been lost. Her Majesty was right to send me here.
+Dimitri: Hubert. So, you have come here in command of extra troops from the Imperial capital... I had hoped to take the fort while it was poorly defended, but now... Well, there is nothing to be done. We must defeat him and then take Arianrhod.
+
+Dimitri: If I remember correctly, there should be devices somewhere that let you deactivate the traps. However... Arianrhod has been in Imperial hands for a while now. They may have changed how things work. But there's no point in dawdling. Let's just make a point to disable any devices we come across.
+
+Hanneman: So what if they disable some old contraptions? It's no loss to us. The city's defenses are under my exclusive control. 
+Imperial General: No luck, buddy. All the city's defenses are under my control! 
+Dimitri: So, the system has been modified. The person operating the traps must be elsewhere...
+
+Dimitri: Surprise reinforcements... We must defeat them.
+
+Dimitri: That should take care of the traps.
+
+Dimitri: Good. We've cut them off from their reinforcements.
+
+Hubert: I suppose you thought defeating the troops outside the castle first would demoralize the ones within. Not such a bad idea, honestly. But you failed to account for me. 
+
+@Boss 
+Hanneman: For the sake of Edelgard, I shall take the liberty of helping.
+
+%Byleth,Hanneman
+Hanneman: In the end, I may not have gleaned your secret. Yet, even if I die, someone will follow my work, and another after that. Such is the way of scholarship.
+
+@Boss
+Hanneman: If I die for this new Empire...then I have no...regrets.
+Dimitri: Professor Hanneman... That should take care of the traps.
+
+Manuela: I'd hate to kill someone I know...but I have no choice.
+
+%Byleth,Manuela
+Manuela: Oh dear, Professor. Fate can be so cruel. Spilling the blood of your students with your own hands... How can you carry on after that?
+
+%Dimitri,Manuela
+Manuela: You've grown into a fine, handsome man, Dimitri. Bit of a shame you've also become a violent beast. Men like you make the Silver Maiden cry.
+Dimitri: Oh? I suppose it is a shame, Professor Manuela. Perhaps I should have appeared before you holding a bouquet of flowers, rather than the weapon that will end your life.
+
+@Boss
+Manuela: So, the Silver Maiden...will be my last stage? Heh... You know, that's...that's not too bad.
+Dimitri: Professor Manuela... At least we have stopped the reinforcements.
+
+Hubert: Arianrhod is a crucial asset to the Empire. You will not pry it from our grasp.
+
+Hubert: That's as far as I go... I'll withdraw... for now.
+
+%Byleth,Hubert
+Hubert: First Gronder Field, and now here. You certainly have a talent for getting in our way.
+
+@End 
+Dimitri: The Empire troops are withdrawing... This is it. We failed to get Hubert, but at least we recaptured Arianrhod. Let's clean up the wreckage and return to Garreg Mach. Well done, everyone! The day is ours!
+
+Dimitri: Oh... It's you.
+Byleth: Are you tired?
+Byleth: A rare sight...
+Dimitri: I think all of this work is just catching up with me. Just pretend that yawn never happened. By the way, I wanted to thank you for your help with the Arianrhod campaign the other day. You were exceptional. Your leadership was key in taking back Arianrhod safely.
+Byleth: We all contributed.
+Dimitri: Indeed, everyone gave their all for victory. I am always being saved by those around me, it seems.
+Byleth: We got lucky.
+Dimitri: Do not be so modest.
+Dimitri: It seems that after taking back Arianrhod, many things are changing within the Kingdom. Specifically, the lesser lords of the land surrounding Arianrhod have pledged vassalage to the Kingdom. The knights they possess may now be added to the Kingdom's army. And if that happens, I would like to leave them in your capable hands. Also... Ah, my apologies. Here I am, simply throwing one report after another at you.
+Byleth: Aren't you overdoing it?
+Dimitri: Perhaps. It is certainly true that I have been stuck in my quarters lately, dealing with more official business and other such tasks than ever before. But that is something I have been putting off for far too long. Though it is exhausting, filling in the blanks of five years and several months must be done. I am going to tackle them all, one at a time. That is one small part of my atonement. So, Professor... I have been doing all of the talking, but I assume you came here for a reason.
+Byleth: I thought we could all celebrate our victory.
+Dimitri: A victory celebration, you say?
+Byleth: I intend to steal you away to the victory celebration.
+Dimitri: Steal me away? That seems rather unnecessary... Hmm... A victory celebration, you say?
+Dimitri: You know, this reminds me of that time I dragged you to the dining hall. Do you recall?
+Byleth: I do.
+Byleth: When was that?
+Dimitri: If memory serves, that was after the mock battle between the houses... It was a wonderful time. We had just finished our mission, and we were invited to join in the celebration... You know, every once in a while, I do long to be part of the group as well. But do you think that it is really acceptable? For someone like me to quietly join in the merriment?
+Byleth: Everyone's waiting for you.
+Byleth: You're thinking about it too much.
+Dimitri: You really think so? Well, if you insist... Thank you, Professor. Now then, let's go. Together.

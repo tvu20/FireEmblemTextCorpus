@@ -1,0 +1,100 @@
+@Opening 
+The Alliance has requested aid from the monastery, but the Knights of Seiros are low on personnel. Alois and Shamir decide that the students will have to suffice...
+
+@Intro 
+Shamir: ...And that is our situation.
+Alois: But with so few knights, we'll surely--
+
+Alois: Ah, Professor! Excellent timing.
+Byleth: What's going on?
+Shamir: Alois. You're not going to suggest we send students, are you?
+Alois: I am, actually. Do you have a problem with that?
+Shamir: I do. We can't send them out on a knight's mission without Rhea's blessing.
+Alois: I'm sure I can get the go-ahead. I'll just say the students have a...new field training opportunity, or something like that. Besides, we'll be there. We're not going to let them get killed by pirates.
+Byleth: What's this about pirates?
+Byleth: What are you talking about?
+Shamir: There are pirates causing havoc in the port of Derdriu, at the center of House Riegan's territory.
+Alois: The Merchants' Association sent a request via the Eastern Church, asking for protection.
+Byleth: The Eastern Church?
+Shamir: You haven't heard of the Eastern Church? I suppose that's because they don't have much of a presence.
+Alois: The Eastern Church controls eastern Fódlan. They don't have a standing army like we do. So, for incidents like this, they customarily ask for help from the Central Church.
+Shamir: I imagine they want to contribute to make their presence known in the Alliance.
+Alois: Be that as it may, we knights are quite busy. We don't have personnel to spare. Therefore, we're enlisting your help!
+Shamir: You should have some experience dealing with pirates from your mercenary days, right?
+Byleth: I may.
+Byleth: I don't remember.
+Shamir: The students have dealt with pirates, so this shouldn't be a problem for them.
+Alois: Come with us, won't you? Think of it as a training exercise. The Merchants' Association will reward us handsomely!
+Byleth: Let's go. 
+Shamir: We don't have time to lose. Let's take care of this quickly.
+Byleth: I don't know if I should. 
+Alois: We're not leaving right away. Think on it.
+Shamir: If you wish to join us, let me know.
+
+@Battle 
+Pirate Captain: Tremble before us! We are the great navy of Almyra! Resist and we'll burn this town to the ground!
+Alois: The Almyran Navy... This is going to be tougher than I expected.
+If Claude is deployed:
+
+Claude: Huh? Sure, those look like Almyran ships, but I guarantee you they're just common pirates.
+Shamir: They're obviously bluffing, but it seems to be working on the merchants. Shall we?
+Merchant: It's the knights! Please, save us! We'll reward you handsomely!
+Merchant: It would be a disaster if they attacked our shops. Please, don't let them into town!
+Alois: We've got you. Leave it to the Knights of Seiros!
+
+Pirate: Hahaha! Smash up the houses and trash the shops! Swipe anything that's not nailed down!
+Merchant: Aah! If they attack the town, we won't even be able to pay the knights their reward...
+Alois: That's not good. The pirates have got into town. We have to beat them, quick.
+
+Shamir: The town is under attack. We have to move quickly.
+
+Merchant: If the town gets damaged any further, we won't have much to offer as a reward...
+Alois: Who cares about the reward? We're trying to protect the people!
+
+Pirate: We are the ruthless barbarians of Almyra! Resist and pay the price!
+Merchant: Oh dear... My wares! I'll be ruined! Please, do something quickly!
+
+Alois: We are the Knights of Seiros, and we will not tolerate your violent villainy!
+
+@Boss 
+%Claude,Pirate Captain
+Claude: How could you commit such crimes in the name of Almyra? It's because of two-bit miscreants like you that Almyrans suffer so much hate!
+Pirate Captain: Sh-shut up! Say what you will, we're the real navy of Almyra!
+
+%Alois,Pirate Captain
+Alois: You're in charge of this sorry band, huh? We'll punish you in the name of the goddess!
+Pirate Captain: Quiet, you! Time for a counter attack!
+
+%Shamir,Pirate Captain
+Shamir: Hate us all you want. We're just doing our job.
+Pirate Captain: Idle prattle! You think you can beat us?
+
+@End 
+Claude: Ugh, what a pain that guy was. If you're going to pose as an Almyran, at least fight like one!
+
+Alois: Well, that's over with. They were a lot more trouble than I expected.
+Merchant: Thank you so much! Here's your reward. Please, take it.
+
+Alois: Well, we got rid of them, but the town's not looking too pretty.
+Merchant: Thank you. It's not much, but please take this as a reward.
+
+Alois: Good gracious, I didn't expect it to become such a large-scale battle.
+Shamir: It seems they caused the merchants unnecessary confusion by disguising themselves as Almyrans.
+Alois: We taught the pirates a lesson though. That should calm them down a bit. I know this was more than you signed up for, but you really saved us!
+Byleth: It was an interesting experience.
+Byleth: It was good training. 
+Shamir: Thanks for your help. This can't be how you were expecting your day to go.
+Alois: Patient and understanding, just like Captain Jeralt. We owe you a token of our appreciation, I think. Take the reward from the Merchants' Association. Share it with your students, if you like.
+Byleth: Really?
+Byleth: I can't accept this.
+Shamir: Take it. We'll collect our reward from the Eastern Church. Besides, Alois could never keep it for himself.
+Alois: Of course not! We knights serve as the sword and shield of Saint Seiros herself. We pride ourselves on our integrity! We reject all rewards that are not perfectly legitimate!
+Shamir: In other words, he's a coward who would feel guilty and lose sleep over it.
+Alois: Hmph.
+Shamir: That's also one of his many merits.
+Alois: Shamir, you don't mince words. Though it does seem like you've learned how to show a little respect.
+Shamir: Must've learned that from you.
+Alois: I don't remember teaching you that. Anyway, Professor, keep the compensation. I'd say you've earned it. Those merchants really needed your help. For all the buying and selling they do, they're not so good at trading blows!
+Shamir: ...
+Alois: Get it, trading blows? They... And merchants, they... Oh, forget it.
+Shamir: We have to prepare for our next mission. Until next time, Professor.

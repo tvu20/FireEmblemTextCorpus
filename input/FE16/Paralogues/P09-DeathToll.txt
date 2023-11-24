@@ -1,0 +1,88 @@
+@Opening 
+Ignatz and Raphael, two sons of merchant families, set out to put an end to a series of monster attacks on merchants in Alliance territory.
+
+@Intro 
+Raphael:  So basically we just gotta defeat their leader, right? Then why don't we approach from...ugh! That won't work at all! Horses won't fit through there! I can't figure this out! I give up.
+Byleth: Try to calm down and think it through.
+Byleth: Shall we go over it one more time?
+Raphael: But enemies never move how you want them to in a real battle, do they? I reckon I learn better on the battlefield.
+
+Ignatz: Professor! I need to speak with you.
+Raphael: Ignatz! You all right?
+Ignatz: I received a letter from my brother back home. There's some disturbing news.
+Byleth: What's going on?
+Ignatz: Monsters have been attacking merchants within the Alliance territories.
+Raphael: That happens all the time. I mean, that's how my parents died, so...
+Ignatz: Ah, Raphael! I didn't mean to bring up such a sensitive topic in your presence.
+Raphael: Hey, don't worry about that. C'mon, let's hear the rest of it.
+Ignatz: Very well. These attacks seem to be focused on specific merchants.
+Byleth: Like who?
+Ignatz: Those who are traveling from the territory of House Gloucester to the Riegan Dukedom. Merchants traveling in the opposite direction, from Riegan to Gloucester, don't suffer nearly as many attacks.
+Raphael: That doesn't make any sense. Someone's gotta deal with those monsters though.
+Ignatz: Agreed. At this rate, my father and brother can't conduct business without risking their lives. Professor, could you assist me? I need your help exterminating these creatures.
+Raphael: Now you're talking! I'm going too! I'm not learning anything in a classroom! You're gonna go, right, Professor? Don't you wanna help these folks?
+Byleth: We depart at once. 
+Raphael: Yeah! I knew you couldn't resist!
+Ignatz: Thank you so much, Professor! And Raphael, I can't begin to express my gratitude.
+Byleth: Not right now. 
+Raphael: Seriously? Can't you see how important this is to Ignatz?
+Ignatz: Ah, no, that's perfectly understandable. I'm sure the professor has much to do. But let me know if you change your mind, would you? If you can't come, I'll try asking some of the knights.
+
+@Battle 
+Merchant: Aah! Monsters! Begone!
+Ignatz: Look! The monsters are attacking those merchants again.
+Raphael: Looks like there are some humans mixed in there! Maybe they're controlling the monsters! If they are, do you think we just have to take out the leader?
+Ignatz: Let's get started, before it's too late!
+
+Raphael: The merchants can probably escape, but we gotta get rid of those enemies who are blocking the path!
+Ignatz: Look, a drawbridge! We can use that to cross, but we'll need to lower it first.
+
+Raphael: Oh no! Looks like we just lost one of the merchants!
+Ignatz: Come on... Let's try to save the rest of them.
+
+Merchant: No... Why?!
+Ignatz: No! We couldn't save any of them?!
+Raphael: Aaargh! They can't get away with hurting those merchants! I'm gonna make them pay!
+
+Alliance General: What do you think you're doing? Don't get in the way of our duty!
+Ignatz: Your duty? You're letting monsters wreak havoc on innocent people!
+Alliance General: Shut it! It's got nothing to do with you!
+
+Alliance General: I'm not looking forward to telling the count...
+Raphael: Looks like we took care of 'em!
+Ignatz: That man mentioned the count. What could Count Gloucester have to do with all this?
+
+@End 
+Merchant: Thank you so much! We're safe now and it's all due to your efforts! I can't bear to think what might have happened if you hadn't shown up.
+Raphael: Yay! A happy ending for everyone!
+
+Merchant: Thank you so much! We're safe now, but it's a shame we weren't all lucky enough to escape... We might've all met the same fate if you hadn't shown up.
+Raphael: I'm real sorry we couldn't save everyone...
+
+Ignatz: If you don't mind me asking....were you headed to the Riegan Dukedom?
+Merchant: We were. We traveled around the Alliance selling our wares. I heard this route was dangerous, but...
+Ignatz: Dangerous, you say. Are you referring to the recent cases of merchants being attacked on that route?
+Merchant: That's right. We can't turn a profit without going to Derdriu. I don't know what Count Gloucester is thinking.
+Byleth: This is the count's doing?
+Ignatz: I had a feeling it might be. You're certain?
+Merchant: Looks that way. I think he's unhappy with merchants contributing to House Riegan's wealth. It seems like he's been at odds with them forever. They say even the previous Duke Riegan's death...
+Raphael: Was that the count's fault too?
+Merchant: It's only a rumor, but it was Count Gloucester himself who lured the late Duke Riegan out. If I recall correctly...he invited the duke to his estate to strike a deal on some valuable art pieces. I believe the duke brought a pair of merchants with him to assess the pieces in question, but...
+Ignatz: ...
+Merchant: Alas, it seems those merchants lost their lives alongside him. A terrible misfortune. I wish these nobles wouldn't get us common folk mixed up in their feuds. You came from Garreg Mach, right? I'll send a token of our thanks over later.
+
+Ignatz: ...
+Byleth: Those merchants who lost their lives...
+Raphael: Yeah, that was my ma and pa.
+Ignatz: My parents received the request initially, but they had other business. They recommended Raphael's parents as substitutes. We could never have imagined...
+Byleth: And Count Gloucester, isn't he...
+Ignatz: Yes, he's Lorenz's fath--
+Raphael: OK, OK! That's enough of that! It's just a rumor, right? So, who cares? Even if it's true, that's our parents' business. It's got nothing to do with us.
+Ignatz: But you--
+Raphael: You got no idea what really happened, right, Ignatz? And I bet Lorenz doesn't know either! The way I see it, it was monsters that killed my parents. They died in an accident. I got no reason to hate anyone or blame somebody else for their deaths. I don't have time for that. I got my little sis to worry about instead.
+Ignatz: Raphael...
+Raphael: Now that that's settled, let's head back! What do you think that merchant's gonna send us? I hope it's food!
+
+Byleth: Raphael is a nice guy.
+Byleth: Raphael is a good man.
+Ignatz: Yes. He really is.

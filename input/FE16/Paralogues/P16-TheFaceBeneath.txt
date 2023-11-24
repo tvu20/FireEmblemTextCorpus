@@ -1,0 +1,98 @@
+@Opening 
+Whispers of Death Knight sightings in Garreg Mach excite Caspar, but Mercedes has a much more pensive reaction. Something must be on her mind...
+
+@Intro 
+Caspar: Professor! Mercedes! What are you two doing here?
+Mercedes: Um, we were just talking. Why do you look so flustered?
+Caspar: Haven't you heard? An Imperial army was spotted near Garreg Mach!
+Mercedes: Oh. Do you think they came to scout?
+Caspar: Maybe? We could probably take care of 'em if that's the case... But I heard the Death Knight is out there!
+Mercedes: The Death Knight...
+Byleth: Is that a problem?
+Byleth: Who was that again?
+Caspar: Don't you remember? He's the guy who abducted Flayn! We fought him a bunch of times after that! Right, Mercedes? Oh. Is something the matter?
+Mercedes: N-No. It's nothing. Really... Now's probably not the time, but I was just thinking of my brother.
+Caspar: You have a brother?
+Mercedes: Yes, but we have different fathers. He was a year younger than me.
+Caspar: Why'd he suddenly come to mind?
+Mercedes: You see--
+
+Knight of Seiros: Quickly! You must prepare for battle! The Death Knight has been spotted in the Sealed Forest! He only has a few troops with him, so we planned on taking him out with just the knights, but... We can't guarantee that reinforcements won't arrive. We would appreciate your backup, just in case.
+
+Mercedes: The Death Knight... I have to go...
+Caspar: Mercedes, wait! I don't know what's going on with you, but...
+Mercedes: No! I have to go see him!
+Byleth: Let's go with her. 
+Caspar: Yeah, we can't let him get away! I'll help Mercedes find the Death Knight! You go gather the others and meet up with us, Professor!
+Byleth: I'm not so sure... 
+Caspar: We don't really have time to sit around and think, but a little prep can't hurt against the Death Knight.
+Mercedes: Yes... You two are right...
+Caspar: Let me know when you're ready. Try not to take too long though, all right? It's not like the Death Knight is just gonna wander around the forest waiting for us to find him.
+
+@Battle 
+Mercedes: Emile, wait! Don't go! Take your helmet of. Please. Let me see your face. It really is you under there, isn't it? I've been searching for so long...
+
+Caspar: I finally caught up with you, Mercedes. You're faster than you look... But I'm here now, so you can give up, Death Knight!
+Death Knight: ...
+
+Death Knight: Flee, and I will not chase you... Challenge me, and I will have no choice but to fight...
+
+Mercedes: Enemy reinforcements are approaching! What should we do?
+Caspar: Let's take 'em out! Reinforcements just means we get to fight even more!
+
+@Boss 
+Death Knight: I told you that if you fled, I would not chase you. But it seems you wish to die...
+
+%Mercedes,Death Knight
+Mercedes: You try to hide yourself with that mask and helmet...But I know who you really are.
+Death Knight: I...have nothing to say to you.
+
+%Caspar,Death Knight
+Caspar: The Infamous Death Knight! Champion of the Empire! Taking you down is gonna be satisfying.
+Death Knight: Heh. Simpleton...
+
+%Byleth,Death Knight
+Death Knight: Fate is unkind. There will be no resolution today... Flee, and I will not give chase.
+
+@End 
+Death Knight: Simple...but effective...
+Caspar: You're not getting away that easy!
+
+Death Knight: I must go...
+
+Caspar: Phew...we did it. Are you all right, Mercedes?
+Mercedes: I am, thanks to you. But still...
+Caspar: There's something you wanted to ask him, right? Come on, he ran off into the forest.
+Mercedes: Thank you, Caspar.
+
+Death Knight: You came...
+
+Mercedes: How many years has it been since we last spoke? I'm so sorry... I should have come for you sooner... I'm sure it wasn't pleasant living in House Bartels.
+Caspar: I'm not sure I follow. Do you know this guy, Mercedes?
+Mercedes: My younger brother... Emile... Is it really you?
+Caspar: I'm sorry, what? Your brother is the Death Knight?! But you two look nothing alike!
+Death Knight: Mercedes... Leave the monastery.
+Caspar: Hold on just a minute! Is that all you've got to say for yourself?
+Death Knight: This doesn't concern you...
+Caspar: That's not true! You're her brother, right? But you've got nothing nice to say to her after all this time?
+Death Knight: You will die...
+Mercedes: Even if I die, I've made my choice. Please, Emile. Fight on our side instead.
+Death Knight: I cannot. My soul has long departed... And yet... Here. Take this and go.
+
+Mercedes: Is this...a Hero's Relic? You and I must share the same Crest.
+Death Knight: When next we meet, I will kill you without hesitation.
+Mercedes: You won't kill me. I have this now.
+Death Knight: Hmph. Do not die until I can kill you...
+Death Knight: Hmph.
+Caspar: What is it? You got a problem with me?
+Death Knight: Take... this...
+Caspar: This is...
+Death Knight: I will kill her. Until then, she must live...
+
+Mercedes: Emile! I can't believe he's gone again...
+Caspar: I can't tell whether or not he actually cares that you're his sister...
+Mercedes: Hmm... Somewhere, hiding underneath that helmet, there's a very sweet boy.
+Caspar: Is that a joke? Would a sweet boy threaten to kill someone? I don't get you, Mercedes.
+Mercedes: Living at House Bartels changed him. But that's beside the point. Thank you, Caspar. I couldn't have confronted him without you.
+Caspar: Don't worry about it. I may not understand you half the time, but we're still pals.
+Mercedes: Come on then, pal. Let's get back to everyone else.

@@ -1,0 +1,73 @@
+@Opening 
+As Edelgard works to reorganize the army after merging with Alliance troops, she receives an urgent message from Duke Goneril, whose forces guard Fódlan's Locket.
+
+@Intro 
+Edelgard: There... We must rethink the supply route now that the battle lines have moved. This one will be Hubert...and Count Bergliez will oversee this force here...
+
+Edelgard: Ah, Professor... Is something wrong? Sorry, I thought I had a bit more time before the council meeting.
+Byleth: You never stop working.
+Edelgard: True. Though ideally, I'd like to hand off anything I can to my subordinates. But while we're on the front lines, I can't help but worry about every little thing.
+Byleth: Sorry to bother you.
+Edelgard: No bother at all, but I'm afraid I'm not quite finished here. Still, I'm happy to see you. Your presence lightens my mood a great deal.
+Edelgard: Now, let's see...
+
+Hubert: Pardon, Your Majesty. An urgent matter.
+Edelgard: What's happened?
+Hubert: There is an army from Almyra at Fódlan's Throat. Reports indicate it is of appreciable size.
+Byleth: Fódlan's Throat?
+Hubert: A steep mountain range runs along the border between Fódlan and Almyra. That mountain range is called Fódlan's Throat. The sturdy fortress built within those mountains is called Fódlan's Locket. It occupies the sole path through. The church and the Alliance nobles built the Locket to safeguard against Almyran invasion.
+Edelgard: Normally, House Goneril watches over the fortress. In times of trouble, the lords join together to protect it. But I assume it would be too difficult to defend against this incursion with only the troops of Goneril...
+Hubert: The situation has been precarious for House Goneril since Holst fell ill.
+Byleth: Holst?
+Hubert: The heir to House Goneril, renowned for his bravery. He is Hilda's elder brother.
+Byleth: I see.
+Edelgard: Holst is a formidable commander. it is only logical that House Goneril would struggle in his absence. The Alliance has shattered. They can't request soldiers from the surrounding lords. And the Imperial troops stationed there can't be relocated so easily. The best course of action is for us to go out there and deal with this ourselves. It's critical for us to protect that location. This is our chance to prove that we won't allow it to fall.
+Hubert: Yes. It is to the benefit of our future governance not to abandon it. It seems this must be done. Will you assist us?
+Byleth: I will. 
+Edelgard: We'll depart after you finish making preparations. Move swiftly. We must move before the Almyran army crosses the Throat.
+Byleth: Let me think. 
+Edelgard: Yes... Preparations must still be made. We'll wait a bit longer. If you're not going to join us, we'll take those who are able and willing. Don't worry about it.
+
+@Battle 
+Edelgard: It seems we made it in time. Let's help the soldiers of House Goneril withdraw. The Black Eagle Strike Force will protect Fódlan's Locket!
+Goneril Soldier: Support! We're saved!
+Nader: Reinforcements? And that flag belongs to the Imperial army... Ha! A fine enemy, indeed! Break through the Locket and make a name for yourself! No need to by shy--strike all at once!
+
+Edelgard: We fight to protect Fódlan! If the defensive line is broken, we fail! Our enemies are many...but we can use the terrain to our advantage and stop them where they stand!
+
+@Boss 
+Nader: I must commend you for your courage, seeing as how you dare stand against me!
+
+%Byleth,Nader
+Nader: Your sword is fit to cleave a mountain in two. Care to try it out against the undefeated Nader?
+
+%Edelgard,Nader
+Edelgard: They call you undefeated... Oh, but you've already suffered one defeat, have you not? And on this day, victory will again be ours!
+Nader: "The Once Defeated" isn't quite as exciting, is it? I'll just have to claim this victory here to wipe away the shame of defeat!
+
+@End 
+Nader: So this is how far I go... Unbelievable... What a scary woman...
+Edelgard: No matter how many times you attack, we will never allow you to capture the Throat.
+
+Edelgard: The Almyran troops are difficult opponents... For now, I would much rather focus on Fódlan's internal territories. I hope they don't mount another attack anytime soon.
+
+Edelgard: The Almyran Army retreated. Their casualties were numerous. As I understand it, they won't be attempting another invasion anytime soon. Still, we must prepare the local troops before their enemy returns.
+Byleth: They are an irritating neighbor.
+Edelgard: Indeed. But if possible, I would like to foster amicable relations with them.
+Byleth: Maybe we can befriend them?
+Edelgard: That is my hope. I would even consider a treaty.
+Edelgard: Unlike Fódlan, Almyra is not a land ruled by a blind fealty to the goddess. I believe we need only to communicate openly with them and respect the differences between our cultures. If we do that, we should be able to have an meaningful dialogue with them, one more promising than what we can expect from followers of the goddess.
+
+Edelgard: Ah, Hubert. What did Duke Goneril say?
+Hubert: He expresses his sincere gratitude to Lady Edelgard. In addition, he would like to leave the protection of the Throat to Imperial troops from now on.
+Edelgard: Is that so? How reasonable of him. By the way, what was it that ailed Holst?
+Hubert: I did not hear all the details, but apparently he ate some bad mushrooms. It is said he is now emaciated and pale, and his skin exudes a mysterious vapor.
+Edelgard: Huh, I can't help but imagine what that must look like...but it's probably better not to think about it.
+Hubert: Agreed. Do not worry yourself with such thoughts.
+Edelgard: ...
+Byleth: I'm too curious.
+Edelgard: Indeed... Well, then maybe you should pay a visit. And then...you could tell me what it looked like.
+Byleth: It's best left unseen.
+Edelgard: There's only one option, then. I must pay a visit on my own and see this ailment with my own eyes.
+Hubert: Heh...
+Edelgard: Actually... On second thought, I'd better not. As emperor, I can't risk it.

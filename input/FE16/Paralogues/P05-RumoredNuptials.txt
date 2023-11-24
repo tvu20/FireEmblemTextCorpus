@@ -1,0 +1,87 @@
+@Opening 
+Ingrid receives an unexpected proposal of marriage from a noble of rising status. As soon as Dorothea hears the name, she is adamantly against any engagement between them...
+
+@Intro 
+Ingrid: ...
+
+Dorothea: What's the matter, Ingrid? I never hear you sigh like that.
+Ingrid: Oh, hi, Dorothea. And hello, Professor. Nothing's the matter. Well, nothing major.
+Dorothea: You don't look like it's nothing major. Then again, I suppose you always have a furrowed brow, don't you?
+Ingrid: Truth be told, there's rather a lot going on. It seems that there's always something to worry about...
+Byleth: What do you worry about?
+Ingrid: A childhood friend who's always causing trouble, my family... Things like that.
+Byleth: What's worrying you right now?
+Ingrid: Now? Oh, I really did not wish to bother you with such trivialities...
+Ingrid: You see, I received a letter from my father recently.
+Dorothea: From Count Galatea? What a kind gentleman to have for a father.
+Ingrid: I thank you. But the content within the letter is what I find troubling.
+
+Dorothea: Let me see! Oh, it's a marriage proposal... For you.
+Byleth: Do you know the suitor?
+Byleth: Have you ever met the suitor?
+Ingrid: I've not met him, though I've heard his name here and there. He began life as a merchant but has somehow achieved rank in court. An enterprising noble from an allied territory. It's most likely that he wants the Crest of Daphnel that I bear to adorn his family name.
+Dorothea: Hmm, yes, that sounds about right. The jerk.
+Ingrid: You sound as though you know him. Do you?
+Dorothea: Yes, I must admit that I know him. He tried to court me when I was a singer. Best advice I can give you, Ingrid? Stay far, far away from this guy.
+Ingrid: He's offered a sizeable dowry, so I must at least consider it–for the sake of my family.
+Dorothea: Dowry? Ha! Blood money. That's all it is.
+Ingrid: Dorothea, I–
+Dorothea: This jerk's entire fortune is soaked in blood. Do you want to rebuild your own house using that kind of money? I mean, it's all just rumors, but I think it still might be worth investigating. What do you think, Professor? Should we go check this guy out?
+Byleth: Let's go. 
+Dorothea: Great. Let's tell the others.
+Ingrid: Uh, really? OK...
+Byleth: We don't have time. 
+Ingrid: That's right, Dorothea. No point bothering. All of us, including the professor, are far too busy.
+Dorothea: Are you sure? If you change your mind, Professor, just let me know.
+
+@Battle 
+Dorothea: Pft... The more we look into this guy, the more I see he's a monster, and no good for my Ingrid!
+Ingrid: No kidding. There's no denying it. We'd better get back to the monastery.
+Rogue:  Hold on a minute, you brats.
+
+Rogue: Hand over the girl!
+Ingrid: Surely you can't mean me. Wait... Did he send them?
+Dorothea: This jerk figures he can grab Ingrid before things get too messy for him. Of course, we know the truth about him now, and he'll want to kill us and get rid of the evidence... But we'll never let him take Ingrid. Come on, let's hurry!
+
+Dorothea: Protect Ingrid! Don't let anyone get near her!
+Rogue: You'll never escape!
+
+Merchant: I'll increase the reward! Now hurry up and capture that girl!
+Ingrid: That merchant is giving order to the bandits! I bet if we take him out, reinforcements will cease!
+
+Dorothea: It's an ambush! Ingrid's in trouble!
+
+Ingrid: Enemies in hiding...here? They are really getting on my last nerve!
+
+Rogue: Ha! Gotcha! Your future husband is eagerly awaiting his bride, you know.
+Dorothea: Oh no! No! Ingrid!
+
+@End 
+Ingrid: Finally! It's over. I'm sorry for causing such a mess.
+Dorothea: Oh, hush. For you, I'd go through twice as much trouble. But are you all right? Did they hurt you?
+Ingrid: I'm OK. Really. Thank you, Dorothea. My father will need to hear of this.
+Dorothea: Ingrid! Welcome back. Did you speak with your father?
+Ingrid: I did. I just returned to the monastery.
+Byleth: What happened with the proposal?
+Ingrid: As soon as I informed him of the suitor's unsavory tendencies, he rejected the proposal outright. Were we to form ties with such an individual, it would bode poorly for our family, regardless of the weighty dowry offered.
+Dorothea: Oh, thank goodness! I'm so glad it all worked out.
+Ingrid: You and me both. My father also insisted I take this.
+Byleth: A Hero's Relic?
+Ingrid: Indeed. This is the magic lance, Lúin, which has been passed down for generations within my family. My father and siblings have no way of using it, since they bear no Crest. Father told me I should take it and use it to protect myself with. He said it's far better used protecting his daughter than gathering dust.
+Dorothea: Aw, that's so sweet! Your father really does mean well, Ingrid.
+Ingrid: He's unendingly stubborn, but I am proud of who he is. Dorothea, Professor... I want to thank you.
+Byleth: Of course.
+Dorothea: We couldn't just do nothing while you were facing a life of being married to a monster.
+Byleth: It was important that we help you.
+Dorothea: It really was quite exciting too! So, you know, don't worry about it.
+Dorothea: I could never hand over my lovely Ingrid to some jerk who only wants her for her Crest.
+Ingrid: Oh? Do I belong to you now, rather than to myself? Hey... Dorothea. This is probably more than a little awkward, considering where it came from, but...here.
+Dorothea: A ring? Is this... No! Is it?!
+Byleth: A proposal?
+Dorothea: Oh, Ingrid... I accept your offer! We'll be together forever!
+Byleth: A bribe?
+Dorothea: I mean, sure, I suppose... Clumsy bribe though, giving me a ring and not telling me why.
+Ingrid: Stop teasing me, Dorothea! I'm trying to be sincere. I wanted to find a way to emphasize how grateful I am to you. So I looked for something from among my things that I thought you would like. I mean...you may already have one like it, but I thought on the off chance you didn't...
+Dorothea: Ingrid, you are just adorable and I love it. But perhaps we should lend this ring to our teacher for now. Our dear teacher can best decide how to use it. You found hard enough. You've earned the right to have a little fun.
+Ingrid: As you wish, Dorothea. I gave the ring to you, so you can do whatever you please with it.
+Dorothea: Haha.

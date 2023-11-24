@@ -1,0 +1,48 @@
+@Opening 
+Hubert reveals some of his thoughts about the mysterious power aiding the Empire with strange technology. As fate would have it, a visitor chooses that moment to arrive...
+
+@Intro 
+Hubert: Professor. You're here.
+Byleth: Did you send for me?
+Hubert: No. But while you are here, you may as well listen. I am sure you recall hearing about Kronya, Solon, and Lord Arundel. I am investigating their true identities. I want to know their origins. Their numbers. Their base of operations. Their plans. I want to know where they acquired their dark powers. How they disguise themselves. Many intriguing mysteries surround these people. Wouldn't you agree?
+Byleth: Yes.
+Hubert: I have a name for them.
+Byleth: Not really.
+Hubert: No? I suppose someone of your statue has more immediately pressing concerns. Well, I have a name for them.
+Hubert: Those who slither in the dark...
+
+Imperial Soldier: Lord Hubert! Pardon me, but Lord Arundel is at the monastery. He says he wants to discuss something with you and is waiting in the reception hall.
+Hubert: Speaking of... Professor, would you come along?
+
+
+
+Lord Arundel: Hubert. I have something I must request of you.
+Hubert: Request? That is an unusual word choice. A request, by definition, can be refused. But if you have orders, Regent, I will follow them.
+Lord Arundel: Heh. Such a reaction before you even hear me out. Very well. One of my subordinates was conducting experiments in the Sealed Forest. The Demonic Beast he was using ran wild and has created something of a...situation. Take care of it.
+Hubert: Experiments, you say? Heh...very well. I will set out at once.  Professor, will you assist?
+Byleth: Yes. 
+Hubert: Thank you for your support. It is a great help.
+Byleth: Now is not a good time. 
+Hubert: I understand. I will call upon those who are able to move immediately. Let me know if you change your mind. It will take some time to prepare.
+
+@Battle 
+Hubert: My, my. Looks like this forest became infested with Demonic Beasts while we weren't looking. I suppose we've not a moment to lose. Not that I'm concerned for any of these...people. But since there may be a reward in it for us, we may as well do what we can to rescue them.
+
+Hubert: Now then. Let's split up and move in to assist. It may be worth focusing your attention on those being targeted by multiple Demonic Beasts.
+
+@End 
+Mysterious Mage 1: What a disgrace to be saved by those fools...
+Mysterious Mage 2: Enough. These certainly proved useful. Go ahead and take them.
+Hubert: Your tools, I gather? Yes, I suppose we will take them off your hands since you asked so nicely.
+
+Lord Arundel: I'm surprised at you, Hubert. Saving all of my poor subordinates...
+
+Lord Arundel: Hmph. Casualties. You were not as helpful as I had thought you would be.
+Byleth: I'm sorry.
+Byleth: We did the best we could.
+Lord Arundel: I am not criticizing you. This failure is my own for thinking you were capable of more.
+Lord Arundel: It seems gratitude is in order. Let us meet again soon.
+
+Hubert: Good riddance. What a nuisance that man is. He and his ilk must be aware of my investigation. No doubt this was all an attempt to make us believe we are powerless against them. It has only achieved the opposite effect.
+Byleth: How so?
+Hubert: They are looking down on us. They think we cannot touch them. But the closer we get to them, the less true that becomes. Just look at this weaponry we received as a token of their appreciation. It would be impossible for us to manufacture such a piece with our current tools and knowledge. It is not as powerful as a Relic, but it is nearly so. We will keep them close, for now, while we still need their strength to rule Fódlan. Once Fódlan is united, however, the focus of this war will shift. Rather than swords clashing on the battlefield, it will be knives cutting in the darkness. Lady Edelgard's war will be over, and House Vestra's will begin. We who rule the shadows will eradicate those who slither in the dark. When that time comes, Professor, you will be quite useful to us.

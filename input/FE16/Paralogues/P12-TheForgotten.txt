@@ -1,0 +1,79 @@
+@Opening 
+Sylvain is unable to stand idly by when he learns that the band of thieves once led by his brother, Miklan, are again causing trouble in Margrave Gautier's territory.
+
+@Intro 
+Sylvain: Hey, Professor. You're looking lovely as ever.
+Sylvain: Are you working today? You gotta take a day sometime. Get out in the world and have some fun.
+Byleth: That's not a bad idea.
+Sylvain: Right? Sometimes you gotta forget all the things you oughta do and focus on what you'd rather do. Hey, we should go get something to eat. My treat.
+Byleth: I could never...
+Sylvain: Aw, come on, Professor. Let me buy you something to eat. Relax for a couple hours at least.
+Byleth: No, thank you.
+Sylvain: Ah, fine. You're missing out though.
+Byleth: What are you after?
+Sylvain: What? I can't invite my professor to dinner without it being a scam? Heh! I...ah...OK, fine. You got me.
+Sylvain: I need to ask a favor, and I wanted a way to work up the courage to ask you.
+Byleth: Ask me what?
+Byleth: Is this about a girl?
+Sylvain: No, for once it's not about a girl.
+Sylvain: There are thieves in my father's territory. I was wondering if you'd go with me to drive 'em off. You remember the thief leader you fought at Conand Tower, yeah?
+Byleth: Your brother?
+Sylvain: Yes, Miklan. He was the oldest son of House Gautier.
+Byleth: Miklan?
+Sylvain: That's right. Although he's dead now...
+
+Byleth: Yes, that's crazy.
+Sylvain: The way my father is...he probably has some other motive that I'll never know.
+Byleth: Why just you?
+Sylvain: Because he thinks he'd lose face asking the church for help. I don't know. He could have asked another trusted house to send troops, but he only asked me. And the way my father is...he probably has some other motive that I'll never know.
+Sylvain: Maybe he just wants me to get some more experience in battle. Crazy way to suggest it though. Anyway, I'm not going alone, no matter what he asks. I'm going to ask some of the others in our class to help too. But none of us have your expertise. If you'd come with us, I'd be grateful.
+Byleth: Of course. 
+Sylvain: Great! I'll talk to the others and see who's in. Thanks, Professor!
+Byleth: I can't right now. 
+Sylvain: OK. I understand. I did kind of just drop that question on you, huh? If you change your mind though, let me know. I'll be around for a bit.
+
+@Battle 
+Sylvain: OK, we've got the thieves covered on both sides. Some of the thieves are still carrying what they stole, so we have a chance to get it back. Gotta be careful, though. They'll run off faster than a nobleman's daughter if we just rush in. Target the strongholds to cut off their escape routes.
+
+Sylvain: My father's offering a reward for every thief and rogue we take out. The more you beat, the more you get. Just remember, you gotta take them down fast. They'll bolt as soon as they're hurt. Take the strongholds and we cut off their escape route.
+
+
+
+Sylvain: OK, that'll do it. This exit route is blocked off. Very good. Now, let's keep cool and take out the other strongholds.
+
+Sylvain: That's one more stronghold taken and one more escape route blocked. There are still some strongholds left. Professor, which should we go for first?
+
+Sylvain: Another escape route blocked. We're nearly done! Take out those thieves, and capture that last stronghold.
+
+Thief: We've been rattled... Let's get out of here for now.
+Sylvain: Ugh, they're getting away! If only we'd taken the stronghold out in time.
+
+Thief: I guess we've pinched enough stuff here. That'll keep our bellies stuffed for a while!
+Sylvain: Professor, are you letting them get away? Come on, we gotta block off their escape routes!
+
+@Boss 
+Thief Leader: Gah... I'm not sticking round here to get slaughtered by a bunch of stuck up jerks like you!
+
+%Sylvain,Thief Leader
+Thief Leader: Hey, I know that face. You're the boss's little bro, right?
+Sylvain: I'm sorry to say it, but yeah, I'm his brother. And he's led you into a bad spot. Anyway, your boss is dead. So this is your chance to disband this little thief gang of yours.
+Thief Leader: Quiet, fool! You think I have any other choice but to be a thief?
+Sylvain: Well, it's probably on me for making such a stupid request.
+
+@End 
+Sylvain: Professor, thank you for your help. We drove off the thieves and got a reward from my father. Job well done, eh? Although, I don't know how to feel about this particular reward.
+
+Sylvain: I guess that's why my father tasked me with this particular mission. He wanted me to prove myself worthy of this Relic. This weapon, the Lance of Ruin... It killed my brother, and now it's mine.
+Byleth: Isn't that dangerous?
+Syvlain: Not remotely. I bear the Crest of Gautier. The same Crest my brother wished for his whole life but never came to possess.
+Byleth: You're still thinking about your brother, aren't you?
+Sylvain: I suppose I am... Miklan hated me from the moment he found out I had a Crest and he didn't. He was selfish and egotistical. I know it's not right to say bad things about the dead, but he earned it. Even now, I'm still cleaning up his messes. I have to wonder though... What if it was the other way around? If he had the Crest and I didn't... Would I be the one my father thought was worth forgetting? Or would my fate have been wholly unlike his?
+Byleth: Thinking like that won't get you anywhere.
+Sylvain: You're probably right, Professor. It's not like me, is it? I don't pray much...but I think I'm going to pray for those who lost their lives to the thieves tonight. And for all of us. I'm afraid there are more days like this coming our way.
+Byleth: Why do you say that?
+Sylvain: Faerghus has always been a cold place. Never very well-to-do. Until about 10 years ago, our region was a battlefield for the people of the Sreng Region to the north. And after the late king fell, the whole Kingdom became unstable. So it's no real surprise that more and more people are resorting to thievery just to survive. And there are those rumors of the current regent being too busy chasing the ladies to bother with governing. Don't worry, I get the irony. The whole damn Kingdom is in decline because of nonsense like that. I'm hoping once we get Dimitri on the throne everything will get better. Anyway, I'll leave it up to you to decide how you want to use our reward. Including the Lance of Ruin. I know I can trust you with it until you think I'm ready. And, Professor, if I could, I'd still like to buy you a meal sometime.
+Byleth: There's no need.
+Sylvain: Or do you really just hate the idea of having dinner with me? Just kidding! I know you're busy.
+Byleth: You have another favor to ask?
+Sylvain: No, I'm just asking a friend to hang out, that's all.
+Sylvain: Again though, thank you for everything, Professor. I couldn't have done it alone. 

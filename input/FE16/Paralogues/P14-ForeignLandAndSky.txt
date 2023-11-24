@@ -1,0 +1,114 @@
+@Opening 
+The war in Fódlan has put Brigid in a precarious position. With Bernadetta in tow, Petra returns to her homeland in hopes of avoiding a confrontation with her grandfather.
+
+@Intro 
+Bernadetta: Ah, nothing like a moment of perfect stillness...
+Petra: Why is it preferable to have stillness?
+Bernadetta: Ah! Petra? Please don't sneak up on me like that! Oh... You're here too, Professor? What's going on?
+Petra: I was asking my question first. What are you enjoying about air that is still?
+Bernadetta: Um. Still air makes me feel better, that's all. It means you're in a nice, closed-off space where you can hide.
+Petra: But spaces that are wide and open are wonderful. Places like forests and oceans.
+Bernadetta: Guess we'll have to agree to disagree about that.
+Petra: I am not understanding your answer, but I am appreciating your explanation. I am reminded. I was wanting to ask if you wish to go to the forest or ocean with me?
+Bernadetta: Um. What? What part of anything I said would make you think I wanted that?
+
+Bernadetta: So your grandfather is in trouble. He's trying to lend us soldiers from Brigid, but... Edelgard is sending messengers there to convince Brigid she's not their enemy.
+Petra: You are saying messengers, but the truth is they are a threat. Brigid is having no power to refuse.
+Bernadetta: I get it, but what does this have to do with me?
+Petra: Professor was asking this of me. I was told...if I am going to a far away place, to be taking Bernie with me, since she is hiding away.
+Bernadetta: What?! Professor! What did I do to deserve this?! I know I'm a recluse, but I do go out on missions once in a while!
+Byleth: You can't refuse.
+Bernadetta: Tyranny! Abuse of power! I have rights!
+Byleth: Lend me your strength. 
+Bernadetta: You say that, but I don't think I'm ready for this.
+Petra: Bernie, I am wanting this as well. Please join me.
+Bernadetta: Since you put it that way, Petra...I'll think about it. Do you really want me to go, Professor?
+Byleth: I do. 
+Bernadetta: All right. I'll lend a hand...for everyone's sake!
+Petra: What is the point of lending a hand? Are you not needing both of them to battle?
+Bernadetta: What?! No, it's a figure of speech! Oh, don't make me imagine that!
+Byleth: I'm not sure. 
+Petra: Maybe we are not needing you then. I will try borrowing the power of the church.
+Bernadetta: Um, OK... I don't mind shutting myself in like usual. But I can't say I feel good about all this!
+Petra:  If your mind is changing, please tell me. I will be waiting as long as I can.
+
+@Battle 
+Bernadetta: Professor, this is bad! The enemy's already here!
+Petra: In strength, the enemies may be winning, but I am having an idea... I have been hearing that my friends are being imprisoned in the western stronghold... We will be taking the stronghold and releasing our allies! Do not let loose your hope.
+Bernadetta: Wh-what? That side's crawling with enemies! We should go east! Way fewer of them over there...
+
+Imperial Soldier: What's this?! You there! Identify yourselves!
+Bernadetta: Ah! They're here. I'm not the one you want. I'm innocent!
+
+Petra: The capturing of the stronghold has been completed. Our friends from the stronghold will soon be aiding us in battle...
+
+Hubert: Well, well, well. This little diplomatic errand to Brigid just got interesting. It seems we have some special guests. Capture the road ahead before they reach it.
+
+Petra: If they are blocking the road, I will not have the ability to be seeing my grandfather! I must be moving quickly!
+
+Catherine: I came here to tell the people of Brigid not to join forces with our enemies. Looks like the Empire had the same idea. Let's block the road and cut them off!
+
+@Boss 
+Hubert: Brigid is a vassal of the Empire. You will not turn them against us!
+
+Catherine: Brigid will not become a puppet of the Empire. The Knights of Seiros won't let it happen!
+
+Catherine: I can't achieve anything more here. Keep fighting! Stop them!
+
+%Petra,Hubert
+Hubert: So, Princess of Brigid. Now we see where your loyalties truly lie. This, after we spared your life in return for naught but your fealty. How ungrateful.
+Petra: Ten years have been passed. The Empire has been changed, just as Brigid has!
+
+%Bernadetta,Hubert
+Bernadetta: Ah! They're here! Help me!
+Hubert: Heheheh. Go on and scream, if it makes you feel better. But if you could die swiftly and without a struggle, I would greatly appreciate it.
+
+%Bernadetta,Catherine
+Bernadetta: Ah! It's Thunder Catherine! We're done for!
+Catherine: Hey, I was going to say that! You didn't let me introduce myself. How rude. Thunderbrand and I will have to teach you some manners.
+
+@End 
+Hubert: Heh. No more I can do here. Troops, remember your orders. I must withdraw.
+
+Petra: It is done! Now, I can be meeting my grandfather. We must be moving with haste!
+Bernadetta: Finally over? Phew! All right, let's get out of here! This isn't exactly, um, the ideal environment for a recluse, you know.
+Petra: I will be speaking with my grandfather. Once he is convinced, I will be returning. Professor, everyone, please be waiting here. Enemies may still be nearby.
+Bernadetta: Got it. We'll wait right here. And if anyone comes, um, the professor will handle it. Right, Professor?
+
+@Battle 
+Petra: My life is endangered! I must keep alive!
+
+Petra: Reinforcements are ready. Let us attack with each other!
+
+Petra: Professor... Please, convey to my grandfather... that... I am without regret...
+Bernadetta: Petra!? Petra no! Don't leave us!
+
+Petra: Grandfather, I cannot be meeting you... My objective was failed.
+
+@End 
+Petra: It is done. Now, I can be meeting my grandfather. We must be moving with haste!
+Bernadetta: Finally over? Phew! All right, let's get out of here! This isn't exactly, um, the ideal environment for a recluse, you know.
+Petra: I will be speaking with my grandfather. Once he is convinced, I will be returning. Professor, everyone, please be waiting here. Enemies may still be nearby.
+Bernadetta: Got it. We'll wait right here. And if anyone comes, um, the professor will handle it! Right, Professor?
+
+Bernadetta: The vegetation around here's pretty different from the kinds we usually see. It may be no good for a recluse, but the forest does have its own charms, doesn't it?
+Byleth: I'm surprised to hear you say that.
+Bernadetta: Didn't you know? I love greenery! Especially carnivorous plants. They're my favorite.
+Byleth: You like plants?
+Bernadetta: Sure do! Especially the carnivorous ones.
+Byleth: Carnivorous plants...
+Bernadetta: Yes! They just sit there, nice and still, and wait for their dinner to come to them! How great is that? And they all look so unique too!
+Byleth: ...
+Bernadetta: What? Don't you think so? Oh, look! Petra's back!
+Petra: Sorry to be making you wait. I have spoken with him.
+Bernadetta: It's been a long time since you've seen your grandfather, huh? How'd it go?
+Petra: As is usual, my grandfather is well and strong. He was saying that he will be supporting us and giving us troops.
+Bernadetta: That's great! So we did it?
+Petra: We did. You have my thanks. Ever since we were losing the war to the Empire, Brigid has been viewed as a vassal state. But with Fódlan at war...it is a chance for Brigid to be changing our situation. Our cooperation today is part of that chance. Brigid is wanting equality with Fódlan. We will be working hard to make this happen.
+Bernadetta: Ah...
+Petra: Bernie? What is it you are feeling?
+Bernadetta: You're amazing, Petra. You went all by yourself to a foreign country... You worked hard for your homeland, and you achieved your goal. I'm always focused on my own problems, and I barely ever get anywhere...
+Petra: That is not the truth. You were fighting hard for me. You came here to be helping everyone. You were not thinking only of yourself. I am never doubting you were working hard. We will be working together to keep moving forward to the future.
+Bernadetta: You...really mean it? That's so nice!
+Petra: And you were telling me about your interest in foreign vegetation. That is one reason I wanted to be bringing you here. Did it make you happy?
+Bernadetta: It did! It was really exciting! I've got so many drawings I need to do before we head back! I might even have enough to make it into a book! Yeah, I should do that! Want to help, Professor?

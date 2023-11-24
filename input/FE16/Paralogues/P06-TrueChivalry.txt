@@ -1,0 +1,73 @@
+@Opening 
+Safety for the people of the Kingdom has been a growing concern, and Fraldarius territory is no exception. Felix has been called upon to help restore order back home.
+
+@Intro 
+Felix: There you are. I was looking for you. I need a favor.
+Byleth: It’s unusual for you to ask for help.
+Felix: Yes. It’s an unusual favor.
+Byleth: You want to spar, right?
+Felix: No. This is more serious.
+Felix: My father sent a messenger. He wants me to return to Fraldarius territory.
+Byleth: Your father?
+Felix: Rodrigue Achille Fraldarius, the highest ranking member of the Faerghus nobility. I believe you've met him. So I heard. But about the favor. You’re familiar with the Tragedy of Duscur, I presume?
+Byleth: I am.
+Byleth: I can’t recall.
+Felix: Warriors from Duscur killed King Lambert of Faerghus.
+Felix: After the king’s death, public order disintegrated. Bandits continue to raid villages across the Kingdom, including those within Fraldarius territory. My father says he needs my help driving the bandits away.
+Byleth: And you want me to join you?
+Felix: Precisely. Good guess. Perhaps I shouldn’t pull you into this... It stems from my family’s failure to secure the region. But honestly, I want to see you in action. I never tire of watching you fight. And it’ll be much more interesting for you than the training ground. Or maybe this task -- driving off bandits -- seems dull to a former mercenary?
+Byleth: I'll join you. 
+Felix: Excellent! While I’m at it, I have a second favor to ask of you. Could you recruit more fighters? I bet there will be willing volunteers, if you’re the one inviting them. I’ll set off on my own and meet up with you there.
+Byleth: Let me think about it. 
+Felix: OK. I can handle a few bandits. If you change your mind about it, tell me soon.
+
+@Battle 
+Felix: Hmph. Struggling to defeat some bandits? What a pathetic old man my father is. Some villagers are trapped. Let’s help them escape.
+Rodrigue: Felix, my son. You’ve finally brought reinforcements!
+
+Rodrigue: Everything will be fine! Good people of this hamlet, escape while you can!
+
+Rodrigue: The stronghold is ours. No more bandits should come crawling out of here.
+
+Felix: Weakling. That should put a stop to their reinforcements.
+
+@Battle-Talk 
+%Byleth,Rodrigue
+Rodrigue: So it's you! From the Officers Academy. Thank you for taking such good care of my son. It pains me to trouble you, but I humbly request your assistance in helping secure the villagers' safe escape!
+
+%Felix,Rodrigue
+Felix: Pathetic. Struggling to defeat some ragtag bandits.
+Rodrigue: Felix... You may know this already, but no matter how many you kill, more always appear. Anywhere in the Kingdom these days you can see the same kind of scenes. His Majesty, the late king, would despair to see it.
+Felix: A dead man doesn’t despair. Besides, let’s focus on the living.
+
+%Dimitri,Rodrigue
+Rodrigue: Oh, Prince Dimitri is here to help! I am humbled, Your Highness, and so sorry to trouble you.
+Dimitri: No, it is fine. As a man of royal birth, this is the obvious course. However, it does not exactly seem like they are remnants of Miklan's faction.
+Rodrigue: Indeed. Nothing but common bandits, and yet... Ruffians like that have recently surged in number.
+Dimitri: I am aware. For now, let us focus on saving the villagers.
+
+@Battle 
+Rodrigue: Outmatched by a damn bandit...
+Felix: Come now. Stop living in denial, old man.
+
+Rodrigue: I cannot die in this place... His Majesty would want me to keep going...
+Felix: My foolish father... He's in trouble.
+
+Rodrigue: Everyone, I'm sorry. It's over for me...
+
+Villager: Thank you so much! Please, help my neighbors too.
+
+Rodrigue: That should do it. We’ve chased those ruffians away for good.
+Villager: Thank you so much for your assistance! Please accept this small gift as thanks.
+
+@End 
+Rodrigue:  We are grateful for your help. I doubt those bandits will stop anytime soon. But at least this village is safe. This village was important to the late king. If we hadn’t saved it, I wouldn’t have been able to face His Majesty.
+Felix: How foolish.
+Rodrigue: Pardon?
+Felix: We were protecting your subjects, not your ego. I don’t give a damn as to whether you can bring yourself to face a dead king.
+Rodrigue: I will not tolerate such language from you.
+Felix: I came here to hone my blade, and to save innocent people. I suppose if I had died, you would say the same thing you did after Glenn’s death. “He died like a true knight.”
+Rodrigue: ...
+Felix: I have nothing more to say. I’m going back.
+
+Rodrigue: I'm sorry you had to see that. He's been that way for four years now. Of course, I understand his sentiment, to some extent. It all comes down to... Well, a difference of opinion.
