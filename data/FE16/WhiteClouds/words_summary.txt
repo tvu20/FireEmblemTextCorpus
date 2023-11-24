@@ -1,0 +1,36 @@
+Game: FE16/WhiteClouds
+Number of chapters: 13
+Words per chapter: [12807, 17344, 2117, 6261, 4435, 6815, 7065, 7972, 5571, 7353, 5706, 7471, 7409]
+Average number of words per chapter: 7563.538461538462
+Number of words: 98326
+Number of unique words: 5806
+Number of words that only appear once: 2357
+Sample of words used only once: ['unlawful', 'attempted', 'identified', 'theater', 'dishonoring', 'redemption', 'willingly', 'atonement', 'arguing', 'fellow', 'concludes', 'opposed', 'centrally', 'strip', 'exposure', 'function', 'efficiently', 'smaller', 'entities', 'extends', 'rebelled', 'explaining', 'execute', 'harsh', 'governing', 'situated', 'riding', 'hire', 'stray', 'isolated', 'worship', 'weaken', 'interacting', 'exists', 'hired', 'delivered', 'swine', 'glowed', 'assent', 'defeating', 'artifact', 'mankind', 'henceforth', 'dubbed', 'assess', 'tale', 'entangled', 'ca', 'differs', 'frightens']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.165042816752436
+
+Number of words (excluding stopwords): 48049
+Most common words (excluding stopwords): [('professor', 687), ('im', 556), ('well', 449), ('know', 375), ('dont', 370), ('like', 350), ('time', 326), ('must', 318), ('would', 316), ('one', 268), ('right', 267), ('youre', 248), ('us', 236), ('oh', 235), ('thats', 229), ('think', 228), ('see', 224), ('even', 215), ('something', 208), ('really', 195), ('get', 187), ('goddess', 183), ('could', 183), ('ill', 179), ('cant', 178), ('battle', 175), ('much', 173), ('monastery', 172), ('students', 156), ('ive', 155), ('way', 154), ('take', 153), ('knights', 151), ('back', 151), ('please', 150), ('come', 149), ('say', 148), ('may', 143), ('still', 142), ('church', 140), ('theres', 138), ('lets', 137), ('never', 135), ('make', 134), ('someone', 131), ('sure', 130), ('need', 130), ('house', 129), ('teach', 124), ('good', 123)]
+
+Longest sentence length: 32
+Average sentence length: 7.264675439893538
+Longest sentence: When I learned that my mother was the daughter of an Alliance noble, I was so surprised I thought the whole world was pulling a fast one on me for a week.
+
+length,words,unique words
+1,4961,15
+2,18083,52
+3,20549,207
+4,21093,638
+5,11143,787
+6,8067,962
+7,5964,964
+8,3434,816
+9,2862,584
+10,1220,382
+11,575,220
+12,180,100
+13,136,55
+14,51,19
+15,4,3
+16,4,2

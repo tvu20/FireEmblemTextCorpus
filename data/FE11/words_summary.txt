@@ -1,0 +1,36 @@
+Game: FE11
+Number of chapters: 34
+Words per chapter: [887, 703, 495, 536, 858, 589, 330, 713, 719, 1206, 775, 571, 905, 413, 738, 667, 356, 1450, 603, 307, 1033, 688, 1472, 732, 726, 373, 570, 726, 755, 573, 412, 353, 546, 617]
+Average number of words per chapter: 688.1470588235294
+Number of words: 23397
+Number of unique words: 3106
+Number of words that only appear once: 1521
+Sample of words used only once: ['avail', 'opportunity', 'cowards', 'stole', 'dear', 'wife', 'deepest', 'sympathies', 'bloodshed', 'elses', 'lips', 'absurdly', 'sincere', 'extra', 'slinger', 'ending', 'usher', 'era', 'priceless', 'mm', 'despoilers', 'consume', 'kin', 'abandoned', 'trance', 'awaken', 'mmm', 'woke', 'nightmare', 'allowed', 'jokin', 'tryin', 'lighten', 'mood', 'just–', 'meanie', 'kiddo', 'dreams', 'scary', 'kid', 'locate', 'pressing', 'finishing', 'exposed', 'invade', 'extol', 'crippled', 'stamp', 'starts', 'spreading']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.084583493610292
+
+Number of words (excluding stopwords): 11987
+Most common words (excluding stopwords): [('marth', 161), ('prince', 112), ('well', 97), ('one', 88), ('must', 87), ('us', 86), ('sire', 82), ('would', 73), ('im', 70), ('know', 69), ('right', 67), ('princess', 65), ('fight', 62), ('altea', 56), ('take', 55), ('need', 55), ('dolhr', 54), ('come', 54), ('dont', 52), ('say', 50), ('see', 50), ('enemy', 46), ('ive', 44), ('yes', 43), ('let', 42), ('gharnef', 41), ('good', 41), ('back', 41), ('youre', 41), ('sister', 39), ('find', 39), ('ha', 39), ('go', 38), ('last', 37), ('castle', 37), ('nyna', 37), ('like', 37), ('grust', 37), ('time', 36), ('oh', 36), ('soldiers', 36), ('kingdom', 35), ('could', 35), ('long', 35), ('name', 34), ('way', 34), ('cannot', 34), ('league', 33), ('think', 33), ('father', 32)]
+
+Longest sentence length: 40
+Average sentence length: 6.730417381360778
+Longest sentence: Nyna could not fathom why such a fiercely loyal knight would turn to treachery, but with her other knights calling for Horace’s blood, she had no choice but to give in and ask Marth to bring the traitor to justice.
+
+length,words,unique words
+1,1074,12
+2,3901,52
+3,5368,190
+4,5132,501
+5,3052,554
+6,2080,577
+7,1277,482
+8,773,319
+9,419,215
+10,197,118
+11,70,50
+12,30,22
+13,15,8
+14,6,3
+15,2,2
+16,1,1

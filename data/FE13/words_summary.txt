@@ -1,0 +1,37 @@
+Game: FE13
+Number of chapters: 28
+Words per chapter: [906, 567, 846, 1886, 372, 561, 1870, 3366, 902, 3034, 1256, 929, 1466, 1342, 2052, 1202, 1434, 1270, 1866, 1469, 1060, 2238, 1208, 165, 4739, 1779, 1454, 1293]
+Average number of words per chapter: 1519.0
+Number of words: 42532
+Number of unique words: 4266
+Number of words that only appear once: 2087
+Sample of words used only once: ['homeless', 'principles', 'mountains', 'carriages', 'ravine', 'barbarous', 'chances', 'suspected', 'endeavor', 'dignified', 'comb', 'trinkets', 'spoils', 'scurry', 'mice', 'insubordination', 'unwilling', 'dismissed', 'mustafa', 'hrrggh', 'smuggling', 'pile', 'bid', 'hellhole', 'allowing', 'regain', 'failures', 'haunt', 'unworthy', 'charisma', 'punchin', 'echo', 'unbreakable', 'class', 'session', 'haw', 'falter', 'outrage', 'passions', 'singed', 'modest', 'dancer', 'moves', 'cracking', 'skulls', 'knack', 'guiding', 'tall', 'licking', 'dethrone']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.042085958807486
+
+Number of words (excluding stopwords): 21510
+Most common words (excluding stopwords): [('robin', 216), ('know', 213), ('im', 201), ('chrom', 181), ('well', 179), ('would', 172), ('us', 169), ('one', 161), ('yes', 153), ('right', 149), ('dont', 129), ('ha', 126), ('youre', 119), ('oh', 111), ('time', 110), ('see', 106), ('must', 103), ('like', 98), ('could', 97), ('ill', 92), ('come', 85), ('good', 80), ('never', 78), ('back', 78), ('say', 75), ('lucina', 74), ('perhaps', 73), ('life', 73), ('people', 73), ('way', 72), ('ive', 72), ('gods', 68), ('think', 67), ('thats', 67), ('even', 66), ('take', 63), ('need', 62), ('let', 62), ('might', 61), ('cant', 61), ('give', 59), ('father', 59), ('course', 57), ('mean', 56), ('much', 56), ('please', 55), ('still', 55), ('believe', 54), ('make', 54), ('future', 54)]
+
+Longest sentence length: 26
+Average sentence length: 5.337986041874377
+Longest sentence: So, begging your pardons, but perhaps it is time to cut this long story short Walhart has conquered our continent and now seeks to conquer yours.
+
+length,words,unique words
+1,2130,19
+2,7425,64
+3,9602,232
+4,9294,614
+5,5522,747
+6,3522,741
+7,2443,689
+8,1245,460
+9,785,354
+10,317,171
+11,136,95
+12,56,42
+13,30,23
+14,20,10
+15,3,3
+16,1,1
+19,1,1

@@ -1,0 +1,36 @@
+Game: FE16/VerdantWind
+Number of chapters: 10
+Words per chapter: [3914, 4041, 3401, 2394, 2723, 4564, 4409, 3367, 3304, 4598]
+Average number of words per chapter: 3671.5
+Number of words: 36715
+Number of unique words: 3686
+Number of words that only appear once: 1768
+Sample of words used only once: ['pursued', 'collapsed', 'pierced', 'spears', 'deserved', 'understandable', 'nights', 'shaken', 'brutal', 'milk', 'treat', 'awake', 'muster', 'indignation', 'notice', 'wearing', 'masks', '18', 'quelled', 'officials', 'replacements', 'clothing', 'imprisoned', 'performed', 'horrible', 'rituals', 'deemed', 'failures', 'possess', 'remind', 'abducted', 'extracted', 'eerie', 'uncover', 'emerge', 'maintain', 'fairytale', 'stamina', 'soldier', 'road', 'strewn', 'hardship', 'besides', 'tag', 'challenging', 'development', 'sadly', 'logic', 'vexing', 'regards']
+Longest dictionary word: responsibilities
+Longest dictionary word length: 16
+Average word length: 4.219419855644832
+
+Number of words (excluding stopwords): 18402
+Most common words (excluding stopwords): [('im', 160), ('well', 154), ('like', 145), ('empire', 142), ('dont', 138), ('us', 136), ('know', 128), ('professor', 116), ('right', 108), ('time', 106), ('would', 103), ('thats', 101), ('rhea', 100), ('battle', 98), ('even', 97), ('get', 97), ('alliance', 96), ('must', 94), ('think', 92), ('imperial', 88), ('fódlan', 88), ('see', 78), ('one', 78), ('ill', 75), ('back', 75), ('youre', 74), ('still', 73), ('army', 71), ('lets', 70), ('cant', 70), ('claude', 68), ('fight', 67), ('really', 64), ('make', 63), ('people', 63), ('ive', 61), ('could', 61), ('take', 60), ('come', 58), ('nemesis', 58), ('sure', 57), ('long', 57), ('war', 57), ('lady', 55), ('years', 54), ('everyone', 54), ('much', 53), ('never', 53), ('got', 50), ('end', 48)]
+
+Longest sentence length: 36
+Average sentence length: 7.977623289159244
+Longest sentence: The curtain is rising on a conflict between the three armies, which will come to be known as the Battle at Gronder, held on the same plains that witnessed the Battle of the Eagle and Lion.
+
+length,words,unique words
+1,1515,5
+2,6763,43
+3,7548,154
+4,7947,469
+5,4000,562
+6,3386,627
+7,2378,621
+8,1496,471
+9,892,328
+10,461,222
+11,192,108
+12,69,47
+13,22,16
+14,43,10
+15,1,1
+16,2,2

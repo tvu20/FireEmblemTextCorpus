@@ -1,0 +1,35 @@
+Game: FE3/BookTwo
+Number of chapters: 25
+Words per chapter: [267, 900, 144, 1270, 718, 694, 1004, 1298, 950, 717, 735, 980, 669, 750, 194, 791, 810, 596, 1393, 473, 801, 2003, 719, 653, 571]
+Average number of words per chapter: 804.0
+Number of words: 20100
+Number of unique words: 2604
+Number of words that only appear once: 1227
+Sample of words used only once: ['tactics', 'waited', 'swift', 'battles', 'captical', 'resounded', 'travelled', 'remnants', 'timing', 'original', 'lure', 'betrays', 'female', 'hostage', 'loyalty', 'views', 'reality', 'unknown', 'robed', 'difficultly', 'starlord', 'nearby', 'spies', 'neighboring', 'rescued', 'anger', 'hearted', 'fit', 'gentle', 'raise', 'reclaimed', 'regain', 'placing', 'flowed', 'shimmering', 'gently', 'horses', 'pegasi', 'fallen', 'continue', 'meaning', 'explanation', 'confirm', 'meteor', 'stil', 'capturing', 'chain', 'events', 'target', 'darkspheres']
+Longest dictionary word: underestimating
+Longest dictionary word length: 15
+Average word length: 4.267512437810946
+
+Number of words (excluding stopwords): 10385
+Most common words (excluding stopwords): [('marth', 131), ('prince', 85), ('dont', 84), ('please', 81), ('princess', 72), ('hardin', 70), ('im', 63), ('like', 62), ('see', 60), ('well', 59), ('must', 57), ('altea', 54), ('archanea', 53), ('dragons', 52), ('youre', 51), ('us', 50), ('even', 50), ('really', 47), ('army', 46), ('lord', 46), ('nyna', 46), ('would', 43), ('want', 43), ('go', 43), ('take', 42), ('gotoh', 41), ('dragon', 40), ('thats', 40), ('country', 39), ('one', 39), ('oh', 39), ('know', 38), ('come', 38), ('general', 37), ('king', 35), ('gharnef', 35), ('however', 35), ('shield', 34), ('lang', 34), ('could', 33), ('fight', 33), ('earth', 32), ('highness', 32), ('time', 32), ('still', 30), ('finally', 30), ('understand', 30), ('already', 29), ('help', 29), ('going', 29)]
+
+Longest sentence length: 34
+Average sentence length: 6.689086712825585
+Longest sentence: Lord Gotoh told me that this world has long been guarded by five orbs of mysterious arcane power, and that if even one of them is lost, the world will fall into irreparable ruin.
+
+length,words,unique words
+1,823,8
+2,3357,45
+3,4144,151
+4,4337,390
+5,2416,447
+6,1950,458
+7,1373,397
+8,868,288
+9,412,204
+10,276,117
+11,98,61
+12,29,24
+13,8,7
+14,8,6
+15,1,1

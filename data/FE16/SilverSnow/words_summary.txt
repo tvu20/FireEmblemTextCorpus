@@ -1,0 +1,36 @@
+Game: FE16/SilverSnow
+Number of chapters: 9
+Words per chapter: [3916, 2862, 2719, 2681, 1699, 3489, 3530, 1148, 3210]
+Average number of words per chapter: 2806.0
+Number of words: 25254
+Number of unique words: 2990
+Number of words that only appear once: 1481
+Sample of words used only once: ['travels', 'puny', 'experienced', 'renowned', 'assail', 'touching', 'scorching', 'professors', 'sides', 'pleasantries', 'son', 'turning', 'whelp', 'gray', 'predicament', 'objective', 'scrap', 'places', 'involving', 'unscathed', 'described', 'wrap', 'warn', 'treat', 'expendable', 'witness', 'reliable', 'blaze', 'indulge', 'overly', 'optimistic', 'brace', 'lie', 'routes', 'furthermore', 'precisely', 'tomfoolery', 'referring', 'dared', 'wonders', 'cease', 'propose', 'exchange', 'intending', 'closest', 'prefer', 'distraction', 'maintain', 'stability', 'bows']
+Longest dictionary word: counteroffensive
+Longest dictionary word length: 16
+Average word length: 4.180763443414905
+
+Number of words (excluding stopwords): 12419
+Most common words (excluding stopwords): [('professor', 128), ('must', 104), ('well', 104), ('empire', 103), ('im', 103), ('rhea', 90), ('like', 89), ('us', 85), ('know', 84), ('dont', 79), ('one', 72), ('time', 71), ('back', 70), ('fódlan', 65), ('think', 61), ('battle', 60), ('imperial', 58), ('right', 56), ('would', 55), ('army', 55), ('see', 54), ('lady', 52), ('still', 52), ('thats', 51), ('sure', 49), ('get', 49), ('years', 47), ('war', 47), ('even', 44), ('long', 43), ('people', 43), ('alliance', 43), ('make', 43), ('really', 43), ('fight', 41), ('ill', 39), ('kingdom', 39), ('take', 39), ('never', 38), ('way', 38), ('capital', 38), ('five', 37), ('ive', 37), ('house', 37), ('much', 36), ('yes', 36), ('youre', 35), ('could', 35), ('hope', 35), ('let', 35)]
+
+Longest sentence length: 26
+Average sentence length: 7.717125382262997
+Longest sentence: After seizing the Great Bridge of Myrddin, the resistance army starts making preparations to invade Imperial territory, when a surprising piece of information comes to light.
+
+length,words,unique words
+1,1117,3
+2,4779,43
+3,5227,136
+4,5460,395
+5,2714,491
+6,2158,508
+7,1616,510
+8,987,365
+9,655,244
+10,324,163
+11,139,84
+12,43,32
+13,15,11
+14,17,3
+15,2,1
+16,1,1

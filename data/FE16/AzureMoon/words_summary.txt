@@ -1,0 +1,37 @@
+Game: FE16/AzureMoon
+Number of chapters: 10
+Words per chapter: [3665, 5142, 2511, 3755, 777, 3922, 4629, 4889, 3900, 5043]
+Average number of words per chapter: 3823.3
+Number of words: 38233
+Number of unique words: 3641
+Number of words that only appear once: 1706
+Sample of words used only once: ['insightful', 'cloth', 'fond', 'risks', 'recapture', 'riskier', 'card', 'gamble', 'liking', 'bow', 'failnaught', 'joke', 'conference', 'officially', 'horses', 'dreams', 'fruition', 'boat', 'regard', 'oops', 'captive', 'kingliness', 'mentioning', 'briefly', 'spoke', 'drove', 'married', 'including', 'scandal', 'stepsiblings', 'heartbreaking', 'helps', 'cherished', 'girlfriend', 'sleeve', 'cloud', 'confirmed', 'via', 'channels', 'advise', 'drop', 'amid', 'outweighs', 'mobilizing', 'presume', 'buy', 'bluntly', 'slight', 'undone', 'direction']
+Longest dictionary word: misunderstandings
+Longest dictionary word length: 17
+Average word length: 4.1580833311537155
+
+Number of words (excluding stopwords): 18475
+Most common words (excluding stopwords): [('im', 159), ('well', 151), ('empire', 149), ('like', 138), ('would', 134), ('professor', 127), ('time', 123), ('kingdom', 120), ('know', 119), ('dont', 118), ('must', 116), ('us', 106), ('alliance', 102), ('back', 100), ('right', 99), ('think', 92), ('one', 91), ('even', 90), ('imperial', 83), ('highness', 81), ('take', 79), ('battle', 77), ('get', 77), ('youre', 76), ('see', 75), ('thats', 74), ('capital', 73), ('years', 71), ('could', 68), ('still', 67), ('house', 66), ('war', 65), ('army', 64), ('way', 63), ('cant', 63), ('really', 61), ('go', 61), ('people', 61), ('much', 60), ('ill', 59), ('make', 56), ('good', 55), ('claude', 55), ('lets', 55), ('hes', 53), ('kill', 53), ('place', 53), ('come', 52), ('ago', 51), ('never', 49)]
+
+Longest sentence length: 34
+Average sentence length: 7.623480167430736
+Longest sentence: With Fódlan united as the Holy Kingdom of Faerghus, Archbishop Rhea, still weak from her imprisonment, stepped down from her position, and the Church of Seiros began to take the needed steps to reorganize.
+
+length,words,unique words
+1,1805,6
+2,7169,43
+3,8011,163
+4,8300,453
+5,4050,577
+6,3145,612
+7,2436,621
+8,1708,461
+9,893,329
+10,411,210
+11,175,94
+12,50,36
+13,36,27
+14,40,6
+15,1,1
+16,2,1
+17,1,1

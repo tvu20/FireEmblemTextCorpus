@@ -1,0 +1,36 @@
+Game: FE7
+Number of chapters: 46
+Words per chapter: [3362, 1353, 847, 2885, 1350, 829, 2096, 2203, 1327, 2095, 1692, 1621, 2413, 4049, 405, 1154, 1921, 2918, 1894, 1661, 3962, 2284, 590, 1647, 613, 2302, 1160, 951, 2296, 2181, 1611, 2032, 2719, 1633, 2109, 1450, 1848, 3024, 895, 1253, 783, 1133, 1919, 1550, 1852, 293]
+Average number of words per chapter: 1786.195652173913
+Number of words: 82165
+Number of unique words: 5336
+Number of words that only appear once: 2221
+Sample of words used only once: ['calmed', 'suspicious', 'goodnight', 'trusts', 'refer', 'labors', 'fabricated', 'existed', 'unsettling', 'smacked', 'bleak', 'dreadful', 'prickly', 'rubbed', 'heresy', 'natures', 'basic', 'thousands', 'hunger', 'longevity', 'slay', 'traditional', 'stems', 'rivals', 'intriguing', 'introductions', 'hails', 'prominent', 'representatives', 'claimed', 'artifact', 'countrymen', 'periods', 'plaza', 'rides', 'enhances', 'whomever', 'closest', 'envision', 'destinies', 'haunts', 'weight', 'overlook', 'pause', 'rusty', 'hostile', 'barriers', 'crumbled', 'dust', 'everybody']
+Longest dictionary word: responsibilities
+Longest dictionary word length: 16
+Average word length: 4.065453660317654
+
+Number of words (excluding stopwords): 42197
+Most common words (excluding stopwords): [('im', 486), ('lord', 452), ('youre', 376), ('eliwood', 351), ('well', 346), ('dont', 297), ('right', 289), ('us', 272), ('must', 263), ('know', 261), ('see', 249), ('yes', 245), ('like', 242), ('go', 235), ('one', 230), ('ha', 230), ('thats', 223), ('would', 214), ('hector', 213), ('ill', 211), ('marquess', 193), ('come', 191), ('please', 187), ('ive', 183), ('time', 177), ('mark', 173), ('let', 171), ('take', 170), ('oh', 170), ('get', 160), ('cant', 159), ('ah', 156), ('want', 154), ('lets', 152), ('going', 151), ('father', 149), ('nergal', 145), ('ninian', 145), ('something', 143), ('think', 142), ('need', 142), ('help', 141), ('black', 134), ('good', 129), ('never', 129), ('fang', 127), ('brother', 127), ('nothing', 126), ('way', 124), ('lyndis', 122)]
+
+Longest sentence length: 27
+Average sentence length: 4.705351133049136
+Longest sentence: My child, who through me carries the noble blood of Etruria in his veins, will in ten days be named as the right-born heir to the throne.
+
+length,words,unique words
+1,3755,21
+2,15247,71
+3,17754,249
+4,18502,679
+5,9567,844
+6,7117,927
+7,4821,864
+8,2610,697
+9,1549,446
+10,662,288
+11,334,134
+12,134,60
+13,76,40
+14,32,11
+15,4,4
+16,1,1

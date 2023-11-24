@@ -1,0 +1,38 @@
+Game: FE15
+Number of chapters: 9
+Words per chapter: [4119, 6209, 6547, 5477, 2489, 5927, 10026, 6243, 1214]
+Average number of words per chapter: 5361.222222222223
+Number of words: 48251
+Number of unique words: 4608
+Number of words that only appear once: 2233
+Sample of words used only once: ['haul', 'climb', 'crossed', 'loose', 'prone', 'additionally', 'mountains', 'following', 'ringing', 'masks', 'detour', 'guarantee', 'pure', 'imitating', '“forces', 'planned', 'dismissing', 'brook', 'delay', 'cleverest', 'watchful', 'vigilant', 'pitiful', 'insects', 'accompanying', 'c', 'crumbling', 'joking', 'grunt', 'unhurt', 'cloud', 'rebuttal', 'location', 'shady', 'characters', 'decent', 'oof', 'unstable', 'rock', 'slide', 'scuse', 'peddler', 'bito', 'scrapa', 'occasionally', 'deliveries', '“milas', 'turnwheel”', 'figure', 'lonesome']
+Longest dictionary word: incomprehensible
+Longest dictionary word length: 16
+Average word length: 4.013388323558061
+
+Number of words (excluding stopwords): 24776
+Most common words (excluding stopwords): [('alm', 246), ('im', 235), ('well', 235), ('know', 205), ('youre', 193), ('dont', 190), ('one', 158), ('celica', 150), ('right', 148), ('like', 141), ('come', 138), ('us', 133), ('would', 132), ('oh', 131), ('see', 129), ('must', 127), ('ill', 122), ('thats', 115), ('duma', 114), ('heh', 105), ('go', 104), ('take', 100), ('please', 98), ('zofia', 97), ('mila', 95), ('say', 92), ('ive', 88), ('time', 87), ('sir', 87), ('cant', 86), ('need', 86), ('deliverance', 85), ('ha', 83), ('way', 82), ('could', 82), ('never', 82), ('think', 80), ('man', 80), ('hes', 79), ('even', 78), ('yes', 77), ('get', 77), ('back', 74), ('youve', 73), ('going', 71), ('sure', 69), ('much', 68), ('good', 68), ('make', 68), ('let', 67)]
+
+Longest sentence length: 53
+Average sentence length: 5.986666666666666
+Longest sentence: My men and I, loyal knights in service to His Majesty King Lima IV— may the powers bless him and his name until the end of days— hereby command you to lead us to your miserable line of hovels, where you shall have the honor of dining us and otherwise providing all comforts.
+
+length,words,unique words
+1,2365,17
+2,8615,59
+3,11029,238
+4,10846,670
+5,5902,810
+6,3957,854
+7,2607,747
+8,1526,518
+9,693,331
+10,334,176
+11,281,113
+12,66,52
+13,23,17
+14,2,2
+15,2,1
+16,1,1
+20,1,1
+22,1,1

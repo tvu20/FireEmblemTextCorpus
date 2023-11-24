@@ -1,0 +1,34 @@
+Game: FE2
+Number of chapters: 5
+Words per chapter: [1126, 194, 677, 778, 964]
+Average number of words per chapter: 747.8
+Number of words: 3739
+Number of unique words: 1073
+Number of words that only appear once: 607
+Sample of words used only once: ['savior', 'majestys', 'al', 'okay', 'followed', 'accidentally', 'haha', 'folly', 'thatll', 'ease', 'mind', 'critter', 'expect', 'named', 'lose', 'climb', 'knight', 'fought', 'far', 'empires', 'ended', 'hear', 'interfere', 'surrender', 'courageously', 'disgraced', 'clear', 'troops', 'engage', 'jeromes', 'arise', 'medusa', 'fulfill', 'contract', 'erred', 'gwehehe', 'defiled', 'foul', 'swamp', 'repel', 'ordered', 'realm', 'expected', 'mistake', 'entrusting', 'figured', 'son', 'guh', 'falchion', 'holy']
+Longest dictionary word: understandable
+Longest dictionary word length: 14
+Average word length: 4.139342070072212
+
+Number of words (excluding stopwords): 2099
+Most common words (excluding stopwords): [('alm', 29), ('well', 21), ('go', 19), ('ill', 18), ('im', 18), ('dont', 16), ('rigel', 14), ('must', 13), ('zofia', 13), ('mila', 13), ('celica', 13), ('desaix', 13), ('milas', 12), ('please', 12), ('lord', 12), ('may', 12), ('temple', 11), ('one', 11), ('dumas', 11), ('want', 11), ('thats', 11), ('save', 10), ('general', 10), ('floodgate', 9), ('right', 9), ('rudolf', 9), ('duma', 9), ('help', 9), ('royal', 9), ('eh', 9), ('youve', 9), ('youre', 9), ('mycen', 9), ('could', 8), ('lady', 8), ('king', 8), ('use', 8), ('open', 8), ('wont', 8), ('way', 8), ('come', 8), ('us', 8), ('zofias', 8), ('north', 7), ('thank', 7), ('oh', 7), ('kill', 7), ('guys', 7), ('theres', 7), ('sword', 7)]
+
+Longest sentence length: 27
+Average sentence length: 5.745788667687596
+Longest sentence: His Majesty Rudolf once told me, "Zeke, if you find the one with a cross-shaped birthmark on his right arm, you must dedicate yourself to that person."
+
+length,words,unique words
+1,159,7
+2,617,36
+3,835,97
+4,822,236
+5,468,193
+6,374,191
+7,226,147
+8,117,80
+9,66,44
+10,26,18
+11,17,14
+12,9,7
+13,2,2
+14,1,1

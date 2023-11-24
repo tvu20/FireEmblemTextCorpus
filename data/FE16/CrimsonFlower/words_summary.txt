@@ -1,0 +1,36 @@
+Game: FE16/CrimsonFlower
+Number of chapters: 7
+Words per chapter: [2033, 4216, 4662, 4499, 4777, 3643, 5366]
+Average number of words per chapter: 4170.857142857143
+Number of words: 29196
+Number of unique words: 3267
+Number of words that only appear once: 1603
+Sample of words used only once: ['depths', 'tainting', 'stood', 'needed', 'injury', 'damned', 'insurgency', 'consigned', 'walked', 'facing', 'lifeblood', 'spills', 'ancestor', 'hresvelgs', 'adrestias', 'supported', 'scion', 'advise', 'presumptions', 'gyhh', 'luxury', 'stepmother', 'obsession', 'appalling', 'delusion', 'joyful', 'benevolent', 'fires', 'el', 'mattered', 'nine', 'weary', 'watching', 'insist', 'loathsome', 'mothers', 'plays', 'magnificently', 'boost', 'shows', 'skill', 'devising', 'bewildered', 'pursue', 'confront', 'thirst', 'imprisoned', 'result', 'crying', 'ebb']
+Longest dictionary word: indiscriminately
+Longest dictionary word length: 16
+Average word length: 4.214036169338265
+
+Number of words (excluding stopwords): 14284
+Most common words (excluding stopwords): [('im', 155), ('must', 132), ('professor', 118), ('well', 104), ('dont', 87), ('kingdom', 86), ('alliance', 86), ('would', 85), ('fight', 78), ('time', 78), ('battle', 77), ('know', 76), ('empire', 74), ('one', 71), ('us', 69), ('like', 69), ('youre', 68), ('army', 67), ('edelgard', 65), ('claude', 61), ('church', 60), ('right', 58), ('back', 57), ('even', 56), ('take', 56), ('rhea', 55), ('still', 55), ('seiros', 55), ('ill', 55), ('way', 54), ('imperial', 53), ('cant', 53), ('see', 51), ('war', 51), ('ive', 48), ('come', 48), ('capital', 47), ('end', 46), ('fighting', 46), ('years', 46), ('never', 46), ('yes', 45), ('really', 45), ('could', 44), ('think', 44), ('fhirdiad', 42), ('side', 42), ('get', 40), ('go', 40), ('lady', 40)]
+
+Longest sentence length: 32
+Average sentence length: 7.622843700993204
+Longest sentence: The newly crowned king of the Holy Kingdom of Faerghus, Dimitri, has declared fealty to the Church of Seiros and is raising an army in preparation for all-out war with the Empire.
+
+length,words,unique words
+1,1386,4
+2,5354,43
+3,6040,152
+4,6116,426
+5,3136,528
+6,2555,541
+7,1928,533
+8,1299,421
+9,771,286
+10,362,181
+11,156,92
+12,47,35
+13,29,19
+14,15,4
+15,1,1
+16,1,1

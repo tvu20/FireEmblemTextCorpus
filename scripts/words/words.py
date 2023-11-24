@@ -13,13 +13,16 @@
 # most common phrases (3-6 grams)
 # average sentence length
 # longest sentence by number of words
+# number of words/unique words based on word length
 
 import os
 import string
 import json
+import sys
 from collections import Counter
 
-game = "FE9"
+game = sys.argv[1]
+# game = "FE2"
 
 transcript_path = os.path.join(os.getcwd(), "data", game, "full_transcript_cleaned.txt")
 
@@ -78,8 +81,9 @@ print("Sample of words used only once:", [x[0] for x in words_least_common])
 
 
 sortedwords = sorted(words, key=len)
-print("Longest word: %s" % (sortedwords[-5:],))
-print("Longest word length: %d" % (len(sortedwords[-1])))
+print("Longest dictionary word: %s" % (sortedwords[-1],))
+# print("Longest dictionary word: %s" % (sortedwords[-5:],))
+print("Longest dictionary word length: %d" % (len(sortedwords[-1])))
 
 avg_word_length = sum(map(len, words))/len(words)
 print("Average word length: " + str(avg_word_length))

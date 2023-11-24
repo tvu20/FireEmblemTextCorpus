@@ -1,0 +1,36 @@
+Game: FE6
+Number of chapters: 38
+Words per chapter: [1298, 2764, 1025, 761, 782, 780, 1464, 1637, 2027, 1244, 822, 2289, 492, 1479, 2266, 1458, 858, 579, 1080, 677, 519, 2642, 3647, 1231, 2159, 1373, 979, 1320, 1039, 780, 1075, 989, 1393, 1366, 1679, 2957, 1317, 1067]
+Average number of words per chapter: 1403.0
+Number of words: 53314
+Number of unique words: 3648
+Number of words that only appear once: 1429
+Sample of words used only once: ['awright', 'wars', 'clouds', 'playing', 'games', 'confident', 'garret', 'acquaintance', 'milady', 'hush', 'stelimine', 'bodyguard', 'snuck', 'security', 'footsteps', 'interesting', 'mention', 'patrolling', 'spying', 'intruder', 'aw', 'overheard', 'spring', 'courtyard', 'grave', 'field', 'furious', 'accepting', 'ought', 'greeting', 'rear', 'hoo', 'throats', 'pilfer', 'securitys', 'oops', 'whoops', 'ulterior', 'motive', 'route', 'cheers', 'chieftains', 'tales', 'separated', 'deserves', 'earth', 'sky', 'anarchy', 'surrrender', 'loyalist']
+Longest dictionary word: incomprehensible
+Longest dictionary word length: 16
+Average word length: 4.1307724049968115
+
+Number of words (excluding stopwords): 26381
+Most common words (excluding stopwords): [('roy', 306), ('yes', 302), ('bern', 261), ('well', 225), ('us', 223), ('right', 211), ('must', 198), ('would', 192), ('lord', 191), ('army', 183), ('im', 178), ('dragons', 175), ('dont', 166), ('know', 156), ('dragon', 155), ('see', 153), ('lycia', 138), ('one', 135), ('castle', 133), ('general', 130), ('zephiel', 125), ('like', 125), ('youre', 124), ('fight', 123), ('people', 123), ('go', 122), ('king', 121), ('take', 121), ('please', 120), ('time', 117), ('etruria', 115), ('want', 114), ('dark', 106), ('thank', 102), ('princess', 100), ('get', 98), ('going', 94), ('good', 88), ('oh', 87), ('father', 86), ('even', 85), ('berns', 82), ('may', 82), ('still', 80), ('thats', 80), ('said', 80), ('master', 79), ('alliance', 78), ('could', 78), ('help', 78)]
+
+Longest sentence length: 55
+Average sentence length: 5.797903070503905
+Longest sentence: These smaller lands are the Lycian League, whose numerous territories are independently ruled by a number of marquesses that are bound by a vow of allegiance; Ilia, where the people arduously till the frozen soil and many become mercenaries to earn money to survive; and Sacae, where various clans ride through the plains on horseback.
+
+length,words,unique words
+1,2306,16
+2,9346,49
+3,11781,177
+4,11925,489
+5,5848,574
+6,4796,619
+7,3618,614
+8,1851,480
+9,1012,294
+10,498,182
+11,192,83
+12,65,42
+13,31,18
+14,24,6
+15,18,3
+16,3,2

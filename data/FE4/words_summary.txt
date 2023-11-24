@@ -1,0 +1,39 @@
+Game: FE4
+Number of chapters: 13
+Words per chapter: [6482, 9009, 4953, 6884, 5878, 5680, 3417, 6408, 6329, 6376, 5730, 5186, 8360]
+Average number of words per chapter: 6207.076923076923
+Number of words: 80692
+Number of unique words: 5376
+Number of words that only appear once: 2265
+Sample of words used only once: ['amaze', 'thingll', 'talked', 'wanting', 'sopharas', 'stole', 'sakes', 'blushing', 'knowin', 'tme', 'kidsre', 'yerself', 'lasted', 'mell', '‘til', '200', 'pounds', 'bed', 'lucks', 'attempt', 'mooned', 'attempting', 'damnedest', 'screwed', 'havell', 'advisable', 'obligation', 'adventure', 'beasts', 'unnh', 'scopio', 'amends', 'sunk', 'piracy', 'treasonous', 'timely', 'bwahahaha', 'confront', 'bwahaha', 'obedience', 'teacher', 'guhhh', 'scheming', 'hence', 'fundamental', 'appreciates', 'candle', 'snuffed', 'lament', 'loser']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.079859217766321
+
+Number of words (excluding stopwords): 42727
+Most common words (excluding stopwords): [('im', 453), ('youre', 406), ('lord', 394), ('well', 331), ('know', 310), ('dont', 293), ('seliph', 290), ('ill', 280), ('oh', 278), ('ive', 275), ('like', 267), ('still', 237), ('father', 216), ('right', 202), ('never', 202), ('come', 195), ('us', 186), ('youve', 180), ('could', 180), ('sigurd', 178), ('sir', 178), ('see', 176), ('cant', 174), ('time', 174), ('heh', 174), ('please', 173), ('long', 173), ('even', 169), ('thank', 169), ('would', 168), ('take', 164), ('back', 155), ('thats', 151), ('sorry', 150), ('go', 148), ('one', 148), ('prince', 146), ('think', 144), ('say', 140), ('much', 140), ('king', 137), ('yes', 137), ('get', 135), ('really', 131), ('need', 127), ('want', 122), ('ever', 121), ('army', 121), ('er', 121), ('little', 121)]
+
+Longest sentence length: 45
+Average sentence length: 6.366222712585704
+Longest sentence: Before Seliph lies the Yied Desert, ruled by the Loptyrian Ctuzof from the Yied Shrine; the oasis city of Darna, governed by the ex-merchant Bramsel and the captain of his sellsword army, Jabarro; and Fort Melgen, guarded by Prince Ishtore and the renowned General Liza.
+
+length,words,unique words
+1,3815,22
+2,14215,51
+3,17360,243
+4,18026,681
+5,9833,857
+6,7523,1003
+7,5020,957
+8,2482,677
+9,1346,428
+10,684,254
+11,265,126
+12,69,42
+13,21,19
+14,16,8
+15,8,2
+16,5,3
+20,1,1
+21,2,1
+28,1,1

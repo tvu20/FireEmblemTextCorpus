@@ -1,0 +1,35 @@
+Game: FE12/BookTwo
+Number of chapters: 38
+Words per chapter: [562, 1290, 1486, 2375, 294, 1057, 1217, 1840, 404, 1655, 777, 667, 1157, 1169, 647, 1250, 1030, 906, 1291, 1133, 1117, 1164, 1205, 1051, 1396, 912, 740, 828, 1162, 1091, 709, 1400, 699, 2104, 1133, 1332, 1166, 1122]
+Average number of words per chapter: 1119.421052631579
+Number of words: 42538
+Number of unique words: 3895
+Number of words that only appear once: 1711
+Sample of words used only once: ['travelled', 'l', 'xanes', 'handiwork', 'remnants', 'timing', 'lure', 'betrays', 'female', 'hostage', 'loyalty', 'testament', 'views', 'robed', 'difficultly', 'starlord', 'spies', 'neighboring', 'unreliability', 'sorted', 'flowed', 'shimmering', 'gently', 'wiped', 'curious', 'finest', 'gained', 'harder', 'willow', 'permission', 'hasty', 'treasury', 'greasy', 'unload', 'brawn', 'glorious', 'explanation', 'confirm', 'destructive', 'meteor', 'bearer', 'tidings', 'commanded', 'birth', 'spirited', 'cards', 'involvement', 'series', 'darkspheres', 'double']
+Longest dictionary word: underestimating
+Longest dictionary word length: 15
+Average word length: 4.14467064742113
+
+Number of words (excluding stopwords): 21996
+Most common words (excluding stopwords): [('kris', 259), ('marth', 247), ('prince', 214), ('im', 213), ('dont', 186), ('like', 177), ('well', 164), ('us', 161), ('see', 153), ('youre', 152), ('please', 146), ('sire', 136), ('yes', 124), ('ill', 123), ('would', 111), ('fight', 104), ('go', 101), ('know', 99), ('altea', 95), ('war', 95), ('thats', 95), ('want', 94), ('must', 94), ('come', 92), ('oh', 89), ('even', 89), ('could', 87), ('hardin', 82), ('princess', 82), ('archanea', 81), ('way', 80), ('time', 77), ('lord', 75), ('right', 75), ('one', 73), ('army', 71), ('really', 71), ('battle', 68), ('sir', 67), ('let', 65), ('back', 63), ('think', 62), ('thank', 62), ('help', 58), ('long', 58), ('jagen', 58), ('ive', 57), ('good', 57), ('take', 57), ('get', 56)]
+
+Longest sentence length: 34
+Average sentence length: 5.993851313583007
+Longest sentence: Lord Gotoh told me that this world has long been guarded by five orbs of mysterious arcane power, and that if even one of them is lost, the world will fall into irreparable ruin.
+
+length,words,unique words
+1,2020,16
+2,7446,52
+3,8960,219
+4,9577,534
+5,4916,626
+6,3834,680
+7,2527,634
+8,1649,444
+9,821,320
+10,493,192
+11,180,101
+12,74,50
+13,23,17
+14,15,8
+15,3,2

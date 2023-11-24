@@ -36,13 +36,13 @@ with open(os.path.join(output_path, "full_transcript.txt"), 'r') as file, open(o
 
         split_speaker = text.split(": ")
         if len(split_speaker) < 2:
-            removed_punctuation = text.replace("...", " ").replace("-", " ").replace("’", "").translate(str.maketrans('', '',string.punctuation)).lower()
+            removed_punctuation = text.replace("...", " ").replace("-", " ").replace("—", " ").replace("–", " ").replace("’", "").translate(str.maketrans('', '',string.punctuation)).lower()
             fo.write(removed_punctuation)
             fo.write("\n")
             continue
 
         new_line = split_speaker[1:]
         new_line = ' '.join(new_line)
-        removed_punctuation = new_line.replace("...", " ").replace("-", " ").replace("’", "").translate(str.maketrans('', '',string.punctuation)).lower().replace("…", "")
+        removed_punctuation = new_line.replace("...", " ").replace("-", " ").replace("—", " ").replace("–", " ").replace("’", "").translate(str.maketrans('', '',string.punctuation)).lower().replace("…", "")
         fo.write(removed_punctuation)
         fo.write("\n")

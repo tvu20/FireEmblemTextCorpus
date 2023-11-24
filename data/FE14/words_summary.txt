@@ -1,0 +1,38 @@
+Game: FE14
+Number of chapters: 53
+Words per chapter: [1331, 1814, 1208, 1270, 2886, 1077, 1104, 2096, 2433, 1855, 2263, 2588, 2164, 3297, 2596, 1867, 1632, 2098, 1087, 682, 2134, 4847, 1756, 1497, 1967, 2086, 2994, 1022, 2389, 2235, 1637, 1197, 2492, 1541, 3402, 2327, 1898, 1547, 1759, 2454, 1505, 1732, 2801, 1417, 863, 3605, 1623, 2455, 1782, 1004, 1854, 1517, 187]
+Average number of words per chapter: 1941.0188679245282
+Number of words: 102874
+Number of unique words: 5426
+Number of words that only appear once: 2209
+Sample of words used only once: ['hunt', 'bath', 'clothed', 'dive', 'onto', 'communicate', 'soulless', 'machine', 'cretins', 'valid', 'knocked', 'bearings', 'diving', 'heed', 'whence', 'there´s', 'lag', 'jumps', 'numerous', 'spread', 'demon', 'corrupted', 'salvaging', 'endangered', 'hunted', 'failures', 'understands', 'trample', 'unforgivable', 'justify', 'regarded', 'arrrgh', 'princesa', 'binds', 'accusations', 'courses', 'deceit', 'notorious', 'clashing', 'coerced', 'volition', 'stain', 'starving', 'lamentable', 'heartbreak', 'slaying', 'dissuaded', 'surmise', 'upsetting', 'undone']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.050362579466143
+
+Number of words (excluding stopwords): 51977
+Most common words (excluding stopwords): [('corrin', 833), ('im', 752), ('dont', 506), ('well', 442), ('know', 428), ('us', 422), ('youre', 396), ('right', 379), ('like', 356), ('time', 313), ('must', 310), ('cant', 305), ('would', 289), ('please', 279), ('thats', 278), ('see', 268), ('back', 255), ('nohr', 253), ('yes', 252), ('way', 252), ('father', 248), ('one', 247), ('could', 240), ('thank', 232), ('ill', 228), ('oh', 226), ('even', 223), ('get', 220), ('hoshido', 219), ('king', 207), ('really', 200), ('xander', 197), ('wont', 196), ('sorry', 195), ('think', 193), ('never', 189), ('let', 188), ('still', 187), ('take', 186), ('go', 178), ('come', 177), ('takumi', 175), ('nohrian', 174), ('azura', 173), ('ryoma', 172), ('ive', 168), ('going', 168), ('garon', 166), ('good', 165), ('kill', 164)]
+
+Longest sentence length: 21
+Average sentence length: 5.791650278136765
+Longest sentence: While you were doing the king's bidding we couldn't help but wonder what awful trials he was forcing you to endure.
+
+length,words,unique words
+1,5238,22
+2,18708,54
+3,21646,235
+4,23713,675
+5,12323,846
+6,9209,947
+7,5551,903
+8,3260,672
+9,1573,484
+10,838,302
+11,344,152
+12,170,76
+13,170,32
+14,119,17
+15,5,4
+16,5,3
+17,1,1
+18,1,1

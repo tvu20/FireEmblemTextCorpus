@@ -1,0 +1,37 @@
+Game: FE10
+Number of chapters: 43
+Words per chapter: [7087, 3028, 2069, 2479, 2441, 1323, 8512, 2332, 1147, 1878, 2498, 1138, 2230, 2094, 2693, 2377, 636, 2284, 2144, 1694, 4177, 3671, 1339, 5731, 2311, 2591, 2532, 2049, 2669, 4025, 2691, 2374, 2552, 3330, 2644, 5676, 2029, 2398, 4208, 1725, 2289, 2860, 4590]
+Average number of words per chapter: 2849.8837209302324
+Number of words: 122545
+Number of unique words: 6954
+Number of words that only appear once: 2983
+Sample of words used only once: ['ordering', 'library', 'archives', 'triggering', 'maiels', 'succeeded', 'nnngh', 'rescued', 'fizzarts', 'negotiated', 'pales', 'warmongering', 'si–', 'evildoers', 'fifth', 'archrival', 'announcing', 'righteousness', 'aargh', 'needlessly', 'maiel', 'phase', 'pouring', 'aflame', 'onto', 'offering', 'micai', 'pegasi', 'grounded', 'contain', 'reflection', 'plots', 'devastating', 'allay', 'follows', 'dilemma', 'weighs', 'fastness', 'parting', 'advancing', 'conventional', 'reading', 'dedicated', 'reader', 'generally', 'shoulders', 'saviour', '‘cause', 'paints', 'reviled']
+Longest dictionary word: uncharacteristically
+Longest dictionary word length: 20
+Average word length: 4.109078297768167
+
+Number of words (excluding stopwords): 61770
+Most common words (excluding stopwords): [('im', 689), ('dont', 567), ('know', 497), ('well', 476), ('us', 440), ('like', 435), ('daein', 432), ('right', 404), ('youre', 389), ('see', 370), ('one', 349), ('would', 344), ('fight', 311), ('cant', 300), ('time', 299), ('thats', 297), ('micaiah', 292), ('please', 284), ('oh', 278), ('laguz', 276), ('people', 267), ('back', 265), ('king', 265), ('must', 261), ('get', 261), ('yes', 261), ('ill', 254), ('general', 233), ('army', 232), ('begnion', 231), ('ike', 230), ('take', 224), ('good', 217), ('sorry', 217), ('go', 212), ('could', 211), ('think', 205), ('war', 204), ('want', 200), ('never', 191), ('queen', 190), ('way', 189), ('goddess', 181), ('even', 176), ('thank', 174), ('let', 173), ('help', 172), ('say', 168), ('tell', 168), ('much', 168)]
+
+Longest sentence length: 38
+Average sentence length: 6.034757386559166
+Longest sentence: While Elincia's show of loyalty to her laguz allies causes an uproar among the nobles at court, they are aware that the heron princess is under the mutual protection of the mighty laguz hawk king and raven king.
+
+length,words,unique words
+1,5743,22
+2,21321,78
+3,26840,282
+4,27276,784
+5,14796,1060
+6,10158,1176
+7,8207,1173
+8,4068,922
+9,2147,652
+10,1135,391
+11,529,231
+12,175,105
+13,99,50
+14,41,21
+15,8,5
+20,1,1
+24,1,1

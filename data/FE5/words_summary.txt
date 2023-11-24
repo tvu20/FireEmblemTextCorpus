@@ -1,0 +1,36 @@
+Game: FE5
+Number of chapters: 35
+Words per chapter: [1360, 1002, 1985, 1852, 2241, 1822, 1863, 1459, 1585, 1959, 1461, 2173, 2179, 630, 1192, 1817, 1654, 986, 515, 805, 2401, 1168, 1913, 1199, 2137, 2108, 1476, 2526, 915, 2795, 2091, 1598, 1208, 1270, 1367]
+Average number of words per chapter: 1620.3428571428572
+Number of words: 56712
+Number of unique words: 4810
+Number of words that only appear once: 2122
+Sample of words used only once: ['willed', 'shaped', 'conclusions', 'disturbed', 'convey', 'formerly', 'largest', 'rivers', 'blessed', 'rich', 'fertile', 'rapid', 'waves', 'lonely', 'isolated', 'contain', 'appointed', 'suggestion', 'prior', 'gain', 'honing', 'passion', 'brief', 'inherited', 'deceived', 'adult', 'coattails', 'stunning', 'shimmering', 'waters', 'earth', 'ethnia', 'blessings', 'stirs', 'greed', 'slain', 'pedantic', 'shattering', 'notoriously', 'steel', 'regale', 'wrongs', 'commit', 'anguish', 'treat', 'advanced', 'collapse', 'guhh', 'taint', 'ruminations']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.106503032867823
+
+Number of words (excluding stopwords): 28957
+Most common words (excluding stopwords): [('im', 278), ('prince', 259), ('dont', 216), ('leif', 214), ('well', 213), ('ill', 189), ('youre', 180), ('would', 178), ('us', 164), ('like', 161), ('one', 159), ('right', 158), ('see', 155), ('time', 151), ('lord', 150), ('could', 126), ('must', 124), ('little', 123), ('know', 123), ('way', 121), ('empire', 116), ('thats', 115), ('go', 112), ('take', 111), ('ah', 110), ('get', 108), ('army', 108), ('make', 107), ('leonster', 106), ('even', 105), ('still', 104), ('back', 104), ('ive', 100), ('youve', 99), ('long', 97), ('come', 92), ('tarrah', 92), ('theres', 90), ('oh', 90), ('much', 87), ('good', 86), ('look', 85), ('never', 84), ('hes', 84), ('castle', 83), ('thracia', 83), ('man', 79), ('think', 78), ('say', 77), ('general', 76)]
+
+Longest sentence length: 35
+Average sentence length: 7.325022606898334
+Longest sentence: Perhaps it's natural to be a little insecure when General Reinhardt's fame has so thoroughly eclipsed his own, but to be so vindictive about it as to take it out on the General's only sister?
+
+length,words,unique words
+1,2664,21
+2,10165,52
+3,12037,219
+4,12694,626
+5,6685,796
+6,5141,854
+7,3351,804
+8,1953,573
+9,1134,433
+10,552,233
+11,194,109
+12,82,55
+13,33,21
+14,24,11
+15,2,2
+16,1,1

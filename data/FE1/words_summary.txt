@@ -6,8 +6,8 @@ Number of words: 8409
 Number of unique words: 1555
 Number of words that only appear once: 784
 Sample of words used only once: ['throwing', 'lead', 'allegiance', 'steadfast', 'moreover', 'destiny', 'entrust', 'treasure', 'given', 'containing', 'invaluable', 'battles', 'test', 'crawling', 'lord', 'formidable', 'servant', 'morzas', 'liza', 'already', 'breathed', 'angers', 'psst', 'vip', 'access', 'membersonly', 'shop', 'arrogant', 'cheering', 'longdeparted', 'disgrace', 'bantu', 'abandoned', 'nno', 'everywhere', 'controlling', 'nowwake', 'senses', 'scary', 'nightmare', 'alone', 'intended', 'utterly', 'knowing', 'elite', 'sanctuary', 'victories', 'hated', 'considerably', 'swords']
-Longest word: reinforcements
-Longest word length: 14
+Longest dictionary word: reinforcements
+Longest dictionary word length: 14
 Average word length: 4.106433583065763
 
 Number of words (excluding stopwords): 4153
@@ -16,3 +16,19 @@ Most common words (excluding stopwords): [('prince', 63), ('marth', 58), ('dolhr
 Longest sentence length: 23
 Average sentence length: 7.301215277777778
 Longest sentence: I'm so old that I don't have much fight left in me, but without my stone, I can't become a dragon at all.
+
+length,words,unique words
+1,455,2
+2,1477,33
+3,1785,115
+4,1778,294
+5,1017,282
+6,798,266
+7,480,220
+8,340,158
+9,160,96
+10,73,54
+11,30,20
+12,7,7
+13,8,7
+14,1,1

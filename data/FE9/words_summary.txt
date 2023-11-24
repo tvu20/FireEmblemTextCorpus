@@ -6,12 +6,33 @@ Number of words: 98201
 Number of unique words: 6448
 Number of words that only appear once: 2929
 Sample of words used only once: ['conceal', 'assassin', 'slippery', 'whooooa', 'landed', 'righty', 'cheerful', 'chasing', 'spending', 'experiences', 'forming', 'values', 'technical', 'summarize', 'polished', 'blabbering', 'eeep', 'messing', 'huddled', 'shh', 'yaaaaaaaaa', 'mandolin', 'manicotti', 'manifesto', 'brrr', 'icing', 'animal', 'hibernate', 'rolls', 'comic', 'sincerity', 'weaklings', 'hatch', 'figuratively', 'metaphor', 'hatched', 'ol', 'considerate', 'pertain', 'generosity', 'misinterpreting', 'kingship', 'tied', 'eliminate', 'wields', 'bloodlines', 'competency', 'uneven', 'individuals', 'management']
-Longest word: misunderstandings
-Longest word length: 17
+Longest dictionary word: misunderstandings
+Longest dictionary word length: 17
 Average word length: 4.057117544627855
 
 Number of words (excluding stopwords): 49070
 Most common words (excluding stopwords): [('im', 546), ('well', 448), ('ike', 424), ('dont', 418), ('right', 411), ('youre', 369), ('us', 355), ('would', 342), ('thats', 331), ('one', 329), ('know', 319), ('like', 313), ('oh', 288), ('see', 283), ('daein', 268), ('time', 252), ('princess', 251), ('yes', 249), ('king', 248), ('going', 241), ('think', 239), ('go', 216), ('ill', 207), ('must', 204), ('get', 196), ('want', 191), ('good', 185), ('take', 185), ('crimea', 177), ('come', 177), ('ive', 175), ('father', 171), ('general', 164), ('way', 163), ('something', 157), ('please', 156), ('nothing', 154), ('cant', 154), ('much', 153), ('ha', 151), ('say', 148), ('theres', 147), ('let', 145), ('back', 143), ('never', 143), ('could', 142), ('army', 138), ('tell', 138), ('even', 137), ('fight', 135)]
 
-Longest sentence length: 43
-Average sentence length: 6.428186242272787
+Longest sentence length: 38
+Average sentence length: 5.701742359325907
+Longest sentence: The prize of Fort Pinell is no small thing, but it is the promise of additional reinforcements from Gallia-- and the large Begnion army encamped in Castle Daein--that keeps the breath of hope alive in the soldiers' hearts.
+
+length,words,unique words
+1,4488,22
+2,18476,74
+3,21921,279
+4,21472,765
+5,11627,1020
+6,7747,1101
+7,5853,1075
+8,3092,797
+9,1748,550
+10,960,352
+11,455,210
+12,179,106
+13,96,55
+14,61,20
+15,16,14
+16,3,3
+17,3,2
+18,4,3
