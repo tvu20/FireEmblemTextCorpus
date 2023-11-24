@@ -1,0 +1,36 @@
+Game: FE12
+Number of chapters: 72
+Words per chapter: [887, 703, 495, 536, 858, 589, 330, 713, 719, 1206, 775, 571, 905, 413, 738, 667, 356, 1450, 603, 307, 1033, 688, 1472, 732, 726, 373, 570, 726, 755, 573, 412, 353, 546, 617, 562, 1290, 1486, 2375, 294, 1057, 1217, 1840, 404, 1655, 777, 667, 1157, 1169, 647, 1250, 1030, 906, 1291, 1133, 1117, 1164, 1205, 1051, 1396, 912, 740, 828, 1162, 1091, 709, 1400, 699, 2104, 1133, 1332, 1166, 1122]
+Average number of words per chapter: 915.7638888888889
+Number of words: 65935
+Number of unique words: 5156
+Number of words that only appear once: 2269
+Sample of words used only once: ['brief', 'thralls', 'outskirts', 'waited', 'swift', 'captical', 'resounded', 'travelled', 'l', 'xanes', 'handiwork', 'remnants', 'timing', 'betrays', 'female', 'loyalty', 'testament', 'views', 'robed', 'difficultly', 'starlord', 'spies', 'neighboring', 'unreliability', 'sorted', 'flowed', 'shimmering', 'gently', 'wiped', 'curious', 'willow', 'permission', 'hasty', 'treasury', 'greasy', 'unload', 'brawn', 'glorious', 'explanation', 'confirm', 'destructive', 'meteor', 'bearer', 'tidings', 'commanded', 'cards', 'involvement', 'series', 'darkspheres', 'double']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.123348752559338
+
+Number of words (excluding stopwords): 33983
+Most common words (excluding stopwords): [('marth', 408), ('prince', 326), ('im', 283), ('well', 261), ('kris', 259), ('us', 247), ('dont', 238), ('sire', 218), ('like', 214), ('see', 203), ('youre', 193), ('would', 184), ('must', 181), ('please', 173), ('know', 168), ('yes', 167), ('fight', 166), ('one', 161), ('altea', 151), ('ill', 148), ('princess', 147), ('come', 146), ('right', 142), ('go', 139), ('oh', 125), ('thats', 124), ('could', 122), ('way', 114), ('time', 113), ('archanea', 113), ('want', 113), ('take', 112), ('war', 112), ('let', 107), ('say', 106), ('even', 104), ('back', 104), ('need', 102), ('ive', 101), ('lord', 101), ('battle', 99), ('good', 98), ('army', 96), ('enemy', 95), ('think', 95), ('sir', 94), ('long', 93), ('thank', 92), ('nyna', 88), ('really', 87)]
+
+Longest sentence length: 40
+Average sentence length: 6.23568612727614
+Longest sentence: Nyna could not fathom why such a fiercely loyal knight would turn to treachery, but with her other knights calling for Horace’s blood, she had no choice but to give in and ask Marth to bring the traitor to justice.
+
+length,words,unique words
+1,3094,18
+2,11347,62
+3,14328,264
+4,14709,686
+5,7968,811
+6,5914,911
+7,3804,854
+8,2422,610
+9,1240,439
+10,690,262
+11,250,135
+12,104,67
+13,38,23
+14,21,10
+15,5,3
+16,1,1
