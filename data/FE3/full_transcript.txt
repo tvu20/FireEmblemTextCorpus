@@ -1,0 +1,1876 @@
+@Opening 
+One thing could always be said about Galder Harbor, the mainland port nearest Talys: it never had much in the way of riches, but neither did it have much trouble. All that changed when a pirate crew fell upon the town and made it their hideout. Here, in Galder, history records Marth’s first steps toward freeing his homeland.
+
+@Intro 
+Ogma: Prince Marth, I'm Ogma, a mercenary of Talys. The king ordered me to join your forces. I brought along my three most trusted men. Welcome to Galder, the port town that's been overrun by pirates. Pirates aren't all you will have to worry about. We've spotted soldiers from Grust too. Keep your wits about you.
+
+@Visit 
+Woman: There's a pirate who goes by the name of Darros. He's looking to meet the prince! Word is he wants to turn over a new leaf and fight for the people. You should seek him out and listen to what he has to say.
+
+Woman: A curate can earn EXP simply by withstanding the attacks of a foe.
+
+Man: Hammers are effective against knights. It would be wise to purchase one!
+
+Villager: Prince of Altea, I beg of you... Save the cleric Lena. We tried to stop her, but... she left the safety of the village to bring aid to the poor and sick. She set out toward the Ghoul's Teeth some time ago and has yet to return. I can't tell you how much Lena's help meant to us. She's like an angel. It isn't much, but...we can offer you 5,000G to aid in your efforts to rescue her. Please, do what you can to save her!
+
+@Recruit-Battle 
+Castor: Please forgive me, Princess Caeda! I have no choice. I must get my hands on some money...
+
+@Recruit-Talk
+%Caeda,Castor
+Caeda: You are Castor of Talys! Why are you fighting us?
+Castor: Princess Caeda... I am sorry. My mother is ill. To afford her medicine, I would do anything. Even this!
+Caeda: I see... The pirates pay you. Well, it it may not be much, but I offer you what I can. Take it, and buy medicine for your mother.
+Castor: You would aid a traitor like me? You are so kind... Oh, Princess Caeda! Forgive me! From now on, I will dedicate my life to you.
+
+@Boss
+Gomer: The gall of ye, defyin' me crew! I'll put an axe square between yer eyes! Ye ain't leaving here alive. I swear it on the rickety peg leg o'Shanty Pete!
+
+Gomer: Augh... Fiends, ye be...
+
+@End 
+Villager: Thank you for taking care of those ruffians, Prince Marth. Thanks to you, peace has returned to Galder. In order to reach Aurelis, you must cross the Ghoul's Teeth. It is a dangerous road. You will find fearsome bandits called the Soothsires there. They prey on travelers and raid nearby villages. I have heard of a skilled swordsman called Navarre in their employ. Whatever you do, do not let your guard down. I will pray for your safety.
+
+/***EOF***/
+@Intro
+Jagen: Prince Marth! Princess Caeda has alighted from Talys Castle.
+Marth: Caeda, what's wrong? Did something happen?
+Caeda: Prince Marth! What a relief. Talys Castle is under attack from pirates of Galder! After a fierce fight, they have taken the castle. I beg you, please save my father!
+Marth: Don't worry, Caeda. The brave knights of Altea stand ready. Pirates are no match for us! Let's head back to the castle and rescue the king!
+
+@Visit
+Old man: Villagers have their gates open so that the prince can visit. Don't make them wait! Once a thief attacks a village, that's it. There's no saving it.
+
+Young man: You can't use strong weapons if you don't have a high enough weapon level. That's just common sense. And don't forget that your fliers need to be careful around foes with bows!
+
+Woman: There is a village south of the castle. A priest named Wrys awaits the prince there.
+
+Man: Galder? It's a port town south of the isle of Talys. A man by the name of Gomer has taken control of the city. It's lousy with pirate scum!
+
+Woman: If you are injured, stop at a fortress. You'll feel better after a short rest behind strong walls.
+
+Villager: It is good that you have come, Prince Marth. I have here 10,000G that the villagers gathered. Take it. Please, use it to equip yourselves. Save this land from these rampaging pirates of Galder!
+
+@Boss
+Gazzak: The might of Altea, ye say, now? Har! Ye sprogs look t’be a mite short o’mighty t’me.
+
+Gazzak: Rrgh... Ye'll pay, dog...
+
+@End
+King of Talys: Prince Marth! You have done well to make it here safely. You have my thanks. So, you plan to travel to Aurelis? In that case, though they are few in number, my soldiers will join you. From Captain Ogma down, they are all brave warriors and should serve you well. That is not all. Heed me now. As you travel through these lands, you may find many who cannot tolerate the tyranny of Dolhr. Some are hiding in villages. Others have been taken prisoner. And some must work with the enemy... You must seek these people out and work together! Heed the call! The time has come! Set foot on your path, but be vigilant! You face many dangers.
+/***EOF***/
+@Opening 
+With the aid of the White Sage Gotoh’s powerful Warp magic, Marth and company were transported to the faraway city of Thabes. Once, Thabes was an advanced civilization; but only its decay advanced now. The League traced the lifeless streets to the temple at the city’s heart, somewhere within its walls Gharnef was waiting, and now, Marth must wrest Falchion and his sister, Elice, from the fiend’s grip.
+
+@Intro 
+Gharnef: So you've finally arrived, young prince... I have been waiting for you! Yes, I have waited...and I am ready to strike! Once you are dead...this world is mine! Hee hee hee! And I need not fear Medeus at all! With Falchion and Imhullu in my grasp, none can oppose me! Not even that dragon! You have journeyed far to meet me in combat... But can you find the real me? If you cannot... Falchion will never be yours!
+
+@Boss 
+Gharnef: You must not value your life very much... I will show you the true terror of the darkest of magic, Imhullu!
+
+Gharnef: Gah! Starlight... Too powerful... I am undone! Know this, young prince... You may have the strength to best me... But Medeus? Ha! I will await you in hell!
+
+@End 
+Elice: Oh, Marth! I have missed you so. Look at how you've grown. Father would be so proud!
+Marth: Elice! I am glad to see you safe! After I heard that Gharnef had taken you, I was so worried...
+Elice: Gharnef kidnapped me to secure the spell of revival, Aum, that Gotoh gave me. There is a temple in southern Dolhr where this staff can be used to revive an ally... If there is one precious to you who has lost their life, let's travel to Dolhr and revive them. Let's go! To Dolhr!
+/***EOF***/
+@Opening 
+To obtain the Lightsphere and the Starsphere for Gotoh, Marth and the others headed for Chiasmir's Fane of Raman. At the Chiasmir strait, the Sable Order fought valiantly to keep Marth’s army from reaching Chiasmir, but in the end Grust’s knights buckled: the world’s mightiest only in song. The League marched on to the Fane of Raman, a holy sanctuary built by the divine dragoons to house their most priceless treasures. Here another story was set to begin...
+
+@Intro 
+Malledus: Your highness, please be careful inside the Fane of Raman. The goddess of this temple possesses fearful might. She will incinerate any and all intruders.
+Marth: Hmm... I suppose we shouldn’t be intruding this sanctuary... But this temple holds the objects that I must seek. We must try not to provoke the temple’s guardians. I will only bring in a couple of soldiers with me.
+
+Gharnef: Tiki... princess of the long-departed Naga clan... Incinerate all those who would disgrace the Fane of Raman! Don't forget that I saved you from Medeus after Bantu abandoned you!
+
+@Recruit-Battle 
+Tiki: N-no... Don't... Don't come near me!
+
+@Recruit-Talk 
+%Bantu,Tiki 
+Bantu: Tiki! I've been looking everywhere! It seems Gharnef is controlling you... Now...wake up!
+Tiki: I... I... What... What happened? Where am I?
+Bantu: Back to your senses, are you? Good! How do you feel?
+Tiki: It was so scary... A terrible nightmare... that wouldn't end!
+Bantu: Oh, Tiki! I am so sorry. It's all my fault this happened! But you're all right now. I won't leave you again... I promise.
+Tiki: Yes, please promise! Don't leave me alone ever again! Promise me that you won't...
+
+@Recruit-Battle 
+Tiki: N-no! Please! Come no closer!
+
+Tiki: Ban-Ban... Wh-why did you leave me?
+
+@End 
+Gotoh: Marth, can you hear me? I await you in the village north of the Macedon Aerie... Yes, I am near! If you indeed obtained the orbs, then bring them to me with haste! Without Starlight, you have no hope of taking Falchion back from Gharnef. Gharnef has retreated to Thabes, the city of illusion. Without a doubt, he has taken Elice there with him! I have protected your sister till now, but I cannot protect her forever... Hurry! Save Elice!
+/***EOF***/
+@Opening 
+The League had reached Archanean soil, so Marth gave himself leave to recuperate in Port Warren, a harbor town known for commerce. Coin alone kept the town free and they paid Dolhr dearly in taxes to preserve their autonomy. Naturally, then, theirs was a warm welcome when the Archanean League arrived. Marth's soldiers were glad to rest there, nestled between mountain and sea, but their joy was spoiled by news that the enemy was fast approaching- as harsh an awakening as a rock beneath the pillow.
+
+@Intro 
+Caesar: Prince Marth, we are mercenaries hired to protect Port Warren. Grust has gathered its forces in the northern fortresses. They have put the port to siege. It's very dangerous here. But there is a castle to the east that looks a bit safer. We should make it our target. Let's head out there together without delay!
+
+@Visit
+Woman: Many foes wait inside the fortresses, ready to enter the battle. Block them so they can't get out!
+
+Woman: I've heard tell that a princess of Macedon is being held captive in Castle Deil. Macedon and Dolhr are supposed to be allies! I wonder what happened...
+
+Old man: To defeat dragons, you must use a Dragon Killer sword.
+
+Villager: In the coliseum, you will be rewarded with gold and experience if you win. But if you die, you lose your life. If you want to enter, you should be mentally prepared.
+
+@Boss 
+Kannival: W-what are you doing all the way out here? Blast, I'm finished...!
+
+Kannival: Long...live...Grust! Nngff...
+
+@End 
+Catria: Prince Marth, I am Catria of Macedon's Whitewings. I have come to you with a secret request. Princess Minerva's forces are planning to rebel against Dolhr. However, the princess's younger sister, Maria, has been taken hostage by Dolhr so we cannot act. We beg of you, please help us save the young princess!
+/***EOF***/
+@Opening 
+Aurelis was free, but Marth and his army- now known as the Archanean League still had much work ahead of them. They followed the Middleroad south, bound for Archanea Palace- a perilous route, for it took them right into Lefcandith Valley and the jaws of trouble. The countless fortresses lining the valley made it a veritable gauntlet and compounding the danger was the presence of the Whitewings, a knightly order led by Princess Minerva of Macedon. It would be a fierce battle.
+
+@Intro
+Minerva: I do not agree with your strategy, General Harmein. As a knight of Macedon, I have my pride. I wish to fight them head-on. A fair battle.
+Harmein: Many of the soldiers of Macedon were lost in Aurelis. Surely you understand this? We must regroup in the castle and stall for time. The king has put his faith in me. I would ask that you do the same. After all, if you do not trust the empire...your little sister, Maria, is the one who will suffer the consequences.
+Minerva: ... I understand. I will leave this matter in your hands. I doubt you can defeat Altea's knights with your schemes, however... I expect that you will end up regretting this. Though she is feared by all, I have heard that she is very beautiful and kind. I wonder if anyone can help her.
+
+@Visit 
+Old man: The warrior Minerva is actually a princess from Macedon! It is said that she fights for the Dolhr Empire because they are holding her sister hostage.
+
+Auntie: The port of Warren seems to have lots of rarities for sale. If you’re going there, don’t go overboard with your shopping.
+
+Villager: If you equip heavy weapons you will be slowed down by them. So equipping light but weak weapons is also a good way of fighting.
+
+@Recruit-Visit
+Bantu: Excuse me... Have you met a young girl by the name of Tiki? She is the last of the Naga, the Divine Dragon clan. There is no one but she who can defeat the manaketes serving Medeus. I'm so old that I don't have much fight left in me, but without my stone, I can't become a dragon at all. I'll come along with you, so please help me find Tiki.
+
+@Battle 
+Minerva: This fighting is more than I can stomach. Palla, Catria, Est... Let's get out of here.
+
+@Boss 
+Harmein: Curse Minerva and her pride! Grr, no matter. If I am to die here, then I won't be dying alone!
+
+Harmein: Aaargh...Traitors...every...where...
+
+@End 
+Malledus: Prince Marth. It is time I tell you the legend of the manaketes. A long, long time ago...the manaketes arrived in Archanea. They were of three clans. The divine Dragons of Naga, the Mage Dragons of Basilisk, and the Fire Dragons of Salamander. The Divine Dragons were the most powerful. They stopped the others from conquering mankind. They carried stones that allowed them to conceal their true selves by taking human form. The dragonkin lived in peace with humans until the arrival of Medeus, an earth dragon. Medeus used his great power to destroy the Divine Dragons and found the Dolhr Empire. He launched attacks on the human lands and conquered them. Though the humans fought bravely, there was nothing they could do against Medeus. But the young warrior Anri faced Medeus! He gripped a sword that shone brightly: the blade of light, Falchion! After a fierce battle, he at last defeated Medeus. Yes, my prince. You do recognize this young man's name. He is indeed Anri, the first king of Altea. It has been 100 years since thos dark days. And now Medeus has appeared once again. Prince Marth! You are the chosen one. The last of Anri's line... Your father, King Cornelius, was defeated before he could accomplish his task. It is up to you now!
+/***EOF***/
+@Opening 
+The long war had been fought, Archanea’s many lands freed, and now the League had cornered their archenemy within his castle. They broke into four groups and stormed the four gates of Dolhr Keep- unaware that this was exactly what Medeus was expecting. Bravely, these warriors fate had chosen steeled themselves for one last struggle.
+
+@Intro 
+Gotoh: To make it this far, Marth... It is the measure of a true hero.
+Marth: Sage Gotoh! Why have you come to this place?
+Gotoh: Men are foolish... and I had sworn to let the affairs of the world proceed without me. But watching your struggles, I came to think perhaps I was too hasty in my judgment. I cannot defeat Medeus on my own. But I will happily lay his minions to rest. Go forth, he who has been chosen by the goddess... Altea's prince of light! Cast the Shadow Dragon back into the darkness! Bury him in the earth he crawled out from!
+
+@Boss 
+Medeus: Rebels that dare disturb my repose... be consumed by the flames of hell!
+
+Medeus: Me? Defeated? By humans... Mere humans... Take this to heart, Altean prince, inheritor of the light... One day... I will rise anew... Never forget... As long as there is light... the darkness can never be extinguished!
+
+@Narration 
+Medeus is defeated. The Dolhr Empire once again fades into darkness. After three long years of battle across Archanea for Marth and his friends... Light breaks upon the land, and the darkness recedes. And after a long journey Marth can finally put down his sword.
+
+@Dialogue 
+Caeda: Marth... at long last, we can return to Talys!
+Marth: Yes, we can. And I must report to your father. But after that, I will immediately head to Altea...
+Caeda: Yes...
+Marth: War has brought my land to ruin. We must not waste any time in rebuilding.
+Nyna: Oh, Marth. Hehe. I see you are not one to speak easily of what is most precious to you. You are a hero! This is a challenge you must not shrink from! Hurry and tell her.
+Marth: Princess Nyna! I- I would never... Well, how shall I put- Caeda?
+Caeda: Oh! Y-yes?
+Marth: Would... would you journey to Altea with me?
+Caeda: Why... yes! I would love to.
+
+Nyna: Prince Marth, your remarkable struggle has come to an end. You have saved us all. The cost of that victory, however... For you, it was far too much to bear. I am sorry.
+Marth: Princess Nyna... It is my fault that Caeda was killed, not yours. Do not apologize. I will soon... No, as long as I do live... I will never forget her.
+Nyna: It is as I suspected. Do not blame yourself... Perhaps for us, this victory could only come at the cost of those we loved. Sad as it may be, it is the fate the Fire Emblem has borne across generations...
+/***EOF***/
+@Opening 
+Dolhr... A land veiled in mystery, the kingdom of manaketes. Our story began with the revival of Medeus, the Earth Dragon, here in this realm... The land of Archanea has a long history of war, of tragic tales that are born and then fade... As time passes on, Medeus's ambition for a world controlled by manaketes is threatened. Marth and his army at last draw near to the end of their long march...
+
+@Intro 
+Malledus: There, sire. Up on the mountains to the south, you can see Dolhr Keep.
+Marth: And inside is Medeus, king of the earth dragons- the one they call the Shadow Dragon. ...Why doesn’t he leave the keep and face us?
+Malledus: I recall Lord Gotoh saying his return is not yet complete; only within the keep’s walls can he maintain dragon form, where the power of the seal does not affect...
+Marth: Power of the seal?
+Malledus: Yes. I don’t really understand either, but it seems it was created by the deities to protect humans from the evil dragon tribes. In this world there exists something known as the "Binding Shield".
+Marth: I have heard of this as well. It is mentioned in the legends of the guardian god, Naga. But I thought it was all just a myth. If the Binding Shield truly exists, then why has Medeus appeared?
+Malledus: Oh, that I... Anyway, now is our chance, before he resurrects completely. 
+Marth: Yes. We've come all this way, and we're so close to returning peace. To Dolhr Keep, then! Let us put a stop to this war!
+
+@Visit
+Old man: A temple sits atop the mountain to the south. Deep inside, a central pillar stands... In front of it, Aum can be used to restore a life. Yes! Use it there, and you can greet a fallen friend.
+
+@Boss 
+Xemcel: This land, all of it- it belonged to us! Then you humans took it...defiled it!
+
+Xemcel: Rrgh... Emperor... Medeus... Forgive your servant's weakness...
+
+@End 
+Medeus: Princeling! Do not think you have yet won! Though you dare approach me, I will not surrender! You will bear witness to the true power of the Earth Dragons... Yes... Come to me! I will cast you into the deepest pit of hell!
+/***EOF***/
+@Opening 
+The League had routed Hollstadt's knights and recaptured most of the kingdom, but there was still the castle to deal with before Altea would be free; the mage-dragon Morzas remained entrenched within its walls. Unlike General Camus who preceded him, Morzas had been a cruel warden, slaughtering many innocent Alteans at the slightest provocation. Marth roiled to think such a monster still sat upon his noble father's throne.
+
+@Intro 
+Morzas: Kee hee hee... So, Marth! You've come crawling back to your homeland... just to die! I am Lord Medeus's most formidable servant... Morzas of Basilisk! You're too late! TOO LATE! Your mother, Liza, has already breathed her last! And your sister, Elice, is in Gharnef's hands now! It's all my doing! If that angers you, why don't you see if you can defeat me? Kee hee hee!
+
+@Boss 
+Morzas: Kee hee... Witless human! None defy a mage-dragon and live to speak of it!
+
+Morzas: Grrf... I stand... corrected...B ut you still lack the power... to defeat Medeus...
+
+@End 
+Malledus: Well done, Prince! With this, Altea has been liberated. The people are so happy... Just listen to all that cheering! Do you hear them? "Glory to Marth, the prince of light!"
+/***EOF***/
+@Opening
+In the distant past, the continent of Akaneia was invaded by the Durhua Empire, led by the Mamkute King, Mediuth.
+The people lived in fear and despair.
+The Holy Kingdom of Akaneia, which had always guarded the world, was also destroyed by the horrific power of the Dark Dragon.
+The world was facing ruin.
+However... A miracle occurred.
+Anri was a youth from the town of Aritia.
+He went on a perilous journey to obtain the divine sword of light, Falchion.
+And used it challenge and defeat the Dark Dragon, Mediuth.
+With Mediuth’s fall, the Durhua Empire was vanquished.
+The Kingdom of Akaneia was restored, and the world entered an age of peace.
+Taking lead from the Kingdom of Aritia, many other countries also began to rebuild themselves.
+But, 100 years after the war with Durhua.
+After many years had passed, Mediuth resurrected at Durhua.
+He allied with the neighbouring kingdoms of Grunia and Macedonia, and restored the Durhua Empire.
+Also he joined forces with Khadein’s Archbishop Garnef, who shared the same ambitions of ruling the world as him, and launched an attack on the Kingdom of Akaneia.
+Akaneia fought to the death, but under Grunia’s General Camus and Mediuth’s might they suffered terrible losses.
+Aside from Princess Nina, the royal family was wiped out.
+Aritia’s King Cornelius, who possessed the bloodline of Anri, left to defeat Mediuth.
+He took the Falchion, the divine sword of legends, to battle, but was betrayed by Aritia’s ally, Gra, and died in battle.
+Following him, the Kingdom of Aritia also fell.
+Prince Marth, just 14 years of age, managed to escape with the help of his elder sister, Princess Ellis.
+And he fled to the distant island country of Talis...
+/***EOF***/
+@Opening 
+When journeying in from the borderlands, one particular peril would spring to mind: the Samsooth Mountains, whose gashing peaks rose up and divided the peninsula. Since before anyone could remember, the mountains had belonged to bandits, blights on the land whose acts of plunder, kidnapping, and arson knew no bounds. Out of fear, their victims gave these peaks another name: the Ghoul’s Teeth; while the bandits who ruled atop the Teeth’s craggy crowns took a name as well: the Samsooth Sires, or Soothsires...
+
+@Intro
+Julian: Hey, Lena! Things are looking bad. We had better beat it! Sounds like the knights of Altea have arrived. This is our cue to get out of here! We're almost there, so come on!
+Lena: I am sorry, but...I have lost my precious Mend staff. Until I find it, I cannot leave. Don't worry about me, Julian! You should flee while you can. I can use my Warp staff to send you somewhere safe.
+Julian: I can't let you do that. If I leave you here, then why did I betray the bandits and rescue you? We can worry about your staff later! I promise I'll come back for it. Let's get while the getting's good. Focus on that!
+
+@Visit
+Young Man: There are mercenaries about. Be careful. They're so skilled that they can fell you in one blow!
+
+Man: Hunters are stronger attackers than archers, but they're weaker in defense. They should avoid close-range combat at all costs!
+
+Man: Improve your Skill and you'll have a better chance at landing critical hits. Increase your Spd, meanwhile, and you'll find it easier to dodge enemy attacks.
+
+Old Man: You youngsters sure do have stamina. Since you made it all the way up here, what say I give you this axe? Not bad, eh? Not so fast! This Devil Axe consumes the lives of those who wield it. If I were you, I wouldn't use it in battle! Mark my words!
+
+@Recruit-Battle
+Navarre: I feel bad killing you, but it was your mistake to come here. Now die!
+
+Navarre: Fools...
+
+@Recruit-Talk
+%Caeda,Navarre
+Caeda: Navarre! Why has a swordsman on your worth fallen in with thieves?
+Navarre: What was that? ...I have no business with women or children. Leave now!
+Caeda: Please, help us put a stop to this pointless fighting. Lend us your strength! If you will not, then I will tell you... Do your worst. I am ready.
+Navarre: ... I have vowed never to turn a blade on a woman. If you would risk your life to convince me, I suppose I have no choice. I will join you.
+
+@Boss
+Reynard: Har. You must really want to die, comin’ into the Soothsires’ palace unbidden!
+
+Reynard: Arrgh... One day it’ll be you!
+
+@End 
+Malledus: Prince, look! The bandits left 15,000G in the castle's vaults. We can use this money to supply ourselves with equipment. Tomorrow, we will arrive in Aurelis! For tonight, rest well.
+/***EOF***/
+@Opening 
+Gra's betrayal of Altea years earlier had come as a shock, of course, until that day they attacked Marth's kingdom in the name of Dolhr, Gra had been a trustworthy neighbor and ally. While the Altean army was out on an expedition, Gra struck from the rearm annihilating the Altean soldiers, killing Marth's father, King Cornelius and stealing Falchion, the blade of light. It was a crushing blow. Much time had passed since that sad day, and much had changed. Now it was Marth's turn to descend on Gra Bastion, and face King Jiol, the man who had robbed him of his father.
+
+@Intro 
+Enemy Soldier: King Jiol, they're ‘ere! The League is outside the Bastion!
+Jiol: League? How dare you call them that! I see naught but a prince of ghosts and his pack of rebels.
+Enemy Soldier: B-beggin' your pardon, sire, but everybody calls 'em the League now. Altea and Aurelis and Archanea...The League of A's, you might say!
+Jiol: Shut up, you idiot! Hmmm...So the princeling has returned. And he leads all the might of Archanea, with the Fire Emblem in hand...Did you send to Dolhr for reinforcements like I asked?
+Enemy Soldier: Of course, sire. Macedon's pegasus knights are on their way.
+Jiol: Pegasus knights?! How am I supposed to stop the Lea- those REBELS with a handful of...of winged ponies! Send another messenger! Tell them we need Camus's Sable Order, or...or Michalis's Dragoons! Blast...I deserve the same protection as the rest of the Empire! Betraying Altean was Gharnef's idea! Let...let him fight the brat! Don't just stand there, DO something! I don't want to die! Do you understand?
+Enemy Soldier: Yes, your highness...
+
+@Visit 
+Young man: They say that shops will all give you half off if you have a silver card... Sounds too good to be true if you ask me!
+
+Young man: I heard that once you reach LV.10, you can change jobs! Cavaliers can become paladins, mercenaries can become heroes... There's more but I forgot!
+
+Camus: Are you Prince Marth of Altea? I have a request of you. This tome belongs to one Bishop Boah of Archanea. Heimler of Grust got hold of it. It has come to be in my possession. Please return it to the bishop for me. One more thing... Watch over Princess Nyna. Your attention to this would put my mind at ease. I shall take my leave of you. We will meet again...
+
+@Recruit-Talk 
+%Marth,Palla 
+Palla: I am pleased to meet you, Prince Marth. I am Palla of the Whitewings. As soon as we heard that Princess Maria was safe, my sister Catria and I left Macedon. Just as she promised you, Catria and I will join your fight alongside Princess Minerva. However, our youngest sister Est still has not returned from Grust. If she makes it back, the three of us will show you how we can light up the battlefield together!
+
+%Marth,Catria 
+Catria: Hello, Prince Marth. It has been a while. Do you remember me? I am Catria. I was waiting for Princess Minerva's order before joining your army. I look forward to fighting together. I will do all that I can.
+
+%Midia,Astram 
+Midia: Astram! So this is what you've been up to...
+Astram: Midia! You're really here! I'm so glad you're safe. I've missed you...
+Midia: It seems you don't know yet... Altea's army has liberated the capital. We were set free and have joined their fight. There is no need to cooperate with the enemy any longer!
+Astram: What wonderful news! I will resume my fight against Dolhr!
+Midia: We can be together again! Promise me that you will never leave my side.
+Astram: Midia... In the time since we last met...
+Midia: Yes, Astram? What is it?
+Astram: I can't help but notice how you've matured while we were apart...
+
+@Recruit-Battle 
+Astram: I’m sorry... This is for my lover... Forgive me...
+
+Astram: Midia... Forgive me...
+
+Catria: Wait, I’m looking for Lord Marth.
+
+Catria: Why...
+
+Palla: Wait, I’m looking for Lord Marth.
+
+Palla: How ruthless...
+
+@Boss 
+Jiol: Grrr... Altean rabble! I should have killed you stragglers back when I had the chance!
+
+Jiol: Thus falls... the mighty kingdom... of Gra... My daughter... Sheena... you must... for me...
+
+@End 
+Malledus: We searched every inch of the castle but could not find the blade of light... As the rumors suggest, Gharnef must have taken it to Khadein.
+Marth: I see... Without Falchion, we cannot hope to defeat Medeus. Altea is so close...but we must go to Khadein instead. Disappointing, but I have to tell the troops.
+/***EOF***/
+@Opening 
+With a string of hard-fought battles behind them, Marth and his army finally arrive in Archanea, Nyna's home. Beyond the mountains lies the bastion of Archanea that has stood for 1,000 years: the Ageless Palace. It's golden walls have seen so many treasures stolen and so many of its people lost... Marth and his allies have journeyed far, and now one of their primary goals is in sight!
+
+@Visit 
+Man: This here is Knorda. You're in Archanea now! Don't forget to drop by the armories and the shops. You should find some good stuff if you look around!
+
+Young Man: At the edge of town, there's a slave market. If you look, you'll see that it's full of kids pulled from who-knows-where...
+
+Woman: I apologize... Since Archanea fell, this town has become desolate. It's not safe to walk outside with all the ruffians about!
+
+Woman: I hate war... It's always the women and children who suffer. You should stop fighting. Get back to those you love as soon as you can. Parthia, the bow of flame, Gradivus, the lance that pierces stone... And the magic blade that can only be wielded by the chosen, Mercurius. Those that obtain them are said to be blessed by the gods.
+
+Old man: Three ancient weapons known as the Regalia have been passed down through the generations of House Archanea: Parthia, the bow of flame; Gradivus, the lance that pierces stone; and Mercurius, the spectral sword. Only those blessed by the gods may lay hands on them- or so it goes.
+
+Old man: No person can defend themselves against the breath of a dragon. Any armour is useless, so fighting head on is very dangerous.
+
+@Recruit-Visit 
+Ruffian: You lookin' to buy a slave? All's I have left are some scrawny brats, but I'll cut you a deal.
+Marth: Look at these poor children! What a vile man you are. If you value your life, you'll unchain them immediately and get out of my sight!
+Ruffian: It's the Altean army! I'm done for!
+Marth: What a horrible ordeal you all must have suffered... But it's all right now. You can return to your homes. You there, why haven't you left?
+Linde: I...I don't have anywhere to go.
+Marth: You're a girl, aren't you? Yet you're disguised as a young boy.
+Linde: I am the daughter of Archbishop Miloah. I disguised myself to escape from Gharnef. But I was caught by a slave merchant when I ran away.
+Marth: So you're the archbishop's daughter! It's good that we found you. Princess Nyna has been worried sick! From today, we will stand beside you. I will not let anything like this happen to you again.
+Linde: Prince Marth, let me fight at your side. I have the Aura tome my father entrusted to me... If Princess Nyna allows me to help, I will use it. I want to take revenge for what Gharnef did to my father. I must defeat him.
+
+Jeorge: Greetings, Prince Marth! I am Jeorge, a sniper of Archanea. I was captured when Archanea was defeated, but, with effort, I escaped. I have been awaiting you. I hear Princess Nyna is under your protection. I wish to join you. With my silver bow in hand, I will expend every effort to set my land free.
+
+@Boss 
+Khozen: Burn...! Burn, till your blood boils and your flesh cooks!
+
+Khozen: Emperor Medeus...I have failed you...
+
+@End 
+Marth: Look, Princess Nyna. It's the Ageless Palace.
+Nyna: I am overjoyed to see it! Finally, I have made it home. Many of our warriors are still imprisioned within. We must hurry and save them!
+Marth: Of course. We will storm the palace before enemy reinforcements arrive!
+/***EOF***/
+@Opening 
+After shattering Macedon’s main force outside Aurelis Castle, Marth next led his army into the castle’s halls to liberate the kingdom. A number of treasures slept in Aurelis Castle’s nooks and crannies but how to extract them before they could fall into enemy hands? “Only a thief could open chests locked that tight,” grumbled one of Marth’s men. But we don’t have any thieves with us. ...Do we?
+
+@Intro
+Emereus: The rebels have made it into the castle? Impossible! Grr... Well, we will show them! Knights, form up and rush the intruders! Archers, defend the throne! Thieves, loot the castle's treasures and prepare to withdraw! Hear me! Do not let them set one foot into this chamber! Not one!
+
+@Recruit-Talk 
+%Marth,Wendell
+Wendell: Prince! I am Wendell, a bishop of Khadein. We are a peaceful people. But our pleas were met only with cruelty by Gharnef as he seized the city. Thanks to his dark influence, many mages have now allied themselves with Dolhr. Please, with the strength of your forces, find a way to put an end to Gharnef's ambitions.
+
+%Merric,Wendell
+Merric: Oh! Master Wendell? Yes, it's you!
+Wendell: Ah, Merric! How have you been, lad? You certainly look well.
+Merric: I was able to find Prince Marth of Altea! And I have joined his army as well. We are fighting the tyranny of Dolhr! Why are you here, Master?
+Wendell: How can I say this... Sadly, Khadein has fallen into darkness. A fiend called Gharnef has seized control. He has turned the city toward the shadow... I could not bear to serve him, so I fled on my own.
+Merric: What awful news! Master, please... Consider lending us your strength. If Gharnef serves Dolhr, he is our enemy! We will find a way to take Khadein back. I know the prince would be overjoyed to have so great a bishop as you as an ally, Master.
+Wendell: Hmm... Though I deplore violence, I cannot see another path... Very well, Merric. I will join your fight. Please let the prince know I am at his service.
+
+%Marth,Rickard
+Rickard: Thanks for saving me! Hey, wait a second... Aren't you the prince of Altea? My name is Rickard. I am but a humble thief. I came to loot this castle but ended up getting caught. Since you helped me out, I'll return the favor!
+
+%Julian,Rickard
+Julian: Rickard? It can't be! What are you doing here?
+Rickard: Julian! It's been too long since I've seen you, Chief. I came to this castle to steal a few things. And wouldn't you know it...I got a little sloppy. And what brings you here?
+Julian: Me? As of today, I've washed my hands of thievery. I'm on the side of what's good and just.
+Rickard: Ha! I bet I know the truth behind this change of heart. Beauties have always been your weak point.
+Julian: N-not a chance! The spirit of justice awakened within me! Look, don't worry about it. Just join up with us!
+Rickard: There you go again, trying to make up my mind for me. Since you're the one asking... Well, why not? It's settled! I'll lend you a hand. But I'll take a cut of the loot as payment!
+
+@Recruit-Battle 
+Wendell: I don't like fighting. You can do as you please...
+
+Wendell: This is regrettable...
+
+Rickard: Has anyone seen my big bro, Julian?
+
+Rickard: Crap, I blundered.
+
+@Boss 
+Emereus: Blast! They're upon me! Why didn't those idiot soldiers stop them?!
+
+Emereus: Rrgh... Why... ?
+
+@End 
+Nyna: You must be Prince Marth. You have done well to make it here. I am the princess of Archanea, Nyna. Though Archanea has long protected this world, Dolhr overwhelmed us, throwing all into chaos. I cannot fight. Marth, I beg you... Please, lead the forces of good and defeat Dolhr! You must liberate all of the lands Dolhr has occupied!
+Marth: Of course, Princess Nyna. Altea's allegiance to Archanea is steadfast. Moreover, as the prince of Altea, it is my destiny to defeat Medeus.
+Nyna: I thank you, Marth. I will now entrust you with this treasure... The Fire Emblem is given to one with the strength to save the world when my royal family cannot. With this, you will be able to open chests containing invaluable treasures. The battles you face will test your every skill. But fight as hard as you can. Return light to this world!
+/***EOF***/
+@Opening 
+Still smarting from their bitter experience with Gharnef and the dark magic Imhullu, Prince Marth and the League regrouped and marched south- home to Altea. Once Marth's kingdom had been beautiful, blessed with rich soil and clear waters; now the eyes tended to notice instead the barren farms; the ruins; forlorn stares. Marth vowed to free Altea from its torment without any further delay.
+
+@Intro 
+Nyna: So this is your country, Altea...
+Marth: Yes. Dolhr has occupied it for two years now. I escaped to Talys only thanks to my sister Elice's help. And in my place, she was captured by Dolhr. I have no idea where she is now. I vow that I will do whatever I can to rescue her! All right, everyone! It is time to take back Altea! Let us begin!
+
+@Visit 
+Old man: I have something very important to tell you. Listen well! In the northwest of this land, you will find two villages. A paladin named Arran dwells in the western village. In the easterly one, there is a hero named Samson. Both of them are fine men. The problem is the feud between their villages... Due to this rivalry, you can only add one of them to your ranks. Think hard about this before visiting either village.
+
+Young man: Psst... If you have a VIP card, you can access a members-only shop. Its location is a secret. Even I don't know it!
+
+Man: I heard a rumor that the prison to the east holds a young man called Xane. He isn't from around here... That's not all... I hear he holds a wondrous power.
+
+Woman: I am very glad to see that the Altean army has returned. Now this country can return to the peaceful days of old.
+
+Woman: Princess Elice was taken away somewhere by a bishop called Gharnef. How sad for the prince... I hope she's all right.
+
+Young man: If you intend to use the Devil Sword, be careful. It's a powerful weapon but a danger to its owner.
+
+Middle-aged Man: Three orbs are enshrined at the Fane of Raman, each brimming with power. What sort of power, none can say. Well, except those who have wielded it, right?
+
+@Recruit-Visit 
+Arran: I am Arran. Once, I was a knight captain. I left that life behind me, but if you have true need of my strength, I will join you. The feud between these two villages is bitter. If our neighbors hear you visited us, they will bar their gates. If you had hoped to recruit the hero Samson, I am sorry.
+
+Samson: I'm Samson. I used to be famous as a gladiator. That's behind me now. I'm just living my life here. If you need me, though, I'll head out with you. The feud between these two villages is bad! If our neighbors hear you visited us, they'll close their gates. If word gets around, you won't be able to recruit Arran.
+
+@Recruit-Talk 
+%Marth,Xane
+Xane: Hey there, Prince! Thanks for saving me. The name's Xane. I come from a faraway land. My people can transform into anybody. Dolhr found out and demanded I join them! I refused. I'd never help those villains! I'd be happy to help you fight them though!
+
+@Recruit-Battle 
+Xane: Hey! Wait, I’m not an enemy. Don’t fight me!
+
+@Boss 
+Hollstadt: Well done, rabble. Anyone else would be dead by now. A shame you must end your campaign right here, before your own gates!
+
+Hollstadt: Rrgh! General Camus... The rest... is in your... hands...
+
+@End 
+Marth: Soldiers of Altea, and everyone who has lent us your strength...you have my gratitude. Thanks to you, we have finally taken our country back from Dolhr. Many enemies still remain inside the castle, however! Do not drop your guard!
+
+/***EOF***/
+@Opening 
+Heeding Catria's request, Marth heads to Castle Deil in order to save the captive Princess Maria of Macedonia. Not all of the League's soldiers took Catria of the Whitewings at her word. Some insisted her plea was a ruse, a trap concocted by Princess Minerva herself. Marth doubted that, though; he had seen the woman in Lefcandith Valley, and she did not strike him as a sort of conniving menace his followers feared. That woman had the same expression as his elder sister... A tragic and painful one. In Minerva, Marth saw the figure of his older sister, Elice, who was still missing after being captured by the Empire in his place. As the brunt of Grust's might drew closer, Marth led the League to Castle Deil, determined to attack the citadel and rescue the young Macedonian princess, Maria.
+
+@Intro 
+Zharov: Princess Minerva, what brings you here? You've left your post: not very wise. Might I remind you, poor conduct on your part could have repercussions on how...comfortable...your sister remains.
+Minerva: I am aware of my sister, thank you. ...I did not come to make trouble. Just let me see Maria, for a little while. She's only a child, General. Think of what she must be going through.
+Zharov: Impossible, I'm afraid. She is a hostage. If your sister's well-being concerns you, then start following orders.
+Enemy Soldier: General! Grave news! The rebel army has been sighted east of Castle Deil!
+Zharov: What?! Why in creation would the rebels come here? Blast...Order the Dragoons to sortie! And don't forget to send word to the main army. We need reinforcements!
+Minerva: Rebels...? Then Marth has arrived...
+
+@Visit 
+Old man: There were three great bishops in this land. Miloah, the Master of Aura. Gharnef, The Dark Pontifex. And Gotoh, the White Sage. But now that Miloah has been defeated, no one can stand up to Gharnef.
+
+Old man: The levin sword... It is said that they who wield it can loose lightning that will crush even heavy armor.
+
+Man: Snipers are skilled bow users. If you carelessly let them get close, you could get killed.
+
+Old man: Beware of ballistae near the northern fort. They can attack from far away.
+
+@Recruit-Talk 
+%Marth,Maria
+Maria: Ah... You must be Prince Marth! (Wow! He's so dashing!) Thank you for saving me! You have to tell my older sister that I am safe! She must be worried... One other thing... I would like to join you, Prince. Let me stay by your side! Oh, please don't say no!
+
+%Marth,Minerva
+Minerva: Greetings, Prince Marth. I am Minerva of Macedon. For saving Maria, you have my thanks. I had no choice but to be your enemy. I regret that very much. Still, many in Macedon do support Dolhr, including my elder brother Michalis. To me, though, Dolhr is responsible for my father's death. I seek revenge for that. I must also worry aobut my troops, however. Especially the three Whitewings: Palla, Catria, and Est. Dolhr feared our rebellion and separated us. If they knew I was safe, they would happily join your ranks. How I detest Dolhr for trampling Macedon underfoot. Please, allow us to join your fight.
+
+@Recruit-Battle 
+Maria: Ah... Minerva, sister...
+Minerva: Maria was just a hostage. Why did you... I won’t forgive you!!
+
+Minerva: I am looking for Prince Marth.
+
+Minerva: Maria...
+
+@Boss 
+Zharov: Grrr... Must I do everything myself? Bah! You'll not get past me, rebel!
+
+Zharov: They're a force... to be reckoned... with... Rrgh...
+
+@End 
+Nyna: Prince Marth, do you know of the archbishop of Archanea, Miloah?
+Marth: I have heard he was a great man and the wielder of Aura, a powerful spell. He protected Archanea. It is my understanding that he fell fighting Gharnef, who has allied with Dolhr.
+Nyna: That is so. But he had a daughter named Linde. It is said she inherited the magic of Aura. Unfortunately, we do not know where Linde is now. No one does. I fear that something terrible has befallen her. Please, seek her out. Her father is no more, so we must protect her now. For Archanea's sake!
+/***EOF***/
+@Opening 
+It was General Ordwin, one of the Three Heroes of the War of Liberation, who put Grust on the map. His peerless knights tamed their neighbors the barbarians in the kingdom’s infancy, securing its place as one of the greatest of the Seven Kingdoms. However, the current king, Ludwik, was weak-willed and easily cowed: Dolhr had little trouble forcing him into an alliance. Now he had taken ill, even as Grust suffered its string of defeats at the hand of the League. The once mighty kingdom was poised to fall...
+
+@Intro 
+Nyna: Prince Marth. About Grust, there is something I wish to tell you. You should know that Grust's famous knights are led by General Camus. When the Dolhr-Grust allied forces seized control of Archanea three years ago, the entire royal family was killed, save me. I was given into Grust’s custody- the custody of the Sable Order, to be more specific. I am told Dolhr wished for my execution- and with it the end of the holy lineage of House Archanea- and Grust was willing to comply. Camus protected me, knowing he risked incurring the wrath of the Shadow Dragon. He was the one who eventually arranged for my escape to Aurelis. Afterwards, he was only held captive until recently, because he had won many victories for Dolhr. I hated him, too, at first. But in time, I found my hatred tempered by the compassion he showed me, my feelings... changed. If possible, I don't want to fight against him. All I wish is to see him again... 
+
+@Visit 
+Old man: It's good to see you, Prince Marth! Is my granddaughter Lena in good health? Please... give her this staff, Hammerne. It has been passed down in our family for generations. It can repair some weapons and items, but not all. Be sure to tell her to be careful when using it.
+
+@Recruit-Battle 
+Lorenz: No victory here can give Grust back her glory.
+
+Lorenz: This, too, must be fate.
+
+@Recruit-Talk 
+%Caeda,Lorenz
+Caeda: General Lorenz, I am Caeda of Talys. My father told me much of you.
+Lorenz: Princess Caeda! You have grown into a beautiful young lady. Yes, your father was a great help to me.
+Caeda: General... You did not truly want to become an ally of Dolhr, did you? Why then did you not put a stop to the alliance?
+Lorenz: Grust's king is a coward. He fears the power of Dolhr.
+Caeda: Dolhr's aim is to conquer all of mankind with an army of manaketes. For the sake of all of the innocents, including those in Grust, we must put a stop to that ambition. Stop fighting us. Instead, join us!
+Lorenz: My feelings have not changed... I fought only because I was ordered to. But it may be time to act. Very well, Princess. It is painful for me to betray my homeland, but I will join you in this fight!
+
+%Marth,Est
+Est: You must be Prince Marth! I am Est of Macedon. We finally get to meet! I went and retrieved the sword Mercurius that Grust stole from Archanea. It is not for us that I obtained it. It's for you! Please make use of it.
+
+@Battle 
+Marth: General Camus, I have no wish to fight you. You know this battle is pointless; surely you must! Nyna also wants to see you. Please forget about the past, and drop your sword.
+Camus: Prince Marth... It's already too late. So long as Grust continues to support Dolhr’s ambitions, it does not matter what I know or think. I am a knight; I have a duty to fight for my motherland’s glory till the very end. And besides, I caused your father's death. Why don't we just end everything here?
+Nyna: Wait, Camus... I beg of you. I do not wish to see that the two of you fight. It is... it is unbearable. Please, Camus, help us... no, help me.
+Camus: I am sorry, Princess. Were my heart my master, I would do exactly as you say. But... Betraying my homeland, right as it nears ruin, is something that I cannot do. Nyna... Our days together may have been short, but I was very happy
+Camus: ...Farewell. I pray for your happiness.
+
+@Boss 
+Camus: I pity you, for as long as I wield Gradivus, you have no hope of defeating me. Retreat and avoid this fate.
+
+Camus: My dear... Nyna... Farewell...
+
+@End 
+Marth: Princess Nyna... I am sorry. I could not do what you asked.
+Nyna: Marth... It is I who should apologize for putting you through this. In truth, since the moment I entrusted the Fire Emblem to you, I knew this would happen. I saw that once the royal family was restored by the Fire Emblem, I would lose something precious to me. Our land has a legend of the emblem, Artemis's Curse, that foretold this...
+/***EOF***/
+@Opening 
+Khadein, city of magic... This hallowed place is now under Gharnef's control. No warrior, no matter how brave, can stand up to the spells of Khadein. Though they may try, one by one...they will inevitably fall. Has this place truly sunk into shadow?
+
+@Intro 
+Gharnef: What? The dregs of Archanea have come to challenge my kingdom? Ha ha ha... Really, do they think people have not tried before? So long as I possess this Imhullu magic, they cannot snuff my life out. No one can. As for the White Sage... He will trouble me no longer. With the dragon-goddess right where I want her, in the Fane of Raman, there is no way for Gotoh's Starlight to disperse the shadows that guard me.
+
+@Visit 
+Man: You can't hope to fight Gharnef! His evil magic Imhullu protects him. Only Gotoh's Starlight can break his evil spell... But you didn't hear this from me! Get out of here!
+
+Young man: Strong armor is no use against magic. Have a curate use the spell Barrier instead or Pure Water!
+
+@Boss 
+Gharnef: You must not value your life very much... I will show you the true terror of the darkest of magic, Imhullu!
+
+@Battle 
+Gharnef: I don't have time to play with you, little prince! If you want Falchion, you'll have to come to Thabes!
+
+@End 
+Gotoh: Can you hear me, Prince Marth? I am the sage Gotoh. Through magic, I have reached out to you. Gharnef is too much for you. Listen to me if you want to defeat him! Gharnef and Miloah were both my students. But Gharnef stole Imhullu from me and disappeared. I believe he has Falchion as well... With both Falchion and Imhullu, he fears nothing, not even Dolhr. He aims to rule the world! As long as he wields Imhullu, he cannot be challenged. However, there is one way to defeat him. Bring me the Lightsphere and the Starsphere. If you can do this, I will grant you the one and only spell that can defeat him, Starlight!
+
+
+/***EOF***/
+@Opening 
+Trace a line around the continent’s north-eastern plains, and you have Aurelis. This kingdom alone had somehow resisted Dolhr’s attempts to conquer it, but only by some miracle. By the time Marth arrived in Aurelis, much of its territory had already been carved up by Dolhr’s ally Macedon. Still, the king’s younger brother, Hardin, refused to give up without a fight. The people called him Coyote, and he intended to live up to the name. Since its founding, Aurelis and the holy kingdom of Archanea shared close ties and months ago Princess Nyna of Archanea had come to Hardin’s aid. By his side, she had called on the people to fight- but few remained to answer. Macedon’s finest soldiers were closing in. Nyna knew they were out of time...
+
+@Intro 
+Hardin: Princess Nyna, the Altean Army has apapeared on the opposite side of the river.
+Nyna: Oh, Hardin, have they really? So Prince Marth has come...
+Hardin: Finally, we can build a force to fight back. Princess, it is dangerous here. Please wait for the prince inside the fortress. Together with Altea, we will retake the castle!
+
+@Visit
+Old man: There are many treasures within the castle walls. However, if you do not have a thief in your army, you will not be able to open the chests!
+
+Woman: I hear that the shops in Port Warren sell many rare items. If you plan to travel there, don't waste your gold beforehand!
+
+Woman: Many foes wait inside the fortresses, ready to enter the battle. Block them so they can't get out!
+
+Young man: Boy! What's that look on your face? Haven't you ever seen a backwoods village like this before? Speaking of rare sights... When I was last in Pyrathi, I saw a manakete! An old man stood there, but suddenly, he turned into a dragon! What a shock... Truth told, I was scared out of my wits at the sight of it! I've heard rumors about the dragonkin, that some survived to this day. Still, I never thought I'd see a manakete with my own eyes! What are you looking at? Oh, this? I picked it up on my trip. It's unusual, this glowing stone... I have no idea what it's for, so you can have it! It makes me uncomfortable anyway. What a nice young man! I hope we can speak again.
+
+@Recruit-Visit
+Merric: Prince Marth! Finally we meet again.
+Marth: Merric? is that you? What a surprise.
+Merric: I was studying magic in Khadein when war came. I left the city then and have been looking for you.
+Marth: I'm glad you sought me out. We could use someone with your talents in our army. Will you join us?
+Merric: Of course I will. I learned a strong spell in Khadein called Excalibur. I will demonstrate it in battle!
+
+@Recruit-Talk
+%Lena,Matthis
+Lena: Matthis? Is that you?
+Matthis: Lena?! What are you doing on a battlefield?
+Lena: I was attacked by bandits in the Teeth while tending to the sick there, and these people saved me. The real question is, what are YOU doing on a battlefield- least of all this one!
+Matthis: I’m not here by choice, sister of mine. Since you left, Macedon has only gotten worse and worse. They forced me to enlist- you know I hate warfare, but it was into the army or onto the chopping block.
+Lena: Shame on you, Matthis. If you’re going to fight, then at least fight for something you believe in. Medon has done terrible things: marrying their might to Doluna, helping them torment people...Brother, it’s not too late. You could join Altea’s forces. They’re good people you know. Prince Marth would welcome you. They all would.
+Matthis: ...All right, then. If I’m gonna to die, I’d rather die as one of the dashing than one of the dastardly. You know, Lena, you always were the reliable one and now you’re all grown up...I thought for sure you’d have already settled down with your one true love.
+Lena: T-true love? I’ve...I’ve met no such man, Matthis.
+Matthis: Hmm, is that so? I’ll bet you haven’t... Well, you just be careful. There are plenty of thieves out there who would steal a girl’s heart.
+Lena: Huh? But...
+Matthis: Well, Lena, don’t push yourself too hard. I’ll just go and say my farewells to the Macedonian army.
+
+@Recruit-Battle
+Matthis: Lena...where have you gone? Even if it could be just once more...I had hoped to see you again.
+
+Matthis: Lena... Forgive this useless brother.
+
+@Boss 
+Merach: Princess Minerva bade me guard this castle in her absence. You shall not take it so long as I stand!
+
+Merach: Heh... You think you’ve won, wretch? Far from it...
+
+@End 
+Aurelis King: Well met, Prince Marth! Princess Nyna has taken refuge in a fortress, but you will see her soon. Many enemies await you in the castle. You face many dangers. Do be careful.
+/***EOF***/
+@Opening
+Maria and Minerva's home, Macedon, is the birthplace of wyverns. It was known as a bountiful land of peace. That changed when Prince Michalis aligned his goals with those of Dolhr... against Minerva's wishes. He turned Macedon's wyvern knights to war, striking fear into hearts across many lands... As Marth and his allies approach, the amassed wyverns blot out the sun.
+
+@Intro
+Michalis: Lord Gotoh, the League has begun its attack. I wish for you to move someplace safe until the fighting has ended.
+Gotoh: Mmm... I understand. But Michalis, you truly are a fool.
+Michalis: ...! Why did you call me a fool!?
+Gotoh: You loved your younger sister so much. It pains me to see you quarrel. If you and Minerva had worked as one, Macedon might have become a great kingdom- greater even than Archanea, perhaps. But instead, you let Gharnef trick you into destroying your family, and your kingdom with it.
+Michalis: ...I cannot undo what is done. My father’s blood will always be on my hands, just as Minerva’s betrayal of her brother and country will be on hers. And Macedon has not been destroyed, not yet. So long as I carry Iote's Shield, the League’s arrows cannot fell me. Right now, my only goal is to gut that Altean prince who leads the League. My pride as Macedonian king rests upon it!
+Gotoh: I see... Then we’ve nothing more to discuss, have we? Go! Michalis, go and punish yourself, for the crime of killing your own father!!
+
+@Visit 
+Man: A great sage lives in the village to the north. He keeps to himself though! I've never met him. Nobody has!
+
+Gotoh: Marth! You have done well to make it here. I am Gotoh. As instructed, you have brought me the Lightsphere and Starsphere. I now grant you the only magic capable of countering Imhullu, Starlight. Take it and bring an end to the wickedness of the Dark Pontifex, Gharnef.
+
+Gotoh: Marth! You have not heeded my words! I require the Starsphere and Lightsphere both. Without them, I cannot create Starlight for you. I do not think you can defeat Gharnef... If you cannot claim Falchion from Gharnef, you have little hope of defeating Medeus. If you still wish to try, you must gain much in experience and reach the pinnacle of your strength. That is not all... You must also gather mighty blades like Gradivus, Mercurius, and the Devil Axe. Unless you make these preparations, Medeus's defeat is scarcely possible. This is the harshest road to victory. Are you truly willing to walk this path? Think long and hard on this decision. Choose wisely.
+
+@Boss
+Michalis: Damn you, Minerva! I will not be put down! Now, quake in terror before my wyvern knights!
+
+@Boss
+Michalis: Made it this far, have you? Don’t gloat yet. My Dragoons and I still rule these skies!
+
+Michalis: My dreams... have been shattered... Forgive me... citizens of Macedon...
+
+@End 
+Malledus: Prince! We have discovered the location of Thabes! Far north of Khadein in the desert of Mamorthod lies the city of illusion... None who have entered Thabes have returned... or so it is said. Prince... what should we do?
+Marth: Malledus...in order to retrieve Falchion and save my sister, we must step boldly into danger. Gharnef! I vow to liberate the beauteous land you despoil!
+/***EOF***/
+@Opening 
+The holy kingdom of Archanea had come into being six centuries earlier, when the region's numerous city-states were unified under one monarch. The first king, Adrah, had fought valiantly to accomplish this, wielding the three weapons he came to call his regalia- gifts from the gods, some said. The kingdom Adrah forged was pronounced holy; its kings were esteemed. With Archanea's aid, six more independent kingdoms sprang up in their own time. But Archanea was always the greatest - and now, Marth was about to take his first walk through its historic palace's halls.
+
+@Intro 
+Midia: Bishop Boah, do you hear the confusion the palace? Do you think something is afoot?
+Boah: Perhaps Princess Nyna was able to recruit an army and has returned...
+Midia: Do you really think so? We might be saved!
+Boah: Perhaps, but the enemy won't let us go without a fight... And without our weapons, we are helpless.
+Midia: But this is the perfect chance to rid Archanea of its foes! I am willing to take that chance, no matter what might happen to me.
+Boah: Your fighting spirit is so strong, my dear! But if you perished, Astram would surely weep.
+Midia: Yes... I do wish I could see him once more before the end. But if I cannot...
+Boah: If that is your wish, Midia, you must fight as hard as you can and never give up!
+
+@Boss 
+Volzhin: Rebel pup! You dare defy Dolhr? Then writhe in the fires of Bolganone!
+
+Volzhin: Do not think...you have won... Dolhr...is undying... Nngh!
+
+@End 
+Nyna: You have my gratitude, Prince. It is all thanks to you that I was able to return to my home. This shining bow is called Parthia. It is one of three weapons passed down by the royal family. Our enemies have stolen the lance Gradivus and the sword Mercurius. If you can obtain these weapons, their great power will make your fight that much easier...
+/***EOF***/
+@Opening 
+A stone bridge leading up the tall rocky mountain. This stone bridge seems to stretch to the heavens, as it spirals around. From the rocks fearful roaring and breathing sounds can be heard, as if the mountain was alive. The Dragon's Table... It is asn ancient ruin of the dragon tribe, and the place where the Divine Dragon King, Naga, sealed away the Earth Dragons. Now, after a period of 600 years, the Earth Dragons are currently awakening, and countless evil demons are being born...
+
+@Intro 
+Marth: What is this strange air? It feels like it's full of evil spirits.
+Jagen: That is true... My body appears to be frozen. These are the evil spirits of the Earth Dragons. Your highness, it seems we can't have everybody enter ahead. Since we don't know what will happen, please choose carefully who to take with you.
+Marth: I hope to at least take the people who are worried about the four sisters.
+Jagen: Mmm... There's no avoiding that. But how many people will survive? I bet this will be a fierce battle.
+
+Gotoh: Prince Marth. The altar is probably full of crazed barbarians and Mage Dragons that have lost their mind. They are being controlled by Gharnef's magic, and will definitely attack you. The dark priests that serve Gharnef also have fearful power. As this battle lengthens it will become fiercer, but don't stop and keep charging forwards! You must defeat Gharnef, and recover from him the divine Falchion sword that was stolen from Altea. Without the Falchion, you won't be able to defeat Medeus...
+
+@End
+Jagen: Your highness, the wall in front of us has collapsed!
+/***EOF***/
+@Opening 
+Marth and the others once again moved out from Altea, and headed towards the imperial capital of Millennium Court. But, along their way, they passed through the Kingdom of Gra, a land allied to Archanea. In the previous war Gra sided with the Dolhr Empire, which resulted in their king, Jiol, dying in battle and the destruction of the kingdom. The country was once a part of Altea, but they sided with Archanea after listening to Hardin's orders. Hardin found King Jiol's daughter, Princess Sheena, and allowed her to ascend the throne, and he then ordered reinforcements from Gra. Sheena received wild support from the citizens of Gra. To them, Sheena was their only hope. The youths all volunteered to become soldiers. They were happy to move out and have the chance to defeat their bitter enemy, Altea. But their dreams were shattered in an instant... Before the fast approaching Altean elites, Gra's soldiers lost all morale, and fled for their lives.
+
+@Intro 
+Samson: Princess Sheena, it seems the Altean army has arrived.
+Sheena: Really...? It's already the end. Samson, I have brought you much trouble. I need to watch the final days of my Kingdom of Gra. You may leave now.
+Samson: Princess, isn't it already enough? Shouldn't you despise King Jiol for forcefully taking your mother? Isn't that why you hid at Millennium Court and stayed away from this country? Right now you are just being tricked by Hardin, and being used by him.
+Sheena: Perhaps. I heard that the people of Gra wished for the restoration of the country, and that's why I agreed to help him. However Hardin is only interested in using us. He would just throw us away like rubbish the moment we became useless to him. Still, I will not leave! How can I just abandon those fighting for my sake!?
+Samson: Impossible... How can our fresh recruits resist Altea's elites...? Fine, if you're staying, I will also stay to the end. This could be interesting.
+Sheena: Samson... Why are you doing this? Aren't you mercenaries only interested in being paid with gold? I no longer have money to give you...
+Samson: I don't know why either. It's just... Sometimes men feel like there are things that they must do. Also, I want to see how that kid fights this battle. If he truly is a hero, perhaps your mind may be changed...
+
+@Visit 
+Old man: Hardin sent troops here to prevent Gra from rebelling. The Archanea soldiers are the only ones that can still fight. 
+
+Woman: Princess Sheena is the child of King Jiol's second wife. But, she is different from the king. She is a very kind person. The princess is prepared to sacrifice her life for her soldiers. Is there no way to save her?
+
+Woman: The soldiers here are all foreigners. There's nobody else to protect this country, because the knights of this country all died. Right now, the actions of the Archanea soldiers are deplorable. Their just the same as thieves... Those lowlifes!
+
+Young woman: Ah... Please leave me. I already have nothing to give you.
+Marth: Ah, please don't get us wrong. We aren't here to steal.
+Young woman: But, didn't you all come here from Altea for revenge?
+Marth: No, we don't want to fight Gra, because Gra and Altea were originally like one family.
+Young woman: Is that true...? Then, I will give my most important treasure... to... you
+
+@Recruit-Battle 
+Sheena: You... You dare treat my citizens like that... Die!
+
+Sheena: Forgive me, citizens of Gra.
+
+Samson: Prince Marth... I thought you were a noble person, but you're just a murderer... You disappoint me.*
+
+Samson: Sheena...
+
+@Recruit-Talk 
+%Marth,Sheena 
+Marth: You are Princess Sheena? It's great to see you safe. I don't view Gra as an enemy. Gra and my country were originally one country. The country may have divided after Anri's death, but we always got on well as allies. But, in the previous war, I felt deeply regretful about things turning out the way they did. Princess Sheena, please allow us to be friends once again. I don't want to fight Gra.
+Sheena: Prince Marth... Once I heard that you didn't attack my fleeing soldiers, I was really surprised. You truly are the second coming of King Anri. I trust you. Please... Treat the citizens of Gra... as if they were your citizens. I will hand my whole country to your care... Prince Marth.
+
+%Sheena,Samson 
+Samson: That's great Sheena. Now I can finally leave without worry.
+Sheena: Samson... Can you not leave...?
+Samson: You don't need me anymore. From now on Prince Marth will protect you.
+Sheena: Don't leave! I don't want you to leave...
+Samson: Huh, what? Why keep me? It doesn't seem like you. ...Fine. If you say you need me, I won't go anywhere else. I will protect you wherever you may go. Is that fine with you?
+Sheena: Yes...
+
+@End 
+Jagen: Lord Marth, if this battle continues it will become meaningless, and will only give more time for Hardin.
+Marth: Mmm, I was thinking the same. If we keep heading east, more needless blood will be spilt. So I have decided a different route for us to go. How about we go directly south from Menedi, and enter Millennium Court from Adria Pass?
+Jagen: You want the troops to cross that dangerous mountain path? It's too dangerous...
+Marth: I am already prepared for danger. Besides, we were able to conquer the dangerous Anri's Way, so this should be easy in comparison...
+Jagen: ...That's a fair point. If we can cross it, we can attack the enemy from the rear. Understood, we'll try that.
+/***EOF***/
+@Intro 
+Gharnef: Come, boy, you want to stop me again? This time I won't spare you!!
+Marth: Gharnef, give my sister and the others back!! Where have you taken them!?
+Gharnef: Hahahaha... Those clerics are going to become sacrifices for the resurrection of the Shadow Dragon. They are lost forever. Soon the Earth Dragon King, Medeus, will be reborn in his true form, and we require the clerics as live sacrifices. However their souls shattered because they couldn't stand the pain. Not even I can help them now. Thanks to them, the Shadow Dragon will awaken. He no longer fears even the power of the Binding Shield. It's a shame that everything's already over. Marth... You will die here!!!
+
+@Boss
+Gharnef: Hahahaha... Let me show you the might of my Imhullu spell...
+
+Gharnef: Haha... It's already too late... This world is done for... Urgh.
+
+@End 
+Jagen: Your highness, there's a stairway leading up!!
+/***EOF***/
+@Intro 
+Marth: ...! Isn't that my sister and the others!? Who are they protecting...? Damn... That's... Is that Medeus...?
+Jagen: Wait, if the princesses are in the way, your highness' sword will be unable to strike. We must think of something fast, otherwise the Earth Dragons will awaken, and then they will be in even more pain.
+Marth: What should I do...? How can I save them? Please tell me Jagen.
+Jagen: That... Not even I know. To defeat Medeus there is probably no other way except to...
+Marth: ...! What, you want me to kill them!?
+Jagen: That is one way. The princess cannot suffer any more. Taking their life is also a way of saving them.
+Marth: Jagen, are you SERIOUSLY telling me to make this decision?
+Jagen: As leader, there are times when you must make painful decisions. That is what I meant.
+Marth: Jagen, that's enough, I understand. I will not give up. There must be some other way. Until the very end, I will not give up!!
+
+@Battle 
+Cleric: THOSE WHO OPPOSE... LORD MEDEUS... MUST DIE...
+
+@Recruit-Talk
+%Minerva,Maria
+Minerva: Maria! Please open your eyes. It's me, Minerva! Be strong!
+Maria: Uh... Oh... Minerva, sister... Ahh, Medeus, he...
+Minerva: Everything's alright now, relax. I'm sorry, Maria, for letting you experience all this...
+Maria: Sister... I'm scared... so scared. Oh! How is brother? He fought with Gharnef to rescue me.
+Minerva: Michalis, he... He's alright, Maria, don't worry.
+Maria: Really? Then, when we return home, will we be like one big family again? That's great, sister. Oh, I really want to see brother again.
+Minerva: Maria...
+
+%Sirius,Nyna 
+Sirius: Princess Nyna! Open your eyes! Be strong...!
+Nyna: Ah... I made a huge mistake. Because of my stupidity... I caused such grief for Hardin. And I made him... turn into that. Oh... I... What should I do?
+Sirius: Empress... Prince Marth has already ended Hardin's suffering. Even until the end Hardin still loved you, and he apologized for his crimes. It's alright now. You don't need to suffer anymore. You just had a bad dream, that's all...
+Nyna: ..... You are.....?
+Sirius: Princess Nyna! You mustn't give up. You shouldn't be a weak person!
+Nyna: Ah...! You are... Camus...!? You are Camus!! Why... Why are you... Am I dreaming? You're still alive... Ah... It's true...
+Sirius: .....! Empress... I think you're mistaken. I am Sirius, a soldier of the allied army. I don't know anybody called Camus...
+Nyna: Sirius...!? ...How...? No! That's wrong!! You must be...
+Sirius: Please calm down. You must be very tired. I must leave this place very soon. Well, Empress Nyna... You should return to Prince Marth's side...
+Nyna: You... Where are you going?
+Sirius: I must return to my country. I... I have somebody waiting there for me.
+Nyna: Really, is that so? I understand... Sirius... thank you.
+Sirius: ..... Sorry...
+Nyna: Huh...!?
+Sirius: It's... nothing... Empress, you must go!
+
+%Merric,Elice 
+Merric: Elice! It's me, Merric! Please open your eyes. I studied magic so that I could protect you... Yet I still couldn't do that, or be by your side... Elice... I'm begging you... Please open your eyes!
+Elice: Merric...? ...! Oh, Merric! Save me... Gharnef, he... is so frightening... Please save me!
+Merric: Elice! Great, you've finally awakened. It's alright now, I'm here. Oh... But Marth... and the others are watching... This is embarrassing. Elice, no matter what happens I won't leave your side again... Okay?
+
+%Julian,Lena 
+Julian: Miss Lena, wake up! It's me, Julian. What should I do? I know I'm a man with no merits, but for you I will do anything. I don't have any other wishes, I just want to see you smile, Miss Lena. Smile, I'm begging you, Miss Lena...
+Lena: Oh... Julian... You did come. I believed that you would definitely come. So that's how I could endure the horrors that I faced... Julian, I'm sorry. I always acted like a spoiled brat to you.
+Julian: No... Just hearing Miss Lena's words is enough for me.
+Lena: Julian, can you listen to a request of mine?
+Julian: Huh? Oh, please ask, as long as I can do it...
+Lena: From now on, just call me Lena. It seems so impersonal when you call me Miss Lena. Because we're going to return to Macedon, to live together.
+Julian: Huh? ...Miss Lena... Oh... No... I meant Le... na... Do you really mean that...
+Lena: Mmm... I believe the deities will forgive me. Because of my... love for you.
+
+@Recruit-Battle 
+Maria: Ah, Minerva, sister...
+
+Nyna: Ah, Camus...
+
+Elice: Ah, Merric...
+
+Lena: Ah, Julian...
+
+@Boss 
+Medeus: I... HAVE RESURRECTED... STUPID HUMANS... I WILL KILL YOU ALL...
+
+Medeus: HAHAHA... IT'S NOT OVER YET. YOUR NAIVETY... WILL DESTROY YOU... THOSE SISTERS WILL BE SACRIFICED... THEY WILL BECOME MY BLOOD AND MY FLESH... AND GIVE ME POWER!
+
+Medeus: GWA...! WHY... WHY HAVE I... BEEN DEFEATED... SO EASILY...... IS THIS... THE POWER... OF NAGA'S... BINDING SHIELD...? BUT... HUMANS. DON'T FORGET... AS LONG AS GREED LIVES ON IN YOUR HEARTS... YOU WILL LOSE THE SHIELD AND I WILL RISE FROM THE EARTH ONCE AGAIN... REMEMBER... TH...IS...
+
+@End 
+Gotoh: Marth, courageous prince of Altea. Because of your efforts, the Dark Earth Dragon, Medeus, has finally been completely destroyed. Medeus's servants, the Earth Dragons have also vanished into the darkness. As long as the Binding Shield exists, they won't awaken anymore. Marth, descendant of Anri, and the chosen Prince of Light. You have saved mankind, and you have saved our dragon tribe...
+Tiki: Marth!! I don't have to go back to the Ice Dragons' Temple anymore. I'm so happy! I really like everybody. I definitely don't want to live all by myself at that lonely place again. It's really... like a dream. I'm so happy, so very happy. Marth, I really like you!!
+Marisha: Really Tiki... For how long do you plan on hogging Marth!? Honestly Marth, if you dare to show even the slightest happiness, Caeda won't forgive you.
+Caeda: Marisha, you're talking nonsense again. However Marth really does look happy...
+Marisha: He can finally put to rest his heavy burden. Lord Marth has always been carrying such a heavy responsibility. It must have been hard on him. But Caeda has also had it hard. There are so many people around Marth that finding a chance to even talk to him is difficult. You must have been lonely.
+Caeda: Mmm... It doesn't matter. As long as Marth is safe, I wouldn't wish for anything else. I once prayed to the deities, since Marth had such an important mission. I prayed that if they decided his life was to be taken, to take my life in his place... That was all I could do.
+Marisha: ..... Ah, Caeda truly can't be beaten. But you don't have to wait any longer. Because Lord Marth is about to return to your side. Look, Caeda, Marth is looking over there. Use your courage!
+
+Caeda: Marth...
+Marth: Caeda, it's finally over. I'm sorry for making you suffer.
+Caeda: No, I couldn't help you one bit... I'm the one that should be sorry.
+Marth: Don't be silly. It's only because I had Caeda that I was able to reach this day. Things will be more difficult from now onwards. The seven kingdoms of Archanea are going to be unified, and everybody is going to hand responsibility to me. But, such a task I cannot possibly do by myself. Caeda, I hope you can help me. I really need you.
+Caeda: I... When I left Talys island, I already swore an oath. No matter where you went, I would be by your side. No matter what happened I would have faith in you. So, no matter what hardships there are, I can endure them. Because Marth... I lov...
+
+@Narration 
+And so the tragic War of Heroes finally came to an end. The seven kingdoms were unified by Prince Marth. The united Kingdom of Archanea was established and peace reigned. The tales of the heroes were remembered by future generations. Archanea’s hero saga... This is the story of the brave warriors who saved Archanea...
+
+
+/***EOF***/
+@Opening 
+Soon after reclaiming the Fane of Raman, Marth's army fears pursuit from the Archanean army and escapes towards Chiasmir Bridge. However, a new enemy attacks the Altean army upon reaching the central islet.
+
+"The Archanean army is coming from the north; we'll be surrounded like this."
+
+The situation is desperate! Can Marth and his friends overcome the many perils?
+
+@Intro 
+Cain: Sire, you're safe! 
+Kris: Sir Cain! You made it!
+Marth: I'm truly glad that you came back unharmed, Cain.
+Cain: Yeah, somehow I managed to shake off the enemy and escape here. But the enemy is already approaching from the north.
+Marth: Don't worry. We will crush them.
+Cain: No, not this time. Hardin is being protected by a mysterious power: we can't lay a finger on him. So even if we fight him now, we haven't a chance of winning. Please, head to the northwestern fortress. There's a boat across the river, which we can use to escape to the Khadein desert.
+Jagen: Sire, the free company to the south will probably make their move soon. Indeed, now's not the time to fight. For the time being, let's do as Cain suggests and make our escape. After that, we'll think of something...
+Marth: I see... I don't like it, but we haven't a choice... Everyone, hurry to the northwest fortress!
+
+@Visit 
+Villager: If ya ask me, archers'll always get along well with archers.
+
+@Recruit-Visit 
+Bantu: Oh look, if it isn't Prince Marth. Long time no see, Lad. It seems so noisy out; I wonder what's happened?
+Marth: Ah, Bantu! Fancy meeting you in a place like this. How is Tiki?
+Bantu: Oh, she is no longer by my side. Lord Gotoh took her to the Ice Dragon's Temple again.
+Marth: The Ice Dragon's temple? Where's that? I've never heard of such a place...
+Bantu: It's in the icy lands, far north of here. But it's no place for humans. Besides the hero Anri, no man has been there yet.
+Marth: Anri?! Are you, perchance, referring to the "Realm of the Gods" from Anri's legends?
+Bantu: I'm not at liberty to say anything more. If you want to know more, you should ask Lord Gotoh. Anyhow, I have a favor to ask of you. My precious firestone was stolen by thieves. If you can get it back for me, I'll show you how it works. Thank you, Prince Marth.
+
+@Battle 
+Hardin: Heh heh heh... Prince Marth, it's been far too long.
+Marth: Hardin... Why did you attack our country? What would compel you to do such an act? I... I can't believe this. Have you really changed this much?
+Hardin: Prince, I am the ruler of this continent and the Emperor of Archanea. I will show no quarter to anyone who opposes me. That includes you, Prince... I must destroy this foul world... It is beyond salvation. Traitors, playtime is over. You will all die here. All soldiers, attack! Do not leave a single traitor standing!
+
+@Recruit-Talk 
+%Gordin,Jeorge 
+Gordin: Master! Please, wait!
+Jeorge: Hm...? Gordin? Long time no see. You seem to have gotten a little sturdier, but has your bow arm improved any?
+Gordin: Yes, at the moment, I... They call me Altea's master of bows. It's thanks to you, Master, that I've been able to progress this far.
+Jeorge: And? Did you come here because you wanted to challenge your old teacher?
+Gordin: N-no! It's not like that... ...I might be asking the impossible, but I'd like you to fight alongside us again, sir.
+Jeorge: ......
+Gordin: Please! Master!!
+Jeorge: I pledged allegiance to Princess Nyna, but as for Hardin... I've had it with him. Taking other countries by force, executing "rebels" without reason. The Archanean army I see now is just a collection of hired thugs. There's not even a shred of chivalry left. To return the kingdom of Archanea to what it was once before... I must take it upon myself to turn my bow against my homeland. Gordin. Convey that to Prince Marth.
+Gordin: Thank you, Master!!
+
+@Recruit-Battle 
+Astram: You traitors! I'll show you the might of Mercurius!!
+
+Astram: Midia... My love...
+
+Jeorge: You wouldn't have needed to die if you hadn't come so close, fools...
+
+Jeorge: What fools...
+
+@Boss 
+Hardin: Rebel soldiers... Come to die, have you? I'll show you the terror of Gradivus!
+
+@End 
+Jagen: Please hurry, sire. The enemy is closing in on us.
+Marth: But everyone is still fighting. I can't just leave them behind.
+Jagen: Don't worry, everyone will escape safely and reunite with you at Khadein. Now sire, to the boat!
+/***EOF***/
+@Opening 
+Marth followed Xane and continued heading directly north. There he faced walls of towering mountains... As well as sheer cliffs and deep valleys... Then, after passing countless mountains... Suddenly, a scorching heat surrounds everyone. Magma flowing like rivers, and sounds of roaring, block their passage. This is truly a fearful sight.
+
+@Intro 
+Marth: This place... It's incredible... I feel as though I'm burning up just by standing here.
+Xane: This is Flame Barrel... The fire dragons' graveyard. It's where the fire dragons who've degenerated into savage beasts come to wait for their death.
+Marth: Degenerated, you say...? What do you mean by that?
+Xane: I'm not sure if you're aware, but the dragon tribe is dyin'. Those who don't confine their true, dragon form in a stone eventually lose all reason and become monsters.
+Marth: So that's why they become Manaketes? Xane, if you know something about the dragon tribe, please tell me.
+Xane: If you really wanna know... Tens of thousands of years ago, the dragon tribe settled down on this continent, and created a civilization. They possessed intellect and abilities far exceedin' those of humans. But suddenly, outta nowhere, their day of destruction came. At first, they couldn't bear children. Then they began to lose their minds, goin' berserk one after the next. The elders warned that the end of dragons as a species was approachin'. There was no longer any way to prevent it. However, there was one way they could survive: to discard their identities as dragons and live on as humans. The dragons fell into a panic. Those who believed the elders sealed their forms within stones and became humans. But those who couldn't throw away their pride as a dragon; those who adamantly refused to become human... They eventually lost their minds and became naught but beasts...
+Marth: Those fire dragons before us...
+Xane: Yeah, they're a livin' example. And it's not just them. There are many others. But they've all gone feral now. There's no way for them to go back... Worse still, they've been manipulated and degraded like cattle by the fire clans who rule over this valley. Well, princey. Whadya say we get out of here? The clansmen around here ain't friendly; if we hang around, we'll end up as bait for their dragon pets.
+
+@End 
+Xane: Phew! And that be the end of the fire dragons' valley. How you doin', princey?
+Marth: I'm fine... I think. Xane, I believe you said that there were other feral dragon tribes.
+Xane: Yeah. In addition to this valley, there's the Wyvern's Dale, the Ice Dragon Shrine and the Dragon's Altar...
+Marth: The Dragon's Altar?
+Xane: It's a dragon graveyard in the mountains of Macedon. There, the earth dragons sleep. A long time ago... Thousands of years ago in fact... The mighty earth dragons lost their minds and attacked the humans. 'Course, the humans barely stood a chance. Most were annihilated, and the rest pushed into the desolate corners of the continent. And then... the divine dragon Naga, strongest of them all, waged a war for humanity. It was a fierce battle, but Naga emerged victorious in the end, and sealed the earth dragons below Dolhr, in a deep sleep. And so that the power of the seal would not wither, she created the "shield of the five orbs" and placed it in the Fane of Raman.
+Marth: I see... I understand now. In other words, our guardian deity Naga depicted in legend was the divine dragon that saved humanity. But then, what about the divine sword Falchion?
+Xane: Naga took pity on you humans, with no way of protecting yourselves, so she created it from one of her fangs. Then, together with the shield, she sealed it in the fane, and had the remainin' dragon houses watch over humanity. She put the newly born Tiki to sleep and thus ended her 5,000-year life. 'Cause of all this, Gotoh's tryin' his best to carry out Naga's order.
+Marth: Wait, Xane... Are you telling me...!?
+Xane: Yes: Gotoh is a divine dragon. What, you thought it was just me?
+Marth: Wa-wait, Xane. I still don’t understand. What exactly did you mean?
+Xane: Phew, my throat is really dry. I can’t stand the heat anymore. Marth, let’s hurry along.
+/***EOF***/
+@Opening 
+Marth was unable to reunite with Princess Minerva, and so, in order to help Ogma and the Grustian royal children, he decided to visit Wendell, who was once the children's guardian.
+
+However, the "Holm Beach" where Wendell resides is dominion of the infamous Macedonian Vikings. Countless pirates await in Marth's path. Will Marth be able to safely rescue the children...?
+
+@Intro 
+Ogma: Yuliya, Jubelo. This place is notorious for the Macedonian Vikings. If we could, we'd stay the hell away, but the village where Lord Wendell resides is just past this area.
+Jubelo: Mister Ogma... I'm scared... Can we go back...?
+Yuliya: Jubelo! Get a hold of yourself! You're a man, are you not? Show some spine! You can use a Fire tome, can't you? So... fight with it!
+Jubelo: But Master Wendell said that we mustn't fight... Besides, I don't like fighting.
+Yuliya: Ugh, stop complaining! It's just you and me now. You have to stay strong, because I... sniff... I don't know what we're supposed to do...
+Jubelo: Oh... I'm sorry, Yuliya... I'll do my best, so... please don't cry!
+Ogma: Damn... This can't be good... We've been spotted. Kids, we've got no choice; we're going to have to cut through. Do not leave my side!
+
+@Visit 
+Boy: D'you know of a staff called Rescue? I hear you can bring faraway allies right next to you in a flash! It'd be so cool if it were true!
+
+Girl: Oh, those "Star Shards" are so shiny and pretty. If you hold on to them, something good might happen to you.
+
+Villager: These days, all them bandits and pirates've been doin' as they please. Geez. This wouldn't 'ave 'appened if it weren't for all them political tomfoolery.
+
+Villager: Oh, you're... you're... the prince of Altea! How nice of you to drop by, sir!
+Marth: I heard Lord Wendell was living here.
+Villager: Yes, that, er... was correct... Yesterday, a group of Archanean soldiers suddenly came and took the pontifex away. Although, Prince... He did leave his magic tome behind. I believe it's wind magic. Please, take it with you.
+
+@Recruit-Visit
+Marth: Well, if it isn't Castor! What brings you to a place like this?
+Castor: Ah, Prince Marth! Erm... Actually, I need money for medicine for me sick mother. But I couldn't find any work in Talys, so I moved here instead.
+Marth: I see... That's terrible... I do hope your mother gets better. Well, goodbye then...
+Castor: ......... Wait!! Me mother, she's really sick... I need money, sir...
+Marth: Hm? Oh right, here. It's only a little, but I hope it helps.
+Castor: Uhm... Thank you, Prince Marth. You don't have to be so kind to a guy like me...
+Marth: Castor... That's a bit much... It's only natural to help someone in need.
+Castor: No, Prince Marth! You've done so much for me. I want to help you. Please, let me fight alongside you. You have my life at your disposal!!
+
+@Recruit-Talk 
+%Ogma,Sirius
+Ogma: And just who the hell are you? Are you in league with the pirates?
+Sirius: I am Sirius, a mere traveler.
+Ogma: Oh, I see. I'm a little bit worked up right now. Sorry about the mix-up.
+Sirius: Those children...
+Ogma: I'm taking care of them. Do you know them?
+Sirius: No, I don't... But I do know that, as things stand, you won't escape with them. As I understand it, the Altean army should arrive here, provided you reach the southern village. Please, allow me to distract the bandits, while you make your escape to safety.
+Ogma: I see. So Prince Marth is here, eh? Got it, thanks. I've got to ask though. Why help a group of complete strangers like us?
+Sirius: I want to save the children. That is... all.
+Ogma: I see... Sirius... You said your name was Sirius, right? Let's meet again after we both get out of here! There's someone I need to take care of... The guy in charge of Grust's occupation, Commander Lang. I want to avenge a man named Lorenz... You--join me...! If I've got you on my side, then I'll be that much stronger.
+Sirius: Yes... That would be interesting. But first, you have to survive. Hurry and go!
+
+@Recruit-Battle 
+Sirius: Touch me and I'll strike you down.
+
+Sirius: How foolish of me...
+
+@Boss 
+Guile: I'm sorry! ...I wasn't thinking! Gahaha, just kidding! I'll be smashing your pretty head in!!
+
+Guile: I won't... forget this!
+
+@End 
+Caeda: Marth!!
+Marth: Caeda? Did something happen? Why are you here?
+Caeda: Marth... Altea... Altea was attacked by the imperial army. The Archanean League... Gra and Aurelis ambushed us. Our forces were annihilated and we lost the castle...
+Marth: Wh-what did you say?! This can't be happening! Altea is... Jagen, what's going on?
+Jagen: This is terrible beyond words... That which I feared the most has come to pass. Emperor Hardin likely heard Lang's story, and had us branded traitors.
+Marth: I refuse to believe it. Hardin would never attack Altea! You're telling me that he believed Lang and truly thought that I wished to instigate a rebellion? Never!
+Jagen: No, I agree with you, sire. This attack was too soon. It happened far too quickly. For an attack of this scale, a great number of preparations had to have been in place. It is likely... that the Grust campaign was a setup. As was the situation in Macedon. It's quite simple, really. They had you leave Altea, with your elite knights in tow, and then proceeded to attack our weakened defenses. Hardin had this planned right from the start.
+Marth: That's preposterous! Are you implying that Hardin--with no provocation whatsoever--decided to attack his fellow nation? Are you seriously suggesting this was all an elaborate trap? No! I won't accept it... Hardin... why?
+Jagen: Sire... Princess Caeda, what of the others? Is Princess Elice safe?
+Caeda: Elice, she... She gave herself up in order to let me escape with this message. Marth... I'm so sorry. She wanted me to warn you, no matter what... Sniff...
+Marth: Caeda... Don't cry. I understand. Just knowing you're safe makes me happy. I should be the one apologizing. I shouldn't have left... You needn't have to go through this. We will take back Altea. Even if we have to fight Hardin, we WILL reclaim our homeland!
+/***EOF***/
+@Opening 
+Once upon a time, the region of Macedon was a territory under Dolhrian rule. A century ago, the dragonkin rulers sent many slaves to these wild forests, to excavate ruins and build a country. Many slaves were forced to work to their limits, barely fed, and then slaughtered.
+A young man stood up against such tragic conditions. Iote was his name. He and his companions fled to the forests and fought, astride wyverns, to free the slaves. After Dolhr's demise, the slaves established their own country in these now abundant lands. And the hero Iote was chosen as their first king. And so was born the Kingdom of Macedon, later feared as the domain of dracoknights.
+However, the might Macedon was stripped of Prince Michalis, said to be the second coming of Iote, and is now on the brink of losing Princess Minerva, the so-called "Red Dragon."
+
+@Intro 
+Palla: Julian, good news! Catria finally brought the Altean army for us! We're going to join their ranks to help save Princess Minerva. Please take Lena and escape to safety, quickly!
+Julian: No can do, Palla. Lena's disappeared... I'm not leaving by myself.
+Palla: What? Lena as well... Princess Maria is missing too; why is it only clerics...?
+Julian: Anyway, I'm staying in the village to see if I can't find any information. Sorry, Palla. Give my best to Prince Marth.
+
+@Visit 
+Villager: This is just between you and me, but I heard that armory is in league with the rebels. If you're going to enter you should be careful not to get jumped.
+
+Villager: I wonder what's going to happen to Macedon? They say that Prince Michalis is dead, and Princess Maria is nowhere to be found... On top of that, they say that Princess Minerva has been captured and that her life is in peril. I just hope... that this country doesn't end up like Grust...
+
+Villager: You know, a little while ago, a paladin came here; said he was on a journey. He was wearing a mask, but I'm sure that underneath, he was a good person. He was kind, yet wrapped in a veil of sorrow. I wonder if I'll ever see him again...
+
+Villager: The pegasus knight trio must be lonely without Est. And I was such a fan of their "Triangle Attack!" too... Oh, Est... Come home already, will ya?
+
+Villager: Have you noticed the large drawbridge behind this village? Normally it's separated by the river, but if you use this key here, you can cross the bridge. Just, once you cross the drawbridge, the enemies on the other side will come and attack you at once. If you want to advance safely, you might be better off taking the long detour that goes right around the mountain. Here, take the key. No matter which path you take, do take care of yourself, m'kay?
+
+@Recruit-Visit 
+Julian: Hey, Prince, it's been a while, hasn't it? It's me, Julian!
+Marth: Julian? I'd heard that you'd gone to Macedon with Lena, but to think we'd cross paths here... How is Lena? Of course, she's with you, right?
+Julian: Well, er, how should I say this... Lena suddenly up and vanished... I... I don't know what to do.
+Marth: Wait, Julian, tell me what happened, in detail.
+Julian: Lena's been missing since last night. The villagers speak of some sort of strange priest prowling around lately. It seems that somehow, Lena was taken by this man.
+Marth: A priest...? Julian, as it turns out, Princess Maria has gone missing as well. I have a terrible feeling about this. Anyway, staying here won't solve anything. Come with us. I'm worried for Lena, too. We'll all help to look for her.
+Julian: Prince Marth... Thank you. Nothing would please me more.
+
+@Recruit-Talk 
+%Julian,Matthis
+Julian: Hey! Cut it out. Why must you always insist on pointing your sword at us? I pity Lena for having to put up with your stupidity.
+Matthis: Oh, it's you, Julian. Are you still trying to worm your way into Lena's good books? No way, I won't hand my cute lil' sister to a thieving rat like you.
+Julian: You can relax... Lena and I would never work out. But even if it's just a little, I wanted to help her in any way I could.
+Matthis: Ooh, you finally realized where you stand. Attaboy, Julian!
+Julian: Er, that's not the kind of thing I want to be hearing from you... Well, whatever. If you're worried about Lena, then come with me.
+Matthis: Oh, alright, thanks. You see, they forced me to join the rebel army, but you know I hate fighting. Alright, lil' brother. Let's join forces and look for our cute lil' Lena!
+
+@Recruit-Battle 
+Matthis: Lena... Where are you? What I would give to hear your voice just once before I die...
+
+Matthis: Lena... F-forgive... your foolish big brother...
+
+@Boss 
+Rucke: D-damn it... Why is the Altean army here...? You're all going down with me. Die!
+
+Rucke: The Altean knights... As I expected...
+
+@End 
+Jagen: Sire, the rebels have fled the castle, but I regret to inform you that Princess Minerva was nowhere to be found.
+Marth: What could have happened? She was supposed to be held inside the castle...
+Lang: Oh-hoh, I knew this task was unworthy. Excellent work, Prince Marth. We'll take care of Macedon from here. Now, let us discuss your next mission.
+Marth: General Lang, what in the world do you want this time?
+Lang: Well, you see... My castle was attacked and the Grustian prince and princess were kidnapped. The perpatrator fled to Macedon, it seems. Prince Marth, you are to capture him and return the children to me!
+Marth: You're asking me to send those children to their doom!
+Lang: You're in no position to defy me. Now, off to work you go, my prince.
+Kris: You...! Your rudeness towards my liege has gone too far...! Shut up! Prince Marth is not your minion!
+Lang: What did you say?! Know your place, Altean soldier! Marth, it seems that your countrymen are devoid of manners!
+Marth: ...I apologize on his/her behalf. But it is as Kris says: General Lang, I will no longer follow your orders from here.
+Kris: Sire...!
+Lang: What! Do you mean to defy my orders?! I see... I see. As I suspected, it was YOUR doing. The person who kidnapped Grust's prince and princess was the mercenary, Ogma. On your orders, no less!
+Marth: I didn't know of this. But if I had the choice, I would have done exactly as you suggested. Back at Grust, even though they were meant to be our enemies, I should have helped those children.
+Lang: You! You clearly speak words of treason! Perhaps I should report this to the Emperor!
+Marth: Do as you will. But you're not the only person who intends to visit the palace. I will speak to Emperor Hardin and Princess Nyna and inform them of your crimes. Forgive me, Jagen. But I cannot stand for this any longer.
+Jagen: I understand. You have endured well until now. Lang, my liege might forgive your frequent rudeness to him, but I will not. Come, draw your sword. Even though I, Jagen, am old and senile, I will not lose to the likes of you.
+Lang: Wh... what did you say?! Damn you... I'll remember this!! Once the Emperor gets wind of this, I'll crush your puny little Altea!
+Marth: Jagen... you're a bag of surprises. To think you'd stand up against Lang like that.
+Jagen: Sire, are you underestimating me in my old age? Bwahaha... I'm not about to let youngsters like Kris hog all the glory just yet. Still, I'll admit it was somewhat foolish to contest with Lang, even if he did push my lord at every turn.
+Kris: Sire, Sir Jagen. What is our next plan of action?
+Marth: According to Lang, Ogma is on his way to Macedon. He probably intends to visit the village where Lord Wendell resides.
+Jagen: Understood. But, I worry about Lang... I pray that nothing bad shall happen...
+/***EOF***/
+@Opening 
+It is the second month of the third year in the history of the empire... Archanea's holy city of Pales is in the midst of a time of mysterious silence. Archanea, because of a civil war begun by the paladin Midia, has arrested many capable knights. However, Archanea still has twice the military power of Altea to fill the streets of Pales with. It has already been nearly a whole year since the expedition to Grust. And now, at long last, the final battle, which would decide the fate of both countries, was about to begin...
+
+@Intro 
+Marth: I should have expected no less from Archanea. They have such a powerful army. We won't be able to get close so easily.
+Jagen: Hardin is gambling everything on this one battle, and he appears to have gathered the entire army of Archanea here. But, any knights with a conscience already joined the coup and have nearly all been executed. All that remains are just weak mercenaries, so you don't need to fear them. Right now, many people hearts have already swayed from Hardin, and the citizens welcome us as their liberation army. This should give us confidence like no other. Anyway, this is the last battle. Although it might take time, please take care while advancing.
+Marth: I understand. Let's go, Jagen. I am worried about Midia.
+
+@Visit 
+Woman: Emperor Hardin was once a kind man, but he suddenly changed into such a frightening Emperor... Ah... If I say things like this, I will get killed as well.
+
+Young man: Midia is the pride of Archanea. She was the daughter of th highest officer of Archanea, Duke Owen. This rebellion only came about because she could not stand and watch us suffer. No matter what, you must rescue her.
+
+Young woman: We thought that Nyna and Hardin's marriage would finally bring peace to the world, yet this happened. Oh deities... What should we do...?
+
+Old man: Midia is really pitiful. She only just retired as a knight to live together with Astram, and now she has been separated again. She's still a young girl, it's so sad. What can you do to help her...?
+
+Man: The Archanea army has changed. The troops are all bloodthirsty savages now. What is going on with this country?
+
+Old man: Oh, this is so sad. Those that opposed Emperor Hardin have all been killed... Could the Emperor be possessed by a demon...?
+
+@Recruit-Visit 
+Roshea: Prince Marth, I am Roshea of the Aruelis Knights. I have King Aurelis's permission to come here, and am awaiting your highness' orders. I am truly sorry for the battle at the pass. To apologize to you, I will join and fight alongside your army. Marth, please watch over me!
+
+@Boss 
+Nehring: What...? Our Archanea has been defeated? But as long as I'm here, I won't let you enter the castle!
+
+Nehring: Glory to the Emperor...
+
+@End
+Boah: Oh, Lord Marth. I've been waiting for you.
+Marth: Boah!? You've suffered a grave wound... What happened?
+Boah: Mmm... It was truly frightening... I suppose the Archanea royal family is indeed under a curse. You should know about Hardin and Nyna's marriage, two years ago. To restore Archanea, a king was required, and only two people were suitable. King Aurelis's younger brother, Hardin, and Altea's Prince Marth, you... Those were the choices, and we pleaded for Nyna to make the final decision. Originally, she wanted to wait a while longer, but we begged for her to make up her mind immediately. In the end she said that choosing Prince Marth as her husband would hurt Princess Caeda, so she finally decided on Hardin.
+Marth: Wait a second, wasn't that a little harsh on Nyna? I understand that Archanea needed a king, but Nyna, she already...
+Boah: You are referring to Grust's Lord Camus? But that would be unspeakable... Unthinkable in fact. Princess Nyna was the sole successor of the royal bloodline of Archanea. I felt bad as well, but for this country we had no other choice. However, Lord Hardin was very happy. Compared to ascending Archanea's throne, he seemed happier about the fact that Nyna chose him for her husband.
+Marth: I also understand Hardin's feelings. He could sacrifice his own life for Nyna. But, did he know about Camus? If he did, I don't believe he would be so happy.
+Boah: Mmm... Of course we kept that a secret, and we also persuaded Nyna to hide it as best as she could. But, Lord Hardin was a very sensitive man. He quickly found out that Nyna's heart had no place for him. He felt very painful... He locked himself in his room, and didn't allow anybody to see him. Taking advantage of his broken heart, Gharnef appeared. He took on the guise of a merchant to approach Hardin, and showed him the Darksphere. The distraught Hardin was quickly consumed by the orb. From that day on, he completely changed. It was because I was only focused on restoring this country that I committed such a horrendous mistake. Please, forgive me, Prince Marth...
+Marth: I can't believe all that happened. ..... Where is Nyna now?
+Boah: When Hardin discovered that she had taken the Fire Emblem, he had her confined in her room. After that, she would still communicate in secret with me. However, Hardin found out and then wounded me. He also handed Nyna over to Gharnef.
+Marth: Gharnef...!?
+Boah: Mmm... Gharnef had always wanted to take Nyna. He said that the resurrection of the dark dragon required the blood of noble clerics... And so... He took Nyna... To use her as a live sacrifice... Lord Marth, I'm already done for. I will give my Thoron and Physic to you. I beg of you, please rescue Nyna. Even if Archanea is destroyed it no longer matters... I only wish for Nyna to be safe...
+/***EOF***/
+@Opening 
+Seeking the Lightsphere, Marth and his friends headed for the Tower of Thabes.
+
+Thabes is an ancient city buried under the sands, along with many treasures. The legend of Thabes, city of illusion, lured many adventurous men to the desert. However, in the end... not one of them ever returned. As the sages once said... stay clear of Mamorthod, the desert of death. There lies the cursed Dark City.
+
+@Intro 
+Marth: Jagen, where in the world are we...?
+Jagen: This is the path depicted in the Anri Saga. The first obstacle in Anri's Way: the Desert of Death. With its scorching sun, raging sandstorm, savage clansmen of the sands and wyverns that soar and dominate the skies. As the city of illusion shimmers in the distance, we can only stand and gaze... Or so the legend has it.
+Marth: So Anri came through here as well. And by himself, too...
+Jagen: That’s right. King Anri began his travels here, to obtain the divine sword, Falchion. And that was so that he could rescue Princess Artemis... Although it will be long, I would like to describe the legend of Anri. 100 years ago... The ruler of this continent, the Holy Kingdom of Archanea, was destroyed by the dragon tribe.Humans were enslaved and lived each day in despair. Some people wielded weapons to fight back, but they couldn’t defeat the dragon tribe, and many people died. Also, the humans’ only hope, the Archanean royal family, was wiped out, and so the world lost all hope. However, at that time, at a small city called Altea. It was discovered that the princess of Archanea was hiding there. The angered Dolhr Empire sent soldiers to Altea, aiming to capture the princess. That princess... Artemis was prepared to give up her own life to save the citizens. However the citizens of Altea swore that, even if they were completely annihilated, they would protect the princess. Knowing that the princess was still alive, the citizens of Pales gathered a liberation army, and continued the fight against the Dolhr Empire. The leader of the liberation army, Duke Cartas, fought with the royal shield, given to him by Artemis. As a result, he received enormous support. Thanks to his efforts, the war finally began to become in their favour. But then, the king of the Earth Dragons, Medeus, finally moved out. The dark breath of Earth Dragons possessed horrendous destructive power and had the effect of halving the enemy’s strength. Under such a dire situation it was thought that Altea’s resistance wasn’t going to hold out. Then, at that time, a Sage appeared and told the people that at the Ice Dragons’ Temple, to the distant north, was a sword blessed by the deities. With that sword, the Earth Dragons could be defeated, but it definitely wasn’t an easy task to reach the temple...
+Marth: So Anri, to save his beloved Artemis, left on a journey to obtain the sword?
+Jagen: Yes, that’s right. But I think that’s enough for today. We still have a long road ahead of us...
+
+@End 
+Tiki: Mar-Mar!! It's been aaages. It's me, Tiki! I've wanted to see you for so long.
+Marth: Huh... Tiki?! You came to welcome us? Oh, I see... you've been living with Lord Gotoh, haven't you? But you've certainly grown since last time. I'm glad to see you're well.
+Tiki: Yeah... But I was so lonely. 'Cause you never came to see me...
+Marth: I'm sorry. But I could never forget about you. I had intended to invite you back to Altea once things had calmed down.
+Tiki: Mar-Mar... I... I love you!
+Marth: What......?!
+Xane: ...Gotcha!
+Marth: Xa... Xane!!!
+Xane: I’m really sorry. I couldn’t help it after seeing that serious expression on your face... Sorry, don’t be angry. I was ordered, by Gato, to wait here for you. While I was waiting I got more and more angry, wondering why I had to do something so boring. So I thought I’d think of a prank to pull on you. But, my Tiki impression was pretty good wasn’t it? Huh, what’s with the anxious face? Well, shall we get goin'? You wanted to see Lord Gotoh, right?
+Marth: Xane, how do you know Lord Gotoh? Just who are you?
+Xane: Well, lemme see. I don't think that really matters right now. Hey, put that jaw back in place and follow me.
+/***EOF***/
+@Opening 
+Having liberated Grust, Marth and his companions accepted Wendell's request and stopped by the Fane of Raman in search of the missing orbs. However, the ancient temple built to worship Naga had been wrecked by constant warring, and was now nothing more than a den of thieves.
+
+"They're escaping with the temple's valuable treasures. We must catch them! Stay clear of the free company guarding Chiasmir Bridge. We cannot defeat them. It seems a dancer is lost inside the forest. We must find her before the bandits do!"
+
+As the soldiers received their orders, the flames of a new battle around the Fane of Raman were ignited.
+
+@Intro 
+Phina: Huff... huff... Please... help me... The thieves... They're going to...
+Navarre: ...
+Phina: No, it can't be! You're... one of them... as well? Oh, fine... Do your worst! If you're going to kill me, do it fast!!
+Navarre: Girl... Get behind me. The Altean army is marching towards the south of this forest. I'll take you to them.
+Phina: Huh? You're going to help me? You mean, you're not with the thieves?
+Navarre: Until just now, I was. But, I've changed my mind.
+Phina: Why...?
+Navarre: There's someone in the Altean army that I want to see. That's all.
+Phina: Hmmm... But really, it's 'cause I'm cute, right? At any rate, I'm glad. My name's Phina. I'm a dancer from Warren. People say that once they see my dancing, they feel instantly refreshed! I can show you, if you like. Oh, I should tell you my story: I got separated from my troupe, and wandered into this forest. And then, those horrible thieves came and tried to take me by force... But it's okay now. You seem kind of scary, but actually you're very kind. However, your appearance is... Your face isn't bad, but your dress sense is kind of lacking. And, ugh, what's with your hair? You know, nowadays...
+Navarre: Just stop talking! Anyway, don't stray too far. We'll cut our way to the west corner, and then escape through there. If you want to live, then shut up and come with me.
+Phina: Ah... Y-yes, sorry...
+
+@Visit 
+Villager: The ancient Fane of Raman is just a treasure trove to thieves. You can see 'em carrying the stolen treasure all over the place. I hope they get cursed or something...
+
+Villager: The ones protecting the bridge are Astram's free company: powerful men who stop at nothing. As a wise man once said: "Let sleeping dogs lie", eh?
+
+Villager: I wonder if you've seen that young lady's dance? Marvelous, isn't it? Makes a tired body feel healthy again in the blink of an eye!
+
+Villager: You must never go near that cave. I heard a rumor that in that cave dwells a terrible fire dragon.
+
+@Recruit-Battle 
+Astram: Traitors! I'll show you the might of the Mercurius!
+
+Astram: Midia... My love...
+
+@Boss 
+Dahl: Tryin' to take a cut from a thief's plunderin'... You people ain't even human!
+
+Dahl: Murderers... the lot of you...
+
+@End 
+Jagen: Sire, we've driven away the thieves, but the temple was completely ransacked; anything that wasn't nailed down is gone.
+Marth: Really, even Raman Temple has been reduced to ruins? This is a frightful age we’re in.
+Jagen: Yes, I'm sure even Guardian Deity Naga would be furious. 'Tis truly the end of civilzation.
+Marth: Jagen, do you know the legend of Naga?
+Jagen: Yes; only vaguely, however. It's said that a thousand years ago... when there was not one king in the lands, people lived in small villages. One day, terrible monsters descended and the humans were massacred, pushed to the brink of extinction. The few who survived prayed to the gods for salvation. The gods heard their prayers, and a gigantic warrior was sent down to earth. The warrior carried a gleaming blade of light in his right hand, and in his left hand, a shield embedded with five orbs. Then, after a fierce battle, he eradicated the monsters and returned to the heavens. He was our guardian deity, Naga, and this temple is dedicated to him. "He was the avatar of the gods: our guardian deity..." Your highness, you should know that line from the first chapter of the Raman Bible.
+Marth: With the blade of light and the five orbs... That is the legend of Naga...
+Jagen: Well then, sire. We have to cross the Chiasmir Bridge soon. We must hurry; if the enemy takes it, getting across will be nigh impossible.
+Marth: Alright then, inform the whole army: We cross Chiasmir Bridge at once. Make sure no one falls behind!
+/***EOF***/
+@Opening 
+Saint Archanea is the largest country on the continent. Its golden capital of Millennium Court has bathed in 600 years of proud history. Under the attack of Altea's allied army, it fell in just one day. The citizens of Archanea welcomed them as liberators, and supported them to their fullest. They also mentioned of their hatred towards Hardin and his personal guards. Everybody now calls Hardin the Dark Emperor. This was in hatred of Hardin, the murderer of countless people. If possible fighting would be avoided, but it as already reached this stage... Marth ra
+
+@Intro 
+Jagen: Your highness, we've entered the castle! But don't forget that Hardin is being protected by the Darksphere. To fight him , you must have the Lightsphere!! Be sure to let the person fighting him carry it.
+
+Hardin: Midia, even you betrayed me. Archanea's paladins have lost their touch.
+Midia: You fool!! Don't you see it? What you're doing isn't normal. Where did you take Nyna to? Bring her back to us now!!
+Hardin: Nyna! That woman betrayed me. I just wanted to destroy Grust. And she had to go and give the Emblem to that boy... Those who betray me must die. Midia, you're no exception!!
+Midia: If you want to take my life, go ahead. But Hardin... Do you know how much suffering you've caused because of your stupid jealousy? Just open your eyes and see!
+Hardin: Stupid jealousy...? Haha... You can say what you like. This world is corrupt and full of annoying people. Is this kind of world even worth anything? It would be far better for it to be destroyed. Midia, you shall watch here... As Prince Marth dies by hand!!
+
+@Battle 
+Hardin: Marth...? As a servant of the Empire, you dared to invade Millennium Court. I am disappointed in you. So Altea's Prince of Light is just a lowlife.
+Marth: Hardin! Your are being controlled by the Darksphere, and have lost your just heart!! Please, you must return to normal!
+Hardin: Hahaha...! You are so naive, Marth. I attacked Altea solely because of my hatred of you. In the previous war, it was only because you were the descendant of Anri that Nyna gave the Emblem to you, and chose you to become the leader of the alliance. Prince of Light... What nonsense! If you hadn't received my support you would have died long ago, so don't act all big, Marth!! From that day on, I hated you. I kept silent for Nyna, but I knew I would have to deal with you eventually. This has nothing to do with the orb!
+Marth: Hardin... Is that true... Your hatred of me... I didn't know...
+Hardin: Ha... That's why you're just a boy. Marth! Come to me, so I can use my Gradivus to pierce your heart!! In this tiny continent, I am the only hero that is needed!
+
+@Boss 
+Hardin: Rebels... Did you come here to get yourselves killed? I'll show you to fear my Gradivus!!
+
+Hardin: Marth... Your highness... I have finally awakened... From my deep dream... Your highness... I am deeply sorry... I fought with my inner demon. However I was too weak... I resisted with all my might... But I still lost... I hoped for your highness' hand to end my life... That way I could be saved... Your highness... Nyna... Please take care of Nyna... She... I hope you... can tell her... In the... end... I still... loved her... I hope... She can... forgive me...
+
+@End 
+^start 
+Jagen: Marth, it's finally over. Now, the world is safe. Look, the princesses are over there...
+Marth: Sister! And there's Princess Nyna... And Lena and Maria was well.
+Nyna: Marth, you finally came. I am so happy...
+Nyna: Gwaa!! Damn, you're carrying the Binding Shield... Urgh... My illusion has been shattered! Come, Dark Priests. It has come to this... We must resurrect the Shadow Dragon immediately!
+Jagen: Huh, wasn't that Gharnef? He and his men pretended to be the princesses.
+Marth: Mmm, but what are they planning? They said something about resurrecting the Shadow Dragon... So my sister was indeed taken by Gharnef...
+Jagen: Your highness, I apologize for interrupting you, but Gotoh has come.
+Marth: Huh, Gotoh!? Please call him here!!
+Gotoh: Marth, you have done well. You have all five orbs in your possession. Because of your efforts the lost Binding Shield has finally been restored.
+Marth: Yes! The five orbs have attached onto the royal shield... So this is the Binding Shield? But, Gotoh, what should I do next? After seeing Gharnef's expression, it seems he really has taken my sister and the others. I can't just leave them.
+Gotoh: Mmm... I understand your feelings... But you must first restore the seal on the Earth Dragons. Those beasts will soon awaken from their slumber. When they appear from the ground they will burn everything, and create Hell on Earth. Go, Marth. Send the awakened Earth Dragons back into the darkness of the seal!!
+
+Jagen: Marth, it's finally over. Now, the world is safe. Look, the princesses are over there...
+Marth: Sister! And there's Princess Nyna... And Lena and Maria as well. It's great to see that everybody is safe.
+Nyna: Marth, you finally came. I am so happy... I will need your help to restore Archanea.
+Elice: You really worked hard, Marth. You are my pride.
+Lena: Lord Marth, with our combined strength we have already vanquished Gharnef. Please relax.
+Maria: The world is safe now. Your highness, please hurry back to Altea.
+Marth: Really? It's good to see everybody well. But you all don't look too good...
+Nyna: Everybody is tired from battling Gharnef. But it doesn't matter now, so please don't worry.
+Marth: Really...? Nyna, I am sorry about Hardin. I couldn't save him.
+Nyna: It's fine. He was devoured by his own ambitions, so it is not unexpected that he was lost. Well, Marth, you should hurry back to your homeland. Everybody is probably worried about you. With your remaining time, you must live well. As long as there are still people in this world, your name will never be forgotten.
+^end
+/***EOF***/
+@Opening 
+This truly is an unimaginably treacherous journey. 5000 meters... No, higher than that. Looking down, a sea of clouds can be seen. They have reached the summit of the cold mountain peak. Breathing is difficult... Dizziness is felt... Their vitality is fast approaching its limits.
+
+@Intro 
+Marth: Xane, we've already climbed this high. It's so cold... Even breathing is hard.
+Xane: We're almost there. Look, can you see over there? That's the Ice Dragons' Temple where Gotoh is.
+Marth: But, that was quite a shock. Tiki is actually the daughter of the Divine Dragon King. Also, both Gotoh and you are Divine Dragons.
+Xane: Ah... When the Divine Dragons fought the Earth Dragons they over-exhausted their dragonstones, and so practically became extinct. Aside from Naga, only Gotoh, me and the just born Tiki survived. However, after the war we discarded our dragonstones, so we could no longer become dragons again. Even so, I still have knowledge and power that exceeds that of humans. Gotoh followed Naga's orders to protect humans, but that's got nothing to do with me. I don't like humans. They scorned the Manaketes, even though they had lost their power, and treated them like filth. I can fully understand why Medeus and the others hated humans so much. The Earth Dragon King, Medeus, tricked his own tribe and became a Manakete by himself. He used to follow Naga's orders and guarded the Dragons' Altar. However the once docile humans finally achieved power and became aggressive. They even started to attack the Manaketes that lived in peace. The Manaketes were angered by the betrayal of humans, and gathered at the Dolhr region. They formed their own kingdom of Manaketes and began a war to conquer the humans. To save the humans, Gotoh handed the Falchion to Anri and he created an academy of magic at Khadein. But whoever won wasn't any of my concern.
+Marth: Then, why are you helping me? I'm also a human...
+Xane: You're different from the others. You don't seem like an unreliable person either...
+Marth: Mmm... Thank you, Xane.
+Xane: Don't... don't be silly. I'll get embarrassed. Anyway, let's head to the temple, but be careful of the Ice Dragons. Although they're also wild dragons, they will instinctively try to protect their temple. Poor guys...
+
+@End 
+Marth: Hey, Xane. Gotoh didn't really mention anyting about the five orbs, but I thought they were very important. Do you know anything about them?
+Xane: Gotoh was afraid of shocking you so he didn't say anything. I will tell you. However, after I've told you, you'll probably think it was better off not knowing. The orbs rest on the shield that seals the Earth Dragons... Basically they are part of the Shield of Seals. Since ancient times, the Divine Dragons have passed down these sacred jewels, each possessing different powers. To put it simply, the shield is just a pedastal and the five orbs are what creates the power of the seal. So if any one of the orbs is lost the seal will weaken.
+Marth: Hmm, is that so? But, how come the orbs were scattered?
+Xane: Because the shield was broken. The Shield of Seals was displayed at the Fane of Raman, and it was stolen by somebody who ended up breaking it...
+Marth: When did that happen?
+Xane: Around 600 years ago. To recover the shield, Gotoh spend many years searching the lands. In the end, he only found the five orbs, with the shield nowhere to be seen. Not only that, but the five orbs, which he painfully collected, were scattered again after Raman was attacked in the previous war.
+Marth: Really? ...So that was why Gotoh was looking for the lost jewels... the orbs?
+Xane: Yep, the Starsphere, Lightsphere and Geosphere... as well as the Darksphere and Lifesphere. The Lightsphere is in Gotoh's possession, that Starsphere was shattered and the Darksphere was given to Hardin by Gharnef.
+Marth: The Geosphere is in Altea and all that remains is the Lifesphere.
+Xane: Ah... Anyway, let's enter the temple. From now on I will also help you fight. Well, let's go!
+/***EOF***/
+@Opening
+Khadein is an independent city-state, taking orders from no foreign nation. The Archmage has many pontifices under him, governing according to their counsel. In the previous war, Pontifex Gharnef allied with Dolhr and dragged Khadein into war, and the city suffered great damage as result. As Khadein had lost all its pontifices, Wendell became its Archmage and started rebuilding the city. However, Wendell left on a journey to fulfill a mission given to him by Gotoh. He then left Khadein in the care of two young men. They were two skilled and promising young mages... Merric and Arlen.
+
+@Intro 
+Arlen: Merric. It's time to put an end to this.
+Merric: Wait, Arlen! Why do we have to fight? We were both Master Wendell's pupils: we're friends, are we not? Why do you despise me so?
+Arlen: I was Master Wendell's disciple before you, and I was the stronger one. Even so, Master Wendell gave you Excalibur. He should have given it to me! Clearly, I was the only one worthy to be his successor, yet he...
+Merric: But I have no intention of succeeding Master Wendell. I hold no ill feelings for Khadein, but once I finish studying I plan to go home. Back in Altea, there is somebody I must protect for the rest of my life... So, Arlen, please! Why don't you join us so we can take back Altea?
+Arlen: Altea, you say?! Why should we help a country that rebelled against the empire and attempted to invade their fair nation? The mage corps of Khadein have sworn allegiance to Emperor Hardin. Oh, I see... I knew it was you... YOU dragged the Altean army here!
+Merric: No!! That's not how it is!
+Arlen: Shut your mouth, traitor!! I won't listen to your lies any longer! Your Excalibur and my Thoron; we'll put them to the test!
+
+@Recruit-Talk
+%Wendell,Arlen
+Wendell: Arlen! What are you doing?!
+Arlen: Master Wendell...
+Wendell: You still don't understand my decision, do you? Indeed, as a mage, your power surpasses mine. But you lack compassion. That is why I did not grant you Excalibur.
+Arlen: ... Compassion...?
+Wendell: I had decided that you were to be my successor when the time came. To think you would harbor a grudge towards me... Does that not make you the same as Gharnef?
+Arlen: The same as Gharnef...? Teacher! What are you saying?
+Wendell: Arlen, listen to me... Gharnef, along with Pontifex Miloah, were Lord Gotoh's best pupils. But Lord Gotoh saw Gharnef's weakness, and so he left Khadein and the Aura tome to Pontifex Miloah. Gharnef, overcome by jealousy, stole the Darksphere from Lord Gotoh, and created the Imhullu tome. As a result... His heart was trapped within the Darksphere for all eternity. Wrath and envy led him to ruin. Do you understand now, Arlen...?
+Arlen: ...Teacher... ...Teacher! I'm so sorry. I... I was wrong. Please... find it in your heart to forgive me!
+Wendell: Arlen, you will use that power of yours for the good of the people. Understand?
+
+@End 
+Gotoh: Marth... Do you hear me?
+Marth: Lord Gotoh! Yes, I can. You are speaking to me through magic, are you not? Lord Gotoh, I must ask: what has happened to cause Hardin to suddenly change so much?
+Gotoh: Hmm... The Darksphere is the culprit... Hardin's soul is trapped within the Darksphere...
+Marth: The Darksphere? What on earth is that?
+Gotoh: Light, Star, Earth, Life and Darkness... In this world, there exist five sacred orbs. The Darksphere is that which complements the Lightsphere; in battle, it possesses the enemy's mind, negating their attacks. But the Darksphere also amplifies wrath and envy, and can turn their owner into a demon. Hardin must have obtained the Darksphere from somewhere... And now his heart has been lost to it.
+Marth: But why? He should have been happy after his union with beloved Princess Nyna, so why the envy?
+Gotoh: Prince... Humans are never simple creatures... In any case, the only object that can overcome Hardin's Darksphere is the Lightsphere. If you want to do something about him, then you had best come and get it from me.
+Marth: Huh? Really, Lord Gotoh? If we have the Lightsphere, then we can save Hardin?
+Gotoh: Well... If his heart is not completely consumed, then perhaps.
+Marth: Lord Gotoh! Please, lend the Lightsphere to me.
+Gotoh: If you come in person to the Ice Dragon's Temple where I reside, then you shall have it. But that will be no easy task. So, Marth. Do you have the courage to walk the path that Anri walked?
+Marth: Yes, I do! I will go!! Please, allow me to go! I must have the Lightsphere!
+/***EOF***/
+@Opening
+Once, there was a war known as the "War of Shadows," An epic battle between Prince Marth’s heroes and the Dolhrian Empire, which ended with the defeat of the Earth Dragon King, Medeus. The warriors who had united under the Fire Emblem returned to their own lands, devoting themselves to the reconstruction of their homelands. Among the nations that made up the "Seven Kingdoms of Archanea", Gra and Grust were devastated. Altea, Aurelis, Macedon, and Talys were left deeply scarred, and even the mighty Kingdom of Archanea was undergoing restoration.
+
+However, in the palace still shaken by war, one important event took place. Hardin, the younger brother of King Aurelis, was married to Princess Nyna, becoming the twenty-fourth king of House Archanea. After ascending the throne, Hardin aggressively restored the country in the twinkling of an eye, and formed a powerful army by gathering many soldiers. He then proclaimed the restoration of the Holy Archanean Empire, and himself Emperor.
+
+One year has passed since the war with Dolhr. The world seemed to be moving towards an era of peace. However, unbeknownst to man, the cogs of destiny had started spiraling out of order.
+/***EOF***/
+@Opening 
+Leaving painful memories behind, Marth and his companions left Grust. They landed in Macedon; their new mission to rescue Princess Minerva. After the War of Shadows, Macedon was led by Minerva, who exiled the oppressive generals and attempted to reform the military. However, the influential General Rucke opposed Minerva's peace-seeking ways. He assembled the exiled officers to instigate a coup d'etat. Caught unprepared, Minerva was captured by Rucke's followers, and his rebel army seized control of Macedon. Then, they dispatched powerful dracoknights to guard the country's forested borders.
+
+@Intro 
+Catria: Prince Marth!! Thank goodness you've come to Macedon!
+Marth: Catria?! I received word that there was a rebellion in Macedon. Are you unharmed?
+Catria: Yes, I'm fine. My older sister Palla and I managed to escape somehow. But Princess Minerva was captured by the rebels. Prince Marth, please... You have to rescue Princess Minerva! At this rate, her life will be in danger!
+Marth: Of course I will help her. Catria, please take us to where she is.
+Catria: Yes, my lord! But first we have to break through these woods. General Rumel's dragon knight squad is lurking within this area. If we approach from the front, we'll be easy pickings for them.
+Marth: I see...So you're suggesting we flank them from the left or right. Thank you, Catria. Leave it to us!
+
+@Visit 
+Villager: Warren's a bit of an idiot. Just 'cause they paid him well, he went ahead and joined the rebel army! Ahh, to think a fool like him was once acquainted with the fair Catria...
+
+Villager: Look out for those pilfering thieves. If they take off with your precious treasure, you won't ever get it back. Never let them escape from your sight.
+
+Villager: Because of the last war, every nation has been forced to lead hard lives. The only well-off country is Archanea, ruled by Emperor Hardin.
+
+Villager: Some dirty thieves took our village treasure, the Lady Sword, and ran off with it. Only women can wield the incredible power of that sword. Please, prise it back from their filthy hands.
+
+Villager: Beware when dracoknights are around. Even from a far-off distance, they can move all at once and swoop down on you!
+
+@Recruit-Talk 
+%Catria,Warren
+Catria: Warren?! Even a good man like you has sided with the rebel army...
+Warren: Catria the White, huh? It's been a while. You know I'm just a common hunter. If they pay me enough, I'll do anything.
+Catria: Warren, listen to me! Princess Minerva endeavored to create a country where its people could live at ease. She exiled soldiers and generals of ill repute to accomplish that goal. But General Rucke, despite knowing this, roused the soldiers into a coup d'etat. Can't you see? He's just trying to make this country into his own! And you can honestly say you're okay with that?
+Warren: ...I see. Well, I don't like the military acting as if they owned the place... Alright then. If you're going to help the princess, then so will I.
+
+@Recruit-Battle 
+Warren: No hard feelings. I don't have anything against you, but this is the way I live. Forgive me!
+
+Warren: Damn it... I should've seen this coming...
+
+@Boss 
+Rumel: Taste the terror of Macedon's fearless dracoknight squad!
+
+Rumel: General Rucke, I leave the rest to you...
+
+@End 
+Jagen: Sire, we found someone most unusual confined in one of the fortress rooms.
+Marth: Hm? ...Linde! How did you wind up in a dangerous place like this?
+Kris: Sire, do you know this woman?
+Marth: Yes, this is Linde. Her natural talent for magic helped us a great deal in the last war.
+Linde: Prince Marth! Thank heavens. What a pleasant surprise meeting you here. I desperately needed to see you again, so I set out to find you. But the Macedonian soldiers found me suspicious and they dragged me to this fortress...
+Marth: Is that so? I'm glad you're safe. But, why were you looking for me? Shouldn't you be by Princess Nyna's side?
+Linde: I was requested by Princess Nyna to deliver you this.
+Marth: Huh? This...! This is the Fire Emblem! The royal heirlom of Archanea: the Emblem Shield!
+Kris: The Fire Emblem... I heard that in the last war, Princess Nyna entrusted you with it, sire...
+Marth: Indeed. I looked after this as Archanea's representative in the last war. But why give this to me now? Especially at a time when Archanea has so much influence under Emperor Hardin's reign? In this peaceful age, why is Princess Nyna giving me the "Champion's Proof"...?
+Linde: I don't understand either. Princess Nyna didn't explain why, just that I had to give it to you... I remember her eyes seemed so sad... I think she may have been crying...
+Marth: Princess Nyna crying?! What on earth has been happening...? Linde, after this battle ends, I will go see Princess Nyna. Until then, I want you to remain with us.
+Linde: Yes, Prince Marth!!
+/***EOF***/
+@Opening 
+Marth barely succeeded in escaping, disembarking in the desert of Khadein. He elected to await his subordinates' safe arrival.
+
+Khadein, the city of magic, is a sanctuary for mages. Many prospecting mages come here and undergo rigorous training. Magic relies on containing nature's energies in "tomes" and "staves", freely manipulating these energies to harness great power. A few centuries ago, a lone sage founded an academy here, teaching magic's secrets. However, instead of bringing happiness, magic was soon used as a tool of war and a thing to be traded. The sage was disappointed, and vanished from the pages of history. Though there is no confirmation, some say that was the Archsage Gotoh. Currently, advanced magic like Aura cannot be made without the orbs' power, and their use is restricted to a few chosen ones. Those conditions are set by their creator, and they can only be inherited by those who qualify.
+
+Khadein, the city of magic... the proud Sanctuary of Sorcery.
+
+@Intro 
+Michalis: Minerva, if you wait in this village, you will most certainly run into Marth. I don't like him, but he is indeed noble. Join forces with him.
+Minerva: Brother, what are you going to do now? Won't you come with me...?
+Michalis: I have no intention of doing that. I only wish to find Maria and bring her home to Macedon.
+Minerva: You've changed, Brother... Or should I say, you've returned to how you used to be. As I thought, back then you were being controlled by Gharnef's dark magic.
+Michalis: No, no magic could bend my will. I wished to crush the arrogant Archanea, and establish Macedonian supremacy over this continent. But Father, without bending his ear to me, distanced himself from me and later had me banished.
+Minerva: Are you saying that's why you murdered Father? What a fool you were... Didn't you realize that was Gharnef's plotting all along? Yes, Father was strict with you. But it was only because he loved you. Why couldn't you see that?
+Michalis: Enough, Minerva. Do you take me for a fool? After I was defeated, I wandered the gap between life and death. When I had come to, in front of me, I was Maria--her eyes full of tears--praying to the gods. While I treated her like a pawn, Maria, she shed tears for me... Minerva, I'm going now. I have to save Maria. At least that can be my atonement!
+Minerva: Michalis...
+
+Marth: Jagen, everybody appears to be safe. That’s great to see.
+Jagen: But, your highness, what should we do next?
+Marth: Hmm... I want to go home to Altea, but if we can't prevail against Hardin, then we can't go back. What in the world are we supposed to do...?
+Jagen: Please wait a second. I just received some news.
+Marth: .....
+Jagen: Sire, it's an emergency! I have just come into some new information. The Khadein mage corps has launched an offensive against us. It seems Khadein has allied with the Empire.
+Marth: What!? Even Khadein means to be our enemy... Merric, what are you...
+Jagen: At this rate, it seems we have no choice. Sire, we need to break into the sanctuary, but you must be prepared to make sacrifices. If we don't hurry, Archanea's pursuit force will reach our rear and we'll be trapped.
+Marth: I understand. We've no choice. Everyone, let's break into the sanctuary! But avoid needless fights if possible!
+
+@Visit 
+Villager: A swordslayer will demonstrate your might against a mercenary or a hero. You should definitely get one if you can.
+
+Villager: From here on north, you won't see no more shops. If you're going that way, you should stock up now.
+
+Villager: The person commanding Khadein's mage corps is a young man named Arlen. He's not a bad man, but he can be a bit uncooperative. Seems he regards his old rival, Merric, with disdain. Hmm... I reckon only Lord Wendell could talk some sense into him.
+
+@Recruit-Visit 
+Marth: Huh? Princess Minerva, why are you here?
+Minerva: My brother... Michalis, he helped me.
+Marth: Really? That's good to hear. I was so worried once I heard that Prince Michalis had taken you. But, for him to rescue you: what in the world happened?
+Minerva: Maria saved Michalis's life. She's kind, unlike myself... Maria's kindness was able to touch the heart of even a man like Michalis.
+Marth: But, isn't that what you wanted? That's why you deliberately avoided killing Michalis. Am I wrong, Princess?
+Minerva: Hmm......
+Marth: I can understand. No one can sever the ties between family so easily. Princess, please lift your spirits. I would like you to fight with us again, just like before. I would like Macedon's strength and yours in order to put a stop to Hardin's designs.
+
+@Boss 
+Yoder: I will not forgive intruders upon our holy sanctuary! Earth, show your fury! Bolganone!!
+
+Yoder: Arlen... Was this really what you wanted...?
+
+@End 
+Jagen: The atmosphere inside the building seems somewhat strange.
+Marth: Indeed, something seems to be happening. Let's go, Jagen. I'm worried about Merric!
+/***EOF***/
+@Opening 
+The shocking news brought by Caeda was a terrible blow to Marth. Hardin was once not only a comrade-in-arms, but a trusted confidant and irreplaceable friend.
+
+"Yet... why attack Altea? What have I done wrong?"
+
+Filled with frustration, Marth hurried his return to his homeland, but the first barrier stood in his way: Olbern Keep, headquarters of the Grustian Occupation Army led by the evil General Lang... also known as the "Nest of Evil."
+
+@Intro 
+Toras: Commander Lang. The... A-Altean army has arrived...
+Lang: You moron. Why are you so panicked? With their nation and name in ruins, the Alteans are of no consequence to us.
+Toras: But, Sir Jeorge's archers left to quell the rebellion. Can we win with just our troops?
+Lang: Why didn't you tell me earlier? Call Jeorge back to the castle this instant! While you're there, find that hired sword, Navarre, and bring him here. General Toras! I'm heading inside. You will defend this location till your last breath. Do NOT let the enemy get close. Do I make myself clear?!
+
+@Battle 
+Soldier: Captain Jeorge. We've received orders to return to the castle immediately.
+Jeorge: Orders from Lang, huh? I'm not fond of that man. His treatment of our people is simply intolerable. To work beneath him is an insult. Pay his orders no mind.
+Soldier: But, Captain! You'll be accused of treason! Captain?! You can't be planning to defect to Altea...
+Jeorge: No, that's not an option. If I were to defect now, I'd drag the entire platoon down with me. So for that reason alone, I will absolutely not take any risks that might besmirch our name.
+Soldier: Captain Jeorge...
+Jeorge: Anyway, inform everyone: Do not move from your stations. However, if the enemy approaches, you may engage them.
+
+@Visit 
+Villager: Y'know, lately I haven't seen that mercenary, Samuel. I thought that he might have joined your ranks, but I guess not... He's as lax as they get, but you can't go wrong with his skill.
+
+Villager: Oh, Alteans, hear our plea! Please, defeat General Lang! As long as that man lives, peace is but a fleeting dream.
+
+Elder: Ohh, if isn't Prince Marth! I wonder how my granddaughter Lena is faring, hm? What, you don't know? I see... Th-then... Do you still want this Hammerne staff? At least, if Lena's pupil Marisha were around, I'm sure she could use it... Well, whatever be the case, I've no use for a souvenir. Please, make good use of it.
+
+@Recruit-Talk 
+%Julian,Rickard
+Julian: Hey, Rickard! I see you haven't tired of stealin'.
+Rickard: Ah! Chief! How nice to see ya. Well, I was plannin' on workin' with you and makin' loadsa money, but you had to go and quit the business! Fallin' head over heels for that beautiful cleric, and then dumpin' me... That's just too cruel! Did our love really mean that little to you?
+Julian: Can it, you little fink!! People'll get the wrong idea about us, if you keep talkin' like that. Anyway, forget about thievin' and come with me to fight for justice.
+Rickard: Hmm... alright then! I'll follow you anywhere. I do adore ya, Chief!
+
+@Recruit-Battle 
+Jeorge: You wouldn't have needed to die if you hadn't come so close...
+
+Jeorge: Fools...
+
+Rickard: Chief, where aaare ya?
+
+Rickard: Tch. Man, I messed up big time.
+
+@Boss 
+Toras: Projection 44.5 degrees! Fiiiire!!!
+
+Toras: General Lang... Altea is too strong...
+
+@End 
+Jagen: Sire, we've finally seized control of Grust. However, a number of enemies are concealed within the castle. Our job here is far from over.
+Marth: Yes, I know. Lang must be stopped here and now. Or else we forsake the people of Grust.
+Jagen: That’s right. He must be defeated at all costs... But we don’t know what dastardly plans he has prepared for us. We must take extra caution when fighting inside the castle!
+/***EOF***/
+@Opening 
+The surprising truth from Xane was a shock to Marth. Tiki was created as the daughter of the Divine Dragon King, Naga, and slept in the temple because of the king's will. The king's fear of Tiki's power was that of a loving mother's. If Tiki was to awaken, her tremendous power would eventually cause the destruction of the world... That is what the Divine Dragon King feared. However, Bantu, the king's servant, became attached to Tiki after watching over her for a period of hundreds of years became(sic). He awoke her from her sleep, and took her away. So Tiki only had 10 human years' worth of memory... "That is so sad, Tiki..." Marth was too bewildered to think.
+
+@Intro 
+Marth: This is the Ice Dragons' Temple. Anri's final destination...
+Jagen: Yes. It was here that Anri obtained the Falchion, which he used to defeat Medeus with. Then, encouraged by the citizens of Altea, he became their first king.
+Marth: But, in the end he wasn't able to be with Artemis... Why? Weren't they loving together?
+Jagen: The nobles of Archanea didn't want Anri, a former peasant, to become their own king. Instead they encouraged the princess to marry the leader of the liberation army, Duke Caldas. Princess Artemis was unable to refuse. "The bearer of the Fire Emblem, must give their life to the royal family". That is a saying passed down unflinchingly by the Archanea royal family. The Princess didn't tell Anri anything and accepted Caldas's engagement.
+Marth: How could she...? That was unfair to Anri.
+Jagen: What was worse was that the princess died immediately after giving birth to her newborn prince. Also King Anri never married in his life. The Kingdom of Altea was succeeded by his younger brother, King Marcelus... That is to say, your highness's great grandfather.
+Marth: Such a tragic tale... So that was Artemis's fate? All because of the curse of the Fire Emblem...?
+
+@Battle 
+Gotoh: Marth, you must stand in front of this wall! Only then will the door open.
+
+Gotoh: Prince Marth, you finally came! I should have expected nothing less from the one who possesses the heroic bloodline of Anri. To reward your courage, I will hand the Lightsphere to you. With this, the Darksphere will lose its power and it will no longer be impossible to fight Hardin. Also, about the Starsphere shards...
+
+^start 
+Gotoh: What!? You found all the shards? Thank you, then the Starsphere can be restored. Please wait a moment...
+Gotoh: Marth, this is the Starsphere. You can take this with you as well.
+Marth: Huh? Gotoh, why are you giving such an important item to me?
+Gotoh: The only person that can restore the Shield of Seals is you... The Shield, itself, has chosen you.
+Marth: .....?
+Gotoh: You still don't understand? The Emblem shield you're carrying is the stolen Shield of Seals. To be honest, it was only recently that I noticed; its exterior had completely changed... After stealing it from the Fane of Raman, the thief removed its jewels and sold them off as treasures. The money was used to fund an army, which, along with three stolen weapons, was used to conquer the world. The thief that went on to become the king of Archanea had the shield, which brought him such good fortune, it became the emblem of his royal family. Now do you understand, Marth? It is what you are carrying, Archanea's Fire Emblem.
+Marth: !! What... ...The first king of Archanea was originally a thief!? Is that true...? In that case, I can kind of understand the curse of the Fire Emblem... Then, Gotoh... If I can collect all five orbs, can I restore the Shield of Seals?
+Gotoh: Mmm... But please hurry up. The shield has already been broken for 600 years... It is almost time for the Earth Dragons, sealed underneath Macedon, to awaken from their slumber. Those evil Earth Dragons number several hundreds... No, several thousands. Once they awaken there will be nothing that we can do... I will leave Tiki in your care. You can find her in the room to the right. That Divine Dragon child should be able to help you battle the Earth Dragons. But, I will state clearly, if the Shield of Seals is not restored, Tiki will be destroyed.
+Marth: Huh...!? Why is that...
+Gotoh: That child is still developing. Without the Shield of Seals she will begin to degenerate. Eventually she will become wild and attack humans. I made her sleep, because I felt sad for her. But, if the Shield of Seals is restored I will no longer have to worry, because the shield will protect Tiki. Marth, please take care of Tiki. You must rescue that child from the path of ruin.
+
+Gotoh: Is that so. You couldn’t find them all... There’s nothing you can do about it... Please hand your collected shards to me. Tiki is sleeping in the room to the right. But since the shield isn’t restored, I can’t let you see her. That child is still developing. Without the Shield of Seals she will begin to degenerate. Eventually she will become wild and attack humans. I cannot allow Tiki to awaken again. It is for her own good... Marth, once you’ve obtained all the treasures, head to the room to the left. I will be waiting for you...
+^end
+
+@Recruit-Talk 
+%Marth,Tiki 
+Marth: Tiki!? Are you alright...
+Tiki: Uh...
+Marth: Tiki, it's me, Marth. Hey, open your eyes!
+Tiki: ...Marth... .....! Oh Marth!! You came! You came to see Tiki!!
+Marth: Yes, I hadn't seen Tiki in a long time. Are you feeling well?
+Tiki: Uh... No. The bishop told me that I had to sleep again. But I don't want to... Because when I sleep I'm always alone. During my sleep, I dreamt many nightmares. There, I became a wild dragon, like those poor Fire Dragons and Ice Dragons. I attacked humans, and I killed them. No... No... When I awoke I was all alone in the dark room... I felt so strange, but also very scared... So very scared... But I couldn't leave that room. I cried many times, and then Uncle Bantu would come to comfort me as usual. One day he took me away, and took me to a human village. Living in that village was very fun, and everybody treated me well... In the short time, until I was discovered by Gharnef, I felt really happy. I don't want to sleep anymore... I feel that if I close my eyes once more, I will be unable to open them ever again. I don't want that. I want to live with everyone, I don't want to sleep again!
+Marth: Tiki, it's alright now. I will protect you, so don't cry...
+Tiki: Really...? I won't need to see those scary dreams again!?
+Marth: That's right! Once the shield is restored, Tiki can live together with the rest of us. Don't worry, believe in me!
+Tiki: Ah! I'm so happy!! Thank you, Marth!
+
+@End 
+^start
+Gotoh: Is that so...? So Tiki was that happy? It must have been hard for her, living like that. Although it was to protect that child, I did many bad things. She must hate me... Marth, you may leave. I will use my magic to send you to Altea instantly.
+Marth: Gotoh, aren't you coming along with us?
+Gotoh: Oh... I have something to investigate right now. You see, Gharnef has already began to act.
+Marth: Gharnef...!? But isn't he dead?
+Gotoh: Yes, his body was destroyed, but his vile spirit lives on in the Darksphere. He has also awakened the evil priests that served him, and they appear to be planning something terrible.
+Marth: Really...? I see, Gotoh. Well, we'll move out then.
+Gotoh: Mmm... Once I find anything, I will contact you immediately. Good luck, Marth. verything is in your hands. Please rescue dragons and humans from the path to ruin.
+
+Gotoh: Marth, you may leave. I will use my magic to send you to Altea instantly.
+Marth: Gotoh, aren’t you coming along with us?
+Gotoh: Oh... I have something to investigate right now. You see, Gharnef has already began to act.
+Marth: Gharnef...!? But isn’t he dead?
+Gotoh: Yes, his body was destroyed, but his vile spirit lives on in the Dark Orb. He has also awakened the evil priests that served him, and they appear to be planning something terrible.
+Marth: Really...? I see, Gotoh. Well, we’ll move out then.
+Gotoh: Mmm... Once I find anything, I will contact you immediately. Good luck, Marth. Everything is in your hands. Please rescue dragons and humans from the path to ruin.
+/***EOF***/
+@Opening 
+Under the guidance of Archsage Gotoh, Marth and the others headed to Macedon's north, to the "Wyvern's Dale". It is an undeveloped region populated with wyverns, and ruled by barbarians. But, there is no time to stop, because the fate of the world is in Marth's hands!
+
+@Intro 
+Marth: Jagen, where is this? Is this Macedon, or Dolhr?
+Jagen: We're right at the countries' border. This is where Macedon's wyverns are born. However, these lands are ruled by savage barbarians. Even Macedon's soldiers are afraid to enter here.
+Marth: So this is the Wyvern's Dale... Anyway, Jagen, we need to hurry. I feel like something is going to happen to my sister and the others. I have a bad feeling.
+
+@Visit 
+Young man: On the other side of the mountains is a small hill, called the Dragon's Table. Recently, there have been eerie roaring sounds coming from there. Grandfather and the others are afraid a demon is about to awaken. You mustn't get to close to that place.
+
+Man: This is the Wyvern's Dale. Don't go any further. Otherwise I fear you'll be burnt to death by the wyverns.
+
+Marth: Prince Michalis!? What are you doing here? And you've suffered a grave wound. What happened?
+Michalis: ...Marth... ...I have been waiting... for you...
+Marth: Huh!?
+Michalis: ...Take this...
+Marth: ...! This is the Starlight tome. You're giving it to me!?
+Michalis: That's right... Gharnef... Only with this spell can he be harmed. I managed to take it back from his possession...
+Marth: Gharnef!? Where is he now?
+Michalis: The Dragon's Table... Ha... I was careless... I could be... Defeated by Gharnef... Marth... Good luck... I'm already finished. If Minerva is still around... Tell her to... In my place... Rescue Maria...
+Marth: Michalis!
+Michalis: Your highness... I leave Maria's fate to you... Urgh.
+
+@End 
+Marth: So this is the Dragon's Table, where the Divine Dragon Naga sealed away the Earth Dragons... But, wasn't Medeus the guardian of the atlar...?
+Gotoh: Medeus could not tolerate the humans' actions against the Manaketes. So he gathered the other dragon tribes and formed the Dolhr Empire, to destroy mankind. First he was defeated by Anri and second by you. But, Earth Dragons can't be destroyed easily due to their powerful life force... Medeus is now sleeping in the altar.
+Marth: He's going to resurrect again!?
+Gotoh: No, even an Earth Dragon shouldn't wake within a hundred years. Medeus is now changing his form. When he next awakens, he will become a fearful Shadow Dragon... No... Could it be... So that's why... Why Gharnef...
+Marth: Huh, what is it Gotoh!?
+Gotoh: Prince Marth, I finally understand why the clerics have been taken. Gharnef plans to use them to resurrect Medeus. To awaken a dragon requires the life force of females with pure and noble blood. Gharnef knew about this, so he went to capture the clerics. Mmm... Marth, we must hurry. The clerics are in grave danger. Medeus... He is going to resurrect once again!!
+/***EOF***/
+@Opening
+Grust has been liberated.
+
+All that remains is Olbern Keep, where General Lang remains barricaded. Lang used his influence to steal belongings, daughters, and lives from the people of Grust. Was there ever a man as cruel as he is?
+
+"I cannot forgive him. I shall take him down without fail!" Prince Marth raised his sword to the skies and ordered firmly: "Altean knights, charge!!"
+
+@Intro 
+Lang: Heh heh heh... So the Alteans have come. Reinforcements are arriving soon; if we can hold out a little longer, we can make a pincer attack. Swordsman Navarre. When they open that door, you make your move. There is no need for restraint; slice them to pieces!
+Navarre: Yeah... sure. Though the knights of Altea are hardly worthy enemies.
+Lang: Oh-ho! That's my Navarre. They say not even Ogma of Talys is your equal.
+Navarre: What? Ogma?! N... Naturally... A guy like him is no match for me.
+Lang: I see. Glad to hear it. Then I'll leave this place in your capable hands, Navarre!
+
+@Recruit-Talk 
+%Caeda,Samuel
+Caeda: Navarre, please hear me out! Lend your sword to our case, just once more!
+Navarre: What? Who are you? I'll have no business with women or children... But, there's a first for everything... (Whoa, she's smoking!) What business do you have with me?
+Caeda: ...... Y-you're not Navarre! Who are you?
+Samuel: Yikes, I've been exposed, huh? I'm actually a stingy mercenary known as Samuel. Somehow, I keep getting mistaken for this famous "Navarre" swordsman guy. I got tired of it after a while, so I decided to pose as him and got myself hired. But I don't like this General Lang guy either. If you're alright with it, I'll lend you my sword.
+Caeda: Yes... You'll do just fine...
+
+%Ogma,Samuel 
+Ogma: Navarre... You bastard...
+Navarre: Stay away... This evening, my killing edge hungers for blood...
+Ogma: Do you mean to kill me, no matter what? Hmph, very well. I knew that we'd have to settle our score eventually.
+Samuel: Wait... Stay your blade! ...I'm no Navarre, I'm just a sham. I... it's me, Samuel. Have you forgotten, Ogma?
+Ogma: Samuel?! Samuel, the gladiator from Knorda?
+Samuel: Yes, I was a slave gladiator at the time, and you really helped me out. Even when everyone was making their escape, you stayed behind to distract the guards and ended up caught...
+Ogma: ......
+Samuel: I heard everything from my friends. How you were dragged out to the square and whipped until you looked like a corpse. How, by chance, the young Princess Talys, tears in her eyes, stood up for you and saved you. And that's why you swore your blade to Talys. Or rather... to the princess...
+Ogma: Enough... Say no more! No more. It's in the past now... No more...
+Samuel: ...Ogma... Anyway, I want to repay you! I'm following you from now on, okay?
+
+@Recruit-Battle 
+Navarre: I pity your soul. But I can at least grant you a quick death. Take this! My killing edge!!
+
+Samuel: Doh, I shouldn't have said that I was Navarre...
+
+@Boss 
+Lang: W-wait, please! I'm sorry... Please forgive me... I've only done as the Emperor ordered me to. I didn't agree with him, but I had no choice. So... so please, s-spare my life... I'll do anything you say. Yes... Just like this... Mwahaha! You shouldn't have let your guard down! You fool... Now die!
+
+Lang: Urgh... Impossible... I have been defeated...
+
+@End 
+Marth: Lord Wendell! Thank goodness you're unharmed.
+Wendell: Lang accused me of collaborating with the rebels and had me imprisoned. Even though I told him that I must fulfill a mission assigned to me by Archsage Gotoh...
+Marth: A mission from Lord Gotoh?
+Wendell: That's correct... You have seen the "Starsphere"--the holy orb with the twelve constellations etched on its surface. In order to pierce Gharnef's shadowy veil, Lord Gotoh created a sacred spell named "Starlight" from that orb.
+Wendell: Unfortunately, the strain on the Starsphere was so severe that it shattered into twelve shards, which scattered into the sky. Lord Gotoh told me that this world has long been guarded by five orbs of mysterious arcane power, and that if even one of them is lost, the world will fall into irreparable ruin. By any means possible, we must gather the twelve star shards and restore the Starsphere.
+Marth: Is... Is this a joke? That the world could just end... This is all very hard to take in. But aren't these the star shards? If so, we already have a few. After we retake Altea, we'd be glad to help you find the remaining shards and orbs.
+Wendell: Of course... Your country was only just invaded by the Empire... I understand, Prince... I too shall fight to restore Altea, then. Thinking about it, my meeting with you is like a sign from Lord Gotoh himself. In that case, I shall surrender myself to fate. But, please, let's stop by the Fane of Raman. We may be able to find some star shards in the ancient temple.
+Marth: Understood. If it's the Fane of Raman, we can go there on our way to Altea!
+/***EOF***/
+@Opening 
+One year has passed since the War of Darkness ended. Thanks to the efforts of Prince Marth, the Kingdom of Altea, devastated by war, finally begins to stabilize. The knight Jagen, who succeeded the ill Morodof, became the prince's tactician and helped him rule the country, by his side. Afterwards, Princess Caeda was welcomed to Altea, and her marriage with Prince Marth was announced. The citizens were happy for the pair's fortune and Caeda was passionately welcomed to the country. However... Nearing the day of the wedding, a letter suddenly comes from the imperial palace, containing an imperial order. 
+"Dear Prince Marth of Altea, At the Kingdom of Grust, occupied by Archanea, a huge rebellion has broken out. I request for your country to subdue Grust. Your highness, please send Altea's full army immediately, to quell Grust's rebellion." -Emperor Hardin. 
+The Kingdom of Archanea is the sovereign state to Altea, and its orders must be followed. The helpless Marth orders the knight Cain to protect his kingdom. And he leaves, along with Jagen and the others, to an expedition to Grust.
+
+@Intro 
+Marth: Jagen, we’ve finally arrived. Is that the rebels’ fortress?
+Jagen: I just saw the occupation army’s commander, General Lang. You should ask him directly.
+
+Lang: So you are Lord Marth. Currently the situation is relaxed. We have already subdued most of the rebels. All that remains is this fortress. Since you are here, I will leave the job of defeating the rebels’ leader, General Lorenz, to you.
+Marth: What?! General Lorenz leads the rebels?! What would possess him to rebel of all things?!
+Lang: Who knows? I haven't the foggiest idea, and frankly I don't care. Prince. You are to kill General Lorenz, and reclaim the children of the Grustian royal family that he's hiding. While you do that... We will slaughter the families of those who participated in this rebellion and raze their homes to the ground.
+Marth: Are you insane?! They're innocent civilians!
+Lang: "I-insane"!? Young man, are you questioning my orders?! Perhaps Altea, too, plans to rebel against Archanea...?
+Marth: Of course not! That's not...
+Lang: Prince Marth, your tiny country means absolutely nothing to me. Your rude behaviour is merely an irritation. Do not forget that I have the power of the empire behind me: I can crush weak, pesky insects like you any time I wish.
+
+Marth: ...Jagen, what’s going on? Why has Hardin handed over this country to such a man...?
+Jagen: General Lang was once a noble of Archanea. However, in the previous war, he supported the Dolhrian Empire. I heard that he stole from other people, to add to his own wealth. I fear he has continued his ways at Grust, and caused suffering to its people. So General Lorenz’s rebellion is completely understandable.
+Marth: Jagen! How can you say things so casually? If we don’t inform Hardin of the truth, more innocent people will be killed.
+Jagen: Your highness, I understand your feelings. However, Lorenz’s rebellion is a fact. First, we must see how we can help him. Basically we should listen to what the citizens have to say, so we can affirm what has happened to this country. Then your highness can talk to General Lorenz personally.
+Marth: But the rebels don’t know that we’re from Altea. Can we reach the fortress safely? 
+Jagen: Don’t worry. Most of the rebels have already fled. All that remains is Lorenz, and the children in the fortress. Blocking our path are only bandits, who have taken advantage of the confusion to raid villages. They are no problem for us. You can order Alen to defeat them in one blow if you want. However, your highness, we have some fresh recruits in our army that could use some fighting experience. To them, bandits are relatively strong foes. So be careful not to push them too much. If possible, I would have liked to fight as well, but my body is not what it used to be. I will stay by your highness’s side, as your tactician. Well, your highness, we should go!
+
+@Visit 
+Villager: After the last war, Princess Nyna let this country keep its sovereignty under the rule of General Lorenz. However, as soon as Hardin became emperor, General Lorenz was banished and Lang's troops came crawling in. Lang stole everything from us. He stole our gold, of course, but he even stole our food and our loved ones... Ah... If only General Camus were here! Then we wouldn't have to live in fear of people like Lang!
+
+Villager: There aren't any young girls left in this country. They were all taken away by the imperial troops. They say General Lang keeps the really pretty ones to himself. What a dark, insane chapter in Grust's history...
+
+Villager: The late King Grust had two children. Princess Yuliya and Prince Jubelo. They're still young. Maybe thirteen, or fourteen; cute little twins, both of them. In the last war, Gharnef, the Dark Pontifex, kidnapped the twins to blackmail the king. They were taken to Khadein, the city of magic, and locked away in a pitch-black room. At great personal risk, Pontifex Wendell saved them. He took them to a monastery to protect them.
+
+Villager: General Lorenz took the royal children from Lord Wendell and raised them in Grust. The empire demanded their extradition, but Lorenz was afraid they would be killed, and hid them. The empire branded Lorenz a traitor, and sent General Lang here. Lang did horrible things to find the royal children. That's why we rose up. But, we lost. And now Lang is going to kill everyone in this entire country!
+
+Villager: I heard that General Lorenz lived in Talys when he was young. Talys wasn't unified at the time, so there were a number of noble houses contending for control. Lorenz lent his power to the young patriarch of one house, and together they unified Talys into one country. Lorenz and that patriarch--now the king of Talys--remain close friends to this day.
+
+Villager: I only saw him briefly, but that knight, Arran, looked awfully pale. You know, he's probably hit the wall, so to speak. I doubt he'll get any stronger, no matter how much he fights...
+
+@Recruit-Visit 
+Villager: Oh... Please, show mercy to just this child. She's only ten years old.
+Marth: Ma'am, please calm yourself. I am not here to take any children.
+Villager: What... You're not imperial soldiers?
+Marth: No... We're not. We didn't come to fight. If there's anything you need, please ask. It's not much, but we can give you food.
+Marisha: Wait... Please, take me with you...
+Marth: Huh...? You're... Are you really ten?
+Marisha: No... I'm a grown woman, but Granny lied so that I wouldn't be taken away by the soldiers. Lang's soldiers are all monstrous. But you're different. You have very sweet eyes. Please, take me with you. I want you to take me away from this country, and take me to yours.
+Villager: It's not safe for her to stay here. Please take her with you, and protect her. You can marry her, too, if you like. Marisha is a beautiful, good-natured lady, just like me! I'm sure she'll make a fine wife.
+Marisha: No-no-no! Granny, it's far too early for that! Now you've made Marisha all flustered!
+
+@Battle 
+Bandit: Oh? A battle, is it? We're in luck, boys! Let's loot 'em villages before 'ey realize what's hit 'em!
+
+Lorenz: Alright, that will do for now... Sir Ogma, please forgive me for getting you involved in this mess.
+Ogma: I am here on King Talys's orders. As such, I will do everything in my power to help.
+Lorenz: I see... Then I have a favor to ask of you. I want you to escort these children to Macedon. These children... Prince Jubelo and Princess Yuliya, are King Grust's orphans. Please. Take them safely to Lord Wendell in Macedon.
+Ogma: Understood... I will guard these two with my life.
+Lorenz: Thank you, Sir Ogma... Now, Prince Jubelo, Princess Yuliya, you will be leaving with Sir Ogma.
+Yuliya: No! I'm not going! I won't leave you behind!
+Lorenz: Princess... I cannot go. With this wound, I can barely even walk. It saddens me, but you two must go on without me.
+Yuliya: You took that grievous wound to protect us... How can you tell us to just leave you behind now?! I will never leave. We will never leave your side, Lorenz!!
+Ogma: What shall I do, General?
+Lorenz: Hmm... this is most troublesome. Princess Yuliya is not one to change her mind easily... We will remain here.
+Ogma: In that case, I will find some other way to help you. I will find Lang and bring him down... I will bury him with this sword, I swear on it. General Lorenz, you must hold out until then...!
+
+@Boss-Talk 
+%Marth,Lorenz 
+Lorenz: Prince Marth! So it is you... How unfortunate, that I must fight... the Altean army and its prince...
+Marth: Please, wait. I do not wish to fight with you. I heard about everything from the villagers. I've heard of all the atrocities Archanea has committed. I promise, I will inform Emperor Hardin of the truth and rescue Grust. So please, lower your weapons.
+Lorenz: Prince... I am grateful for the offer. But, I am afraid that I cannot comply. Prince, you know nothing. Do you think that a man of Emperor Hardin's caliber would make a general out of a man as worthless as Lang without good reason? He called for an invasion: to crush the kingdom of Grust and make it a territory of the Empire.
+Marth: No, it can't be! Hardin would never do something like that.
+Lorenz: I know it's hard to believe. But I'm afraid that, ever since he became emperor, he has changed a great deal. He is no longer the Hardin you once knew. Prince, I have one final request of you. In this stronghold, I am protecting the young prince and princess of Grust. Please, find a way to help them. If you can do just that, I will have no regrets.
+Marth: What... General Lorenz, what are you saying...?!
+Lorenz: Prince Marth... My life in exchange for theirs... By any means necessary, please help them... This is the last thing I will ask.
+Marth: General Lorenz!! ......This can't be happening......
+
+@Boss 
+Lorenz: What?! You're... the Altean army?! So even Altea has turned on us...
+
+Lorenz: Forgive me, people of Grust...
+
+@End 
+Elder: Prince Marth... General Lorenz entrusted everything to you. You spared his life, and even heard him out. We, the people of Grust, thank you. Please, let me offer you a token of our gratitude. Here. We're protecting Prince Jubelo and Princess Yuliya in this stronghold. I beg you, do what you must to protect our last fragments of hope...
+
+Marth: You, you're... Grust's royal heirs... Prince Jubelo and Princess Yuliya?!
+Jubelo: Sniff... Lorenz... He's gone... How can we live on without him?
+Yuliya: You monsters!! Stay away! You're going to murder us just like you murdered Lorenz!!
+Marth: No, you have it all wrong!! We just...
+Lang: Ah... Prince Marth. You finally caught these filthy traitors.
+Marth: General Lang! Wait, please! These children have done nothing wrong. Allow me to take custody of them.
+Lang: Don't make me laugh. These brats are coming with me to my castle. Besides, my dear prince, you have other, more important, priorities. I have received reports that there has been a military revolt in Macedon, and Princess Minerva has been imprisoned.
+Marth: What...?! How could that happen to Macedon?! I understand my obligations, General Lang. Still, these children... Let them stay with me, please.
+Lang: Prince, do not try my patience! Listen up you two! You're coming with me!
+Yuliya: No, let me go!! Jubelo... help me!!
+Jubelo: Yuliya... Yuliya...!!
+Marth: Wait!! Lang! Release them at once!
+Kris: Sire! Give me the order, and I'll get them safely back at once!
+Jagen: Sire, don't do it!! You too, Kris! If we oppose Lang right here, right now, we run the risk of being branded traitors by Archanea.
+Marth: But Jagen, are you telling me to simply allow Lang to take them?! I cannot stand for that...
+Jagen: I understand how you feel, sire... But please remain patient for a little longer. If we head to Macedon... then rescue Princess Minerva, Macedon will surely lend us its strength.
+/***EOF***/
+@Opening 
+To avoid needless battle, the Altean army decided to cross the central mountain range, said to be impassable for a large army. Going through Adria Pass, one will soon reach the city of Pales. Hurry, we can't let the enemy spot us! We must charge straight through!! Marth and the others were anxious, but they carried on advancing across the narrow mountain road. But they didn't expect, in the middle of the cliff, to be ambushed by an unfathomable enemy. They were the northern Kingdom of Aurelis' elite squad, the "Wolfguard", who had headed south to aid Archanea.
+
+@Intro 
+Roshea: Wolf, Sedgar, Vyland. Is this really okay...? Can we really fight this battle?
+Wolf: Roshea! What are you trying to say? Look, the Altean army is marching long the narrow mountain road. Now's our only chance to defeat them.
+Vyland: Yes, Roshea. We swore that we could sacrifice our lives for Lord Hardin. Lord Hardin was the one who freed us plains people from slavery. If we don't fight Altea now, Millennium Court will fall. Do you want Lord Hardin to be defeated by them?
+Sedgar: That's right! Prince Marth wants to destroy Archanea, and conquer the world. And that's why he joined forces with Macedon to crust Grust. Now he even has Gra under his rule. If we don't do something, the whole world will fall under his control.
+Roshea: I still don't believe it. I cannot believe Prince Marth would have such ambitions.
+Wolf: What? Are you saying that Emperor Hardin lied? Do you think that he would stoop to such a low!? Enough, Roshea!! You disappoint me, if you want to betray us then go ahead. Sedgar, Vyland, let's go. If we're too slow, they will pass us.
+Roshea: Hey, wait! I won't betray you. I understand... I'll go.
+
+@Visit 
+King Aurelis: Oh, Prince Marth. It is good to see you.
+Marth: Huh, aren't you King Aurelis?! What are you doing here?
+King Aurelis: I came here to stop my country's army. Also I must apologise to your highness. I believed Hardin's words and followed Archanea, but I now realize my wrongs. Archanea's Empress Nyna secretly sent me a letter, saying that Hardin isn't normal and is ill... My country will remain neutral, and its knights will return to Aurelis. I hope you won't attack my men anymore.
+Marth: I understand, your highness. I don't want to fight with you. Please forgive me for taking so many of your knights' lives.
+King Aurelis: Oh! You really are like what the rumors say. My body is frail and I have no children, and even Hardin, my younger brother, has completely changed. Prince Marth, please protect Aurelis in my place. I will hand my whole country to you. I give this jewel to you as a gift. This is a magical jewel containing the divine power of life. I spent a lot of gold to buy it from a travelling merchant. I believe it will be useful to you. Don't worry about Hardin. Since he is a knight, it is natural for him to die in battle. That is his fate. Well, Prince Marth, I will go on ahead. I hop you will all be safe...
+
+@Boss 
+Roshea: I am Roshea of the Aurelis knights. I don't want to fight, but I can't betray my companions. Please forgive me...
+
+Vyland: As long as we're here, we won't let you get to Millennium Court. If you don't want to die, run back to your country!
+
+Sedgar: You... Why are you invading other countries? Have you been blinded by ambition?
+
+Wolf: The leader of Aurelis' knights, Wolf, is here for your head!
+
+Wolfguard: Lord Hardin...
+
+@End 
+Marth: Jagen, it seems we've finally crossed the peak. Millennium Court isn't far from here.
+Jagen: Yes, if we go down from here, we will reach the capital of Millennium Court in an instant. Also, your highness, I just received news of an attempted coup in Millennium Court. The knights and civilians who opposed Hardin's actions rebelled against him. It seems their leader was Lady Midia.
+Marth: What! Midia...? What happened?
+Jagen: Unfortunately Lady Midia was defeated and was captured... Each day many people are executed. It is only a matter of time before Lady Midia shares the same fate.
+Marth: Damn, Hardin... I can't believe that he would do that. Alright, let's go and rescue Midia! We must hurry to Millennium Court and end this once and for all. Jagen, let's go!!
+/***EOF***/
+@Opening 
+Marth and the others were transported to Altea's outskirts by Gotoh's magic. They were ready to begin the battle to reclaim their homeland. The commander of Archanea's army, General Eibel, had ordered the Gra Knights to charge, to buy time. At the same time he prepared many dishonorable tactics, and waited for the chance to defeat Altea's army in one swift blow. Before his fond homeland, Marth's battles were about to begin once again. "We will reclaim our captical of Anri!! We will reclaim our homeland!!" Prince Marth's voice resounded through Altea's skies. They had travelled a difficult journey, but their destination was finally reached.
+
+@Intro 
+Soldier: General, the missing Altean remnants have finally returned.
+Eibel: Really? Haha...! What good timing. We will follow our original plan. Have Gra's soldiers move out to lure them and then defeat them in one go.
+Soldier: Understood, but, what about "him"?
+Eibel: The paladin, Abel? It doesn't matter if he betrays me! If he does, you will kill the female hostage!! He has already retired from the army. He won't swear loyalty to the prince again. Ha ha...! How will they avoid fighting Abel...? This will be very interesting to watch...
+
+@Visit 
+Old man: In the forts are many enemies. Don't be careless.
+
+Woman: Oh, you... Where did you all go to? You all went missing for so long that everyone became very worried about you.
+
+Young man: The Kingdom of Gra views Altea as its enemy. But, in reality, they were forced to fight because of their alliance with Archanea.
+
+Woman: After Altea fell, Elice was taken to an unknown place by a black-robed bishop... Oh... Princess Elice... I pray that you are safe and well...
+
+Young woman: Since being ruled by the imperial army, our days have been difficultly passed. But, we all believed that Lord Marth would definitely come back for us. He would rescue us all from our suffering... Because, our Lord Marth is the warrior of light chosen by the deities... the Starlord!
+
+Young man: Nearby are enemy spies. Be careful! They will come from the forts.
+
+Young man: The mercenaries protecting the castle are Altea's elites. It would be great if they could become your allies.
+
+Man: Oh, your highness, you've finally come. I have been waiting, to give this to you. However this village and the neighboring village...
+Marth: Mmm, I understand. But, for the sake of everyone, you should start to make up with them...
+
+@Recruit-Battle 
+Abel: Your highness... Please forgive me... I don't want to lose Est...
+
+Abel: Est...
+
+@Recruit-Talk 
+%Marth,Abel
+Marth: Abel!? Why are you... I don't believe this, you're betraying your homeland!?
+Abel: Lord Marth... Please forgive me... They took Est... If I didn't fight... They would kill her. ...But after meeting your highness, I can no longer... fight... against Altea... Est... I'm sorry, please forgive me!!
+
+%Est,Abel
+Est: Abel... I’m sorry, you must have suffered.
+Abel: Est!! You’re safe.
+Est: Yes, Lord Marth rescued me. I’m alright now.
+Abel: Really...? Damn, Archanea... But how should I apologize to Lord Marth...?
+Est: I’m sorry... It was all because of me.
+Abel: No, Est! It was nothing to do with you!! Those fools... I won’t forgive them... I’ll show them how deep my anger is!!
+
+@Boss 
+Eibel: What! Being able to defeat my great army. Are you even human?
+
+Eibel: My Archanea army could be defeated...?
+
+@End 
+Marth: That was a fierce battle. Is everybody alright?
+Jagen: Don't worry, they have been awaiting this day for a long time.
+Marth: Archanea's actions were too cold-hearted. They even had innocent citizens killed. How can I apologise to the citizens...? I only bring trouble to everybody... Perhaps I'm not fit to protect this country.
+Jagen: No, your highness, you're wrong! Your highness, you have a gentle heart, so that is why no matter what hardships, we can endure them. We believe in your highness, so that is why we follow you. Your highness, please raise your spirit!! We still haven't reclaimed Altea castle. There are probably many enemies awaiting us, but this is our castle. We already know how to fight this battle. Well, Lord Marth! Let's go!!
+/***EOF***/
+@Opening 
+This was a fierce battle like no other. But, their homeland of Altea has been liberated. All that remains is the castle... If I could regain Altea castle, where I was born... Everybody, thank you... I really must thank you all for placing your trust in me... Before Marth's face flowed shimmering tears... Even the girl, who gently wiped his tears away, couldn't prevent her own tears...
+
+@Intro 
+Marth: What's going on...? Even thieves have managed to find their way in. Could the Geosphere have been taken by them!?
+Jagen: Your highness, a suspicious thief is escaping towards the north. We should send somebody in pursuit before it's too late.
+Marth: Mmm, but we can't use horses or Pegasi inside, so what should we do...
+
+@Recruit-Battle 
+Astram: You foul traitors! Taste the might of my Mercurius!
+
+Astram: Midia...
+
+@Recruit-Talk 
+%Jeorge,Astram
+Jeorge: Astram, how are you doing?
+Astram: So it's the traitor, Jeorge. What do you want with me?
+Jeorge: Wait, Astram. General Eibel has already fallen. You won't be able to win even if you continue fighting.
+Astram: You want me to surrender...? Never! Even if I am the last one standing. I am a warrior of Archanea to the end!!
+Jeorge: Why are you... Who are you fighting for? Are you fighting for Emperor Hardin?
+Astram: No! It's not because of that man, but because of Nyna... And for Archanea!!
+Jeorge: But, did Nyna tell you to fight here? Do you really think that Nyna would hope for this kind of battle?
+Astram: Well... I hadn't seen Nyna for a while. I was told that she fell ill, and that I couldn't see her. But... Since Hardin is Emperor of Archanea, I have no choice. If I don't follow his orders I will become a traitor, and I will be betraying Nyna.
+Jeorge: Astram, Nyna already entrusted the Emblem to Prince Marth. Do you understand the meaning of her actions?
+Astram: Wh-what!! When did this happen, Jeorge? Nyna requested Prince Marth for help?
+Jeorge: I believe that is the only explanation. Astram, if you want to find out the truth then come with us... If you die here, what will Midia do? You must live on, for her. You must live on, so you can confirm with your eyes what is happening.
+Astram: Hmm... I guess I have no choice. But, Jeorge. If this war is as Hardin said, and was caused by Prince Marth's ambitions. I will never forgive you! Remember that!!
+
+@Boss 
+Willow: Hahaha... It's time for me to show you... The destructive power of my Meteor magic...
+
+Willow: Emperor Hardin, forgive me...
+
+@End 
+Jagen: Prince Marth. The enemies in the castle have been vanquished. Altea is finally in our hands again.
+Marth: Really? That's great. But, I stil don't see my sister...
+Gotoh: Your highness, Princess Elice was taken by Gharnef.
+Marth: Huh? Gotoh, is that true!?
+Gotoh: He ordered the dark priests to search for clerics of noble birth. Lena, Maria... and even your sister Elice. They have all been taken by Gharnef...
+Marth: Is that so... But what is he planning on doing by capturing them?
+Gotoh: That I don't know, but I bet it's not anything good. The chain of events so far was all the doing of Gharnef.
+Marth: Gotoh! Where is he now?
+Gotoh: I don't know, but I bet Gharnef's next target will be Princess Nyna. So he is probably at Millennium Court...
+Marth: I see. We will go to Millennium Court. I will rescue Hardin from the Darksphere's influence. I will defeat Gharnef and the dark priests... And I will rescue the captured clerics!!
+/***EOF***/
