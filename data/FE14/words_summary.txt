@@ -1,0 +1,38 @@
+Game: FE14
+Number of chapters: 75
+Words per chapter: [1331, 1814, 1208, 1270, 2886, 1077, 1104, 2096, 2433, 1855, 2263, 2588, 2164, 3297, 2596, 1867, 1632, 2098, 1087, 682, 2134, 4847, 1756, 1497, 1967, 2086, 2994, 1022, 2389, 2235, 1637, 1197, 2492, 1541, 3402, 2327, 1898, 1547, 1759, 2454, 1505, 1732, 2801, 1417, 863, 3605, 1623, 2455, 1782, 1004, 1854, 1517, 187, 733, 885, 535, 553, 832, 1159, 905, 356, 813, 869, 917, 1076, 1111, 792, 630, 922, 800, 1041, 946, 776, 655, 901]
+Average number of words per chapter: 1614.4133333333334
+Number of words: 121081
+Number of unique words: 6221
+Number of words that only appear once: 2589
+Sample of words used only once: ['garde', 'declare', 'buttling', 'acorns', 'earthy', 'nicest', 'branches', 'prefers', 'lone', 'wears', 'approaches', 'ambushed', 'dashing', 'ds', 'paw', 'perfecting', 'fiercer', 'arranging', 'twitching', 'grrrah', 'gaah', 'prettiest', 'glossy', 'pearl', 'bat', 'shriveled', 'chew', 'dote', 'aspect', 'memorized', 'constantly', 'volunteer', 'buts', 'jiffy', 'prefect', 'rigorously', 'disciplines', 'overconfident', 'observed', 'paragons', 'patch', 'needle', 'assessment', 'recuperation', 'mobilized', 'outdoing', 'rate', 'novice', 'startled', 'spitting']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.03148305679669
+
+Number of words (excluding stopwords): 61225
+Most common words (excluding stopwords): [('im', 906), ('corrin', 839), ('dont', 588), ('well', 508), ('youre', 501), ('know', 491), ('us', 464), ('right', 445), ('like', 428), ('father', 371), ('time', 364), ('cant', 354), ('must', 353), ('thats', 334), ('ill', 320), ('see', 315), ('would', 313), ('yes', 306), ('back', 303), ('one', 302), ('please', 302), ('way', 300), ('oh', 287), ('get', 284), ('could', 271), ('even', 259), ('nohr', 256), ('thank', 246), ('really', 240), ('come', 234), ('sorry', 230), ('hoshido', 226), ('never', 226), ('ive', 223), ('think', 223), ('take', 220), ('wont', 219), ('let', 217), ('go', 211), ('going', 211), ('king', 207), ('still', 204), ('good', 204), ('make', 202), ('xander', 197), ('need', 194), ('say', 189), ('azura', 176), ('nohrian', 176), ('takumi', 175)]
+
+Longest sentence length: 21
+Average sentence length: 5.658887229275579
+Longest sentence: While you were doing the king's bidding we couldn't help but wonder what awful trials he was forcing you to endure.
+
+length,words,unique words
+1,6255,22
+2,22003,58
+3,25580,270
+4,28223,768
+5,14583,981
+6,10611,1086
+7,6385,1026
+8,3748,773
+9,1832,564
+10,959,341
+11,389,177
+12,200,87
+13,179,40
+14,121,18
+15,6,5
+16,5,3
+17,1,1
+18,1,1

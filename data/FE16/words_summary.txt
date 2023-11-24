@@ -1,0 +1,37 @@
+Game: FE16
+Number of chapters: 72
+Words per chapter: [3665, 5142, 2511, 3755, 777, 3922, 4629, 4889, 3900, 5043, 2033, 4216, 4662, 4499, 4777, 3643, 5366, 1260, 970, 1133, 936, 957, 1184, 1115, 942, 921, 1357, 1345, 673, 1343, 1165, 954, 1360, 1336, 997, 1030, 754, 1387, 1284, 840, 3916, 2862, 2719, 2681, 1699, 3489, 3530, 1148, 3210, 3914, 4041, 3401, 2394, 2723, 4564, 4409, 3367, 3304, 4598, 12807, 17344, 2117, 6261, 4435, 6815, 7065, 7972, 5571, 7353, 5706, 7471, 7409]
+Average number of words per chapter: 3513.4305555555557
+Number of words: 252967
+Number of unique words: 8671
+Number of words that only appear once: 3039
+Sample of words used only once: ['slumbers', 'publicly', 'proselytize', 'bottles', 'drinkable', 'jewels', 'accessible', 'inappropriate', 'assists', 'intuition', 'enters', 'underway', 'ticking', 'overprotective', 'bitten', 'shakes', 'core', 'anxiety', 'abounds', 'unwanted', 'gusts', 'vibe', 'moths', 'shimmering', 'intruder', 'committed', 'breach', 'unlawful', 'identified', 'dishonoring', 'redemption', 'arguing', 'centrally', 'exposure', 'function', 'smaller', 'entities', 'rebelled', 'explaining', 'hire', 'weaken', 'hired', 'swine', 'glowed', 'assent', 'henceforth', 'dubbed', 'ca', 'differs', 'frightens']
+Longest dictionary word: misunderstandings
+Longest dictionary word length: 17
+Average word length: 4.177011230713887
+
+Number of words (excluding stopwords): 124006
+Most common words (excluding stopwords): [('professor', 1297), ('im', 1238), ('well', 1064), ('like', 888), ('know', 871), ('dont', 869), ('must', 843), ('would', 778), ('time', 773), ('us', 733), ('right', 662), ('one', 636), ('think', 580), ('empire', 572), ('youre', 559), ('thats', 549), ('even', 536), ('get', 534), ('see', 522), ('battle', 512), ('back', 499), ('really', 462), ('ill', 457), ('take', 455), ('cant', 444), ('could', 439), ('still', 433), ('rhea', 418), ('oh', 412), ('lets', 405), ('something', 395), ('much', 392), ('way', 390), ('go', 388), ('come', 385), ('alliance', 376), ('kingdom', 375), ('make', 365), ('never', 354), ('ive', 354), ('sure', 345), ('say', 343), ('people', 343), ('house', 340), ('imperial', 330), ('please', 325), ('fódlan', 323), ('good', 319), ('years', 317), ('may', 316)]
+
+Longest sentence length: 32
+Average sentence length: 7.446027913550439
+Longest sentence: Having repelled the Imperial vanguard, the resistance army, in desperate need of troops, seeks help from Judith, head of House Daphnel - the governing body in the northwestern regions of Alliance territory.
+
+length,words,unique words
+1,11956,17
+2,46967,63
+3,52632,265
+4,54321,820
+5,27901,1121
+6,21467,1391
+7,15793,1428
+8,9866,1274
+9,6750,955
+10,3025,657
+11,1391,373
+12,430,175
+13,258,92
+14,188,28
+15,10,7
+16,11,4
+17,1,1

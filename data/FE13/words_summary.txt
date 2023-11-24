@@ -1,0 +1,37 @@
+Game: FE13
+Number of chapters: 45
+Words per chapter: [906, 567, 846, 1886, 372, 561, 1870, 3366, 902, 3034, 1256, 929, 1466, 1342, 2052, 1202, 1434, 1270, 1866, 1469, 1060, 2238, 1208, 165, 4739, 1779, 1454, 1293, 351, 1607, 983, 495, 955, 337, 890, 1025, 619, 630, 1481, 1263, 291, 1041, 912, 1270, 1225]
+Average number of words per chapter: 1286.8222222222223
+Number of words: 57907
+Number of unique words: 5148
+Number of words that only appear once: 2450
+Sample of words used only once: ['cringe', 'ravaged', 'towns', 'impunity', 'nraugh', 'buttercup', 'wink', 'greedy', 'slew', 'dozens', 'mop', 'frowns', 'dungeons', 'gyaaarrgh', 'eeeeeeeeeeeeeeek', 'reply', 'intently', 'drat', 'shyness', 'countered', 'stare', 'planning', 'rascals', 'naturally', 'kettle', 'snookums', 'introduced', 'crown', 'opposite', 'raised', 'philanderer', 'purged', 'destruction', 'reclaimed', 'works', 'lifting', 'flatters', 'rebuilding', 'tweeted', 'chatting', 'girls', 'wearing', 'scouring', 'male', 'hips', 'sometime', 'shyer', 'therell', 'buttercups', 'blooming']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.014471480131935
+
+Number of words (excluding stopwords): 29431
+Most common words (excluding stopwords): [('im', 304), ('know', 280), ('well', 264), ('robin', 230), ('chrom', 223), ('us', 214), ('would', 211), ('right', 209), ('one', 207), ('yes', 203), ('youre', 200), ('dont', 196), ('oh', 186), ('ha', 156), ('like', 155), ('see', 153), ('time', 147), ('ill', 139), ('come', 131), ('must', 128), ('could', 122), ('back', 111), ('thats', 110), ('good', 105), ('never', 102), ('ive', 102), ('take', 100), ('think', 100), ('thank', 98), ('way', 97), ('say', 95), ('people', 94), ('lucina', 92), ('future', 92), ('wait', 91), ('cant', 91), ('sir', 88), ('please', 87), ('still', 87), ('gods', 86), ('perhaps', 84), ('even', 84), ('mother', 83), ('look', 82), ('make', 81), ('life', 81), ('sorry', 79), ('might', 77), ('father', 77), ('fight', 77)]
+
+Longest sentence length: 26
+Average sentence length: 5.299790928097446
+Longest sentence: So, begging your pardons, but perhaps it is time to cut this long story short Walhart has conquered our continent and now seeks to conquer yours.
+
+length,words,unique words
+1,3065,21
+2,10167,67
+3,12981,267
+4,12887,702
+5,7450,888
+6,4753,896
+7,3170,840
+8,1646,587
+9,1030,428
+10,409,220
+11,205,129
+12,76,57
+13,41,29
+14,21,11
+15,3,3
+16,2,2
+19,1,1

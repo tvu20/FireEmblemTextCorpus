@@ -1,0 +1,35 @@
+Game: FE3
+Number of chapters: 46
+Words per chapter: [467, 367, 288, 312, 299, 627, 464, 359, 196, 287, 452, 725, 561, 701, 602, 657, 730, 330, 789, 537, 313, 267, 900, 144, 1270, 718, 694, 1004, 1298, 950, 717, 735, 980, 669, 750, 194, 791, 810, 596, 1393, 473, 801, 2003, 719, 653, 571]
+Average number of words per chapter: 655.7173913043479
+Number of words: 30163
+Number of unique words: 3344
+Number of words that only appear once: 1562
+Sample of words used only once: ['invading', 'blinded', 'crossed', 'shares', 'outskirts', 'dishonorable', 'tactics', 'swift', 'captical', 'resounded', 'travelled', 'remnants', 'timing', 'original', 'lure', 'betrays', 'female', 'loyalty', 'views', 'reality', 'unknown', 'robed', 'difficultly', 'starlord', 'spies', 'neighboring', 'rescued', 'anger', 'hearted', 'fit', 'gentle', 'raise', 'reclaimed', 'regain', 'placing', 'flowed', 'shimmering', 'gently', 'horses', 'pegasi', 'continue', 'meaning', 'explanation', 'confirm', 'meteor', 'stil', 'capturing', 'chain', 'events', 'darkspheres']
+Longest dictionary word: underestimating
+Longest dictionary word length: 15
+Average word length: 4.23813944236316
+
+Number of words (excluding stopwords): 15493
+Most common words (excluding stopwords): [('marth', 197), ('prince', 146), ('dont', 115), ('princess', 111), ('please', 105), ('must', 95), ('well', 83), ('see', 82), ('archanea', 80), ('im', 79), ('one', 78), ('us', 78), ('altea', 76), ('hardin', 72), ('like', 71), ('would', 69), ('army', 64), ('nyna', 64), ('come', 63), ('youre', 63), ('fight', 62), ('gharnef', 61), ('dragons', 60), ('even', 58), ('dragon', 58), ('take', 54), ('know', 53), ('go', 53), ('really', 53), ('dolhr', 52), ('want', 52), ('lord', 51), ('king', 49), ('oh', 49), ('time', 48), ('gotoh', 48), ('could', 48), ('general', 47), ('yes', 46), ('thats', 45), ('long', 45), ('macedon', 45), ('many', 44), ('however', 44), ('still', 44), ('country', 44), ('help', 43), ('people', 41), ('ill', 41), ('castle', 40)]
+
+Longest sentence length: 35
+Average sentence length: 6.913439635535307
+Longest sentence: Marth's soldiers were glad to rest there, nestled between mountain and sea, but their joy was spoiled by news that the enemy was fast approaching- as harsh an awakening as a rock beneath the pillow.
+
+length,words,unique words
+1,1289,10
+2,5071,48
+3,6323,186
+4,6400,479
+5,3645,546
+6,2931,603
+7,2036,538
+8,1295,391
+9,612,268
+10,369,155
+11,129,72
+12,37,30
+13,14,11
+14,11,6
+15,1,1
