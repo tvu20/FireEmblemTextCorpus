@@ -1,0 +1,53 @@
+@Intro 
+Saizo: Hey, Azama, you look terrible. Like you've seen a ghost.
+Azama: No, nothing that awful. It's just that my daughter's village is under attack.
+Saizo: What? That's FAR worse. We have to get there and rescue her.
+Azama: Let's see... I guess it is worse, though everyone has to die sometime.
+Saizo: What?! We're talking about your daughter here! Let's get to saving her, man!
+Azama: Impatient, aren't you? Then let's go, if you're in such a hurry.
+
+Saizo: My god! The village in this Deeprealm is completely overrun with our enemies! This is where Mitama lives, right? Then where IS your daughter?
+Azama: This is not good... I don't see her anywhere... Oh! Ah! I'm wrong. There's an air of calm here. She must be fine.
+Saizo: Hmm. Somehow I seriously doubt that. Look at this place, you fool.
+Azama: Um, well...she's probably fine. I put her in a perfectly sound house.
+
+Azama: See? That place is still standing. It hasn't taken any damage.
+Saizo: ... We're going in to check on her safety, you damned fool.
+
+@Visit 
+Azama: Mitama? Knock knock! It's your father. Are you home?
+Mitama: Wh-who?
+Azama: Oh, you are home. Could you come to the door, please? It's only fair that you join us outside. Or let us all in. Either way.
+Mitama: Who? What now? Off with you. I'm enjoying a lovely snooze...
+Azama: Oh, my! Did she fall back asleep?
+
+Azama: Mitama? Please open up. My knuckles are getting sore from knocking.
+Mitama: Who's there? Didn't I say to go away? I don't want any! Haven't you a higher calling than to trouble my door? Mayhaps you should place yourself in a prostrate position, then perish?
+Azama: How strange. Explain yourself, Mitama.
+Mitama: How can I make it any clearer? Lay down and die!
+Azama: Ah! That most certainly is you, Daughter. I'd know that sharp tongue anywhere. It's your father, Mitama. Open up, pretty please. I'm getting rude stares. People don't understand why you won't let me in. Me? I could stand here all day and banter with you. Great fun. Still, I'd rather not knock a third time. Mitama...?
+
+Mitama: Oh, is that you, Father? What brings you here? Did you bring all these hooligans who've been making so much noise?
+Azama: Blissfully unaware, as always. Nice to see you too, Daughter.
+Mitama: Yes, well, I've been asleep. Or trying to. But all this noise out here!
+Azama: Oh my. What a dreamer! You might have slept through your house being razed. Good thing I had the common sense to get here as fast I could.
+Mitama: I understand. You're saving me. That's worth waking up for. Or at least it's haiku worthy. My father has come. / But my feather bed is warm. / So I choose to snooze. Good night, Father.
+Azama: Good night, my left foot! Have you taken a look around? It's not night! And it's not good - not with your village being under attack! Outside, now. If I have to battle, you have to battle.
+Mitama: What? Why?
+Azama: Dear Daughter, do I really need to explain? You're brighter than most. It's time that your laziness is forged into the will to fight. Besides, I need you to heal me up if I scuff my knee.
+Mitama: You woke me for this? I guess this too is haiku worthy. My best friends are snores. / But who has come to my door? / The master of chores. Ugh, I guess I'll help. Now where did I put that rod? Oh, yes. There.
+Azama: Hmm... Oh, dear, I've never seen a filthier apparatus. What HAVE you been stirring with this, Daughter? It'll have to do. Ready to help?
+Mitama: OK, I guess. Just a moment... Beseeches he me? / I am the Maiden of Zs. / At the least say please.
+
+@End 
+Mitama: Oh. Is someone injured? 
+Azama: Whoa, just look at that. What initiative! Tending to the wounded without even being nagged? Remarkable!
+Mitama: Whew. Healing people is exhausting.
+Azama: Well done, Mitama.
+Mitama: Yes, it was, wasn't it? Now, good night. 
+Azama: Oh? Where do you think you're going?
+Mitama: Very funny, Father. Inside to bed, of course. Since all of those obnoxious visitors are gone, I can get back to sleep.
+Azama: Is it funny, how you think you're just going to hit the hay after being so useful! No, dear Daughter. You're going to accompany us.
+Mitama: What?!
+Azama: All right. Let's go. No complaining. As they say; those that idle away their lives are looking for trouble.
+Mitama: Trouble rarely travels alone. You see, Father? Anyone can spout that stuff and sound smart. I'm not buying it. I'll surely get into far more misadventures with you. Oh, well... What use is trying? / Fathers are always prying. / Daughters, complying. | Far better to sleep. / Far off in the starry night. / Far from Azama. | Good night to freedom. / Good night to aspirations. / Good night to my dreams. Huh. What do you know? Three haiku? All at once?! Travelling with Father might actually be inspiring.

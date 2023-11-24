@@ -1,0 +1,57 @@
+@Intro 
+Midori: Hup, two, three, four! Hup, two, three, four! Keep it going, Midori. One after the other. You'll get there! Hup, two— But I do hope I'll be there soon. I wouldn't want to keep Father waiting. He's going to be so happy that I found the rare herb he wanted! Got it tucked nice and safe in my little bag here. Hup, two, three— Aaaagh! Am I there yet? I've marched ALL the way from my Deeprealm to meet him! Hup, two, three—uh, hang on. What's that up ahead?
+Boy: Help me! Somebody! Anybody!
+Ruffian: Shut up! Now empty your pockets like I told you—or I'll CUT 'em open. And I ain't too careful with my knife, if ya know what I mean.
+Boy: Leave me alone!
+Midori: Wh-what are you doing?! Pick on someone your own size!
+Ruffian: What? Who said that?! Ha! Ain't you a li'l tater.
+Midori: Nuh-uh! I'm Midori, the biggest herb gatherer around! Now, do the adult thing and put down tour weapons, you...you... You pocket emptier!
+Ruffian: What's that?! Ain't your parents ever teach you to respect your elders? Guess I'll just have to teach you to shut your yap.
+Midori: Huh? No!
+
+Ruffian: Gaaah!
+Kaze: Midori... I'm here. You're safe.
+Midori: Father!
+Ruffian: Urr, who—? Never mind. I'm gone. Got better pockets to empty.
+Midori: Thanks a bunch, Father! I hope you weren't too worried. I wasn't.
+Kaze: Is that so? Then maybe do me a favor next time and be on time. I'll always worry. That's my job. Well now. Have you gotten taller again? You're growing faster than bamboo!
+Midori: Oh, yes! But it's time that's going by so fast in the Deeprealms. I'm an adult now—or at least more one than that brute was. Anyway, Father, I found the rare herbs you wanted! See? I've got them right here! Er, hold on. They were right here. I had them just a moment ago!
+Kaze: Huh? Did you drop the herbs when that bandit approached you?
+Midori: Um...no! I'm sure I didn't drop them!
+Kaze: Hmm...then where are they? Let's just retrace your steps. They must have slipped through your fingers.
+Midori: No way. I'm sure I didn't misplace them. I was JUST holding the bag! It must have been that man. He took the herbs from me. Wait here, Father! I'll find that guy and get the bag back.
+
+Kaze: No, Midori. Wait!
+
+Midori: Um... Hey, you! Yes, YOU! With the bag! That's mine!
+Candace: Eh? Sharp eye, kid. People don't usually see me when I'm tiptoeing around.
+Midori: Well, the fact is, I'm not a kid. I'm the biggest herb gatherer around! And you're running around with some pretty bad guys!
+Candace: Well, if we're comparing facts, I am NOT with these barbarians. I travel among them. They make for a nice distraction while I do my work. No one even sees me walk amid the whole hairy, smelly horde of them! And who am I, you may ask? She who locates legendary riches! A genius! And explorer! I'm none other than Candace, the notorious treasure hunter!
+Midori: Um, what? Does this have something to do with my bag? Explain yourself!
+Candace: Leave it to Candace! I have explanations for every occasion! You see, I learned that the rare Dragon Herbs were hereabouts! As I've said, I am a treasure hunter. You had something I treasured. The rest is just math. Ergo, what's yours is now mine.
+Midori: Well, the fact is that I found those herbs first. You stole my bag!
+Candace: Facts again? Then let me drop another fact on you. You took the herbs from this forest, didn't you? Wouldn't that make YOU a thief?
+Midori: Nuh-uh!
+Candace: Then I'm not a thief either! I could stand here and complain about you dragging my name through the mud. But Candace is going to take the high road—and just say good-bye. You could try to take back your bag. But I'll warn you. I'm quick as a wink.
+
+Midori: No, wait! I need those herbs for my father!
+
+@Boss 
+Candace: Oh? Caught up with Candace, did you? Well done. But I'll warn you. I'm strong as an oak!
+
+@End 
+Midori: Glad that's over. I wasn't sure we were going to get the herbs back!
+Kaze: Don't scare me like that. Running off on me? I was terrified! All of this, just for those herbs? We could have gathered more. They're not worth the risk of losing you. So never do that again!
+Midori: But I just— Ugh, you don't understand! Those herbs grow here only once every year! And you don't realize the true value of those herbs anyway. Those herbs can make wishes come true!
+Kaze: Huh? I knew they were useful, but they can actually grant wishes?
+Midori: Well the fact is...the herbs can help make one specific wish come true. My wish, in fact—to prove my usefulness to you, Father. So I can stay here!
+Kaze: Midori, we still could have waited for the herbs to grow back. This was risky.
+Midori: Don't you realize?! A year here would be FOREVER in my Deeprealm! And I just can't wait THAT long to prove my usefulness again! I...I...hate it there, away from you!
+Kaze: I'm sorry that I've put you through all of this, Midori. It was only for your safety. But it seems that you're more than old enough to make your own choices. Forgive me for not realizing what you were going through much earlier. Of course, time is more fleeting in the Deeprealms. I planned to visit as often as I could, since days here would be much longer for you. I am dearly sorry for putting you through such loneliness.
+Midori: ...
+Kaze: Here, take my hand, Midori. From now on, we walk together in life. No more Deeprealms for you.
+Midori: You're serious, Father?
+Kaze: Of course! I'll just go let my comrades know that you'll be joining us.
+Midori: Thank you, Father! Now, see? I was right about the power of these herbs! My greatest wish is coming true!
+Kaze: Let's go, Midori. We have a lot to catch up about. I want to know everything about your life in your Deeprealm. I've missed out on so much. Tell me about it all—and don't leave out a single day.
+Midori: Yes, Father. That will surely keep us busy for at least a few years!

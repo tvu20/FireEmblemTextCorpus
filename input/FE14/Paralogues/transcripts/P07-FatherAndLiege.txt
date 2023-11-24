@@ -1,0 +1,52 @@
+@Intro 
+Ryoma: Unbelievable...
+Takumi: Brother, what's wrong?
+Ryoma: It can't be, yet I've gotten word that my son is missing from the Deeprealms.
+Takumi: What?! Shiro's missing?
+Ryoma: He's left of his own accord, but he's never been here before. I haven't prepared Shiro for what he must know about our world.
+Takumi: We need to find him! I'll alert the others at once.
+Ryoma: Thank you. Shiro has no idea what sort of danger he's in here.
+
+Shiro: Hmm... So THIS is the world that has been kept a secret from me? Pretty dull, if you ask me. Maybe if I can find this Hoshido palace then it'll all make sense. From what I overheard back home, my dad is a bigger deal here than I thought. What's he called again? Big Cheese of Hoshido? Which would make me... I dunno. Little Cheese? I must be some kind of royalty though. I always knew Dad was a major deal. But, royalty?! I still can't believe it.
+Tarba: Wait up, fancy britches. What brings you all the way out here?
+Shiro: What? None of your business.
+Tarba: You're not welcome here. Now I'll forget that I ever saw you. Long as you hand over your weapons and armor, that is. Refuse, and you won't walk outta here alive.
+Shiro: You ready for this? I doubt it. Fine then. Take your best shot.
+Ryoma: Over there, that's...that's Shiro!
+Takumi: Come on! He's surrounded—there's no way he can fight them all off!
+
+@Recruit-Talk 
+%Ryoma,Shiro
+Ryoma: Shiro, you shouldn't be here.
+Shiro: Dad! Or should I say...Big Cheese of Hoshido?
+Ryoma: We can discuss that another time. Leave here now. I'll take care of this.
+Shiro: Ha, really? When the party's just getting started? Hey, also, you big liar, where are all the monsters you said were here? These guys are just...well, guys. Hardly a match for me.
+Ryoma: Don't be a fool, Shiro. I haven't prepared you for a place in my world. That includes knowing how to handle yourself on the battlefield!
+
+@Boss 
+Tarba: Hand over whatcha got, and I swear that you'll walk outta here alive. Bah! Who am I kidding? I'm gonna sell all you got, right down to your bones!
+
+@End 
+Ryoma: Shiro, you have disobeyed me for the last time. And you will show me respect—or I will show you how I deal with utter fools.
+Shiro: How can you call me that?!
+Ryoma: I didn't raise you to be this irresponsible.
+Shiro: Dad, want a reality check? You didn't raise me at all.
+Ryoma: What? I did what I had to. I have the weight of the world on my shoulders, Son. I put you somewhere that was safe from our family's enemies. What was all this anyway? Some sort of adventure? Had you been slain, don't you know that all of Hoshido would grieve you?
+Shiro: Hoshido? Then it's true.
+Ryoma: Tell me who told you. Your caretakers were under strict orders of secrecy.
+Shiro: What?! No one. Everyone kept your secret. But you really are...?
+Ryoma: That's right. I am the royal head of a kingdom known as Hoshido. A kingdom that you will rule one day. If you survive so long.
+Shiro: How could you keep this secret from me?! Didn't you think I have a right to know?
+Ryoma: I'm sorry. I had my reasons initially. And then later... Well, the truth is that you haven't been maturing the role.
+Shiro: That's not right. If you'd only told me, I would have taken things more seriously. How else was I supposed to turn out, being treated like I'm special for no good reason! This battle has been the only moment of truth in my whole damned life. I don't mean your confession here. I mean seeing all this...death. I can barely stop my hands from shaking. I was trained to fight. Not to kill. You...you should have prepared me for this sort of life.
+Ryoma: I see... Yes, I suppose I should have. But now that we're here, answer me this. From what you've seen of me today, what do you think your father's power is for?
+Shiro: Huh, your power? To leave the field bloodied with your enemies?
+Ryoma: No. Is that really what you saw here? What we ALL achieved here?
+Shiro: No. I guess not. Those guys wanted to bloody the field with us.
+Ryoma: Yes. They abused their power. You and I had to stop them. All lives are sacred. Even theirs. And so, taking their lives is a serious decision. But it had to be done, for the sake of OUR way of life. I falls to me, and one day to you, to bear that heavy responsibility.
+Shiro: Still, you didn't prepare me for this...
+Ryoma: Shiro, I'll prepare you now, if you're truly ready to join my side. Now that you know who I really am, you can decide to be who YOU really are.
+Shiro: Are you sure you want me around?
+Ryoma: Sure, if you're sure. But remember that I'm more than your father. I'll warn you—speak to anyone in our family, and they'll tell you about me. I'm as strict as they come. Some even say I'm severe. But it's all for Hoshido.
+Shiro: I'll do my best! Er, not that I have a clue what I'm up against.
+Ryoma: We stand together then. Now, I make you this vow, Son. No more secrets. I need to prepare you fully to fill my role...in due time.

@@ -1,0 +1,75 @@
+@Intro 
+Subaki: Well, this isn't at all how I pictured where your daughter lives. I didn't even know that any part of the Deeprealms looked so...ominous.
+Hayato: It wasn't this creepy the last time I visited Rhajat. Something terrible has happened.
+Subaki: We'd better investigate then.
+Hayato: Hmm. Yes, let's hurry in.
+
+Hayato: What's going on around here?!
+Subaki: Faceless, everywhere! They seem to be surrounding that house. Maybe even...coming from it?
+Hayato: What? But that's where Rhajat lives. It can mean only one thing... She actually did it.
+Subaki: Did what?
+Hayato: Hmm. There's something I haven't told you about my daughter. She dabbles in the dark arts—the darker, the better. Last time I came here, Rhajat was amusing herself with summoning spells. But she couldn't get them to work.
+Subaki: Hmm, I just can't believe that your daughter could possibly...
+Rhajat: Hee hee hee! After all my toil, the Nohrian monstrosities are mine—ALL MINE!
+Hayato: Does that convince you?
+Subaki: I guess I shouldn't have been surprised. She's got your knack for magic. It seems Rhajat has succeeded beyond her wildest dreams.
+Hayato: More like her weirdest nightmares. We have to get in there and clean up this mess!
+Rhajat: Come to me, my children! Come to Rhajat, your loving mother!
+Hayato: Seriously? That girl...she's dabbled herself into a very dark place.
+
+@Recruit-Talk 
+%Hayato,Rhajat
+Rhajat: Hee hee hee! Father, you've arrived! Meet your grandchildren! Aren't you proud of me? I've mastered the art of summoning! The Faceless just keep on coming. It's so beautiful!
+Hayato: What? This is horrifying! If you summon any more of them, we won't be able to cut them all down!
+Rhajat: Huh? But I've only just begun. They're a part of our family, Father!
+Hayato: Listen, you need to stop this. Now! Please, Father knows best.
+Rhajat: What? How can you say that? You know NOTHING about summoning!
+Hayato: Rhajat, you know that's not what I mean! Now, help us clean up this mess.
+Rhajat: Fine, Father.
+
+@Recruit-Battle 
+Rhajat: Hee hee hee! You truly want to tangle with me?!
+Rhajat: But...why? I was only furthering my dark education!
+
+@End 
+Hayato: Well, we've cleaned up THAT mess. Now, Daughter, I've never discouraged you from dabbling in the dark arts... But do you have to pursue the worst possible spells?!
+Rhajat: I have been working on a spell that makes a person taller and less baby faced.
+Hayato: What? Are you really?
+Rhajat: No, of course not!
+Hayato: Very funny. Anyway, no more summoning. Understand?!
+Rhajat: Huh? No way! My next spell is going to be a hundredfold more effective!
+Hayato: Seriously?! What possesses you to do such things? In that case, I've got no choice. You're coming with us.
+Rhajat: What? But this is my sanctum!
+Hayato: If you're going to keep at these studies, then I've got to keep an eye on you. I fact, I'm going to take charge of your magical education.
+Rhajat: I don't have a say in the matter, do I? All right, as long as you give me interesting challenges, Father.
+Hayato: How about you start on that spell to make a person taller? That seems respectable!
+Rhajat: Hmpf.
+Subaki: Pardon the intrusion, but I've got some great ideas for research. How about a spell that makes a person less afraid of the dark? Or a cure for crying every time someone botches his battle moves?
+Rhajat: Who would need that—you?!
+Subaki: Oh, no, don't be silly. I mean your father here. I think he should focus more on being braver, not taller.
+Hayato: Subaki, I'm braver than you are!
+Rhajat: Hee hee hee! I'll get to working on those spells right away. After seeing you in action here, Father, I can see how I can really help. I think all your friends need my help too. Oh, this IS going to be fun!
+
+Rhajat: I suppose it's time to take one last look at the inside of my dark sanctum. I won't miss it too much. It's just a home. The real darkness is inside me.
+Faceless: Gurrr...
+Rhajat: Huh? One of my children lived?
+Facelss: GUUURRR!
+Rhajat: N-n-no! I'm your mother!
+Corrin: Stop, abomination! Get away from her!
+
+Faceless: GUURR...raaahh.
+Corrin: That was a close one. Are you all right, Rhajat?
+Rhajat: ... *urgh*
+Corrin: You are hurt, aren't you?!
+Rhajat: You...what's your name?
+Corrin: Who, me? I'm Corrin.
+Rhajat: You're this Corrin that Father's been talking about?
+Corrin: Er, yes?
+Rhajat: Thank you for rescuing me, Corrin. I owe you my life. No one's ever been willing to sacrifice themselves for me before. I owe you my life. All of it. every hour, every day until the end.
+Corrin: Huh? That's, uh, not necessary.
+Rhajat: You've got my full attention. I'll watch you like a hawk on a mouse. Forever and ever—until one of us is no more. And maybe then some. Your name is branded upon my mind's eye, Corrin.
+
+Corrin: What a strange young woman. I guess that's just her way of saying thanks? Of course, she could have just said thanks. Odd one, that Rhajat.
+Rhajat: You summoned me, Corrin?
+Corrin: Ack!
+Rhajat: I'm here for you, should you need me. My dark arts are at your disposal. I will be close as your shadow. Actually...I will BE your shadow.

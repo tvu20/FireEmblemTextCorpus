@@ -1,0 +1,110 @@
+@Intro 
+Robin: *Huff, huff* Why do mountains... have to... be so steep?
+Olivia: Here. Have some water.
+Robin: Thank you, Olivia. You're a lifesaver.
+Olivia: Oh, hardly. I just flail around and pretend to dance, mostly. Anyway, I've started looking for new ways to be useful.
+Robin: Your dancing is spectacular! It never fails to pick me up.
+Olivia: Ha! I dance like a ham someone rolled down the stairs. Just thinking of people watching me makes me cringe...
+Chrom: We're near the bandit's camp, Robin. They've ravaged surrounding towns with impunity for too long. It ends today.
+Robin: Right.
+
+Inigo: Not today, rogue! 
+Brigand: Nraugh! 
+Inigo: All safe now, buttercup.
+Maiden: I-Inigo?!
+Inigo: The crying part is over, love. Now give us a smile. And perhaps a wink if a fellow can be greedy?
+Maiden: Inigo, you stupid fool! That bandit you slew has---
+Inigo: Dozens of friends who will be terribly cross with me? Aye. Worry not! I'll mop up the lot of them and be back in time for tea.
+Maiden: You mustn't! They'll kill you!
+Inigo: Ho ho! Don't be silly. I'd never let anyone ruin this perfect face. Surely you want them gone as well, yes? So that you may rebuild in peace?
+Maiden: Of course, but...
+Inigo: Then let us have no more frowns! A smile like yours is not a treasure to be locked in the king's dungeons! I'll meet you in town once I've sorted those pesky bandits. Perhaps then we can discuss my... reward. Ho ho!
+
+@Battle 
+Chrom: Their hold is just ahead. It should be... Wait, what's that? Gods, that man is fighting them alone. Come, let's lend him a hand!
+
+@Recruit-Talk 
+%Olivia,Inigo
+Olivia: Are... Are you all right?
+Inigo: ...GYAAARRGH!
+Olivia: EEEEEEEEEEEEEEEK! Wh-what's wrong?!
+Inigo: S-sorry! ...Sorry. You just surprised me.
+Olivia: I'd say we're even on that count!
+Inigo: I shouldn't have shouted, but... Er, yes. Can we please start over? ...Ahem! It was your ravishing beauty that caught me so off guard, milady!
+Olivia: I don't quite know how to reply to that!
+Inigo: Er, please don't look at me so...intently. It makes me terribly bashful.
+Olivia: What?! W-wait! Don't go! Drat he's gone. He totally stole my line, too. Still it's weird, I didn't have a problem talking to him. Maybe his shyness countered my own?
+Inigo: Well, then. I should think five kills would be enough to impress a simple village girl. Though six might earn me a sweet kiss... Hmmm... That IS tempting.
+
+%Chrom,Inigo
+Chrom: You all right?
+Inigo: Me? Hah! It takes more than that to wound a rogue this charming! Now then, who are you? Not an enemy, it seems?
+Chrom: I'm Chrom, leader of the Shepherds. We came to deal with bandits, so it appears our purpose is shared.
+Inigo: Chrom?! Then you're Lucina's...
+Chrom: What's that?
+Inigo: ......
+Chrom: What?
+Inigo: P-please don't stare at me like that. I get so...terribly shy.
+Chrom: Aren't you the one who's been staring at me? And why did that line seem so familiar?
+Inigo: Er, but yes! We share a common foe, and I'm grateful for the help. Can I trust you to defend this place?
+Chrom: I don't know. What are you planning?
+Inigo: I aim to crush the rascals who make trouble for the village, naturally! And once the lot of them are sorted, it's off to tea with a beauty of the fields. Heh heh heh... Right then! If that's decided, I'll be on my way. Put the kettle on, snookums! I won't be long now!
+Chrom: He's nothing if not eager...
+Inigo: Well, then. I should think five kills would be enough to impress a simple village girl. Though six might earn me a sweet kiss... Hmmm... That IS tempting.
+
+%Chrom,Inigo
+Chrom: You all right?
+Inigo: Me? Hah! It takes more then that to wound a rogue this charming! Now then, who are you? Not an enemy, it seems.
+Chrom: I'm Chrom, leader of the Shepherds. We came to deal with the bandits, so it appears our purpose is shared.
+Inigo: Chrom?! Then you...You're my father.
+Chrom: What? You, too?!
+Inigo: Then you've already met Lucina?!
+Chrom: Yes, she's with us now.
+Inigo: Oh, good. She was so terribly eager to see you! Ah, but forgive me. I still haven't introduced myself. I am Inigo, Lucina's younger brother and a crown prince of Ylisse myself. If you need further proof, I bear a Brand in the opposite eye as Lucina.
+Chrom: Hmm...Yep. That's a Brand all right.
+Inigo: Um, could I ask you to stop staring now? I get a bit...bashful.
+Chrom: Ah, right. Sorry
+Inigo: Aha ha! Not to worry. Now, then. It's back into the fray with me, Father. Then it's off for tea with a farm girl! ...And perhaps a bit more. Don't wait up! Aha ha ha!
+Chrom: Oh gods. I raised a philanderer. ...Well, he seems content enough. Heh. A son. Who knew?
+Inigo: Well, then. I should think five kills would be enough to impress a simple village girl. Though six might earn me a sweet kiss... Hmm... That IS tempting...
+
+@Boss 
+Jamil: All who defy the will of Grima will be purged in the flames of destruction!
+
+Jamil: Lord Grima... Rain down...retribution...
+
+@End 
+Chrom: That's the last of the bandits. The hold is reclaimed.
+Frederick: The villagers will sleep better for our good works, milord.
+
+Maiden: I can't begin to thank you, good sir
+Chrom: Actually, Inigo did most of the heavy lifting on this one.
+Maiden: He is so terribly brave... Part of me wishes I could have been there to witness it. Er, but yes. Please accept this gift from all us villagers.
+Chrom: Your kindness flatters me. If bandits ever trouble you again, you need but call and we'll come running. Rebuilding a town is hard work, but I trust you'll be just fine.
+Maiden: We'll do our best!
+
+Inigo: Um... Olivia? Might I have a moment?
+Olivia: Wh-what? With me? Why?! ...Wait, how did you know my name?
+Inigo: A little bird tweeted it out. So is that a yes?
+Olivia: Um, all right, I guess.
+Inigo: ...Er, yes. You see... What I mean to say is... Goodness, this is much harder than chatting up other girls I've met. I suppose it would be quickest to just show you this...
+Olivia: M-my ring? But... I'm wearing it! How did you...?
+Inigo: Indeed. How does Inigo have your ring when there is only one in all the world? Unless it IS your ring and I brought it back from the future!
+Olivia: What? You mean like Lucina...?
+Inigo: Exactly. I knew my mother was a dancer you see. So I've been scouring the land looking for all the dancers I could find. Not the worst job in the world, mind. Heh heh heh... But now I've finally found you Mother! And my dancing is all the better for it!
+Olivia: Oh! You dance?
+Inigo: Er sort of, yes. That is to say, I try my best. But some people don't appreciate male dancers. Not that I care! I'm content to just shake my hips for the ladies.
+Olivia: Oh, don't listen to them! I think it's wonderful. I'd... love to watch you dance sometime.
+Inigo: N-no! Impossible! I'd be far too embarrassed for that! Besides, I'd rather watch you dance.
+Olivia: What?! N-no! I couldn't possibly!
+Inigo: I'm shyer than you are, Mother!
+Olivia: You are not!
+Inigo: ......
+Olivia: ......
+Chrom: Would you two stop it already? Now I'm the one who's getting embarrassed...
+
+Inigo: At last, teatime has arrived!
+Chrom: We're leaving, Inigo.
+Inigo: What, right now? B-but... teatime!
+Chrom: War is hell, Inigo. Now come with us or be left behind.
+Inigo: Fine, fine! I'm coming. ...I suppose there'll be more buttercups blooming along the road ahead.

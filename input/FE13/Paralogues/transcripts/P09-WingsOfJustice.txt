@@ -1,0 +1,135 @@
+@Intro 
+Robin: Quite the bustling little town.
+Chrom: The harvest must've just come in. I wager there's some good eating to be had!
+Lissa: Count me in! It's been DAYS since I had a proper meal!
+
+Villager: Welcome to the Grub Sh-ACK! Y-you're... You're...
+Chrom: Um...?
+Villager: T-terribly sorry, sir, but we're closed!
+Chrom: That was...odd. I guess we'll try elsewhere.
+
+Lucina: This place looks open, Father. ...Ooh, they have pottage!
+Maiden: Eeek!
+Lucina: Hmm?
+Maiden: P-please, not again! We'll be ruined! This tavern is all we have! Mercy, sirs! Leave us in peace!
+Chrom: People here don't seem to like us very much.
+Frederick: I did a little investigating on that front, milord. It seems a band of nasty rogues have been harrying them without pause for some time. Apparently, they are led by a man who masquerades as...you.
+Chrom: *Sigh* So that's what this is about. Any idea where they are?
+Frederick: It seems they headed north, milord.
+Chrom: Then so shall we.
+
+^start 
+Ruger: Heh heh... Another fine haul. Long live the great Chrom!
+Cynthia: Chrom? Father? Faaather? Pegasus Knight Cynthia, returned from patrol, sir! ...Whoops!  Ooh... Right on the face... S-sorry for my clumsiness, sir! I promise not to trip again for at least 24 hours!
+Ruger: That'd be a new record... Now out with it, girl! What'd you see?
+Cynthia: A suspicious band of travelers have been making inquiries in town, sir.
+Ruger: Oh?
+Cynthia: They call their leader Chrom, sir. I suspect they are impostors posing as you! They must be stopped at once, Father!
+Ruger: Cynthia, what did I say about calling me that around the men?
+Cynthia: S-sorry, Father! I mean, Chrom! Milord! ...It won't happen again.
+Ruger: Your mind's near as slippery as your feet... Anyway, we, uh, don't have the men to battle this impostor right now. Best swallow our pride and exercise the better part of valor for now.
+Cynthia: Levelheaded and humble as ever, sir! Allow me to draw their attention while you retreat to safety!
+Ruger: Yes, yes, of course. A fine plan.
+Cynthia: I won't let you down, sir! 
+Ruger: ...... ...Gads, she's dumb as a brick. Good thing her spear is sharper than her wit. Still, at least she stopped ranting about hailing from the future...
+
+Ruger: Heh heh... Another fine haul. Long live the great Chrom!
+Cynthia: Chrom? Sir? Pegasus Knight Cynthia, returned from patrol, sir! ...Whoops!  Oof... Right on the face... S-sorry for my clumsiness, sir! I promise not to trip again for at least 24 hours!
+Ruger: That'd be a new record... Now out with it, girl! What did you see?
+Cynthia: A suspicious band of travelers have been making inquiries in town, sir.
+Ruger: Oh?
+Cynthia: They call their leader Chrom, sir. I suspect they are impostors posing as you! They must be stopped at once!
+Ruger: Er, riiight. Posing as...me. But, uh, we don't have the men to battle these impostors right now. Best swallow our pride and exercise the better part of valor for now.
+Cynthia: Levelheaded and humble as ever, sir! Allow me to draw their attention while you retreat to safety!
+Ruger: Yes, yes, of course. A fine plan.
+Cynthia: I won't let you down, sir! 
+Ruger: ...... Gads, she's dumb as a brick. ...Still, full marks for enthusiasm.
+^end 
+
+Chrom: And you are...?
+Cynthia: All who would pretend to Chrom's name will answer to me for their deceit! Lay down your arms and surrender, or face judgement at my spear!
+Chrom: Well, she certainly seems eager. What do you think, Robin? If she's being honestly deceived, we may be able to show her the truth.
+Cynthia: Enough! In the name of my lord Chrom, cast down your sword or draw it!
+
+@Battle 
+Ruger: Hmm? A band of mercenaries? Luck smiles on me today! A few pretty lies, and I'll have the lot of 'em fighting for me!
+
+Ruger: Haaalp! I am Chrom, ruler of Ylisse! I'm being hunted by brigands! If you help me, I'll see to it that you're handsomely rewarded!
+
+Ruger: Hold fast until I give the word. The moment they clear that rubble, fall on them like an avalanche!
+
+Ruger: Still not coming, are you? Then the initiative will be ours!
+
+@Recruit-Talk 
+%Sumia,Cynthia
+Sumia: Pardon me, but...I think you may be misinformed. Can we speak a moment?
+Cynthia: Don't waste your breath! Your lies ring hollow! Your...ring? ...Ring? Y-your RING! MOTHER!
+Sumia: ...What?
+Cynthia: It is you! Oh, Mother, you're alive! I never thought I'd see you again! I...I... *sniff* Waaaaaaaaaah!
+Sumia: Um...are you all right?
+Cynthia: WAIT! But if you're on that side, that means... Ohmigosh. My Chrom is a FAKE! Oh, I am going to KILL him for this! I'm going to plant a flying hoof right in his stupid liar face!
+Sumia: Wait! We really should... Well, at least she's not confused anymore. If only I could say the same for me...
+
+%Chrom,Cynthia
+Chrom: Still your spear a moment and hear me out. You've been lied to!
+Cynthia: Spare me your tales, brigand! I have nothing to say to someone who would impersonate my mother's dearest friend!
+Chrom: Your...mother?
+Cynthia: You heard me! How dare you besmirch my mother Sumia's name!
+Chrom: And it all becomes clear... Well, welcome to the past.
+Cynthia: Wha—?! But how could you know?
+Chrom: That you came from the future? Lucina told me all about it.
+Cynthia: Lucy's here?!
+Chrom: In the flesh.
+Cynthia: Then...you're the real Chrom?
+Chrom: Last I checked.
+Cynthia: Ugh, I'm so sorry! I've always been gullible, ever since I was a little girl, but... Hey! This means the other Chrom LIED! Oh, I'm going to kill him for this! I'm going to plant a flying hoof right in his stupid liar face!
+
+%Chrom,Cynthia
+Chrom: Still your spear a moment and hear me out. You've been lied to!
+Cynthia: Spare me your tales, brigand! I've nothing to say to someone who would impersonate my father!
+Chrom: Your what? Oh, for the love of... How many daughters are going to come back in time to see me?
+Cynthia: Huh? H-how did you know I-
+Chrom: I already went through this with Lucina.
+Cynthia: Lucy's here?!
+Chrom: In the flesh. ...Though she neglected to mention she had a sister.
+Cynthia: Wait—then you really are...! Oh, Father! I missed you SOOOOO MUUUCH!
+Chrom: My... my ears...
+Cynthia: I knew something was fishy with that guy! He barely even smiled when I found him. My REAL father would've given me a big hug and called me his little pega-pony princess!
+Chrom: ...Please tell me I never actually say that.
+Cynthia: You'll say it right now, if you want me to believe you're the real Chrom!
+Chrom: Uh... It's... it's good to see you, my... Um... My little pega-pony princess...
+Cynthia: Aww, it's good to see you too, Father! I can't believe I fell for that lying creep's lies! Oh, I am going to KILL him for this! I'm going to plant a flying hoof right in his stupid liar face!
+Chrom: She's even flightier than her mother. ...I didn't think that was possible.
+
+@Boss 
+Ruger: I'm not dying in a backwater like this! I'll take what's handy and then take off!
+
+@End 
+Chrom: That’s the last of them.
+Frederick: We can explain the truth to those mercenaries as we tend their wounds. Frankly, I’m shocked that scoundrel had the audacity to impersonate you, milord.
+Chrom: Not the worst of his crimes, I’m sure.
+Frederick: It is unacceptable, milord. I have clearly failed in my duties as a knight. I shall draft a series of portraits and see that copies are distributed to all! Never again shall someone mistake the noble visage of my lord Chrom for—
+Chrom: Frederick. Let’s just go.
+
+
+Cynthia: Do you have a moment, Sumia?
+Sumia: Oh, hello. You’re the girl from...before. Er...
+Cynthia: Cynthia! My name is Cynthia!
+Sumia: What a darling name.
+Cynthia: Tee hee! I KNOW! I’ve always loved it. It was a gift from my mother. ...From you.
+Sumia: What? Me? But I... I’ve never seen...
+Cynthia: Oh, but you WILL! Isn’t that great?! I came from the FUTURE, Mother! See? Our rings match up and everything! It’s ‘cause you gave it to me! Or you will. I mean, later. Before I come back here, but after I... Gods, this is confusing!
+Sumia: You...you’re my daughter...?
+Cynthia: I sure am! I missed you so, Mother. Come here. Give me a hug— Whoops!  Ooh. That one’s gonna bruise... Er, don’t worry about me. I’m fine!
+Sumia: ...Well, we’re definitely related. Hold on. You dropped something. ...A spearhead?
+Cynthia: S-sorry! I’ll take that back!
+Sumia: Why are you carrying that around?
+Cynthia: Because it hasn’t been made yet. You promised me we’d make it together.
+Sumia: I did?
+Cynthia: But you broke your promise the day... The day you never came home. How could you leave me, Mother? You were a legend! You were invincible!
+Sumia: Wait, are you saying I...died? I’m so sorry, love. I guess I’m not much of a legend after all.
+Cynthia: ...You are to me.
+Sumia: ...I may not be invincible, but at least I was blessed with a wonderful child. Had we decided what sort of haft to give the spear? We can pick up the materials in the next town.
+Cynthia: W-we can?
+Sumia: I made a promise, didn’t I?
+Cynthia: *sniff* Oh...oh, Mother... I love you!

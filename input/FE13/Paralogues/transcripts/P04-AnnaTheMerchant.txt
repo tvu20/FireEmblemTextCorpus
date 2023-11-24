@@ -1,0 +1,42 @@
+@Intro 
+Merchant: Oh, that poor girl...
+Chrom: What's wrong?
+Merchant: Oh! Sirs, please! Help her! A young merchant girl is being set upon by bandits!
+Chrom: We're on our way.
+
+
+
+Vincent: You! We have business, you and I, and I aim to settle the debt. Victor will be avenged today!
+Anna: Oh, dear. Have we met?
+Vincent: Playing dumb won't save you, girly. The gold you net from the slavers will build Victor the finest grave in the land!
+Anna: Careful, love. Prices aren't the only thing I can cut in half.
+
+@Recruit-Talk 
+%Chrom,Anna 
+Anna: Hello there, handsome! Am I being rescued?
+Chrom: Well, that was the plan, but you seem to be holding up just fine. Can you still fight?
+Anna: I could stand to open a few more rogues, sure. Or locks, for that matter.
+Chrom: A thief, is it?
+Anna: Locksmith, thank you very much! But yes. Door or chest, I'll have it smiling wide in a trice. And it looks like there bandits have quite the hoard built up.
+Chrom: ...Huh. Well then, I think we're in business.
+
+@Character-Falls 
+Anna: Ugh. Well, that was careless... Sorry, friends. Looks like I've got to close up shop for the day.
+
+@Boss 
+Vincent: You stand no chance. I'm a conqueror by name and a conqueror by nature!
+
+Vincent: I... I see your face, Victor... No... No, wait... That's me...
+
+@End 
+Anna: Thanks for your help. The name's Anna. Some folks like to call me the Secret Seller.
+Chrom: Yes, I remember you.
+Anna: Oh? ...Mmm, I'm afraid I'm drawing a blank.
+Chrom: Huh? Oh, then I must be... I'm sorry. I thought you... Wait, what am I saying? I KNOW we helped you. I'm sure of it!
+Anna: Oh! Hee hee! You must have met one of my sisters.
+Chrom: Sisters? Gods, you look identical.
+Anna: Yes, there's a strong family resemblance. Oh, and we're all traveling merchants.
+Chrom: ...With the same name?
+Anna: Yes, actually. That's part of the secret!
+Chrom: Your family gatherings must be chaotic.
+Anna: True, but aren't everyone's? Still, I can't just send you on your way after helping TWO of us. So let me come along and aid you in return. I can be quite useful. You'll never make a loss with me in tow—I guarantee it!

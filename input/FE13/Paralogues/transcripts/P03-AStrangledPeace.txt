@@ -1,0 +1,25 @@
+@Intro 
+Frederick: Milord, look! Risen!
+Chrom: Ugh, and there's a village just ahead. Come on!
+Villager: Help! Heeelp! Open the gates! The dead walk the earth! If you've any kindness in you, open the gates! We're from Woodham, up the road! You KNOW us! Please, open the— Gods, no. ...No! They're here! Aaaiiieeeeee!
+Frederick: Hmm... The townsfolk of this village are renowned for their hospitality. How could they turn away refugees fearing for their lives?
+Chrom: Let's worry about saving those lives first. We can ask questions later.
+
+@Battle 
+Elder: Shepherds are always welcome here. Please, take this with you.
+
+Elder: Shepherds are always welcome here. Please, take this with you.
+Chrom: Listen. There were refugees here and you turned them away. Why?
+Elder: We're a peaceful town, sir. We have no weapons, nor any want for them. We survive by barring our gates to those who might bring us harm—friend or foe. Harsh as it may be, I can't have my people dying on account of other folks' problems...
+Chrom: ......
+
+Chrom: Are you all right?!
+Villager: Oh, thank goodness you've come! Are you here to help us?
+Chrom: We'll hold them off! Run!
+Villager: U-understood! If we make it out alive, I'll repay you! I swear!
+
+@End 
+Villager: I've not the words to thank you, nor the treasure to pay you, but...here. Take this. I didn't think people like you still existed. I'll...I'll never forget this.
+Frederick: Do you suppose the village will continue to bar its gates to refugees?
+Chrom: As long as they view the Risen as someone else's problem, then yes.
+Frederick: They claim to love peace... Yet the uneasy peace found behind a barricade is nothing I'd want. Peace begins when the fighting is over and the barricades come down. I pray they can see the truth of that before it's too late...

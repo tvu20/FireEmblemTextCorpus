@@ -1,0 +1,95 @@
+@Intro 
+Xalbador: There's nothin' like war for the self-made man! No, sir! The strong rise to the top while the high-borns try to keep the blue blood inside 'em.
+Elder: Hold, defiler! This is sacred ground! Your wickedness will be punished!
+Xalbador: By who? The same gods that abandoned me when I was starving as a boy? When you see the gods, tell 'em I said they can rot in hell! 
+Elder: Hnngh! Gah... 
+Brady: Dastard! I'll gut ya for that!
+Villager: Brady, no! There's nothing you can do! Who would tend to the injured if we lost you?
+Brady: But...
+Villager: We'll fight as best we're able! You help from the rear lines.
+Brady: Ugh! Good people are dying, and I can't help! If only I could fight...
+
+Maribelle: Chrom! We have to hurry!
+Chrom: What's wrong, Maribelle?
+Maribelle: There're people fighting just over that ridge! LOTS of people!
+Chrom: They look like they need help. Let's go, Shepherds!
+
+@Battle 
+Villager: H-help us! Please! The temple's beset by marauding bandits!
+Maribelle: Don't you worry! We're happy to help! If there's one thing this world needs less of, it's wretched bandits…
+Brady: Wait. I know that voice. Is that...Ma?
+
+@Recruit-Talk 
+%Maribelle,Brady
+Brady: Haw haw haw! Oh, that's her. That's gotta be her.
+Maribelle: Pardon me, you mannerless cur! I will not stand to be laughed at by a base scoundrel of your like!
+Brady: ...Yep. That clinches it. You must be Maribelle.
+Maribelle: And just how do you know that?! Do you leer at me from behind the shades of whatever den of iniquity you frequent?! Hmph! I bid you good day!
+Brady: I guess you've always been like this. Still...it's good to see you again. And now that I've found ya, I'm afraid you're stuck with me.
+
+%Chrom,Brady
+Brady: An enemy?! Damn! Guess that's it for me... Sorry, Ma. Looks like I won't be home for supper after all. Do your worst, tyrant! I can't fight back anyway!
+Chrom: You seem to be doing just fine to me.
+Brady: I'm unarmed, genius! Sheesh, anyone with eyes can see that!
+Chrom: And anyone with eyes knows there's more to combat than swinging a blade around. You fight in your own way. Am I wrong?
+Brady: Pah! Don't patronize me! I'd love to fight more'n anything, but I can't seem to make it work.
+Chrom: I'm sure something will come to you.
+Brady: ...Just who are you, anyway?
+Chrom: My name is Chrom.
+Brady: What? Y-you're Chrom?!
+Chrom: You know me?
+Brady: Ma wouldn't shut up about you!
+Chrom: Er, do I know your mother?
+Brady: Her name's Maribelle.
+Chrom: What?! So you're another traveler from the futu-
+Brady: So you've already heard? Perfect. Now take me with ya already! 
+Chrom: Er, well, I suppose we can find a place for you somewhere...
+
+%Chrom,Brady
+Brady: Ha! I hear you there, chump! You can come kill me now. You're just lucky I don't have my old man's skill with a blade.
+Chrom: Your father is a swordsman?
+Brady: None of your damn business, dog!
+Chrom: Do you always speak this way to Ylissean royalty?
+Brady: I am Ylissean royalty!
+Chrom: ... What?
+Brady: ... Huh?
+Chrom: Humor me here for a moment. What's your mother's name?
+Brady: Maribelle.
+Chrom: Maribelle is my wife... Which would make you my son. Seems Lucina failed to mention this little detail.
+Brady: Huh. Yeah, I guess we look alike. I mean, if ya squint real hard... Sorry I called you a dog, Pop... Oh, and I'm Brady. Sooo... Must be disappointin' that your son can't fight, huh?
+Chrom: You seem to be doing just fine to me. And anyone with eyes knows there's more to combat than swinging a blade around. And besides, you've chosen to heal instead of harm. I couldn't be prouder of that.
+Brady: ...Really? Aw, thanks. That means a lot, Pop.
+
+@Boss 
+Xalbador: You people can keep your gods. I'll put my faith in gold and steel!
+
+@End 
+Elder: Thank you! Oh, thank you... You've kept this sacred place safe and spared the lives of those within.
+Chrom: We just did what was right.
+Elder: Would that everyone were so brave! Please, allow me to give you this.
+
+Brady: Hey, Ma.
+Maribelle: What did you call me?
+Brady: The name's Brady. I'm--
+Maribelle: I'm sorry, but I only heal physical ailments. Broken bones and the like. You're clearly a deeply troubled individual whose diseased mind is beyond my healing.
+Brady: Stop talking for a minute and look at this!
+Maribelle: That's... my ring! Then, that makes you...
+Brady: Right. Like I was trying to say, I'm--
+Maribelle: A thief! A rapscallion! A common lowborne cutpurse! How dare you sneak in here and steal my prized possessions!
+Brady: Gawds! Stop interruptin' me for one blessed second, and check yer ring!
+Maribelle: ...Oh. It's still here.
+Brady: That clear things up any, Ma?"
+Maribelle: Everything save how I gave birth to a common thug!
+Brady: Aw, come on, Ma! That's harsh! Sure, I'm not the prettiest guy around, but I'm no thug, and I AM your son! ...And it's good to see you.
+Maribelle: ...How did I ever permit my child to grow up referring to me as "Ma"?
+Brady: You gave up tryin' after a decade or so.
+Maribelle: Well, can you at least ride? Have you read the classics? Do you play violin? Chess?!
+Brady: Yeah, all of the above. You beat all'a that junk into me.
+Maribelle: Glory be! My son is salvageable after all!
+Brady: Uh... thanks?
+Maribelle: "Don't look so forlorn, dear. You've come a long way, but Mother's here now. I'll take care of things from now on.
+Brady: *Sniff* I missed you so much, Ma...
+Maribelle: Do not even THINK of crying! It does not befit one of your station! *Sniff* Plus, you'll set me off as well...
+Brady: S-sorry, I just... I... Oh, Ma!
+Maribelle: Oh, Brady!
+Chrom: Oh, brother.

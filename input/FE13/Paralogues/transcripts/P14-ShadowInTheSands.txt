@@ -1,0 +1,74 @@
+@Intro 
+Chrom: ...A mirage village?
+Elder: Or rumors of one, at any rate. People claim to have spied a desert village that sometimes appears during sandstorms. Tales speak of a legendary Goddess Staff that sleeps there, but who can really say?
+Chrom: That sounds like it could be helpful. It may be nothing more than idle talk, but it still bears further investigation.
+Elder: Just take care, sir. The sands are home to armed barbarians. Every year sees a few villagers go chasing the myth and finding the grave instead. I'll not stop you, but be sure you're well armed and fully prepared.
+
+@Battle 
+Nombry: Here we are, boys! The golden oasis! They say the villages around here are filled to burstin' with rare treasure! Kick down every door ya see! Don't let a single coin slip by!
+
+@Recruit-Talk 
+%Miriel,Laurent
+Laurent: Eureka! It's you!
+Miriel: ...Curious. I have no recollection of making your acquaintance. Though few things are as unreliable as the human memory.
+Laurent: Ah, forgive me. I forgot that you have not met me before. My name is Laurent. Are you here in search of the mirage village?
+Miriel: That is my cause, yes.
+Laurent: Mine as well, though I fear my efforts thus far yield precious little progress. Still, an excess of evidence exists for the village to be baseless rumor alone...
+Miriel: An assumption on your part, that.
+Laurent: Might I accompany you in your search? I feel certain that your help will lay exposed that which has eluded me alone.
+Miriel: Mmm. I worry your hypothesis lacks a certain scientific rigor... And yet, there exists the possibility I am in error on this count... So...yes. You are welcome to join us.
+Laurent: Excelsior! I assure you, I'll not be a burden.
+
+%Chrom,Laurent
+Laurent: Chrom? Is that you?
+Chrom: Er, yes. And you are...?
+Laurent: Ah, apologies! I am Laurent, a traveling mage and scholar. And perhaps more saliently, I am Miriel's son.
+Chrom: Wait, you mean OUR Miriel? Oh, right. So then you must have traveled back and... Er, right?
+Laurent: Excellent! Your comprehension spares me the botheration of further explication.
+Chrom: ...Yep. You're Miriel's kid all right. So have you come all this way in search of your mother?
+Laurent: Just so. She wrote of a mirage village in one of her records. I thought it might offer some clue to her current whereabouts. And acquiring the Goddess Staff is a worthy motive, besides.
+Chrom: Any luck with that?
+Laurent: Nay, sir. Much to my vexation, staff and village both elude me.
+Chrom: I suppose it wouldn't be a legend if you could just stumble upon it in the market.
+Laurent: Well put! And yet, not all is lost. Meeting you here is success enough. I was quickly reaching the limits of what one man can do alone. Might I lend my might to your cause? I assure you I will not be a burden.
+Chrom: Of course. We'd love to have you.
+Laurent: Excelsior!
+
+@Visit
+Laurent: That mirage village must be located very near to here... Though I fear my own search for it has borne naught but ill fruit. No doubt Mother would have this mystery unraveled in moments, were she here...
+
+Elder: Not many make it out this far. You must be near exhausted from the sands. Here, then. Take this as a reward for your efforts.
+
+Elder: ...A mirage village? No, I'm afraid we're quite the ordinary one! Ha ha ha! Perhaps you'll find what you seek further west...
+
+Elder: Not many make it out this far. You must be near exhausted from the sands. Here, then. Take this as a reward for your efforts. ...A mirage village? No, everyone can see us just fine! Ha ha ha! Perhaps you'll find what you seek on the far side of the oasis...
+
+Elder: Not many make it out this far. You must be near exhausted from the sands. Here, then. Take this as a reward for your efforts. ...A mirage village? Yes, my mum used to sing cradle songs of such a thing. Find the last tree north of the oasis shore... Then two steps north and one step more! Er, or something like that. It's not like the place really exists, anyway.
+
+Elder: Well, well. This village does not often play host to outsiders... Few hold faith in that which cannot be seen to exist, yet I sense such faith in you. Here, then. Claim what you have come for. I hold my own faith that you will use it with wisdom.
+
+@Boss 
+Nombry: Where's that magic mirage village at? Talk, or I'll make you vanish, too!
+
+@End 
+Chrom: The battle is won, and the sun is fading. We'd best make tracks.
+
+Chrom: Just what was that place, in the end? Something beyond our ken, I suppose... Maybe a small proof that faith, even in the intangible, can still be rewarded? Like faith in a better future, perhaps. ...Heh. That's treasure enough for me.
+
+Laurent: Might I have a word?
+Miriel: I don't see why not.
+Laurent: Tell me honestly—how would you assess my performance?
+Miriel: You have certain natural deficiencies, but you compensate for them well. I surmise this is the product of considerable time and effort.
+Laurent: Hah! The best response yet! You're as perspicacious as you are blunt, Mother.
+Miriel: Mother?
+Laurent: Indeed. I am your future progeny.
+Miriel: Do you have concrete evidence to substantiate this proposition?
+Laurent: I have a ring which is the same as yours. Quite literally.
+Miriel: ...Fascinating. It does appear identical.
+Laurent: Do two instances of a unique object coexisting constitute sufficient proof?
+Miriel: To be sure, time travel is one viable hypothesis to explain the rings. But the possibility also exists that you pilfered the ring from said time traveler. As a means of identification, I fear it inconclusive.
+Laurent: ...An astute criticism. I'm uncertain that any truly conclusive case can be mounted to prove my claim. But I intend to spend the rest of my life investigating the matter, if necessary. A single-minded pursuit of the truth may be the best proof of my heredity.
+Miriel: This is a reasonable assumption. But I'm afraid a unilateral investigation is hardly credible.
+Laurent: Then how should--
+Miriel: However, I have no material evidence to suggest you are not, as you claim, my son. I shall conduct an inquiry of my own. We'll investigate the matter until a clear conclusion emerges. ...Together. Until then, I will grant the fundamental assumption that you are, in fact, my child.
+Laurent: ...Thank you, Mother.

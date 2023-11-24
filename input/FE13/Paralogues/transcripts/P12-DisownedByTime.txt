@@ -1,0 +1,108 @@
+@Intro 
+Robin: Is this the place?
+Chrom: Yeah, it's got to be. The townsfolk spoke of ruins in these parts that carry the legacy of the divine dragon. Of course, they neglected to mention that the place is crawling with Risen... I suppose we're just gonna have to earn this treasure the old-fashioned way.
+
+@Battle
+Morgan: Footsteps! ...Probably not friendly. And likely more down those stairs... Think, Morgan, think! How would Mom/Dad handle this?
+
+@Recruit-Talk 
+%Robin,Morgan
+#avatar-F
+Robin: You...don't look like a treasure hunter. What brings you here?
+Morgan: There you are, Mother! I was beginning to think we got separated.
+Robin: ...I'm sorry, what?
+Morgan: Well, no harm done. At least we can head home now. ...Goodness, the air here agrees with you! You look a decade younger, at least.
+Robin: Wait. Let's go back to the Mother thing. ...Did you travel back from the future with Lucina?
+Morgan: Huh? Who's Lucina? And did you seriously just ask me if I came from the future? ...Why are you looking at me like that? Hello? It's me! Morgan! ...Your son? Love of your life and strapping young lad and all that? Wow, you're really acting strange today. Let's go home and get you to bed. Hmm, but which way is home? Is it— Ngh! M-my head!
+Robin: Easy—don't try to force it! Just stay calm and listen to me. I know this sounds mad, but I believe that you came here from the future.
+Morgan: Are you out of your mind? That's not even possible!
+Robin: Actually, it is. Think about it. You said I looked younger, but look again. Closely. Do I look like I'm of an age where I could have a child as old as you? At this point in time, in OUR time, you still haven't been born.
+Morgan: Y-you do look younger, but...
+Robin: It's hard, I know. And you don't have to believe me right this minute. But you must come with me. It's dangerous alone, especially if your memory is gone. I was in the same position once, you know. If Chrom hadn't found me lying in that field, who knows what would've happened to me...
+Morgan: Wait, you woke up in the middle of a field, too? Hah! Like mother, like son, huh? Oh, that's too funny!
+Robin: ...Glad to see you inherited my blithe outlook. Just try to stay close, will you?
+Morgan: Yes, ma'am!
+
+%Chrom,Morgan
+Morgan: Mmm? Who are you?
+Chrom: I would ask you the same. More importantly, why are you here? This is hardly a safe place to be wandering alone.
+Morgan: I... I don't know, frankly. I woke up...sprawled in a field. I can't recall anything before that.
+Chrom: That sounds familiar.
+Morgan: I... I think I remember my name? ...Morgan? Yes, that's it. My name is Morgan.
+Chrom: I'm Chrom. And finding amnesiacs is apparently my special talent. I met a good friend, Robin, under the same circumstances.
+Morgan: Robin?! Is this friend of yours perchance a tactician?
+Chrom: She is. Do you know her?
+Morgan: Yes, I know her! She's my mother! ...Wait a second. You found my mother lying here unconscious?
+Chrom: Well, not HERE. But yes, we found her lying in a field, memory-free. This was quite a while ago, mind you. So if you're her son, I take it you came from the future?
+Morgan: ...From the future? Are you kidding, sir?! People can't travel through time! If that were possible, I— Ngh! M-my head!
+Chrom: Woah, easy there. Try to stay calm. Listen, why don't you just come with us for now? You can speak to Robin later and maybe clear this up.
+Morgan: Th-thank you, sir... And don't worry—I can defend myself. You just lead the way.
+
+%Chrom,Morgan
+Morgan: Mmm? Who are you?
+Chrom: I would ask you the same. More importantly, why are you here? This is hardly a safe place to be wandering alone.
+Morgan: I... I don't know, frankly. I woke up...sprawled in a field. I can't recall anything before that.
+Chrom: This sounds familiar.
+Morgan: I... I think I remember my name? ...Morgan? Yes, that's it. My name is Morgan.
+Chrom: I'm Chrom. And finding amnesiacs is apparently my special talent. I met someone very dear to me in the same way. Her name is Robin.
+Morgan: Robin?! Is this friend of yours perchance a tactician?
+Chrom: She is. Do you know her?
+Morgan: Yes, I know her! She's my mother!
+Chrom: Mother?! Then you're our... You're my... Morgan, stay calm and listen to me. Robin is my wife. Which means you're likely my son who came here from the future.
+Morgan: ...What?! But I... The future?! Is... Is that why I have no memory? But wait, I remember my mother. So why don't I remember you?
+Chrom: I don't know. Do you recall a sister named Lucina?
+Morgan: No, nothing like that.
+Chrom: I suppose it's a blessing you at least remember your mother. Maybe something will come back once you've met with her and Lucina. Until then, you'd best come with me. ...And stay close. I don't want you hurt.
+Morgan: All right, thank you. And don't worry—I can defend myself. You just lead the way.
+
+%Robin,Morgan
+#avatar-M
+Robin: You...don't look like a treasure hunter. What brings you here?
+Morgan: There you are, Father! I was beginning to think we got separated.
+Robin: ...I'm sorry, what?
+Morgan: Well, no harm done. At least we can head home now. ...Goodness, the air here agrees with you! You look a decade younger, at least.
+Robin: Wait. Let's go back to the Father thing. ...Did you travel back from the future with Lucina?
+Morgan: Huh? Who's Lucina? And did you seriously just ask me if I came from the future? ...Why are you looking at me like that? Hello? It's me! Morgan! ...Your daughter? Love of your life and Daddy's little girl and all that? Wow, you're really acting strange today. Let's go home and get you to bed. Hmm, but which way is home? Is it— Ngh! M-my head!
+Robin: Easy—don't try to force it! Just stay calm and listen to me. I know this sounds mad, but I believe that you came here from the future.
+Morgan: Are you out of your mind? That's not even possible!
+Robin: Actually, it is. Think about it. You said I looked younger, but look again. Closely. Do I look like I'm of an age where I could have a child as old as you? At this point in time, in OUR time, you still haven't been born.
+Morgan: Y-you do look younger, but...
+Robin: It's hard, I know. And you don't have to believe me right this minute. But you must come with me. It's dangerous alone, especially if your memory is gone. I was in the same position once, you know. If Chrom hadn't found me lying in that field, who knows what would've happened to me...
+Morgan: Wait, you woke up in the middle of a field, too? Hah! Like father, like daughter, huh? Oh, that's too funny!
+Robin: ...Glad to see you inherited my blithe outlook. Just try to stay close will you?
+Morgan: Yessir!
+
+%Chrom,Morgan
+Morgan: Mmm? Who are you?
+Chrom: I would ask you the same. More importantly, why are you here? This is hardly a safe place to be wandering alone.
+Morgan: I...I don't know, frankly. I woke up...sprawled in a field. I can't recall anything before that.
+Chrom: That sounds familiar.
+Morgan: I... I think I remember my name? ...Morgan? Yes, that's it. My name is Morgan.
+Chrom: I'm Chrom. And finding amnesiacs is apparently my special talent. I met a good friend, Robin, under the same circumstances.
+Morgan: Robin?! Is this friend of yours perchance a tactician?
+Chrom: He is. Do you know him?
+Morgan: Yes, I know him! He's my father! ...Wait a second. You found my father lying here unconscious?
+Chrom: Well, not HERE. But yes, we found him lying in a field, memory-free. This was quite a while ago, mind you. So if you're his daughter, I take it you came from the future?
+Morgan: ...From the future? Are you kidding, sir?! People can't travel through time! If that were possible, I— Ngh! M-my head!
+Chrom: Woah, easy there. Try to stay calm. Listen, why don't you just come with us for now? You can speak to Robin later and maybe clear this up.
+Morgan: Th-thank you, sir... And don't worry—I can defend myself. You just lead the way.
+
+@End 
+Chrom: This must be Naga's Tear... I can feel the power coursing through it.
+Lissa: Sweet! This baby should keep us safe in the battles to come!
+Chrom: I hope you're right about that, Sis.
+
+
+Morgan: That's... a lot to take in.
+Robin: It's everything we know about the situation at this point.
+Morgan: The future I came from is in ruins... You're sure about that?
+Robin: One possible future is in ruins, yes. But you may hail from another path. We're fighting now to ensure that no one's future is lost. Unfortunately, if you join us, it'll mean more fighting for you, too.
+Morgan: I understand... I'm sorry, but even after hearing all that, I still don't remember anything but you.
+Robin: Don't apologize. We'll pull your memory back bit by bit if we have to. Besides, if you start apologizing, I'll have to as well. My past is still full of holes, but I'm getting along. And you will too.
+Morgan: As long as you're with me, the rest will work itself out. Now, come on! We've got a future that needs saving!
+Robin: Hah! You really do take after me.
+Morgan: You know, now that you mention it... There is one other thing I remember.
+Robin: What's that?
+Morgan: I've always strived to be a great tactician like you. And even though this war is terrible, at least now I can learn from you firsthand.
+Robin: Well, you're nothing if not optimistic... Wherever or whenever you came from, I'm glad you made it here, Morgan.
+Morgan: Me too!

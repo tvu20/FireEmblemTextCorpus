@@ -1,0 +1,79 @@
+@Intro
+Donnel: Halp! You gots to help us! I’m beggin’ you, milords!
+Chrom: Slow down. What happened?
+Brigand: Oy! There’s the wee piglet!
+Chrom: ...Great. Bandits.
+Brigand: What’s this? A little lording come to watch over his chattel? Haw ha—Aw, damn me! Sh-Shepherds!
+Chrom: That’s right. So, what’ll it be? Run and live? Or fight and die?
+Brigand: Rrgh!
+Chrom: Quickly, lad. What happened here?
+Donnel: Y-yes, milord! Right away, milord! ...Er, if it please Your Graciousness.
+Chrom: Maybe just hold off on titles for now. What’s your name?
+Donnel: Donny. Er, that is, Donnel. ...Your Majestyful. I live in the village just beyond, sir.
+Chrom: I guess that’ll do. Now, what happened?
+Donnel: That rotten-toothed, pig-stinkin’ bandit you just ran off attacked us! Er, pardon my language, You Lordliness. I’m the only one what got away, and even then just barely. They were roundin’ up others to haul ‘em off to a bandit camp... Please, sir! You gots to save them folks! My ma’s one of ‘em, and... She’s all I got in this world! Please, Your Royal Highness!
+Chrom: This blasted war seems to spawn more evils by the day. All right, Donny. We’ll save your ma. Can you lead us to her?
+Donnel: Aw, thank you, milord! Thank you! Just follow me, Your Sirness!
+
+Roddick: ...And you’re sure a’this?
+Brigand: On the grave of my sainted mother, I swear it. It was Chrom and his Shepherds, and no mistake!
+Roddick: Heh heh heh. A fancy lord’ll fetch a high ransom from noble folk. We’ll have the little man squealin’ for mercy in no time!
+Mother: We got nothin’ left to take, sirs! Please, let our children go!
+Roddick: Quit yer bleatin’!
+Brigand: Oy, Roddick! I think this cow’s the mum of the brat what ran away.
+Roddick: ...Say, I know this one. You’re the wife of the man what broke my rib last time we were ‘ere.
+Mother: And you killed him for it, monster! I wish he’d done for you first...
+Roddick: Small wonder the brat’s got more brass than brains if you’re his mum. Guess we’ll see for ourselves when we catch him, eh? Maybe we’ll even make ya watch as we gut him! Bwa ha ha!
+Mother: N-no! Please, he’s just a boy!
+
+Donnel: This here’s where they’ve taken up camp, Your Lordshipness.
+Chrom: Er...right. Thanks, Donny. Stay close, now.
+Donnel: Beg pardon, milord? You don’t mean...? I...I can’t fight, sir! I ain’t never even stuck a pig before!
+Chrom: Oh, sorry. I just assumed... I mean... Look, just stay here. You’ll be fine.
+Donnel: I wish I was strong as you sirs and madams! Kick that scum out single handed, I would!
+Chrom: Then you should fight and grow stronger.
+Donnel: But I ain’t—
+Chrom: No man is born a warrior, Donny. And farm work makes for fine training—a sickle’s not far from a sword, after all. Bandits may be tougher than wheat, but the principle’s the same.
+Donnel: Ngh... *sniff* A-all right, milord. As you say, I’m no warrior. But these’re my people. I gots to do what I can!
+Chrom: Everyone in place?
+Donnel: R-ready! *ulp*
+
+@Battle 
+Donnel: Fight and get stronger, he says... Guess it can’t hurt to try. I sure hope I don’t get in the way! Gosh, that would be just awful...
+
+Donnel: I don’t think I can... go any farther... Your Majestiness...
+Chrom: You’ve done enough, Donny! Fall back! We’ll take things from here.
+Donnel: S-sorry...
+
+@Boss
+Roddick:  Time them castle whelps learned what us wild-born men can do!
+
+Roddick:  Gahaugh! Nngh...This ain't...where...
+
+@End 
+^start 
+Donnel: We did it! We’re rid of them bandits for good and all!
+Chrom: A worthy first victory, Donny. You fought well.
+Donnel: Ma! Ma, it’s me!
+Mother: Oh, Donny! Thank goodness you’re safe! I was worried near to death, boy! I can’t thank you enough for savin’ my son and our village, milord. ...Donny! Where are your manners?! Take a knee and thank His Lordness!
+Donnel: Er, I can’t begin to repay all what you done for us, sir! Th-thank you!
+Chrom: You led the charge, Donny. We just picked off the stragglers. Hone your potential and use it to keep this village safe.
+Donnel: W-wait! Please!
+Chrom: Something wrong?
+Donnel: I has a request, sir. If it please Your Graceliness... Take me with you, milord! Lemme be a Shepherd like you! I’m good with livestock, I am! Please, sir!
+Mother: Hush now, you fool boy!
+Donnel: I want to hone my...whatever he said. I want to keep this place safe! I never thought I was good for nothin’ more than shovelin’ dirt... But milord showed me there’s more I can do. More I needs to be doing!
+Mother: You needs be knowin’ your place, boy! A farmhand’s no fit for a royal—
+Chrom: Actually, we’d be thrilled to have him. The Shepherds need every good man we can find, and your son fought bravely.
+Mother: Y-you’re very kind to say as much, Your Lordshipness, but... *Siiigh* Well, you’re a man grown now, Donny. I s’pose you can make up your own mind.
+Donnel: Aw, Ma...
+Mother: ...... You just come home safe, love. I’ll see that the village is still standin’ when you return a hero. ...Well?! Off with you, then! Glory’s waiting’, boy!
+Donnel: I ain’t fightin’ for glory, Ma. I’m fightin’ for you! But if I do find some glory, I’ll be sure to bring it home for you!
+Mother: ...Just come home alive, Donny.
+
+Donnel: Ma! Ma, it’s me!
+Mother: Oh, Donny! Thank goodness you’re safe! I was worried near to death, boy! I can’t thank you enough for savin’ my son and our village, milord. ...Donny! Where are your manners?! Take a knee and thank His Lordness!
+Donnel: Er, I can’t begin to repay all what you done for us, sir! Th-thank you!
+Chrom: You did enough, Donny. And you’re young yet. In time, you’ll be defending this village single handedly.
+Donnel: Still, I... I’m sorry I wasn’t more help, Your Princeliness.
+^end

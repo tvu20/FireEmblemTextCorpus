@@ -1,0 +1,43 @@
+@Intro 
+Ignatius: Phew! I've been marching along for what seems forever and a day. But it's not much farther until I reach Nohr. I hope Father is glad to see me. But the closer I get, the more enemies I see. Is trouble everywhere here? I hope I'm able to reach him. I'll be fine. I'll be fine. Just need to keep telling myself that. I'm not a child anymore.
+Child: Help! Help me! Please!
+Ignatius: What's wrong? You look as if devils have been at your back!
+Old Woman: Oh, worse! Far worse! Devils we could fight! Our village is about to be invaded by enemies that go unseen!
+Ignatius: Invisible enemies? Oh, no! What will you do? I mean, what can I do? I am Ignatius, son of Benny, one of Nohr's most formidable knights. You can have...confidence in me.  All right, you two run past. I'll stand my ground here and fight them off. I swear that I won't let them inside. But summon more help, if you can.
+Old Woman: What?! But they'll be here soon. By the time we find help, you'll be dead!
+Ignatius: No. I'll be right here, fighting. But go NOW.
+Old Woman: Yes, yes. Of course.
+Ignatius: Stay calm. Stay CALM. Deep breath. Now another. I'll be fine. I'll be FINE. I've got my silly little charm, after all. That's always kept me safe. Best present Father ever gave me.
+
+Old Woman: Oh! You! Burly fellow! We need your help! Our village is about to be attacked! Some brave soul is standing guard alone to fight them off. He may be a knight, and he's got the courage of 10 men. But he'll be a goner! And then...our village will be wide open to those fiends.
+Benny: What's that? Who was he?
+Child: We don't know. He said his name was Ignatius. I think he was scared. But he didn't want to show it.
+Benny: Ignatius, you say?!
+Child: Yes. Said he was son of someone... Flenny? Denny? Penny? Some knight of Nohr.
+Benny: No doubt. It's him. What's he doing putting himself at risk? He should have run too! I'm coming, Son. Oh, yes, and with the vengeance of ten thousand men!
+
+@Recruit-Battle 
+%Benny,Ignatius
+Benny: Have no fear! Dad is here!
+Ignatius: Don't come any closer! I swear, I'll cut you where you stand, you big oaf! You are NOT getting inside this village!
+Benny: Um, whoa. It's me, Son. You know, me, Dad.
+Ignatius: Father! Sorry, I... I didn't know you were here fighting too.
+Benny: Ah, of course, Son. Came running as soon as I heard you were in trouble. I'm going to make all their heads roll—far, far away. Where they can't hurt you. Please now. Step back. Dad's going to fix all this.
+Ignatius: I won't, Father. I can't.
+Benny: Hmm? Can't?
+Ignatius: I...I can help. I must. It's time that I do my part. I can't be scared. You've protected me for so long. Now I must do the protecting.
+Benny: Has my little boy grown up? Already? Ignatius, are you sure you want to join your dad on the field of battle?
+Ignatius: Yes. It would be my honor. Let us defend this village...together.
+
+@End 
+Benny: You impress me, Son. You've developed great strength.
+Ignatius: What do you mean by that? I'm...not strong. I would have died had you not come to my rescue, Father. I'm a damned shame, standing beside someone as formidable as you.
+Benny: Ignatius, no!
+Ignatius: Father, as long as I'm at it, I need to speak my piece.
+Benny: Hmm? Please, Son. There's no need.
+Ignatius: Yes, there is. You've got to let me join your forces. I will never be the man you are unless I get the right kind of training. Or else I'll never be anything but a lily-livered fool.
+Benny: But, Son, you're still so—
+Ignatius: I'll help you, Father! I swear I can. You've kept me so well protected in the Deeprealms. But I must learn to give protection. I can't hide behind my father forever!
+Benny: ... Ah, all right. I'll agree, Ignatius. But only to show you what your dad's life as a knight is really like. I am not half as brave as you think. I just have a taste for war.
+Ignatius: Thank you, Father. I won't let you down. One day, I will be a great hero like you. I'll work hard. I'll pay attention. I want to be just like you, Father.
+Benny: Is that so? No need for that, Son. I'm proud of you just as you are.

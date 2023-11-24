@@ -1,0 +1,35 @@
+@Intro 
+Faceless: Grrahhh...
+Old Woman: Run, Mozu! Please, dear! Run and don't look back!
+Mozu: Mother, no! Take my hand! We'll run together!
+Faceless: GRRAH... HRRGLL!
+Old Woman: Aaarghhh!
+Mozu: NO! MOTHER!
+
+Corrin: Did you hear that?! Those screams! Something terrible is happening!
+Felicia/Jakob: We've got trouble, all right! This village is under attack by the Faceless. But this place has been ravaged. We're too late!
+Corrin: No! There must be some survivors. With any luck, some people escaped, but if there's even one left here somewhere... Let's get searching everyone!
+
+@Battle 
+Mozu: M-M-Mother... My village... They're all dead... I'm alone. Nowhere to go! And those monsters... They're coming back for me...
+
+@Recruit-Talk 
+%Corrin,Mozu
+Corrin: Are you OK?
+Mozu: Waugh! No! My mother... My friends...
+Corrin: I'm here to help. Where are they?
+Mozu: My mother wouldn't take my hand. She's... she's...
+Corrin: I'm so sorry. But there's no time to grieve. Not now. Stay behind me. I'll keep you safe.
+Mozu: No! I have to fight! For Mother! For all my friends! For everything those monsters took from me!
+
+@End 
+Corrin: All right. We've finished off the last of the Faceless.
+Mozu: ... Um, but what do I do? They took my Mother... My life.
+Corrin: You must have some family near here. We'll be glad to take you there.
+Mozu: There's no one. I couldn't even start over here by myself. All the homes, fields... It's all destroyed. But I wouldn't want to stay here even if it wasn't. Everyone I called family is dead. Every house... a grave.
+Corrin: Listen, we'll take you in. We can't replace all those you've lost. But we'll take care of you.
+Mozu: I can join your group?
+Corrin: Yes, but only until we find you a safe place to call home. Our group... a family of sorts... is bound by a dangerous cause. We go from one battle to the next, ever in peril. That's no life for you.
+Mozu: I'm not afraid. I can help. I might even save you or your friends. Let me join your cause, whatever it is. I'll keep your family safe.
+Corrin: Yes, of course. I have to admit, you sound just like one of us already.
+Mozu: I'll do my best. And I'll stay safe. After all, Mother's watching over me now.

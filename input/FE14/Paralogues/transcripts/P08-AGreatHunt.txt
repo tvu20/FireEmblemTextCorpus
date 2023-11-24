@@ -1,0 +1,42 @@
+@Intro 
+Takumi: Weird. Where's my son gone to? Damn his Deeprealm for being so big. I know I can't expect Kiragi to stay in his village all the time. But I thought at least he'd be out here, hunting or fishing. Somewhere.
+Sakura: Big Brother! Come quick! Those creepy soldiers have followed us here.
+Takumi: Which ones? The really creepy soldiers?! Ugh. Of all the times... Kiragi might be here too!
+Sakura: What shall we do? They're coming towards us!
+Takumi: Come on! We go to THEM!
+
+Kiragi: What a day. Those fish pretty much jumped into my bucket! And then this bear - couldn't have been an easier target! Wish I'd bagged him a little closer to town. Too big to lug outta here. Too big to roll home too. Hmm. Gotta be some way... Er, hold on. What's that? Something lumbering around the forest... HELLO? Hmm, nothing. Eh, no way that's a person anyway. Too freaky. Whatever it is, it'll make a great trophy for my wall! All right. Fly straight and true, little arrow buddy. Ready, aim... FIRE!
+
+Kiragi: That was a good one! Right between the... Uh, whoa. Hang on.
+Invader: ...
+Kiragi: Uh-oh. Oopsies. Sorry 'bout that. But you really shoulda answered back. Looks like you brought friends too. Not very chatty, are ya? And call me crazy, but I'd swear you're all surrounding me. Yeah? No biggie. I've got the bow my dad gave me. Let's call this target practice!
+
+Sakura: Th-there's Kiragi! What's your son doing, taking on those soldiers by himself?!
+Takumi: HANG ON, KIRAGI! DAD'S ON THE WAY!
+
+@Battle-Talk 
+%Takumi,Kiragi
+Takumi: I've got ya, Kiragi!
+Kiragi: Dad! I knew you'd show up!
+Takumi: Huh? Sorry that I got here, uh, late? You must have been scared to death.
+Kiragi: Nope. I knew you'd save me.
+Takumi: What?
+Kiragi: Yup! But anyway, you gotta check out this big bear that I bagged, Dad!
+Takumi: Ah, right. Big bear. Nice. But, uh, how about we focus on getting out of this mess alive, Son?
+Kiragi: Ready for anything, Dad!
+
+@End 
+Kiragi: Dad, no way! No! Way! There is NO way this is what you do every day.
+Takumi: This is nothing! You should have seen me in my last battle, when I— Uh, hold on. Not the best dad talk. I mean to say, Son, that battle was dangerous. Even deadly.
+Kiragi: Nice!
+Takumi: Huh?
+Kiragi: So fun! So! Fun! It was SO fun, seeing you all be like, you know... YAAAH! BLAMMIE! I want to be just like you, Dad!
+Takumi: Ugh... No, Son. You have to stay safe here in your Deeprealm.
+Kiragi: Hey, but we had a blast, didn't we? Yeah, I'm coming with you for sure!
+Takumi: What?! No, you're not. I put you here to keep you OUT of the war.
+Sakura: Well, you have to admit he was a chip off the old block there.
+Takumi: Sister, that's not helping.
+Kiragi: Wow! Two against one. Done deal, yeah, Dad? Yeah.
+Takumi: Two against—? Oh, fine. I guess. How could I say no to a face like that?
+Kiragi: Yay for my face! I swear I won't let you down, Dad. Oh, hey! Wait. The OTHER thing. The bear I shot. Dad! Dad! It was amazing. DAD! I got it in one shot!
+Takumi: I bet it was, Son. And thanks to you, our camp will feast on bear stew!

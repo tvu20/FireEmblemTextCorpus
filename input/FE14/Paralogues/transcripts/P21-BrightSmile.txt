@@ -1,0 +1,68 @@
+@Intro 
+Mercenary: We really pulverized those dastards back there, Soleil!
+Soleil: Nice work! We chased off those bandits. Did you see 'em run?! Yipe, yipe, yipe! Tails between their legs?! Dirty dogs. And who's the best town watch in this or any other world? Us! That's who!
+Ruffian: Wait up. What was that about yipe, yipe, yipe?
+Soleil: Hmm? Back for more, eh?
+Ruffian: We didn't run. We were just calling some friends to this little party.
+Soleil: Uh, what?
+
+Mercenary: Ma'am! There are too many of them. No way we can take them all on!
+Soleil: Come on! Turn that frown upside down. Know what you have then? A smile! That's what my father taught me. If you can't smile? Stand on your head! That'll turn your frown upside—
+Ruffian: Heh! What a crock. Let's see if you're still smiling once my friends get the best of you. Men, ATTACK!
+
+Soleil: BRING! IT ! ON!
+
+Laslow: I guess the report was false. Seems pretty calm here. That's fine by me. One night off from coming to the rescue? Perfect. Maybe we can get a little rest and relaxation while we're here...
+Silas: Hey! Listen up. trouble's brewing. The town watch chased off some bandits. But they returned with friends. And more are coming. This town's about to be sacked.
+Laslow: What? Then we've got to get in there and help!
+Silas: Yes, let's. The town watch is in way over their heads. Though it's said they have a skilled mercenary leading them. She's also got the happiest band of me I've ever seen—they're all smiles!
+Laslow: Hmm? I wonder who she is? All smiles, you say? Uh-oh. It can't be...Soleil?
+Silas: Yes, that's her name. So you know this girl? I can't believe she'd dare come to such a dread place as this.
+Laslow: You don't know my daughter. She doesn’t' get the chills easily.
+Silas: What?! Soleil is your daughter? But isn't your child off in her Deeprealm?
+Laslow: Well, she should be. But Soleil is her own woman—like a force of nature. She's gathered a band of do-gooders around her. She's just like that. But Soleil and her men shouldn't be here. These bandits mean business.
+Silas: Wait, Laslow! Are you sure that this Soleil is your daughter? We can't just run in—it could be some sort of trap!
+
+@Recruit-Talk 
+%Laslow,Soleil
+Soleil: Father?! What brings you here?
+Laslow: You all right, Soleil?
+Soleil: Always! I am your daughter, after all. Nothing ever gets to me! Not even these bandits! Well, I mean... Maybe I was worried. But only a... Only a...
+Laslow: Hmm? Daughter?
+Soleil: OK. I'll admit it. This is bad. And I can't bring myself to tell my men.
+Laslow: Soleil, I know I always said to keep on smiling. But sometimes it's fine to drop it if it feels like an act. Still, you'll have to forgive me if I smile, looking at you here. You've grown into such a hero! Let me share one of my secrets. If battle is turning against me... And I can't smile? I laugh. A lot. It really confuses the enemy. Then I get the upper hand, and I'm smiling again before I know it!
+Soleil: Whoa. That's brilliant.
+Laslow: See? There's that smile again. An honest smile. Nothing lovelier. Ready to smile? Laugh? Whatever it takes out there to win?
+Soleil: Woo-hoo! Yeah!
+
+@Boss 
+Zhara: You don't know me. I don't know you. But before I was a bandit...? I was a swordsman. The best! Come on—I'll test my blade on you.
+
+@End 
+Laslow: Soleil, you were amazing.
+Soleil: Wahooo! Thanks, Father. And thanks to all your friends. I'm so happy that you came.
+Laslow: I'm happy that you're alive. This was no piece of cake.
+Silas: Um, if I may? We could use someone like her—fighting with a smile on her face. We're always on such a grim march. She'd put some pep in our step.
+Laslow: Huh? Aren't I smiley enough?
+Soleil: Yaaay! I'd love to come! You have to let me, Father. You HAVE to!
+Laslow: Well, um...
+Silas: Once more, Laslow? I couldn't hear you through your frown.
+Laslow: Um...all right. I could use some extra support on the smiley front.
+Silas: Hmmm? Who's this?
+Girl: Thank you, Soleil! Our town would be a pile of rocks if you hadn't helped! Here, something to remember us by!
+Soleil: Oh! My goodness...
+Girl: Um, what's with the blushing? You're pink as a rose, Soleil.
+Soleil: Wow. Cute! Um...hi! Again. Did I say hi? Sorry. Blanked out there. You're just too pretty for words. But I guess those are words. About you being pretty.
+Girl: Hmm, I am?
+Soleil: Let's go stargazing. Shall we? Do you want to? Just the two of us?
+Girl: Yes! I'd love to!
+Soleil: Whoa. Really? You and me, beneath the stars? I can't wait!
+Silas: Hmm, Laslow, did your daughter just ask that girl out to gaze at the stars?
+Laslow: Why, yes! She's got good taste. In women as well as men—got a problem with that?
+Silas: No, of course not.
+Soleil: Wahooo! She said yes, Father! See, I always told you—be honest with women. It's not a game. Just wear your heart on your sleeve. On BOTH your sleeves!
+Laslow: Soleil...I guess I can look forward to more of these dating tips, eh?
+Soleil: I don't imagine we'll have much time for these little daughter-father chats. But you can always rely on me!
+Laslow: It's true. We're at war. But I'll always have time for you, Soleil.
+Silas: What a breath of fresh air. How'd someone like YOU end up with a great daughter?
+Laslow: What do you mean, ME? But, yes. I suppose I am fortunate to have such a delight as Soleil in my life!

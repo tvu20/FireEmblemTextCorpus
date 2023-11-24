@@ -1,0 +1,44 @@
+@Intro 
+Sophie: Good job, Avel...trotting gently...nice and steady...sweet as can be... Wow! We're doing so well today. Not at all like yester—WHOA! Easy there, Avel! I said, EASY! AAAAAAVEL!
+
+Sophie: Urgh. Threw me off again. Daddy said Avel would be the ideal horse for me. But just look at him! Bucking me off! Galloping away! He's nuts! And now where's he going?! Oh no. OH NO! What?! AVEL! GET BACK HERE! That darn horse is heading for the portal to Daddy's world! I'M COMING, AVEL! I'LL GET YA, BUDDY!
+
+Sophie: Whoa! So THIS is Daddy's world? Hmm, not SO different, I guess. There you are, Avel. Why'd you run off like that? We can't leave our Deeprealm! Easy there... Let me up...phew! Now let's ride back before anyone finds out, or else I'll get the scolding of my life! Besides, Daddy said that it's super-dupity dangerous in his world.
+Ruffian: Hey, you! Chump! You're not getting away without paying a toll. And by toll, I mean all your money. Hand it over. Or I'll take your hands!
+Boy: Someone, help!
+Nichol: Heh. Sing like that again, and I might just let my comrade pluck out your tongue. Then again, my band of malevolent brothers is in dire need of amusement. So carry on. Scream your heart out. Top of your lungs now...
+Sophie: Eeep! That stuff over there is just about as super-double-dupity dangerous as it gets! I don't care if I will get in trouble from Daddy—I have to come to the rescue! I bet Daddy will even be proud of me! Steady there, Avel. We're gonna head straight for 'em. CHARGE! Wh-wh-what?! Avel, no! You're going the wrong— WAAAAAAY!
+
+Silas: Finally, we're here. There's the village under attack. But we're so late! Looks like those marauders have already torn apart this place. Oh, no. A band of villagers is rushing the enemies. A sure massacre! We must save whomever we can and bring these villains to justice.
+
+@Recruit-Talk 
+%Silas,Sophie
+Silas: Sophie...is that you?!
+Sophie: Daddy! What are you doing here?!
+Silas: I'd ask the same of you, Sophie. Why did you leave your Deeprealm?
+Sophie: 
+Silas: Sophie, you're mumbling.
+Sophie: No, Daddy! That is, Daddy, I'm here because...because... Because I heard the shouts of villagers coming through the portal! So I, er... I leapt astride Avel, snapped the reins, and we rode to the rescue! 
+Silas: Sophie, you've made me proud. I didn’t know you had this in you! It's high time we ride into battle together. Father and daughter—true cavaliers!
+Sophie: Uh, wha—? I mean, yes, Daddy! I'll do my best. So will Avel! Now let's save those villagers!
+
+@Boss 
+Nichol: What hope do any of you pathetic fools have against me? But you, friend, have an especially hopeful light in your eyes. Come closer. I'll be glad to extinguish it for you.
+
+@End 
+Sophie: Good job, Avel! You obeyed my every direction in that battle! But why here? And not at—?
+Silas: So, Sophie...your steed is more unruly than you've led me to believe. I'm not surprised that he behaved here. The difference wasn't him. It was you. You displayed newfound confidence. Your directions were assured! That's the secret to being a good cavalier: living up to your horse's expectations.
+Sophie: Ugh. That's all I needed to do this whole time?
+Silas: Yes, but it's no easy feat, especially since I gave you Avel to ride. When you told me long ago that you wanted to ride a horse like me... I knew I had to get you a horse with the highest expectations. Avel would help you grow into a commanding figure. You see, Sophie, this is really about more than your steed. If you can ride Avel, you'll command the respect of everyone you meet. Many who live through these times of war are ready to give up. I need my daughter to inspire everyone to pick themselves off the ground.
+Sophie: That's why you gave me Avel? I guess I see, Daddy. But I'm not that Sophie yet. I'm still only...me.
+Silas: Only? Hmm. There's nothing only about you, Sophie. Look at what you did today! Think about everything you're about to do!
+Sophie: Huh? What do you mean?
+Silas: You're leaving the Deeprealms. You're going to travel with our group! Honestly, I'd feel safer with you staying where you are. But you're ready for this. I think you'll learn to handle Avel even faster that way. I'll teach you what I know. That is, only if you want to.
+Sophie: I could learn a lot from you, Daddy! Of course I want to come!
+Silas: I have faith in you. You might surpass me. You're already better than you know!
+Sophie: Thanks, Daddy! Wow, Avel. You and I are finally— Whoa, there! WHOA! THIS way! Not THAT way! We're not going back to the Deeprealms! Avel, SIT! Avel, STAY!
+Silas: Well, I see I've got my work cut out for me. Now that we'll be riding together, she'll see how her daddy handles his horse.
+Sophie: Great! I got Avel back under control!
+Silas: Sophie, well done. You see? The secret is taking control. The most important thing is to always be firm, and yet—WHOA! Does he always do that?! Bite at your face?! Th-that's all right. I knew he'd be a handful. It's just a matter of—
+Sophie: Avel! Stop eating my hair! It took me forever to grow it back the last time!
+Silas: Huh. That's uh...not good. Avel! Bring her back! AVEL!

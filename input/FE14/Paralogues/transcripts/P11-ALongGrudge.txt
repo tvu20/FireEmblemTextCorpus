@@ -1,0 +1,53 @@
+@Intro 
+Hinata: Hisame! Over here! It's Dad! Lucky kid I got, living here in a Deeprealm. Catch a whiff of that breeze! Smells like freedom! And good times! HEY! HISAME! OVER HERE!
+Hisame:  Father, you don't need to yell.
+Hinata: What?! Hey, what's with this Father stuff? I was Dad last time I checked. Remember? The guy you'd come running to see when I showed up? What's this? You're way over...there. Do I stink or something?
+Hisame: No. I'm just older now.
+Hinata: Hmm. My boy's in his teens now? I get it. You don't want to hang out with Dad. I remember being your age. Seems like yesterday. You're just as moody as I was.
+Hisame: Leave me alone, Father. You don't understand. I'm not being...moody.
+Hinata: Heh. Didn't mean to make fun of you. Just giving you a hard time. C'mon. I came all this way. Can't I ruffle my boy's hair, like the old days?
+Hisame: *mumble* ...it.
+Hinata: Come again? A little louder? Pipe up? What'd you say?
+Hisame: Please stop it, Father! You haven't been back to visit me in ages! You can't just breeze in and out like we're still the best of friends!
+Hinata: But I came to visit only a few...? Er, what was it? Days? Weeks?
+Hisame: I just... I just want you to leave. You forget how time passes here. I've learned to be just fine on my own. So, good-bye, Father. 
+Hinata: ... Aw, man. I really screwed this up. Last time he was so happy. But, now? There goes my little boy, off and running... Whoa. Wait. Where IS he running?! Uh-oh.
+
+Hisame: Oh, dear. I didn't mean to do that. I've run into Father's world.
+Faceless: Gurr-graaah...
+Hisame: Ayaaaah! This is where Father lives? Around m-m-monsters like this?! If only he were here! No. I have to fight my own battles. Starting now.
+
+@Recruit-Talk 
+%Hinata,Hisame
+Hinata: Are you hurt, Hisame?
+Hisame: Father, you came to rescue me? After everything I said?
+Hinata: Hey now, don't you worry. Your dad's here. Late, yeah. But here. And these monsters don't stand a chance against me!
+Hisame: Hmm. *mumble*...a hero.
+Hinata: What? You say something? Can't mumble in battle. You gotta get to it!
+Hisame: No, it's nothing. Really.
+Hinata: Ah, well, if you say so. Now, excuse your dad while he goes in swinging! Hide over there, Son. I'll give a shout when it's safe to come out!
+Hisame: No... I'm staying. I've got your back, Father.
+Hinata: Whoa! When'd you grow up to be a hero like your ol' dad? I've got your back too, Son. No one's ever going to get between us.
+Hisame: Yes, I'll make sure of that.
+Hinata: All right, come on. Let's show these gross piles of evil who's boss.
+Hisame: Let's end this quickly. It's cutting into my father-son time.
+
+@End 
+Hisame: Thank you, Father—to you and your friends. I don't know what I would have done. And with that, good-bye. 
+Hinata: Hey now, you're still giving up on me? That's it? No talking it through?
+Hisame:  I...I can explain... Of course I clearly belong in the Deeprealms. That's why you stuck me there, right? Because I couldn't make it here?
+Hinata: You've got it all wrong. Come on. Hold up. Let's talk this ALL out.
+Hisame: Absolutely not. There's no point. You're a hero. I'm not.
+Hinata: Hmm. You're being a blockhead, Son. So I'm going to lay it out for you... Did you SEE yourself out there?! That was a HERO on the field! How'd you even do any of that? You were amazing. That's proof enough that you're right. I wasn't here. YOU trained you.
+Hisame: ...
+Hinata: Hisame, please. Travel with me? You don't need to go back.
+Hisame: Hmm? Go with you? I won't get in your way?
+Hinata: No, of course not. I'd love to have you around all the time. I hope I can make it up to you for not visiting enough. Guess your dad's just sort of a jerk, not realizing about the time difference. But I swear we'll spend every possible minute together from now on!
+Hisame: Father... I mean, Dad... All right. Let's go. Heh. You haven't changed a bit. Just like when you used to show up and I'd come running...
+Hinata: Haha! Yeah! Where's my hug?! I got some hair-ruffling to catch up on! Come on over here!
+Hisame: Gods, no. I'm not a child anymore!
+Hinata: Oh, that's right. OK, OK... I got it. We're good.
+Hisame: You really haven't changed, Dad. Still just a big, dumb bear.
+Hinata: All right! I can work with that! Huh? Hang on. Hold everything. You're not! You can't be! Have you gotten TALLER than me?!
+Hisame: Heh. Maybe? Maybe not. Anyway, I need to head back home to say good-bye. I'll be back shortly. 
+Hinata: What? No way! Stand next to me! Just for a second! We gotta measure it out!

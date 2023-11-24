@@ -34,6 +34,8 @@ with open(os.path.join(__location__, "parentheses.txt"), 'r') as f, open(os.path
                 continue
             # new_text = line.replace("(Name of tactician)", "Mark")
             new_text = re.sub(r"([\(\[]).*?([\)\]])", '', line)
+
+            new_text = new_text.replace("…", '...')
             
             new_text = re.sub(r"Choice [A-Za-z0-9]+", "Byleth", new_text)
             # new_text = re.sub(r'\([^)]*\)', '', new_text)

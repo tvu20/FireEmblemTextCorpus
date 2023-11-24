@@ -1,0 +1,88 @@
+@Intro 
+Morristan: Send the new recruits along, then get to rounding up another half dozen or so.
+Elder: W-wait, what are you doing?!
+Morristan: Just what it looks like. A wyvern rider without a wyvern to sit on is just a bloke in a lizard hat.
+Elder: Wyverns are the sacred protectors of this land, not glorified horses to be muzzled!
+Morristan: I'd muzzle you, had I the time. As it stands, I'll take a quicker path to quiet. G'night! 
+Elder: Gwargh! 
+Villager: N-no...! Run!
+Soldier: Your orders, sir?
+Morristan: If word spreads, it'll only get more tedious. Sooo...yes. Better just kill everyone.
+
+Chrom: Where does this road lead?
+Frederick: To Wyvern Valley, milord. Home to Valm's greatest feral wyvern population.
+Chrom: That sounds...interesting. We'll have to be sure and keep our distance.
+Cherche: Shame. My Minerva's fit to burst. She's excited others of her kind are near.
+Chrom: Oh? She doesn't look that excited to me. Not that I can really tell the difference...
+Cherche: Oh, it's easy. She just looks even cuter than normal. Don't you, girl? Don't you look cuter? Who's a goooood wyvern?!
+Chrom: I'll, uh...leave you to her, then.
+
+Villager: Sir, over here! Please help! My friends will die if you don't!
+Gerome: ...No.
+Villager: Wh-what?! But, sir, my friends!
+Gerome: I'm not fit to fight for anyone.
+Villager: Th-then...they're lost...
+
+Chrom: You there! What's happened?
+Villager: My people are fleeing for their lives from a pack of armed brigands, sir! And now we've gotten separated... Oh, the horror of it all!
+Chrom: Well, today's your lucky day. We'll aid you and your friends.
+Villager: You will?! Oh, thank you! Please, sir! Give 'em what for!
+
+@Recruit-Talk 
+%Cherche,Gerome
+Cherche: Wait. You're not one of the villagers.
+Gerome: No. ...I am Gerome. A traveler.
+Cherche: And a fellow wyvern rider, I see. This is a piece of good news! We fight to keep these villagers alive. Will you aid us?
+Gerome: Why? No man can stop fate.
+Cherche: These people will be killed by spears, traveler. Not fate.
+Gerome: Heh. Spoken like one who has yet to witness fate's implacable cruelty.
+Cherche: So you do nothing, then, save wandering the land in the fog of cowardice? And your wyvern? Has she seen enough? Does she also yearn to surrender?
+Gerome: ...... You would know better than I.
+Cherche: What does that mean?
+Gerome: Nothing. I'll fight if you wish it. Death will always have its due, but perhaps it will accept a few substitutions. Come, my dear Minerva. Join me on one final flight...
+
+%Chrom,Gerome
+Chrom: Are you with the villagers? Who are you?
+Gerome: ...I am Gerome. A traveler.
+Chrom: These people are in desperate straits. Will you help us?
+Gerome: It is not for me to interfere in such matters. Death will always have its due.
+Chrom: You would leave innocents to die and lay the blame on fate?
+Gerome: I've seen too much of fate's cruel work to doubt it.
+Chrom: So you would surrender rather than struggle against such cruelty... I cannot understand such thinking. A bleak past doesn't justify condemning the future to bleakness as well. Nonetheless, I cannot force your hand. Join us if you will. 
+Gerome: What does he know of bleak futures? It is a fool who breaks himself against fate's tide. That said, I suppose I'm as big a fool as any... *sigh* Very well, then. Come, my dear Minerva. Join me on one final flight...
+
+@Character-Falls 
+Gerome: Death...always has its...due... Go, Minerva... Be...free...
+
+@Battle 
+Morristan: Seems these newcomers have spine. Send word to the boys at the hold. Tell 'em we've got spines that need breaking.
+
+@Boss 
+Morristan: Wyvern or man, everyone's all snarl and fire until they learn the feel of the lash!
+
+@End 
+Villager: Our saviors! And it's more than lives you rescued... You've saved my hope in humanity, too. I thank you for it. Here, sir. A token of my gratitude
+Chrom: Thanks to you as well, friend.
+Villager: Take care, now. We'll pray for a safe journey for you and your troops.
+
+Cherche: Do you have a moment?
+Gerome: What is it?
+Cherche: I was hoping you might introduce me to your wyvern.
+Gerome: Why?
+Cherche: To see which of ours is cuter. Not very sporting of me when mine is the finest in the world, I know.
+Gerome: ...Do as you please.
+Cherche: I will, then! Thank you. ...... ...Hee hee! Oh, but you ARE cute! She's nearly a match with Minerva! ...Nearly so in every way. Wait, what sorcery is this? They...they look IDENTICAL!
+Gerome: That's because they are identical. They're one and the same.
+Cherche: ...M-Minerva? How is that possible?
+Gerome: You could examine her from tip to tail looking for scars and marks if you like. ...Or you could just look at this ring.
+Cherche: I...I know that ring. So then you're...
+Gerome: I am, though I had not intended that we meet.
+Cherche: Why not?
+Gerome: I came back in time so I might release Minerva. Not to seek out parents to whom I've already bidden farewell.
+Cherche: You crossed the bounds of time just to set Minerva free? Whatever for?!
+Gerome: In the future I know, she is among the last of her kind. I...I could not leave her to that solitude.
+Cherche: She is lucky indeed to know someone of such kindness. ...As, I imagine, am I.
+Gerome: Stay your words. I've no intention of getting close to you. Fate will not be mocked. This war may claim your life anew, and I'll not weep twice for losing the same mother. My burden is heavy enough.
+Cherche: But yet you carry it still.
+Gerome: That's enough. 
+Cherche: Thank you, Gerome.

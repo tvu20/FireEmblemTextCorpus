@@ -1,0 +1,95 @@
+@Intro 
+Kjelle: Dishonorable cur! You killed my master, and now you will face me!
+Cassius: If that pile of pudding was your master, I'd advise you to just keep walking.
+Kjelle: Craven dog... You claimed a hostage! He'd never have lost in a fair fight!
+Maiden: Nor would he have wanted this, Kjelle. If I lose you as well, I...
+Kjelle: You won't lose me. I swear it. And I swear your husband will be avenged!
+Cassius: If you want to run headlong into the grave, girl, I won't stop you. We can duel in the ruins ahead.
+
+Robin: What do you make of this, Chrom?
+Chrom: I hope she knows what she's getting into.
+Maiden: Sir! Please! You have to do something!
+Chrom: What's the matter?
+Maiden: It's my friend, sir. I fear she's walking into a terrible trap! That scoundrel Cassius would never fight an honest duel. My husband took a similar stand against his tyranny not long ago. The brute took a girl hostage and then cut my husband down as he lowered his weapon! *Sniff* I can't let her suffer the same fate... I'd die, I would!
+Chrom: All right. We'll see what we can do.
+
+@Battle 
+Kjelle: Coward! You promised me a duel, you soulless blackheart!
+Cassius: Indeed I did. Consider all these men my seconds, heh. Still, I'm not a monster. I'll spare your life if you get on your knees and beg.
+Kjelle: I'd sooner die!
+Cassius: Well, we can arrange that, too. Have at her, boys!
+
+@Recruit-Talk 
+%Sully,Kjelle
+Sully: Hey. You got a second?
+Kjelle: Ahh!
+Sully: What? I got something on my face?
+Kjelle: N-no, you just...remind me of someone. Forgive me. I have no time to talk.
+Sully: Don't worry. It won't take long. So listen. These lowlifes have no honour. You know that, right? If you meet 'em head-on, you'll just end up with a sword in your back.
+Kjelle: Head-on is how I live.
+Sully: ...Ooh, I like you. And that's all the more reason I can't let you charge off on your own.
+Kjelle: Don't try to stop me!
+Sully: I'm not stopping you. I'm coming with you. You just focus on finishing your duel, and I'll kill any idiot who gets in the way.
+Kjelle: R-right!
+
+%Chrom,Kjelle
+Chrom: Excuse me—
+Kjelle: Wha—?! Die, fiend! Y-you parried my spear. ...How did you do that?
+Chrom: I get a lot of practice. Now can you please stop trying to skewer me for a second? We're not your enemies. A friend sent us to help you. There are too many for you to fight alone, no matter your skill. We'll take care of the rabble while you fight your duel.
+Kjelle: You would do this for a stranger?
+Chrom: Is that a problem?
+Kjelle: N-no, of course not. Thank you.
+
+%Chrom,Kjelle
+Chrom: Excuse me—
+Kjelle: Wha—?! Die, fiend! Y-you parried my spear. But how did you... Wait. Do I know you? I feel as if we've met, but... No, that's impossible.
+Chrom: I hate to interrupt your musing, but could you perhaps lower your spear? We've been sent here to help you. They are too many for you to fight alone. We'll take care of the rabble while you fight your duel.
+Kjelle: You would do this for a stranger?
+Chrom: Is that a problem?
+Kjelle: N-no, of course not. Thank you.
+
+@Boss 
+Cassius: Most people think a man who fights dirty is too weak to win otherwise. Heh heh... Suits me just fine. A cocky fool is an easy target!
+
+%Kjelle,Cassius
+Kjelle: If you believe in gods, you'd better pray to them now!
+Cassius: My, my. Aren't we confident?
+Kjelle: I don't fear you, coward!
+Cassius: Aye, I suppose not. Most fools assume that liars and sneaks like me are weak. They want us to be weak, see? They NEED it. It lets them hold on to the fantasy that right prevails in the end. Heh... They can think what they want. A cocky fool is an easy target. Truth is, in the end, it's the clever ones who always survive.
+Kjelle: A man who takes hostages in order to win a duel has no claim to cleverness. Even an animal would not stoop so low! But enough. I've no more words to waste on the likes of you. My master will have vengeance!
+Cassius: Wrong, girl. Your master will have COMPANY!
+
+@End 
+Maiden: Kjelle! Thank the gods you're safe!
+Kjelle: I kept my promise. Your husband can rest in peace now.
+Maiden: I may have a way to thank you. This was his, and I'm sure he would have wanted you to have it.
+Kjelle: This is a precious keepsake. Its rightful place is with you.
+Maiden: I'll not forget my husband for lack of a memento, dear. Now please, take it.
+Kjelle: You're certain?
+Maiden: Absolutely.
+Kjelle: Then...thank you.
+Maiden: Just swear to take care of yourself, Kjelle. Swear you'll stay safe.
+Kjelle: I swear it.
+
+Sully: Looks like the good guys won after all. Ain't that a kick in the teeth?
+Kjelle: Thank you for your help, but I fear other tasks yet lie ahead of me. I still have to find my parents.
+Sully: Aw, hell. Your parents are missing? That's rough, kid. Any idea where they might have gone?
+Kjelle: I have a ring my father gave my mother, but precious little else to go on.
+Sully: Mind if I take a look?
+Kjelle: No, of course not.
+Sully: Well, I'll be damned... Kid? This is MY ring.
+Kjelle: Your ring? But then...
+Sully: Hah! I get it. You're one of the kids who came back with Lucina, yeah? Which means...I've got a new lead for you on the parent front, kiddo. ...I'm your mom.
+Kjelle: Y-you?!
+Sully: You expecting someone prettier?
+Kjelle: N-no! Of course not! I mean... You look as beautiful now as when I knew you.
+Sully: Har! So I'm not all wrinkled or missing a hand or anything? That's a relief.
+Kjelle: You were a beautiful and vibrant woman, despite the ill times we lived in. You taught me how to be strong. You taught me to survive.
+Sully: All right, kid, sit down. I want to know every last detail about the future.
+Kjelle: You bet!
+Sully: ...Is that how you address you mother?
+Kjelle: I mean, y-yes! Yes ma'am!
+Sully: Much better.
+Kjelle: Hee hee. You always were tough on me.
+Sully: That's right. Any child of mine is gonna have to learn to respect their elders!
+Kjelle: ...It's good to see you, Mother.

@@ -1,0 +1,31 @@
+@Intro 
+Chrom: Mmm... The air is sweet here. It's so calming.
+Lissa: Makes you want to just flop down and take a huge nap, doesn't it?
+Lucina: Tempting...
+Robin: Odd. It seems like anywhere else to me...
+Say'ri: This is Naga's Cradle. It is said the divine dragon once called this place home. Here, the Voice will enact a holy rite to commune with Naga and regain her power.
+
+Tiki: ......
+Lucina: Lady Tiki.
+Tiki: ......
+Lucina: ...Lady Tiki?
+Say'ri: Pray be silent, milady. The Voice is currently performing the rite. In doing so, she will draw the divine dragon's power from the land unto herself.
+Lucina: Forgive me, I didn't realize. I thought she was sleeping... She looks so peaceful. What do you think she sees? Does she perchance dream?
+Chrom: I imagine she— ...Uh-oh. Is that what I think it is? Say'ri! Lucina! Enemies approach us from the south. We'd better get ready, or the Voice here is in for a rude awakening.
+
+@Battle 
+Say'ri: The Voice is defenseless in this state. We must become her shield until the rite is complete. We await your strategy, Robin. Make us as a wall of steel!
+
+@End 
+Tiki: ......
+Say'ri: Are you unharmed, Lady Tiki?
+Tiki: Yes, thanks to you. I apologize for the delay, but the rite has borne fruit.
+Say'ri: You've taken in the power of the divine dragon?
+Tiki: Some of it, yes. ...It's strange. This power had always isolated me. Many were the days I wept alone, cursing the charge placed before me...
+Lucina: Lady Tiki...
+Tiki: But now my power has a purpose, and the world needs it to avoid a ruinous future. And so I shall offer it freely. Allow me to join you.
+Lucina: ...Are you certain?
+Tiki: I am. I've had quite enough of living in solitude, thank you. Besides, I've always longed to better know this world. Now I can help you save it.
+
+Say'ri: For all the talk of power, she was a gentle soul, and far too fragile...
+Chrom: Indeed. But I fear there's no time to grieve, Say'ri. We must keep moving. We'll try to bring her peace by securing it for the world.

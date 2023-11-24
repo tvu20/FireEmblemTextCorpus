@@ -1,0 +1,115 @@
+@Intro 
+Villager: This can't go on, Elder! We barely have enough to get us by as it is!
+Elder: Their leader is a former Valmese general! We'll be crushed if we resist...
+Chrom: What's that about Valm?
+Villager: Who are you?
+Chrom: My name is Chrom.
+Elder: The ruler of Ylisse?!
+Villager: Elder! He may be able to help us!
+Chrom: Um, I can hear you. But tell me your problem, and I'll see what I can do.
+Elder: Oh, thank you, sir!
+
+Soldier: Urgent news, sir! Armed soldiers approach! Their leader claims to be Chrom of Ylisse!
+Nelson: Dammit! Why would he come here? Well, if they insist on dogging me, I've got hounds of my own to welcome them with.
+Severa: I'm not your dog, scum!
+Nelson: No, only a stray mutt that refuses to stop yapping. But you'll be a good dog and do as I say if you ever want--
+Severa: Yes, yes, if I ever want to see it again. I'm well aware.
+Nelson: I trust you're equally aware of your position, Holland?
+Holland: ......
+Nelson: Loquacious as ever, I see. You'll fight for me, or I'll have that lazy tongue pried from your head. Now, then, Chrom may have the Fire Emblem in his possession... And if I claim that, I've practically claimed the throne. So go out there, kill anything that moves, and get me that Emblem!
+
+@Battle 
+Chrom: Looks like this is the castle the villagers told us about. Let's reclaim what's been stolen and return it to the villagers.
+Severa: All this grief over something so small... Once I get what I came for, I'm out of here. Maybe I can convince Holland to come with me.
+
+@Battle-Talk 
+%Cordelia,Severa
+Severa: ...Oh, gods. It's you.
+Cordelia: Have we met? If so, I'm afraid I've quite forgotten.
+Severa: Well, excuse me for being so forgettable!
+Cordelia: Look, there's no time for this. If you're a friend, speak now. If not, then stay out of Chrom's way or I'll have to cut you down.
+Severa: Chrom, Chrom, Chrom! It's ALWAYS Chrom with you!
+Cordelia: ...I'm sorry?
+Severa: You should be! And I don't care about your stupid Chrom, so you can just drop it! ...I only want to talk to Holland.
+Cordelia: Holland?
+Severa: Yes, Holland! That sad sack over there. Watch my back so I can get to him safely, and then I'll help your stupid army!
+Cordelia: O...okay?
+Severa: Oh, and Holland's not here of his own will, so don't you dare hurt him!
+
+%Chrom,Severa
+Chrom: What's a child doing here?
+Severa: Child? I'm not a child, you oaf! I'm... Wait, are you the enemy general?
+Chrom: I don't know. Are we enemies?
+Severa: You're Chrom, aren't you? You're Lucina's father.
+Chrom: That's right. ...And I suppose you came back here with my daughter?
+Severa: Oh, good. Now I won't have to waste time explaining the situation. ...Weird. I didn't think you'd be so funny looking.
+Chrom: You're a real charmer. But charm or not, if you can fight, you're welcome to join our cause.
+Severa: Not the snappiest pick-up line I've heard, but I suppose it gets the job done. But I can't leave until I reclaim my property from Nelson. We'll talk then.
+Chrom: Actually, we're here to take stolen goods back to the village. If I promise to add yours to the list, will that persuade you?
+Severa: Mmm... Maybe. But you'll have to help my friend Holland, too. He's a bit of a sad sack, but he doesn't want to be here either.
+Chrom: Will he listen to reason?
+Severa: He will if I talk to him. He listens to pretty much whatever I say. Don't worry, he hates Nelson, too. Just be sure not to hurt him.
+Chrom: We'll be careful.
+
+@Battle 
+Severa: Holland, no! You idiot! Now you'll never get to see your wife again or meet your new child... I guess I shouldn't be surprised. Families never stay together...
+
+Severa: Holland!
+Holland: Severa! What are you doing here? If he knows you left your post...
+Severa: I'm leaving, Holland, and you're coming with me.
+Holland: Severa, I... I can't. You know I can't. I have a wife. If I don't earn Nelson's coin, she'll starve. I know it's blood money, but--
+Severa: Your wife is PREGNANT, Holland! You know that, don't you?!
+Holland: Of course I know that! And it's none of your concern!
+Severa: Do you love your child, Holland? Do you love your wife?
+Holland: Of course I do!
+Severa: Then stop making excuses! I know that parents will do anything for their children... But I also know how it feels when a child loses her parents. This world's got far too many kids who've gone through that. If you stay, you'll be killed or worse. And your child deserves better!
+Holland: Severa, I... I'm sorry. I didn't know. That must have been hard for you. ...... You're right. My child deserves better. Let's get out of here.
+Severa: Really?!
+Holland: Yes, really. But we have to hurry!
+
+@Boss 
+Nelson: What are those useless fools doing?! Get them! Somebody get them!
+
+%Chrom,Nelson
+Nelson: Damn... Useless fools, all of you!
+Chrom: And what does that make the man cowering behind them?
+Nelson: Bah! I'll use your corpse to clean the blood from my boots!
+
+%Severa,Nelson
+Nelson: Traitorous wench!
+Severa: You've got to be loyal before you can be a traitor, you idiot! And you're one to talk, extorting a poor innocent girl like me...it's time you learned just how deadly this innocent girl can be!
+
+@End 
+Elder: You've saved the village from starvation! You're a true hero of the people, sir.
+
+Severa: Yes, here it is!
+Chrom: Is that a ring?
+Severa: It's my ring, and I'll thank you to stop staring so lustily at it! It's worth more to me than anything in the world to me... That rat Nelson stole it one night while I was sleeping.
+Chrom: Well, I'm glad you were able to get it back.
+Severa: ...Hmph.
+
+Cordelia: Oh. ...You.
+Severa: Wh-what do you want?!
+Cordelia: Just to thank you for helping us. You fought bravely, er...
+Severa: Severa. ...My name's Severa.
+Cordelia: It suits you somehow. Oh, and my name--
+Severa: Cordelia. I know.
+Cordelia: Er, yes, that's... But how did you...? I'm sorry, did I introduce myself before?
+Severa: I guess you must have if I know your name. Gods...
+Cordelia: I... I see. Well, thank you all the same, Severa.
+Severa: You already said that! And besides, it's not like I did anything special. I was just fighting to get back what's rightfully mine.
+Cordelia: Are you referring to that ring? Oh, goodness. It looks exactly like... Ah I see. That would explain how you know my name. You're a friend of Lucina's, aren't you? ...And you're my child. Isn't that right?
+Severa: *Mutter* *grumble* ...lonely...
+Cordelia: What was that?
+Severa: I SAID, I thought you'd might be lonely, so I came here to see you! ...You're welcome.
+Cordelia: That's very sweet.
+Severa: D-don't mock me! You don't care! You don't care at all!
+Cordelia: How could you possibly think that? I'm thrilled beyond words to meet you.
+Severa: ...Then why'd you leave me? You said you had to go off to fight for what really mattered, and you never came back! You picked Chrom over me!
+Cordelia: You have me at a disadvantage, Severa. I can't answer for my future self. But when I said I was fighting for what mattered, I probably meant you. I'd want nothing more than to build a world where you could grow up happy and strong. At least, that's what I want right now.
+Severa: You think I don't know that...? I mean, I DO know that, but...
+Cordelia: I'm sorry I wasn't a better mother to you.
+Severa: Well, you're still MY mother, which makes you the best mother in the world.
+Cordelia: And the luckiest, it seems.
+Severa: Oh, Mom, I missed you so much! I... I'm sorry I was so mean... I just... I didn't want to lose you again... Promise you won't leave, okay? Promise!
+Cordelia: I promise.
