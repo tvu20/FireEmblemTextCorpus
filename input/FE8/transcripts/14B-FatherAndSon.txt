@@ -1,0 +1,178 @@
+@Opening 
+Myrrh returns safely to Ephraim's side. A noble warrior to the end, Selena fought with great honor, never once using Myrrh as a hostage. Ephraim renews his vow to pierce the veil of mystery surrounding the Grado Empire. Selena is added to the list of innocents who Grado must account for. The center of the Grado Empire. Emperor Vigarde should have been here, but...
+
+@Intro 
+Ephraim: The Grado capital... It looks like it hasn't changed at all since the last time I was here. Eirika and I came here once long ago with our father. Duessel taught me the lance, and I studied history with Lyon. I never imagined I'd come back here armed for battle.
+
+@Flashback
+Lyon: ...And so the hero Grado and his companions used the five Sacred Stones to seal away the evil of the Demon King, and his wicked soul was locked within the Stone of Grado. The Stone of Grado came to be known as the Fire Emblem. To this day, it's kept safe and honored as a national treasure of the empire. ...I think that's about it. For more on Grado's life, read "Founding Emperor Grado." It's comprehensive.
+Ephraim: ...It's so thick. ...And the letters are so small.
+Lyon: But you have to read it. You don't want Father McGregor to discipline you again.
+Ephraim: ...I'm no good with books. The problem is they don't move. I get bored silly. I understand so much better when you explain it to me, Lyon.
+Lyon: Yes, but...it's kind of weird to be helping you all the time. It's just that I admire you, Ephraim. I want to be strong, like you--brave and handsome... I've got an idea. Why don't you teach me to wield a lance, Ephraim? I can't let my defeat to Eirika go unchallenged. I look foolish.
+Ephraim: It's a deal. We practice tomorrow, though. If you want to beat Eirika, you have to take this seriously.
+Lyon: Just go easy on me, all right?
+
+@Intro 
+Myrrh: Ephraim... Aaaah!
+
+Ephraim: Another tremor... They happen a lot, don't they? Are you all right, Myrrh?
+Myrrh: Yes, I was startled. Ephraim, this place... Did it always shake like this?
+Ephraim: Yeah, Grado's been prone to earthquakes for a long time. Tiny tremors like that happen all the time. Don't worry.
+Myrrh: Really? Um, Ephraim?
+Ephraim: What is it?
+Myrrh: I can feel it--from inside the castle, I can feel the darkness. I feel a broad pool of darkness deep within its walls.
+Ephraim: Perhaps it's coming from the throne room. That's where Emperor Vigarde, the man who started this, is. Let's go.
+
+Lyon: Father...
+Vigarde: .......
+Lyon: Father... Have we been foolish? When you died, I couldn't accept the loss... I... If only I'd been stronger... Urgh!
+Soldier: Your Majesty! Enemy soldiers are headed this way! Oh, Prince--
+Lyon?: ...Hi. What's wrong? Why such an unusual expression on your face? I'd rather you didn't look upon me as though I were some horrid beast.
+Soldier: I...I beg your pardon...
+Lyon?: Did you say we were under attack? I want all of you to strike the foe. Bring your weapons to bear on Ephraim. Is that acceptable, Father?
+Vigarde: Do... Do as he says.
+Soldier: Understood! Right away, Your Majesty!
+
+Lyon: .......Command Grado, Emperor Vigarde... Destroy Ephraim...
+Vigarde: .......
+
+@Battle 
+Rennac: Ha ha! The spectacular capital of Grado. The richest city on the continent. With my expert eye, I judge this card to be an incomparable treasure. Once this is all done, I think I'll just scamper off on my own...
+
+@Recruit-Talk 
+%Ephraim,Rennac
+Ephraim: You there, hold.
+Rennac: Huh? ...You’re a man. Sorry, pal, but I’m not interested in men.
+Ephraim: What are you doing here in the castle? You seem to be weighed down a bit. Helping yourself to the treasure?
+Rennac: Ha! I’ve no idea what you’re talking about. Now, wait a minute... You couldn’t be... Aren’t you Prince Ephraim?!?
+Ephraim: Hm? I’m Ephraim, but...
+Rennac: I-I thought so. You’re the one they call the Beast of Renais... I’ve heard tales of how you’ve looted and pillaged your way across the land...
+Ephraim: What?
+Rennac: H-Hold on! Calm down! You won’t get any treasure by killing me. If you want these goods, it’ll cost you. 10,000 gold.
+Ephraim: 10,000 gold?
+Rennac: Yeah... Is that too high? Fine, then you get my sword as well. I’ll join your army. So that’s me and the treasure for only 9,980 gold! What do you say?
+Ephraim: You know, I have no idea how I got pulled into this conversation. 9,980 gold, eh? I haven’t decided yet...
+Ephraim: Here’s 9,980 gold. Is this sufficient?
+Rennac: Huh? M-may I really take it?
+Ephraim: Sorry? You set the price yourself, didn’t you? Now that I’ve hired you, I intend to get my money’s worth.
+Rennac: You..aren’t going to stab me once I’ve taken your money, are you? Once the fighting’s all done, you won’t burn me at the stake or anything?
+Ephraim: ...What rumors are these people spreading about me?
+
+%L'Arachel,Rennac
+L’Arachel: Aha! So this is where you’ve wandered off to, Rennac!
+Rennac: Princess L’Arachel? Uh-oh, um...
+L’Arachel: Come with me.
+Rennac: Wait... Hold on now. Go with you where? Look, I’m sorry, but I’ve been hired by the Grado Empire, and... Hello! I’m talking to you!
+L’Arachel: Rennac, whatever is the matter? I promise to listen to your story later, but now, we must be going!
+Rennac: No, I’m no servant, like that kook Dozla. I’m a mercenary. I escorted you to Renais like I was hired to do, didn’t I? You have no right to drag me across creation without any pay whatsoever!
+L’Arachel: Is this about wages? I believe you’ve received ample compensation.
+Rennac: Ample?! Do you even know what that word means? You’re the princess of Rausten! I thought working for you would pay well! Yet your purse strings are knotted tight, and I’ve almost been killed so many–
+L’Arachel: The joy that comes from doing good is not something that can be purchased. There. All better? Let’s go.
+Rennac: NO! I said I don’t want to! Riding about with you is– ...And there she goes. Oh... By the Stones, why did I ever take that job in the first place?
+L’Arachel (off-screen): We must hurry, Rennac.
+Rennac: Right, right. I’m coming...
+
+@Boss 
+%Ephraim,Vigarde
+Ephraim: Vigarde! Why did you invade Renais? Why did you kill my father?
+Vigarde: ......
+Ephraim: Answer me, Vigarde! ...So you really have lost hold of your senses, haven't you?
+
+%Duessel,Vigarde
+Vigarde: .....
+Duessel: Your Majesty, am I finished?
+Vigarde: .....
+Duessel: Your Majesty... It's too late, isn't it? ...Forgive me.
+Vigarde: ......
+
+@End 
+Ephraim: What? Is this... Vigarde's corpse--it... It disintegrated.
+Seth: It must be some type of dark magic. Regardless, the capital has been captured. I'll lead a patrol through the castle. There may be enemy soldiers remaining.
+Ephraim: I'll go with you. Lyon may be somewhere within the castle.
+
+Lyon?: Hello, Ephraim. I've been waiting for you. Looks like you've beaten my father. I thought you might... You really are powerful, aren't you?
+Ephraim: Lyon! Is that you? Lyon, you must tell me! What has happened here in Grado?
+Lyon?: .......
+Ephraim: Why are you in this place? Your father... Emperor Vigarde, why didn't you stop him? Don't tell me you're caught up in this madness, too! Answer me, Lyon! You always told me you wanted what your father wanted--peace!
+Lyon?: I... I...I... Urgh! Let me tell you something, Ephraim. I've been waiting for this moment for a very, very long time.
+Ephraim: ...
+Lyon?: I will make the world Grado's--No, MY plaything. I've been planning this my whole life. Why else would I befriend you and Eirika? I needed to learn where and how to attack and destroy Renais... Thanks to the two of you, I learned all I needed to know. While you feigned compassion for my weakness and scorned me in your hearts.
+Ephraim: What?! Lyon... You're wrong. We never--
+Lyon?: And then my chance arrived. I replaced my useless father, readied my tools, and set my plan in motion. I began my destroying Renais... And then I murdered your father.
+Ephraim: You... You lie, Lyon! You could never--
+Lyon?: Shall I tell you a story? Would you like to hear of your father's last moments? You'll laugh really. Your father's such a weakling, and yet he tried so hard...
+Ephraim: Lyon! No more insults to my father, or I may forget myself!
+Lyon?: Oh, are you angry, Ephraim? But, not even you can stop me now. The Stones of Frelia and Renais are dust, and Jehanna's is soon to follow... ...Which leaves only two more... I will destroy them one at a time... I shall see my dream fulfilled...
+Ephraim: What?!
+Lyon?: Ephraim, you are in my way. Therefore... Ergh... ...How bothersome. I truly do wish to be your opponent, but I'm not yet at full strength. Let's meet again, shall we? Assuming you live, of course. I'll grant you the honor of dying at my hand. Like father, like son, eh?
+
+Ephraim: .......
+
+Soldier: Reporting in, sir! We've found a cell in the back. There were captives...
+
+???: Who is it?
+Seth: Ah!
+Knoll: Has my execution been moved up on the schedule? Wait. You're not a Grado soldier. Who are you?
+Ephraim: I am Ephraim of Renais. And who are you?
+Knoll: That's an odd question for an executioner. My name is Knoll. Until recently, I was one of Grado's top researchers in arcane matters.
+Seth: So why is it you are locked up here?
+Knoll: .......
+Ephraim: You need not answer if you do not wish to. Tell me, what is Lyon attempting to do? I still have things I intend to ask him.
+Knoll: You wish to speak to Prince Lyon? You really don't know anything, do you?
+Ephraim: What do you mean? Is there something wrong with Lyon? What do you know?
+Knoll: .......I'll tell you all I know, if you would like. However, I think you will not thank me once you hear it. It all began one year ago... That was when the emperor died. The emperor's health worsened, and then he...
+Ephraim: Hold. What are you on about? One year ago? That's before Grado's invasion of Renais began. And I just saw the emperor. I killed him with my own hands.
+Knoll: Allow me to continue in the order in which everything occurred. One year ago, the emperor died of the illness that had plagued him. Prince Lyon was devastated. He fell into an endless despair. He felt unworthy to take the throne, unable to rule without his father.
+Ephraim: .......
+Knoll: He then began to look for a way to overturn his father's demise. He wanted to resurrect him--
+Ephraim: Wait, resurrect him?
+Knoll: Yes. As you know, the Stone of Grado is possessed of...unique powers. It was once used to seal away the Demon King, and it alone held the dark one's soul. It burned within with the Demon King's rage, and we called it the Fire Emblem. Prince Lyon and a team of mages skilled in ancient lore hoped to harness its energies. I remember the joy in Prince Lyon's eyes when he spoke of using it to save lives.
+Ephraim: Lyon...
+Knoll: Prince Lyon told us he intended to use the Fire Emblem to restore the emperor. His death had been kept from the public, but rumors were beginning to fly. We knew we had to hurry, before the people learned the truth of the emperor's death. Prince Lyon dedicated himself to research, skipping meals, foregoing sleep... And then...
+Ephraim: What happened?
+Knoll: I wasn't there, so I did not witness it firsthand. By the time I arrived, the deed had already been done. The Fire Emblem had been shattered, split in two. One was a Sacred Stone, and the other...
+
+@Flashback
+Knoll: Prince Lyon! What's happened? Prince...
+Lyon: Oh, hello, it's you... What was your name again? Ah, yes, Knoll. You're one of my researchers. I've glad tidings for you. My father is back.
+Knoll: The emperor?
+Vigarde: .......
+Lyon: Come, Father... Open your eyes.
+Vigarde: .......
+Knoll: Your... Your Majesty! This is incredible! Prince Lyon, what miracle is this? It cannot be! What--? What is that stone?
+Lyon: This? This is the Dark Stone. It bears even more power than any Sacred Stone. I extracted and condensed all of the magic bound within the Fire Emblem. The Dark Stone's power is what gave my father back the spark of life.
+Knoll: The Dark Stone...?
+Lyon: Now that the Dark Stone is mine, I have no need for this empty husk.
+Knoll: P-Prince Lyon! The Sacred Stone... What have you done?
+Lyon: They are all in the way. The Sacred Stones, I mean. Four more remain, and they must all be destroyed. The only stone we need now is this Dark Stone of mine.
+
+@End
+Ephraim: .......
+Knoll: After that... His Majesty ordered the invasion of Renais, as Prince Lyon asked him to. Father McGregor grew concerned with Prince Lyon's health. He tried several times to dissuade him from his path. Prince Lyon executed him personally. I, too, was branded a traitor and arrested. My execution was scheduled for tomorrow.
+Ephraim: Lyon... Where is he now?
+Knoll: Would that I knew. Prince Lyon frightens me now. He is...transformed...
+Ephraim: He's... Lyon is my friend.
+Knoll: This way, Prince Ephraim. I believe it's here...
+Ephraim: What is it? What is this place?
+Knoll: This is the former resting place of the Stone of Grado, the Fire Emblem. We've kept the Sacred Twins of Grado here as well. If we're still lucky, they may still be here.
+Ephraim: The Sacred Twins... Those are the ancient weapons once wielded by the founders of our nations. Let's see if I remember my studies... Emperor Grado's were the magic tome Gleipnir and Garm, the black axe.
+Knoll: That is correct. You know your history well.
+Ephraim: Yeah, it's something I learned long ago from Lyon.
+Knoll: .......
+Ephraim: Well, let's see if they're still here, shall we?
+Seth: Prince Ephraim. Here...I've found the Sacred Twin relics.
+Ephraim: And here they are... Yet I don't understand. The Sacred Stone was destroyed, but these were left untouched? Why?
+Knoll: I know not... Perhaps... No, never mind. It's an idle thought. Prince Ephraim, please take these relics with you.
+Ephraim: Is that all right?
+Knoll: Yes. I want you to have them. And maybe... Maybe someone else wanted you to have them as well.
+
+Frelian: Prince Ephraim!
+Ephraim: You've come at a good time, soldier. I want you to take a message to Frelia. Actually...
+Frelian: We've received dire news from Jehanna! It's about Princess Eirika and Prince Innes... They're under attack by Grado forces led by Tiger Eye and Moonstone.
+Ephraim: Eirika...
+Seth: Caellach Tiger Eye and Valter Moonstone... They're supposed to be the most powerful of Grado's imperial generals. For them to have abandoned the capital and lead the battle into Jehanna...
+Frelian: The Knights of Rausten have ridden to the eastern front to aid Frelia, but I fear for their survival.
+Ephraim: We march for Jehanna immediately! We will rescue Eirika.
+Frelian: B-but even if we leave now, we will not make it in time...
+Ephraim: We will make it. Rest easy on that. Eirika is my sister. That one will never lay down her blade. And I am Eirika's brother. There is no way I'll let my sister die!

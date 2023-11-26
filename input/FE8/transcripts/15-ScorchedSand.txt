@@ -1,4 +1,8 @@
+@Opening 
+Ephraim's sister is in danger Grado's General Caellach has attacked Jehanna Hall, forcing its surrender. Though Eirika and her troop have left the Hall, Grado's forces pursue them relentlessly. Trapped in the burning desert, enemy forces close in on them from all sides. With no time to wait for Frelia's troops, Ephraim leaves for Jehanna immediately. He must go to his sister's aid.
+
 @Intro 
+^start
 Seth: Princess Eirika, are you well?
 Eirika: ......
 Seth: Princess Eirika!
@@ -7,18 +11,46 @@ Seth: Yes, it’s me. Please, you must rest. If we continue like this, you’ll.
 Eirika: No... it’s all right. We’re all suffering... We’re still completely surrounded by Grado’s armies... We may all die at any moment... I can’t lose focus now. Has anything changed?
 Seth: Unfortunately, no. On every front, our forces meet with defeat upon defeat. Rausten’s knights are scattered and worn, and the enemy is closing in around them. And this accursed sand... Most of the units can’t get proper footing and are being slowed down. Mounted units are having the worst time, as their movement is severely limited. Princess Eirika... I ask that you leave for safety. We’ll use flying units and magic users to hold the foe here.
 Eirika: No. I will not retreat. If I give up now... My brother would not forgive me. I’m the princess of Renais. I will fight, either to victory or to death. Brother, I...
+
+Ephraim: There’s Jehanna Hall... It’s nothing but a ruin now. Blast! I don’t know what’s happened, but... I’d better get to Eirika and the others as soon as possible.
+Seth: I’ve discovered which of Grado’s generals lead the forces surrounding the hall. Valter the Moonstone and Caellach the Tiger Eye. Two of the strongest of the empire’s generals, with near-peerless forces. Above all else, we must rescue Princess Eirika, and yet... If you fall, Prince Ephraim, we’re all finished. And this accursed sand... Most of the units can’t get proper footing and are being slowed down. Mounted units are having the worst time, as their movement is severely limited. Some of us can move better than others, though... A combination of magic wielders and sky riders should give us some advantage. Whatever we do, we must move cautiously.
+Ephraim: I understand. This is just like the battle for Renvall. We either rescue Eirika or defeat all the enemy troops. If we accomplish either goal, victory is ours. Let’s move!
+^end
  
+^start
 Riev: Valter... You should stop playing around. If you don’t’ finish off Eirika’s forces swiftly... Her brother’s left the capital. He should be arriving here shortly. You don’t want to be fighting her still when he arrives. Trust me. We are equals here in Grado’s army. Would you like me to assist?
 Valter: All you need to do is vanish, you disgusting old man. Eirika is mine. I won’t let you have her. She is so strong, so beautiful... She’s the prey I’ve dreamed of.
 Riev: Heh heh heh... Your fangs are still sharp, eh? Good. Very good. Ah, Valter... You’re a beast. You’re bound to no country. You care nothing for friend or foe. Kill a man, claim a woman... You live for nothing more, you wretched beast. That’s your strength. That’s what makes you stronger than any many alive. A beast acts without remorse. Man’s morality cannot win. It’s nature’s way... The stage is all yours, Valter. Do not fail to get the girl’s bracelet. Our master demands it...
- 
 Valter: The time is nigh, Eirika... Come to me!
 
+Lyon: How goes it, Caellach?
+Caellach: Ah, Prince Lyon. Thank you, Your Highness, for gracing me with...your royal...er...
+Lyon: You can stop. There’s no need for you to put on airs. You were made general for your military prowess, not your flowery speech.
+Caellach: And an honor it is. You know, Prince Lyon, you’ve got a lot of nerve. You’re really worked over your dear friend the princess of Renais. Are you satisfied?
+Lyon: Is there some reason you ask?
+Caellach: No, not really. I just wanted to see how you’d react. That’s all.
+Lyon: She... Eirika has always been a very important person in my life. Both she and her brother have been friends of mine for a long time. Tell me, Caellach, do you have any friends to speak of?
+Caellach: Huh? Yeah, I got one. An old mercenary I fought with, went by the name of Joshua. He was a fool and a scoundrel, but now that he’s gone, I miss the lad. I don’t know where he’s at or what he’s doing, but...
+Lyon: Do you miss that life? Do you ever want to be a mercenary again, to see him?
+Caellach: Nope. The time we worked together was fun and all, but... No. I don’t want to end up another no-name mercenary lying dead in a ditch. I’d rather serve the Grado Empire and make a name for myself. I’m going to see how far my axe will take me. And then, one day...
+Lyon: One day, you’ll kill me and be emperor in my stead. Is that it?
+Caellach: Uh... That’s...
+Lyon: It’s all right. Think whatever you like if it helps you do your duty. As long as you do what I assign you to do, I’m happy. But for now, I’m going. You know what you need to do.
+Caellach: Yep, leave it to me. I am General Caellach, the Tiger Eye of the Grado Imperial Army, after all! Once my prey is within my reach, I never let it escape. Too bad for the princess, but they’ve no chance of winning. None at all.
+^end
+
 @Battle 
+^start
 Ephraim: That building beyond the dunes is Jehanna Hall. I expect that’s where we’ll find Eirika and her companions. Duessel, Knoll. It’s time we rescued Eirika. I’ll need all your strength.
 Duessel: Of course, Your Highness. I’ve pledged my service and my axe. You shall have both.
 Knoll: Princess Eirika... She’s a friend of Prince Lyon’s, isn’t she? I’ll do what I can to help you. I feel like that is what Prince Lyon would want.
 Ephraim: The enemy’s numbers are great, but we do not need to face them alone. We must move quickly to join forces with Eirika and her company. I’m sure Seth and Innes will be there waiting for us. Let’s move!
+
+Eirika: Prince Innes... And Saleh. I’m sorry. I’m absolutely powerless here...
+Innes: Eirika, you have nothing to apologize for. We’re not defeated yet. Jehanna Hall has fallen, that much is true. But if we can hold out until Ephraim arrives, we still have a chance of victory.
+Saleh: And reports place Lady Myrrh at Prince Ephraim’s side. It is my duty to protect her. I will not die without having fulfilled my obligation to her.
+Eirika: You’re right... I made a promise, too. I told Ephraim I would live to see him again. We just have to pull together. All of us. We just have to hold out a little longer. If we pool our strength now, I vow that we will all live to see our friends again.
+^end
  
 @Visit
 Man: According to this ancient document... ...There was a huge battle here long, long ago. Every day, I’m out here digging up ancient weapons and artifacts out of the sand. There are still more to be found, of that you can be sure. It’s even said a long-dead sage left a copy of Metis’s Tome out here... Oh! But I won’t give that to anyone if I find it. Not a chance!
@@ -42,6 +74,38 @@ Ephraim: I’ve heard that you’ve been watching over Eirika. I should like to 
 Innes: It’s not necessary. Besides, there’s still a war to be won. We can’t rest easy till every last Grado soldier’s been defeated.
 Ephraim: You’re right. Let’s go!
 
+%Tana,Innes
+Tana: B-brother.
+Innes: Tana? Why are you here? I told you to remain at Castle Frelia.
+Tana: Don’t talk to me like that. I’m a fully sworn knight of Frelia, you know? I came all the way here with Prince Ephraim.
+Innes: What? With that man?
+Tana: Brother! Ephraim’s a good person. We can talk about this later. I still see enemy troops about. I think we should join forces and fight together.
+Innes: Working together is, of course, the best strategy. But don’t do anything foolish, Tana. Who knows what Father would think.
+Tana: I understand. You try not to be overly heroic yourself, Brother.
+
+%Tana,Eirika
+Tana: Oh, Eirika! Here you are!
+Eirika: Tana! You’ve come as well?!
+Tana: Yes, I came all the way with Ephraim. I’m just so happy to see you’re safe.
+Eirika: Tana. Thank you so much for coming to my aid.
+Tana: Well, of course I came. That’s natural. We’re friends after all!
+
+%Seth,Eirika
+Seth: Princess Eirika, are you well?
+Eirika: Seth! If you’re here...
+Seth: Prince Ephraim is safe as well. Princess Eirika, we will stop the remaining enemy soldiers here. Would you please take caution and think of your own safety?
+Eirika: Thank you, Seth. You’ve saved me so many times since the fall of Renais...
+Seth: It is my duty. Let’s go, Princess Eirika.
+
+%Ewan,Saleh 
+Ewan: Ah! Teacher.
+Saleh: Ewan? What are you doing here?
+Ewan: I came with Prince Ephraim and his friends. I’ve done a lot of good work, Teacher.
+Saleh: Is that so... Well, if you all hadn’t shown up, I’m sure we’d be dead now. You’ve saved us, Ewan. Thank you. I am in your debt.
+Ewan: Do you mean that? As a reward, will you teach me some more powerful magic?
+Saleh: ...I suppose I should at that. But all in good time, Ewan.
+Ewan: Yahoo!
+
 @Boss 
 Caellach: You’re a stepping-stone... And I’m moving up. Don’t take it personally.
  
@@ -52,6 +116,7 @@ Valter: I’ve no use for these bloodless minnows... Give me prey that will sate
 Valter: Urggh... Gaaaah!
 
 @End 
+^start
 Eirika: Brother!
 Ephraim: Eirika!
 Eirika: Oh, Ephraim... I’ve missed you so.
@@ -60,8 +125,17 @@ Eirika: What are these?
 Ephraim: These are called Sacred Twins. We took these relics from Grado. The dark tome Gleipnir and the black axe Garm... I doubt either of us can use them, but... Why not see if one osf your companions can use them. They might have better luck.
 Eirika: They’re from Grado? Does this mean Grado Keep has fallen?
 Ephraim: Yes. I conquered the capital and defeated Emperor Vigarde. But still...
- 
 L’Arachel: Eirika, may I make a suggestion? We’ve been able to join forces here so... How about if we all get together and trade information. There are people on both sides waiting after all.
+
+Eirika: Brother!
+Ephraim: You’ve done well, Eirika.
+Eirika: Thanks to you, Ephraim. Ah... Wait a moment. I’ve something to give you.
+Ephraim: These are...
+Eirika: These are the Sacred Twin relics of Jehanna. The ice sword Audhulma and the wind blade Excalibur.
+Ephraim: Jehanna’s Sacred Twins? But it seems like we were too late... Jehanna Hall has fallen.
+Eirika: Yes, and Queen Ismaire died resisting Grado.
+L’Arachel: Now that we have, at last, been reunited once again, perhaps this would be a good time to share information. I’m sure we all are most anxious to learn of what has happened.
+^end
  
 Ephraim: I see unfamiliar faces among you here, so allow me to introduce myself. I am Ephraim, Eirika’s brother and crown prince of Renais.
 L’Arachel: I’m Princess L’Arachel of Rausten. The pleasure is mine, of course.
@@ -105,3 +179,6 @@ Saleh: I’m grateful to see you well. The people of Caer Pelyn will be overjoye
 Myrrh: I must apologize to you, Saleh. You were there to protect me from the very start of my journey. When we were attacked, I was separated from you, and... I’m so sorry to have worried you.
 Saleh: Lady Myrrh. As long as you are safe, we have nothing to be worried about. It will be my honor to serve you until your mission is complete.
 Myrrh: Thank you, Saleh.
+
+
+

@@ -1,0 +1,147 @@
+@Opening 
+Ephraim leads the group to Za'albul Marsh in search of the missing Myrrh. They learn from soldiers and villagers that Myrrh had been captured by General Selena, one of Grado's commanders. She was last seen heading east. To regain their companion, the group will now be forced to fight. Ephraim steels his heart to the reality that he must face Selena.
+
+@Intro 
+Selena: So this is a dragonstone... The description was accurate. It looks like an ordinary gemstone. If only His Majesty hadn't ordered me to bring this to the capital immediately... I've heard reports that Prince Ephraim and a Frelian army have landed nearby. If I didn't have those blasted restrictive orders, I could--
+???: ...Return it...
+Selena: What?
+Myrrh: The stone... Please. Return it to me.
+Selena: You... You're--
+Myrrh: Return the stone to me... Please...I'll do anything.
+Selena: Why do you want the stone? Who are you? You're not from Grado, that's for sure.
+Myrrh: Without the stone, I... Please, give it back to me.
+Selena: Answer my questions!
+Myrrh: My name is Myrrh. I come from Darkling Woods. I was betrayed, and my stone was taken from me. I was imprisoned, caged, to be transported somewhere. Prince Ephraim came to my rescue. I've been traveling in his care ever since.
+Selena: You're with Ephraim? I can't let you leave. Maybe I should take you back to the capital with me.
+Myrrh: Wait... You're from Grado? Tell me, has anyone around you--Have you noticed any changes in the people around you recently?
+Selena: Changes? What do you mean by that?
+Myrrh: Anyone near you... Has anyone been transformed, either in spirit or demeanor? Does anyone act in such a way as to appear a different person altogether?
+Selena: .......How could you know...
+Myrrh: The darkness is to blame. I've come here to stop it.
+Selena: ...You will tell me more. If I find you are lying, I will punish you. Do you understand?
+Myrrh: Yes. Are you ready? I will tell you everything I know.
+
+Selena: ...... ...I see. Myrrh, I think I understand everything you've told me.
+Myrrh: Good.
+Selena: But I cannot believe it. How can I allow myself to believe it? If it's true, then... then His Majesty is already--
+Myrrh: Dame Selena... What's that?
+Selena: It is a fluorspar... His Majesty presented it to me when I was promoted to general. This gemstone is proof of my commission. It's one of Grado's treasures... I received it years ago, but I remember that day like it was yesterday. His Majesty smiled so kindly. His voice was filled with dignity and affection...
+Myrrh: Dame Selena, you love your emperor, don't you?
+Selena: What are you--
+Myrrh: I can see it. Dame Selena, I can see how much you treasure...
+Selena: .......His Majesty is most compassionate. You see, I'm a commoner. I was raised in a desolate, impoverished village. My family couldn't afford our taxes. No one could. We were desperate. Some of us considered...horrible things to make enough money to survive winter. Then, supplies began to arrive. We were told they came from the emperor himself. He sent them to us, a poor frontier town who couldn't even afford to pay taxes.
+Myrrh: .......
+Selena: Neighboring kingdoms must have thought the emperor mad, I can only guess. But His Majesty did not care about his standing among kings. He cared for his people. He saved us.
+Myrrh: .......
+Selena: That spring, I went to the capital and became a soldier, then a knight. I wanted to dedicate my life to the emperor who had saved it. I felt I understood his dream. I felt I shared his vision...
+Myrrh: Dame Selena...
+Selena: Myrrh, this wave of dark energy you spoke of... Can its evil really change a person that completely?
+Myrrh: Yes... All trace of this person would be consumed...destroyed.
+Selena: How can the process be reversed?
+Myrrh: ...I'm sorry. That is...impossible.
+Selena: ...I see.
+Soldier: Dame Selena. Enemy troops are heading this way! We await your orders.
+Selena: Understood. Tell the men we meet them head on.
+
+Selena: Myrrh. I release you. Return to Prince Ephraim's side.
+Myrrh: Dame Selena...
+Selena: I apologize, but I cannot return your dragonstone to you. I vowed never again to fail in my duty to His Majesty. If you want the dragonstone back, tell Ephraim he must defeat me.
+Myrrh: But that's--
+Selena: Go now! This place will soon run red! All troops to arms! For the glory of Grado!
+
+Seth: Prince Ephraim, the Grado troops are lining up to the fore. Their commander is a Grado general... It's Selena Fluorspar.
+L’Arachel: Selena... I've heard she wields the power of the thunderstorm...that she uses its might to attack from afar without mercy.
+Seth: Prince Ephraim, I urge you to exercise caution when faced with such magic.
+
+@Battle 
+Gerik: Prince Innes said they would be around here somewhere. Now where in the blazes is this Ephraim?
+Tethys: From this distance, I can't tell which army is Frelia and which Grado. We'll have to move in closer if we're to sort this all out.
+Myrrh: Ah...
+Gerik: Hm?
+Tethys: Oh, what an adorable girl. It's all right. Come here...
+Gerik: You're a bit young to be on your own. Did you get lost then?
+Myrrh: .......
+Tethys: There's no reason to be afraid. This fellow's a bit scary to look at, but he's not so bad.
+Gerik: Come now... Hmph. But she is right, you know. If you keep looking so scared, you're likely to hurt my feelings.
+Tethys: Please, little one, tell us your name.
+Myrrh: I am Myrrh. I wish to return to Ephraim's side.
+Gerik: Ephraim? We're supposed to be guarding someone by that name... Can you help us find him?
+Myrrh: Yes... He's over there.
+Gerik: Hey! Hold on!
+
+Myrrh: Ephraim.
+Ephraim: Myrrh! You're safe. Thank goodness.
+Myrrh: Ephraim... I'm sorry. I... I...
+Ephraim: Myrrh...
+Myrrh: It's because I forced you to bring me with you... I didn't want to be a burden to you any longer. But all I've done is made you worry... I'm...sorry...
+Ephraim: It's fine, Myrrh. I'm the one who should be sorry. I failed in my promise to watch over you. The battle's about to begin. I want you to move to the rear.
+Myrrh: Ephraim... Those aren't bad people. I spoke to one, and she listened--
+Ephraim: All right. I'll do my best to persuade them to join us.
+
+@Recruit-Talk 
+%Ephraim,Gerik
+Gerik: Are you Ephraim?
+Ephraim: Yes, I am, but...
+Gerik: I'm Gerik, mercenary commander. Prince Innes bought our swords and sent us here to join you. Any problem with that?
+Ephraim: Innes sent you?
+Gerik: Yeah, and the prince had a message for you as well. He said, "I've no need of assistance, Ephraim, but I'm sure you do." That's all. I figured you would know what he was talking about.
+Ephraim: Well, that's definitely from Innes. Regardless, your aid is welcome. Please join us in our fight.
+
+%Marisa,Gerik
+Marisa: Chief.
+Gerik: Oh, Marisa! So Ewan found you after all, eh? Sorry for the trouble. Appears the guild made an error. Blast it all. I should have double-checked everything myself.
+Marisa: No worries. I’m with you now.
+Gerik: Have you taken any wounds? They send you all the way to Taizel, after all. What ill luck that was...
+Marisa: I’m fine. I’ll fight at your side.
+Gerik: Ah, that’s comforting. We’ve been hired to guard a Prince Ephraim. Before we do, though, we’d better take care of these enemy troops, huh? Let’s move, Marisa.
+Marisa: Understood.
+
+@Battle-Talk
+%Ewan,Tethys
+Tethys: Ewan, you’ve completed the task you were given, haven’t you? This is a dangerous place. Please, go wait at the inn. I’ll be there to collect you as soon as I’m able.
+Ewan: No way! I want to fight, too. I’ve become friends with Prince Ephraim, you know? We’re going to take out the big, bad evil empire.
+Tethys: Wait just a minute, Ewan! Ah! Ooh, that troublemaker.
+
+@Visit 
+Woman: You must have gone through a lot to make it here. Did you come to warn us about the fighting going on? Thanks so much. Here, please take this staff. Oh, go on. Don’t be shy.
+
+Girl: Dame Selena often visits our village when she’s on patrol. She even came to our aid when we were attacked by bandits. ...... Please, I beg of you. Don’t hurt Dame Selena.
+
+@Boss 
+Selena: Fluorspar... His Majesty gave me this name. Therefore, I...
+
+%Ephrain,Selena
+Ephraim: Are you Selena?
+Selena: Indeed I am. And you are Prince Ephraim.
+Ephraim: I know you've spoken with Myrrh. Withdraw your troops. You must know the emperor is not rational!
+Selena: Yes, I know.
+Ephraim: Then why? Why do we still fight?
+Selena: I am a general of the empire. His majesty's word is law.
+Ephraim: That's ridiculous. You know the emperor is deranged, and yet you follow his orders?! Is that truly loyalty?
+Selena: Prince Ephraim, you cannot understand. I know the path I'm given is foolish. Yet I am a knight, and I have no other.
+Ephraim: Selena, please! I have no wish to see you die here!
+Selena: Me? Die? Prince Ephraim, you misunderstand me. I have no intention of dying. Madness though it may be, I will be the one doing the killing today.
+
+%Duessel,Selena
+Duessel: Well met, Selena.
+Selena: General Duessel... I must offer you my apologies. I called you a traitor, but I was mistaken. Your loyalty never wavered, not for an instant.
+Duessel: ......
+Selena: And yet you must know that I have no intention of withdrawing. So let us not waste words. Let us settle this with steel, my friend.
+Duessel: That's how it is to be, then? One of us dies by the other's hands?
+Selena: Yes. It's the path I've chosen. I have no regrets.
+Duessel: I see... Well. I, too, must follow the path that I have chosen.
+Selena: Very well.
+
+@End 
+Myrrh: Dame Selena...
+Ephraim: .......General Selena possessed a curious stone. Myrrh, is this the dragonstone you lost?
+Myrrh: Yes, it is. But I'm saddened by its return. My dragonstone is here and yet... My heart is heavy with remorse...
+Ephraim: Myrrh...
+Myrrh: Ephraim, can you tell me why this had to happen? Dame Selena was a good person. She was filled with joy when she spoke of the emperor. Why did Dame Selena have to die? Why did we have to take up arms against her?
+Ephraim: I'm sorry... If I could have convinced her to lay down her arms, I would have. It was simply not possible. I had no choice. She had to die. I know you don't approve, but you must know I have my reasons.
+Myrrh: My apologies... Ephraim, I... I am not seeking to blame you. It's just that...I grieve for her.
+Ephraim: .......
+Myrrh: I ventured out of the forest, chasing after that dark energy. I thought perhaps that I could negate its evil force. Is your cause so different from Selena's? How many good people must die alongside the wicked?
+Ephraim: Myrrh...
+Myrrh: What can we do to end this without any more good people dying?
+Ephraim: I don't have any answer for you. But I will continue on toward the capital, and perhaps I will find one there. I will learn the truth behind this madness.

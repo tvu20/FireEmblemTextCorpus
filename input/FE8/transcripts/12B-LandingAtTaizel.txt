@@ -1,0 +1,80 @@
+@Intro 
+Seth: Prince Ephraim, we've docked in Taizel. There's no sign of enemy troops at this time.
+Ephraim: Understood. Let's move quickly and prepare to go ashore. We've a straight road to the capital from here, but we'll be fighting for every step.
+Seth: Yes, and the fighting will only grow fiercer as we near the capital. If I may, my lord, I'd like to make a suggestion.
+
+Saleh: This is the town, isn't it, Ewan?
+Ewan: Yep. Thanks a lot, Teacher. This is where Marisa is supposed to be. I have to tell her what's going on, or she'll end up working for free.
+Saleh: What happened? I heard there was some mistake, but...
+Ewan: Yeah, the mercenary guild got Marisa mixed up with someone else. I don't know where she was supposed to go, but they sent her here instead. I figured I'd better let her know about the mix-up, right? So what are you going to do now?
+Saleh: I'm heading back to the village. I've looked near and far, but I haven't been able to locate the Lord Dragon. I must report my findings.
+Ewan: Oh, I see...
+Saleh: I'll be going now. Remember what I told you, Ewan...
+Ewan: I know, I know. Don't be reckless with magic.
+
+Ewan: Well, I'd better get going and find Marisa. That looks like a good place to start asking around.
+
+???: Ephraim... From the east...
+
+Ephraim: ...That won't do, Seth. I cannot approve of sending reservists to the front lines.
+Seth: But...the Grado army outnumbers our own by a tremendous amount. We have talented soldiers, but that counts for nothing against those numbers. Currently, we have some ready reservists in the rear, protecting our supply convoy. What good is defending our convoy if it comes at the cost of losing the front? We must abandon our rear guard and strengthen the van, or we've already lost.
+Ephraim: This is enemy territory. We cannot surrender the convoy!
+Seth: But, Prince Ephraim...
+Ephraim: Seth, I know you only want to improve the odds of our success. And I know you only make these suggestions in part to protect me from harm. However, I have no intention of changing my mind in this. I--...Myrrh?
+Myrrh: Oh, pardon...me... I-I... It's nothing.
+Ephraim: Myrrh...
+
+Soldier: Prince Ephraim! It's a trap! The city's crawling with Grado men! We're under attack!
+Seth: Prince Ephraim.
+Ephraim: All troops prepare to fight! To arms!
+
+@Battle 
+Caellach: Soldiers of Grado! You call yourselves warriors? You’re pathetic! Fort Rigwald? You lost it! Your General Duessel? A traitor! Where is the honor of the Grado Imperial Army? It wallows in filth and mud. Is this the ending you envisioned? Is this how you would be remembered? Will you let the bards sing of how you fell to the renegade Ephraim? I think not! Now get up and fight! Kill them all! And bring me Ephraim’s head!
+
+Riev: Heh heh heh... Caellach. Interesting. What are you doing here? You were ordered to loose your dogs of war on Jehanna, were you not?
+Caellach: Keep silent, you decrepit fool. I told you, Jehanna’s under control. My plan is in full effect. All we need do now is wait. You see, Jehanna is an overripe fruit. It’s being devoured by worms from within. We can pluck it anytime we wish.
+Riev: Heh heh heh... Oh, how your plans seem to have gone awry. Even now, Eirika makes her way toward Jehanna. Your perfect fruit has turned to rot while you did nothing. It’s time. You will return to the capital with me.
+Caellach: What?! Are you truly serious, you old goat? Glen... No, it’s that black-hearted Valter... What’s he playing at now?
+Riev: There’s no call for that sort of talk. That one has his uses after all. You can leave the defeat of Ephraim to your subordinates. Oh yes, and you can use the troops I brought with me as well. It will, no doubt, be an interesting battle. Heh heh heh... Let’s go now, Caellach. You wouldn’t want to hurt a certain someone’s feelings, would you?
+Caellach: Bah. What else can I do?
+
+Ephraim: More of those fiends? What’s going on? Their movements… It’s… It’s as though those creatures are cooperating with Grado’s army…
+
+@Visit 
+Man: Ah... I wonder if that dancer will ever come this way again. I don’t know why, but her dances really pepped me up. Even after a hard day’s work, I felt as fresh as if I’d just woken up! It sure would be nice if she would dance for me again someday.
+
+@Recruit-Visit
+Ewan: Er, hello. My name’s Ewan. I’m training to be a sage. I need to find a woman by the name of Marisa. I don’t know where she’s done. If you’ll help me find her, I’ll gladly travel with you. I’m a useful guy to know. In a pinch, I can use the magic I’ve learned so far. So what do you say? Do we have a deal?
+
+@Recruit-Talk 
+%Ewan,Marisa 
+Ewan: There you are, Marisa.
+Marisa: Ewan? What are you doing here?
+Ewan: Marisa, the mercenary guild sent you here, didn’t they? They assigned you to fight under Commander Gerik, right?
+Marisa: That’s right. But the chief’s not here.
+Ewan: I know. It was all a mistake. Your commander’s over there, working on another job. He wants you to join him.
+Marisa: Really? He said that?
+Ewan: Yep.
+Marisa: I’m on my way.
+Ewan: Hey, wait! Wait! Take me with you! This group’s headed east, too. Let’s stick with them for now.
+Marisa: Very well.
+
+@End 
+Seth: The enemy troops have been defeated. We're taking care of the wounded now.
+Ephraim: Understood. We'll rest in this city until we're prepared to advance. Replenish supplies and rest the troops. Remind every soldier that anyone who breaks the city's laws will be severely punished. Anything else?
+Seth: We should prepare defenses along the east in case of assault. The capital's not far, and fresh troops could be here at any time.
+Ephraim: Good point. All right, set up three rotating watches. Then--
+
+Myrrh: ...Pardon me, Ephraim...
+
+Ephraim: Myrrh's gone? Are you sure?
+Seth: Yes, she's been missing since this morning. There are no signs of a struggle. I feel she left of her own accord.
+Ephraim: Where did she go? Didn't anyone see her?
+Seth: One of the guards reports having seen a young lady heading east. He said she seemed unsteady on her feet. It may have been her.
+Ephraim: Prepare to move out. We head east.
+Seth: Prince Ephraim...
+Ephraim: I'm not just acting on emotion, Seth. The capital lies to the east as well.
+Seth: ...
+Ephraim: Seth, you will obey your commander and sovereign, do you hear me? Listen, I know what you said is true. I am king in all but title now. I know I must place my duty as commander above my life as a man. And once I am crowned, I most certainly will do exactly that. However, I am not ready to divorce myself from my compassion just yet. I will find the balance somehow, the means to save my country and her people. That is the king I wish to become, and so that is the man I must be. I need your help in this, Seth.
+Seth: ...I understand, Prince Ephraim. If that is your decision, then I will do my best to assist you.
+Ephraim: I'm counting on it. Please be safe, Myrrh.

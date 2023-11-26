@@ -81,8 +81,8 @@ print("Sample of words used only once:", [x[0] for x in words_least_common])
 
 
 sortedwords = sorted(words, key=len)
-print("Longest dictionary word: %s" % (sortedwords[-1],))
-# print("Longest dictionary word: %s" % (sortedwords[-5:],))
+# print("Longest dictionary word: %s" % (sortedwords[-1],))
+print("Longest dictionary word: %s" % (sortedwords[-5:],))
 print("Longest dictionary word length: %d" % (len(sortedwords[-1])))
 
 avg_word_length = sum(map(len, words))/len(words)

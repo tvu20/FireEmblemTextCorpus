@@ -1,0 +1,92 @@
+@Opening 
+General Duessel tells them of the enigmatic Dark Stone. The product of Grado's research into the dark arts, the Dark Stone possesses power far beyond that of the Sacred Stones. According to the rumors swirling about, Vigarde's descent into madness coincides with the creation of the Dark Stone. Ephraim must confirm the existence of the Dark Stone. He decides to travel to Grado by sea. Midway through their passage, however, an eerie fog begins to form...
+
+@Intro 
+Selena: Your Majesty... I have returned.
+Vigarde: Selena... You coward. Why did you not execute Duessel?
+Selena: Forgive me... It was that Valter...
+Vigarde: Selena. Duessel has betrayed us. He has bent his knee to Ephraim. Are you a traitor, too?
+Selena: Never! I am Your Majesty's vassal. I am yours, body and soul. Your Majesty, please, another chance, I beg you! Any order you see fit to issue, I will complete!
+Vigarde: ......
+Lyon: .......Selena. I have something for you. If I may, Father?
+Vigarde: Yes.
+Selena: What is it, Prince Lyon?
+Lyon: I want you to go to Za'albul Marsh and retrieve something for me. It is a dragonstone, a very special kind of rock.
+Selena: A dragonstone?
+Lyon: That's right. It's very rare. There are only two in the entire world. I've heard rumors of a collector there who has one for sale. It looks like nothing but a common gemstone. I need it for my research. If I have that stone....my... Urg...gaa...
+Selena: My prince, are you all right?
+Lyon: I'm fine. Don't worry about me. Now, please, find me the dragonstone. Will you approve my request, Father?
+Vigarde: Yes. Do as my son asks.
+Selena: Yes, understood. Your Majesty, I...would like to renew my oath of service to you here today. I pledge that I shall never again falter in my duty to you or to Grado. I beg your leave, my lord.
+Lyon: .......
+
+Myrrh: .......
+Ephraim: Is this the first time you've seen the ocean, Myrrh?
+Myrrh: Yes. It's so blue, so vast.
+Ephraim: It is at that. You know, this is my first passage on a ship. I've never appreciated just how enormous the sea is.
+Myrrh: Really? I'd never have guessed you hadn't sailed before. You seem so calm.
+Ephraim: If I'm to lead us, I can't allow any weakness to show through. I must appear competent and capable at all times, you understand?
+Myrrh: Ephraim... Um...
+???: Prince Ephraim.
+Ephraim: Excuse me, Myrrh. We'll have to continue this later.
+Myrrh: Ah, all right.
+
+Ephraim: What is it, Seth?
+Seth: There's a ship following us, just on the edge of the fog. Should I ready the company for battle?
+Ephraim: Is it a Grado vessel?
+Seth: It's hard to say. The fog makes it difficult to see clearly. However, her crew seems not to be...human.
+
+Riev: Heh heh heh... Rise and rage, my precious children of darkness. Ruin the wood and ride the sea! Drown your foes, and devour their flesh! Come celebrate the glorious rebirth of your lord and master, the Demon King! Heh, heh, heh.
+
+@Battle 
+Ephraim: There! The enemy is closing. Prepare for battle!
+
+Ephraim: They've pulled alongside us... Those creatures are trying to board! That's fine--it'll bring 'em within reach of my lance. Push them back! Board their ship and seize the blasted thing!
+
+Ephraim: Another ship!? Stay calm, everyone! We take the fight to them!
+
+L’Arachel: Friends of justice! Allies of righteousness and order! Know that I, L’Arachel, have arrived! Now, I shall purge the seas of this vile vessel of villainy!
+Dozla: Gwah ha ha! Nice alliteration, Princess L’Arachel!
+L’Arachel: ...... Hm? I didn’t hear Rennac’s voice. How very odd. Dozla, where has Rennac run off to this time?
+Dozla: Hmmm... He was with us at mealtime before we boarded, but...
+L’Arachel: That man can be such a distraction. ...Oh well, never mind! Let’s get started destroying these agents of chaos!
+Dozla: Gwah ha ha! Leave it to me!
+
+@Recruit-Talk 
+%Ephraim,L'Arachel
+Ephraim: You are...
+L’Arachel: Fear not, O weary traveler, for I am here to save you! I grant you the favor of my divine aid.
+Ephraim: Who are you? What are you doing here?
+L’Arachel: Ah! Can it be? Do you not know the tales of my deeds? Have you not heard of the beauteous young woman traveling to defeat evil?
+Ephraim: No, I haven’t.
+L’Arachel: Oh...
+Ephraim: What is it?
+L’Arachel: It’s nothing... Please pay me no mind. I just feel a bit like being alone and weeping for a while.
+Ephraim: What? No, you can’t... This is no place for crying. I’m sure you’ve noticed, but we’re under attack by monsters. If you can do anything to help, we would appreciate it.
+L’Arachel: That’s a good idea! I’ll do it. Now, I want you to observe closely my graceful actions!
+
+%L'Arachel,Dozla 
+L’Arachel: Dozla.
+Dozla: Yes? What is it, Princess L’Arachel?
+L’Arachel: We’re going to be working together with those people. I want you to stay close by. Are you ready?
+Dozla: Gwah ha ha! Ready as always!
+
+@End 
+Seth: We've destroyed the remaining monsters. The ship appears to be empty.
+L'Arachel: And once again, the forces of righteousness prevail!
+Ephraim: Thank you. We owe our victory to you.
+L’Arachel: Don't mention it. My name is L'Arachel. I'm on a never-ending quest to defeat evil in the name of virtue and order. Wait... Your face has a certain familiarity. I recently met a young woman who greatly resembles you.
+Ephraim: Do you mean, Eirika? She's my sister.
+L’Arachel: Eirika? Isn't that the name of the princess of Renais? And you have a very regal air about you yourself, don't you?
+Ephraim: My name is Ephraim, Prince of Renais. We're fighting to end Grado's invasion. To be honest...
+
+L’Arachel: Oh my! In that case, I must accompany you.
+Ephraim: Do you understand that we alone are facing all the armies of Grado? We face untold numbers, and our odds of success are embarrassingly small.
+L’Arachel: You clearly do not know who I am. Do not be startled by what I'm about to disclose to you... I am the princess of Rausten, theocracy of the righteous!
+Ephraim: You're the princess of Rausten? Hm. You certainly don't have the bearing of a commoner, but...
+L’Arachel: Ah, of course. My natural nobility gives me away every time. Truth to tell, dire circumstances have led me to begin this journey in secret. Prince Ephraim of Renais, please by assured that Rausten is your ally. Let us stand together against the villainous Grado Empire!
+
+L’Arachel: ...Well, that's that, Dozla. We will now be traveling with Ephraim and his companions.
+Dozla: Gwah ha ha! Understood! For you, Princess L'Arachel, I would dive headlong into a sea of evil! Why, I'd even tie myself up with ropes and chains first!
+L’Arachel: Such fabulous devotion! You are truly my most loyal attendant. Let us be off then.
+Dozla: Gwah ha ha!

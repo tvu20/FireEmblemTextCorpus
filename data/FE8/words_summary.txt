@@ -1,0 +1,37 @@
+Game: FE8
+Number of chapters: 31
+Words per chapter: [2416, 3101, 1162, 1972, 2154, 2459, 2863, 2365, 1771, 1081, 1781, 754, 1334, 2436, 1313, 1716, 2210, 1482, 2616, 1190, 1553, 1660, 2732, 1213, 1597, 1986, 2482, 596, 2817, 2880, 1872]
+Average number of words per chapter: 1921.4193548387098
+Number of words: 59564
+Number of unique words: 4520
+Number of words that only appear once: 2042
+Sample of words used only once: ['devastation', 'mapped', 'ins', 'spotting', 'bowmen', 'preoccupied', 'nailed', 'unnnng', 'scratch', 'foolishly', 'dilemma', 'attract', 'ruckus', 'towns', 'peasant', 'affair', 'leaders', 'petitioned', 'payment', 'peasantry', 'dressed', 'elegance', 'elixir', 'wipe', 'swayed', 'fighters', 'youthe', 'daring', 'fearless', 'impose', 'retired', 'faceless', 'uncaring', 'nobles', 'wifes', 'tougher', 'item', 'openly', 'verge', 'uncivilized', 'solve', 'problems', 'relied', 'agreed', 'complaining', 'complain', 'oops', 'bumped', 'jarred', 'sentimentality']
+Longest dictionary word: misunderstanding
+Longest dictionary word length: 16
+Average word length: 4.097995433483312
+
+Number of words (excluding stopwords): 30291
+Most common words (excluding stopwords): [('im', 347), ('eirika', 326), ('ephraim', 283), ('must', 261), ('prince', 255), ('know', 234), ('grado', 221), ('well', 221), ('lyon', 216), ('youre', 210), ('us', 199), ('dont', 197), ('renais', 190), ('yes', 186), ('would', 179), ('princess', 165), ('right', 165), ('like', 156), ('ive', 152), ('see', 152), ('king', 149), ('one', 149), ('sacred', 145), ('stone', 145), ('thats', 144), ('heh', 144), ('go', 139), ('please', 131), ('time', 128), ('brother', 126), ('father', 122), ('ill', 122), ('oh', 120), ('take', 120), ('ha', 119), ('come', 116), ('way', 113), ('demon', 110), ('could', 108), ('want', 107), ('tell', 102), ('nothing', 99), ('never', 99), ('think', 97), ('need', 90), ('get', 89), ('cant', 88), ('going', 88), ('lets', 85), ('stones', 83)]
+
+Longest sentence length: 31
+Average sentence length: 5.592847830135966
+Longest sentence: The relics must never leave the temple, with the sole exception of the occasional ascension ceremony, but I think that, when the world needs saving, we can make the odd exception.
+
+length,words,unique words
+1,2794,23
+2,10908,64
+3,12755,201
+4,12812,568
+5,6831,738
+6,5611,780
+7,3934,777
+8,2080,587
+9,1015,367
+10,472,209
+11,219,114
+12,63,50
+13,40,25
+14,24,11
+15,4,4
+16,1,1
+19,1,1

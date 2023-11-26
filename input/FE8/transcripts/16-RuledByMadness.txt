@@ -45,10 +45,45 @@ Riev: Heh heh heh! He believes that thing is his wife! Aren’t people amusing?
 Lyon: Urr? Why? This terrible? Uh! Urr? gaa? Ahh
 Riev: Oh my, your nasty little illness rearing its ugly little head again? There’s no need to worry. The pain will pass shortly. Leave everything to your humble servant, Riev. Heh heh heh!
 
+Fighter: Huh? Who do you think you are? These are the chambers of Orson, steward of Renais. There's no place here for a street urchin like you, boy.
+Soldier: You... You fool! This is Prince Lyon!
+Fighter: What? This whelp is... I-I beg your forgiveness!
+Lyon: ...... It's all right. I'm not sort of person others hold in esteem...
+
+Fighter: ...Who in the world is that? What a creepy-looking man.
+Soldier: Shh... He can hear you.
+Fighter: You want to talk about creepy, that Orson's the one who chills my hide. What do you think he's doing back there? I've heard a lot of bizarre rumors from the master of the mess hall. ...Do you think he needs help? Could he be dangerous?
+Soldier: I don't care. I'm here for the money. As long as I get paid, I'm happy. But on the subject of rumors, have you heard the stories of the secret treasure? There's supposed to be some fabulous wealth hidden in Castle Renais. I tell you, if I find it, I'm gone.
+
+Orson: What is it, Monica? You seem so happy today. Of COURSE I know what today is. I'd never forget your birthday! I have a present for you, dear. I think you'll like it...
+Lyon: Orson.
+Orson: ......
+Lyon: Do you still recognize me, Orson, or are you entirely lost to this world? Yes, it's me, Prince Lyon. I'm the one to whom you are indebted for resurrecting your beloved wife.
+Orson: ...Get out. This is Monica and my place.[sic] I will not have our home disturbed by anyone. I did as you asked. I betrayed Renais. My promise has been kept.
+Lyon: Yes, and I'm very grateful to you. I came by today to offer you a piece of advice. Nothing more. Ephraim is coming, Orson. He's on his way here to steal the happiness you two share.
+Orson: Prince Ephraim?
+Lyon: That's right, Orson. And he's angry. I don't think he'll forgive you for betraying Renais. You've done so much to free your wife from the grave. It's a shame she'll die with you.
+Orson: No! That can't happen--
+Lyon: That's all I have to say to you. What you do now is up to you.
+
 @Boss 
 Orson: ...I won’t let you come between us. Monica and I will live here happily together. Forever...
  
 Orson: Monica...
+
+%Eirika,Orson
+Eirika: Orson... Why would you betray us?
+Orson: ...Princess Eirika. If anyone could understand my feelings, it might be you. For the one I love... I betrayed everything. My country, my lord and master... Everything...
+
+%Ephraim,Orson 
+Orson: Prince Ephraim... You never did know when to quit. Renais is already lost. It's too late...
+Ephraim: Orson... You will move from that place. That is my father's seat. It is his throne... You've no right to sit there.
+
+%Seth,Orson
+Orson: Seth... So you've come, have you?
+Seth: Sir Orson.
+Orson: You're an impressive knight, Seth. You would sacrifice your life for king and country. Not even a moment's pause. It's a pitiful, unrewarding life, through and through.
+Seth: It is my charge. It is my hope. Sir Orson... Prepare yourself.
 
 @End 
 Seth: Prince Ephraim, Princess Eirika. The castle has been secured. And...
@@ -112,8 +147,13 @@ Ephraim: So this is one of our Sacred Twin relics, is it? I’ve never seen them
 Seth: And this blade is sister to the lance, the other Sacred Twin of legend. Princess Eirika, if you would?
 Eirika: Of course. There’s a name carved here as well. Sieglinde, the Thunder Blade...
  
+^start
 Eirika: These are the ancient weapons of our ancestors–the weapons of heroes. They were enshrined generations ago, to be used only by the king... and only in times of dire need. Such an awful power they possess, and yet we need them to restore peace. I’ve seen enough of the horrors of war, but I can’t turn my back on it. If we merely turn our eyes away, we surrender our world to atrocity. And so, I must fight. I’ll do whatever I must do to bring back the peace we once knew.
+
+Ephraim: These are the ancient weapons of our forefathers--the weapons of heroes. They were enshrined generations ago, to be used only by the king... I don't know if this is a burden I'm capable of bearing... but I do know that this is no time to curse my fate. I will fight. For my father, for my country, and for my people.
+^end
  
+^start
 L’Arachel: What is happening? Have you found the Sacred Stone?
 Eirika: Yes. Here it is...
 L’Arachel: Wow! It truly is spectacular. This goes some way to brighten the dark shadows that loom over us.
@@ -121,3 +161,12 @@ Innes: Our countries? Sacred Stones have been shattered by Grado’s men. The St
 L’Arachel: No, it’s not. You have forgotten the stone of my beloved Rausten. Remember, there were five Sacred Stones for our five nations. The Stones of Grado, Frelia, and Jehanna are gone, but hope is not. We have the Stone of Renais, after all, and that of Rausten is safe. Our road is clear, my friends. I must guide you to Rausten.
 Eirika: You’re right. L’Arachel, we’re counting on you to lead the way.
 L’Arachel: Of course. And you will all be welcome to stay in the palace. And, Eirika, you shall be my guest in my own private quarters! Let us be on our way.
+
+L'Arachel: What is happening? Have you found the Sacred Stone?
+Ephraim: We've found it. Here it is.
+L'Arachel: Wow! It truly is spectacular. This goes some way to brighten the dark shadows that loom over us.
+Innes: Our countries' Sacred Stones have been shattered by Grado's men. The Stone of Renais is our last remaining weapon.
+L'Arachel: No, it's not. You have forgotten the Stone of my beloved Rausten. Remember, there were five Sacred Stones for our five nations. The stones of Grado, Frelia and Jehanna are gone, but hope is not. We have the Stone of Renais, after all, and that of Rausten is safe. Our road is clear, my friends. I must guide you to Rausten.
+Ephraim: Lead the way, L'Arachel.
+L'Arachel: Of course. And you will all be welcome to stay in the palace.
+^end

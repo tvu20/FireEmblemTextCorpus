@@ -12,7 +12,9 @@ import sys
 
 # games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE11", "FE12/BookTwo", "FE15"]
 
-games = ["FE16/Paralogues", "FE14/Paralogues", "FE13/Paralogues"]
+# games = ["FE16/Paralogues", "FE14/Paralogues", "FE13/Paralogues"]
+
+games = ["FE8"]
 
 # ----------------------------------
 # DIALOGUE PARSER
