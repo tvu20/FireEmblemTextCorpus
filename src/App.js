@@ -9,11 +9,7 @@ import { GAMES_SO_FAR } from "./games";
 const App = () => {
   const listGames = () => {
     return GAMES_SO_FAR.map((game) => {
-      return (
-        <li key={game}>
-          {game} {game === "FE8" ? "(incomplete)" : ""}
-        </li>
-      );
+      return <li key={game}>{game}</li>;
     });
   };
 
@@ -49,7 +45,43 @@ const App = () => {
         </a>
       </p>
 
+      <h3>Social Media</h3>
+      <p>Updates on the ideation process and WIP art!</p>
+      <ul>
+        <li>
+          Bluesky:{" "}
+          <a
+            href="https://bsky.app/profile/fireemblemviz.bsky.social"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @fireemblemviz
+          </a>
+        </li>
+        <li>
+          Blogger:{" "}
+          <a
+            href="https://fireemblem-viz.blogspot.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @fireemblem-viz
+          </a>
+        </li>
+        <li>
+          Tumblr{" "}
+          <a
+            href="https://fireemblem-viz.tumblr.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @fireemblem-viz
+          </a>
+        </li>
+      </ul>
+
       <h2>Games so far:</h2>
+      <p>Scripts for all games have now been compiled!</p>
       <ul>{listGames()}</ul>
 
       <Inputs />

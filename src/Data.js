@@ -68,6 +68,21 @@ const Data = () => {
         <li>fear</li>
         <li>surprise</li>
       </ul>
+      Some notes about labeling emotions:
+      <ul>
+        <li>
+          joy includes statements with personal attachment, drive, fulfillment,
+          agreement
+        </li>
+        <li>
+          anger includes exclamatory statements with intent to harm or stand
+          against someone
+        </li>
+        <li>
+          fear includes statements with caution, initiating or pointing it out
+        </li>
+        <li>sadness includes being apologetic</li>
+      </ul>
     </>
   );
 };
