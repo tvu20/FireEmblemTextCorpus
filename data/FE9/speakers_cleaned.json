@@ -36,7 +36,7 @@
     { "name": "Astrid", "gender": "F", "group": 7 },
     { "name": "Devdan", "gender": "M", "group": 7 },
     { "name": "Tormod", "gender": "M", "group": 7 },
-    { "name": "Muarim", "gender": "", "group": 3 },
+    { "name": "Muarim", "gender": "M", "group": 3 },
     { "name": "Stefan", "gender": "M", "group": 7 },
     { "name": "Leanne", "gender": "F", "group": 6 },
     { "name": "Reyson", "gender": "M", "group": 6 },
