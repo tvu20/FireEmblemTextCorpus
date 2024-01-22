@@ -41,7 +41,8 @@
     { "id": "Isadora", "gender": "F" },
     { "id": "Legault", "gender": "M" },
     { "id": "Karla", "gender": "F" },
-    { "id": "Harken", "gender": "M" }
+    { "id": "Harken", "gender": "M" },
+    { "id": "Nils", "gender": "M" }
   ],
   "links": [
     { "source": "Eliwood", "target": "Fiora" },
