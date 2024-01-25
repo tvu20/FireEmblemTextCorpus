@@ -266,5 +266,6 @@
     "Bandit 2": 1,
     "Robarts": 1,
     "Astolfo": 1
-  }
+  },
+  "genderCounts": { "F": 1014, "": 771, "M": 2250 }
 }

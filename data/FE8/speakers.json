@@ -37,7 +37,7 @@
     { "name": "Tethys", "gender": "F" },
     { "name": "Pablo", "gender": "" },
     { "name": "Man", "gender": "" },
-    { "name": "Klimt", "gender": "" },
+    { "name": "Klimt", "gender": "M" },
     { "name": "Marisa", "gender": "F" },
     { "name": "Young Lady", "gender": "" },
     { "name": "Young Man", "gender": "" },
@@ -198,5 +198,6 @@
     "Boy": 1,
     "Ephraim (Off-Screen)": 1,
     "O\u2019Neill": 1
-  }
+  },
+  "genderCounts": { "M": 1919, "F": 1122, "": 575 }
 }
