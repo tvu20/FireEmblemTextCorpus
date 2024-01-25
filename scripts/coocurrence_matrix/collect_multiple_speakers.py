@@ -1,9 +1,11 @@
 import os
 import json
 
-files = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
+files = ["FE14/Main", "FE14/Paralogues"]
 
-output_path = os.path.join(os.getcwd(), "data", "FE16", "speakers.json")
+# files = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
+
+output_path = os.path.join(os.getcwd(), "data", "FE14", "speakers.json")
 
 input_path = os.path.join(os.getcwd(), "data")
 
@@ -12,7 +14,8 @@ names = []
 
 file_content = {
     "descriptions": [],
-    "counts": {}
+    "counts": {},
+    "genderCounts": {}
 }
 
 print("collating multiple speakers")
@@ -38,6 +41,12 @@ for file_path in files:
                 file_content["counts"][character_name] += input["counts"][character_name]
 
                 # file_content.descriptions.append(item)
+
+        for gender_tag in input["genderCounts"]:
+            if gender_tag not in file_content["genderCounts"]:
+                file_content["genderCounts"][gender_tag] = 0
+
+            file_content["genderCounts"][gender_tag] += input["genderCounts"][gender_tag]
 
 
 with open(output_path, "w+") as f:
