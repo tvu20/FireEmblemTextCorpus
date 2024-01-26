@@ -1,11 +1,11 @@
 import os
 import json
 
-files = ["FE14/Main", "FE14/Paralogues"]
+files = ["FE3/BookOne", "FE3/BookTwo"]
 
 # files = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
 
-output_path = os.path.join(os.getcwd(), "data", "FE14", "speakers.json")
+output_path = os.path.join(os.getcwd(), "data", "FE3", "speakers.json")
 
 input_path = os.path.join(os.getcwd(), "data")
 

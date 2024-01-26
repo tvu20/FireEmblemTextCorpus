@@ -1,4 +1,4 @@
-# this file generates a list of counts for each gender speaking per game
+# this file generates a list of line counts for each gender speaking per game
 
 import os
 import json
