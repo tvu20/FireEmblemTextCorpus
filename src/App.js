@@ -80,6 +80,9 @@ const App = () => {
         </li>
       </ul>
 
+      <h2>Deployment instructions:</h2>
+      <p>Build changes, then push to github, then run deploy command</p>
+
       <h2>Games so far:</h2>
       <p>Scripts for all games have now been compiled!</p>
       <ul>{listGames()}</ul>
