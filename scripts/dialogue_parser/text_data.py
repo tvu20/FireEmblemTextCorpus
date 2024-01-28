@@ -7,11 +7,13 @@ import glob
 
 # games = ["FE16/AzureMoon", "FE16/CrimsonFlower", "FE16/SilverSnow", "FE16/VerdantWind", "FE16/WhiteClouds"]
 
-games = ["FE8"]
+# games = ["FE8"]
 
 # games = ["FE3/BookOne", "FE3/BookTwo", "FE12/BookTwo"]
 
 # games = ["FE1", "FE2", "FE3/BookOne", "FE3/BookTwo", "FE11", "FE12/BookTwo", "FE15"]
+
+games = ["FE13/Paralogues", "FE14/Paralogues"]
 
 game_path_base = os.path.join(os.getcwd(), "input")
 
@@ -31,7 +33,7 @@ for title in games:
 
     output_file = open(os.path.join(output_path, title + ".csv"), 'w+')
 
-    writer = csv.writer(output_file, quoting=csv.QUOTE_NONE, delimiter='|', quotechar='')
+    writer = csv.writer(output_file, quoting=csv.QUOTE_NONE, delimiter='|', quotechar='', escapechar='\\')
 
     writer.writerow(["game", "chapter", "speaker", "text", "tag"])
 
