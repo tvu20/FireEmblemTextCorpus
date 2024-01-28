@@ -1,4 +1,4 @@
-# this file generates a list of nodes based on character names. places output in links.json
+# this file generates a list of links representing different character pairings, including relationship tag. places output in links.json
 
 import os
 import json

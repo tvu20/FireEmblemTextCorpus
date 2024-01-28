@@ -45,6 +45,26 @@ const Scripts = () => {
       <li>
         <i>words.py</i>: generates words data
       </li>
+      <li>
+        <i>gender/get_character_counts.py</i>: generates a list of characters
+        for each gender per game
+      </li>
+      <li>
+        <i>gender/get_gender_counts.py</i>: generates a list of line counts for
+        each gender speaking per game
+      </li>
+      <li>
+        <i>social_networks/get_nodes.py</i>: generates a list of nodes based on
+        character names
+      </li>
+      <li>
+        <i>social_networks/get_links_list.py</i>: generates a list of links
+        based on a list of pairings in the form person1, person2
+      </li>
+      <li>
+        <i>social_networks/get_links_pairings.py</i>: generates a list of links
+        representing different character pairings, including relationship tag
+      </li>
       <h3>Prerequisites:</h3>
       <p>
         Every game must have a pre-made directory. In this directory must be a
