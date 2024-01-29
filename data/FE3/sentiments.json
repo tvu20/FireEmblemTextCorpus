@@ -1,0 +1,58 @@
+{
+  "BookOne": {
+    "01-MarthEmbarks": { "positive": 2, "negative": 9, "neutral": 2 },
+    "02-ThePiratesOfGalder": { "positive": 1, "negative": 7, "neutral": 5 },
+    "03-ABrushInTheTeeth": { "positive": 1, "negative": 14, "neutral": 1 },
+    "04-ChampionsOfAurelis": { "positive": 4, "negative": 12, "neutral": 11 },
+    "05-FireEmblem": { "positive": 11, "negative": 11, "neutral": 2 },
+    "06-LefcandithGauntlet": { "positive": 0, "negative": 8, "neutral": 3 },
+    "07-PortWarren": { "positive": 0, "negative": 6, "neutral": 2 },
+    "08-PrincessMinerva": { "positive": 2, "negative": 11, "neutral": 8 },
+    "09-KnordaMarket": { "positive": 4, "negative": 11, "neutral": 6 },
+    "10-TheAgelessPalace": { "positive": 2, "negative": 8, "neutral": 1 },
+    "11-LandOfSorrow": { "positive": 7, "negative": 10, "neutral": 13 },
+    "12-AnOasisOfMagic": { "positive": 0, "negative": 5, "neutral": 1 },
+    "13-TheBattleForAltea": { "positive": 4, "negative": 7, "neutral": 5 },
+    "14-StarAndSavior": { "positive": 1, "negative": 3, "neutral": 0 },
+    "15-ManaketePrincess": { "positive": 1, "negative": 10, "neutral": 2 },
+    "16-CamusTheSable": { "positive": 3, "negative": 15, "neutral": 2 },
+    "17-AKnightFilledSky": { "positive": 1, "negative": 10, "neutral": 3 },
+    "18-DarkPontifex": { "positive": 3, "negative": 3, "neutral": 0 },
+    "19-TheDragonkinRealm": { "positive": 1, "negative": 5, "neutral": 6 },
+    "20-ChosenByFate": { "positive": 4, "negative": 6, "neutral": 7 }
+  },
+  "BookTwo": {
+    "01-TheGrustianExpedition": {
+      "positive": 8,
+      "negative": 44,
+      "neutral": 17
+    },
+    "02-RebellionAtMacedon": { "positive": 6, "negative": 16, "neutral": 10 },
+    "03-TheAbductedPrincess": { "positive": 7, "negative": 30, "neutral": 11 },
+    "04-JoyAndSorrow": { "positive": 10, "negative": 25, "neutral": 11 },
+    "05-LiberationOfGrust": { "positive": 4, "negative": 15, "neutral": 7 },
+    "06-TheNestOfVice": { "positive": 8, "negative": 14, "neutral": 10 },
+    "07-TheScarletSwordsman": { "positive": 2, "negative": 16, "neutral": 9 },
+    "08-SoulfulBridge": { "positive": 9, "negative": 15, "neutral": 12 },
+    "09-SanctuaryOfSorcery": { "positive": 4, "negative": 13, "neutral": 14 },
+    "10-TwoSorcerors": { "positive": 3, "negative": 15, "neutral": 10 },
+    "11-Anri'sWay": { "positive": 5, "negative": 3, "neutral": 9 },
+    "12-GraveyardOfFireDragons": {
+      "positive": 1,
+      "negative": 6,
+      "neutral": 12
+    },
+    "13-FrozenLand": { "positive": 3, "negative": 2, "neutral": 13 },
+    "14-AMysteryRevealed": { "positive": 8, "negative": 17, "neutral": 19 },
+    "15-ReturnOfThePrince": { "positive": 4, "negative": 15, "neutral": 10 },
+    "16-ReclaimingTheCapital": { "positive": 2, "negative": 14, "neutral": 13 },
+    "17-Gra'sSunSets": { "positive": 5, "negative": 20, "neutral": 7 },
+    "18-BattleOfThePass": { "positive": 1, "negative": 15, "neutral": 6 },
+    "19-TheFinalBattle": { "positive": 2, "negative": 16, "neutral": 5 },
+    "20-DarkEmperor": { "positive": 14, "negative": 18, "neutral": 2 },
+    "21-TheWyvern'sDale": { "positive": 1, "negative": 11, "neutral": 9 },
+    "22-TheDragon'sAltar1": { "positive": 0, "negative": 6, "neutral": 0 },
+    "22-TheDragon'sAltar2": { "positive": 1, "negative": 4, "neutral": 1 },
+    "22-TheDragon'sAltar3": { "positive": 11, "negative": 38, "neutral": 13 }
+  }
+}

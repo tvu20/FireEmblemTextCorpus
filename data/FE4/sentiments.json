@@ -1,0 +1,31 @@
+{
+  "00-PrologueBirthOfACrusader": {
+    "positive": 29,
+    "negative": 64,
+    "neutral": 46
+  },
+  "01-TheSpiritForestsMaiden": {
+    "positive": 43,
+    "negative": 119,
+    "neutral": 69
+  },
+  "02-CrisisInAgustria": { "positive": 48, "negative": 127, "neutral": 86 },
+  "03-EldiganTheLionheart": { "positive": 36, "negative": 119, "neutral": 85 },
+  "04-DanceInTheSkies": { "positive": 75, "negative": 109, "neutral": 93 },
+  "05-ThresholdOfFate": { "positive": 84, "negative": 205, "neutral": 124 },
+  "06-HeirsOfLight": { "positive": 74, "negative": 121, "neutral": 92 },
+  "07-BeyondTheDesert": { "positive": 60, "negative": 148, "neutral": 105 },
+  "08-TheDracoknightsOfThracia": {
+    "positive": 50,
+    "negative": 127,
+    "neutral": 89
+  },
+  "09-ForWhoseSake": { "positive": 55, "negative": 156, "neutral": 104 },
+  "10-LightAndDarkness": { "positive": 58, "negative": 139, "neutral": 111 },
+  "11-EndgameTheFinalHolyWar": {
+    "positive": 89,
+    "negative": 148,
+    "neutral": 140
+  },
+  "XX-Epilogue": { "positive": 176, "negative": 136, "neutral": 287 }
+}

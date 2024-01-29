@@ -1,0 +1,19 @@
+{
+  "00-Prologue": { "positive": 23, "negative": 81, "neutral": 67 },
+  "01-Zofia'sCall": { "positive": 92, "negative": 214, "neutral": 207 },
+  "02-ThePilgrimage": { "positive": 40, "negative": 135, "neutral": 91 },
+  "03-WarOfDeliveranceAlm": { "positive": 43, "negative": 144, "neutral": 129 },
+  "03-WarOfDeliveranceCelica": {
+    "positive": 54,
+    "negative": 125,
+    "neutral": 97
+  },
+  "03-WarOfDeliverancePrologue": {
+    "positive": 11,
+    "negative": 33,
+    "neutral": 31
+  },
+  "04-LandOfSorrowAlm": { "positive": 50, "negative": 163, "neutral": 122 },
+  "04-LandOfSorrowCelica": { "positive": 32, "negative": 116, "neutral": 98 },
+  "05-TogetherToTheEnd": { "positive": 38, "negative": 183, "neutral": 105 }
+}

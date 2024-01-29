@@ -1,0 +1,999 @@
+game,chapter,speaker,text,tag
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Phew! I've been marching along for what seems forever and a day. But it's not much farther until I reach Nohr. I hope Father is glad to see me. But the closer I get, the more enemies I see. Is trouble everywhere here? I hope I'm able to reach him. I'll be fine. I'll be fine. Just need to keep telling myself that. I'm not a child anymore.",negative
+FE14Paralogues,P17-TwoDefenders,Child,Help! Help me! Please!,negative
+FE14Paralogues,P17-TwoDefenders,Ignatius,What's wrong? You look as if devils have been at your back!,negative
+FE14Paralogues,P17-TwoDefenders,Old Woman,"Oh, worse! Far worse! Devils we could fight! Our village is about to be invaded by enemies that go unseen!",negative
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Invisible enemies? Oh, no! What will you do? I mean, what can I do? I am Ignatius, son of Benny, one of Nohr's most formidable knights. You can have...confidence in me.  All right, you two run past. I'll stand my ground here and fight them off. I swear that I won't let them inside. But summon more help, if you can.",negative
+FE14Paralogues,P17-TwoDefenders,Old Woman,"What?! But they'll be here soon. By the time we find help, you'll be dead!",negative
+FE14Paralogues,P17-TwoDefenders,Ignatius,"No. I'll be right here, fighting. But go NOW.",negative
+FE14Paralogues,P17-TwoDefenders,Old Woman,"Yes, yes. Of course.",neutral
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Stay calm. Stay CALM. Deep breath. Now another. I'll be fine. I'll be FINE. I've got my silly little charm, after all. That's always kept me safe. Best present Father ever gave me.",positive
+FE14Paralogues,P17-TwoDefenders,Old Woman,"Oh! You! Burly fellow! We need your help! Our village is about to be attacked! Some brave soul is standing guard alone to fight them off. He may be a knight, and he's got the courage of 10 men. But he'll be a goner! And then...our village will be wide open to those fiends.",negative
+FE14Paralogues,P17-TwoDefenders,Benny,What's that? Who was he?,neutral
+FE14Paralogues,P17-TwoDefenders,Child,We don't know. He said his name was Ignatius. I think he was scared. But he didn't want to show it.,negative
+FE14Paralogues,P17-TwoDefenders,Benny,"Ignatius, you say?!",neutral
+FE14Paralogues,P17-TwoDefenders,Child,Yes. Said he was son of someone... Flenny? Denny? Penny? Some knight of Nohr.,neutral
+FE14Paralogues,P17-TwoDefenders,Benny,"No doubt. It's him. What's he doing putting himself at risk? He should have run too! I'm coming, Son. Oh, yes, and with the vengeance of ten thousand men!",negative
+FE14Paralogues,P17-TwoDefenders,Benny,Have no fear! Dad is here!,negative
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Don't come any closer! I swear, I'll cut you where you stand, you big oaf! You are NOT getting inside this village!",negative
+FE14Paralogues,P17-TwoDefenders,Benny,"Um, whoa. It's me, Son. You know, me, Dad.",neutral
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Father! Sorry, I... I didn't know you were here fighting too.",negative
+FE14Paralogues,P17-TwoDefenders,Benny,"Ah, of course, Son. Came running as soon as I heard you were in trouble. I'm going to make all their heads roll—far, far away. Where they can't hurt you. Please now. Step back. Dad's going to fix all this.",negative
+FE14Paralogues,P17-TwoDefenders,Ignatius,"I won't, Father. I can't.",negative
+FE14Paralogues,P17-TwoDefenders,Benny,Hmm? Can't?,neutral
+FE14Paralogues,P17-TwoDefenders,Ignatius,I...I can help. I must. It's time that I do my part. I can't be scared. You've protected me for so long. Now I must do the protecting.,negative
+FE14Paralogues,P17-TwoDefenders,Benny,"Has my little boy grown up? Already? Ignatius, are you sure you want to join your dad on the field of battle?",neutral
+FE14Paralogues,P17-TwoDefenders,Ignatius,Yes. It would be my honor. Let us defend this village...together.,positive
+FE14Paralogues,P17-TwoDefenders,Benny,"You impress me, Son. You've developed great strength.",positive
+FE14Paralogues,P17-TwoDefenders,Ignatius,"What do you mean by that? I'm...not strong. I would have died had you not come to my rescue, Father. I'm a damned shame, standing beside someone as formidable as you.",negative
+FE14Paralogues,P17-TwoDefenders,Benny,"Ignatius, no!",negative
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Father, as long as I'm at it, I need to speak my piece.",neutral
+FE14Paralogues,P17-TwoDefenders,Benny,"Hmm? Please, Son. There's no need.",neutral
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Yes, there is. You've got to let me join your forces. I will never be the man you are unless I get the right kind of training. Or else I'll never be anything but a lily-livered fool.",positive
+FE14Paralogues,P17-TwoDefenders,Benny,"But, Son, you're still so—",neutral
+FE14Paralogues,P17-TwoDefenders,Ignatius,"I'll help you, Father! I swear I can. You've kept me so well protected in the Deeprealms. But I must learn to give protection. I can't hide behind my father forever!",negative
+FE14Paralogues,P17-TwoDefenders,Benny,"... Ah, all right. I'll agree, Ignatius. But only to show you what your dad's life as a knight is really like. I am not half as brave as you think. I just have a taste for war.",positive
+FE14Paralogues,P17-TwoDefenders,Ignatius,"Thank you, Father. I won't let you down. One day, I will be a great hero like you. I'll work hard. I'll pay attention. I want to be just like you, Father.",positive
+FE14Paralogues,P17-TwoDefenders,Benny,"Is that so? No need for that, Son. I'm proud of you just as you are.",positive
+FE14Paralogues,P07-FatherAndLiege,Ryoma,Unbelievable...,negative
+FE14Paralogues,P07-FatherAndLiege,Takumi,"Brother, what's wrong?",negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"It can't be, yet I've gotten word that my son is missing from the Deeprealms.",negative
+FE14Paralogues,P07-FatherAndLiege,Takumi,What?! Shiro's missing?,negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"He's left of his own accord, but he's never been here before. I haven't prepared Shiro for what he must know about our world.",negative
+FE14Paralogues,P07-FatherAndLiege,Takumi,We need to find him! I'll alert the others at once.,neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,Thank you. Shiro has no idea what sort of danger he's in here.,negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,"Hmm... So THIS is the world that has been kept a secret from me? Pretty dull, if you ask me. Maybe if I can find this Hoshido palace then it'll all make sense. From what I overheard back home, my dad is a bigger deal here than I thought. What's he called again? Big Cheese of Hoshido? Which would make me... I dunno. Little Cheese? I must be some kind of royalty though. I always knew Dad was a major deal. But, royalty?! I still can't believe it.",negative
+FE14Paralogues,P07-FatherAndLiege,Tarba,"Wait up, fancy britches. What brings you all the way out here?",neutral
+FE14Paralogues,P07-FatherAndLiege,Shiro,What? None of your business.,neutral
+FE14Paralogues,P07-FatherAndLiege,Tarba,"You're not welcome here. Now I'll forget that I ever saw you. Long as you hand over your weapons and armor, that is. Refuse, and you won't walk outta here alive.",negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,You ready for this? I doubt it. Fine then. Take your best shot.,neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"Over there, that's...that's Shiro!",neutral
+FE14Paralogues,P07-FatherAndLiege,Takumi,Come on! He's surrounded—there's no way he can fight them all off!,negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"Shiro, you shouldn't be here.",negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,Dad! Or should I say...Big Cheese of Hoshido?,neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,We can discuss that another time. Leave here now. I'll take care of this.,neutral
+FE14Paralogues,P07-FatherAndLiege,Shiro,"Ha, really? When the party's just getting started? Hey, also, you big liar, where are all the monsters you said were here? These guys are just...well, guys. Hardly a match for me.",negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"Don't be a fool, Shiro. I haven't prepared you for a place in my world. That includes knowing how to handle yourself on the battlefield!",negative
+FE14Paralogues,P07-FatherAndLiege,Tarba,"Hand over whatcha got, and I swear that you'll walk outta here alive. Bah! Who am I kidding? I'm gonna sell all you got, right down to your bones!",negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"Shiro, you have disobeyed me for the last time. And you will show me respect—or I will show you how I deal with utter fools.",negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,How can you call me that?!,neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,I didn't raise you to be this irresponsible.,negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,"Dad, want a reality check? You didn't raise me at all.",neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"What? I did what I had to. I have the weight of the world on my shoulders, Son. I put you somewhere that was safe from our family's enemies. What was all this anyway? Some sort of adventure? Had you been slain, don't you know that all of Hoshido would grieve you?",negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,Hoshido? Then it's true.,positive
+FE14Paralogues,P07-FatherAndLiege,Ryoma,Tell me who told you. Your caretakers were under strict orders of secrecy.,neutral
+FE14Paralogues,P07-FatherAndLiege,Shiro,What?! No one. Everyone kept your secret. But you really are...?,negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,That's right. I am the royal head of a kingdom known as Hoshido. A kingdom that you will rule one day. If you survive so long.,neutral
+FE14Paralogues,P07-FatherAndLiege,Shiro,How could you keep this secret from me?! Didn't you think I have a right to know?,negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"I'm sorry. I had my reasons initially. And then later... Well, the truth is that you haven't been maturing the role.",negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,"That's not right. If you'd only told me, I would have taken things more seriously. How else was I supposed to turn out, being treated like I'm special for no good reason! This battle has been the only moment of truth in my whole damned life. I don't mean your confession here. I mean seeing all this...death. I can barely stop my hands from shaking. I was trained to fight. Not to kill. You...you should have prepared me for this sort of life.",negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"I see... Yes, I suppose I should have. But now that we're here, answer me this. From what you've seen of me today, what do you think your father's power is for?",neutral
+FE14Paralogues,P07-FatherAndLiege,Shiro,"Huh, your power? To leave the field bloodied with your enemies?",negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,No. Is that really what you saw here? What we ALL achieved here?,neutral
+FE14Paralogues,P07-FatherAndLiege,Shiro,No. I guess not. Those guys wanted to bloody the field with us.,negative
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"Yes. They abused their power. You and I had to stop them. All lives are sacred. Even theirs. And so, taking their lives is a serious decision. But it had to be done, for the sake of OUR way of life. I falls to me, and one day to you, to bear that heavy responsibility.",negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,"Still, you didn't prepare me for this...",neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"Shiro, I'll prepare you now, if you're truly ready to join my side. Now that you know who I really am, you can decide to be who YOU really are.",positive
+FE14Paralogues,P07-FatherAndLiege,Shiro,Are you sure you want me around?,neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"Sure, if you're sure. But remember that I'm more than your father. I'll warn you—speak to anyone in our family, and they'll tell you about me. I'm as strict as they come. Some even say I'm severe. But it's all for Hoshido.",negative
+FE14Paralogues,P07-FatherAndLiege,Shiro,"I'll do my best! Er, not that I have a clue what I'm up against.",neutral
+FE14Paralogues,P07-FatherAndLiege,Ryoma,"We stand together then. Now, I make you this vow, Son. No more secrets. I need to prepare you fully to fill my role...in due time.",negative
+FE14Paralogues,P08-AGreatHunt,Takumi,"Weird. Where's my son gone to? Damn his Deeprealm for being so big. I know I can't expect Kiragi to stay in his village all the time. But I thought at least he'd be out here, hunting or fishing. Somewhere.",negative
+FE14Paralogues,P08-AGreatHunt,Sakura,Big Brother! Come quick! Those creepy soldiers have followed us here.,negative
+FE14Paralogues,P08-AGreatHunt,Takumi,Which ones? The really creepy soldiers?! Ugh. Of all the times... Kiragi might be here too!,negative
+FE14Paralogues,P08-AGreatHunt,Sakura,What shall we do? They're coming towards us!,neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,Come on! We go to THEM!,negative
+FE14Paralogues,P08-AGreatHunt,Kiragi,"What a day. Those fish pretty much jumped into my bucket! And then this bear - couldn't have been an easier target! Wish I'd bagged him a little closer to town. Too big to lug outta here. Too big to roll home too. Hmm. Gotta be some way... Er, hold on. What's that? Something lumbering around the forest... HELLO? Hmm, nothing. Eh, no way that's a person anyway. Too freaky. Whatever it is, it'll make a great trophy for my wall! All right. Fly straight and true, little arrow buddy. Ready, aim... FIRE!",negative
+FE14Paralogues,P08-AGreatHunt,Kiragi,"That was a good one! Right between the... Uh, whoa. Hang on.",positive
+FE14Paralogues,P08-AGreatHunt,Invader,...,neutral
+FE14Paralogues,P08-AGreatHunt,Kiragi,"Uh-oh. Oopsies. Sorry 'bout that. But you really shoulda answered back. Looks like you brought friends too. Not very chatty, are ya? And call me crazy, but I'd swear you're all surrounding me. Yeah? No biggie. I've got the bow my dad gave me. Let's call this target practice!",negative
+FE14Paralogues,P08-AGreatHunt,Sakura,"Th-there's Kiragi! What's your son doing, taking on those soldiers by himself?!",neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,"HANG ON, KIRAGI! DAD'S ON THE WAY!",neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,"I've got ya, Kiragi!",positive
+FE14Paralogues,P08-AGreatHunt,Kiragi,Dad! I knew you'd show up!,positive
+FE14Paralogues,P08-AGreatHunt,Takumi,"Huh? Sorry that I got here, uh, late? You must have been scared to death.",negative
+FE14Paralogues,P08-AGreatHunt,Kiragi,Nope. I knew you'd save me.,neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,What?,neutral
+FE14Paralogues,P08-AGreatHunt,Kiragi,"Yup! But anyway, you gotta check out this big bear that I bagged, Dad!",neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,"Ah, right. Big bear. Nice. But, uh, how about we focus on getting out of this mess alive, Son?",neutral
+FE14Paralogues,P08-AGreatHunt,Kiragi,"Ready for anything, Dad!",neutral
+FE14Paralogues,P08-AGreatHunt,Kiragi,"Dad, no way! No! Way! There is NO way this is what you do every day.",negative
+FE14Paralogues,P08-AGreatHunt,Takumi,"This is nothing! You should have seen me in my last battle, when I— Uh, hold on. Not the best dad talk. I mean to say, Son, that battle was dangerous. Even deadly.",negative
+FE14Paralogues,P08-AGreatHunt,Kiragi,Nice!,positive
+FE14Paralogues,P08-AGreatHunt,Takumi,Huh?,neutral
+FE14Paralogues,P08-AGreatHunt,Kiragi,"So fun! So! Fun! It was SO fun, seeing you all be like, you know... YAAAH! BLAMMIE! I want to be just like you, Dad!",positive
+FE14Paralogues,P08-AGreatHunt,Takumi,"Ugh... No, Son. You have to stay safe here in your Deeprealm.",negative
+FE14Paralogues,P08-AGreatHunt,Kiragi,"Hey, but we had a blast, didn't we? Yeah, I'm coming with you for sure!",neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,"What?! No, you're not. I put you here to keep you OUT of the war.",negative
+FE14Paralogues,P08-AGreatHunt,Sakura,"Well, you have to admit he was a chip off the old block there.",neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,"Sister, that's not helping.",negative
+FE14Paralogues,P08-AGreatHunt,Kiragi,"Wow! Two against one. Done deal, yeah, Dad? Yeah.",neutral
+FE14Paralogues,P08-AGreatHunt,Takumi,"Two against—? Oh, fine. I guess. How could I say no to a face like that?",neutral
+FE14Paralogues,P08-AGreatHunt,Kiragi,"Yay for my face! I swear I won't let you down, Dad. Oh, hey! Wait. The OTHER thing. The bear I shot. Dad! Dad! It was amazing. DAD! I got it in one shot!",positive
+FE14Paralogues,P08-AGreatHunt,Takumi,"I bet it was, Son. And thanks to you, our camp will feast on bear stew!",positive
+FE14Paralogues,P10-HunterAndPrey,Selkie,"Wait, wait! Come back, little bird! No good. It's gone. No fair, flying and stuff. Guess I'll just have to learn to fly too. Doesn't sound too hard. I'll just find the tallest tree around here and jump. Hmm? What's that glowy doorway? Hello? Anyone home? HELLO? ANYONE? Huh, nothing. I'll just take a quick peek inside...",negative
+FE14Paralogues,P10-HunterAndPrey,Selkie,What is this place? So many unfamiliar scents! Eeeew. What's THAT smell?,neutral
+FE14Paralogues,P10-HunterAndPrey,Daichi,What have we here—a kitsune?,neutral
+FE14Paralogues,P10-HunterAndPrey,Selkie,"Oooh! Where? Oh, you mean me.",neutral
+FE14Paralogues,P10-HunterAndPrey,Daichi,"Must be my lucky day. I can sell a kitsune for a fortune. Dead or alive too, so I might as well make this easy. Dead will be fine.",positive
+FE14Paralogues,P10-HunterAndPrey,Selkie," Hey, let's play, mister. And do I smell more of your friends in the wind? I do! Let's ALL play!",positive
+FE14Paralogues,P10-HunterAndPrey,Daichi,Everyone! We've got it surrounded! Keep our circle tight—don't let it escape!,negative
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Can't wait to see my Selkie! Every time I go to her Deeprealm, my daughter is even more amazing!",positive
+FE14Paralogues,P10-HunterAndPrey,Hayato,Is that so? And you say she's a kitsune too?,neutral
+FE14Paralogues,P10-HunterAndPrey,Kaden,Sure thing. Apple doesn't fall far from the tree either—her fur's just like mine. Now it's probably even glossier than the last time I saw her! Hey! Don't get any funny ideas about Selkie. I'm warning you. Don't lay a finger on her. Or else. Which I mean in the worst way possible.,negative
+FE14Paralogues,P10-HunterAndPrey,Hayato,"You're kidding, right? I know people sometimes hunt your kind. But you do realize that I'm a friend, don't you?",neutral
+FE14Paralogues,P10-HunterAndPrey,Ruffian,"No, no, NO! Get me away from her! She's nuts!",negative
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Need a hand? Oh, wait. You're probably not the sort that I should help.",neutral
+FE14Paralogues,P10-HunterAndPrey,Ruffian,Another one?!,neutral
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Another what—a kitsune, here in these woods? By any chance, you don't mean a kitsune girl, do you? Looks like me? Stunning fur? Twinkle in the eye?",positive
+FE14Paralogues,P10-HunterAndPrey,Ruffian,"What?! Er, yeah. More or less.",neutral
+FE14Paralogues,P10-HunterAndPrey,Kaden,Ah! I smell Selkie—and more of your kind near her. You intend to put your filthy paws on my daughter. I guess it's time I show you all just what I mean by OR ELSE.,negative
+FE14Paralogues,P10-HunterAndPrey,Daichi,We're here to poach fair and square! You won't stop us!,negative
+FE14Paralogues,P10-HunterAndPrey,Selkie,That was fun! But now they're all gone. Just when it was getting interesting!,positive
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Hmm. Selkie, you do realise that they were trying to catch you, right?",neutral
+FE14Paralogues,P10-HunterAndPrey,Selkie,Yup! It was like tag!,negative
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Whoa, Daughter. It really wasn't. But I'm just glad you're safe.",positive
+FE14Paralogues,P10-HunterAndPrey,Selkie,"Hey, hey, Daddy? Are all of your battles like this?",neutral
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Hm? Yeah, pretty much.",neutral
+FE14Paralogues,P10-HunterAndPrey,Selkie,Yay! I can't wait to see more battles! So I'm coming with you.,negative
+FE14Paralogues,P10-HunterAndPrey,Kaden,"What? No, you're not.",neutral
+FE14Paralogues,P10-HunterAndPrey,Selkie,"Wheee! Yes, I am! This is going to be way more fun that being stuck at home.",negative
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Battles aren't fun and games, Selkie. They're sad and deadly.",negative
+FE14Paralogues,P10-HunterAndPrey,Selkie,"They are? I'm sorry, Daddy. I guess I just got carried away.",negative
+FE14Paralogues,P10-HunterAndPrey,Kaden,Nope. No need to apologize. Just as long as you understand.,negative
+FE14Paralogues,P10-HunterAndPrey,Selkie,"You know, since you and your friends saved me... I need to return the favor. That's the right thing to do, isn't it?",positive
+FE14Paralogues,P10-HunterAndPrey,Kaden,"Wow, Selkie. You really are growing up, aren't you? Yes, it's good to repay debts.",positive
+FE14Paralogues,P10-HunterAndPrey,Selkie,Then it's settled. I can play with your friends from now on!,positive
+FE14Paralogues,P10-HunterAndPrey,Kaden,Huh? I didn't say you could come. I guess they would like to play with you though. Not too rough now!,neutral
+FE14Paralogues,P10-HunterAndPrey,Selkie,"I'll do my best, Daddy!",positive
+FE14Paralogues,P14-AfterTheEnd,Subaki,"Well, this isn't at all how I pictured where your daughter lives. I didn't even know that any part of the Deeprealms looked so...ominous.",neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,It wasn't this creepy the last time I visited Rhajat. Something terrible has happened.,negative
+FE14Paralogues,P14-AfterTheEnd,Subaki,We'd better investigate then.,neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Hmm. Yes, let's hurry in.",neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,What's going on around here?!,neutral
+FE14Paralogues,P14-AfterTheEnd,Subaki,"Faceless, everywhere! They seem to be surrounding that house. Maybe even...coming from it?",negative
+FE14Paralogues,P14-AfterTheEnd,Hayato,What? But that's where Rhajat lives. It can mean only one thing... She actually did it.,neutral
+FE14Paralogues,P14-AfterTheEnd,Subaki,Did what?,neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Hmm. There's something I haven't told you about my daughter. She dabbles in the dark arts—the darker, the better. Last time I came here, Rhajat was amusing herself with summoning spells. But she couldn't get them to work.",neutral
+FE14Paralogues,P14-AfterTheEnd,Subaki,"Hmm, I just can't believe that your daughter could possibly...",neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"Hee hee hee! After all my toil, the Nohrian monstrosities are mine—ALL MINE!",negative
+FE14Paralogues,P14-AfterTheEnd,Hayato,Does that convince you?,neutral
+FE14Paralogues,P14-AfterTheEnd,Subaki,I guess I shouldn't have been surprised. She's got your knack for magic. It seems Rhajat has succeeded beyond her wildest dreams.,positive
+FE14Paralogues,P14-AfterTheEnd,Hayato,More like her weirdest nightmares. We have to get in there and clean up this mess!,negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"Come to me, my children! Come to Rhajat, your loving mother!",positive
+FE14Paralogues,P14-AfterTheEnd,Hayato,Seriously? That girl...she's dabbled herself into a very dark place.,negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"Hee hee hee! Father, you've arrived! Meet your grandchildren! Aren't you proud of me? I've mastered the art of summoning! The Faceless just keep on coming. It's so beautiful!",positive
+FE14Paralogues,P14-AfterTheEnd,Hayato,"What? This is horrifying! If you summon any more of them, we won't be able to cut them all down!",negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"Huh? But I've only just begun. They're a part of our family, Father!",neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Listen, you need to stop this. Now! Please, Father knows best.",negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,What? How can you say that? You know NOTHING about summoning!,neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Rhajat, you know that's not what I mean! Now, help us clean up this mess.",negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"Fine, Father.",positive
+FE14Paralogues,P14-AfterTheEnd,Rhajat,Hee hee hee! You truly want to tangle with me?!,negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,But...why? I was only furthering my dark education!,negative
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Well, we've cleaned up THAT mess. Now, Daughter, I've never discouraged you from dabbling in the dark arts... But do you have to pursue the worst possible spells?!",negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,I have been working on a spell that makes a person taller and less baby faced.,neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,What? Are you really?,neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"No, of course not!",negative
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Very funny. Anyway, no more summoning. Understand?!",negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,Huh? No way! My next spell is going to be a hundredfold more effective!,negative
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Seriously?! What possesses you to do such things? In that case, I've got no choice. You're coming with us.",negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,What? But this is my sanctum!,neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,"If you're going to keep at these studies, then I've got to keep an eye on you. I fact, I'm going to take charge of your magical education.",neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"I don't have a say in the matter, do I? All right, as long as you give me interesting challenges, Father.",neutral
+FE14Paralogues,P14-AfterTheEnd,Hayato,How about you start on that spell to make a person taller? That seems respectable!,negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,Hmpf.,neutral
+FE14Paralogues,P14-AfterTheEnd,Subaki,"Pardon the intrusion, but I've got some great ideas for research. How about a spell that makes a person less afraid of the dark? Or a cure for crying every time someone botches his battle moves?",neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,Who would need that—you?!,neutral
+FE14Paralogues,P14-AfterTheEnd,Subaki,"Oh, no, don't be silly. I mean your father here. I think he should focus more on being braver, not taller.",positive
+FE14Paralogues,P14-AfterTheEnd,Hayato,"Subaki, I'm braver than you are!",positive
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"Hee hee hee! I'll get to working on those spells right away. After seeing you in action here, Father, I can see how I can really help. I think all your friends need my help too. Oh, this IS going to be fun!",positive
+FE14Paralogues,P14-AfterTheEnd,Rhajat,I suppose it's time to take one last look at the inside of my dark sanctum. I won't miss it too much. It's just a home. The real darkness is inside me.,negative
+FE14Paralogues,P14-AfterTheEnd,Faceless,Gurrr...,negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,Huh? One of my children lived?,neutral
+FE14Paralogues,P14-AfterTheEnd,Facelss,GUUURRR!,negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,N-n-no! I'm your mother!,negative
+FE14Paralogues,P14-AfterTheEnd,Corrin,"Stop, abomination! Get away from her!",negative
+FE14Paralogues,P14-AfterTheEnd,Faceless,GUURR...raaahh.,negative
+FE14Paralogues,P14-AfterTheEnd,Corrin,"That was a close one. Are you all right, Rhajat?",neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,... *urgh*,negative
+FE14Paralogues,P14-AfterTheEnd,Corrin,"You are hurt, aren't you?!",negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,You...what's your name?,neutral
+FE14Paralogues,P14-AfterTheEnd,Corrin,"Who, me? I'm Corrin.",neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,You're this Corrin that Father's been talking about?,neutral
+FE14Paralogues,P14-AfterTheEnd,Corrin,"Er, yes?",neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"Thank you for rescuing me, Corrin. I owe you my life. No one's ever been willing to sacrifice themselves for me before. I owe you my life. All of it. every hour, every day until the end.",positive
+FE14Paralogues,P14-AfterTheEnd,Corrin,"Huh? That's, uh, not necessary.",neutral
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"You've got my full attention. I'll watch you like a hawk on a mouse. Forever and ever—until one of us is no more. And maybe then some. Your name is branded upon my mind's eye, Corrin.",neutral
+FE14Paralogues,P14-AfterTheEnd,Corrin,"What a strange young woman. I guess that's just her way of saying thanks? Of course, she could have just said thanks. Odd one, that Rhajat.",positive
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"You summoned me, Corrin?",neutral
+FE14Paralogues,P14-AfterTheEnd,Corrin,Ack!,negative
+FE14Paralogues,P14-AfterTheEnd,Rhajat,"I'm here for you, should you need me. My dark arts are at your disposal. I will be close as your shadow. Actually...I will BE your shadow.",neutral
+FE14Paralogues,P20-UltimatePower,Niles,"Here we are. At the town known for its selection of great tombs. Pardon, I meant tomes.",neutral
+FE14Paralogues,P20-UltimatePower,Odin,"Such are the whims of fate. Tombs? Tomes? I walk in darkness either way. But today it's books, not graves, that I've come to find. Books open to knowledge! Books laid on their spines! Books flapping their wings like the greatest of dragons! Climb on, they say! Ride with us to the realm of enlightenment! Oh! Ewwwgh...",negative
+FE14Paralogues,P20-UltimatePower,Niles,What's wrong? Touch of gas?,neutral
+FE14Paralogues,P20-UltimatePower,Odin,"MY ACHING BLOOD! This town...something...someone... The very air in this place threatens the even keel of my interior being. The shadows within are ascending. The dark overtakes me! Ha, it tickles. But now, sinking into my well of darkness, I drown in power. Soon I can tap into the strongest of all my abilities... Eldritch Smackdown!",negative
+FE14Paralogues,P20-UltimatePower,Niles,"Ugh. Sorry I asked. Huh, who's that?",negative
+FE14Paralogues,P20-UltimatePower,Ophelia,"Ah, fair finger of fate, pointing me here to this town. What power I sense brimming in these quaint lanes. Power! No, Ophelia, contain, yourself. You mustn't give in to such a swell. You alone hold day and night at bay. You are the dusk. Be strong. Ewwgh! Such power! If only I drank of it, I could use the strongest of my abilities...",negative
+FE14Paralogues,P20-UltimatePower,Niles,"Hey, Odin. She speaks just like you. Kind of the dark—and so on.",neutral
+FE14Paralogues,P20-UltimatePower,Odin,Hmm? Could it be... Ophelia?,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"Oh, Father. Hi! It's been too long.",positive
+FE14Paralogues,P20-UltimatePower,Odin,"Whoa, whoa. No, no, no. You can't just hi me. Why are you in my world?",neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"Oh, Father. You know me. I'm always questing after the unknown. I've come here searching for a tome. The Super-Ultimate Tome.",neutral
+FE14Paralogues,P20-UltimatePower,Odin,What? The Super-Ultimate—? Uh-oh.,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"Yes. Clearly you know of it. After all, it was listed in your own Book of Supreme Fatal Divine Names. You know, your encyclopedia of exceedingly dangerous thingamajigs. The Super-Ultimate Tome was the most forbidden book listed there.",neutral
+FE14Paralogues,P20-UltimatePower,Odin,"What? But, Daughter, please don't tell me you read from my book of lists. That was private!",neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"Sorry. Couldn't help myself. Now I crave The Super-Ultimate Tome. I won't stop until I have the book. The darkness within me demands it. It bangs on the door of my heart. I will let it through, Father. Just as soon as I have that book.",negative
+FE14Paralogues,P20-UltimatePower,Odin,"Um, just one thing, Ophelia. That book—",neutral
+FE14Paralogues,P20-UltimatePower,Boy,Augh! Run for your lives! Ruffians are pillaging the town!,negative
+FE14Paralogues,P20-UltimatePower,Ophelia,What? Not on my watch.,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"Ophelia, here to serve! Townspeople, you have nothing to fear. I consider this holy ground, and I will bring my full vengeance to bear. When all is said and done, I will have saved The Super-Ultimate Tome too!",positive
+FE14Paralogues,P20-UltimatePower,Ruffian,"Huh? How stupid! One girl, saving this town all by herself?",negative
+FE14Paralogues,P20-UltimatePower,Odin,Ha ha! I am here too.,positive
+FE14Paralogues,P20-UltimatePower,Ruffian,Grrah! Who are you?,neutral
+FE14Paralogues,P20-UltimatePower,Odin,"The chosen hero arrives! And what is he called, this soldier of darkness...? Odin Dark is his name! And he says that if you lay so much as a finger on his daughter... Odin Dark will deliver his most deadly move... Eldritch Smackdown!",negative
+FE14Paralogues,P20-UltimatePower,Ruffian,Um...what?,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"The chosen heroine arrives! And what is she called, this maiden of darkness? Ophelia Dusk is her name! I've got this scene covered, Odin Dark. You can exit stage left. For Ophelia Dusk will now deliver her most deadly move... Luminary Uppercut!",negative
+FE14Paralogues,P20-UltimatePower,Ruffian,"Two of you freaks? What is this? A shakedown? Well, you can't scam quality thugs like me and my crew. Everyone, get 'em!",negative
+FE14Paralogues,P20-UltimatePower,Child,"No! Don't say it's true! Bad times come to our little town? I'd try this spell out on them if I was a little older. Here, you take it.",negative
+FE14Paralogues,P20-UltimatePower,Boy,Uhh! What? Where? Ruffians? Here? We don't stand a chance! But maybe you can do something. Especilly if I give you this!,negative
+FE14Paralogues,P20-UltimatePower,Girl,"Ruffians? Here? Thank you for helping us! I don't have much. But, here.",positive
+FE14Paralogues,P20-UltimatePower,Old Man,"Hmm, all this fighting is over books you want to use as weapons? I bet you'd like me to give you a weapon...to help end this fighting over weapons. Enjoy your vicious cycle.",negative
+FE14Paralogues,P20-UltimatePower,Senno,I've come for this town's rare tomes. They're mine—ALL MINE!,neutral
+FE14Paralogues,P20-UltimatePower,Odin,"Ophelia, I've got bad news for you. That so-called encyclopedia of mine? The Book of Supreme Fatal Divine Names? It's just my idea book. A place to scribble down impressive names for weapons. That's all.",negative
+FE14Paralogues,P20-UltimatePower,Ophelia,Huh? So The Super-Ultimate Tome...,neutral
+FE14Paralogues,P20-UltimatePower,Odin,Yes. It doesn't exist.,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"Ugh, really?",negative
+FE14Paralogues,P20-UltimatePower,Odin,"Sorry to disappoint you, Ophelia, But maybe this will make it up to you.",negative
+FE14Paralogues,P20-UltimatePower,Ophelia,"Well, um... It's a tome.",neutral
+FE14Paralogues,P20-UltimatePower,Odin,I bought it here in town—dashed into a store between moves. I have a habit of naming my weapons. But I haven't named this one. Why don't you name it?,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"I can name this tome myself, Father? Whatever should I call it? Ah! I have the perfect name.",positive
+FE14Paralogues,P20-UltimatePower,Odin,"Hmm? That was a little quick, no? What's the name then?",neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,Ta-dah! I name this tome... Missiletainn!,neutral
+FE14Paralogues,P20-UltimatePower,Odin,Missiletainn?! Why THAT name?,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,"I saw it scribbled in the margins on the very last page of your idea book. Though it had to be more than just an idea for a name, Father. There were comments there that said it was a pretty crummy weapon, as it turned out. What was it? Slips out of the hand? Cuts dull as a butter knife? I don't care. I just loved the sound of that name: Missiletainn.",negative
+FE14Paralogues,P20-UltimatePower,Odin,"What an ear you have—attuned to the slightest intimations of legend. Missiletainn was the ONLY name in that book I ever gave to a real weapon. Oh, yes. How I remember Missiletainn. The blade to which my hand was wed! The blade from which my enemies fled! We were quite a pair.",negative
+FE14Paralogues,P20-UltimatePower,Ophelia,"Father, is your hand empty now? Let us hold hands, father and daughter, and let our foes flee our wrath. After all, now I hold Missiletainn. So we are three.",negative
+FE14Paralogues,P20-UltimatePower,Odin,What?! If I sift through your flair for words...,neutral
+FE14Paralogues,P20-UltimatePower,Ophelia,Yes! I want to travel with you. We are both chosen ones.,neutral
+FE14Paralogues,P20-UltimatePower,Odin,"Ha ha! Then we march together. We are the chosen...two! I can only hope the others won't be too humbled around so much excellence. Go introduce yourself, Ophelia.",positive
+FE14Paralogues,P20-UltimatePower,Ophelia,"At once, Father! Just imagine... Ophelia Dusk and Odin Dark, together at last!",positive
+FE14Paralogues,P20-UltimatePower,Niles,Hey! Did you catch all that? Dusk and dark... Think the rest of us are at risk of being upstaged?,negative
+FE14Paralogues,P20-UltimatePower,Silas,"No way! They'll never— Wait. What do you mean, upstage us? Well, anyway. It's all harmless fun. And Ophelia seems pretty nice.",negative
+FE14Paralogues,P20-UltimatePower,Odin,"So excited, Daughter! I can't believe that we've been united. Both of us, on the eternal stage of battle! With Missiletainn in a supporting part! I can already see it... A thousand foes before us, falling before my might.",positive
+FE14Paralogues,P20-UltimatePower,Ophelia,"Leave some for me! At least one hundred. No, FIVE HUNDRED.",negative
+FE14Paralogues,P20-UltimatePower,Odin,I laugh at the odds. Let our foes come. I will smack them down!,negative
+FE14Paralogues,P20-UltimatePower,Ophelia,"I'll laugh louder and smack them harder! I will show you how it's done, Father!",negative
+FE14Paralogues,P05-BoldApproach,Sophie,"Good job, Avel...trotting gently...nice and steady...sweet as can be... Wow! We're doing so well today. Not at all like yester—WHOA! Easy there, Avel! I said, EASY! AAAAAAVEL!",positive
+FE14Paralogues,P05-BoldApproach,Sophie,"Urgh. Threw me off again. Daddy said Avel would be the ideal horse for me. But just look at him! Bucking me off! Galloping away! He's nuts! And now where's he going?! Oh no. OH NO! What?! AVEL! GET BACK HERE! That darn horse is heading for the portal to Daddy's world! I'M COMING, AVEL! I'LL GET YA, BUDDY!",negative
+FE14Paralogues,P05-BoldApproach,Sophie,"Whoa! So THIS is Daddy's world? Hmm, not SO different, I guess. There you are, Avel. Why'd you run off like that? We can't leave our Deeprealm! Easy there... Let me up...phew! Now let's ride back before anyone finds out, or else I'll get the scolding of my life! Besides, Daddy said that it's super-dupity dangerous in his world.",negative
+FE14Paralogues,P05-BoldApproach,Ruffian,"Hey, you! Chump! You're not getting away without paying a toll. And by toll, I mean all your money. Hand it over. Or I'll take your hands!",negative
+FE14Paralogues,P05-BoldApproach,Boy,"Someone, help!",neutral
+FE14Paralogues,P05-BoldApproach,Nichol,"Heh. Sing like that again, and I might just let my comrade pluck out your tongue. Then again, my band of malevolent brothers is in dire need of amusement. So carry on. Scream your heart out. Top of your lungs now...",negative
+FE14Paralogues,P05-BoldApproach,Sophie,"Eeep! That stuff over there is just about as super-double-dupity dangerous as it gets! I don't care if I will get in trouble from Daddy—I have to come to the rescue! I bet Daddy will even be proud of me! Steady there, Avel. We're gonna head straight for 'em. CHARGE! Wh-wh-what?! Avel, no! You're going the wrong— WAAAAAAY!",negative
+FE14Paralogues,P05-BoldApproach,Silas,"Finally, we're here. There's the village under attack. But we're so late! Looks like those marauders have already torn apart this place. Oh, no. A band of villagers is rushing the enemies. A sure massacre! We must save whomever we can and bring these villains to justice.",negative
+FE14Paralogues,P05-BoldApproach,Silas,Sophie...is that you?!,neutral
+FE14Paralogues,P05-BoldApproach,Sophie,Daddy! What are you doing here?!,neutral
+FE14Paralogues,P05-BoldApproach,Silas,"I'd ask the same of you, Sophie. Why did you leave your Deeprealm?",negative
+FE14Paralogues,P05-BoldApproach,Silas,"Sophie, you're mumbling.",neutral
+FE14Paralogues,P05-BoldApproach,Sophie,"No, Daddy! That is, Daddy, I'm here because...because... Because I heard the shouts of villagers coming through the portal! So I, er... I leapt astride Avel, snapped the reins, and we rode to the rescue!",negative
+FE14Paralogues,P05-BoldApproach,Silas,"Sophie, you've made me proud. I didn’t know you had this in you! It's high time we ride into battle together. Father and daughter—true cavaliers!",positive
+FE14Paralogues,P05-BoldApproach,Sophie,"Uh, wha—? I mean, yes, Daddy! I'll do my best. So will Avel! Now let's save those villagers!",positive
+FE14Paralogues,P05-BoldApproach,Nichol,"What hope do any of you pathetic fools have against me? But you, friend, have an especially hopeful light in your eyes. Come closer. I'll be glad to extinguish it for you.",positive
+FE14Paralogues,P05-BoldApproach,Sophie,"Good job, Avel! You obeyed my every direction in that battle! But why here? And not at—?",positive
+FE14Paralogues,P05-BoldApproach,Silas,"So, Sophie...your steed is more unruly than you've led me to believe. I'm not surprised that he behaved here. The difference wasn't him. It was you. You displayed newfound confidence. Your directions were assured! That's the secret to being a good cavalier: living up to your horse's expectations.",positive
+FE14Paralogues,P05-BoldApproach,Sophie,Ugh. That's all I needed to do this whole time?,negative
+FE14Paralogues,P05-BoldApproach,Silas,"Yes, but it's no easy feat, especially since I gave you Avel to ride. When you told me long ago that you wanted to ride a horse like me... I knew I had to get you a horse with the highest expectations. Avel would help you grow into a commanding figure. You see, Sophie, this is really about more than your steed. If you can ride Avel, you'll command the respect of everyone you meet. Many who live through these times of war are ready to give up. I need my daughter to inspire everyone to pick themselves off the ground.",negative
+FE14Paralogues,P05-BoldApproach,Sophie,"That's why you gave me Avel? I guess I see, Daddy. But I'm not that Sophie yet. I'm still only...me.",neutral
+FE14Paralogues,P05-BoldApproach,Silas,"Only? Hmm. There's nothing only about you, Sophie. Look at what you did today! Think about everything you're about to do!",neutral
+FE14Paralogues,P05-BoldApproach,Sophie,Huh? What do you mean?,neutral
+FE14Paralogues,P05-BoldApproach,Silas,"You're leaving the Deeprealms. You're going to travel with our group! Honestly, I'd feel safer with you staying where you are. But you're ready for this. I think you'll learn to handle Avel even faster that way. I'll teach you what I know. That is, only if you want to.",positive
+FE14Paralogues,P05-BoldApproach,Sophie,"I could learn a lot from you, Daddy! Of course I want to come!",neutral
+FE14Paralogues,P05-BoldApproach,Silas,I have faith in you. You might surpass me. You're already better than you know!,positive
+FE14Paralogues,P05-BoldApproach,Sophie,"Thanks, Daddy! Wow, Avel. You and I are finally— Whoa, there! WHOA! THIS way! Not THAT way! We're not going back to the Deeprealms! Avel, SIT! Avel, STAY!",positive
+FE14Paralogues,P05-BoldApproach,Silas,"Well, I see I've got my work cut out for me. Now that we'll be riding together, she'll see how her daddy handles his horse.",positive
+FE14Paralogues,P05-BoldApproach,Sophie,Great! I got Avel back under control!,positive
+FE14Paralogues,P05-BoldApproach,Silas,"Sophie, well done. You see? The secret is taking control. The most important thing is to always be firm, and yet—WHOA! Does he always do that?! Bite at your face?! Th-that's all right. I knew he'd be a handful. It's just a matter of—",negative
+FE14Paralogues,P05-BoldApproach,Sophie,Avel! Stop eating my hair! It took me forever to grow it back the last time!,negative
+FE14Paralogues,P05-BoldApproach,Silas,Huh. That's uh...not good. Avel! Bring her back! AVEL!,negative
+FE14Paralogues,P01-TragicStart,Faceless,Grrahhh...,negative
+FE14Paralogues,P01-TragicStart,Old Woman,"Run, Mozu! Please, dear! Run and don't look back!",negative
+FE14Paralogues,P01-TragicStart,Mozu,"Mother, no! Take my hand! We'll run together!",negative
+FE14Paralogues,P01-TragicStart,Faceless,GRRAH... HRRGLL!,negative
+FE14Paralogues,P01-TragicStart,Old Woman,Aaarghhh!,negative
+FE14Paralogues,P01-TragicStart,Mozu,NO! MOTHER!,negative
+FE14Paralogues,P01-TragicStart,Corrin,Did you hear that?! Those screams! Something terrible is happening!,negative
+FE14Paralogues,P01-TragicStart,Felicia/Jakob,"We've got trouble, all right! This village is under attack by the Faceless. But this place has been ravaged. We're too late!",negative
+FE14Paralogues,P01-TragicStart,Corrin,"No! There must be some survivors. With any luck, some people escaped, but if there's even one left here somewhere... Let's get searching everyone!",negative
+FE14Paralogues,P01-TragicStart,Mozu,M-M-Mother... My village... They're all dead... I'm alone. Nowhere to go! And those monsters... They're coming back for me...,negative
+FE14Paralogues,P01-TragicStart,Corrin,Are you OK?,neutral
+FE14Paralogues,P01-TragicStart,Mozu,Waugh! No! My mother... My friends...,negative
+FE14Paralogues,P01-TragicStart,Corrin,I'm here to help. Where are they?,neutral
+FE14Paralogues,P01-TragicStart,Mozu,My mother wouldn't take my hand. She's... she's...,negative
+FE14Paralogues,P01-TragicStart,Corrin,I'm so sorry. But there's no time to grieve. Not now. Stay behind me. I'll keep you safe.,negative
+FE14Paralogues,P01-TragicStart,Mozu,No! I have to fight! For Mother! For all my friends! For everything those monsters took from me!,negative
+FE14Paralogues,P01-TragicStart,Corrin,All right. We've finished off the last of the Faceless.,positive
+FE14Paralogues,P01-TragicStart,Mozu,"... Um, but what do I do? They took my Mother... My life.",neutral
+FE14Paralogues,P01-TragicStart,Corrin,You must have some family near here. We'll be glad to take you there.,positive
+FE14Paralogues,P01-TragicStart,Mozu,"There's no one. I couldn't even start over here by myself. All the homes, fields... It's all destroyed. But I wouldn't want to stay here even if it wasn't. Everyone I called family is dead. Every house... a grave.",negative
+FE14Paralogues,P01-TragicStart,Corrin,"Listen, we'll take you in. We can't replace all those you've lost. But we'll take care of you.",positive
+FE14Paralogues,P01-TragicStart,Mozu,I can join your group?,neutral
+FE14Paralogues,P01-TragicStart,Corrin,"Yes, but only until we find you a safe place to call home. Our group... a family of sorts... is bound by a dangerous cause. We go from one battle to the next, ever in peril. That's no life for you.",negative
+FE14Paralogues,P01-TragicStart,Mozu,"I'm not afraid. I can help. I might even save you or your friends. Let me join your cause, whatever it is. I'll keep your family safe.",negative
+FE14Paralogues,P01-TragicStart,Corrin,"Yes, of course. I have to admit, you sound just like one of us already.",neutral
+FE14Paralogues,P01-TragicStart,Mozu,"I'll do my best. And I'll stay safe. After all, Mother's watching over me now.",positive
+FE14Paralogues,P03-SurpriseDuet,Azura,"Ah, how I love to sail upon the ocean! To be free from the confines of land! The roar of the waves is like the sweetest lullaby.",positive
+FE14Paralogues,P03-SurpriseDuet,Felicia,"We've got trouble, Lady Azura!",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"Slow down, Felicia. Tell me what's happened.",neutral
+FE14Paralogues,P03-SurpriseDuet,Felicia,"Um...um...a pegasus—I mean, the young man riding it— He's just crashed onto our ship! Well, the pegasus did too, but—",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,What was that?! Someone on a pegasus has just landed? Point the way!,neutral
+FE14Paralogues,P03-SurpriseDuet,Jakob,"We have trouble, Azura!",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"How can that be, Jakob? We're so far upon the ocean!",negative
+FE14Paralogues,P03-SurpriseDuet,Jakob,"I've just receive news that a young man riding a pegasus has landed upon our ship. At breakneck speed, too. He and his steed may have sustained serious injuries.",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"What was that?! A pegasus rider? Please, point the way!",neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,"Shigure, my son! What has brought you out here?",neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,M...Mother...? Did I make it? I...I flew out of the Deeprealms to find you!,negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"Oh, my! You're hurt! And your pegasus looks ready to collapse!",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,Never mind us. We need to return to my Deeprealm at once. My village is under attack. You and your friends must help me save whoever's left.,negative
+FE14Paralogues,P03-SurpriseDuet,Azura,What's that? Your village—? But from what enemy?,neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,I...I don't know. It's hard to see them sometimes.,neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,What?,neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,They're only semivisible. But they're fierce fighters. One thing I am sure is that they're after ME. My friends risked their lives helping me get away. I...I think they're all...,negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"Shigure, you don't know that. Wait, I sense something...someone...",neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,It's them!,neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,"My apologies, Shigure. This grim turn of events is all my fault. They're after you...because of me.",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,"Come again? What do you have to do with this, Mother?",neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,"Well, I can't explain. Not here. Now, a moment, please.",neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,"Shigure, stay close! I'm certain those fiends are readying an attack. But if they think they're getting their hands on you...",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,"Mother, who are they? Why did you say this is all your fault?",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"I'm sorry to say it must remain a mystery, at least for a little longer.",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,Tell that to my friends.,neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,"Trust me, Son. I had little choice. Now, hide yourself. I'll take care of them. That's the least I can do.",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,"It's just...it's just not right. My whole village, and because of what? You must have your reasons for keeping such deadly secrets, Mother. But this fight is now MINE too. I must avenge my friends.",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"... Listen, Shigure. The stakes are higher than you can imagine. But if you insist in fighting, then promise that you'll do so at a safe distance.",neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,No. My friends didn't have any such choice. I won't shy from battle.,negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"I see. Then I promise that MY friends will keep you safe as can be. Losing you would ruin me. You will live, my son, even if it's at the cost of my life.",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,"No, Mother!",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"We won't lose. Not if I can help it. My friends and I will make them pay. Everyone, prepare for battle!",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,"I’m with you all the way, Mother.",neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,We've been broadsided! Stay on guard everyone!,negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"Shigure, the battle is won, but your worst fears have proven true. I slipped away to your Deeprealm for a moment. These invaders... They razed your village. There is no one left. Everyone who took care of you in my stead, all of them are—",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,"EVERYONE? Ohhhh... No, no, no... NOOOO!",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"... I'm sorry. If we'd come sooner... That is, if only I'd warned you about them...",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,"No. You and your friends have clearly known these evils and more. I'm at fault for being a child too long. My eyes have been closed. But my heart has been opened. I can imagine, a little, what it must feel like to live in your world. Still you find it in yourself to sing. And so must I.",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,Sing? What are you going to sing?,neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,"You know the song well, Mother. ♪",neutral
+FE14Paralogues,P03-SurpriseDuet,Azura,"Truly, how well I do. You plan to sing it as a requiem for your dead? How beautiful. Even beyond the clouds, your friends will be moved to tears. Surely, a melancholy rain will fall upon your village.",positive
+FE14Paralogues,P03-SurpriseDuet,Shigure,"Mother! But what am I to do now? Everyone I knew, except you—",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"Ah, I have no choice but to find another place to hide you.",neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,I...I don't want to hide anymore. I'm joining your cause.,negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"What's that? Son, you must stay safe!",positive
+FE14Paralogues,P03-SurpriseDuet,Shigure,"No. My friends lost their lives trying to save me. I need to learn to protect myself. I need to get strong enough, so I can make the same sacrifice for others.",negative
+FE14Paralogues,P03-SurpriseDuet,Azura,"... Very well, Shigure. But you must let me protect you when I can. You cannot deny your mother that.",negative
+FE14Paralogues,P03-SurpriseDuet,Shigure,My heart is singing. And it's a song of hope for the future.,positive
+FE14Paralogues,P03-SurpriseDuet,Azura,"Let us make it a duet, Son.",neutral
+FE14Paralogues,P03-SurpriseDuet,Shigure,"Yes, Mother. It will be my honor.",positive
+FE14Paralogues,P19-GreatHeroism,Percy,"Here, Ace! Come to Percy. Come one, come to Percy. Good dragon. You're my only real friend. 'Specially since Pop never visits...",positive
+FE14Paralogues,P19-GreatHeroism,Percy,"Uh? What, Ace? Trying to make me feel better?",neutral
+FE14Paralogues,P19-GreatHeroism,Percy,"Golly, thanks a bunch, Ace! You always know just what to roar! You're the best buddy ever. With you as my sidekick, nothing's gonna get me down! I'm done obeying Pop's dumb rules. Which includes staying here in my Deeprealm. Let's get outta here, Ace!",positive
+FE14Paralogues,P19-GreatHeroism,Arthur,"He must be around here somewhere. PERCY? HELLO? PERCY? Oh, my son! My offspring! Oh, sidekick, not yet old enough to kick at my side! Why would you leave our most secret of lairs in your Deeprealm? Ew, oogie. Dragon dung, whizzing past my heroic brow? A close call. But where'd it come from?",positive
+FE14Paralogues,P19-GreatHeroism,Percy,...,neutral
+FE14Paralogues,P19-GreatHeroism,Arthur,"Percy! Where have you been? I've been worried sick. Leaving the secret lair? Clearly, you must have gotten lost. No need to worry. I'll have you back home in a flash. Must say it's nice to see you, Son. It's been a while. I hardly recognize you.",positive
+FE14Paralogues,P19-GreatHeroism,Percy,...,neutral
+FE14Paralogues,P19-GreatHeroism,Arthur,"Hmm? What's eating you, Percy? Come on, out with it.",neutral
+FE14Paralogues,P19-GreatHeroism,Percy,"I hate you, Pops.",negative
+FE14Paralogues,P19-GreatHeroism,Arthur,Huh?!,neutral
+FE14Paralogues,P19-GreatHeroism,Percy,All your talk about justice... How just is it to never visit me? You're...you're... You're a villain! You're my worst enemy! You're my... You're my archnemesis! W-w-waaaaah!,negative
+FE14Paralogues,P19-GreatHeroism,Arthur,"Never fear, Percy. Pops is here!  Ahoy there, friend!",positive
+FE14Paralogues,P19-GreatHeroism,Mercenary,Ha. Friend? I'm no friend to some jerk who makes kids cry their eyes out.,negative
+FE14Paralogues,P19-GreatHeroism,Arthur,"Ha Ha! You've fallen into the covered pit of misconception, stranger. Here, I'll help you out before you're gored upon the spikes of wrongheadedness! That was no kid. That was my son. My spawn! Fruit of my loins!",negative
+FE14Paralogues,P19-GreatHeroism,Mercenary,What?! The way he ran off crying? No way. Who are you really villain?!,negative
+FE14Paralogues,P19-GreatHeroism,Arthur,Evil has met its match! I am Arthur!,negative
+FE14Paralogues,P19-GreatHeroism,Mercenary,Whuh? No you're not! I recognize you! You're...you're...GAZAK!,negative
+FE14Paralogues,P19-GreatHeroism,Arthur,"No. Your ears must be clogged, friend. Listen up. As I just said... Evil has met its match! I am Arthur!",negative
+FE14Paralogues,P19-GreatHeroism,Mercenary,"What?! You can't fool me, Gazak! I'd recognize that chin anywhere! It's got bandit written all over it!",negative
+FE14Paralogues,P19-GreatHeroism,Arthur,"Oh, um, well... I assure you that my chin is not the graffiti wall of evil. Here, fellow, my son comes back. He'll clear this matter up.",neutral
+FE14Paralogues,P19-GreatHeroism,Percy,"Back, evildoer! Return to whatever dark hole of naughtiness you crawled out of! I think that mercenary has you pegged. You ARE Gazak!",negative
+FE14Paralogues,P19-GreatHeroism,Arthur,Percy!,neutral
+FE14Paralogues,P19-GreatHeroism,Mercenary,"Charge, friends! I've found Gazak! Time for this bandit to come to justice!",negative
+FE14Paralogues,P19-GreatHeroism,Arthur,What? You must be joking.,neutral
+FE14Paralogues,P19-GreatHeroism,Silas,"Wow, that really spiraled out of control. We'd better get in there and back Arthur up, I guess.",negative
+FE14Paralogues,P19-GreatHeroism,Mercenary,"What?! You tapped into a Dragon Vein! That means you're...royalty. You're no ruffian! And that makes you ALL— Oh, I'm sorry! Please, spare my life! Here, do you want money? Take this—it's all yours. I bet more troops would do the same, if only they realized...",negative
+FE14Paralogues,P19-GreatHeroism,Percy,It's time to deliver some real justice!,negative
+FE14Paralogues,P19-GreatHeroism,Percy,"Let's take 'em out, Ace. All of 'em! Pop's next to go!",negative
+FE14Paralogues,P19-GreatHeroism,Arthur,"Listen up, Son! Your spree of mayhem is over!",negative
+FE14Paralogues,P19-GreatHeroism,Percy,"Justice never loses! And I am on its side! Not you, Pop!",negative
+FE14Paralogues,P19-GreatHeroism,Arthur,"Percy, if you insist on this, you leave me no choice but to fight back!",negative
+FE14Paralogues,P19-GreatHeroism,Percy,*sniffle sniffle*,negative
+FE14Paralogues,P19-GreatHeroism,Arthur,"I'm sorry, Percy. I never meant to abandon you. I just thought you were absolutely safe, so my job was done until you were older. I screwed up on a heroic scale. Please, forgive me. From this day forward, I'd love for you to join me as a sidekick. Or maybe I'll be yours. Whatever—just as long as we're a justice-slinging duo!",negative
+FE14Paralogues,P19-GreatHeroism,Percy,"Uh...really, Pop? Does that mean that you'll come live in my Deeprealm with me?",neutral
+FE14Paralogues,P19-GreatHeroism,Arthur,"No, the opposite! You're never going back there.",neutral
+FE14Paralogues,P19-GreatHeroism,Percy,"Pop, do you really mean it? I can stay here with you?",neutral
+FE14Paralogues,P19-GreatHeroism,Arthur,It's true! Right here! With me!,positive
+FE14Paralogues,P19-GreatHeroism,Percy,W-w-waaah... W-w-waaaaaaaaah!,negative
+FE14Paralogues,P19-GreatHeroism,Arthur,What is it? Did I blunder again?,neutral
+FE14Paralogues,P19-GreatHeroism,Percy,"No, I'm just so happy! I didn't want you as my archnemesis, Pop. I really didn't. THIS is what I always wanted.",positive
+FE14Paralogues,P19-GreatHeroism,Arthur,Ha ha! Father-son bond repaired on the nick of time!,neutral
+FE14Paralogues,P19-GreatHeroism,Arthur,"Hmm? Your dragon? What's got him so darn upset? Whoa! Hold on, big boy. Those are your fangs you're bearing over there.",negative
+FE14Paralogues,P19-GreatHeroism,Percy,"Ace, stop! Don't snap at Pops. He didn't do anything bad.",negative
+FE14Paralogues,P19-GreatHeroism,Arthur,Percy! Your trusty steed is looking at me like I'm a meat platter!,negative
+FE14Paralogues,P19-GreatHeroism,Percy,Ace! I'm not sad! Happy! You hear me? HA-PPY! We're staying here with Pops. We don't have to live in our Deeprealm!,positive
+FE14Paralogues,P19-GreatHeroism,Percy,Phew! He's backing off. Good boy! Good boy!,negative
+FE14Paralogues,P19-GreatHeroism,Arthur,Whoa there! I thought you'd be flossing me out of his teeth soon. Glad we cleared all this up. You and your dragon are most welcome with us!,positive
+FE14Paralogues,P19-GreatHeroism,Percy,Golly! Thanks a bunch! I can't wait to learn how to be a better hero from you!,positive
+FE14Paralogues,P19-GreatHeroism,Arthur,"Percy, I'm just glad to have you at my side. Now, ready to sock evil in the face? The ol' one-two? Father-son justice?",positive
+FE14Paralogues,P19-GreatHeroism,Percy,Ha ha! YEAH!,positive
+FE14Paralogues,P19-GreatHeroism,Silas,Phew! Good thing that all worked out. Hopefully that'll be the last father-son skirmish we ever see in our party...,positive
+FE14Paralogues,P09-SaizoVsSaizo,Subaki,"All right, we're just a stone's throw from the Deeprealm. You must be looking forward to seeing your son again, Saizo.",positive
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,...,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Subaki,"Hmm. I'd swear you look even surlier than usual, Saizo. What's wrong?",negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"Ah, just concerned about whether my son is getting the training he needs. He's sixth in a line of Saizos. The firstborn men in our family always take the name. And with the name Saizo comes great expectations. If his training has failed him, my son will be a subpar Saizo. I can't have that. He's much older since last I saw him. I have a fairly severe test in mind. Hmm? People. Ahead.",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Funke,"What? You refuse your mission? That reeks of treachery. Reconsider, child.",negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Not happening. You could double my cut, and I'd still refuse. I'm out.",negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"What in all the bitter hells are you doing here, Son?!",negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,And now you too?! If this ain't the brown sprinkles on my sundae...,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Funke,"What?! You know this boorish blackguard, Asugi?",negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,Yup. Sorta.,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"Did he just call you Asugi? What's the meaning of this, Saizo? You have the proud honor of taking MY name, as I took that of my father! You were born a Saizo. You will die a Saizo. That is our family's custom. Besides, who is this fool?",positive
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Huh? As always, you don't know your head from a hole in the ground. Get lost.",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Funke,"No, no, no, Asugi, Don't be so rude. He and his friends are our guests! Uninvited, yes. But they can't leave our little party now. They can, in fact, help you fulfill your obligations at this fine affair!",positive
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"Hmm? Obligations? What does he mean by that, Saizo?",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Funke,"This spoiled guttersnipe wants to abandon our happy family. And right before we're about to break into a manor that will make us fabulously rich. Tsk! Youth, these days.",negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,Break into a manor? Are you a thief now? You work for this powdered cretin?,negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,Ha! That's my business.,negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,I expect more out of you. You shirk your duties as a firstborn Saizo? Sixth in the line?! And you think I won't make that my business?,negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"What a crock. Saizo this?! Sixth that?! You can take your name and- Well, you know.",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,WHAT?!,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,I don't take orders. Not from you. Not from anyone. You care about your dumb name more than you've ever cared about me. It's my life. I'll live as I please. See ya.,negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,See ya?! No one gets away from me. Not over my dead-,negative
+FE14Paralogues,P09-SaizoVsSaizo,Funke,"No, no, no! Now that my Asugi has fled, let's have no more departing bodies. At least, not until I make you pay for driving off my talented associate.",negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,What's my damned son gotten us into?!,negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"That's it. Last chance, Son! Get back here.",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Whoops, sorry! Can't hear you! See ya never, old man!",negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,Damn that kid. We have to catch up with him before he gets away!,negative
+FE14Paralogues,P09-SaizoVsSaizo,Funke,"Ah, one of our guests! Well then, let me extend my invitation to you... An invitation—to die!",negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,Stop chasing me!,negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"Never. Now tell me, why did you take up with such low creatures?",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Gotta do something to satisfy my sweet tooth. Besides, you got it all wrong. Or half wrong. Just before you showed up, I told Funke that I didn't want any part of this. When he hired me, he failed to say my job was to sneak in and off the owner. I'll steal anything that's not nailed down. But murder—like that? Nah. Crosses a line. And there's NO price he could pay me to do that. Got my pride, I guess.",negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,Do you?,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"What now, genius? You gonna lock me up in my Deeprealm?",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,... No. You're free to go.,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,What's that again?,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,You heard me. You're no longer the sixth in a proud succession of Saizos... You deserve to be Asugi.,negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Wasn't expecting that... But, wait, is this some sort of trick?",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"No trick. The whole point of being called Saizo is to live up to the honor. You...have a sense of honor. In your own way. So, go.",positive
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,Dad...,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"Oh, Dad now, is it? Good-bye. Enjoy your life.",positive
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,...Whatever. i wasn't asking for permission. But if it IS my life? I'm coming with you.,neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"What? Kid, you make my head hurt.",negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Yeah, I do that. But if I'm off the hook for all this Saizo junk... I think I'd like to tag along with you. Could learn a thing or two. And maybe I can fix that sourpuss face of yours while I'm at it. Ever heard of candy?",neutral
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,Candy? Don't tell me that's been a sucker in your mouth this whole time. I thought you were chewing on a blade of grass like some kind of tough guy.,negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Mmm, candy. Yeah, no—I'm all about the sweet stuff. 'Specially if it's on a stick. Suckers. Peppermint sticks. Candy apples. But only if they're really tiny apples. You could say I'm a connoisseur. That's why I steal. Good stuff's expensive. You're gonna love it.",positive
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,No. I don't eat sweets.,negative
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Ha! Yeah, obviously. And that's why your face is stuck that way.",negative
+FE14Paralogues,P09-SaizoVsSaizo,Saizo,"But maybe I'll try just one. I mean, since you worked so hard to pay for it all. Hmm. Asugi, if you manage to not wind up a victim of your own foolishness...You might make me half-proud of you.",positive
+FE14Paralogues,P09-SaizoVsSaizo,Asugi,"Huh? Well, if we're getting all touchy-feely here... I'm hoping you're half the Saizo you think you are, Dad. Otherwise I may live to regret this.",negative
+FE14Paralogues,P16-Abducted,Elise,"I’m SO excited to meet Forrest! It's weird to think that I have a nephew. And that he’s all grown up! I haven’t seen Forrest since he was barely out of his crib. What’s he like now? He’s a troubadour, right? Think he wants to join us? The more the merrier!",positive
+FE14Paralogues,P16-Abducted,Leo,"No. And, er, let’s cancel this trip. We can go to this Deeprealm some other day.",negative
+FE14Paralogues,P16-Abducted,Elise,What? Cancel the trip? But I’ve looked forward to seeing Forrest. And you haven’t visited him in forever. Don’t you miss your son?,positive
+FE14Paralogues,P16-Abducted,Leo,...,neutral
+FE14Paralogues,P16-Abducted,Niles,Milord Leo? Urgent news. The town just ahead is being swarmed by brigands. They also say that a beautiful woman was caught in all the fracas. But she’s apparently a troubadour and is doing her best to treat the wounded.,negative
+FE14Paralogues,P16-Abducted,Leo,"No, this can’t be...",negative
+FE14Paralogues,P16-Abducted,Elise,"Uh-oh, what now? You’re as pale as a ghost.",negative
+FE14Paralogues,P16-Abducted,Leo,"We need to get there, before...before... Let’s just get there...fast!",neutral
+FE14Paralogues,P16-Abducted,???,"Well, that’s that. I must have healed a dozen villagers. I’d better keep looking for more wounded. Those brigands—mindless beasts!",negative
+FE14Paralogues,P16-Abducted,Elise,"Ah! That must be the troubadour we heard about. She’s as beautiful as they say. Don’t you agree, Leo?",positive
+FE14Paralogues,P16-Abducted,Leo,...,neutral
+FE14Paralogues,P16-Abducted,Elise,Big Brother? What’s wrong?,negative
+FE14Paralogues,P16-Abducted,Forrest,Father! You’re here!,positive
+FE14Paralogues,P16-Abducted,Leo,...,neutral
+FE14Paralogues,P16-Abducted,Elise,"Hm? What do you mean...Father? You mistake us for someone else. I mean, unless—HA! Unless my brother here has been hiding a second child!",neutral
+FE14Paralogues,P16-Abducted,Leo,"Don't be crass, Elise.",negative
+FE14Paralogues,P16-Abducted,Forrest,"Father? What does she mean? Has the cat got your tongue? Hmm. I'll introduce myself then. Delighted to make your acquaintance, Aunt Elise. I'm Forrest.",positive
+FE14Paralogues,P16-Abducted,Elise,What?! You're Leo's son?,neutral
+FE14Paralogues,P16-Abducted,Forrest,Of course. The one and only.,neutral
+FE14Paralogues,P16-Abducted,Elise,"Oh, wow! You're...you're... You're better than I could have ever imagined! And your sense of style is...is... It's exquisite!",positive
+FE14Paralogues,P16-Abducted,Forrest,"Why, thank you.",positive
+FE14Paralogues,P16-Abducted,Leo,You... What are YOU doing outside of the Deeprealms?,neutral
+FE14Paralogues,P16-Abducted,Forrest,"I heard that this village is a fine place to shop for sewing supplies. My village has an abominable selection. One cannot make fashion from burlap. But soon as I arrived, brigands came crawling out of the woodwork. Fortunately for the villagers here, I came just in time to heal their wounded.",neutral
+FE14Paralogues,P16-Abducted,Leo,You’re a disgrace.,negative
+FE14Paralogues,P16-Abducted,Forrest,Oh? Excuse me? Since when is saving lives considered a disgrace?,negative
+FE14Paralogues,P16-Abducted,Leo,"You know what I mean, Forrest. You! The way you dress. I’ve told you before...",neutral
+FE14Paralogues,P16-Abducted,Forrest,But... never so cruelly! Why are you being so hateful? In front of Aunt Elise too!,negative
+FE14Paralogues,P16-Abducted,Elise,Leo! What’s wrong with you?! Embrace our lovely Forrest!,negative
+FE14Paralogues,P16-Abducted,Leo,"No—and hold your tongue, Elise. This isn’t your business.",negative
+FE14Paralogues,P16-Abducted,Forrest,I’m sorry... Sorry that I ever left my Deeprealm! I’ll go back where I’m appreciated.,negative
+FE14Paralogues,P16-Abducted,Leo,"Well then, godspeed. But...hold on, Forrest! Watch where you’re—! You’re running straight for—!",neutral
+FE14Paralogues,P16-Abducted,Forrest,No! Get your paws off of me!,negative
+FE14Paralogues,P16-Abducted,Ruffian,"Well hello, young miss! What’s a lady like you doing in this pigsty? Heh. How about I be a gentleman and put you somewhere nice and safe. Wouldn’t want a pretty thing like you to get hurt. Let’s get ‘er, boys. She’ll fetch a king’s ransom in gold.",positive
+FE14Paralogues,P16-Abducted,Forrest,And now THIS too?!,neutral
+FE14Paralogues,P16-Abducted,Elise,Stop! Forrest—we’re coming!,negative
+FE14Paralogues,P16-Abducted,Leo,...,neutral
+FE14Paralogues,P16-Abducted,Elise,Leo! Stop being a jerk and help me save your son!,negative
+FE14Paralogues,P16-Abducted,Leo,...,neutral
+FE14Paralogues,P16-Abducted,Elise,All right! Then I guess it’s up to the rest of us to rescue my nephew!,positive
+FE14Paralogues,P16-Abducted,Leo,...,neutral
+FE14Paralogues,P16-Abducted,Leo,"Hmm... These dastards may intend to keep Forrest safe for ransom. But if hard pressed, such brutal apes wouldn't think twice about killing him. We should try to keep the peace as long as possible—until we get near Forrest.",negative
+FE14Paralogues,P16-Abducted,Ruffian,"Nice try! You raise a finger against us? I'll send an axman for our hostage. Besides, some of you look classy enough to make for even BETTER hostages. Har! Get 'em all, boys!",negative
+FE14Paralogues,P16-Abducted,Gazak,I don't care WHO you are! This village is MINE. And everyone in it too!,negative
+FE14Paralogues,P16-Abducted,Forrest,"What a shame, Father. To meet your brave friends—and now say farewell? But I’ll make good on my promise to head back to my Deeprealm. Don’t think for one moment that I’m leaving to spare your feelings. You’re unworthy of me, Father. I’ll miss Aunt Elise, of course. But I’m sure that SHE will visit me. And so, farewell.",positive
+FE14Paralogues,P16-Abducted,Leo,Forrest...,neutral
+FE14Paralogues,P16-Abducted,Boy,"Please, wait! Forrest, is it? You may not remember—you saved me. As I lay dying, there you were! And then I was fine! I don’t have much. But please, take this. Just a small token of my appreciation.",positive
+FE14Paralogues,P16-Abducted,Forrest,"Why, thank you! This broach is beautiful. But I can’t take this. I was only doing my duty.",positive
+FE14Paralogues,P16-Abducted,Boy,"Uh-huh! Yes you will! My whole family would have been dead without you. Wait right here. I’ll get them, and a lot of other people who want to thank you!",positive
+FE14Paralogues,P16-Abducted,Leo,"... Nice trinket you got there. I mean... Er, I mean... Sorry, I can be a bit of a jerk, as Elise so bluntly puts it. That is...indeed a lovely keepsake the villager gave you. And you are the hero here. We...I merely blundered in late.",negative
+FE14Paralogues,P16-Abducted,Forrest,"Oh? Well, Father, I know it must agonize you to say something nice to me. I’ll take your words with me as a keepsake too.",positive
+FE14Paralogues,P16-Abducted,Leo,"I’m sorry. I truly am. I must seem like a stone-hearted father to you. You’re right to say I’m not worthy. That Elise was able to see you as a person of sterling qualities... While I couldn’t? I’m, er, I’m a better person than this. So I like to think.",negative
+FE14Paralogues,P16-Abducted,Forrest,Father? An apology from you? Don’t bother. I really don’t need—,negative
+FE14Paralogues,P16-Abducted,Leo,"Yes, I’m sure you don’t, Son. You’re far stronger than I ever could be. And I’m embarrassed to ask... But I wonder if you’d want to spend more time with your father? I don’t mean in the Deeprealms. I mean here, with me.",negative
+FE14Paralogues,P16-Abducted,Forrest,... What a joy! I can get to know my Aunt Elise. She and I will be fast friends. I might even learn a thing or two about fashion from her. Or she from me.,positive
+FE14Paralogues,P16-Abducted,Elise,"Yay! You’re actually going to come with us, Forrest?",neutral
+FE14Paralogues,P16-Abducted,Forrest,Of course. I couldn’t say no to my Aunt Elise.,neutral
+FE14Paralogues,P16-Abducted,Elise,"Hm? Hold on. You have to stop that RIGHT now, Forrest. I’m not going anywhere with you if you keep on with this “Aunt” stuff.",neutral
+FE14Paralogues,P16-Abducted,Forrest,Fair enough...Elise.,neutral
+FE14Paralogues,P16-Abducted,Elise,Phew! I’m just NOT ready to grow up THAT much yet.,positive
+FE14Paralogues,P16-Abducted,Forrest,"Well, you’re sure about this? I’m giving up a lot to join you, Father.",positive
+FE14Paralogues,P16-Abducted,Leo,"Yes, absolutely. And I give you my solemn vow, Forrest... I’ll learn to be a father worthy of you.",positive
+FE14Paralogues,P22-AbruptClash,Old Man,"Hmm, yes. You will do nicely. If you are willing to help. A band of thieves has been prowling around my manor lately. They've heard that I'm storing some precious Nohrian objects here. I consider myself quite a collector of cultural items. So you must understand... I'm losing sleep, worrying about those thieves breaking in to steal them. I doubt this matters much to great heroes like you. But to preserve Nohr's culture... Would you help?",negative
+FE14Paralogues,P22-AbruptClash,Silas,"Absolutely. For Nohr, anything! And we happen to have our best expert on thievery right here.",neutral
+FE14Paralogues,P22-AbruptClash,Niles,"Oh! Who, little ol' me? Sure, I know a thing or two about manors and how to crack'em. I know how I'd break in. So I'm already 10 steps ahead of them.",neutral
+FE14Paralogues,P22-AbruptClash,Old Man,"Ah, then I place my trust in you. Thank you.",positive
+FE14Paralogues,P22-AbruptClash,Niles,"The pleasure is mine. Believe me. When I catch petty crooks in the act, they never fail to soil their breeches. It's always good fun to see fools brought low.",negative
+FE14Paralogues,P22-AbruptClash,Niles,"All right. We're ready, Silas. Those fools won't even know what hit 'em. They're outside in the shadows. And they'll be inside soon. Off with you. Or else you'll scare these jokers away.",negative
+FE14Paralogues,P22-AbruptClash,Silas,"I have faith in you, Niles. Now, be careful.",negative
+FE14Paralogues,P22-AbruptClash,Niles,"Oh, sweet faith! Best I not rely on that. I'm better under cover of darkness. Now, when will they... Ah! That didn't take long.",positive
+FE14Paralogues,P22-AbruptClash,???,Ooof!,negative
+FE14Paralogues,P22-AbruptClash,Niles,"You can't hide from me. Come out, come out, whoever you are. You call yourself a thief, blundering in here like that? You're a disgrace to your profession. Come on, show your face!",negative
+FE14Paralogues,P22-AbruptClash,Nina,...,neutral
+FE14Paralogues,P22-AbruptClash,Niles,Nina?! What are you doing here?,neutral
+FE14Paralogues,P22-AbruptClash,Nina,Huh? Father?!,neutral
+FE14Paralogues,P22-AbruptClash,Niles,"Hey, you should be in your Deeprealm. Where I put you.",neutral
+FE14Paralogues,P22-AbruptClash,Nina,Hmpf! You didn’t even notice that I broke out of there a ways back! I had to pursue my true calling. That of chivalrous thievery!,negative
+FE14Paralogues,P22-AbruptClash,Niles,Huh? Chivalrous thievery?,neutral
+FE14Paralogues,P22-AbruptClash,Nina,That's right. Must I explain it to you? I steal from the rich. I give to the poor. The creep who owns this manor is one of the richest. So here I am. You wouldn’t believe how he's gotten his hoard of treasures. Not that you'd care.,negative
+FE14Paralogues,P22-AbruptClash,Niles,"Wait! None of that matters. What's the one thing I've told you, again and again?! No stealing. And all of your jabber about rich and poor doesn't matter!",negative
+FE14Paralogues,P22-AbruptClash,Nina,"You're wrong. It's justified. Not that I have to justify myself to you. Now, let me go...Father.",negative
+FE14Paralogues,P22-AbruptClash,Niles,"No. I'm here to round up a bunch of filthy thieves, Daughter.",negative
+FE14Paralogues,P22-AbruptClash,Nina,Hmm. Fine words from one of the filthiest of them.,neutral
+FE14Paralogues,P22-AbruptClash,Niles,"How dare you, Nina. Now, come with me.",negative
+FE14Paralogues,P22-AbruptClash,Nina,Back off! I'm not going anywhere with you. I'm on the side of right. Out of my way!,negative
+FE14Paralogues,P22-AbruptClash,Niles,"You strike your father?! Apologize, now. That might make things right between us. Though I'm still going to make sure you're punished.",negative
+FE14Paralogues,P22-AbruptClash,Nina,You can't make me! And you can't CATCH me!,negative
+FE14Paralogues,P22-AbruptClash,Nina,Lookee what we have here... Rooms just full of goods to liberate! My friends! Burgle quickly! They're onto us—just grab and go!,negative
+FE14Paralogues,P22-AbruptClash,Niles,"Nina, stop. You've deluded yourself that you're on the side of right.",negative
+FE14Paralogues,P22-AbruptClash,Nina,"I've dreamed about this, Father. Draining the coffers of the wealthy! Vindicating the poor! We're getting what we need, and then getting out. I leave you to your disgrace. What DO you do these days anyway?! Pfft! Don't answer. I don't care. Good-bye, Father.",negative
+FE14Paralogues,P22-AbruptClash,Nina,Let me go! Let me go!,negative
+FE14Paralogues,P22-AbruptClash,Niles,"Nina, it's over. Now you're going to get what's coming to you.",neutral
+FE14Paralogues,P22-AbruptClash,Nina,"We have wildly differing view on justice. Do your worst, villain.",negative
+FE14Paralogues,P22-AbruptClash,Niles,"Huh? I'm not half the villain you think I am. Why, not even a tenth.",neutral
+FE14Paralogues,P22-AbruptClash,Nina,"I spit on your idea of villainy then. And you think you know me? You rarely visited. I made myself into who I am. You shouldn't be surprised that we're different as night and day. So take out your weapon. Do what you must, villain.",negative
+FE14Paralogues,P22-AbruptClash,Niles,Stop saying that.,negative
+FE14Paralogues,P22-AbruptClash,Nina,Arghh! Just do it already!,negative
+FE14Paralogues,P22-AbruptClash,Niles,"Wait! This foolishness must end. Come with me, Daughter.",negative
+FE14Paralogues,P22-AbruptClash,Nina,No! Never.,negative
+FE14Paralogues,P22-AbruptClash,Niles,Listen—how can you just throw your life away? How can you say that I never had a care for you? Why do you think I hid you in the Deeprealms?,negative
+FE14Paralogues,P22-AbruptClash,Nina,Because I wasn't worth your time!,negative
+FE14Paralogues,P22-AbruptClash,Niles,"No. I would have kept you near as my dearest treasure. I didn't want you to get caught up in the fighting of our time. I wanted you to be safe. My world does terrible things to people. I have endured it all. But if something happened to you, it would have been the end of me.",negative
+FE14Paralogues,P22-AbruptClash,Nina,...,neutral
+FE14Paralogues,P22-AbruptClash,Niles,"I haven't convinced you, clearly. I'll let you go free. But only as a member of our party. I wish you hadn't chosen a thief's life, but I can keep you from the worst of it.",negative
+FE14Paralogues,P22-AbruptClash,Nina,You want me to join you? I won't abandon my cause. You're clueless about what I'm doing. The man who owns this manor... Do you KNOW how he got all his money? He's destroyed families. He's swindled women and men of their life savings. One of the people in my group grew up in one such family. We demand justice! And that leaves you and me only one way out of this.,negative
+FE14Paralogues,P22-AbruptClash,Niles,"Nina, please...",neutral
+FE14Paralogues,P22-AbruptClash,Nina,"Father, I'll admit that I may have misjudged you—a little. I consider myself a fair woman, so I'll give you one last chance. If you and your friends look into this vile man's dealings... I'll join your party.",negative
+FE14Paralogues,P22-AbruptClash,Niles,"Yes, well, many people misjudge me. But I've done the same to you. I promise to do better, starting now. We'll do what we can here.",negative
+FE14Paralogues,P22-AbruptClash,Niles,Sorry this all got so damned complicated. Leave it to me to turn a standard manor mission into a family crisis.,negative
+FE14Paralogues,P22-AbruptClash,Silas,"No, don't worry. Besides, thanks to Nina, we exposed what was going on. She was right as can be about the evil schemes this man was up to. We should be thanking your daughter. I know Corrin feels the same.",positive
+FE14Paralogues,P22-AbruptClash,Niles,"Ah, really? What a relief. I hate airing my dirty laundry in public.",negative
+FE14Paralogues,P22-AbruptClash,Nina,"... Oh, what are THEY muttering about? Awfully chummy, those two. The fellow my father is talking to...not bad...not bad... I guess there IS a silver lining in being stuck in my father's brigade. Are there more fine gents worthy of my attention? Maybe a whole smorgasbord of masculine delights?",negative
+FE14Paralogues,P22-AbruptClash,Niles,Huh? Daughter? What is it? Silas believes that you're staring. Do you need something?,neutral
+FE14Paralogues,P22-AbruptClash,Nina,Nope. Nothing. I'm just fine. You two just carry on.,neutral
+FE14Paralogues,P22-AbruptClash,Niles,"Yeah, fine. We, uh, will.",positive
+FE14Paralogues,P22-AbruptClash,Nina,"Wellity, wellity, wellity... Silas is quite the appetizer. I hope there are more tasty sights in store!",positive
+FE14Paralogues,P11-ALongGrudge,Hinata,"Hisame! Over here! It's Dad! Lucky kid I got, living here in a Deeprealm. Catch a whiff of that breeze! Smells like freedom! And good times! HEY! HISAME! OVER HERE!",positive
+FE14Paralogues,P11-ALongGrudge,Hisame," Father, you don't need to yell.",neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,"What?! Hey, what's with this Father stuff? I was Dad last time I checked. Remember? The guy you'd come running to see when I showed up? What's this? You're way over...there. Do I stink or something?",negative
+FE14Paralogues,P11-ALongGrudge,Hisame,No. I'm just older now.,neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,Hmm. My boy's in his teens now? I get it. You don't want to hang out with Dad. I remember being your age. Seems like yesterday. You're just as moody as I was.,neutral
+FE14Paralogues,P11-ALongGrudge,Hisame,"Leave me alone, Father. You don't understand. I'm not being...moody.",negative
+FE14Paralogues,P11-ALongGrudge,Hinata,"Heh. Didn't mean to make fun of you. Just giving you a hard time. C'mon. I came all this way. Can't I ruffle my boy's hair, like the old days?",negative
+FE14Paralogues,P11-ALongGrudge,Hisame,*mumble* ...it.,neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,Come again? A little louder? Pipe up? What'd you say?,neutral
+FE14Paralogues,P11-ALongGrudge,Hisame,"Please stop it, Father! You haven't been back to visit me in ages! You can't just breeze in and out like we're still the best of friends!",negative
+FE14Paralogues,P11-ALongGrudge,Hinata,"But I came to visit only a few...? Er, what was it? Days? Weeks?",neutral
+FE14Paralogues,P11-ALongGrudge,Hisame,"I just... I just want you to leave. You forget how time passes here. I've learned to be just fine on my own. So, good-bye, Father.",positive
+FE14Paralogues,P11-ALongGrudge,Hinata,"... Aw, man. I really screwed this up. Last time he was so happy. But, now? There goes my little boy, off and running... Whoa. Wait. Where IS he running?! Uh-oh.",negative
+FE14Paralogues,P11-ALongGrudge,Hisame,"Oh, dear. I didn't mean to do that. I've run into Father's world.",negative
+FE14Paralogues,P11-ALongGrudge,Faceless,Gurr-graaah...,negative
+FE14Paralogues,P11-ALongGrudge,Hisame,Ayaaaah! This is where Father lives? Around m-m-monsters like this?! If only he were here! No. I have to fight my own battles. Starting now.,negative
+FE14Paralogues,P11-ALongGrudge,Hinata,"Are you hurt, Hisame?",neutral
+FE14Paralogues,P11-ALongGrudge,Hisame,"Father, you came to rescue me? After everything I said?",neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,"Hey now, don't you worry. Your dad's here. Late, yeah. But here. And these monsters don't stand a chance against me!",negative
+FE14Paralogues,P11-ALongGrudge,Hisame,Hmm. *mumble*...a hero.,neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,What? You say something? Can't mumble in battle. You gotta get to it!,negative
+FE14Paralogues,P11-ALongGrudge,Hisame,"No, it's nothing. Really.",neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,"Ah, well, if you say so. Now, excuse your dad while he goes in swinging! Hide over there, Son. I'll give a shout when it's safe to come out!",negative
+FE14Paralogues,P11-ALongGrudge,Hisame,"No... I'm staying. I've got your back, Father.",neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,"Whoa! When'd you grow up to be a hero like your ol' dad? I've got your back too, Son. No one's ever going to get between us.",positive
+FE14Paralogues,P11-ALongGrudge,Hisame,"Yes, I'll make sure of that.",positive
+FE14Paralogues,P11-ALongGrudge,Hinata,"All right, come on. Let's show these gross piles of evil who's boss.",negative
+FE14Paralogues,P11-ALongGrudge,Hisame,Let's end this quickly. It's cutting into my father-son time.,negative
+FE14Paralogues,P11-ALongGrudge,Hisame,"Thank you, Father—to you and your friends. I don't know what I would have done. And with that, good-bye.",positive
+FE14Paralogues,P11-ALongGrudge,Hinata,"Hey now, you're still giving up on me? That's it? No talking it through?",negative
+FE14Paralogues,P11-ALongGrudge,Hisame," I...I can explain... Of course I clearly belong in the Deeprealms. That's why you stuck me there, right? Because I couldn't make it here?",neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,You've got it all wrong. Come on. Hold up. Let's talk this ALL out.,negative
+FE14Paralogues,P11-ALongGrudge,Hisame,Absolutely not. There's no point. You're a hero. I'm not.,negative
+FE14Paralogues,P11-ALongGrudge,Hinata,"Hmm. You're being a blockhead, Son. So I'm going to lay it out for you... Did you SEE yourself out there?! That was a HERO on the field! How'd you even do any of that? You were amazing. That's proof enough that you're right. I wasn't here. YOU trained you.",positive
+FE14Paralogues,P11-ALongGrudge,Hisame,...,neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,"Hisame, please. Travel with me? You don't need to go back.",neutral
+FE14Paralogues,P11-ALongGrudge,Hisame,Hmm? Go with you? I won't get in your way?,neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,"No, of course not. I'd love to have you around all the time. I hope I can make it up to you for not visiting enough. Guess your dad's just sort of a jerk, not realizing about the time difference. But I swear we'll spend every possible minute together from now on!",positive
+FE14Paralogues,P11-ALongGrudge,Hisame,"Father... I mean, Dad... All right. Let's go. Heh. You haven't changed a bit. Just like when you used to show up and I'd come running...",positive
+FE14Paralogues,P11-ALongGrudge,Hinata,Haha! Yeah! Where's my hug?! I got some hair-ruffling to catch up on! Come on over here!,positive
+FE14Paralogues,P11-ALongGrudge,Hisame,"Gods, no. I'm not a child anymore!",negative
+FE14Paralogues,P11-ALongGrudge,Hinata,"Oh, that's right. OK, OK... I got it. We're good.",positive
+FE14Paralogues,P11-ALongGrudge,Hisame,"You really haven't changed, Dad. Still just a big, dumb bear.",negative
+FE14Paralogues,P11-ALongGrudge,Hinata,All right! I can work with that! Huh? Hang on. Hold everything. You're not! You can't be! Have you gotten TALLER than me?!,neutral
+FE14Paralogues,P11-ALongGrudge,Hisame,"Heh. Maybe? Maybe not. Anyway, I need to head back home to say good-bye. I'll be back shortly.",neutral
+FE14Paralogues,P11-ALongGrudge,Hinata,What? No way! Stand next to me! Just for a second! We gotta measure it out!,negative
+FE14Paralogues,P15-HiddenBravery,Leo,"Brother, your son lives around here, does he not?",neutral
+FE14Paralogues,P15-HiddenBravery,Xander,"Hmph, yes. I hope Siegbert is well. It's been too long since my last visit.",positive
+FE14Paralogues,P15-HiddenBravery,Siegbert,"Father? Is that you? By the gods, you've returned!",neutral
+FE14Paralogues,P15-HiddenBravery,Xander,"Siegbert, my son. You've grown since last I saw you.",positive
+FE14Paralogues,P15-HiddenBravery,Siegbert,"I just can't believe it—you're actually really and truly here! Sorry, Father. I don't mean to get so carried away. It's just that... I receive missives that update me on all the important things you're doing. Every time I get one, I wish I could hear it all from you. But I know how busy you are.",negative
+FE14Paralogues,P15-HiddenBravery,Xander,"I'm sorry, Son. I hope you haven't been too disappointed in me.",negative
+FE14Paralogues,P15-HiddenBravery,Siegbert,"No... I mean, NO! I would never think that of you, Father! Besides, I've been very busy myself. My studies of diplomacy, politesse, etiquette—the arts of conversation... Practicing my swordsmanship, even my penmanship... All of these lessons keep me busy from dawn until dusk—I even dream it! It's in the hopes that you won't be too disappointed in ME.",negative
+FE14Paralogues,P15-HiddenBravery,Xander,I see. How impressive. May I prove worthy of such a diligent son.,positive
+FE14Paralogues,P15-HiddenBravery,Siegbert,"Father, please don't say such a...",neutral
+FE14Paralogues,P15-HiddenBravery,Xander,Who is this approaching?,neutral
+FE14Paralogues,P15-HiddenBravery,Siegbert,They're back!,positive
+FE14Paralogues,P15-HiddenBravery,Xander,What? Who's back?,neutral
+FE14Paralogues,P15-HiddenBravery,Siegbert,"They return today of all days? At this very moment? Damn them. Don't worry, Father! I'll take care of them immediately!",negative
+FE14Paralogues,P15-HiddenBravery,Xander,"Wait, Siegbert!",neutral
+FE14Paralogues,P15-HiddenBravery,Siegbert,What's happening? There are never this many of them!,neutral
+FE14Paralogues,P15-HiddenBravery,Xander,This invaders seem to be emerging from the waters itself. Curious. Perhaps there's a way to close those doors. So to speak.,neutral
+FE14Paralogues,P15-HiddenBravery,Xander,"Siegbert, this isn't the first time these enemies have come here, is it? Why didn't you notify me?",neutral
+FE14Paralogues,P15-HiddenBravery,Siegbert,"I...I just couldn't bring myself to do that, Father.",negative
+FE14Paralogues,P15-HiddenBravery,Xander,"Hmm? I expect you to do your duty, Son.",neutral
+FE14Paralogues,P15-HiddenBravery,Siegbert,"Ah, I'm sorry. But I've heard so many tales of what an important leader you are. You've got a whole realm to look after—countless lives. If I can't manage a few incursions here...if I couldn't defeat them... I wouldn't be worthy of being called your son. So, I couldn't tell you.",negative
+FE14Paralogues,P15-HiddenBravery,Xander,Hmpf. Commendable.,neutral
+FE14Paralogues,P15-HiddenBravery,Siegbert,Father? But I've hardly done anything worthy of such praise.,negative
+FE14Paralogues,P15-HiddenBravery,Xander,"Siegbert, not many people need to learn how to shoulder such burdens alone. You do, I'm sorry to say. Yet I've never had to tell you so. You came to that realization on your own and meted out justice by yourself. Incredible.",negative
+FE14Paralogues,P15-HiddenBravery,Siegbert,"Father, you truly think so? I worried I was bringing shame on your name.",negative
+FE14Paralogues,P15-HiddenBravery,Xander,"I'm sorry, Son. While you have grown into your role, I have failed in mine. I am not just a ruler. I am a father, and I have a son to look out for too. From now on, be sure to tell me anything that's on your mind.",negative
+FE14Paralogues,P15-HiddenBravery,Siegbert,"... Um, then may I... Could I possibly... I want to join you, Father!",positive
+FE14Paralogues,P15-HiddenBravery,Xander,What? Join me?,neutral
+FE14Paralogues,P15-HiddenBravery,Siegbert,I...I know why you placed me here—to keep me out of the war. But I believe that I will serve our kingdom far better there than here.,negative
+FE14Paralogues,P15-HiddenBravery,Xander,"... Listen, the war is more brutal than you've read in the missives sent to you. Battlefields are bloody. Lives are lost. What you see may haunt you. Are you truly prepared for that? There's no dishonor in saying no. Indeed, I will send you back here if you prove unready.",negative
+FE14Paralogues,P15-HiddenBravery,Siegbert,"Yes, I am! I swear that I am!",negative
+FE14Paralogues,P15-HiddenBravery,Xander,"I see. I trust you know yourself better than I do, Son. Then you are welcome on our grim march, Siegbert.",positive
+FE14Paralogues,P15-HiddenBravery,Siegbert,"Th-thank you, Father. I won't get in your way.",positive
+FE14Paralogues,P15-HiddenBravery,Xander,"Together, Son! We march together. Not apart. But I give you my oath: I will defend your life at all costs. That is my privilege as your father. And your right as my son.",positive
+FE14Paralogues,P21-BrightSmile,Mercenary,"We really pulverized those dastards back there, Soleil!",negative
+FE14Paralogues,P21-BrightSmile,Soleil,"Nice work! We chased off those bandits. Did you see 'em run?! Yipe, yipe, yipe! Tails between their legs?! Dirty dogs. And who's the best town watch in this or any other world? Us! That's who!",negative
+FE14Paralogues,P21-BrightSmile,Ruffian,"Wait up. What was that about yipe, yipe, yipe?",neutral
+FE14Paralogues,P21-BrightSmile,Soleil,"Hmm? Back for more, eh?",neutral
+FE14Paralogues,P21-BrightSmile,Ruffian,We didn't run. We were just calling some friends to this little party.,negative
+FE14Paralogues,P21-BrightSmile,Soleil,"Uh, what?",neutral
+FE14Paralogues,P21-BrightSmile,Mercenary,Ma'am! There are too many of them. No way we can take them all on!,negative
+FE14Paralogues,P21-BrightSmile,Soleil,Come on! Turn that frown upside down. Know what you have then? A smile! That's what my father taught me. If you can't smile? Stand on your head! That'll turn your frown upside—,negative
+FE14Paralogues,P21-BrightSmile,Ruffian,"Heh! What a crock. Let's see if you're still smiling once my friends get the best of you. Men, ATTACK!",negative
+FE14Paralogues,P21-BrightSmile,Soleil,BRING! IT ! ON!,neutral
+FE14Paralogues,P21-BrightSmile,Laslow,I guess the report was false. Seems pretty calm here. That's fine by me. One night off from coming to the rescue? Perfect. Maybe we can get a little rest and relaxation while we're here...,positive
+FE14Paralogues,P21-BrightSmile,Silas,Hey! Listen up. trouble's brewing. The town watch chased off some bandits. But they returned with friends. And more are coming. This town's about to be sacked.,negative
+FE14Paralogues,P21-BrightSmile,Laslow,What? Then we've got to get in there and help!,neutral
+FE14Paralogues,P21-BrightSmile,Silas,"Yes, let's. The town watch is in way over their heads. Though it's said they have a skilled mercenary leading them. She's also got the happiest band of me I've ever seen—they're all smiles!",positive
+FE14Paralogues,P21-BrightSmile,Laslow,"Hmm? I wonder who she is? All smiles, you say? Uh-oh. It can't be...Soleil?",neutral
+FE14Paralogues,P21-BrightSmile,Silas,"Yes, that's her name. So you know this girl? I can't believe she'd dare come to such a dread place as this.",negative
+FE14Paralogues,P21-BrightSmile,Laslow,You don't know my daughter. She doesn’t' get the chills easily.,neutral
+FE14Paralogues,P21-BrightSmile,Silas,What?! Soleil is your daughter? But isn't your child off in her Deeprealm?,neutral
+FE14Paralogues,P21-BrightSmile,Laslow,"Well, she should be. But Soleil is her own woman—like a force of nature. She's gathered a band of do-gooders around her. She's just like that. But Soleil and her men shouldn't be here. These bandits mean business.",negative
+FE14Paralogues,P21-BrightSmile,Silas,"Wait, Laslow! Are you sure that this Soleil is your daughter? We can't just run in—it could be some sort of trap!",negative
+FE14Paralogues,P21-BrightSmile,Soleil,Father?! What brings you here?,neutral
+FE14Paralogues,P21-BrightSmile,Laslow,"You all right, Soleil?",neutral
+FE14Paralogues,P21-BrightSmile,Soleil,"Always! I am your daughter, after all. Nothing ever gets to me! Not even these bandits! Well, I mean... Maybe I was worried. But only a... Only a...",positive
+FE14Paralogues,P21-BrightSmile,Laslow,Hmm? Daughter?,neutral
+FE14Paralogues,P21-BrightSmile,Soleil,OK. I'll admit it. This is bad. And I can't bring myself to tell my men.,negative
+FE14Paralogues,P21-BrightSmile,Laslow,"Soleil, I know I always said to keep on smiling. But sometimes it's fine to drop it if it feels like an act. Still, you'll have to forgive me if I smile, looking at you here. You've grown into such a hero! Let me share one of my secrets. If battle is turning against me... And I can't smile? I laugh. A lot. It really confuses the enemy. Then I get the upper hand, and I'm smiling again before I know it!",negative
+FE14Paralogues,P21-BrightSmile,Soleil,Whoa. That's brilliant.,positive
+FE14Paralogues,P21-BrightSmile,Laslow,See? There's that smile again. An honest smile. Nothing lovelier. Ready to smile? Laugh? Whatever it takes out there to win?,positive
+FE14Paralogues,P21-BrightSmile,Soleil,Woo-hoo! Yeah!,positive
+FE14Paralogues,P21-BrightSmile,Zhara,You don't know me. I don't know you. But before I was a bandit...? I was a swordsman. The best! Come on—I'll test my blade on you.,positive
+FE14Paralogues,P21-BrightSmile,Laslow,"Soleil, you were amazing.",positive
+FE14Paralogues,P21-BrightSmile,Soleil,"Wahooo! Thanks, Father. And thanks to all your friends. I'm so happy that you came.",positive
+FE14Paralogues,P21-BrightSmile,Laslow,I'm happy that you're alive. This was no piece of cake.,positive
+FE14Paralogues,P21-BrightSmile,Silas,"Um, if I may? We could use someone like her—fighting with a smile on her face. We're always on such a grim march. She'd put some pep in our step.",negative
+FE14Paralogues,P21-BrightSmile,Laslow,Huh? Aren't I smiley enough?,neutral
+FE14Paralogues,P21-BrightSmile,Soleil,"Yaaay! I'd love to come! You have to let me, Father. You HAVE to!",positive
+FE14Paralogues,P21-BrightSmile,Laslow,"Well, um...",neutral
+FE14Paralogues,P21-BrightSmile,Silas,"Once more, Laslow? I couldn't hear you through your frown.",neutral
+FE14Paralogues,P21-BrightSmile,Laslow,Um...all right. I could use some extra support on the smiley front.,neutral
+FE14Paralogues,P21-BrightSmile,Silas,Hmmm? Who's this?,neutral
+FE14Paralogues,P21-BrightSmile,Girl,"Thank you, Soleil! Our town would be a pile of rocks if you hadn't helped! Here, something to remember us by!",positive
+FE14Paralogues,P21-BrightSmile,Soleil,Oh! My goodness...,positive
+FE14Paralogues,P21-BrightSmile,Girl,"Um, what's with the blushing? You're pink as a rose, Soleil.",neutral
+FE14Paralogues,P21-BrightSmile,Soleil,Wow. Cute! Um...hi! Again. Did I say hi? Sorry. Blanked out there. You're just too pretty for words. But I guess those are words. About you being pretty.,positive
+FE14Paralogues,P21-BrightSmile,Girl,"Hmm, I am?",neutral
+FE14Paralogues,P21-BrightSmile,Soleil,Let's go stargazing. Shall we? Do you want to? Just the two of us?,negative
+FE14Paralogues,P21-BrightSmile,Girl,Yes! I'd love to!,positive
+FE14Paralogues,P21-BrightSmile,Soleil,"Whoa. Really? You and me, beneath the stars? I can't wait!",neutral
+FE14Paralogues,P21-BrightSmile,Silas,"Hmm, Laslow, did your daughter just ask that girl out to gaze at the stars?",neutral
+FE14Paralogues,P21-BrightSmile,Laslow,"Why, yes! She's got good taste. In women as well as men—got a problem with that?",negative
+FE14Paralogues,P21-BrightSmile,Silas,"No, of course not.",neutral
+FE14Paralogues,P21-BrightSmile,Soleil,"Wahooo! She said yes, Father! See, I always told you—be honest with women. It's not a game. Just wear your heart on your sleeve. On BOTH your sleeves!",positive
+FE14Paralogues,P21-BrightSmile,Laslow,"Soleil...I guess I can look forward to more of these dating tips, eh?",positive
+FE14Paralogues,P21-BrightSmile,Soleil,I don't imagine we'll have much time for these little daughter-father chats. But you can always rely on me!,negative
+FE14Paralogues,P21-BrightSmile,Laslow,"It's true. We're at war. But I'll always have time for you, Soleil.",positive
+FE14Paralogues,P21-BrightSmile,Silas,What a breath of fresh air. How'd someone like YOU end up with a great daughter?,neutral
+FE14Paralogues,P21-BrightSmile,Laslow,"What do you mean, ME? But, yes. I suppose I am fortunate to have such a delight as Soleil in my life!",positive
+FE14Paralogues,P12-SweetDreams,Saizo,"Hey, Azama, you look terrible. Like you've seen a ghost.",negative
+FE14Paralogues,P12-SweetDreams,Azama,"No, nothing that awful. It's just that my daughter's village is under attack.",negative
+FE14Paralogues,P12-SweetDreams,Saizo,What? That's FAR worse. We have to get there and rescue her.,negative
+FE14Paralogues,P12-SweetDreams,Azama,"Let's see... I guess it is worse, though everyone has to die sometime.",negative
+FE14Paralogues,P12-SweetDreams,Saizo,"What?! We're talking about your daughter here! Let's get to saving her, man!",positive
+FE14Paralogues,P12-SweetDreams,Azama,"Impatient, aren't you? Then let's go, if you're in such a hurry.",negative
+FE14Paralogues,P12-SweetDreams,Saizo,"My god! The village in this Deeprealm is completely overrun with our enemies! This is where Mitama lives, right? Then where IS your daughter?",negative
+FE14Paralogues,P12-SweetDreams,Azama,This is not good... I don't see her anywhere... Oh! Ah! I'm wrong. There's an air of calm here. She must be fine.,negative
+FE14Paralogues,P12-SweetDreams,Saizo,"Hmm. Somehow I seriously doubt that. Look at this place, you fool.",neutral
+FE14Paralogues,P12-SweetDreams,Azama,"Um, well...she's probably fine. I put her in a perfectly sound house.",positive
+FE14Paralogues,P12-SweetDreams,Azama,See? That place is still standing. It hasn't taken any damage.,neutral
+FE14Paralogues,P12-SweetDreams,Saizo,"... We're going in to check on her safety, you damned fool.",negative
+FE14Paralogues,P12-SweetDreams,Azama,Mitama? Knock knock! It's your father. Are you home?,negative
+FE14Paralogues,P12-SweetDreams,Mitama,Wh-who?,neutral
+FE14Paralogues,P12-SweetDreams,Azama,"Oh, you are home. Could you come to the door, please? It's only fair that you join us outside. Or let us all in. Either way.",positive
+FE14Paralogues,P12-SweetDreams,Mitama,Who? What now? Off with you. I'm enjoying a lovely snooze...,positive
+FE14Paralogues,P12-SweetDreams,Azama,"Oh, my! Did she fall back asleep?",neutral
+FE14Paralogues,P12-SweetDreams,Azama,Mitama? Please open up. My knuckles are getting sore from knocking.,negative
+FE14Paralogues,P12-SweetDreams,Mitama,"Who's there? Didn't I say to go away? I don't want any! Haven't you a higher calling than to trouble my door? Mayhaps you should place yourself in a prostrate position, then perish?",negative
+FE14Paralogues,P12-SweetDreams,Azama,"How strange. Explain yourself, Mitama.",neutral
+FE14Paralogues,P12-SweetDreams,Mitama,How can I make it any clearer? Lay down and die!,negative
+FE14Paralogues,P12-SweetDreams,Azama,"Ah! That most certainly is you, Daughter. I'd know that sharp tongue anywhere. It's your father, Mitama. Open up, pretty please. I'm getting rude stares. People don't understand why you won't let me in. Me? I could stand here all day and banter with you. Great fun. Still, I'd rather not knock a third time. Mitama...?",negative
+FE14Paralogues,P12-SweetDreams,Mitama,"Oh, is that you, Father? What brings you here? Did you bring all these hooligans who've been making so much noise?",neutral
+FE14Paralogues,P12-SweetDreams,Azama,"Blissfully unaware, as always. Nice to see you too, Daughter.",positive
+FE14Paralogues,P12-SweetDreams,Mitama,"Yes, well, I've been asleep. Or trying to. But all this noise out here!",neutral
+FE14Paralogues,P12-SweetDreams,Azama,Oh my. What a dreamer! You might have slept through your house being razed. Good thing I had the common sense to get here as fast I could.,negative
+FE14Paralogues,P12-SweetDreams,Mitama,"I understand. You're saving me. That's worth waking up for. Or at least it's haiku worthy. My father has come. / But my feather bed is warm. / So I choose to snooze. Good night, Father.",positive
+FE14Paralogues,P12-SweetDreams,Azama,"Good night, my left foot! Have you taken a look around? It's not night! And it's not good - not with your village being under attack! Outside, now. If I have to battle, you have to battle.",negative
+FE14Paralogues,P12-SweetDreams,Mitama,What? Why?,neutral
+FE14Paralogues,P12-SweetDreams,Azama,"Dear Daughter, do I really need to explain? You're brighter than most. It's time that your laziness is forged into the will to fight. Besides, I need you to heal me up if I scuff my knee.",negative
+FE14Paralogues,P12-SweetDreams,Mitama,"You woke me for this? I guess this too is haiku worthy. My best friends are snores. / But who has come to my door? / The master of chores. Ugh, I guess I'll help. Now where did I put that rod? Oh, yes. There.",negative
+FE14Paralogues,P12-SweetDreams,Azama,"Hmm... Oh, dear, I've never seen a filthier apparatus. What HAVE you been stirring with this, Daughter? It'll have to do. Ready to help?",neutral
+FE14Paralogues,P12-SweetDreams,Mitama,"OK, I guess. Just a moment... Beseeches he me? / I am the Maiden of Zs. / At the least say please.",neutral
+FE14Paralogues,P12-SweetDreams,Mitama,Oh. Is someone injured?,neutral
+FE14Paralogues,P12-SweetDreams,Azama,"Whoa, just look at that. What initiative! Tending to the wounded without even being nagged? Remarkable!",neutral
+FE14Paralogues,P12-SweetDreams,Mitama,Whew. Healing people is exhausting.,negative
+FE14Paralogues,P12-SweetDreams,Azama,"Well done, Mitama.",positive
+FE14Paralogues,P12-SweetDreams,Mitama,"Yes, it was, wasn't it? Now, good night.",positive
+FE14Paralogues,P12-SweetDreams,Azama,Oh? Where do you think you're going?,neutral
+FE14Paralogues,P12-SweetDreams,Mitama,"Very funny, Father. Inside to bed, of course. Since all of those obnoxious visitors are gone, I can get back to sleep.",negative
+FE14Paralogues,P12-SweetDreams,Azama,"Is it funny, how you think you're just going to hit the hay after being so useful! No, dear Daughter. You're going to accompany us.",positive
+FE14Paralogues,P12-SweetDreams,Mitama,What?!,neutral
+FE14Paralogues,P12-SweetDreams,Azama,All right. Let's go. No complaining. As they say; those that idle away their lives are looking for trouble.,negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"Hup, two, three, four! Hup, two, three, four! Keep it going, Midori. One after the other. You'll get there! Hup, two— But I do hope I'll be there soon. I wouldn't want to keep Father waiting. He's going to be so happy that I found the rare herb he wanted! Got it tucked nice and safe in my little bag here. Hup, two, three— Aaaagh! Am I there yet? I've marched ALL the way from my Deeprealm to meet him! Hup, two, three—uh, hang on. What's that up ahead?",positive
+FE14Paralogues,P06-HerbalRemedy,Boy,Help me! Somebody! Anybody!,neutral
+FE14Paralogues,P06-HerbalRemedy,Ruffian,"Shut up! Now empty your pockets like I told you—or I'll CUT 'em open. And I ain't too careful with my knife, if ya know what I mean.",negative
+FE14Paralogues,P06-HerbalRemedy,Boy,Leave me alone!,negative
+FE14Paralogues,P06-HerbalRemedy,Midori,Wh-what are you doing?! Pick on someone your own size!,neutral
+FE14Paralogues,P06-HerbalRemedy,Ruffian,What? Who said that?! Ha! Ain't you a li'l tater.,neutral
+FE14Paralogues,P06-HerbalRemedy,Midori,"Nuh-uh! I'm Midori, the biggest herb gatherer around! Now, do the adult thing and put down tour weapons, you...you... You pocket emptier!",negative
+FE14Paralogues,P06-HerbalRemedy,Ruffian,What's that?! Ain't your parents ever teach you to respect your elders? Guess I'll just have to teach you to shut your yap.,negative
+FE14Paralogues,P06-HerbalRemedy,Midori,Huh? No!,negative
+FE14Paralogues,P06-HerbalRemedy,Ruffian,Gaaah!,negative
+FE14Paralogues,P06-HerbalRemedy,Kaze,Midori... I'm here. You're safe.,positive
+FE14Paralogues,P06-HerbalRemedy,Midori,Father!,neutral
+FE14Paralogues,P06-HerbalRemedy,Ruffian,"Urr, who—? Never mind. I'm gone. Got better pockets to empty.",negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"Thanks a bunch, Father! I hope you weren't too worried. I wasn't.",positive
+FE14Paralogues,P06-HerbalRemedy,Kaze,Is that so? Then maybe do me a favor next time and be on time. I'll always worry. That's my job. Well now. Have you gotten taller again? You're growing faster than bamboo!,positive
+FE14Paralogues,P06-HerbalRemedy,Midori,"Oh, yes! But it's time that's going by so fast in the Deeprealms. I'm an adult now—or at least more one than that brute was. Anyway, Father, I found the rare herbs you wanted! See? I've got them right here! Er, hold on. They were right here. I had them just a moment ago!",positive
+FE14Paralogues,P06-HerbalRemedy,Kaze,Huh? Did you drop the herbs when that bandit approached you?,neutral
+FE14Paralogues,P06-HerbalRemedy,Midori,Um...no! I'm sure I didn't drop them!,negative
+FE14Paralogues,P06-HerbalRemedy,Kaze,Hmm...then where are they? Let's just retrace your steps. They must have slipped through your fingers.,neutral
+FE14Paralogues,P06-HerbalRemedy,Midori,"No way. I'm sure I didn't misplace them. I was JUST holding the bag! It must have been that man. He took the herbs from me. Wait here, Father! I'll find that guy and get the bag back.",negative
+FE14Paralogues,P06-HerbalRemedy,Kaze,"No, Midori. Wait!",negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"Um... Hey, you! Yes, YOU! With the bag! That's mine!",positive
+FE14Paralogues,P06-HerbalRemedy,Candace,"Eh? Sharp eye, kid. People don't usually see me when I'm tiptoeing around.",neutral
+FE14Paralogues,P06-HerbalRemedy,Midori,"Well, the fact is, I'm not a kid. I'm the biggest herb gatherer around! And you're running around with some pretty bad guys!",negative
+FE14Paralogues,P06-HerbalRemedy,Candace,"Well, if we're comparing facts, I am NOT with these barbarians. I travel among them. They make for a nice distraction while I do my work. No one even sees me walk amid the whole hairy, smelly horde of them! And who am I, you may ask? She who locates legendary riches! A genius! And explorer! I'm none other than Candace, the notorious treasure hunter!",negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"Um, what? Does this have something to do with my bag? Explain yourself!",neutral
+FE14Paralogues,P06-HerbalRemedy,Candace,"Leave it to Candace! I have explanations for every occasion! You see, I learned that the rare Dragon Herbs were hereabouts! As I've said, I am a treasure hunter. You had something I treasured. The rest is just math. Ergo, what's yours is now mine.",positive
+FE14Paralogues,P06-HerbalRemedy,Midori,"Well, the fact is that I found those herbs first. You stole my bag!",neutral
+FE14Paralogues,P06-HerbalRemedy,Candace,"Facts again? Then let me drop another fact on you. You took the herbs from this forest, didn't you? Wouldn't that make YOU a thief?",neutral
+FE14Paralogues,P06-HerbalRemedy,Midori,Nuh-uh!,negative
+FE14Paralogues,P06-HerbalRemedy,Candace,Then I'm not a thief either! I could stand here and complain about you dragging my name through the mud. But Candace is going to take the high road—and just say good-bye. You could try to take back your bag. But I'll warn you. I'm quick as a wink.,negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"No, wait! I need those herbs for my father!",negative
+FE14Paralogues,P06-HerbalRemedy,Candace,"Oh? Caught up with Candace, did you? Well done. But I'll warn you. I'm strong as an oak!",positive
+FE14Paralogues,P06-HerbalRemedy,Midori,Glad that's over. I wasn't sure we were going to get the herbs back!,positive
+FE14Paralogues,P06-HerbalRemedy,Kaze,"Don't scare me like that. Running off on me? I was terrified! All of this, just for those herbs? We could have gathered more. They're not worth the risk of losing you. So never do that again!",negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"But I just— Ugh, you don't understand! Those herbs grow here only once every year! And you don't realize the true value of those herbs anyway. Those herbs can make wishes come true!",negative
+FE14Paralogues,P06-HerbalRemedy,Kaze,"Huh? I knew they were useful, but they can actually grant wishes?",neutral
+FE14Paralogues,P06-HerbalRemedy,Midori,"Well the fact is...the herbs can help make one specific wish come true. My wish, in fact—to prove my usefulness to you, Father. So I can stay here!",neutral
+FE14Paralogues,P06-HerbalRemedy,Kaze,"Midori, we still could have waited for the herbs to grow back. This was risky.",negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"Don't you realize?! A year here would be FOREVER in my Deeprealm! And I just can't wait THAT long to prove my usefulness again! I...I...hate it there, away from you!",negative
+FE14Paralogues,P06-HerbalRemedy,Kaze,"I'm sorry that I've put you through all of this, Midori. It was only for your safety. But it seems that you're more than old enough to make your own choices. Forgive me for not realizing what you were going through much earlier. Of course, time is more fleeting in the Deeprealms. I planned to visit as often as I could, since days here would be much longer for you. I am dearly sorry for putting you through such loneliness.",negative
+FE14Paralogues,P06-HerbalRemedy,Midori,...,neutral
+FE14Paralogues,P06-HerbalRemedy,Kaze,"Here, take my hand, Midori. From now on, we walk together in life. No more Deeprealms for you.",negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"You're serious, Father?",negative
+FE14Paralogues,P06-HerbalRemedy,Kaze,Of course! I'll just go let my comrades know that you'll be joining us.,negative
+FE14Paralogues,P06-HerbalRemedy,Midori,"Thank you, Father! Now, see? I was right about the power of these herbs! My greatest wish is coming true!",positive
+FE14Paralogues,P06-HerbalRemedy,Kaze,"Let's go, Midori. We have a lot to catch up about. I want to know everything about your life in your Deeprealm. I've missed out on so much. Tell me about it all—and don't leave out a single day.",neutral
+FE14Paralogues,P06-HerbalRemedy,Midori,"Yes, Father. That will surely keep us busy for at least a few years!",positive
+FE14Paralogues,P02-DragonBlood,Kana,"Ah! What a lovely day! I might just break out in song! And twirl all the day long! Hmm. But Papa/Mama is visiting today, and I haven’t seen him/her in such a long time. I’d better do something special for him/her. Gather some fruit? Fish for fish? Ha, I know! Papa/Mama should have both. So I’d better get going!",positive
+FE14Paralogues,P02-DragonBlood,Invader,...,neutral
+FE14Paralogues,P02-DragonBlood,Kana,Wh-who are you? Y-you look weird! Get away from me!,negative
+FE14Paralogues,P02-DragonBlood,Kana,"Umm, what do you all want? You’d better not be here to make trouble. My papa/mama will be here soon! They’re not listening. But I can’t just run. They look ready to do evil things!",negative
+FE14Paralogues,P02-DragonBlood,Kana,Oof!,negative
+FE14Paralogues,P02-DragonBlood,Corrin,"Phew! Here in the nick of time. Are you all right, Kana?",neutral
+FE14Paralogues,P02-DragonBlood,Kana,P-Papa/M-Mama?,neutral
+FE14Paralogues,P02-DragonBlood,Corrin,"I’m so sorry, Kana. You’ve been safe here for so long. I never thought anyone would come here to hurt you. Please tell me you’re OK!",negative
+FE14Paralogues,P02-DragonBlood,Kana,"Yeah, Papa/Mama.",neutral
+FE14Paralogues,P02-DragonBlood,Corrin,"Thank the gods. Now, off with you. Your papa/mama has everything in hand. YOU! You dare touch my child?! I'll soak these fields with your blood!",positive
+FE14Paralogues,P02-DragonBlood,Kana,"Papa/Mama, there are too many of them!",negative
+FE14Paralogues,P02-DragonBlood,Corrin,"I'll protect you, Kana. But don't worry about me. I told you to run! Now, the rest of you! Prepare to join your comrades in death!",negative
+FE14Paralogues,P02-DragonBlood,Corrin,They’re tough... But I have to... keep them away from...,negative
+FE14Paralogues,P02-DragonBlood,Kana,No! You bunch of bullies! Stop hurting Papa/Mama!,negative
+FE14Paralogues,P02-DragonBlood,Corrin,Kana! How many times do I need to tell you?! Run!,negative
+FE14Paralogues,P02-DragonBlood,Kana,"No! I’m not going to leave, Papa/Mama! Not when I’ve waited so long to see you again! No one’s going to take you from me! I’m staying right—rrgg! Right here by—RRRG! By your—RRAWRGH!",negative
+FE14Paralogues,P02-DragonBlood,Corrin,Kana?! You're...,neutral
+FE14Paralogues,P02-DragonBlood,Kana,RRAAAAWRG!,negative
+FE14Paralogues,P02-DragonBlood,Corrin,It can't be. She/He shouldn't have the ability to—,neutral
+FE14Paralogues,P02-DragonBlood,Kana,RRRAWWRRGGRR!,negative
+FE14Paralogues,P02-DragonBlood,Corrin,"No...she/he must have inherited it from me. But for it to awaken here, now? She's/He's out of control. This...this must be her/his first time transforming! She's/He's at risk of losing herself/himself to a mindless rampage in the face of these foes! Friends, join me! We must clear the field of this menace—fast!",negative
+FE14Paralogues,P02-DragonBlood,Llewelyn,"Mwahaha. What have we here, Lloyd?",neutral
+FE14Paralogues,P02-DragonBlood,Lloyd,"Hey, bro! I don't know.",neutral
+FE14Paralogues,P02-DragonBlood,Llewelyn,It's plain as the nose on your face. Can't you see it over there?,neutral
+FE14Paralogues,P02-DragonBlood,Lloyd,Huh? See what? Where?,neutral
+FE14Paralogues,P02-DragonBlood,Llewelyn,"I dunno, my nearsighted brother. Maybe I mean that dragon yonder?",neutral
+FE14Paralogues,P02-DragonBlood,Lloyd,Who'd name a dragon Yonder?!,neutral
+FE14Paralogues,P02-DragonBlood,Llewelyn,"No, you addle-brained baboon. I mean that dragon way OVER yonder.",negative
+FE14Paralogues,P02-DragonBlood,Lloyd,Why didn't you say so? Dragons are like gods! We should catch it!,positive
+FE14Paralogues,P02-DragonBlood,Llewelyn,Yes. We'll make it our pet. A god on a leash! But let's proceed sensibly. We must pummel it to the brink of death. But what SHOULD we name it...?,negative
+FE14Paralogues,P02-DragonBlood,Lloyd,That dragon's mine! I'm going to name it Llizardface!,positive
+FE14Paralogues,P02-DragonBlood,Kana,"Whuh... whuh... What... What happened, Papa/Mama? I dreamed that I turned into a dragon!",negative
+FE14Paralogues,P02-DragonBlood,Corrin,"Yes, well... You did, Kana.",positive
+FE14Paralogues,P02-DragonBlood,Kana,"I did? For real? You look upset, Papa/Mama. I didn’t mean to do it, I only wanted to protect you! But I’m small. And I felt... useless. Then I felt myself get so angry. I heard a roaring in my head... It got louder and louder, until I couldn’t hear myself thinking anymore. I’m sorry. I didn’t mean to turn into a dragon. Am I in trouble now?",negative
+FE14Paralogues,P02-DragonBlood,Corrin,No! Far from it. You’ve made me the happiest father/mother in the world. I turn into a dragon too.,negative
+FE14Paralogues,P02-DragonBlood,Kana,"What? Papa/Mama, you–?",neutral
+FE14Paralogues,P02-DragonBlood,Corrin,"Listen, Kana. I’m sorry that I haven’t visited you enough to explain... But I keep my power in control by using very special stones. You must too. Or else the dragon within may take over. Don’t be scared – you just need a stone. Azura has given me a stone that you can use. Carry this with you always.",negative
+FE14Paralogues,P02-DragonBlood,Kana,"Thank you. It’s such a beautiful stone. I’ll treasure it, Papa/Mama! But now that I can turn into a dragon... can I maybe travel with you?",positive
+FE14Paralogues,P02-DragonBlood,Corrin,"I’m so sorry, Kana. But you’re too young. And my world is too dangerous.",negative
+FE14Paralogues,P02-DragonBlood,Kana,"No, Papa/Mama? I guess I can wait longer, but only if you promise to visit more often.",neutral
+FE14Paralogues,P02-DragonBlood,Corrin,"Oh... Of course. I promise. Cross my heart and hope to— Er, I promise—that’s all. And I’ll be sure to bring you a nice gift next time I come.",positive
+FE14Paralogues,P02-DragonBlood,Kana,"Yeah... All right, Papa/Mama.",neutral
+FE14Paralogues,P02-DragonBlood,Corrin,"That’s my girl/boy. Be good, Kana, and you keep hanging on to that stone!",positive
+FE14Paralogues,P02-DragonBlood,Kana,"...Hmpf. No, Papa/Mama. WAIT!",negative
+FE14Paralogues,P02-DragonBlood,Corrin,"Kana, I have to go. A lot of people are depending on your papa/mama.",neutral
+FE14Paralogues,P02-DragonBlood,Kana,"I... I know! That’s why I have to go with you! I’m depending on you too... to come back! And I never know if you’ll... if you’ll... If you’ll DIE and never come back! What if I grow old enough to leave here, but by then you’re gone?",negative
+FE14Paralogues,P02-DragonBlood,Corrin,"Kana, I’m only trying to protect you! But if that’s how you feel... If it’s agony for you being here? That’s the last thing I want. Maybe... All right. You’re coming. With your new powers, you might be safer with me. I need to explain all of this to my friends. You need to say good-bye to yours.",negative
+FE14Paralogues,P02-DragonBlood,Kana,"What, I get to come with you? Really?",neutral
+FE14Paralogues,P02-DragonBlood,Corrin,"Yes, really. But, Kana, it’s a different world out there. It’s not a game – it’s scary. I’ll look after you. Still, are you sure you’re grown-up enough for this?",negative
+FE14Paralogues,P02-DragonBlood,Kana,Well... I’m only a little kid. But I’m old enough to be a dragon. And my papa’s/mama's one too.,neutral
+FE14Paralogues,P02-DragonBlood,Corrin,"Like father, like daughter/Like mother, like son. I guess there’s a lot we should catch up about.",neutral
+FE14Paralogues,P02-DragonBlood,Kana,"Yes! I can’t wait! Papa/Mama, I have to say one more thing before we leave. Rrrghg rawrgghh rrrh! That's dragon for I love you!",negative
+FE14Paralogues,P04-FightOrFlight,Jakob,"Excuse me? Hello? Anyone? I’m looking for my son Dwyer! Hmpf. As always, that lazy lout is probably snoring away somewhere. Clearly, his bad attitude has infected this whole village. What a sleepy place. Why do I even bother fetching Dwyer his favorite coffee beans? How did I come to buttle my son, when he should come running to serve me? What’s this? Who’s there? I see you scurrying in the shadows. Get over here! Of all the... My son can’t even have me greeted properly on my arrival?",negative
+FE14Paralogues,P04-FightOrFlight,Invader,...,neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,"What? How’d you get here? Did you follow me? Speak, villain. Now! Or I’ll cut the answer out of you!",negative
+FE14Paralogues,P04-FightOrFlight,Invader,...,neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,"Eh? Where’s that fiend going? No! There are more of them, and they’re breaking into Dwyer’s house! SON! THEY’RE COMING FOR YOU!",negative
+FE14Paralogues,P04-FightOrFlight,Dwyer,"Who’s that yelling like a maniac outside? As if I don’t have enough trouble. Urrr, is that my father? Of course he’d have to show up in the middle of all this. Well, forget him. I’ve got enough to worry about, keeping us all alive in here. Everyone! Stay close! I’ll heal you up if you get hurt!",negative
+FE14Paralogues,P04-FightOrFlight,Jakob,Was that Dwyer? What’s that damned fool doing?! Hanging back? Letting others do the fighting for him? It’s a disgrace!,negative
+FE14Paralogues,P04-FightOrFlight,Jakob,"Dwyer, I’ve found you.",neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"Father! What a surprise. I’d fetch you a glass of my finest whatever. That is, if I wasn’t busy with my other uninvited guests.",positive
+FE14Paralogues,P04-FightOrFlight,Jakob,"Of all the... Uninvited?! I’m your father, Dwyer! And just look at the way you’re conducting yourself in your own household! I taught you martial arts! And you’re dillydallying in the background? Healing, not fighting?",negative
+FE14Paralogues,P04-FightOrFlight,Dwyer,"Oh, Father, there’s no shame in standing by to help when needed. Isn’t that what a good butler does? Serve, not show up his masters?",negative
+FE14Paralogues,P04-FightOrFlight,Jakob,What was that? Are you slighting my profession?,neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"What? Not in the slightest. But if you expect me to jump into battle... then I think you’ve got the wrong son. I’m a healer, not a fighter.",neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,"Dwyer, Dwyer... You always did run from a fight. Go on then. Let your father do all the work.",neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"Give me a break. You never did see me for who I was. Perhaps I was a tad idle as a child. But now, I keep people alive.",negative
+FE14Paralogues,P04-FightOrFlight,Jakob,"Don’t bother. I’ll keep everyone alive... by defending them with MY life. So, unless my Little Lord Lazybones wishes me to fetch his slippers... No? Or a cup of warm milk? Then stand aside and watch how it’s done, Son.",negative
+FE14Paralogues,P04-FightOrFlight,Dwyer,Hmm. Go on then.,neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"That was pretty good, Father. You and your friends cleaned this place up.",positive
+FE14Paralogues,P04-FightOrFlight,Jakob,"And that, my son, is why your remaining servants just left.",neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,Huh? They did?,neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,"Hmm. Even your caretakers too. I’m not surprised, the way you run this household. It’s a den of a sloth.",neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,Oh no... They really are gone! Now who’s going to help me maintain my high standard for squalor? Who will bring in all the dirt? Or feed hair balls to the dust bunnies? I can't do it ALL by myself!,negative
+FE14Paralogues,P04-FightOrFlight,Jakob,Hmpf...,neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"You’ll just have to take me with you, Father.",neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,Ha! We all pull our weight in our group. I’d never vouch for you. You’re going to stew here for the rest of your days in this mess of a place.,negative
+FE14Paralogues,P04-FightOrFlight,Invader,...,neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"Father? You missed one. Oh, never mind. I’ve got it.",neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,Dwyer?! What in—,neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"You’ve got a lot of nerve, sneaking up on my father. Well, take this! SLAPPYFACE!",negative
+FE14Paralogues,P04-FightOrFlight,Invader,...,neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,Whew! Who knew? Victory!,positive
+FE14Paralogues,P04-FightOrFlight,Jakob,"Oh, well. I stand corrected. You might not be able to handle a weapon. But your slappyface is unparalleled. Have you been... in training?",negative
+FE14Paralogues,P04-FightOrFlight,Dwyer,"I guess so. Wait, are you kidding? Because I don’t always laze around here.",neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,"Well, how irksome. Here I had you pegged for a complete loafer. But if you could fight, even a little, why did you make your servants do it for you?",negative
+FE14Paralogues,P04-FightOrFlight,Dwyer,Hmm? Wasn’t it their job to watch over me? I would never rob them of their work.,neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,"With that sort of attitude, I’m afraid that you’ll never be good for much. Do you expect me to find you fresh caretakers to abuse?",negative
+FE14Paralogues,P04-FightOrFlight,Dwyer,No. I’m going to turn over a new leaf. I’ll serve your friends!,neutral
+FE14Paralogues,P04-FightOrFlight,Jakob,What?!,neutral
+FE14Paralogues,P04-FightOrFlight,Dwyer,"If you can buttle, I can buttle. I bet I’ll buttle better. Hey, did you bring those coffee beans I wanted? Hand ‘em over. I’ll brew everyone a cup of the best coffee they’ve ever had!",positive
+FE14Paralogues,P04-FightOrFlight,Jakob,But that’s MY job!,negative
+FE14Paralogues,P04-FightOrFlight,Dwyer,"What’s the matter? Afraid of a little competition? This should be fun. En garde, Father. I declare this battle of buttling begun!",negative
+FE14Paralogues,P04-FightOrFlight,Jakob,Hmpf. You don’t stand a chance.,neutral
+FE14Paralogues,P18-NuttyFamily,Velouria,"Oooh, cool. There are so many acorns around here. *sniff* They have such a nice scent too. So earthy, so rich. I should find the very nicest one and give it to Daddy as a present. But maybe if I pick a fresh one from one of those trees... Huh? What's up there? Behind those branches? It looks like some sort of weird portal... *sniff, sniff* What? That scent! I'd recognize it anywhere. Smells like my daddy!",negative
+FE14Paralogues,P18-NuttyFamily,Keaton,"We're almost there. Now, where is that darn portal exactly? My daughter, Velouria, is beyond it in her Deeprealm.",neutral
+FE14Paralogues,P18-NuttyFamily,Kaze,I'm looking forward to meeting your daughter. You've said she's more like you than her mother—right down to the tail?,positive
+FE14Paralogues,P18-NuttyFamily,Keaton,"Yup! Pretty much exactly like me. Except that she prefers her own company. A real lone wolf! She's not used to being around others. You might find her...overwhelming. She really wears her heart on her sleeve. Like, REALLY really.",positive
+FE14Paralogues,P18-NuttyFamily,Kaze,"Wait, who's there?! Watch out—trouble approaches!",negative
+FE14Paralogues,P18-NuttyFamily,Invader,...,neutral
+FE14Paralogues,P18-NuttyFamily,Kaze,What? It seems we're about to be ambushed.,negative
+FE14Paralogues,P18-NuttyFamily,Keaton,Not the best timing. I hate to keep Velouria waiting. But I'm game for a fight.,negative
+FE14Paralogues,P18-NuttyFamily,Keaton,"Hrm? I'm picking up the slightest scent of wolfskin somewhere. To the...west? Yes! On the other side of those mountains! Who could it be...? Oh, no. It's Velouria. But how? I've never shown her where the portal is on her side. It can't be her. But that's definitely her scent coming from the west!",negative
+FE14Paralogues,P18-NuttyFamily,Velouria,"Daddy? *sniff, sniff* Is that you?",negative
+FE14Paralogues,P18-NuttyFamily,Keaton,*sniff* Velouria? By all the hair in my ears! What are you doing here?,negative
+FE14Paralogues,P18-NuttyFamily,Velouria,"I was hunting for just the right gift for you when I caught your scent! Then I found the portal to your world! I can't believe I found you, my dear, daring, dashing Daddy!",positive
+FE14Paralogues,P18-NuttyFamily,Keaton,"I, uh... Those are a lot of Ds. Let's save the tail-wagging until later, Velouria. We're in trouble here.",negative
+FE14Paralogues,P18-NuttyFamily,Velouria,"Oh. Are we? How about I lend a hand? Or a paw? I've been perfecting my hunting skills off in my Deeprealm. I'm fiercer than the last time you saw me, Daddy.",neutral
+FE14Paralogues,P18-NuttyFamily,Velouria,"Aw, the hunt is over already... That was fun. Thanks for arranging such a nice game, Daddy.",positive
+FE14Paralogues,P18-NuttyFamily,Keaton,"Um, that wasn't a game, Velouria. I'm not exactly happy to see you here. You could have been hurt.",positive
+FE14Paralogues,P18-NuttyFamily,Velouria,"Daddy, I can see your tail wagging. I know you're happy to see me!",positive
+FE14Paralogues,P18-NuttyFamily,Keaton,"Whuh? My tail's twitching, that's all. I'm actually very, very, very angry with you, Daughter.  Now, Velouria, I want you to scamper back to your Deeprealm. Off with you. I'm busy. You know the way out.",negative
+FE14Paralogues,P18-NuttyFamily,Velouria,Grrrah!,positive
+FE14Paralogues,P18-NuttyFamily,Keaton,"Hrm? Watch your tone, Daughter.",neutral
+FE14Paralogues,P18-NuttyFamily,Velouria,"No! I mean, yes. I'll watch my tone. But I'm not going back. I'm joining your pack, Daddy.",negative
+FE14Paralogues,P18-NuttyFamily,Keaton,"Velouria, this isn't a pack. We're, uh, comrades-in-arms or something. No way. Never. Go, now!",negative
+FE14Paralogues,P18-NuttyFamily,Velouria,"Huh, But, Daddy...I'm so confused. Your tail is wagging YES.",neutral
+FE14Paralogues,P18-NuttyFamily,Keaton,Whuh? Gaah!,negative
+FE14Paralogues,P18-NuttyFamily,Velouria,"Hey, I just remembered. Before I went through the portal, I found this for you. The perfect acorn!",positive
+FE14Paralogues,P18-NuttyFamily,Keaton,"Wow! That's the prettiest acorn I've ever laid eyes on. So glossy! It's like a pearl! From a tree! Which reminds me. I have a gift for you too, Daughter. Here...",positive
+FE14Paralogues,P18-NuttyFamily,Velouria,"Oh, wow! A bat? It's all shriveled. Its wings are ripped up. Did you chew on it? Daddy, it's perfect. You're wonderful.",negative
+FE14Paralogues,P18-NuttyFamily,Keaton,"Er, am I? Sure, why not? I guess I am! But as far as you coming with us...? Oh, all right.",neutral
+FE14Paralogues,P18-NuttyFamily,Velouria,"Really?! *wag, wag* *sniff, sniff* *wag, sniff, wag*",negative
+FE14Paralogues,P18-NuttyFamily,Keaton,"Ha! That tickles, Velouria! All right, you're happy. I get it.",positive
+FE14Paralogues,P18-NuttyFamily,Velouria,"I'm sorry. I'm just so glad to be part of your pack at last, Daddy.",positive
+FE14Paralogues,P18-NuttyFamily,Keaton,"All right, all right. But it's not my pack, OK? That's not how this group works. *waggity, waggity, waggity* Ha! There goes my tail again. Welcome, Daughter! Welcome, welcome, welcome, welcome, welcome!",positive
+FE14Paralogues,P18-NuttyFamily,Velouria,"OK, Daddy. Settle down. Now you're embarrassing me!",negative
+FE14Paralogues,P13-TrulyTalented,Subaki,"It's been so long since I was last in this Deeprealm. How peaceful it is. Now then, where is my daughter?",positive
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Father, here I am. Welcome back.",positive
+FE14Paralogues,P13-TrulyTalented,Subaki,"Caeldori, my dear! You've grown even more beautiful while I've been away.",positive
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Goodness. Please, Father. You're embarrassing me.",negative
+FE14Paralogues,P13-TrulyTalented,Subaki,"Do I dote too much? Maybe so. You've been well, I hope?",positive
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Yes, of course. I've kept up with every aspect of my training and studies. And in my spare time, I've memorized several books about war strategy.",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,"Wow! Impressive. Trying to be perfect, just like your father?",positive
+FE14Paralogues,P13-TrulyTalented,Caeldori,I'm aiming for capable. I've never seen real combat yet...,neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,"Take your time, Daughter. Don't rush yourself. The reason my friends and I are constantly at war is to end war.",negative
+FE14Paralogues,P13-TrulyTalented,Hoshidan,"Reporting, sir. Urgent news from the other side. Enemies are attacking a site as we speak—you're needed at once.",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,All right. I'll go at once.,neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"I'm here too! I can fight, Father!",positive
+FE14Paralogues,P13-TrulyTalented,Subaki,You want to join me?,neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Well, why not? I would learn so much more in actual combat. Besides, don't you need all the help you can get?",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,"No, we've got it under control, Caeldori. You're brave to volunteer. I couldn't bear the thought of putting you in harm's way.",negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,"But, Father!",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,"Caeldori, don't you worry. My friends are excellent at what they do. And I must say that I approach perfection on the battlefield. Wait here. I'll return as soon as the battle's over.",neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"I, um... But...",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,"No buts, Caeldori. I'll be back in a jiffy.",negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Oh, Father... Hmmm.",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,How is this possible? They've swarmed this area? Is there no end to them? The odds seem...against us.,negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Let me help, Father!",negative
+FE14Paralogues,P13-TrulyTalented,Subaki,"Caeldori, you shouldn't be here!",negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,I'm sorry. I don't mean to disobey you. But I had to jump at the opportunity!,negative
+FE14Paralogues,P13-TrulyTalented,Subaki,Daughter...,neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"I want to help! I really, really do! I'm tired of sitting home alone and waiting to be of some use. I'll never be as prefect as you are, Father. But I'd like to start trying to be! I have rigorously trained myself in martial arts, among other disciplines. I won't disappoint you.",positive
+FE14Paralogues,P13-TrulyTalented,Subaki,"Caeldori, of course you won't. You seem like quite a wonder already! All right. Stay and fight alongside me. Don't get overconfident though. This is your first battle, after all!",positive
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Yes, of course. I'll do my best, Father!",positive
+FE14Paralogues,P13-TrulyTalented,Subaki,"Almost perfect, Caeldori. I observed your every move. How can you be this good? It was your very first battle!",positive
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Thanks! But you must have seen that I'm still falling short of your standard. Perfect as you are, that is. Oh, what's this? You've torn your clothing, Father! I guess even paragons like you can have a bad day. I'll patch those right up. I'm sure I have a sewing needle among my other things.",positive
+FE14Paralogues,P13-TrulyTalented,Subaki,How...prepared of you.,neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Yes. I try. Oh! I also did a quick assessment of the injuries done to the locals. After visiting each and every one, I know that they're all going to be just fine. That us, if we can get them somewhere better for their recuperation. To that end, I've mobilized some of our troops to carry them out of here. I tried to think of what you'd do, basically. Did I catch everything?",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,"Yep, more or less.",neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Well, I also sent a scout ahead to make sure the way is safe. It is. And, I'm sure I wasn't as thorough as you, Father, but I also...",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,...Also?! Is she outdoing even me?!,negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Hey, Father! Hello?",neutral
+FE14Paralogues,P13-TrulyTalented,Subaki,"Hmm. At this rate, Caeldori will soon be more perfect than I am!",positive
+FE14Paralogues,P13-TrulyTalented,Caeldori,Father? Sorry if I'm boring you...,negative
+FE14Paralogues,P13-TrulyTalented,Subaki,"Huh? No, of course not dear.",neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"I must train harder. I know, I know... Someday I'll be as brilliant in battle as you are, Father. I swear I won’t let you down.",positive
+FE14Paralogues,P13-TrulyTalented,Subaki,"I know you won't, Caeldori. Just don't push yourself too hard!",negative
+FE14Paralogues,P13-TrulyTalented,Subaki,"Ugh! I'd better start pushing myself very, very, very hard. Or else my daughter is going to make me look like a day-one novice!",negative
+FE14Paralogues,P13-TrulyTalented,Selena,"Found you! Hello there, Caeldori.",neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Goodness, Mother. You startled me. But don't you look impressive! As always. I don't know how you do it.",positive
+FE14Paralogues,P13-TrulyTalented,Selena,"Hmm. Well, Caeldori, there's something I suppose I should tell you. When you were young, you looked so much like your father. But now... Time has its way with us.",neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,What's that? How odd. Time has its—?,neutral
+FE14Paralogues,P13-TrulyTalented,Selena,Um... How do I say this? Do you recall the tales I've told you about my mother?,neutral
+FE14Paralogues,P13-TrulyTalented,Caeldori,Yes. Of course. You've told me much about Grandmother. She was as perfect a knight as has ever been seen. I've always felt that you and Grandmother were so alike!,positive
+FE14Paralogues,P13-TrulyTalented,Selena,"... Actually, it's YOU that's like my mother. You're her spitting image. By the gods, just look at you. Your face, your voice... The way you carry yourself...every move, every word you say...",negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,Really? I'd love to think that I'm a little like such a great woman. I'll have to work even harder to honor her memory.,positive
+FE14Paralogues,P13-TrulyTalented,Selena,"Well, you're doing fine. But... But... Just don't mess up!",negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Yes! I swear I'll do my very best for you, Mother!",positive
+FE14Paralogues,P13-TrulyTalented,Selena,"Ha ha! All right, all right... I'm sorry. I didn't mean to overreact. And I promise never to go and die on you. Or abandon you.",negative
+FE14Paralogues,P13-TrulyTalented,Caeldori,"Hmm? What, Mother? Are you being serious?",negative
+FE14Paralogues,P13-TrulyTalented,Selena,"Um, well... Let's just forget I said anything, Daughter.",neutral

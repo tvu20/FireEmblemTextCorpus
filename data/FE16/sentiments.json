@@ -1,0 +1,182 @@
+{
+  "AzureMoon": {
+    "13-ReunionAtDawn": { "positive": 15, "negative": 52, "neutral": 57 },
+    "14-TheDelusionalPrince": { "positive": 37, "negative": 88, "neutral": 88 },
+    "15-ValleyOfTorment": { "positive": 18, "negative": 84, "neutral": 99 },
+    "16-TheRoseColoredRiver": { "positive": 28, "negative": 89, "neutral": 72 },
+    "17-BloodOfTheEagleAndLion": {
+      "positive": 29,
+      "negative": 119,
+      "neutral": 112
+    },
+    "18-TheKing'sTriumphantReturn": {
+      "positive": 35,
+      "negative": 77,
+      "neutral": 80
+    },
+    "19-TheGoldenDeer'sPlea": {
+      "positive": 29,
+      "negative": 101,
+      "neutral": 85
+    },
+    "20-TheImpregnableFortress": {
+      "positive": 28,
+      "negative": 80,
+      "neutral": 80
+    },
+    "21-OurChosenPaths": { "positive": 38, "negative": 119, "neutral": 97 },
+    "22-OathOfTheDagger": { "positive": 4, "negative": 26, "neutral": 7 }
+  },
+  "CrimsonFlower": {
+    "12-OutsetOfAPowerStruggle": {
+      "positive": 20,
+      "negative": 75,
+      "neutral": 47
+    },
+    "13-BeyondEscape": { "positive": 38, "negative": 74, "neutral": 93 },
+    "14-TheMasterTactician": { "positive": 27, "negative": 102, "neutral": 89 },
+    "15-TempestOfSwordsAndShields": {
+      "positive": 29,
+      "negative": 111,
+      "neutral": 81
+    },
+    "16-LadyOfDeceit": { "positive": 22, "negative": 98, "neutral": 72 },
+    "17-FieldOfRevenge": { "positive": 37, "negative": 137, "neutral": 114 },
+    "18-ToTheEndOfADream": { "positive": 17, "negative": 62, "neutral": 23 }
+  },
+  "Paralogues": {
+    "P01-SwordAndShieldOfSeiros": {
+      "positive": 11,
+      "negative": 33,
+      "neutral": 30
+    },
+    "P02-FallingShortOfHeaven": {
+      "positive": 11,
+      "negative": 24,
+      "neutral": 25
+    },
+    "P03-DividingTheWorld": { "positive": 10, "negative": 21, "neutral": 28 },
+    "P04-WarForTheWeak": { "positive": 7, "negative": 37, "neutral": 34 },
+    "P05-RumoredNuptials": { "positive": 11, "negative": 26, "neutral": 34 },
+    "P06-TrueChivalry": { "positive": 8, "negative": 22, "neutral": 18 },
+    "P07-AnOceanView": { "positive": 15, "negative": 21, "neutral": 29 },
+    "P08-OilAndWater": { "positive": 3, "negative": 35, "neutral": 28 },
+    "P09-DeathToll": { "positive": 10, "negative": 31, "neutral": 29 },
+    "P10-LandOfTheGoldenDeer": {
+      "positive": 11,
+      "negative": 22,
+      "neutral": 27
+    },
+    "P11-TalesOfTheRedCanyon": {
+      "positive": 11,
+      "negative": 40,
+      "neutral": 28
+    },
+    "P12-TheForgotten": { "positive": 8, "negative": 20, "neutral": 29 },
+    "P13-WeathervanesOfFodlan": {
+      "positive": 9,
+      "negative": 29,
+      "neutral": 32
+    },
+    "P14-ForeignLandAndSky": { "positive": 21, "negative": 31, "neutral": 29 },
+    "P15-ForgottenHero": { "positive": 3, "negative": 32, "neutral": 28 },
+    "P15-LegendOfTheLake": { "positive": 15, "negative": 22, "neutral": 52 },
+    "P16-TheFaceBeneath": { "positive": 8, "negative": 30, "neutral": 33 },
+    "P17-Retribution": { "positive": 13, "negative": 32, "neutral": 36 },
+    "P18-EternalGuardian": { "positive": 2, "negative": 23, "neutral": 40 },
+    "P19-Insurmountable": { "positive": 6, "negative": 15, "neutral": 31 },
+    "P20-DarknessBeneathTheEarth": {
+      "positive": 3,
+      "negative": 10,
+      "neutral": 19
+    },
+    "P21-TheSilverMaiden": { "positive": 12, "negative": 24, "neutral": 25 },
+    "P22-TheSleepingSandLegend": {
+      "positive": 5,
+      "negative": 24,
+      "neutral": 38
+    }
+  },
+  "SilverSnow": {
+    "13-ReunionAtDawn": { "positive": 11, "negative": 37, "neutral": 34 },
+    "14-AKingWithoutAKingdom": {
+      "positive": 45,
+      "negative": 68,
+      "neutral": 52
+    },
+    "15-ValleyOfTorment": { "positive": 18, "negative": 61, "neutral": 85 },
+    "16-TheRoseColoredRiver": { "positive": 22, "negative": 48, "neutral": 47 },
+    "17-TheImpregnableFortress": {
+      "positive": 16,
+      "negative": 83,
+      "neutral": 100
+    },
+    "18-TheChaosOfWar": { "positive": 14, "negative": 55, "neutral": 58 },
+    "19-ConclusionOfTheCrossingRoads": {
+      "positive": 6,
+      "negative": 24,
+      "neutral": 22
+    },
+    "20-TheCityWithoutLight": { "positive": 13, "negative": 55, "neutral": 41 },
+    "21-FollowingADream": { "positive": 52, "negative": 65, "neutral": 86 }
+  },
+  "VerdantWind": {
+    "13-ReunionAtDawn": { "positive": 23, "negative": 50, "neutral": 49 },
+    "14-TheAllianceLeader'sAmbitions": {
+      "positive": 40,
+      "negative": 60,
+      "neutral": 63
+    },
+    "15-ValleyOfTorment": { "positive": 30, "negative": 64, "neutral": 95 },
+    "16-TheRoseColoredRiver": { "positive": 25, "negative": 57, "neutral": 83 },
+    "17-BloodOfTheEagleAndLion": {
+      "positive": 30,
+      "negative": 90,
+      "neutral": 90
+    },
+    "18-TheGoldenScheme": { "positive": 23, "negative": 100, "neutral": 119 },
+    "19-TheChaosOfWar": { "positive": 22, "negative": 75, "neutral": 92 },
+    "20-ConclusionOfTheCrossingRoads": {
+      "positive": 9,
+      "negative": 58,
+      "neutral": 55
+    },
+    "21-TheCityWithoutLight": { "positive": 16, "negative": 65, "neutral": 63 },
+    "22-Fodlan'sNewDream": { "positive": 28, "negative": 107, "neutral": 84 }
+  },
+  "WhiteClouds": {
+    "00-AnInevitableEncounter": {
+      "positive": 18,
+      "negative": 46,
+      "neutral": 68
+    },
+    "01-ThreeHouses": { "positive": 134, "negative": 146, "neutral": 276 },
+    "02-FamiliarScenery": { "positive": 51, "negative": 78, "neutral": 165 },
+    "03-MutinyInTheMist": { "positive": 28, "negative": 114, "neutral": 126 },
+    "04-TheGoddess'sRiteOfRebirth": {
+      "positive": 32,
+      "negative": 147,
+      "neutral": 178
+    },
+    "05-TowerOfBlackWinds": { "positive": 35, "negative": 109, "neutral": 189 },
+    "06-RumorsOfAReaper": { "positive": 34, "negative": 147, "neutral": 180 },
+    "07-FieldOfTheEagleAndLion": {
+      "positive": 115,
+      "negative": 132,
+      "neutral": 196
+    },
+    "08-TheFlameInTheDarkness": {
+      "positive": 40,
+      "negative": 153,
+      "neutral": 208
+    },
+    "09-TheCauseOfSorrow": { "positive": 226, "negative": 241, "neutral": 478 },
+    "10-WhereTheGoddessDwells": {
+      "positive": 51,
+      "negative": 182,
+      "neutral": 108
+    },
+    "11-ThroneOfKnowledge": { "positive": 36, "negative": 118, "neutral": 199 },
+    "12-ToWar": { "positive": 22, "negative": 103, "neutral": 78 }
+  }
+}
