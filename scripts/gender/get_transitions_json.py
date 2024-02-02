@@ -24,3 +24,5 @@ for title in games:
     # print(file_content)
     with open(os.path.join(game_path, "transitions.json"), 'w+') as output_file:
         json.dump(file_content, output_file)
+
+    file_content = {}
