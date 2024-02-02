@@ -54,6 +54,14 @@ const Scripts = () => {
         each gender speaking per game
       </li>
       <li>
+        <i>gender/combine_transitions.py</i>: combines transitions csv for
+        subgroups of games
+      </li>
+      <li>
+        <i>gender/get_transitions_json.py</i>: combines transitions csv for
+        subgroups of games
+      </li>
+      <li>
         <i>social_networks/get_nodes.py</i>: generates a list of nodes based on
         character names
       </li>

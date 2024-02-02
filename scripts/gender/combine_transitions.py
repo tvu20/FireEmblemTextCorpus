@@ -1,9 +1,9 @@
 import csv
 import os
 
-root_game = "FE16"
+root_game = "FE12"
 
-games = ["Paralogues", "AzureMoon", "CrimsonFlower", "SilverSnow", "VerdantWind", "WhiteClouds"]
+games = ["BookOne", "BookTwo"]
 
 game_path_base = os.path.join(os.getcwd(), "data", root_game)
 
