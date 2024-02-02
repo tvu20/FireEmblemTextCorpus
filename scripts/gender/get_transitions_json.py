@@ -2,7 +2,7 @@ import csv
 import os 
 import json
 
-games = ["FE1", "FE2", "FE3", "FE4", "FE5", "FE6", "FE7", "FE9", "FE10", "FE11", "FE12", "FE13", "FE14", "FE15", "FE16"]
+games = ["FE1", "FE2", "FE3", "FE4", "FE5", "FE6", "FE7", "FE8", "FE9", "FE10", "FE11", "FE12", "FE13", "FE14", "FE15", "FE16"]
 
 game_path_base = os.path.join(os.getcwd(), "data")
 
