@@ -1,31 +1,93 @@
-{
-  "00-PrologueBirthOfACrusader": {
+[
+  {
+    "chapter": "00-PrologueBirthOfACrusader",
     "positive": 29,
     "negative": 64,
-    "neutral": 46
+    "neutral": 46,
+    "sentiment": -35
   },
-  "01-TheSpiritForestsMaiden": {
+  {
+    "chapter": "01-TheSpiritForestsMaiden",
     "positive": 43,
     "negative": 119,
-    "neutral": 69
+    "neutral": 69,
+    "sentiment": -76
   },
-  "02-CrisisInAgustria": { "positive": 48, "negative": 127, "neutral": 86 },
-  "03-EldiganTheLionheart": { "positive": 36, "negative": 119, "neutral": 85 },
-  "04-DanceInTheSkies": { "positive": 75, "negative": 109, "neutral": 93 },
-  "05-ThresholdOfFate": { "positive": 84, "negative": 205, "neutral": 124 },
-  "06-HeirsOfLight": { "positive": 74, "negative": 121, "neutral": 92 },
-  "07-BeyondTheDesert": { "positive": 60, "negative": 148, "neutral": 105 },
-  "08-TheDracoknightsOfThracia": {
+  {
+    "chapter": "02-CrisisInAgustria",
+    "positive": 48,
+    "negative": 127,
+    "neutral": 86,
+    "sentiment": -79
+  },
+  {
+    "chapter": "03-EldiganTheLionheart",
+    "positive": 36,
+    "negative": 119,
+    "neutral": 85,
+    "sentiment": -83
+  },
+  {
+    "chapter": "04-DanceInTheSkies",
+    "positive": 75,
+    "negative": 109,
+    "neutral": 93,
+    "sentiment": -34
+  },
+  {
+    "chapter": "05-ThresholdOfFate",
+    "positive": 84,
+    "negative": 205,
+    "neutral": 124,
+    "sentiment": -121
+  },
+  {
+    "chapter": "06-HeirsOfLight",
+    "positive": 74,
+    "negative": 121,
+    "neutral": 92,
+    "sentiment": -47
+  },
+  {
+    "chapter": "07-BeyondTheDesert",
+    "positive": 60,
+    "negative": 148,
+    "neutral": 105,
+    "sentiment": -88
+  },
+  {
+    "chapter": "08-TheDracoknightsOfThracia",
     "positive": 50,
     "negative": 127,
-    "neutral": 89
+    "neutral": 89,
+    "sentiment": -77
   },
-  "09-ForWhoseSake": { "positive": 55, "negative": 156, "neutral": 104 },
-  "10-LightAndDarkness": { "positive": 58, "negative": 139, "neutral": 111 },
-  "11-EndgameTheFinalHolyWar": {
+  {
+    "chapter": "09-ForWhoseSake",
+    "positive": 55,
+    "negative": 156,
+    "neutral": 104,
+    "sentiment": -101
+  },
+  {
+    "chapter": "10-LightAndDarkness",
+    "positive": 58,
+    "negative": 139,
+    "neutral": 111,
+    "sentiment": -81
+  },
+  {
+    "chapter": "11-EndgameTheFinalHolyWar",
     "positive": 89,
     "negative": 148,
-    "neutral": 140
+    "neutral": 140,
+    "sentiment": -59
   },
-  "XX-Epilogue": { "positive": 176, "negative": 136, "neutral": 287 }
-}
+  {
+    "chapter": "XX-Epilogue",
+    "positive": 176,
+    "negative": 136,
+    "neutral": 287,
+    "sentiment": 40
+  }
+]

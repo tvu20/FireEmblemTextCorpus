@@ -1,41 +1,247 @@
-{
-  "01-TheWarriorOfFiana": { "positive": 11, "negative": 41, "neutral": 28 },
-  "02-TheVillageOfIz": { "positive": 2, "negative": 20, "neutral": 12 },
-  "02x-ThePirateIsles": { "positive": 6, "negative": 21, "neutral": 23 },
-  "03-TheGateOfKelves": { "positive": 4, "negative": 28, "neutral": 10 },
-  "04-TheDungeon": { "positive": 20, "negative": 29, "neutral": 45 },
-  "04x-TheHeroOfWinds": { "positive": 2, "negative": 30, "neutral": 32 },
-  "05-MotherAndChild": { "positive": 16, "negative": 37, "neutral": 28 },
-  "06-TheEscape": { "positive": 10, "negative": 32, "neutral": 24 },
-  "07-TheShieldOfThracia": { "positive": 24, "negative": 31, "neutral": 51 },
-  "08-MountVioldrake": { "positive": 13, "negative": 33, "neutral": 47 },
-  "08x-Dagdar'sMansion": { "positive": 4, "negative": 20, "neutral": 10 },
-  "09-TheEmblemOfNjorun": { "positive": 16, "negative": 35, "neutral": 38 },
-  "10-NoelCanyon": { "positive": 5, "negative": 24, "neutral": 20 },
-  "11-DandrumFortress": { "positive": 4, "negative": 33, "neutral": 11 },
-  "11x-Ballistrariae": { "positive": 6, "negative": 27, "neutral": 17 },
-  "12-TheThievesofDakia": { "positive": 15, "negative": 27, "neutral": 19 },
-  "12x-Dandelion": { "positive": 21, "negative": 58, "neutral": 31 },
-  "13-TheStronghold": { "positive": 24, "negative": 31, "neutral": 20 },
-  "14-OpenFire": { "positive": 10, "negative": 36, "neutral": 22 },
-  "14x-Freedom": { "positive": 7, "negative": 12, "neutral": 15 },
-  "15-TheTwoPaths": { "positive": 17, "negative": 31, "neutral": 36 },
-  "16A-NordenLine": { "positive": 11, "negative": 48, "neutral": 31 },
-  "16B-TheDarkForest": { "positive": 14, "negative": 37, "neutral": 33 },
-  "17A-Leonster'sGate": { "positive": 7, "negative": 49, "neutral": 42 },
-  "17B-TheFirstRainOfMay": { "positive": 7, "negative": 30, "neutral": 17 },
-  "18-TheLiberationOfLeonster": {
+[
+  {
+    "chapter": "01-TheWarriorOfFiana",
+    "positive": 11,
+    "negative": 41,
+    "neutral": 28,
+    "sentiment": -30
+  },
+  {
+    "chapter": "02-TheVillageOfIz",
+    "positive": 2,
+    "negative": 20,
+    "neutral": 12,
+    "sentiment": -18
+  },
+  {
+    "chapter": "02x-ThePirateIsles",
+    "positive": 6,
+    "negative": 21,
+    "neutral": 23,
+    "sentiment": -15
+  },
+  {
+    "chapter": "03-TheGateOfKelves",
+    "positive": 4,
+    "negative": 28,
+    "neutral": 10,
+    "sentiment": -24
+  },
+  {
+    "chapter": "04-TheDungeon",
+    "positive": 20,
+    "negative": 29,
+    "neutral": 45,
+    "sentiment": -9
+  },
+  {
+    "chapter": "04x-TheHeroOfWinds",
+    "positive": 2,
+    "negative": 30,
+    "neutral": 32,
+    "sentiment": -28
+  },
+  {
+    "chapter": "05-MotherAndChild",
+    "positive": 16,
+    "negative": 37,
+    "neutral": 28,
+    "sentiment": -21
+  },
+  {
+    "chapter": "06-TheEscape",
+    "positive": 10,
+    "negative": 32,
+    "neutral": 24,
+    "sentiment": -22
+  },
+  {
+    "chapter": "07-TheShieldOfThracia",
+    "positive": 24,
+    "negative": 31,
+    "neutral": 51,
+    "sentiment": -7
+  },
+  {
+    "chapter": "08-MountVioldrake",
+    "positive": 13,
+    "negative": 33,
+    "neutral": 47,
+    "sentiment": -20
+  },
+  {
+    "chapter": "08x-Dagdar'sMansion",
+    "positive": 4,
+    "negative": 20,
+    "neutral": 10,
+    "sentiment": -16
+  },
+  {
+    "chapter": "09-TheEmblemOfNjorun",
+    "positive": 16,
+    "negative": 35,
+    "neutral": 38,
+    "sentiment": -19
+  },
+  {
+    "chapter": "10-NoelCanyon",
+    "positive": 5,
+    "negative": 24,
+    "neutral": 20,
+    "sentiment": -19
+  },
+  {
+    "chapter": "11-DandrumFortress",
+    "positive": 4,
+    "negative": 33,
+    "neutral": 11,
+    "sentiment": -29
+  },
+  {
+    "chapter": "11x-Ballistrariae",
+    "positive": 6,
+    "negative": 27,
+    "neutral": 17,
+    "sentiment": -21
+  },
+  {
+    "chapter": "12-TheThievesofDakia",
+    "positive": 15,
+    "negative": 27,
+    "neutral": 19,
+    "sentiment": -12
+  },
+  {
+    "chapter": "12x-Dandelion",
+    "positive": 21,
+    "negative": 58,
+    "neutral": 31,
+    "sentiment": -37
+  },
+  {
+    "chapter": "13-TheStronghold",
+    "positive": 24,
+    "negative": 31,
+    "neutral": 20,
+    "sentiment": -7
+  },
+  {
+    "chapter": "14-OpenFire",
+    "positive": 10,
+    "negative": 36,
+    "neutral": 22,
+    "sentiment": -26
+  },
+  {
+    "chapter": "14x-Freedom",
+    "positive": 7,
+    "negative": 12,
+    "neutral": 15,
+    "sentiment": -5
+  },
+  {
+    "chapter": "15-TheTwoPaths",
+    "positive": 17,
+    "negative": 31,
+    "neutral": 36,
+    "sentiment": -14
+  },
+  {
+    "chapter": "16A-NordenLine",
+    "positive": 11,
+    "negative": 48,
+    "neutral": 31,
+    "sentiment": -37
+  },
+  {
+    "chapter": "16B-TheDarkForest",
+    "positive": 14,
+    "negative": 37,
+    "neutral": 33,
+    "sentiment": -23
+  },
+  {
+    "chapter": "17A-Leonster'sGate",
+    "positive": 7,
+    "negative": 49,
+    "neutral": 42,
+    "sentiment": -42
+  },
+  {
+    "chapter": "17B-TheFirstRainOfMay",
+    "positive": 7,
+    "negative": 30,
+    "neutral": 17,
+    "sentiment": -23
+  },
+  {
+    "chapter": "18-TheLiberationOfLeonster",
     "positive": 23,
     "negative": 39,
-    "neutral": 22
+    "neutral": 22,
+    "sentiment": -16
   },
-  "19-RemorseAndRetaliation": { "positive": 6, "negative": 34, "neutral": 18 },
-  "20-ChildOfLight": { "positive": 6, "negative": 20, "neutral": 25 },
-  "21-TheLiberationWars": { "positive": 7, "negative": 19, "neutral": 24 },
-  "21x-DetentionCenter": { "positive": 4, "negative": 14, "neutral": 9 },
-  "22-AcrossTheRiver": { "positive": 7, "negative": 30, "neutral": 13 },
-  "23-ThePalaceOfEvil": { "positive": 15, "negative": 51, "neutral": 32 },
-  "24-TheBaronInBlack": { "positive": 2, "negative": 44, "neutral": 26 },
-  "24x-TheAltarOfLoptous": { "positive": 17, "negative": 28, "neutral": 26 },
-  "25-AnUndyingOath": { "positive": 22, "negative": 47, "neutral": 18 }
-}
+  {
+    "chapter": "19-RemorseAndRetaliation",
+    "positive": 6,
+    "negative": 34,
+    "neutral": 18,
+    "sentiment": -28
+  },
+  {
+    "chapter": "20-ChildOfLight",
+    "positive": 6,
+    "negative": 20,
+    "neutral": 25,
+    "sentiment": -14
+  },
+  {
+    "chapter": "21-TheLiberationWars",
+    "positive": 7,
+    "negative": 19,
+    "neutral": 24,
+    "sentiment": -12
+  },
+  {
+    "chapter": "21x-DetentionCenter",
+    "positive": 4,
+    "negative": 14,
+    "neutral": 9,
+    "sentiment": -10
+  },
+  {
+    "chapter": "22-AcrossTheRiver",
+    "positive": 7,
+    "negative": 30,
+    "neutral": 13,
+    "sentiment": -23
+  },
+  {
+    "chapter": "23-ThePalaceOfEvil",
+    "positive": 15,
+    "negative": 51,
+    "neutral": 32,
+    "sentiment": -36
+  },
+  {
+    "chapter": "24-TheBaronInBlack",
+    "positive": 2,
+    "negative": 44,
+    "neutral": 26,
+    "sentiment": -42
+  },
+  {
+    "chapter": "24x-TheAltarOfLoptous",
+    "positive": 17,
+    "negative": 28,
+    "neutral": 26,
+    "sentiment": -11
+  },
+  {
+    "chapter": "25-AnUndyingOath",
+    "positive": 22,
+    "negative": 47,
+    "neutral": 18,
+    "sentiment": -25
+  }
+]

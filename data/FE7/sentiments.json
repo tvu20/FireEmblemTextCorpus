@@ -1,48 +1,324 @@
-{
-  "00-AGirlFromThePlains": { "positive": 8, "negative": 10, "neutral": 23 },
-  "01-FootstepsOfFate": { "positive": 22, "negative": 62, "neutral": 57 },
-  "02-SwordOfSpirits": { "positive": 8, "negative": 25, "neutral": 45 },
-  "03-BandOfMercenaries": { "positive": 17, "negative": 55, "neutral": 68 },
-  "04-InOccupation'sShadow": { "positive": 10, "negative": 35, "neutral": 55 },
-  "05-BeyondTheBorders": { "positive": 21, "negative": 38, "neutral": 43 },
-  "06-BloodOfPride": { "positive": 28, "negative": 51, "neutral": 101 },
-  "07-SiblingsAbroad": { "positive": 31, "negative": 51, "neutral": 87 },
-  "07x-TheBlackShadow": { "positive": 7, "negative": 13, "neutral": 25 },
-  "08-VortexOfStrategy": { "positive": 5, "negative": 31, "neutral": 37 },
-  "09-AGrimReunion": { "positive": 11, "negative": 35, "neutral": 28 },
-  "10-TheDistantPlains": { "positive": 24, "negative": 27, "neutral": 29 },
-  "11-TakingLeave": { "positive": 11, "negative": 20, "neutral": 34 },
-  "11H-AnotherJourney": { "positive": 8, "negative": 40, "neutral": 32 },
-  "12-BirdsOfAFeather": { "positive": 25, "negative": 49, "neutral": 59 },
-  "13-InSearchOfTruth": { "positive": 7, "negative": 20, "neutral": 35 },
-  "13x-ThePeddlerMerlinus": { "positive": 12, "negative": 28, "neutral": 33 },
-  "14-FalseFriends": { "positive": 28, "negative": 71, "neutral": 92 },
-  "15-NobleLadyOfCaelin": { "positive": 48, "negative": 72, "neutral": 91 },
-  "15H-TalonsAlight": { "positive": 3, "negative": 12, "neutral": 9 },
-  "16-WhereaboutsUnknown": { "positive": 45, "negative": 59, "neutral": 130 },
-  "16x-ThePortOfBadon": { "positive": 8, "negative": 45, "neutral": 33 },
-  "17-PirateShip": { "positive": 20, "negative": 55, "neutral": 76 },
-  "18-TheDreadIsle": { "positive": 9, "negative": 55, "neutral": 37 },
-  "18x-ImprisonerOfMagic": { "positive": 6, "negative": 31, "neutral": 27 },
-  "19-Dragon'sGate": { "positive": 25, "negative": 100, "neutral": 100 },
-  "19Hx-AGlimpseInTime": { "positive": 5, "negative": 6, "neutral": 21 },
-  "20-NewResolve": { "positive": 17, "negative": 63, "neutral": 80 },
-  "21-Kinship'sBond": { "positive": 23, "negative": 65, "neutral": 81 },
-  "22-LivingLegend": { "positive": 14, "negative": 36, "neutral": 59 },
-  "22x-Genesis": { "positive": 17, "negative": 26, "neutral": 73 },
-  "23-FourFangedOffense": { "positive": 33, "negative": 113, "neutral": 172 },
-  "24-UnfulfilledHeart": { "positive": 22, "negative": 48, "neutral": 92 },
-  "25-PaleFlowerOfDarkness": { "positive": 30, "negative": 99, "neutral": 150 },
-  "25H-CrazedBeast": { "positive": 15, "negative": 25, "neutral": 46 },
-  "26-BattleBeforeDawn": { "positive": 25, "negative": 87, "neutral": 96 },
-  "27-CogOfDestiny": { "positive": 21, "negative": 90, "neutral": 135 },
-  "27-NightOfFarewells": { "positive": 15, "negative": 67, "neutral": 66 },
-  "28-ValorousRoland": { "positive": 10, "negative": 47, "neutral": 46 },
-  "29-SandsOfTime": { "positive": 11, "negative": 34, "neutral": 60 },
-  "29x-BattlePreparations": { "positive": 12, "negative": 60, "neutral": 71 },
-  "30-VictoryOrDeath": { "positive": 15, "negative": 37, "neutral": 65 },
-  "30H-TheBerserker": { "positive": 4, "negative": 15, "neutral": 26 },
-  "31-Light": { "positive": 65, "negative": 110, "neutral": 131 },
-  "32x-TheValueOfLife": { "positive": 0, "negative": 9, "neutral": 9 },
-  "XX-Epilogue": { "positive": 44, "negative": 31, "neutral": 78 }
-}
+[
+  {
+    "chapter": "00-AGirlFromThePlains",
+    "positive": 8,
+    "negative": 10,
+    "neutral": 23,
+    "sentiment": -2
+  },
+  {
+    "chapter": "01-FootstepsOfFate",
+    "positive": 22,
+    "negative": 62,
+    "neutral": 57,
+    "sentiment": -40
+  },
+  {
+    "chapter": "02-SwordOfSpirits",
+    "positive": 8,
+    "negative": 25,
+    "neutral": 45,
+    "sentiment": -17
+  },
+  {
+    "chapter": "03-BandOfMercenaries",
+    "positive": 17,
+    "negative": 55,
+    "neutral": 68,
+    "sentiment": -38
+  },
+  {
+    "chapter": "04-InOccupation'sShadow",
+    "positive": 10,
+    "negative": 35,
+    "neutral": 55,
+    "sentiment": -25
+  },
+  {
+    "chapter": "05-BeyondTheBorders",
+    "positive": 21,
+    "negative": 38,
+    "neutral": 43,
+    "sentiment": -17
+  },
+  {
+    "chapter": "06-BloodOfPride",
+    "positive": 28,
+    "negative": 51,
+    "neutral": 101,
+    "sentiment": -23
+  },
+  {
+    "chapter": "07-SiblingsAbroad",
+    "positive": 31,
+    "negative": 51,
+    "neutral": 87,
+    "sentiment": -20
+  },
+  {
+    "chapter": "07x-TheBlackShadow",
+    "positive": 7,
+    "negative": 13,
+    "neutral": 25,
+    "sentiment": -6
+  },
+  {
+    "chapter": "08-VortexOfStrategy",
+    "positive": 5,
+    "negative": 31,
+    "neutral": 37,
+    "sentiment": -26
+  },
+  {
+    "chapter": "09-AGrimReunion",
+    "positive": 11,
+    "negative": 35,
+    "neutral": 28,
+    "sentiment": -24
+  },
+  {
+    "chapter": "10-TheDistantPlains",
+    "positive": 24,
+    "negative": 27,
+    "neutral": 29,
+    "sentiment": -3
+  },
+  {
+    "chapter": "11-TakingLeave",
+    "positive": 11,
+    "negative": 20,
+    "neutral": 34,
+    "sentiment": -9
+  },
+  {
+    "chapter": "11H-AnotherJourney",
+    "positive": 8,
+    "negative": 40,
+    "neutral": 32,
+    "sentiment": -32
+  },
+  {
+    "chapter": "12-BirdsOfAFeather",
+    "positive": 25,
+    "negative": 49,
+    "neutral": 59,
+    "sentiment": -24
+  },
+  {
+    "chapter": "13-InSearchOfTruth",
+    "positive": 7,
+    "negative": 20,
+    "neutral": 35,
+    "sentiment": -13
+  },
+  {
+    "chapter": "13x-ThePeddlerMerlinus",
+    "positive": 12,
+    "negative": 28,
+    "neutral": 33,
+    "sentiment": -16
+  },
+  {
+    "chapter": "14-FalseFriends",
+    "positive": 28,
+    "negative": 71,
+    "neutral": 92,
+    "sentiment": -43
+  },
+  {
+    "chapter": "15-NobleLadyOfCaelin",
+    "positive": 48,
+    "negative": 72,
+    "neutral": 91,
+    "sentiment": -24
+  },
+  {
+    "chapter": "15H-TalonsAlight",
+    "positive": 3,
+    "negative": 12,
+    "neutral": 9,
+    "sentiment": -9
+  },
+  {
+    "chapter": "16-WhereaboutsUnknown",
+    "positive": 45,
+    "negative": 59,
+    "neutral": 130,
+    "sentiment": -14
+  },
+  {
+    "chapter": "16x-ThePortOfBadon",
+    "positive": 8,
+    "negative": 45,
+    "neutral": 33,
+    "sentiment": -37
+  },
+  {
+    "chapter": "17-PirateShip",
+    "positive": 20,
+    "negative": 55,
+    "neutral": 76,
+    "sentiment": -35
+  },
+  {
+    "chapter": "18-TheDreadIsle",
+    "positive": 9,
+    "negative": 55,
+    "neutral": 37,
+    "sentiment": -46
+  },
+  {
+    "chapter": "18x-ImprisonerOfMagic",
+    "positive": 6,
+    "negative": 31,
+    "neutral": 27,
+    "sentiment": -25
+  },
+  {
+    "chapter": "19-Dragon'sGate",
+    "positive": 25,
+    "negative": 100,
+    "neutral": 100,
+    "sentiment": -75
+  },
+  {
+    "chapter": "19Hx-AGlimpseInTime",
+    "positive": 5,
+    "negative": 6,
+    "neutral": 21,
+    "sentiment": -1
+  },
+  {
+    "chapter": "20-NewResolve",
+    "positive": 17,
+    "negative": 63,
+    "neutral": 80,
+    "sentiment": -46
+  },
+  {
+    "chapter": "21-Kinship'sBond",
+    "positive": 23,
+    "negative": 65,
+    "neutral": 81,
+    "sentiment": -42
+  },
+  {
+    "chapter": "22-LivingLegend",
+    "positive": 14,
+    "negative": 36,
+    "neutral": 59,
+    "sentiment": -22
+  },
+  {
+    "chapter": "22x-Genesis",
+    "positive": 17,
+    "negative": 26,
+    "neutral": 73,
+    "sentiment": -9
+  },
+  {
+    "chapter": "23-FourFangedOffense",
+    "positive": 33,
+    "negative": 113,
+    "neutral": 172,
+    "sentiment": -80
+  },
+  {
+    "chapter": "24-UnfulfilledHeart",
+    "positive": 22,
+    "negative": 48,
+    "neutral": 92,
+    "sentiment": -26
+  },
+  {
+    "chapter": "25-PaleFlowerOfDarkness",
+    "positive": 30,
+    "negative": 99,
+    "neutral": 150,
+    "sentiment": -69
+  },
+  {
+    "chapter": "25H-CrazedBeast",
+    "positive": 15,
+    "negative": 25,
+    "neutral": 46,
+    "sentiment": -10
+  },
+  {
+    "chapter": "26-BattleBeforeDawn",
+    "positive": 25,
+    "negative": 87,
+    "neutral": 96,
+    "sentiment": -62
+  },
+  {
+    "chapter": "27-CogOfDestiny",
+    "positive": 21,
+    "negative": 90,
+    "neutral": 135,
+    "sentiment": -69
+  },
+  {
+    "chapter": "27-NightOfFarewells",
+    "positive": 15,
+    "negative": 67,
+    "neutral": 66,
+    "sentiment": -52
+  },
+  {
+    "chapter": "28-ValorousRoland",
+    "positive": 10,
+    "negative": 47,
+    "neutral": 46,
+    "sentiment": -37
+  },
+  {
+    "chapter": "29-SandsOfTime",
+    "positive": 11,
+    "negative": 34,
+    "neutral": 60,
+    "sentiment": -23
+  },
+  {
+    "chapter": "29x-BattlePreparations",
+    "positive": 12,
+    "negative": 60,
+    "neutral": 71,
+    "sentiment": -48
+  },
+  {
+    "chapter": "30-VictoryOrDeath",
+    "positive": 15,
+    "negative": 37,
+    "neutral": 65,
+    "sentiment": -22
+  },
+  {
+    "chapter": "30H-TheBerserker",
+    "positive": 4,
+    "negative": 15,
+    "neutral": 26,
+    "sentiment": -11
+  },
+  {
+    "chapter": "31-Light",
+    "positive": 65,
+    "negative": 110,
+    "neutral": 131,
+    "sentiment": -45
+  },
+  {
+    "chapter": "32x-TheValueOfLife",
+    "positive": 0,
+    "negative": 9,
+    "neutral": 9,
+    "sentiment": -9
+  },
+  {
+    "chapter": "XX-Epilogue",
+    "positive": 44,
+    "negative": 31,
+    "neutral": 78,
+    "sentiment": 13
+  }
+]

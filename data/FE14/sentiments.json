@@ -1,89 +1,531 @@
 {
-  "Main": {
-    "00-TiesThatBind": { "positive": 10, "negative": 26, "neutral": 13 },
-    "01-Nohr": { "positive": 27, "negative": 27, "neutral": 34 },
-    "02-GiftOfGanglari": { "positive": 17, "negative": 35, "neutral": 49 },
-    "03-JourneyBegins": { "positive": 21, "negative": 55, "neutral": 75 },
-    "04-Hoshido": { "positive": 27, "negative": 43, "neutral": 56 },
-    "05-Mother": { "positive": 32, "negative": 46, "neutral": 55 },
-    "06-ThePathIsYours": { "positive": 3, "negative": 10, "neutral": 7 },
-    "06B-EmbraceTheDark": { "positive": 7, "negative": 49, "neutral": 22 },
-    "06B-InTheWhiteLight": { "positive": 6, "negative": 40, "neutral": 18 },
-    "07B-AVowUpheld": { "positive": 19, "negative": 40, "neutral": 46 },
-    "07C-ADragon'sDegree": { "positive": 42, "negative": 73, "neutral": 32 },
-    "08B-FierceWinds": { "positive": 20, "negative": 42, "neutral": 62 },
-    "08C-ColdReception": { "positive": 30, "negative": 80, "neutral": 49 },
-    "09B-LandOfGods": { "positive": 32, "negative": 59, "neutral": 75 },
-    "09C-AnotherTrial": { "positive": 35, "negative": 40, "neutral": 37 },
-    "10B-NinjaVillage": { "positive": 31, "negative": 71, "neutral": 63 },
-    "10C-UnhappyReunion": { "positive": 15, "negative": 69, "neutral": 18 },
-    "11B-ToTheSea": { "positive": 18, "negative": 40, "neutral": 30 },
-    "11C-RainbowSage": { "positive": 26, "negative": 65, "neutral": 48 },
-    "12B-DarkReunion": { "positive": 23, "negative": 68, "neutral": 64 },
-    "12C-BitterIntrigue": { "positive": 22, "negative": 60, "neutral": 32 },
-    "13B-AnotherHope": { "positive": 19, "negative": 53, "neutral": 35 },
-    "13C-Uprising": { "positive": 24, "negative": 73, "neutral": 34 },
-    "14B-LightScatters": { "positive": 21, "negative": 42, "neutral": 44 },
-    "14C-VoiceOfParadise": { "positive": 24, "negative": 61, "neutral": 47 },
-    "15B-WolfskinPeak": { "positive": 23, "negative": 58, "neutral": 47 },
-    "15C-TheBlackPillar": { "positive": 13, "negative": 36, "neutral": 27 },
-    "16B-PleasurePalace": { "positive": 21, "negative": 59, "neutral": 60 },
-    "16C-Invasion": { "positive": 34, "negative": 47, "neutral": 54 },
-    "17B-LostInTheIce": { "positive": 12, "negative": 69, "neutral": 27 },
-    "17C-DenOfBetrayal": { "positive": 18, "negative": 58, "neutral": 36 },
-    "18B-Leo": { "positive": 18, "negative": 82, "neutral": 53 },
-    "18C-BlackAndWhite": { "positive": 42, "negative": 71, "neutral": 64 },
-    "19B-RainbowSage": { "positive": 21, "negative": 17, "neutral": 29 },
-    "19C-KitsuneLair": { "positive": 9, "negative": 28, "neutral": 26 },
-    "20B-FortDragonfall": { "positive": 15, "negative": 47, "neutral": 32 },
-    "20C-WindsOfChange": { "positive": 20, "negative": 28, "neutral": 22 },
-    "21B-BurningFalls": { "positive": 7, "negative": 22, "neutral": 35 },
-    "21C-EternalStairway": { "positive": 8, "negative": 51, "neutral": 26 },
-    "22B-HiddenCapital": { "positive": 20, "negative": 39, "neutral": 51 },
-    "22C-Sakura": { "positive": 16, "negative": 62, "neutral": 24 },
-    "23B-Camilla": { "positive": 32, "negative": 58, "neutral": 38 },
-    "23C-Possessed": { "positive": 5, "negative": 38, "neutral": 26 },
-    "24B-TearsOfADragon": { "positive": 8, "negative": 52, "neutral": 23 },
-    "24C-Hinoka": { "positive": 18, "negative": 61, "neutral": 41 },
-    "25B-TraitorRevealed": { "positive": 19, "negative": 58, "neutral": 34 },
-    "25C-Ryoma": { "positive": 11, "negative": 79, "neutral": 45 },
-    "26B-Xander": { "positive": 18, "negative": 68, "neutral": 43 },
-    "26C-Treason": { "positive": 9, "negative": 50, "neutral": 32 },
-    "27B-KingGaron": { "positive": 7, "negative": 45, "neutral": 19 },
-    "27C-TheEmptyKing": { "positive": 7, "negative": 71, "neutral": 25 },
-    "28B-Endgame:DawnBreaks": {
+  "Main": [
+    {
+      "chapter": "00-TiesThatBind",
+      "positive": 10,
+      "negative": 26,
+      "neutral": 13,
+      "sentiment": -16
+    },
+    {
+      "chapter": "01-Nohr",
+      "positive": 27,
+      "negative": 27,
+      "neutral": 34,
+      "sentiment": 0
+    },
+    {
+      "chapter": "02-GiftOfGanglari",
+      "positive": 17,
+      "negative": 35,
+      "neutral": 49,
+      "sentiment": -18
+    },
+    {
+      "chapter": "03-JourneyBegins",
+      "positive": 21,
+      "negative": 55,
+      "neutral": 75,
+      "sentiment": -34
+    },
+    {
+      "chapter": "04-Hoshido",
+      "positive": 27,
+      "negative": 43,
+      "neutral": 56,
+      "sentiment": -16
+    },
+    {
+      "chapter": "05-Mother",
+      "positive": 32,
+      "negative": 46,
+      "neutral": 55,
+      "sentiment": -14
+    },
+    {
+      "chapter": "06-ThePathIsYours",
+      "positive": 3,
+      "negative": 10,
+      "neutral": 7,
+      "sentiment": -7
+    },
+    {
+      "chapter": "06B-EmbraceTheDark",
+      "positive": 7,
+      "negative": 49,
+      "neutral": 22,
+      "sentiment": -42
+    },
+    {
+      "chapter": "06B-InTheWhiteLight",
+      "positive": 6,
+      "negative": 40,
+      "neutral": 18,
+      "sentiment": -34
+    },
+    {
+      "chapter": "07B-AVowUpheld",
+      "positive": 19,
+      "negative": 40,
+      "neutral": 46,
+      "sentiment": -21
+    },
+    {
+      "chapter": "07C-ADragon'sDegree",
+      "positive": 42,
+      "negative": 73,
+      "neutral": 32,
+      "sentiment": -31
+    },
+    {
+      "chapter": "08B-FierceWinds",
+      "positive": 20,
+      "negative": 42,
+      "neutral": 62,
+      "sentiment": -22
+    },
+    {
+      "chapter": "08C-ColdReception",
+      "positive": 30,
+      "negative": 80,
+      "neutral": 49,
+      "sentiment": -50
+    },
+    {
+      "chapter": "09B-LandOfGods",
+      "positive": 32,
+      "negative": 59,
+      "neutral": 75,
+      "sentiment": -27
+    },
+    {
+      "chapter": "09C-AnotherTrial",
+      "positive": 35,
+      "negative": 40,
+      "neutral": 37,
+      "sentiment": -5
+    },
+    {
+      "chapter": "10B-NinjaVillage",
+      "positive": 31,
+      "negative": 71,
+      "neutral": 63,
+      "sentiment": -40
+    },
+    {
+      "chapter": "10C-UnhappyReunion",
+      "positive": 15,
+      "negative": 69,
+      "neutral": 18,
+      "sentiment": -54
+    },
+    {
+      "chapter": "11B-ToTheSea",
+      "positive": 18,
+      "negative": 40,
+      "neutral": 30,
+      "sentiment": -22
+    },
+    {
+      "chapter": "11C-RainbowSage",
+      "positive": 26,
+      "negative": 65,
+      "neutral": 48,
+      "sentiment": -39
+    },
+    {
+      "chapter": "12B-DarkReunion",
+      "positive": 23,
+      "negative": 68,
+      "neutral": 64,
+      "sentiment": -45
+    },
+    {
+      "chapter": "12C-BitterIntrigue",
+      "positive": 22,
+      "negative": 60,
+      "neutral": 32,
+      "sentiment": -38
+    },
+    {
+      "chapter": "13B-AnotherHope",
+      "positive": 19,
+      "negative": 53,
+      "neutral": 35,
+      "sentiment": -34
+    },
+    {
+      "chapter": "13C-Uprising",
+      "positive": 24,
+      "negative": 73,
+      "neutral": 34,
+      "sentiment": -49
+    },
+    {
+      "chapter": "14B-LightScatters",
+      "positive": 21,
+      "negative": 42,
+      "neutral": 44,
+      "sentiment": -21
+    },
+    {
+      "chapter": "14C-VoiceOfParadise",
+      "positive": 24,
+      "negative": 61,
+      "neutral": 47,
+      "sentiment": -37
+    },
+    {
+      "chapter": "15B-WolfskinPeak",
+      "positive": 23,
+      "negative": 58,
+      "neutral": 47,
+      "sentiment": -35
+    },
+    {
+      "chapter": "15C-TheBlackPillar",
+      "positive": 13,
+      "negative": 36,
+      "neutral": 27,
+      "sentiment": -23
+    },
+    {
+      "chapter": "16B-PleasurePalace",
+      "positive": 21,
+      "negative": 59,
+      "neutral": 60,
+      "sentiment": -38
+    },
+    {
+      "chapter": "16C-Invasion",
+      "positive": 34,
+      "negative": 47,
+      "neutral": 54,
+      "sentiment": -13
+    },
+    {
+      "chapter": "17B-LostInTheIce",
+      "positive": 12,
+      "negative": 69,
+      "neutral": 27,
+      "sentiment": -57
+    },
+    {
+      "chapter": "17C-DenOfBetrayal",
+      "positive": 18,
+      "negative": 58,
+      "neutral": 36,
+      "sentiment": -40
+    },
+    {
+      "chapter": "18B-Leo",
+      "positive": 18,
+      "negative": 82,
+      "neutral": 53,
+      "sentiment": -64
+    },
+    {
+      "chapter": "18C-BlackAndWhite",
+      "positive": 42,
+      "negative": 71,
+      "neutral": 64,
+      "sentiment": -29
+    },
+    {
+      "chapter": "19B-RainbowSage",
+      "positive": 21,
+      "negative": 17,
+      "neutral": 29,
+      "sentiment": 4
+    },
+    {
+      "chapter": "19C-KitsuneLair",
+      "positive": 9,
+      "negative": 28,
+      "neutral": 26,
+      "sentiment": -19
+    },
+    {
+      "chapter": "20B-FortDragonfall",
+      "positive": 15,
+      "negative": 47,
+      "neutral": 32,
+      "sentiment": -32
+    },
+    {
+      "chapter": "20C-WindsOfChange",
+      "positive": 20,
+      "negative": 28,
+      "neutral": 22,
+      "sentiment": -8
+    },
+    {
+      "chapter": "21B-BurningFalls",
+      "positive": 7,
+      "negative": 22,
+      "neutral": 35,
+      "sentiment": -15
+    },
+    {
+      "chapter": "21C-EternalStairway",
+      "positive": 8,
+      "negative": 51,
+      "neutral": 26,
+      "sentiment": -43
+    },
+    {
+      "chapter": "22B-HiddenCapital",
+      "positive": 20,
+      "negative": 39,
+      "neutral": 51,
+      "sentiment": -19
+    },
+    {
+      "chapter": "22C-Sakura",
+      "positive": 16,
+      "negative": 62,
+      "neutral": 24,
+      "sentiment": -46
+    },
+    {
+      "chapter": "23B-Camilla",
+      "positive": 32,
+      "negative": 58,
+      "neutral": 38,
+      "sentiment": -26
+    },
+    {
+      "chapter": "23C-Possessed",
+      "positive": 5,
+      "negative": 38,
+      "neutral": 26,
+      "sentiment": -33
+    },
+    {
+      "chapter": "24B-TearsOfADragon",
+      "positive": 8,
+      "negative": 52,
+      "neutral": 23,
+      "sentiment": -44
+    },
+    {
+      "chapter": "24C-Hinoka",
+      "positive": 18,
+      "negative": 61,
+      "neutral": 41,
+      "sentiment": -43
+    },
+    {
+      "chapter": "25B-TraitorRevealed",
+      "positive": 19,
+      "negative": 58,
+      "neutral": 34,
+      "sentiment": -39
+    },
+    {
+      "chapter": "25C-Ryoma",
+      "positive": 11,
+      "negative": 79,
+      "neutral": 45,
+      "sentiment": -68
+    },
+    {
+      "chapter": "26B-Xander",
+      "positive": 18,
+      "negative": 68,
+      "neutral": 43,
+      "sentiment": -50
+    },
+    {
+      "chapter": "26C-Treason",
+      "positive": 9,
+      "negative": 50,
+      "neutral": 32,
+      "sentiment": -41
+    },
+    {
+      "chapter": "27B-KingGaron",
+      "positive": 7,
+      "negative": 45,
+      "neutral": 19,
+      "sentiment": -38
+    },
+    {
+      "chapter": "27C-TheEmptyKing",
+      "positive": 7,
+      "negative": 71,
+      "neutral": 25,
+      "sentiment": -64
+    },
+    {
+      "chapter": "28B-Endgame:DawnBreaks",
       "positive": 58,
       "negative": 100,
-      "neutral": 69
+      "neutral": 69,
+      "sentiment": -42
     },
-    "28C-Endgame:NightBreaksThrough": {
+    {
+      "chapter": "28C-Endgame:NightBreaksThrough",
       "positive": 71,
       "negative": 105,
-      "neutral": 78
+      "neutral": 78,
+      "sentiment": -34
     }
-  },
-  "Paralogues": {
-    "P01-TragicStart": { "positive": 4, "negative": 17, "neutral": 5 },
-    "P02-DragonBlood": { "positive": 8, "negative": 25, "neutral": 19 },
-    "P03-SurpriseDuet": { "positive": 5, "negative": 28, "neutral": 18 },
-    "P04-FightOrFlight": { "positive": 4, "negative": 17, "neutral": 21 },
-    "P05-BoldApproach": { "positive": 11, "negative": 13, "neutral": 8 },
-    "P06-HerbalRemedy": { "positive": 11, "negative": 23, "neutral": 14 },
-    "P07-FatherAndLiege": { "positive": 2, "negative": 25, "neutral": 16 },
-    "P08-AGreatHunt": { "positive": 7, "negative": 12, "neutral": 14 },
-    "P09-SaizoVsSaizo": { "positive": 7, "negative": 24, "neutral": 18 },
-    "P10-HunterAndPrey": { "positive": 10, "negative": 12, "neutral": 13 },
-    "P11-ALongGrudge": { "positive": 10, "negative": 19, "neutral": 17 },
-    "P12-SweetDreams": { "positive": 9, "negative": 20, "neutral": 14 },
-    "P13-TrulyTalented": { "positive": 17, "negative": 16, "neutral": 22 },
-    "P14-AfterTheEnd": { "positive": 9, "negative": 25, "neutral": 29 },
-    "P15-HiddenBravery": { "positive": 8, "negative": 13, "neutral": 12 },
-    "P16-Abducted": { "positive": 18, "negative": 23, "neutral": 20 },
-    "P17-TwoDefenders": { "positive": 7, "negative": 19, "neutral": 10 },
-    "P18-NuttyFamily": { "positive": 12, "negative": 15, "neutral": 6 },
-    "P19-GreatHeroism": { "positive": 13, "negative": 25, "neutral": 13 },
-    "P20-UltimatePower": { "positive": 8, "negative": 24, "neutral": 23 },
-    "P21-BrightSmile": { "positive": 19, "negative": 16, "neutral": 22 },
-    "P22-AbruptClash": { "positive": 5, "negative": 35, "neutral": 14 }
-  }
+  ],
+  "Paralogues": [
+    {
+      "chapter": "P01-TragicStart",
+      "positive": 4,
+      "negative": 17,
+      "neutral": 5,
+      "sentiment": -13
+    },
+    {
+      "chapter": "P02-DragonBlood",
+      "positive": 8,
+      "negative": 25,
+      "neutral": 19,
+      "sentiment": -17
+    },
+    {
+      "chapter": "P03-SurpriseDuet",
+      "positive": 5,
+      "negative": 28,
+      "neutral": 18,
+      "sentiment": -23
+    },
+    {
+      "chapter": "P04-FightOrFlight",
+      "positive": 4,
+      "negative": 17,
+      "neutral": 21,
+      "sentiment": -13
+    },
+    {
+      "chapter": "P05-BoldApproach",
+      "positive": 11,
+      "negative": 13,
+      "neutral": 8,
+      "sentiment": -2
+    },
+    {
+      "chapter": "P06-HerbalRemedy",
+      "positive": 11,
+      "negative": 23,
+      "neutral": 14,
+      "sentiment": -12
+    },
+    {
+      "chapter": "P07-FatherAndLiege",
+      "positive": 2,
+      "negative": 25,
+      "neutral": 16,
+      "sentiment": -23
+    },
+    {
+      "chapter": "P08-AGreatHunt",
+      "positive": 7,
+      "negative": 12,
+      "neutral": 14,
+      "sentiment": -5
+    },
+    {
+      "chapter": "P09-SaizoVsSaizo",
+      "positive": 7,
+      "negative": 24,
+      "neutral": 18,
+      "sentiment": -17
+    },
+    {
+      "chapter": "P10-HunterAndPrey",
+      "positive": 10,
+      "negative": 12,
+      "neutral": 13,
+      "sentiment": -2
+    },
+    {
+      "chapter": "P11-ALongGrudge",
+      "positive": 10,
+      "negative": 19,
+      "neutral": 17,
+      "sentiment": -9
+    },
+    {
+      "chapter": "P12-SweetDreams",
+      "positive": 9,
+      "negative": 20,
+      "neutral": 14,
+      "sentiment": -11
+    },
+    {
+      "chapter": "P13-TrulyTalented",
+      "positive": 17,
+      "negative": 16,
+      "neutral": 22,
+      "sentiment": 1
+    },
+    {
+      "chapter": "P14-AfterTheEnd",
+      "positive": 9,
+      "negative": 25,
+      "neutral": 29,
+      "sentiment": -16
+    },
+    {
+      "chapter": "P15-HiddenBravery",
+      "positive": 8,
+      "negative": 13,
+      "neutral": 12,
+      "sentiment": -5
+    },
+    {
+      "chapter": "P16-Abducted",
+      "positive": 18,
+      "negative": 23,
+      "neutral": 20,
+      "sentiment": -5
+    },
+    {
+      "chapter": "P17-TwoDefenders",
+      "positive": 7,
+      "negative": 19,
+      "neutral": 10,
+      "sentiment": -12
+    },
+    {
+      "chapter": "P18-NuttyFamily",
+      "positive": 12,
+      "negative": 15,
+      "neutral": 6,
+      "sentiment": -3
+    },
+    {
+      "chapter": "P19-GreatHeroism",
+      "positive": 13,
+      "negative": 25,
+      "neutral": 13,
+      "sentiment": -12
+    },
+    {
+      "chapter": "P20-UltimatePower",
+      "positive": 8,
+      "negative": 24,
+      "neutral": 23,
+      "sentiment": -16
+    },
+    {
+      "chapter": "P21-BrightSmile",
+      "positive": 19,
+      "negative": 16,
+      "neutral": 22,
+      "sentiment": 3
+    },
+    {
+      "chapter": "P22-AbruptClash",
+      "positive": 5,
+      "negative": 35,
+      "neutral": 14,
+      "sentiment": -30
+    }
+  ]
 }

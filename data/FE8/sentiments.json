@@ -1,33 +1,219 @@
-{
-  "00-TheFallOfRenais": { "positive": 6, "negative": 29, "neutral": 34 },
-  "01-Escape": { "positive": 22, "negative": 44, "neutral": 33 },
-  "02-TheProtected": { "positive": 17, "negative": 50, "neutral": 47 },
-  "03-TheBanditsOfBorgo": { "positive": 10, "negative": 40, "neutral": 56 },
-  "04-AncientHorrors": { "positive": 8, "negative": 27, "neutral": 27 },
-  "05-TheEmpire'sReach": { "positive": 15, "negative": 49, "neutral": 37 },
-  "05x-UnbrokenHeart": { "positive": 8, "negative": 25, "neutral": 37 },
-  "06-VictimsOfWar": { "positive": 9, "negative": 34, "neutral": 33 },
-  "07-WatersideRenvall": { "positive": 6, "negative": 11, "neutral": 18 },
-  "08-It'sATrap": { "positive": 15, "negative": 29, "neutral": 44 },
-  "08x-ANewJourney": { "positive": 30, "negative": 60, "neutral": 82 },
-  "09A-DistantBlade": { "positive": 13, "negative": 40, "neutral": 63 },
-  "09B-FortRigwald": { "positive": 11, "negative": 72, "neutral": 63 },
-  "10A-RevoltAtCarcino": { "positive": 29, "negative": 62, "neutral": 85 },
-  "10B-TurningTraitor": { "positive": 9, "negative": 60, "neutral": 88 },
-  "11A-CreepingDarkness": { "positive": 7, "negative": 52, "neutral": 47 },
-  "11B-PhantomShip": { "positive": 12, "negative": 23, "neutral": 36 },
-  "12A-VillageOfSilence": { "positive": 12, "negative": 29, "neutral": 33 },
-  "12B-LandingAtTaizel": { "positive": 7, "negative": 22, "neutral": 30 },
-  "13A-HamillCanyon": { "positive": 10, "negative": 37, "neutral": 49 },
-  "13B-Fluorspar'sOath": { "positive": 20, "negative": 50, "neutral": 48 },
-  "14A-QueenOfWhiteDunes": { "positive": 21, "negative": 76, "neutral": 65 },
-  "14B-FatherAndSon": { "positive": 15, "negative": 52, "neutral": 77 },
-  "15-ScorchedSand": { "positive": 30, "negative": 43, "neutral": 63 },
-  "16-RuledByMadness": { "positive": 20, "negative": 52, "neutral": 56 },
-  "17-RiverOfRegrets": { "positive": 22, "negative": 61, "neutral": 66 },
-  "18-TrueFacesOfEvil": { "positive": 4, "negative": 65, "neutral": 53 },
-  "19-LastHope": { "positive": 31, "negative": 46, "neutral": 58 },
-  "20-DarklingWoods": { "positive": 12, "negative": 70, "neutral": 48 },
-  "21-TheSacredStones": { "positive": 51, "negative": 66, "neutral": 66 },
-  "XX-Epilogue": { "positive": 6, "negative": 11, "neutral": 9 }
-}
+[
+  {
+    "chapter": "00-TheFallOfRenais",
+    "positive": 6,
+    "negative": 29,
+    "neutral": 34,
+    "sentiment": -23
+  },
+  {
+    "chapter": "01-Escape",
+    "positive": 22,
+    "negative": 44,
+    "neutral": 33,
+    "sentiment": -22
+  },
+  {
+    "chapter": "02-TheProtected",
+    "positive": 17,
+    "negative": 50,
+    "neutral": 47,
+    "sentiment": -33
+  },
+  {
+    "chapter": "03-TheBanditsOfBorgo",
+    "positive": 10,
+    "negative": 40,
+    "neutral": 56,
+    "sentiment": -30
+  },
+  {
+    "chapter": "04-AncientHorrors",
+    "positive": 8,
+    "negative": 27,
+    "neutral": 27,
+    "sentiment": -19
+  },
+  {
+    "chapter": "05-TheEmpire'sReach",
+    "positive": 15,
+    "negative": 49,
+    "neutral": 37,
+    "sentiment": -34
+  },
+  {
+    "chapter": "05x-UnbrokenHeart",
+    "positive": 8,
+    "negative": 25,
+    "neutral": 37,
+    "sentiment": -17
+  },
+  {
+    "chapter": "06-VictimsOfWar",
+    "positive": 9,
+    "negative": 34,
+    "neutral": 33,
+    "sentiment": -25
+  },
+  {
+    "chapter": "07-WatersideRenvall",
+    "positive": 6,
+    "negative": 11,
+    "neutral": 18,
+    "sentiment": -5
+  },
+  {
+    "chapter": "08-It'sATrap",
+    "positive": 15,
+    "negative": 29,
+    "neutral": 44,
+    "sentiment": -14
+  },
+  {
+    "chapter": "08x-ANewJourney",
+    "positive": 30,
+    "negative": 60,
+    "neutral": 82,
+    "sentiment": -30
+  },
+  {
+    "chapter": "09A-DistantBlade",
+    "positive": 13,
+    "negative": 40,
+    "neutral": 63,
+    "sentiment": -27
+  },
+  {
+    "chapter": "09B-FortRigwald",
+    "positive": 11,
+    "negative": 72,
+    "neutral": 63,
+    "sentiment": -61
+  },
+  {
+    "chapter": "10A-RevoltAtCarcino",
+    "positive": 29,
+    "negative": 62,
+    "neutral": 85,
+    "sentiment": -33
+  },
+  {
+    "chapter": "10B-TurningTraitor",
+    "positive": 9,
+    "negative": 60,
+    "neutral": 88,
+    "sentiment": -51
+  },
+  {
+    "chapter": "11A-CreepingDarkness",
+    "positive": 7,
+    "negative": 52,
+    "neutral": 47,
+    "sentiment": -45
+  },
+  {
+    "chapter": "11B-PhantomShip",
+    "positive": 12,
+    "negative": 23,
+    "neutral": 36,
+    "sentiment": -11
+  },
+  {
+    "chapter": "12A-VillageOfSilence",
+    "positive": 12,
+    "negative": 29,
+    "neutral": 33,
+    "sentiment": -17
+  },
+  {
+    "chapter": "12B-LandingAtTaizel",
+    "positive": 7,
+    "negative": 22,
+    "neutral": 30,
+    "sentiment": -15
+  },
+  {
+    "chapter": "13A-HamillCanyon",
+    "positive": 10,
+    "negative": 37,
+    "neutral": 49,
+    "sentiment": -27
+  },
+  {
+    "chapter": "13B-Fluorspar'sOath",
+    "positive": 20,
+    "negative": 50,
+    "neutral": 48,
+    "sentiment": -30
+  },
+  {
+    "chapter": "14A-QueenOfWhiteDunes",
+    "positive": 21,
+    "negative": 76,
+    "neutral": 65,
+    "sentiment": -55
+  },
+  {
+    "chapter": "14B-FatherAndSon",
+    "positive": 15,
+    "negative": 52,
+    "neutral": 77,
+    "sentiment": -37
+  },
+  {
+    "chapter": "15-ScorchedSand",
+    "positive": 30,
+    "negative": 43,
+    "neutral": 63,
+    "sentiment": -13
+  },
+  {
+    "chapter": "16-RuledByMadness",
+    "positive": 20,
+    "negative": 52,
+    "neutral": 56,
+    "sentiment": -32
+  },
+  {
+    "chapter": "17-RiverOfRegrets",
+    "positive": 22,
+    "negative": 61,
+    "neutral": 66,
+    "sentiment": -39
+  },
+  {
+    "chapter": "18-TrueFacesOfEvil",
+    "positive": 4,
+    "negative": 65,
+    "neutral": 53,
+    "sentiment": -61
+  },
+  {
+    "chapter": "19-LastHope",
+    "positive": 31,
+    "negative": 46,
+    "neutral": 58,
+    "sentiment": -15
+  },
+  {
+    "chapter": "20-DarklingWoods",
+    "positive": 12,
+    "negative": 70,
+    "neutral": 48,
+    "sentiment": -58
+  },
+  {
+    "chapter": "21-TheSacredStones",
+    "positive": 51,
+    "negative": 66,
+    "neutral": 66,
+    "sentiment": -15
+  },
+  {
+    "chapter": "XX-Epilogue",
+    "positive": 6,
+    "negative": 11,
+    "neutral": 9,
+    "sentiment": -5
+  }
+]

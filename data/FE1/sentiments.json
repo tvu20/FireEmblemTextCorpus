@@ -1,28 +1,184 @@
-{
-  "01-MarthEmbarks": { "positive": 2, "negative": 7, "neutral": 3 },
-  "02-ThePiratesOfGalder": { "positive": 2, "negative": 5, "neutral": 5 },
-  "03-ABrushInTheTeeth": { "positive": 1, "negative": 11, "neutral": 1 },
-  "04-BattleInTheLea": { "positive": 4, "negative": 6, "neutral": 11 },
-  "05-ChampionsOfAurelis": { "positive": 4, "negative": 7, "neutral": 4 },
-  "06-FireEmblem": { "positive": 7, "negative": 2, "neutral": 2 },
-  "07-LefcandithGauntlet": { "positive": 0, "negative": 6, "neutral": 1 },
-  "08-PortWarren": { "positive": 1, "negative": 11, "neutral": 9 },
-  "09-ThePyrathiDragon": { "positive": 1, "negative": 3, "neutral": 1 },
-  "10-PrincessMinerva": { "positive": 2, "negative": 1, "neutral": 4 },
-  "11-KnordaMarket": { "positive": 5, "negative": 10, "neutral": 9 },
-  "12-TheAgelessPalace": { "positive": 2, "negative": 6, "neutral": 1 },
-  "13-TheWoodenCavalry": { "positive": 6, "negative": 3, "neutral": 4 },
-  "14-LandOfSorrow": { "positive": 2, "negative": 2, "neutral": 4 },
-  "15-AnOasisOfMagic": { "positive": 0, "negative": 4, "neutral": 1 },
-  "16-TheBattleForAltea": { "positive": 4, "negative": 4, "neutral": 3 },
-  "17-StarAndSavior": { "positive": 1, "negative": 2, "neutral": 1 },
-  "18-TheSableOrder": { "positive": 1, "negative": 2, "neutral": 1 },
-  "19-ManaketePrincess": { "positive": 1, "negative": 7, "neutral": 1 },
-  "20-CamusTheSable": { "positive": 2, "negative": 13, "neutral": 1 },
-  "21-ClashInMacedon": { "positive": 0, "negative": 1, "neutral": 0 },
-  "22-AKnightFilledSky": { "positive": 1, "negative": 3, "neutral": 2 },
-  "23-DarkPontifex": { "positive": 3, "negative": 2, "neutral": 1 },
-  "24-TheDragonkinRealm": { "positive": 1, "negative": 1, "neutral": 0 },
-  "25-Endgame:ChosenByFate": { "positive": 1, "negative": 3, "neutral": 1 },
-  "XX-Epilogue": { "positive": 3, "negative": 3, "neutral": 6 }
-}
+[
+  {
+    "chapter": "01-MarthEmbarks",
+    "positive": 2,
+    "negative": 7,
+    "neutral": 3,
+    "sentiment": -5
+  },
+  {
+    "chapter": "02-ThePiratesOfGalder",
+    "positive": 2,
+    "negative": 5,
+    "neutral": 5,
+    "sentiment": -3
+  },
+  {
+    "chapter": "03-ABrushInTheTeeth",
+    "positive": 1,
+    "negative": 11,
+    "neutral": 1,
+    "sentiment": -10
+  },
+  {
+    "chapter": "04-BattleInTheLea",
+    "positive": 4,
+    "negative": 6,
+    "neutral": 11,
+    "sentiment": -2
+  },
+  {
+    "chapter": "05-ChampionsOfAurelis",
+    "positive": 4,
+    "negative": 7,
+    "neutral": 4,
+    "sentiment": -3
+  },
+  {
+    "chapter": "06-FireEmblem",
+    "positive": 7,
+    "negative": 2,
+    "neutral": 2,
+    "sentiment": 5
+  },
+  {
+    "chapter": "07-LefcandithGauntlet",
+    "positive": 0,
+    "negative": 6,
+    "neutral": 1,
+    "sentiment": -6
+  },
+  {
+    "chapter": "08-PortWarren",
+    "positive": 1,
+    "negative": 11,
+    "neutral": 9,
+    "sentiment": -10
+  },
+  {
+    "chapter": "09-ThePyrathiDragon",
+    "positive": 1,
+    "negative": 3,
+    "neutral": 1,
+    "sentiment": -2
+  },
+  {
+    "chapter": "10-PrincessMinerva",
+    "positive": 2,
+    "negative": 1,
+    "neutral": 4,
+    "sentiment": 1
+  },
+  {
+    "chapter": "11-KnordaMarket",
+    "positive": 5,
+    "negative": 10,
+    "neutral": 9,
+    "sentiment": -5
+  },
+  {
+    "chapter": "12-TheAgelessPalace",
+    "positive": 2,
+    "negative": 6,
+    "neutral": 1,
+    "sentiment": -4
+  },
+  {
+    "chapter": "13-TheWoodenCavalry",
+    "positive": 6,
+    "negative": 3,
+    "neutral": 4,
+    "sentiment": 3
+  },
+  {
+    "chapter": "14-LandOfSorrow",
+    "positive": 2,
+    "negative": 2,
+    "neutral": 4,
+    "sentiment": 0
+  },
+  {
+    "chapter": "15-AnOasisOfMagic",
+    "positive": 0,
+    "negative": 4,
+    "neutral": 1,
+    "sentiment": -4
+  },
+  {
+    "chapter": "16-TheBattleForAltea",
+    "positive": 4,
+    "negative": 4,
+    "neutral": 3,
+    "sentiment": 0
+  },
+  {
+    "chapter": "17-StarAndSavior",
+    "positive": 1,
+    "negative": 2,
+    "neutral": 1,
+    "sentiment": -1
+  },
+  {
+    "chapter": "18-TheSableOrder",
+    "positive": 1,
+    "negative": 2,
+    "neutral": 1,
+    "sentiment": -1
+  },
+  {
+    "chapter": "19-ManaketePrincess",
+    "positive": 1,
+    "negative": 7,
+    "neutral": 1,
+    "sentiment": -6
+  },
+  {
+    "chapter": "20-CamusTheSable",
+    "positive": 2,
+    "negative": 13,
+    "neutral": 1,
+    "sentiment": -11
+  },
+  {
+    "chapter": "21-ClashInMacedon",
+    "positive": 0,
+    "negative": 1,
+    "neutral": 0,
+    "sentiment": -1
+  },
+  {
+    "chapter": "22-AKnightFilledSky",
+    "positive": 1,
+    "negative": 3,
+    "neutral": 2,
+    "sentiment": -2
+  },
+  {
+    "chapter": "23-DarkPontifex",
+    "positive": 3,
+    "negative": 2,
+    "neutral": 1,
+    "sentiment": 1
+  },
+  {
+    "chapter": "24-TheDragonkinRealm",
+    "positive": 1,
+    "negative": 1,
+    "neutral": 0,
+    "sentiment": 0
+  },
+  {
+    "chapter": "25-Endgame:ChosenByFate",
+    "positive": 1,
+    "negative": 3,
+    "neutral": 1,
+    "sentiment": -2
+  },
+  {
+    "chapter": "XX-Epilogue",
+    "positive": 3,
+    "negative": 3,
+    "neutral": 6,
+    "sentiment": 0
+  }
+]

@@ -1,52 +1,268 @@
-{
-  "01-DawnOfDestiny": { "positive": 13, "negative": 24, "neutral": 19 },
-  "02-ThePrincessOfBern": { "positive": 13, "negative": 31, "neutral": 57 },
-  "03-LateArrival": { "positive": 18, "negative": 40, "neutral": 61 },
-  "04-CollapseOfTheAlliance": { "positive": 14, "negative": 42, "neutral": 53 },
-  "05-TheEmblemOfFire": { "positive": 12, "negative": 27, "neutral": 46 },
-  "06-TheTrap": { "positive": 8, "negative": 40, "neutral": 46 },
-  "07-TheRebellionOfOstia": { "positive": 25, "negative": 41, "neutral": 76 },
-  "08-Reunion": { "positive": 37, "negative": 60, "neutral": 61 },
-  "08x-TheBlazingSword": { "positive": 15, "negative": 22, "neutral": 37 },
-  "09-TheMistyIsles": { "positive": 11, "negative": 42, "neutral": 93 },
-  "10A-TheResistanceForces": { "positive": 9, "negative": 48, "neutral": 61 },
-  "10B-CaughtInTheMiddle": { "positive": 46, "negative": 88, "neutral": 220 },
-  "11A-TheHeroOfTheWesternIsles": {
+[
+  {
+    "chapter": "01-DawnOfDestiny",
+    "positive": 13,
+    "negative": 24,
+    "neutral": 19,
+    "sentiment": -11
+  },
+  {
+    "chapter": "02-ThePrincessOfBern",
+    "positive": 13,
+    "negative": 31,
+    "neutral": 57,
+    "sentiment": -18
+  },
+  {
+    "chapter": "03-LateArrival",
+    "positive": 18,
+    "negative": 40,
+    "neutral": 61,
+    "sentiment": -22
+  },
+  {
+    "chapter": "04-CollapseOfTheAlliance",
+    "positive": 14,
+    "negative": 42,
+    "neutral": 53,
+    "sentiment": -28
+  },
+  {
+    "chapter": "05-TheEmblemOfFire",
+    "positive": 12,
+    "negative": 27,
+    "neutral": 46,
+    "sentiment": -15
+  },
+  {
+    "chapter": "06-TheTrap",
+    "positive": 8,
+    "negative": 40,
+    "neutral": 46,
+    "sentiment": -32
+  },
+  {
+    "chapter": "07-TheRebellionOfOstia",
+    "positive": 25,
+    "negative": 41,
+    "neutral": 76,
+    "sentiment": -16
+  },
+  {
+    "chapter": "08-Reunion",
+    "positive": 37,
+    "negative": 60,
+    "neutral": 61,
+    "sentiment": -23
+  },
+  {
+    "chapter": "08x-TheBlazingSword",
+    "positive": 15,
+    "negative": 22,
+    "neutral": 37,
+    "sentiment": -7
+  },
+  {
+    "chapter": "09-TheMistyIsles",
+    "positive": 11,
+    "negative": 42,
+    "neutral": 93,
+    "sentiment": -31
+  },
+  {
+    "chapter": "10A-TheResistanceForces",
+    "positive": 9,
+    "negative": 48,
+    "neutral": 61,
+    "sentiment": -39
+  },
+  {
+    "chapter": "10B-CaughtInTheMiddle",
+    "positive": 46,
+    "negative": 88,
+    "neutral": 220,
+    "sentiment": -42
+  },
+  {
+    "chapter": "11A-TheHeroOfTheWesternIsles",
     "positive": 36,
     "negative": 53,
-    "neutral": 120
+    "neutral": 120,
+    "sentiment": -17
   },
-  "11B-EscapeToFreedom": { "positive": 13, "negative": 30, "neutral": 56 },
-  "12-TheTrueEnemy": { "positive": 12, "negative": 50, "neutral": 80 },
-  "12x-TheAxeOfThunder": { "positive": 1, "negative": 7, "neutral": 22 },
-  "13-RescueMission": { "positive": 24, "negative": 67, "neutral": 112 },
-  "14-Arcadia": { "positive": 7, "negative": 23, "neutral": 61 },
-  "14x-TheInfernalElement": { "positive": 4, "negative": 10, "neutral": 43 },
-  "15-TheDragonGirl": { "positive": 14, "negative": 30, "neutral": 63 },
-  "16-RetakingTheCapital": { "positive": 30, "negative": 83, "neutral": 108 },
-  "16x-ThePinnacleOfLight": { "positive": 7, "negative": 14, "neutral": 22 },
-  "17A-ThePathThroughTheOcean": {
+  {
+    "chapter": "11B-EscapeToFreedom",
+    "positive": 13,
+    "negative": 30,
+    "neutral": 56,
+    "sentiment": -17
+  },
+  {
+    "chapter": "12-TheTrueEnemy",
+    "positive": 12,
+    "negative": 50,
+    "neutral": 80,
+    "sentiment": -38
+  },
+  {
+    "chapter": "12x-TheAxeOfThunder",
+    "positive": 1,
+    "negative": 7,
+    "neutral": 22,
+    "sentiment": -6
+  },
+  {
+    "chapter": "13-RescueMission",
+    "positive": 24,
+    "negative": 67,
+    "neutral": 112,
+    "sentiment": -43
+  },
+  {
+    "chapter": "14-Arcadia",
+    "positive": 7,
+    "negative": 23,
+    "neutral": 61,
+    "sentiment": -16
+  },
+  {
+    "chapter": "14x-TheInfernalElement",
+    "positive": 4,
+    "negative": 10,
+    "neutral": 43,
+    "sentiment": -6
+  },
+  {
+    "chapter": "15-TheDragonGirl",
+    "positive": 14,
+    "negative": 30,
+    "neutral": 63,
+    "sentiment": -16
+  },
+  {
+    "chapter": "16-RetakingTheCapital",
+    "positive": 30,
+    "negative": 83,
+    "neutral": 108,
+    "sentiment": -53
+  },
+  {
+    "chapter": "16x-ThePinnacleOfLight",
+    "positive": 7,
+    "negative": 14,
+    "neutral": 22,
+    "sentiment": -7
+  },
+  {
+    "chapter": "17A-ThePathThroughTheOcean",
     "positive": 7,
     "negative": 20,
-    "neutral": 38
+    "neutral": 38,
+    "sentiment": -13
   },
-  "17B-ThePathThroughTheOcean": {
+  {
+    "chapter": "17B-ThePathThroughTheOcean",
     "positive": 7,
     "negative": 19,
-    "neutral": 27
+    "neutral": 27,
+    "sentiment": -12
   },
-  "18A-TheFrozenRiver": { "positive": 3, "negative": 21, "neutral": 56 },
-  "18B-TheLawOfSacae": { "positive": 1, "negative": 21, "neutral": 37 },
-  "19A-BitterCold": { "positive": 5, "negative": 17, "neutral": 46 },
-  "19B-BattleInBulgar": { "positive": 3, "negative": 16, "neutral": 58 },
-  "20A-TheLiberationOfIlia": { "positive": 15, "negative": 44, "neutral": 63 },
-  "20Ax-TheFrozenSpear": { "positive": 5, "negative": 20, "neutral": 23 },
-  "20B-TheSilverWolf": { "positive": 9, "negative": 29, "neutral": 49 },
-  "20Bx-TheBowOfTheWinds": { "positive": 5, "negative": 19, "neutral": 26 },
-  "21-TheBindingBlade": { "positive": 10, "negative": 21, "neutral": 64 },
-  "21x-TheSilencingDarkness": { "positive": 1, "negative": 8, "neutral": 31 },
-  "22-TheNeverendingDream": { "positive": 9, "negative": 34, "neutral": 64 },
-  "23-TheGhostsOfBern": { "positive": 6, "negative": 27, "neutral": 59 },
-  "24-TheTruthOfTheLegend": { "positive": 6, "negative": 55, "neutral": 87 },
-  "25-BeyondTheDarkness": { "positive": 12, "negative": 39, "neutral": 35 }
-}
+  {
+    "chapter": "18A-TheFrozenRiver",
+    "positive": 3,
+    "negative": 21,
+    "neutral": 56,
+    "sentiment": -18
+  },
+  {
+    "chapter": "18B-TheLawOfSacae",
+    "positive": 1,
+    "negative": 21,
+    "neutral": 37,
+    "sentiment": -20
+  },
+  {
+    "chapter": "19A-BitterCold",
+    "positive": 5,
+    "negative": 17,
+    "neutral": 46,
+    "sentiment": -12
+  },
+  {
+    "chapter": "19B-BattleInBulgar",
+    "positive": 3,
+    "negative": 16,
+    "neutral": 58,
+    "sentiment": -13
+  },
+  {
+    "chapter": "20A-TheLiberationOfIlia",
+    "positive": 15,
+    "negative": 44,
+    "neutral": 63,
+    "sentiment": -29
+  },
+  {
+    "chapter": "20Ax-TheFrozenSpear",
+    "positive": 5,
+    "negative": 20,
+    "neutral": 23,
+    "sentiment": -15
+  },
+  {
+    "chapter": "20B-TheSilverWolf",
+    "positive": 9,
+    "negative": 29,
+    "neutral": 49,
+    "sentiment": -20
+  },
+  {
+    "chapter": "20Bx-TheBowOfTheWinds",
+    "positive": 5,
+    "negative": 19,
+    "neutral": 26,
+    "sentiment": -14
+  },
+  {
+    "chapter": "21-TheBindingBlade",
+    "positive": 10,
+    "negative": 21,
+    "neutral": 64,
+    "sentiment": -11
+  },
+  {
+    "chapter": "21x-TheSilencingDarkness",
+    "positive": 1,
+    "negative": 8,
+    "neutral": 31,
+    "sentiment": -7
+  },
+  {
+    "chapter": "22-TheNeverendingDream",
+    "positive": 9,
+    "negative": 34,
+    "neutral": 64,
+    "sentiment": -25
+  },
+  {
+    "chapter": "23-TheGhostsOfBern",
+    "positive": 6,
+    "negative": 27,
+    "neutral": 59,
+    "sentiment": -21
+  },
+  {
+    "chapter": "24-TheTruthOfTheLegend",
+    "positive": 6,
+    "negative": 55,
+    "neutral": 87,
+    "sentiment": -49
+  },
+  {
+    "chapter": "25-BeyondTheDarkness",
+    "positive": 12,
+    "negative": 39,
+    "neutral": 35,
+    "sentiment": -27
+  }
+]

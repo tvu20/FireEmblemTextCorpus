@@ -1,7 +1,37 @@
-{
-  "01-Zofia'sCall": { "positive": 5, "negative": 20, "neutral": 10 },
-  "02-ThePilgrimage": { "positive": 12, "negative": 22, "neutral": 16 },
-  "03-WarOfDeliverance": { "positive": 16, "negative": 34, "neutral": 10 },
-  "04-LandOfSorrow": { "positive": 11, "negative": 16, "neutral": 17 },
-  "05-TogetherToTheEnd": { "positive": 0, "negative": 9, "neutral": 3 }
-}
+[
+  {
+    "chapter": "01-Zofia'sCall",
+    "positive": 5,
+    "negative": 20,
+    "neutral": 10,
+    "sentiment": -15
+  },
+  {
+    "chapter": "02-ThePilgrimage",
+    "positive": 12,
+    "negative": 22,
+    "neutral": 16,
+    "sentiment": -10
+  },
+  {
+    "chapter": "03-WarOfDeliverance",
+    "positive": 16,
+    "negative": 34,
+    "neutral": 10,
+    "sentiment": -18
+  },
+  {
+    "chapter": "04-LandOfSorrow",
+    "positive": 11,
+    "negative": 16,
+    "neutral": 17,
+    "sentiment": -5
+  },
+  {
+    "chapter": "05-TogetherToTheEnd",
+    "positive": 0,
+    "negative": 9,
+    "neutral": 3,
+    "sentiment": -9
+  }
+]
