@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "Lord",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "M",
+        "note": "Unique to the protagonist, Marth."
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "gender": "M",
+        "note": "Unique to the male protagonists of each game."
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "gender": "A",
+        "note": "Unique to the protagonists of each game."
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "gender": "M",
+        "note": "Unique to the protagonist, Marth."
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "gender": "A",
+        "note": "Unique to the protagonists of each game."
+      }
+    ]
+  },
+  {
+    "name": "Mercenary",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 2,
+        "gender": "M",
+        "note": "The primary sword-wielding infantry unit class."
+      },
+      {
+        "start": 3,
+        "end": 3,
+        "gender": "A",
+        "note": "Debuted the first female mercenary unit."
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "gender": "M",
+        "note": "The primary sword-wielding infantry unit class. Only represented by male characters."
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "gender": "A",
+        "note": "The primary sword-wielding infantry unit class."
+      }
+    ]
+  },
+  {
+    "name": "Hero",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 3,
+        "gender": "M",
+        "note": "The promoted form of the Mercenary class, wielding Swords as its sole weapon of choice."
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "gender": "A",
+        "note": "The promoted form of the Mercenary class. Accessible by both male and female characters."
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "gender": "Exclusive to one male character per game."
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "gender": "A",
+        "note": "The promoted form of the Mercenary class, able to wield both Swords and Axes."
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "gender": "M",
+        "note": "A promoted class only accessible by male characters."
+      }
+    ]
+  },
+  {
+    "name": "Thief",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "M",
+        "note": "A special class that has no promotions."
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "gender": "M",
+        "note": "A special class that has no promotions."
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "gender": "A",
+        "note": "A unisex class that can manipulate locks on doors and chests."
+      }
+    ]
+  },
+  {
+    "name": "Fighter",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "M",
+        "note": "Male-only physical combat class wielding axes."
+      },
+      {
+        "start": 3,
+        "end": 3,
+        "gender": "M",
+        "note": "Male-only physical combat class wielding axes."
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "gender": "M",
+        "note": "Male-only physical combat class wielding axes."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "First introduction of female fighters."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Unisex physical combat class wielding axes."
+      }
+    ]
+  },
+  {
+    "name": "Archer",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "A",
+        "note": "Unisex beginner bow-wielding class."
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "gender": "M",
+        "note": "Male-exclusive bow-wielding class."
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "gender": "A",
+        "note": "Unisex beginner bow-wielding class."
+      }
+    ]
+  },
+  {
+    "name": "Sniper",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "A",
+        "note": "Promoted form of the Archer class locked to bows."
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "gender": "M",
+        "note": "Promoted form of the Archer class locked to bows."
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "gender": "A",
+        "note": "Promoted form of the Archer class locked to bows."
+      }
+    ]
+  },
+  {
+    "name": "Cavalier",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 2,
+        "gender": "M",
+        "note": "Lance-wielding knights riding into battle on horseback."
+      },
+      {
+        "start": 3,
+        "end": 3,
+        "gender": "A",
+        "note": "Introduction of first female cavalier unit."
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "gender": "M",
+        "note": "Lance/sword wielding mounted units. Only represented by male characters."
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "gender": "A",
+        "note": "Lance/sword wielding mounted units. Accessible by male and female characters."
+      }
+    ]
+  },
+  {
+    "name": "Paladin",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 16,
+        "gender": "A",
+        "note": "The promoted form of the Cavalier class, traditionally wielding swords and lances."
+      }
+    ]
+  },
+  {
+    "name": "Knight",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 4,
+        "gender": "M",
+        "note": "Slow-moving, yet renowned for their unparalleled Defense."
+      },
+      {
+        "start": 6,
+        "end": 6,
+        "gender": "A",
+        "note": "Introduction of first female knight unit, Gwendolyn."
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "gender": "M",
+        "note": "Male-only lance-wielding infantry armor class."
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "gender": "A",
+        "note": "Unisex lance-wielding infantry armor class."
+      }
+    ]
+  },
+  {
+    "name": "General",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "A",
+        "note": "Powerful lance-wielding infantry armor class."
+      },
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "M",
+        "note": "Known as the Baron class and exclusive to males."
+      },
+      {
+        "start": 3,
+        "end": 3,
+        "gender": "A",
+        "note": "Powerful lance-wielding infantry armor class."
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "gender": "M",
+        "note": "Powerful infantry armor class. Only represented by males."
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "gender": "A",
+        "note": "Powerful unisex infantry armor class."
+      },
+      {
+        "start": 15,
+        "end": 15,
+        "gender": "M",
+        "note": "Known as the Baron class and exclusive to males."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Powerful unisex infantry armor class."
+      }
+    ]
+  },
+  {
+    "name": "Pegasus Knight",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 13,
+        "gender": "F",
+        "note": "Female warriors riding atop flying Pegasus steeds who commonly wield lances."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "Known as Sky Knights. First introduction of male Pegasus-riding units."
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "gender": "F",
+        "note": "Female warriors riding atop flying Pegasus steeds who commonly wield lances."
+      }
+    ]
+  },
+  {
+    "name": "Wyvern Rider",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "A",
+        "note": "Warriors atop the backs of Wyverns usually armed with Lances and/or Axes."
+      },
+      {
+        "start": 3,
+        "end": 14,
+        "gender": "A",
+        "note": "Warriors atop the backs of Wyverns usually armed with Lances and/or Axes."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Warriors atop the backs of Wyverns usually armed with Lances and/or Axes."
+      }
+    ]
+  },
+  {
+    "name": "Mage",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 16,
+        "gender": "A",
+        "note": "A unisex combat-oriented magic class that wields Anima magic."
+      }
+    ]
+  },
+  {
+    "name": "Priest",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "A",
+        "note": "Unisex support magic class that can only use staves."
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "gender": "A",
+        "note": "Unisex support magic class that can only use staves."
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "gender": "M",
+        "note": "Appears as a male-only form, separated from the Cleric class."
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "gender": "A",
+        "note": "Returns as a unisex class combined with the role of Clerics."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "M",
+        "note": "Appears as the Monk class, a male-only form of the Shrine Maiden (Cleric) class."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Returns as a unisex support magic class."
+      }
+    ]
+  },
+  {
+    "name": "Bishop",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "A",
+        "note": "Promoted class that wields Light magic and is also armed with Staves."
+      },
+      {
+        "start": 3,
+        "end": 12,
+        "gender": "A",
+        "note": "Promoted class that wields Light magic and is also armed with Staves."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Promoted class that wields Faith (Light/Staff) magic."
+      }
+    ]
+  },
+  {
+    "name": "Manakete",
+    "timeline": [
+      {
+        "start": 1,
+        "end": 1,
+        "gender": "A",
+        "note": "Members of the Dragon tribe that use Dragonstones to fight."
+      },
+      {
+        "start": 3,
+        "end": 3,
+        "gender": "A",
+        "note": "Members of the Dragon tribe that use Dragonstones to fight."
+      },
+      {
+        "start": 6,
+        "end": 6,
+        "gender": "A",
+        "note": "Members of the Dragon tribe that use Dragonstones to fight."
+      },
+      {
+        "start": 8,
+        "end": 8,
+        "gender": "A",
+        "note": "Members of the Dragon tribe that use Dragonstones to fight."
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "gender": "A",
+        "note": "Members of the Dragon tribe that use Dragonstones to fight."
+      }
+    ]
+  },
+  {
+    "name": "Myrmidon",
+    "timeline": [
+      {
+        "start": 4,
+        "end": 14,
+        "gender": "A",
+        "note": "Sword-wielding infantry class similar to mercenary, but promotes into the swordmaster/assassin class line."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Sword-wielding unisex promoted class."
+      }
+    ]
+  },
+  {
+    "name": "Soldier",
+    "timeline": [
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "M",
+        "note": "Beginner male infantry lance class."
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "gender": "A",
+        "note": "Beginner unisex infantry lance class."
+      }
+    ]
+  },
+  {
+    "name": "Bow Knight",
+    "timeline": [
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "M",
+        "note": "Mounted bow-wielding unit."
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "gender": "A",
+        "note": "Mounted bow-wielding unit."
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "gender": "A",
+        "note": "Mounted bow-wielding unit."
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "gender": "A",
+        "note": "Mounted bow-wielding unit."
+      }
+    ]
+  },
+  {
+    "name": "Sage",
+    "timeline": [
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "A",
+        "note": "Promoted form of mage class."
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "gender": "A",
+        "note": "Promoted form of mage class."
+      }
+    ]
+  },
+  {
+    "name": "Falcon Knight",
+    "timeline": [
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "F",
+        "note": "Promoted form of Pegasus Knight class."
+      },
+      {
+        "start": 4,
+        "end": 4,
+        "gender": "F",
+        "note": "Promoted form of Pegasus Knight class."
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "gender": "F",
+        "note": "Promoted form of Pegasus Knight class."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "First unisex iteration of Falcon Knights."
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "gender": "F",
+        "note": "Promoted form of Pegasus Knight class."
+      }
+    ]
+  },
+  {
+    "name": "Cleric",
+    "timeline": [
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "F",
+        "note": "Known as the Sister class, wielding light magic for healing."
+      },
+      {
+        "start": 3,
+        "end": 3,
+        "gender": "F",
+        "note": "Known as the Sister class, replacing Priest from the original game."
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "gender": "F",
+        "note": "Female-only class wielding staves."
+      }
+    ]
+  },
+  {
+    "name": "Dancer",
+    "timeline": [
+      {
+        "start": 3,
+        "end": 8,
+        "gender": "F",
+        "note": "Only one per game. Possesses the unique ability to revitalize another unit, allowing them a second movement and action per turn."
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "gender": "A",
+        "note": "Replaced by the heron class, which serves the same function."
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "gender": "F",
+        "note": "Unique unit able to evitalize another unit each turn. Replaced with the Songstress class in FE14."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "First game allowing the player to pick the dancer unit."
+      }
+    ]
+  },
+  {
+    "name": "Dark Mage",
+    "timeline": [
+      {
+        "start": 5,
+        "end": 5,
+        "gender": "M",
+        "note": "Second-tier class wielding dark magic."
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "gender": "A",
+        "note": "Second-tier class wielding dark magic."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "M",
+        "note": "Male-only second-tier class wielding dark magic."
+      }
+    ]
+  },
+  {
+    "name": "Swordmaster",
+    "timeline": [
+      {
+        "start": 4,
+        "end": 14,
+        "gender": "A",
+        "note": "A promoted form of the Myrmidon class. Unparalleled wielders of the sword."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "A promoted class that wields swords."
+      }
+    ]
+  },
+  {
+    "name": "Warrior",
+    "timeline": [
+      {
+        "start": 4,
+        "end": 14,
+        "gender": "M",
+        "note": "A male promoted class able to wield axes and bows."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "A unisex promoted class with axes as the weapon of choice."
+      }
+    ]
+  },
+  {
+    "name": "Troubadour",
+    "timeline": [
+      {
+        "start": 4,
+        "end": 8,
+        "gender": "F",
+        "note": "A horse mounted support class that utilizes for staves for healing/other utility."
+      },
+      {
+        "start": 13,
+        "end": 13,
+        "gender": "F",
+        "note": "A horse mounted support class that utilizes for staves for healing/other utility."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "Appearance of first male troubadour in the series."
+      }
+    ]
+  },
+  {
+    "name": "Great Knight",
+    "debut": "FE4",
+    "games": [4, 5, 8, 10, 13, 14, 16],
+    "timeline": [
+      {
+        "start": 4,
+        "end": 5,
+        "gender": "M",
+        "note": "A promoted armored horse-mounted class wielding axes."
+      },
+      {
+        "start": 8,
+        "end": 8,
+        "gender": "M",
+        "note": "A promoted armored horse-mounted class wielding axes."
+      },
+      {
+        "start": 10,
+        "end": 10,
+        "gender": "A",
+        "note": "Both male and female great knights appear in this game."
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "gender": "A",
+        "note": "A promoted armored horse-mounted class wielding axes."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "A promoted armored horse-mounted class wielding axes."
+      }
+    ]
+  },
+  {
+    "name": "Wyvern Lord",
+    "debut": "FE4",
+    "games": [4, 5, 8, 10, 13, 14, 16],
+    "timeline": [
+      {
+        "start": 4,
+        "end": 5,
+        "gender": "A",
+        "note": "Promoted form of Wyvern Riders, wields lances."
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "gender": "A",
+        "note": "Promoted form of Wyvern Riders, primarily wielding axes."
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "gender": "A",
+        "note": "Promoted form of Wyvern Riders, primarily wielding axes."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Promoted form of Wyvern Riders."
+      }
+    ]
+  },
+  {
+    "name": "Berserker",
+    "timeline": [
+      {
+        "start": 6,
+        "end": 9,
+        "gender": "M",
+        "note": "Male-only promoted form of Axe-wielding infantry classes."
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "gender": "M",
+        "note": "Male-only promoted form of Axe-wielding infantry classes."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "Appearance of first female berserker in the series."
+      }
+    ]
+  },
+  {
+    "name": "Great Lord",
+    "timeline": [
+      {
+        "start": 6,
+        "end": 8,
+        "gender": "A",
+        "note": "Promoted form of the Lord class, exclusive to the lords of the games."
+      },
+      {
+        "start": 13,
+        "end": 13,
+        "gender": "A",
+        "note": "Exclusive to the lords of the game."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "M",
+        "note": "Unique class for Dimitri, proficient in Swords/Lances."
+      }
+    ]
+  },
+  {
+    "name": "Valkyrie",
+    "timeline": [
+      {
+        "start": 6,
+        "end": 10,
+        "gender": "F",
+        "note": "Promoted version of the Troubadour class, wielding Anima magic and staves."
+      },
+      {
+        "start": 13,
+        "end": 13,
+        "gender": "F",
+        "note": "Promoted version of the Troubadour class, wielding Anima magic and staves."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "First game with the option of male Valkyries."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "F",
+        "note": "Female-exclusive magic-wielding riding unit."
+      }
+    ]
+  },
+  {
+    "name": "Assassin",
+    "timeline": [
+      {
+        "start": 7,
+        "end": 7,
+        "gender": "M",
+        "note": "First introduced as the promoted form of the thief class."
+      },
+      {
+        "start": 8,
+        "end": 8,
+        "gender": "A",
+        "note": "Available for both male and female units on promotion."
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "gender": "M",
+        "note": "Exclusive to the character Volke."
+      },
+      {
+        "start": 13,
+        "end": 13,
+        "gender": "M",
+        "note": "Only available as a promoted class for male units."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "Represented by the Master Ninja class."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Available for both male and female units on promotion."
+      }
+    ]
+  },
+  {
+    "name": "Sorcerer",
+    "timeline": [
+      {
+        "start": 11,
+        "end": 14,
+        "gender": "A",
+        "note": "Promoted class exclusively wielding dark magic."
+      }
+    ]
+  },
+  {
+    "name": "Trickster",
+    "timeline": [
+      {
+        "start": 13,
+        "end": 14,
+        "gender": "A",
+        "note": "Allows units to fulfill support roles with staves while picking locks."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Provides unit proficiency in swords and magic."
+      }
+    ]
+  },
+  {
+    "name": "Dark Flier",
+    "timeline": [
+      {
+        "start": 13,
+        "end": 13,
+        "gender": "F",
+        "note": "A Pegasus-mounted unit wielding tomes and lances."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "Known as the unisex Dark Falcon class."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "F",
+        "note": "A Pegasus-mounted unit wielding magic, lances, and swords."
+      }
+    ]
+  },
+  {
+    "name": "Dark Knight",
+    "timeline": [
+      {
+        "start": 4,
+        "end": 5,
+        "gender": "A",
+        "note": "Known as Mage Knight. One of the promoted forms of the mage class, able to use anima magic and swords."
+      },
+      {
+        "start": 8,
+        "end": 8,
+        "gender": "A",
+        "note": "Known as Mage Knight. One of the promoted forms of the troubadour and mage classes."
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "gender": "A",
+        "note": "One of the promoted forms of the mage and dark mage classes."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "A horse-mounted unit wielding Anima and Dark magic alongside physical weapons."
+      }
+    ]
+  },
+  {
+    "name": "War Cleric",
+    "debut": "FE13",
+    "games": [13, 16],
+    "description": "It is one of the promoted forms of both the Cleric and Troubadour classes, employing Axes and Staves as its equipment of choice. The War Cleric class is the female equivalent of the War Monk class.",
+    "movement": "infantry",
+    "type": "normal",
+    "category": "combat",
+    "weapon": ["axe"],
+    "magic": ["staff"],
+    "level": "promoted"
+  },
+  {
+    "name": "Villager",
+    "debut": "FE2",
+    "games": [2, 13, 14, 15],
+    "description": "A combat physical class, it is a trainee class that affords little value apart from giving units potential to grow into valuable assets of the player's army. Villagers primarily wield either Swords or Lances as their weapons of choice.",
+    "movement": "infantry",
+    "type": "normal",
+    "category": "combat",
+    "weapon": ["sword", "lance"],
+    "magic": [],
+    "level": "trainee"
+  },
+  {
+    "name": "Dread Fighter",
+    "timeline": [
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "M",
+        "note": "Male-only third-tier class in the Mercenary line."
+      },
+      {
+        "start": 13,
+        "end": 13,
+        "gender": "M",
+        "note": "Male-only, providing access to swords and magic."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "A",
+        "note": "Only unisex iteration of the class."
+      },
+      {
+        "start": 15,
+        "end": 15,
+        "gender": "M",
+        "note": "Male-only third-tier class in the Mercenary line."
+      }
+    ]
+  },
+  {
+    "name": "Light Priestess",
+    "debut": "FE4",
+    "games": [4, 5, 10],
+    "description": "A very powerful magical class that is prolific in fulfilling both combat and support roles. Wields light magic and staves.",
+    "movement": "infantry",
+    "type": "normal",
+    "category": "combat",
+    "weapon": [],
+    "magic": ["light", "staff"],
+    "level": "promoted"
+  },
+  {
+    "name": "Monk",
+    "debut": "FE7",
+    "games": [7, 8, 14],
+    "description": "A combat magical class that wields light magic.",
+    "movement": "infantry",
+    "type": "normal",
+    "category": "combat",
+    "weapon": [],
+    "magic": ["light"],
+    "level": "beginner"
+  },
+  {
+    "name": "Arch Sage",
+    "debut": "FE7",
+    "games": [7, 10, 16],
+    "description": "Masters of all types of Anima magic and Staves, certain variations of the Archsage class are also able to arm Light and Dark Magic.",
+    "movement": "infantry",
+    "type": "normal",
+    "category": "combat",
+    "weapon": [],
+    "magic": ["light", "anima", "dark", "staff"],
+    "level": "promoted"
+  }
+]
