@@ -607,7 +607,7 @@
         "start": 7,
         "end": 15,
         "gender": "F",
-        "note": "Female-only class wielding staves."
+        "note": "Female-only class wielding staves. Known as Shrine Maiden in FE14."
       }
     ]
   },
@@ -985,28 +985,33 @@
     ]
   },
   {
-    "name": "War Cleric",
-    "debut": "FE13",
-    "games": [13, 16],
-    "description": "It is one of the promoted forms of both the Cleric and Troubadour classes, employing Axes and Staves as its equipment of choice. The War Cleric class is the female equivalent of the War Monk class.",
-    "movement": "infantry",
-    "type": "normal",
-    "category": "combat",
-    "weapon": ["axe"],
-    "magic": ["staff"],
-    "level": "promoted"
-  },
-  {
     "name": "Villager",
-    "debut": "FE2",
-    "games": [2, 13, 14, 15],
-    "description": "A combat physical class, it is a trainee class that affords little value apart from giving units potential to grow into valuable assets of the player's army. Villagers primarily wield either Swords or Lances as their weapons of choice.",
-    "movement": "infantry",
-    "type": "normal",
-    "category": "combat",
-    "weapon": ["sword", "lance"],
-    "magic": [],
-    "level": "trainee"
+    "timeline": [
+      {
+        "start": 2,
+        "end": 2,
+        "gender": "M",
+        "note": "A trainee class that allows units to promote into various class lines."
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "gender": "A",
+        "note": "A trainee class that allows units to promote into various class lines."
+      },
+      {
+        "start": 15,
+        "end": 15,
+        "gender": "M",
+        "note": "A trainee class that allows units to promote into various class lines."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "A trainee class that allows units to promote into various class lines."
+      }
+    ]
   },
   {
     "name": "Dread Fighter",
@@ -1034,43 +1039,88 @@
         "end": 15,
         "gender": "M",
         "note": "Male-only third-tier class in the Mercenary line."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Known as Mortal Savant. Powerful offensive class specializing in swords and reason magic."
       }
     ]
   },
   {
     "name": "Light Priestess",
-    "debut": "FE4",
-    "games": [4, 5, 10],
-    "description": "A very powerful magical class that is prolific in fulfilling both combat and support roles. Wields light magic and staves.",
-    "movement": "infantry",
-    "type": "normal",
-    "category": "combat",
-    "weapon": [],
-    "magic": ["light", "staff"],
-    "level": "promoted"
+    "timeline": [
+      {
+        "start": 4,
+        "end": 5,
+        "gender": "F",
+        "note": "Female-exclusive, able to wield light magic and staves."
+      },
+      {
+        "start": 10,
+        "end": 10,
+        "gender": "F",
+        "note": "Unique to Micaiah."
+      }
+    ]
   },
   {
     "name": "Monk",
-    "debut": "FE7",
-    "games": [7, 8, 14],
-    "description": "A combat magical class that wields light magic.",
-    "movement": "infantry",
-    "type": "normal",
-    "category": "combat",
-    "weapon": [],
-    "magic": ["light"],
-    "level": "beginner"
+    "timeline": [
+      {
+        "start": 7,
+        "end": 8,
+        "gender": "A",
+        "note": "Beginner class equipped with light magic."
+      },
+      {
+        "start": 10,
+        "end": 10,
+        "gender": "F",
+        "note": "Unique to Micaiah."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "M",
+        "note": "Male-only counterpart to Shrine Maiden."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "A",
+        "note": "Beginner class equipped with magic."
+      }
+    ]
   },
   {
     "name": "Arch Sage",
-    "debut": "FE7",
-    "games": [7, 10, 16],
-    "description": "Masters of all types of Anima magic and Staves, certain variations of the Archsage class are also able to arm Light and Dark Magic.",
-    "movement": "infantry",
-    "type": "normal",
-    "category": "combat",
-    "weapon": [],
-    "magic": ["light", "anima", "dark", "staff"],
-    "level": "promoted"
+    "timeline": [
+      {
+        "start": 7,
+        "end": 7,
+        "gender": "M",
+        "note": "Exclusive to Athos, proficient in wielding Anima magic, Light magic, Dark magic and Staves."
+      },
+      {
+        "start": 10,
+        "end": 10,
+        "gender": "A",
+        "note": "Promoted form of all types of Sages."
+      },
+      {
+        "start": 14,
+        "end": 14,
+        "gender": "F",
+        "note": "Known as Witch. Female exclusive class with the highest magic in the game."
+      },
+      {
+        "start": 16,
+        "end": 16,
+        "gender": "F",
+        "note": "Known as Gremory. Female exclusive class with the highest proficiency in Reason magic."
+      }
+    ]
   }
 ]
