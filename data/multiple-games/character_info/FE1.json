@@ -1,54 +1,418 @@
 [
-  { "name": "Marth", "gender": "M", "class": "Lord" },
-  { "name": "Abel", "gender": "M", "class": "Cavalier" },
-  { "name": "Cain", "gender": "M", "class": "Cavalier" },
-  { "name": "Jagen", "gender": "M", "class": "Paladin" },
-  { "name": "Gordin", "gender": "M", "class": "Archer" },
-  { "name": "Draug", "gender": "M", "class": "Knight" },
-  { "name": "Caeda", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Wrys", "gender": "M", "class": "Curate" },
-  { "name": "Bord", "gender": "M", "class": "Fighter" },
-  { "name": "Cord", "gender": "M", "class": "Fighter" },
-  { "name": "Barst", "gender": "M", "class": "Fighter" },
-  { "name": "Ogma", "gender": "M", "class": "Mercenary" },
-  { "name": "Darros", "gender": "M", "class": "Pirate" },
-  { "name": "Castor", "gender": "M", "class": "Hunter" },
-  { "name": "Julian", "gender": "M", "class": "Thief" },
-  { "name": "Lena", "gender": "F", "class": "Curate" },
-  { "name": "Navarre", "gender": "M", "class": "Mercenary" },
-  { "name": "Matthis", "gender": "M", "class": "Cavalier" },
-  { "name": "Merric", "gender": "M", "class": "Mage" },
-  { "name": "Roshea", "gender": "M", "class": "Cavalier" },
-  { "name": "Vyland", "gender": "M", "class": "Cavalier" },
-  { "name": "Sedgar", "gender": "M", "class": "Horseman" },
-  { "name": "Wolf", "gender": "M", "class": "Horseman" },
-  { "name": "Hardin", "gender": "M", "class": "Cavalier" },
-  { "name": "Wendell", "gender": "M", "class": "Bishop" },
-  { "name": "Rickard", "gender": "M", "class": "Thief" },
-  { "name": "Bantu", "gender": "M", "class": "Manakete" },
-  { "name": "Caesar", "gender": "M", "class": "Mercenary" },
-  { "name": "Radd", "gender": "M", "class": "Mercenary" },
-  { "name": "Roger", "gender": "M", "class": "Knight" },
-  { "name": "Jeorge", "gender": "M", "class": "Sniper" },
-  { "name": "Maria", "gender": "F", "class": "Curate" },
-  { "name": "Minerva", "gender": "F", "class": "Wyvern Knight" },
-  { "name": "Linde", "gender": "F", "class": "Mage" },
-  { "name": "Jake", "gender": "M", "class": "Ballistician" },
-  { "name": "Dolph", "gender": "M", "class": "Knight" },
-  { "name": "Macellan", "gender": "M", "class": "Knight" },
-  { "name": "Tomas", "gender": "M", "class": "Archer" },
-  { "name": "Boah", "gender": "M", "class": "Bishop" },
-  { "name": "Midia", "gender": "F", "class": "Paladin" },
-  { "name": "Astram", "gender": "M", "class": "Hero" },
-  { "name": "Beck", "gender": "M", "class": "Ballistician" },
-  { "name": "Catria", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Palla", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Arran", "gender": "M", "class": "Paladin" },
-  { "name": "Samson", "gender": "M", "class": "Hero" },
-  { "name": "Xane", "gender": "M", "class": "Freelancer" },
-  { "name": "Est", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Tiki", "gender": "F", "class": "Manakete" },
-  { "name": "Lorenz", "gender": "M", "class": "General" },
-  { "name": "Elice", "gender": "F", "class": "Curate" },
-  { "name": "Gotoh", "gender": "M", "class": "Bishop" }
+  {
+    "name": "Marth",
+    "gender": "M",
+    "class": "Lord",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Abel",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Cain",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Jagen",
+    "gender": "M",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Gordin",
+    "gender": "M",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Draug",
+    "gender": "M",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Caeda",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Wrys",
+    "gender": "M",
+    "class": "Curate",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Bord",
+    "gender": "M",
+    "class": "Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Cord",
+    "gender": "M",
+    "class": "Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Barst",
+    "gender": "M",
+    "class": "Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Ogma",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Darros",
+    "gender": "M",
+    "class": "Pirate",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Castor",
+    "gender": "M",
+    "class": "Hunter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Julian",
+    "gender": "M",
+    "class": "Thief",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Lena",
+    "gender": "F",
+    "class": "Curate",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Navarre",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Matthis",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Merric",
+    "gender": "M",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Roshea",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Vyland",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Sedgar",
+    "gender": "M",
+    "class": "Horseman",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Wolf",
+    "gender": "M",
+    "class": "Horseman",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Hardin",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Wendell",
+    "gender": "M",
+    "class": "Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  },
+  {
+    "name": "Rickard",
+    "gender": "M",
+    "class": "Thief",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Bantu",
+    "gender": "M",
+    "class": "Manakete",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["stone"]
+  },
+  {
+    "name": "Caesar",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Radd",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Roger",
+    "gender": "M",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Jeorge",
+    "gender": "M",
+    "class": "Sniper",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Maria",
+    "gender": "F",
+    "class": "Curate",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Minerva",
+    "gender": "F",
+    "class": "Wyvern Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Linde",
+    "gender": "F",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Jake",
+    "gender": "M",
+    "class": "Ballistician",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Dolph",
+    "gender": "M",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Macellan",
+    "gender": "M",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Tomas",
+    "gender": "M",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Boah",
+    "gender": "M",
+    "class": "Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  },
+  {
+    "name": "Midia",
+    "gender": "F",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Astram",
+    "gender": "M",
+    "class": "Hero",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Beck",
+    "gender": "M",
+    "class": "Ballistician",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Catria",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Palla",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Arran",
+    "gender": "M",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Samson",
+    "gender": "M",
+    "class": "Hero",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Xane",
+    "gender": "M",
+    "class": "Freelancer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Est",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Tiki",
+    "gender": "F",
+    "class": "Manakete",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["stone"]
+  },
+  {
+    "name": "Lorenz",
+    "gender": "M",
+    "class": "General",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Elice",
+    "gender": "F",
+    "class": "Curate",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Gotoh",
+    "gender": "M",
+    "class": "Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  }
 ]
