@@ -1,70 +1,546 @@
 [
-  { "name": "Corrin", "gender": "A", "class": "Nohr Prince*Nohr Princess*" },
-  { "name": "Gunter", "gender": "M", "class": "Great Knight" },
-  { "name": "Felicia", "gender": "F", "class": "Maid" },
-  { "name": "Jakob", "gender": "M", "class": "Butler" },
-  { "name": "Rinkah", "gender": "F", "class": "Oni Savage" },
-  { "name": "Kaze", "gender": "M", "class": "Ninja" },
-  { "name": "Sakura", "gender": "F", "class": "Shrine Maiden" },
-  { "name": "Azura", "gender": "F", "class": "Songstress" },
-  { "name": "Hana", "gender": "F", "class": "Samurai" },
-  { "name": "Subaki", "gender": "M", "class": "Sky Knight" },
-  { "name": "Saizo", "gender": "F", "class": "Ninja" },
-  { "name": "Orochi", "gender": "F", "class": "Diviner" },
-  { "name": "Silas", "gender": "M", "class": "Cavalier" },
-  { "name": "Hinoka", "gender": "F", "class": "Sky Knight" },
-  { "name": "Azama", "gender": "M", "class": "Monk" },
-  { "name": "Setsuna", "gender": "F", "class": "Archer" },
-  { "name": "Hayato", "gender": "M", "class": "Diviner" },
-  { "name": "Oboro", "gender": "F", "class": "Spear Fighter" },
-  { "name": "Hinata", "gender": "M", "class": "Samurai" },
-  { "name": "Takumi", "gender": "M", "class": "Archer" },
-  { "name": "Kagero", "gender": "F", "class": "Ninja" },
-  { "name": "Reina", "gender": "F", "class": "Kinshi Knight" },
-  { "name": "Kaden", "gender": "M", "class": "Kitsune" },
-  { "name": "Ryoma", "gender": "M", "class": "Swordmaster" },
-  { "name": "Scarlet", "gender": "F", "class": "Wyvern Lord" },
-  { "name": "Izana", "gender": "M", "class": "Onmyoji" },
-  { "name": "Shura", "gender": "M", "class": "Adventurer" },
-  { "name": "Yukimura", "gender": "M", "class": "Mechanist" },
-  { "name": "Elise", "gender": "F", "class": "Troubadour" },
-  { "name": "Effie", "gender": "F", "class": "Knight" },
-  { "name": "Arthur", "gender": "M", "class": "Fighter" },
-  { "name": "Odin", "gender": "M", "class": "Dark Mage" },
-  { "name": "Niles", "gender": "M", "class": "Outlaw" },
-  { "name": "Nyx", "gender": "F", "class": "Dark Mage" },
-  { "name": "Camilla", "gender": "F", "class": "Malig Knight" },
-  { "name": "Selena", "gender": "F", "class": "Mercenary" },
-  { "name": "Beruka", "gender": "F", "class": "Wyvern Rider" },
-  { "name": "Laslow", "gender": "M", "class": "Mercenary" },
-  { "name": "Peri", "gender": "F", "class": "Cavalier" },
-  { "name": "Benny", "gender": "M", "class": "Knight" },
-  { "name": "Charlotte", "gender": "F", "class": "Fighter" },
-  { "name": "Leo", "gender": "M", "class": "Dark Knight" },
-  { "name": "Keaton", "gender": "M", "class": "Wolfskin" },
-  { "name": "Xander", "gender": "M", "class": "Paladin" },
-  { "name": "Flora", "gender": "F", "class": "Maid" },
-  { "name": "Fuga", "gender": "M", "class": "Master of Arms" },
-  { "name": "Mozu", "gender": "F", "class": "Villager" },
-  { "name": "Kana", "gender": "N", "class": "Nohr Prince*Nohr Princess*" },
-  { "name": "Shigure", "gender": "M", "class": "Sky Knight" },
-  { "name": "Dwyer", "gender": "M", "class": "Troubadour" },
-  { "name": "Sophie", "gender": "F", "class": "Cavalier" },
-  { "name": "Midori", "gender": "F", "class": "Apothecary" },
-  { "name": "Shiro", "gender": "M", "class": "Spear Fighter" },
-  { "name": "Kiragi", "gender": "M", "class": "Archer" },
-  { "name": "Asugi", "gender": "M", "class": "Ninja" },
-  { "name": "Selkie", "gender": "F", "class": "Kitsune" },
-  { "name": "Hisame", "gender": "M", "class": "Samurai" },
-  { "name": "Mitama", "gender": "F", "class": "Shrine Maiden" },
-  { "name": "Caeldori", "gender": "F", "class": "Sky Knight" },
-  { "name": "Rhajat", "gender": "F", "class": "Diviner" },
-  { "name": "Siegbert", "gender": "M", "class": "Cavalier" },
-  { "name": "Forrest", "gender": "F", "class": "Troubadour" },
-  { "name": "Ignatius", "gender": "M", "class": "Knight" },
-  { "name": "Velouria", "gender": "F", "class": "Wolfskin" },
-  { "name": "Percy", "gender": "M", "class": "Wyvern Rider" },
-  { "name": "Ophelia", "gender": "F", "class": "Dark Mage" },
-  { "name": "Soleil", "gender": "F", "class": "Mercenary" },
-  { "name": "Nina", "gender": "F", "class": "Outlaw" }
+  {
+    "name": "Corrin",
+    "gender": "A",
+    "class": "Nohr Prince/ Princess",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["sword", "stone"]
+  },
+  {
+    "name": "Gunter",
+    "gender": "M",
+    "class": "Great Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword", "lance", "axe"]
+  },
+  {
+    "name": "Felicia",
+    "gender": "F",
+    "class": "Maid",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["knife", "staff"]
+  },
+  {
+    "name": "Jakob",
+    "gender": "M",
+    "class": "Butler",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["knife", "staff"]
+  },
+  {
+    "name": "Rinkah",
+    "gender": "F",
+    "class": "Oni Savage",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Kaze",
+    "gender": "M",
+    "class": "Ninja",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife"]
+  },
+  {
+    "name": "Sakura",
+    "gender": "F",
+    "class": "Shrine Maiden",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Azura",
+    "gender": "F",
+    "class": "Songstress",
+    "type": "unique",
+    "movement": "infantry",
+    "equipment": ["dance", "lance"]
+  },
+  {
+    "name": "Hana",
+    "gender": "F",
+    "class": "Samurai",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Subaki",
+    "gender": "M",
+    "class": "Sky Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Saizo",
+    "gender": "F",
+    "class": "Ninja",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife"]
+  },
+  {
+    "name": "Orochi",
+    "gender": "F",
+    "class": "Diviner",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Silas",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword", "lance"]
+  },
+  {
+    "name": "Hinoka",
+    "gender": "F",
+    "class": "Sky Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Azama",
+    "gender": "M",
+    "class": "Monk",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Setsuna",
+    "gender": "F",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Hayato",
+    "gender": "M",
+    "class": "Diviner",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Oboro",
+    "gender": "F",
+    "class": "Spear Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Hinata",
+    "gender": "M",
+    "class": "Samurai",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Takumi",
+    "gender": "M",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Kagero",
+    "gender": "F",
+    "class": "Ninja",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife"]
+  },
+  {
+    "name": "Reina",
+    "gender": "F",
+    "class": "Kinshi Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "bow"]
+  },
+  {
+    "name": "Kaden",
+    "gender": "M",
+    "class": "Kitsune",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["stone"]
+  },
+  {
+    "name": "Ryoma",
+    "gender": "M",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Scarlet",
+    "gender": "F",
+    "class": "Wyvern Lord",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe", "lance"]
+  },
+  {
+    "name": "Izana",
+    "gender": "M",
+    "class": "Onmyoji",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  },
+  {
+    "name": "Shura",
+    "gender": "M",
+    "class": "Adventurer",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["bow", "staff"]
+  },
+  {
+    "name": "Yukimura",
+    "gender": "M",
+    "class": "Mechanist",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife", "bow"]
+  },
+  {
+    "name": "Elise",
+    "gender": "F",
+    "class": "Troubadour",
+    "type": "magic",
+    "movement": "riding",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Effie",
+    "gender": "F",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Arthur",
+    "gender": "M",
+    "class": "Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Odin",
+    "gender": "M",
+    "class": "Dark Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Niles",
+    "gender": "M",
+    "class": "Outlaw",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Nyx",
+    "gender": "F",
+    "class": "Dark Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Camilla",
+    "gender": "F",
+    "class": "Malig Knight",
+    "type": "hybrid",
+    "movement": "flying",
+    "equipment": ["axe", "tome"]
+  },
+  {
+    "name": "Selena",
+    "gender": "F",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Beruka",
+    "gender": "F",
+    "class": "Wyvern Rider",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Laslow",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Peri",
+    "gender": "F",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword", "lance"]
+  },
+  {
+    "name": "Benny",
+    "gender": "M",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Charlotte",
+    "gender": "F",
+    "class": "Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Leo",
+    "gender": "M",
+    "class": "Dark Knight",
+    "type": "hybrid",
+    "movement": "riding",
+    "equipment": ["sword", "tome"]
+  },
+  {
+    "name": "Keaton",
+    "gender": "M",
+    "class": "Wolfskin",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["stone"]
+  },
+  {
+    "name": "Xander",
+    "gender": "M",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword", "lance"]
+  },
+  {
+    "name": "Flora",
+    "gender": "F",
+    "class": "Maid",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["knife", "staff"]
+  },
+  {
+    "name": "Fuga",
+    "gender": "M",
+    "class": "Master of Arms",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword", "lance", "axe"]
+  },
+  {
+    "name": "Mozu",
+    "gender": "F",
+    "class": "Villager",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Kana",
+    "gender": "N",
+    "class": "Nohr Prince/Princess",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["sword", "stone"]
+  },
+  {
+    "name": "Shigure",
+    "gender": "M",
+    "class": "Sky Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Dwyer",
+    "gender": "M",
+    "class": "Troubadour",
+    "type": "magic",
+    "movement": "riding",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Sophie",
+    "gender": "F",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword", "lance"]
+  },
+  {
+    "name": "Midori",
+    "gender": "F",
+    "class": "Apothecary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Shiro",
+    "gender": "M",
+    "class": "Spear Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Kiragi",
+    "gender": "M",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Asugi",
+    "gender": "M",
+    "class": "Ninja",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife"]
+  },
+  {
+    "name": "Selkie",
+    "gender": "F",
+    "class": "Kitsune",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["stone"]
+  },
+  {
+    "name": "Hisame",
+    "gender": "M",
+    "class": "Samurai",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Mitama",
+    "gender": "F",
+    "class": "Shrine Maiden",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Caeldori",
+    "gender": "F",
+    "class": "Sky Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Rhajat",
+    "gender": "F",
+    "class": "Diviner",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Siegbert",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword", "lance"]
+  },
+  {
+    "name": "Forrest",
+    "gender": "F",
+    "class": "Troubadour",
+    "type": "magic",
+    "movement": "riding",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Ignatius",
+    "gender": "M",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Velouria",
+    "gender": "F",
+    "class": "Wolfskin",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["stone"]
+  },
+  {
+    "name": "Percy",
+    "gender": "M",
+    "class": "Wyvern Rider",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Ophelia",
+    "gender": "F",
+    "class": "Dark Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Soleil",
+    "gender": "F",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Nina",
+    "gender": "F",
+    "class": "Outlaw",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  }
 ]

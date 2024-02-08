@@ -1,75 +1,586 @@
 [
-  { "name": "Micaiah", "gender": "F", "class": "Light Mage" },
-  { "name": "Edward", "gender": "M", "class": "Myrmidon" },
-  { "name": "Leonardo", "gender": "M", "class": "Archer" },
-  { "name": "Nolan", "gender": "M", "class": "Fighter" },
-  { "name": "Laura", "gender": "F", "class": "Priest" },
-  { "name": "Sothe", "gender": "M", "class": "Rogue" },
-  { "name": "Ilyana", "gender": "F", "class": "Thunder Mage" },
-  { "name": "Aran", "gender": "M", "class": "Soldier" },
-  { "name": "Meg", "gender": "F", "class": "Armor Sword" },
-  { "name": "Volug", "gender": "M", "class": "Wolf" },
-  { "name": "Tauroneo", "gender": "M", "class": "Lance General" },
-  { "name": "Jill", "gender": "F", "class": "Dracoknight" },
-  { "name": "Zihark", "gender": "M", "class": "Swordmaster" },
-  { "name": "Fiona", "gender": "F", "class": "Lance Knight" },
-  { "name": "Tormod", "gender": "M", "class": "Fire Sage" },
-  { "name": "Muarim", "gender": "M", "class": "Tiger" },
-  { "name": "Vika", "gender": "F", "class": "Raven" },
-  { "name": "Rafiel", "gender": "M", "class": "Heron" },
-  { "name": "Nailah", "gender": "F", "class": "Wolf Queen" },
-  { "name": "Black Knight", "gender": "M", "class": "Black Knight" },
-  { "name": "Elincia", "gender": "F", "class": "Queen" },
-  { "name": "Marcia", "gender": "F", "class": "Falconknight" },
-  { "name": "Nealuchi", "gender": "M", "class": "Raven" },
-  { "name": "Leanne", "gender": "F", "class": "Heron" },
-  { "name": "Haar", "gender": "M", "class": "Dragonmaster" },
-  { "name": "Brom", "gender": "M", "class": "Axe General" },
-  { "name": "Nephenee", "gender": "F", "class": "Halberdier" },
-  { "name": "Heather", "gender": "F", "class": "Rogue" },
-  { "name": "Lucia", "gender": "F", "class": "Swordmaster" },
-  { "name": "Lethe", "gender": "F", "class": "Cat" },
-  { "name": "Mordecai", "gender": "M", "class": "Tiger" },
-  { "name": "Geoffrey", "gender": "M", "class": "Lance Paladin" },
-  { "name": "Kieran", "gender": "M", "class": "Axe Paladin" },
-  { "name": "Astrid", "gender": "F", "class": "Bow Paladin" },
-  { "name": "Makalov", "gender": "M", "class": "Sword Paladin" },
-  { "name": "Danved", "gender": "M", "class": "Halberdier" },
-  { "name": "Calill", "gender": "F", "class": "Fire Sage" },
-  { "name": "Ike", "gender": "M", "class": "Hero" },
-  { "name": "Titania", "gender": "F", "class": "Axe Paladin" },
-  { "name": "Soren", "gender": "M", "class": "Wind Sage" },
-  { "name": "Mist", "gender": "F", "class": "Cleric" },
-  { "name": "Rolf", "gender": "M", "class": "Sniper" },
-  { "name": "Boyd", "gender": "M", "class": "Warrior" },
-  { "name": "Oscar", "gender": "M", "class": "Lance Paladin" },
-  { "name": "Shinon", "gender": "M", "class": "Sniper" },
-  { "name": "Gatrie", "gender": "M", "class": "Lance General" },
-  { "name": "Rhys", "gender": "M", "class": "Bishop" },
-  { "name": "Mia", "gender": "F", "class": "Swordmaster" },
-  { "name": "Ranulf", "gender": "M", "class": "Cat" },
-  { "name": "Kyza", "gender": "M", "class": "Tiger" },
-  { "name": "Lyre", "gender": "F", "class": "Cat" },
-  { "name": "Reyson", "gender": "M", "class": "Heron" },
-  { "name": "Janaff", "gender": "M", "class": "Hawk" },
-  { "name": "Ulki", "gender": "M", "class": "Hawk" },
-  { "name": "Sigrun", "gender": "F", "class": "Falconknight" },
-  { "name": "Tanith", "gender": "F", "class": "Falconknight" },
-  { "name": "Skrimir", "gender": "M", "class": "Lion" },
-  { "name": "Sanaki", "gender": "F", "class": "Empress" },
-  { "name": "Naesala", "gender": "M", "class": "Raven King" },
-  { "name": "Tibarn", "gender": "M", "class": "Hawk King" },
-  { "name": "Pelleas", "gender": "M", "class": "Dark Sage" },
-  { "name": "Stefan", "gender": "M", "class": "Trueblade" },
-  { "name": "Oliver", "gender": "M", "class": "Saint" },
-  { "name": "Bastian", "gender": "M", "class": "Arch Sage" },
-  { "name": "Volke", "gender": "M", "class": "Assassin" },
-  { "name": "Caineghis", "gender": "M", "class": "Lion King" },
-  { "name": "Giffca", "gender": "M", "class": "Lion" },
-  { "name": "Kurthnaga", "gender": "M", "class": "Dragon Prince" },
-  { "name": "Ena", "gender": "F", "class": "Red Dragon" },
-  { "name": "Renning", "gender": "M", "class": "Gold Knight" },
-  { "name": "Gareth", "gender": "M", "class": "Red Dragon" },
-  { "name": "Nasir", "gender": "M", "class": "White Dragon" },
-  { "name": "Sephiran", "gender": "M", "class": "Chancellor" }
+  {
+    "name": "Micaiah",
+    "gender": "F",
+    "class": "Light Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["light"]
+  },
+  {
+    "name": "Edward",
+    "gender": "M",
+    "class": "Myrmidon",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Leonardo",
+    "gender": "M",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Nolan",
+    "gender": "M",
+    "class": "Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Laura",
+    "gender": "F",
+    "class": "Priest",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Sothe",
+    "gender": "M",
+    "class": "Rogue",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife"]
+  },
+  {
+    "name": "Ilyana",
+    "gender": "F",
+    "class": "Thunder Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Aran",
+    "gender": "M",
+    "class": "Soldier",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Meg",
+    "gender": "F",
+    "class": "Armor Sword",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Volug",
+    "gender": "M",
+    "class": "Wolf",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Tauroneo",
+    "gender": "M",
+    "class": "Lance General",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe", "lance"]
+  },
+  {
+    "name": "Jill",
+    "gender": "F",
+    "class": "Dracoknight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Zihark",
+    "gender": "M",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Fiona",
+    "gender": "F",
+    "class": "Lance Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Tormod",
+    "gender": "M",
+    "class": "Fire Sage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Muarim",
+    "gender": "M",
+    "class": "Tiger",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Vika",
+    "gender": "F",
+    "class": "Raven",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Rafiel",
+    "gender": "M",
+    "class": "Heron",
+    "type": "unique",
+    "movement": "flying",
+    "equipment": ["dance"]
+  },
+  {
+    "name": "Nailah",
+    "gender": "F",
+    "class": "Wolf Queen",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Black Knight",
+    "gender": "M",
+    "class": "Black Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword", "lance"]
+  },
+  {
+    "name": "Elincia",
+    "gender": "F",
+    "class": "Queen",
+    "type": "hybrid",
+    "movement": "flying",
+    "equipment": ["staff", "sword"]
+  },
+  {
+    "name": "Marcia",
+    "gender": "F",
+    "class": "Falconknight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Nealuchi",
+    "gender": "M",
+    "class": "Raven",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Leanne",
+    "gender": "F",
+    "class": "Heron",
+    "type": "unique",
+    "movement": "flying",
+    "equipment": ["dance"]
+  },
+  {
+    "name": "Haar",
+    "gender": "M",
+    "class": "Dragonmaster",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe", "lance"]
+  },
+  {
+    "name": "Brom",
+    "gender": "M",
+    "class": "Axe General",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword", "axe"]
+  },
+  {
+    "name": "Nephenee",
+    "gender": "F",
+    "class": "Halberdier",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Heather",
+    "gender": "F",
+    "class": "Rogue",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife"]
+  },
+  {
+    "name": "Lucia",
+    "gender": "F",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Lethe",
+    "gender": "F",
+    "class": "Cat",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Mordecai",
+    "gender": "M",
+    "class": "Tiger",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Geoffrey",
+    "gender": "M",
+    "class": "Lance Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Kieran",
+    "gender": "M",
+    "class": "Axe Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Astrid",
+    "gender": "F",
+    "class": "Bow Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Makalov",
+    "gender": "M",
+    "class": "Sword Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Danved",
+    "gender": "M",
+    "class": "Halberdier",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Calill",
+    "gender": "F",
+    "class": "Fire Sage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Ike",
+    "gender": "M",
+    "class": "Hero",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Titania",
+    "gender": "F",
+    "class": "Axe Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Soren",
+    "gender": "M",
+    "class": "Wind Sage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Mist",
+    "gender": "F",
+    "class": "Cleric",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["staff", "sword"]
+  },
+  {
+    "name": "Rolf",
+    "gender": "M",
+    "class": "Sniper",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Boyd",
+    "gender": "M",
+    "class": "Warrior",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Oscar",
+    "gender": "M",
+    "class": "Lance Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Shinon",
+    "gender": "M",
+    "class": "Sniper",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Gatrie",
+    "gender": "M",
+    "class": "Lance General",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Rhys",
+    "gender": "M",
+    "class": "Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff", "light"]
+  },
+  {
+    "name": "Mia",
+    "gender": "F",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Ranulf",
+    "gender": "M",
+    "class": "Cat",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Kyza",
+    "gender": "M",
+    "class": "Tiger",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Lyre",
+    "gender": "F",
+    "class": "Cat",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Reyson",
+    "gender": "M",
+    "class": "Heron",
+    "type": "unique",
+    "movement": "flying",
+    "equipment": ["dance"]
+  },
+  {
+    "name": "Janaff",
+    "gender": "M",
+    "class": "Hawk",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Ulki",
+    "gender": "M",
+    "class": "Hawk",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Sigrun",
+    "gender": "F",
+    "class": "Falconknight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Tanith",
+    "gender": "F",
+    "class": "Falconknight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Skrimir",
+    "gender": "M",
+    "class": "Lion",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Sanaki",
+    "gender": "F",
+    "class": "Empress",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "light"]
+  },
+  {
+    "name": "Naesala",
+    "gender": "M",
+    "class": "Raven King",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Tibarn",
+    "gender": "M",
+    "class": "Hawk King",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Pelleas",
+    "gender": "M",
+    "class": "Dark Sage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "dark"]
+  },
+  {
+    "name": "Stefan",
+    "gender": "M",
+    "class": "Trueblade",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Oliver",
+    "gender": "M",
+    "class": "Saint",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["light", "staff"]
+  },
+  {
+    "name": "Bastian",
+    "gender": "M",
+    "class": "Arch Sage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  },
+  {
+    "name": "Volke",
+    "gender": "M",
+    "class": "Assassin",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["knife"]
+  },
+  {
+    "name": "Caineghis",
+    "gender": "M",
+    "class": "Lion King",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Giffca",
+    "gender": "M",
+    "class": "Lion",
+    "type": "animal",
+    "movement": "infantry",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Kurthnaga",
+    "gender": "M",
+    "class": "Dragon Prince",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Ena",
+    "gender": "F",
+    "class": "Red Dragon",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Renning",
+    "gender": "M",
+    "class": "Gold Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword", "axe"]
+  },
+  {
+    "name": "Gareth",
+    "gender": "M",
+    "class": "Red Dragon",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Nasir",
+    "gender": "M",
+    "class": "White Dragon",
+    "type": "animal",
+    "movement": "flying",
+    "equipment": ["strike"]
+  },
+  {
+    "name": "Sephiran",
+    "gender": "M",
+    "class": "Chancellor",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["light", "dark", "staff"]
+  }
 ]

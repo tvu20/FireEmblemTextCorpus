@@ -1,38 +1,290 @@
 [
-  { "name": "Byleth", "gender": "A", "class": "Commoner" },
-  { "name": "Edelgard", "gender": "F", "class": "Noble" },
-  { "name": "Hubert", "gender": "M", "class": "Noble" },
-  { "name": "Ferdinand", "gender": "M", "class": "Noble" },
-  { "name": "Linhardt", "gender": "M", "class": "Noble" },
-  { "name": "Caspar", "gender": "M", "class": "Noble" },
-  { "name": "Bernadetta", "gender": "F", "class": "Noble" },
-  { "name": "Dorothea", "gender": "F", "class": "Commoner" },
-  { "name": "Petra", "gender": "F", "class": "Commoner" },
-  { "name": "Dimitri", "gender": "M", "class": "Noble" },
-  { "name": "Dedue", "gender": "M", "class": "Commoner" },
-  { "name": "Felix", "gender": "M", "class": "Noble" },
-  { "name": "Ashe", "gender": "M", "class": "Commoner" },
-  { "name": "Sylvain", "gender": "M", "class": "Noble" },
-  { "name": "Mercedes", "gender": "F", "class": "Commoner" },
-  { "name": "Annette", "gender": "F", "class": "Noble" },
-  { "name": "Ingrid", "gender": "F", "class": "Noble" },
-  { "name": "Claude", "gender": "M", "class": "Noble" },
-  { "name": "Lorenz", "gender": "M", "class": "Noble" },
-  { "name": "Raphael", "gender": "M", "class": "Commoner" },
-  { "name": "Ignatz", "gender": "M", "class": "Commoner" },
-  { "name": "Lysithea", "gender": "F", "class": "Noble" },
-  { "name": "Marianne", "gender": "F", "class": "Noble" },
-  { "name": "Hilda", "gender": "F", "class": "Noble" },
-  { "name": "Leonie", "gender": "F", "class": "Commoner" },
-  { "name": "Seteth", "gender": "M", "class": "Wyvern Rider" },
-  { "name": "Flayn", "gender": "F", "class": "Priest" },
-  { "name": "Hanneman", "gender": "M", "class": "Mage" },
-  { "name": "Manuela", "gender": "F", "class": "Priest" },
-  { "name": "Gilbert", "gender": "M", "class": "Fortress Knight" },
-  { "name": "Alois", "gender": "M", "class": "Warrior" },
-  { "name": "Catherine", "gender": "F", "class": "Swordmaster" },
-  { "name": "Shamir", "gender": "F", "class": "Sniper" },
-  { "name": "Cyril", "gender": "M", "class": "Commoner" },
-  { "name": "Jeritza", "gender": "M", "class": "Death Knight" },
-  { "name": "Anna", "gender": "F", "class": "Myrmidon" }
+  {
+    "name": "Byleth",
+    "gender": "A",
+    "class": "Enlightened One",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["tome", "sword"]
+  },
+  {
+    "name": "Edelgard",
+    "gender": "F",
+    "class": "Emperor",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Hubert",
+    "gender": "M",
+    "class": "Dark Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Ferdinand",
+    "gender": "M",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Linhardt",
+    "gender": "M",
+    "class": "Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  },
+  {
+    "name": "Caspar",
+    "gender": "M",
+    "class": "Warrior",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Bernadetta",
+    "gender": "F",
+    "class": "Sniper",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow", "lance"]
+  },
+  {
+    "name": "Dorothea",
+    "gender": "F",
+    "class": "Commoner",
+    "type": "Dancer",
+    "movement": "infantry",
+    "equipment": ["tome", "dance", "sword"]
+  },
+  {
+    "name": "Petra",
+    "gender": "F",
+    "class": "Commoner",
+    "type": "Wyvern Rider",
+    "movement": "flying",
+    "equipment": ["axe", "sword"]
+  },
+  {
+    "name": "Dimitri",
+    "gender": "M",
+    "class": "Great Lord",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Dedue",
+    "gender": "M",
+    "class": "Fortress Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["axe", "lance"]
+  },
+  {
+    "name": "Felix",
+    "gender": "M",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Ashe",
+    "gender": "M",
+    "class": "Sniper",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Sylvain",
+    "gender": "M",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Mercedes",
+    "gender": "F",
+    "class": "Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Annette",
+    "gender": "F",
+    "class": "Warlock",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["tome", "axe"]
+  },
+  {
+    "name": "Ingrid",
+    "gender": "F",
+    "class": "Falcon Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Claude",
+    "gender": "M",
+    "class": "Barbarossa",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Lorenz",
+    "gender": "M",
+    "class": "Dark Knight",
+    "type": "hybrid",
+    "movement": "riding",
+    "equipment": ["lance", "tome"]
+  },
+  {
+    "name": "Raphael",
+    "gender": "M",
+    "class": "Grappler",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Ignatz",
+    "gender": "M",
+    "class": "Sniper",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Lysithea",
+    "gender": "F",
+    "class": "Gremory",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  },
+  {
+    "name": "Marianne",
+    "gender": "F",
+    "class": "Bishop",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["staff", "dance", "sword"]
+  },
+  {
+    "name": "Hilda",
+    "gender": "F",
+    "class": "Wyvern Lord",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Leonie",
+    "gender": "F",
+    "class": "Bow Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["bow", "lance"]
+  },
+  {
+    "name": "Seteth",
+    "gender": "M",
+    "class": "Wyvern Rider",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Flayn",
+    "gender": "F",
+    "class": "Priest",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Hanneman",
+    "gender": "M",
+    "class": "Warlock",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Manuela",
+    "gender": "F",
+    "class": "Bishop",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Gilbert",
+    "gender": "M",
+    "class": "Fortress Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Alois",
+    "gender": "M",
+    "class": "Warrior",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Catherine",
+    "gender": "F",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Shamir",
+    "gender": "F",
+    "class": "Sniper",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Cyril",
+    "gender": "M",
+    "class": "Wyvern Rider",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Jeritza",
+    "gender": "M",
+    "class": "Death Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Anna",
+    "gender": "F",
+    "class": "Trickster",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["sword", "staff"]
+  }
 ]

@@ -1,34 +1,258 @@
 [
-  { "name": "Alm", "gender": "M", "class": "Fighter" },
-  { "name": "Lukas", "gender": "M", "class": "Soldier" },
-  { "name": "Gray", "gender": "M", "class": "Villager" },
-  { "name": "Tobin", "gender": "M", "class": "Villager" },
-  { "name": "Kliff", "gender": "M", "class": "Villager" },
-  { "name": "Silque", "gender": "F", "class": "Cleric" },
-  { "name": "Clair", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Clive", "gender": "M", "class": "Cavalier" },
-  { "name": "Forsyth", "gender": "M", "class": "Soldier" },
-  { "name": "Python", "gender": "M", "class": "Archer" },
-  { "name": "Luthier", "gender": "M", "class": "Mage" },
-  { "name": "Mathilda", "gender": "F", "class": "Paladin" },
-  { "name": "Delthea", "gender": "F", "class": "Mage" },
-  { "name": "Tatiana", "gender": "F", "class": "Saint" },
-  { "name": "Zeke", "gender": "M", "class": "Gold Knight" },
-  { "name": "Mycen", "gender": "M", "class": "Gold Knight" },
-  { "name": "Celica", "gender": "F", "class": "Priestess" },
-  { "name": "Mae", "gender": "F", "class": "Mage" },
-  { "name": "Boey", "gender": "M", "class": "Mage" },
-  { "name": "Genny", "gender": "F", "class": "Cleric" },
-  { "name": "Saber", "gender": "M", "class": "Mercenary" },
-  { "name": "Valbar", "gender": "M", "class": "Knight" },
-  { "name": "Kamui", "gender": "M", "class": "Mercenary" },
-  { "name": "Leon", "gender": "M", "class": "Archer" },
-  { "name": "Palla", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Catria", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Atlas", "gender": "M", "class": "Villager" },
-  { "name": "Jesse", "gender": "M", "class": "Mercenary" },
-  { "name": "Sonya", "gender": "F", "class": "Mage" },
-  { "name": "Deen", "gender": "M", "class": "Myrmidon" },
-  { "name": "Est", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Nomah", "gender": "M", "class": "Sage" }
+  {
+    "name": "Alm",
+    "gender": "M",
+    "class": "Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Lukas",
+    "gender": "M",
+    "class": "Soldier",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Gray",
+    "gender": "M",
+    "class": "Villager",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Tobin",
+    "gender": "M",
+    "class": "Villager",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Kliff",
+    "gender": "M",
+    "class": "Villager",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Silque",
+    "gender": "F",
+    "class": "Cleric",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Clair",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Clive",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Forsyth",
+    "gender": "M",
+    "class": "Soldier",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Python",
+    "gender": "M",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Luthier",
+    "gender": "M",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Mathilda",
+    "gender": "F",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Delthea",
+    "gender": "F",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Tatiana",
+    "gender": "F",
+    "class": "Saint",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Zeke",
+    "gender": "M",
+    "class": "Gold Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Mycen",
+    "gender": "M",
+    "class": "Gold Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Celica",
+    "gender": "F",
+    "class": "Priestess",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["tome", "sword"]
+  },
+  {
+    "name": "Mae",
+    "gender": "F",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Boey",
+    "gender": "M",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Genny",
+    "gender": "F",
+    "class": "Cleric",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Saber",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Valbar",
+    "gender": "M",
+    "class": "Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Kamui",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Leon",
+    "gender": "M",
+    "class": "Archer",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Palla",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Catria",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Atlas",
+    "gender": "M",
+    "class": "Villager",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Jesse",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Sonya",
+    "gender": "F",
+    "class": "Mage",
+    "type": "hybrid",
+    "movement": "infantry",
+    "equipment": ["tome", "sword"]
+  },
+  {
+    "name": "Deen",
+    "gender": "M",
+    "class": "Myrmidon",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Est",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Nomah",
+    "gender": "M",
+    "class": "Sage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff"]
+  }
 ]

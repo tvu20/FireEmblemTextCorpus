@@ -1,54 +1,418 @@
 [
-  { "name": "Leif", "gender": "M", "class": "Lord" },
-  { "name": "Finn", "gender": "M", "class": "Lance Knight" },
-  { "name": "Osian", "gender": "M", "class": "Axe Fighter" },
-  { "name": "Halvan", "gender": "M", "class": "Axe Fighter" },
-  { "name": "Eyvel", "gender": "F", "class": "Swordmaster" },
-  { "name": "Dagdar", "gender": "M", "class": "Warrior" },
-  { "name": "Tanya", "gender": "F", "class": "Bow Fighter" },
-  { "name": "Marty", "gender": "M", "class": "Brigand" },
-  { "name": "Ronan", "gender": "M", "class": "Bow Fighter" },
-  { "name": "Safy", "gender": "F", "class": "Priest" },
-  { "name": "Lifis", "gender": "M", "class": "Thief" },
-  { "name": "Machyua", "gender": "M", "class": "Sword Fighter" },
-  { "name": "Brighton", "gender": "M", "class": "Axe Knight" },
-  { "name": "Lara", "gender": "F", "class": "Thief" },
-  { "name": "Fergus", "gender": "M", "class": "Free Knight" },
-  { "name": "Karin", "gender": "F", "class": "Pegasus Rider" },
-  { "name": "Dalsin", "gender": "M", "class": "Axe Armor" },
-  { "name": "Asbel", "gender": "M", "class": "Mage" },
-  { "name": "Nanna", "gender": "F", "class": "Troubadour" },
-  { "name": "Hicks", "gender": "M", "class": "Axe Knight" },
-  { "name": "Shiva", "gender": "M", "class": "Sword Fighter" },
-  { "name": "Carrion", "gender": "M", "class": "Cavalier" },
-  { "name": "Selphina", "gender": "F", "class": "Arch Knight" },
-  { "name": "Cain", "gender": "M", "class": "Lance Knight" },
-  { "name": "Alva", "gender": "M", "class": "Lance Knight" },
-  { "name": "Robert", "gender": "M", "class": "Arch Knight" },
-  { "name": "Fred", "gender": "M", "class": "Paladin" },
-  { "name": "Olwen", "gender": "M", "class": "Mage Knight" },
-  { "name": "Mareeta", "gender": "F", "class": "Sword Fighter" },
-  { "name": "Salem", "gender": "M", "class": "Loptr Mage" },
-  { "name": "Perne", "gender": "M", "class": "Thief Fighter" },
-  { "name": "Troude", "gender": "M", "class": "Sword Fighter" },
-  { "name": "Tina", "gender": "F", "class": "Priest" },
-  { "name": "Glade", "gender": "M", "class": "Duke Knight" },
-  { "name": "Deen", "gender": "M", "class": "Wyvern Rider" },
-  { "name": "Eda", "gender": "F", "class": "Dragon Rider" },
-  { "name": "Homer", "gender": "M", "class": "Bard" },
-  { "name": "Linoan", "gender": "F", "class": "Cleric" },
-  { "name": "Ralf", "gender": "M", "class": "Mercenary" },
-  { "name": "Ilios", "gender": "M", "class": "Mage Knight" },
-  { "name": "Sleuf", "gender": "M", "class": "Priest" },
-  { "name": "Misha", "gender": "F", "class": "Pegasus Knight" },
-  { "name": "Sara", "gender": "F", "class": "Cleric" },
-  { "name": "Shannam", "gender": "M", "class": "Swordmaster" },
-  { "name": "Miranda", "gender": "F", "class": "Mage" },
-  { "name": "Xavier", "gender": "M", "class": "General" },
-  { "name": "Amalda", "gender": "F", "class": "Paladin" },
-  { "name": "Conomor", "gender": "M", "class": "Paladin" },
-  { "name": "Diarmuid", "gender": "M", "class": "Ranger" },
-  { "name": "Saias", "gender": "M", "class": "High Priest" },
-  { "name": "Ced", "gender": "M", "class": "Sage" },
-  { "name": "Galzus", "gender": "M", "class": "Mercenary" }
+  {
+    "name": "Leif",
+    "gender": "M",
+    "class": "Lord",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Finn",
+    "gender": "M",
+    "class": "Lance Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Osian",
+    "gender": "M",
+    "class": "Axe Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Halvan",
+    "gender": "M",
+    "class": "Axe Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Eyvel",
+    "gender": "F",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Dagdar",
+    "gender": "M",
+    "class": "Warrior",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe", "bow"]
+  },
+  {
+    "name": "Tanya",
+    "gender": "F",
+    "class": "Bow Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Marty",
+    "gender": "M",
+    "class": "Brigand",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Ronan",
+    "gender": "M",
+    "class": "Bow Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Safy",
+    "gender": "F",
+    "class": "Priest",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Lifis",
+    "gender": "M",
+    "class": "Thief",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Machyua",
+    "gender": "M",
+    "class": "Sword Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Brighton",
+    "gender": "M",
+    "class": "Axe Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Lara",
+    "gender": "F",
+    "class": "Thief",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Fergus",
+    "gender": "M",
+    "class": "Free Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Karin",
+    "gender": "F",
+    "class": "Pegasus Rider",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Dalsin",
+    "gender": "M",
+    "class": "Axe Armor",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Asbel",
+    "gender": "M",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Nanna",
+    "gender": "F",
+    "class": "Troubadour",
+    "type": "hybrid",
+    "movement": "riding",
+    "equipment": ["sword", "staff"]
+  },
+  {
+    "name": "Hicks",
+    "gender": "M",
+    "class": "Axe Knight",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["axe"]
+  },
+  {
+    "name": "Shiva",
+    "gender": "M",
+    "class": "Sword Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Carrion",
+    "gender": "M",
+    "class": "Cavalier",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Selphina",
+    "gender": "F",
+    "class": "Arch Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Cain",
+    "gender": "M",
+    "class": "Lance Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Alva",
+    "gender": "M",
+    "class": "Lance Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance"]
+  },
+  {
+    "name": "Robert",
+    "gender": "M",
+    "class": "Arch Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["bow"]
+  },
+  {
+    "name": "Fred",
+    "gender": "M",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Olwen",
+    "gender": "M",
+    "class": "Mage Knight",
+    "type": "hybrid",
+    "movement": "riding",
+    "equipment": ["sword", "tome"]
+  },
+  {
+    "name": "Mareeta",
+    "gender": "F",
+    "class": "Sword Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Salem",
+    "gender": "M",
+    "class": "Loptr Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "dark", "staff"]
+  },
+  {
+    "name": "Perne",
+    "gender": "M",
+    "class": "Thief Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Troude",
+    "gender": "M",
+    "class": "Sword Fighter",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Tina",
+    "gender": "F",
+    "class": "Priest",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Glade",
+    "gender": "M",
+    "class": "Duke Knight",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Deen",
+    "gender": "M",
+    "class": "Wyvern Rider",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Eda",
+    "gender": "F",
+    "class": "Dragon Rider",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Homer",
+    "gender": "M",
+    "class": "Bard",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "light"]
+  },
+  {
+    "name": "Linoan",
+    "gender": "F",
+    "class": "Cleric",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "light", "staff"]
+  },
+  {
+    "name": "Ralf",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword", "axe"]
+  },
+  {
+    "name": "Ilios",
+    "gender": "M",
+    "class": "Mage Knight",
+    "type": "hybrid",
+    "movement": "riding",
+    "equipment": ["sword", "tome"]
+  },
+  {
+    "name": "Sleuf",
+    "gender": "M",
+    "class": "Priest",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff"]
+  },
+  {
+    "name": "Misha",
+    "gender": "F",
+    "class": "Pegasus Knight",
+    "type": "physical",
+    "movement": "flying",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Sara",
+    "gender": "F",
+    "class": "Cleric",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "light", "staff"]
+  },
+  {
+    "name": "Shannam",
+    "gender": "M",
+    "class": "Swordmaster",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Miranda",
+    "gender": "F",
+    "class": "Mage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome"]
+  },
+  {
+    "name": "Xavier",
+    "gender": "M",
+    "class": "General",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword", "lance", "axe"]
+  },
+  {
+    "name": "Amalda",
+    "gender": "F",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Conomor",
+    "gender": "M",
+    "class": "Paladin",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["lance", "sword"]
+  },
+  {
+    "name": "Diarmuid",
+    "gender": "M",
+    "class": "Ranger",
+    "type": "physical",
+    "movement": "riding",
+    "equipment": ["sword"]
+  },
+  {
+    "name": "Saias",
+    "gender": "M",
+    "class": "High Priest",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["staff", "light"]
+  },
+  {
+    "name": "Ced",
+    "gender": "M",
+    "class": "Sage",
+    "type": "magic",
+    "movement": "infantry",
+    "equipment": ["tome", "staff", "light"]
+  },
+  {
+    "name": "Galzus",
+    "gender": "M",
+    "class": "Mercenary",
+    "type": "physical",
+    "movement": "infantry",
+    "equipment": ["sword", "axe"]
+  }
 ]
