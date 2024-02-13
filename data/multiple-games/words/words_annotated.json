@@ -1,0 +1,1573 @@
+[
+  {
+    "text": "well",
+    "value": 4815,
+    "games": [
+      "FE1",
+      "FE2",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "RB",
+    "pos": "ADV",
+    "samples": [
+      "...Do they now? Well, here's your chance to try the real thing.",
+      "Hm, not explainin’ myself very well, am I? OK OK, what I’m trying to say is--",
+      "As a professor, you would do well to remember that it is your duty to guide your students down the path of righteousness."
+    ]
+  },
+  {
+    "text": "know",
+    "value": 4050,
+    "games": [
+      "FE1",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "Who knows? Personally, I doubt it. All I know is that the Daein army believes in her miracles, which makes her dangerous.",
+      "I won't lie: your death might have spared the world future grief. Perhaps. ...But I know for certain it would have robbed the world of someone very special.",
+      "Thank you. I know the battles ahead will be dire, but we will support you with all our strength."
+    ]
+  },
+  {
+    "text": "right",
+    "value": 3522,
+    "games": [
+      "FE2",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "VB",
+    "pos": "ADV",
+    "samples": [
+      "You don’t know? The language we are using right now is called the Tellius language.",
+      "I wish. It's too complicated right now.",
+      "I think, after the dust has settled, I'll place my portrait right over your throne."
+    ]
+  },
+  {
+    "text": "must",
+    "value": 3172,
+    "games": [
+      "FE1",
+      "FE2",
+      "FE3",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "MD",
+    "pos": "VERB",
+    "samples": [
+      "He must have realized that his operations were no longer a secret. Your Majesty, we have no time to waste. We must stand against this, for the future of Crimea!",
+      "There is no need to apologize, Edelgard. You must know...  that I do not have much time left in this world. The time has come.",
+      "Thank you for telling me, Princess Ayra. Someday, the world will know this truth, and till that day comes, you mustn't give in. I will do all I can to help you."
+    ]
+  },
+  {
+    "text": "one",
+    "value": 3169,
+    "games": [
+      "FE1",
+      "FE2",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "CD",
+    "pos": "NOUN",
+    "samples": [
+      "And yes, alone, I don't think either one of us is half the person your sister was. But together...maybe we can be something more. If you fall, I'll be there to pull you back up.",
+      "Huh...that's strange. Usually, I'm the one doing the stabbing and killing. I need to retreat and think about this...",
+      "A wish of my own... I suppose my wish...is for a world in which no one would ever be unjustly taken from us. Or...something along those lines."
+    ]
+  },
+  {
+    "text": "see",
+    "value": 3009,
+    "games": [
+      "FE1",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "Ah, Sir Knight! I am glad to see you're safe! I knew someone of your power wouldn't have turned to stone.",
+      "You're wrong, Takumi! If you could only see beyond your own hatred of me. If we could just talk things out, we could end this war peacefully. Fighting isn't the only way. How many more people must die before you see that?",
+      "I'm glad to see everyone so inspired. It seems the reappearance of the professor has done much to raise your morale."
+    ]
+  },
+  {
+    "text": "time",
+    "value": 2878,
+    "games": [
+      "FE1",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "...Sephiran... Everything you've ever told me, every time you gave your hand to me, every time you smiled... They were all lies? ...You're the most appalling fraud I've ever known!",
+      "Sire, the free company to the south will probably make their move soon. Indeed, now's not the time to fight. For the time being, let's do as Cain suggests and make our escape. After that, we'll think of something...",
+      "Hmm... I have a place in mind. Perhaps it's time to call on an old friend. Under his care, I am certain your enemies will never find you. Forgive an old knight for failing you, Princess."
+    ]
+  },
+  {
+    "text": "take",
+    "value": 2204,
+    "games": [
+      "FE1",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "Really? Well then, why don't you take on the rest of the guards while I sit back and take a break? ",
+      "I don’t want to fight... I... I don’t want to take any more lives...",
+      "Perhaps a few of us should take a quick look. It might be reckless for all of us to burst into the palace at once..."
+    ]
+  },
+  {
+    "text": "please",
+    "value": 2178,
+    "games": [
+      "FE1",
+      "FE2",
+      "FE3",
+      "FE4",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "RB",
+    "pos": "ADV",
+    "samples": [
+      "P-please be quiet, General! You'll hurt the troops' morale! Wait, where are you going?!",
+      "Kris, I know how Prince Marth feels. Please, I beg of you... Please find a way to save them.",
+      "Are things not going as well as you’d hoped? Augh, I wish you were here in person! I don’t know what to... Please don’t cry."
+    ]
+  },
+  {
+    "text": "go",
+    "value": 2136,
+    "games": [
+      "FE2",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "Awww... I really wanted to go to the palace. I would've been happy with just a tiny little glance at Queen Elincia. She's... glorious.",
+      "You must never go near that cave. I heard a rumor that in that cave dwells a terrible fire dragon.",
+      "Don't go messing up because your vision has weakened with age. Take the defensive for now."
+    ]
+  },
+  {
+    "text": "think",
+    "value": 2016,
+    "games": [
+      "FE4",
+      "FE5",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I must ask you to think harder! A peace treaty? Now? My soldiers will never accept this!",
+      "I will tell you. However, after I've told you, you'll probably think it was better off not knowing.",
+      "I can think of nothing worse than dying alone. ...No, seriously. I can't."
+    ]
+  },
+  {
+    "text": "come",
+    "value": 1949,
+    "games": [
+      "FE1",
+      "FE2",
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "In which case, Daein's destruction will come more slowly, but it will come nonetheless.",
+      "Rebel soldiers... Come to die, have you? I'll show you the terror of Gradivus!",
+      "Aw, come on now, Lissa. Hardship builds character. Want to help me gather firewood?"
+    ]
+  },
+  {
+    "text": "back",
+    "value": 1811,
+    "games": [
+      "FE1",
+      "FE4",
+      "FE5",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "RB",
+    "pos": "ADV",
+    "samples": [
+      "I thought I might travel to a far-off place after all of this was over. But I won’t. I’ll go back to Daein.",
+      "The enemy uses good tactics. Sorry, Ike. I’m pulling back for now.",
+      "Stop! We will fall back! Brothers, listen to me! I swear upon my life that I'll take Skrimir back with us! Fall back!"
+    ]
+  },
+  {
+    "text": "even",
+    "value": 1791,
+    "games": [
+      "FE3",
+      "FE4",
+      "FE5",
+      "FE6",
+      "FE9",
+      "FE10",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "RB",
+    "pos": "ADV",
+    "samples": [
+      "Defeat is imminent. Even our strike force cannot keep the enemy at bay! Please, you must escape!",
+      "I said I believe. I believe in myself, and I believe in my companions. Even if I falter and fail... My friends will defeat you.",
+      "Hey, look, it's Nephenee. She even brought her own weapon. So you're gonna join the revolution?"
+    ]
+  },
+  {
+    "text": "way",
+    "value": 1735,
+    "games": [
+      "FE2",
+      "FE5",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I'm sorry, I can't tell you. At least, not in any way you would understand.",
+      "Stop, everyone! We need to talk. The next one who stands in our way is someone deeply tied to you.",
+      "I may have a way to thank you. This was his, and I'm sure he would have wanted you to have it."
+    ]
+  },
+  {
+    "text": "never",
+    "value": 1612,
+    "games": [
+      "FE4",
+      "FE5",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "RB",
+    "pos": "ADV",
+    "samples": [
+      "I won't live as long as you have, and I'll never be as powerful. Things like saving the world and fighting goddesses are just beyond me.",
+      "Our world was in pain. I never wish to see that happen again... Not to anyone. I won’t allow it.",
+      "I never thought... I'm sorry. It was a foolish question. I believe in you, professor."
+    ]
+  },
+  {
+    "text": "good",
+    "value": 1553,
+    "games": [
+      "FE1",
+      "FE5",
+      "FE6",
+      "FE7",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE14",
+      "FE15",
+      "FE16"
+    ],
+    "tag": "JJ",
+    "pos": "ADJ",
+    "samples": [
+      "Good work! I see the market. If we can blend into the crowd, they'll lose us, and we'll be free and clear.",
+      "Hey, now! This is a good axe. Must have cost you a fair bit. Thanks.",
+      "See? You get it. Our fearless leader on the other hand... He's never been good with the ladies."
+    ]
+  },
+  {
+    "text": "lord",
+    "value": 1351,
+    "games": ["FE2", "FE3", "FE4", "FE5", "FE6", "FE7", "FE12"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "What?! The enemy has already lost the will to fight! The apostle and Lord Sephiran would never agree to such a terrible plan!",
+      "But, we all believed that Lord Marth would definitely come back for us. He would rescue us all from our suffering... Because, our Lord Marth is the warrior of light chosen by the deities... the Starlord!",
+      "Enough! In the name of my lord Chrom, cast down your sword or draw it!"
+    ]
+  },
+  {
+    "text": "want",
+    "value": 1328,
+    "games": [
+      "FE1",
+      "FE2",
+      "FE3",
+      "FE4",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE10",
+      "FE12",
+      "FE16"
+    ],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "I want to overcome this. I don’t like that I feel I must avoid you for some inexplicable reason.",
+      "Fools! I don't want excuses! Take anything you see, and if these bumpkins complain at all, cut them down!",
+      "I'm not going anywhere! I want to stay with you!"
+    ]
+  },
+  {
+    "text": "prince",
+    "value": 1307,
+    "games": ["FE1", "FE3", "FE4", "FE5", "FE8", "FE11", "FE12"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I'm sorry, Ike. I will try to reason with Prince Kurth again. It was the prince's wish to come here... King Dheginsea knows nothing of this visit. Be that as it may, for a prince of the dragon tribe to stand on a battlefield... It is unacceptable.",
+      "If I win, I will tell you. Right now, my only goal is to gut that Altean prince who leads the League.",
+      "Prince Marth, I have been waiting for you. And you have finally returned."
+    ]
+  },
+  {
+    "text": "professor",
+    "value": 1297,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Professor! Your Highness! I just heard a scream! In Professor Jeritza's quarters!",
+      "And...it would seem that the professor also has a key role to play in this.",
+      "Because, with a professor like you nearby, I shall be safe no matter what foe should appear!"
+    ]
+  },
+  {
+    "text": "fight",
+    "value": 1278,
+    "games": [
+      "FE1",
+      "FE3",
+      "FE6",
+      "FE9",
+      "FE10",
+      "FE11",
+      "FE12",
+      "FE13",
+      "FE16"
+    ],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "This battle may be over, but the fight to return Daein to its former glory will take time and effort. If my support can be of service, then I am honored to assist.",
+      "Take me with you. I must... finish what I started... I think. I must fight with you.",
+      "I've been thinking about how you rode with Sumia earlier... Do our unit always have to fight one-on-one?"
+    ]
+  },
+  {
+    "text": "father",
+    "value": 1465,
+    "games": [
+      "FE4",
+      "FE6",
+      "FE7",
+      "FE8",
+      "FE9",
+      "FE11",
+      "FE13",
+      "FE14",
+      "FE16"
+    ],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I will tell you one thing. I do not blame you for leaving Daein. You must live by your own beliefs. That is what your father would have wanted.",
+      "I'm...I'm afraid I have no choice. Father would never allow an enemy leader to survive. I'm sorry , but...I must do what I must do.",
+      "He gave me a name and took me in. He raised me as a father would his own son. And yes, I may have betrayed him... But never would I help you do him harm."
+    ]
+  },
+  {
+    "text": "still",
+    "value": 1189,
+    "games": ["FE3", "FE4", "FE5", "FE6", "FE13", "FE14", "FE16"],
+    "tag": "RB",
+    "pos": "ADV",
+    "samples": [
+      "Don't worry. We still have all the time we spent together... Nobody can take that away. Nobody.",
+      "I... Ah... Forgive me... I am still groggy from my slumber. My words outpace my thoughts.",
+      "I won't ever give up on you. You said you'd kill me...but I'm still here. If you really wanted me dead, you could have done it a dozen times by now."
+    ]
+  },
+  {
+    "text": "king",
+    "value": 1184,
+    "games": ["FE2", "FE3", "FE4", "FE6", "FE8", "FE9", "FE10", "FE14"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Once we leave our lands, it isn't easy for us to get back. We can't take our king away from his domain.",
+      "How can we trust you after what your barbarous king has done? I think we shall take our chances with weapons in hand!",
+      "If that's true, there's something you must do. It won't be easy though... I'm afraid if we're ever to obtain peace, you must...dethrone King Garon."
+    ]
+  },
+  {
+    "text": "much",
+    "value": 1022,
+    "games": ["FE1", "FE4", "FE5", "FE9", "FE10", "FE15", "FE16"],
+    "tag": "JJ",
+    "pos": "ADJ",
+    "samples": [
+      "We did create life, and can do many things that you creatures of flesh can't. But that doesn't make us perfect. It just means we can make mistakes on a much grander scale...",
+      "Why? You're the prince. Why should you need any man's permission, much less your own advisor's?",
+      "Yes. The mage who wields it cannot be killed; cannot be so much as scratched."
+    ]
+  },
+  {
+    "text": "army",
+    "value": 963,
+    "games": ["FE1", "FE3", "FE4", "FE5", "FE6", "FE9", "FE10", "FE12"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I feel the same way, and I’m sure all the soldiers of the Liberation Army do as well.",
+      "No, we can't afford it. If we waste any more time, the Central Army will catch up to us. If that happens, we're dead.",
+      "It's them! Gods, the rumors are true! The Nohrian army is headed this way!"
+    ]
+  },
+  {
+    "text": "let",
+    "value": 936,
+    "games": ["FE1", "FE7", "FE9", "FE10", "FE11", "FE12", "FE14", "FE15"],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "No, I can do it... ...Just let me think.  ...All right, I have it. Gather around the map.",
+      "Let us see if you've got the ability. Talys's mercenaries shall fight you first.",
+      "In truth, I was starting to doubt the purpose of my struggle... But no longer! Pray, sire, let my axe serve you and your party!"
+    ]
+  },
+  {
+    "text": "thank",
+    "value": 888,
+    "games": ["FE2", "FE4", "FE6", "FE10", "FE12", "FE13", "FE14"],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "As you wish. Thank you all. Your strength will be mine.",
+      "You did a lot for us back then. I didn’t even get a chance to thank you.",
+      "...Thank you. I'm impressed you made it back so quickly."
+    ]
+  },
+  {
+    "text": "people",
+    "value": 881,
+    "games": ["FE1", "FE3", "FE6", "FE10", "FE13", "FE16"],
+    "tag": "NNS",
+    "pos": "NOUN",
+    "samples": [
+      "No! I’m staying here with everyone! These people are my friends… my family! I will not leave them!",
+      "The one constant truth of people, Ike, is that nobody can stop them from changing.",
+      "I'm not fond of that man. His treatment of our people is simply intolerable. To work beneath him is an insult."
+    ]
+  },
+  {
+    "text": "princess",
+    "value": 870,
+    "games": ["FE1", "FE3", "FE6", "FE8", "FE9", "FE11", "FE12"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "You must be Prince Marth. You have done well to make it here. I am the princess of Archanea, Nyna.",
+      "No! I didn't try to read your mind intentionally. I just felt that your feelings for Princess Leanne were very warm, and that's all I saw.",
+      "I will pray that you will be able to meet Princess Guinivere soon."
+    ]
+  },
+  {
+    "text": "going",
+    "value": 856,
+    "games": ["FE6", "FE7", "FE8", "FE9", "FE14", "FE15"],
+    "tag": "VBG",
+    "pos": "VERB",
+    "samples": [
+      "You know I’m not going to go easy on you, right? Or on anyone else who comes at me with a sword, for that matter.",
+      "May it serve to protect you. Micaiah, I must leave you now. I am going home to my own country.",
+      "Someone's in pain! What's going on over there?!"
+    ]
+  },
+  {
+    "text": "corrin",
+    "value": 839,
+    "games": ["FE14"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Sorry we got ahead of you. But you should have heard the horrible things Lord Corrin said to us.",
+      "I, too, sense that Corrin is still present somehow...",
+      "our words have touched me deeply. You are truly as kind as Corrin made you out to be."
+    ]
+  },
+  {
+    "text": "marth",
+    "value": 824,
+    "games": ["FE1", "FE3", "FE11", "FE12"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "You fought well, Prince Marth. But beware! You will soon face General Camus and his Sable Knights!",
+      "As Marth and his allies approach, the amassed wyverns blot out the sun.",
+      "Prince Marth, thank you. Those soldiers told us they’d protect us when they led us down here..."
+    ]
+  },
+  {
+    "text": "make",
+    "value": 823,
+    "games": ["FE5", "FE13", "FE14", "FE15", "FE16"],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "Make it the last time. If anyone can do it, you two can.",
+      "You taught me how to shoot a bow. How to make a bow. And that’s not all! You’ve given me so much, and yet there’s nothing I can do to pay you back for it.",
+      "Somehow you're also the most endearing. It's your imperfections that make you so interesting... Imperfections very similar to ours."
+    ]
+  },
+  {
+    "text": "need",
+    "value": 796,
+    "games": ["FE4", "FE7", "FE8", "FE11", "FE12", "FE14", "FE15"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "You would face me in battle? I need no further evidence of your kind's imperfections.",
+      "There's no need to worry. They're just not used to the spirit of chaos being so near. They'll wake up soon.",
+      "Pawns need no sense of self! It's only natural to sacrifice soldiers for victory in war!"
+    ]
+  },
+  {
+    "text": "help",
+    "value": 701,
+    "games": ["FE1", "FE2", "FE3", "FE6", "FE7", "FE10", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "My prince... Hrrgh! Fine. But I can't help but feel as if these children are running your army.",
+      "It’s all right, Ike. How can we help you?",
+      "Don't worry about it. I'm the type that likes to help nice country girls like you."
+    ]
+  },
+  {
+    "text": "daein",
+    "value": 700,
+    "games": ["FE9", "FE10"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "By the time we get back home, I’ll be invincible! I’ll kick those tyrants out of Daein with my own two hands and one sharp blade!",
+      "I need your help! Help me protect Daein until we get our chance to break the blood pact!",
+      "Why would Daein join the war? I thought all their resources would be tied up in reconstruction."
+    ]
+  },
+  {
+    "text": "something",
+    "value": 695,
+    "games": ["FE7", "FE9", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I saw that once the royal family was restored by the Fire Emblem, I would lose something precious to me.",
+      "We all lost and gained something during the Mad King’s War. Maybe it wasn’t a complete waste, after all.",
+      "Honestly. Here I thought you were saying something enlightened, and you're just talking about him again?"
+    ]
+  },
+  {
+    "text": "empire",
+    "value": 688,
+    "games": ["FE5", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "It is said that she fights for the Dolhr Empire because they are holding her sister hostage.",
+      "The empire will not forget this... Once our main forces arrive, they will slaughter you like cattle!",
+      "Why should we help a country that rebelled against the empire and attempted to invade their fair nation?"
+    ]
+  },
+  {
+    "text": "sorry",
+    "value": 890,
+    "games": ["FE4", "FE10", "FE13", "FE14", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Wear it...in memory of me. It will protect you. Please forgive me... I'm sorry I...lied to you.",
+      "...So, that's the whole story. Sorry we were late, but now we're here to stay and see this war out.",
+      "All right, sorry to bother you. But I’m glad we had this chance to talk, Roger. You’re every bit the man I thought you were."
+    ]
+  },
+  {
+    "text": "general",
+    "value": 660,
+    "games": ["FE2", "FE3", "FE5", "FE6", "FE9", "FE10"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "However, General Jarod uses his superior numbers to harry the group and threaten their fragile momentum.",
+      "General Ike. Thank you for helping the apostle. I appreciate it from the bottom of my heart.",
+      "Join us, General Lorenz. We can put an end to this battle right now.|"
+    ]
+  },
+  {
+    "text": "ike",
+    "value": 654,
+    "games": ["FE9", "FE10"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "He was working for Ike during the Mad King's War, perhaps you remember.",
+      "We are not afraid! We shall fight for the prosperity of our fatherland, as did Ike the patriot!",
+      "Located to the southwest of Crimea, Gallia is home to the laguz, a race quite unlike Ike and his fellow beorc."
+    ]
+  },
+  {
+    "text": "let's",
+    "value": 642,
+    "games": ["FE7", "FE8", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "All right, everyone. Let's spend the night in this town. Please be sure to get some rest and prepare for tomorrow.",
+      "Don't be distracted, Micaiah! Let's set our formation while we can.",
+      "Kris! Let's move to that spot over there."
+    ]
+  },
+  {
+    "text": "battle",
+    "value": 611,
+    "games": ["FE12", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "The battle is not won yet, though: many of the enemy continue to hold out within the castle’s halls. Stay wary.",
+      "We must press on. Let us win this battle quickly and continue on our way!",
+      "We will also have merchants accompanying us, who will sell us weapons and items. I daresay they will be invaluable during battle preparations."
+    ]
+  },
+  {
+    "text": "war",
+    "value": 583,
+    "games": ["FE10", "FE12", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I told Mother...the war is over.",
+      "Near the end of the war all those years ago, this entire region was conquered by King Blume, the son of Duke Reptor.",
+      "I haven't seen you since the war ended three years ago. Who would've thought we'd meet again in such a desolate place?"
+    ]
+  },
+  {
+    "text": "enemy",
+    "value": 551,
+    "games": ["FE11", "FE12", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Lady Micaiah! Has the enemy arrived already?",
+      "No, I just checked in. Enemy forces just suddenly appeared, with no sign or warning at all.",
+      "Before long, the enemy grew less watchful: the time to slip away had come."
+    ]
+  },
+  {
+    "text": "long",
+    "value": 459,
+    "games": ["FE1", "FE3", "FE4", "FE5", "FE11", "FE12"],
+    "tag": "RB",
+    "pos": "ADV",
+    "samples": [
+      "As long as I draw breath, you will not lay hands on Apostle Sanaki.",
+      "It has been a long time since we last saw Queen Elincia. We should at least say hello.",
+      "As long as I live, as long as I am able to walk, and as long as I draw breath, I shall fight. It is my duty."
+    ]
+  },
+  {
+    "text": "alliance",
+    "value": 454,
+    "games": ["FE6", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "The Laguz Alliance may have lost the war of might. But we haven't lost the war to save the lives of our brothers! This fight will be ours!",
+      "The Alliance nobles have surrendered to the Empire. We made it through with as few losses as possible."
+    ]
+  },
+  {
+    "text": "dragon",
+    "value": 448,
+    "games": ["FE3", "FE6"],
+    "tag": "NNS",
+    "pos": "NOUN",
+    "samples": [
+      "Cast the Shadow Dragon back into the darkness! Bury him in the earth he crawled out from!",
+      "The fell dragon needs only a mortal vessel, which you so kindly brought along..."
+    ]
+  },
+  {
+    "text": "sir",
+    "value": 447,
+    "games": ["FE4", "FE12", "FE13", "FE15"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Sir Ike... If you hadn't come to help, I would have lost one of my dearest friends. Thank you...",
+      "Yes, yes, I heard the whole thing from Sir Jagen. If you like, I could lend you my services as a healer."
+    ]
+  },
+  {
+    "text": "nohr",
+    "value": 432,
+    "games": ["FE14"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "I won't let Nohr oppress my people any longer. For freedom!",
+      "The capital is brimming with jubilation. This is the Nohr I always dreamed of!"
+    ]
+  },
+  {
+    "text": "tell",
+    "value": 420,
+    "games": ["FE1", "FE8", "FE9", "FE10"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "It doesn’t matter who or what we’re up against. Believe me when I tell you we’ll never give up.",
+      "Yeah, I'll join too. Tell Prince Marth for me."
+    ]
+  },
+  {
+    "text": "rhea",
+    "value": 418,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Don’t let Lady Rhea get hurt. Our mission isn’t just to wipe out all the enemies, but also to protect Lady Rhea. Ready?",
+      "Well, I suppose Lady Rhea would be pretty shocked if she came back to find the place filthy!"
+    ]
+  },
+  {
+    "text": "look",
+    "value": 417,
+    "games": ["FE5", "FE13", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Tell Mother what happened. You look absolutely terrified.",
+      "Hold on a second... You look exactly like him. Are you two related?"
+    ]
+  },
+  {
+    "text": "sure",
+    "value": 414,
+    "games": ["FE15", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Don't be so sure about that. You just might be surprised.",
+      "Huh? You sure you're not imagining things? What would Sir Mycen and the Rigelian emperor have to do with each other?"
+    ]
+  },
+  {
+    "text": "kingdom",
+    "value": 410,
+    "games": ["FE11", "FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Even if you kill me, the kingdom of Daein will be reborn. As long as the prince survives, the people will fight.",
+      "In the Holy Kingdom of Faerghus, Imperialist loyalist Cornelia has subdued all regions of the former royal house of Blaiddyd to prevent further revolt."
+    ]
+  },
+  {
+    "text": "nothing",
+    "value": 379,
+    "games": ["FE7", "FE8", "FE9"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I've heard nothing of such a plan! It's a false rumor! Or an enemy trap!",
+      "I'd expect nothing less from the deputy commander and the strategist of the Greil Mercenaries."
+    ]
+  },
+  {
+    "text": "eliwood",
+    "value": 351,
+    "games": ["FE7"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "She should be all right. She's with Lord Eliwood after all, but he can't last forever.",
+      "I beg your forbearance. Lord Eliwood has ordered me to follow your commands in combat. I care not where I meet death. Just guide me wisely."
+    ]
+  },
+  {
+    "text": "house",
+    "value": 340,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Bravo, Marth. On behalf of House Archanea, I wish to extend my heartfelt congratulations.",
+      "I officially joined House Riegan only last year. Before then, I lived with my father."
+    ]
+  },
+  {
+    "text": "imperial",
+    "value": 330,
+    "games": ["FE16"],
+    "tag": "JJ",
+    "pos": "ADJ",
+    "samples": [
+      "The Imperial Prime Minister Sephiran casts a grim eye on dishonesty. If he finds out what has been going on in Daein under our rule...",
+      "All across the Empire, children aged seven to thirteen are seized by Imperial soldiers."
+    ]
+  },
+  {
+    "text": "eirika",
+    "value": 326,
+    "games": ["FE8"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Eirika... Aha! So you must be Princess Eirika of Renais! It is simply an honor to meet you.",
+      "Your training begins with movement. Place the square cursor on Eirika and press the A Button."
+    ]
+  },
+  {
+    "text": "fódlan",
+    "value": 323,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "As the protector of Fódlan and as leader of the people who live here... You must defend the people. Guide them and teach them.",
+      "Professor, our situation is dire. If we do nothing, Fódlan will be destroyed by a rampaging Immaculate One and these children of hers."
+    ]
+  },
+  {
+    "text": "years",
+    "value": 317,
+    "games": ["FE16"],
+    "tag": "NNS",
+    "pos": "NOUN",
+    "samples": [
+      "I met him when I was hiding out in the back alleys of Nevassa, over ten years ago. He was so skinny, but his gaze was so piercing...",
+      "It's said that a thousand years ago... when there was not one king in the lands, people lived in small villages."
+    ]
+  },
+  {
+    "text": "castle",
+    "value": 314,
+    "games": ["FE1", "FE3", "FE5", "FE6", "FE11"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Pirates are no match for us! Let's head back to the castle and rescue the king!",
+      "We fought for every inch, but Castle Munster is ours. Bards will sing of this battle for years to come."
+    ]
+  },
+  {
+    "text": "roy",
+    "value": 306,
+    "games": ["FE6"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Elder, if you would allow it, I would like to join Master Roy and look at Bern’s Dragons myself.",
+      "I understand your intentions of suggesting a truce, and I also promised Roy that I would protect you. Trust me, I will defend you at all costs."
+    ]
+  },
+  {
+    "text": "monastery",
+    "value": 305,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Come on, I promise I won’t say you’re a coward. Just forget about going anywhere near the monastery.",
+      "For a time he was at the monastery, but apparently, he's back in Faerghus serving as a knight again."
+    ]
+  },
+  {
+    "text": "altea",
+    "value": 303,
+    "games": ["FE1", "FE3", "FE11", "FE12"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "Sounds like the knights of Altea have arrived. This is our cue to get out of here! We're almost there, so come on!",
+      "But then I heard that Marth had freed Altea as well, and I finally managed to catch up with you here, in Gra."
+    ]
+  },
+  {
+    "text": "sire",
+    "value": 300,
+    "games": ["FE11", "FE12"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "No, sire! Get back here! One of your other men must take that position!",
+      "Sire, our preparations are complete. We are ready to march."
+    ]
+  },
+  {
+    "text": "church",
+    "value": 294,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "The newly crowned king of the Holy Kingdom of Faerghus, Dimitri, has declared fealty to the Church of Seiros and is raising an army in preparation for all-out war with the Empire.",
+      "As for Edelgard, I am certain she will never be able to accept the Church of Seiros."
+    ]
+  },
+  {
+    "text": "micaiah",
+    "value": 292,
+    "games": ["FE10"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "OK, that's it! Are you out of your mind? I'm getting Micaiah out of here.",
+      "This is a thinly veiled scheme...and I see right through it. You just want Micaiah to serve as a figurehead for your revolution."
+    ]
+  },
+  {
+    "text": "knights",
+    "value": 291,
+    "games": ["FE1", "FE16"],
+    "tag": "NNS",
+    "pos": "NOUN",
+    "samples": [
+      "I am Geoffrey, commander of the Royal Knights of Crimea!",
+      "In the meantime, the Knights of Seiros have been dispatched to find Archbishop Rhea, who remains missing despite their searching."
+    ]
+  },
+  {
+    "text": "seliph",
+    "value": 290,
+    "games": ["FE4"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "I ought to put on proper airs! “King Seliph”.... No, that’s not quite right. Perhaps “Your Imperial Majesty, the King” then?",
+      "All across Jugdral, they're all waiting for Lord Seliph to rise up and defeat the Empire!"
+    ]
+  },
+  {
+    "text": "find",
+    "value": 290,
+    "games": ["FE1", "FE11", "FE16"],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "A shabby sub-human pirate like yourself will find me quite invincible!",
+      "Even if we don’t find him, there’s no need to worry... ’cause I’m here!"
+    ]
+  },
+  {
+    "text": "ephraim",
+    "value": 283,
+    "games": ["FE8"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "You lie! You're a liar! Everyone knows about Prince Ephraim of Renais. He's a beast who attacks any woman he sees...",
+      "I agree with Ephraim entirely. You spend every night in the library, studying cures for your father's illness."
+    ]
+  },
+  {
+    "text": "hope",
+    "value": 278,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I'll make a run for the lead force and let them know! I just hope it's not too late!",
+      "Your resistance to magic is impeccable. You might just be our strongest hope of defeating Gharnef."
+    ]
+  },
+  {
+    "text": "edelgard",
+    "value": 277,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "So... Edelgard retreated. I suppose she lives to be defeated another day.",
+      "I will admit, Edelgard is adorable. However, when it comes to elegance on the dance floor, I am superior!"
+    ]
+  },
+  {
+    "text": "alm",
+    "value": 275,
+    "games": ["FE2", "FE15"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Why not? Alm presents a good case. He has a hero's blood in him. ...And clearly a hero's fire.",
+      "What? Well, of course I do, but... I doubt Alm is eager to see me. I said terrible things to him when we last parted."
+    ]
+  },
+  {
+    "text": "true",
+    "value": 266,
+    "games": ["FE6", "FE16"],
+    "tag": "NN",
+    "pos": "ADJ",
+    "samples": [
+      "Yes. He is the last true knight. I will die for him.",
+      "But now my time has come, and you will see the true might of the beasts!"
+    ]
+  },
+  {
+    "text": "bern",
+    "value": 261,
+    "games": ["FE6"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "They said that they signed a contract with Lord Hector that they would fight Bern alongside Ostia's troops.",
+      "Most likely. And if your identities are discovered, Bern will see it as an excuse to invade Lycia."
+    ]
+  },
+  {
+    "text": "kris",
+    "value": 259,
+    "games": ["FE12"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Kiddo, just stand back and watch! Only Kris is worthy of fighting me!",
+      "...I apologize on his behalf. But it is as Kris says: General Lang, I will no longer follow your orders from here."
+    ]
+  },
+  {
+    "text": "believe",
+    "value": 257,
+    "games": ["FE16"],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "Do you believe that people can be saved from the state they are in?",
+      "Sire, I believe it prudent that we start taking time to prepare our troops before each battle."
+    ]
+  },
+  {
+    "text": "place",
+    "value": 256,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Oh yes, it was quite some time ago that I was informed of both this place and your network of shadowy assistants.",
+      "He quickly found out that Nyna's heart had no place for him."
+    ]
+  },
+  {
+    "text": "brother",
+    "value": 253,
+    "games": ["FE7", "FE8"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "What? You are suggesting that my brother is still alive?",
+      "Yeah, my brother once said the same thing... Even if we are weak individually, we can become stronger by working together with our friends."
+    ]
+  },
+  {
+    "text": "everyone",
+    "value": 251,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "How is everyone in the caravan?",
+      "I can't do it for everyone because it's a bit exhausting for me, but... Hold still and close your eyes."
+    ]
+  },
+  {
+    "text": "claude",
+    "value": 248,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "I highly doubt Claude would refuse to assist us, if we were to ask.",
+      "Claude von Riegan. What an interesting character. Underneath that compassionate exterior, he was always cold and calculating."
+    ]
+  },
+  {
+    "text": "seiros",
+    "value": 259,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "The Knights of Seiros are a powerful enemy, but we have more soldiers.",
+      "We will expose the dark side of the Church of Seiros and the foul practices of the nobles from the Kingdom and the Alliance."
+    ]
+  },
+  {
+    "text": "little",
+    "value": 244,
+    "games": ["FE4", "FE5"],
+    "tag": "JJ",
+    "pos": "ADJ",
+    "samples": [
+      "He was suspicious of me, but came over anyway. He looked like a scared animal. Then his little hand slipped into mine. It was shaking."
+    ]
+  },
+  {
+    "text": "great",
+    "value": 244,
+    "games": ["FE16"],
+    "tag": "JJ",
+    "pos": "ADJ",
+    "samples": [
+      "Yes. After the floods, we built our country to the east of the great desert."
+    ]
+  },
+  {
+    "text": "end",
+    "value": 329,
+    "games": ["FE16"],
+    "tag": "JJ",
+    "pos": "NOUN",
+    "samples": [
+      "But Lady Micaiah is fighting for her people, and I’m gonna stick with her until the very end."
+    ]
+  },
+  {
+    "text": "begnion",
+    "value": 231,
+    "games": ["FE10"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "We're all waiting! We're waiting for the day you free us from those filthy Begnion pigs!"
+    ]
+  },
+  {
+    "text": "robin",
+    "value": 230,
+    "games": ["FE13"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Perhaps Robin would prefer we choose our own actions at times."
+    ]
+  },
+  {
+    "text": "hoshido",
+    "value": 226,
+    "games": ["FE14"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "I would like to discuss our next endeavor. Soon Nohr and Hoshido will be engaged in an all-out war. "
+    ]
+  },
+  {
+    "text": "chrom",
+    "value": 223,
+    "games": ["FE13"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": ["Just Chrom is fine. I've never been much for formalities."]
+  },
+  {
+    "text": "grado",
+    "value": 221,
+    "games": ["FE8"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "I’m all set! Now I just need to get to the capital. I’ll be the finest soldier the Grado army’s ever seen! I swear it!"
+    ]
+  },
+  {
+    "text": "lyon",
+    "value": 216,
+    "games": ["FE8"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "I’ve one thing to ask before I slay you. Where is Lyon now? When I kill you... will Lyon return?"
+    ]
+  },
+  {
+    "text": "leif",
+    "value": 214,
+    "games": ["FE5"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "I hope you’ll assist Prince Leif in granting Thracia its hard-won peace."
+    ]
+  },
+  {
+    "text": "hector",
+    "value": 213,
+    "games": ["FE7"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Hector's reunion with his brother is a happy one, if somewhat embarrassing. Hector continues his journey filled with complex emotions."
+    ]
+  },
+  {
+    "text": "capital",
+    "value": 250,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "The momentary peace that arrived with the Begnion emissary shatters along with Nevassa's walls, and the people of the city see their kin and their capital crushed under a rain of stone."
+    ]
+  },
+  {
+    "text": "wish",
+    "value": 211,
+    "games": ["FE16"],
+    "tag": "VB",
+    "pos": "VERB",
+    "samples": [
+      "I wish to avoid a battle with you, General Camus. Fighting you would serve no purpose."
+    ]
+  },
+  {
+    "text": "archanea",
+    "value": 210,
+    "games": ["FE1", "FE3", "FE12"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "But this is the perfect chance to rid Archanea of its foes! I am willing to take that chance, no matter what might happen to me."
+    ]
+  },
+  {
+    "text": "ago",
+    "value": 235,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "ADV",
+    "samples": [
+      "She set out toward the Ghoul's Teeth some time ago and has yet to return."
+    ]
+  },
+  {
+    "text": "power",
+    "value": 301,
+    "games": ["FE16"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Without his power and influence, I would never have mustered an army--or met my own mother."
+    ]
+  },
+  {
+    "text": "nyna",
+    "value": 206,
+    "games": ["FE1", "FE3", "FE11", "FE12"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Princess Nyna has taken refuge in a fortress, but you will see her soon."
+    ]
+  },
+  {
+    "text": "xander",
+    "value": 197,
+    "games": ["FE14"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "I'm sorry I disobeyed you, Lord Xander. So this is what death feels like..."
+    ]
+  },
+  {
+    "text": "marquess",
+    "value": 193,
+    "games": ["FE7"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Yes, the marquess tells me she's still young but very beautiful."
+    ]
+  },
+  {
+    "text": "renais",
+    "value": 190,
+    "games": ["FE8"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": [
+      "There will be a day when you, Prince Ephraim, and all of Renais rise up... Until that day of glory comes, we will wait unbowed and filled with hope."
+    ]
+  },
+  {
+    "text": "queen",
+    "value": 190,
+    "games": ["FE10"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I'll be! It's Her Majesty, Queen Elincia! Fate has smiled upon us!"
+    ]
+  },
+  {
+    "text": "goddess",
+    "value": 181,
+    "games": ["FE10"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "Nasir, I need to know something. Why has Goldoa sided with Goddess Ashera!?"
+    ]
+  },
+  {
+    "text": "sigurd",
+    "value": 178,
+    "games": ["FE4"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Please, Sir Sigurd... Lend us your might. No matter what it takes, my brother must be saved."
+    ]
+  },
+  {
+    "text": "crimea",
+    "value": 177,
+    "games": ["FE9"],
+    "tag": "NN",
+    "pos": "PLACE",
+    "samples": ["Don't be too rash! If you kill me, Crimea will surely suffer!"]
+  },
+  {
+    "text": "azura",
+    "value": 176,
+    "games": ["FE14"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Lady Azura is with them too! Maybe they are telling the truth..."
+    ]
+  },
+  {
+    "text": "takumi",
+    "value": 175,
+    "games": ["FE14"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "Yeah. We didn't know if you'd ever be the same Takumi we know and love again."
+    ]
+  },
+  {
+    "text": "mark",
+    "value": 173,
+    "games": ["FE7"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "And before my eyes, the mark of the pact faded from the dead king’s arm."
+    ]
+  },
+  {
+    "text": "man",
+    "value": 171,
+    "games": ["FE1", "FE5", "FE15"],
+    "tag": "NN",
+    "pos": "NOUN",
+    "samples": [
+      "I heard a rumor that the prison to the east holds a young man called Xane."
+    ]
+  },
+  {
+    "text": "celica",
+    "value": 163,
+    "games": ["FE2", "FE15"],
+    "tag": "NN",
+    "pos": "CHAR",
+    "samples": [
+      "I don’t believe it! Still, I like where this story is going. Celica and her dark, unspeakable past..."
+    ]
+  }
+]
