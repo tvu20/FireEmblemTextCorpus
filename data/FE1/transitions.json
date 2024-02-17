@@ -1,1 +1,11 @@
-{"M-": 89, "-M": 87, "FM": 49, "MF": 43, "-F": 35, "MM": 25, "F-": 24, "-N": 6, "N-": 4}
+[
+  { "source": "male", "target": "none", "value": 89 },
+  { "source": "none", "target": "male", "value": 87 },
+  { "source": "female", "target": "male", "value": 49 },
+  { "source": "male", "target": "female", "value": 43 },
+  { "source": "none", "target": "female", "value": 35 },
+  { "source": "male", "target": "male", "value": 25 },
+  { "source": "female", "target": "none", "value": 24 },
+  { "source": "none", "target": "neutral", "value": 6 },
+  { "source": "neutral", "target": "none", "value": 4 }
+]
