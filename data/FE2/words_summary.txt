@@ -32,3 +32,13 @@ length,words,unique words
 12,9,7
 13,2,2
 14,1,1
+
+TEXT COMPLEXITY
+Sentences, words per sentence, characters per word, words, characters
+202 5.91 4.19 1193 4999
+46 5.04 4.26 232 989
+118 6.03 4.19 711 2978
+138 6.01 4.13 829 3426
+160 6.41 4.18 1025 4284
+
+664 6.01 4.18 3990 16676

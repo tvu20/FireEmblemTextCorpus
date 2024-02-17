@@ -5,11 +5,11 @@ import string
 
 game_path = os.path.join(os.getcwd(), "data", "other")
 
-output_path = os.path.join(os.getcwd(), "data", "other")
+output_path = os.path.join(os.getcwd(), "data", "other", "textfiles")
 
 # print("Running collect chapters on " + sys.argv[1])
 
-with open(os.path.join(output_path, "war_and_peace.txt"), 'r') as file, open(os.path.join(output_path, "1.txt"), 'w+') as fo:
+with open(os.path.join(output_path, "SuperMarioBros.txt"), 'r') as file, open(os.path.join(output_path, "1.txt"), 'w+') as fo:
     for line in file:
         text = line.strip()
         
