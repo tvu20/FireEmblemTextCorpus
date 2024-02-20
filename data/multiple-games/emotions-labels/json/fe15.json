@@ -1,0 +1,101 @@
+[
+  {
+    "chapter": "00-Prologue",
+    "emotions": {
+      "joy": 8,
+      "sadness": 16,
+      "anger": 36,
+      "neutral": 64,
+      "surprise": 32,
+      "fear": 15
+    }
+  },
+  {
+    "chapter": "01-Zofia'sCall",
+    "emotions": {
+      "joy": 44,
+      "sadness": 42,
+      "anger": 92,
+      "neutral": 234,
+      "surprise": 79,
+      "fear": 22
+    }
+  },
+  {
+    "chapter": "02-ThePilgrimage",
+    "emotions": {
+      "joy": 22,
+      "sadness": 20,
+      "anger": 71,
+      "neutral": 94,
+      "surprise": 32,
+      "fear": 27
+    }
+  },
+  {
+    "chapter": "03-WarOfDeliveranceAlm",
+    "emotions": {
+      "joy": 26,
+      "sadness": 34,
+      "anger": 60,
+      "neutral": 117,
+      "surprise": 49,
+      "fear": 30
+    }
+  },
+  {
+    "chapter": "03-WarOfDeliveranceCelica",
+    "emotions": {
+      "joy": 35,
+      "sadness": 27,
+      "anger": 52,
+      "neutral": 101,
+      "surprise": 35,
+      "fear": 26
+    }
+  },
+  {
+    "chapter": "03-WarOfDeliverancePrologue",
+    "emotions": {
+      "joy": 3,
+      "sadness": 5,
+      "anger": 8,
+      "neutral": 39,
+      "surprise": 10,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "04-LandOfSorrowAlm",
+    "emotions": {
+      "joy": 25,
+      "sadness": 35,
+      "anger": 74,
+      "neutral": 118,
+      "surprise": 58,
+      "fear": 25
+    }
+  },
+  {
+    "chapter": "04-LandOfSorrowCelica",
+    "emotions": {
+      "joy": 19,
+      "sadness": 25,
+      "anger": 35,
+      "neutral": 97,
+      "surprise": 41,
+      "fear": 29
+    }
+  },
+  {
+    "chapter": "05-TogetherToTheEnd",
+    "emotions": {
+      "joy": 23,
+      "sadness": 51,
+      "anger": 86,
+      "neutral": 103,
+      "surprise": 44,
+      "fear": 19
+    }
+  }
+]

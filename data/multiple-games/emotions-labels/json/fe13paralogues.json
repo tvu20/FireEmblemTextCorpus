@@ -1,0 +1,189 @@
+[
+  {
+    "chapter": "P01-SickleToSword",
+    "emotions": {
+      "joy": 11,
+      "sadness": 9,
+      "anger": 16,
+      "neutral": 19,
+      "surprise": 3,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "P02-TheSecretSeller",
+    "emotions": {
+      "joy": 4,
+      "sadness": 3,
+      "anger": 4,
+      "neutral": 20,
+      "surprise": 5,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P03-AStrangledPeace",
+    "emotions": {
+      "joy": 2,
+      "sadness": 0,
+      "anger": 2,
+      "neutral": 11,
+      "surprise": 1,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P04-AnnaTheMerchant",
+    "emotions": {
+      "joy": 3,
+      "sadness": 5,
+      "anger": 4,
+      "neutral": 11,
+      "surprise": 3,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P05-ScionOfLegend",
+    "emotions": {
+      "joy": 12,
+      "sadness": 10,
+      "anger": 21,
+      "neutral": 26,
+      "surprise": 17,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P06-AManForFlowers",
+    "emotions": {
+      "joy": 9,
+      "sadness": 6,
+      "anger": 18,
+      "neutral": 35,
+      "surprise": 21,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P07-NobleLineage",
+    "emotions": {
+      "joy": 6,
+      "sadness": 6,
+      "anger": 22,
+      "neutral": 30,
+      "surprise": 12,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P08-ADuelDisgraced",
+    "emotions": {
+      "joy": 8,
+      "sadness": 4,
+      "anger": 22,
+      "neutral": 28,
+      "surprise": 14,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P09-WingsOfJustice",
+    "emotions": {
+      "joy": 10,
+      "sadness": 10,
+      "anger": 17,
+      "neutral": 43,
+      "surprise": 26,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P10-Ambivalence",
+    "emotions": {
+      "joy": 9,
+      "sadness": 10,
+      "anger": 19,
+      "neutral": 30,
+      "surprise": 20,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "P11-TwinWyverns",
+    "emotions": {
+      "joy": 8,
+      "sadness": 4,
+      "anger": 14,
+      "neutral": 24,
+      "surprise": 15,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "P12-DisownedByTime",
+    "emotions": {
+      "joy": 8,
+      "sadness": 12,
+      "anger": 7,
+      "neutral": 35,
+      "surprise": 25,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P13-RivalBands",
+    "emotions": {
+      "joy": 3,
+      "sadness": 1,
+      "anger": 16,
+      "neutral": 25,
+      "surprise": 11,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P14-ShadowInTheSands",
+    "emotions": {
+      "joy": 5,
+      "sadness": 2,
+      "anger": 2,
+      "neutral": 37,
+      "surprise": 5,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P15-AShotFromTheDark",
+    "emotions": {
+      "joy": 7,
+      "sadness": 4,
+      "anger": 10,
+      "neutral": 9,
+      "surprise": 3,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P16-DaughterToDragons",
+    "emotions": {
+      "joy": 5,
+      "sadness": 10,
+      "anger": 2,
+      "neutral": 19,
+      "surprise": 8,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "P17-TheThreatOfSilence",
+    "emotions": {
+      "joy": 2,
+      "sadness": 3,
+      "anger": 0,
+      "neutral": 13,
+      "surprise": 5,
+      "fear": 1
+    }
+  }
+]

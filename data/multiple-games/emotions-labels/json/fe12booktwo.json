@@ -1,0 +1,420 @@
+[
+  {
+    "chapter": "00-Prologue1",
+    "emotions": {
+      "joy": 13,
+      "sadness": 0,
+      "anger": 7,
+      "neutral": 17,
+      "surprise": 5,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "00-Prologue2",
+    "emotions": {
+      "joy": 10,
+      "sadness": 4,
+      "anger": 10,
+      "neutral": 28,
+      "surprise": 8,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "00-Prologue3",
+    "emotions": {
+      "joy": 6,
+      "sadness": 1,
+      "anger": 3,
+      "neutral": 25,
+      "surprise": 0,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "00-Prologue4",
+    "emotions": {
+      "joy": 19,
+      "sadness": 7,
+      "anger": 2,
+      "neutral": 27,
+      "surprise": 4,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "00-Prologue5",
+    "emotions": {
+      "joy": 7,
+      "sadness": 8,
+      "anger": 6,
+      "neutral": 25,
+      "surprise": 5,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "00-Prologue6",
+    "emotions": {
+      "joy": 11,
+      "sadness": 3,
+      "anger": 5,
+      "neutral": 40,
+      "surprise": 8,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "00-Prologue7",
+    "emotions": {
+      "joy": 11,
+      "sadness": 5,
+      "anger": 5,
+      "neutral": 27,
+      "surprise": 3,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "01-TheGrustianExpedition",
+    "emotions": {
+      "joy": 5,
+      "sadness": 18,
+      "anger": 18,
+      "neutral": 21,
+      "surprise": 8,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "02-RebellionAtMacedon",
+    "emotions": {
+      "joy": 8,
+      "sadness": 8,
+      "anger": 5,
+      "neutral": 17,
+      "surprise": 6,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "03-TheAbductedPrincess",
+    "emotions": {
+      "joy": 7,
+      "sadness": 11,
+      "anger": 20,
+      "neutral": 27,
+      "surprise": 9,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "03x-ShadowsBehindTheScenes",
+    "emotions": {
+      "joy": 2,
+      "sadness": 2,
+      "anger": 7,
+      "neutral": 22,
+      "surprise": 2,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "04-JoyAndSorrow",
+    "emotions": {
+      "joy": 7,
+      "sadness": 11,
+      "anger": 12,
+      "neutral": 20,
+      "surprise": 6,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "05-LiberationOfGrust",
+    "emotions": {
+      "joy": 8,
+      "sadness": 5,
+      "anger": 18,
+      "neutral": 15,
+      "surprise": 3,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "06-TheNestOfVice",
+    "emotions": {
+      "joy": 11,
+      "sadness": 8,
+      "anger": 13,
+      "neutral": 25,
+      "surprise": 7,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "06x-MercenarySquad",
+    "emotions": {
+      "joy": 7,
+      "sadness": 8,
+      "anger": 10,
+      "neutral": 35,
+      "surprise": 4,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "07-TheScarletSwordsman",
+    "emotions": {
+      "joy": 4,
+      "sadness": 4,
+      "anger": 6,
+      "neutral": 35,
+      "surprise": 7,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "08-SoulfulBridge",
+    "emotions": {
+      "joy": 15,
+      "sadness": 6,
+      "anger": 12,
+      "neutral": 29,
+      "surprise": 14,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "09-SanctuaryOfSorcery",
+    "emotions": {
+      "joy": 7,
+      "sadness": 5,
+      "anger": 7,
+      "neutral": 27,
+      "surprise": 4,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "10-TwoSorcerors",
+    "emotions": {
+      "joy": 11,
+      "sadness": 8,
+      "anger": 10,
+      "neutral": 28,
+      "surprise": 6,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "10x-TheMaskLaughs",
+    "emotions": {
+      "joy": 5,
+      "sadness": 3,
+      "anger": 9,
+      "neutral": 23,
+      "surprise": 6,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "11-Anri'sWay",
+    "emotions": {
+      "joy": 10,
+      "sadness": 4,
+      "anger": 0,
+      "neutral": 20,
+      "surprise": 15,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "12-GraveyardOfFireDragons",
+    "emotions": {
+      "joy": 1,
+      "sadness": 9,
+      "anger": 5,
+      "neutral": 20,
+      "surprise": 5,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "13-FrozenLand",
+    "emotions": {
+      "joy": 4,
+      "sadness": 2,
+      "anger": 3,
+      "neutral": 22,
+      "surprise": 9,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "13x-WithinTheWhiteDarkness",
+    "emotions": {
+      "joy": 2,
+      "sadness": 9,
+      "anger": 6,
+      "neutral": 18,
+      "surprise": 3,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "14-AMysteryRevealed",
+    "emotions": {
+      "joy": 7,
+      "sadness": 6,
+      "anger": 3,
+      "neutral": 24,
+      "surprise": 14,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "15-ReturnOfThePrince",
+    "emotions": {
+      "joy": 7,
+      "sadness": 12,
+      "anger": 6,
+      "neutral": 28,
+      "surprise": 6,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "16-ReclaimingTheCapital",
+    "emotions": {
+      "joy": 2,
+      "sadness": 2,
+      "anger": 14,
+      "neutral": 32,
+      "surprise": 5,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "16x-Reunion",
+    "emotions": {
+      "joy": 7,
+      "sadness": 13,
+      "anger": 7,
+      "neutral": 18,
+      "surprise": 2,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "17-Gra'sSunSets",
+    "emotions": {
+      "joy": 2,
+      "sadness": 14,
+      "anger": 11,
+      "neutral": 13,
+      "surprise": 6,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "18-BattleOfThePass",
+    "emotions": {
+      "joy": 5,
+      "sadness": 10,
+      "anger": 12,
+      "neutral": 14,
+      "surprise": 5,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "19-TheFinalBattle",
+    "emotions": {
+      "joy": 2,
+      "sadness": 17,
+      "anger": 14,
+      "neutral": 13,
+      "surprise": 7,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "20-DarkEmperor",
+    "emotions": {
+      "joy": 12,
+      "sadness": 9,
+      "anger": 15,
+      "neutral": 16,
+      "surprise": 3,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "20x-DepthOfTheAbyss",
+    "emotions": {
+      "joy": 1,
+      "sadness": 8,
+      "anger": 7,
+      "neutral": 10,
+      "surprise": 2,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "21-TheWyvern'sDale",
+    "emotions": {
+      "joy": 4,
+      "sadness": 13,
+      "anger": 5,
+      "neutral": 22,
+      "surprise": 14,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "22-TheDragon'sAltar",
+    "emotions": {
+      "joy": 3,
+      "sadness": 1,
+      "anger": 1,
+      "neutral": 10,
+      "surprise": 1,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "23-TheDarkPontifexLives",
+    "emotions": {
+      "joy": 3,
+      "sadness": 1,
+      "anger": 8,
+      "neutral": 1,
+      "surprise": 0,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "24-LightAndShadow",
+    "emotions": {
+      "joy": 6,
+      "sadness": 23,
+      "anger": 17,
+      "neutral": 22,
+      "surprise": 8,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "XX-Epilogue",
+    "emotions": {
+      "joy": 55,
+      "sadness": 26,
+      "anger": 10,
+      "neutral": 68,
+      "surprise": 8,
+      "fear": 5
+    }
+  }
+]

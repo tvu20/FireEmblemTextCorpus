@@ -1,0 +1,79 @@
+[
+  {
+    "chapter": "12-OutsetOfAPowerStruggle",
+    "emotions": {
+      "joy": 8,
+      "sadness": 15,
+      "anger": 30,
+      "neutral": 70,
+      "surprise": 5,
+      "fear": 14
+    }
+  },
+  {
+    "chapter": "13-BeyondEscape",
+    "emotions": {
+      "joy": 23,
+      "sadness": 20,
+      "anger": 33,
+      "neutral": 104,
+      "surprise": 19,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "14-TheMasterTactician",
+    "emotions": {
+      "joy": 16,
+      "sadness": 28,
+      "anger": 35,
+      "neutral": 119,
+      "surprise": 15,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "15-TempestOfSwordsAndShields",
+    "emotions": {
+      "joy": 15,
+      "sadness": 25,
+      "anger": 38,
+      "neutral": 109,
+      "surprise": 18,
+      "fear": 16
+    }
+  },
+  {
+    "chapter": "16-LadyOfDeceit",
+    "emotions": {
+      "joy": 14,
+      "sadness": 17,
+      "anger": 44,
+      "neutral": 75,
+      "surprise": 30,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "17-FieldOfRevenge",
+    "emotions": {
+      "joy": 19,
+      "sadness": 37,
+      "anger": 67,
+      "neutral": 134,
+      "surprise": 16,
+      "fear": 15
+    }
+  },
+  {
+    "chapter": "18-ToTheEndOfADream",
+    "emotions": {
+      "joy": 5,
+      "sadness": 6,
+      "anger": 35,
+      "neutral": 44,
+      "surprise": 4,
+      "fear": 8
+    }
+  }
+]

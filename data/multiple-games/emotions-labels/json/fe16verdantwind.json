@@ -1,0 +1,112 @@
+[
+  {
+    "chapter": "13-ReunionAtDawn",
+    "emotions": {
+      "joy": 13,
+      "sadness": 5,
+      "anger": 18,
+      "neutral": 61,
+      "surprise": 17,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "14-TheAllianceLeader'sAmbitions",
+    "emotions": {
+      "joy": 28,
+      "sadness": 12,
+      "anger": 24,
+      "neutral": 85,
+      "surprise": 9,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "15-ValleyOfTorment",
+    "emotions": {
+      "joy": 14,
+      "sadness": 13,
+      "anger": 27,
+      "neutral": 106,
+      "surprise": 16,
+      "fear": 13
+    }
+  },
+  {
+    "chapter": "16-TheRoseColoredRiver",
+    "emotions": {
+      "joy": 11,
+      "sadness": 5,
+      "anger": 17,
+      "neutral": 111,
+      "surprise": 9,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "17-BloodOfTheEagleAndLion",
+    "emotions": {
+      "joy": 12,
+      "sadness": 16,
+      "anger": 31,
+      "neutral": 115,
+      "surprise": 16,
+      "fear": 20
+    }
+  },
+  {
+    "chapter": "18-TheGoldenScheme",
+    "emotions": {
+      "joy": 9,
+      "sadness": 14,
+      "anger": 45,
+      "neutral": 130,
+      "surprise": 30,
+      "fear": 14
+    }
+  },
+  {
+    "chapter": "19-TheChaosOfWar",
+    "emotions": {
+      "joy": 11,
+      "sadness": 8,
+      "anger": 22,
+      "neutral": 114,
+      "surprise": 14,
+      "fear": 20
+    }
+  },
+  {
+    "chapter": "20-ConclusionOfTheCrossingRoads",
+    "emotions": {
+      "joy": 3,
+      "sadness": 7,
+      "anger": 38,
+      "neutral": 60,
+      "surprise": 10,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "21-TheCityWithoutLight",
+    "emotions": {
+      "joy": 12,
+      "sadness": 10,
+      "anger": 31,
+      "neutral": 63,
+      "surprise": 15,
+      "fear": 13
+    }
+  },
+  {
+    "chapter": "22-Fodlan'sNewDream",
+    "emotions": {
+      "joy": 14,
+      "sadness": 16,
+      "anger": 66,
+      "neutral": 85,
+      "surprise": 15,
+      "fear": 23
+    }
+  }
+]

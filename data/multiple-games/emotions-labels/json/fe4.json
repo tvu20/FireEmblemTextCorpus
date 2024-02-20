@@ -1,0 +1,145 @@
+[
+  {
+    "chapter": "00-PrologueBirthOfACrusader",
+    "emotions": {
+      "joy": 17,
+      "sadness": 14,
+      "anger": 31,
+      "neutral": 55,
+      "surprise": 15,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "01-TheSpiritForestsMaiden",
+    "emotions": {
+      "joy": 23,
+      "sadness": 29,
+      "anger": 54,
+      "neutral": 74,
+      "surprise": 36,
+      "fear": 15
+    }
+  },
+  {
+    "chapter": "02-CrisisInAgustria",
+    "emotions": {
+      "joy": 31,
+      "sadness": 32,
+      "anger": 75,
+      "neutral": 88,
+      "surprise": 26,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "03-EldiganTheLionheart",
+    "emotions": {
+      "joy": 20,
+      "sadness": 26,
+      "anger": 66,
+      "neutral": 81,
+      "surprise": 33,
+      "fear": 14
+    }
+  },
+  {
+    "chapter": "04-DanceInTheSkies",
+    "emotions": {
+      "joy": 39,
+      "sadness": 35,
+      "anger": 45,
+      "neutral": 114,
+      "surprise": 30,
+      "fear": 14
+    }
+  },
+  {
+    "chapter": "05-ThresholdOfFate",
+    "emotions": {
+      "joy": 38,
+      "sadness": 64,
+      "anger": 101,
+      "neutral": 141,
+      "surprise": 39,
+      "fear": 30
+    }
+  },
+  {
+    "chapter": "06-HeirsOfLight",
+    "emotions": {
+      "joy": 48,
+      "sadness": 30,
+      "anger": 61,
+      "neutral": 107,
+      "surprise": 28,
+      "fear": 13
+    }
+  },
+  {
+    "chapter": "07-BeyondTheDesert",
+    "emotions": {
+      "joy": 40,
+      "sadness": 46,
+      "anger": 76,
+      "neutral": 91,
+      "surprise": 46,
+      "fear": 14
+    }
+  },
+  {
+    "chapter": "08-TheDracoknightsOfThracia",
+    "emotions": {
+      "joy": 31,
+      "sadness": 27,
+      "anger": 67,
+      "neutral": 85,
+      "surprise": 37,
+      "fear": 19
+    }
+  },
+  {
+    "chapter": "09-ForWhoseSake",
+    "emotions": {
+      "joy": 33,
+      "sadness": 42,
+      "anger": 78,
+      "neutral": 120,
+      "surprise": 33,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "10-LightAndDarkness",
+    "emotions": {
+      "joy": 29,
+      "sadness": 46,
+      "anger": 66,
+      "neutral": 114,
+      "surprise": 34,
+      "fear": 19
+    }
+  },
+  {
+    "chapter": "11-EndgameTheFinalHolyWar",
+    "emotions": {
+      "joy": 46,
+      "sadness": 47,
+      "anger": 85,
+      "neutral": 145,
+      "surprise": 36,
+      "fear": 18
+    }
+  },
+  {
+    "chapter": "XX-Epilogue",
+    "emotions": {
+      "joy": 101,
+      "sadness": 60,
+      "anger": 43,
+      "neutral": 309,
+      "surprise": 68,
+      "fear": 18
+    }
+  }
+]

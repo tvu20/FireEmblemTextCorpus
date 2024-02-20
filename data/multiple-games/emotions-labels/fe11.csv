@@ -1,0 +1,764 @@
+game,chapter,speaker,text,tag
+FE11,16-TheBattleForAltea,Nyna,"You've done it, Marth. We're here. That's Altea beneath our feet- your home.",joy
+FE11,16-TheBattleForAltea,Marth,"Countless days have passed since Dolhr took my kingdom from me- days I would never have lived had it not been for my sister Elice's sacrifice, and the sacrifices of so many others...",sadness
+FE11,16-TheBattleForAltea,Nyna,"What became of your sister? And the rest of your family, what of them as well?",surprise
+FE11,16-TheBattleForAltea,Marth,"My father, as you know, died in Gra. I last saw my mother and sister the day the castle fell. I do not know if they still live...but I hope that they do. And if the enemy has them, I will rescue them. You can be sure of that.",sadness
+FE11,16-TheBattleForAltea,Malledus,"Sire, our preparations are complete. We are ready to march.",neutral
+FE11,16-TheBattleForAltea,Marth,Thank you.,joy
+FE11,16-TheBattleForAltea,Marth,"Alteans and friends of the League! Join me now! Help me set Altea free, and ensure today is the last battle my people must endure!",anger
+FE11,16-TheBattleForAltea,Old Man,"Listen well, because this is very important. There are two villages in the northwest of Altea. The easterly village is home to a paladin named Arran while the westerly village is home to a hero named Samson. They're both fine men and warriors, but their villages have been feudin' for years. You should probably resign yourself to the fact that you'll only get one of them to join your ranks. Give it some thought: the hero to the west, or the paladin to the east?",neutral
+FE11,16-TheBattleForAltea,Young Girl,"A VIP card will gain you entrance to secret shops. Where are the shops? Well, that’s the secret!",neutral
+FE11,16-TheBattleForAltea,Young Man,A lad named Xane has been locked up in the eastern jail. They say he’s got some sort of amazing power. Wonder what it is.,neutral
+FE11,16-TheBattleForAltea,Middle-Aged Man,"Three orbs are enshrined at the Fane of Raman, each brimming with power. What sort of power, none can say. Well, except those who have wielded it, right?",neutral
+FE11,16-TheBattleForAltea,Old Woman,The Altean army! Welcome home. It’s good to see you. These years been nowt but dark days; it’s about time we had something bright to look forward to.,joy
+FE11,16-TheBattleForAltea,Middle-Aged Man,"Take care when usin' a devil sword. It’s a powerful blade, to be sure- but it might just claim your life instead of your foe’s.",neutral
+FE11,16-TheBattleForAltea,Young Man,"Princess Elice was prepared to die that day the castle fell. But she didn't, they say. Instead of killin' her, the Dark Pontifex Gharnef spirited her off somewhere! Oh, our poor princess... I hope she's safe.",fear
+FE11,16-TheBattleForAltea,Samson,"My name is Samson. Once, I was a swordfighter of some renown...but that was then, and this is now. I'm happy enough with my life here in the village, but if you need another man, I will fight. Unfortunately, there has always been bad blood between our village and the next one over. They'll have closed the gates to you the moment they saw you come here. Guess that means the paladin Arran won't be fightin' with you. Them's the breaks.",joy
+FE11,16-TheBattleForAltea,Arran,"Sire, my name is Arran. Once I was a captain to many knights... but, things change, and I came to live here in this village. If you need warriors for the coming struggle, I would be honored to fight. Unfortunately, there has always been bad blood between this village and our neighbors. No doubt they closed their gates to you as soon as they saw you come here. You won't be able to recruit the hero Samson now, I'm afraid.",joy
+FE11,16-TheBattleForAltea,Xane,"Hey there, princey. Thanks for settin' me free! The name's Xane. I hail from a land few have heard of an even fewer have seen. I won't trouble you with the details. Me and my folk have the power to transform into other people. We can shape-shift, you see. When Doluna caught on, they started threatenin' me. Told me to join their army or ""face my doom."" Hah! Well, I wasn't about to waste my considerable talent on those evil coots! You, on the other hand...You've got character. Say, why don't we team up? I do owe you for savin' my hide. And I think you'll find my talents are...quite considerable.",joy
+FE11,16-TheBattleForAltea,Hollstadt,"Well done, rabble. Anyone else would be dead by now. A shame you must end your campaign right here, before your own gates!",anger
+FE11,16-TheBattleForAltea,Hollstadt,Rrgh! General Camus... The rest... is in your... hands...,anger
+FE11,16-TheBattleForAltea,Malledus,"Well done, sire! The enemy has ceased their resistance. Victory is ours!",joy
+FE11,16-TheBattleForAltea,Nyna,"Bravo, Marth. On behalf of House Archanea, I wish to extend my heartfelt congratulations.",joy
+FE11,16-TheBattleForAltea,Marth,"Thank you, Nyna. But it's still too soon to celebrate. We haven't freed the castle yet.",joy
+FE11,16-TheBattleForAltea,Malledus,"Sire, your soldiers have assembled for the castle raid. Perhaps you could say a few words first...",neutral
+FE11,16-TheBattleForAltea,Marth,"Altean warriors... Brave comrades. The road has been long, but at last we have driven Dolhr from my homeland. There are not words to express my gratitude to you all. You gave Altea back to me. Thank you... Thank you. ...An army of foes still haunt my castle. I mean to kick them out. Ready, my friends? Let's send these varlets scurrying!",joy
+FE11,02-ThePiratesOfGalder,Ogma,"Prince Marth, I am Ogma, a mercenary of Talys. The king has bid me and my three men join your army. Cavalry has arrived from the west, flying Grust’s standard. They mean to take your life, sire. Be careful.",neutral
+FE11,02-ThePiratesOfGalder,Young Man,A pirate callin’ himself Darros wants to talk to your prince. Says he’s washed his hands of pillagin’ and plunderin’ and wants to fight for the good of all. Hah! Right… And I’m a farmer who’s been sworn off rain…,anger
+FE11,02-ThePiratesOfGalder,Young Man,Curates gain experience whenever they use their staves.,neutral
+FE11,02-ThePiratesOfGalder,Middle-Aged Man,"Hammers smash right through heavy armor. You should pick one up, when you get the chance.",neutral
+FE11,02-ThePiratesOfGalder,Old Man,"Oh! Mighty prince of Altea! Please, will you save Sister Lena? She’s gone up into the Ghoul’s Teeth to tend to the sick there. We warned her, I swear we did… Lena is our angel. If something befell her, I- No, I won’t think of it. Take this gold: we’ve 5000 pieces. Just promise you’ll use it to bring her home to us unharmed.",fear
+FE11,02-ThePiratesOfGalder,Darros,"Ahoy, Prince Marth, I be Darros, a simple man o’ the sea. I’ve had me fill o’ the piratin’ life, and now I be lookin’ t’start anew. What say ye? Make me yer matey, and I swear t’pull me load.",anger
+FE11,02-ThePiratesOfGalder,Caeda,"Castor?! It is you, isn’t it? Must even good men like you betray Talys now?",anger
+FE11,02-ThePiratesOfGalder,Castor,"Princess Caeda? Oh…I’m sorry, but me mother’s sick, and the medicine don’t buy itself, see…",sadness
+FE11,02-ThePiratesOfGalder,Caeda,"So you agreed to fight for the pirates in exchange for coin…All right then. If it’s gold you need, take mine. Here, this is all I have. Take it, and go to your mother’s side.",neutral
+FE11,02-ThePiratesOfGalder,Castor,"But Princess…I betrayed you! …Ach, I’ve been a fool! Forgive me, Princess. Let me fight for you now. Me life is yours.",anger
+FE11,02-ThePiratesOfGalder,Caeda,Ogma!,joy
+FE11,02-ThePiratesOfGalder,Ogma,Princess...,neutral
+FE11,02-ThePiratesOfGalder,Caeda,I never got to thank you for coming along with us. There's no swordsman I trust more. I've seen your strength.,joy
+FE11,02-ThePiratesOfGalder,Ogma,"You don't need to thank me, Princess. I'm just doing my job. Speaking of which, your father would flay me if you came to any harm. Do me a favor, and leave the dangerous fighting to me and my men.",sadness
+FE11,02-ThePiratesOfGalder,Caeda,"I don't need protecting, Ogma. ...I've got another job for you. Protect Marth for me.",neutral
+FE11,02-ThePiratesOfGalder,Ogma,"But, Princess...",neutral
+FE11,02-ThePiratesOfGalder,Caeda,"He's very important to me. And the world... But mostly to me. So do as I ask, Ogma. Keep him safe. That's my first and last request.",neutral
+FE11,02-ThePiratesOfGalder,Ogma,Very well. How could I say no to you?,surprise
+FE11,02-ThePiratesOfGalder,Caeda,"Thank you, Ogma. I knew you'd understand. All right, I have to go. But I hope we get to talk like this more. You're a good listener.",joy
+FE11,02-ThePiratesOfGalder,Ogma,...Princess,joy
+FE11,02-ThePiratesOfGalder,Caeda,Yes?,neutral
+FE11,02-ThePiratesOfGalder,Ogma,"You keep yourself safe, too. Marth would grieve if anything befell you.",joy
+FE11,02-ThePiratesOfGalder,Caeda,"Fair enough. Thank you, Ogma. You're very kind.",joy
+FE11,02-ThePiratesOfGalder,Castor,"Prince Marth, I am Castor of Talys. I wish to add my bow to your strength.",neutral
+FE11,02-ThePiratesOfGalder,Marth,Of course. Caeda told me about you.,neutral
+FE11,02-ThePiratesOfGalder,Castor,"You know, she’s always been very kind to me, sire, even before I left Talys. And look how I’ve repaid her…",neutral
+FE11,02-ThePiratesOfGalder,Marth,"Castor, you can still show her your heart is true. Let the battles to come be what defines you!",anger
+FE11,02-ThePiratesOfGalder,Gomer,"The gall of ye, defyin' me crew! I'll put an axe square between yer eyes! Ye ain't leaving here alive. I swear it on the rickety peg leg o'Shanty Pete!",anger
+FE11,02-ThePiratesOfGalder,Gomer,"Augh... Fiends, ye be...",anger
+FE11,02-ThePiratesOfGalder,Villager,"You have our gratitude, sire, for finally chasin’ those pirates away. Now, as I hear it, you plan to march on to Aurelis…That’ll take you right up through the Ghoul’s Teeth. With all due respect, sire, you’re taking a great risk crossin’ those mountains that’s Soothsire territory. The Soothsires are fearsome bandits, always raidin’ the villages and harryin’ what travelers dare pass by. And the swordsman with ’em- goes by the name o’ Navarre- he’s a terror with a blade, so they say. If you go up there, keep your wits about you- or you won’t come back down.",joy
+FE11,01-MarthEmbarks,Jagen,Sire! You've a visitor from the castle. It's Princess Caeda!,neutral
+FE11,01-MarthEmbarks,Marth,"Caeda, what is it? You look white as a sheet!",surprise
+FE11,01-MarthEmbarks,Caeda,"Marth, come quickly! It’s the castle... Galdr's pirates attacked from out of nowhere... They stormed the gates and cut down everyone in their path! I fear for my father's life...",fear
+FE11,01-MarthEmbarks,Marth,"Steady, Caeda. You did well to come find us. Altea's bravest knights aren't about to hand Talys to that flock of seafowl. Come, we'll make for the castle now!",fear
+FE11,01-MarthEmbarks,Old Man,"Villages will keep their gates open for Prince Marth, but he must be quick – if a thief reaches a village before the prince does, there may not be any more village left to visit.",neutral
+FE11,01-MarthEmbarks,Young Man,I hear you need a high weapon level to wield the strongest weapons. Another thing: Keep your fliers away from those enemy archers!,neutral
+FE11,01-MarthEmbarks,Young Man,"A knight belongs on the front lines, if you ask me. That thick armor can take a lot of abuse, so they should be up front protecting the other units.",neutral
+FE11,01-MarthEmbarks,Teenage Boy,"Galder? That's the harbor town west of Talys out beyond the water. These days, a pirate by the name of Gomer calls the shots there. The whole town's at the mercy of his crew.",neutral
+FE11,01-MarthEmbarks,Old Woman,A man of the staff by the name of Wrys lives in the village south of the castle. He was hopin' to meet your prince.,neutral
+FE11,01-MarthEmbarks,Old Man,"Prince Marth! 'Tis good you stopped by. The villagers have collected 10,000 gold pieces. If it please you, use the money to arm your warriors, and rid our land of those pirates.",joy
+FE11,01-MarthEmbarks,Wrys,"I am Wrys, a humble curate. I cannot fight, but this staff I carry can heal your wounded. Take me with you, and you'll be very glad you did.",joy
+FE11,01-MarthEmbarks,Gazzak,"The might of Altea, ye say, now? Har! Ye sprogs look t’be a mite short o’mighty t’me.",anger
+FE11,01-MarthEmbarks,Gazzak,"Rrgh... Ye'll pay, dog...",anger
+FE11,01-MarthEmbarks,Talys King,"Ah, Prince Marth! You have saved us in our hour of need. Please accept my thanks. Lad, I believe you are ready. If you wish to seek out allies in Aurelis, I will give you what soldiers I can to see you arrive there safely. Captain Ogma is a fine swordsman, brave and true. I know he and his fighters will serve you well. Another thing...During your travels, you are certain to meet many who despise Dolhr. Some may be hiding in villages; other may have been captured or forced to fight against their will or better judgment. It falls upon you to find these individuals and win them over your cause. Understood, lad? Then go! The time has come! Be patient, steady, strong: I know you will do great things.",anger
+FE11,20x-LairOfFire,Larissa,Have the villagers given up struggling yet?,neutral
+FE11,20x-LairOfFire,Enemy Soldier,"With that ogre on the loose? Hardly, sir. All of our soldiers together still can’t contain him. The other villagers have fled into the caverns, out of reach.",fear
+FE11,20x-LairOfFire,Larissa,"What? Grr, enough of this! The League will be here soon. Take your positions! We’ll deal with them first and cut that giant down to size later.",anger
+FE11,20x-LairOfFire,Old Woman,"Ymir, you’re hurt!",anger
+FE11,20x-LairOfFire,Ymir,Am I? I hardly feel it.,neutral
+FE11,20x-LairOfFire,Old Man,Why would you try to take on an entire army just for our sake?,neutral
+FE11,20x-LairOfFire,Ymir,Because you treat me like a human being. Do I need another reason?,neutral
+FE11,20x-LairOfFire,Old Woman,Ymir... thank you.,joy
+FE11,20x-LairOfFire,Ymir,"I’ll be standing guard outside the cavern. Nobody will hurt you, I swear it.",anger
+FE11,20x-LairOfFire,Marth,Who are you? You don’t seem to be one of Grust’s soldiers.,surprise
+FE11,20x-LairOfFire,Ymir,"You just keep your distance. I’m not letting anyone near the villagers in here, and that includes you!",neutral
+FE11,20x-LairOfFire,Marth,"You wrong me, sir. I’m here to rout the last of Grust’s army. To save you.",neutral
+FE11,20x-LairOfFire,Ymir,"Yeah? Well, they said the same thing when they led us down here. And look where that got us. I’m not fallin’ for the same lies twice!",anger
+FE11,20x-LairOfFire,Marth,"I speak the truth. But, if my word is not good enough, so be it. Stand aside and watch us fight. Let the battle prove I mean what I say. Agreed? Either way, you are in danger here. Take the villagers and hide until this is over.",neutral
+FE11,20x-LairOfFire,Ymir,"...So I’m supposed to just sit here, when I could be fightin’?",neutral
+FE11,20x-LairOfFire,Marth,Just give me a chance to prove I’m here to protect you.,neutral
+FE11,20x-LairOfFire,Ymir,"...Fine. I’ll stay out of it. For now. But if I find you’re lyin’ to me, I’ll split you right down the middle!",anger
+FE11,20x-LairOfFire,Ymir,The villagers are countin’ on me. I won’t let you through!,anger
+FE11,20x-LairOfFire,Ymir,Rrgh... I’m sorry... I tried...,sadness
+FE11,20x-LairOfFire,Larissa,We’ll never surrender to you Akaneian rabble! Long live Grust!,anger
+FE11,20x-LairOfFire,Larissa,Rebel... scum...,anger
+FE11,20x-LairOfFire,Old Man,"Prince Marth, thank you. Those soldiers told us they’d protect us when they led us down here... but they were just using us as leverage, hostages to keep you at bay! If you hadn’t shown up, they might have just killed us outright in the end...",joy
+FE11,20x-LairOfFire,Ymir,"Prince Marth, sorry I doubted you.",sadness
+FE11,20x-LairOfFire,Marth,"Well, at least we’ve cleared up the misunderstanding.",neutral
+FE11,20x-LairOfFire,Ymir,"Since you came to the villagers’ rescue, how ’bout I help you out as a way of sayin’ thanks?",joy
+FE11,20x-LairOfFire,Marth,You mean... join our army?,surprise
+FE11,20x-LairOfFire,Ymir,"I’m strongest in the land! Well, second strongest, at least. I can hold my own in battle. But if you don’t want a monster in your ranks, I understand...",anger
+FE11,20x-LairOfFire,Marth,"Monster? You’re a giant among men, to be sure, but a hero as well! Any warrior who can fend of an entire army is welcome among us!",anger
+FE11,20x-LairOfFire,Ymir,"Then count me in! Let’s see how many more armies break themselves against me, eh!",anger
+FE11,04-BattleInTheLea,Malledus,"Aurelis, at last…The enemy will have sent their forces to meet us.",neutral
+FE11,04-BattleInTheLea,Marth,"Grust, Dolhr, Gra..We’re up against their standing armies, and we must brace ourselves for it.",anger
+FE11,04-BattleInTheLea,Malledus,"Sire, I believe it prudent that we start taking time to prepare our troops before each battle. We should select the warriors best suited for the situation and outfit them with the right weapons and items accordingly.",neutral
+FE11,04-BattleInTheLea,Marth,"All right, that’s sound advice- I believe I’ll take it.",neutral
+FE11,04-BattleInTheLea,Bentheon,"An unknown army to the south? That must be the Altean princeling and his band of lickspittles. If they think we’ll sit by and let them join forces with the Aurelians, then they have another think coming. With this ridersbane, I’ll litter the lea with their cavalry!",anger
+FE11,04-BattleInTheLea,Young Man,"Weapons can be crafted of iron, steel, or silver, each metal more powerful than the last. You’’l need to raise your weapon level accordingly, though, before you can use them.",neutral
+FE11,04-BattleInTheLea,Middle-Aged Man,"When facing armored knights or generals, you’ll want to arm yourself with a sword they call an armorslayer. Then there’s the ridersbane, which makes short work of cavaliers and paladins- but only knights and cavalry can wield it. The rapier is effective against armored units AND cavalry. But you need to be a prince to wield that one! Also, keep in mind that weapons wear down with use and eventually break.",neutral
+FE11,04-BattleInTheLea,Young Man,"General Bentheon who guards the castle was carrying a ridersbane last I saw. Keep your cavaliers away, or that weapon could spell the end of ‘em.",neutral
+FE11,04-BattleInTheLea,Old Man,"Did you know you can use keys to unlock doors and lower bridges? …You did? Ahem! Right, of course you did.",neutral
+FE11,04-BattleInTheLea,Middle-Aged Man,"There’s no terror like the dracoknight. One false move when they’re flyin’ about, and you can kiss your life goodbye.",anger
+FE11,04-BattleInTheLea,Old Woman,"Kind Altean, this kingdom is in dire need of a savior. We’ve saved up 5,000 gold and poured our prayers into every coin. Please, use this money to answer them.",joy
+FE11,04-BattleInTheLea,Merric,Aha! Prince Marth. We meet again.,joy
+FE11,04-BattleInTheLea,Marth,"…Huh? Merric?! Merric, is that you?",surprise
+FE11,04-BattleInTheLea,Merric,"Well, yes, sire, last I looked. Whilst studying magic in Khadein, I caught wind of a war brewing and decided to seek you out.",neutral
+FE11,04-BattleInTheLea,Marth,"I see… Thank you, then. I need friends like you on the battlefield. You will fight with us, of course?",joy
+FE11,04-BattleInTheLea,Merric,Of course! ‘Twould be a passing shame if you didn’t get to see me flex a little magic muscle. Wait till I show you my latest: Excalibur!,anger
+FE11,04-BattleInTheLea,Matthis,Lena… Where are you? What I would give to hear your voice just once before I die…,surprise
+FE11,04-BattleInTheLea,Matthis,Lena… Forgive your…fool of a brother…,anger
+FE11,04-BattleInTheLea,Lena,Matthis? Is that you?,surprise
+FE11,04-BattleInTheLea,Matthis,Lena?! What are you doing on a battlefield?,surprise
+FE11,04-BattleInTheLea,Lena,"I was attacked by bandits in the Teeth while tending to the sick there, and these people saved me. The real question is, what are YOU doing on a battlefield- least of all this one!",surprise
+FE11,04-BattleInTheLea,Matthis,"I’m not here by choice, sister of mine. Since you left, Macedon has only gotten worse and worse. They forced me to enlist- you know I hate warfare, but it was into the army or onto the chopping block.",sadness
+FE11,04-BattleInTheLea,Lena,"Shame on you, Matthis. If you’re going to fight, then at least fight for something you believe in. Medon has done terrible things: marrying their might to Doluna, helping them torment people…Brother, it’s not too late. You could join Altea’s forces. They’re good people you know. Prince Marth would welcome you. They all would.",anger
+FE11,04-BattleInTheLea,Matthis,"…All right, then. If I’m gonna to die, I’d rather die as one of the dashing than one of the dastardly. You know, Lena, you always were the reliable one and now you’re all grown up…I thought for sure you’d have already settled down with your one true love.",anger
+FE11,04-BattleInTheLea,Lena,"T-true love? I’ve…I’ve met no such man, Matthis.",neutral
+FE11,04-BattleInTheLea,Matthis,"Hmm, is that so? I’ll bet you haven’t… Well, you just be careful. There are plenty of thieves out there who would steal a girl’s heart.",neutral
+FE11,04-BattleInTheLea,Marth,"You must be Matthis, Sister Lena’s-",neutral
+FE11,04-BattleInTheLea,Matthis,"ACK! Y-you’re Prince Marth! Aieee! S-s-stay your rapier, I beg you!",joy
+FE11,04-BattleInTheLea,Marth,…What has gotten into you?,surprise
+FE11,04-BattleInTheLea,Matthis,You mean…you haven’t come to stick me like a pig for fighting under the Macedonian standard?,anger
+FE11,04-BattleInTheLea,Marth,"Er, no…",neutral
+FE11,04-BattleInTheLea,Matthis,Really?,surprise
+FE11,04-BattleInTheLea,Marth,Really and truly.,surprise
+FE11,04-BattleInTheLea,Matthis,"Oh! Uh, right then… Sorry about that little display. I guess Lena was right. Just goes to show not all princes are cut from the same cloth!",anger
+FE11,04-BattleInTheLea,Marth,What do you mean?,surprise
+FE11,04-BattleInTheLea,Matthis,"Oh, well, our prince- Prince Michalis of Macedon, that is- he’s strong, and proud…and an utter tyrant. They say he put the soldiers who look the most scared in the front lines on purpose.",fear
+FE11,04-BattleInTheLea,Marth,Hmm… Prince Michalis of Medon…,neutral
+FE11,04-BattleInTheLea,Matthis,"Don’t worry, sire, I won’t mistake you for him again! Altean princes I can trust!",anger
+FE11,04-BattleInTheLea,Bentheon,"You can defy us, yes... But you will never defeat us.",anger
+FE11,04-BattleInTheLea,Bentheon,W...what...,surprise
+FE11,04-BattleInTheLea,Elder,"Prince Marth, you have our thanks for liberating the south castle. You’ll find Captain Hardin protecting the king and the lady Nyna at the Northern Fortress, located in Aurelis. When you find him, please be sure to give him this silver sword.",neutral
+FE11,XX-Epilogue,Caeda,"Marth, you did it. It's finally over.",joy
+FE11,XX-Epilogue,Marth,I've waiting a long time for this day. And now I'm not entirely certain what to do with it...,sadness
+FE11,XX-Epilogue,Caeda,"Marth... um, we haven't talked much since leaving Talys. But I thought.. Do you know where you will be going?",neutral
+FE11,XX-Epilogue,Marth,"To Altea, of course. War has left my kingdom in ruins. I cannot waste another day; I must return to help rebuild.",sadness
+FE11,XX-Epilogue,Caeda,So... I suppose that means you have bid Talys farewell for good...,neutral
+FE11,XX-Epilogue,Marth,"Don't be silly, Caeda. I need to at least go thank your father and tell him the fighting is done.",joy
+FE11,XX-Epilogue,Caeda,"My father...? Marth, I'm not asking about my- Never mind. Please excuse me...",neutral
+FE11,XX-Epilogue,Nyna,"Marth, did something happen? I just passed Caeda, and she looked heartbroken...",sadness
+FE11,XX-Epilogue,Marth,"No... Well, we were just talking. And she asked me...",neutral
+FE11,XX-Epilogue,Nyna,"Ha ha, oh, Marth... How can a man who faced the Shadow Dragon be so desperate to avoid facing his own feelings?",fear
+FE11,XX-Epilogue,Marth,I- my- what? I don't know what you are talking about.,surprise
+FE11,XX-Epilogue,Nyna,"You wish to send Caeda home to Talys, then, and return to Altea alone? That is what you want?",neutral
+FE11,XX-Epilogue,Marth,"Well, that's where we both belong. I don't see what my wants have to do with anything.",neutral
+FE11,XX-Epilogue,Nyna,"Clearly not. Marth, if you have anything to say to Caeda, say it now. Love cannot always make the leap from heart to heart by itself; sometimes you must speak it aloud and give it wings. Surely a great leader like you can muster the courage for that?",joy
+FE11,XX-Epilogue,Marth,.....,neutral
+FE11,XX-Epilogue,Marth,"Caeda... might I, er, have a moment?",neutral
+FE11,XX-Epilogue,Caeda,.....?,neutral
+FE11,XX-Epilogue,Marth,"I did not speak with my heart before. When I said I would go to Altea, I... Well, I had meant... I hoped you would be at my side.",neutral
+FE11,XX-Epilogue,Caeda,.....!,neutral
+FE11,XX-Epilogue,Marth,"As you said, we have not spoken much since Talys. With you, I felt I never had to say a word. If the battle started to take its toll, you were always there... close by... I would see you there, so beaut- ahem, so brave... and I would, um,.... derive! Yes, derive great strength! Derive... ....Ugh, why is this so difficult?! Caeda, I'm just trying to tell you I-",sadness
+FE11,XX-Epilogue,Caeda,Marth... Shh. Me too... Me too.,neutral
+FE11,XX-Epilogue,Nyna,"Well done, Marth. Our struggle is finally over. You have saved our world.",joy
+FE11,XX-Epilogue,Marth,Not just me. Many fought at my side... And died.,sadness
+FE11,XX-Epilogue,Nyna,"Marth... You loved her, didn't you? Caeda.",sadness
+FE11,XX-Epilogue,Marth,"...She was the one I most wanted to keep safe. But I failed, and I have lost her forever... It occurs to me now that perhaps she was the one protecting me all along. Caeda... Why did you take up arms with a fool like me?",sadness
+FE11,XX-Epilogue,Nyna,"Marth, do not blame yourself. ...Remember Anri and Artemis. We are their descendants; perhaps we were always meant to share their curse as well as their blood. And... perhaps only the curse has exacted its price could our battle with the Shadow Dragon be won. This peace we have made... We must cherish it, Marth. We have both paid so dearly for it. Let us work together to ensure none must endure a tragedy like our again.",anger
+FE11,25-Endgame:ChosenByFate,Marth,We made it. Now we just have to find Medeus...,neutral
+FE11,25-Endgame:ChosenByFate,Nagi,I can sense it... A sinister will is at work here...,neutral
+FE11,25-Endgame:ChosenByFate,Gotoh,"Marth, you have fought splendidly.",joy
+FE11,25-Endgame:ChosenByFate,Marth,Lord Gotoh?! What are you doing here?,surprise
+FE11,25-Endgame:ChosenByFate,Gotoh,I washed my hands of humankind and their foolish ways long ago. But you and your companions have convinced me that was a rash decision. Perhaps there is hope for you yet. Allow me to offer what help I can.,neutral
+FE11,25-Endgame:ChosenByFate,Marth,You mean you’ll fight with us?,neutral
+FE11,25-Endgame:ChosenByFate,Gotoh,"Yes. I may lack the power to stop Medeus, but his minions are another story. Let this old man strike them down and clear a path for you. ...The gods have chosen you, Marth, prince of light.",anger
+FE11,25-Endgame:ChosenByFate,Marth,"Come, my friends! We have a dragon to tame! Help me confine Medeus to the shadows for all eternity and bring light back into the world!",anger
+FE11,25-Endgame:ChosenByFate,Cain,His last words were as follows: “Tell my son that I leave the future of Altea and our continent in his hands.”,neutral
+FE11,25-Endgame:ChosenByFate,Malledus,"Your sister knows that you are the future of Altea- nay, the whole land!",neutral
+FE11,25-Endgame:ChosenByFate,Medeus,"Foolish humans! You dare disturb me while I slumber? Oh, how you will regret it as you die slowly...painfully...writhing in the fires of the inferno!",anger
+FE11,25-Endgame:ChosenByFate,Medeus,"Nngh... Defeated again... by humans! Know this, Altean prince... That light which surrounds you is only a temporary respite. So long as the darkness in your hearts continues to sustain me... I cannot be... destroyed...... Rrraaahhh!!!",sadness
+FE11,25-Endgame:ChosenByFate,Medeus,"Hmm? So... I am not the only dragon revived. I had heard you perished the last time. No matter; you've recovered even less of your power than me. This time, you have no chance!",neutral
+FE11,07-LefcandithGauntlet,Minerva,"General Harmein, I cannot abide by these tactics of yours. Let me attack the rebels head-on, and keep my pride as a knight of Macedon.",neutral
+FE11,07-LefcandithGauntlet,Harmein,"Ah, you mean the same pride that cost us all those soldiers back in Aurelis? I think not, Princess. If we’re to regroup, we need to buy time. My tactics are necessary. The emperor himself has named me commander of this post. Either obey, or accept the consequences. Your little sister Maria is still under our word, is she not? What a shame it would be, if we decided we could no longer care for her…",anger
+FE11,07-LefcandithGauntlet,Minerva,"Enough! …I will obey. But the Altean knights are smarter than you give them credit for. They will prevail here, and you will regret having acting so rashly, General.",anger
+FE11,07-LefcandithGauntlet,Middle-Aged Man,"Say, did you happen to get a look at the axe wrapped in Minerva’s princessly fingers? No, I suppose not, otherwise you’d not be standing here. That axe is Hauteclere, the strongest axe of ‘em all. Nobody knows who made it or where, but it’s said to rival even the three regalia, Archanea’s mightiest weapons. Why, if she got her hands on Iote’s Shield (that’un being Macedon’s treasure, see) she’d be nigh unstoppable!",anger
+FE11,07-LefcandithGauntlet,Bantu,"You there. Have you come across a young girl, one by the name of Tiki? She must be found, boy! Tiki is the last of the Naga, the divine-dragon clan. Without her powers, we cannot challenge the Manaketes who serve Medeus… Me? I haven’t the power. I am a fire dragon, yes… But in the name alone, in name alone. I lost my firestone in Pyrathi. Without it, I cannot do battle. …You will be traveling much, yes? I wish to go with you. Perhaps together we can find Tiki.",fear
+FE11,07-LefcandithGauntlet,Minerva,"Fie, enough! I’ve no stomach for these cat-and-mouse tactics. Come, Whitewings, we fly! Hyah!",fear
+FE11,07-LefcandithGauntlet,Minerva,Rrgh… I can’t keep up the fight with these wounds… I must withdraw.,anger
+FE11,07-LefcandithGauntlet,Palla,"I serve Princess Minerva, not Grust. This battle is over.",neutral
+FE11,07-LefcandithGauntlet,Catria,The commander left? Then I’ve no reason to stay.,neutral
+FE11,07-LefcandithGauntlet,Est,"Sorry, General. My place is with the commander.",sadness
+FE11,07-LefcandithGauntlet,Harmein,"Curse Minerva and her pride! Grr, no matter. If I am to die here, then I won't be dying alone!",anger
+FE11,07-LefcandithGauntlet,Harmein,Aaargh...Traitors...every...where...,anger
+FE11,07-LefcandithGauntlet,Malledus,"Prince Marth, I was wondering if we might talk about the Manaketes.",neutral
+FE11,07-LefcandithGauntlet,Marth,Manaketes? You mean the dragonkin?,neutral
+FE11,07-LefcandithGauntlet,Malledus,"Yes, sire. I was not sure how much knowledge you had of the Manaketes. The Manaketes inhabited our continent long before the dawn of humanity. However, ordinarily their draconic disposition stayed suppressed; their power sealed within special stones. Thus rather than terrorizing humankind, they chose to live simple, peaceful lives in the quieter reaches of the world. However, a century ago, something changed. Medeus, the Shadow Dragon, surfaced in the Dolhr region and created what would be a great empire there. His forces invaded the human realm, and in the blink of an eye, he had subjected all of the land. It was then, in that darkest hour, that a young man named Anri appeared, and rose against the Shadow Dragon. In his head was a shining blade of light- Falchion- which he plunged into Medeus- and the tyrant was no more. Anri went on to found Altea- and the rest, I believe, you know.",neutral
+FE11,07-LefcandithGauntlet,Marth,"Yes, Malledus… Is that what this was about? I do know my own kingdom’s history. And I know what I must do, now that Medeus has revived and restored Dolhr to its former might.",joy
+FE11,07-LefcandithGauntlet,Malledus,"You are Anri’s last male descendant, the only one who can wield Falchion. You must find the blade that was taken, and put an end to Doluna and its misguided Manakete rulers.",anger
+FE11,07-LefcandithGauntlet,Marth,"I will finish what my father started. I will avenge him, and bring light back into our world.",anger
+FE11,08-PortWarren,Caesar,"Prince Marth, I am Caesar, and this is Radd. We are hired swords in the service of Port Warren. Grust has gathered its knights by the fortresses to the north. It's dangerous for you to stay here. Thankfully, the eastern castle has been left almost entirely unguarded; that's the place to strike. Please be careful, sire. We'll be fighting with you all the way.",neutral
+FE11,08-PortWarren,Old Woman,"They say a princess of Macedon is being held captive inside Castle Deil. That's odd, don’t you think? Why would Dolhr imprison their own ally?",surprise
+FE11,08-PortWarren,Young Man,I saw loads of enemy soldiers up by the northern fortresses! They’ll be pouring out of the gates any minute now. You’d better send someone to bar the exits before they do!,anger
+FE11,08-PortWarren,Roger,"I bear you no ill will, but what can I say? A war's a war.",sadness
+FE11,08-PortWarren,Caeda,"Good day, sir.",joy
+FE11,08-PortWarren,Roger,Ack!,neutral
+FE11,08-PortWarren,Caeda,"Peace, I’ve no wish to fight you. My name is Caeda. I hail from Talys.",neutral
+FE11,08-PortWarren,Roger,Wh-what are you talking to me for?! This is a battlefield!,surprise
+FE11,08-PortWarren,Caeda,"Might I trouble you by asking your name, good sir?",neutral
+FE11,08-PortWarren,Roger,M-my name? That’s- It’s Roger... Why?,surprise
+FE11,08-PortWarren,Caeda,"Hee hee, forgive me, Roger, it’s just you looked sweet and kind. I just had to stop and talk to you. Tell me: do you believe in love? Oh, listen to me. I’m sure you already have a sweetheart back in Grust.",joy
+FE11,08-PortWarren,Roger,"What?! No, no! I... mean, er, I’m quite unattached at the moment.",anger
+FE11,08-PortWarren,Caeda,"Roger, think of the children- the poor women and children who shed tears every day this war drags on. I joined the Archanean League to put an end to it, but I just...just...*Sniff* Oh, Roger, doesn't it break your heart?",sadness
+FE11,08-PortWarren,Roger,"Aye, miss. There, there. I, too, wish nothing more than for this needless war to end.",sadness
+FE11,08-PortWarren,Caeda,Then...would you consider fighting with us to end it?,neutral
+FE11,08-PortWarren,Roger,"What? Oh heavens, no... I’m sorry, but I could never betray my kingdom.",sadness
+FE11,08-PortWarren,Caeda,"Ah, yes, I see. You must have family back in Grust who are counting on you.",neutral
+FE11,08-PortWarren,Roger,"No, not especially. My parents are dead, and it’s not as if I’ve a girl to call my own. But Grust is my home- always has been. I won’t betray her.",neutral
+FE11,08-PortWarren,Caeda,And I cannot convince you to change your mind?,neutral
+FE11,08-PortWarren,Roger,"I’m afraid not, miss.",fear
+FE11,08-PortWarren,Caeda,"All right, sorry to bother you. But I’m glad we had this chance to talk, Roger. You’re every bit the man I thought you were. Goodbye, then...",joy
+FE11,08-PortWarren,Roger,Wait- you’re leaving?!,surprise
+FE11,08-PortWarren,Caeda,"Well, yes, Roger, I must! Every moment I stay here, I put you at risk. What if your comrades thought you were conspiring with the enemy? No, I must go...",fear
+FE11,08-PortWarren,Roger,"...You’re very kind, Caeda. Dare I say, we don’t have girls quite like you back in Grust. Um, perhaps...I suppose I could...Aw, heck, I’m going with you!",sadness
+FE11,08-PortWarren,Roger,"Prince Marth? I’m Roger, a Grustian soldier. Well, at least I was. I’m through fighting against you. Let me join your League.",neutral
+FE11,08-PortWarren,Marth,"Well, certainly. We need all the strong allies we can get. But why the sudden change of heart?",neutral
+FE11,08-PortWarren,Roger,"Well, er... There’s this fetching girl named Caeda who asked me to, and, uh... What can I say? I think I’m in love. Try saying no to a girl who comes racing up to you in the heat of battle just to ask if you believe in love! Whew! I must’ve turned red as a strawberry! Heh heh...",anger
+FE11,08-PortWarren,Marth,......,neutral
+FE11,08-PortWarren,Kannival,"W-what are you doing all the way out here? Blast, I'm finished...!",surprise
+FE11,08-PortWarren,Kannival,Long...live...Grust! Nngff...,sadness
+FE11,08-PortWarren,Malledus,"Sire, it's too dangerous to stay here. We must flee to Pyrathi. There are risks there, too- the Pyrathi king Mannu is said to be a descendant of the dragonkin, a Manakete. Still, we've no other recourse. We'll just have to take our chances... Keep your wits about you, sire.",fear
+FE11,11-KnordaMarket,Marth,"Nyna, soon the palace will be in sight. I...know this can't be easy for you.",neutral
+FE11,11-KnordaMarket,Nyna,"...When the palace fell, many, many good Archaneans were killed. The royal family...My family were...Their bodies were hung before the gates as an example. I cannot unpaint that vivid picture, of my parents grotesquely changed...I feel as though I should cry, Marth; or scream. But no tears come, and I cannot chase away the sadness and rage... ...I cannot change the past. I can only shape the future. Lead the way, Marth. I am ready. Take me home.",sadness
+FE11,11-KnordaMarket,Young Man,"This here is Knorda, Archanea’s closest market town. Drop by the armories and vendors if you’ve an interest in rare goods.",neutral
+FE11,11-KnordaMarket,Young Man,"A gang of ruffians have rounded up some Archanean folk and are holdin! em over at the edge of town. What a world it’s become, that we’ve gotta be prisoners in our own land!",neutral
+FE11,11-KnordaMarket,Middle-Aged Man,"Three ancient weapons known as the Regalia have been passed down through the generations of House Archanea: Parthia, the bow of flame; Gradivus, the lance that pierces stone; and Mercurius, the spectral sword. Only those blessed by the gods may lay hands on them- or so it goes.",neutral
+FE11,11-KnordaMarket,Old Woman,I’m sick of war. If it ain’t the screams of battle you’re hearin! it’s the bawlin! of the widows! You all should go home to your loved ones if you ask me.,anger
+FE11,11-KnordaMarket,Young Man,"Watch out for the ballisticians. They can fire their missiles quite a long ways. If you see they’re usin! a weapon called an arrowspate, move your fliers out of there, before their wings get clipped! Also, ballisticians have a weapon called the thunderbolt, which is particularly effective against other ballisticians.",neutral
+FE11,11-KnordaMarket,Anna,"Not everybody fighting for Grust is a bad apple, you know. Take my sweetheart, Jake. He’s got a heart of gold, that one. If you see him, tell him Anna’s worried sick about him. ’Course, my Jake won’t talk to no-one but the most beautiful of women! That’s just the way he is.",joy
+FE11,11-KnordaMarket,Anna,I hope this warring is over and done with soon. And I hope my Jake is well.,neutral
+FE11,11-KnordaMarket,Anna,"Jake! What are you doing back?...Oh, so you've decided to fight for the Archanean League now?...No, no, I won't stop you. Sure, I wish you'd just stay put for a change, but I know you wouldn't fight unless it were for a fine cause indeed. Go get 'em, honeycomb!",anger
+FE11,11-KnordaMarket,Anna,"Go get 'em, Jake!",neutral
+FE11,11-KnordaMarket,Ruffian,Heh. Whadda you want? A broken nose?,surprise
+FE11,11-KnordaMarket,Marth,I hear you are holding some Archaneans here against their will. Release them at once!,anger
+FE11,11-KnordaMarket,Ruffian,How ’bout I release my fist into yer- Munchin! Manaketes! The Altean army?! Aieee! Get me outta here!!!,anger
+FE11,11-KnordaMarket,Marth,Is everyone all right? I know you’ve been through a lot. Go home to your families.,neutral
+FE11,11-KnordaMarket,Marth,"Em? What’s wrong, lad? Why don't you go home?",surprise
+FE11,11-KnordaMarket,Boy,Because! I have no home to go to.,anger
+FE11,11-KnordaMarket,Marth,You! You’re a girl! Why were you dressed as a boy?,surprise
+FE11,11-KnordaMarket,Linde,"To hide, sir. My name is Linde. My father is – was – Miloah, a pontifex. I donned men’s garb to escape Gharnef, but no sooner was I away when those ruffians grabbed me.",neutral
+FE11,11-KnordaMarket,Marth,"So you’re Linde! I’m glad you’re safe. Princess Nyna was worried about you, you know! Well, we’re all together now. I promise to keep you out of danger.",joy
+FE11,11-KnordaMarket,Linde,"No! Let me fight. With Princess Nyna’s blessing, and the tome my father left me, I can wield Aura magic. Let me use it to avenge him. I want to destroy Gharnef myself!",fear
+FE11,11-KnordaMarket,Caeda,"Hail, ballistician of Grust! Are you the one they call Jake?",anger
+FE11,11-KnordaMarket,Jake,"Hail yourself, sugar! What's a fetching lass like you doing out here on the battlefield? And how do you know my name?",surprise
+FE11,11-KnordaMarket,Caeda,I am Caeda of Talys. An Archanean woman by the name of Anna told me about you.,neutral
+FE11,11-KnordaMarket,Jake,"Really? Anna mentioned me? ...In a good way, right?",surprise
+FE11,11-KnordaMarket,Caeda,She's very worried about you. She wants to know why such a good man is fighting for the wrong side.,neutral
+FE11,11-KnordaMarket,Jake,"Wrong side? Hmm... Well, I have to admit, I'm not too keen on kicking Archanea while they're down...",neutral
+FE11,11-KnordaMarket,Caeda,"They why not fight for Archanea instead? Help us defeat Grust and Dolhr, and set the world right.",anger
+FE11,11-KnordaMarket,Jake,Well...I don't know. I don't think it's that simple... Hmm...,neutral
+FE11,11-KnordaMarket,Caeda,"Anna would love you for it, I'm sure.",joy
+FE11,11-KnordaMarket,Jake,"She would? Hmmm... All right, you win. But I'm doin' it for Anna- "" just to be clear!",joy
+FE11,11-KnordaMarket,Jake,"I knew I wasn't cut out for the military. Well, too late now. I just hope Anna's OK...",sadness
+FE11,11-KnordaMarket,Merric,"Linde, I presume? My name's Merric. Prince Marth asked me to look after you. Not that we mages need any help looking after ourselves, mind you. """,neutral
+FE11,11-KnordaMarket,Linde,"Oh, you've studied magic?",neutral
+FE11,11-KnordaMarket,Merric,"Yes, in Khadein.",neutral
+FE11,11-KnordaMarket,Linde,Khadein... The school? My father was a student there a long time ago.,surprise
+FE11,11-KnordaMarket,Merric,"The school is beautiful–was beautiful, until Gharnef took over and changed everything. I was blessed with wonderful teachers, and I found a healthy mix of friends and rivals in the other aspiring mages.",joy
+FE11,11-KnordaMarket,Linde,"It sounds nice, I suppose. But my father was the only teacher and friend I ever needed. ......",joy
+FE11,11-KnordaMarket,Merric,"I'm sorry, Linde...",sadness
+FE11,11-KnordaMarket,Linde,"Don't be. I'm tough like my father, too. ...Let's talk about you, Merric. And about Khadein. I've never been to a school before. How do they teach?",fear
+FE11,11-KnordaMarket,Jake,Are you the Altean prince? The name’s Jake. I just joined up.,neutral
+FE11,11-KnordaMarket,Marth,"Many thanks, Jake.",neutral
+FE11,11-KnordaMarket,Jake,"You know, I’ve been to Altea once. Have you uh... Ever paid a visit to the ecret-say op-shay there?",neutral
+FE11,11-KnordaMarket,Marth,The what?,surprise
+FE11,11-KnordaMarket,Jake,"The secret shop! Didn’t you know there are secret shops hidden all over the continent? Well, there’s one in Altea, too.",neutral
+FE11,11-KnordaMarket,Marth,"Oh, really? Where exactly?",surprise
+FE11,11-KnordaMarket,Jake,"If I told you, it wouldn’t be much of a secret, now would it? The entrance is disguised so you can’t find it.",neutral
+FE11,11-KnordaMarket,Marth,Disguised?!,surprise
+FE11,11-KnordaMarket,Jake,And they don’t let anybody in without a VIP card. So don’t expect to waltz through the door by accident.,neutral
+FE11,11-KnordaMarket,Marth,But how do they stay in business?,neutral
+FE11,11-KnordaMarket,Jake,"Who knows! Last I heard, they were desperate for customers.",neutral
+FE11,11-KnordaMarket,Marth,"Then maybe they should reopen as a ""tell your friends "" shop.",neutral
+FE11,11-KnordaMarket,Jake,"Ha! Very clever. Anyway, you should drop by when you’re in the neighborhood.",anger
+FE11,11-KnordaMarket,Marth,But I don’t know- Ugh. Never mind.,anger
+FE11,11-KnordaMarket,Khozen,"Burn...! Burn, till your blood boils and your flesh cooks!",anger
+FE11,11-KnordaMarket,Khozen,Emperor Medeus...I have failed you...,sadness
+FE11,11-KnordaMarket,Marth,"Good news, Nyna! We've wrested control of the gates from the enemy.",joy
+FE11,11-KnordaMarket,Nyna,Then...we've won!,neutral
+FE11,11-KnordaMarket,Marth,"Not quite yet. We can enter the palace, but Dolhr still holds strong inside her walls. Also, a number of knights are being held captive inside.",neutral
+FE11,11-KnordaMarket,Nyna,"Loyal soldiers who fought for their kingdom and their people...Marth, I wish to free them as soon as possible.",neutral
+FE11,11-KnordaMarket,Marth,"I understand. We should strike now, then, before enemy reinforcements can arrive. I believe we have a good chance.",neutral
+FE11,11-KnordaMarket,Nyna,"Thank you, Marth. As always, I am counting on you. Worry no more.",joy
+FE11,22-AKnightFilledSky,Michalis,"Lord Gotoh, the League has begun its attack. I wish for you to move someplace safe until the fighting has ended.",neutral
+FE11,22-AKnightFilledSky,Gotoh,"Why not just end this folly now, Michalis?",neutral
+FE11,22-AKnightFilledSky,Michalis,Folly? What folly?,surprise
+FE11,22-AKnightFilledSky,Gotoh,"You loved your younger sister so much. It pains me to see you quarrel. If you and Minerva had worked as one, Macedon might have become a great kingdom- greater even than Archanea, perhaps. But instead, you let Gharnef trick you into destroying your family, and your kingdom with it.",sadness
+FE11,22-AKnightFilledSky,Michalis,"...I cannot undo what is done. My father’s blood will always be on my hands, just as Minerva’s betrayal of her brother and country will be on hers. And Macedon has not been destroyed, not yet. So long as I carry Iote's Shield, the League’s arrows cannot fell me.",anger
+FE11,22-AKnightFilledSky,Gotoh,Very well. And if you win? What then?,surprise
+FE11,22-AKnightFilledSky,Michalis,"If I win, I will tell you. Right now, my only goal is to gut that Altean prince who leads the League. My pride as Macedonian king rests upon it.",anger
+FE11,22-AKnightFilledSky,Gotoh,"I see... Then we’ve nothing more to discuss, have we?",neutral
+FE11,22-AKnightFilledSky,Gotoh,The weight of his father’s murder threatens to crush him... Poor boy...Poor fool.,anger
+FE11,22-AKnightFilledSky,Old Woman,"A great sage lives in the village to the north. He’s not very sociable, though. Hardly anyone ever sees him.",neutral
+FE11,22-AKnightFilledSky,Gotoh,"Marth, Marth, why did you not heed me? Why did you not bring the two orbs? Without them, I cannot make Starlight for you. You will not be able to break through Gharnef’s Imhullu magic, not take Falchion from his clutches. Without Anri’s sword, your battle with Medeus will be fraught with peril. If you still mean to face him, you will need all the strength you can muster, every advantage you can find. If you have weapons like the sword Mercurius or the lance Gradivus, the fight may not be lost... Hmm... I, too, may be able to help in some other way. Let me think on it. Regardless, your quest has just become more difficult than you realize. I hope you are ready.",neutral
+FE11,22-AKnightFilledSky,Gotoh,You have the Lightsphere and Starsphere with you? Well done! Now I can create Starlight for you.,joy
+FE11,22-AKnightFilledSky,Gotoh,...There. It is finished. Take this with you; it is the only magic capable of breaking through Imhullu. Use it to stop that fiend Gharnef once and for all.,anger
+FE11,22-AKnightFilledSky,Michalis,"Made it this far, have you? Don’t gloat yet. My Dragoons and I still rule these skies!",anger
+FE11,22-AKnightFilledSky,Michalis,"Minerva, I have missed you, Sister. Let us embrace one last time.",joy
+FE11,22-AKnightFilledSky,Minerva,Michalis...,neutral
+FE11,22-AKnightFilledSky,Michalis,Well? Strike! A moment’s hesitation spells death on the battlefield. I know I taught you better.,anger
+FE11,22-AKnightFilledSky,Minerva,You will not lay down your lance and walk the right path?,neutral
+FE11,22-AKnightFilledSky,Michalis,"Don’t be a child. There are no right paths; just mine and yours, two that will never cross.",sadness
+FE11,22-AKnightFilledSky,Minerva,"Very well. Then you leave me no choice. Embrace you I shall, Brother!",neutral
+FE11,22-AKnightFilledSky,Michalis,M-Maria? What are you doing here?,surprise
+FE11,22-AKnightFilledSky,Michalis,The Whitewings? Ha! Come to try and slay your king?,anger
+FE11,22-AKnightFilledSky,Michalis,The Whitewings? Ha! Come to try and slay your king?,anger
+FE11,22-AKnightFilledSky,Michalis,The Whitewings? Ha! Come to try and slay your king?,anger
+FE11,22-AKnightFilledSky,Michalis,"I’ve been waiting for you, Altean whelp. I swear on my crown, you will die!",anger
+FE11,22-AKnightFilledSky,Michalis,"Aaagh! I am finished. Forgive me, my people.",sadness
+FE11,22-AKnightFilledSky,Marth,"First General Camus of Grust... Now Prince Michalis of Macedon. Men of such promise... Had the times been different, the two might have led illustrious lives.",neutral
+FE11,22-AKnightFilledSky,Malledus,"Yes, Prince Michalis was a brilliant man with great things ahead of him. But in the end, the rashness of youth did him in.",joy
+FE11,22-AKnightFilledSky,Marth,"Only because Gharnef found his weakness and exploited it. Until we stop that fiend, this spiral of misery will never cease.",anger
+FE11,22-AKnightFilledSky,Malledus,Then shall we go to Thabes? Lord Gotoh said the city lies someplace far to the north of Khadein.,neutral
+FE11,22-AKnightFilledSky,Marth,"Yes, in the heart of the desert...",fear
+FE11,22-AKnightFilledSky,Malledus,"Thabes is an old city... None in recent memory have gone there and returned alive. Within its walls remain many powerful apparatus crafted of long-forgotten magic. Lord Gotoh believes Gharnef is harnessing their power, and that is why he wields such influence over the continent.",neutral
+FE11,22-AKnightFilledSky,Marth,And he has Imhullu as well... This will be a struggle.,neutral
+FE11,22-AKnightFilledSky,Marth,"Still, Gharnef’s reign must end. The world was so much more beautiful before he painted it red...",joy
+FE11,15-AnOasisOfMagic,Gharnef,"What? The dregs of Archanea have come to challenge my kingdom? Ha ha ha... Really, do they think people have not tried before? So long as I possess this Imhullu magic, they cannot snuff my life out. No one can. As for the White Sage... He will trouble me no longer. With the dragon-goddess right where I want her, in the Fane of Raman, there is no way for Gotoh's Starlight to disperse the shadows that guard me.",anger
+FE11,15-AnOasisOfMagic,Young Man,"Fight Gharnef? Are you mad? You'll never stop him! His magic, Imhullu, summons up foul spirits that protect him! Only the White Sage Gotoh's magic can undo him: the magic of Starli- Whoa, there. I need to hold my tongue! He might be listenin' with those wizard-ears of his, for all I know. Go on, work a little magic yourself and disappear, huh? Shoo!",anger
+FE11,15-AnOasisOfMagic,Young Man,"You think those clothes o'metal will protect you from mages? Ha! Armor won't save you. You need a Barrier staff! Another thing, about Gharnef- here, move in closer in case he's listenin'. You don't want to fight him head on. He never stays put in Khadein for very long anyway. If he tries to attack you, ride it out. Good things come to those who wait.",neutral
+FE11,15-AnOasisOfMagic,Gharnef,"You dare oppose me, fool? You must not value your life. Cower before the might of the magic Imhullu: once forbidden, now unleashed!",anger
+FE11,15-AnOasisOfMagic,Gharnef,"Altean prince! I fear you are not quite imposing enough to warrant my staying here. But if it's Falchion you want, come and take it. I shall be waiting at the Temple of Thabes.",anger
+FE11,15-AnOasisOfMagic,Marth,No Falchion...The battle was for naught.,neutral
+FE11,15-AnOasisOfMagic,Gotoh,...Marth...Prince Marth.,joy
+FE11,15-AnOasisOfMagic,Marth,Huh? Who are you?!,surprise
+FE11,15-AnOasisOfMagic,Gotoh,My name is Gotoh...I am speaking to you from Macedon through magic.,neutral
+FE11,15-AnOasisOfMagic,Marth,Gotoh...the White Sage?,neutral
+FE11,15-AnOasisOfMagic,Gotoh,"Some have used that name, yes. You must listen to me. As you suspect, Gharnef has made off with Falchion. With Imhullu and Falchion in the sorcerer's grasp, Dolhr now must think twice before challenging him. Gharnef knows this. And one day, he plans to conquer Dolhr and rule the entire world.",neutral
+FE11,15-AnOasisOfMagic,Marth,"Is Imhullu so powerful a magic, then?",neutral
+FE11,15-AnOasisOfMagic,Gotoh,"Yes. The mage who wields it cannot be killed; cannot be so much as scratched. I was the magic's guardian once. Knowing its forbidden power could work terrible evils, so I kept it close. But Gharnef, one of my two pupils- Miloah being the other- took the forbidden tome and vanished. Now you are paying for my carelessness. Forgive me. I wish to make amends by teaching you the only way to undo Imhullu's power.",sadness
+FE11,15-AnOasisOfMagic,Marth,Which is...?,surprise
+FE11,15-AnOasisOfMagic,Gotoh,"It is called Starlight. One blast is enough to break through Imhullu's shadowy protection. But to cast the magic, you need two orbs: the Lightsphere and the Starsphere. Heed me, Marth. When you find the Lightsphere and Starsphere, bring them to me. Then I will give you the magic you seek. Then you will have Starlight, and with it, Gharnef's reign will end.",neutral
+FE11,12x-ATraitor'sWorth,Dejanira,"Have you heard, Horace? I am told the rebels just recaptured the palace. That accursed Akaneian wench! Never mind Camus’s pleas. We should have put her to the sword with the rest of them…",fear
+FE11,12x-ATraitor'sWorth,Horace,...,neutral
+FE11,12x-ATraitor'sWorth,Dejanira,"Hm, something bothering you, now? Don’t tell me you are toying with the idea of rejoining your motherland? Because if you do, I think you know exactly what will befall your people.",anger
+FE11,12x-ATraitor'sWorth,Horace,"Yes, you’ve made it quite clear! I am an Akaneian knight no longer. I knew this day would come when I gave me lance to Doluna. I will not flinch.",anger
+FE11,12x-ATraitor'sWorth,Dejanira,Good. Then gather your soldiers and kill these rebels before they cause any more trouble.,anger
+FE11,12x-ATraitor'sWorth,Enemy Soldier,"Lord Horace, our soldiers are in position.",neutral
+FE11,12x-ATraitor'sWorth,Horace,Good.,joy
+FE11,12x-ATraitor'sWorth,Enemy Soldier,Shall we advance on the enemy?,neutral
+FE11,12x-ATraitor'sWorth,Horace,"...No. That won’t be necessary. We’ll lure them in close, then strike. No one attacks unless the enemy makes a move first. Is that clear?",anger
+FE11,12x-ATraitor'sWorth,Marth,Lord Horace! I am Marth of Altea. I ask that you lay down your arms....,neutral
+FE11,12x-ATraitor'sWorth,Horace,Is Princess Nyna safe?,surprise
+FE11,12x-ATraitor'sWorth,Marth,"She is- and she’s quite worried about you, sir.",fear
+FE11,12x-ATraitor'sWorth,Horace,"So Her Highness is alive... The soldiers who died protecting her can rest in peace. ...Now then, Prince Marth. Draw your sword.",sadness
+FE11,12x-ATraitor'sWorth,Marth,What? But...Lord Horace!,surprise
+FE11,12x-ATraitor'sWorth,Horace,"I chose to betray Akaneia, and now I must abide by that choice. Princess Nyna has returned to the palace, and Akaneia is restored. I have no regrets.",sadness
+FE11,12x-ATraitor'sWorth,Old Man,"Lord Horace, who rules this land, used to be a knight of Akaneia. After the palace fell, though, he bent his knee to the Dolunian emperor and has been servin’ him ever since. For that, folks call him a traitor and say he tarnished his knightly brethren’s reputation. Well, that’s a load of hogwash. He broke his knightly oaths to protect us! Not ’cause he’s some traitor. Please, sire, you have to help clear his name. Here…Lord Horace’s father, bless him, gave me this weapon as a gift long ago. I know he’d be glad to see it used to restore his son’s honor.",joy
+FE11,12x-ATraitor'sWorth,Young Woman," Are you with the League? Please, sir, I’m beggin’ ya...You have to help Lord Horace. He’s always looked out for us small folk, before and after he inherited the land. He’s a pillar of strength, he is. We’d be dead if he hadn’t made the tough choices he did. The least we can do is rescue him from his plight now. Here, I’ve got this magic tome one of our villagers found after the last battle on our soil. You take it, and find some way to save him. Promise!",fear
+FE11,12x-ATraitor'sWorth,Dejanira,Vexatious rebels! I’ll skewer you like rabbits!,anger
+FE11,12x-ATraitor'sWorth,Dejanira,Nngh! You'll... pay...,neutral
+FE11,12x-ATraitor'sWorth,Horace,What!? Dejanira’s been killed?! Then... it’s over. Soldiers! Lay down your weapons! No more Akaneian blood shall be shed! ...Mine shall be the last.,anger
+FE11,12x-ATraitor'sWorth,Horace,"Bravo, Prince Marth. I yield. Spare the lives of my soldiers and treat my people kindly, and you may do with me as you see fit.",neutral
+FE11,12x-ATraitor'sWorth,Villager,"No! Wait, please! Lord Horace is a good man! Doluna threatened him, said they’d raze the land corner to corner if he didn’t comply. So you see-",fear
+FE11,12x-ATraitor'sWorth,Horace,Hush! You’ve said enough.,anger
+FE11,12x-ATraitor'sWorth,Marth,"But, Lord Horace...",neutral
+FE11,12x-ATraitor'sWorth,Horace,I betrayed my fellow knights and besmirched their good name. I will not dress up my sins as kindnesses! I accept my punishment. Allow me to die a knight’s death.,anger
+FE11,12x-ATraitor'sWorth,Nyna,I will not!,anger
+FE11,12x-ATraitor'sWorth,Horace,.....! Princess Nyna?,surprise
+FE11,12x-ATraitor'sWorth,Nyna,"Horace. I heard what you said. And you have it quite right. Your crimes deserve death, or worse.",anger
+FE11,12x-ATraitor'sWorth,Marth,"Nyna, what are you-",neutral
+FE11,12x-ATraitor'sWorth,Nyna,But I shall give you no knight’s death. I shall give you a traitor’s life. You say you will not dress up your sins. I say you will not run from them either.,anger
+FE11,12x-ATraitor'sWorth,Horace,Your Highness...! Are you saying you wish me to live?,surprise
+FE11,12x-ATraitor'sWorth,Nyna,"You did all in your power to protect these people. That was honorable, Horace. But if you die today, no one will remember you for anything but your one act of betrayal. Your soldiers will have to bear that shame in your stead. Do you call that justice?",anger
+FE11,12x-ATraitor'sWorth,Horace,.....,neutral
+FE11,12x-ATraitor'sWorth,Nyna,"Starting today, you shall prove to the world there was value in your actions. Show us a traitor’s worth. Show us what the soldiers who fought and died for you saw to be true.",anger
+FE11,12x-ATraitor'sWorth,Horace,I... I do not know what to say.,neutral
+FE11,12x-ATraitor'sWorth,Nyna,"I have claimed your life, Horace. You have no say. You shall fight for us...and you shall not die. I forbid it.",anger
+FE11,12x-ATraitor'sWorth,Horace,"Heh... Very well, Your Highness. As you command...",neutral
+FE11,12x-ATraitor'sWorth,Marth,"Nyna, we have put down the western insurgence.",neutral
+FE11,12x-ATraitor'sWorth,Nyna,And Horace?,neutral
+FE11,12x-ATraitor'sWorth,Marth,I am sorry...,sadness
+FE11,12x-ATraitor'sWorth,Nyna,"Poor Horace. Marth, in his heart, I do not think he truly wished to betray Akaneia.",sadness
+FE11,12x-ATraitor'sWorth,Marth,Nor I. Doluna must have threatened to do harm to his people.,anger
+FE11,12x-ATraitor'sWorth,Marth,"So Horace capitulated, to keep them safe... He acted to save lives, yet the world will brand him a traitor. That one word will come to define him... and none will ever know the traitor’s worth.",anger
+FE11,12-TheAgelessPalace,Midia,"Bishop, what do you make of this? I hear shouting in the corridors.",neutral
+FE11,12-TheAgelessPalace,Boah,Hmm...Princess Nyna must have returned with an army in tow.,neutral
+FE11,12-TheAgelessPalace,Midia,An army?! Really? Then we are saved!,surprise
+FE11,12-TheAgelessPalace,Boah,"Saved, perhaps...or doomed. Surely the enemy realizes we are more trouble alive than dead now.",sadness
+FE11,12-TheAgelessPalace,Midia,"You do not take my meaning, Bishop. By ""we"" I mean Archanea. Archanea is saved. If Princess Nyna has truly come to chase the enemy from our halls, to free us...Then my death will have meaning.",neutral
+FE11,12-TheAgelessPalace,Boah,"Ho ho...I admire your spirit, child. I always have. But think how Astram would grieve if you were to die.",joy
+FE11,12-TheAgelessPalace,Midia,I...I had hoped to see him one last time- to say goodbye. That alone I regret.,sadness
+FE11,12-TheAgelessPalace,Boah,"Ah, but you have not died yet. Midia. Hang on to hope.",sadness
+FE11,12-TheAgelessPalace,Volzhin,Rebel pup! You dare defy Dolhr? Then writhe in the fires of Bolganone!,anger
+FE11,12-TheAgelessPalace,Volzhin,Do not think...you have won... Dolhr...is undying... Nngh!,anger
+FE11,12-TheAgelessPalace,Nyna,"Marth, thank you. Were it not for you, I may never have seen the halls of my house again.",joy
+FE11,12-TheAgelessPalace,Marth,"I could not have done it alone, Nyna. The whole Archanean League fought tooth and nail this day.",anger
+FE11,12-TheAgelessPalace,Nyna,"True, and yet all the same... I have little doubt your exploits are the ones that will live on in song. I have a gift for you, to celebrate your achievements here. This bow is called Parthia. It is one of the three regalia that have been passed down through House Archanea. The other two regalia- the sword Mercurius and the lance Gradivus are not here. The enemy took them when they fled. I am sorry. I had hoped to give you all three, and thus aid you in the battles to come....",sadness
+FE11,12-TheAgelessPalace,Marth,"Your concern for me is more than enough, Nyna. One day, I will get your family's treasures back and use them to crush Dolhr. I swear it on this emblem of fire!",anger
+FE11,18-TheSableOrder,Malledus,"Prince Marth, I see them: a cohort of Grustian knights, out on the far side of the bridge. That must be the Sable Order...",neutral
+FE11,18-TheSableOrder,Nyna,"Marth, I heard the enemy forces have been spotted.",neutral
+FE11,18-TheSableOrder,Marth,"Yes, that’s right. The Sable Order, it seems",neutral
+FE11,18-TheSableOrder,Nyna,"Really? Tell me, who leads them?",surprise
+FE11,18-TheSableOrder,Marth,Why does it matter?,surprise
+FE11,18-TheSableOrder,Nyna,"Oh... no, it’s just- they say the Sable Order is led by a brilliant general. I was... wondering if he was riding with them today.",neutral
+FE11,18-TheSableOrder,Marth,"You must mean General Camus. I am told Dolhr is not very happy with him at the moment, brilliant or not. Something about acting outside orders... They’ll be keeping him on a short leash; I don’t expect we’ll see him here.",anger
+FE11,18-TheSableOrder,Nyna,That... that is good news...,sadness
+FE11,18-TheSableOrder,Young Man,"You know how the Fane of Raman is supposed to be protected by a fearsome guardian? Well, I heard the “fearsome guardian” is nowt but a wee lass. If that’s true, you have to wonder why she’d stay all by herself in a dreary place like that. Mayhap she broke her ma’s favorite vase and got stuck there as a punishment? Ha ha, right.",fear
+FE11,18-TheSableOrder,Est,"Ah, you’re Prince Marth! I am Est, of the Medonian Whitewings- Palla and Catria’s younger sister. I’ve been looking for you. Initially I intended to join up with you along with my sisters, but then I heard Grust had made off with one of Akaneia’s three regalia- the sword Mercurius- so I flew there to get it back. This is Mercurius right here. It’s lovely, isn’t it? And powerful! In the right hands, I think you’ll find it a formidable weapon indeed.",joy
+FE11,18-TheSableOrder,Est,Catria!,neutral
+FE11,18-TheSableOrder,Catria,Est! It's about time you made it back. I was so worried...,fear
+FE11,18-TheSableOrder,Est,"Sorry... I won't leave you like that again. We belong together anyway. When the three of us surround an enemy, we're just about unstoppable!",sadness
+FE11,18-TheSableOrder,Catria,"True... but even so, I like having you somewhere I can keep an eye on you. Ha ha.",neutral
+FE11,18-TheSableOrder,Est,Hey! What's that supposed to mean?,surprise
+FE11,18-TheSableOrder,Est,"Hey, Palla. I'm not slowing you and Catria down, am I?",fear
+FE11,18-TheSableOrder,Palla,Why would you say that?,surprise
+FE11,18-TheSableOrder,Est,I don't know... You and she have so much more experience. Sometimes I... I just feel like I'm not pulling my load.,sadness
+FE11,18-TheSableOrder,Palla,Ha ha... Est... You're doing just fine. There are no half-Whitewings or almost-Whitewings. You're one of us because you're every bit as good as us. Have a little confidence.,neutral
+FE11,18-TheSableOrder,Est,"Right, confidence...",neutral
+FE11,18-TheSableOrder,Palla,...Feel better?,neutral
+FE11,18-TheSableOrder,Est,"Uh-huh. Thanks, Palla. It's funny... Whenever I talk to you, I calm right down. Promise you'll always be there for me, Palla.",neutral
+FE11,18-TheSableOrder,Palla,I will... I promise.,neutral
+FE11,18-TheSableOrder,Est,"Commander, did anybody tell you? I flew all the way to Grust and brought back Mercurius. Pretty spiffy, huh?",neutral
+FE11,18-TheSableOrder,Minerva,"Yes, Marth told me all about it. Very brave of you to undertake such a dangerous task alone. Well done, Est.",fear
+FE11,18-TheSableOrder,Est,"Hee hee! You mean it? Thanks, Commander! You should have seen the arrows whooshing past me left and right! But I'm a Whitewing, right? So I swooped down and let 'em have it! Just watch, though. I'll find some way to top it.",joy
+FE11,18-TheSableOrder,Minerva,"I don't doubt it. I expect great things from you, Est.",neutral
+FE11,18-TheSableOrder,Est,Hee hee! You mean it?,joy
+FE11,18-TheSableOrder,Sternlin,You shall not pass! Not today! Not ever!,anger
+FE11,18-TheSableOrder,Sternlin,You... shall... not... unnh...,sadness
+FE11,18-TheSableOrder,Nyna,We’ve made it across the strait.,neutral
+FE11,18-TheSableOrder,Marth,Yes. But the real battle may yet be ahead of us.,neutral
+FE11,18-TheSableOrder,Marth,Malledus... Can we be certain the Lightsphere and the Starsphere are in the Fane of Raman?,neutral
+FE11,18-TheSableOrder,Malledus,"Yes, sire; but unfortunately, they may not be all we find. The fane is said to be guarded by a goddess, one with fearsome powers. Those who defile her sanctuary are punished by fire; none are spared from the blaze.",fear
+FE11,18-TheSableOrder,Nyna,"Perhaps we should reconsider, Marth...",neutral
+FE11,18-TheSableOrder,Marth,"Perhaps... But if none are spared from the blaze, where do the rumors come from? Besides, we need those two orbs.",neutral
+FE11,18-TheSableOrder,Malledus,"Well, might I suggest you take in just a few able companions, and let the sleeping dragons lie?",neutral
+FE11,18-TheSableOrder,Marth,"Sage advice. I’ve no desire to tear apart a holy place, whether the goddess is home or not... I’ll choose a handful of elite to search for the orbs with me.",neutral
+FE11,23-DarkPontifex,Marth,The Temple of Thabes... He’s here... somewhere...,neutral
+FE11,23-DarkPontifex,???,"Heh heh heh... Come to play, little Marth?",joy
+FE11,23-DarkPontifex,Gharnef,"‘Tis I, Gharnef. I have been waiting for you.",neutral
+FE11,23-DarkPontifex,Marth,Waiting?,surprise
+FE11,23-DarkPontifex,Gharnef,"Oh yes. For you to dance around the continent, collecting powerful weapons and killing off my competition. Thanks to you, Camus and Michalis will trouble me no more. You have my gratitude, diligent prince.",neutral
+FE11,23-DarkPontifex,Marth,You... monster!,anger
+FE11,23-DarkPontifex,Gharnef,"Tsk, tsk, don’t spoil the moment, now. You’re about to do me one last favor... Die, Prince. Heh heh heh!",anger
+FE11,23-DarkPontifex,Marth,That’s what you think. I have something else in mind.,neutral
+FE11,23-DarkPontifex,Gharnef,"Heh, is that a threat? If you mean to harm me, first you’ll have to find me, boy.",surprise
+FE11,23-DarkPontifex,Marth,And what is that supposed to mean?,surprise
+FE11,23-DarkPontifex,Malledus,"My prince! Several sorcerers have been sighted throughout the temple! They’re... They all seem to be Gharnef, sire!",fear
+FE11,23-DarkPontifex,Gharnef,"Heh heh! Fight, boy, fight! Wear yourself thin fighting puppets and shadows! But the only way you’ll claim Falchion is by defeating the real me. Heh heh, ha ha ha ha!",anger
+FE11,23-DarkPontifex,Malledus,"Sire, we’ve pinpointed where Gharnef is keeping the magical apparatus that gives him his power.",neutral
+FE11,23-DarkPontifex,Marth,Where?,surprise
+FE11,23-DarkPontifex,Malledus,The Tower of Thabes atop this very temple.,neutral
+FE11,23-DarkPontifex,Marth,Then we don’t need to fight Gharnef... If we find those apparatus.,neutral
+FE11,23-DarkPontifex,Malledus,Gharnef’s power- a great deal of power- will be sealed forever.,neutral
+FE11,23-DarkPontifex,Marth,Then let’s hurry and seize the entrance to the tower!,neutral
+FE11,23-DarkPontifex,Malledus,"A word of caution, sir. Stopping the apparatus will not undo Imhullu power- only Gharnef’s. He still has Falchion in his keeping; if you want the blade back, you must defeat him now, before seizing the tower.",neutral
+FE11,23-DarkPontifex,Gharnef,"Heh heh heh... You dare challenge me, fool? You must not value your life. Cower before the might of the dark magic Imhullu!",anger
+FE11,23-DarkPontifex,Gharnef,"Agh! What... Where did you get...Starlight...? Still, you are a fool...Your power is not enough to defeat Medeus... I shall be waiting in the pits of the inferno... for when he sends you to join me... Heh heh, ha ha ha!",anger
+FE11,23-DarkPontifex,Marth,Malledus! Quickly! Find the apparatus and shut them down!,anger
+FE11,23-DarkPontifex,Malledus,"Right away, sire!",neutral
+FE11,23-DarkPontifex,Gharnef,"...Blast! How... how did they find the apparatus? All my power... Still, they are fools if they think they can defeat Medeus with such cheap tricks... Heh heh, ha ha ha!",anger
+FE11,23-DarkPontifex,Malledus,"Gharnef is getting away, sire! Shall we give chase?",neutral
+FE11,23-DarkPontifex,Marth,"No... let him go. Without his magical apparatus, he has no power left to abuse.",sadness
+FE11,23-DarkPontifex,Allied Solider,"Sire! We found Princess Elice up in the Tower of Thabes! She’s on her way to see you right- Ah, here she is!",fear
+FE11,23-DarkPontifex,Marth,Elice!!!,anger
+FE11,23-DarkPontifex,Elice,Marth! Oh look at you. A man grown!,joy
+FE11,23-DarkPontifex,Marth,"Sister, I was so worried. None had seen you since the castle fell. I... I feared the worst.",fear
+FE11,23-DarkPontifex,Elice,"I was prepared for the worst, if that was what it took to ensure your safety. But they did not kill me. Gharnef spared my life.",neutral
+FE11,23-DarkPontifex,Marth,Why would he spare you?,neutral
+FE11,23-DarkPontifex,Elice,"Marth, have you heard of the staff of Aum?",neutral
+FE11,23-DarkPontifex,Marth,"The staff that brings back the dead? It was lost to the world long ago, or so the legend goes.",neutral
+FE11,23-DarkPontifex,Elice,"Yes, but Gharnef found it... in the Resurrectory.",neutral
+FE11,23-DarkPontifex,Marth,The Resurrectory? What was it doing in a temple in the middle of Dolhr?,surprise
+FE11,23-DarkPontifex,Elice,"I could not say. But that was why Gharnef kept me alive: he wished me to wield it. The staff of Aum’s power can only be channeled by women of royal blood. Marth, you are going to Dolhr, are you not?",neutral
+FE11,23-DarkPontifex,Marth,Yes. I must settle things with Medeus.,neutral
+FE11,23-DarkPontifex,Elice,"Then take me to the Resurrectory along the way to claim the staff. Aum works but once, but I will use it to revive a lost comrade.",neutral
+FE11,21-ClashInMacedon,Marth,"Princess Minerva, we will soon reach the Macedonian border. Are you certain you wish to join the battle? If you’ve any reservations about fighting your own countrymen-",neutral
+FE11,21-ClashInMacedon,Minerva,"If I did, Prince Marth, I would not have offered you my axe.",neutral
+FE11,21-ClashInMacedon,Marth,But surely-,neutral
+FE11,21-ClashInMacedon,Minerva,"You have the wrong idea. Perhaps you think I wish to spare my brother and former vassals, forgive them for seeing things differently?",anger
+FE11,21-ClashInMacedon,Marth,...Don’t you?,surprise
+FE11,21-ClashInMacedon,Minerva,"I would be lying if I said I did not wish it were that simple. But history needs to remember that when Macedon went astray, it was a Macedonian who set things right.",neutral
+FE11,21-ClashInMacedon,Marth,Even if it means your own brother may die?,anger
+FE11,21-ClashInMacedon,Minerva,"Since I was little, I followed in Michalis’s footsteps. Whatever books he read, I read; whenever he practiced the sword, I was close by, watching, learning... He was always a step ahead: my hero, something to aspire to. Even now, some part of me loves him. ...I love him enough to spare him death on some stranger’s sword, you see? Let him be punished by my hands.",neutral
+FE11,21-ClashInMacedon,Orridyon,Rebels! You have strutted into the wrong kingdom this time!,anger
+FE11,21-ClashInMacedon,Orridyon,Nngh! I am but a pebble... in Macedon's unshakeable foundation...,anger
+FE11,21-ClashInMacedon,Gotoh,...Prince Marth...,joy
+FE11,21-ClashInMacedon,Marth,"That voice! Lord Gotoh, is that you?",surprise
+FE11,21-ClashInMacedon,Gotoh,"I see you have made it to Macedon. You will find me in a village north of the Macedon aerie, their castle. If you possess the Lightsphere and Starsphere, have them in hand when you visit me here. ...Ah, yes. I also have good news. Your sister Elice is unharmed.",joy
+FE11,21-ClashInMacedon,Marth,What?! You are certain? Where is she now?,surprise
+FE11,21-ClashInMacedon,Gotoh,"Thabes, city of illusion. Gharnef took her with him when he fled. I pray you rescue her soon.",fear
+FE11,21-ClashInMacedon,Marth,I will!,neutral
+FE11,21-ClashInMacedon,Gotoh,"But first, bring me the two orbs. Without Starlight’s mighty blast, Gharnef will only add your life to the list of things he has taken from you.",anger
+FE11,00-Prologue4,Malledus,Prince Marth. ...Sire? Sire! Are you listening?!,surprise
+FE11,00-Prologue4,Marth,Huh? ...Oh. Malledus.,surprise
+FE11,00-Prologue4,Malledus,"Get ahold of yourself, Sire! I know how you grieve, but the Gra host that pursues us will not be interested. We must keep moving, and with all haste at that.",neutral
+FE11,00-Prologue4,Marth,I...I'm sorry. These thoughts are hard to put aside.,sadness
+FE11,00-Prologue4,Malledus,"From here, we will cross out of Altea and begin our escape to Talys. I trust you are prepared?",neutral
+FE11,00-Prologue4,Marth,"Talys... I've heard the name. An island kingdom to the east, isn't it?",neutral
+FE11,00-Prologue4,Malledus,"That is correct. The king there was a good friend to your father- and perhaps more importantly, a true friend. It was Princess Elice's wish that you seek refuge in Talys should things ever go awry.",neutral
+FE11,00-Prologue4,Marth,"Me, but not her...",neutral
+FE11,00-Prologue4,Malledus,"I've arranged for a boat to take us from the northeast shore. But to get there, we'll first need to cut through a prison to the north. I managed to come by a key to the premises. Let me hand it over.",neutral
+FE11,00-Prologue4,Malledus,"Now, on the road, you may notice people who seem to be fighting for Gra against their own wishes. Before you resort to your blade, you should try talking to them first.",neutral
+FE11,00-Prologue4,Young Man,"Boy, I don’t envy you! The enemy horde is closing in on you faster’n a bolt of Thoron. You and your friends had better hightail it on outta here!",anger
+FE11,00-Prologue4,Old Man,Sometimes victory on a battlefield requires that someone you care about make a sacrifice. But parting with one comrade may be the only way to meet another. You need to accept your losses in life and move forward.,neutral
+FE11,00-Prologue4,Woman,"My word! Aren’t you–No, you cannot stay here! Run! Before their soldiers come back! Here, this is the bow my granddaughter always used. Take it, sire! Please, promise you’ll stay safe...",joy
+FE11,00-Prologue4,Captain,Enemies south of the prison?,neutral
+FE11,00-Prologue4,Soldier,"Yes, sir. Not many of 'em, but the scouts say they're a tough bunch all the same. And guess who's with 'em...",neutral
+FE11,00-Prologue4,Captain,...You're saying the prince is coming this way?,surprise
+FE11,00-Prologue4,Soldier,"Yes, sir. How ought we proceed? The main force ‘as yet to arrive, and- to be honest, sir- we need 'em.",neutral
+FE11,00-Prologue4,Captain,Bah! You're cowed too easily. We can win...if we set a trap.,anger
+FE11,00-Prologue4,Soldier,"Er...a trap, sir?",neutral
+FE11,00-Prologue4,Captain,"The prince of Altea will be ours. Just do as I tell you, and we'll pluck this royal plum long before the main force can show up to steal all the glory. Heh...",joy
+FE11,00-Prologue4,Ruffian,You! Inside!,anger
+FE11,00-Prologue4,Gordin,Grrrmph...,neutral
+FE11,00-Prologue4,Ruffian,"Heh. I thought Altea was the great ‘ero Anri's kingdom! Didn't take more'n a couple of days to break you, now did it, Gaggles?",fear
+FE11,00-Prologue4,Gordin,Mmph! Arrumph!,anger
+FE11,00-Prologue4,Ruffian,"What's the matter, Gaggles? Can't talk cause you're gagged, Gaggles? Ba ha ha! I'll letcha in on a little secret. Altea's little princeling is on ‘is way ‘ere right this moment.",anger
+FE11,00-Prologue4,Gordin,.....!,neutral
+FE11,00-Prologue4,Ruffian,"Ooh, but sad for you, you look awful dangerous in the uniform... MISTER GRA SOLDIER! Ha! Soon as the prince sees you, ‘e'll say, Yow! It's an enemy ambush!-And that'll be the end of you.",fear
+FE11,00-Prologue4,Gordin,Gugrrrmph!,neutral
+FE11,00-Prologue4,Ruffian,"Once the prince sticks you like a pig, we get to call him Marth the Tyrant, coz ‘e kills ‘is own countrymen.",anger
+FE11,00-Prologue4,Ruffian,Won't that be an ‘oot!,anger
+FE11,00-Prologue4,Gordin,Rrrmph.,neutral
+FE11,00-Prologue4,Ruffian,"So long, Gaggles! Better start praying to your ‘igher deity of choice!",anger
+FE11,00-Prologue4,Jiol,"Listen, men. Your target is the prince. Find the prince of Altea and bring me his head served on a shield!",neutral
+FE11,00-Prologue4,Marth,Look there!,neutral
+FE11,00-Prologue4,Malledus,"No...Anri save us...Of all the places to be beset! Sire, that is Gra's main force- and they are accompanied by the knights of Grust's Sable Order. Our chances of routing them are slim, I'm afraid, and those of slipping away undetected afterward, all but nil...",fear
+FE11,00-Prologue4,Marth,Then we've no hope?,neutral
+FE11,00-Prologue4,Malledus,I...I can think of one strategy. We could leave a decoy behind for when the enemy catches up.,neutral
+FE11,00-Prologue4,Marth,A decoy?,neutral
+FE11,00-Prologue4,Malledus,"It's you they're after, sire. Were one of your men to stay behind disguised as you...Well, the enemy ought to take the bait. That would give you, and the others time to escape.",neutral
+FE11,00-Prologue4,Malledus,One of your men must make for that fortress on the south highroad. He will act as a decoy by dressing as you and luring the enemy force away.,neutral
+FE11,00-Prologue4,Marth,"But Malledus, how will he find his way back to us?",surprise
+FE11,00-Prologue4,Malledus,Sire...He may not. You must part with one of your comrades. There is no other way.,neutral
+FE11,00-Prologue4,Marth,"...Well, I will find a way! You cannot expect me to agree to...to abandon one of our own to a death at the hands of the enemy. Surely there must be another way...",anger
+FE11,00-Prologue4,Malledus,"Forgive me, sire...But this is our only chance. You know as well as I do that you must not die here today.",sadness
+FE11,00-Prologue4,Malledus,"No, sire! Get back here! One of your other men must take that position!",neutral
+FE11,00-Prologue4,Enemy Soldier 1,Look! It's...it's Prince Marth!,surprise
+FE11,00-Prologue4,Enemy Soldier 2,"Oh yeah? Who's that, then? That bloke over there is dressed in the same clothes. Could be either of 'em.",surprise
+FE11,00-Prologue4,Jiol,Simpletons! Use your heads! One of them ran; the other didn't. What does that tell you? Easy! The one who stayed behind is trying to buy time for the one who fled.,neutral
+FE11,00-Prologue4,Enemy Solider,"So, er...the one who took off is-",neutral
+FE11,00-Prologue4,Jiol,"The real prince, you idiot, yes! Hie, troops, after him! Put that craven whip to the sword!",anger
+FE11,00-Prologue4,Marth,"Wait! Quickly, Malledus, we must head south and rescue him!",neutral
+FE11,00-Prologue4,Malledus,"No, sire. We have to press on.",neutral
+FE11,00-Prologue4,Marth,Press on? (Insert name) might be dying back there!,anger
+FE11,00-Prologue4,Malledus,"If he were, then why would you be so selfish as to let him die in vain? Honor him, by allowing his life and his choice to mean something!",anger
+FE11,00-Prologue4,Marth,......,neutral
+FE11,00-Prologue4,Marth,...All right.,neutral
+FE11,00-Prologue4,Marth,I will honor him. ...I will go.,neutral
+FE11,00-Prologue4,Captain,The prince fled south? Bah! Seems the plum's fallen too far from our tree... No matter. Open the north door! We can still crush the Altean rabble he left behind...,fear
+FE11,00-Prologue4,Marth,Blast! That archer was on our side!,anger
+FE11,00-Prologue4,Captain,"They killed the captive? Heh heh... What fools! Hie, let's give them the punishment fools deserve! Open the north door! Lure them out and strike them down!",anger
+FE11,00-Prologue4,Captain,All but the prince have been slain? Good. Open the north door! The little whelp is ours now!,anger
+FE11,00-Prologue4,Malledus,"Sire, there is a village over yonder. Its residents may be willing to help. Why don't you try paying them a visit?",neutral
+FE11,00-Prologue4,Draug,"Prince Marth! Make haste, sire!",neutral
+FE11,00-Prologue4,Marth,"Draug, is that you? What are you doing here?",surprise
+FE11,00-Prologue4,Norne,"Draug, sir! The enemy has crossed the border from the west! They’ll be upon us soon!",fear
+FE11,00-Prologue4,Draug,"Right, we’re on our way. Sire, this is Norne. She heard wind of our struggles and wishes to fight for Altea.",neutral
+FE11,00-Prologue4,Norne,"Prince Marth, ’tis an honor. By your leave, though, I’ll be savin' the curtsy-bobbin' for later. Quickly, sire!",joy
+FE11,00-Prologue4,Jiol,This is...the wrong prince? No! You dare make a fool of me? Kill him! Make this faux prince SUFFER!,anger
+FE11,00-Prologue4,Gordin,May I suffer for my sins...,sadness
+FE11,00-Prologue4,Marth,Yow! It's an enemy ambush!,fear
+FE11,00-Prologue4,Gordin,Rrrgmph mrph!,anger
+FE11,00-Prologue4,Marth,"Huh? You've been gagged? Here, I'll get that... Wait, I know you! You're one of our archers, er...",surprise
+FE11,00-Prologue4,Gordin,"Gordin, sire! My name is Gordin. The enemy captured me and left me in this mortifying state.",anger
+FE11,00-Prologue4,Marth,"I see. Well, I'm glad you're unharmed. But I'm afraid we cannot stay here a moment longer. Stay behind me and-",joy
+FE11,00-Prologue4,Gordin,"I can fight, sire! If you have a bow I could use, I would be honored to fight at your side.",joy
+FE11,00-Prologue4,Jagen,"Heh, these old bones are still good for something. Farewell, my prince. Live, and grow strong...",neutral
+FE11,00-Prologue4,Cain,"Glory to Altea, land of my birth! Farewell, sire! Fortune protect you...",joy
+FE11,00-Prologue4,Abel,Good... Altea's hope is restored. Farewell sire. Fortune protect you...,sadness
+FE11,00-Prologue4,Frey,"Count this knight honored to die in the service of his prince. Live, sire, and grow strong...",joy
+FE11,00-Prologue4,Gordin,"I was dead anyway till you came, sir... If I'm to die again, at least let me die for you. Fortune protect you sire...",sadness
+FE11,00-Prologue4,Jagen,"Look, sire. See how Altea shrinks on the horizon...",neutral
+FE11,00-Prologue4,Marth,..aven...,neutral
+FE11,00-Prologue4,Jagen,I beg your pardon?,neutral
+FE11,00-Prologue4,Marth,"I am a craven. Powerless to save my sister, to staunch my kingdom's wounds; to ease my people's fears...",fear
+FE11,00-Prologue4,Jagen,"This...was your only recourse, sire. But surely, one day, you will be able to set things right...",neutral
+FE11,00-Prologue4,Jagen,Sire...,neutral
+FE11,00-Prologue4,Marth,"I will return, Altea! Your prince will return to you one day!",anger
+FE11,00-Prologue,Soldier,"Prince Marth... Are you awake? Beggin' your pardon, sire, but the princess has asked to see you.",joy
+FE11,00-Prologue,Marth,"Elice? Is she all right?""",neutral
+FE11,00-Prologue,Soldier,"She seemed to be, sire, but her words implied a certain urgency. She bade you dress quickly and wait by the throne.",neutral
+FE11,00-Prologue,Marth,...Has something happened?,neutral
+FE11,00-Prologue,Soldier,"It's our forces off in Gra, sire. There seems to 'ave been some sort of incident, but... Well, I'm not privy to the specifics.",neutral
+FE11,00-Prologue,Marth,I see... Thank you. I'll be there shortly.,joy
+FE11,00-Prologue,Marth,My sister said she would meet me by the throne.,neutral
+FE11,00-Prologue,Marth,"An incident in Gra... If Elice had news of our father, I pray it's good news...",sadness
+FE11,00-Prologue,Enemy Soldier,"O'er there, that's him! Prince Marth!",neutral
+FE11,00-Prologue,Marth,Wha- Who are you?!,surprise
+FE11,00-Prologue,Enemy Soldier,"We're soldiers of Gra, li'l prince. And if you know what's good for you, you'll surrender to us without makin' any trouble.",sadness
+FE11,00-Prologue,Marth,Surrender? But that's ridiculous... Why would I surrender to the army of an allied kingdom?,anger
+FE11,00-Prologue,Marth,"I will not. I am the prince of Altea. I will not yield to you or any other nation, here on my own land, under my own castle roof!",anger
+FE11,00-Prologue,Enemy Soldier,"Heh, you talk big, brat. Have it your way. If you won't lay down your sword, then we'll just have to take your life instead!",anger
+FE11,00-Prologue,Enemy Soldier,What? He is fighting back? I'll show him!,surprise
+FE11,00-Prologue,Marth,No! The throne... I have to get rid of him before my sister arrives!,anger
+FE11,00-Prologue,Elice,"Marth, are you all right?",neutral
+FE11,00-Prologue,Marth,"Sister, what is happening?",surprise
+FE11,00-Prologue,Elice,"Steady yourself, Marth. I have grave news. Our father was defeated by the Dolhr-Grust allied forces.",sadness
+FE11,00-Prologue,Marth,What? No...,surprise
+FE11,00-Prologue,Elice,It was Gra. Our own ally betrayed us and struck Father's army from the rear. I am... I am not sure if he is safe. The scouts who returned gave conflicting reports...,fear
+FE11,00-Prologue,Marth,Father...It can't be...,neutral
+FE11,00-Prologue,Elice,"As we speak, soldiers sent by Gra are trying to take the castle. Mother and I were separated during the escape. I do not know where she is.",sadness
+FE11,00-Prologue,Marth,.....,neutral
+FE11,00-Prologue,Elice,"Marth, I need you to listen to me. You must flee the castle. Go on without me.",neutral
+FE11,00-Prologue,Marth,What?,surprise
+FE11,00-Prologue,Elice,"We've not many soldiers left...This is hard to bear, I know, but the castle is lost. We must face that. I will look for Mother and join you as soon as I can. You find Jagen and get away from here- far away. Understand?",sadness
+FE11,00-Prologue,Marth,...All right. But promise you won't be long.,neutral
+FE11,10-PrincessMinerva,Maria,"Oh! You must be Prince Marth! (My, he's so dashing!) ...Thank you for rescuing me. Please be sure to tell my sister I am free. She'll be grateful for the news. Now then. Shall we be off? I'm coming with you, of course.; ...No protesting! I wish to help!",joy
+FE11,10-PrincessMinerva,Minerva,"Greetings, Prince Marth. I am Minerva of Macedon. Thank you for saving my sister. Maria's plight forced me to treat you as an enemy when I knew you were not; suffice to say, I am deeply sorry for that. ...The whole world has gone mad. Most of Macedon fights for Dolhr now. My own brother Michalis leads them. And on their hands is the blood of their king, my father. They must be stopped; I must stop them. Still, I fear for my soldiers whom I can no longer protect, especially the three Whitewing sisters: Palla, Catria, and Est. Dolhr worried we would rebel, and forced us to separate. If they knew I was safe, they would join your ranks in a heartbeat. We are yours to command, sire. Let us help you defeat Dolhr, and repay them for sullying Macedon's honor.",sadness
+FE11,10-PrincessMinerva,Maria,Sister!,neutral
+FE11,10-PrincessMinerva,Minerva,Maria... Are you all right?,neutral
+FE11,10-PrincessMinerva,Maria,Fine. Have you heard? Marth made me one of his soldiers! Well...I made him make me one.,joy
+FE11,10-PrincessMinerva,Minerva,"...What am I going to do with you? Listen to me, Maria... you cannot stay here. It's too dangerous. Real war is nothing like your stories of princes and damsels.",fear
+FE11,10-PrincessMinerva,Maria,I'm not going anywhere! I want to stay with you!,anger
+FE11,10-PrincessMinerva,Minerva,"Maria, you're being selfish–",anger
+FE11,10-PrincessMinerva,Maria,I am not! I'm just...sick of being helpless. I've burdened you long enough. How can I ever help you if you don't give me a chance to be strong? I'm staying here and fighting! No protesting!,fear
+FE11,10-PrincessMinerva,Minerva,"...Ha ha. Somehow I knew you would say that. All right, Maria. If you feel that strongly about it, who am I to stop you? All I ask is that you be careful. If you need help, you come find me. Understood?",neutral
+FE11,10-PrincessMinerva,Maria,"Of course! Thank you, Sister!",joy
+FE11,10-PrincessMinerva,Zharov,"Grrr... Must I do everything myself? Bah! You'll not get past me, rebel!",anger
+FE11,10-PrincessMinerva,Zharov,They're a force... to be reckoned... with... Rrgh...,sadness
+FE11,10-PrincessMinerva,Nyna,"Marth, have you ever heard of Pontifex Miloah?",neutral
+FE11,10-PrincessMinerva,Marth,"The one who defended Archanea with the power of Aura? Of course; he and his magic are famous! But...I read Miloah died in a battle with Gharnef, soon after the fiend sold his soul to Dolhr...",anger
+FE11,10-PrincessMinerva,Nyna,"Alas, Miloah did die... But his daughter, Linde, yet lives. I am told she inherited her father's skill with Aura magic- but since the battle with Gharnef none have seen her. Wherever she is, it cannot be pleasant. ...Marth, please. Find Linde. With her father gone, we are the only family the girl has left.",sadness
+FE11,06-FireEmblem,Emereus,"What?! The rebels are inside the castle? Grrr…Very well! Armored units: intercept the intruders! Archers: defend the throne! Thieves, you go gather up the treasure while I make preparations to withdraw. You have your orders! Don’t let those rebels anywhere near this chamber!",anger
+FE11,06-FireEmblem,Julian,What the- Rickard? What are you doin’ in here?,surprise
+FE11,06-FireEmblem,Rickard,"Oh, uh… Hey there, Chief! Been a long time, huh? So, funny story: I decided to break in here and clean the place out- and then I got caught. Hilarious, right? Comedy gold. OK, your turn What are YOU doin’ here?",joy
+FE11,06-FireEmblem,Julian,Me? I’ve washed my hands of thievery and joined the forces of justice.,neutral
+FE11,06-FireEmblem,Rickard,Ohhh really? Justice? So then this wouldn’t have nothin’ to do with some new lady friend? You always did have a soft spot for a pretty face and the right features-,surprise
+FE11,06-FireEmblem,Julian,"Wha- Can it, you little fink! I said it’s about justice! I’m entitled to have moral crisis now and then! …You know what? Just for that, YOU are gonna work for me, startin’ right now.",joy
+FE11,06-FireEmblem,Rickard,"What? Do I have to…? Well, all right. You drive a hard bargain, but what can I say? I missed ya, Chief. Just make sure I get a cut out of the haul!",neutral
+FE11,06-FireEmblem,Rickard,"…Wow! Really? A prince, you say? Thanks for springin’ me! I’m Rickard, just a small-time thief, mind you, but I’ve got big aspirations! I broke in here to clean the place out, and instead it was me that got my cloak cleaned… Since you saved my hide, I guess the least I can do is lend my services in return.",joy
+FE11,06-FireEmblem,Rickard,"So you’re the prince of Altea, then? Hello. I’m Rickard. Just a small-time thief, mind you, but I’ve got big aspirations! Julian asked me to help you out, see, and what the chief says, goes! So here I am.",neutral
+FE11,06-FireEmblem,Emereus,Blast! They're upon me! Why didn't those idiot soldiers stop them?!,anger
+FE11,06-FireEmblem,Emereus,Rrgh... Why... ?,sadness
+FE11,06-FireEmblem,Nyna,"Prince Marth… At long last. I am Nyna of House Archanea. ‘Tis Archanea’s burden to protect the world of crisis- a duty I have striven to fulfill. But Dolhr has laid waste to my kingdom, and now I find myself powerless to stop the world from falling into ruin. Marth… Please, pick up the banner where I have let it fall. Lead your might against Dolhr, and free us all.",sadness
+FE11,06-FireEmblem,Marth,"Of course, Princess Nyna. Altea swore fealty to Archanea long ago, a vow we have always kept. And, as you know, it is in my blood – House Altea’s blood – to destroy Medeus just as Anri did before me.",anger
+FE11,06-FireEmblem,Nyna,"Thank you, Marth. Then let me give you this. This crest is called the Fire Emblem. House Archanea bestows it only upon a true champion, one we believe has the power to save the world. With it, you gain the right to open treasure chests across the land and wield the precious items within. I know you will use them well. Never give up, Marth. Fight, until the day you restore light to our world.",joy
+FE11,17-StarAndSavior,Morzas,"Kee hee hee... Wretched Altean whelp, stumbling home to the slaughter... What fool throws away a life already so preciously bought? Your mother, Liza, is dead; I killed her myself. Your sister Elice lives only because Gharnef wanted her. So what will become of you, little prince? Will you run for your life a second time? Or will you stay this time to die? Emperor Medeus would not put me on this throne if he thought you could remove me from it, kee hee hee...",anger
+FE11,17-StarAndSavior,Morzas,Kee hee... Witless human! None defy a mage-dragon and live to speak of it!,anger
+FE11,17-StarAndSavior,Morzas,Grrf... I stand... corrected...B ut you still lack the power... to defeat Medeus...,sadness
+FE11,17-StarAndSavior,Nyna,Marth! Any word? Have you found your family? Your sister?,surprise
+FE11,17-StarAndSavior,Marth,...My sister was taken by Gharnef. She is no longer here... And my...my mother is... She is dead. Slain...by that Dolhrian dragon...,sadness
+FE11,17-StarAndSavior,Nyna,"....! Marth, I am truly sorry...",sadness
+FE11,17-StarAndSavior,Marth,I thought there would be something...some part of my old life I would be coming back to. I fought so hard...,sadness
+FE11,17-StarAndSavior,Nyna,"You fought wonderfully, Marth.",joy
+FE11,17-StarAndSavior,Malledus,"...Sire, might I have a moment?",neutral
+FE11,17-StarAndSavior,Marth,"All the moments you want, Malledus. What is it?",neutral
+FE11,17-StarAndSavior,Malledus,"Your people have gathered outside the castle. They are overjoyed to be free again, sire, and would like very much to see their prince.",joy
+FE11,17-StarAndSavior,Marth,"All right, then. I'll go at once.",neutral
+FE11,17-StarAndSavior,Nyna,"Marth...perhaps you should let that wait, just until you are able to share their joy with them. We could send someone in your stead-",joy
+FE11,17-StarAndSavior,Marth,"No, that would not do. Today is a momentous day for my kingdom and my people. I must celebrate with them now, not later. Anything else would be a disservice to those who died to save Altea. I am a prince before I am a son or a brother. Come, Malledus. Let us go greet my people.",neutral
+FE11,24x-TheAlterspire,Marth,This must be the tower Lord Gotoh spoke of...,neutral
+FE11,24x-TheAlterspire,Malledus,"Sire, it’s teeming with soldiers... Who are they? They fly no recognizable banner.",surprise
+FE11,24x-TheAlterspire,Marth,They are the Keepers whose test I must pass.,neutral
+FE11,24x-TheAlterspire,Malledus,"You mean to fight them, then?",neutral
+FE11,24x-TheAlterspire,Marth,Gotoh says we must prove ourselves. Very well; we’ll seize the tower. Follow me!,neutral
+FE11,24x-TheAlterspire,Malledus,"Sire, look! Stairs beneath the throne! Where could they lead?",fear
+FE11,24x-TheAlterspire,Malledus,...Do you think this is the coffin?,surprise
+FE11,24x-TheAlterspire,Marth,There are no others. And look: these markings around it are the same pattern we saw in the Fane of Raman...,neutral
+FE11,24x-TheAlterspire,Malledus,"Hmm, you’re right...",neutral
+FE11,24x-TheAlterspire,Marth,We found a dragon girl in the fane... I wonder if these symbols-Huh?!,surprise
+FE11,24x-TheAlterspire,Malledus,Sire! The coffin... It’s opening!,joy
+FE11,24x-TheAlterspire,Marth,"What? No! It must be some kind of trap, or... or some kind of... er...",surprise
+FE11,24x-TheAlterspire,Marth,...woman? Could she be the master Gotoh spoke of?,surprise
+FE11,24x-TheAlterspire,Nagi,...Who are you?,surprise
+FE11,24x-TheAlterspire,Marth,"My name is Marth, prince of Altea. And you, my lady?",neutral
+FE11,24x-TheAlterspire,Nagi,Me?! My name... is Nagi.,surprise
+FE11,24x-TheAlterspire,Marth,"Nagi... I was sent here to find you, by a man named Gotoh.",neutral
+FE11,24x-TheAlterspire,Nagi,Gotoh... I know that name...But from where? I cannot recall.,surprise
+FE11,24x-TheAlterspire,Marth,You’ve lost your memory?,surprise
+FE11,24x-TheAlterspire,Nagi,I... cannot say for certain. But your voice... I heard you calling. Did you rouse me from my sleep?,sadness
+FE11,24x-TheAlterspire,Marth,I... er... Not on purpose?,neutral
+FE11,24x-TheAlterspire,Nagi,Your soul... called out to me...begging for my help. For this blade...,anger
+FE11,24x-TheAlterspire,Marth,That...that’s Falchion! How did you get it?!,anger
+FE11,24x-TheAlterspire,Nagi,"I cannot remember... But you need it, I know that. And you need my powers.",neutral
+FE11,24x-TheAlterspire,Marth,"Your... powers, my lady?",neutral
+FE11,24x-TheAlterspire,Nagi,Take me with you. I must... finish what I started... I think. I must fight with you.,neutral
+FE11,17x-HelenaCastle,Enemy Soldier,"Lord Dactyl, I’ve brought the mage.",neutral
+FE11,17x-HelenaCastle,Dactyl,Good. Hold him up.,neutral
+FE11,17x-HelenaCastle,Etzel,...Nngh....,neutral
+FE11,17x-HelenaCastle,Dactyl,"Well, then? Have you been persuaded to fight for us?",neutral
+FE11,17x-HelenaCastle,Etzel,...Never. I’d rather die.,sadness
+FE11,17x-HelenaCastle,Dactyl,You’d rather DIE? Ha! As if a spell-slinging vagabond like you has any choice in the matter! Enough. Strip him of all his possessions and lock him up someplace. Perhaps we can use him later.,anger
+FE11,17x-HelenaCastle,Enemy Soldier,"There’s not much to strip him of, milord. Just the tome and this ring...",neutral
+FE11,17x-HelenaCastle,Dactyl,Ring? Let me have a look at that.,neutral
+FE11,17x-HelenaCastle,Etzel,"No! Don’t you- Grr, let me go! Don’t you touch Ursula’s ring!",anger
+FE11,17x-HelenaCastle,Dactyl,Wha... what are you- yaagh!,surprise
+FE11,17x-HelenaCastle,Enemy Soldier,O-oi! Take your hands off Lord Dactyl!,anger
+FE11,17x-HelenaCastle,Etzel,"Rrgh... please, not the ring! ...Give it BACK!",sadness
+FE11,17x-HelenaCastle,Dactyl,"Unhand me, you filthy maggot!",anger
+FE11,17x-HelenaCastle,Etzel,Nngh! ...Unnh...,sadness
+FE11,17x-HelenaCastle,Dactyl,Take this wretch away. Now!,anger
+FE11,17x-HelenaCastle,Enemy Soldier,"At once, milord!",neutral
+FE11,17x-HelenaCastle,Dactyl,"Hmph, all that for some tawdry ring. ...Hmm? That gives me an idea...",surprise
+FE11,17x-HelenaCastle,Enemy Soldier,"I’ve brought him, milord.",neutral
+FE11,17x-HelenaCastle,Dactyl,Good. I’ve had a change of heart. I am considering giving that ring of yours back.,joy
+FE11,17x-HelenaCastle,Etzel,...!,neutral
+FE11,17x-HelenaCastle,Dactyl,BUT...you must face the League for us. How much considering I do hinges on how well you fight.,neutral
+FE11,17x-HelenaCastle,Etzel,"...And how am I to fight unarmed, my lord?",neutral
+FE11,17x-HelenaCastle,Dactyl,"Hmm? ...Ah. yes, well, you can have your little book back. But you know what the consequences will be if you betray us...",anger
+FE11,17x-HelenaCastle,Etzel,"For now, I’ll just have to feign obedience...",anger
+FE11,17x-HelenaCastle,Etzel,"Sorry. I mean you no harm, but neither have I any wish to die here.",sadness
+FE11,17x-HelenaCastle,Dactyl,Blast! Where have those indolent guards gone?,anger
+FE11,17x-HelenaCastle,Dactyl,Unnh... gwaaah!,fear
+FE11,17x-HelenaCastle,Malledus,"Prince Marth! Grust’s garrison left their war chest when they fled. This much gold should buy plenty of equipment. Might I suggest, sire, you avail yourself of this opportunity to outfit your soldiers? Our next opponent will be Grust’s Sable Order. By our scouts’ reports, they march to meet us as we speak. Many say their knights are the strongest on the continent. We’ll want to be well prepared.",neutral
+FE11,17x-HelenaCastle,Etzel,"You’re Prince Marth, aren’t you? I wish to thank you.",joy
+FE11,17x-HelenaCastle,Marth,...Who are you?,surprise
+FE11,17x-HelenaCastle,Etzel,"My name is Etzel. I am a traveling sorcerer. Those Grustian cowards stole a ring from me, and were it not for you, I might never have seen it again.",anger
+FE11,17x-HelenaCastle,Marth,"The ring must have been very dear to you, then.",sadness
+FE11,17x-HelenaCastle,Etzel,It’s all I have to remember my wife by. She got caught in the fighting back when Gra betrayed Altea...,sadness
+FE11,17x-HelenaCastle,Marth,Those were dark days. You have my deepest sympathies; I lost my father in the same battle.,sadness
+FE11,17x-HelenaCastle,Etzel,Will there be no end to this bloodshed?,anger
+FE11,17x-HelenaCastle,Marth,"There will, Etzel. I have sworn to end it; that’s the very reason all of us fight.",neutral
+FE11,17x-HelenaCastle,Etzel,"And you think you can end it, just like that? From anyone else’s lips that would sound absurdly naive. But I can tell you are sincere. Tell me, Prince, have you any need for an extra... spell slinger? I’ve no taste for war, but I do have a fierce hunger for ending it. Let’s usher in a new era, you and I.",anger
+FE11,19-ManaketePrincess,Gharnef,Tiki... Tiki... Princess-that-was of the great divine dragons ...Can you hear my voice?,surprise
+FE11,19-ManaketePrincess,Tiki,....Mm-hmm.,neutral
+FE11,19-ManaketePrincess,Gharnef,Defilers have set foot inside the fane- despoilers! Punish them. Let your fire consume them!,anger
+FE11,19-ManaketePrincess,Tiki,Defilers... in the fane... Punish them...,anger
+FE11,19-ManaketePrincess,Gharnef,"Remember, Tiki. Your divine dragon kin perished long ago, and Bantu has abandoned you... I alone am protecting you from Medeus. Remember...",sadness
+FE11,19-ManaketePrincess,Tiki,You alone... are protecting me... Punish... the defilers...,anger
+FE11,19-ManaketePrincess,Bantu,"Tiki! Tiki, my child! At last, I have found you!",fear
+FE11,19-ManaketePrincess,Tiki,No... Stop... Come no closer...,fear
+FE11,19-ManaketePrincess,Bantu,"Hm? ...Gharnef has put you in some sort of trance, poor thing. Peace, child. Peace. Awaken.",sadness
+FE11,19-ManaketePrincess,Tiki,...Mmm? ....Ban-Ban? Is that you? Where am I? What happened?,surprise
+FE11,19-ManaketePrincess,Bantu,"Yes, child. ’tis I, ’tis I. How I worried! Are you hurt?",fear
+FE11,19-ManaketePrincess,Tiki,"No, Ban-Ban, just...just scared...I feel as though I just woke from an awful nightmare...",fear
+FE11,19-ManaketePrincess,Bantu,"I am truly sorry, child. Truly, I am. I will not let us be separated again. From now on, I will be there to protect you.",sadness
+FE11,19-ManaketePrincess,Tiki,"Promise? You have to promise, Ban-Ban. I hate being alone...",sadness
+FE11,19-ManaketePrincess,Tiki,N-no! Please! Come no closer!,fear
+FE11,19-ManaketePrincess,Tiki,Ban-Ban... Wh-why did you leave me?,sadness
+FE11,19-ManaketePrincess,Marth,You must be Tiki. Bantu told me all about you.,neutral
+FE11,19-ManaketePrincess,Tiki,"Ban-Ban told me all about you, too. Will you take me with you?",anger
+FE11,19-ManaketePrincess,Marth,"Of course, Tiki, as long as that’s what you want.",neutral
+FE11,19-ManaketePrincess,Tiki,"Yes, yes, it is! Oh, thank you, Mar-Mar!",joy
+FE11,19-ManaketePrincess,Marth,Mar-Mar?!,surprise
+FE11,19-ManaketePrincess,Tiki,Am I not allowed to call you that?,anger
+FE11,19-ManaketePrincess,Marth,"N- That is- Er- Well, if you want.",neutral
+FE11,19-ManaketePrincess,Tiki,"Thank you, Mar-Mar!",joy
+FE11,19-ManaketePrincess,Marth,You’re welcome?,neutral
+FE11,19-ManaketePrincess,Tiki,"Huh? Xaney, where'd you go?",surprise
+FE11,19-ManaketePrincess,Xane,"Huh? Xaney, where'd you go?",surprise
+FE11,19-ManaketePrincess,Tiki,Xaney?! Why are you imitating me!,surprise
+FE11,19-ManaketePrincess,Xane,Xaney?! Why are you imitating me!,surprise
+FE11,19-ManaketePrincess,Tiki,Cut that out right now!,anger
+FE11,19-ManaketePrincess,Xane,Cut that out right now!,anger
+FE11,19-ManaketePrincess,Tiki,"Ugh, I HATE you, Xaney!",anger
+FE11,19-ManaketePrincess,Xane,"Huh? Hey, wait, Tiki! Oh come on. I was just jokin' around! Tryin' to lighten the mood! It's not like I can transform into a dragon like you so just– Oh, would you come back?",surprise
+FE11,19-ManaketePrincess,Tiki,Meanie.,neutral
+FE11,19-ManaketePrincess,Xane,"So how are you holdin' up, kiddo?",surprise
+FE11,19-ManaketePrincess,Tiki,Im all right.,neutral
+FE11,19-ManaketePrincess,Xane,Still having those bad dreams?,surprise
+FE11,19-ManaketePrincess,Tiki,Sometimes. They're really scary...,fear
+FE11,19-ManaketePrincess,Xane,"I bet they are. (...Ugh, what does Lord Gotoh expect me to do?)",anger
+FE11,19-ManaketePrincess,Tiki,Did you say something?,neutral
+FE11,19-ManaketePrincess,Xane,"Oh! No, no, it's nothin'. Hey, you know that Marth's countin' on those powers of yours.",neutral
+FE11,19-ManaketePrincess,Tiki,Uh-huh... Why?,surprise
+FE11,19-ManaketePrincess,Xane,"So, uh... you just take care of yourself, that's all. You're one special kid.",neutral
+FE11,19-ManaketePrincess,Tiki,I know.,neutral
+FE11,19-ManaketePrincess,Nyna,"Marth! Tell me, was it a success? Did you locate the Lightsphere and Starsphere?",neutral
+FE11,19-ManaketePrincess,Marth,"Never fear; I have them. We need to take these to Gotoh so he can undo Imhullu’s magic... But first, Nyna, we’ve a more pressing task ahead of us.",fear
+FE11,19-ManaketePrincess,Nyna,Oh? And what is that?,surprise
+FE11,19-ManaketePrincess,Marth,"We must defeat Grust once and for all. If we march south without finishing them off, we have our rear exposed.",neutral
+FE11,19-ManaketePrincess,Nyna,Then you mean to invade.,neutral
+FE11,19-ManaketePrincess,Marth,"Yes. And this time, General Camus will be there to meet us. I am sure of it. Camus the Sable, they call him. Many extol him as the most able warrior alive. It will be a fierce battle... but one we cannot avoid.",fear
+FE11,19-ManaketePrincess,Nyna,You are certain we must face him?,neutral
+FE11,19-ManaketePrincess,Marth,"We have crippled Grust, but they will regroup and stand in our way again. No, we need to stamp this fire out before the wind catches it and starts spreading it anew.",anger
+FE11,19-ManaketePrincess,Nyna,"Very well. But before you attack, there is something I must tell you. Later, though... Not yet. I must sort my feelings out first...",sadness

@@ -1,0 +1,508 @@
+[
+  {
+    "chapter": "00-AGirlFromThePlains",
+    "emotions": {
+      "joy": 4,
+      "sadness": 3,
+      "anger": 5,
+      "neutral": 22,
+      "surprise": 4,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "01-FootstepsOfFate",
+    "emotions": {
+      "joy": 12,
+      "sadness": 12,
+      "anger": 30,
+      "neutral": 61,
+      "surprise": 19,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "02-SwordOfSpirits",
+    "emotions": {
+      "joy": 4,
+      "sadness": 2,
+      "anger": 10,
+      "neutral": 45,
+      "surprise": 10,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "03-BandOfMercenaries",
+    "emotions": {
+      "joy": 9,
+      "sadness": 17,
+      "anger": 19,
+      "neutral": 62,
+      "surprise": 21,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "04-InOccupation'sShadow",
+    "emotions": {
+      "joy": 3,
+      "sadness": 5,
+      "anger": 12,
+      "neutral": 55,
+      "surprise": 17,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "05-BeyondTheBorders",
+    "emotions": {
+      "joy": 11,
+      "sadness": 3,
+      "anger": 22,
+      "neutral": 48,
+      "surprise": 10,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "06-BloodOfPride",
+    "emotions": {
+      "joy": 13,
+      "sadness": 7,
+      "anger": 19,
+      "neutral": 103,
+      "surprise": 32,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "07-SiblingsAbroad",
+    "emotions": {
+      "joy": 19,
+      "sadness": 11,
+      "anger": 21,
+      "neutral": 79,
+      "surprise": 30,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "07x-TheBlackShadow",
+    "emotions": {
+      "joy": 2,
+      "sadness": 2,
+      "anger": 7,
+      "neutral": 27,
+      "surprise": 6,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "08-VortexOfStrategy",
+    "emotions": {
+      "joy": 2,
+      "sadness": 5,
+      "anger": 10,
+      "neutral": 33,
+      "surprise": 11,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "09-AGrimReunion",
+    "emotions": {
+      "joy": 6,
+      "sadness": 3,
+      "anger": 21,
+      "neutral": 25,
+      "surprise": 10,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "10-TheDistantPlains",
+    "emotions": {
+      "joy": 12,
+      "sadness": 9,
+      "anger": 17,
+      "neutral": 27,
+      "surprise": 9,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "11-TakingLeave",
+    "emotions": {
+      "joy": 6,
+      "sadness": 4,
+      "anger": 2,
+      "neutral": 37,
+      "surprise": 4,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "11H-AnotherJourney",
+    "emotions": {
+      "joy": 3,
+      "sadness": 3,
+      "anger": 26,
+      "neutral": 34,
+      "surprise": 14,
+      "fear": 0
+    }
+  },
+  {
+    "chapter": "12-BirdsOfAFeather",
+    "emotions": {
+      "joy": 14,
+      "sadness": 3,
+      "anger": 25,
+      "neutral": 65,
+      "surprise": 19,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "13-InSearchOfTruth",
+    "emotions": {
+      "joy": 3,
+      "sadness": 6,
+      "anger": 17,
+      "neutral": 24,
+      "surprise": 10,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "13x-ThePeddlerMerlinus",
+    "emotions": {
+      "joy": 9,
+      "sadness": 1,
+      "anger": 16,
+      "neutral": 25,
+      "surprise": 16,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "14-FalseFriends",
+    "emotions": {
+      "joy": 13,
+      "sadness": 17,
+      "anger": 41,
+      "neutral": 83,
+      "surprise": 26,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "15-NobleLadyOfCaelin",
+    "emotions": {
+      "joy": 30,
+      "sadness": 18,
+      "anger": 25,
+      "neutral": 83,
+      "surprise": 30,
+      "fear": 25
+    }
+  },
+  {
+    "chapter": "15H-TalonsAlight",
+    "emotions": {
+      "joy": 1,
+      "sadness": 0,
+      "anger": 2,
+      "neutral": 15,
+      "surprise": 4,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "16-WhereaboutsUnknown",
+    "emotions": {
+      "joy": 22,
+      "sadness": 14,
+      "anger": 24,
+      "neutral": 116,
+      "surprise": 41,
+      "fear": 17
+    }
+  },
+  {
+    "chapter": "16x-ThePortOfBadon",
+    "emotions": {
+      "joy": 4,
+      "sadness": 6,
+      "anger": 14,
+      "neutral": 42,
+      "surprise": 12,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "17-PirateShip",
+    "emotions": {
+      "joy": 9,
+      "sadness": 9,
+      "anger": 27,
+      "neutral": 65,
+      "surprise": 24,
+      "fear": 17
+    }
+  },
+  {
+    "chapter": "18-TheDreadIsle",
+    "emotions": {
+      "joy": 4,
+      "sadness": 18,
+      "anger": 22,
+      "neutral": 30,
+      "surprise": 16,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "18x-ImprisonerOfMagic",
+    "emotions": {
+      "joy": 3,
+      "sadness": 7,
+      "anger": 8,
+      "neutral": 24,
+      "surprise": 13,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "19-Dragon'sGate",
+    "emotions": {
+      "joy": 10,
+      "sadness": 17,
+      "anger": 53,
+      "neutral": 85,
+      "surprise": 41,
+      "fear": 19
+    }
+  },
+  {
+    "chapter": "19Hx-AGlimpseInTime",
+    "emotions": {
+      "joy": 2,
+      "sadness": 5,
+      "anger": 2,
+      "neutral": 15,
+      "surprise": 6,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "20-NewResolve",
+    "emotions": {
+      "joy": 8,
+      "sadness": 23,
+      "anger": 19,
+      "neutral": 74,
+      "surprise": 24,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "21-Kinship'sBond",
+    "emotions": {
+      "joy": 3,
+      "sadness": 15,
+      "anger": 32,
+      "neutral": 85,
+      "surprise": 26,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "22-LivingLegend",
+    "emotions": {
+      "joy": 11,
+      "sadness": 7,
+      "anger": 10,
+      "neutral": 49,
+      "surprise": 22,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "22x-Genesis",
+    "emotions": {
+      "joy": 11,
+      "sadness": 7,
+      "anger": 8,
+      "neutral": 70,
+      "surprise": 13,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "23-FourFangedOffense",
+    "emotions": {
+      "joy": 17,
+      "sadness": 30,
+      "anger": 53,
+      "neutral": 144,
+      "surprise": 51,
+      "fear": 23
+    }
+  },
+  {
+    "chapter": "24-UnfulfilledHeart",
+    "emotions": {
+      "joy": 9,
+      "sadness": 13,
+      "anger": 32,
+      "neutral": 79,
+      "surprise": 20,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "25-PaleFlowerOfDarkness",
+    "emotions": {
+      "joy": 13,
+      "sadness": 33,
+      "anger": 33,
+      "neutral": 137,
+      "surprise": 45,
+      "fear": 18
+    }
+  },
+  {
+    "chapter": "25H-CrazedBeast",
+    "emotions": {
+      "joy": 8,
+      "sadness": 6,
+      "anger": 19,
+      "neutral": 33,
+      "surprise": 16,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "26-BattleBeforeDawn",
+    "emotions": {
+      "joy": 13,
+      "sadness": 28,
+      "anger": 33,
+      "neutral": 93,
+      "surprise": 25,
+      "fear": 16
+    }
+  },
+  {
+    "chapter": "27-CogOfDestiny",
+    "emotions": {
+      "joy": 13,
+      "sadness": 16,
+      "anger": 57,
+      "neutral": 108,
+      "surprise": 34,
+      "fear": 18
+    }
+  },
+  {
+    "chapter": "27-NightOfFarewells",
+    "emotions": {
+      "joy": 11,
+      "sadness": 23,
+      "anger": 42,
+      "neutral": 48,
+      "surprise": 16,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "28-ValorousRoland",
+    "emotions": {
+      "joy": 5,
+      "sadness": 11,
+      "anger": 14,
+      "neutral": 46,
+      "surprise": 16,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "29-SandsOfTime",
+    "emotions": {
+      "joy": 6,
+      "sadness": 8,
+      "anger": 16,
+      "neutral": 49,
+      "surprise": 14,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "29x-BattlePreparations",
+    "emotions": {
+      "joy": 5,
+      "sadness": 16,
+      "anger": 26,
+      "neutral": 60,
+      "surprise": 27,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "30-VictoryOrDeath",
+    "emotions": {
+      "joy": 9,
+      "sadness": 15,
+      "anger": 16,
+      "neutral": 48,
+      "surprise": 19,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "30H-TheBerserker",
+    "emotions": {
+      "joy": 2,
+      "sadness": 4,
+      "anger": 8,
+      "neutral": 23,
+      "surprise": 4,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "31-Light",
+    "emotions": {
+      "joy": 31,
+      "sadness": 46,
+      "anger": 63,
+      "neutral": 95,
+      "surprise": 34,
+      "fear": 37
+    }
+  },
+  {
+    "chapter": "32x-TheValueOfLife",
+    "emotions": {
+      "joy": 0,
+      "sadness": 2,
+      "anger": 6,
+      "neutral": 4,
+      "surprise": 3,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "XX-Epilogue",
+    "emotions": {
+      "joy": 23,
+      "sadness": 14,
+      "anger": 9,
+      "neutral": 76,
+      "surprise": 23,
+      "fear": 7
+    }
+  }
+]

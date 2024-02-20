@@ -1,0 +1,343 @@
+[
+  {
+    "chapter": "00-TheFallOfRenais",
+    "emotions": {
+      "joy": 1,
+      "sadness": 6,
+      "anger": 11,
+      "neutral": 40,
+      "surprise": 5,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "01-Escape",
+    "emotions": {
+      "joy": 13,
+      "sadness": 13,
+      "anger": 14,
+      "neutral": 45,
+      "surprise": 6,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "02-TheProtected",
+    "emotions": {
+      "joy": 5,
+      "sadness": 8,
+      "anger": 20,
+      "neutral": 57,
+      "surprise": 14,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "03-TheBanditsOfBorgo",
+    "emotions": {
+      "joy": 7,
+      "sadness": 12,
+      "anger": 11,
+      "neutral": 59,
+      "surprise": 10,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "04-AncientHorrors",
+    "emotions": {
+      "joy": 1,
+      "sadness": 0,
+      "anger": 11,
+      "neutral": 27,
+      "surprise": 8,
+      "fear": 15
+    }
+  },
+  {
+    "chapter": "05-TheEmpire'sReach",
+    "emotions": {
+      "joy": 8,
+      "sadness": 12,
+      "anger": 20,
+      "neutral": 43,
+      "surprise": 13,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "05x-UnbrokenHeart",
+    "emotions": {
+      "joy": 3,
+      "sadness": 1,
+      "anger": 13,
+      "neutral": 40,
+      "surprise": 9,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "06-VictimsOfWar",
+    "emotions": {
+      "joy": 4,
+      "sadness": 3,
+      "anger": 19,
+      "neutral": 31,
+      "surprise": 8,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "07-WatersideRenvall",
+    "emotions": {
+      "joy": 1,
+      "sadness": 1,
+      "anger": 3,
+      "neutral": 18,
+      "surprise": 6,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "08-It'sATrap",
+    "emotions": {
+      "joy": 5,
+      "sadness": 7,
+      "anger": 11,
+      "neutral": 37,
+      "surprise": 20,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "08x-ANewJourney",
+    "emotions": {
+      "joy": 11,
+      "sadness": 17,
+      "anger": 26,
+      "neutral": 90,
+      "surprise": 14,
+      "fear": 14
+    }
+  },
+  {
+    "chapter": "09A-DistantBlade",
+    "emotions": {
+      "joy": 5,
+      "sadness": 11,
+      "anger": 19,
+      "neutral": 43,
+      "surprise": 24,
+      "fear": 14
+    }
+  },
+  {
+    "chapter": "09B-FortRigwald",
+    "emotions": {
+      "joy": 4,
+      "sadness": 11,
+      "anger": 33,
+      "neutral": 72,
+      "surprise": 18,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "10A-RevoltAtCarcino",
+    "emotions": {
+      "joy": 16,
+      "sadness": 13,
+      "anger": 31,
+      "neutral": 78,
+      "surprise": 26,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "10B-TurningTraitor",
+    "emotions": {
+      "joy": 3,
+      "sadness": 12,
+      "anger": 29,
+      "neutral": 81,
+      "surprise": 28,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "11A-CreepingDarkness",
+    "emotions": {
+      "joy": 9,
+      "sadness": 6,
+      "anger": 23,
+      "neutral": 44,
+      "surprise": 13,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "11B-PhantomShip",
+    "emotions": {
+      "joy": 7,
+      "sadness": 4,
+      "anger": 15,
+      "neutral": 34,
+      "surprise": 11,
+      "fear": 0
+    }
+  },
+  {
+    "chapter": "12A-VillageOfSilence",
+    "emotions": {
+      "joy": 6,
+      "sadness": 4,
+      "anger": 8,
+      "neutral": 36,
+      "surprise": 9,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "12B-LandingAtTaizel",
+    "emotions": {
+      "joy": 2,
+      "sadness": 5,
+      "anger": 8,
+      "neutral": 38,
+      "surprise": 4,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "13A-HamillCanyon",
+    "emotions": {
+      "joy": 5,
+      "sadness": 8,
+      "anger": 16,
+      "neutral": 44,
+      "surprise": 19,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "13B-Fluorspar'sOath",
+    "emotions": {
+      "joy": 9,
+      "sadness": 17,
+      "anger": 12,
+      "neutral": 59,
+      "surprise": 14,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "14A-QueenOfWhiteDunes",
+    "emotions": {
+      "joy": 7,
+      "sadness": 29,
+      "anger": 26,
+      "neutral": 81,
+      "surprise": 11,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "14B-FatherAndSon",
+    "emotions": {
+      "joy": 3,
+      "sadness": 14,
+      "anger": 17,
+      "neutral": 69,
+      "surprise": 31,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "15-ScorchedSand",
+    "emotions": {
+      "joy": 19,
+      "sadness": 20,
+      "anger": 12,
+      "neutral": 60,
+      "surprise": 18,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "16-RuledByMadness",
+    "emotions": {
+      "joy": 17,
+      "sadness": 21,
+      "anger": 14,
+      "neutral": 56,
+      "surprise": 14,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "17-RiverOfRegrets",
+    "emotions": {
+      "joy": 12,
+      "sadness": 12,
+      "anger": 24,
+      "neutral": 68,
+      "surprise": 21,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "18-TrueFacesOfEvil",
+    "emotions": {
+      "joy": 1,
+      "sadness": 25,
+      "anger": 19,
+      "neutral": 47,
+      "surprise": 20,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "19-LastHope",
+    "emotions": {
+      "joy": 16,
+      "sadness": 15,
+      "anger": 17,
+      "neutral": 64,
+      "surprise": 17,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "20-DarklingWoods",
+    "emotions": {
+      "joy": 6,
+      "sadness": 21,
+      "anger": 26,
+      "neutral": 52,
+      "surprise": 9,
+      "fear": 16
+    }
+  },
+  {
+    "chapter": "21-TheSacredStones",
+    "emotions": {
+      "joy": 22,
+      "sadness": 26,
+      "anger": 31,
+      "neutral": 79,
+      "surprise": 12,
+      "fear": 13
+    }
+  },
+  {
+    "chapter": "XX-Epilogue",
+    "emotions": {
+      "joy": 3,
+      "sadness": 4,
+      "anger": 2,
+      "neutral": 13,
+      "surprise": 2,
+      "fear": 2
+    }
+  }
+]

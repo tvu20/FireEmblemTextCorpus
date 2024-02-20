@@ -1,0 +1,244 @@
+[
+  {
+    "chapter": "P01-TragicStart",
+    "emotions": {
+      "joy": 1,
+      "sadness": 3,
+      "anger": 2,
+      "neutral": 9,
+      "surprise": 3,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "P02-DragonBlood",
+    "emotions": {
+      "joy": 3,
+      "sadness": 5,
+      "anger": 12,
+      "neutral": 11,
+      "surprise": 11,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "P03-SurpriseDuet",
+    "emotions": {
+      "joy": 6,
+      "sadness": 10,
+      "anger": 7,
+      "neutral": 14,
+      "surprise": 10,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P04-FightOrFlight",
+    "emotions": {
+      "joy": 1,
+      "sadness": 0,
+      "anger": 15,
+      "neutral": 16,
+      "surprise": 8,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P05-BoldApproach",
+    "emotions": {
+      "joy": 6,
+      "sadness": 0,
+      "anger": 9,
+      "neutral": 7,
+      "surprise": 6,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P06-HerbalRemedy",
+    "emotions": {
+      "joy": 7,
+      "sadness": 1,
+      "anger": 9,
+      "neutral": 21,
+      "surprise": 6,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P07-FatherAndLiege",
+    "emotions": {
+      "joy": 0,
+      "sadness": 3,
+      "anger": 10,
+      "neutral": 19,
+      "surprise": 10,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P08-AGreatHunt",
+    "emotions": {
+      "joy": 7,
+      "sadness": 0,
+      "anger": 9,
+      "neutral": 8,
+      "surprise": 5,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P09-SaizoVsSaizo",
+    "emotions": {
+      "joy": 3,
+      "sadness": 3,
+      "anger": 17,
+      "neutral": 15,
+      "surprise": 10,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P10-HunterAndPrey",
+    "emotions": {
+      "joy": 4,
+      "sadness": 2,
+      "anger": 10,
+      "neutral": 8,
+      "surprise": 10,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P11-ALongGrudge",
+    "emotions": {
+      "joy": 6,
+      "sadness": 4,
+      "anger": 11,
+      "neutral": 15,
+      "surprise": 9,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P12-SweetDreams",
+    "emotions": {
+      "joy": 6,
+      "sadness": 1,
+      "anger": 10,
+      "neutral": 11,
+      "surprise": 12,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P13-TrulyTalented",
+    "emotions": {
+      "joy": 6,
+      "sadness": 6,
+      "anger": 7,
+      "neutral": 31,
+      "surprise": 4,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P14-AfterTheEnd",
+    "emotions": {
+      "joy": 4,
+      "sadness": 1,
+      "anger": 10,
+      "neutral": 30,
+      "surprise": 16,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P15-HiddenBravery",
+    "emotions": {
+      "joy": 3,
+      "sadness": 8,
+      "anger": 3,
+      "neutral": 11,
+      "surprise": 8,
+      "fear": 0
+    }
+  },
+  {
+    "chapter": "P16-Abducted",
+    "emotions": {
+      "joy": 9,
+      "sadness": 8,
+      "anger": 13,
+      "neutral": 21,
+      "surprise": 8,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P17-TwoDefenders",
+    "emotions": {
+      "joy": 7,
+      "sadness": 1,
+      "anger": 6,
+      "neutral": 9,
+      "surprise": 5,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "P18-NuttyFamily",
+    "emotions": {
+      "joy": 6,
+      "sadness": 3,
+      "anger": 4,
+      "neutral": 12,
+      "surprise": 5,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P19-GreatHeroism",
+    "emotions": {
+      "joy": 11,
+      "sadness": 1,
+      "anger": 12,
+      "neutral": 12,
+      "surprise": 10,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "P20-UltimatePower",
+    "emotions": {
+      "joy": 2,
+      "sadness": 2,
+      "anger": 19,
+      "neutral": 15,
+      "surprise": 11,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "P21-BrightSmile",
+    "emotions": {
+      "joy": 10,
+      "sadness": 0,
+      "anger": 12,
+      "neutral": 18,
+      "surprise": 14,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P22-AbruptClash",
+    "emotions": {
+      "joy": 0,
+      "sadness": 4,
+      "anger": 23,
+      "neutral": 21,
+      "surprise": 5,
+      "fear": 1
+    }
+  }
+]

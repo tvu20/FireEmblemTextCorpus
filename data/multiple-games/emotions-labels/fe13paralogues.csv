@@ -1,0 +1,1068 @@
+game,chapter,speaker,text,tag
+FE13Paralogues,P04-AnnaTheMerchant,Merchant,"Oh, that poor girl...",sadness
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,What's wrong?,surprise
+FE13Paralogues,P04-AnnaTheMerchant,Merchant,"Oh! Sirs, please! Help her! A young merchant girl is being set upon by bandits!",fear
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,We're on our way.,neutral
+FE13Paralogues,P04-AnnaTheMerchant,Vincent,"You! We have business, you and I, and I aim to settle the debt. Victor will be avenged today!",anger
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Oh, dear. Have we met?",sadness
+FE13Paralogues,P04-AnnaTheMerchant,Vincent,"Playing dumb won't save you, girly. The gold you net from the slavers will build Victor the finest grave in the land!",anger
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Careful, love. Prices aren't the only thing I can cut in half.",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Hello there, handsome! Am I being rescued?",joy
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,"Well, that was the plan, but you seem to be holding up just fine. Can you still fight?",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"I could stand to open a few more rogues, sure. Or locks, for that matter.",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,"A thief, is it?",surprise
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Locksmith, thank you very much! But yes. Door or chest, I'll have it smiling wide in a trice. And it looks like there bandits have quite the hoard built up.",joy
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,"...Huh. Well then, I think we're in business.",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Ugh. Well, that was careless... Sorry, friends. Looks like I've got to close up shop for the day.",sadness
+FE13Paralogues,P04-AnnaTheMerchant,Vincent,You stand no chance. I'm a conqueror by name and a conqueror by nature!,anger
+FE13Paralogues,P04-AnnaTheMerchant,Vincent,"I... I see your face, Victor... No... No, wait... That's me...",sadness
+FE13Paralogues,P04-AnnaTheMerchant,Anna,Thanks for your help. The name's Anna. Some folks like to call me the Secret Seller.,neutral
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,"Yes, I remember you.",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Oh? ...Mmm, I'm afraid I'm drawing a blank.",fear
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,"Huh? Oh, then I must be... I'm sorry. I thought you... Wait, what am I saying? I KNOW we helped you. I'm sure of it!",sadness
+FE13Paralogues,P04-AnnaTheMerchant,Anna,Oh! Hee hee! You must have met one of my sisters.,joy
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,"Sisters? Gods, you look identical.",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Yes, there's a strong family resemblance. Oh, and we're all traveling merchants.",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,...With the same name?,surprise
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"Yes, actually. That's part of the secret!",neutral
+FE13Paralogues,P04-AnnaTheMerchant,Chrom,Your family gatherings must be chaotic.,neutral
+FE13Paralogues,P04-AnnaTheMerchant,Anna,"True, but aren't everyone's? Still, I can't just send you on your way after helping TWO of us. So let me come along and aid you in return. I can be quite useful. You'll never make a loss with me in tow—I guarantee it!",anger
+FE13Paralogues,P12-DisownedByTime,Robin,Is this the place?,surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"Yeah, it's got to be. The townsfolk spoke of ruins in these parts that carry the legacy of the divine dragon. Of course, they neglected to mention that the place is crawling with Risen... I suppose we're just gonna have to earn this treasure the old-fashioned way.",anger
+FE13Paralogues,P12-DisownedByTime,Morgan,"Footsteps! ...Probably not friendly. And likely more down those stairs... Think, Morgan, think! How would Mom/Dad handle this?",fear
+FE13Paralogues,P12-DisownedByTime,Robin,You...don't look like a treasure hunter. What brings you here?,surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"There you are, Mother! I was beginning to think we got separated.",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,"...I'm sorry, what?",sadness
+FE13Paralogues,P12-DisownedByTime,Morgan,"Well, no harm done. At least we can head home now. ...Goodness, the air here agrees with you! You look a decade younger, at least.",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,Wait. Let's go back to the Mother thing. ...Did you travel back from the future with Lucina?,surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"Huh? Who's Lucina? And did you seriously just ask me if I came from the future? ...Why are you looking at me like that? Hello? It's me! Morgan! ...Your son? Love of your life and strapping young lad and all that? Wow, you're really acting strange today. Let's go home and get you to bed. Hmm, but which way is home? Is it— Ngh! M-my head!",surprise
+FE13Paralogues,P12-DisownedByTime,Robin,"Easy—don't try to force it! Just stay calm and listen to me. I know this sounds mad, but I believe that you came here from the future.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,Are you out of your mind? That's not even possible!,anger
+FE13Paralogues,P12-DisownedByTime,Robin,"Actually, it is. Think about it. You said I looked younger, but look again. Closely. Do I look like I'm of an age where I could have a child as old as you? At this point in time, in OUR time, you still haven't been born.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"Y-you do look younger, but...",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,"It's hard, I know. And you don't have to believe me right this minute. But you must come with me. It's dangerous alone, especially if your memory is gone. I was in the same position once, you know. If Chrom hadn't found me lying in that field, who knows what would've happened to me...",sadness
+FE13Paralogues,P12-DisownedByTime,Morgan,"Wait, you woke up in the middle of a field, too? Hah! Like mother, like son, huh? Oh, that's too funny!",surprise
+FE13Paralogues,P12-DisownedByTime,Robin,"...Glad to see you inherited my blithe outlook. Just try to stay close, will you?",joy
+FE13Paralogues,P12-DisownedByTime,Morgan,"Yes, ma'am!",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,Mmm? Who are you?,surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"I would ask you the same. More importantly, why are you here? This is hardly a safe place to be wandering alone.",surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"I... I don't know, frankly. I woke up...sprawled in a field. I can't recall anything before that.",sadness
+FE13Paralogues,P12-DisownedByTime,Chrom,That sounds familiar.,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"I... I think I remember my name? ...Morgan? Yes, that's it. My name is Morgan.",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"I'm Chrom. And finding amnesiacs is apparently my special talent. I met a good friend, Robin, under the same circumstances.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,Robin?! Is this friend of yours perchance a tactician?,anger
+FE13Paralogues,P12-DisownedByTime,Chrom,She is. Do you know her?,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"Yes, I know her! She's my mother! ...Wait a second. You found my mother lying here unconscious?",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"Well, not HERE. But yes, we found her lying in a field, memory-free. This was quite a while ago, mind you. So if you're her son, I take it you came from the future?",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"...From the future? Are you kidding, sir?! People can't travel through time! If that were possible, I— Ngh! M-my head!",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"Woah, easy there. Try to stay calm. Listen, why don't you just come with us for now? You can speak to Robin later and maybe clear this up.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"Th-thank you, sir... And don't worry—I can defend myself. You just lead the way.",joy
+FE13Paralogues,P12-DisownedByTime,Morgan,Mmm? Who are you?,surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"I would ask you the same. More importantly, why are you here? This is hardly a safe place to be wandering alone.",surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"I... I don't know, frankly. I woke up...sprawled in a field. I can't recall anything before that.",sadness
+FE13Paralogues,P12-DisownedByTime,Chrom,This sounds familiar.,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"I... I think I remember my name? ...Morgan? Yes, that's it. My name is Morgan.",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,I'm Chrom. And finding amnesiacs is apparently my special talent. I met someone very dear to me in the same way. Her name is Robin.,sadness
+FE13Paralogues,P12-DisownedByTime,Morgan,Robin?! Is this friend of yours perchance a tactician?,anger
+FE13Paralogues,P12-DisownedByTime,Chrom,She is. Do you know her?,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"Yes, I know her! She's my mother!",neutral
+FE13Paralogues,P12-DisownedByTime,Chrom,"Mother?! Then you're our... You're my... Morgan, stay calm and listen to me. Robin is my wife. Which means you're likely my son who came here from the future.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"...What?! But I... The future?! Is... Is that why I have no memory? But wait, I remember my mother. So why don't I remember you?",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,I don't know. Do you recall a sister named Lucina?,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"No, nothing like that.",neutral
+FE13Paralogues,P12-DisownedByTime,Chrom,"I suppose it's a blessing you at least remember your mother. Maybe something will come back once you've met with her and Lucina. Until then, you'd best come with me. ...And stay close. I don't want you hurt.",sadness
+FE13Paralogues,P12-DisownedByTime,Morgan,"All right, thank you. And don't worry—I can defend myself. You just lead the way.",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,You...don't look like a treasure hunter. What brings you here?,surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"There you are, Father! I was beginning to think we got separated.",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,"...I'm sorry, what?",sadness
+FE13Paralogues,P12-DisownedByTime,Morgan,"Well, no harm done. At least we can head home now. ...Goodness, the air here agrees with you! You look a decade younger, at least.",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,Wait. Let's go back to the Father thing. ...Did you travel back from the future with Lucina?,surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"Huh? Who's Lucina? And did you seriously just ask me if I came from the future? ...Why are you looking at me like that? Hello? It's me! Morgan! ...Your daughter? Love of your life and Daddy's little girl and all that? Wow, you're really acting strange today. Let's go home and get you to bed. Hmm, but which way is home? Is it— Ngh! M-my head!",surprise
+FE13Paralogues,P12-DisownedByTime,Robin,"Easy—don't try to force it! Just stay calm and listen to me. I know this sounds mad, but I believe that you came here from the future.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,Are you out of your mind? That's not even possible!,anger
+FE13Paralogues,P12-DisownedByTime,Robin,"Actually, it is. Think about it. You said I looked younger, but look again. Closely. Do I look like I'm of an age where I could have a child as old as you? At this point in time, in OUR time, you still haven't been born.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"Y-you do look younger, but...",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,"It's hard, I know. And you don't have to believe me right this minute. But you must come with me. It's dangerous alone, especially if your memory is gone. I was in the same position once, you know. If Chrom hadn't found me lying in that field, who knows what would've happened to me...",sadness
+FE13Paralogues,P12-DisownedByTime,Morgan,"Wait, you woke up in the middle of a field, too? Hah! Like father, like daughter, huh? Oh, that's too funny!",surprise
+FE13Paralogues,P12-DisownedByTime,Robin,...Glad to see you inherited my blithe outlook. Just try to stay close will you?,joy
+FE13Paralogues,P12-DisownedByTime,Morgan,Yessir!,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,Mmm? Who are you?,surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"I would ask you the same. More importantly, why are you here? This is hardly a safe place to be wandering alone.",surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"I...I don't know, frankly. I woke up...sprawled in a field. I can't recall anything before that.",sadness
+FE13Paralogues,P12-DisownedByTime,Chrom,That sounds familiar.,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"I... I think I remember my name? ...Morgan? Yes, that's it. My name is Morgan.",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"I'm Chrom. And finding amnesiacs is apparently my special talent. I met a good friend, Robin, under the same circumstances.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,Robin?! Is this friend of yours perchance a tactician?,anger
+FE13Paralogues,P12-DisownedByTime,Chrom,He is. Do you know him?,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"Yes, I know him! He's my father! ...Wait a second. You found my father lying here unconscious?",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"Well, not HERE. But yes, we found him lying in a field, memory-free. This was quite a while ago, mind you. So if you're his daughter, I take it you came from the future?",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"...From the future? Are you kidding, sir?! People can't travel through time! If that were possible, I— Ngh! M-my head!",surprise
+FE13Paralogues,P12-DisownedByTime,Chrom,"Woah, easy there. Try to stay calm. Listen, why don't you just come with us for now? You can speak to Robin later and maybe clear this up.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"Th-thank you, sir... And don't worry—I can defend myself. You just lead the way.",joy
+FE13Paralogues,P12-DisownedByTime,Chrom,This must be Naga's Tear... I can feel the power coursing through it.,sadness
+FE13Paralogues,P12-DisownedByTime,Lissa,Sweet! This baby should keep us safe in the battles to come!,joy
+FE13Paralogues,P12-DisownedByTime,Chrom,"I hope you're right about that, Sis.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,That's... a lot to take in.,neutral
+FE13Paralogues,P12-DisownedByTime,Robin,It's everything we know about the situation at this point.,neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,The future I came from is in ruins... You're sure about that?,surprise
+FE13Paralogues,P12-DisownedByTime,Robin,"One possible future is in ruins, yes. But you may hail from another path. We're fighting now to ensure that no one's future is lost. Unfortunately, if you join us, it'll mean more fighting for you, too.",neutral
+FE13Paralogues,P12-DisownedByTime,Morgan,"I understand... I'm sorry, but even after hearing all that, I still don't remember anything but you.",sadness
+FE13Paralogues,P12-DisownedByTime,Robin,"Don't apologize. We'll pull your memory back bit by bit if we have to. Besides, if you start apologizing, I'll have to as well. My past is still full of holes, but I'm getting along. And you will too.",sadness
+FE13Paralogues,P12-DisownedByTime,Morgan,"As long as you're with me, the rest will work itself out. Now, come on! We've got a future that needs saving!",joy
+FE13Paralogues,P12-DisownedByTime,Robin,Hah! You really do take after me.,joy
+FE13Paralogues,P12-DisownedByTime,Morgan,"You know, now that you mention it... There is one other thing I remember.",neutral
+FE13Paralogues,P12-DisownedByTime,Robin,What's that?,surprise
+FE13Paralogues,P12-DisownedByTime,Morgan,"I've always strived to be a great tactician like you. And even though this war is terrible, at least now I can learn from you firsthand.",anger
+FE13Paralogues,P12-DisownedByTime,Robin,"Well, you're nothing if not optimistic... Wherever or whenever you came from, I'm glad you made it here, Morgan.",joy
+FE13Paralogues,P12-DisownedByTime,Morgan,Me too!,neutral
+FE13Paralogues,P13-RivalBands,Gyral,"Turn around and get lost, swine! This land belongs to the Stonewall Knights! If you need a second notice, I'll write it down on your men's corpses!",anger
+FE13Paralogues,P13-RivalBands,Dalen,"Ya-har! A pile of corpses could still outfight you sorry lot! This is our territory, and no one gives orders to the Riders of Dawn!",anger
+FE13Paralogues,P13-RivalBands,Chrom,What do you make of that?,surprise
+FE13Paralogues,P13-RivalBands,Frederick,"Mercenaries, from the look. Rival bands squabbling over some petty matter. A common enough sight in these dark times, milord. But if it comes to bloodletting, the nearby villages will pay for it.",neutral
+FE13Paralogues,P13-RivalBands,Chrom,Then let's make sure it doesn't.,neutral
+FE13Paralogues,P13-RivalBands,Gyral,"Stick 'em full'a holes, boys!",anger
+FE13Paralogues,P13-RivalBands,Dalen,"Time to fertilize the fields, soldiers!",anger
+FE13Paralogues,P13-RivalBands,Chrom,"Well, diplomacy is probably out.",neutral
+FE13Paralogues,P13-RivalBands,Frederick,Seems our best option is to end the fighting as quickly as possible. Allying ourselves with one side or the other would certainly expedite things.,neutral
+FE13Paralogues,P13-RivalBands,Chrom,A band of riders or a band of knights... Time to make our choice.,neutral
+FE13Paralogues,P13-RivalBands,Gyral,More sellswords? Ha! Your timing is right impeccable. I'll buy your steel and see you're well compensated for the trouble!,neutral
+FE13Paralogues,P13-RivalBands,Chrom,"Well, Robin? Shall we back the knights?",neutral
+FE13Paralogues,P13-RivalBands,Dalen,"Ya-har! There's a sensible lad. Come fight with us, instead! I'll pay you twice what that fool would!",anger
+FE13Paralogues,P13-RivalBands,Chrom,Robin?,neutral
+FE13Paralogues,P13-RivalBands,Chrom,"...So it's neither, is it? Which means you aim to fight them both?",anger
+FE13Paralogues,P13-RivalBands,Chrom,"I should have known... Are you sure about this? There may be more of them in hiding, you know. ...But I'll leave the final choice to you.",fear
+FE13Paralogues,P13-RivalBands,Chrom,So be it. Shepherds! To arms,neutral
+FE13Paralogues,P13-RivalBands,Panne,That scent... It smells like... Ho! You there!,surprise
+FE13Paralogues,P13-RivalBands,Yarne,Gyah! Wh-what do you want?!,surprise
+FE13Paralogues,P13-RivalBands,Panne,You are a taguel.,neutral
+FE13Paralogues,P13-RivalBands,Yarne,"Yeah, well so are— GODS! M-Mother?!",surprise
+FE13Paralogues,P13-RivalBands,Panne,Mother?,surprise
+FE13Paralogues,P13-RivalBands,Yarne,"Gah, you nearly gave me heart failure! I'd given up on EVER finding you! You wouldn't believe how dangerous it is here. All these swords and brigands... Anyway, I've found you. That makes the trip back in time more than worth it.",fear
+FE13Paralogues,P13-RivalBands,Panne,"So you came with that man-spawn Lucina, did you? Hmm... Explain to me why my son consorts with common thugs?",anger
+FE13Paralogues,P13-RivalBands,Yarne,"Huh? H-hey, I didn't have a choice in the matter! You were nowhere to be found, and roaming around alone is a recipe for... extinction. I'd figure I'd be safe if I took up with some strong allies, and so I... Wait, are you angry? Because you look kind of ang—",surprise
+FE13Paralogues,P13-RivalBands,Panne,"OF COURSE I AM ANGRY! No son of mine will survive by taking the path of the coward! You're coming with me, I'm going to teach you some taguel pride, starting right now!",anger
+FE13Paralogues,P13-RivalBands,Chrom,You there! Hold!,anger
+FE13Paralogues,P13-RivalBands,Yarne,Gyah! D-don't surprise me like that! I could die of heart failure!,surprise
+FE13Paralogues,P13-RivalBands,Chrom,"...I was standing right in front of you. Ought I have waved first, or would that have been too threatening?",neutral
+FE13Paralogues,P13-RivalBands,Yarne,"Oh, aren't we the jester! People die from much lesser things you know. It's no laughing matter! What if you scare me and I trip and fall and cut my head open? What then?!",anger
+FE13Paralogues,P13-RivalBands,Chrom,"Er...right. Look, if you're so worried about death, maybe you should just surrender. I have no desire to spill unnecessary blood.",neutral
+FE13Paralogues,P13-RivalBands,Yarne,"Wait, surrender is an option?! Wh-why didn't you say so?!",surprise
+FE13Paralogues,P13-RivalBands,Yarne,So this is...extinction...,anger
+FE13Paralogues,P13-RivalBands,Elder,"Greetings, traveler. We're backers of the Stonewall Knights. Try this lance out. It'll put those dastard riders in their place!",anger
+FE13Paralogues,P13-RivalBands,Villager,"Every time this lot has a go, our fields get trampled and our houses destroyed! Ain't no matter to us which side wins so long as it's over quickly. Here, then. Take this, and get those sorry lunkheads outta here!",anger
+FE13Paralogues,P13-RivalBands,Maiden,"Our village suffered enough with one band of sellswords strutting about, but two?! Here! I'll give ya this if you just make 'em stop fighting!",anger
+FE13Paralogues,P13-RivalBands,Elder,"Welcome, friend. We're supporters of the Riders of Dawn here. Take this hammer. It'll send those pesky knights running for the hills!",neutral
+FE13Paralogues,P13-RivalBands,Gyral,You'll never breach the impenetrable forces of the Stonewall Knights!,anger
+FE13Paralogues,P13-RivalBands,Dalen,You'll never stop the unending march of the Riders of Dawn!,anger
+FE13Paralogues,P13-RivalBands,Dalen,I'll send your fat men and their fat-man armor sailing through the sky!,neutral
+FE13Paralogues,P13-RivalBands,Gyral,Horse and rider both will be red smears across our shields!,neutral
+FE13Paralogues,P13-RivalBands,Frederick,"The fighting is over, milord. That should spare the villages from any further damage.",neutral
+FE13Paralogues,P13-RivalBands,Chrom,Good. Thought I still don't understand why they had to fight in the first place.,neutral
+FE13Paralogues,P13-RivalBands,Frederick,"Competition, milord. A sad consequence of this war. Farm the land, and your fields are pillaged. Open a shop, and your goods are stolen. It's little wonder men take up steel and become mercenaries. ...Or worse. There's only so much gold to go around, and so they fight for dominance.",sadness
+FE13Paralogues,P13-RivalBands,Chrom,Seems they'll continue to do so until it's safe to be a farmer or merchant again. All the more reason for us to end things as quickly as possible.,neutral
+FE13Paralogues,P13-RivalBands,Frederick,"Well put, milord. Shall we be on our way?",neutral
+FE13Paralogues,P13-RivalBands,Frederick,"By the by, our erstwhile allies send their regards and a reward to match. War's an expensive proposition, but I wager blood money spends the same as any other. I'll see it's added to our tally.",neutral
+FE13Paralogues,P13-RivalBands,Chrom,"Thank you, Frederick.",joy
+FE13Paralogues,P13-RivalBands,Panne,You.,neutral
+FE13Paralogues,P13-RivalBands,Yarne,Gyah! Y-you scared me! Don't go sneaking up behind people! You'll give them whiplash...,fear
+FE13Paralogues,P13-RivalBands,Panne,What is your name?,surprise
+FE13Paralogues,P13-RivalBands,Yarne,Yarne. Don't you remember? You're the one who gave it to me.,surprise
+FE13Paralogues,P13-RivalBands,Panne,...So you truly are my child?,surprise
+FE13Paralogues,P13-RivalBands,Yarne,"Um, I'm a taguel, right? I kind of have to be.",neutral
+FE13Paralogues,P13-RivalBands,Panne,"I suppose blood does not lie. I am pleased to see you, my son. You represent a new hope for our race.",joy
+FE13Paralogues,P13-RivalBands,Yarne,No pressure there...,neutral
+FE13Paralogues,P13-RivalBands,Panne,You are living proof that man and taguel can coexist.,neutral
+FE13Paralogues,P13-RivalBands,Yarne,"Hey, I didn't do anything special. I was just born. You're the one who proved all that bridging-the-gap stuff. You're the one who married a human. Er, thanks for doing that, by the way. Even if I can't take credit for it, I'm proud of my heritage.",neutral
+FE13Paralogues,P13-RivalBands,Panne,It gladdens me to see my son value pride... May you keep it always.,joy
+FE13Paralogues,P02-TheSecretSeller,Merchant,"Blast... It seems all hope is lost. Still, hold fast. I'll treat your wounds...",fear
+FE13Paralogues,P02-TheSecretSeller,Soldier,Ngh... It's t-too late...,sadness
+FE13Paralogues,P02-TheSecretSeller,Chrom,What's happened here?!,surprise
+FE13Paralogues,P02-TheSecretSeller,Merchant,"Nothing but death ahead, travelers. I'd turn back if I were you... Whatever your business here, it will have to wait.",neutral
+FE13Paralogues,P02-TheSecretSeller,Chrom,Just tell us what happened.,neutral
+FE13Paralogues,P02-TheSecretSeller,Merchant,Bandits have blocked the road ahead. They're demanding a king's ransom in illicit tolls for all who wish to pass.,neutral
+FE13Paralogues,P02-TheSecretSeller,Chrom,They think to profiteer on refugees? Despicable.,anger
+FE13Paralogues,P02-TheSecretSeller,Merchant,Our caravan's livelihood is at stake. We'll do no business in this country now...,neutral
+FE13Paralogues,P02-TheSecretSeller,Frederick,"The flow of goods must be secured, milord, or the people are likely to starve.",neutral
+FE13Paralogues,P02-TheSecretSeller,Chrom,Then we'll secure it. You and your caravan can wait here. We'll let you know when it's safe.,neutral
+FE13Paralogues,P02-TheSecretSeller,Victor,"Vincent, darling?",neutral
+FE13Paralogues,P02-TheSecretSeller,Vincent,"Yes, Victor?",neutral
+FE13Paralogues,P02-TheSecretSeller,Victor,"I daresay we've come across a village, Vincent.",neutral
+FE13Paralogues,P02-TheSecretSeller,Vincent,"And what a thriving little hamlet it is, Victor!",neutral
+FE13Paralogues,P02-TheSecretSeller,Victor,"Indeed. I think it'll make for a fine bit of pillaging, Vincent.",neutral
+FE13Paralogues,P02-TheSecretSeller,Vincent,"It most certainly will, Victor.",neutral
+FE13Paralogues,P02-TheSecretSeller,Victor,"Well then, I believe it's my turn to do the honors, isn't it, Vincent?",neutral
+FE13Paralogues,P02-TheSecretSeller,Vincent,"I do believe it is, Victor! Oh, but try not to kill them all this time, hmm? It tends to cut into profits.",anger
+FE13Paralogues,P02-TheSecretSeller,Anna,"Hate to be the bearer of bad news, but I'm afraid this village is closed.",fear
+FE13Paralogues,P02-TheSecretSeller,Victor,"You! We have business, you and I, and I aim to settle the debt. Vincent will be avenged today!",neutral
+FE13Paralogues,P02-TheSecretSeller,Anna,"Oh, dear. Have we met?",sadness
+FE13Paralogues,P02-TheSecretSeller,Victor,"Playing dumb won't save you, girly. The gold you net from the slavers will build Vincent the finest grave in the land!",anger
+FE13Paralogues,P02-TheSecretSeller,Anna,"Careful, love. Us traders are known to make some very deep cuts.",neutral
+FE13Paralogues,P02-TheSecretSeller,Frederick,That village is in danger. One must ride ahead and warn them of what's coming.,fear
+FE13Paralogues,P02-TheSecretSeller,Chrom,...Anna? What are you doing here?,surprise
+FE13Paralogues,P02-TheSecretSeller,Anna,"My thanks, stranger. It's nice to see a friendly face for once.",joy
+FE13Paralogues,P02-TheSecretSeller,Chrom,"Stranger? Now I'm confused. Aren't you...? I mean... Anyway, never mind. The important thing is that you're safe. You seem to have things well in hand, but I hope you won't mind a little company? Just until we sort these rogues out.",surprise
+FE13Paralogues,P02-TheSecretSeller,Anna,"Aw, you're worried! That's adorable! I welcome the assistance.",joy
+FE13Paralogues,P02-TheSecretSeller,Anna,"Ugh. Well, that was careless... Sorry, friends. Looks like I've got to close up shop for today.",sadness
+FE13Paralogues,P02-TheSecretSeller,Elder,"That peddler woman was fighting to protect the village, you say? That kind of warmth is more than welcome in these cold lands. Here. Please use this to heal her if she's hurt.",neutral
+FE13Paralogues,P02-TheSecretSeller,Victor,"Give up now! I was born a Victor, and victory will be mine!",anger
+FE13Paralogues,P02-TheSecretSeller,Victor,"I... I see an open field, Vincent... Such beautiful flowers...",joy
+FE13Paralogues,P02-TheSecretSeller,Anna,"Ah, I see now. You must have met one of my sisters.",neutral
+FE13Paralogues,P02-TheSecretSeller,Chrom,"Sisters? Gods, you look identical.",neutral
+FE13Paralogues,P02-TheSecretSeller,Anna,"Yes, there's a strong family resemblance. Oh, and we're all traveling merchants.",neutral
+FE13Paralogues,P02-TheSecretSeller,Chrom,...With the same name?,surprise
+FE13Paralogues,P02-TheSecretSeller,Anna,"Yes, actually.",neutral
+FE13Paralogues,P02-TheSecretSeller,Chrom,Your holiday feasts must be very confusing. How do you tell each other apart?,surprise
+FE13Paralogues,P02-TheSecretSeller,Anna,"Heh, that's part of the secret! Anyway, happy shopping, and may the gods of the open road keep you!",joy
+FE13Paralogues,P01-SickleToSword,Donnel,"Halp! You gots to help us! I’m beggin’ you, milords!",anger
+FE13Paralogues,P01-SickleToSword,Chrom,Slow down. What happened?,surprise
+FE13Paralogues,P01-SickleToSword,Brigand,Oy! There’s the wee piglet!,anger
+FE13Paralogues,P01-SickleToSword,Chrom,...Great. Bandits.,neutral
+FE13Paralogues,P01-SickleToSword,Brigand,"What’s this? A little lording come to watch over his chattel? Haw ha—Aw, damn me! Sh-Shepherds!",anger
+FE13Paralogues,P01-SickleToSword,Chrom,"That’s right. So, what’ll it be? Run and live? Or fight and die?",fear
+FE13Paralogues,P01-SickleToSword,Brigand,Rrgh!,anger
+FE13Paralogues,P01-SickleToSword,Chrom,"Quickly, lad. What happened here?",surprise
+FE13Paralogues,P01-SickleToSword,Donnel,"Y-yes, milord! Right away, milord! ...Er, if it please Your Graciousness.",fear
+FE13Paralogues,P01-SickleToSword,Chrom,Maybe just hold off on titles for now. What’s your name?,surprise
+FE13Paralogues,P01-SickleToSword,Donnel,"Donny. Er, that is, Donnel. ...Your Majestyful. I live in the village just beyond, sir.",neutral
+FE13Paralogues,P01-SickleToSword,Chrom,"I guess that’ll do. Now, what happened?",neutral
+FE13Paralogues,P01-SickleToSword,Donnel,"That rotten-toothed, pig-stinkin’ bandit you just ran off attacked us! Er, pardon my language, You Lordliness. I’m the only one what got away, and even then just barely. They were roundin’ up others to haul ‘em off to a bandit camp... Please, sir! You gots to save them folks! My ma’s one of ‘em, and... She’s all I got in this world! Please, Your Royal Highness!",anger
+FE13Paralogues,P01-SickleToSword,Chrom,"This blasted war seems to spawn more evils by the day. All right, Donny. We’ll save your ma. Can you lead us to her?",anger
+FE13Paralogues,P01-SickleToSword,Donnel,"Aw, thank you, milord! Thank you! Just follow me, Your Sirness!",joy
+FE13Paralogues,P01-SickleToSword,Roddick,...And you’re sure a’this?,neutral
+FE13Paralogues,P01-SickleToSword,Brigand,"On the grave of my sainted mother, I swear it. It was Chrom and his Shepherds, and no mistake!",anger
+FE13Paralogues,P01-SickleToSword,Roddick,Heh heh heh. A fancy lord’ll fetch a high ransom from noble folk. We’ll have the little man squealin’ for mercy in no time!,joy
+FE13Paralogues,P01-SickleToSword,Mother,"We got nothin’ left to take, sirs! Please, let our children go!",fear
+FE13Paralogues,P01-SickleToSword,Roddick,Quit yer bleatin’!,anger
+FE13Paralogues,P01-SickleToSword,Brigand,"Oy, Roddick! I think this cow’s the mum of the brat what ran away.",anger
+FE13Paralogues,P01-SickleToSword,Roddick,"...Say, I know this one. You’re the wife of the man what broke my rib last time we were ‘ere.",sadness
+FE13Paralogues,P01-SickleToSword,Mother,"And you killed him for it, monster! I wish he’d done for you first...",anger
+FE13Paralogues,P01-SickleToSword,Roddick,"Small wonder the brat’s got more brass than brains if you’re his mum. Guess we’ll see for ourselves when we catch him, eh? Maybe we’ll even make ya watch as we gut him! Bwa ha ha!",anger
+FE13Paralogues,P01-SickleToSword,Mother,"N-no! Please, he’s just a boy!",fear
+FE13Paralogues,P01-SickleToSword,Donnel,"This here’s where they’ve taken up camp, Your Lordshipness.",neutral
+FE13Paralogues,P01-SickleToSword,Chrom,"Er...right. Thanks, Donny. Stay close, now.",neutral
+FE13Paralogues,P01-SickleToSword,Donnel,"Beg pardon, milord? You don’t mean...? I...I can’t fight, sir! I ain’t never even stuck a pig before!",anger
+FE13Paralogues,P01-SickleToSword,Chrom,"Oh, sorry. I just assumed... I mean... Look, just stay here. You’ll be fine.",sadness
+FE13Paralogues,P01-SickleToSword,Donnel,"I wish I was strong as you sirs and madams! Kick that scum out single handed, I would!",anger
+FE13Paralogues,P01-SickleToSword,Chrom,Then you should fight and grow stronger.,neutral
+FE13Paralogues,P01-SickleToSword,Donnel,But I ain’t—,neutral
+FE13Paralogues,P01-SickleToSword,Chrom,"No man is born a warrior, Donny. And farm work makes for fine training—a sickle’s not far from a sword, after all. Bandits may be tougher than wheat, but the principle’s the same.",neutral
+FE13Paralogues,P01-SickleToSword,Donnel,"Ngh... *sniff* A-all right, milord. As you say, I’m no warrior. But these’re my people. I gots to do what I can!",sadness
+FE13Paralogues,P01-SickleToSword,Chrom,Everyone in place?,neutral
+FE13Paralogues,P01-SickleToSword,Donnel,R-ready! *ulp*,neutral
+FE13Paralogues,P01-SickleToSword,Donnel,"Fight and get stronger, he says... Guess it can’t hurt to try. I sure hope I don’t get in the way! Gosh, that would be just awful...",fear
+FE13Paralogues,P01-SickleToSword,Donnel,I don’t think I can... go any farther... Your Majestiness...,sadness
+FE13Paralogues,P01-SickleToSword,Chrom,"You’ve done enough, Donny! Fall back! We’ll take things from here.",fear
+FE13Paralogues,P01-SickleToSword,Donnel,S-sorry...,sadness
+FE13Paralogues,P01-SickleToSword,Roddick, Time them castle whelps learned what us wild-born men can do!,anger
+FE13Paralogues,P01-SickleToSword,Roddick, Gahaugh! Nngh...This ain't...where...,sadness
+FE13Paralogues,P01-SickleToSword,Donnel,We did it! We’re rid of them bandits for good and all!,anger
+FE13Paralogues,P01-SickleToSword,Chrom,"A worthy first victory, Donny. You fought well.",joy
+FE13Paralogues,P01-SickleToSword,Donnel,"Ma! Ma, it’s me!",neutral
+FE13Paralogues,P01-SickleToSword,Mother,"Oh, Donny! Thank goodness you’re safe! I was worried near to death, boy! I can’t thank you enough for savin’ my son and our village, milord. ...Donny! Where are your manners?! Take a knee and thank His Lordness!",joy
+FE13Paralogues,P01-SickleToSword,Donnel,"Er, I can’t begin to repay all what you done for us, sir! Th-thank you!",joy
+FE13Paralogues,P01-SickleToSword,Chrom,"You led the charge, Donny. We just picked off the stragglers. Hone your potential and use it to keep this village safe.",neutral
+FE13Paralogues,P01-SickleToSword,Donnel,W-wait! Please!,fear
+FE13Paralogues,P01-SickleToSword,Chrom,Something wrong?,neutral
+FE13Paralogues,P01-SickleToSword,Donnel,"I has a request, sir. If it please Your Graceliness... Take me with you, milord! Lemme be a Shepherd like you! I’m good with livestock, I am! Please, sir!",joy
+FE13Paralogues,P01-SickleToSword,Mother,"Hush now, you fool boy!",anger
+FE13Paralogues,P01-SickleToSword,Donnel,I want to hone my...whatever he said. I want to keep this place safe! I never thought I was good for nothin’ more than shovelin’ dirt... But milord showed me there’s more I can do. More I needs to be doing!,sadness
+FE13Paralogues,P01-SickleToSword,Mother,"You needs be knowin’ your place, boy! A farmhand’s no fit for a royal—",neutral
+FE13Paralogues,P01-SickleToSword,Chrom,"Actually, we’d be thrilled to have him. The Shepherds need every good man we can find, and your son fought bravely.",joy
+FE13Paralogues,P01-SickleToSword,Mother,"Y-you’re very kind to say as much, Your Lordshipness, but... *Siiigh* Well, you’re a man grown now, Donny. I s’pose you can make up your own mind.",neutral
+FE13Paralogues,P01-SickleToSword,Donnel,"Aw, Ma...",neutral
+FE13Paralogues,P01-SickleToSword,Mother,"...... You just come home safe, love. I’ll see that the village is still standin’ when you return a hero. ...Well?! Off with you, then! Glory’s waiting’, boy!",joy
+FE13Paralogues,P01-SickleToSword,Donnel,"I ain’t fightin’ for glory, Ma. I’m fightin’ for you! But if I do find some glory, I’ll be sure to bring it home for you!",joy
+FE13Paralogues,P01-SickleToSword,Mother,"...Just come home alive, Donny.",sadness
+FE13Paralogues,P01-SickleToSword,Donnel,"Ma! Ma, it’s me!",neutral
+FE13Paralogues,P01-SickleToSword,Mother,"Oh, Donny! Thank goodness you’re safe! I was worried near to death, boy! I can’t thank you enough for savin’ my son and our village, milord. ...Donny! Where are your manners?! Take a knee and thank His Lordness!",joy
+FE13Paralogues,P01-SickleToSword,Donnel,"Er, I can’t begin to repay all what you done for us, sir! Th-thank you!",joy
+FE13Paralogues,P01-SickleToSword,Chrom,"You did enough, Donny. And you’re young yet. In time, you’ll be defending this village single handedly.",neutral
+FE13Paralogues,P01-SickleToSword,Donnel,"Still, I... I’m sorry I wasn’t more help, Your Princeliness.",sadness
+FE13Paralogues,P17-TheThreatOfSilence,Chrom,Mmm... The air is sweet here. It's so calming.,joy
+FE13Paralogues,P17-TheThreatOfSilence,Lissa,"Makes you want to just flop down and take a huge nap, doesn't it?",neutral
+FE13Paralogues,P17-TheThreatOfSilence,Lucina,Tempting...,neutral
+FE13Paralogues,P17-TheThreatOfSilence,Robin,Odd. It seems like anywhere else to me...,surprise
+FE13Paralogues,P17-TheThreatOfSilence,Say'Ri,"This is Naga's Cradle. It is said the divine dragon once called this place home. Here, the Voice will enact a holy rite to commune with Naga and regain her power.",neutral
+FE13Paralogues,P17-TheThreatOfSilence,Tiki,......,neutral
+FE13Paralogues,P17-TheThreatOfSilence,Lucina,Lady Tiki.,neutral
+FE13Paralogues,P17-TheThreatOfSilence,Tiki,......,neutral
+FE13Paralogues,P17-TheThreatOfSilence,Lucina,...Lady Tiki?,surprise
+FE13Paralogues,P17-TheThreatOfSilence,Say'Ri,"Pray be silent, milady. The Voice is currently performing the rite. In doing so, she will draw the divine dragon's power from the land unto herself.",fear
+FE13Paralogues,P17-TheThreatOfSilence,Lucina,"Forgive me, I didn't realize. I thought she was sleeping... She looks so peaceful. What do you think she sees? Does she perchance dream?",sadness
+FE13Paralogues,P17-TheThreatOfSilence,Chrom,"I imagine she— ...Uh-oh. Is that what I think it is? Say'ri! Lucina! Enemies approach us from the south. We'd better get ready, or the Voice here is in for a rude awakening.",neutral
+FE13Paralogues,P17-TheThreatOfSilence,Say'Ri,"The Voice is defenseless in this state. We must become her shield until the rite is complete. We await your strategy, Robin. Make us as a wall of steel!",neutral
+FE13Paralogues,P17-TheThreatOfSilence,Tiki,......,neutral
+FE13Paralogues,P17-TheThreatOfSilence,Say'Ri,"Are you unharmed, Lady Tiki?",surprise
+FE13Paralogues,P17-TheThreatOfSilence,Tiki,"Yes, thanks to you. I apologize for the delay, but the rite has borne fruit.",sadness
+FE13Paralogues,P17-TheThreatOfSilence,Say'Ri,You've taken in the power of the divine dragon?,neutral
+FE13Paralogues,P17-TheThreatOfSilence,Tiki,"Some of it, yes. ...It's strange. This power had always isolated me. Many were the days I wept alone, cursing the charge placed before me...",sadness
+FE13Paralogues,P17-TheThreatOfSilence,Lucina,Lady Tiki...,surprise
+FE13Paralogues,P17-TheThreatOfSilence,Tiki,"But now my power has a purpose, and the world needs it to avoid a ruinous future. And so I shall offer it freely. Allow me to join you.",neutral
+FE13Paralogues,P17-TheThreatOfSilence,Lucina,...Are you certain?,surprise
+FE13Paralogues,P17-TheThreatOfSilence,Tiki,"I am. I've had quite enough of living in solitude, thank you. Besides, I've always longed to better know this world. Now I can help you save it.",joy
+FE13Paralogues,P17-TheThreatOfSilence,Say'Ri,"For all the talk of power, she was a gentle soul, and far too fragile...",neutral
+FE13Paralogues,P17-TheThreatOfSilence,Chrom,"Indeed. But I fear there's no time to grieve, Say'ri. We must keep moving. We'll try to bring her peace by securing it for the world.",neutral
+FE13Paralogues,P11-TwinWyverns,Morristan,"Send the new recruits along, then get to rounding up another half dozen or so.",neutral
+FE13Paralogues,P11-TwinWyverns,Elder,"W-wait, what are you doing?!",surprise
+FE13Paralogues,P11-TwinWyverns,Morristan,Just what it looks like. A wyvern rider without a wyvern to sit on is just a bloke in a lizard hat.,anger
+FE13Paralogues,P11-TwinWyverns,Elder,"Wyverns are the sacred protectors of this land, not glorified horses to be muzzled!",anger
+FE13Paralogues,P11-TwinWyverns,Morristan,"I'd muzzle you, had I the time. As it stands, I'll take a quicker path to quiet. G'night!",anger
+FE13Paralogues,P11-TwinWyverns,Elder,Gwargh!,anger
+FE13Paralogues,P11-TwinWyverns,Villager,N-no...! Run!,fear
+FE13Paralogues,P11-TwinWyverns,Soldier,"Your orders, sir?",neutral
+FE13Paralogues,P11-TwinWyverns,Morristan,"If word spreads, it'll only get more tedious. Sooo...yes. Better just kill everyone.",anger
+FE13Paralogues,P11-TwinWyverns,Chrom,Where does this road lead?,surprise
+FE13Paralogues,P11-TwinWyverns,Frederick,"To Wyvern Valley, milord. Home to Valm's greatest feral wyvern population.",fear
+FE13Paralogues,P11-TwinWyverns,Chrom,That sounds...interesting. We'll have to be sure and keep our distance.,joy
+FE13Paralogues,P11-TwinWyverns,Cherche,Shame. My Minerva's fit to burst. She's excited others of her kind are near.,fear
+FE13Paralogues,P11-TwinWyverns,Chrom,Oh? She doesn't look that excited to me. Not that I can really tell the difference...,surprise
+FE13Paralogues,P11-TwinWyverns,Cherche,"Oh, it's easy. She just looks even cuter than normal. Don't you, girl? Don't you look cuter? Who's a goooood wyvern?!",surprise
+FE13Paralogues,P11-TwinWyverns,Chrom,"I'll, uh...leave you to her, then.",neutral
+FE13Paralogues,P11-TwinWyverns,Villager,"Sir, over here! Please help! My friends will die if you don't!",fear
+FE13Paralogues,P11-TwinWyverns,Gerome,...No.,neutral
+FE13Paralogues,P11-TwinWyverns,Villager,"Wh-what?! But, sir, my friends!",surprise
+FE13Paralogues,P11-TwinWyverns,Gerome,I'm not fit to fight for anyone.,neutral
+FE13Paralogues,P11-TwinWyverns,Villager,Th-then...they're lost...,neutral
+FE13Paralogues,P11-TwinWyverns,Chrom,You there! What's happened?,surprise
+FE13Paralogues,P11-TwinWyverns,Villager,"My people are fleeing for their lives from a pack of armed brigands, sir! And now we've gotten separated... Oh, the horror of it all!",fear
+FE13Paralogues,P11-TwinWyverns,Chrom,"Well, today's your lucky day. We'll aid you and your friends.",joy
+FE13Paralogues,P11-TwinWyverns,Villager,"You will?! Oh, thank you! Please, sir! Give 'em what for!",joy
+FE13Paralogues,P11-TwinWyverns,Cherche,Wait. You're not one of the villagers.,neutral
+FE13Paralogues,P11-TwinWyverns,Gerome,No. ...I am Gerome. A traveler.,neutral
+FE13Paralogues,P11-TwinWyverns,Cherche,"And a fellow wyvern rider, I see. This is a piece of good news! We fight to keep these villagers alive. Will you aid us?",joy
+FE13Paralogues,P11-TwinWyverns,Gerome,Why? No man can stop fate.,surprise
+FE13Paralogues,P11-TwinWyverns,Cherche,"These people will be killed by spears, traveler. Not fate.",neutral
+FE13Paralogues,P11-TwinWyverns,Gerome,Heh. Spoken like one who has yet to witness fate's implacable cruelty.,anger
+FE13Paralogues,P11-TwinWyverns,Cherche,"So you do nothing, then, save wandering the land in the fog of cowardice? And your wyvern? Has she seen enough? Does she also yearn to surrender?",anger
+FE13Paralogues,P11-TwinWyverns,Gerome,...... You would know better than I.,neutral
+FE13Paralogues,P11-TwinWyverns,Cherche,What does that mean?,surprise
+FE13Paralogues,P11-TwinWyverns,Gerome,"Nothing. I'll fight if you wish it. Death will always have its due, but perhaps it will accept a few substitutions. Come, my dear Minerva. Join me on one final flight...",sadness
+FE13Paralogues,P11-TwinWyverns,Chrom,Are you with the villagers? Who are you?,surprise
+FE13Paralogues,P11-TwinWyverns,Gerome,...I am Gerome. A traveler.,neutral
+FE13Paralogues,P11-TwinWyverns,Chrom,These people are in desperate straits. Will you help us?,surprise
+FE13Paralogues,P11-TwinWyverns,Gerome,It is not for me to interfere in such matters. Death will always have its due.,neutral
+FE13Paralogues,P11-TwinWyverns,Chrom,You would leave innocents to die and lay the blame on fate?,anger
+FE13Paralogues,P11-TwinWyverns,Gerome,I've seen too much of fate's cruel work to doubt it.,anger
+FE13Paralogues,P11-TwinWyverns,Chrom,"So you would surrender rather than struggle against such cruelty... I cannot understand such thinking. A bleak past doesn't justify condemning the future to bleakness as well. Nonetheless, I cannot force your hand. Join us if you will.",anger
+FE13Paralogues,P11-TwinWyverns,Gerome,"What does he know of bleak futures? It is a fool who breaks himself against fate's tide. That said, I suppose I'm as big a fool as any... *sigh* Very well, then. Come, my dear Minerva. Join me on one final flight...",anger
+FE13Paralogues,P11-TwinWyverns,Gerome,"Death...always has its...due... Go, Minerva... Be...free...",sadness
+FE13Paralogues,P11-TwinWyverns,Morristan,Seems these newcomers have spine. Send word to the boys at the hold. Tell 'em we've got spines that need breaking.,neutral
+FE13Paralogues,P11-TwinWyverns,Morristan,"Wyvern or man, everyone's all snarl and fire until they learn the feel of the lash!",anger
+FE13Paralogues,P11-TwinWyverns,Villager,"Our saviors! And it's more than lives you rescued... You've saved my hope in humanity, too. I thank you for it. Here, sir. A token of my gratitude",joy
+FE13Paralogues,P11-TwinWyverns,Chrom,"Thanks to you as well, friend.",neutral
+FE13Paralogues,P11-TwinWyverns,Villager,"Take care, now. We'll pray for a safe journey for you and your troops.",neutral
+FE13Paralogues,P11-TwinWyverns,Cherche,Do you have a moment?,neutral
+FE13Paralogues,P11-TwinWyverns,Gerome,What is it?,surprise
+FE13Paralogues,P11-TwinWyverns,Cherche,I was hoping you might introduce me to your wyvern.,neutral
+FE13Paralogues,P11-TwinWyverns,Gerome,Why?,surprise
+FE13Paralogues,P11-TwinWyverns,Cherche,"To see which of ours is cuter. Not very sporting of me when mine is the finest in the world, I know.",joy
+FE13Paralogues,P11-TwinWyverns,Gerome,...Do as you please.,neutral
+FE13Paralogues,P11-TwinWyverns,Cherche,"I will, then! Thank you. ...... ...Hee hee! Oh, but you ARE cute! She's nearly a match with Minerva! ...Nearly so in every way. Wait, what sorcery is this? They...they look IDENTICAL!",surprise
+FE13Paralogues,P11-TwinWyverns,Gerome,That's because they are identical. They're one and the same.,neutral
+FE13Paralogues,P11-TwinWyverns,Cherche,...M-Minerva? How is that possible?,surprise
+FE13Paralogues,P11-TwinWyverns,Gerome,You could examine her from tip to tail looking for scars and marks if you like. ...Or you could just look at this ring.,neutral
+FE13Paralogues,P11-TwinWyverns,Cherche,I...I know that ring. So then you're...,neutral
+FE13Paralogues,P11-TwinWyverns,Gerome,"I am, though I had not intended that we meet.",neutral
+FE13Paralogues,P11-TwinWyverns,Cherche,Why not?,surprise
+FE13Paralogues,P11-TwinWyverns,Gerome,I came back in time so I might release Minerva. Not to seek out parents to whom I've already bidden farewell.,sadness
+FE13Paralogues,P11-TwinWyverns,Cherche,You crossed the bounds of time just to set Minerva free? Whatever for?!,neutral
+FE13Paralogues,P11-TwinWyverns,Gerome,"In the future I know, she is among the last of her kind. I...I could not leave her to that solitude.",sadness
+FE13Paralogues,P11-TwinWyverns,Cherche,"She is lucky indeed to know someone of such kindness. ...As, I imagine, am I.",joy
+FE13Paralogues,P11-TwinWyverns,Gerome,"Stay your words. I've no intention of getting close to you. Fate will not be mocked. This war may claim your life anew, and I'll not weep twice for losing the same mother. My burden is heavy enough.",anger
+FE13Paralogues,P11-TwinWyverns,Cherche,But yet you carry it still.,neutral
+FE13Paralogues,P11-TwinWyverns,Gerome,That's enough.,anger
+FE13Paralogues,P11-TwinWyverns,Cherche,"Thank you, Gerome.",joy
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"Dishonorable cur! You killed my master, and now you will face me!",anger
+FE13Paralogues,P08-ADuelDisgraced,Cassius,"If that pile of pudding was your master, I'd advise you to just keep walking.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Craven dog... You claimed a hostage! He'd never have lost in a fair fight!,anger
+FE13Paralogues,P08-ADuelDisgraced,Maiden,"Nor would he have wanted this, Kjelle. If I lose you as well, I...",sadness
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,You won't lose me. I swear it. And I swear your husband will be avenged!,anger
+FE13Paralogues,P08-ADuelDisgraced,Cassius,"If you want to run headlong into the grave, girl, I won't stop you. We can duel in the ruins ahead.",anger
+FE13Paralogues,P08-ADuelDisgraced,Robin,"What do you make of this, Chrom?",surprise
+FE13Paralogues,P08-ADuelDisgraced,Chrom,I hope she knows what she's getting into.,neutral
+FE13Paralogues,P08-ADuelDisgraced,Maiden,Sir! Please! You have to do something!,neutral
+FE13Paralogues,P08-ADuelDisgraced,Chrom,What's the matter?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Maiden,"It's my friend, sir. I fear she's walking into a terrible trap! That scoundrel Cassius would never fight an honest duel. My husband took a similar stand against his tyranny not long ago. The brute took a girl hostage and then cut my husband down as he lowered his weapon! *Sniff* I can't let her suffer the same fate... I'd die, I would!",anger
+FE13Paralogues,P08-ADuelDisgraced,Chrom,All right. We'll see what we can do.,neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"Coward! You promised me a duel, you soulless blackheart!",anger
+FE13Paralogues,P08-ADuelDisgraced,Cassius,"Indeed I did. Consider all these men my seconds, heh. Still, I'm not a monster. I'll spare your life if you get on your knees and beg.",anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,I'd sooner die!,anger
+FE13Paralogues,P08-ADuelDisgraced,Cassius,"Well, we can arrange that, too. Have at her, boys!",neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,Hey. You got a second?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Ahh!,neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,What? I got something on my face?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"N-no, you just...remind me of someone. Forgive me. I have no time to talk.",sadness
+FE13Paralogues,P08-ADuelDisgraced,Sully,"Don't worry. It won't take long. So listen. These lowlifes have no honour. You know that, right? If you meet 'em head-on, you'll just end up with a sword in your back.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Head-on is how I live.,neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,"...Ooh, I like you. And that's all the more reason I can't let you charge off on your own.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Don't try to stop me!,fear
+FE13Paralogues,P08-ADuelDisgraced,Sully,"I'm not stopping you. I'm coming with you. You just focus on finishing your duel, and I'll kill any idiot who gets in the way.",anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,R-right!,neutral
+FE13Paralogues,P08-ADuelDisgraced,Chrom,Excuse me—,neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"Wha—?! Die, fiend! Y-you parried my spear. ...How did you do that?",anger
+FE13Paralogues,P08-ADuelDisgraced,Chrom,"I get a lot of practice. Now can you please stop trying to skewer me for a second? We're not your enemies. A friend sent us to help you. There are too many for you to fight alone, no matter your skill. We'll take care of the rabble while you fight your duel.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,You would do this for a stranger?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Chrom,Is that a problem?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"N-no, of course not. Thank you.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Chrom,Excuse me—,neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"Wha—?! Die, fiend! Y-you parried my spear. But how did you... Wait. Do I know you? I feel as if we've met, but... No, that's impossible.",surprise
+FE13Paralogues,P08-ADuelDisgraced,Chrom,"I hate to interrupt your musing, but could you perhaps lower your spear? We've been sent here to help you. They are too many for you to fight alone. We'll take care of the rabble while you fight your duel.",anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,You would do this for a stranger?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Chrom,Is that a problem?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"N-no, of course not. Thank you.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Cassius,Most people think a man who fights dirty is too weak to win otherwise. Heh heh... Suits me just fine. A cocky fool is an easy target!,anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"If you believe in gods, you'd better pray to them now!",neutral
+FE13Paralogues,P08-ADuelDisgraced,Cassius,"My, my. Aren't we confident?",neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"I don't fear you, coward!",anger
+FE13Paralogues,P08-ADuelDisgraced,Cassius,"Aye, I suppose not. Most fools assume that liars and sneaks like me are weak. They want us to be weak, see? They NEED it. It lets them hold on to the fantasy that right prevails in the end. Heh... They can think what they want. A cocky fool is an easy target. Truth is, in the end, it's the clever ones who always survive.",anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,A man who takes hostages in order to win a duel has no claim to cleverness. Even an animal would not stoop so low! But enough. I've no more words to waste on the likes of you. My master will have vengeance!,anger
+FE13Paralogues,P08-ADuelDisgraced,Cassius,"Wrong, girl. Your master will have COMPANY!",anger
+FE13Paralogues,P08-ADuelDisgraced,Maiden,Kjelle! Thank the gods you're safe!,joy
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,I kept my promise. Your husband can rest in peace now.,sadness
+FE13Paralogues,P08-ADuelDisgraced,Maiden,"I may have a way to thank you. This was his, and I'm sure he would have wanted you to have it.",joy
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,This is a precious keepsake. Its rightful place is with you.,neutral
+FE13Paralogues,P08-ADuelDisgraced,Maiden,"I'll not forget my husband for lack of a memento, dear. Now please, take it.",sadness
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,You're certain?,neutral
+FE13Paralogues,P08-ADuelDisgraced,Maiden,Absolutely.,neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Then...thank you.,joy
+FE13Paralogues,P08-ADuelDisgraced,Maiden,"Just swear to take care of yourself, Kjelle. Swear you'll stay safe.",anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,I swear it.,anger
+FE13Paralogues,P08-ADuelDisgraced,Sully,Looks like the good guys won after all. Ain't that a kick in the teeth?,anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"Thank you for your help, but I fear other tasks yet lie ahead of me. I still have to find my parents.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,"Aw, hell. Your parents are missing? That's rough, kid. Any idea where they might have gone?",anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"I have a ring my father gave my mother, but precious little else to go on.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,Mind if I take a look?,neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"No, of course not.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,"Well, I'll be damned... Kid? This is MY ring.",anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Your ring? But then...,surprise
+FE13Paralogues,P08-ADuelDisgraced,Sully,"Hah! I get it. You're one of the kids who came back with Lucina, yeah? Which means...I've got a new lead for you on the parent front, kiddo. ...I'm your mom.",joy
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Y-you?!,surprise
+FE13Paralogues,P08-ADuelDisgraced,Sully,You expecting someone prettier?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,N-no! Of course not! I mean... You look as beautiful now as when I knew you.,joy
+FE13Paralogues,P08-ADuelDisgraced,Sully,Har! So I'm not all wrinkled or missing a hand or anything? That's a relief.,surprise
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"You were a beautiful and vibrant woman, despite the ill times we lived in. You taught me how to be strong. You taught me to survive.",joy
+FE13Paralogues,P08-ADuelDisgraced,Sully,"All right, kid, sit down. I want to know every last detail about the future.",neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,You bet!,neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,...Is that how you address you mother?,surprise
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"I mean, y-yes! Yes ma'am!",neutral
+FE13Paralogues,P08-ADuelDisgraced,Sully,Much better.,neutral
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,Hee hee. You always were tough on me.,joy
+FE13Paralogues,P08-ADuelDisgraced,Sully,That's right. Any child of mine is gonna have to learn to respect their elders!,anger
+FE13Paralogues,P08-ADuelDisgraced,Kjelle,"...It's good to see you, Mother.",joy
+FE13Paralogues,P15-AShotFromTheDark,Ezra,"All alone are you lamb? Off searching for dear old mum? How very sweet. But the world's a dangerous place my dear, full of wolves waiting to snatch you up.",anger
+FE13Paralogues,P15-AShotFromTheDark,Noire,"Um... th-thank you for the warning, sir, b-but...",joy
+FE13Paralogues,P15-AShotFromTheDark,Ezra,"That's no warning, lamb. I'm a wolf, and you've been snatched! Now come quietly. Scars tend to lower the sale price.",anger
+FE13Paralogues,P15-AShotFromTheDark,Frederick,"Slavers, milord. Such damnable scum...",anger
+FE13Paralogues,P15-AShotFromTheDark,Chrom,We'll have to hurry if we hope to catch them.,fear
+FE13Paralogues,P15-AShotFromTheDark,Tharja,"Or we could stay here and just let me go to work on them. A curse to wither them away, perhaps? A slow death over a year? Oh, fie. Let's make it two.",anger
+FE13Paralogues,P15-AShotFromTheDark,Chrom,I think their captive would likely appreciate something a bit more immediate. Shepherds! Saving the girl is our top priority! Now move out!,joy
+FE13Paralogues,P15-AShotFromTheDark,Noire,"It's over... My life is over... Mother, I'll be by your side soon...",sadness
+FE13Paralogues,P15-AShotFromTheDark,Noire,"So this is how it ends... Killed... or worse. A clean death would be a mercy compared to what awaits... Huh? What's this? An old bow? Hmm, the string's still taut. I suppose I could use this to try and fight my way out. B-but those bandits are so strong and scary and... W-wait! My talisman! Let me just grab my talisman and then... ...... ...I AM THE FIRE AND FURY! ALL WHO DEFY ME WILL PERISH! REPENT, SCUM! REPENT THOUGH IT WILL SAVE YOU NOT! REPENT AND DESPAIR! BWAAA HA HA HA HA!",anger
+FE13Paralogues,P15-AShotFromTheDark,Noire,"Oh, thank you! Thank you so much! Had you not saved me, I... I fear to even think what would have happened...",joy
+FE13Paralogues,P15-AShotFromTheDark,Chrom,"It's all right, take it easy. No one's going to hurt you now.",neutral
+FE13Paralogues,P15-AShotFromTheDark,Noire,"*Sniff* P-please, sir... Let me come with you. There's someone I need to talk to, but I'm s-scared to be alone...",fear
+FE13Paralogues,P15-AShotFromTheDark,Tharja,What do you want?,neutral
+FE13Paralogues,P15-AShotFromTheDark,Noire,"I, um... I mean... Er... H-here, please look at this.",sadness
+FE13Paralogues,P15-AShotFromTheDark,Tharja,Nice ring. Looks just like mine. You messing around with alchemy? Or is this something... darker?,surprise
+FE13Paralogues,P15-AShotFromTheDark,Noire,Wha--? N-no! It's nothing of the sort! It's just...,surprise
+FE13Paralogues,P15-AShotFromTheDark,Tharja,"Tell me the truth, girl. You don't want to see what happens if you lie to me.",neutral
+FE13Paralogues,P15-AShotFromTheDark,Noire,"P-please, just give me... I n-need a moment... M-my talisman... Wh-where is my talisman... ......",sadness
+FE13Paralogues,P15-AShotFromTheDark,Tharja,......,neutral
+FE13Paralogues,P15-AShotFromTheDark,Noire,I AM BLOOD AND THUNDER! I AM A RIGHTEOUS FURY! ...I AM YOUR FUTURE DAUGHTER!,anger
+FE13Paralogues,P15-AShotFromTheDark,Tharja,You are trying my patience.,neutral
+FE13Paralogues,P15-AShotFromTheDark,Noire,"INSOLENCE! I speak the truth! The ring I bear also hails from the future. A memento of you, my departed mother!",anger
+FE13Paralogues,P15-AShotFromTheDark,Tharja,And that bizarre talisman?,surprise
+FE13Paralogues,P15-AShotFromTheDark,Noire,"Your own handiwork! Wrought to steel the mewling heart of your coward daughter! In its strength did I find blessed escape from grief and solitude! Fear of death and killing, too, it drove from me, until I became an avatar of retribution! Only by clinging to it have I survived the crushing desolation of a ruinated future! BWAA HA HA HA HA!",anger
+FE13Paralogues,P15-AShotFromTheDark,Tharja,"Oh, give me that.",neutral
+FE13Paralogues,P15-AShotFromTheDark,Noire,"Um, w-wait! I need that! Without it, I can't--",neutral
+FE13Paralogues,P15-AShotFromTheDark,Tharja,Survive? You can and will. And not by becoming some avatar of retribution. Just be my daughter. Leave the retribution to me.,anger
+FE13Paralogues,P15-AShotFromTheDark,Noire,M-Mother...,neutral
+FE13Paralogues,P15-AShotFromTheDark,Tharja,"My, this is a nasty little number. The future me is good. ...And very, very bad. Hee hee. I can't wait.",anger
+FE13Paralogues,P15-AShotFromTheDark,Noire,"M-Mother, you're f-frightening me! ...A-again!",fear
+FE13Paralogues,P15-AShotFromTheDark,Tharja,"This little trinket will advance my research in the dark arts nicely... Hmm... You have my blood, right? I'm going to need a bit of it back.",neutral
+FE13Paralogues,P15-AShotFromTheDark,Noire,Aaaaiiieee! I... I mean... BLEED ME DRY AND I SHALL BE AS THUNDER STILL!,sadness
+FE13Paralogues,P15-AShotFromTheDark,Tharja,See. No daughter of mine needs some mummer's prop to be strong. Hee... Hee hee...,joy
+FE13Paralogues,P15-AShotFromTheDark,Noire,BWAAA HA HA HA HA!,joy
+FE13Paralogues,P15-AShotFromTheDark,Tharja,Eee hee hee hee hee!,joy
+FE13Paralogues,P15-AShotFromTheDark,Chrom,"Oh, this is just wonderful...",joy
+FE13Paralogues,P16-DaughterToDragons,Nah,"All right, Nah... You can do this.You're strong! You're brave! You... EEEEEEK! Ha ha...haaaaa... Just a statue. Nothing to be afraid of...",fear
+FE13Paralogues,P16-DaughterToDragons,Nah,"AAAAAH! What the heck is that?!  *Huff, huff* ...Wait a minute, this is silly. I can turn into a dragon... What am I worried about? Now how do I get out of this wretched place?",fear
+FE13Paralogues,P16-DaughterToDragons,Chrom,"Did anyone else hear a girl scream? Come on, Shepherds! Hurry!",fear
+FE13Paralogues,P16-DaughterToDragons,Nah,Eeeeeek!,fear
+FE13Paralogues,P16-DaughterToDragons,Chrom,Wait! I'm a friend! We're here to help.,neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,"Whew, good thing you spoke up there... I was about to melt you with my breath.",neutral
+FE13Paralogues,P16-DaughterToDragons,Chrom,Huh? Your breath seems fine to me...? ...Oh. I get it. You're a manakete. So perhaps you'd like to tell me your name?,surprise
+FE13Paralogues,P16-DaughterToDragons,Nah,Nah.,neutral
+FE13Paralogues,P16-DaughterToDragons,Chrom,"Look, if I somehow offended you, I apologize. But you could at least-",sadness
+FE13Paralogues,P16-DaughterToDragons,Nah,"No, NAH. N-A-H. That's my name. Ugh, why does this always happen...",sadness
+FE13Paralogues,P16-DaughterToDragons,Chrom,"Er, right. Let's discuss it later, okay? For now, just stay behind me.",neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,"Behind you? I can turn into a dragon, you know. I'm pretty strong.",neutral
+FE13Paralogues,P16-DaughterToDragons,Chrom,"Dragonkin or no, you're still a child, and I won't have you taking unnecessary risks. Now let's get you out of here.",anger
+FE13Paralogues,P16-DaughterToDragons,Nah,"Stern, aren't you? Fair enough. I like your attitude. Lead the way, sir. I'm right behind you.",neutral
+FE13Paralogues,P16-DaughterToDragons,Nowi,"Ooh, you're the little girl we're looking for!",anger
+FE13Paralogues,P16-DaughterToDragons,Nah,It takes one to know one...,neutral
+FE13Paralogues,P16-DaughterToDragons,Nowi,"Ha-hah! It may look that way, but I'm actually quite old. I'm a dragonkin!",neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,"Oh? Well so am I, actua- Wait, are you Nowi?",surprise
+FE13Paralogues,P16-DaughterToDragons,Nowi,"Wow, nice guess!",joy
+FE13Paralogues,P16-DaughterToDragons,Nah,It IS you!,surprise
+FE13Paralogues,P16-DaughterToDragons,Nowi,"All right, I've told you my name. Now you tell me yours.",neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,Nah.,neutral
+FE13Paralogues,P16-DaughterToDragons,Nowi,"Oh, come on, why not?!",surprise
+FE13Paralogues,P16-DaughterToDragons,Nah,"No, NAH. N-A-H. That's my name.",neutral
+FE13Paralogues,P16-DaughterToDragons,Nowi,That's a confusing name...,neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,And whose fault is that?!,surprise
+FE13Paralogues,P16-DaughterToDragons,Nowi,"How the heck should I know? Anyway, this place isn't safe. Let's get you out of here!",surprise
+FE13Paralogues,P16-DaughterToDragons,Nah,After you...,neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,"Thank you so much. If you hadn't have come, I'd have been an adorable smear on the wall by now...",joy
+FE13Paralogues,P16-DaughterToDragons,Chrom,Can you make it home on your own?,surprise
+FE13Paralogues,P16-DaughterToDragons,Nah,I... I don't have a home. Not anymore.,sadness
+FE13Paralogues,P16-DaughterToDragons,Chrom,Then I'll arrange one for you in Ylisse.,neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,"No, my place is here with you now. I'm strong enough to fight, you know.",neutral
+FE13Paralogues,P16-DaughterToDragons,Chrom,"Well, seeing as you're a manakete, I certainly don't doubt that... Look, if you're sure this is what you want, then we'd love to have you.",neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,I'm sure. And thank you. You won't regret it.,joy
+FE13Paralogues,P16-DaughterToDragons,Nah,"Can I ask you something, Nowi? Does this look familiar?",neutral
+FE13Paralogues,P16-DaughterToDragons,Nowi,"Whoa, you have the same ring as me! What a crazy coincidence!",surprise
+FE13Paralogues,P16-DaughterToDragons,Nah,"It's not a coincidence. This is your ring. It's a memento of my mother. From... the future. It keeps me safe, now that... Now that you're gone.",neutral
+FE13Paralogues,P16-DaughterToDragons,Nowi,Nah...,neutral
+FE13Paralogues,P16-DaughterToDragons,Nah,"No, I'm serious. It does.",fear
+FE13Paralogues,P16-DaughterToDragons,Nowi,"Huh? Oh, hee hee! You did it to yourself that time! But no, I think it's very sweet. And now that you're with me, you don't have to hold back.",joy
+FE13Paralogues,P16-DaughterToDragons,Nah,I wasn't holding back. I fought as hard as I could...,sadness
+FE13Paralogues,P16-DaughterToDragons,Nowi,"No, you fought brilliantly, Nah. But that's not what I meant. I was talking about your tears. If you're sad, you can talk to me.",sadness
+FE13Paralogues,P16-DaughterToDragons,Nah,"No, I... I have to be strong. Everyone expects me to. I can turn into a dragon, you know? And that's not... normal. So I have to put on a brave face and protect everyone, just like you do.",sadness
+FE13Paralogues,P16-DaughterToDragons,Nowi,"Your mother cries all the time, dear. ...Aaaaaall the time. Trust me on this—holding things back won't make you stronger. Just be you, Nah. That's enough.",sadness
+FE13Paralogues,P16-DaughterToDragons,Nah,"I... This whole time, I...",sadness
+FE13Paralogues,P16-DaughterToDragons,Nowi,"I know it's been pretty scary, but you made it through!",joy
+FE13Paralogues,P16-DaughterToDragons,Nah,"*Sniff* Mother, I... Oh, it was awful... I thought I was going to DIE... *Sob* Waaaaaah!",sadness
+FE13Paralogues,P16-DaughterToDragons,Nowi,"*Sniff* It... it's okay, Nah. Mother's here, now.",sadness
+FE13Paralogues,P09-WingsOfJustice,Robin,Quite the bustling little town.,neutral
+FE13Paralogues,P09-WingsOfJustice,Chrom,The harvest must've just come in. I wager there's some good eating to be had!,neutral
+FE13Paralogues,P09-WingsOfJustice,Lissa,Count me in! It's been DAYS since I had a proper meal!,neutral
+FE13Paralogues,P09-WingsOfJustice,Villager,Welcome to the Grub Sh-ACK! Y-you're... You're...,joy
+FE13Paralogues,P09-WingsOfJustice,Chrom,Um...?,neutral
+FE13Paralogues,P09-WingsOfJustice,Villager,"T-terribly sorry, sir, but we're closed!",sadness
+FE13Paralogues,P09-WingsOfJustice,Chrom,That was...odd. I guess we'll try elsewhere.,neutral
+FE13Paralogues,P09-WingsOfJustice,Lucina,"This place looks open, Father. ...Ooh, they have pottage!",anger
+FE13Paralogues,P09-WingsOfJustice,Maiden,Eeek!,fear
+FE13Paralogues,P09-WingsOfJustice,Lucina,Hmm?,neutral
+FE13Paralogues,P09-WingsOfJustice,Maiden,"P-please, not again! We'll be ruined! This tavern is all we have! Mercy, sirs! Leave us in peace!",fear
+FE13Paralogues,P09-WingsOfJustice,Chrom,People here don't seem to like us very much.,neutral
+FE13Paralogues,P09-WingsOfJustice,Frederick,"I did a little investigating on that front, milord. It seems a band of nasty rogues have been harrying them without pause for some time. Apparently, they are led by a man who masquerades as...you.",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,*Sigh* So that's what this is about. Any idea where they are?,surprise
+FE13Paralogues,P09-WingsOfJustice,Frederick,"It seems they headed north, milord.",neutral
+FE13Paralogues,P09-WingsOfJustice,Chrom,Then so shall we.,neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,Heh heh... Another fine haul. Long live the great Chrom!,joy
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Chrom? Father? Faaather? Pegasus Knight Cynthia, returned from patrol, sir! ...Whoops!  Ooh... Right on the face... S-sorry for my clumsiness, sir! I promise not to trip again for at least 24 hours!",sadness
+FE13Paralogues,P09-WingsOfJustice,Ruger,"That'd be a new record... Now out with it, girl! What'd you see?",surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"A suspicious band of travelers have been making inquiries in town, sir.",neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,Oh?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"They call their leader Chrom, sir. I suspect they are impostors posing as you! They must be stopped at once, Father!",neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Cynthia, what did I say about calling me that around the men?",surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"S-sorry, Father! I mean, Chrom! Milord! ...It won't happen again.",sadness
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Your mind's near as slippery as your feet... Anyway, we, uh, don't have the men to battle this impostor right now. Best swallow our pride and exercise the better part of valor for now.",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Levelheaded and humble as ever, sir! Allow me to draw their attention while you retreat to safety!",neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Yes, yes, of course. A fine plan.",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"I won't let you down, sir!",anger
+FE13Paralogues,P09-WingsOfJustice,Ruger,"...... ...Gads, she's dumb as a brick. Good thing her spear is sharper than her wit. Still, at least she stopped ranting about hailing from the future...",anger
+FE13Paralogues,P09-WingsOfJustice,Ruger,Heh heh... Another fine haul. Long live the great Chrom!,joy
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Chrom? Sir? Pegasus Knight Cynthia, returned from patrol, sir! ...Whoops!  Oof... Right on the face... S-sorry for my clumsiness, sir! I promise not to trip again for at least 24 hours!",sadness
+FE13Paralogues,P09-WingsOfJustice,Ruger,"That'd be a new record... Now out with it, girl! What did you see?",surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"A suspicious band of travelers have been making inquiries in town, sir.",neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,Oh?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"They call their leader Chrom, sir. I suspect they are impostors posing as you! They must be stopped at once!",neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Er, riiight. Posing as...me. But, uh, we don't have the men to battle these impostors right now. Best swallow our pride and exercise the better part of valor for now.",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Levelheaded and humble as ever, sir! Allow me to draw their attention while you retreat to safety!",neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Yes, yes, of course. A fine plan.",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"I won't let you down, sir!",anger
+FE13Paralogues,P09-WingsOfJustice,Ruger,"...... Gads, she's dumb as a brick. ...Still, full marks for enthusiasm.",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,And you are...?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"All who would pretend to Chrom's name will answer to me for their deceit! Lay down your arms and surrender, or face judgement at my spear!",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,"Well, she certainly seems eager. What do you think, Robin? If she's being honestly deceived, we may be able to show her the truth.",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Enough! In the name of my lord Chrom, cast down your sword or draw it!",anger
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Hmm? A band of mercenaries? Luck smiles on me today! A few pretty lies, and I'll have the lot of 'em fighting for me!",joy
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Haaalp! I am Chrom, ruler of Ylisse! I'm being hunted by brigands! If you help me, I'll see to it that you're handsomely rewarded!",anger
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Hold fast until I give the word. The moment they clear that rubble, fall on them like an avalanche!",fear
+FE13Paralogues,P09-WingsOfJustice,Ruger,"Still not coming, are you? Then the initiative will be ours!",surprise
+FE13Paralogues,P09-WingsOfJustice,Sumia,"Pardon me, but...I think you may be misinformed. Can we speak a moment?",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Don't waste your breath! Your lies ring hollow! Your...ring? ...Ring? Y-your RING! MOTHER!,surprise
+FE13Paralogues,P09-WingsOfJustice,Sumia,...What?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"It is you! Oh, Mother, you're alive! I never thought I'd see you again! I...I... *sniff* Waaaaaaaaaah!",sadness
+FE13Paralogues,P09-WingsOfJustice,Sumia,Um...are you all right?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"WAIT! But if you're on that side, that means... Ohmigosh. My Chrom is a FAKE! Oh, I am going to KILL him for this! I'm going to plant a flying hoof right in his stupid liar face!",anger
+FE13Paralogues,P09-WingsOfJustice,Sumia,"Wait! We really should... Well, at least she's not confused anymore. If only I could say the same for me...",sadness
+FE13Paralogues,P09-WingsOfJustice,Chrom,Still your spear a moment and hear me out. You've been lied to!,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Spare me your tales, brigand! I have nothing to say to someone who would impersonate my mother's dearest friend!",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,Your...mother?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,You heard me! How dare you besmirch my mother Sumia's name!,anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,"And it all becomes clear... Well, welcome to the past.",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Wha—?! But how could you know?,surprise
+FE13Paralogues,P09-WingsOfJustice,Chrom,That you came from the future? Lucina told me all about it.,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Lucy's here?!,surprise
+FE13Paralogues,P09-WingsOfJustice,Chrom,In the flesh.,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Then...you're the real Chrom?,surprise
+FE13Paralogues,P09-WingsOfJustice,Chrom,Last I checked.,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Ugh, I'm so sorry! I've always been gullible, ever since I was a little girl, but... Hey! This means the other Chrom LIED! Oh, I'm going to kill him for this! I'm going to plant a flying hoof right in his stupid liar face!",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,Still your spear a moment and hear me out. You've been lied to!,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Spare me your tales, brigand! I've nothing to say to someone who would impersonate my father!",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,"Your what? Oh, for the love of... How many daughters are going to come back in time to see me?",surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Huh? H-how did you know I-,surprise
+FE13Paralogues,P09-WingsOfJustice,Chrom,I already went through this with Lucina.,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Lucy's here?!,surprise
+FE13Paralogues,P09-WingsOfJustice,Chrom,In the flesh. ...Though she neglected to mention she had a sister.,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Wait—then you really are...! Oh, Father! I missed you SOOOOO MUUUCH!",surprise
+FE13Paralogues,P09-WingsOfJustice,Chrom,My... my ears...,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,I knew something was fishy with that guy! He barely even smiled when I found him. My REAL father would've given me a big hug and called me his little pega-pony princess!,joy
+FE13Paralogues,P09-WingsOfJustice,Chrom,...Please tell me I never actually say that.,sadness
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"You'll say it right now, if you want me to believe you're the real Chrom!",neutral
+FE13Paralogues,P09-WingsOfJustice,Chrom,"Uh... It's... it's good to see you, my... Um... My little pega-pony princess...",joy
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Aww, it's good to see you too, Father! I can't believe I fell for that lying creep's lies! Oh, I am going to KILL him for this! I'm going to plant a flying hoof right in his stupid liar face!",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,She's even flightier than her mother. ...I didn't think that was possible.,neutral
+FE13Paralogues,P09-WingsOfJustice,Ruger,I'm not dying in a backwater like this! I'll take what's handy and then take off!,neutral
+FE13Paralogues,P09-WingsOfJustice,Chrom,That’s the last of them.,neutral
+FE13Paralogues,P09-WingsOfJustice,Frederick,"We can explain the truth to those mercenaries as we tend their wounds. Frankly, I’m shocked that scoundrel had the audacity to impersonate you, milord.",surprise
+FE13Paralogues,P09-WingsOfJustice,Chrom,"Not the worst of his crimes, I’m sure.",anger
+FE13Paralogues,P09-WingsOfJustice,Frederick,"It is unacceptable, milord. I have clearly failed in my duties as a knight. I shall draft a series of portraits and see that copies are distributed to all! Never again shall someone mistake the noble visage of my lord Chrom for—",anger
+FE13Paralogues,P09-WingsOfJustice,Chrom,Frederick. Let’s just go.,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Do you have a moment, Sumia?",neutral
+FE13Paralogues,P09-WingsOfJustice,Sumia,"Oh, hello. You’re the girl from...before. Er...",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Cynthia! My name is Cynthia!,surprise
+FE13Paralogues,P09-WingsOfJustice,Sumia,What a darling name.,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Tee hee! I KNOW! I’ve always loved it. It was a gift from my mother. ...From you.,joy
+FE13Paralogues,P09-WingsOfJustice,Sumia,What? Me? But I... I’ve never seen...,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"Oh, but you WILL! Isn’t that great?! I came from the FUTURE, Mother! See? Our rings match up and everything! It’s ‘cause you gave it to me! Or you will. I mean, later. Before I come back here, but after I... Gods, this is confusing!",surprise
+FE13Paralogues,P09-WingsOfJustice,Sumia,You...you’re my daughter...?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"I sure am! I missed you so, Mother. Come here. Give me a hug— Whoops!  Ooh. That one’s gonna bruise... Er, don’t worry about me. I’m fine!",joy
+FE13Paralogues,P09-WingsOfJustice,Sumia,"...Well, we’re definitely related. Hold on. You dropped something. ...A spearhead?",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,S-sorry! I’ll take that back!,sadness
+FE13Paralogues,P09-WingsOfJustice,Sumia,Why are you carrying that around?,surprise
+FE13Paralogues,P09-WingsOfJustice,Cynthia,Because it hasn’t been made yet. You promised me we’d make it together.,neutral
+FE13Paralogues,P09-WingsOfJustice,Sumia,I did?,neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"But you broke your promise the day... The day you never came home. How could you leave me, Mother? You were a legend! You were invincible!",joy
+FE13Paralogues,P09-WingsOfJustice,Sumia,"Wait, are you saying I...died? I’m so sorry, love. I guess I’m not much of a legend after all.",sadness
+FE13Paralogues,P09-WingsOfJustice,Cynthia,...You are to me.,neutral
+FE13Paralogues,P09-WingsOfJustice,Sumia,"...I may not be invincible, but at least I was blessed with a wonderful child. Had we decided what sort of haft to give the spear? We can pick up the materials in the next town.",joy
+FE13Paralogues,P09-WingsOfJustice,Cynthia,W-we can?,surprise
+FE13Paralogues,P09-WingsOfJustice,Sumia,"I made a promise, didn’t I?",neutral
+FE13Paralogues,P09-WingsOfJustice,Cynthia,"*sniff* Oh...oh, Mother... I love you!",sadness
+FE13Paralogues,P10-Ambivalence,Villager,"This can't go on, Elder! We barely have enough to get us by as it is!",anger
+FE13Paralogues,P10-Ambivalence,Elder,Their leader is a former Valmese general! We'll be crushed if we resist...,fear
+FE13Paralogues,P10-Ambivalence,Chrom,What's that about Valm?,surprise
+FE13Paralogues,P10-Ambivalence,Villager,Who are you?,surprise
+FE13Paralogues,P10-Ambivalence,Chrom,My name is Chrom.,neutral
+FE13Paralogues,P10-Ambivalence,Elder,The ruler of Ylisse?!,surprise
+FE13Paralogues,P10-Ambivalence,Villager,Elder! He may be able to help us!,neutral
+FE13Paralogues,P10-Ambivalence,Chrom,"Um, I can hear you. But tell me your problem, and I'll see what I can do.",neutral
+FE13Paralogues,P10-Ambivalence,Elder,"Oh, thank you, sir!",joy
+FE13Paralogues,P10-Ambivalence,Soldier,"Urgent news, sir! Armed soldiers approach! Their leader claims to be Chrom of Ylisse!",fear
+FE13Paralogues,P10-Ambivalence,Nelson,"Dammit! Why would he come here? Well, if they insist on dogging me, I've got hounds of my own to welcome them with.",anger
+FE13Paralogues,P10-Ambivalence,Severa,"I'm not your dog, scum!",anger
+FE13Paralogues,P10-Ambivalence,Nelson,"No, only a stray mutt that refuses to stop yapping. But you'll be a good dog and do as I say if you ever want--",anger
+FE13Paralogues,P10-Ambivalence,Severa,"Yes, yes, if I ever want to see it again. I'm well aware.",joy
+FE13Paralogues,P10-Ambivalence,Nelson,"I trust you're equally aware of your position, Holland?",neutral
+FE13Paralogues,P10-Ambivalence,Holland,......,neutral
+FE13Paralogues,P10-Ambivalence,Nelson,"Loquacious as ever, I see. You'll fight for me, or I'll have that lazy tongue pried from your head. Now, then, Chrom may have the Fire Emblem in his possession... And if I claim that, I've practically claimed the throne. So go out there, kill anything that moves, and get me that Emblem!",anger
+FE13Paralogues,P10-Ambivalence,Chrom,Looks like this is the castle the villagers told us about. Let's reclaim what's been stolen and return it to the villagers.,neutral
+FE13Paralogues,P10-Ambivalence,Severa,"All this grief over something so small... Once I get what I came for, I'm out of here. Maybe I can convince Holland to come with me.",sadness
+FE13Paralogues,P10-Ambivalence,Severa,"...Oh, gods. It's you.",neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,"Have we met? If so, I'm afraid I've quite forgotten.",fear
+FE13Paralogues,P10-Ambivalence,Severa,"Well, excuse me for being so forgettable!",neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,"Look, there's no time for this. If you're a friend, speak now. If not, then stay out of Chrom's way or I'll have to cut you down.",neutral
+FE13Paralogues,P10-Ambivalence,Severa,"Chrom, Chrom, Chrom! It's ALWAYS Chrom with you!",neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,...I'm sorry?,sadness
+FE13Paralogues,P10-Ambivalence,Severa,"You should be! And I don't care about your stupid Chrom, so you can just drop it! ...I only want to talk to Holland.",anger
+FE13Paralogues,P10-Ambivalence,Cordelia,Holland?,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"Yes, Holland! That sad sack over there. Watch my back so I can get to him safely, and then I'll help your stupid army!",anger
+FE13Paralogues,P10-Ambivalence,Cordelia,O...okay?,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"Oh, and Holland's not here of his own will, so don't you dare hurt him!",anger
+FE13Paralogues,P10-Ambivalence,Chrom,What's a child doing here?,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"Child? I'm not a child, you oaf! I'm... Wait, are you the enemy general?",surprise
+FE13Paralogues,P10-Ambivalence,Chrom,I don't know. Are we enemies?,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"You're Chrom, aren't you? You're Lucina's father.",surprise
+FE13Paralogues,P10-Ambivalence,Chrom,That's right. ...And I suppose you came back here with my daughter?,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"Oh, good. Now I won't have to waste time explaining the situation. ...Weird. I didn't think you'd be so funny looking.",sadness
+FE13Paralogues,P10-Ambivalence,Chrom,"You're a real charmer. But charm or not, if you can fight, you're welcome to join our cause.",neutral
+FE13Paralogues,P10-Ambivalence,Severa,"Not the snappiest pick-up line I've heard, but I suppose it gets the job done. But I can't leave until I reclaim my property from Nelson. We'll talk then.",neutral
+FE13Paralogues,P10-Ambivalence,Chrom,"Actually, we're here to take stolen goods back to the village. If I promise to add yours to the list, will that persuade you?",neutral
+FE13Paralogues,P10-Ambivalence,Severa,"Mmm... Maybe. But you'll have to help my friend Holland, too. He's a bit of a sad sack, but he doesn't want to be here either.",sadness
+FE13Paralogues,P10-Ambivalence,Chrom,Will he listen to reason?,neutral
+FE13Paralogues,P10-Ambivalence,Severa,"He will if I talk to him. He listens to pretty much whatever I say. Don't worry, he hates Nelson, too. Just be sure not to hurt him.",neutral
+FE13Paralogues,P10-Ambivalence,Chrom,We'll be careful.,fear
+FE13Paralogues,P10-Ambivalence,Severa,"Holland, no! You idiot! Now you'll never get to see your wife again or meet your new child... I guess I shouldn't be surprised. Families never stay together...",anger
+FE13Paralogues,P10-Ambivalence,Severa,Holland!,neutral
+FE13Paralogues,P10-Ambivalence,Holland,Severa! What are you doing here? If he knows you left your post...,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"I'm leaving, Holland, and you're coming with me.",neutral
+FE13Paralogues,P10-Ambivalence,Holland,"Severa, I... I can't. You know I can't. I have a wife. If I don't earn Nelson's coin, she'll starve. I know it's blood money, but--",neutral
+FE13Paralogues,P10-Ambivalence,Severa,"Your wife is PREGNANT, Holland! You know that, don't you?!",surprise
+FE13Paralogues,P10-Ambivalence,Holland,Of course I know that! And it's none of your concern!,anger
+FE13Paralogues,P10-Ambivalence,Severa,"Do you love your child, Holland? Do you love your wife?",surprise
+FE13Paralogues,P10-Ambivalence,Holland,Of course I do!,neutral
+FE13Paralogues,P10-Ambivalence,Severa,"Then stop making excuses! I know that parents will do anything for their children... But I also know how it feels when a child loses her parents. This world's got far too many kids who've gone through that. If you stay, you'll be killed or worse. And your child deserves better!",anger
+FE13Paralogues,P10-Ambivalence,Holland,"Severa, I... I'm sorry. I didn't know. That must have been hard for you. ...... You're right. My child deserves better. Let's get out of here.",sadness
+FE13Paralogues,P10-Ambivalence,Severa,Really?!,surprise
+FE13Paralogues,P10-Ambivalence,Holland,"Yes, really. But we have to hurry!",fear
+FE13Paralogues,P10-Ambivalence,Nelson,What are those useless fools doing?! Get them! Somebody get them!,anger
+FE13Paralogues,P10-Ambivalence,Nelson,"Damn... Useless fools, all of you!",anger
+FE13Paralogues,P10-Ambivalence,Chrom,And what does that make the man cowering behind them?,anger
+FE13Paralogues,P10-Ambivalence,Nelson,Bah! I'll use your corpse to clean the blood from my boots!,anger
+FE13Paralogues,P10-Ambivalence,Nelson,Traitorous wench!,anger
+FE13Paralogues,P10-Ambivalence,Severa,"You've got to be loyal before you can be a traitor, you idiot! And you're one to talk, extorting a poor innocent girl like me...it's time you learned just how deadly this innocent girl can be!",anger
+FE13Paralogues,P10-Ambivalence,Elder,"You've saved the village from starvation! You're a true hero of the people, sir.",joy
+FE13Paralogues,P10-Ambivalence,Severa,"Yes, here it is!",neutral
+FE13Paralogues,P10-Ambivalence,Chrom,Is that a ring?,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"It's my ring, and I'll thank you to stop staring so lustily at it! It's worth more to me than anything in the world to me... That rat Nelson stole it one night while I was sleeping.",joy
+FE13Paralogues,P10-Ambivalence,Chrom,"Well, I'm glad you were able to get it back.",joy
+FE13Paralogues,P10-Ambivalence,Severa,...Hmph.,neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,Oh. ...You.,neutral
+FE13Paralogues,P10-Ambivalence,Severa,Wh-what do you want?!,surprise
+FE13Paralogues,P10-Ambivalence,Cordelia,"Just to thank you for helping us. You fought bravely, er...",joy
+FE13Paralogues,P10-Ambivalence,Severa,Severa. ...My name's Severa.,neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,"It suits you somehow. Oh, and my name--",neutral
+FE13Paralogues,P10-Ambivalence,Severa,Cordelia. I know.,neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,"Er, yes, that's... But how did you...? I'm sorry, did I introduce myself before?",sadness
+FE13Paralogues,P10-Ambivalence,Severa,I guess you must have if I know your name. Gods...,neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,"I... I see. Well, thank you all the same, Severa.",joy
+FE13Paralogues,P10-Ambivalence,Severa,"You already said that! And besides, it's not like I did anything special. I was just fighting to get back what's rightfully mine.",neutral
+FE13Paralogues,P10-Ambivalence,Cordelia,"Are you referring to that ring? Oh, goodness. It looks exactly like... Ah I see. That would explain how you know my name. You're a friend of Lucina's, aren't you? ...And you're my child. Isn't that right?",surprise
+FE13Paralogues,P10-Ambivalence,Severa,*Mutter* *grumble* ...lonely...,sadness
+FE13Paralogues,P10-Ambivalence,Cordelia,What was that?,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"I SAID, I thought you'd might be lonely, so I came here to see you! ...You're welcome.",sadness
+FE13Paralogues,P10-Ambivalence,Cordelia,That's very sweet.,neutral
+FE13Paralogues,P10-Ambivalence,Severa,D-don't mock me! You don't care! You don't care at all!,anger
+FE13Paralogues,P10-Ambivalence,Cordelia,How could you possibly think that? I'm thrilled beyond words to meet you.,surprise
+FE13Paralogues,P10-Ambivalence,Severa,"...Then why'd you leave me? You said you had to go off to fight for what really mattered, and you never came back! You picked Chrom over me!",anger
+FE13Paralogues,P10-Ambivalence,Cordelia,"You have me at a disadvantage, Severa. I can't answer for my future self. But when I said I was fighting for what mattered, I probably meant you. I'd want nothing more than to build a world where you could grow up happy and strong. At least, that's what I want right now.",neutral
+FE13Paralogues,P10-Ambivalence,Severa,"You think I don't know that...? I mean, I DO know that, but...",surprise
+FE13Paralogues,P10-Ambivalence,Cordelia,I'm sorry I wasn't a better mother to you.,sadness
+FE13Paralogues,P10-Ambivalence,Severa,"Well, you're still MY mother, which makes you the best mother in the world.",joy
+FE13Paralogues,P10-Ambivalence,Cordelia,"And the luckiest, it seems.",joy
+FE13Paralogues,P10-Ambivalence,Severa,"Oh, Mom, I missed you so much! I... I'm sorry I was so mean... I just... I didn't want to lose you again... Promise you won't leave, okay? Promise!",sadness
+FE13Paralogues,P10-Ambivalence,Cordelia,I promise.,neutral
+FE13Paralogues,P03-AStrangledPeace,Frederick,"Milord, look! Risen!",neutral
+FE13Paralogues,P03-AStrangledPeace,Chrom,"Ugh, and there's a village just ahead. Come on!",anger
+FE13Paralogues,P03-AStrangledPeace,Villager,"Help! Heeelp! Open the gates! The dead walk the earth! If you've any kindness in you, open the gates! We're from Woodham, up the road! You KNOW us! Please, open the— Gods, no. ...No! They're here! Aaaiiieeeeee!",fear
+FE13Paralogues,P03-AStrangledPeace,Frederick,Hmm... The townsfolk of this village are renowned for their hospitality. How could they turn away refugees fearing for their lives?,neutral
+FE13Paralogues,P03-AStrangledPeace,Chrom,Let's worry about saving those lives first. We can ask questions later.,neutral
+FE13Paralogues,P03-AStrangledPeace,Elder,"Shepherds are always welcome here. Please, take this with you.",neutral
+FE13Paralogues,P03-AStrangledPeace,Elder,"Shepherds are always welcome here. Please, take this with you.",neutral
+FE13Paralogues,P03-AStrangledPeace,Chrom,Listen. There were refugees here and you turned them away. Why?,neutral
+FE13Paralogues,P03-AStrangledPeace,Elder,"We're a peaceful town, sir. We have no weapons, nor any want for them. We survive by barring our gates to those who might bring us harm—friend or foe. Harsh as it may be, I can't have my people dying on account of other folks' problems...",neutral
+FE13Paralogues,P03-AStrangledPeace,Chrom,......,neutral
+FE13Paralogues,P03-AStrangledPeace,Chrom,Are you all right?!,surprise
+FE13Paralogues,P03-AStrangledPeace,Villager,"Oh, thank goodness you've come! Are you here to help us?",joy
+FE13Paralogues,P03-AStrangledPeace,Chrom,We'll hold them off! Run!,fear
+FE13Paralogues,P03-AStrangledPeace,Villager,"U-understood! If we make it out alive, I'll repay you! I swear!",anger
+FE13Paralogues,P03-AStrangledPeace,Villager,"I've not the words to thank you, nor the treasure to pay you, but...here. Take this. I didn't think people like you still existed. I'll...I'll never forget this.",joy
+FE13Paralogues,P03-AStrangledPeace,Frederick,Do you suppose the village will continue to bar its gates to refugees?,neutral
+FE13Paralogues,P03-AStrangledPeace,Chrom,"As long as they view the Risen as someone else's problem, then yes.",neutral
+FE13Paralogues,P03-AStrangledPeace,Frederick,They claim to love peace... Yet the uneasy peace found behind a barricade is nothing I'd want. Peace begins when the fighting is over and the barricades come down. I pray they can see the truth of that before it's too late...,neutral
+FE13Paralogues,P14-ShadowInTheSands,Chrom,...A mirage village?,neutral
+FE13Paralogues,P14-ShadowInTheSands,Elder,"Or rumors of one, at any rate. People claim to have spied a desert village that sometimes appears during sandstorms. Tales speak of a legendary Goddess Staff that sleeps there, but who can really say?",neutral
+FE13Paralogues,P14-ShadowInTheSands,Chrom,"That sounds like it could be helpful. It may be nothing more than idle talk, but it still bears further investigation.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Elder,"Just take care, sir. The sands are home to armed barbarians. Every year sees a few villagers go chasing the myth and finding the grave instead. I'll not stop you, but be sure you're well armed and fully prepared.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Nombry,"Here we are, boys! The golden oasis! They say the villages around here are filled to burstin' with rare treasure! Kick down every door ya see! Don't let a single coin slip by!",joy
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Eureka! It's you!,joy
+FE13Paralogues,P14-ShadowInTheSands,Miriel,...Curious. I have no recollection of making your acquaintance. Though few things are as unreliable as the human memory.,neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Ah, forgive me. I forgot that you have not met me before. My name is Laurent. Are you here in search of the mirage village?",sadness
+FE13Paralogues,P14-ShadowInTheSands,Miriel,"That is my cause, yes.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Mine as well, though I fear my efforts thus far yield precious little progress. Still, an excess of evidence exists for the village to be baseless rumor alone...",neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,"An assumption on your part, that.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Might I accompany you in your search? I feel certain that your help will lay exposed that which has eluded me alone.,anger
+FE13Paralogues,P14-ShadowInTheSands,Miriel,"Mmm. I worry your hypothesis lacks a certain scientific rigor... And yet, there exists the possibility I am in error on this count... So...yes. You are welcome to join us.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Excelsior! I assure you, I'll not be a burden.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Chrom? Is that you?,surprise
+FE13Paralogues,P14-ShadowInTheSands,Chrom,"Er, yes. And you are...?",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Ah, apologies! I am Laurent, a traveling mage and scholar. And perhaps more saliently, I am Miriel's son.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Chrom,"Wait, you mean OUR Miriel? Oh, right. So then you must have traveled back and... Er, right?",surprise
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Excellent! Your comprehension spares me the botheration of further explication.,joy
+FE13Paralogues,P14-ShadowInTheSands,Chrom,...Yep. You're Miriel's kid all right. So have you come all this way in search of your mother?,neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Just so. She wrote of a mirage village in one of her records. I thought it might offer some clue to her current whereabouts. And acquiring the Goddess Staff is a worthy motive, besides.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Chrom,Any luck with that?,surprise
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Nay, sir. Much to my vexation, staff and village both elude me.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Chrom,I suppose it wouldn't be a legend if you could just stumble upon it in the market.,neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Well put! And yet, not all is lost. Meeting you here is success enough. I was quickly reaching the limits of what one man can do alone. Might I lend my might to your cause? I assure you I will not be a burden.",sadness
+FE13Paralogues,P14-ShadowInTheSands,Chrom,Of course. We'd love to have you.,joy
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Excelsior!,neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"That mirage village must be located very near to here... Though I fear my own search for it has borne naught but ill fruit. No doubt Mother would have this mystery unraveled in moments, were she here...",neutral
+FE13Paralogues,P14-ShadowInTheSands,Elder,"Not many make it out this far. You must be near exhausted from the sands. Here, then. Take this as a reward for your efforts.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Elder,"...A mirage village? No, I'm afraid we're quite the ordinary one! Ha ha ha! Perhaps you'll find what you seek further west...",fear
+FE13Paralogues,P14-ShadowInTheSands,Elder,"Not many make it out this far. You must be near exhausted from the sands. Here, then. Take this as a reward for your efforts. ...A mirage village? No, everyone can see us just fine! Ha ha ha! Perhaps you'll find what you seek on the far side of the oasis...",neutral
+FE13Paralogues,P14-ShadowInTheSands,Elder,"Not many make it out this far. You must be near exhausted from the sands. Here, then. Take this as a reward for your efforts. ...A mirage village? Yes, my mum used to sing cradle songs of such a thing. Find the last tree north of the oasis shore... Then two steps north and one step more! Er, or something like that. It's not like the place really exists, anyway.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Elder,"Well, well. This village does not often play host to outsiders... Few hold faith in that which cannot be seen to exist, yet I sense such faith in you. Here, then. Claim what you have come for. I hold my own faith that you will use it with wisdom.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Nombry,"Where's that magic mirage village at? Talk, or I'll make you vanish, too!",surprise
+FE13Paralogues,P14-ShadowInTheSands,Chrom,"The battle is won, and the sun is fading. We'd best make tracks.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Chrom,"Just what was that place, in the end? Something beyond our ken, I suppose... Maybe a small proof that faith, even in the intangible, can still be rewarded? Like faith in a better future, perhaps. ...Heh. That's treasure enough for me.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Might I have a word?,neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,I don't see why not.,neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Tell me honestly—how would you assess my performance?,neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,"You have certain natural deficiencies, but you compensate for them well. I surmise this is the product of considerable time and effort.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"Hah! The best response yet! You're as perspicacious as you are blunt, Mother.",anger
+FE13Paralogues,P14-ShadowInTheSands,Miriel,Mother?,surprise
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Indeed. I am your future progeny.,neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,Do you have concrete evidence to substantiate this proposition?,neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,I have a ring which is the same as yours. Quite literally.,neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,...Fascinating. It does appear identical.,neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Do two instances of a unique object coexisting constitute sufficient proof?,neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,"To be sure, time travel is one viable hypothesis to explain the rings. But the possibility also exists that you pilfered the ring from said time traveler. As a means of identification, I fear it inconclusive.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"...An astute criticism. I'm uncertain that any truly conclusive case can be mounted to prove my claim. But I intend to spend the rest of my life investigating the matter, if necessary. A single-minded pursuit of the truth may be the best proof of my heredity.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,This is a reasonable assumption. But I'm afraid a unilateral investigation is hardly credible.,fear
+FE13Paralogues,P14-ShadowInTheSands,Laurent,Then how should--,neutral
+FE13Paralogues,P14-ShadowInTheSands,Miriel,"However, I have no material evidence to suggest you are not, as you claim, my son. I shall conduct an inquiry of my own. We'll investigate the matter until a clear conclusion emerges. ...Together. Until then, I will grant the fundamental assumption that you are, in fact, my child.",neutral
+FE13Paralogues,P14-ShadowInTheSands,Laurent,"...Thank you, Mother.",joy
+FE13Paralogues,P07-NobleLineage,Xalbador,"There's nothin' like war for the self-made man! No, sir! The strong rise to the top while the high-borns try to keep the blue blood inside 'em.",neutral
+FE13Paralogues,P07-NobleLineage,Elder,"Hold, defiler! This is sacred ground! Your wickedness will be punished!",anger
+FE13Paralogues,P07-NobleLineage,Xalbador,"By who? The same gods that abandoned me when I was starving as a boy? When you see the gods, tell 'em I said they can rot in hell!",anger
+FE13Paralogues,P07-NobleLineage,Elder,Hnngh! Gah...,fear
+FE13Paralogues,P07-NobleLineage,Brady,Dastard! I'll gut ya for that!,anger
+FE13Paralogues,P07-NobleLineage,Villager,"Brady, no! There's nothing you can do! Who would tend to the injured if we lost you?",neutral
+FE13Paralogues,P07-NobleLineage,Brady,But...,neutral
+FE13Paralogues,P07-NobleLineage,Villager,We'll fight as best we're able! You help from the rear lines.,neutral
+FE13Paralogues,P07-NobleLineage,Brady,"Ugh! Good people are dying, and I can't help! If only I could fight...",anger
+FE13Paralogues,P07-NobleLineage,Maribelle,Chrom! We have to hurry!,fear
+FE13Paralogues,P07-NobleLineage,Chrom,"What's wrong, Maribelle?",surprise
+FE13Paralogues,P07-NobleLineage,Maribelle,There're people fighting just over that ridge! LOTS of people!,anger
+FE13Paralogues,P07-NobleLineage,Chrom,"They look like they need help. Let's go, Shepherds!",neutral
+FE13Paralogues,P07-NobleLineage,Villager,H-help us! Please! The temple's beset by marauding bandits!,fear
+FE13Paralogues,P07-NobleLineage,Maribelle,"Don't you worry! We're happy to help! If there's one thing this world needs less of, it's wretched bandits…",anger
+FE13Paralogues,P07-NobleLineage,Brady,Wait. I know that voice. Is that...Ma?,surprise
+FE13Paralogues,P07-NobleLineage,Brady,"Haw haw haw! Oh, that's her. That's gotta be her.",joy
+FE13Paralogues,P07-NobleLineage,Maribelle,"Pardon me, you mannerless cur! I will not stand to be laughed at by a base scoundrel of your like!",anger
+FE13Paralogues,P07-NobleLineage,Brady,...Yep. That clinches it. You must be Maribelle.,neutral
+FE13Paralogues,P07-NobleLineage,Maribelle,And just how do you know that?! Do you leer at me from behind the shades of whatever den of iniquity you frequent?! Hmph! I bid you good day!,anger
+FE13Paralogues,P07-NobleLineage,Brady,"I guess you've always been like this. Still...it's good to see you again. And now that I've found ya, I'm afraid you're stuck with me.",joy
+FE13Paralogues,P07-NobleLineage,Brady,"An enemy?! Damn! Guess that's it for me... Sorry, Ma. Looks like I won't be home for supper after all. Do your worst, tyrant! I can't fight back anyway!",anger
+FE13Paralogues,P07-NobleLineage,Chrom,You seem to be doing just fine to me.,neutral
+FE13Paralogues,P07-NobleLineage,Brady,"I'm unarmed, genius! Sheesh, anyone with eyes can see that!",anger
+FE13Paralogues,P07-NobleLineage,Chrom,And anyone with eyes knows there's more to combat than swinging a blade around. You fight in your own way. Am I wrong?,neutral
+FE13Paralogues,P07-NobleLineage,Brady,"Pah! Don't patronize me! I'd love to fight more'n anything, but I can't seem to make it work.",anger
+FE13Paralogues,P07-NobleLineage,Chrom,I'm sure something will come to you.,neutral
+FE13Paralogues,P07-NobleLineage,Brady,"...Just who are you, anyway?",surprise
+FE13Paralogues,P07-NobleLineage,Chrom,My name is Chrom.,neutral
+FE13Paralogues,P07-NobleLineage,Brady,What? Y-you're Chrom?!,surprise
+FE13Paralogues,P07-NobleLineage,Chrom,You know me?,neutral
+FE13Paralogues,P07-NobleLineage,Brady,Ma wouldn't shut up about you!,anger
+FE13Paralogues,P07-NobleLineage,Chrom,"Er, do I know your mother?",neutral
+FE13Paralogues,P07-NobleLineage,Brady,Her name's Maribelle.,neutral
+FE13Paralogues,P07-NobleLineage,Chrom,What?! So you're another traveler from the futu-,surprise
+FE13Paralogues,P07-NobleLineage,Brady,So you've already heard? Perfect. Now take me with ya already!,joy
+FE13Paralogues,P07-NobleLineage,Chrom,"Er, well, I suppose we can find a place for you somewhere...",neutral
+FE13Paralogues,P07-NobleLineage,Brady,"Ha! I hear you there, chump! You can come kill me now. You're just lucky I don't have my old man's skill with a blade.",anger
+FE13Paralogues,P07-NobleLineage,Chrom,Your father is a swordsman?,surprise
+FE13Paralogues,P07-NobleLineage,Brady,"None of your damn business, dog!",anger
+FE13Paralogues,P07-NobleLineage,Chrom,Do you always speak this way to Ylissean royalty?,surprise
+FE13Paralogues,P07-NobleLineage,Brady,I am Ylissean royalty!,neutral
+FE13Paralogues,P07-NobleLineage,Chrom,... What?,surprise
+FE13Paralogues,P07-NobleLineage,Brady,... Huh?,surprise
+FE13Paralogues,P07-NobleLineage,Chrom,Humor me here for a moment. What's your mother's name?,anger
+FE13Paralogues,P07-NobleLineage,Brady,Maribelle.,neutral
+FE13Paralogues,P07-NobleLineage,Chrom,Maribelle is my wife... Which would make you my son. Seems Lucina failed to mention this little detail.,neutral
+FE13Paralogues,P07-NobleLineage,Brady,"Huh. Yeah, I guess we look alike. I mean, if ya squint real hard... Sorry I called you a dog, Pop... Oh, and I'm Brady. Sooo... Must be disappointin' that your son can't fight, huh?",sadness
+FE13Paralogues,P07-NobleLineage,Chrom,"You seem to be doing just fine to me. And anyone with eyes knows there's more to combat than swinging a blade around. And besides, you've chosen to heal instead of harm. I couldn't be prouder of that.",neutral
+FE13Paralogues,P07-NobleLineage,Brady,"...Really? Aw, thanks. That means a lot, Pop.",joy
+FE13Paralogues,P07-NobleLineage,Xalbador,You people can keep your gods. I'll put my faith in gold and steel!,anger
+FE13Paralogues,P07-NobleLineage,Elder,"Thank you! Oh, thank you... You've kept this sacred place safe and spared the lives of those within.",joy
+FE13Paralogues,P07-NobleLineage,Chrom,We just did what was right.,neutral
+FE13Paralogues,P07-NobleLineage,Elder,"Would that everyone were so brave! Please, allow me to give you this.",neutral
+FE13Paralogues,P07-NobleLineage,Brady,"Hey, Ma.",neutral
+FE13Paralogues,P07-NobleLineage,Maribelle,What did you call me?,surprise
+FE13Paralogues,P07-NobleLineage,Brady,The name's Brady. I'm--,neutral
+FE13Paralogues,P07-NobleLineage,Maribelle,"I'm sorry, but I only heal physical ailments. Broken bones and the like. You're clearly a deeply troubled individual whose diseased mind is beyond my healing.",sadness
+FE13Paralogues,P07-NobleLineage,Brady,Stop talking for a minute and look at this!,anger
+FE13Paralogues,P07-NobleLineage,Maribelle,"That's... my ring! Then, that makes you...",surprise
+FE13Paralogues,P07-NobleLineage,Brady,"Right. Like I was trying to say, I'm--",neutral
+FE13Paralogues,P07-NobleLineage,Maribelle,A thief! A rapscallion! A common lowborne cutpurse! How dare you sneak in here and steal my prized possessions!,anger
+FE13Paralogues,P07-NobleLineage,Brady,"Gawds! Stop interruptin' me for one blessed second, and check yer ring!",anger
+FE13Paralogues,P07-NobleLineage,Maribelle,...Oh. It's still here.,neutral
+FE13Paralogues,P07-NobleLineage,Brady,"That clear things up any, Ma?""",neutral
+FE13Paralogues,P07-NobleLineage,Maribelle,Everything save how I gave birth to a common thug!,anger
+FE13Paralogues,P07-NobleLineage,Brady,"Aw, come on, Ma! That's harsh! Sure, I'm not the prettiest guy around, but I'm no thug, and I AM your son! ...And it's good to see you.",anger
+FE13Paralogues,P07-NobleLineage,Maribelle,"...How did I ever permit my child to grow up referring to me as ""Ma""?",neutral
+FE13Paralogues,P07-NobleLineage,Brady,You gave up tryin' after a decade or so.,neutral
+FE13Paralogues,P07-NobleLineage,Maribelle,"Well, can you at least ride? Have you read the classics? Do you play violin? Chess?!",neutral
+FE13Paralogues,P07-NobleLineage,Brady,"Yeah, all of the above. You beat all'a that junk into me.",anger
+FE13Paralogues,P07-NobleLineage,Maribelle,Glory be! My son is salvageable after all!,joy
+FE13Paralogues,P07-NobleLineage,Brady,Uh... thanks?,surprise
+FE13Paralogues,P07-NobleLineage,Maribelle,"Don't look so forlorn, dear. You've come a long way, but Mother's here now. I'll take care of things from now on.",sadness
+FE13Paralogues,P07-NobleLineage,Brady,"*Sniff* I missed you so much, Ma...",sadness
+FE13Paralogues,P07-NobleLineage,Maribelle,"Do not even THINK of crying! It does not befit one of your station! *Sniff* Plus, you'll set me off as well...",sadness
+FE13Paralogues,P07-NobleLineage,Brady,"S-sorry, I just... I... Oh, Ma!",sadness
+FE13Paralogues,P07-NobleLineage,Maribelle,"Oh, Brady!",neutral
+FE13Paralogues,P07-NobleLineage,Chrom,"Oh, brother.",neutral
+FE13Paralogues,P05-ScionOfLegend,Lissa,"Say, Lucina? I'm still around in your future, right?",neutral
+FE13Paralogues,P05-ScionOfLegend,Lucina,"Well... You're warm and kind, for starters. Even amid the darkness and desolation. Your smile serves as a beacon of hope for all those around you.",neutral
+FE13Paralogues,P05-ScionOfLegend,Lissa,Oh geez! I'd better get cracking if I want to live up to that. Oh! I know! Do I have any children?,anger
+FE13Paralogues,P05-ScionOfLegend,Lucina,You have a son named Owain.,neutral
+FE13Paralogues,P05-ScionOfLegend,Lissa,Aw cute! What's he like?,surprise
+FE13Paralogues,P05-ScionOfLegend,Lucina,"He's... Well, he's quite colorful.",joy
+FE13Paralogues,P05-ScionOfLegend,Lissa,Hmm... I'm not sure I want to know what that means. Oh wait! One more thing! Does he have...,surprise
+FE13Paralogues,P05-ScionOfLegend,Lucina,Yes?,neutral
+FE13Paralogues,P05-ScionOfLegend,Lissa,No... Never mind.,neutral
+FE13Paralogues,P05-ScionOfLegend,Lucina,Are you sure?,surprise
+FE13Paralogues,P05-ScionOfLegend,Lissa,"Sorry, I just remembered I promised to help Chrom with something. ...Bye!",sadness
+FE13Paralogues,P05-ScionOfLegend,Lucina,Lissa?,neutral
+FE13Paralogues,P05-ScionOfLegend,Ruffian,This is it boss! That treasure's here; I'm sure of it!,joy
+FE13Paralogues,P05-ScionOfLegend,Gecko,"All right, woman. Speak! Where'd you put it?",neutral
+FE13Paralogues,P05-ScionOfLegend,Maiden,I've never heard of no treasure here! Honest I haven't!,joy
+FE13Paralogues,P05-ScionOfLegend,Gecko,"Oh? Then I guess we're done here. She's useless, boys. Kill her.",anger
+FE13Paralogues,P05-ScionOfLegend,Ruffian,"Aye, boss!",neutral
+FE13Paralogues,P05-ScionOfLegend,???,"Halt, fiends!",anger
+FE13Paralogues,P05-ScionOfLegend,Ruffian,The devil are you?!,surprise
+FE13Paralogues,P05-ScionOfLegend,???,"One chosen by forces beyond mortal comprehension! See how my sword hand twitches! It hungers... for justice! Leave now if you value life and limb, for I cannot stay the hungry hand!",anger
+FE13Paralogues,P05-ScionOfLegend,Ruffian,This guy's got rocks in his head... All right then boy. Guess you're the first to—— Gragh!,anger
+FE13Paralogues,P05-ScionOfLegend,???,"I tried to warn you, foul villain. The hand cannot be denied!",anger
+FE13Paralogues,P05-ScionOfLegend,Maiden,Oh thank the stars! You saved my life!,joy
+FE13Paralogues,P05-ScionOfLegend,Chrom,Wait. That stance...,neutral
+FE13Paralogues,P05-ScionOfLegend,Gecko,Rgh... Who ARE you?!,surprise
+FE13Paralogues,P05-ScionOfLegend,???,I am the wolf who howls for justice! The eagle who cries for love!,anger
+FE13Paralogues,P05-ScionOfLegend,Owain,"A chosen warrior come from the future to bring hope for a dying world... I am Owain! Now, atone for your deeds in the eternal hellfire of perdition! RADIANT...DAAAAAAWN! ..... Blast you, sword hand! Now's no time for games! You've escaped fate this time, rogue, but remember——justice always prevails!",anger
+FE13Paralogues,P05-ScionOfLegend,Gecko,.....,neutral
+FE13Paralogues,P05-ScionOfLegend,Chrom,.....,neutral
+FE13Paralogues,P05-ScionOfLegend,Lissa,"Wow, that guy's really weird. ...Wait a second.",surprise
+FE13Paralogues,P05-ScionOfLegend,Gecko,"Gahar har har! I KNEW there were rocks in your head! Look lively, boys! Ignore the dolt and find us that treasure! Pinch everything that shines, and make for the hills!",anger
+FE13Paralogues,P05-ScionOfLegend,Owain,"Not today, ne'er-do-wells! The legendary blade Mystletainn is fated for my twitching hand alone!",anger
+FE13Paralogues,P05-ScionOfLegend,Chrom,"...I am so lost right now. What is he even talking about? ...Never mind. Let's just kill the bandits, and I'm sure everything will sort itself out.",anger
+FE13Paralogues,P05-ScionOfLegend,Owain,"Nrgh! Sword hand, no! Control yourself! P-power... too great... C-can't contain it...",anger
+FE13Paralogues,P05-ScionOfLegend,Chrom,"Um, sorry to interrupt your... conversation? But I have a question about your stance. You've crafted your own style around it, but it's clearly from the royal house of Ylisse.",sadness
+FE13Paralogues,P05-ScionOfLegend,Owain,"By the gods old and new! Another future traveler?! And yet, impossible, for I saw none like him in the light... Who are you, villain?! Speak now!",surprise
+FE13Paralogues,P05-ScionOfLegend,Chrom,"Um, I'm Chrom. ...Of Ylisse? I have no quarrel with you, but if we must fight, then-",neutral
+FE13Paralogues,P05-ScionOfLegend,Owain,UNCLE CHROM?!,surprise
+FE13Paralogues,P05-ScionOfLegend,Chrom,...Uncle?,sadness
+FE13Paralogues,P05-ScionOfLegend,Owain,"Wait! Hold on! Let me start over. O fellow scion of the great hero, I greet you as kin and kind! From across the misty shores of time I strive, bearing forth tidings of-",joy
+FE13Paralogues,P05-ScionOfLegend,Chrom,"Keep it brief, would you?",neutral
+FE13Paralogues,P05-ScionOfLegend,Owain,...I'm Lissa's kid from the future!,neutral
+FE13Paralogues,P05-ScionOfLegend,Chrom,That is... not what I was expecting to hear. Did you come with Lucina?,surprise
+FE13Paralogues,P05-ScionOfLegend,Owain,"Yes. It seems the blood we share has drawn us like moths to the flame! Like a great tidal wave of heroism, we crash upon the shores of evil and-",fear
+FE13Paralogues,P05-ScionOfLegend,Chrom,Can you fight? Or do you just talk a lot?,neutral
+FE13Paralogues,P05-ScionOfLegend,Owain,"My mettle in combat is the stuff of legend! Bards sing tales of my- H-hey! Wait! Uncle Chrooom! I have but one request. If you find the sword Mystletainn, please permit me to wield it!",neutral
+FE13Paralogues,P05-ScionOfLegend,Chrom,I heard you wailing about that before. What kind of blade are we talking here?,surprise
+FE13Paralogues,P05-ScionOfLegend,Owain,"A legendary one, Uncle! Imbued with the very power of the gods, if the tales are to be believed. I would use its might to defend my sacred queen and mother!",neutral
+FE13Paralogues,P05-ScionOfLegend,Chrom,...You mean Lissa? *Sigh* I suppose I should just be happy she has such a... devoted son.,sadness
+FE13Paralogues,P05-ScionOfLegend,Lissa,"Oh, hey! It's you. Thanks for helping-",joy
+FE13Paralogues,P05-ScionOfLegend,Owain,MOM?!,surprise
+FE13Paralogues,P05-ScionOfLegend,Lissa,Hu-what?,surprise
+FE13Paralogues,P05-ScionOfLegend,Owain,"Blessed Mother! I have crossed oceans of time to find- Oh, forget it. I'm your kid from the future! Look at the signet ring upon my finger. Behold, a perfect match to yours! Unique in all the world, and yet here lie two. Proof positive my claims are true!",joy
+FE13Paralogues,P05-ScionOfLegend,Lissa,... Who did what now? Hold on. Slow down. Back up. Start again.,surprise
+FE13Paralogues,P05-ScionOfLegend,Owain,"Um... Sorry about that. Look, the important thing here is that I'm-",sadness
+FE13Paralogues,P05-ScionOfLegend,Lissa,"...Oh, gods. Owain.",fear
+FE13Paralogues,P05-ScionOfLegend,Owain,Huh?,neutral
+FE13Paralogues,P05-ScionOfLegend,Lissa,That's your name. Isn't it?,surprise
+FE13Paralogues,P05-ScionOfLegend,Owain,"Indeed it is! And none have ever been prouder to bear it! For it is the name you gave me, Mother! I've come to part the dark clouds that hang forebodingly over this era!",anger
+FE13Paralogues,P05-ScionOfLegend,Villager,"Hail, traveler. Thank you for coming to our aid. Please use this to treat your injured. It's an old recipe, but well effective.",neutral
+FE13Paralogues,P05-ScionOfLegend,Villager,You're a welcome sight indeed. I'd near given up hope! This is one of our village treasures. May it help you in keeping us safe.,neutral
+FE13Paralogues,P05-ScionOfLegend,Villager,"You have our thanks for your bravery. I'm afraid this medicine is all I can offer in return, but I pray it keeps you safe.",joy
+FE13Paralogues,P05-ScionOfLegend,Villager,"You're a kind soul to fight for strangers so. Here, you must take this.",neutral
+FE13Paralogues,P05-ScionOfLegend,Owain,"By the ghost of Ike! I've found it at last! The fated mate of my sword hand! ...The divine blade, Mystletainn!",anger
+FE13Paralogues,P05-ScionOfLegend,Villager,"Er, I'm afraid this is a blade of extremely common make, sir. I was using it to dig a well, but I figured you might--",neutral
+FE13Paralogues,P05-ScionOfLegend,Owain,"Come, Mystletainn! Destiny beckons!",anger
+FE13Paralogues,P05-ScionOfLegend,Villager,"I also used it to cut small vegetables before it got dull. ...Er, hello?",neutral
+FE13Paralogues,P05-ScionOfLegend,Owain,"The blade of legend and song... I feel its power coursing through me! At last, my sword hand lays calm. Come, Mystletainn. Destiny beckons! The rest of these rogues are ours alone!",neutral
+FE13Paralogues,P05-ScionOfLegend,Gecko,"This treasure's mine! Cross me, and I'll decorate this place with your bones!",anger
+FE13Paralogues,P05-ScionOfLegend,Villager,"We owe you a great debt for protecting our village. Truly, from all of us, thank you.",joy
+FE13Paralogues,P05-ScionOfLegend,Lissa,"Where did he get off to? Lucina said she saw him go this way. ..... Ugh, maybe I should just forget it. If he doesn't have one, either.....  Aaah!",sadness
+FE13Paralogues,P05-ScionOfLegend,Ruffian,Keh heh! Let's have all your coin girly! Unless you wanna lose that pretty head.,anger
+FE13Paralogues,P05-ScionOfLegend,Lissa,Stay back!,anger
+FE13Paralogues,P05-ScionOfLegend,Owain,No one hurts the mother of Owain! SACRED...STOOOOOONES!,fear
+FE13Paralogues,P05-ScionOfLegend,Ruffian,Guhaaargh!,anger
+FE13Paralogues,P05-ScionOfLegend,Owain,"Mother, are you all right?!",surprise
+FE13Paralogues,P05-ScionOfLegend,Lissa,"Yeah, I'm fine. I'm... Holy crow! Your arm!",joy
+FE13Paralogues,P05-ScionOfLegend,Owain,This? Hah! It's nothing but a torn sleeve.,surprise
+FE13Paralogues,P05-ScionOfLegend,Lissa,"...No, I mean, HOLY CROW! LOOK AT THAT THING ON YOUR ARM!",anger
+FE13Paralogues,P05-ScionOfLegend,Owain,"Oh right! Sorry. Guess I should have shown you before. It's my Brand. The one carried by House Ylisse. So no more need to worry, eh?",sadness
+FE13Paralogues,P05-ScionOfLegend,Lissa,Th-then you know? That I don't...,surprise
+FE13Paralogues,P05-ScionOfLegend,Owain,"That your Brand never surfaced? Yes, you told me as much. You said it always weighed on you... You should have seen how happy you were the day mine appeared! You were sobbing and laughing for an hour without pause!",joy
+FE13Paralogues,P05-ScionOfLegend,Lissa,I was kind of hoping to grow out of the crying thing...,sadness
+FE13Paralogues,P05-ScionOfLegend,Owain,"Yes, well. No more worrying. It was by chance alone that your Brand never surfaced. We're all family, linked by blood. You really are Chrom's sister. My Brand proves our lineage.",neutral
+FE13Paralogues,P05-ScionOfLegend,Lissa,"Thank you. Just... *sniff* Thank you, Owain.",sadness
+FE13Paralogues,P05-ScionOfLegend,Owain,You're welcome!,joy
+FE13Paralogues,P05-ScionOfLegend,Lissa,Heh... *sniff*,sadness
+FE13Paralogues,P05-ScionOfLegend,Owain,"And as scions of the hero, it falls on us to ensure my dark future doesn't come true. Come, Mother! We shall fight together! Uh-oh... Argh... Too much...passion! Sword hand...getting hungry...again!",anger
+FE13Paralogues,P05-ScionOfLegend,Lissa,"You know, maybe you should have that looked at.",neutral
+FE13Paralogues,P06-AManForFlowers,Robin,"*Huff, huff* Why do mountains... have to... be so steep?",surprise
+FE13Paralogues,P06-AManForFlowers,Olivia,Here. Have some water.,neutral
+FE13Paralogues,P06-AManForFlowers,Robin,"Thank you, Olivia. You're a lifesaver.",joy
+FE13Paralogues,P06-AManForFlowers,Olivia,"Oh, hardly. I just flail around and pretend to dance, mostly. Anyway, I've started looking for new ways to be useful.",neutral
+FE13Paralogues,P06-AManForFlowers,Robin,Your dancing is spectacular! It never fails to pick me up.,joy
+FE13Paralogues,P06-AManForFlowers,Olivia,Ha! I dance like a ham someone rolled down the stairs. Just thinking of people watching me makes me cringe...,anger
+FE13Paralogues,P06-AManForFlowers,Chrom,"We're near the bandit's camp, Robin. They've ravaged surrounding towns with impunity for too long. It ends today.",neutral
+FE13Paralogues,P06-AManForFlowers,Robin,Right.,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"Not today, rogue!",neutral
+FE13Paralogues,P06-AManForFlowers,Brigand,Nraugh!,anger
+FE13Paralogues,P06-AManForFlowers,Inigo,"All safe now, buttercup.",neutral
+FE13Paralogues,P06-AManForFlowers,Maiden,I-Inigo?!,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"The crying part is over, love. Now give us a smile. And perhaps a wink if a fellow can be greedy?",anger
+FE13Paralogues,P06-AManForFlowers,Maiden,"Inigo, you stupid fool! That bandit you slew has---",anger
+FE13Paralogues,P06-AManForFlowers,Inigo,Dozens of friends who will be terribly cross with me? Aye. Worry not! I'll mop up the lot of them and be back in time for tea.,anger
+FE13Paralogues,P06-AManForFlowers,Maiden,You mustn't! They'll kill you!,anger
+FE13Paralogues,P06-AManForFlowers,Inigo,"Ho ho! Don't be silly. I'd never let anyone ruin this perfect face. Surely you want them gone as well, yes? So that you may rebuild in peace?",anger
+FE13Paralogues,P06-AManForFlowers,Maiden,"Of course, but...",neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,Then let us have no more frowns! A smile like yours is not a treasure to be locked in the king's dungeons! I'll meet you in town once I've sorted those pesky bandits. Perhaps then we can discuss my... reward. Ho ho!,neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,"Their hold is just ahead. It should be... Wait, what's that? Gods, that man is fighting them alone. Come, let's lend him a hand!",surprise
+FE13Paralogues,P06-AManForFlowers,Olivia,Are... Are you all right?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,...GYAAARRGH!,anger
+FE13Paralogues,P06-AManForFlowers,Olivia,EEEEEEEEEEEEEEEK! Wh-what's wrong?!,fear
+FE13Paralogues,P06-AManForFlowers,Inigo,S-sorry! ...Sorry. You just surprised me.,sadness
+FE13Paralogues,P06-AManForFlowers,Olivia,I'd say we're even on that count!,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"I shouldn't have shouted, but... Er, yes. Can we please start over? ...Ahem! It was your ravishing beauty that caught me so off guard, milady!",fear
+FE13Paralogues,P06-AManForFlowers,Olivia,I don't quite know how to reply to that!,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"Er, please don't look at me so...intently. It makes me terribly bashful.",sadness
+FE13Paralogues,P06-AManForFlowers,Olivia,"What?! W-wait! Don't go! Drat he's gone. He totally stole my line, too. Still it's weird, I didn't have a problem talking to him. Maybe his shyness countered my own?",surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,"Well, then. I should think five kills would be enough to impress a simple village girl. Though six might earn me a sweet kiss... Hmmm... That IS tempting.",neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,You all right?,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"Me? Hah! It takes more than that to wound a rogue this charming! Now then, who are you? Not an enemy, it seems?",anger
+FE13Paralogues,P06-AManForFlowers,Chrom,"I'm Chrom, leader of the Shepherds. We came to deal with bandits, so it appears our purpose is shared.",neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,Chrom?! Then you're Lucina's...,surprise
+FE13Paralogues,P06-AManForFlowers,Chrom,What's that?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,......,neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,What?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,P-please don't stare at me like that. I get so...terribly shy.,sadness
+FE13Paralogues,P06-AManForFlowers,Chrom,Aren't you the one who's been staring at me? And why did that line seem so familiar?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,"Er, but yes! We share a common foe, and I'm grateful for the help. Can I trust you to defend this place?",joy
+FE13Paralogues,P06-AManForFlowers,Chrom,I don't know. What are you planning?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,"I aim to crush the rascals who make trouble for the village, naturally! And once the lot of them are sorted, it's off to tea with a beauty of the fields. Heh heh heh... Right then! If that's decided, I'll be on my way. Put the kettle on, snookums! I won't be long now!",anger
+FE13Paralogues,P06-AManForFlowers,Chrom,He's nothing if not eager...,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"Well, then. I should think five kills would be enough to impress a simple village girl. Though six might earn me a sweet kiss... Hmmm... That IS tempting.",neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,You all right?,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"Me? Hah! It takes more then that to wound a rogue this charming! Now then, who are you? Not an enemy, it seems.",anger
+FE13Paralogues,P06-AManForFlowers,Chrom,"I'm Chrom, leader of the Shepherds. We came to deal with the bandits, so it appears our purpose is shared.",neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,Chrom?! Then you...You're my father.,surprise
+FE13Paralogues,P06-AManForFlowers,Chrom,"What? You, too?!",surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,Then you've already met Lucina?!,neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,"Yes, she's with us now.",neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"Oh, good. She was so terribly eager to see you! Ah, but forgive me. I still haven't introduced myself. I am Inigo, Lucina's younger brother and a crown prince of Ylisse myself. If you need further proof, I bear a Brand in the opposite eye as Lucina.",sadness
+FE13Paralogues,P06-AManForFlowers,Chrom,Hmm...Yep. That's a Brand all right.,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"Um, could I ask you to stop staring now? I get a bit...bashful.",surprise
+FE13Paralogues,P06-AManForFlowers,Chrom,"Ah, right. Sorry",sadness
+FE13Paralogues,P06-AManForFlowers,Inigo,"Aha ha! Not to worry. Now, then. It's back into the fray with me, Father. Then it's off for tea with a farm girl! ...And perhaps a bit more. Don't wait up! Aha ha ha!",neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,"Oh gods. I raised a philanderer. ...Well, he seems content enough. Heh. A son. Who knew?",sadness
+FE13Paralogues,P06-AManForFlowers,Inigo,"Well, then. I should think five kills would be enough to impress a simple village girl. Though six might earn me a sweet kiss... Hmm... That IS tempting...",neutral
+FE13Paralogues,P06-AManForFlowers,Jamil,All who defy the will of Grima will be purged in the flames of destruction!,anger
+FE13Paralogues,P06-AManForFlowers,Jamil,Lord Grima... Rain down...retribution...,anger
+FE13Paralogues,P06-AManForFlowers,Chrom,That's the last of the bandits. The hold is reclaimed.,neutral
+FE13Paralogues,P06-AManForFlowers,Frederick,"The villagers will sleep better for our good works, milord.",neutral
+FE13Paralogues,P06-AManForFlowers,Maiden,"I can't begin to thank you, good sir",joy
+FE13Paralogues,P06-AManForFlowers,Chrom,"Actually, Inigo did most of the heavy lifting on this one.",neutral
+FE13Paralogues,P06-AManForFlowers,Maiden,"He is so terribly brave... Part of me wishes I could have been there to witness it. Er, but yes. Please accept this gift from all us villagers.",joy
+FE13Paralogues,P06-AManForFlowers,Chrom,"Your kindness flatters me. If bandits ever trouble you again, you need but call and we'll come running. Rebuilding a town is hard work, but I trust you'll be just fine.",neutral
+FE13Paralogues,P06-AManForFlowers,Maiden,We'll do our best!,neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,Um... Olivia? Might I have a moment?,surprise
+FE13Paralogues,P06-AManForFlowers,Olivia,"Wh-what? With me? Why?! ...Wait, how did you know my name?",surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,A little bird tweeted it out. So is that a yes?,surprise
+FE13Paralogues,P06-AManForFlowers,Olivia,"Um, all right, I guess.",neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"...Er, yes. You see... What I mean to say is... Goodness, this is much harder than chatting up other girls I've met. I suppose it would be quickest to just show you this...",joy
+FE13Paralogues,P06-AManForFlowers,Olivia,M-my ring? But... I'm wearing it! How did you...?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,Indeed. How does Inigo have your ring when there is only one in all the world? Unless it IS your ring and I brought it back from the future!,surprise
+FE13Paralogues,P06-AManForFlowers,Olivia,What? You mean like Lucina...?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,"Exactly. I knew my mother was a dancer you see. So I've been scouring the land looking for all the dancers I could find. Not the worst job in the world, mind. Heh heh heh... But now I've finally found you Mother! And my dancing is all the better for it!",joy
+FE13Paralogues,P06-AManForFlowers,Olivia,Oh! You dance?,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,"Er sort of, yes. That is to say, I try my best. But some people don't appreciate male dancers. Not that I care! I'm content to just shake my hips for the ladies.",joy
+FE13Paralogues,P06-AManForFlowers,Olivia,"Oh, don't listen to them! I think it's wonderful. I'd... love to watch you dance sometime.",joy
+FE13Paralogues,P06-AManForFlowers,Inigo,"N-no! Impossible! I'd be far too embarrassed for that! Besides, I'd rather watch you dance.",anger
+FE13Paralogues,P06-AManForFlowers,Olivia,What?! N-no! I couldn't possibly!,surprise
+FE13Paralogues,P06-AManForFlowers,Inigo,"I'm shyer than you are, Mother!",anger
+FE13Paralogues,P06-AManForFlowers,Olivia,You are not!,anger
+FE13Paralogues,P06-AManForFlowers,Inigo,......,neutral
+FE13Paralogues,P06-AManForFlowers,Olivia,......,neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,Would you two stop it already? Now I'm the one who's getting embarrassed...,anger
+FE13Paralogues,P06-AManForFlowers,Inigo,"At last, teatime has arrived!",neutral
+FE13Paralogues,P06-AManForFlowers,Chrom,"We're leaving, Inigo.",neutral
+FE13Paralogues,P06-AManForFlowers,Inigo,"What, right now? B-but... teatime!",surprise
+FE13Paralogues,P06-AManForFlowers,Chrom,"War is hell, Inigo. Now come with us or be left behind.",anger
+FE13Paralogues,P06-AManForFlowers,Inigo,"Fine, fine! I'm coming. ...I suppose there'll be more buttercups blooming along the road ahead.",neutral

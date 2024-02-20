@@ -1,0 +1,255 @@
+[
+  {
+    "chapter": "P01-SwordAndShieldOfSeiros",
+    "emotions": {
+      "joy": 9,
+      "sadness": 2,
+      "anger": 13,
+      "neutral": 43,
+      "surprise": 4,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P02-FallingShortOfHeaven",
+    "emotions": {
+      "joy": 8,
+      "sadness": 1,
+      "anger": 13,
+      "neutral": 30,
+      "surprise": 5,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P03-DividingTheWorld",
+    "emotions": {
+      "joy": 10,
+      "sadness": 4,
+      "anger": 3,
+      "neutral": 29,
+      "surprise": 7,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "P04-WarForTheWeak",
+    "emotions": {
+      "joy": 4,
+      "sadness": 1,
+      "anger": 22,
+      "neutral": 35,
+      "surprise": 10,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "P05-RumoredNuptials",
+    "emotions": {
+      "joy": 7,
+      "sadness": 4,
+      "anger": 15,
+      "neutral": 36,
+      "surprise": 6,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P06-TrueChivalry",
+    "emotions": {
+      "joy": 6,
+      "sadness": 6,
+      "anger": 9,
+      "neutral": 24,
+      "surprise": 0,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P07-AnOceanView",
+    "emotions": {
+      "joy": 7,
+      "sadness": 3,
+      "anger": 9,
+      "neutral": 37,
+      "surprise": 5,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P08-OilAndWater",
+    "emotions": {
+      "joy": 1,
+      "sadness": 7,
+      "anger": 20,
+      "neutral": 30,
+      "surprise": 8,
+      "fear": 0
+    }
+  },
+  {
+    "chapter": "P09-DeathToll",
+    "emotions": {
+      "joy": 5,
+      "sadness": 6,
+      "anger": 14,
+      "neutral": 34,
+      "surprise": 10,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P10-LandOfTheGoldenDeer",
+    "emotions": {
+      "joy": 6,
+      "sadness": 1,
+      "anger": 16,
+      "neutral": 30,
+      "surprise": 6,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P11-TalesOfTheRedCanyon",
+    "emotions": {
+      "joy": 6,
+      "sadness": 6,
+      "anger": 15,
+      "neutral": 28,
+      "surprise": 11,
+      "fear": 13
+    }
+  },
+  {
+    "chapter": "P12-TheForgotten",
+    "emotions": {
+      "joy": 5,
+      "sadness": 3,
+      "anger": 7,
+      "neutral": 32,
+      "surprise": 8,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P13-WeathervanesOfFodlan",
+    "emotions": {
+      "joy": 4,
+      "sadness": 5,
+      "anger": 16,
+      "neutral": 38,
+      "surprise": 3,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P14-ForeignLandAndSky",
+    "emotions": {
+      "joy": 8,
+      "sadness": 6,
+      "anger": 10,
+      "neutral": 39,
+      "surprise": 9,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "P15-ForgottenHero",
+    "emotions": {
+      "joy": 5,
+      "sadness": 8,
+      "anger": 16,
+      "neutral": 18,
+      "surprise": 11,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "P15-LegendOfTheLake",
+    "emotions": {
+      "joy": 8,
+      "sadness": 3,
+      "anger": 9,
+      "neutral": 54,
+      "surprise": 12,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "P16-TheFaceBeneath",
+    "emotions": {
+      "joy": 4,
+      "sadness": 8,
+      "anger": 12,
+      "neutral": 32,
+      "surprise": 10,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "P17-Retribution",
+    "emotions": {
+      "joy": 7,
+      "sadness": 4,
+      "anger": 19,
+      "neutral": 38,
+      "surprise": 7,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "P18-EternalGuardian",
+    "emotions": {
+      "joy": 2,
+      "sadness": 4,
+      "anger": 6,
+      "neutral": 39,
+      "surprise": 10,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P19-Insurmountable",
+    "emotions": {
+      "joy": 3,
+      "sadness": 3,
+      "anger": 11,
+      "neutral": 29,
+      "surprise": 4,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "P20-DarknessBeneathTheEarth",
+    "emotions": {
+      "joy": 4,
+      "sadness": 1,
+      "anger": 3,
+      "neutral": 20,
+      "surprise": 3,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "P21-TheSilverMaiden",
+    "emotions": {
+      "joy": 9,
+      "sadness": 5,
+      "anger": 7,
+      "neutral": 30,
+      "surprise": 6,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "P22-TheSleepingSandLegend",
+    "emotions": {
+      "joy": 2,
+      "sadness": 3,
+      "anger": 13,
+      "neutral": 31,
+      "surprise": 16,
+      "fear": 2
+    }
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "chapter": "00-TiesThatBind",
+    "emotions": {
+      "joy": 8,
+      "sadness": 2,
+      "anger": 14,
+      "neutral": 17,
+      "surprise": 2,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "01-Nohr",
+    "emotions": {
+      "joy": 15,
+      "sadness": 9,
+      "anger": 9,
+      "neutral": 42,
+      "surprise": 10,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "02-GiftOfGanglari",
+    "emotions": {
+      "joy": 11,
+      "sadness": 5,
+      "anger": 23,
+      "neutral": 50,
+      "surprise": 6,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "03-JourneyBegins",
+    "emotions": {
+      "joy": 9,
+      "sadness": 7,
+      "anger": 24,
+      "neutral": 64,
+      "surprise": 31,
+      "fear": 16
+    }
+  },
+  {
+    "chapter": "04-Hoshido",
+    "emotions": {
+      "joy": 15,
+      "sadness": 18,
+      "anger": 13,
+      "neutral": 49,
+      "surprise": 22,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "05-Mother",
+    "emotions": {
+      "joy": 19,
+      "sadness": 14,
+      "anger": 23,
+      "neutral": 55,
+      "surprise": 15,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "06-ThePathIsYours",
+    "emotions": {
+      "joy": 2,
+      "sadness": 2,
+      "anger": 6,
+      "neutral": 5,
+      "surprise": 2,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "06B-EmbraceTheDark",
+    "emotions": {
+      "joy": 2,
+      "sadness": 12,
+      "anger": 30,
+      "neutral": 19,
+      "surprise": 6,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "06B-InTheWhiteLight",
+    "emotions": {
+      "joy": 3,
+      "sadness": 8,
+      "anger": 21,
+      "neutral": 20,
+      "surprise": 8,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "07B-AVowUpheld",
+    "emotions": {
+      "joy": 12,
+      "sadness": 7,
+      "anger": 14,
+      "neutral": 51,
+      "surprise": 13,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "07C-ADragon'sDegree",
+    "emotions": {
+      "joy": 26,
+      "sadness": 13,
+      "anger": 33,
+      "neutral": 42,
+      "surprise": 18,
+      "fear": 15
+    }
+  },
+  {
+    "chapter": "08B-FierceWinds",
+    "emotions": {
+      "joy": 12,
+      "sadness": 7,
+      "anger": 17,
+      "neutral": 57,
+      "surprise": 20,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "08C-ColdReception",
+    "emotions": {
+      "joy": 17,
+      "sadness": 19,
+      "anger": 32,
+      "neutral": 47,
+      "surprise": 26,
+      "fear": 18
+    }
+  },
+  {
+    "chapter": "09B-LandOfGods",
+    "emotions": {
+      "joy": 20,
+      "sadness": 14,
+      "anger": 23,
+      "neutral": 71,
+      "surprise": 32,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "09C-AnotherTrial",
+    "emotions": {
+      "joy": 20,
+      "sadness": 11,
+      "anger": 19,
+      "neutral": 43,
+      "surprise": 13,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "10B-NinjaVillage",
+    "emotions": {
+      "joy": 20,
+      "sadness": 12,
+      "anger": 24,
+      "neutral": 68,
+      "surprise": 25,
+      "fear": 16
+    }
+  },
+  {
+    "chapter": "10C-UnhappyReunion",
+    "emotions": {
+      "joy": 7,
+      "sadness": 21,
+      "anger": 33,
+      "neutral": 22,
+      "surprise": 13,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "11B-ToTheSea",
+    "emotions": {
+      "joy": 15,
+      "sadness": 9,
+      "anger": 8,
+      "neutral": 39,
+      "surprise": 12,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "11C-RainbowSage",
+    "emotions": {
+      "joy": 19,
+      "sadness": 19,
+      "anger": 27,
+      "neutral": 46,
+      "surprise": 24,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "12B-DarkReunion",
+    "emotions": {
+      "joy": 11,
+      "sadness": 11,
+      "anger": 37,
+      "neutral": 65,
+      "surprise": 22,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "12C-BitterIntrigue",
+    "emotions": {
+      "joy": 15,
+      "sadness": 12,
+      "anger": 22,
+      "neutral": 42,
+      "surprise": 12,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "13B-AnotherHope",
+    "emotions": {
+      "joy": 12,
+      "sadness": 10,
+      "anger": 31,
+      "neutral": 33,
+      "surprise": 17,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "13C-Uprising",
+    "emotions": {
+      "joy": 12,
+      "sadness": 27,
+      "anger": 27,
+      "neutral": 45,
+      "surprise": 13,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "14B-LightScatters",
+    "emotions": {
+      "joy": 15,
+      "sadness": 18,
+      "anger": 12,
+      "neutral": 42,
+      "surprise": 16,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "14C-VoiceOfParadise",
+    "emotions": {
+      "joy": 14,
+      "sadness": 15,
+      "anger": 28,
+      "neutral": 48,
+      "surprise": 19,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "15B-WolfskinPeak",
+    "emotions": {
+      "joy": 11,
+      "sadness": 18,
+      "anger": 21,
+      "neutral": 53,
+      "surprise": 19,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "15C-TheBlackPillar",
+    "emotions": {
+      "joy": 5,
+      "sadness": 13,
+      "anger": 8,
+      "neutral": 28,
+      "surprise": 17,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "16B-PleasurePalace",
+    "emotions": {
+      "joy": 18,
+      "sadness": 13,
+      "anger": 22,
+      "neutral": 57,
+      "surprise": 18,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "16C-Invasion",
+    "emotions": {
+      "joy": 24,
+      "sadness": 12,
+      "anger": 21,
+      "neutral": 51,
+      "surprise": 18,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "17B-LostInTheIce",
+    "emotions": {
+      "joy": 6,
+      "sadness": 19,
+      "anger": 29,
+      "neutral": 32,
+      "surprise": 11,
+      "fear": 11
+    }
+  },
+  {
+    "chapter": "17C-DenOfBetrayal",
+    "emotions": {
+      "joy": 10,
+      "sadness": 10,
+      "anger": 36,
+      "neutral": 37,
+      "surprise": 13,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "18B-Leo",
+    "emotions": {
+      "joy": 6,
+      "sadness": 22,
+      "anger": 32,
+      "neutral": 56,
+      "surprise": 25,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "18C-BlackAndWhite",
+    "emotions": {
+      "joy": 24,
+      "sadness": 6,
+      "anger": 49,
+      "neutral": 62,
+      "surprise": 30,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "19B-RainbowSage",
+    "emotions": {
+      "joy": 13,
+      "sadness": 4,
+      "anger": 1,
+      "neutral": 35,
+      "surprise": 9,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "19C-KitsuneLair",
+    "emotions": {
+      "joy": 6,
+      "sadness": 12,
+      "anger": 5,
+      "neutral": 28,
+      "surprise": 8,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "20B-FortDragonfall",
+    "emotions": {
+      "joy": 6,
+      "sadness": 14,
+      "anger": 18,
+      "neutral": 41,
+      "surprise": 8,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "20C-WindsOfChange",
+    "emotions": {
+      "joy": 7,
+      "sadness": 5,
+      "anger": 17,
+      "neutral": 32,
+      "surprise": 4,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "21B-BurningFalls",
+    "emotions": {
+      "joy": 3,
+      "sadness": 6,
+      "anger": 6,
+      "neutral": 31,
+      "surprise": 13,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "21C-EternalStairway",
+    "emotions": {
+      "joy": 5,
+      "sadness": 19,
+      "anger": 22,
+      "neutral": 25,
+      "surprise": 9,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "22B-HiddenCapital",
+    "emotions": {
+      "joy": 17,
+      "sadness": 17,
+      "anger": 11,
+      "neutral": 38,
+      "surprise": 21,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "22C-Sakura",
+    "emotions": {
+      "joy": 11,
+      "sadness": 21,
+      "anger": 23,
+      "neutral": 25,
+      "surprise": 14,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "23B-Camilla",
+    "emotions": {
+      "joy": 22,
+      "sadness": 12,
+      "anger": 27,
+      "neutral": 37,
+      "surprise": 17,
+      "fear": 13
+    }
+  },
+  {
+    "chapter": "23C-Possessed",
+    "emotions": {
+      "joy": 3,
+      "sadness": 7,
+      "anger": 15,
+      "neutral": 20,
+      "surprise": 16,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "24B-TearsOfADragon",
+    "emotions": {
+      "joy": 3,
+      "sadness": 10,
+      "anger": 25,
+      "neutral": 33,
+      "surprise": 3,
+      "fear": 9
+    }
+  },
+  {
+    "chapter": "24C-Hinoka",
+    "emotions": {
+      "joy": 12,
+      "sadness": 16,
+      "anger": 28,
+      "neutral": 43,
+      "surprise": 14,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "25B-TraitorRevealed",
+    "emotions": {
+      "joy": 12,
+      "sadness": 13,
+      "anger": 32,
+      "neutral": 36,
+      "surprise": 10,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "25C-Ryoma",
+    "emotions": {
+      "joy": 8,
+      "sadness": 20,
+      "anger": 45,
+      "neutral": 48,
+      "surprise": 9,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "26B-Xander",
+    "emotions": {
+      "joy": 7,
+      "sadness": 23,
+      "anger": 24,
+      "neutral": 52,
+      "surprise": 13,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "26C-Treason",
+    "emotions": {
+      "joy": 6,
+      "sadness": 10,
+      "anger": 33,
+      "neutral": 26,
+      "surprise": 13,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "27B-KingGaron",
+    "emotions": {
+      "joy": 4,
+      "sadness": 6,
+      "anger": 20,
+      "neutral": 23,
+      "surprise": 12,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "27C-TheEmptyKing",
+    "emotions": {
+      "joy": 3,
+      "sadness": 19,
+      "anger": 37,
+      "neutral": 17,
+      "surprise": 15,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "28B-Endgame:DawnBreaks",
+    "emotions": {
+      "joy": 34,
+      "sadness": 34,
+      "anger": 38,
+      "neutral": 95,
+      "surprise": 16,
+      "fear": 10
+    }
+  },
+  {
+    "chapter": "28C-Endgame:NightBreaksThrough",
+    "emotions": {
+      "joy": 53,
+      "sadness": 30,
+      "anger": 56,
+      "neutral": 72,
+      "surprise": 24,
+      "fear": 19
+    }
+  }
+]

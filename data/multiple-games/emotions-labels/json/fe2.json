@@ -1,0 +1,57 @@
+[
+  {
+    "chapter": "01-Zofia'sCall",
+    "emotions": {
+      "joy": 4,
+      "sadness": 3,
+      "anger": 6,
+      "neutral": 16,
+      "surprise": 3,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "02-ThePilgrimage",
+    "emotions": {
+      "joy": 6,
+      "sadness": 7,
+      "anger": 8,
+      "neutral": 16,
+      "surprise": 7,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "03-WarOfDeliverance",
+    "emotions": {
+      "joy": 8,
+      "sadness": 4,
+      "anger": 14,
+      "neutral": 16,
+      "surprise": 6,
+      "fear": 12
+    }
+  },
+  {
+    "chapter": "04-LandOfSorrow",
+    "emotions": {
+      "joy": 8,
+      "sadness": 6,
+      "anger": 6,
+      "neutral": 17,
+      "surprise": 6,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "05-TogetherToTheEnd",
+    "emotions": {
+      "joy": 0,
+      "sadness": 2,
+      "anger": 2,
+      "neutral": 5,
+      "surprise": 1,
+      "fear": 2
+    }
+  }
+]

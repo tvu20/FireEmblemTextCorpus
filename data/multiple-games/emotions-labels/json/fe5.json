@@ -1,0 +1,387 @@
+[
+  {
+    "chapter": "01-TheWarriorOfFiana",
+    "emotions": {
+      "joy": 3,
+      "sadness": 6,
+      "anger": 18,
+      "neutral": 37,
+      "surprise": 11,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "02-TheVillageOfIz",
+    "emotions": {
+      "joy": 0,
+      "sadness": 0,
+      "anger": 11,
+      "neutral": 18,
+      "surprise": 4,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "02x-ThePirateIsles",
+    "emotions": {
+      "joy": 3,
+      "sadness": 3,
+      "anger": 17,
+      "neutral": 23,
+      "surprise": 3,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "03-TheGateOfKelves",
+    "emotions": {
+      "joy": 6,
+      "sadness": 2,
+      "anger": 17,
+      "neutral": 10,
+      "surprise": 5,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "04-TheDungeon",
+    "emotions": {
+      "joy": 8,
+      "sadness": 3,
+      "anger": 23,
+      "neutral": 48,
+      "surprise": 11,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "04x-TheHeroOfWinds",
+    "emotions": {
+      "joy": 0,
+      "sadness": 16,
+      "anger": 8,
+      "neutral": 26,
+      "surprise": 12,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "05-MotherAndChild",
+    "emotions": {
+      "joy": 16,
+      "sadness": 6,
+      "anger": 21,
+      "neutral": 25,
+      "surprise": 7,
+      "fear": 6
+    }
+  },
+  {
+    "chapter": "06-TheEscape",
+    "emotions": {
+      "joy": 6,
+      "sadness": 9,
+      "anger": 15,
+      "neutral": 25,
+      "surprise": 7,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "07-TheShieldOfThracia",
+    "emotions": {
+      "joy": 10,
+      "sadness": 8,
+      "anger": 16,
+      "neutral": 59,
+      "surprise": 8,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "08-MountVioldrake",
+    "emotions": {
+      "joy": 6,
+      "sadness": 12,
+      "anger": 12,
+      "neutral": 41,
+      "surprise": 13,
+      "fear": 8
+    }
+  },
+  {
+    "chapter": "08x-Dagdar'sMansion",
+    "emotions": {
+      "joy": 1,
+      "sadness": 7,
+      "anger": 11,
+      "neutral": 9,
+      "surprise": 2,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "09-TheEmblemOfNjorun",
+    "emotions": {
+      "joy": 8,
+      "sadness": 11,
+      "anger": 14,
+      "neutral": 43,
+      "surprise": 11,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "10-NoelCanyon",
+    "emotions": {
+      "joy": 3,
+      "sadness": 0,
+      "anger": 14,
+      "neutral": 25,
+      "surprise": 6,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "11-DandrumFortress",
+    "emotions": {
+      "joy": 2,
+      "sadness": 1,
+      "anger": 28,
+      "neutral": 11,
+      "surprise": 3,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "11x-Ballistrariae",
+    "emotions": {
+      "joy": 3,
+      "sadness": 4,
+      "anger": 14,
+      "neutral": 20,
+      "surprise": 4,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "12-TheThievesofDakia",
+    "emotions": {
+      "joy": 4,
+      "sadness": 7,
+      "anger": 16,
+      "neutral": 23,
+      "surprise": 7,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "12x-Dandelion",
+    "emotions": {
+      "joy": 5,
+      "sadness": 10,
+      "anger": 29,
+      "neutral": 47,
+      "surprise": 13,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "13-TheStronghold",
+    "emotions": {
+      "joy": 16,
+      "sadness": 10,
+      "anger": 10,
+      "neutral": 26,
+      "surprise": 9,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "14-OpenFire",
+    "emotions": {
+      "joy": 6,
+      "sadness": 3,
+      "anger": 16,
+      "neutral": 32,
+      "surprise": 9,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "14x-Freedom",
+    "emotions": {
+      "joy": 2,
+      "sadness": 4,
+      "anger": 1,
+      "neutral": 24,
+      "surprise": 2,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "15-TheTwoPaths",
+    "emotions": {
+      "joy": 8,
+      "sadness": 8,
+      "anger": 13,
+      "neutral": 46,
+      "surprise": 8,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "16A-NordenLine",
+    "emotions": {
+      "joy": 3,
+      "sadness": 8,
+      "anger": 31,
+      "neutral": 31,
+      "surprise": 12,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "16B-TheDarkForest",
+    "emotions": {
+      "joy": 7,
+      "sadness": 10,
+      "anger": 17,
+      "neutral": 31,
+      "surprise": 17,
+      "fear": 2
+    }
+  },
+  {
+    "chapter": "17A-Leonster'sGate",
+    "emotions": {
+      "joy": 2,
+      "sadness": 10,
+      "anger": 21,
+      "neutral": 40,
+      "surprise": 18,
+      "fear": 7
+    }
+  },
+  {
+    "chapter": "17B-TheFirstRainOfMay",
+    "emotions": {
+      "joy": 1,
+      "sadness": 2,
+      "anger": 15,
+      "neutral": 31,
+      "surprise": 5,
+      "fear": 0
+    }
+  },
+  {
+    "chapter": "18-TheLiberationOfLeonster",
+    "emotions": {
+      "joy": 10,
+      "sadness": 13,
+      "anger": 22,
+      "neutral": 31,
+      "surprise": 7,
+      "fear": 1
+    }
+  },
+  {
+    "chapter": "19-RemorseAndRetaliation",
+    "emotions": {
+      "joy": 5,
+      "sadness": 10,
+      "anger": 17,
+      "neutral": 19,
+      "surprise": 7,
+      "fear": 0
+    }
+  },
+  {
+    "chapter": "20-ChildOfLight",
+    "emotions": {
+      "joy": 2,
+      "sadness": 8,
+      "anger": 6,
+      "neutral": 26,
+      "surprise": 6,
+      "fear": 3
+    }
+  },
+  {
+    "chapter": "21-TheLiberationWars",
+    "emotions": {
+      "joy": 1,
+      "sadness": 7,
+      "anger": 9,
+      "neutral": 26,
+      "surprise": 7,
+      "fear": 0
+    }
+  },
+  {
+    "chapter": "21x-DetentionCenter",
+    "emotions": {
+      "joy": 2,
+      "sadness": 3,
+      "anger": 6,
+      "neutral": 7,
+      "surprise": 4,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "22-AcrossTheRiver",
+    "emotions": {
+      "joy": 4,
+      "sadness": 6,
+      "anger": 15,
+      "neutral": 16,
+      "surprise": 4,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "23-ThePalaceOfEvil",
+    "emotions": {
+      "joy": 10,
+      "sadness": 5,
+      "anger": 31,
+      "neutral": 34,
+      "surprise": 13,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "24-TheBaronInBlack",
+    "emotions": {
+      "joy": 1,
+      "sadness": 6,
+      "anger": 18,
+      "neutral": 25,
+      "surprise": 17,
+      "fear": 5
+    }
+  },
+  {
+    "chapter": "24x-TheAltarOfLoptous",
+    "emotions": {
+      "joy": 5,
+      "sadness": 19,
+      "anger": 9,
+      "neutral": 23,
+      "surprise": 11,
+      "fear": 4
+    }
+  },
+  {
+    "chapter": "25-AnUndyingOath",
+    "emotions": {
+      "joy": 9,
+      "sadness": 11,
+      "anger": 26,
+      "neutral": 30,
+      "surprise": 9,
+      "fear": 2
+    }
+  }
+]
