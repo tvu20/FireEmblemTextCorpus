@@ -30,7 +30,8 @@ max_value = 0
 with open(os.path.join(__location__, "sentiments.json"), 'r') as file:
 
     content = json.load(file)
-    main = content["Main"]
+    main = content
+    # main = content["Main"]
 
     for item in main:
         max_value = max(max_value, abs(item["sentiment"]))
