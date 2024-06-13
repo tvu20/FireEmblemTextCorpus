@@ -1,0 +1,5711 @@
+{
+  "FE1": [
+    {
+      "name": "Marth",
+      "class": "Lord",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/5/5a/Portrait_marth_fe01.png"
+    },
+    {
+      "name": "Abel",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/a/a5/Portrait_abel_fe01.png"
+    },
+    {
+      "name": "Cain",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/9/97/Portrait_cain_fe01.png"
+    },
+    {
+      "name": "Jagen",
+      "class": "Paladin",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/7/75/Portrait_jagen_fe01.png"
+    },
+    {
+      "name": "Gordin",
+      "class": "Archer",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/c/c1/Portrait_tomas_fe01.png"
+    },
+    {
+      "name": "Draug",
+      "class": "Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/f8/Portrait_draug_fe01.png"
+    },
+    {
+      "name": "Caeda",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/a/ae/Portrait_caeda_fe01.png"
+    },
+    {
+      "name": "Wrys",
+      "class": "Curate",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/a/ac/Portrait_wrys_fe01.png"
+    },
+    {
+      "name": "Bord",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/7/78/Portrait_bord_fe01.png"
+    },
+    {
+      "name": "Cord",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/7/78/Portrait_bord_fe01.png"
+    },
+    {
+      "name": "Barst",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/1/1c/Portrait_barst_fe01.png"
+    },
+    {
+      "name": "Ogma",
+      "class": "Mercenary",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/6/61/Portrait_ogma_fe01.png"
+    },
+    {
+      "name": "Darros",
+      "class": "Pirate",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/7/7a/Portrait_darros_fe01.png"
+    },
+    {
+      "name": "Castor",
+      "class": "Hunter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/d/d5/Portrait_castor_fe01.png"
+    },
+    {
+      "name": "Julian",
+      "class": "Thief",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/9/97/Portrait_julian_fe01.png"
+    },
+    {
+      "name": "Lena",
+      "class": "Curate",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/0/09/Portrait_lena_fe01.png"
+    },
+    {
+      "name": "Navarre",
+      "class": "Mercenary",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/4/44/Portrait_navarre_fe01.png"
+    },
+    {
+      "name": "Matthis",
+      "class": "Cavalier",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/a/a0/Portrait_matthis_fe01.png"
+    },
+    {
+      "name": "Merric",
+      "class": "Mage",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/0/04/Portrait_merric_fe01.png"
+    },
+    {
+      "name": "Roshea",
+      "class": "Cavalier",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/7/79/Portrait_roshea_fe01.png"
+    },
+    {
+      "name": "Vyland",
+      "class": "Cavalier",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/a/a0/Portrait_matthis_fe01.png"
+    },
+    {
+      "name": "Sedgar",
+      "class": "Horseman",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/9/99/Portrait_sedgar_fe01.png"
+    },
+    {
+      "name": "Wolf",
+      "class": "Horseman",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/b/bb/Portrait_wolf_fe01.png"
+    },
+    {
+      "name": "Hardin",
+      "class": "Cavalier",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/5/57/Portrait_hardin_fe01.png"
+    },
+    {
+      "name": "Wendell",
+      "class": "Bishop",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/d/dc/Portrait_wendell_fe01.png"
+    },
+    {
+      "name": "Rickard",
+      "class": "Thief",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/d/d9/Portrait_rickard_fe01.png"
+    },
+    {
+      "name": "Bantu",
+      "class": "Manakete",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/6/6a/Portrait_bantu_fe01.png"
+    },
+    {
+      "name": "Caesar",
+      "class": "Mercenary",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/f/f6/Portrait_caesar_fe01.png"
+    },
+    {
+      "name": "Radd",
+      "class": "Mercenary",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/b/bb/Portrait_radd_fe01.png"
+    },
+    {
+      "name": "Roger",
+      "class": "Knight",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/e/ec/Portrait_roger_fe01.png"
+    },
+    {
+      "name": "Jeorge",
+      "class": "Sniper",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/2/2c/Portrait_jeorge_fe01.png"
+    },
+    {
+      "name": "Maria",
+      "class": "Curate",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/8/8e/Portrait_maria_fe01.png"
+    },
+    {
+      "name": "Minerva",
+      "class": "Wyvern Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/9/92/Portrait_minerva_fe01.png"
+    },
+    {
+      "name": "Linde",
+      "class": "Mage",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/2/22/Portrait_linde_fe01.png"
+    },
+    {
+      "name": "Jake",
+      "class": "Ballistician",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/4/47/Portrait_jake_fe01.png"
+    },
+    {
+      "name": "Dolph",
+      "class": "Knight",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/8/8d/Portrait_dolph_fe01.png"
+    },
+    {
+      "name": "Macellan",
+      "class": "Knight",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/8/8d/Portrait_dolph_fe01.png"
+    },
+    {
+      "name": "Tomas",
+      "class": "Archer",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/c/c1/Portrait_tomas_fe01.png"
+    },
+    {
+      "name": "Boah",
+      "class": "Bishop",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/6/60/Portrait_boah_fe01.png"
+    },
+    {
+      "name": "Midia",
+      "class": "Paladin",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/2/22/Portrait_midia_fe01.png"
+    },
+    {
+      "name": "Astram",
+      "class": "Hero",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/a/aa/Portrait_astram_fe01.png"
+    },
+    {
+      "name": "Beck",
+      "class": "Ballistician",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/7/73/Portrait_beck_fe01.png"
+    },
+    {
+      "name": "Catria",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/2/2c/Portrait_catria_fe01.png"
+    },
+    {
+      "name": "Palla",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/2/25/Portrait_palla_fe01.png"
+    },
+    {
+      "name": "Arran",
+      "class": "Paladin",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16*",
+      "img": "https://cdn.fireemblemwiki.org/3/39/Portrait_arran_fe01.png"
+    },
+    {
+      "name": "Samson",
+      "class": "Hero",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16*",
+      "img": "https://cdn.fireemblemwiki.org/b/b9/Portrait_samson_fe01.png"
+    },
+    {
+      "name": "Xane",
+      "class": "Freelancer",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/c/c8/Portrait_xane_fe01.png"
+    },
+    {
+      "name": "Est",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/5/57/Portrait_est_fe01.png"
+    },
+    {
+      "name": "Tiki",
+      "class": "Manakete",
+      "appears": "Chapter 19",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/4/41/Portrait_tiki_fe01.png"
+    },
+    {
+      "name": "Lorenz",
+      "class": "General",
+      "appears": "Chapter 20",
+      "joins": "Chapter 20",
+      "img": "https://cdn.fireemblemwiki.org/2/23/Portrait_lorenz_fe01.png"
+    },
+    {
+      "name": "Elice",
+      "class": "Curate",
+      "appears": "Chapter 23",
+      "joins": "Chapter 23",
+      "img": "https://cdn.fireemblemwiki.org/3/3c/Portrait_elice_fe01.png"
+    },
+    {
+      "name": "Gotoh",
+      "class": "Bishop",
+      "appears": "Chapter 15",
+      "joins": "Chapter 25",
+      "img": "https://cdn.fireemblemwiki.org/e/e7/Portrait_gotoh_fe01.png"
+    }
+  ],
+  "FE2": [
+    {
+      "name": "Alm",
+      "class": "Fighter",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/4/45/Portrait_alm_fe02.png"
+    },
+    {
+      "name": "Lukas",
+      "class": "Soldier",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/2/2c/Portrait_lukas_fe02.png"
+    },
+    {
+      "name": "Gray",
+      "class": "Villager",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/9/9e/Portrait_gray_fe02.png"
+    },
+    {
+      "name": "Tobin",
+      "class": "Villager",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/0/05/Portrait_tobin_fe02.png"
+    },
+    {
+      "name": "Kliff",
+      "class": "Villager",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/8/80/Portrait_kliff_fe02.png"
+    },
+    {
+      "name": "Silque",
+      "class": "Cleric",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/1/19/Portrait_silque_fe02.png"
+    },
+    {
+      "name": "Clair",
+      "class": "Pegasus Knight",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/c/cf/Portrait_clair_fe02.png"
+    },
+    {
+      "name": "Clive",
+      "class": "Cavalier",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/9/94/Portrait_clive_fe02.png"
+    },
+    {
+      "name": "Forsyth",
+      "class": "Soldier",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/c/c3/Portrait_forsyth_fe02.png"
+    },
+    {
+      "name": "Python",
+      "class": "Archer",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/0/00/Portrait_python_fe02.png"
+    },
+    {
+      "name": "Luthier",
+      "class": "Mage",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/2/22/Portrait_luthier_fe02.png"
+    },
+    {
+      "name": "Mathilda",
+      "class": "Paladin",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/0/0c/Portrait_mathilda_fe02.png"
+    },
+    {
+      "name": "Delthea",
+      "class": "Mage",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/6/6e/Portrait_delthea_fe02.png"
+    },
+    {
+      "name": "Tatiana",
+      "class": "Saint",
+      "appears": "Act 4",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/2/29/Portrait_tatiana_fe02.png"
+    },
+    {
+      "name": "Zeke",
+      "class": "Gold Knight",
+      "appears": "Act 4",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/c/c6/Portrait_zeke_fe02.png"
+    },
+    {
+      "name": "Mycen",
+      "class": "Gold Knight",
+      "appears": "Act 1",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/b/b2/Portrait_mycen_fe02.png"
+    },
+    {
+      "name": "Celica",
+      "class": "Priestess",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/1/13/Portrait_celica_01_fe02.png"
+    },
+    {
+      "name": "Mae",
+      "class": "Mage",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/e/e2/Portrait_mae_fe02.png"
+    },
+    {
+      "name": "Boey",
+      "class": "Mage",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/a/a5/Portrait_boey_fe02.png"
+    },
+    {
+      "name": "Genny",
+      "class": "Cleric",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/e/e5/Portrait_genny_fe02.png"
+    },
+    {
+      "name": "Saber",
+      "class": "Mercenary",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/2/25/Portrait_saber_fe02.png"
+    },
+    {
+      "name": "Valbar",
+      "class": "Knight",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/8/8d/Portrait_valbar_fe02.png"
+    },
+    {
+      "name": "Kamui",
+      "class": "Mercenary",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/7/7e/Portrait_kamui_fe02.png"
+    },
+    {
+      "name": "Leon",
+      "class": "Archer",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/1/18/Portrait_leon_fe02.png"
+    },
+    {
+      "name": "Palla",
+      "class": "Pegasus Knight",
+      "appears": "Act 2",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/c/c7/Portrait_palla_fe02.png"
+    },
+    {
+      "name": "Catria",
+      "class": "Pegasus Knight",
+      "appears": "Act 2",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/6/67/Portrait_catria_fe02.png"
+    },
+    {
+      "name": "Atlas",
+      "class": "Villager",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/7/7d/Portrait_atlas_fe02.png"
+    },
+    {
+      "name": "Jesse",
+      "class": "Mercenary",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/d/da/Portrait_jesse_fe02.png"
+    },
+    {
+      "name": "Sonya",
+      "class": "Mage",
+      "appears": "Act 3",
+      "joins": "Act 3*",
+      "img": "https://cdn.fireemblemwiki.org/5/51/Portrait_sonya_fe02.png"
+    },
+    {
+      "name": "Deen",
+      "class": "Myrmidon",
+      "appears": "Act 3",
+      "joins": "Act 3*",
+      "img": "https://cdn.fireemblemwiki.org/6/68/Portrait_deen_fe02.png"
+    },
+    {
+      "name": "Est",
+      "class": "Pegasus Knight",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/8/89/Portrait_est_fe02.png"
+    },
+    {
+      "name": "Nomah",
+      "class": "Sage",
+      "appears": "Act 2",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/f/f2/Portrait_nomah_fe02.png"
+    }
+  ],
+  "FE3": [
+    {
+      "name": "Marth",
+      "class": "Lord",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/5/53/Portrait_marth_01_fe03.png"
+    },
+    {
+      "name": "Abel",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/b/bc/Portrait_abel_fe03.png"
+    },
+    {
+      "name": "Cain",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/c/cc/Portrait_cain_fe03.png"
+    },
+    {
+      "name": "Jagen",
+      "class": "Paladin",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/8/81/Portrait_jagen_fe03.png"
+    },
+    {
+      "name": "Gordin",
+      "class": "Archer",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/d/d8/Portrait_gordin_fe03.png"
+    },
+    {
+      "name": "Draug",
+      "class": "Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/6/6a/Portrait_draug_fe03.png"
+    },
+    {
+      "name": "Caeda",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/5/58/Portrait_caeda_01_fe03.png"
+    },
+    {
+      "name": "Bord",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/2/29/Portrait_bord_fe03.png"
+    },
+    {
+      "name": "Cord",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/a/aa/Portrait_cord_fe03.png"
+    },
+    {
+      "name": "Barst",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/a/af/Portrait_barst_fe03.png"
+    },
+    {
+      "name": "Ogma",
+      "class": "Mercenary",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/e/e7/Portrait_ogma_fe03.png"
+    },
+    {
+      "name": "Castor",
+      "class": "Hunter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/1/13/Portrait_castor_fe03.png"
+    },
+    {
+      "name": "Julian",
+      "class": "Thief",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/f/f8/Portrait_julian_fe03.png"
+    },
+    {
+      "name": "Lena",
+      "class": "Cleric",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/c/c5/Portrait_lena_fe03.png"
+    },
+    {
+      "name": "Navarre",
+      "class": "Mercenary",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/7/79/Portrait_navarre_fe03.png"
+    },
+    {
+      "name": "Roshea",
+      "class": "Cavalier",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/0/05/Portrait_roshea_fe03.png"
+    },
+    {
+      "name": "Vyland",
+      "class": "Cavalier",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/5/5a/Portrait_vyland_fe03.png"
+    },
+    {
+      "name": "Sedgar",
+      "class": "Horseman",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/b/b5/Portrait_sedgar_fe03.png"
+    },
+    {
+      "name": "Wolf",
+      "class": "Horseman",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/0/08/Portrait_wolf_fe03.png"
+    },
+    {
+      "name": "Hardin",
+      "class": "Cavalier",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/6/65/Portrait_hardin_01_fe03.png"
+    },
+    {
+      "name": "Matthis",
+      "class": "Cavalier",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/f/fb/Portrait_matthis_fe03.png"
+    },
+    {
+      "name": "Merric",
+      "class": "Mage",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/5/58/Portrait_merric_fe03.png"
+    },
+    {
+      "name": "Wendell",
+      "class": "Bishop",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/2/26/Portrait_wendell_fe03.png"
+    },
+    {
+      "name": "Rickard",
+      "class": "Thief",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/d/d2/Portrait_rickard_fe03.png"
+    },
+    {
+      "name": "Bantu",
+      "class": "Manakete",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/f/ff/Portrait_bantu_fe03.png"
+    },
+    {
+      "name": "Caesar",
+      "class": "Mercenary",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/e/ec/Portrait_caesar_fe03.png"
+    },
+    {
+      "name": "Radd",
+      "class": "Mercenary",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/2/21/Portrait_radd_fe03.png"
+    },
+    {
+      "name": "Maria",
+      "class": "Cleric",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/8/89/Portrait_maria_fe03.png"
+    },
+    {
+      "name": "Minerva",
+      "class": "Dracoknight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/f/fb/Portrait_minerva_fe03.png"
+    },
+    {
+      "name": "Jeorge",
+      "class": "Sniper",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/0/0d/Portrait_jeorge_fe03.png"
+    },
+    {
+      "name": "Linde",
+      "class": "Mage",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/7/71/Portrait_linde_fe03.png"
+    },
+    {
+      "name": "Dolph",
+      "class": "Knight",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/6/6e/Portrait_dolph_fe03.png"
+    },
+    {
+      "name": "Macellan",
+      "class": "Knight",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/0/0e/Portrait_macellan_fe03.png"
+    },
+    {
+      "name": "Tomas",
+      "class": "Archer",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/7/73/Portrait_tomas_fe03.png"
+    },
+    {
+      "name": "Boah",
+      "class": "Bishop",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/e/ee/Portrait_boah_fe03.png"
+    },
+    {
+      "name": "Midia",
+      "class": "Paladin",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/6/68/Portrait_midia_fe03.png"
+    },
+    {
+      "name": "Astram",
+      "class": "Hero",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/c/c8/Portrait_astram_fe03.png"
+    },
+    {
+      "name": "Catria",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/f/f7/Portrait_catria_fe03.png"
+    },
+    {
+      "name": "Palla",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/d/d8/Portrait_palla_fe03.png"
+    },
+    {
+      "name": "Arran",
+      "class": "Paladin",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13*",
+      "img": "https://cdn.fireemblemwiki.org/4/4b/Portrait_arran_fe03.png"
+    },
+    {
+      "name": "Samson",
+      "class": "Hero",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13*",
+      "img": "https://cdn.fireemblemwiki.org/2/2f/Portrait_samson_fe03.png"
+    },
+    {
+      "name": "Xane",
+      "class": "Freelancer",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/5/53/Portrait_xane_fe03.png"
+    },
+    {
+      "name": "Tiki",
+      "class": "Manakete",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/9/9e/Portrait_tiki_fe03.png"
+    },
+    {
+      "name": "Est",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/2/26/Portrait_est_fe03.png"
+    },
+    {
+      "name": "Lorenz",
+      "class": "General",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/f/fe/Portrait_lorenz_fe03.png"
+    },
+    {
+      "name": "Elice",
+      "class": "Cleric",
+      "appears": "Chapter 18",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/8/8d/Portrait_elice_fe03.png"
+    }
+  ],
+  "FE4": [
+    {
+      "name": "Sigurd",
+      "class": "Knight Lord",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/1/1c/Portrait_sigurd_fe04.png"
+    },
+    {
+      "name": "Naoise",
+      "class": "Cavalier",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/4/44/Portrait_naoise_fe04.png"
+    },
+    {
+      "name": "Alec",
+      "class": "Cavalier",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/6/62/Portrait_alec_fe04.png"
+    },
+    {
+      "name": "Arden",
+      "class": "Sword Armor",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/f/f5/Portrait_arden_fe04.png"
+    },
+    {
+      "name": "Azelle",
+      "class": "Mage",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/0/0a/Portrait_azelle_fe04.png"
+    },
+    {
+      "name": "Lex",
+      "class": "Axe Knight",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/6/6a/Portrait_lex_fe04.png"
+    },
+    {
+      "name": "Quan",
+      "class": "Duke Knight",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/6/60/Portrait_quan_fe04.png"
+    },
+    {
+      "name": "Finn",
+      "class": "Lance Knight",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/b/bb/Portrait_finn_01_fe04.png"
+    },
+    {
+      "name": "Ethlyn",
+      "class": "Troubadour",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/b/bd/Portrait_ethlyn_fe04.png"
+    },
+    {
+      "name": "Midir",
+      "class": "Arch Knight",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/5/5f/Portrait_midir_fe04.png"
+    },
+    {
+      "name": "Dew",
+      "class": "Thief",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/5/5a/Portrait_dew_fe04.png"
+    },
+    {
+      "name": "Edain",
+      "class": "Priest",
+      "appears": "Prologue",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/f8/Portrait_edain_fe04.png"
+    },
+    {
+      "name": "Ayra",
+      "class": "Sword Fighter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/c/c1/Portrait_ayra_fe04.png"
+    },
+    {
+      "name": "Deirdre",
+      "class": "Light Priestess",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/0/01/Portrait_deirdre_fe04.png"
+    },
+    {
+      "name": "Jamke",
+      "class": "Bow Fighter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/f2/Portrait_jamke_fe04.png"
+    },
+    {
+      "name": "Chulainn",
+      "class": "Sword Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/8/83/Portrait_chulainn_fe04.png"
+    },
+    {
+      "name": "Lachesis",
+      "class": "Princess",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/8/80/Portrait_lachesis_fe04.png"
+    },
+    {
+      "name": "Beowolf",
+      "class": "Free Knight",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/0/0d/Portrait_beowolf_fe04.png"
+    },
+    {
+      "name": "Lewyn",
+      "class": "Bard",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/d/d0/Portrait_lewyn_01_fe04.png"
+    },
+    {
+      "name": "Silvia",
+      "class": "Dancer",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/c/cf/Portrait_silvia_fe04.png"
+    },
+    {
+      "name": "Erinys",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/a/a9/Portrait_erinys_fe04.png"
+    },
+    {
+      "name": "Brigid",
+      "class": "Sniper",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/d/db/Portrait_brigid_fe04.png"
+    },
+    {
+      "name": "Tailtiu",
+      "class": "Thunder Mage",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/2/21/Portrait_tailtiu_fe04.png"
+    },
+    {
+      "name": "Claud",
+      "class": "High Priest",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/b/b1/Portrait_claud_fe04.png"
+    },
+    {
+      "name": "Seliph",
+      "class": "Junior Lord",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/f/f4/Portrait_seliph_fe04.png"
+    },
+    {
+      "name": "Sc\u00e1thach",
+      "class": "Sword Fighter",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/6/68/Portrait_sc%C3%A1thach_fe04.png"
+    },
+    {
+      "name": "Dalvin",
+      "class": "Sword Fighter",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/0/09/Portrait_dalvin_fe04.png"
+    },
+    {
+      "name": "Larcei",
+      "class": "Sword Fighter",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/9/99/Portrait_larcei_fe04.png"
+    },
+    {
+      "name": "Creidne",
+      "class": "Sword Fighter",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/9/90/Portrait_creidne_fe04.png"
+    },
+    {
+      "name": "Lana",
+      "class": "Priest",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/9/9c/Portrait_lana_fe04.png"
+    },
+    {
+      "name": "Muirne",
+      "class": "Priest",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/7/7b/Portrait_muirne_fe04.png"
+    },
+    {
+      "name": "Diarmuid",
+      "class": "Free Knight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/c/cb/Portrait_diarmuid_fe04.png"
+    },
+    {
+      "name": "Tristan",
+      "class": "Free Knight",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/4/42/Portrait_tristan_fe04.png"
+    },
+    {
+      "name": "Lester",
+      "class": "Arch Knight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/5/5d/Portrait_lester_fe04.png"
+    },
+    {
+      "name": "Deimne",
+      "class": "Arch Knight",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/9/95/Portrait_deimne_fe04.png"
+    },
+    {
+      "name": "Oifey",
+      "class": "Paladin",
+      "appears": "Prologue",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/7/7e/Portrait_oifey_02_fe04.png"
+    },
+    {
+      "name": "Julia",
+      "class": "Light Priestess",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/1/1d/Portrait_julia_fe04.png"
+    },
+    {
+      "name": "Fee",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/1/16/Portrait_fee_fe04.png"
+    },
+    {
+      "name": "Hermina",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/3/3c/Portrait_hermina_fe04.png"
+    },
+    {
+      "name": "Arthur",
+      "class": "Mage",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/e/e4/Portrait_arthur_fe04.png"
+    },
+    {
+      "name": "Amid",
+      "class": "Wind Mage",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/1/15/Portrait_amid_fe04.png"
+    },
+    {
+      "name": "Iucharba",
+      "class": "Axe Fighter",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/b/b9/Portrait_iucharba_fe04.png"
+    },
+    {
+      "name": "Iuchar",
+      "class": "Axe Knight",
+      "appears": "Chapter 6*",
+      "joins": "Chapter 6*",
+      "img": "https://cdn.fireemblemwiki.org/3/3e/Portrait_iuchar_fe04.png"
+    },
+    {
+      "name": "Leif",
+      "class": "Prince",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/e/e1/Portrait_leif_fe04.png"
+    },
+    {
+      "name": "Nanna",
+      "class": "Troubadour",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/9/9f/Portrait_nanna_fe04.png"
+    },
+    {
+      "name": "Jeanne",
+      "class": "Troubadour",
+      "appears": "Chapter 7*",
+      "joins": "Chapter 7*",
+      "img": "https://cdn.fireemblemwiki.org/6/6b/Portrait_jeanne_fe04.png"
+    },
+    {
+      "name": "Shannan",
+      "class": "Swordmaster",
+      "appears": "Chapter 1",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/c/ca/Portrait_shannan_02_fe04.png"
+    },
+    {
+      "name": "Patty",
+      "class": "Thief",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/9/9a/Portrait_patty_fe04.png"
+    },
+    {
+      "name": "Daisy",
+      "class": "Thief",
+      "appears": "Chapter 7*",
+      "joins": "Chapter 7*",
+      "img": "https://cdn.fireemblemwiki.org/7/7c/Portrait_daisy_fe04.png"
+    },
+    {
+      "name": "Ares",
+      "class": "Cavalier",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/7/79/Portrait_ares_fe04.png"
+    },
+    {
+      "name": "Lene",
+      "class": "Dancer",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/4/47/Portrait_lene_fe04.png"
+    },
+    {
+      "name": "Laylea",
+      "class": "Dancer",
+      "appears": "Chapter 7*",
+      "joins": "Chapter 7*",
+      "img": "https://cdn.fireemblemwiki.org/7/77/Portrait_laylea_fe04.png"
+    },
+    {
+      "name": "Tine",
+      "class": "Mage",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/7/7c/Portrait_tine_fe04.png"
+    },
+    {
+      "name": "Linda",
+      "class": "Thunder Mage",
+      "appears": "Chapter 7*",
+      "joins": "Chapter 7*",
+      "img": "https://cdn.fireemblemwiki.org/7/7a/Portrait_linda_fe04.png"
+    },
+    {
+      "name": "Febail",
+      "class": "Bow Fighter",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/d/d1/Portrait_febail_fe04.png"
+    },
+    {
+      "name": "Asaello",
+      "class": "Bow Fighter",
+      "appears": "Chapter 8*",
+      "joins": "Chapter 8*",
+      "img": "https://cdn.fireemblemwiki.org/b/ba/Portrait_asaello_fe04.png"
+    },
+    {
+      "name": "Ced",
+      "class": "Sage",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/b/b3/Portrait_ced_fe04.png"
+    },
+    {
+      "name": "Hawk",
+      "class": "Sage",
+      "appears": "Chapter 8*",
+      "joins": "Chapter 8*",
+      "img": "https://cdn.fireemblemwiki.org/a/a2/Portrait_hawk_fe04.png"
+    },
+    {
+      "name": "Hannibal",
+      "class": "General",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/2/29/Portrait_hannibal_fe04.png"
+    },
+    {
+      "name": "Coirpre",
+      "class": "Priest",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/b/bf/Portrait_coirpre_fe04.png"
+    },
+    {
+      "name": "Charlot",
+      "class": "Priest",
+      "appears": "Chapter 9*",
+      "joins": "Chapter 9*",
+      "img": "https://cdn.fireemblemwiki.org/9/9e/Portrait_charlot_fe04.png"
+    },
+    {
+      "name": "Altena",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 8",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/6/63/Portrait_altena_fe04.png"
+    }
+  ],
+  "FE5": [
+    {
+      "name": "Leif",
+      "class": "Lord",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/1/1b/Portrait_leif_fe05.png"
+    },
+    {
+      "name": "Finn",
+      "class": "Lance Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/c/cc/Portrait_finn_fe05.png"
+    },
+    {
+      "name": "Osian",
+      "class": "Axe Fighter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/e/ef/Portrait_osian_fe05.png"
+    },
+    {
+      "name": "Halvan",
+      "class": "Axe Fighter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/1/15/Portrait_halvan_fe05.png"
+    },
+    {
+      "name": "Eyvel",
+      "class": "Swordmaster",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/fd/Portrait_eyvel_fe05.png"
+    },
+    {
+      "name": "Dagdar",
+      "class": "Warrior",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/8/86/Portrait_dagdar_fe05.png"
+    },
+    {
+      "name": "Tanya",
+      "class": "Bow Fighter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/1/1a/Portrait_tanya_fe05.png"
+    },
+    {
+      "name": "Marty",
+      "class": "Brigand",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/1/15/Portrait_marty_fe05.png"
+    },
+    {
+      "name": "Ronan",
+      "class": "Bow Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/a/a5/Portrait_ronan_fe05.png"
+    },
+    {
+      "name": "Safy",
+      "class": "Priest",
+      "appears": "Chapter 2x",
+      "joins": "Chapter 2x",
+      "img": "https://cdn.fireemblemwiki.org/f/f3/Portrait_safy_fe05.png"
+    },
+    {
+      "name": "Lifis",
+      "class": "Thief",
+      "appears": "Chapter 2x",
+      "joins": "Chapter 2x",
+      "img": "https://cdn.fireemblemwiki.org/3/30/Portrait_lifis_fe05.png"
+    },
+    {
+      "name": "Machyua",
+      "class": "Sword Fighter",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/a/a1/Portrait_machyua_fe05.png"
+    },
+    {
+      "name": "Brighton",
+      "class": "Axe Knight",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/8/8b/Portrait_brighton_fe05.png"
+    },
+    {
+      "name": "Lara",
+      "class": "Thief",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/d/d2/Portrait_lara_fe05.png"
+    },
+    {
+      "name": "Fergus",
+      "class": "Free Knight",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/e/e1/Portrait_fergus_fe05.png"
+    },
+    {
+      "name": "Karin",
+      "class": "Pegasus Rider",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/b/bb/Portrait_karin_fe05.png"
+    },
+    {
+      "name": "Dalsin",
+      "class": "Axe Armor",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/e/e8/Portrait_dalsin_fe05.png"
+    },
+    {
+      "name": "Asbel",
+      "class": "Mage",
+      "appears": "Chapter 4x",
+      "joins": "Chapter 4x",
+      "img": "https://cdn.fireemblemwiki.org/d/df/Portrait_asbel_fe05.png"
+    },
+    {
+      "name": "Nanna",
+      "class": "Troubadour",
+      "appears": "Chapter 1",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/0/06/Portrait_nanna_fe05.png"
+    },
+    {
+      "name": "Hicks",
+      "class": "Axe Knight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/8/8b/Portrait_hicks_fe05.png"
+    },
+    {
+      "name": "Shiva",
+      "class": "Sword Fighter",
+      "appears": "Chapter 2x",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/b/b6/Portrait_shiva_fe05.png"
+    },
+    {
+      "name": "Carrion",
+      "class": "Cavalier",
+      "appears": "Chapter 7",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/5/52/Portrait_carrion_fe05.png"
+    },
+    {
+      "name": "Selphina",
+      "class": "Arch Knight",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/3/36/Portrait_selphina_fe05.png"
+    },
+    {
+      "name": "Cain",
+      "class": "Lance Knight",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/0/07/Portrait_cain_fe05.png"
+    },
+    {
+      "name": "Alva",
+      "class": "Lance Knight",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/d/d7/Portrait_alva_fe05.png"
+    },
+    {
+      "name": "Robert",
+      "class": "Arch Knight",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/8/8a/Portrait_robert_fe05.png"
+    },
+    {
+      "name": "Fred",
+      "class": "Paladin",
+      "appears": "Chapter 10",
+      "joins": "Chapter 11x",
+      "img": "https://cdn.fireemblemwiki.org/d/d8/Portrait_fred_fe05.png"
+    },
+    {
+      "name": "Olwen",
+      "class": "Mage Knight",
+      "appears": "Chapter 10",
+      "joins": "Chapter 11x",
+      "img": "https://cdn.fireemblemwiki.org/6/62/Portrait_olwen_fe05.png"
+    },
+    {
+      "name": "Mareeta",
+      "class": "Sword Fighter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/f/f0/Portrait_mareeta_fe05.png"
+    },
+    {
+      "name": "Salem",
+      "class": "Loptr Mage",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12x",
+      "img": "https://cdn.fireemblemwiki.org/8/85/Portrait_salem_fe05.png"
+    },
+    {
+      "name": "Perne",
+      "class": "Thief Fighter",
+      "appears": "Chapter 12x",
+      "joins": "Chapter 12x",
+      "img": "https://cdn.fireemblemwiki.org/8/87/Portrait_perne_fe05.png"
+    },
+    {
+      "name": "Troude",
+      "class": "Sword Fighter",
+      "appears": "Chapter 12x",
+      "joins": "Chapter 12x",
+      "img": "https://cdn.fireemblemwiki.org/6/64/Portrait_troude_fe05.png"
+    },
+    {
+      "name": "Tina",
+      "class": "Priest",
+      "appears": "Chapter 12x",
+      "joins": "Chapter 12x",
+      "img": "https://cdn.fireemblemwiki.org/f/f6/Portrait_tina_fe05.png"
+    },
+    {
+      "name": "Glade",
+      "class": "Duke Knight",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/b/b6/Portrait_glade_fe05.png"
+    },
+    {
+      "name": "Deen",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 13",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/9/94/Portrait_deen_fe05.png"
+    },
+    {
+      "name": "Eda",
+      "class": "Dragon Rider",
+      "appears": "Chapter 13",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/4/4d/Portrait_eda_fe05.png"
+    },
+    {
+      "name": "Homer",
+      "class": "Bard",
+      "appears": "Chapter 14",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/f/f6/Portrait_homer_fe05.png"
+    },
+    {
+      "name": "Linoan",
+      "class": "Cleric",
+      "appears": "Chapter 13",
+      "joins": "Chapter 14x or 15",
+      "img": "https://cdn.fireemblemwiki.org/d/dd/Portrait_linoan_fe05.png"
+    },
+    {
+      "name": "Ralf",
+      "class": "Mercenary",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/f/f4/Portrait_ralf_fe05.png"
+    },
+    {
+      "name": "Ilios",
+      "class": "Mage Knight",
+      "appears": "Chapter 16A",
+      "joins": "Chapter 16A*",
+      "img": "https://cdn.fireemblemwiki.org/8/8b/Portrait_ilios_fe05.png"
+    },
+    {
+      "name": "Sleuf",
+      "class": "Priest",
+      "appears": "Chapter 15",
+      "joins": "Chapter 16A",
+      "img": "https://cdn.fireemblemwiki.org/2/21/Portrait_sleuf_fe05.png"
+    },
+    {
+      "name": "Misha",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 14x",
+      "joins": "Chapter 17A",
+      "img": "https://cdn.fireemblemwiki.org/7/75/Portrait_misha_fe05.png"
+    },
+    {
+      "name": "Sara",
+      "class": "Cleric",
+      "appears": "Chapter 17A or 16B",
+      "joins": "Chapter 17A or 16B",
+      "img": "https://cdn.fireemblemwiki.org/7/72/Portrait_sara_fe05.png"
+    },
+    {
+      "name": "Shannam",
+      "class": "Swordmaster",
+      "appears": "Chapter 14",
+      "joins": "Chapter 16B",
+      "img": "https://cdn.fireemblemwiki.org/c/cc/Portrait_shannam_fe05.png"
+    },
+    {
+      "name": "Miranda",
+      "class": "Mage",
+      "appears": "Chapter 16B",
+      "joins": "Chapter 16B",
+      "img": "https://cdn.fireemblemwiki.org/a/ab/Portrait_miranda_fe05.png"
+    },
+    {
+      "name": "Xavier",
+      "class": "General",
+      "appears": "Chapter 18",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/2/26/Portrait_xavier_fe05.png"
+    },
+    {
+      "name": "Amalda",
+      "class": "Paladin",
+      "appears": "Chapter 15",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/1/10/Portrait_amalda_fe05.png"
+    },
+    {
+      "name": "Conomor",
+      "class": "Paladin",
+      "appears": "Chapter 16A",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/7/7d/Portrait_conomor_fe05.png"
+    },
+    {
+      "name": "Diarmuid",
+      "class": "Ranger",
+      "appears": "Chapter 21",
+      "joins": "Chapter 21",
+      "img": "https://cdn.fireemblemwiki.org/f/f3/Portrait_diarmuid_fe05.png"
+    },
+    {
+      "name": "Saias",
+      "class": "High Priest",
+      "appears": "Chapter 12",
+      "joins": "Chapter 23*",
+      "img": "https://cdn.fireemblemwiki.org/b/ba/Portrait_saias_fe05.png"
+    },
+    {
+      "name": "Ced",
+      "class": "Sage",
+      "appears": "Chapter 4x",
+      "joins": "Chapter 23*",
+      "img": "https://cdn.fireemblemwiki.org/c/cc/Portrait_ced_fe05.png"
+    },
+    {
+      "name": "Galzus",
+      "class": "Mercenary",
+      "appears": "Chapter 5",
+      "joins": "Chapter 24",
+      "img": "https://cdn.fireemblemwiki.org/4/4c/Portrait_galzus_fe05.png"
+    }
+  ],
+  "FE6": [
+    {
+      "name": "Roy",
+      "class": "Lord",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/70/Portrait_roy_fe06.png/64px-Portrait_roy_fe06.png"
+    },
+    {
+      "name": "Marcus",
+      "class": "Paladin",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1c/Portrait_marcus_fe06.png/64px-Portrait_marcus_fe06.png"
+    },
+    {
+      "name": "Alen",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b0/Portrait_alen_fe06.png/64px-Portrait_alen_fe06.png"
+    },
+    {
+      "name": "Lance",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/ae/Portrait_lance_fe06.png/64px-Portrait_lance_fe06.png"
+    },
+    {
+      "name": "Wolt",
+      "class": "Archer",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/29/Portrait_wolt_fe06.png/64px-Portrait_wolt_fe06.png"
+    },
+    {
+      "name": "Bors",
+      "class": "Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/96/Portrait_bors_fe06.png/64px-Portrait_bors_fe06.png"
+    },
+    {
+      "name": "Merlinus",
+      "class": "Transporter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/78/Portrait_merlinus_fe06.png/64px-Portrait_merlinus_fe06.png"
+    },
+    {
+      "name": "Elen",
+      "class": "Priest",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/21/Portrait_elen_fe06.png/64px-Portrait_elen_fe06.png"
+    },
+    {
+      "name": "Dieck",
+      "class": "Mercenary",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/04/Portrait_dieck_fe06.png/64px-Portrait_dieck_fe06.png"
+    },
+    {
+      "name": "Ward",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/02/Portrait_ward_fe06.png/64px-Portrait_ward_fe06.png"
+    },
+    {
+      "name": "Lot",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/50/Portrait_lot_fe06.png/64px-Portrait_lot_fe06.png"
+    },
+    {
+      "name": "Shanna",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/48/Portrait_shanna_fe06.png/64px-Portrait_shanna_fe06.png"
+    },
+    {
+      "name": "Chad",
+      "class": "Thief",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3d/Portrait_chad_fe06.png/64px-Portrait_chad_fe06.png"
+    },
+    {
+      "name": "Lugh",
+      "class": "Mage",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/60/Portrait_lugh_fe06.png/64px-Portrait_lugh_fe06.png"
+    },
+    {
+      "name": "Clarine",
+      "class": "Troubadour",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/08/Portrait_clarine_fe06.png/64px-Portrait_clarine_fe06.png"
+    },
+    {
+      "name": "Rutger",
+      "class": "Myrmidon",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d1/Portrait_rutger_fe06.png/64px-Portrait_rutger_fe06.png"
+    },
+    {
+      "name": "Saul",
+      "class": "Priest",
+      "appears": "Chapter 5",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2a/Portrait_saul_fe06.png/64px-Portrait_saul_fe06.png"
+    },
+    {
+      "name": "Dorothy",
+      "class": "Archer",
+      "appears": "Chapter 5",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/dc/Portrait_dorothy_fe06.png/64px-Portrait_dorothy_fe06.png"
+    },
+    {
+      "name": "Sue",
+      "class": "Nomad",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b7/Portrait_sue_fe06.png/64px-Portrait_sue_fe06.png"
+    },
+    {
+      "name": "Zelot",
+      "class": "Paladin",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/67/Portrait_zelot_fe06.png/64px-Portrait_zelot_fe06.png"
+    },
+    {
+      "name": "Trec",
+      "class": "Cavalier",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/46/Portrait_trec_fe06.png/64px-Portrait_trec_fe06.png"
+    },
+    {
+      "name": "Noah",
+      "class": "Cavalier",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1b/Portrait_noah_fe06.png/64px-Portrait_noah_fe06.png"
+    },
+    {
+      "name": "Astolfo",
+      "class": "Thief",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3e/Portrait_astolfo_fe06.png/64px-Portrait_astolfo_fe06.png"
+    },
+    {
+      "name": "Lilina",
+      "class": "Mage",
+      "appears": "Chapter 1",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d3/Portrait_lilina_fe06.png/64px-Portrait_lilina_fe06.png"
+    },
+    {
+      "name": "Barthe",
+      "class": "Knight",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9c/Portrait_barthe_fe06.png/64px-Portrait_barthe_fe06.png"
+    },
+    {
+      "name": "Ogier",
+      "class": "Mercenary",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3d/Portrait_ogier_fe06.png/64px-Portrait_ogier_fe06.png"
+    },
+    {
+      "name": "Gwendolyn",
+      "class": "Knight",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e6/Portrait_gwendolyn_fe06.png/64px-Portrait_gwendolyn_fe06.png"
+    },
+    {
+      "name": "Fir",
+      "class": "Myrmidon",
+      "appears": "Chapter 7",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/72/Portrait_fir_fe06.png/64px-Portrait_fir_fe06.png"
+    },
+    {
+      "name": "Sin",
+      "class": "Nomad",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9c/Portrait_sin_fe06.png/64px-Portrait_sin_fe06.png"
+    },
+    {
+      "name": "Geese",
+      "class": "Pirate",
+      "appears": "Chapter 10A orChapter 11B",
+      "joins": "Chapter 10A or 11B",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/dc/Portrait_geese_fe06.png/64px-Portrait_geese_fe06.png"
+    },
+    {
+      "name": "Gonzalez",
+      "class": "Brigand",
+      "appears": "Chapter 10A orChapter 10B",
+      "joins": "Chapter 10A orChapter 10B",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/54/Portrait_gonzalez_fe06.png/64px-Portrait_gonzalez_fe06.png"
+    },
+    {
+      "name": "Klein",
+      "class": "Sniper",
+      "appears": "Chapter 10B orChapter 11A",
+      "joins": "Chapter 10B orChapter 11A",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1c/Portrait_klein_fe06.png/64px-Portrait_klein_fe06.png"
+    },
+    {
+      "name": "Thea",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 10B orChapter 11A",
+      "joins": "Chapter 10B orChapter 11A",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/43/Portrait_thea_fe06.png/64px-Portrait_thea_fe06.png"
+    },
+    {
+      "name": "Larum",
+      "class": "Dancer",
+      "appears": "Chapter 10A",
+      "joins": "Chapter 11A",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b9/Portrait_larum_fe06.png/64px-Portrait_larum_fe06.png"
+    },
+    {
+      "name": "Elffin",
+      "class": "Bard",
+      "appears": "Chapter 10B",
+      "joins": "Chapter 11B",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f2/Portrait_elffin_fe06.png/64px-Portrait_elffin_fe06.png"
+    },
+    {
+      "name": "Echidna",
+      "class": "Hero",
+      "appears": "Chapter 11A",
+      "joins": "Chapter 11A",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/11/Portrait_echidna_fe06.png/64px-Portrait_echidna_fe06.png"
+    },
+    {
+      "name": "Bartre",
+      "class": "Warrior",
+      "appears": "Chapter 11B",
+      "joins": "Chapter 11B",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/6a/Portrait_bartre_fe06.png/64px-Portrait_bartre_fe06.png"
+    },
+    {
+      "name": "Raigh",
+      "class": "Shaman",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3d/Portrait_raigh_fe06.png/64px-Portrait_raigh_fe06.png"
+    },
+    {
+      "name": "Cath",
+      "class": "Thief",
+      "appears": "Chapter 6",
+      "joins": "Chapter 12\\",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2f/Portrait_cath_fe06.png/64px-Portrait_cath_fe06.png"
+    },
+    {
+      "name": "Melady",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 2",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c3/Portrait_melady_fe06.png/64px-Portrait_melady_fe06.png"
+    },
+    {
+      "name": "Perceval",
+      "class": "Paladin",
+      "appears": "Chapter 8 orChapter 8x",
+      "joins": "Chapter 13 orChapter 15",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e7/Portrait_perceval_fe06.png/64px-Portrait_perceval_fe06.png"
+    },
+    {
+      "name": "Cecilia",
+      "class": "Valkyrie",
+      "appears": "Chapter 8 orChapter 8x",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0f/Portrait_cecilia_fe06.png/64px-Portrait_cecilia_fe06.png"
+    },
+    {
+      "name": "Sophia",
+      "class": "Shaman",
+      "appears": "Chapter 13",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f7/Portrait_sophia_fe06.png/64px-Portrait_sophia_fe06.png"
+    },
+    {
+      "name": "Igrene",
+      "class": "Sniper",
+      "appears": "Chapter 14",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/09/Portrait_igrene_fe06.png/64px-Portrait_igrene_fe06.png"
+    },
+    {
+      "name": "Garret",
+      "class": "Berserker",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/df/Portrait_garret_fe06.png/64px-Portrait_garret_fe06.png"
+    },
+    {
+      "name": "Fae",
+      "class": "Manakete",
+      "appears": "Chapter 14",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/06/Portrait_fae_fe06.png/64px-Portrait_fae_fe06.png"
+    },
+    {
+      "name": "Hugh",
+      "class": "Mage",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1d/Portrait_hugh_fe06.png/64px-Portrait_hugh_fe06.png"
+    },
+    {
+      "name": "Zeiss",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 14",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/04/Portrait_zeiss_fe06.png/64px-Portrait_zeiss_fe06.png"
+    },
+    {
+      "name": "Douglas",
+      "class": "General",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/85/Portrait_douglas_fe06.png/64px-Portrait_douglas_fe06.png"
+    },
+    {
+      "name": "Niime",
+      "class": "Druid",
+      "appears": "Chapter 18A or Chapter 19B",
+      "joins": "Chapter 19A orChapter 20B",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a5/Portrait_niime_fe06.png/64px-Portrait_niime_fe06.png"
+    },
+    {
+      "name": "Juno",
+      "class": "Falcon Knight",
+      "appears": "Chapter 20A",
+      "joins": "Chapter 20A",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/07/Portrait_juno_fe06.png/64px-Portrait_juno_fe06.png"
+    },
+    {
+      "name": "Dayan",
+      "class": "Nomadic Trooper",
+      "appears": "Chapter 19B",
+      "joins": "Chapter 20B",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fb/Portrait_dayan_fe06.png/64px-Portrait_dayan_fe06.png"
+    },
+    {
+      "name": "Yoder",
+      "class": "Bishop",
+      "appears": "Chapter 5",
+      "joins": "Chapter 21",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b0/Portrait_yoder_fe06.png/64px-Portrait_yoder_fe06.png"
+    },
+    {
+      "name": "Karel",
+      "class": "Swordmaster",
+      "appears": "Chapter 23",
+      "joins": "Chapter 23",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4d/Portrait_karel_fe06.png/64px-Portrait_karel_fe06.png"
+    }
+  ],
+  "FE7": [
+    {
+      "name": "Lyn",
+      "class": "Lord",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f4/Portrait_lyn_fe07.png/64px-Portrait_lyn_fe07.png"
+    },
+    {
+      "name": "Sain",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/44/Portrait_sain_fe07.png/64px-Portrait_sain_fe07.png"
+    },
+    {
+      "name": "Kent",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/39/Portrait_kent_fe07.png/64px-Portrait_kent_fe07.png"
+    },
+    {
+      "name": "Florina",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d7/Portrait_florina_fe07.png/64px-Portrait_florina_fe07.png"
+    },
+    {
+      "name": "Wil",
+      "class": "Archer",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c5/Portrait_wil_fe07.png/64px-Portrait_wil_fe07.png"
+    },
+    {
+      "name": "Dorcas",
+      "class": "Fighter",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/65/Portrait_dorcas_fe07.png/64px-Portrait_dorcas_fe07.png"
+    },
+    {
+      "name": "Serra",
+      "class": "Cleric",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/54/Portrait_serra_fe07.png/64px-Portrait_serra_fe07.png"
+    },
+    {
+      "name": "Erk",
+      "class": "Mage",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/ae/Portrait_erk_fe07.png/64px-Portrait_erk_fe07.png"
+    },
+    {
+      "name": "Rath",
+      "class": "Nomad",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/92/Portrait_rath_fe07.png/64px-Portrait_rath_fe07.png"
+    },
+    {
+      "name": "Matthew",
+      "class": "Thief",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1d/Portrait_matthew_fe07.png/64px-Portrait_matthew_fe07.png"
+    },
+    {
+      "name": "Nils",
+      "class": "Bard",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/23/Portrait_nils_fe07.png/64px-Portrait_nils_fe07.png"
+    },
+    {
+      "name": "Lucius",
+      "class": "Monk",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e4/Portrait_lucius_fe07.png/64px-Portrait_lucius_fe07.png"
+    },
+    {
+      "name": "Wallace",
+      "class": "Knight",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c7/Portrait_wallace_fe07.png/64px-Portrait_wallace_fe07.png"
+    },
+    {
+      "name": "Eliwood",
+      "class": "Lord",
+      "appears": "Chapter 7* or Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a2/Portrait_eliwood_fe07.png/64px-Portrait_eliwood_fe07.png"
+    },
+    {
+      "name": "Marcus",
+      "class": "Paladin",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3d/Portrait_marcus_fe07.png/64px-Portrait_marcus_fe07.png"
+    },
+    {
+      "name": "Lowen",
+      "class": "Cavalier",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7e/Portrait_lowen_fe07.png/64px-Portrait_lowen_fe07.png"
+    },
+    {
+      "name": "Rebecca",
+      "class": "Archer",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/65/Portrait_rebecca_fe07.png/64px-Portrait_rebecca_fe07.png"
+    },
+    {
+      "name": "Bartre",
+      "class": "Fighter",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/ee/Portrait_bartre_fe07.png/64px-Portrait_bartre_fe07.png"
+    },
+    {
+      "name": "Hector",
+      "class": "Lord",
+      "appears": "Chapter 7* or Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d0/Portrait_hector_fe07.png/64px-Portrait_hector_fe07.png"
+    },
+    {
+      "name": "Oswin",
+      "class": "Knight",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/48/Portrait_oswin_fe07.png/64px-Portrait_oswin_fe07.png"
+    },
+    {
+      "name": "Guy",
+      "class": "Myrmidon",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/04/Portrait_guy_fe07.png/64px-Portrait_guy_fe07.png"
+    },
+    {
+      "name": "Merlinus",
+      "class": "Transporter",
+      "appears": "Chapter 13* or Chapter 16*",
+      "joins": "Chapter 13x or Chapter 16*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/02/Portrait_merlinus_fe07.png/64px-Portrait_merlinus_fe07.png"
+    },
+    {
+      "name": "Priscilla",
+      "class": "Troubadour",
+      "appears": "Chapter 14",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/96/Portrait_priscilla_fe07.png/64px-Portrait_priscilla_fe07.png"
+    },
+    {
+      "name": "Raven",
+      "class": "Mercenary",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/57/Portrait_raven_fe07.png/64px-Portrait_raven_fe07.png"
+    },
+    {
+      "name": "Canas",
+      "class": "Shaman",
+      "appears": "Chapter 16x",
+      "joins": "Chapter 16x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/5f/Portrait_canas_fe07.png/64px-Portrait_canas_fe07.png"
+    },
+    {
+      "name": "Dart",
+      "class": "Pirate",
+      "appears": "Chapter 16x or Chapter 17*",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/11/Portrait_dart_fe07.png/64px-Portrait_dart_fe07.png"
+    },
+    {
+      "name": "Fiora",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 18",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/cb/Portrait_fiora_fe07.png/64px-Portrait_fiora_fe07.png"
+    },
+    {
+      "name": "Legault",
+      "class": "Thief",
+      "appears": "Chapter 19",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b0/Portrait_legault_fe07.png/64px-Portrait_legault_fe07.png"
+    },
+    {
+      "name": "Ninian",
+      "class": "Dancer",
+      "appears": "Chapter 7* or Chapter 17",
+      "joins": "Chapter 20",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/39/Portrait_ninian_fe07.png/64px-Portrait_ninian_fe07.png"
+    },
+    {
+      "name": "Isadora",
+      "class": "Paladin",
+      "appears": "Chapter 11",
+      "joins": "Chapter 21",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/ac/Portrait_isadora_fe07.png/64px-Portrait_isadora_fe07.png"
+    },
+    {
+      "name": "Heath",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 21",
+      "joins": "Chapter 21",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/eb/Portrait_heath_fe07.png/64px-Portrait_heath_fe07.png"
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Berserker",
+      "appears": "Chapter 22",
+      "joins": "Chapter 22",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/60/Portrait_hawkeye_fe07.png/64px-Portrait_hawkeye_fe07.png"
+    },
+    {
+      "name": "Geitz",
+      "class": "Warrior",
+      "appears": "Chapter 23*",
+      "joins": "Chapter 23*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d3/Portrait_geitz_fe07.png/64px-Portrait_geitz_fe07.png"
+    },
+    {
+      "name": "Pent",
+      "class": "Sage",
+      "appears": "Chapter 22",
+      "joins": "Chapter 24",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3b/Portrait_pent_fe07.png/64px-Portrait_pent_fe07.png"
+    },
+    {
+      "name": "Louise",
+      "class": "Sniper",
+      "appears": "Chapter 22",
+      "joins": "Chapter 24",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3c/Portrait_louise_fe07.png/64px-Portrait_louise_fe07.png"
+    },
+    {
+      "name": "Karel",
+      "class": "Swordmaster",
+      "appears": "Chapter 25",
+      "joins": "Chapter 25*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a4/Portrait_karel_fe07.png/64px-Portrait_karel_fe07.png"
+    },
+    {
+      "name": "Harken",
+      "class": "Hero",
+      "appears": "Chapter 23 (Lloyd)*\\",
+      "joins": " Chapter 23 (Linus)* or Chapter 25",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0a/Portrait_harken_fe07.png/64px-Portrait_harken_fe07.png"
+    },
+    {
+      "name": "Nino",
+      "class": "Mage",
+      "appears": "Chapter 23 (Lloyd) or Chapter 23 (Linus)",
+      "joins": "Chapter 26",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d6/Portrait_nino_fe07.png/64px-Portrait_nino_fe07.png"
+    },
+    {
+      "name": "Jaffar",
+      "class": "Assassin",
+      "appears": "Chapter 18",
+      "joins": "Chapter 26* or Chapter 26x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f0/Portrait_jaffar_fe07.png/64px-Portrait_jaffar_fe07.png"
+    },
+    {
+      "name": "Vaida",
+      "class": "Wyvern Lord",
+      "appears": "Chapter 24",
+      "joins": "Chapter 27",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/aa/Portrait_vaida_fe07.png/64px-Portrait_vaida_fe07.png"
+    },
+    {
+      "name": "Renault",
+      "class": "Bishop",
+      "appears": "Chapter 18x* or Chapter 30",
+      "joins": "Chapter 30",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/49/Portrait_renault_fe07.png/64px-Portrait_renault_fe07.png"
+    },
+    {
+      "name": "Athos",
+      "class": "Archsage",
+      "appears": "Chapter 22",
+      "joins": "Final Chapter",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2d/Portrait_athos_fe07.png/64px-Portrait_athos_fe07.png"
+    },
+    {
+      "name": "Farina",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 25",
+      "joins": "Chapter 25",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/64/Portrait_farina_fe07.png/64px-Portrait_farina_fe07.png"
+    },
+    {
+      "name": "Karla",
+      "class": "Swordmaster",
+      "appears": "Chapter 25* or Chapter 31x",
+      "joins": "Chapter 31x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/92/Portrait_karla_fe07.png/64px-Portrait_karla_fe07.png"
+    }
+  ],
+  "FE8": [
+    {
+      "name": "Eirika",
+      "class": "Lord",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/07/Portrait_eirika_fe08.png/64px-Portrait_eirika_fe08.png"
+    },
+    {
+      "name": "Seth",
+      "class": "Paladin",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/cf/Portrait_seth_fe08.png/64px-Portrait_seth_fe08.png"
+    },
+    {
+      "name": "Franz",
+      "class": "Cavalier",
+      "appears": "Prologue",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9a/Portrait_franz_fe08.png/64px-Portrait_franz_fe08.png"
+    },
+    {
+      "name": "Gilliam",
+      "class": "Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f1/Portrait_gilliam_fe08.png/64px-Portrait_gilliam_fe08.png"
+    },
+    {
+      "name": "Vanessa",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3f/Portrait_vanessa_fe08.png/64px-Portrait_vanessa_fe08.png"
+    },
+    {
+      "name": "Moulder",
+      "class": "Priest",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3b/Portrait_moulder_fe08.png/64px-Portrait_moulder_fe08.png"
+    },
+    {
+      "name": "Ross",
+      "class": "Journeyman",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/bf/Portrait_ross_fe08.png/64px-Portrait_ross_fe08.png"
+    },
+    {
+      "name": "Garcia",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b5/Portrait_garcia_fe08.png/64px-Portrait_garcia_fe08.png"
+    },
+    {
+      "name": "Neimi",
+      "class": "Archer",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8e/Portrait_neimi_fe08.png/64px-Portrait_neimi_fe08.png"
+    },
+    {
+      "name": "Colm",
+      "class": "Thief",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4c/Portrait_colm_fe08.png/64px-Portrait_colm_fe08.png"
+    },
+    {
+      "name": "Artur",
+      "class": "Monk",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/85/Portrait_artur_fe08.png/64px-Portrait_artur_fe08.png"
+    },
+    {
+      "name": "Lute",
+      "class": "Mage",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9d/Portrait_lute_fe08.png/64px-Portrait_lute_fe08.png"
+    },
+    {
+      "name": "Natasha",
+      "class": "Cleric",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7c/Portrait_natasha_fe08.png/64px-Portrait_natasha_fe08.png"
+    },
+    {
+      "name": "Joshua",
+      "class": "Myrmidon",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/ca/Portrait_joshua_fe08.png/64px-Portrait_joshua_fe08.png"
+    },
+    {
+      "name": "Ephraim",
+      "class": "Lord",
+      "appears": "Chapter 5x",
+      "joins": "Chapter 5xChapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/93/Portrait_ephraim_fe08.png/64px-Portrait_ephraim_fe08.png"
+    },
+    {
+      "name": "Forde",
+      "class": "Cavalier",
+      "appears": "Chapter 5x",
+      "joins": "Chapter 5xChapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/76/Portrait_forde_fe08.png/64px-Portrait_forde_fe08.png"
+    },
+    {
+      "name": "Kyle",
+      "class": "Cavalier",
+      "appears": "Chapter 5x",
+      "joins": "Chapter 5xChapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4d/Portrait_kyle_fe08.png/64px-Portrait_kyle_fe08.png"
+    },
+    {
+      "name": "Orson",
+      "class": "Paladin",
+      "appears": "Chapter 5x",
+      "joins": "Chapter 5x*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/63/Portrait_orson_fe08.png/64px-Portrait_orson_fe08.png"
+    },
+    {
+      "name": "Tana",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 9Ek or Chapter 9Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8e/Portrait_tana_fe08.png/64px-Portrait_tana_fe08.png"
+    },
+    {
+      "name": "Amelia",
+      "class": "Recruit",
+      "appears": "Chapter 5",
+      "joins": "Chapter 9\\",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a6/Portrait_amelia_fe08.png/64px-Portrait_amelia_fe08.png"
+    },
+    {
+      "name": "Innes",
+      "class": "Sniper",
+      "appears": "Chapter 8",
+      "joins": "Chapter 10Ek or Chapter 15Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/ba/Portrait_innes_fe08.png/64px-Portrait_innes_fe08.png"
+    },
+    {
+      "name": "Gerik",
+      "class": "Mercenary",
+      "appears": "Chapter 10Ek or Chapter 13Ep",
+      "joins": "Chapter 10Ek or Chapter 13Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/37/Portrait_gerik_fe08.png/64px-Portrait_gerik_fe08.png"
+    },
+    {
+      "name": "Tethys",
+      "class": "Dancer",
+      "appears": "Chapter 5",
+      "joins": "Chapter 10Ek or Chapter 13Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/04/Portrait_tethys_fe08.png/64px-Portrait_tethys_fe08.png"
+    },
+    {
+      "name": "Marisa",
+      "class": "Myrmidon",
+      "appears": "Chapter 10Ek or Chapter 10Ep",
+      "joins": "Chapter 10Ek or Chapter 12Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a0/Portrait_marisa_fe08.png/64px-Portrait_marisa_fe08.png"
+    },
+    {
+      "name": "L'Arachel",
+      "class": "Troubadour",
+      "appears": "Chapter 4",
+      "joins": "Chapter 11Ek or Chapter 11Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b0/Portrait_l%27arachel_fe08.png/64px-Portrait_l%27arachel_fe08.png"
+    },
+    {
+      "name": "Dozla",
+      "class": "Berserker",
+      "appears": "Chapter 4",
+      "joins": "Chapter 11Ek or Chapter 11Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fd/Portrait_dozla_fe08.png/64px-Portrait_dozla_fe08.png"
+    },
+    {
+      "name": "Saleh",
+      "class": "Sage",
+      "appears": "Chapter 5",
+      "joins": "Chapter 12Ek or Chapter 15Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b3/Portrait_saleh_fe08.png/64px-Portrait_saleh_fe08.png"
+    },
+    {
+      "name": "Ewan",
+      "class": "Pupil",
+      "appears": "Chapter 10Ek or Chapter 12Ep",
+      "joins": "Chapter 12Ek or Chapter 12Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/da/Portrait_ewan_fe08.png/64px-Portrait_ewan_fe08.png"
+    },
+    {
+      "name": "Cormag",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 5",
+      "joins": "Chapter 13Ek or Chapter 10Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/34/Portrait_cormag_fe08.png/64px-Portrait_cormag_fe08.png"
+    },
+    {
+      "name": "Rennac",
+      "class": "Rogue",
+      "appears": "Chapter 4",
+      "joins": "Chapter 14Ek or Chapter 14Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c3/Portrait_rennac_fe08.png/64px-Portrait_rennac_fe08.png"
+    },
+    {
+      "name": "Duessel",
+      "class": "Great Knight",
+      "appears": "Chapter 3",
+      "joins": "Chapter 15Ek or Chapter 10Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c4/Portrait_duessel_fe08.png/64px-Portrait_duessel_fe08.png"
+    },
+    {
+      "name": "Knoll",
+      "class": "Shaman",
+      "appears": "Chapter 15Ek or Chapter 14Ep",
+      "joins": "Chapter 15Ek or Chapter 14Ep",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/aa/Portrait_knoll_fe08.png/64px-Portrait_knoll_fe08.png"
+    },
+    {
+      "name": "Myrrh",
+      "class": "Manakete",
+      "appears": "Chapter 8",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f4/Portrait_myrrh_fe08.png/64px-Portrait_myrrh_fe08.png"
+    },
+    {
+      "name": "Syrene",
+      "class": "Falcoknight",
+      "appears": "Chapter 17",
+      "joins": "Chapter 17",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/87/Portrait_syrene_fe08.png/64px-Portrait_syrene_fe08.png"
+    }
+  ],
+  "FE9": [
+    {
+      "name": "Ike",
+      "class": "Ranger",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/6/66/Small_portrait_ike_ranger_01_fe09.png"
+    },
+    {
+      "name": "Boyd",
+      "class": "Fighter",
+      "appears": "Prologue",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/2/22/Small_portrait_boyd_fe09.png"
+    },
+    {
+      "name": "Titania",
+      "class": "Paladin",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/0/02/Small_portrait_titania_fe09.png"
+    },
+    {
+      "name": "Oscar",
+      "class": "Lance Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/fe/Small_portrait_oscar_fe09.png"
+    },
+    {
+      "name": "Rhys",
+      "class": "Priest",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/1/13/Small_portrait_rhys_fe09.png"
+    },
+    {
+      "name": "Shinon",
+      "class": "Sniper",
+      "appears": "Chapter 2",
+      "joins": "Chapter 3*Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/6/61/Small_portrait_shinon_fe09.png"
+    },
+    {
+      "name": "Gatrie",
+      "class": "Knight",
+      "appears": "Chapter 2",
+      "joins": "Chapter 3*Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/9/9b/Small_portrait_gatrie_fe09.png"
+    },
+    {
+      "name": "Soren",
+      "class": "Mage",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/7/7b/Small_portrait_soren_fe09.png"
+    },
+    {
+      "name": "Mia",
+      "class": "Myrmidon",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/b/b1/Small_portrait_mia_fe09.png"
+    },
+    {
+      "name": "Ilyana",
+      "class": "Mage",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/d/db/Small_portrait_ilyana_fe09.png"
+    },
+    {
+      "name": "Mist",
+      "class": "Cleric",
+      "appears": "Prologue",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/d/d7/Small_portrait_mist_fe09.png"
+    },
+    {
+      "name": "Rolf",
+      "class": "Archer",
+      "appears": "Chapter 2",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/8/85/Small_portrait_rolf_fe09.png"
+    },
+    {
+      "name": "Marcia",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 3",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/0/0e/Small_portrait_marcia_fe09.png"
+    },
+    {
+      "name": "Lethe",
+      "class": "Cat",
+      "appears": "Chapter 9",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/e/ed/Small_portrait_lethe_fe09.png"
+    },
+    {
+      "name": "Mordecai",
+      "class": "Tiger",
+      "appears": "Chapter 9",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/9/97/Small_portrait_mordecai_fe09.png"
+    },
+    {
+      "name": "Volke",
+      "class": "Thief",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/8/89/Small_portrait_volke_thief_fe09.png"
+    },
+    {
+      "name": "Kieran",
+      "class": "Axe Knight",
+      "appears": "Chapter 10",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/2/20/Small_portrait_kieran_fe09.png"
+    },
+    {
+      "name": "Nephenee",
+      "class": "Soldier",
+      "appears": "Chapter 10",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/f/fc/Small_portrait_nephenee_fe09.png"
+    },
+    {
+      "name": "Brom",
+      "class": "Knight",
+      "appears": "Chapter 10",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/1/12/Small_portrait_brom_fe09.png"
+    },
+    {
+      "name": "Zihark",
+      "class": "Myrmidon",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/8/81/Small_portrait_zihark_fe09.png"
+    },
+    {
+      "name": "Sothe",
+      "class": "Thief",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/0/0f/Small_portrait_sothe_fe09.png"
+    },
+    {
+      "name": "Jill",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 11",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/7/76/Small_portrait_jill_fe09.png"
+    },
+    {
+      "name": "Astrid",
+      "class": "Bow Knight",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/2/21/Small_portrait_astrid_fe09.png"
+    },
+    {
+      "name": "Makalov",
+      "class": "Sword Knight",
+      "appears": "Chapter 14",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/3/36/Small_portrait_makalov_fe09.png"
+    },
+    {
+      "name": "Tormod",
+      "class": "Mage",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/7/7b/Small_portrait_tormod_fe09.png"
+    },
+    {
+      "name": "Muarim",
+      "class": "Tiger",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/0/05/Small_portrait_muarim_fe09.png"
+    },
+    {
+      "name": "Stefan",
+      "class": "Swordmaster",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/4/44/Small_portrait_stefan_fe09.png"
+    },
+    {
+      "name": "Devdan",
+      "class": "Halberdier",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/4/46/Small_portrait_devdan_fe09.png"
+    },
+    {
+      "name": "Tanith",
+      "class": "Falcon Knight",
+      "appears": "Chapter 13",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/1/15/Small_portrait_tanith_fe09.png"
+    },
+    {
+      "name": "Reyson",
+      "class": "Heron",
+      "appears": "Chapter 14",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/d/da/Small_portrait_reyson_fe09.png"
+    },
+    {
+      "name": "Janaff",
+      "class": "Hawk",
+      "appears": "Chapter 13",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/0/0b/Small_portrait_janaff_fe09.png"
+    },
+    {
+      "name": "Ulki",
+      "class": "Hawk",
+      "appears": "Chapter 13",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/5/5d/Small_portrait_ulki_fe09.png"
+    },
+    {
+      "name": "Calill",
+      "class": "Sage",
+      "appears": "Chapter 14",
+      "joins": "Chapter 20",
+      "img": "https://cdn.fireemblemwiki.org/3/3d/Small_portrait_calill_fe09.png"
+    },
+    {
+      "name": "Tauroneo",
+      "class": "General",
+      "appears": "Chapter 21",
+      "joins": "Chapter 21",
+      "img": "https://cdn.fireemblemwiki.org/3/36/Small_portrait_tauroneo_fe09.png"
+    },
+    {
+      "name": "Ranulf",
+      "class": "Cat",
+      "appears": "Chapter 7",
+      "joins": "Chapter 23",
+      "img": "https://cdn.fireemblemwiki.org/c/cf/Small_portrait_ranulf_fe09.png"
+    },
+    {
+      "name": "Haar",
+      "class": "Wyvern Lord",
+      "appears": "Chapter 11",
+      "joins": "Chapter 23",
+      "img": "https://cdn.fireemblemwiki.org/d/d1/Small_portrait_haar_fe09.png"
+    },
+    {
+      "name": "Bastian",
+      "class": "Sage",
+      "appears": "Chapter 23",
+      "joins": "Chapter 24",
+      "img": "https://cdn.fireemblemwiki.org/9/9f/Small_portrait_bastian_fe09.png"
+    },
+    {
+      "name": "Lucia",
+      "class": "Swordmaster",
+      "appears": "Chapter 23",
+      "joins": "Chapter 24",
+      "img": "https://cdn.fireemblemwiki.org/7/7b/Small_portrait_lucia_fe09.png"
+    },
+    {
+      "name": "Geoffrey",
+      "class": "Paladin",
+      "appears": "Chapter 24",
+      "joins": "Chapter 25",
+      "img": "https://cdn.fireemblemwiki.org/1/12/Small_portrait_geoffrey_fe09.png"
+    },
+    {
+      "name": "Largo",
+      "class": "Berserker",
+      "appears": "Chapter 25",
+      "joins": "Chapter 25",
+      "img": "https://cdn.fireemblemwiki.org/8/84/Small_portrait_largo_fe09.png"
+    },
+    {
+      "name": "Elincia",
+      "class": "Princess Crimea",
+      "appears": "Chapter 5",
+      "joins": "Chapter 26",
+      "img": "https://cdn.fireemblemwiki.org/b/b7/Small_portrait_elincia_fe09.png"
+    },
+    {
+      "name": "Nasir",
+      "class": "White Dragon",
+      "appears": "Chapter 3",
+      "joins": "Chapter 28",
+      "img": "https://cdn.fireemblemwiki.org/c/c3/Small_portrait_nasir_fe09.png"
+    },
+    {
+      "name": "Ena",
+      "class": "Red Dragon",
+      "appears": "Chapter 5",
+      "joins": "Chapter 28",
+      "img": "https://cdn.fireemblemwiki.org/c/c4/Small_portrait_ena_fe09.png"
+    },
+    {
+      "name": "Tibarn",
+      "class": "Hawk",
+      "appears": "Chapter 13",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/8/8c/Small_portrait_tibarn_fe09.png"
+    },
+    {
+      "name": "Naesala",
+      "class": "Raven",
+      "appears": "Chapter 13",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/8/8b/Small_portrait_naesala_fe09.png"
+    },
+    {
+      "name": "Giffca",
+      "class": "Lion",
+      "appears": "Endgame",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/a/ac/Small_portrait_giffca_fe09.png"
+    }
+  ],
+  "FE10": [
+    {
+      "name": "Micaiah",
+      "class": "Light Mage",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/8/81/Small_portrait_micaiah_light_mage_fe10.png"
+    },
+    {
+      "name": "Edward",
+      "class": "Myrmidon",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/1/1f/Small_portrait_edward_fe10.png"
+    },
+    {
+      "name": "Leonardo",
+      "class": "Archer",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/5/51/Small_portrait_leonardo_fe10.png"
+    },
+    {
+      "name": "Nolan",
+      "class": "Fighter",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/b/b4/Small_portrait_nolan_fe10.png"
+    },
+    {
+      "name": "Laura",
+      "class": "Priest",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/6/66/Small_portrait_laura_fe10.png"
+    },
+    {
+      "name": "Sothe",
+      "class": "Rogue",
+      "appears": "Chapter 1",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/b/b6/Small_portrait_sothe_rogue_fe10.png"
+    },
+    {
+      "name": "Ilyana",
+      "class": "Thunder Mage",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/b/b6/Small_portrait_ilyana_fe10.png"
+    },
+    {
+      "name": "Aran",
+      "class": "Soldier",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/7/77/Small_portrait_aran_fe10.png"
+    },
+    {
+      "name": "Meg",
+      "class": "Armor Sword",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/f/f7/Small_portrait_meg_fe10.png"
+    },
+    {
+      "name": "Volug",
+      "class": "Wolf",
+      "appears": "Chapter 4",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/1/1e/Small_portrait_volug_fe10.png"
+    },
+    {
+      "name": "Tauroneo",
+      "class": "Lance General",
+      "appears": "Chapter 5",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/b/bc/Small_portrait_tauroneo_fe10.png"
+    },
+    {
+      "name": "Jill",
+      "class": "Dracoknight",
+      "appears": "Chapter 5",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/6/67/Small_portrait_jill_fe10.png"
+    },
+    {
+      "name": "Zihark",
+      "class": "Swordmaster",
+      "appears": "Chapter 5",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/f/f2/Small_portrait_zihark_fe10.png"
+    },
+    {
+      "name": "Fiona",
+      "class": "Lance Knight",
+      "appears": "Chapter 6",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/7/78/Small_portrait_fiona_fe10.png"
+    },
+    {
+      "name": "Tormod",
+      "class": "Fire Sage",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/f/ff/Small_portrait_tormod_fe10.png"
+    },
+    {
+      "name": "Muarim",
+      "class": "Tiger",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/b/bb/Small_portrait_muarim_fe10.png"
+    },
+    {
+      "name": "Vika",
+      "class": "Raven",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/b/b8/Small_portrait_vika_fe10.png"
+    },
+    {
+      "name": "Rafiel",
+      "class": "Heron",
+      "appears": "Chapter 4",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/d/de/Small_portrait_rafiel_fe10.png"
+    },
+    {
+      "name": "Nailah",
+      "class": "Wolf Queen",
+      "appears": "Chapter 4",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/7/75/Small_portrait_nailah_fe10.png"
+    },
+    {
+      "name": "Black Knight",
+      "class": "Black Knight",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/5/5d/Small_portrait_black_knight_fe10.png"
+    },
+    {
+      "name": "Elincia",
+      "class": "Queen",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/3/37/Small_portrait_elincia_01_fe10.png"
+    },
+    {
+      "name": "Marcia",
+      "class": "Falconknight",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/e/e9/Small_portrait_marcia_fe10.png"
+    },
+    {
+      "name": "Nealuchi",
+      "class": "Raven",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/3/38/Small_portrait_nealuchi_fe10.png"
+    },
+    {
+      "name": "Leanne",
+      "class": "Heron",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/f/f6/Small_portrait_leanne_fe10.png"
+    },
+    {
+      "name": "Haar",
+      "class": "Dragonmaster",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/3/33/Small_portrait_haar_fe10.png"
+    },
+    {
+      "name": "Brom",
+      "class": "Axe General",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/b/b3/Small_portrait_brom_fe10.png"
+    },
+    {
+      "name": "Nephenee",
+      "class": "Halberdier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/c/cc/Small_portrait_nephenee_fe10.png"
+    },
+    {
+      "name": "Heather",
+      "class": "Rogue",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/f3/Small_portrait_heather_fe10.png"
+    },
+    {
+      "name": "Lucia",
+      "class": "Swordmaster",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/0/0d/Small_portrait_lucia_01_fe10.png"
+    },
+    {
+      "name": "Lethe",
+      "class": "Cat",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/a/ab/Small_portrait_lethe_fe10.png"
+    },
+    {
+      "name": "Mordecai",
+      "class": "Tiger",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/3/3c/Small_portrait_mordecai_fe10.png"
+    },
+    {
+      "name": "Geoffrey",
+      "class": "Lance Paladin",
+      "appears": "Chapter 2",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/8/8c/Small_portrait_geoffrey_fe10.png"
+    },
+    {
+      "name": "Kieran",
+      "class": "Axe Paladin",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/1/14/Small_portrait_kieran_fe10.png"
+    },
+    {
+      "name": "Astrid",
+      "class": "Bow Paladin",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/6/64/Small_portrait_astrid_fe10.png"
+    },
+    {
+      "name": "Makalov",
+      "class": "Sword Paladin",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/e/ed/Small_portrait_makalov_fe10.png"
+    },
+    {
+      "name": "Danved",
+      "class": "Halberdier",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/c/c2/Small_portrait_danved_fe10.png"
+    },
+    {
+      "name": "Calill",
+      "class": "Fire Sage",
+      "appears": "Chapter 3",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/9/9e/Small_portrait_calill_fe10.png"
+    },
+    {
+      "name": "Ike",
+      "class": "Hero",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/3/3c/Small_portrait_ike_hero_fe10.png"
+    },
+    {
+      "name": "Titania",
+      "class": "Axe Paladin",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/7/7d/Small_portrait_titania_fe10.png"
+    },
+    {
+      "name": "Soren",
+      "class": "Wind Sage",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/6/6c/Small_portrait_soren_fe10.png"
+    },
+    {
+      "name": "Mist",
+      "class": "Cleric",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/7/7e/Small_portrait_mist_fe10.png"
+    },
+    {
+      "name": "Rolf",
+      "class": "Sniper",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/4/48/Small_portrait_rolf_fe10.png"
+    },
+    {
+      "name": "Boyd",
+      "class": "Warrior",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/8/8f/Small_portrait_boyd_fe10.png"
+    },
+    {
+      "name": "Oscar",
+      "class": "Lance Paladin",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/9/9d/Small_portrait_oscar_fe10.png"
+    },
+    {
+      "name": "Shinon",
+      "class": "Sniper",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/0/05/Small_portrait_shinon_fe10.png"
+    },
+    {
+      "name": "Gatrie",
+      "class": "Lance General",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/8/80/Small_portrait_gatrie_fe10.png"
+    },
+    {
+      "name": "Rhys",
+      "class": "Bishop",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/4/4f/Small_portrait_rhys_fe10.png"
+    },
+    {
+      "name": "Mia",
+      "class": "Swordmaster",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/8/84/Small_portrait_mia_fe10.png"
+    },
+    {
+      "name": "Ranulf",
+      "class": "Cat",
+      "appears": "Prologue",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/f/f4/Small_portrait_ranulf_fe10.png"
+    },
+    {
+      "name": "Kyza",
+      "class": "Tiger",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/8/8b/Small_portrait_kyza_fe10.png"
+    },
+    {
+      "name": "Lyre",
+      "class": "Cat",
+      "appears": "Chapter 1",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/2/2b/Small_portrait_lyre_fe10.png"
+    },
+    {
+      "name": "Reyson",
+      "class": "Heron",
+      "appears": "Chapter 3",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/3/3b/Small_portrait_reyson_fe10.png"
+    },
+    {
+      "name": "Janaff",
+      "class": "Hawk",
+      "appears": "Chapter 3",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/4/49/Small_portrait_janaff_fe10.png"
+    },
+    {
+      "name": "Ulki",
+      "class": "Hawk",
+      "appears": "Chapter 3",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/0/0e/Small_portrait_ulki_fe10.png"
+    },
+    {
+      "name": "Sigrun",
+      "class": "Falconknight",
+      "appears": "Chapter 5",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/e/e9/Small_portrait_sigrun_fe10.png"
+    },
+    {
+      "name": "Tanith",
+      "class": "Falconknight",
+      "appears": "Chapter 10",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/6/6f/Small_portrait_tanith_fe10.png"
+    },
+    {
+      "name": "Skrimir",
+      "class": "Lion",
+      "appears": "Part III\\",
+      "joins": " Prologue",
+      "img": "Small_portrait_skrimir_fe10.png"
+    },
+    {
+      "name": "Sanaki",
+      "class": "Empress",
+      "appears": "Part III\\",
+      "joins": " Chapter 10",
+      "img": "Small_portrait_sanaki_fe10.png"
+    },
+    {
+      "name": "Naesala",
+      "class": "Raven King",
+      "appears": "Part III\\",
+      "joins": " Chapter 1",
+      "img": "Small_portrait_naesala_fe10.png"
+    },
+    {
+      "name": "Tibarn",
+      "class": "Hawk King",
+      "appears": "Part III\\",
+      "joins": " Chapter 2",
+      "img": "Small_portrait_tibarn_fe10.png"
+    },
+    {
+      "name": "Pelleas",
+      "class": "Dark Sage",
+      "appears": "Part I\\",
+      "joins": " Chapter 5",
+      "img": "Small_portrait_pelleas_fe10.png"
+    },
+    {
+      "name": "Stefan",
+      "class": "Trueblade",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/2/23/Small_portrait_stefan_fe10.png"
+    },
+    {
+      "name": "Oliver",
+      "class": "Saint",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/1/1c/Small_portrait_oliver_fe10.png"
+    },
+    {
+      "name": "Bastian",
+      "class": "Arch Sage",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/2/24/Small_portrait_bastian_fe10.png"
+    },
+    {
+      "name": "Volke",
+      "class": "Assassin",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/2/25/Small_portrait_volke_fe10.png"
+    },
+    {
+      "name": "Caineghis",
+      "class": "Lion King",
+      "appears": "Part III\\",
+      "joins": " Chapter 10",
+      "img": "Small_portrait_caineghis_fe10.png"
+    },
+    {
+      "name": "Giffca",
+      "class": "Lion",
+      "appears": "Part III\\",
+      "joins": " Chapter 10",
+      "img": "Small_portrait_giffca_fe10.png"
+    },
+    {
+      "name": "Kurthnaga",
+      "class": "Dragon Prince",
+      "appears": "Part I\\",
+      "joins": " Chapter 3",
+      "img": "Small_portrait_kurthnaga_fe10.png"
+    },
+    {
+      "name": "Ena",
+      "class": "Red Dragon",
+      "appears": "Part III\\",
+      "joins": " Chapter 8",
+      "img": "Small_portrait_ena_fe10.png"
+    },
+    {
+      "name": "Renning",
+      "class": "Gold Knight",
+      "appears": "Chapter 5",
+      "joins": "Endgame (1)",
+      "img": "https://cdn.fireemblemwiki.org/7/79/Small_portrait_renning_fe10.png"
+    },
+    {
+      "name": "Gareth",
+      "class": "Red Dragon",
+      "appears": "Endgame (part 3)",
+      "joins": "Endgame (4)",
+      "img": "https://cdn.fireemblemwiki.org/3/32/Small_portrait_gareth_fe10.png"
+    },
+    {
+      "name": "Nasir",
+      "class": "White Dragon",
+      "appears": "Part III\\",
+      "joins": " Chapter 8",
+      "img": "Small_portrait_nasir_fe10.png"
+    },
+    {
+      "name": "Sephiran",
+      "class": "Chancellor",
+      "appears": "Part I\\",
+      "joins": " Chapter 8",
+      "img": "Small_portrait_sephiran_fe10.png"
+    }
+  ],
+  "FE11": [
+    {
+      "name": "Marth",
+      "class": "Lord",
+      "appears": "Prologue I or Chapter 1*",
+      "joins": "Prologue I or Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7b/Small_portrait_marth_fe11.png/64px-Small_portrait_marth_fe11.png"
+    },
+    {
+      "name": "Abel",
+      "class": "Cavalier",
+      "appears": "Prologue II or Chapter 1*",
+      "joins": "Prologue II or Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/eb/Small_portrait_abel_fe11.png/64px-Small_portrait_abel_fe11.png"
+    },
+    {
+      "name": "Frey",
+      "class": "Cavalier",
+      "appears": "Prologue II*",
+      "joins": "Prologue II*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0c/Small_portrait_frey_fe11.png/64px-Small_portrait_frey_fe11.png"
+    },
+    {
+      "name": "Jagen",
+      "class": "Paladin",
+      "appears": "Prologue II or Chapter 1*",
+      "joins": "Prologue II or Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/07/Small_portrait_jagen_fe11.png/64px-Small_portrait_jagen_fe11.png"
+    },
+    {
+      "name": "Cain",
+      "class": "Cavalier",
+      "appears": "Prologue II or Chapter 1*",
+      "joins": "Prologue II or Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e0/Small_portrait_cain_fe11.png/64px-Small_portrait_cain_fe11.png"
+    },
+    {
+      "name": "Gordin",
+      "class": "Archer",
+      "appears": "Prologue IV or Chapter 1*",
+      "joins": "Prologue IV or Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/50/Small_portrait_gordin_fe11.png/64px-Small_portrait_gordin_fe11.png"
+    },
+    {
+      "name": "Draug",
+      "class": "Knight",
+      "appears": "Prologue IV or Chapter 1*",
+      "joins": "Prologue IV or Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/15/Small_portrait_draug_fe11.png/64px-Small_portrait_draug_fe11.png"
+    },
+    {
+      "name": "Norne",
+      "class": "Archer",
+      "appears": "Prologue IV*",
+      "joins": "Prologue IV*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/ca/Small_portrait_norne_fe11.png/64px-Small_portrait_norne_fe11.png"
+    },
+    {
+      "name": "Caeda",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a0/Small_portrait_caeda_fe11.png/64px-Small_portrait_caeda_fe11.png"
+    },
+    {
+      "name": "Wrys",
+      "class": "Curate",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f7/Small_portrait_wrys_fe11.png/64px-Small_portrait_wrys_fe11.png"
+    },
+    {
+      "name": "Ogma",
+      "class": "Mercenary",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e2/Small_portrait_ogma_fe11.png/64px-Small_portrait_ogma_fe11.png"
+    },
+    {
+      "name": "Barst",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/29/Small_portrait_barst_fe11.png/64px-Small_portrait_barst_fe11.png"
+    },
+    {
+      "name": "Bord",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1d/Small_portrait_bord_fe11.png/64px-Small_portrait_bord_fe11.png"
+    },
+    {
+      "name": "Cord",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/aa/Small_portrait_cord_fe11.png/64px-Small_portrait_cord_fe11.png"
+    },
+    {
+      "name": "Darros",
+      "class": "Pirate",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/70/Small_portrait_darros_fe11.png/64px-Small_portrait_darros_fe11.png"
+    },
+    {
+      "name": "Castor",
+      "class": "Hunter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/79/Small_portrait_castor_fe11.png/64px-Small_portrait_castor_fe11.png"
+    },
+    {
+      "name": "Julian",
+      "class": "Thief",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/55/Small_portrait_julian_fe11.png/64px-Small_portrait_julian_fe11.png"
+    },
+    {
+      "name": "Lena",
+      "class": "Cleric",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/07/Small_portrait_lena_fe11.png/64px-Small_portrait_lena_fe11.png"
+    },
+    {
+      "name": "Navarre",
+      "class": "Myrmidon",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f8/Small_portrait_navarre_fe11.png/64px-Small_portrait_navarre_fe11.png"
+    },
+    {
+      "name": "Merric",
+      "class": "Mage",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/44/Small_portrait_merric_fe11.png/64px-Small_portrait_merric_fe11.png"
+    },
+    {
+      "name": "Matthis",
+      "class": "Cavalier",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c5/Small_portrait_matthis_fe11.png/64px-Small_portrait_matthis_fe11.png"
+    },
+    {
+      "name": "Wolf",
+      "class": "Horseman",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/bf/Small_portrait_wolf_fe11.png/64px-Small_portrait_wolf_fe11.png"
+    },
+    {
+      "name": "Sedgar",
+      "class": "Horseman",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d1/Small_portrait_sedgar_fe11.png/64px-Small_portrait_sedgar_fe11.png"
+    },
+    {
+      "name": "Roshea",
+      "class": "Cavalier",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8e/Small_portrait_roshea_fe11.png/64px-Small_portrait_roshea_fe11.png"
+    },
+    {
+      "name": "Vyland",
+      "class": "Cavalier",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b0/Small_portrait_vyland_fe11.png/64px-Small_portrait_vyland_fe11.png"
+    },
+    {
+      "name": "Hardin",
+      "class": "Cavalier",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/aa/Small_portrait_hardin_fe11.png/64px-Small_portrait_hardin_fe11.png"
+    },
+    {
+      "name": "Wendell",
+      "class": "Sage",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e8/Small_portrait_wendell_fe11.png/64px-Small_portrait_wendell_fe11.png"
+    },
+    {
+      "name": "Rickard",
+      "class": "Thief",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/62/Small_portrait_rickard_fe11.png/64px-Small_portrait_rickard_fe11.png"
+    },
+    {
+      "name": "Athena",
+      "class": "Myrmidon",
+      "appears": "Chapter 6x",
+      "joins": "Chapter 6x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e6/Small_portrait_athena_fe11.png/64px-Small_portrait_athena_fe11.png"
+    },
+    {
+      "name": "Bantu",
+      "class": "Manakete",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/36/Small_portrait_bantu_fe11.png/64px-Small_portrait_bantu_fe11.png"
+    },
+    {
+      "name": "Caesar",
+      "class": "Mercenary",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/cf/Small_portrait_caesar_fe11.png/64px-Small_portrait_caesar_fe11.png"
+    },
+    {
+      "name": "Radd",
+      "class": "Myrmidon",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/88/Small_portrait_radd_fe11.png/64px-Small_portrait_radd_fe11.png"
+    },
+    {
+      "name": "Roger",
+      "class": "Knight",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0e/Small_portrait_roger_fe11.png/64px-Small_portrait_roger_fe11.png"
+    },
+    {
+      "name": "Jeorge",
+      "class": "Sniper",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/85/Small_portrait_jeorge_fe11.png/64px-Small_portrait_jeorge_fe11.png"
+    },
+    {
+      "name": "Maria",
+      "class": "Cleric",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/bb/Small_portrait_maria_fe11.png/64px-Small_portrait_maria_fe11.png"
+    },
+    {
+      "name": "Minerva",
+      "class": "Dracoknight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a3/Small_portrait_minerva_fe11.png/64px-Small_portrait_minerva_fe11.png"
+    },
+    {
+      "name": "Linde",
+      "class": "Mage",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/83/Small_portrait_linde_fe11.png/64px-Small_portrait_linde_fe11.png"
+    },
+    {
+      "name": "Jake",
+      "class": "Ballistician",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0b/Small_portrait_jake_fe11.png/64px-Small_portrait_jake_fe11.png"
+    },
+    {
+      "name": "Dolph",
+      "class": "Knight",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fe/Small_portrait_dolph_fe11.png/64px-Small_portrait_dolph_fe11.png"
+    },
+    {
+      "name": "Macellan",
+      "class": "Knight",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/77/Small_portrait_macellan_fe11.png/64px-Small_portrait_macellan_fe11.png"
+    },
+    {
+      "name": "Tomas",
+      "class": "Archer",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/08/Small_portrait_tomas_fe11.png/64px-Small_portrait_tomas_fe11.png"
+    },
+    {
+      "name": "Boah",
+      "class": "Bishop",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9b/Small_portrait_boah_fe11.png/64px-Small_portrait_boah_fe11.png"
+    },
+    {
+      "name": "Midia",
+      "class": "Paladin",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/13/Small_portrait_midia_fe11.png/64px-Small_portrait_midia_fe11.png"
+    },
+    {
+      "name": "Horace",
+      "class": "General",
+      "appears": "Chapter 12x",
+      "joins": "Chapter 12x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4e/Small_portrait_horace_fe11.png/64px-Small_portrait_horace_fe11.png"
+    },
+    {
+      "name": "Beck",
+      "class": "Ballistician",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a2/Small_portrait_beck_fe11.png/64px-Small_portrait_beck_fe11.png"
+    },
+    {
+      "name": "Astram",
+      "class": "Hero",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/5f/Small_portrait_astram_fe11.png/64px-Small_portrait_astram_fe11.png"
+    },
+    {
+      "name": "Catria",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fb/Small_portrait_catria_fe11.png/64px-Small_portrait_catria_fe11.png"
+    },
+    {
+      "name": "Palla",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/ea/Small_portrait_palla_fe11.png/64px-Small_portrait_palla_fe11.png"
+    },
+    {
+      "name": "Arran",
+      "class": "Paladin",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c8/Small_portrait_arran_fe11.png/64px-Small_portrait_arran_fe11.png"
+    },
+    {
+      "name": "Samson",
+      "class": "Hero",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e1/Small_portrait_samson_fe11.png/64px-Small_portrait_samson_fe11.png"
+    },
+    {
+      "name": "Xane",
+      "class": "Freelancer",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/30/Small_portrait_xane_fe11.png/64px-Small_portrait_xane_fe11.png"
+    },
+    {
+      "name": "Etzel",
+      "class": "Sorcerer",
+      "appears": "Chapter 17x",
+      "joins": "Chapter 17x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/13/Small_portrait_etzel_fe11.png/64px-Small_portrait_etzel_fe11.png"
+    },
+    {
+      "name": "Est",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 18",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f9/Small_portrait_est_fe11.png/64px-Small_portrait_est_fe11.png"
+    },
+    {
+      "name": "Tiki",
+      "class": "Manakete",
+      "appears": "Chapter 19",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2f/Small_portrait_tiki_fe11.png/64px-Small_portrait_tiki_fe11.png"
+    },
+    {
+      "name": "Lorenz",
+      "class": "General",
+      "appears": "Chapter 20",
+      "joins": "Chapter 20",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/df/Small_portrait_lorenz_fe11.png/64px-Small_portrait_lorenz_fe11.png"
+    },
+    {
+      "name": "Ymir",
+      "class": "Warrior",
+      "appears": "Chapter 20x",
+      "joins": "Chapter 20x",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/ca/Small_portrait_ymir_fe11.png/64px-Small_portrait_ymir_fe11.png"
+    },
+    {
+      "name": "Elice",
+      "class": "Cleric",
+      "appears": "Prologue I or Chapter 24*",
+      "joins": "Chapter 24",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c2/Small_portrait_elice_fe11.png/64px-Small_portrait_elice_fe11.png"
+    },
+    {
+      "name": "Gotoh",
+      "class": "Bishop",
+      "appears": "Chapter 15",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/bc/Small_portrait_gotoh_fe11.png/64px-Small_portrait_gotoh_fe11.png"
+    },
+    {
+      "name": "Nagi",
+      "class": "Manakete",
+      "appears": "Chapter 24x",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b6/Small_portrait_nagi_fe11.png/64px-Small_portrait_nagi_fe11.png"
+    }
+  ],
+  "FE12": [
+    {
+      "name": "Marth",
+      "class": "Lord",
+      "appears": "Prologue 1",
+      "joins": "Prologue 8/Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/fb/Small_portrait_marth_fe12.png"
+    },
+    {
+      "name": "Kris",
+      "class": "At player's discretion",
+      "appears": "Prologue 1",
+      "joins": "Prologue 1",
+      "img": "https://cdn.fireemblemwiki.org/a/a8/Small_portrait_kris_f_fe12.png"
+    },
+    {
+      "name": "Luke",
+      "class": "Cavalier",
+      "appears": "Prologue 1",
+      "joins": "Prologue 3/Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/c/c6/Small_portrait_luke_fe12.png"
+    },
+    {
+      "name": "Roderick",
+      "class": "Cavalier",
+      "appears": "Prologue 1",
+      "joins": "Prologue 3/Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/5/54/Small_portrait_roderick_fe12.png"
+    },
+    {
+      "name": "Cecil",
+      "class": "Cavalier",
+      "appears": "Prologue 6",
+      "joins": "Prologue 6/Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/3/37/Small_portrait_cecil_fe12.png"
+    },
+    {
+      "name": "Arran",
+      "class": "Paladin",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/0/0b/Small_portrait_arran_fe12.png"
+    },
+    {
+      "name": "Gordin",
+      "class": "Archer",
+      "appears": "Prologue 4*/Chapter 1",
+      "joins": "Prologue 4*/Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/4/4e/Small_portrait_gordin_fe12.png"
+    },
+    {
+      "name": "Ryan",
+      "class": "Archer",
+      "appears": "Prologue 1",
+      "joins": "Prologue 2/Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/4/46/Small_portrait_ryan_fe12.png"
+    },
+    {
+      "name": "Draug",
+      "class": "Knight",
+      "appears": "Prologue 6*/Chapter 1",
+      "joins": "Prologue 6*/Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/0/0a/Small_portrait_draug_fe12.png"
+    },
+    {
+      "name": "Marisha",
+      "class": "Cleric",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/f/f3/Small_portrait_marisha_fe12.png"
+    },
+    {
+      "name": "Catria",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/b/b7/Small_portrait_catria_fe12.png"
+    },
+    {
+      "name": "Warren",
+      "class": "Hunter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/8/8f/Small_portrait_warren_fe12.png"
+    },
+    {
+      "name": "Cord",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/6/6a/Small_portrait_cord_fe12.png"
+    },
+    {
+      "name": "Linde",
+      "class": "Mage",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/c/c4/Small_portrait_linde_fe12.png"
+    },
+    {
+      "name": "Palla",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/a/a2/Small_portrait_palla_fe12.png"
+    },
+    {
+      "name": "Bord",
+      "class": "Fighter",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/f/fe/Small_portrait_bord_fe12.png"
+    },
+    {
+      "name": "Julian",
+      "class": "Thief",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/1/17/Small_portrait_julian_fe12.png"
+    },
+    {
+      "name": "Matthis",
+      "class": "Cavalier",
+      "appears": "Chapter 3",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/4/42/Small_portrait_matthis_fe12.png"
+    },
+    {
+      "name": "Wrys",
+      "class": "Curate",
+      "appears": "Prologue 4/Chapter 3x",
+      "joins": "Prologue 4/Chapter 3x",
+      "img": "https://cdn.fireemblemwiki.org/6/6a/Small_portrait_wrys_fe12.png"
+    },
+    {
+      "name": "Ogma",
+      "class": "Mercenary",
+      "appears": "Prologue 6*/Chapter 4",
+      "joins": "Prologue 6*/Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/9/9e/Small_portrait_ogma_fe12.png"
+    },
+    {
+      "name": "Yuliya",
+      "class": "Cleric",
+      "appears": "Chapter 1",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/3/3c/Small_portrait_yuliya_fe12.png"
+    },
+    {
+      "name": "Jubelo",
+      "class": "Mage",
+      "appears": "Chapter 1",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/5/55/Small_portrait_jubelo_fe12.png"
+    },
+    {
+      "name": "Sirius",
+      "class": "Paladin",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/e/e4/Small_portrait_sirius_fe12.png"
+    },
+    {
+      "name": "Castor",
+      "class": "Hunter",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/7/7d/Small_portrait_castor_fe12.png"
+    },
+    {
+      "name": "Caeda",
+      "class": "Pegasus Knight",
+      "appears": "Prologue 3",
+      "joins": "Prologue 4/Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/a/a4/Small_portrait_caeda_fe12.png"
+    },
+    {
+      "name": "Barst",
+      "class": "Fighter",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/2/21/Small_portrait_barst_fe12.png"
+    },
+    {
+      "name": "Rickard",
+      "class": "Thief",
+      "appears": "Chapter 5",
+      "joins": "Chapter 5/Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/0/0b/Small_portrait_rickard_fe12.png"
+    },
+    {
+      "name": "Frey",
+      "class": "Cavalier",
+      "appears": "Prologue 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/e/e9/Small_portrait_frey_fe12.png"
+    },
+    {
+      "name": "Norne",
+      "class": "Archer",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/b/bc/Small_portrait_norne_fe12.png"
+    },
+    {
+      "name": "Samuel",
+      "class": "Myrmidon",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/1/19/Small_portrait_samuel_fe12.png"
+    },
+    {
+      "name": "Wendell",
+      "class": "Sage",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/a/af/Small_portrait_wendell_fe12.png"
+    },
+    {
+      "name": "Caesar",
+      "class": "Mercenary",
+      "appears": "Chapter 6x",
+      "joins": "Chapter 6x",
+      "img": "https://cdn.fireemblemwiki.org/9/92/Small_portrait_caesar_fe12.png"
+    },
+    {
+      "name": "Radd",
+      "class": "Myrmidon",
+      "appears": "Chapter 6x",
+      "joins": "Chapter 6x",
+      "img": "https://cdn.fireemblemwiki.org/e/ed/Small_portrait_radd_fe12.png"
+    },
+    {
+      "name": "Navarre",
+      "class": "Myrmidon",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/a/ac/Small_portrait_navarre_fe12.png"
+    },
+    {
+      "name": "Phina",
+      "class": "Dancer",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/e/e6/Small_portrait_phina_fe12.png"
+    },
+    {
+      "name": "Cain",
+      "class": "Cavalier",
+      "appears": "Prologue 2",
+      "joins": "Prologue 7*/Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/d/da/Small_portrait_cain_fe12.png"
+    },
+    {
+      "name": "Bantu",
+      "class": "Manakete",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/e/e5/Small_portrait_bantu_fe12.png"
+    },
+    {
+      "name": "Roger",
+      "class": "Knight",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/0/06/Small_portrait_roger_fe12.png"
+    },
+    {
+      "name": "Jeorge",
+      "class": "Sniper",
+      "appears": "Prologue 4*/Chapter 5",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/5/5f/Small_portrait_jeorge_fe12.png"
+    },
+    {
+      "name": "Minerva",
+      "class": "Dracoknight",
+      "appears": "Chapter 3",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/a/a8/Small_portrait_minerva_fe12.png"
+    },
+    {
+      "name": "Etzel",
+      "class": "Sorcerer",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/c/c7/Small_portrait_etzel_fe12.png"
+    },
+    {
+      "name": "Merric",
+      "class": "Mage",
+      "appears": "Prologue 5",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/5/51/Small_portrait_merric_fe12.png"
+    },
+    {
+      "name": "Arlen",
+      "class": "Mage",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/b/b9/Small_portrait_arlen_fe12.png"
+    },
+    {
+      "name": "Dice",
+      "class": "Fighter",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/3/32/Small_portrait_dice_fe12.png"
+    },
+    {
+      "name": "Malice",
+      "class": "Myrmidon",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/e/ea/Small_portrait_malice_fe12.png"
+    },
+    {
+      "name": "Horace",
+      "class": "General",
+      "appears": "Chapter 10x",
+      "joins": "Chapter 10x",
+      "img": "https://cdn.fireemblemwiki.org/a/ad/Small_portrait_horace_fe12.png"
+    },
+    {
+      "name": "Jake",
+      "class": "Warrior",
+      "appears": "Chapter 11",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/8/86/Small_portrait_jake_fe12.png"
+    },
+    {
+      "name": "Darros",
+      "class": "Berserker",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/4/4f/Small_portrait_darros_fe12.png"
+    },
+    {
+      "name": "Roberto",
+      "class": "Horseman",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/5/55/Small_portrait_roberto_fe12.png"
+    },
+    {
+      "name": "Belf",
+      "class": "Cavalier",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/8/8c/Small_portrait_belf_fe12.png"
+    },
+    {
+      "name": "Reiden",
+      "class": "Cavalier",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/f/f6/Small_portrait_reiden_fe12.png"
+    },
+    {
+      "name": "Beck",
+      "class": "Horseman",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/4/4e/Small_portrait_beck_fe12.png"
+    },
+    {
+      "name": "Athena",
+      "class": "Myrmidon",
+      "appears": "Prologue 4*/Chapter 13x",
+      "joins": "Prologue 4*/Chapter 13x",
+      "img": "https://cdn.fireemblemwiki.org/e/e8/Small_portrait_athena_fe12.png"
+    },
+    {
+      "name": "Xane",
+      "class": "Freelancer",
+      "appears": "Chapter 11",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/5/5e/Small_portrait_xane_fe12.png"
+    },
+    {
+      "name": "Tiki",
+      "class": "Manakete",
+      "appears": "Chapter 14",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/8/8d/Small_portrait_tiki_fe12.png"
+    },
+    {
+      "name": "Est",
+      "class": "Pegasus Knight",
+      "appears": "Prologue 7*/Chapter 15",
+      "joins": "Prologue 7*/Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/5/59/Small_portrait_est_fe12.png"
+    },
+    {
+      "name": "Dolph",
+      "class": "General",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/7/7f/Small_portrait_dolph_fe12.png"
+    },
+    {
+      "name": "Abel",
+      "class": "Paladin",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/e/e2/Small_portrait_abel_fe12.png"
+    },
+    {
+      "name": "Macellan",
+      "class": "General",
+      "appears": "Chapter 16",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/9/93/Small_portrait_macellan_fe12.png"
+    },
+    {
+      "name": "Astram",
+      "class": "Hero",
+      "appears": "Chapter 7",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/e/e2/Small_portrait_astram_fe12.png"
+    },
+    {
+      "name": "Katarina",
+      "class": "Sage",
+      "appears": "Prologue 1",
+      "joins": "Chapter 16x",
+      "img": "https://cdn.fireemblemwiki.org/f/f2/Small_portrait_katarina_fe12.png"
+    },
+    {
+      "name": "Tomas",
+      "class": "Sniper",
+      "appears": "Chapter 17",
+      "joins": "Chapter 17",
+      "img": "https://cdn.fireemblemwiki.org/7/70/Small_portrait_tomas_fe12.png"
+    },
+    {
+      "name": "Sheena",
+      "class": "General",
+      "appears": "Chapter 17",
+      "joins": "Chapter 17",
+      "img": "https://cdn.fireemblemwiki.org/8/82/Small_portrait_sheena_fe12.png"
+    },
+    {
+      "name": "Samson",
+      "class": "Hero",
+      "appears": "Chapter 17",
+      "joins": "Chapter 17",
+      "img": "https://cdn.fireemblemwiki.org/4/47/Small_portrait_samson_fe12.png"
+    },
+    {
+      "name": "Frost",
+      "class": "Bishop",
+      "appears": "Chapter 17",
+      "joins": "Chapter 17",
+      "img": "https://cdn.fireemblemwiki.org/1/1e/Small_portrait_frost_fe12.png"
+    },
+    {
+      "name": "Roshea",
+      "class": "Paladin",
+      "appears": "Chapter 18",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/f/fe/Small_portrait_roshea_fe12.png"
+    },
+    {
+      "name": "Vyland",
+      "class": "Paladin",
+      "appears": "Chapter 18",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/3/36/Small_portrait_vyland_fe12.png"
+    },
+    {
+      "name": "Sedgar",
+      "class": "Horseman",
+      "appears": "Chapter 18",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/d/d7/Small_portrait_sedgar_fe12.png"
+    },
+    {
+      "name": "Wolf",
+      "class": "Horseman",
+      "appears": "Chapter 18",
+      "joins": "Chapter 19",
+      "img": "https://cdn.fireemblemwiki.org/9/95/Small_portrait_wolf_fe12.png"
+    },
+    {
+      "name": "Midia",
+      "class": "Paladin",
+      "appears": "Chapter 20",
+      "joins": "Chapter 20",
+      "img": "https://cdn.fireemblemwiki.org/c/ca/Small_portrait_midia_fe12.png"
+    },
+    {
+      "name": "Ymir",
+      "class": "Warrior",
+      "appears": "Chapter 21",
+      "joins": "Chapter 21",
+      "img": "https://cdn.fireemblemwiki.org/3/38/Small_portrait_ymir_fe12.png"
+    },
+    {
+      "name": "Michalis",
+      "class": "Dracoknight",
+      "appears": "Chapter 3",
+      "joins": "Chapter 21",
+      "img": "https://cdn.fireemblemwiki.org/b/b6/Small_portrait_michalis_fe12.png"
+    },
+    {
+      "name": "Nagi",
+      "class": "Manakete",
+      "appears": "Chapter 22",
+      "joins": "Chapter 22",
+      "img": "https://cdn.fireemblemwiki.org/e/e1/Small_portrait_nagi_fe12.png"
+    },
+    {
+      "name": "Lena",
+      "class": "Bishop",
+      "appears": "Endgame",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/4/46/Small_portrait_lena_fe12.png"
+    },
+    {
+      "name": "Nyna",
+      "class": "Bishop",
+      "appears": "Endgame",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/c/c4/Small_portrait_nyna_fe12.png"
+    },
+    {
+      "name": "Maria",
+      "class": "Bishop",
+      "appears": "Endgame",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/8/86/Small_portrait_maria_fe12.png"
+    },
+    {
+      "name": "Elice",
+      "class": "Bishop",
+      "appears": "Prologue 4",
+      "joins": "Endgame",
+      "img": "https://cdn.fireemblemwiki.org/e/e0/Small_portrait_elice_fe12.png"
+    }
+  ],
+  "FE13": [
+    {
+      "name": "Robin",
+      "class": "Tactician",
+      "appears": "Premonition",
+      "joins": "Premonition",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/53/Small_portrait_robin_m_fe13.png/64px-Small_portrait_robin_m_fe13.png"
+    },
+    {
+      "name": "Chrom",
+      "class": "Lord",
+      "appears": "Premonition",
+      "joins": "Premonition",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3a/Small_portrait_chrom_l_fe13.png/64px-Small_portrait_chrom_l_fe13.png"
+    },
+    {
+      "name": "Lissa",
+      "class": "Cleric",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4f/Small_portrait_lissa_fe13.png/64px-Small_portrait_lissa_fe13.png"
+    },
+    {
+      "name": "Frederick",
+      "class": "Great Knight",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/22/Small_portrait_frederick_fe13.png/64px-Small_portrait_frederick_fe13.png"
+    },
+    {
+      "name": "Sully",
+      "class": "Cavalier",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/09/Small_portrait_sully_fe13.png/64px-Small_portrait_sully_fe13.png"
+    },
+    {
+      "name": "Virion",
+      "class": "Archer",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2e/Small_portrait_virion_fe13.png/64px-Small_portrait_virion_fe13.png"
+    },
+    {
+      "name": "Stahl",
+      "class": "Cavalier",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/6d/Small_portrait_stahl_fe13.png/64px-Small_portrait_stahl_fe13.png"
+    },
+    {
+      "name": "Vaike",
+      "class": "Fighter",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/cf/Small_portrait_vaike_fe13.png/64px-Small_portrait_vaike_fe13.png"
+    },
+    {
+      "name": "Miriel",
+      "class": "Mage",
+      "appears": "Chapter 2",
+      "joins": "Chapter 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c3/Small_portrait_miriel_fe13.png/64px-Small_portrait_miriel_fe13.png"
+    },
+    {
+      "name": "Sumia",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 2",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7c/Small_portrait_sumia_fe13.png/64px-Small_portrait_sumia_fe13.png"
+    },
+    {
+      "name": "Kellam",
+      "class": "Knight",
+      "appears": "Chapter 2",
+      "joins": "Chapter 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/75/Small_portrait_kellam_fe13.png/64px-Small_portrait_kellam_fe13.png"
+    },
+    {
+      "name": "Lon'qu",
+      "class": "Myrmidon",
+      "appears": "Chapter 4",
+      "joins": "Chapter 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2f/Small_portrait_lon%27qu_fe13.png/64px-Small_portrait_lon%27qu_fe13.png"
+    },
+    {
+      "name": "Ricken",
+      "class": "Mage",
+      "appears": "Chapter 4",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0a/Small_portrait_ricken_fe13.png/64px-Small_portrait_ricken_fe13.png"
+    },
+    {
+      "name": "Maribelle",
+      "class": "Troubadour",
+      "appears": "Chapter 2",
+      "joins": "Chapter 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/49/Small_portrait_maribelle_fe13.png/64px-Small_portrait_maribelle_fe13.png"
+    },
+    {
+      "name": "Panne",
+      "class": "Taguel",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/ea/Small_portrait_panne_fe13.png/64px-Small_portrait_panne_fe13.png"
+    },
+    {
+      "name": "Gaius",
+      "class": "Thief",
+      "appears": "Chapter 6",
+      "joins": "Chapter 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/53/Small_portrait_gaius_fe13.png/64px-Small_portrait_gaius_fe13.png"
+    },
+    {
+      "name": "Cordelia",
+      "class": "Pegasus Knight",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/be/Small_portrait_cordelia_fe13.png/64px-Small_portrait_cordelia_fe13.png"
+    },
+    {
+      "name": "Gregor",
+      "class": "Mercenary",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/17/Small_portrait_gregor_fe13.png/64px-Small_portrait_gregor_fe13.png"
+    },
+    {
+      "name": "Nowi",
+      "class": "Manakete",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7b/Small_portrait_nowi_fe13.png/64px-Small_portrait_nowi_fe13.png"
+    },
+    {
+      "name": "Libra",
+      "class": "War Monk",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/29/Small_portrait_libra_fe13.png/64px-Small_portrait_libra_fe13.png"
+    },
+    {
+      "name": "Tharja",
+      "class": "Dark Mage",
+      "appears": "Chapter 9",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/27/Small_portrait_tharja_fe13.png/64px-Small_portrait_tharja_fe13.png"
+    },
+    {
+      "name": "Olivia",
+      "class": "Dancer",
+      "appears": "Chapter 10",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/73/Small_portrait_olivia_fe13.png/64px-Small_portrait_olivia_fe13.png"
+    },
+    {
+      "name": "Cherche",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 11",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8b/Small_portrait_cherche_fe13.png/64px-Small_portrait_cherche_fe13.png"
+    },
+    {
+      "name": "Henry",
+      "class": "Dark Mage",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/bd/Small_portrait_henry_fe13.png/64px-Small_portrait_henry_fe13.png"
+    },
+    {
+      "name": "Lucina",
+      "class": "Lord",
+      "appears": "Chapter 1",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fe/Small_portrait_lucina_fe13.png/64px-Small_portrait_lucina_fe13.png"
+    },
+    {
+      "name": "Say'ri",
+      "class": "Swordmaster",
+      "appears": "Chapter 15",
+      "joins": "Chapter 15",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8e/Small_portrait_say%27ri_fe13.png/64px-Small_portrait_say%27ri_fe13.png"
+    },
+    {
+      "name": "Basilio",
+      "class": "Warrior",
+      "appears": "Chapter 4",
+      "joins": "Chapter 23",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9a/Small_portrait_basilio_fe13.png/64px-Small_portrait_basilio_fe13.png"
+    },
+    {
+      "name": "Flavia",
+      "class": "Hero",
+      "appears": "Chapter 4",
+      "joins": "Chapter 23",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c8/Small_portrait_flavia_fe13.png/64px-Small_portrait_flavia_fe13.png"
+    },
+    {
+      "name": "Donnel",
+      "class": "Villager",
+      "appears": "Paralogue 1",
+      "joins": "Paralogue 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9d/Small_portrait_donnel_fe13.png/64px-Small_portrait_donnel_fe13.png"
+    },
+    {
+      "name": "Anna",
+      "class": "Trickster",
+      "appears": "Paralogue 2",
+      "joins": "Paralogue 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8f/Small_portrait_anna_fe13.png/64px-Small_portrait_anna_fe13.png"
+    },
+    {
+      "name": "Owain",
+      "class": "Myrmidon",
+      "appears": "Paralogue 5",
+      "joins": "Paralogue 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c4/Small_portrait_owain_fe13.png/64px-Small_portrait_owain_fe13.png"
+    },
+    {
+      "name": "Inigo",
+      "class": "Mercenary",
+      "appears": "Paralogue 6",
+      "joins": "Paralogue 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b8/Small_portrait_inigo_fe13.png/64px-Small_portrait_inigo_fe13.png"
+    },
+    {
+      "name": "Brady",
+      "class": "Priest",
+      "appears": "Paralogue 7",
+      "joins": "Paralogue 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/9c/Small_portrait_brady_fe13.png/64px-Small_portrait_brady_fe13.png"
+    },
+    {
+      "name": "Kjelle",
+      "class": "Knight",
+      "appears": "Paralogue 8",
+      "joins": "Paralogue 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a1/Small_portrait_kjelle_fe13.png/64px-Small_portrait_kjelle_fe13.png"
+    },
+    {
+      "name": "Cynthia",
+      "class": "Pegasus Knight",
+      "appears": "Paralogue 9",
+      "joins": "Paralogue 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1e/Small_portrait_cynthia_fe13.png/64px-Small_portrait_cynthia_fe13.png"
+    },
+    {
+      "name": "Severa",
+      "class": "Mercenary",
+      "appears": "Paralogue 10",
+      "joins": "Paralogue 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/5c/Small_portrait_severa_fe13.png/64px-Small_portrait_severa_fe13.png"
+    },
+    {
+      "name": "Gerome",
+      "class": "Wyvern Rider",
+      "appears": "Paralogue 11",
+      "joins": "Paralogue 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/24/Small_portrait_gerome_fe13.png/64px-Small_portrait_gerome_fe13.png"
+    },
+    {
+      "name": "Morgan",
+      "class": "Class varies",
+      "appears": "Paralogue 12",
+      "joins": "Paralogue 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/51/Small_portrait_morgan_f_fe13.png/64px-Small_portrait_morgan_f_fe13.png"
+    },
+    {
+      "name": "Yarne",
+      "class": "Taguel",
+      "appears": "Paralogue 13",
+      "joins": "Paralogue 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/14/Small_portrait_yarne_fe13.png/64px-Small_portrait_yarne_fe13.png"
+    },
+    {
+      "name": "Laurent",
+      "class": "Mage",
+      "appears": "Paralogue 14",
+      "joins": "Paralogue 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a0/Small_portrait_laurent_fe13.png/64px-Small_portrait_laurent_fe13.png"
+    },
+    {
+      "name": "Noire",
+      "class": "Archer",
+      "appears": "Paralogue 15",
+      "joins": "Paralogue 15",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1c/Small_portrait_noire_fe13.png/64px-Small_portrait_noire_fe13.png"
+    },
+    {
+      "name": "Nah",
+      "class": "Manakete",
+      "appears": "Paralogue 16",
+      "joins": "Paralogue 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/cd/Small_portrait_nah_fe13.png/64px-Small_portrait_nah_fe13.png"
+    },
+    {
+      "name": "Tiki",
+      "class": "Manakete",
+      "appears": "Chapter 16",
+      "joins": "Paralogue 17",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/66/Small_portrait_tiki_fe13.png/64px-Small_portrait_tiki_fe13.png"
+    }
+  ],
+  "FE14": [
+    {
+      "name": "Corrin",
+      "class": "Nohr Prince*Nohr Princess*",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fe/Small_portrait_corrin_f_fe14.png/64px-Small_portrait_corrin_f_fe14.png"
+    },
+    {
+      "name": "Gunter",
+      "class": "Great Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 2*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/62/Small_portrait_gunter_fe14.png/64px-Small_portrait_gunter_fe14.png"
+    },
+    {
+      "name": "Felicia",
+      "class": "Maid",
+      "appears": "Chapter 1",
+      "joins": "Chapter 2 (If Corrin is male)*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0e/Small_portrait_felicia_fe14.png/64px-Small_portrait_felicia_fe14.png"
+    },
+    {
+      "name": "Jakob",
+      "class": "Butler",
+      "appears": "Chapter 1",
+      "joins": "Chapter 2 (If Corrin is female)*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/5e/Small_portrait_jakob_fe14.png/64px-Small_portrait_jakob_fe14.png"
+    },
+    {
+      "name": "Rinkah",
+      "class": "Oni Savage",
+      "appears": "Prologue",
+      "joins": "Chapter 4*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b3/Small_portrait_rinkah_fe14.png/64px-Small_portrait_rinkah_fe14.png"
+    },
+    {
+      "name": "Kaze",
+      "class": "Ninja",
+      "appears": "Chapter 2",
+      "joins": "Chapter 4*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/71/Small_portrait_kaze_fe14.png/64px-Small_portrait_kaze_fe14.png"
+    },
+    {
+      "name": "Sakura",
+      "class": "Shrine Maiden",
+      "appears": "Prologue",
+      "joins": "Chapter 5*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/27/Small_portrait_sakura_fe14.png/64px-Small_portrait_sakura_fe14.png"
+    },
+    {
+      "name": "Azura",
+      "class": "Songstress",
+      "appears": "Prologue*Chapter 4*",
+      "joins": "Chapter 5*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e6/Small_portrait_azura_fe14.png/64px-Small_portrait_azura_fe14.png"
+    },
+    {
+      "name": "Hana",
+      "class": "Samurai",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/89/Small_portrait_hana_fe14.png/64px-Small_portrait_hana_fe14.png"
+    },
+    {
+      "name": "Subaki",
+      "class": "Sky Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/43/Small_portrait_subaki_fe14.png/64px-Small_portrait_subaki_fe14.png"
+    },
+    {
+      "name": "Saizo",
+      "class": "Ninja",
+      "appears": "Prologue",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f2/Small_portrait_saizo_fe14.png/64px-Small_portrait_saizo_fe14.png"
+    },
+    {
+      "name": "Orochi",
+      "class": "Diviner",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4c/Small_portrait_orochi_fe14.png/64px-Small_portrait_orochi_fe14.png"
+    },
+    {
+      "name": "Silas",
+      "class": "Cavalier",
+      "appears": "Chapter 7",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/41/Small_portrait_silas_fe14.png/64px-Small_portrait_silas_fe14.png"
+    },
+    {
+      "name": "Hinoka",
+      "class": "Sky Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0c/Small_portrait_hinoka_fe14.png/64px-Small_portrait_hinoka_fe14.png"
+    },
+    {
+      "name": "Azama",
+      "class": "Monk",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/bb/Small_portrait_azama_fe14.png/64px-Small_portrait_azama_fe14.png"
+    },
+    {
+      "name": "Setsuna",
+      "class": "Archer",
+      "appears": "Prologue",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/92/Small_portrait_setsuna_fe14.png/64px-Small_portrait_setsuna_fe14.png"
+    },
+    {
+      "name": "Hayato",
+      "class": "Diviner",
+      "appears": "Prologue",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/6e/Small_portrait_hayato_fe14.png/64px-Small_portrait_hayato_fe14.png"
+    },
+    {
+      "name": "Oboro",
+      "class": "Spear Fighter",
+      "appears": "Prologue",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1f/Small_portrait_oboro_fe14.png/64px-Small_portrait_oboro_fe14.png"
+    },
+    {
+      "name": "Hinata",
+      "class": "Samurai",
+      "appears": "Prologue",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4c/Small_portrait_hinata_fe14.png/64px-Small_portrait_hinata_fe14.png"
+    },
+    {
+      "name": "Takumi",
+      "class": "Archer",
+      "appears": "Prologue",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3b/Small_portrait_takumi_fe14.png/64px-Small_portrait_takumi_fe14.png"
+    },
+    {
+      "name": "Kagero",
+      "class": "Ninja",
+      "appears": "Prologue",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/60/Small_portrait_kagero_fe14.png/64px-Small_portrait_kagero_fe14.png"
+    },
+    {
+      "name": "Reina",
+      "class": "Kinshi Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/05/Small_portrait_reina_fe14.png/64px-Small_portrait_reina_fe14.png"
+    },
+    {
+      "name": "Kaden",
+      "class": "Kitsune",
+      "appears": "Prologue",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1d/Small_portrait_kaden_fe14.png/64px-Small_portrait_kaden_fe14.png"
+    },
+    {
+      "name": "Ryoma",
+      "class": "Swordmaster",
+      "appears": "Prologue",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2b/Small_portrait_ryoma_fe14.png/64px-Small_portrait_ryoma_fe14.png"
+    },
+    {
+      "name": "Scarlet",
+      "class": "Wyvern Lord",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/5b/Small_portrait_scarlet_fe14.png/64px-Small_portrait_scarlet_fe14.png"
+    },
+    {
+      "name": "Izana",
+      "class": "Onmyoji",
+      "appears": "Chapter 9",
+      "joins": "Chapter 19 or later",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fd/Small_portrait_izana_fe14.png/64px-Small_portrait_izana_fe14.png"
+    },
+    {
+      "name": "Shura",
+      "class": "Adventurer",
+      "appears": "Chapter 22",
+      "joins": "Chapter 22",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/13/Small_portrait_shura_fe14.png/64px-Small_portrait_shura_fe14.png"
+    },
+    {
+      "name": "Yukimura",
+      "class": "Mechanist",
+      "appears": "Prologue",
+      "joins": "Chapter 23 or later",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4d/Small_portrait_yukimura_fe14.png/64px-Small_portrait_yukimura_fe14.png"
+    },
+    {
+      "name": "Elise",
+      "class": "Troubadour",
+      "appears": "Prologue",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8f/Small_portrait_elise_fe14.png/64px-Small_portrait_elise_fe14.png"
+    },
+    {
+      "name": "Effie",
+      "class": "Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e4/Small_portrait_effie_fe14.png/64px-Small_portrait_effie_fe14.png"
+    },
+    {
+      "name": "Arthur",
+      "class": "Fighter",
+      "appears": "Prologue",
+      "joins": "Chapter 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/6a/Small_portrait_arthur_fe14.png/64px-Small_portrait_arthur_fe14.png"
+    },
+    {
+      "name": "Odin",
+      "class": "Dark Mage",
+      "appears": "Chapter 8",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/30/Small_portrait_odin_fe14.png/64px-Small_portrait_odin_fe14.png"
+    },
+    {
+      "name": "Niles",
+      "class": "Outlaw",
+      "appears": "Prologue",
+      "joins": "Chapter 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d5/Small_portrait_niles_fe14.png/64px-Small_portrait_niles_fe14.png"
+    },
+    {
+      "name": "Nyx",
+      "class": "Dark Mage",
+      "appears": "Prologue",
+      "joins": "Chapter 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e2/Small_portrait_nyx_fe14.png/64px-Small_portrait_nyx_fe14.png"
+    },
+    {
+      "name": "Camilla",
+      "class": "Malig Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1d/Small_portrait_camilla_fe14.png/64px-Small_portrait_camilla_fe14.png"
+    },
+    {
+      "name": "Selena",
+      "class": "Mercenary",
+      "appears": "Chapter 10",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/20/Small_portrait_selena_fe14.png/64px-Small_portrait_selena_fe14.png"
+    },
+    {
+      "name": "Beruka",
+      "class": "Wyvern Rider",
+      "appears": "Prologue",
+      "joins": "Chapter 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4a/Small_portrait_beruka_fe14.png/64px-Small_portrait_beruka_fe14.png"
+    },
+    {
+      "name": "Laslow",
+      "class": "Mercenary",
+      "appears": "Chapter 12",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2a/Small_portrait_laslow_fe14.png/64px-Small_portrait_laslow_fe14.png"
+    },
+    {
+      "name": "Peri",
+      "class": "Cavalier",
+      "appears": "Prologue",
+      "joins": "Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f4/Small_portrait_peri_fe14.png/64px-Small_portrait_peri_fe14.png"
+    },
+    {
+      "name": "Benny",
+      "class": "Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3f/Small_portrait_benny_fe14.png/64px-Small_portrait_benny_fe14.png"
+    },
+    {
+      "name": "Charlotte",
+      "class": "Fighter",
+      "appears": "Chapter 13",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/19/Small_portrait_charlotte_fe14.png/64px-Small_portrait_charlotte_fe14.png"
+    },
+    {
+      "name": "Leo",
+      "class": "Dark Knight",
+      "appears": "Prologue",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/71/Small_portrait_leo_fe14.png/64px-Small_portrait_leo_fe14.png"
+    },
+    {
+      "name": "Keaton",
+      "class": "Wolfskin",
+      "appears": "Prologue",
+      "joins": "Chapter 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a9/Small_portrait_keaton_fe14.png/64px-Small_portrait_keaton_fe14.png"
+    },
+    {
+      "name": "Xander",
+      "class": "Paladin",
+      "appears": "Prologue",
+      "joins": "Chapter 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1e/Small_portrait_xander_fe14.png/64px-Small_portrait_xander_fe14.png"
+    },
+    {
+      "name": "Flora",
+      "class": "Maid",
+      "appears": "Prologue",
+      "joins": "Chapter 19 or later",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/83/Small_portrait_flora_fe14.png/64px-Small_portrait_flora_fe14.png"
+    },
+    {
+      "name": "Fuga",
+      "class": "Master of Arms",
+      "appears": "Chapter 9",
+      "joins": "Chapter 19 or later",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/27/Small_portrait_fuga_fe14.png/64px-Small_portrait_fuga_fe14.png"
+    },
+    {
+      "name": "Mozu",
+      "class": "Villager",
+      "appears": "Paralogue 1",
+      "joins": "Paralogue 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0e/Small_portrait_mozu_fe14.png/64px-Small_portrait_mozu_fe14.png"
+    },
+    {
+      "name": "Kana",
+      "class": "Nohr Prince*Nohr Princess*",
+      "appears": "Paralogue 2",
+      "joins": "Paralogue 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/ef/Small_portrait_kana_m_fe14.png/64px-Small_portrait_kana_m_fe14.png"
+    },
+    {
+      "name": "Shigure",
+      "class": "Sky Knight",
+      "appears": "Paralogue 3",
+      "joins": "Paralogue 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/01/Small_portrait_shigure_fe14.png/64px-Small_portrait_shigure_fe14.png"
+    },
+    {
+      "name": "Dwyer",
+      "class": "Troubadour",
+      "appears": "Paralogue 4",
+      "joins": "Paralogue 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b0/Small_portrait_dwyer_fe14.png/64px-Small_portrait_dwyer_fe14.png"
+    },
+    {
+      "name": "Sophie",
+      "class": "Cavalier",
+      "appears": "Paralogue 5",
+      "joins": "Paralogue 5",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/58/Small_portrait_sophie_fe14.png/64px-Small_portrait_sophie_fe14.png"
+    },
+    {
+      "name": "Midori",
+      "class": "Apothecary",
+      "appears": "Paralogue 6",
+      "joins": "Paralogue 6",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b9/Small_portrait_midori_fe14.png/64px-Small_portrait_midori_fe14.png"
+    },
+    {
+      "name": "Shiro",
+      "class": "Spear Fighter",
+      "appears": "Paralogue 7",
+      "joins": "Paralogue 7",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/82/Small_portrait_shiro_fe14.png/64px-Small_portrait_shiro_fe14.png"
+    },
+    {
+      "name": "Kiragi",
+      "class": "Archer",
+      "appears": "Paralogue 8",
+      "joins": "Paralogue 8",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/61/Small_portrait_kiragi_fe14.png/64px-Small_portrait_kiragi_fe14.png"
+    },
+    {
+      "name": "Asugi",
+      "class": "Ninja",
+      "appears": "Paralogue 9",
+      "joins": "Paralogue 9",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/33/Small_portrait_asugi_fe14.png/64px-Small_portrait_asugi_fe14.png"
+    },
+    {
+      "name": "Selkie",
+      "class": "Kitsune",
+      "appears": "Paralogue 10",
+      "joins": "Paralogue 10",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/05/Small_portrait_selkie_fe14.png/64px-Small_portrait_selkie_fe14.png"
+    },
+    {
+      "name": "Hisame",
+      "class": "Samurai",
+      "appears": "Paralogue 11",
+      "joins": "Paralogue 11",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/6a/Small_portrait_hisame_fe14.png/64px-Small_portrait_hisame_fe14.png"
+    },
+    {
+      "name": "Mitama",
+      "class": "Shrine Maiden",
+      "appears": "Paralogue 12",
+      "joins": "Paralogue 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/73/Small_portrait_mitama_fe14.png/64px-Small_portrait_mitama_fe14.png"
+    },
+    {
+      "name": "Caeldori",
+      "class": "Sky Knight",
+      "appears": "Paralogue 13",
+      "joins": "Paralogue 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/5a/Small_portrait_caeldori_fe14.png/64px-Small_portrait_caeldori_fe14.png"
+    },
+    {
+      "name": "Rhajat",
+      "class": "Diviner",
+      "appears": "Paralogue 14",
+      "joins": "Paralogue 14",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fc/Small_portrait_rhajat_fe14.png/64px-Small_portrait_rhajat_fe14.png"
+    },
+    {
+      "name": "Siegbert",
+      "class": "Cavalier",
+      "appears": "Paralogue 15",
+      "joins": "Paralogue 15",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a4/Small_portrait_siegbert_fe14.png/64px-Small_portrait_siegbert_fe14.png"
+    },
+    {
+      "name": "Forrest",
+      "class": "Troubadour",
+      "appears": "Paralogue 16",
+      "joins": "Paralogue 16",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7e/Small_portrait_forrest_fe14.png/64px-Small_portrait_forrest_fe14.png"
+    },
+    {
+      "name": "Ignatius",
+      "class": "Knight",
+      "appears": "Paralogue 17",
+      "joins": "Paralogue 17",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/ea/Small_portrait_ignatius_fe14.png/64px-Small_portrait_ignatius_fe14.png"
+    },
+    {
+      "name": "Velouria",
+      "class": "Wolfskin",
+      "appears": "Paralogue 18",
+      "joins": "Paralogue 18",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e8/Small_portrait_velouria_fe14.png/64px-Small_portrait_velouria_fe14.png"
+    },
+    {
+      "name": "Percy",
+      "class": "Wyvern Rider",
+      "appears": "Paralogue 19",
+      "joins": "Paralogue 19",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b3/Small_portrait_percy_fe14.png/64px-Small_portrait_percy_fe14.png"
+    },
+    {
+      "name": "Ophelia",
+      "class": "Dark Mage",
+      "appears": "Paralogue 20",
+      "joins": "Paralogue 20",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/98/Small_portrait_ophelia_fe14.png/64px-Small_portrait_ophelia_fe14.png"
+    },
+    {
+      "name": "Soleil",
+      "class": "Mercenary",
+      "appears": "Paralogue 21",
+      "joins": "Paralogue 21",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/12/Small_portrait_soleil_fe14.png/64px-Small_portrait_soleil_fe14.png"
+    },
+    {
+      "name": "Nina",
+      "class": "Outlaw",
+      "appears": "Paralogue 22",
+      "joins": "Paralogue 22",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/26/Small_portrait_nina_fe14.png/64px-Small_portrait_nina_fe14.png"
+    }
+  ],
+  "FE15": [
+    {
+      "name": "Alm",
+      "class": "Fighter",
+      "appears": "Prologue",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/de/Portrait_alm_status_fe15.png/64px-Portrait_alm_status_fe15.png"
+    },
+    {
+      "name": "Lukas",
+      "class": "Soldier",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/60/Portrait_lukas_status_fe15.png/64px-Portrait_lukas_status_fe15.png"
+    },
+    {
+      "name": "Gray",
+      "class": "Villager",
+      "appears": "Prologue",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4f/Portrait_gray_status_fe15.png/64px-Portrait_gray_status_fe15.png"
+    },
+    {
+      "name": "Tobin",
+      "class": "Villager",
+      "appears": "Prologue",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/92/Portrait_tobin_status_fe15.png/64px-Portrait_tobin_status_fe15.png"
+    },
+    {
+      "name": "Kliff",
+      "class": "Villager",
+      "appears": "Prologue",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a1/Portrait_kliff_status_fe15.png/64px-Portrait_kliff_status_fe15.png"
+    },
+    {
+      "name": "Faye",
+      "class": "Villager",
+      "appears": "Prologue",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/ca/Portrait_faye_status_fe15.png/64px-Portrait_faye_status_fe15.png"
+    },
+    {
+      "name": "Silque",
+      "class": "Cleric",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a8/Portrait_silque_status_fe15.png/64px-Portrait_silque_status_fe15.png"
+    },
+    {
+      "name": "Clair",
+      "class": "Pegasus Knight",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a1/Portrait_clair_status_fe15.png/64px-Portrait_clair_status_fe15.png"
+    },
+    {
+      "name": "Clive",
+      "class": "Cavalier",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7f/Portrait_clive_status_fe15.png/64px-Portrait_clive_status_fe15.png"
+    },
+    {
+      "name": "Forsyth",
+      "class": "Soldier",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/06/Portrait_forsyth_status_fe15.png/64px-Portrait_forsyth_status_fe15.png"
+    },
+    {
+      "name": "Python",
+      "class": "Archer",
+      "appears": "Act 1",
+      "joins": "Act 1",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/67/Portrait_python_status_fe15.png/64px-Portrait_python_status_fe15.png"
+    },
+    {
+      "name": "Luthier",
+      "class": "Mage",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/af/Portrait_luthier_status_fe15.png/64px-Portrait_luthier_status_fe15.png"
+    },
+    {
+      "name": "Mathilda",
+      "class": "Paladin",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/05/Portrait_mathilda_status_fe15.png/64px-Portrait_mathilda_status_fe15.png"
+    },
+    {
+      "name": "Delthea",
+      "class": "Mage",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/7a/Portrait_delthea_status_fe15.png/64px-Portrait_delthea_status_fe15.png"
+    },
+    {
+      "name": "Tatiana",
+      "class": "Saint",
+      "appears": "Act 4",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/ac/Portrait_tatiana_status_fe15.png/64px-Portrait_tatiana_status_fe15.png"
+    },
+    {
+      "name": "Zeke",
+      "class": "Gold Knight",
+      "appears": "Act 4",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c6/Portrait_zeke_status_fe15.png/64px-Portrait_zeke_status_fe15.png"
+    },
+    {
+      "name": "Mycen",
+      "class": "Gold Knight",
+      "appears": "Prologue",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/d6/Portrait_mycen_status_fe15.png/64px-Portrait_mycen_status_fe15.png"
+    },
+    {
+      "name": "Celica",
+      "class": "Priestess",
+      "appears": "Prologue",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0d/Portrait_celica_status_fe15.png/64px-Portrait_celica_status_fe15.png"
+    },
+    {
+      "name": "Mae",
+      "class": "Mage",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/26/Portrait_mae_status_fe15.png/64px-Portrait_mae_status_fe15.png"
+    },
+    {
+      "name": "Boey",
+      "class": "Mage",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/ba/Portrait_boey_status_fe15.png/64px-Portrait_boey_status_fe15.png"
+    },
+    {
+      "name": "Genny",
+      "class": "Cleric",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/b4/Portrait_genny_status_fe15.png/64px-Portrait_genny_status_fe15.png"
+    },
+    {
+      "name": "Saber",
+      "class": "Mercenary",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1a/Portrait_saber_status_fe15.png/64px-Portrait_saber_status_fe15.png"
+    },
+    {
+      "name": "Valbar",
+      "class": "Knight",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c5/Portrait_valbar_status_fe15.png/64px-Portrait_valbar_status_fe15.png"
+    },
+    {
+      "name": "Kamui",
+      "class": "Mercenary",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/d/db/Portrait_kamui_status_fe15.png/64px-Portrait_kamui_status_fe15.png"
+    },
+    {
+      "name": "Leon",
+      "class": "Archer",
+      "appears": "Act 2",
+      "joins": "Act 2",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2c/Portrait_leon_status_fe15.png/64px-Portrait_leon_status_fe15.png"
+    },
+    {
+      "name": "Palla",
+      "class": "Pegasus Knight",
+      "appears": "Act 2",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/60/Portrait_palla_status_fe15.png/64px-Portrait_palla_status_fe15.png"
+    },
+    {
+      "name": "Catria",
+      "class": "Pegasus Knight",
+      "appears": "Act 2",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/64/Portrait_catria_status_fe15.png/64px-Portrait_catria_status_fe15.png"
+    },
+    {
+      "name": "Atlas",
+      "class": "Villager",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/4d/Portrait_atlas_status_fe15.png/64px-Portrait_atlas_status_fe15.png"
+    },
+    {
+      "name": "Jesse",
+      "class": "Mercenary",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0c/Portrait_jesse_status_fe15.png/64px-Portrait_jesse_status_fe15.png"
+    },
+    {
+      "name": "Sonya",
+      "class": "Mage",
+      "appears": "Act 3",
+      "joins": "Act 3*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fb/Portrait_sonya_status_fe15.png/64px-Portrait_sonya_status_fe15.png"
+    },
+    {
+      "name": "Deen",
+      "class": "Myrmidon",
+      "appears": "Act 3",
+      "joins": "Act 3*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/34/Portrait_deen_status_fe15.png/64px-Portrait_deen_status_fe15.png"
+    },
+    {
+      "name": "Est",
+      "class": "Pegasus Knight",
+      "appears": "Act 3",
+      "joins": "Act 3",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/21/Portrait_est_status_fe15.png/64px-Portrait_est_status_fe15.png"
+    },
+    {
+      "name": "Nomah",
+      "class": "Sage",
+      "appears": "Act 2",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f0/Portrait_nomah_status_fe15.png/64px-Portrait_nomah_status_fe15.png"
+    },
+    {
+      "name": "Conrad",
+      "class": "Paladin",
+      "appears": "Act 2",
+      "joins": "Act 4",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3c/Portrait_conrad_status_fe15.png/64px-Portrait_conrad_status_fe15.png"
+    }
+  ],
+  "FE16": [
+    {
+      "name": "Byleth",
+      "class": "Commoner",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/bc/Small_portrait_byleth_m_fe16.png/64px-Small_portrait_byleth_m_fe16.png"
+    },
+    {
+      "name": "Edelgard",
+      "class": "Noble",
+      "appears": "Prologue",
+      "joins": "Prologue*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/45/Small_portrait_edelgard_fe16.png/64px-Small_portrait_edelgard_fe16.png"
+    },
+    {
+      "name": "Hubert",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fe/Small_portrait_hubert_fe16.png/64px-Small_portrait_hubert_fe16.png"
+    },
+    {
+      "name": "Ferdinand",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c2/Small_portrait_ferdinand_fe16.png/64px-Small_portrait_ferdinand_fe16.png"
+    },
+    {
+      "name": "Linhardt",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/01/Small_portrait_linhardt_fe16.png/64px-Small_portrait_linhardt_fe16.png"
+    },
+    {
+      "name": "Caspar",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2d/Small_portrait_caspar_fe16.png/64px-Small_portrait_caspar_fe16.png"
+    },
+    {
+      "name": "Bernadetta",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fd/Small_portrait_bernadetta_fe16.png/64px-Small_portrait_bernadetta_fe16.png"
+    },
+    {
+      "name": "Dorothea",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/e/e3/Small_portrait_dorothea_fe16.png/64px-Small_portrait_dorothea_fe16.png"
+    },
+    {
+      "name": "Petra",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/46/Small_portrait_petra_fe16.png/64px-Small_portrait_petra_fe16.png"
+    },
+    {
+      "name": "Dimitri",
+      "class": "Noble",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/25/Small_portrait_dimitri_fe16.png/64px-Small_portrait_dimitri_fe16.png"
+    },
+    {
+      "name": "Dedue",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/0e/Small_portrait_dedue_fe16.png/64px-Small_portrait_dedue_fe16.png"
+    },
+    {
+      "name": "Felix",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/8c/Small_portrait_felix_fe16.png/64px-Small_portrait_felix_fe16.png"
+    },
+    {
+      "name": "Ashe",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/88/Small_portrait_ashe_fe16.png/64px-Small_portrait_ashe_fe16.png"
+    },
+    {
+      "name": "Sylvain",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/b/be/Small_portrait_sylvain_fe16.png/64px-Small_portrait_sylvain_fe16.png"
+    },
+    {
+      "name": "Mercedes",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f5/Small_portrait_mercedes_fe16.png/64px-Small_portrait_mercedes_fe16.png"
+    },
+    {
+      "name": "Annette",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/0/08/Small_portrait_annette_fe16.png/64px-Small_portrait_annette_fe16.png"
+    },
+    {
+      "name": "Ingrid",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/8/82/Small_portrait_ingrid_fe16.png/64px-Small_portrait_ingrid_fe16.png"
+    },
+    {
+      "name": "Claude",
+      "class": "Noble",
+      "appears": "Prologue",
+      "joins": "Prologue",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/6c/Small_portrait_claude_fe16.png/64px-Small_portrait_claude_fe16.png"
+    },
+    {
+      "name": "Lorenz",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/27/Small_portrait_lorenz_fe16.png/64px-Small_portrait_lorenz_fe16.png"
+    },
+    {
+      "name": "Raphael",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/43/Small_portrait_raphael_fe16.png/64px-Small_portrait_raphael_fe16.png"
+    },
+    {
+      "name": "Ignatz",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/2/2d/Small_portrait_ignatz_fe16.png/64px-Small_portrait_ignatz_fe16.png"
+    },
+    {
+      "name": "Lysithea",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/1/1c/Small_portrait_lysithea_fe16.png/64px-Small_portrait_lysithea_fe16.png"
+    },
+    {
+      "name": "Marianne",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/75/Small_portrait_marianne_fe16.png/64px-Small_portrait_marianne_fe16.png"
+    },
+    {
+      "name": "Hilda",
+      "class": "Noble",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onwards Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/3/3c/Small_portrait_hilda_fe16.png/64px-Small_portrait_hilda_fe16.png"
+    },
+    {
+      "name": "Leonie",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 1 Chapter 2 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/9/94/Small_portrait_leonie_fe16.png/64px-Small_portrait_leonie_fe16.png"
+    },
+    {
+      "name": "Seteth",
+      "class": "Wyvern Rider",
+      "appears": "Chapter 1",
+      "joins": "Chapter 12*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/4/48/Small_portrait_seteth_fe16.png/64px-Small_portrait_seteth_fe16.png"
+    },
+    {
+      "name": "Flayn",
+      "class": "Priest",
+      "appears": "Chapter 1",
+      "joins": "Chapter 7*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/5/59/Small_portrait_flayn_fe16.png/64px-Small_portrait_flayn_fe16.png"
+    },
+    {
+      "name": "Hanneman",
+      "class": "Mage",
+      "appears": "Chapter 1",
+      "joins": "Chapter 8 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/a/a7/Small_portrait_hanneman_fe16.png/64px-Small_portrait_hanneman_fe16.png"
+    },
+    {
+      "name": "Manuela",
+      "class": "Priest",
+      "appears": "Chapter 1",
+      "joins": "Chapter 8 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f7/Small_portrait_manuela_fe16.png/64px-Small_portrait_manuela_fe16.png"
+    },
+    {
+      "name": "Gilbert",
+      "class": "Fortress Knight",
+      "appears": "Chapter 5",
+      "joins": "Chapter 13",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/62/Small_portrait_gilbert_fe16.png/64px-Small_portrait_gilbert_fe16.png"
+    },
+    {
+      "name": "Alois",
+      "class": "Warrior",
+      "appears": "Prologue",
+      "joins": "Chapter 11 onward",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/f9/Small_portrait_alois_fe16.png/64px-Small_portrait_alois_fe16.png"
+    },
+    {
+      "name": "Catherine",
+      "class": "Swordmaster",
+      "appears": "Chapter 3",
+      "joins": "Chapter 4 onward Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/f/fb/Small_portrait_catherine_fe16.png/64px-Small_portrait_catherine_fe16.png"
+    },
+    {
+      "name": "Shamir",
+      "class": "Sniper",
+      "appears": "Chapter 2",
+      "joins": "Chapter 6 onwardChapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/6/69/Small_portrait_shamir_fe16.png/64px-Small_portrait_shamir_fe16.png"
+    },
+    {
+      "name": "Cyril",
+      "class": "Commoner",
+      "appears": "Chapter 1",
+      "joins": "Chapter 5 onward Chapter 12",
+      "img": "https://cdn.fireemblemwiki.org/thumb/7/75/Small_portrait_cyril_fe16.png/64px-Small_portrait_cyril_fe16.png"
+    },
+    {
+      "name": "Jeritza",
+      "class": "Death Knight",
+      "appears": "Chapter 1",
+      "joins": "Chapter 13*",
+      "img": "https://cdn.fireemblemwiki.org/thumb/c/c3/Small_portrait_jeritza_02_fe16.png/64px-Small_portrait_jeritza_02_fe16.png"
+    }
+  ]
+}

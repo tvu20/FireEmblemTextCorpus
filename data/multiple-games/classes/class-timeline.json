@@ -81,7 +81,8 @@
       {
         "start": 9,
         "end": 10,
-        "gender": "Exclusive to one male character per game."
+        "gender": "M",
+        "note": "Exclusive to one male character per game."
       },
       {
         "start": 11,

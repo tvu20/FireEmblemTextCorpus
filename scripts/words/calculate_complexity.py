@@ -39,7 +39,9 @@ print("Sentences, words per sentence, characters per word, words, characters")
 # print(os.path.join(os.getcwd(), "data", sys.argv[1], "full_transcript.txt"))
 # with open(os.path.join(os.getcwd(), "data", sys.argv[1], "full_transcript.txt"), 'r') as file:
 
-with open(os.path.join(os.getcwd(), "data", "other", "textfiles", "SuperMarioBros.txt"), 'r') as file:
+filename = "StreetFighter.txt"
+
+with open(os.path.join(os.getcwd(), "data", "other", "textfiles", filename), 'r') as file:
     for line in file:
         text = line.strip()
         

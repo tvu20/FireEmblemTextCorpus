@@ -21,9 +21,6 @@ import json
 import sys
 from collections import Counter
 
-# game = sys.argv[1]
-# game = "FE2"
-
 transcript_path = os.path.join(os.getcwd(), "data", "other", "textfiles", "1.txt")
 
 words = []
@@ -49,12 +46,6 @@ with open(transcript_path,'r') as f:
         for w in text.split():
             words.append(w)
             current_chapter += 1
-
-        # stripped = text.translate(str.maketrans('', '',string.punctuation)).lower().replace("…", "")
-
-        # for w in stripped.split():
-        #     words.append(w)
-        #     current_chapter += 1
 
 with open(os.path.join(os.getcwd(), "data", "other", "textfiles", "2.txt"),'w+') as fo:
     json.dump(words, fo)

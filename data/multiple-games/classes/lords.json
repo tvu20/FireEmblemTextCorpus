@@ -1,0 +1,208 @@
+{
+  "FE1": [
+    {
+      "name": "Marth",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 26
+    }
+  ],
+  "FE2": [
+    {
+      "name": "Alm",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 21
+    },
+    {
+      "name": "Celica",
+      "gender": "F",
+      "weapon": "tome",
+      "lines": 24
+    }
+  ],
+  "FE3": [
+    {
+      "name": "Marth",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 215
+    }
+  ],
+  "FE4": [
+    {
+      "name": "Seliph",
+      "gender": "M",
+      "weapon": "tome",
+      "lines": 404
+    },
+    {
+      "name": "Sigurd",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 237
+    }
+  ],
+  "FE5": [
+    {
+      "name": "Leif",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 399
+    }
+  ],
+  "FE6": [
+    {
+      "name": "Roy",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 939
+    }
+  ],
+  "FE7": [
+    {
+      "name": "Eliwood",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 816
+    },
+    {
+      "name": "Lyn",
+      "gender": "F",
+      "weapon": "sword",
+      "lines": 772
+    },
+    {
+      "name": "Hector",
+      "gender": "M",
+      "weapon": "axe",
+      "lines": 771
+    }
+  ],
+  "FE8": [
+    {
+      "name": "Eirika",
+      "gender": "F",
+      "weapon": "sword",
+      "lines": 593
+    },
+    {
+      "name": "Eliwood",
+      "gender": "M",
+      "weapon": "lance",
+      "lines": 483
+    }
+  ],
+  "FE9": [
+    {
+      "name": "Ike",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 1782
+    }
+  ],
+  "FE10": [
+    {
+      "name": "Micaiah",
+      "gender": "F",
+      "weapon": "tome",
+      "lines": 768
+    },
+    {
+      "name": "Ike",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 679
+    }
+  ],
+  "FE11": [
+    {
+      "name": "Marth",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 263
+    }
+  ],
+  "FE12": [
+    {
+      "name": "Marth",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 368
+    },
+    {
+      "name": "Kris",
+      "gender": "A",
+      "weapon": "sword",
+      "lines": 333
+    }
+  ],
+  "FE13": [
+    {
+      "name": "Chrom",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 994
+    },
+    {
+      "name": "Robin",
+      "gender": "A",
+      "weapon": "tome",
+      "lines": 386
+    },
+    {
+      "name": "Lucina",
+      "gender": "F",
+      "weapon": "sword",
+      "lines": 196
+    }
+  ],
+  "FE14": [
+    {
+      "name": "Corrin",
+      "gender": "A",
+      "weapon": "sword",
+      "lines": 2022
+    }
+  ],
+  "FE15": [
+    {
+      "name": "Alm",
+      "gender": "M",
+      "weapon": "sword",
+      "lines": 493
+    },
+    {
+      "name": "Celica",
+      "gender": "F",
+      "weapon": "tome",
+      "lines": 339
+    }
+  ],
+  "FE16": [
+    {
+      "name": "Byleth",
+      "gender": "A",
+      "weapon": "sword",
+      "lines": 2344
+    },
+    {
+      "name": "Claude",
+      "gender": "M",
+      "weapon": "bow",
+      "lines": 825
+    },
+    {
+      "name": "Dimitri",
+      "gender": "M",
+      "weapon": "lance",
+      "lines": 740
+    },
+    {
+      "name": "Edelgard",
+      "gender": "F",
+      "weapon": "axe",
+      "lines": 646
+    }
+  ]
+}

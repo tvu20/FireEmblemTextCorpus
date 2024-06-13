@@ -1,0 +1,987 @@
+Narrator: Thirty years after the Saltiron raged across Norzelia, a vein of precious minerals was unearthed in the Kingdom of Glenbrook. From east to west, joy swept the land.
+Narrator: United at last in common cause, the Kingdom of Glenbrook, the Grand Duchy of Aesfrost, and the Holy State of Hyzante endeavored to wrest this bounty from the earth, with each nation providing expertise and resources.
+Narrator: This uneasy alliance between once-bitter enemies will herald a new era of tranquility in this long-embattled realm.
+Narrator: One after another, dignitaries from each nation arrive in Glenbrook, to solidify this accord and toast to its success. The first step on the road to peace.
+Narrator: Among those who would forge this road is Serenoa Wolffort. Inheriting the title of Lord Wolffort from his father, Symon, he must decide what foundation he would lay for this new era.
+Cutscene (Castle Wolffort: Assembly Hall)
+Symon: Welcome to Castle Wolffort, Minister Lyla.
+Symon: Allow me to express my gratitude to the Holy State. Were it not for your nation's generous efforts, this venture would never have come to fruition.
+Lyla: You are too kind, Lord Symon. You, too, have served an invaluable role in this.
+Lyla: Though I must admit...the news of the union between your son and Lady Frederica came as quite the surprise.
+Lyla: None in Hyzante considered that a bannerman of Glenbrook would join with the ruling family of Aesfrost...
+Lyla: I hear that Lady Frederica is the archduke's half sister. I must ask... How did this arrangement come to be?
+Symon: Your curiosity is only natural. This union was promised during the war—an arrangement made with the previous archduke.
+Symon: Truth be told, I am surprised one as well informed as yourself did not already know.
+Lyla: And this is your son? As I recall...
+Serenoa: Serenoa Wolffort. At your service, Minister.
+Frederica: And I am Frederica Aesfrost.
+Symon: My son still has much to learn, but I believe this marriage will herald a bright future for us all.
+Symon: For today, I intend to step down, and leave House Wolffort in Serenoa's capable hands.
+Lyla: You're abdicating your position?
+Lyla: Surprising news comes in pairs, I see. Nonetheless, I am happy for you both.
+Lyla: I imagine the lords and ladies at tonight's banquet will take great interest in the new Lord Wolffort...as will I.
+Symon: Ahahaha! Pray go easy on the boy, my lady.
+Lyla: I hear that young Lord Dragan of Aesfrost shall also be in attendance?
+Symon: Indeed. He has been appointed to oversee operations at the Grand Norzelian Mines. I understand his star in Aesfrost has seen a meteoric rise.
+Lyla: Good. I would like to hear more of this new explosive substance he means to use to blast the tunnels.
+Lyla: As a fellow scholar of sorts—if in a different field—I am always curious to learn how great discoveries are made.
+Symon: He should have arrived by now. Has anyone seen him?
+Frederica: Dragan's gone to see the city. He was halfway there before the gangplank landed on the docks.
+Lyla: ...Ah. He is your cousin, yes? I see we share an innate curiosity for new places.
+Serenoa: The banquet will begin soon. I shall seek him out and escort him there.
+Symon: Very good.
+Symon: Though I will host tonight's festivities, I want you to act as if you are already lord of the house.
+Symon: Our guests are the most esteemed personages of their respective nations. Take care not to cause offense.
+Serenoa: Of course, Father.
+Exploration (Wolffort Streets)
+During Exploration
+Entering exploration phase:
+Serenoa: (CLOUD) Lord Dragan could be anywhere. I suppose this is as good an opportunity as any to speak with the common folk.
+Exiting exploration phase:
+Serenoa: (CLOUD) The banquet will begin soon. Lord Dragan and I had best not arrive late.
+Speaking with Benedict:
+Benedict: I sense you may have some questions regarding this joint mining venture. Allow me to enlighten you.
+Benedict: Combining the expertise and manpower of Norzelia's three nations, this mine will unearth the newly discovered vein of iron.
+Benedict: We hope this will prove beneficial for all parties, providing wealth and prosperity in equal measure.
+Benedict: It is said Lord Dragan's knowledge of ironworking is peerless. I could think of none more suited to oversee the mine's development.
+On repeated conversations:
+Benedict: It is said Lord Dragan's knowledge of ironworking is peerless. I could think of none more suited to oversee the mine's development.
+Speaking with Frederica:
+If you have not yet answered Frederica's question:
+Frederica: It's just like him to gallivant off with nary of word of farewell.
+Frederica: Still, I suppose this is a chance to become acquainted with my future home. How would you describe your town, Serenoa?
+Serenoa:
+Option 1: To know a town, you must take time to relish her company. That's what Erador told me, in perhaps more colorful words.
+Frederica: I haven't known Erador for long, but those words are undeniably his. Perhaps I ought to take a page out of his book as I've done regrettably little relishing since I arrived...
+Serenoa: You needn't push yourself, Frederica. Time is something we do not lack. Once matters have settled, I will give you a tour of Wolffort myself.
+Frederica: Thank you, Serenoa. I very much look forward to that.
+Option 2: It is the port at the center of commerce. A town built on taxes, but not at the expense of fair trade.
+Frederica: Indeed, this place truly is alive with the sound of coins changing hands and deals being struck.
+Serenoa: Wolffort lies in between Glenbrook and Hyzante, and merchants from near and far come here to sell their wares.
+Serenoa: It is the beating heart of our demesne, and it is my duty to ensure the safety of all within.
+Frederica: And you administer to your duty well, I see. The people are happy—of that there can be no doubt.
+Option 3: Wolffort is nestled safely behind the castle walls. It is a town at peace, and sets an example for the rest of the kingdom.
+Frederica: And the people are thankful to their lord for that, I am sure.
+Serenoa: There are always threats to the peace, however. As your encounter with the bandits proved.
+Frederica: Of course. Simply ensuring the smallest amount of safety must be a daunting task in itself.
+Frederica: You have given me much to consider.
+If you have already answered Frederica's question:
+Frederica: I believe I shall enjoy it here. I look forward to the day I can truly call it home.
+Speaking with Geela:
+Geela: There is no rest for a young lordling. All eyes will be upon you in the coming days.
+Geela: Frederica and I shall make every effort to learn the lay of the land, so that we might share the weight of your duties.
+Speaking with Anna:
+Anna: By your request, Benedict and I shall take part in the tourney.
+Anna: May we bring victory to House Wolffort.
+Speaking with Erador:
+Erador: I still can't believe Travis and his feral spawn attacked your dear bride-to-be like that...
+Erador: ...I'm just glad we got there before any real harm could be done, milord.
+On repeated conversations:
+Erador: I still can't believe Travis and his feral spawn attacked your dear bride-to-be like that...
+Speaking with Wolffort Townsperson #1 (M):
+Wolffort Townsperson #1 (M): I can scarce remember the last time Glenbrook was host to such a marvelous tourney.
+Wolffort Townsperson #1 (M): Who among the nations will win glory? Which will be known as the fiercest in all Norzelia? I mean to be there when history is made.
+Speaking with Wolffort Townsperson #2 (M):
+Wolffort Townsperson #2 (M): I heard tell Prince Roland is shirkin' his duties at the castle once again. Thank heavens that shiftless child isn't in line for the crown...
+Speaking with Wolffort Townsperson #3 (F):
+Wolffort Townsperson #3 (F): My husband works from dawn till dusk at the port, lifting crates and who knows what else. It's honest work, though, and the backbone of our livelihoods besides.
+Speaking with Child #1 (F):
+If you have not yet answered Child #1 (F)'s question:
+Child #1 (F): We're playin' hide-and-seek till Da comes home. I need to find a place to hide, and quick!
+Serenoa:
+Option 1: Ah, one of my favorite games. Barrels were always my favorite places to hide.
+Child #1 (F): Barrels! I would've never thought of that, milord! Hehe, they'll never find me now!
+Serenoa: I speak from experience—they won't. However, there may be even better hiding places to be found around town.
+Child #1 (F): ...You're right, milord. I'll find a hidin' place no one's ever thought of before!
+Option 2: It takes a clever mind to hide. Perhaps you can use that cleverness to help your father when you're older.
+Child #1 (F): Da's always sayin' he can't wait to show me the ropes!
+Serenoa: I'm certain he'll be happy to. And I'm certain you'll be happy to learn.
+Child #1 (F): If it makes Da happy, then I'll learn whatever I need to!
+Option 3: Take care not to hurt yourself. Your father wouldn't want anything bad to happen to you.
+Child #1 (F): I will... Da got awful mad when I climbed up on the rooftops. Awful mad...
+Serenoa: That anger comes from a place of concern. I'm not saying you shouldn't hide, but...promise you'll keep your safety in mind?
+Child #1 (F): Aye! A promise with milord is as good as gold. Da will be glad to hear it!
+If you have already answered Child #1 (F)'s question:
+Child #1 (F): They'll be lookin' for me soon. I'd best find a spot—a safe one—before they catch me out in the open!
+Speaking with Wolffort Townsperson #4 (F):
+Wolffort Townsperson #4 (F): To see the peace we enjoy now, one would never think that but thirty years ago our realm was engulfed in war.
+Wolffort Townsperson #4 (F): The Saltiron War seems naught but a far-off nightmare now.
+Speaking with Wolffort Soldier #1 (M):
+Wolffort Soldier #1 (M): I've been tasked with attending you at the ceremony tomorrow, milord. May it be a joyous occasion for all.
+Wolffort Soldier #1 (M): I'm eager to hear your speech, and even more eager to see you triumph at the tourney!
+Speaking with Wolffort Soldier #2 (M):
+Wolffort Soldier #2 (M): There's been nothin' amiss, milord. Another quiet day.
+Speaking with Wolffort Merchant (M):
+Wolffort Merchant (M): Ah, I must make ready for the wedding ceremony. What gift would best suit the union of you and Lady Frederica? Hmm...
+Wolffort Merchant (M): It's an impossible choice! Perhaps an audience with Lord Symon will spark inspiration.
+Speaking with Saltmonger (M):
+Saltmonger (M): The most esteemed personages from each nation will be attending the ceremony, I hear. A veritable melting pot of politics!
+Saltmonger (M): Such an opportunity to meet and speak with your peers must not be wasted, my lord!
+Speaking with Dragan:
+Dragan: This town is prosperous, and its people have faith in their lord. An impressive achievement, by my experience.
+Serenoa: You are too kind, Lord Dragan.
+Dragan: Ah, my apologies, but you are...?
+Serenoa: The apology should be mine. I'm Serenoa Wolffort.
+Serenoa: I've come to remind you to return to the castle before the banquet begins. Certain parties were quite insistent.
+Dragan: Of course. I appreciate the consideration. I would like to explore the town a while longer, but rest assured I shall be punctual in my arrival.
+On repeated conversations:
+Dragan: I would like to explore a while longer, so long as time allows.
+Speaking with Child #2 (M):
+Child #2 (M): Greetings, milord! My friends and I are playin' hide-n-seek!
+Speaking with Wolffort Townsperson #5 (F):
+Wolffort Townsperson #5 (F): A lot of folk have come to town for the ceremony. I even saw a man earlier wandering about in wide-eyed wonder.
+After Exploration
+Title Card: At the banquet...
+Dragan: I thank you for your hospitality today, Lord Serenoa.
+Serenoa: Think nothing of it. Did you enjoy the city, Lord Dragan?
+Dragan: Quite. Its people are full of life and love for their lord. That says all I need to know about House Wolffort.
+Serenoa: You honor us with your words.
+Dragan: I am only being frank. Frederica is the sister of the archduke, after all, and my cousin besides.
+Dragan: I would not see her marry into an unworthy house. Suffice to say my expectations were exceeded.
+Serenoa: I have heard much of your ingenious contributions to the mining efforts. I sense prosperous days are ahead of us.
+Dragan: As do I. Finally, our nations enter into an age unfettered by war.
+Dragan: With Aesfrost's iron, Hyzante's salt, and Glenbrook's mediation, there is no limit to what we can achieve.
+Dragan: We must regard each other as equals, and forge mutually beneficial relationships.
+Lyla: I sense skepticism in your words, Lord Dragan. Do you mean to imply our relations are not already mutually beneficial?
+Dragan: I need not imply anything. The salt tax you claim makes my case more than clear.
+Lyla: Bold words from one so young. Is that how peers speak to one another?
+Dragan: Perhaps the young ones, yes. What do you think, Lord Serenoa?
+Serenoa: Dissatisfaction with the salt tax was one cause of the war, was it not?
+Lyla: "Salt is a divine boon—a gift from the Goddess to Her true believers."
+Lyla: This is the foundation of the Teachings that guide us in Hyzante.
+Lyla: By allying with Aesfrost, do you mean to gainsay our most fundamental beliefs?
+Serenoa: Of course not, Minister. We understand that the Source is Norzelia's sole supply of salt.
+Serenoa: And we would not deny that it is the Holy State's right to harvest and tax it as you see fit.
+Lyla: Thank you for acknowledging that. Though it strikes me that your words are measured...
+Dragan: You needn't be so noncommittal, Lord Serenoa. It is only reasonable that the three of us have differing opinions on the matter.
+Dragan: However, that is all the more reason for us to be open to frank discussion.
+Serenoa: ......
+Symon: Honored guests, pray forgive my son.
+Symon: We of House Wolffort are but simple warriors. I am afraid matters of finance and politics do not come to us naturally.
+Symon: This, however, I can say: we will fight injustice and tyranny wheresoever it may be.
+Symon: Of course, we do not enjoy conflict. Still, we will not hesitate to defend our land and our people should the need arise.
+Symon: No matter how mighty the threat, we will fight for home and kingdom.
+Lyla: Yes, Lord Symon. Of that, we are keenly aware.
+Dragan: I apologize if I spoke out of turn.
+Dragan: But the fact remains that as every winter passes, the tension between our nations grows. And salt is the cause.
+Dragan: The common folk have all but forgotten its taste. I simply want to ease their suffering.
+Lyla: The Ministry I oversee is committed to the preservation of life. I personally believe that salt should not be a luxury reserved for the privileged few.
+Lyla: All those who live require it, not just those lucky enough to be born within the borders of our Holy State.
+Dragan: You...agree with me, then?
+Lyla: How I feel matters little. In Hyzante, the word of the Goddess—as conveyed to us from the lips of the hierophant—is absolute.
+Lyla: But perhaps this joint mining venture of yours may lead to the change you seek.
+Symon: Indeed. We must set our gazes to the future. All of us.
+Symon: I expect you will be the ones to usher us into a new era.
+Serenoa: Yes, Father...
+Side Story (Whiteholm Castle)
+The children of the crown speak of their father, King Regna.
+
+Cutscene (Whiteholm Castle: Gardens)
+Cordelia: Father spoke not a single word to me today. Before long, I fear I might forget the sound of his voice...
+Frani: Please, Sister. You weep and wail like a common girl. Show some composure.
+Frani: Father has a kingdom to rule—a kingdom engaged in a historic endeavor. He has more important duties than to pamper a spoiled child.
+Cordelia: I... Yes, of course, Brother.
+Roland: You speak as if Father's "duties" include anything more than licking the boots of these dignitaries.
+Roland: It is inconceivable he cannot spare the time to break bread with his daughter.
+Frani: You speak out of insolence and ignorance, Roland.
+Roland: I speak only the truth.
+Roland: He leaves all the cumbersome tasks to the Wolfforts and Minister Patriatte...
+Frani: A king's word is to be obeyed.
+Roland: And what of his subjects? Do they exist simply to bring him glory? To take the blame for his failures?
+Frani: They are to serve as he sees fit.
+Roland: ...The hell they are.
+Frani: Believe as you wish. Speaking of his subjects, it appears lordship of House Wolffort will be passed down to young Serenoa.
+Roland: What!?
+Frani: How fortunate for you, to have a friend in the new lord.
+Frani: Best not to take loyalty for granted, however. House Wolffort is obedient enough for now, but that can change as quickly as the wind.
+Frani: Use them well when you can, but be ready to bring down your fist if they dare to rise above their station.
+Roland: (SHARP) Don't speak of them like lapdogs! They're not servants—they're my friends!
+Frani: Do you really think to lead with such a soft heart!? You are not fit to wear the royal signet!
+Cordelia: Stop this fighting at once! You frighten me!
+Roland: ...Enough of this.
+Cordelia: Where are you going, Brother?
+Roland: To train with Ser Maxwell. I would clear my head.
+Roland: There is a tourney on the morrow, after all.
+Cordelia: Brother...
+Cutscene (Whiteholm Bridge)
+Roland: Ungh... I yield.
+Maxwell: Your spear wavers, my prince. Something weighs on your mind.
+Roland: You've always been able to see through me.
+Maxwell: It's no great feat. Your heart lies ever on your sleeve.
+Roland: Do I hear disapproval in your voice?
+Maxwell: Not exactly, my prince. It can be a weakness, yes, but it can also be your strength.
+Maxwell: After all, sometimes a direct strike is most effective at piercing a formidable defense.
+Roland: I will take those words to heart, Ser Maxwell. Thank you for today.
+Maxwell: The pleasure was mine. I expect a good fight from you tomorrow—in the final match, no doubt.
+Roland: I take the field with House Wolffort. Together, I have no doubt we can emerge triumphant.
+Maxwell: Ah, that would explain your improvement. Young Serenoa is a worthy training partner.
+Maxwell: Even so, I have no doubt you've held your own against him. Tomorrow you shall show the realm what I already know: that you are a warrior worthy of your family's legacy.
+Roland: Ser Maxwell, I...
+Roland: Sometimes I wish I wasn't a prince. Sometimes I wish I'd been born your son instead.
+Maxwell: Surely you jest, Your Highness.
+Maxwell: Your father is a great king—and an even greater man. It is an honor to serve him as I do.
+Roland: Apologies...I forget myself. I must've taken quite a blow.
+Roland: Anyhow, I suppose I should rest till the morrow. Be well, Ser Maxwell.
+Maxwell: It cannot be easy being the youngest prince. To have others expect nothing from you, yet still shake their heads in disapproval.
+Maxwell: But you can rise above this, my prince. Seize your chance, and lay everyone's doubts to rest once and for all...
+Main Story (Castle Wolffort)
+The banquet ends without incident and everyone breathes a sigh of relief. Dragan, however, has something on his mind.
+
+Cutscene (Castle Wolffort: Assembly Hall)
+Dragan: Now that's what I call a feast!
+Dragan: You've landed quite the catch, Frederica. He is a good man—I can see it in his eyes.
+Serenoa: You are too kind, Lord Dragan.
+Dragan: And humble as well! Are you impressed as I, Frederica?
+Frederica: I can tell that your heart is pure and gentle, milord.
+Serenoa: Lady Frederica...
+Frederica: Forgive me if I caused offense. I thought only to return your sincerity in kind.
+Serenoa: No apologies are needed. I am...happy to meet your approval.
+Frederica: I— Thank you, my lord.
+Dragan: Ahaha! Words come so easily to the both of you! A perfect match!
+Serenoa: Forgive my curiosity. What sort of life did Lady Frederica lead in Aesfrost?
+Dragan: Her life? Truth be told, my dear Serenoa, not a pleasant one. Those of Rosellan blood are looked down upon in Aesfrost—even if they are the daughter of the archduke's concubine.
+Dragan: Gustadolph's full siblings are the worst of the lot. They have not a shred of human compassion between them.
+Dragan: They cruelly bully the girl endlessly, regardless of time or place.
+Serenoa: Is this...?
+Dragan: True? Of course it is! I know Frederica's suffering all too well.
+Dragan: My own father lived ever in the shadow of his elder brother—the former archduke. Our house, too, is met with sneers by those who consider themselves our betters.
+Dragan: But no more! I shall show all those simpering fops that it is not birth that makes greatness, but deeds!
+Dragan: And so I did my due research at the Archives, that my grand invention shall blast our way forward! Ahaha!
+Frederica: Dragan, please. I believe you've had enough to drink.
+Dragan: You can hardly blame me for availing myself of Glenbrook's finest libations, brought by traders from the realm over!
+Dragan: Each cask more exotic than the last! Why, to not partake would be an affront to our newfound allies!
+Serenoa: Just make sure your head is clear for tomorrow. Or have you forgotten you're meant to be representing your nation?
+Dragan: Ah, yes. A...a ceremony to usher in a new age of harmony and prosperity.
+Dragan: I am too young to have known the war, so I...I see our three nations joining hands more as a matter of expedience.
+Dragan: But what of you, my kin-to-be? How do you see our grand cooperative venture?
+Serenoa:
+Option 1: It is the first step towards true harmony among our three nations. I welcome it.
+Serenoa: It is the first step towards true harmony among our three nations. I welcome it.
+Dragan: I see. I admire your optimism, even if I cannot say I share it...
+Serenoa: I know that old grudges die hard. Still, I choose to believe we can overcome our differences.
+Dragan: Ahaha! Truly a kindhearted soul, you are!
+Dragan: And people are ever eager to follow a kind heart over a wicked one. Yes, I suspect it shall be your strength going forward...
+Option 2: It will benefit all nations involved. I see nothing wrong with that.
+Serenoa: It will benefit all nations involved. I see nothing wrong with that.
+Dragan: Indeed... I didn't know you had such a mercantile mind, Serenoa.
+Serenoa: Coin drives the hearts of men and nations alike. I suspect all parties wouldn't be so eager to join hands if not for the promise of profit.
+Serenoa: And when we're all able to fill our coffers, perhaps we can finally let go of old grudges.
+Dragan: A sensible perspective. I didn't know you had such a practical mind.
+Option 3: It is impossible to understand each nation's motivations. I can't say whether this bodes well...
+Serenoa: It is impossible to understand each nation's motivations. I can't say whether this bodes well...
+Dragan: Interesting. You are the first I've spoken to to express such skepticism. And yet...you may see more clearly than most.
+Serenoa: Like as not, it is a baseless worry.
+Dragan: It is a lord's place to worry.
+Dragan: We may at last share a common goal, but our motivations differ. The future is murky, no matter how brightly some may try to paint it...
+Dragan: My new cousin has the intuition of a leader, I see. Or perhaps you're simply a worrywart. Ahaha!
+Dragan: In any event, it is always good to have another...perspective...on matters.
+Dragan: Let me tell you what I believe. I believe we're on the cusp of a great achievement!
+Dragan: As always, it is the young who must bear the burden of building the future. Old shoulders are frail; old minds, stubborn.
+Dragan: Whatever lies in our future, those who make it will mark their names in history. And mine...mine will be writ large for all to see!
+Dragan: And I would write yours next to it, my dear cousin! Pray come visit me at the mines once operations are underway, and I...I shall—
+Frederica: Dragan? Are you quite all right?
+Dragan: Worry not, Frederica! I'm just a bit—hic!—tipsy. Perhaps I should just lie...
+Dragan: ......
+Frederica: It would seem Lord Dragan has turned in for the night.
+Serenoa: Quite the passionate fellow, isn't he?
+Frederica: He's never been one to hide his ambition, ever since we were little.
+Frederica: Neither does he hide his disapproval of my brother and trueborn siblings...
+Serenoa: ...Feelings which you share?
+Frederica: I grant it would be satisfying to see the sneers of those who look down on me wiped from their faces.
+Frederica: But I also agree with Lord Symon. That we must set our gazes to the future.
+Frederica: Though I know not yet how I might best serve in this new age...I would do what I can.
+Serenoa: We are of the same mind in that regard, my lady. Let us ease the weight of each other's burdens.
+Frederica: Please, call me Frederica. We are to be husband and wife, after all.
+Serenoa: Of course, my—Frederica. Pray call me Serenoa, as well.
+Serenoa: Ah—we should carry your cousin to his chambers. Will you help me...Frederica?
+Frederica: Certainly...Serenoa. Let us take care not to wake him, lest he resume his prattle...
+Cutscene (Wolffort Castle Town: Cemetery)
+Benedict: ......
+Symon: ...Benedict. I thought I might find you here.
+Benedict: My lord.
+Symon: Did you tell her? That Serenoa would soon be taking over as lord of our house?
+Benedict: Forgive me, my lord. I did not think to—
+Symon: Save your apologies, Benedict. Doubtless she was overjoyed to hear it from you. Destra always did trust you above all her advisors.
+Symon: As do I. For thirty years, you have served my house better than I ever could have asked for.
+Benedict: You honor me, my lord.
+Symon: "My lord." Ahahaha! I suspect this will be the last night I will hear those—
+Symon: Gah! Ungggh...
+Benedict: My lord!? I will call for a healer at once!
+Symon: Do not bother, Benedict. It will avail me not...
+Symon: You know as well as I how my heart now fails me...
+Benedict: My lord...
+Symon: ...And so I entrust Serenoa to you.
+Symon: For our house, pray heed this old man's final order.
+Benedict: Certainly. I will live to serve your son, until I breathe my last.
+Symon: Did you hear that, Destra? Our boy is in good hands.
+Symon: My old, dear friend. Long have we stood together...
+Benedict: ...I will not let you down, my lord.
+Main Story
+Symon gathers the members of House Wolffort to announce his abdication.
+
+Cutscene (Castle Wolffort: Assembly Hall)
+Symon: My beloved son, Serenoa, will oversee the matters of our house from this day forward.
+Symon: I expect you to serve him as dutifully as you served me.
+Benedict: Of course, Lord Symon.
+Erador: Aye, milord! Our undyin' loyalty to House Wolffort!
+Symon: My son, listen well. A lord's judgment shapes the fates of his kin and subjects alike.
+Symon: Responsibility for their well-being now falls on your shoulders. You must lead them well.
+Serenoa: Yes, Father. I shall keep those words close to my heart.
+Serenoa: To that end, I require wise counsel. Together, you possess a wealth of experience.
+Serenoa: As lord of House Wolffort, it is my duty to consider the best course from every perspective afforded me.
+Serenoa: I shirk not from this responsibility. At the same time, I would be a fool to not seek guidance from those more traveled than I.
+Serenoa: For my house and my people, I trust I can rely on you.
+Symon: Well spoken, my son. I daresay you are more than ready to receive this...
+Benedict: The Scales of Conviction. A holy relic, said to be blessed by the deities of old.
+Symon: It was gifted to our family by the king of Glenbrook. From this day on, I entrust it to you.
+Symon: However, it is of little use without these.
+Serenoa: Coins? Seven of them...
+Symon: Tokens of conviction, we call them. Give one each to only your most trusted retainers and allies.
+Symon: They will guide you when the path is darkest. Their words will illuminate the pitfalls ahead.
+Symon: Heed well the advice of your friends and subjects, and choose your steps carefully.
+Symon: Such has been the way of our house, and such you must see it always shall be.
+Serenoa: I will, Father.
+Serenoa: I shall treasure these gifts, and make wise use of them in times of need.
+Symon: Very good. Now do your duty, my son.
+Benedict: We await your orders, my lord.
+Serenoa: We depart for the capital at once. May this ceremony be but the first of many joyous occasions ahead of us!
+Wolffort Soldiers: (SHARP) For House Wolffort!
+Narration
+Narrator: And so the stewardship of House Wolffort passes from father to son. Lord Symon Wolffort, beloved throughout Glenbrook, entrusts the future to young Serenoa.
+Narrator: With the ceremony to mark the beginning of the joint mining venture and a tourney on the horizon, the Wolfforts set forth to the crown city.
+Narrator: With no heroic deeds yet to his name, the new Lord Wolffort sets his eyes on the proving grounds, eager to show his worthiness.
+Cutscene (Whiteholm Castle: Gardens)
+Regna: So Lord Symon will step down. I suppose the time comes for us all to pass on the torch eventually...
+Regna: What wisdom has your father bestowed upon you?
+Benedict: ......
+Serenoa: He has told me what it means to be lord of a house.
+Regna: ...Very good.
+Regna: Serenoa of House Wolffort, the crown of Glenbrook now looks to you for loyal service and brotherhood.
+Serenoa: Yes, Your Majesty. I shall not disappoint.
+Cutscene (Whiteholm Castle: Gardens)
+Dragan: (SHARP) I dare you to say that again, Thalas!
+Thalas: Must you make me repeat myself?
+Thalas: I am the prime minister of Aesfrost. I and I alone am fit to represent our nation.
+Thalas: Go push your papers in the shadows like the minor lordling's son you are.
+Dragan: You would shame me!?
+Dragan: You, who would be nothing if not for your high birth! Your ineptitude is mocked by noble and commoner alike!
+Thalas: Dragan, you forget yourself!
+Frederica: You both forget yourselves!
+Thalas: Frederica!
+Frederica: If you must bray at each other, then do so back home. Your bickering will bring shame upon our nation.
+Erika: Such strong words, Sister...
+Erika: Do you think you're above us now that you're being wed to mighty House Wolffort?
+Frederica: Please, Erika...
+Serenoa: My apologies, but the ceremony will begin soon. I ask the delegates of each nation to make their preparations.
+Thalas: ...And you must be Serenoa Wolffort. Well, I suppose we should bother the happy couple no longer.
+Thalas: Well done, Frederica. I see you have inherited your mother's wiles.
+Thalas: ...She always did have a way with men.
+Erika: Too bad you also inherited her hair. That sickly pink makes me want to retch...
+Dragan: Pray forgive my cousins, Lord Serenoa. And forgive me if I was out of line...
+Serenoa: Those two. They were...?
+Frederica: Thalas and Erika Aesfrost. Full brother and sister to Archduke Gustadolph.
+Frederica: ...And my half-siblings.
+Serenoa: ...I see. Well, I hope that we can all come together for the sake of our grand endeavor.
+Exploration (Whiteholm Castle: Gardens)
+The festivities begin under the vigilant eyes of each nation's dignitaries.
+
+Before Exploration
+Regna: My honored guests, I am pleased to announce that operations at the Grand Norzelian Mines have commenced in earnest.
+Patriatte: The earth has yielded treasures more magnificent than even we had anticipated.
+Patriatte: May the mines endure for many years as a symbol of prosperity for all of our nations.
+Regna: Well said. With Hyzante's salt and capital, Aesfrost's ingenuity, and Glenbrook's raw materials and manpower, our realm's future is bright indeed.
+Regna: It is a partnership built on three pillars, each bearing equal weight. We owe a debt of gratitude for all who have supported this grand venture.
+Regna: Of particular note is Lord Dragan, whose knowledge has allowed us to so swiftly see our labor bear fruit...
+Regna: ...And House Wolffort, whose mediation has proved invaluable in forming this accord. May their deeds be forever remembered by history.
+Regna: Let us raise our cups and toast to their health and happiness!
+Guests: Huzzah! Huzzah!
+Erador: (CLOUD) Lord Serenoa's smilin' from ear to ear. Shame his parents couldn't be here to see this.
+Benedict: (CLOUD) Do not get too swept away in the moment, Erador. We have a job to do here, and the day has only begun.
+Regna: Now that the formalities are done with, let the festivities begin!
+Regna: Step forward, Ser Maxwell!
+Sorsley: So this is the one they call the Dawnspear...
+Exharme: Glenbrook's fiercest warrior. They say he has never known defeat.
+Avlora: ...I would take the measure of this man.
+Regna: Now that the foundations for peace have been laid, let us be stifled by rigid formality no longer.
+Regna: There is a tourney to be had, after all. A much more entertaining event than my endless speeches.
+Guests: Hear, hear!
+Regna: Will any among you prove a match for our Ser Maxwell, the champion of our previous challenge?
+Regna: I very much look forward to finding out. Until then, help yourselves to our hospitality—and our wine!
+Patriatte: Eat, drink, and be merry. It shall not be long until final preparations are complete.
+Roland: Our time is nigh, Serenoa.
+Roland: Ah, but I forget myself. Our time is nigh, Lord Wolffort. Congratulations, my friend.
+Serenoa: Thank you. But living up to the title will be no easy task.
+Roland: You'll do your father proud, I'm sure. Unlike some of us...
+Serenoa:
+Option 1: Have more faith in yourself, my friend. You, too, shoulder the future of the kingdom, after all.
+Serenoa: Have more faith in yourself, my friend. After all, you, too, shoulder the future of the kingdom.
+Roland: I wonder. I wonder if Glenbrook will truly flourish thanks to anything I do.
+Serenoa: Of course it will. It already has. Besides, House Wolffort is at your back.
+Roland: My apologies...and thank you. I shall strive to be worthy of your support.
+Option 2: This is no time for self-pity. A prince's subjects mustn't hear him talking that way.
+Serenoa: This is no time for self-pity. A prince's subjects mustn't hear him talking that way.
+Roland: Serenoa...
+Serenoa: However, even the strongest of us have their moments of weakness. I hope to be there for you during yours.
+Serenoa: Whatever happens, we mustn't turn away from the difficulties ahead of us.
+Roland: ...You're right, of course. A member of the royal family should not be so maudlin.
+Roland: Thank you for reminding me of that, my friend.
+Option 3: ...Come. Preparing for the tourney will take your mind off your worries.
+Serenoa: ...Come. Preparing for the tourney will take your mind off your worries.
+Roland: Training!? And here when your friend is troubled by doubt.
+Serenoa: Did you expect me to comfort you as your wet nurse once did?
+Roland: Your new title has made you bold!
+Roland: Just because you've become lord, it doesn't mean I'll sit back and take your barbs unanswered!
+Serenoa: Haha! Now that's the Roland I know!
+Roland: Hmph. At least my wet nurse wasn't so smug.
+Hughette: You two are quite the pair, aren't you?
+Serenoa: Fast friends from the day we met. And you are?
+Roland: Apologies for not introducing you sooner. This is Hughette of the Kingsguard.
+Hughette: I am tasked with keeping His Highness safe...though he often seems to resent it. 'Tis a pleasure to meet you, Lord Wolffort.
+Serenoa: Ah, Prince Roland has told me much about you. I can see he is in good hands.
+Hughette: I shall see that it is so, my lord.
+Roland: Now, let us begin our preparations. Today we take the field, and today...
+Serenoa: Today, we claim victory!
+During Exploration
+Entering exploration phase:
+Serenoa: (CLOUD) I'd best greet our guests. It would also give me a chance to take the measure of my soon-to-be opponents.
+Exiting exploration phase:
+Serenoa: (CLOUD) The tourney will begin soon. I'd best head back.
+Speaking with Roland:
+Roland: With you by my side, friend, I feel we could take on the entire realm.
+Roland: I daresay we may even give the Dawnspear his first taste of defeat.
+Speaking with Benedict:
+If you have not yet answered Benedict's question:
+Benedict: My lord, before the tourney begins, I would like to ask you a single question.
+Benedict: To what end do you believe this contest is being held?
+Serenoa:
+Option 1: It's a chance for our three nations to gather and celebrate. Although the battles may be bloodless, victory is sweet all the same.
+Benedict: Hmm. While it may appear that way, my lord, the truth is more complex.
+Benedict: The tourney is a stage on which each nation will display its martial prowess, while also taking the measure of others.
+Serenoa: I see... Although we aren't at war, we still must find ways to prove our mettle.
+Benedict: Indeed. I advise you to treat this as seriously as you would war itself.
+Option 2: In times of peace there are precious few chances to display martial prowess. I mean to remind people of House Wolffort's legacy.
+Benedict: Very good, my lord. Although the weapons will be blunted, there will be victors and vanquished all the same.
+Benedict: The attendees will be curious to see a new lord's talent. Does he possess the ferocity of his forebears?
+Benedict: The answer to that question shall be determined soon, and shall ring far into the future.
+Option 3: It may appear to be mere entertainment, but reputations are at stake. If we show weakness, then it will be noted by all in attendance.
+Benedict: Just so, my lord. Each nation will show their strength, and take the measure of the others in turn.
+Serenoa: It will be a test of skill as well as mettle. I'll not treat it lightly.
+Benedict: Very good. It shall be the first of many tests to come, I am sure.
+If you have already answered Benedict's question:
+Benedict: The tourney is no mere distraction. Leave no ounce of regret on the proving grounds.
+Speaking with Frederica:
+Frederica: Ah... Thalas and Erika.
+Frederica: I wonder if those two would deign to participate in the tourney.
+Speaking with Hughette:
+Hughette: It is an honor to be allowed to fight by House Wolffort's side.
+Hughette: I shall do my utmost to bring honor to you on the battlefield!
+Speaking with Anna:
+If you have not yet spoken with Benedict:
+Anna: Lord Serenoa, there you are. Benedict has been looking for you.
+If you have already spoken with Benedict:
+Anna: Lord Serenoa, Benedict has been looking for you... Ah, but it seems you've already spoken.
+Speaking with Geela:
+If you have not yet answered Geela's question:
+Geela: Soon you will lead your first foray into battle, and Lady Frederica and I shall experience true combat for the first time.
+Geela: Do you have a stratagem in mind for the tourney?
+Serenoa:
+Option 1: Our house fights with honor. There shall be no tricks, but we will offer our opponents no quarter.
+Geela: I see. You intend to charge headlong into your first battle.
+Serenoa: Indeed. The strategy may lack subtlety, but it is honest. In times of peace, it would not do to rely on deceitful tactics.
+Serenoa: How we comport ourselves on the battlefield shall be a reflection of our conduct outside of it. I intend to make others know House Wolffort can be trusted.
+Geela: Very wise, my lord. If peace between nations is to continue, then the role of warriors must change with the times.
+Geela: However, you mustn't forsake the legacy you have inherited. I believe the course you have chosen weaves a delicate path through the two ideals.
+Option 2: You handled yourselves admirably when the bandits attacked. I expect your magic will be key to our victory.
+Geela: Is that so, my lord? To tell the truth, I hadn't anticipated such a response, but thank you for the flattery nonetheless.
+Serenoa: I was being sincere. I have faith in all my allies, else we would not be fighting together.
+Geela: Your honesty is refreshing indeed. I am not so nervous as I was a moment before.
+Geela: I shall do my best to answer your every expectation. Lady Frederica and I shall prove ourselves worthy to fight alongside you.
+Option 3: It may be but a tourney, but defeat will bring shame upon us. I intend to do whatever I must to win.
+Geela: Indeed. Doubtless many in attendance are eager to see House Wolffort's storied mettle.
+Geela: Showing them that the stories have credence will do much to solidify your position in the future.
+Serenoa: It is also a chance to test myself against the realm's mightiest. I'm eager to find out where I rank among them.
+Geela: Sometimes I forget you are a warrior yourself. 'Tis only natural to be curious as to how you measure up against your peers.
+Geela: I suppose soon enough I shall be able to call myself a warrior as well. What a strange feeling...
+If you have already answered Geela's question:
+Geela: This was an enlightening talk, my lord.
+Geela: Although we have but recently joined your house, Lady Frederica and I shall do what we can to bring honor to you at the tourney.
+Speaking with Erador:
+Erador: Yer first tourney as lord of your house, eh? I knew the day would come, but it still brings tears to my eyes to see it!
+Erador: Always remember that Benedict and I are at your back, milord. Come to us for whatever you need.
+Erador: That includes the tourney. You need someone in the dirt, milord, I'm yer man! Let's show 'em what stuff House Wolffort is made of!
+On repeated conversations:
+Erador: The air is buzzin' with anticipation, milord. This tourney'll be one for the songs, I can feel it!
+Speaking with Regna:
+Regna: You carry your father's legacy on your shoulders, young lord. Eager am I to see how it fits you.
+Speaking with Cordelia:
+Cordelia: You're joining the tourney with my brother, aren't you?
+Cordelia: Ser Maxwell has trained with him since he was little. Roland could barely stand after they sparred...
+Cordelia: But he even walks like the Dawnspear now. I'm so proud to have him as my brother!
+Cordelia: Ah, my apologies, Frani is always saying I let my emotions get the better of me. Please...keep my brother safe, will you?
+Speaking with Frani:
+Frani: With a wedding on the horizon, I imagine time must be a precious resource for you. Your life is on the cusp of great change, my young lord.
+Frani: Still, I pray you remain a faithful friend to my brother. He has his foibles, but I care for him all the same.
+Speaking with Julio:
+Julio: Today I fight by Ser Maxwell's side in the tourney. I could not envision a greater honor than this.
+Julio: May we cross swords, Lord Serenoa, and may the fight be one to remember.
+Speaking with Avlora:
+Avlora: Hmph. A predictable match, with a predictable outcome.
+Speaking with Flanagan:
+Flanagan: The soldiers here are obedient, I'll give them that. I can't say the same for Aesfrost's military.
+Flanagan: For better or worse, in Aesfrost we value freedom over all else. Those with the drive to succeed naturally rise to the top.
+Flanagan: Though your kingdom's lords and ladies might view us as a rabble of ambitious upstarts...
+Flanagan: We aren't beholden by tradition in Aesfrost. If you've ever any interest in seeing what true freedom looks like, you're welcome any time.
+Serenoa: (CLOUD) A country where one is judged by ability, and not birth. It certainly has produced some formidable personages...
+Serenoa: (CLOUD) I shall have to visit whenever time allows.
+On repeated conversations:
+Flanagan: For better or worse, in Aesfrost we value freedom over all else. Those with the drive to succeed naturally rise to the top.
+Speaking with Dragan:
+Dragan: Is it true that General Avlora will be taking the field in the tourney?
+Dragan: The right hand of the archduke, rivaled only by her lord in ferocity. I doubt she judges a friendly competition to be worthy of her abilities.
+Dragan: Still, if she lives up to her reputation, then she wouldn't have to try hard to prove a match for even the mightiest warrior.
+Speaking with Thalas:
+Thalas: Ah, Serenoa Wolffort. How good to see you again so soon.
+Thalas: Allow me to introduce myself. I am Thalas Aesfrost, at your service. I suppose soon I shall be calling you my brother-in-law.
+Thalas: This is quite the castle you have. Full of history and great deeds. I hope that one day fate sees it fit to deliver me one so grand.
+On repeated conversations:
+Thalas: This is quite the castle you have. Full of history and great deeds. I hope that one day fate sees it fit to deliver me one so grand.
+Speaking with Erika:
+Erika: I suppose we haven't formally met yet... I'm Erika Aesfrost.
+Erika: Yes, Frederica is my sister. Although I hardly think of her as such.
+Erika: This country is...old, for lack of a better word. I'm certain it will fit her sensibilities perfectly.
+On repeated conversations:
+Erika: This country is...old, for lack of a better word. I'm certain it will fit Frederica's sensibilities perfectly.
+Speaking with Exharme:
+Exharme: You are the new lord of House Wolffort, yes? I have seen you from afar, but I believe this is the first time I've had the pleasure of speaking with you.
+Exharme: Even now the common folk sing of your house's bravery during the Saltiron War.
+Exharme: However, I suspect it shan't be long before they sing of House Marcial's deeds instead. I look forward to seeing you at the tourney, Lord Serenoa.
+Speaking with Sorsley:
+Sorsley: I am Sorsley Ende, but I am sure you know that. I have the honor of being one of the Saintly Seven.
+Sorsley: The duties of a young lordling are many, but I trust you are more than capable. May this mine bring prosperity to us all.
+Sorsley: Such a massive endeavor is bound to be fraught with danger. If you or yours ever require medical treatment, pray visit the Ministry of Medicine.
+Sorsley: We are blessed with the finest medical minds in Norzelia, but our facilities aren't open to just anyone. Mention my name, however, and every service shall be at your disposal.
+Serenoa: (CLOUD) I've heard tell of the Ministry. It's said that even the most grievous wounds can be treated there.
+Serenoa: (CLOUD) I'd very much like to see how such miracles are performed.
+On repeated conversations:
+Sorsley: The Ministry is not open to all, sadly. However, mention my name and its doors are sure to open to you.
+Speaking with Lyla:
+Lyla: Congratulations on your recent appointment as lord. I am sure the entire realm will celebrate the occasion.
+Lyla: Lord Symon has ever been a dear friend to us. Pray do not hesitate to come to us in times of need.
+Speaking with Clarus:
+Clarus: Ah, young Lord Wolffort. Thank you for the honor of including me among such esteemed company.
+Clarus: Each face I see is more impressive than the last. Even members of the Saintly Seven have deigned to step foot upon our shores.
+Clarus: Of course, I have had many dealings with Hyzante in the past. I am taken to understand all are equal in the eyes of their Goddess, and even those not of noble birth can achieve prestigious stations.
+Clarus: I intend to use this opportunity to avail myself of this famed equality, and perhaps win the ear of a saint in the process.
+Serenoa: (CLOUD) A country where station is decided not by birth? I was not aware Hyzante's Goddess was so equitable in Her judgment.
+Serenoa: (CLOUD) I would very much like to make time to visit.
+On repeated conversations:
+Clarus: I have had many dealings with Hyzante in the past. I am taken to understand all are equal in the eyes of their Goddess, and even those not of noble birth can achieve prestigious stations.
+Speaking with Patriatte:
+Patriatte: You must be Lord Wolffort. I am Patriatte, patriarch of House Konsar.
+Patriatte: By King Regna's grace, we were chosen above all others to attend this momentous ceremony. 'Tis an honor, truly.
+Patriatte: All we have, we owe to our king. Let us continue to serve him as well we can.
+Speaking with Glenbrook Noble #1 (F):
+Glenbrook Noble #1 (F): Stories of Minister Exharme's skill have reached even the lips of my servants. I very much look forward to learning the truth of these tales.
+Speaking with Glenbrook Noble #2 (F):
+Glenbrook Noble #2 (F): I passed a group of soldiers clad in black armor on the way here. Are those Aesfrost's storied Blackirons?
+Speaking with Glenbrook Noble #3 (F):
+Glenbrook Noble #3 (F): I mean to question any Aesfrosti I can about the Archives.
+Glenbrook Noble #3 (F): It is said that within the Archives' countless tomes lies the answer to any and all questions that have ever been asked. You only need seek them out.
+Serenoa: (CLOUD) A house of boundless knowledge... That's certainly something I'd like to see with my own eyes.
+On repeated conversations:
+Glenbrook Noble #3 (F): It is said that within the Archives' countless tomes lies the answer to any and all questions that have ever been asked. You only need seek them out.
+Speaking with Glenbrook Soldier #1 (M):
+Glenbrook Soldier #1 (M): I hear the Dawnspear is returning to defend the title he won at the previous tourney. Let's hope he hasn't been resting on his laurels!
+Speaking with Glenbrook Soldier #2 (M):
+Glenbrook Soldier #2 (M): I've never seen a woman—or a man, for that matter—quite like Minister Lyla...
+Glenbrook Soldier #2 (M): Beautiful, elegant, and brilliant. What I wouldn't give to serve under someone like her!
+Glenbrook Soldier #2 (M): Word has it her new assistant is a strapping young researcher, said to be well versed in ice magic...
+Glenbrook Soldier #2 (M): ...Ah, I knew I should've spent more time at my books instead of in the training yard...
+Serenoa: (CLOUD) I'd very much like to see the skill of Minister Lyla's new assistant for myself. Perhaps I will, and sooner rather than later.
+On repeated conversations:
+Glenbrook Soldier #2 (M): Minister Lyla's new assistant is said to be well versed in ice magic, and a strapping young lad besides...
+Speaking with Glenbrook Soldier #3 or #4 (M):
+Glenbrook Soldier #3 (M): Let us hope this tourney brings the same thrills as last year's. I won't soon forget the final bout between Lord Symon and the Dawnspear.
+Glenbrook Soldier #4 (M): Aye, 'twas a match for the histories. 'Tis a shame Lord Symon won't be here to have another go at it.
+Glenbrook Soldier #4 (M): His son is representing House Wolffort this year, I hear. I don't reckon one so green can stand against the likes of the Dawnspear, but I've seen stranger things...
+Glenbrook Soldier #3 (M): Let us hope this tourney brings the same thrills as last year's. I won't soon forget the final bout between Lord Symon and the Dawnspear.
+Glenbrook Soldier #4 (M): Aye, 'twas a match for the histories. 'Tis a shame Lord Symon won't be here to have another go at it.
+Glenbrook Soldier #4 (M): His son is representing House Wolffort this year, I hear. I don't reckon one so green can stand against the likes of the Dawnspear, but I've seen stranger things...
+Speaking with Glenbrook Soldier #5 (M):
+Glenbrook Soldier #5 (M): I hear the Bloody Shield himself will be fighting on behalf of Aesfrost during this year's tourney.
+Glenbrook Soldier #5 (M): He's the captain of the duchy's elite hawkriders and a fierce hawkshield himself. I look forward to seeing the man in action.
+Speaking with Aesfrosti Soldier (M):
+Aesfrosti Soldier (M): You're from House Wolffort, yes? Your reputation is formidable, to be sure, but Aesfrost's military is second to none.
+Aesfrosti Soldier (M): Day and night we train, and I daresay even our rank and file would be a match for any other army's elite troops.
+Aesfrosti Soldier (M): Why, just the other day, we managed to capture a particularly dangerous smuggler. He was swift as a horse and as deadly with a bow as any man alive. I even broke a bone in the process!
+Serenoa: (CLOUD) His skill would have doubtless made him a capable soldier... It's a wonder what disparate paths our choices send us down.
+On repeated conversations:
+Aesfrosti Soldier (M): We managed to capture a particularly dangerous smuggler just the other day. He was swift as a horse and as deadly with a bow as any man alive. I even broke a bone in the process!
+Speaking with Maxwell:
+Maxwell: I've trained the prince since he was scarcely old enough to hold a spear. I have a great interest in seeing his performance at the tourney.
+Maxwell: I would wish you good luck, but I would rather your skill carry you to victory.
+Speaking with Milo:
+Milo: I understand your mettle shall be on display at the tourney, my lord. May it leave an impression on all in attendance.
+Speaking with Landroi:
+Landroi: Lord Serenoa, I understand the Wolffort name is now in your hands. Allow me to reintroduce myself as your peer.
+Landroi: I am Landroi Falkes, lord of one of Glenbrook's three high houses.
+Landroi: This tourney will be your first and best chance to show the skill of Wolffort's new generation.
+Landroi: You have my support. May you find success deserving of a high house.
+On repeated conversations:
+Landroi: This tourney will be your first and best chance to show the skill of Wolffort's new generation. May it bring you victory and glory.
+Speaking with Silvio:
+Silvio: Lord Serenoa, congratulations on your recent appointment.
+Silvio: The news of Lord Symon's abdication was sudden, to be sure, but all lords must give up their position in time.
+Silvio: Still, I am certain having that immense responsibility thrust upon you at such a young age must be trying indeed.
+Silvio: If you ever require counsel, or simply a sympathetic ear to bend, do not hesitate to call upon House Telliore.
+On repeated conversations:
+Silvio: If you ever require counsel, or simply a sympathetic ear to bend, do not hesitate to call upon House Telliore.
+Battle: The Tourney (Whiteholm Castle: Gardens)
+The tournament begins with Serenoa representing the Kingdom of Glenbrook.
+
+Before Battle
+Regna: The combatants have arrived, and the stage has been set. Let us introduce the champions who will fight for the glory of their nations!
+Regna: Fighting for the honor of the Grand Duchy of Aesfrost: General Avlora!
+Regna: Fighting for the honor of the Holy State of Hyzante: Minister Exharme Marcial!
+Regna: Fighting for the honor of the Kingdom of Glenbrook: House Wolffort!
+Regna: And last, but not least—the victor of our previous tourney, Ser Maxwell, the Dawnspear!
+Guests: Hurrah! Hurrah!
+Avlora: The Wolffort lordling is here in his father's stead, I see.
+Exharme: Lord Symon's heroics on the battlefield are the stuff of legend. A pity I couldn't match swords with him today...
+Serenoa: You will match swords with me. I promise to make it every bit as exhilarating as Father would.
+Avlora: You have his spirit, if nothing else.
+Exharme: Indeed. I look forward to crossing swords with you.
+Regna: The combatants have assembled. Now, let the battles begin!
+Regna: I shall announce our first pairing, as chosen by lots...
+Regna: Minister Exharme and Lord Wolffort! Make ready for combat!
+During Battle
+Upon first turn:
+Sorsley: Heh... Be gentle, my lords. I am not as strapping as once I was.
+Exharme: I expect no quarter from you, Prince Roland. Nor from you, Lord Serenoa. Show us the swordplay your house is so famous for.
+Serenoa: They're two of Hyzante's most famed generals. We'll have no room for mistakes.
+Roland: Then we shall make none. Now, let us show the realm the mettle of the new generation!
+Serenoa: For honor and glory!
+Upon conditionunknown:
+Exharme: You fight admirably. But you will not claim victory so easily!
+Roland: Their numbers are few, but they are fierce! Stay focused and drive them back!
+Upon Serenoa taking significant damage:
+Serenoa: I knew victory would not come easily, but this is too much...
+Sorsley: Heh... You'd best yield, before an injury cuts your bright future short.
+Upon Exharme taking significant damage:
+Exharme: Goddess, I thank you for your blessing this day. A worthy foe is a glorious gift indeed.
+Sorsley: You find the Goddess in odd places, Exharme. This trifling tourney will bring Hyzante neither riches nor glory.
+Exharme: The Goddess works in myriad ways, Minister Sorsley. You would do well to keep your eyes attuned.
+Upon Exharme's defeat:
+Exharme: I asked for no quarter, and you did not disappoint. Perhaps one day we can fight as allies.
+Exharme: Minister Sorsley, I leave the rest in your capable hands.
+Upon Sorsley's defeat:
+Sorsley: Ungh... My old wounds flare up again. I can fight no further.
+Sorsley: ...Exharme. I will leave you to fight for the glory of Hyzante.
+Upon Serenoa's defeat:
+Serenoa: Urgh! Their reputation is well deserved...
+Serenoa (if Roland has not yet fallen): But the day isn't lost yet. Roland, I trust you to see us through to victory.
+Upon Roland's defeat:
+Roland: Damn it! I underestimated them...
+Roland (if Serenoa has not yet fallen): Don't lose heart, Serenoa! Show them that the Wolfforts never back down!
+After Battle
+Sorsley: To think they'd get the better of us...
+Exharme: Your father taught you well. You wield that greatsword with skill beyond your years.
+Exharme: Well fought. The day is yours!
+Regna: Victory goes to House Wolffort!
+Regna: Our next bout shall be between General Avlora and Ser Maxwell. May glory go to the victor!
+Cutscene (Whiteholm Castle: Gardens)
+Avlora: Stand back. This one is mine.
+Maxwell: Hmph. Very well. I accept your challenge.
+Maxwell: Whoever taught you...they taught you well.
+Maxwell: Though something tells me you surpassed your teacher long ago. Your defense is formidable.
+Avlora: ...As is yours.
+Avlora: ...I yield.
+Maxwell: ......
+Regna: Victory goes to Ser Maxwell!
+Maxwell: (CLOUD) My hand... I can't feel it...
+Maxwell: (CLOUD) So that was General Avlora. I pray never to meet her on the battlefield...
+Cutscene (Whiteholm Castle: Gardens)
+Maxwell: There will be no quarter given today, young lord of House Wolffort.
+Serenoa: I would expect nothing less.
+Scene cuts to black
+Serenoa: Huh? Where am I...?
+Serenoa: Gah...
+Roland: Ah, you're awake.
+Roland: And none the worse for wear, considering the blow you took from Ser Maxwell.
+Serenoa: ...He was too strong for us in the end.
+Roland: Today, yes. But let us keep at our training. One day, the students will surpass their master.
+Serenoa: Let us work hard for that day, my friend.
+
+Narrator: Aesfrost's forces have breached the once-proud walls of Whiteholm, and now overrun its majestic halls, leaving only death and destruction in their wake.
+Narrator: Like bloodthirsty beasts they search, eager to carry out Archduke Gustadolph's orders to kill any member of the royal family on sight. With the very future of the kingdom hanging in the balance, Serenoa hurries to the throne room as fast as his legs can carry him...
+Cutscene (Whiteholm Castle: Throne Room)
+Cordelia: Do they...do they mean to hurt us?
+Maxwell: They will do no such thing, my princess. Not so long as I draw breath.
+Gustadolph: Cease the vainglorious theatrics. The city is mine now, and not a soul loyal to His Grace still lives.
+Gustadolph: You are all that remains. Not even the Dawnspear can hope to triumph against such odds.
+Maxwell: You talk and talk, but do you have the courage to test your words?
+Regna: This is folly, Gustadolph. What madness has possessed you?
+Regna: Is this how you would take revenge for what befell your father?
+Gustadolph: Nothing so petty as that, Regna. The war and all its atrocities should remain buried in the past.
+Frani: Then what drives you to commit new ones!? To tear down the future we labored so long to achieve!
+Frani: Do you think Hyzante will stand idly by while Glenbrook burns!?
+Regna: I shudder to think what ends you hope to achieve by such vile means.
+Gustadolph: You always did lack imagination. However, not even I foresaw the opportunity this foolish partnership would afford me.
+Gustadolph: As for Hyzante...she shall meet the same fate as your beloved kingdom before long.
+Regna: Whatever your aims may be, you'll never—
+Roland: Father! Are you hurt!?
+Regna: Roland!?
+Cordelia: Brother!
+Frani: You imbecile! Why do you return!?
+Roland: Be grateful to see me for once! I wasn't about to leave you to these wolves!
+Frani: You stone-headed brat...
+Gustadolph: If it isn't my dear Frederica and her newly betrothed. And you've brought friends...
+Serenoa: Stand down at once!
+Serenoa: On the honor of House Wolffort, we shall not let the royal family come to harm!
+Gustadolph: ...So you're the young whelp.
+Gustadolph: You have courage...if not much sense. I'll give you that.
+Gustadolph: Serenoa of House Wolffort, was it? Or is it Lord Wolffort now?
+Gustadolph: Clearly you take after your father. It was no small task to make it this far, I'm sure.
+Serenoa: And you must be Archduke Gustadolph.
+Frederica: Brother! What is the meaning of this!?
+Gustadolph: I am sorry for forcing this unpleasant scene upon you, Frederica. I had to take action...sooner than anticipated.
+Frederica: Action? What do you—
+Gustadolph: Listen well. I, Gustadolph Aesfrost, do hereby condemn the king of Glenbrook and his agents for their treacherous deeds.
+Gustadolph: Scheming to claim the riches of the Grand Norzelian Mines as their own, they slaughtered my dear cousin Dragan in cold blood.
+Gustadolph: For this most heinous crime, and for shattering the trust between our nations out of malice, I declare their punishment must be swift and final.
+Regna: So this is the lie you would weave...
+Serenoa: What mummery is this!? Dragan was killed by—
+Benedict: Silence, my lord!
+Serenoa: Benedict...?
+Gustadolph: I commend you for delivering the traitorous Prince Roland to me. He, too, must answer for his crimes.
+Gustadolph: Hand him over, and House Wolffort may yet see itself through this unscathed.
+Gustadolph: You are my dear sister's husband-to-be. Bend the knee and no harm shall befall you.
+Serenoa: I will do no such thing. We won't be party to your treachery.
+Gustadolph: Your father was ever a thorn in my side. You seem intent on repeating that history.
+Gustadolph: However, I fear you will not live long enough to accomplish it.
+Gustadolph: General Avlora. Kill them all.
+Avlora: Yes, my lord.
+Frani: Stop! I won't let you—
+Frani: (SHARP) Ugaaah!
+Roland: (SHARP) ...Brother!
+Cordelia: (SHARP) Aaaaaah!
+Regna: Ser Maxwell, leave me! Take Roland to safety!
+Maxwell: ...Yes, my lord.
+Maxwell: My prince, with me!
+Roland: (SHARP) I can't leave them! Step aside, Ser Maxwell!
+Benedict: My lord, we must flee at once!
+Serenoa: But His Grace...!
+Regna: Roland. Lord Wolffort. ...There is no saving me. The future of Glenbrook lies in your hands now!
+Roland: Father...!
+Serenoa: My prince, follow us!
+Roland: (SHARP) But I... Damn it all!
+Gustadolph: After them.
+Regna: You would once again see Norzelia bathed in blood, Gustadolph?
+Regna: Truly, you are lost...
+Gustadolph: This land has long been lost, Regna. But it need be no longer.
+Exploration (Whiteholm Bridge)
+With their pursuers closing in, Serenoa's retinue puts their faith in Ser Maxwell, who has made arrangements for an escape boat...
+
+Before Exploration
+Serenoa: This is where Ser Maxwell would have us wait.
+Anna: He is readying the boat for our escape as we speak.
+Benedict: A wise decision. No doubt the river is our only hope of getting out of the city alive.
+Benedict: The streets are overrun with Aesfrosti soldiers. Our foe no doubt searches for us on the other side of this very gate.
+Serenoa: Then we wait here, and pray for Ser Maxwell's swift return.
+Roland: Father... Frani... Cordelia...
+Hughette: And what is she doing with us!? She's with the enemy!
+Frederica: What!? No, I...I had no idea—!
+Hughette: Lies! It was your own brother that attacked the city!
+Frederica: If I had any idea he was planning such atrocities, I would have stopped him! He's... I know not what's possessed him!
+Geela: My lady speaks the truth. We are as shocked and torn by this turn of events as you.
+Erador: Enough, Hughette! We can't be clawin' at each other's throats with the Aesfrosti army lookin' to hunt us down like dogs.
+Hughette: My emotions got the better of me for a moment. Forgive me.
+Serenoa: Hughette means no ill, my lady. Her fellow members of the Kingsguard were slain before her eyes.
+Serenoa: For now, let us focus on the present. Prince Roland's safety and escape are our main concerns.
+Hughette: ...Of course.
+Benedict: These are trying times, but we mustn't let emotions cloud our judgment.
+Serenoa: ...Benedict. You stopped me from speaking the truth of Dragan's death.
+Serenoa: To what end?
+Benedict: Gustadolph would frame Glenbrook for Lord Dragan's murder and claim it as pretext for his invasion.
+Benedict: If he knew we witnessed the truth, our heads would already be on pikes.
+Serenoa: It would seem he still intends to put them there.
+Benedict: Because you spat in the face of his demands.
+Serenoa: What we know could expose his claims as the treacherous lies they are.
+Serenoa: If it came to light that Gustadolph orchestrated his own cousin's murder, no one would dare stand by his side.
+Benedict: Indeed. However, words have little substance on their own.
+Benedict: ...Especially when weighed against the power and influence the archduke commands. Your "truth" would be taken as the pathetic ramblings of a desperate man.
+Serenoa: ...Once again, your wisdom makes me feel the fool.
+Benedict: No. We are all fumbling through these dark times.
+Benedict: You spoke and acted as the lord of House Wolffort, and did so admirably.
+Serenoa: And yet my actions have put everyone in danger. Father would have known better...
+Benedict: Let us look forward, my lord, not back.
+Benedict: There are truths yet cloaked in the shadows. We must survive and see them brought to light. For these truths shall be the weapons by which we lay Aesfrost low.
+Serenoa: Thank you, Benedict.
+Serenoa: I promise to do all in my power to see us through this safely. Every last one of us.
+Benedict: I know you will, my lord. Let us await Ser Maxwell's arrival.
+During Exploration
+Entering exploration phase:
+Serenoa: (CLOUD) Ser Maxwell shall prove true to his word. We must be patient.
+Exiting exploration phase:
+Serenoa: (CLOUD) Curses! Where is the boat?
+Speaking with Roland:
+Roland: Frani... Father... What has happened?
+Roland: Damn it all! What have we done to deserve this fate!?
+Speaking with Benedict:
+Benedict: Though the duchy's aims remain unclear, it stands to reason that our own demesne as well may soon come under siege.
+Benedict: Still, at present it is our safest destination...and Prince Roland's only refuge.
+Speaking with Frederica:
+Frederica: What grudge could my brother possibly bear against Glenbrook?
+Speaking with Geela:
+If you have not yet answered Geela's question:
+Geela: Everything seemed fine throughout your betrothal and the establishment of the mines...
+Geela: What could be driving him to these evils?
+Serenoa:
+Option 1: Regardless of his motivations, he attacked us under the guise of an ally. Such an act is unforgivable.
+Geela: Forgiveness is a luxury at the present, Lord Serenoa. Would it not be prudent to know the root of what drives him first?
+Geela: Gustadolph does naught without a reason. This act was simply one link in a long chain of his design.
+Serenoa: I see. We must know what drives our enemy forward in order to anticipate where he will go.
+Geela: Just so. There is something larger at work here, loath as I am to imagine it.
+Option 2: We cannot know the reasons for his actions, but you needn't suffer his wrath on our account. Return to Aesfrost, and we shall make do somehow.
+Geela: Lord Serenoa, I understand you speak out of concern, and I thank you for it.
+Geela: However, our fates are sealed. The moment you denied him, Gustadolph commanded the execution of everyone present.
+Geela: He would not have us even if we surrendered. We are of House Wolffort now.
+Serenoa: ...You are right, of course. Frederica has suffered as much as any of us.
+Serenoa: Apologies, Geela, I spoke out of rashness before. I ask that you be Frederica's buoy, and together weather this storm with us.
+Geela: Of course, my lord. Wherever she goes, I shall not be far behind.
+Option 3: Hyzante will not stand idly by while the joint mining venture flounders. What could Aesfrost hope to gain by making two enemies?
+Geela: I cannot say for sure, but Gustadolph did what he did. Doubtless there are many facts shrouded in darkness.
+Serenoa: Do you think he has a strategy for keeping Hyzante in line?
+Geela: That, or he has reason to believe he will defeat Hyzante in battle, if it came to that.
+Geela: Either way, the Wolffort demesne lies between the two powers. A precarious position indeed.
+If you have already answered Geela's question:
+Geela: I suppose at the moment we should focus on surviving the trial at hand. Then we can seek answers.
+Speaking with Anna:
+Anna: I hear footsteps in the distance. Our pursuers draw ever closer. We won't be safe here for long.
+Anna: If Ser Maxwell does not arrive soon with our escape vessel...
+Speaking with Hughette:
+If you have not yet answered Hughette's question:
+Hughette: With Prince Frani slain, and King Regna and Princess Cordelia in Aesfrost's clutches, the crown is in a dire position.
+Hughette: Its future lies squarely on Prince Roland's shoulders. I must protect him at all costs!
+Hughette: But our enemies close in around us, and there are only so many arrows in my quiver...
+Serenoa:
+Option 1: Could Roland not flee on your hawk? That may be his best chance for survival.
+Hughette: That's...not an impossibility, but Prince Roland knows little of hawksmanship, and the two of us together could not climb high enough...
+Serenoa: I see. And the duchy's troops likely flood the castle and the city streets. You would be easy targets for their archers.
+Hughette: Indeed. It may very well be more dangerous than the alternative...
+Option 2: Circumstances aren't as dire as they seem. We only need survive tonight, and then we can seek out allies to rally around Roland.
+Hughette: Yes, of course! House Telliore and House Falkes must surely still stand.
+Serenoa: Indeed. And the Dawnspear fights by our side. My father will doubtless lend what aid he can when he recovers, as well.
+Hughette: Yes... Glenbrook has some life in her yet! I will fight with every ounce of my being today, so that we might see the morrow.
+Option 3: Such a dour outlook does not suit a Kingsguard. Keep heart—we fight for the royal family together.
+Hughette: I... My apologies, my lord. You are right.
+Serenoa: There is no need to apologize—we are all facing the stress of extraordinary circumstances. Roland included.
+Serenoa: Let us stay by his side. As subjects, and as friends.
+Hughette: Yes, my lord! Thank you. Having a stout ally such as you by our side is heartening indeed.
+If you have already answered Hughette's question:
+Hughette: We must go to battle with clear hearts, else we risk losing those we would protect. For now, I shall think of naught else but escape.
+Speaking with Erador:
+Erador: Benedict is right: the other side of this gate is likely crawlin' with Aesfrosti bastards.
+Erador: But we've gotta open it to get to the boat. When Maxwell comes, there'll be blood for sure.
+Serenoa: (CLOUD) This mechanism will open the gate. Best leave it alone for now lest we want to be met with the snarlin' faces of the Aesfrosti.
+Exiting exploration phase:
+Serenoa: (CLOUD) This mechanism will open the gate. Best leave it alone for now.
+Battle: Escape from Whiteholm Castle (Whiteholm Bridge)
+Before Battle
+Maxwell: My prince! I'm sorry to have kept you waiting.
+Maxwell: I've managed to procure a boat for our escape. It should arrive anon.
+Serenoa: Thank you, Ser Maxwell.
+Maxwell: Would that I could have done more.
+Maxwell: You did well to stand against Gustadolph. Your father would have been proud to see it.
+Erador: Let's save the pleasantries until we're through the gate, huh? Everyone ready?
+Serenoa: We are. Open the gates, Erador.
+Erador: Whatever you say, my lord! Here's hopin' we can make it through without those bastards on the shore noticing...
+Aesfrosti Soldier #1 (M): (SHARP) Over there!
+Erador: Argh, there's too many of 'em! We need to turn back!
+Aesfrosti Soldier #1 (M): Give it up! There's nowhere to run!
+Erador: Damn it! They've shut us in!
+Roland: Is this it? If this is where I fall, I'm taking these Aesfrosti bastards with me!
+Maxwell: Don't be so quick to throw your life away, my prince.
+Serenoa: Yes, we haven't lost hope yet.
+Serenoa: The boat will arrive shortly. We only need to fend them off till then.
+Roland: Can we do that?
+Serenoa: I fail to see why not...if you lend us your strength, that is.
+Roland: As if I would do aught else!
+Benedict: Form around the prince! Protect him!
+Aesfrosti Soldier #2 (M): (SHARP) The prince is on the bridge! Seize him!
+Maxwell: They pour from the castle like rats... I shall defend the rear!
+During Battle
+Upon conditionunknown:
+Serenoa: The gate to the drawbridge is shut tight. We must find a way to open it, and quickly.
+Roland: There should be a mechanism nearby.
+Upon conditionunknown:
+Maxwell: Leave our pursuers to me. Open the gate, whatever it takes!
+Upon conditionunknown:
+Aesfrosti Captain ??? #1 (M): There they are! Seize the prince!
+Upon conditionunknown:
+Maxwell: Quickly now! Before more arrive!
+Upon conditionunknown:
+Roland: It's open! Go!
+Upon conditionunknown:
+Aesfrosti Captain ??? #2 (M): Don't let them escape!
+Upon conditionunknown:
+Aesfrosti Captain ??? #2 (M): Capture the royal brat! Kill all the others!
+Upon conditionunknown:
+Serenoa: Protect the prince!
+Upon conditionunknown:
+Maxwell: No matter how many come, our blades will keep them at bay!
+Upon conditionunknown:
+Aesfrosti Captain ??? #3 (M): Capture the royal family! Kill any others who stand in your way!
+Upon conditionunknown:
+Maxwell: No matter how many come, our blades will keep them at bay!
+Upon conditionunknown:
+Roland: They've overrun the bridge already... Very well—we cut our way through!
+Upon Maxwell falling in battle:
+Maxwell: My spear...grows heavy... Keep...the prince... Unghhh...
+Upon Roland falling in battle:
+Roland: No... Not here!
+Roland: We are...bested... Cordelia... Father... Forgive me...
+After Battle
+Maxwell: The boat arrives! Come, with speed!
+Avlora: Prince Roland. Will you leave your brother unavenged?
+Roland: You!
+Avlora: Go, leave this place. The archduke will be content with your father's head.
+Roland: Never. Aesfrost will answer for its crimes today.
+Serenoa: Your Highness!
+Avlora: ...A shame. You might have lived a long life.
+Maxwell: So long as I stand, you'll do him no harm.
+Roland: Ser Maxwell!
+Maxwell: ...My prince. You are responsible for more than just your own life now.
+Maxwell: You are a leader, and must be the beacon others look to when the night is darkest.
+Maxwell: My friends of House Wolffort. I leave Prince Roland in your care.
+Roland: (SHARP) Let me go!
+Avlora: Release him to me and there may be mercy for you yet, Maxwell.
+Maxwell: 'Tis you who should be seeking mercy.
+Avlora: Must you do this? Very well...
+Maxwell: Ugh... You were only toying with me at the tourney...
+Avlora: Only a fool shows what they can do when the stakes are so trifling.
+Maxwell: I could not have said it better myself.
+Avlora: ......
+Maxwell: How do you still stand!?
+Avlora: You were this realm's fiercest warrior, Dawnspear.
+Avlora: But today your sun sets, and a new age begins.
+Side Story (Falkes Streets)
+A bird arrives at the Falkes demesne, carrying to Lord Landroi dire tidings from the crown city...
+
+Cutscene (Landroi's Estate)
+Falkes Soldier (M): My lord, please reconsider!
+Falkes Soldier (M): Aesfrost's numbers are overwhelming! We would only be sending our men to their doom!
+Landroi: I will not stand idly by as the capital burns!
+Landroi: Move, you fool! I'll go by myself if I must!
+Landroi: I'll make that bastard Gustadolph remember how true my aim is!
+Falkes Soldier (M): It's too late, my lord!
+Falkes Soldier (M): Whiteholm has fallen, and the capital has been taken.
+Landroi: ...Damn it all! Do His Majesty and the royal family still live?
+Falkes Soldier (M): There is no news, my lord.
+Landroi: Heavens be good...
+Landroi: Our dream of peace, so soon dashed asunder... And under my watch!
+Landroi: Your Majesty...pray live long enough that I might atone for my failure in person...
+Falkes Soldier (M): My lord, I fear there are other concerns... The Aesfrosti army may not stop at the capital.
+Landroi: Yes... The three high houses might still unite against them.
+Landroi: We must prepare for the worst! Raise the alarum—it's time to muster our defenses!
+Landroi: House Falkes will not surrender without a fight!
